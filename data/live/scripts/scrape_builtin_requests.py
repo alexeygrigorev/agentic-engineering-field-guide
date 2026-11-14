@@ -3,9 +3,15 @@
 Built In job listing scraper using requests + DataImpulse proxy.
 Vendored and extended from ai-engineering-field-guide/job-market/_internal/scrapers/scrape_builtin_requests.py.
 
-Scrapes 15 cities x 6 software engineering roles, excludes jobs already in
-data/all_jobs_dedup.csv (no overlap with earlier months), and takes a random
-sample per city-month.
+Same link-then-scrape process as the field guide: collect every job link per
+(city, role) from the Built In listing pages, then (download_all_html.py /
+extract_from_html.py) fetch each job page and read its JSON-LD.
+
+Scope: London, Berlin, New York x 6 software engineering roles. By default
+ALL listing pages are walked (no page sampling, no per-city cap) and jobs are
+deduplicated within the month by job id and (title, company). Per (city, role)
+the site's visible page count is written to builtin/stats_<city>_<date>.json
+so collected counts can be compared to what the site shows.
 """
 from __future__ import annotations
 
@@ -60,57 +66,11 @@ BUILTIN_CITIES = {
         "name": "New York, USA",
         "base_url": "https://builtin.com/jobs?city=New+York&state=New+York&country=USA&allLocations=true",
     },
-    "sf_bay_area": {
-        "name": "SF Bay Area, USA",
-        "base_url": "https://builtin.com/jobs?city=San+Francisco&state=California&country=USA&allLocations=true",
-    },
-    "seattle": {
-        "name": "Seattle, USA",
-        "base_url": "https://builtin.com/jobs?city=Seattle&state=Washington&country=USA&allLocations=true",
-    },
-    "austin": {
-        "name": "Austin, USA",
-        "base_url": "https://builtin.com/jobs?city=Austin&state=Texas&country=USA&allLocations=true",
-    },
-    "boston": {
-        "name": "Boston, USA",
-        "base_url": "https://builtin.com/jobs?city=Boston&state=Massachusetts&country=USA&allLocations=true",
-    },
-    "chicago": {
-        "name": "Chicago, USA",
-        "base_url": "https://builtin.com/jobs?city=Chicago&state=Illinois&country=USA&allLocations=true",
-    },
-    "toronto": {
-        "name": "Toronto, Canada",
-        "base_url": "https://builtin.com/jobs?city=Toronto&state=Ontario&country=CAN&allLocations=true",
-    },
-    "amsterdam": {
-        "name": "Amsterdam, Netherlands",
-        "base_url": "https://builtin.com/jobs?city=Amsterdam&state=Noord-Holland&country=NLD&allLocations=true",
-    },
-    "paris": {
-        "name": "Paris, France",
-        "base_url": "https://builtin.com/jobs?city=Paris&state=Ile-de-France&country=FRA&allLocations=true",
-    },
-    "munich": {
-        "name": "Munich, Germany",
-        "base_url": "https://builtin.com/jobs?city=Munich&state=Bavaria&country=DEU&allLocations=true",
-    },
-    "dublin": {
-        "name": "Dublin, Ireland",
-        "base_url": "https://builtin.com/jobs?city=Dublin&state=Leinster&country=IRL&allLocations=true",
-    },
-    "warsaw": {
-        "name": "Warsaw, Poland",
-        "base_url": "https://builtin.com/jobs?city=Warsaw&state=Masovia&country=POL&allLocations=true",
-    },
-    "remote": {
-        "name": "Remote",
-        "base_url": "https://builtin.com/jobs/remote",
-    },
 }
 
 SPAM_COMPANIES = {"Alignerr"}
+
+ROLE_STATS: dict[tuple[str, str], dict] = {}
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -257,7 +217,9 @@ def scrape_city_role(
     max_page = extract_max_page(html_p1)
 
     extra_pages: list[int] = []
-    if max_page > 1 and pages_per_role > 1:
+    if max_page > 1 and pages_per_role <= 0:
+        extra_pages = list(range(2, max_page + 1))
+    elif max_page > 1 and pages_per_role > 1:
         candidates = list(range(2, max_page + 1))
         k = min(pages_per_role - 1, len(candidates))
         extra_pages = sorted(rng.sample(candidates, k))
@@ -273,6 +235,14 @@ def scrape_city_role(
         job["search_role"] = role
         job["scraped_date"] = scraped_date
 
+    ROLE_STATS[(city_id, role)] = {
+        "city": city_id,
+        "search_role": role,
+        "site_max_page": max_page,
+        "pages_fetched": 1 + len(extra_pages),
+        "raw_cards": len(jobs),
+        "raw_unique_ids": len({str(j.get("id")) for j in jobs if j.get("id")}),
+    }
     return jobs
 
 
@@ -342,11 +312,12 @@ def scrape_city(
 
 def main():
     parser = argparse.ArgumentParser(description="Scrape Built In software dev job listings")
-    parser.add_argument("cities", nargs="*", help="Cities to scrape (default: all 15)")
+    parser.add_argument("cities", nargs="*", help="Cities to scrape (default: london berlin newyork)")
     parser.add_argument("--date", default=date.today().isoformat(), help="Date label (YYYY-MM-DD)")
     parser.add_argument("--roles", nargs="*", default=ROLES, help="Role search queries")
-    parser.add_argument("--pages-per-role", type=int, default=3, help="Max pages sampled per (city, role)")
-    parser.add_argument("--sample-per-city", type=int, default=100, help="Random sample size per city-month (0 = no cap)")
+    parser.add_argument("--pages-per-role", type=int, default=0, help="Pages per (city, role); 0 = all pages (default)")
+    parser.add_argument("--sample-per-city", type=int, default=0, help="Random sample size per city-month (0 = no cap, default)")
+    parser.add_argument("--exclude-previous", action="store_true", help="Skip ids already in data/all_jobs_dedup.csv (off by default: each month is a full snapshot)")
     parser.add_argument("--workers", type=int, default=6, help="Concurrent role threads per city")
     parser.add_argument("--seed", type=str, default=None, help="Random seed (default: scraped_date)")
     args = parser.parse_args()
@@ -355,7 +326,7 @@ def main():
     date_stamp = scraped_date.replace("-", "")
     cities = args.cities if args.cities else list(BUILTIN_CITIES.keys())
     seed = hash(args.seed or scraped_date)
-    existing_ids = load_existing_ids()
+    existing_ids = load_existing_ids() if args.exclude_previous else set()
 
     print("=" * 60)
     print("Built In Software Dev Jobs Scraper")
@@ -394,6 +365,12 @@ def main():
             with open(json_file, "w", encoding="utf-8") as f:
                 json.dump(city_jobs, f, indent=2, ensure_ascii=False)
             all_jobs.extend(city_jobs)
+
+        stats = [v for (c, _), v in ROLE_STATS.items() if c == city_id]
+        for st in stats:
+            st["kept_after_dedup"] = sum(1 for j in city_jobs if j.get("search_role") == st["search_role"])
+        with open(BUILTIN_JSON_DIR / f"stats_{city_id}_{date_stamp}.json", "w", encoding="utf-8") as f:
+            json.dump(stats, f, indent=2)
 
     if all_jobs:
         csv_file = combined_csv_path(scraped_date)

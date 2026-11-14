@@ -1,0 +1,9 @@
+[Unit]
+Description=Agentic Engineering Field Guide - monthly live dev-jobs snapshot (Built In)
+After=network-online.target
+
+[Service]
+Type=oneshot
+Environment=PATH=/home/alexey/.local/bin:/usr/local/bin:/usr/bin:/bin
+ExecStart=/home/alexey/git/agentic-engineering-field-guide-monthly/data/live/scheduled_run.sh
+TimeoutStartSec=12h

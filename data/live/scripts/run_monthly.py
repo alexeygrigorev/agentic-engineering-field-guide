@@ -27,8 +27,8 @@ def run_step(label: str, cmd: list[str]) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser(description="Run monthly Built In software dev job snapshot")
     parser.add_argument("--date", default=date.today().isoformat(), help="Snapshot date (YYYY-MM-DD)")
-    parser.add_argument("--sample-per-city", type=int, default=100, help="Random sample size per city-month")
-    parser.add_argument("--pages-per-role", type=int, default=3, help="Pages sampled per (city, role)")
+    parser.add_argument("--sample-per-city", type=int, default=0, help="Random sample size per city-month (0 = all)")
+    parser.add_argument("--pages-per-role", type=int, default=0, help="Pages per (city, role) (0 = all)")
     args = parser.parse_args()
 
     scraped_date = args.date

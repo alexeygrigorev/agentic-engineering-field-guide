@@ -1,0 +1,10 @@
+[Unit]
+Description=Run the agentic-engineering live dev-jobs snapshot on the 25th of every month
+
+[Timer]
+OnCalendar=*-*-25 06:00:00 Europe/Berlin
+Persistent=true
+Unit=agentic-jobs-monthly.service
+
+[Install]
+WantedBy=timers.target

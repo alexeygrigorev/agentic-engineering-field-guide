@@ -1,0 +1,17 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  live-pipeline:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: data/live
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv run python -m py_compile scripts/*.py
+      - run: uv run python scripts/check_config.py
+      - run: bash -n run_monthly.sh scheduled_run.sh
