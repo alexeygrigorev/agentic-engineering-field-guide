@@ -1,0 +1,163 @@
+job_id: 11580314
+title: Principal Software Engineer - Platform
+company: Arcadia
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 360 Employees
+description: |
+  Arcadia is dedicated to happier, healthier days for all. We
+  believe that there is a better healthcare world – one
+  powered by data. Our platform transforms complex, diverse
+  data into a unified foundation for health, helping
+  organizations deliver better care, boost revenue, and lower
+  costs.
+
+
+
+  We’re a team of fiercely driven individuals committed to
+  making healthcare more sustainable—and we’re looking for
+  passionate people to help us get there.
+
+
+
+  For more information, visit arcadia.io.
+
+  Why This Role Is Important to Arcadia
+
+  As our business grows, and as AI is improving, we need
+  fewer, better building blocks: less per-team glue, more
+  self-service capabilities every team builds on, so engineers
+  spend their time on customers instead of plumbing. This is
+  platform engineering at Arcadia. The role could just as well
+  be titled Developer Platform, DevEx, DevProd, or SRE.
+
+  Arcadia builds and operates the petabyte-size lakehouse, and
+  the client-facing applications that run on Kubernetes. The
+  role will span both, reporting directly to the engineering
+  VP.
+
+  What Success Looks Like
+
+  Arcadia engineers and their agents rely on platform building
+  blocks, from services and pipelines to databases, queues,
+  and storage, that come wired in with logging, metrics,
+  tracing, alerts, encryption, access controls, backups, and
+  cost tags, with sensible defaults.
+
+  Teams change their own pipelines, environments, alerts, and
+  SLOs. When something breaks, the owning team sees it first,
+  traces it to the change that caused it, and rolls it back
+  themselves. They see their own delivery numbers and cloud
+  spend, and act on them. Platform upgrades reach them as a
+  merged pull request, not a checklist. Engineers take the
+  paved road because it's the fastest way to production, and
+  platform engineers spend their time building capabilities,
+  not working tickets.
+
+  What You'll Be Doing
+
+  - Push quality attributes into the platform, especially as AI
+    increases the volume of changes: test and regression
+    gates, progressive delivery and fast rollback, supply-
+    chain and policy checks in the pipeline, and cost that's
+    visible and attributable to the teams.
+  - Run the platform as a curated internal product: find what
+    slows teams down, pick the few capabilities worth
+    building, publish the roadmap, and measure adoption,
+    delivery speed, stability, and developer satisfaction.
+  - Build software: self-service APIs, templates, and golden
+    paths for CI/CD, environments, and observability, so teams
+    get what they need without waiting on anyone. You write a
+    meaningful share of the code.
+  - Carry migrations: track usage, automate instead of handing
+    out checklists, push through the final 20%, and sunset.
+  - Manage the platform's stakeholders: say yes with
+    compromises, say no without breaking trust, bring shadow
+    platforms back onto the paved road, and make cost visible
+    to the teams that generate it.
+  - Set the technical direction and evolve the platform, and
+    coach Senior Engineers through design partnership and
+    review.
+  - Keep building out our software "dark factory" on top of our
+    internal agentic platform - we should be offloading more
+    and more to it over time.
+
+  What You'll Bring
+
+  - Both halves of platform engineering: a software engineer's
+    instinct for clean abstractions and APIs, and a systems
+    engineer's depth in cloud, Kubernetes, networking, and
+    IaC.
+  - Reliability you've owned: SLOs, observability, on-call, and
+    incident response.
+  - Customer empathy: you talk to the engineers you serve, tell
+    a real need from a loud request, and retire what nobody
+    uses.
+  - Big, long-running projects you've seen through: migrations
+    pushed past the final 20%, platforms sunset on purpose,
+    and the attention to detail both require.
+  - A clear philosophy on structuring infrastructure and
+    delivery for security, velocity, and reliability, and the
+    stories behind it.
+  - Current, hands-on production coding, the habit of figuring
+    things out (research, spike, deliver), and relentless
+    pragmatism about what's worth building.
+  - Drive to reduce toil for everyone through software.
+  - Ability to initiate and get stuff done org-wide.
+  - No healthcare background required.
+
+  Would Love for You to Have
+
+  - Regulated-data experience (HIPAA, PHI, SOC 2 or HITRUST
+    environments).
+  - A public voice through talks, writing, or open source.
+  - Experience turning an infrastructure or DevOps team into a
+    product-minded platform team.
+  - Experience building platform support that scales: support
+    tiers, office hours, docs, and developer advocacy.
+  - Experience making cloud and CI cost visible and actionable
+    for the teams that generate it.
+
+  What You'll Get
+
+  About Arcadia
+
+  Arcadia.io helps innovative providers and payers across the
+  country transform healthcare to reduce cost while improving
+  patient health. We do this by aggregating large amounts of
+  disparate data, applying algorithms to identify
+  opportunities to provide better patient care, and making
+  those opportunities actionable by physicians at the point of
+  care in near-real time. We are passionate about helping our
+  customers drive meaningful outcomes. We are growing fast and
+  have emerged as a market leader in the highly competitive
+  population health management software market and have been
+  recognized by industry analysts KLAS, IDC, Forrester, and
+  Chilmark for our leadership. For a better sense of our brand
+  and products, please explore our website.
+
+  Protect Yourself
+
+  If you have concerns about the authenticity of a job offer
+  or recruitment-related communication claiming to be from
+  Arcadia, we encourage you to verify by contacting us
+  directly at (781) 202-3600 and select option 3. For more
+  information, visit our website.
+
+  This position is responsible for following all Security
+  policies and procedures in order to protect all PHI under
+  Arcadia's custodianship as well as Arcadia Intellectual
+  Properties.  For any security-specific roles, the
+  responsibilities would be further defined by the hiring
+  manager.
+industries:
+  - Big Data
+  - Fitness
+  - Healthtech
+  - Information Technology
+  - Software
+  - Analytics
+posted_date: 2026-10-08
+url: "https://builtin.com/job/principal-software-engineer-platform/11580314"
+source: Built In

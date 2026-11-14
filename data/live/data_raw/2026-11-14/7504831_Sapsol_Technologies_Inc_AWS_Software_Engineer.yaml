@@ -1,0 +1,86 @@
+job_id: 7504831
+title: AWS Software Engineer
+company: Sapsol Technologies Inc
+location: NOR
+locations:
+  - NOR
+  - ITA
+  - POL
+  - DEU
+  - DNK
+  - FIN
+remote: true
+work_type: FULL_TIME
+company_size: 144 Employees
+description: |
+  We are looking for software engineers who are strong in
+  working with AWS, Jenkins, CDK or Ansible
+
+  -with experience on Linux DevOps part, because that is an
+  important aspect of understanding and maintaining the
+  current system before and in parallel with the migration.
+
+
+
+  Application Platform provides a range of cloud products
+  product teams in the company and our goal is to enable our
+  users to derive maximum value from our products in a self-
+  service manner, operating on a ‘You Build it, You Run it’
+  model. We provide an integrated AWS platform that hosts over
+  one thousand services on EKS and Serverless environments,
+  serving 1 billion viewer requests daily. We manage CI/CD
+  infrastructure hosted on Jenkins & JFrog which hosts over 90
+  pipelines. Our product teams monitor and observe their
+  applications using Datadog.
+
+
+
+  Project:
+
+  -For this project we want to help a company, that has joined
+  us, to migrate their existing services to Application
+  Platform to improve developer experience, reliability,
+  scalability, and security. The goal is to have the services
+  running in a new production environment and devise and
+  implement an optimum migration plan with minimal disruption
+  for the product and business.
+
+
+
+  Ability to create and consume REST APIs
+
+  • Proficiency in TypeScript and Node.js
+
+  • Familiarity with React
+
+  • In-depth experience with Docker and networking
+
+  • In-depth knowledge of Amazon Web Services and interacting
+  with their services and API, for example knowledge in some
+  but not all: CDK, Lambda, RDS, ALB, OpenSearch, ECS
+
+
+
+  Skills /must haves:
+
+  -working experience AWS (5+yrs), Jenkins, CDK or Ansible
+
+  -experience on Linux DevOps part because that is an
+  important aspect of understanding and maintaining the
+  current system before and in parallel with the migration
+
+
+
+  Nice to have:
+
+  -Knowledge in Kubernentes, AWS EKS, and AWS networking,
+
+  -Knowledge in Go.
+
+  Framework conditions:
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-08-22
+url: "https://builtin.com/job/aws-software-engineer/7504831"
+source: Built In

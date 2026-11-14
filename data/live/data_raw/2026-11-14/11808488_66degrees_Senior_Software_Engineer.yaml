@@ -1,0 +1,131 @@
+job_id: 11808488
+title: Senior Software Engineer
+company: 66degrees
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 564 Employees
+description: |
+  Overview of 66degrees
+
+  66degrees is an end-to-end AI transformation partner that
+  guides enterprises from complex business challenges to
+  clear, quantifiable outcomes. Our company is the culmination
+  of several successful firms, each a leader in its own right
+  in cloud, artificial intelligence, and data. This
+  convergence of talent and expertise is how we help
+  businesses reach their own "inflection point," where chaotic
+  data becomes a strategic asset, complexity becomes clarity,
+  and AI becomes an engine for growth. Our ultimate vision is
+  to be the catalyst for a future where every business
+  operates as an intelligent enterprise, with autonomous
+  systems unlocking human potential.
+
+  At 66degrees, we believe in thriving through challenges and
+  winning together. These values not only guide us in
+  achieving our goals as a company but also for our people. We
+  are dedicated to creating a significant impact for our
+  employees by fostering a culture that sparks innovation and
+  supports professional and personal growth along the way.
+
+  Overview of Role
+
+  The Senior Software Engineer (EIP) will serve as a technical
+  expert building high-speed, real-time cloud integration
+  pipelines and Java microservices on Google Cloud Platform
+  (GCP). Acting as the backbone of the "Integration Factory,"
+  the role connects core databases to modern supply chain
+  platforms (Manhattan Active, o9 Solutions) and the Cloud
+  Data Lakehouse. Key duties include coding Java/Spring Boot
+  microservices on Cloud Run and GKE, managing event streaming
+  via Pub/Sub and Kafka, and governing APIs and schemas. It
+  requires 12+ years of backend engineering experience along
+  with deep GCP, Java, and event-driven architecture
+  expertise.
+
+  Responsibilities:
+
+  - Build Cloud-Native Microservices: Architect, code, and
+    deploy fast, resilient microservices using Java (17/21)
+    and Spring Boot on Google Cloud Run and GKE.
+  - Handle Real-Time Data & Messaging: Design event-driven
+    streaming pipelines using GCP Pub/Sub, Apache Kafka, and
+    Change Data Capture (CDC / Datastream) to move database
+    changes instantly.
+  - API Governance & Schema Management: Design REST APIs (Apigee
+    X) and enforce strict data contracts (Avro, Protobuf, JSON
+    Schema).
+  - Technical Leadership: Conduct code reviews (PRs) for
+    internal teams and vendors, establish integration
+    templates, maintain high testing standards (TDD), and set
+    up monitoring/tracing.
+  - Core Focus: Building high-speed, real-time cloud data
+    pipelines and microservices on Google Cloud Platform (GCP)
+    to connect core business systems (Supply Chain, Warehouse
+    Management, Data Lakehouse).
+
+  Qualifications:
+
+  - Experience: 12+ years in backend software engineering with a
+    strong focus on enterprise integration and event-driven
+    architecture.
+
+  Core Tech Stack:
+
+  - Java & Frameworks: Expert in Java (11/17/21) and Spring
+    Boot.
+  - Cloud: Hands-on GCP experience (Cloud Run, Pub/Sub,
+    BigQuery, GCS, Secret Manager).
+  - Streaming & Databases: GCP Pub/Sub or Apache Kafka, deep
+    SQL, and CDC tools (Datastream, Debezium, or GoldenGate).
+  - Data Contracts: Avro, Protobuf, or JSON Schema.
+  - DevOps & Testing: Docker, Git, CI/CD pipelines, JUnit 5,
+    Mockito, and Testcontainers.
+  - Education: Bachelor’s or Master’s in Computer Science or
+    related field.
+  - GCP Certifications (Professional Cloud Architect, Developer,
+    or Data Engineer) (nice to have)
+  - Experience with Quarkus, Apigee X, or Terraform.(nice to
+    have)
+  - Background in Supply Chain, Wholesale Distribution, or
+    Logistics.(nice to have)
+  - Prior integration experience with Manhattan Active WMS, o9
+    Solutions, Oracle EBS, or Syndigo. (nice to have)
+
+  66degrees is an Equal Opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to actual or perceived race, color, religion, sex,
+  gender, gender identity, national origin, age, weight,
+  height, marital status, sexual orientation, veteran status,
+  disability status or other legally protected class.
+
+  Please note, we cannot sponsor or transfer any visas, of any
+  kind, at this time.
+
+  66degrees is an Equal Opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to actual or perceived race, color, religion, sex,
+  gender, gender identity, national origin, age, weight,
+  height, marital status, sexual orientation, veteran status,
+  disability status or other legally protected class.
+
+  AI Transparency & Disclosure
+
+  As an AI transformation partner, 66degrees leverages
+  intelligent solutions to enhance our recruitment experience.
+  We utilize AI tools—including LinkedIn Recruiter’s Hiring
+  Assistant and interview transcription technologies—to assist
+  with sourcing, role analysis, and capturing interview
+  highlights.
+
+  These tools augment our process, but we "Commit to Our
+  Craft" by ensuring all final hiring decisions are made by
+  our human Talent Team. By applying, you acknowledge the use
+  of these technologies to help us "Win Together" in finding
+  the best fit for our team.
+industries:
+  - Cloud
+  - Information Technology
+posted_date: 2026-11-10
+url: "https://builtin.com/job/senior-software-engineer/11808488"
+source: Built In

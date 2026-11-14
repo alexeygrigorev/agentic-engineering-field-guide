@@ -1,0 +1,215 @@
+job_id: 10832037
+title: SR Principal Software Engineer - LLM Engineering
+company: JPMorganChase
+location: Chicago, USA
+locations:
+  - Chicago, USA
+  - Seattle, USA
+  - New York, USA
+  - Palo Alto, USA
+  - Jersey City, USA
+work_type: FULL_TIME
+company_size: 289,097 Employees
+description: |
+  We’re looking for a tech leader ready to take their career
+  to new heights. Join the ranks of top talent at one of the
+  world’s most influential companies.
+
+  As a Senior Principal Software Engineer at JPMorganChase
+  within the Commercial & Investment Bank Trust & Safety Fraud
+  Prevention team, you provide deep engineering expertise and
+  work across agile teams to enhance, build, and deliver
+  trusted market‑leading technology products in a secure,
+  stable, and scalable way. Leverage your deep expertise to
+  consistently challenge the status quo, innovate for business
+  impact, lead the strategic development behind new and
+  existing products and technology portfolios, and remain at
+  the forefront of industry trends, best practices, and
+  technological advances.
+
+  Job responsibilities
+
+  - Advises and leads on the strategy, architecture, and
+    development of model serving solutions for different model
+    architectures (including LLMs & GNNs) across cloud and
+    on‑premises environments, aligning initiatives to business
+    outcomes.
+  - Defines and implements MLOps and LLMOps strategies for
+    end‑to‑end model lifecycle management, including training,
+    versioning, deployment, monitoring, and governance.
+  - Drives optimization of model inferencing for high throughput
+    and low latency using quantization, model parallelism,
+    intelligent batching, and hardware acceleration for all
+    model architectures.
+  - Sets strategy and operating standards for agentic AI-enabled
+    engineering across a portfolio (using enterprise-
+    authorized tools within the work environment) to drive
+    measurable improvements in delivery speed, reliability,
+    and code quality (e.g., AI-orchestrated SDLC/TLM
+    automation, release readiness gating, incident
+    triage/root-cause acceleration, and large-scale
+    refactoring/test modernization), while defining guardrails
+    for validation, security, resiliency, and reuse across
+    teams and functions.
+  - Applies knowledge of tools within the Software Development
+    Life Cycle toolchain, including enterprise-authorized AI-
+    assisted development and automation capabilities, to
+    improve the value realized by automation at scale.
+  - Creates durable, reusable software and platform frameworks
+    to standardize ML Engineering services, enabling scale
+    across teams and functions.
+  - Establishes best practices for automation, CI/CD, and
+    infrastructure‑as‑code using containerization and
+    orchestration technologies.
+  - Partners closely with data science, platform engineering,
+    and SRE teams to productionize models on AWS, ensuring
+    observability, reliability, and cost efficiency.
+  - Leads deployment and optimization using model inference
+    servers such as Triton Inference Server and vLLM for
+    high‑throughput, low‑latency serving at scale.
+  - Oversees production operations for AI workloads, including
+    monitoring, incident response, security, and compliance,
+    with continuous improvement.
+  - Translates complex technical concepts and emerging trends
+    into actionable strategies, influencing senior
+    stakeholders and cross‑functional partners to prioritize
+    and deliver AI/ML capabilities that drive measurable
+    business impact while promoting a culture of diversity,
+    opportunity, inclusion, and respect.
+
+  - Required qualifications, capabilities, and skillsFormal
+    training or certification on software engineering concepts
+    and 10+ years of applied experience.
+  - 8+ years of AI/ML engineering experience with significant
+    expertise in LLMs, GNNs and other model architectures
+    (e.g., GPT, Llama, Falcon, Mistral).
+  - Demonstrated success architecting and deploying LLM & GNN
+    solutions on AWS (e.g., SageMaker, Bedrock, EKS) at
+    enterprise scale; experience with Azure ML or GCP Vertex
+    AI.
+  - Experience building LLM and GNN serving platforms in
+    large‑scale environments typical of major tech firms.
+  - Hands‑on experience building LLM inference engines using
+    Triton Inference Server and vLLM, including autoscaling,
+    caching, and throughput optimization.
+  - Advanced proficiency in Python and optimization techniques
+    applied to deep learning frameworks (PyTorch, TensorFlow,
+    Hugging Face Transformers).
+  - Deep understanding of LLMOps/MLOps (e.g., MLflow, SageMaker
+    Pipelines, Kubeflow) with a track record of implementing
+    best practices at scale.
+  - Demonstrated experience designing and scaling agentic AI-
+    enabled development patterns (using enterprise-authorized
+    tools within the work environment) across teams/functions,
+    including establishing governance for human-in-the-loop
+    validation, traceability/auditability, and secure handling
+    of sensitive inputs/outputs.
+  - Strong understanding of responsible AI use and control
+    expectations at scale, including security/resiliency
+    implications, data sensitivity, and risk-based governance;
+    ability to advise senior leaders on safe adoption, reuse,
+    and measurable outcomes.
+  - Expertise in inference optimization and distributed systems
+    for large models focused on high‑throughput, low‑latency
+    applications, including system design, testing, and
+    operational stability for enterprise AI platforms.
+  - Excellent communication skills with proven collaboration
+    with SRE to implement observability, incident response,
+    and SLIs/SLOs for LLM services, and the ability to
+    influence both technical and non‑technical stakeholders to
+    deliver value across functions at scale..
+
+  Preferred qualifications, capabilities, and skills
+
+  - Master’s or PhD in Computer Science, Engineering, or a
+    related field (or equivalent experience).
+  - Practical cloud‑native experience, including
+    containerization (Docker), orchestration (Kubernetes), and
+    infrastructure‑as‑code (Terraform, CloudFormation).
+  - Expertise in security, compliance, and governance for AI/ML
+    deployments in regulated environments.
+  - Experience in trust and safety or fraud prevention domains;
+    familiarity with payments platforms is a plus.
+  - Track record of contributions to open‑source LLM projects or
+    peer‑reviewed research and/or experience presenting at
+    industry conferences or leading technical communities.
+  - Familiarity with hardware acceleration strategies across
+    GPUs, TPUs, and specialized inference runtimes.
+  - Experience in building java based applications
+
+  This position is subject to Section 19 of the Federal
+  Deposit Insurance Act. As such, an employment offer for this
+  position is contingent on JPMorgan Chase’s review of
+  criminal conviction history, including pretrial diversions
+  or program entries.
+
+  About Us
+
+
+
+    JPMorganChase, one of the oldest financial institutions,
+  offers innovative financial solutions to millions of
+  consumers, small businesses and many of the world’s most
+  prominent corporate, institutional and government clients
+  under the J.P. Morgan and Chase brands. Our history spans
+  over 200 years and today we are a leader in investment
+  banking, consumer and small business banking, commercial
+  banking, financial transaction processing and asset
+  management.
+
+
+
+
+  We offer a competitive total rewards package including base
+  salary determined based on the role, experience, skill set
+  and location. Those in eligible roles may receive
+  commission-based pay and/or discretionary incentive
+  compensation, paid in the form of cash and/or forfeitable
+  equity, awarded in recognition of individual achievements
+  and contributions. We also offer a range of benefits and
+  programs to meet employee needs, based on eligibility. These
+  benefits include comprehensive health care coverage, on-site
+  health and wellness centers, a retirement savings plan,
+  backup childcare, tuition reimbursement, mental health
+  support, financial coaching and more. Additional details
+  about total compensation and benefits will be provided
+  during the hiring process.
+
+
+
+
+
+  We recognize that our people are our strength and the
+  diverse talents they bring to our global workforce are
+  directly linked to our success. We are an equal opportunity
+  employer and place a high value on diversity and inclusion
+  at our company. We do not discriminate on the basis of any
+  protected attribute, including race, religion, color,
+  national origin, gender, sexual orientation, gender
+  identity, gender expression, age, marital or veteran status,
+  pregnancy or disability, or any other basis protected under
+  applicable law. We also make reasonable accommodations for
+  applicants’ and employees’ religious practices and beliefs,
+  as well as mental health or physical disability needs. Visit
+  our FAQs for more information about requesting an
+  accommodation.
+
+
+
+  JPMorgan Chase & Co. is an Equal Opportunity Employer,
+  including Disability/Veterans
+
+
+
+
+
+  About the TeamJ.P. Morgan’s Commercial & Investment Bank is
+  a global leader across banking, markets, securities services
+  and payments. Corporations, governments and institutions
+  throughout the world entrust us with their business in more
+  than 100 countries. The Commercial & Investment Bank
+  provides strategic advice, raises capital, manages risk and
+  extends liquidity in markets around the world.
+posted_date: 2026-08-25
+url: "https://builtin.com/job/sr-principal-software-engineer-llm-engineering/10832037"
+source: Built In

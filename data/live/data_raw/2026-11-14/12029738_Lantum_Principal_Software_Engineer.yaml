@@ -1,0 +1,318 @@
+job_id: 12029738
+title: Principal Software Engineer
+company: Lantum
+location: London, GBR
+work_type: FULL_TIME
+company_size: 110 Employees
+description: |
+  The NHS workforce is broken. Clinician burnout is at an all-
+  time high. The UK's temporary staffing bill has hit £8
+  billion. The way healthcare organisations manage and
+  schedule their workforce is failing.
+
+  We built Lantum because we want to change that. Our
+  Connected Scheduling™ platform helps healthcare
+  organisations manage their workforce more effectively,
+  giving clinicians more control over how and when they work
+  and giving organisations the tools to staff more
+  efficiently. Over 50% of UK GP practices and 30% of UK
+  Trusts already rely on us. We've saved the NHS millions and
+  helped thousands of clinicians improve their work-lives.
+  We're rebuilding how this industry operates and we're
+  looking for people who want to be part of that.
+
+  Lantum’s market-leading Connected Scheduling™ platform keeps
+  the NHS staffed. In Primary Care, it rosters clinicians
+  across more than 2,000 organisations, with digital staff
+  banks and a marketplace of 30,000 vetted clinicians. In
+  Secondary Care, In-Genius™ builds optimal rotas for resident
+  doctors, In-Flight™ manages them day to day, and In-Check™
+  Compliance (formerly DRS) audits every worked hour against
+  working-time legislation and NHSE standards so that payroll
+  is exact.
+
+  About the Role
+
+  As our Principal Engineer, you will lead all core software
+  engineering work across the entire Lantum platform and
+  service architecture to scale Lantum’s next stage of growth.
+  You will work alongside our heads of AI/ML and product,
+  healthcare domain experts, and Operations teams while
+  staying hands-on to ship code to production yourself. The
+  role is a true full-stack - “any-stack” - one, and covers
+  back-end, front-end, architecture, infrastructure, DataOps,
+  AI SDLC, and security realms and disciplines.
+
+  Responsibilities
+
+  As a Principal Engineer,
+
+  ● you own core, end-to-end software engineering processes
+  and infrastructure;
+
+  ● you ensure that our existing core revenue-generating
+  systems run without interruption under strict SLAs while
+  optimising them, expanding their capabilities, and
+  increasing cross-connectivity across our multi-product and
+  services platform;
+
+  ● you protect sensitive operational healthcare data and
+  financial information (as both assets and end-to-end data
+  flows), and ensure that all systems, services, and artefacts
+  meet strict regulatory criteria pertaining to security,
+  observability, traceability, and verifiability;
+
+  ● you lead, support, and guide other engineers while
+  synchronising build horizons with our wider
+  multidisciplinary team;
+
+  ● design, build, operate, and secure agentic workflows,
+  multi-agent systems, guardrails, security-first agentic
+  architectures and topologies, and context flows;
+
+  ● you operate, optimise, and govern coding agents, software
+  factories, and the use of wider AI tooling to enable
+  reliable and precise AI FinOps and effective AI governance;
+  and
+
+   ● you operationalise and optimise the next stage of
+  Lantum’s AI-native software development lifecycle that
+  combines agentic loops with rigorous verifiability,
+  observability, testing, and review processes.
+
+  About You
+
+  The Principal Engineer role is ideal for an engineer
+  archetype who
+
+  ● has a true full-stack (“any-stack”) and polyglot mindset;
+
+  ● has a track record in building successful, mission-
+  critical systems in non-trivial domains such as healthcare,
+  finance, insurance, aviation, cybersecurity, and the like;
+
+  ● has (ideally) operated in both agile start-up environments
+  and large(r) formal, regulated enterprises;
+
+  ● is an inspirational tech lead, leader, and catalyst, with
+  a passion for guiding, supporting, and growing engineering
+  organisations; and
+
+  ● is a true builder with deep passion for robust end-to-end
+  software engineering, with deep expertise in the traditional
+  praxis, and, ideally, the new, emerging AI SDLC and agentic
+  praxis.
+
+  Requirements
+
+  Direct, demonstrable expertise and a track record in:
+
+  ● owning (designing, building, deploying, scaling,
+  optimising, operating, and maintaining) and signing off non-
+  trivial systems, services, platforms, and artefacts which
+  satisfied heavy, long-horizon SLAs, SLCs, and SLOs, and met
+  mission-critical client and regulatory requirements around
+  stability, resilience, reliability, scalability, precision,
+  quality, security, safety, observability, auditability, and
+  verifiability, and the like;
+
+  ● provisioning, operating, and optimising fully cloud-
+  native, cloud-first architectures and estates (must-have)
+  and local, on-premise infrastructure (desirable);
+
+  ● designing, implementing, and sustaining robust, secure
+  tech estates and zero trust architectures, auditable data
+  pipelines, supply chain security, and organisation-wide
+  SecOps and risk management processes that met formal
+  security standards, certification, and verifiability;
+
+  ● leading multidisciplinary full-stack engineering teams,
+  covering end-to-end back-end, front-end (incl. mobile),
+  architectures, DevOps, infrastructure, DataOps, and SecOps
+  (or a majority thereof);
+
+  ● mentoring, line-managing, and supporting engineering
+  colleagues, and growing engineering organisations;
+
+  ● supporting and synchronising development streams and
+  deliverables with ML scientists, data scientists, product
+  managers, or operations teams; and
+
+  ● effective interaction and interfacing with senior
+  management and domain experts in both technical and
+  nontechnical domains.
+
+  Additional Exposure
+
+  Exposure to the following is highly desirable:
+
+  ● MLOps, data science, data analytics, classical ML,
+  experiments, evaluation, and evidence-based optimisation;
+  and
+
+  ● HealthTech, healthcare systems and products, and the wider
+  NHS ecosystem.
+
+  Tech Stack
+
+  Demonstrable expertise in a good majority of the following:
+
+  ● advanced core Linux skills and administration;
+
+  ● languages and VMs: advanced Python (must-have) plus
+  ideally substantial JVM (Java or Scala), .NET (C#), Rust, or
+  Go expertise; Typescript and Javascript (must-have); Node.js
+  (ideal);
+
+  ● APIs: RESTful APIs (must-have); GraphQL (desirable); MCP
+  (desirable) or A2A (desirable);
+
+  ● web frameworks (Django (must-have)) and front-end
+  frameworks (React (must-have), Blazor (desirable));
+
+  ● mobile frameworks: React Native (highly desirable);
+
+  ● databases: both SQL (Postgres (must-have), SQL Server
+  (desirable)) and NoSQL (MongoDB (desirable));
+
+  ● cloud platforms, infrastructure, IaC, containerisation,
+  and compute: AWS (must-have); Azure (desirable); Terraform
+  (must-have) and policy as code; Docker (must-have);
+  serverless architectures; sandboxes and enclaves;
+
+  ● GitOps and CI/CD pipelines; and
+
+  ● GenAI, LLMs, and agentic frameworks, APIs and SDKs (such
+  as Anthropic, OpenAI, Google Gemini, Jev, LangChain,
+  LangGraph, PydanticAI); agent sandboxes and enclaves; agent
+  harnesses; and agent memory substrates.
+
+  Education
+
+  ● A degree in a STEM subject: an undergraduate degree (must-
+  have), a postgraduate degree (highly desirable), or a PhD
+  (highly desirable).
+
+  Interview Process
+
+  ● Introduction and Meet Your Manager: We’ll book you in for
+  a first interview with your potential future manager, so you
+  can learn more about what the role is holistically and
+  understand our technical focus, while we get a deeper
+  understanding of you as an engineer as well as your
+  experience, career trajectory and plans, and interests.
+
+  ● T-1 Tech Fundamentals: This is a more formal, purely
+  technical and technological session with Lantum’s senior
+  experts with a software engineering, AI, ML, and data
+  science background. We will go through fundamental
+  engineering and CS topics to understand how you think and
+  how you approach more technical and scientific topics
+  conceptually and analytically.
+
+  ● T-2 Tech Challenge: This is a more practical “doing”
+  session with a group of our software engineers. We will
+  provide you with a scenario, a data set, or an analytical
+  problem to solve which enables you to bring your practical
+  past experience and hands-on skills to life.
+
+  ● Lantum Values: You’ll meet more members of the wider team
+  to talk about the Lantum Values. This will be an opportunity
+  for them to ask general questions (such as working style and
+  preferences, multidisciplinary team collaboration, business
+  and customer topics, and the like) and for you to ask
+  questions about life at Lantum.
+
+  Benefits
+
+  ● Home office set up - £200 stipend towards home office
+  equipment to support remote working.
+
+  ● Health Cash Plan:
+
+  - Cash refunds for physio, dental, and other health related
+    costs.
+  - An Employee Pricing Program that grants you access to
+    special, non-public discounts to gyms and top retail
+    brands.
+  - Plus access to a 24/7 counselling and support helpline.
+
+  ● Pension - Lantum matches 4% of your salary into your
+  pension pot.
+
+  ● Holiday - 25 days holiday + 1 additional day of birthday
+  leave.
+
+  ● Wellbeing Support - Access to Spill, a mental health
+  support app and 1 day wellbeing leave.
+
+  ● £500 Learning and development budget each year to drive
+  your own development.
+
+  ● Cycle to Work Scheme.
+
+  ● Charity Day - the opportunity to make a positive impact in
+  our community.
+
+   Our Work Environment
+
+  ● Hybrid Working: Spend three core days a week in our
+  collaborative WeWork office in Shoreditch, London
+
+  ● Vibrant Workspace: A dynamic, fun WeWork office space with
+  amenities to support your productivity and well-being
+
+  Our values
+
+  We want every employee to live the core values of the
+  business:
+
+  ● More than me: Our goals are too big to achieve on our own,
+  it takes diverse skills and various people to achieve
+  greatness.
+
+  ● Care a lot: Doing the right thing isn’t optional. We care
+  a lot about our users, the NHS and each other. We hold each
+  other to the highest standards and earn our reputation every
+  day.
+
+  ● See it thru: We’re constantly looking for excellence. We
+  take pride in planning and execution of all types of work,
+  and we’re not deterred by bumps in the road or adversity.
+  When we see obstacles, we relish the challenge and keep
+  going.
+
+  ● Think around corners: We always stay ahead of the curve.
+  All of us share a responsibility to challenge the status
+  quo, think outside of the box, turn problems on their head
+  and turn weaknesses into strengths.
+
+  ● Bounce back & learn: Being brave, taking risks and trying
+  new things. It’s better to take risks and learn from them
+  and being open to changing from what you learned is what
+  makes us successful.
+
+  Please note
+
+  We can only accept applications from those eligible to live
+  and work in the UK. We are unable to sponsor visas for this
+  position.
+
+  Diversity promise
+
+  We believe that a great workplace is one that represents the
+  world we live in and how beautifully diverse it can be. That
+  means we have no judgement when it comes to any one of the
+  things that make you who you are. Everyone is welcome — as
+  an inclusive workplace, our employees are comfortable
+  bringing their authentic whole selves to work. Be you. All
+  you need is a passion and a desire to be part of our
+  mission.
+industries:
+  - eCommerce
+  - Healthtech
+  - Information Technology
+  - Software
+posted_date: 2026-11-03
+url: "https://builtin.com/job/principal-software-engineer/12029738"
+source: Built In

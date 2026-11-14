@@ -1,0 +1,157 @@
+job_id: 11560909
+title: Senior Software Engineer
+company: Bastion
+location: New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 16 Employees
+description: |
+  About Bastion
+
+  Bastion provides the regulated infrastructure businesses
+  need to hold, move, and issue stablecoins. Our platform
+  combines custodial wallets, global payment orchestration,
+  and stablecoin issuance. Customers can use each product
+  independently or connect them into a single end-to-end flow.
+  We operate through our own regulated entities, with
+  compliance and risk controls built directly into the
+  platform. We can also support customers operating under
+  their own licenses with the compliance and financial
+  operations required to run their programs.
+
+  Overview
+
+  We are looking for a Senior Software Engineer to join our
+  engineering team and build the core infrastructure that
+  powers our stablecoin platform. In this role, you'll design
+  and ship services that handle custody, transfers, issuance,
+  and compliance workflows—systems that process real money and
+  require exceptional reliability and security.
+
+  You'll work within one of our product verticals (Custody,
+  On/Off Ramps, Issuance, or Shared Services), collaborating
+  closely with product managers, compliance, and other
+  engineers. Our teams are small and cross-functional, which
+  means your work ships fast and has direct impact on
+  customers and partners.
+
+  This is an opportunity to build financial infrastructure at
+  a 30+ person company where ownership is real. We expect
+  engineers to take initiative. Whether that's shipping
+  features, improving observability, or strengthening the
+  codebase. If you want to work on hard problems in a
+  regulated domain where your contributions matter
+  immediately, we'd love to talk.
+
+  Work to Be Done
+
+  Instead of a list of requirements, we want to give you a
+  directional look into the first 30, 90, and 180 days on the
+  job.
+
+  We are a startup, so the pace is fast and the specific work
+  will change. You need to be okay with that.
+
+  If you think this is something you can handle, we will be
+  excited to speak with you.
+
+  We are building out our engineering hub in New York City,
+  and this role is based our of our SoHo office. We work in a
+  hybrid-but-flexible way (no set days in the office, come in
+  when you think its effective, travel when you like) - most
+  of us are in 2-3 days a week.
+
+  First 30 days: Learn the rails, ship confidently
+
+  - Ramp on service architecture, CI/CD, observability, and
+    engineering conventions
+  - Ship a small feature slice or quality-of-life improvement in
+    one service
+  - Add tests, dashboards, or runbook notes for the areas you
+    touch
+  - Build relationships with your vertical team and cross-
+    functional partners
+  - Outcomes
+    - Multiple safe production deploys with follow-up verification
+    - You can run core services locally and trace requests through
+      logs/metrics
+    - Updated documentation and/or PRs that improve onboarding in
+      your area
+
+  By 90 days: Own a service surface and raise the bar
+
+  - Take ownership of a service or capability across our
+    product, with an eye toward production-readiness
+  - Lead a medium-scope project: updating an API contract,
+    implementing a partner integration, or improving
+    robustness of a critical path
+  - Strengthen reliability with better logging, tracing, alerts,
+    and failure handling
+  - Outcomes
+    - A delivered feature or refactor that improves a product
+      metric, SLO, or developer ergonomics
+    - You're a go-to person for your service domain
+
+  By 180 days: Drive cross-service impact
+
+  - Lead a cross-service initiative, such as an API versioning
+    plan, a data model migration, or a compliance-driven
+    workflow change
+  - Shape technical direction with design docs and mentoring
+  - Partner with product and compliance to make pragmatic,
+    regulation-aware tradeoffs
+  - Outcomes
+    - A multi-sprint delivery that simplifies the system and
+      unlocks product velocity
+    - Clear before/after reliability or performance improvements
+    - Documentation and designs that help others ship faster and
+      safer
+
+  Some challenges you might tackle
+
+  - Designing stable, evolvable APIs for custody, transfers, or
+    issuance without breaking downstream clients
+  - Building idempotent job flows for high-throughput transfers
+    with strong audit trails
+  - Hardening key operations using hardware-backed isolation and
+    robust key policies
+  - Improving p95 latency through query tuning, caching, or
+    backpressure strategies
+  - Navigating tradeoffs between product velocity and compliance
+    requirements in a regulated environment
+  - Building services that integrate with banking partners and
+    crypto infrastructure providers
+
+  Your team's typical stack
+
+  - Languages: Go and TypeScript/Node.js; some services in Rust
+    as needed
+  - Service patterns: gRPC and REST; GraphQL/tRPC at the edge
+    for frontend BFFs
+  - Data and async processing: Postgres, Redis, Kafka
+  - Workflow Management: Temporal
+  - Infra: AWS, containers, Kubernetes, Terraform; hardware-
+    backed key isolation with Nitro Enclaves for sensitive
+    operations
+  - Observability and ops: Datadog, Grafana, Sentry, Incident.io
+
+  Bastion provides equal employment opportunities to all
+  employees and applicants for employment and prohibits
+  discrimination and harassment of any type without regard to
+  race, color, religion, age, sex, national origin, disability
+  status, genetics, protected veteran status, sexual
+  orientation, gender identity or expression, or any other
+  characteristic protected by federal, state or local laws.
+  This policy applies to all terms and conditions of
+  employment, including recruiting, hiring, and placement.
+  Bastion participates in E-Verify to authorize eligibility of
+  employment in the United States.
+industries:
+  - Blockchain
+  - Software
+  - Database
+  - Analytics
+  - Web3
+posted_date: 2026-10-07
+url: "https://builtin.com/job/senior-software-engineer/11560909"
+source: Built In

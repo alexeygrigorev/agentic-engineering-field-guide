@@ -1,0 +1,202 @@
+job_id: 12028496
+title: Sr. Software Engineer II - Sensor, Linux Guardian (Hybrid)
+company: CrowdStrike
+location: Austin, USA
+locations:
+  - Austin, USA
+  - Redmond, USA
+  - New York, USA
+  - Sunnyvale, USA
+work_type: FULL_TIME
+company_size: 11,000 Employees
+description: |
+  As a global leader in cybersecurity, CrowdStrike protects
+  the people, processes and technologies that drive modern
+  organizations. Since 2011, our mission hasn’t changed —
+  we’re here to stop breaches, and we’ve redefined modern
+  security with the world’s most advanced AI-native platform.
+  We work on large scale distributed systems, processing
+  almost 3 trillion events per day and this traffic is growing
+  daily. Our customers span all industries, and they count on
+  CrowdStrike to keep their businesses running, their
+  communities safe and their lives moving forward. We're proud
+  to work for a mission-driven company leveraging AI to
+  transform the way we work. CrowdStrikers drive their careers
+  through flexibility and autonomy while also being expected
+  to contribute to a culture of responsible AI adoption,
+  experimentation, and innovation. We use an AI-first mindset
+  as a force multiplier to proactively and continuously
+  accelerate execution, build expertise, uncover insights, and
+  solve complex problems. We’re always looking to add talented
+  CrowdStrikers to the team who have limitless passion, a
+  relentless focus on innovation and a fanatical commitment to
+  our customers, our community and each other. Ready to join a
+  mission that matters? The future of cybersecurity starts
+  with you.
+
+  About the Role: CrowdStrike Falcon Host is a two-component
+  security product. One component is a “sensor”: a driver
+  installed on client machines that observes system activity
+  and recognizes malicious behavior, then provides on-box
+  prevention capability and remote telemetry to the Falcon
+  Host cloud. The sensor processes thousands of events per
+  second to provide deep visibility into operations on the
+  endpoint, and performs rich correlation and computation to
+  identify malicious events and blocks malicious activity. The
+  cloud component aggregates sensor telemetry for each
+  customer’s network, correlates malicious behavior across
+  multiple machines, and presents our customers’ operations
+  teams with a prioritized summary of the threats detected in
+  their environments. This is a Senior Software Development
+  Engineer 2 role in the engineering team that delivers the
+  sensor (lightweight agent) on Linux. SDE’s in the team own
+  design and development of core features on the platform.
+  Features will cross-cut most core OS subsystems such as file
+  system, memory, process, and networking. Many features are
+  also built in a way that they will have shared components
+  across Windows and Mac. The team operates under the Agile
+  development principles and ships frequently.
+
+  Location:
+
+  - This role is hybrid, requiring 2-3 days per week on-site at
+    one of the posted locations.
+
+  What You'll Do:
+
+  - Design and develop enterprise quality Linux system software
+    for deployment on a large scale server and cloud
+    environments
+  - Drive technical proposals and design docs; lead design
+    reviews for your area and provide substantive review
+    feedback that raises the bar for the whole team
+  - Represent the team's technical position in cross-org
+    planning and architecture discussions; communicate
+    tradeoffs and risks clearly to engineering, product, and
+    program partners
+  - Participate in planning; help scope work, identify
+    dependencies, and flag technical risk early
+  - Mentor and grow more junior engineers through direct
+    feedback, pairing, and collaborative code and design
+    review
+  - Investigate and resolve production incidents and complex
+    escalations; build the team's shared knowledge of failure
+    modes at fleet scale
+  - Champion improvements in end-to-end testing and validation
+    for components with strict correctness and reliability
+    requirements
+
+  What You’ll Need:
+
+  - Can develop high-quality code in C/C++ and can demonstrate
+    that capability, be it through job experience, schoolwork,
+    or contributions to community projects
+  - Experience on Linux developing product code with the
+    following characteristics:High concurrency requirements
+    needing strong use of multi-threadingHigh reliability
+    requirements
+  - Detailed understanding on low-level operating
+    characteristics (kernel internals, memory usage, kernel
+    level performance analysis).
+  - Very strong kernel and system software debugging skills.
+  - Experience working on a team to ship major features and
+    releases.
+  - Able to communicate, collaborate, and work effectively in a
+    distributed team.
+  - Solid design and problem-solving instincts; ability to own
+    ambiguous technical problems and drive them to clean
+    resolution
+  - Ability to influence technical direction across team
+    boundaries without direct authority, using design docs,
+    prototypes, and well-reasoned technical positions
+  - Strong written and verbal communication; able to convey
+    complex technical topics clearly to both technical and
+    non-technical audiences
+  - Proven experience utilizing AI technologies to enhance
+    decision-making, streamline workflows and processes,
+    improve efficiency and drive business outcomes.
+
+  Bonus Points
+
+  - Past experience with Linux eBPF and other tracing
+    technologies.
+  - Background in endpoint security, EDR, kernel-adjacent
+    software, or sensor platform engineering
+  - Open source Linux kernel contributions, technical writing,
+    or a visible engineering presence through conference talks
+    or published work.
+
+  #LI-CW1
+
+  Benefits of Working at CrowdStrike:
+
+  - Market leader in compensation and equity awards
+  - Comprehensive physical and mental wellness programs
+  - Competitive vacation and holidays for recharge
+  - Paid parental and adoption leaves
+  - Professional development opportunities for all employees
+    regardless of level or role
+  - Employee Networks, geographic neighborhood groups, and
+    volunteer opportunities to build connections
+  - Vibrant office culture with world class amenities
+  - Great Place to Work Certified™ across the globe
+
+  CrowdStrike is proud to be an equal opportunity employer. We
+  are committed to fostering a culture of belonging where
+  everyone is valued for who they are and empowered to
+  succeed. We support veterans and individuals with
+  disabilities through our affirmative action program.
+
+  CrowdStrike is committed to providing equal employment
+  opportunity for all employees and applicants for employment.
+  The Company does not discriminate in employment
+  opportunities or practices on the basis of race, color,
+  creed, ethnicity, religion, sex (including pregnancy or
+  pregnancy-related medical conditions), sexual orientation,
+  gender identity, marital or family status, veteran status,
+  age, national origin, ancestry, physical disability
+  (including HIV and AIDS), mental disability, medical
+  condition, genetic information, membership or activity in a
+  local human rights commission, status with regard to public
+  assistance, or any other characteristic protected by law. We
+  base all employment decisions--including recruitment,
+  selection, training, compensation, benefits, discipline,
+  promotions, transfers, lay-offs, return from lay-off,
+  terminations and social/recreational programs--on valid job
+  requirements.
+
+  If you need assistance accessing or reviewing this website,
+  submitting an application, requesting an accommodation, or
+  providing feedback on the job posting, please contact us at
+  recruiting@crowdstrike.com.
+
+  Find out more about your rights as an applicant.
+
+  CrowdStrike participates in the E-Verify program.
+
+  Notice of E-Verify Participation
+
+  Right to Work
+
+  CrowdStrike, Inc. is committed to fair and equitable
+  compensation practices. Placement within the pay range is
+  dependent on a variety of factors including, but not limited
+  to, relevant work experience, skills, certifications, job
+  level, supervisory status, and location. The base salary
+  range for this position for all U.S. candidates is $160,000
+  - $260,000 per year, with eligibility for bonuses, equity
+  grants and a comprehensive benefits package that includes
+  health insurance, 401k and paid time off.
+
+  For detailed information about the U.S. benefits package,
+  please click here.
+industries:
+  - Cloud
+  - Computer Vision
+  - Information Technology
+  - Sales
+  - Security
+  - Cybersecurity
+posted_date: 2026-11-03
+url: "https://builtin.com/job/sr-software-engineer-ii-sensor-linux-guardian-hybrid/12028496"
+source: Built In

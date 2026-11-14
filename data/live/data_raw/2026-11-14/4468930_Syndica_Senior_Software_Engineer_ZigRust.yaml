@@ -1,0 +1,93 @@
+job_id: 4468930
+title: Senior Software Engineer (Zig/Rust)
+company: Syndica
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 11 Employees
+description: |
+  About us:
+
+  Syndica supplies the most critical applications in Web3 with
+  enterprise-grade RPC infrastructure and developer tools
+  tailored for the Solana ecosystem. Joining our team means
+  you'll be held to a high standard, technically challenged,
+  and grow close to a group of individuals passionate about
+  building new infrastructure technologies.
+
+  We are backed by strategic partners, investors, and advisors
+  who are all-in on our mission: Chamath Palihapitiya of
+  Social Capital, Steve Jang of Kindred Ventures, Joe McCann
+  of Asymmetric, Jump Crypto, Coinbase Ventures, Solana
+  Ventures, Circle Ventures, and many more.
+
+  About you:
+
+  - You are a talented engineer who thrives in a collaborative
+    and fast-paced environment.
+  - You're excited about contributing to the decentralization of
+    blockchain ecosystems.
+  - You have 3+ years of related professional experience using
+    Rust (experience in memory-managed languages (Zig/C/C++)
+    is nice to have but not required).
+  - Bachelor's degree in Computer Science or relevant
+    experience.
+
+  About the role:
+
+  As a Senior Engineer, you will play a pivotal role in
+  designing and implementing a high-performance Solana
+  validator client from scratch.
+
+  The team you’d be joining is building a new open-source
+  Solana validator client, Sig, using the Zig programming
+  language. You can find more technical details about the
+  project in the original announcement here.
+
+  The role’s primary responsibility will involve understanding
+  the Agave validator implementation codebase, written in
+  Rust, and translating, optimizing, and improving the
+  implementation in Zig (take a peek at the current work
+  here!).
+
+  Key responsibilities:
+
+  - Understanding and Communicating Rust Code: mapping and
+    accurately communicating how the existing Rust client
+    works.
+  - Writing high-quality code in Zig: translating the Rust code
+    into Zig while maintaining high-quality code, including
+    performance and readability.
+  - Performance Research: iteratively analyzing and optimizing
+    software bottlenecks in Zig while leveraging high-
+    performance tools such as SIMD operations to achieve
+    performance requirements.
+  - Code Ownership: lead the implementation, benchmarking, and
+    testing of your validator components from start to finish.
+  - Collaboration: leveraging strong communication skills to
+    break down complex ideas into simple terms and
+    demonstrating a knack for collaboration across a large
+    group of engineers.
+
+  What does success in this role look like?
+
+  - In three months, you have become one of our core Zig
+    developers. You’ll have taken on independent code review
+    responsibilities and are collaborating on the design of
+    new features.
+  - In six months, you have earned the trust of the team and are
+    delivering tasks through the entire SDLC, from design
+    through development with minimal guidance, and are helping
+    to effectively mentor new engineers joining the team.
+  - In twelve months, you have established a cadence of
+    predictable, on-time delivery without cutting corners.
+
+  Want to stand out?
+
+  Contribute to the open-source Sig codebase here!
+industries:
+  - Blockchain
+  - Web3
+posted_date: 2026-08-06
+url: "https://builtin.com/job/senior-software-engineer-zigrust/4468930"
+source: Built In

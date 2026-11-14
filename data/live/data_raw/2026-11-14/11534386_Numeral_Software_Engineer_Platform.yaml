@@ -1,0 +1,134 @@
+job_id: 11534386
+title: Software Engineer, Platform
+company: Numeral
+location: USA
+locations:
+  - USA
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 85 Employees
+description: |
+  About Numeral:
+
+  At Numeral, we're building the future of tax by bringing
+  together AI agents, human expertise, and global compliance.
+
+  We’re the largest and fastest-growing AI-native tax
+  solution. Today, we serve more than 3,500 global businesses,
+  including companies like Supabase, Eight Sleep, and Graza.
+  We’ve grown quickly across our core e-commerce and software
+  segments, more than tripled our revenue every year, and
+  expanded into new industries, including manufacturing,
+  distribution, and wholesale.
+
+  Numeral has raised over $157M from Insight Partners,
+  Salesforce Ventures, Benchmark, Mayfield, Y Combinator, and
+  many others.
+
+
+
+  About the role:
+
+  We’re looking for a Senior Software Engineer, Platform to
+  build the services, infrastructure, and developer interfaces
+  that power Numeral.
+
+  Our platform team works across infrastructure, our public
+  API, our MCP server, and integrations with billing platforms
+  and ERPs. You’ll help make our systems more reliable and
+  scalable while building new ways for customers and partners
+  to connect with Numeral.
+
+  This is a hands-on role with meaningful ownership. You’ll
+  take projects from design through production, contribute to
+  architecture decisions, and work closely with product and
+  engineering teams to make tax automation work reliably for
+  our customers.
+
+  What you’ll do:
+
+  - Build and evolve our public API and MCP server, making it
+    easy for customers, developers, and AI tools to work with
+    Numeral.
+  - Build integrations with billing platforms and ERPs, handling
+    data synchronization, workflow automation, and the real-
+    world complexity of financial data.
+  - Improve the infrastructure behind our platform, supporting
+    reliable APIs, background jobs, and data pipelines as
+    transaction volumes grow.
+  - Own projects end to end, including technical design,
+    implementation, rollout, and ongoing operation.
+  - Improve observability, performance, and incident response so
+    we can identify problems quickly and prevent repeat
+    issues.
+  - Automate infrastructure and deployment workflows through
+    infrastructure-as-code, CI/CD, and container tooling.
+  - Partner with product and engineering teams to ship new
+    capabilities while keeping our systems dependable and
+    maintainable.
+
+
+
+  What you’ll bring:
+
+  - 5+ years of experience building and operating backend
+    software or platform systems in production.
+  - Strong backend engineering skills, with experience in
+    Node.js, PostgreSQL, and Redis, or comparable
+    technologies.
+  - Experience building APIs, integrations, or data pipelines,
+    with attention to correctness, error handling, and
+    maintainability.
+  - Practical experience with AWS or another cloud platform and
+    containerized workloads using ECS, Kubernetes, or similar
+    tools.
+  - An understanding of distributed systems fundamentals,
+    including retries, idempotency, queues, and failure
+    recovery.
+  - Experience using logs, metrics, and tracing to debug
+    production issues and improve system reliability.
+  - The ability to work through ambiguity, make pragmatic
+    technical decisions, and communicate tradeoffs clearly.
+  - Ownership and customer focus: you follow through, care about
+    how your work performs in production, and connect
+    technical decisions to customer needs.
+
+  Nice to haves:
+
+  - Experience with payments, tax, accounting, or other systems
+    where financial data needs to be accurate and auditable.
+  - Experience integrating with billing platforms or ERPs.
+  - Experience building public APIs, developer tooling, or MCP
+    servers.
+  - A background in infrastructure or platform engineering,
+    including Terraform, CI/CD, or observability tooling.
+  - Experience with event-driven systems or evolving a growing
+    application’s architecture.
+
+  Location:
+
+  - This role is hybrid (3 days a week in our SF or NY office)
+    or remote
+
+  What we offer:
+
+  - Competitive salary and equity - you'll share directly in the
+    company's success
+  - Full medical, dental, and vision coverage
+  - Wellness perks like Headspace and the Peloton One App
+  - 401(k) to help you build long-term financial security
+  - Relocation assistance to NYC or SF (if needed)
+  - Lunch and snacks when you're in the office
+  - Regular team offsites and company events as we grow
+  - A culture built on ownership - your work matters and people
+    will see it!
+industries:
+  - Fintech
+  - Productivity
+  - Software
+  - Financial Services
+posted_date: 2026-10-06
+url: "https://builtin.com/job/software-engineer-platform/11534386"
+source: Built In

@@ -1,0 +1,145 @@
+job_id: 11291295
+title: "Software Engineer: Financial Data"
+company: Rogo
+location: New York, USA
+work_type: FULL_TIME
+company_size: 55 Employees
+description: |
+  Why Rogo
+
+  Our mission is to transform global finance by empowering
+  professionals at the world's top investment banks, private
+  equity funds, and investment firms with AI that delivers
+  unparalleled speed, accuracy, and insight. We're not just
+  improving financial workflows; we're redefining them.
+
+  This is a unique opportunity to join a generational company
+  driving transformation in one of the most important
+  industries in the world. With a rapidly growing, global
+  client base, proven product-market fit, and backing from
+  world-class investors, we are scaling quickly and defining a
+  new category of enterprise AI.
+
+  Our team is sharp, motivated, and deeply committed to Rogo’s
+  mission. We take ownership of complex problems and stay
+  relentlessly focused on our users. If you thrive in a fast-
+  paced environment, demand excellence, and want to help build
+  the future of finance, we invite you to join us.
+
+  What You Will Own
+
+  As a Backend Engineer on the Financial Data team, you'll be
+  at the cutting edge of what makes Rogo's AI possible — the
+  systems that source, integrate, transform, and serve
+  structured and unstructured financial data at scale. This is
+  a critical role at the heart of the product.
+
+  - Own critical data infrastructure: Take complex requirements
+    and turn them into robust, scalable solutions that ingest,
+    transform, and serve financial datasets reliably — end to
+    end, from conception to production.
+  - Architect for scale and performance: Design and build highly
+    scalable, cost-effective data processing pipelines that
+    handle millions of documents and datapoints daily with
+    very low latency and maximum throughput.
+  - Drive data integration: Build systems that connect
+    heterogeneous financial datasets — market data vendors,
+    proprietary sources, third-party providers — into
+    coherent, reliable, queryable platforms that power Rogo's
+    AI layer.
+  - Enable AI with great data: Work closely with the Core AI
+    team to ensure financial data is structured, clean, and
+    served in ways that maximize the performance and
+    reliability of Rogo's models and retrieval systems.
+    Critically, the data pipelines, transformations, and
+    interfaces you build are themselves powered by the same AI
+    techniques and innovation used across the rest of the
+    platform — you are not just feeding the machine, you are
+    part of it.
+  - Handle customer data with care: Build secure, compliant
+    integrations that treat enterprise customer data with the
+    highest standards of trust, privacy, and reliability —
+    from ingestion through to serving.
+  - Raise the bar: Lead by example — write the kind of code,
+    make the kind of decisions, and bring the kind of energy
+    that naturally elevates everyone around you.
+  - Be a cultural anchor: Foster a culture of learning, craft,
+    and ownership not through direction, but through how you
+    show up every day.
+
+  What You Will Need
+
+  - Bachelor's in Computer Science or related field.
+  - 5+ years of professional software engineering experience,
+    with a proven track record building complex, data-
+    intensive backend systems.
+  - 5+ years of hands-on experience with GCP or equivalent cloud
+    stack, building and scaling production-grade services.
+  - Deep expertise in Python for backend and API systems;
+    proficiency in at least one strongly typed language (Rust,
+    C++, or Java), with Java being a strong plus.
+  - Mastery in designing large-scale distributed systems —
+    asynchronous patterns, streaming, queuing, caching
+    strategies, and robust observability (logging, metrics,
+    tracing).
+  - Strong command of relational databases and SQL — schema
+    design, query optimization, indexing — alongside NoSQL,
+    in-memory (Redis), and columnar stores (BigQuery,
+    Snowflake, Redshift).
+  - Proven experience building and operating large-scale data
+    pipelines — both streaming and batch — integrating
+    heterogeneous financial data sources with high reliability
+    and throughput.
+  - 3+ years of experience managing or working closely with
+    globally distributed engineering teams.
+  - Exceptional communication skills — able to articulate
+    complex technical concepts to both technical and non-
+    technical stakeholders, and to influence engineering
+    direction across teams without direct authority.
+  - Track record of shipping high-quality products in
+    unstructured, fast-moving environments with full autonomy
+    from conception to deployment.
+  - Demonstrated passion for corporate finance, capital markets,
+    and financial data — you understand the standards,
+    workflows, and zero-tolerance for data quality issues that
+    investment professionals demand.
+
+  Who You Are
+
+  - You thrive in fast-paced environments. You are high-
+    intensity and care a lot about what you do, and you're
+    ecstatic to work at a startup.
+  - You are ambitious. You have fun solving problems that others
+    think are impossible.
+  - You are curious. You find joy in learning about AI,
+    technology, and finance.
+  - You are an owner. You are autonomous, self-directed, and
+    comfortable working with ambiguity.
+  - You are collaborative, organized, thoughtful, and kind.
+
+  Why Join Rogo?
+
+  - Up and to the right: Rogo has strong product adoption with
+    the world's leading financial institutions, and we are
+    still early. The upside is enormous.
+  - Extraordinary team: we take talent density seriously. You'll
+    do the best work of your career alongside some of the
+    sharpest people in AI and finance.
+  - A one-of-one problem: bringing AI to the core of how Wall
+    Street works is one of the most ambitious, technically
+    demanding, and consequential problems today. There is
+    nowhere else you can work on it at this scale.
+  - Real ownership: You'll own real surface area and watch the
+    world's most sophisticated users rely on your work.
+  - Always at the frontier: we work at the edge of what the best
+    models can do and turn it into products people trust. If
+    you're obsessed with AI, this is where it's happening.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Natural Language Processing
+  - Software
+  - Analytics
+posted_date: 2026-09-21
+url: "https://builtin.com/job/software-engineer-financial-data/11291295"
+source: Built In

@@ -1,0 +1,226 @@
+job_id: 4703413
+title: Senior Software Engineer, Server Fleet Infrastructure
+company: CoreWeave
+location: Bellevue, USA
+locations:
+  - Bellevue, USA
+  - New York, USA
+  - Livingston, USA
+  - Sunnyvale, USA
+work_type: FULL_TIME
+company_size: 1,450 Employees
+description: |
+  CoreWeave is The Essential Cloud for AI™. Built for pioneers
+  by pioneers, CoreWeave delivers a platform of technology,
+  tools, and teams that enables innovators to build and scale
+  AI with confidence. Trusted by leading AI labs, startups,
+  and global enterprises, CoreWeave combines superior
+  infrastructure performance with deep technical expertise to
+  accelerate breakthroughs and turn compute into capability.
+  Founded in 2017, CoreWeave became a publicly traded company
+  (Nasdaq: CRWV) in March 2025. Learn more at
+  www.coreweave.com.
+
+  What You’ll Do:
+
+  The Fleet Provisioning Automation (FPA) team is responsible
+  for the automated provisioning and lifecycle management of
+  CoreWeave’s rapidly growing fleet of hardware nodes and node
+  types. The team streamlines and coordinates node bring-up,
+  hardware RMA, data center operations, and platform services
+  into a cohesive, high-reliability engine of fleet
+  management. This group sits at the intersection of hardware,
+  data center operations, and platform engineering, building
+  the software that keeps our global fleet healthy and ready
+  for customer workloads.
+
+  About the Role:
+
+  As a Senior Software Engineer on the Fleet Provisioning
+  Automation team, you will design and build backend services
+  and APIs that automate provisioning, configuration, and
+  lifecycle operations for CoreWeave’s globally distributed
+  bare metal fleet. You will primarily work in Go to implement
+  gRPC APIs that integrate with Kubernetes, vendor and
+  internal services, and data center tooling. Your work will
+  focus on turning complex, multi-step operational procedures
+  into simple, safe, and auditable automation for internal
+  users operating at hyperscale.
+
+  In this role, you will:
+
+  - Design and implement backend services and APIs (primarily
+    gRPC in Go) that orchestrate provisioning, configuration,
+    and lifecycle operations across CoreWeave’s global server
+    fleet.
+  - Develop Kubernetes custom resource definitions (CRDs) to
+    automate provisioning and lifecycle management of
+    CoreWeave’s entire server fleet.
+  - Model and evolve RPC schemas and data contracts used by
+    other engineering and operations teams to integrate with
+    fleet provisioning workflows.
+  - Build integrations with vendor and internal APIs to make
+    hardware and data center processes robust, transparent,
+    and easy to operate at scale.
+  - Collaborate closely with hardware engineering, data center
+    operations, and platform teams to design solutions to
+    problems of scale for multi-site deployment and management
+    of CoreWeave’s global hardware fleet.
+  - Create test plans, deployment automation, and supporting
+    tooling that enable safe rollouts and continuous
+    improvement of fleet provisioning services.
+  - Participate in the Fleet Provisioning Automation on-call
+    rotation and help drive incident response and post-
+    incident improvements.
+
+  Who You Are:
+
+  - 5+ years of experience in software or infrastructure
+    engineering building and operating production backend or
+    infrastructure services.
+  - Proficiency in Go for building networked services and APIs
+    (gRPC and REST) in production environments.
+  - Experience designing and implementing distributed systems
+    that operate reliably at scale, including concurrency,
+    failure handling, and resiliency patterns.
+  - Strong understanding of Linux systems and how to debug
+    issues across processes, networking, and storage.
+  - Experience with Kubernetes or similar container
+    orchestration platforms and their APIs (for example,
+    interacting with custom resources, controllers, or
+    operators).
+  - Familiarity with CI/CD tooling (such as Argo, Flux, or
+    GitHub Actions) to ship and operate services safely and
+    frequently.
+  - Bachelor’s degree in Computer Science, Engineering, or a
+    related field, or equivalent practical experience.
+
+  Preferred:
+
+  - Experience designing and operating services that automate
+    lifecycle management for large fleets of physical servers
+    or other hardware.
+  - Experience with infrastructure automation and configuration
+    management tools (for example, Ansible, Puppet, Chef, or
+    Salt).
+  - Experience integrating with vendor APIs and internal systems
+    to coordinate multi-step operational workflows.
+  - Experience with multi-datacenter or regionally distributed
+    systems, including thinking about failure domains,
+    capacity, and rollout strategies.
+
+  Wondering if you’re a good fit? We believe in investing in
+  our people, and value candidates who can bring their own
+  diversified experiences to our teams – even if you aren't a
+  100% skill or experience match. Here are a few qualities
+  we’ve found compatible with our team. If some of this
+  describes you, we’d love to talk.
+
+  - You enjoy building backend APIs and distributed services
+    that automate real-world infrastructure operations at
+    scale.
+  - You are curious about how large fleets of bare metal servers
+    are provisioned, updated, and repaired across many data
+    centers.
+  - You are excited to collaborate with hardware, data center,
+    and platform engineers to turn complex procedures into
+    reliable automation.
+
+  Why CoreWeave?
+
+  At CoreWeave, we work hard, have fun, and move fast!  We’re
+  in an exciting stage of hyper-growth that you will not want
+  to miss out on. We’re not afraid of a little chaos, and
+  we’re constantly learning. Our team cares deeply about how
+  we build our product and how we work together, which is
+  represented through our core values:
+
+  - Be Curious at Your Core
+  - Act Like an Owner
+  - Empower Employees
+  - Deliver Best-in-Class Client Experiences
+  - Achieve More Together
+
+  We support and encourage an entrepreneurial outlook and
+  independent thinking. We foster an environment that
+  encourages collaboration and enables the development of
+  innovative solutions to complex problems. As we get set for
+  takeoff, the organization's growth opportunities are
+  constantly expanding. You will be surrounded by some of the
+  best talent in the industry, who will want to learn from
+  you, too. Come join us!
+
+  The base pay for this position range from $139,000 to
+  $242,000 accordingly. Pay is based on a number of factors
+  including market location and may vary depending on job-
+  related knowledge, skills, and experience. This position
+  includes a discretionary bonus, equity, and a comprehensive
+  benefits package.
+
+  What We Offer
+
+  In addition to a competitive salary, we offer a variety of
+  benefits to support your needs. The benefits below reflect
+  our US-based offerings for full-time employees; for roles in
+  other locations, benefits vary and are shared during the
+  hiring process. These include:
+
+  - Medical, dental, and vision insurance - 100% paid for by
+    CoreWeave
+  - Company-paid Life Insurance
+  - Voluntary supplemental life insurance
+  - Short and long-term disability insurance
+  - Flexible Spending Account
+  - Health Savings Account
+  - Tuition Reimbursement
+  - Ability to Participate in Employee Stock Purchase Program
+    (ESPP)
+  - Mental Wellness Benefits through Spring Health
+  - Family-Forming support provided by Carrot
+  - Paid Parental Leave
+  - Flexible, full-service childcare support with Kinside
+  - 401(k) with a generous employer match
+  - Flexible PTO
+  - Catered lunch each day in our office and data center
+    locations
+  - A casual work environment
+  - A work culture focused on innovative disruption
+
+  California Applicants
+
+  California Consumer Privacy Act
+
+  Equal Opportunity & Accommodations
+
+  CoreWeave is an equal opportunity employer, committed to
+  fostering an inclusive and supportive workplace. All
+  qualified applicants and candidates will receive
+  consideration for employment without regard to race, color,
+  religion, sex, disability, age, sexual orientation, gender
+  identity, national origin, veteran status, or genetic
+  information.
+
+  As part of this commitment and consistent with the Americans
+  with Disabilities Act (ADA), CoreWeave will ensure that
+  qualified applicants and candidates with disabilities are
+  provided reasonable accommodations for the hiring process,
+  unless such accommodation would cause an undue hardship. If
+  reasonable accommodation is needed, please contact:
+  careers@coreweave.com.
+
+  Export Control Compliance
+
+  This position requires access to technology and/or source
+  code subject to U.S. export control laws. Any such access
+  will be provided only in compliance with applicable U.S.
+  export control requirements. As part of the recruitment
+  process, CoreWeave may request limited information
+  reasonably necessary to assess applicable export-control
+  requirements.
+industries:
+  - Cloud
+  - Information Technology
+  - Machine Learning
+posted_date: 2026-08-12
+url: "https://builtin.com/job/software-engineer-infrastructure/4703413"
+source: Built In

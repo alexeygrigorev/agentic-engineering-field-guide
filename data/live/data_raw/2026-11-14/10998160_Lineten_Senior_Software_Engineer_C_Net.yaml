@@ -1,0 +1,74 @@
+job_id: 10998160
+title: "Senior Software Engineer (C# / .Net)"
+company: Lineten
+location: London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 51 Employees
+description: |
+  What we do
+
+  LineTen is on a mission to crack the code on urban delivery.
+  By leading with our values and putting carrier partners
+  first, we are paving the way for better delivery
+  experiences. LineTen is a new approach to delivery with a
+  free carrier API and an operations management platform for
+  shippers. We're building the first global data-driven last-
+  mile network that has the potential to solve industry-wide
+  problems.
+
+  We’re hiring a Senior Software Engineer who treats software
+  as a craft, not a checklist. You’ll join a small, high-trust
+  team where ownership is expected, curiosity is encouraged,
+  and outcomes matter more than activity. This is not a
+  ticket-factory role: you’ll be expected to think critically,
+  challenge assumptions, design robust solutions, and take
+  responsibility for their long-term success.
+
+  You’ll work across backend services, distributed systems and
+  frontend integrations, with a strong focus on correctness,
+  maintainability and architectural clarity. You’ll also use
+  AI-assisted development tools responsibly, understanding
+  that speed only matters when paired with strong design,
+  testing and review discipline.
+
+  How you’ll work
+
+  - Operate with high ownership in a low-process environment
+  - Proactively look for what can be improved rather than
+    waiting for direction
+  - Value correctness, clarity and maintainability over “it just
+    works”
+  - Work outside strict role boundaries when needed, without
+    feeding burnout culture
+  - Communicate technical decisions clearly and push back
+    constructively when required
+
+  Core technical skills
+
+  - C# / .NET 8+, Entity Framework Core, async/await, MediatR /
+    CQRS
+  - Strong understanding of distributed systems: consistency
+    models, event-driven patterns, idempotency, race
+    conditions
+  - Experience with Redis caching, Azure Blob Storage, and data-
+    modelling trade-offs
+  - API design: RESTful contracts, versioning, webhooks, long-
+    running operations (202 Accepted patterns)
+  - Real-time & frontend integration: SignalR / WebSockets, SPA
+    frameworks (Vue / Nuxt or similar), TypeScript
+
+  What good looks like
+
+  - You leave systems clearer, more correct, and easier to
+    evolve
+  - Problems are solved at the right level, not patched over
+  - Trade-offs are explicit and understood
+  - Other engineers trust your judgement and the quality of your
+    code
+industries:
+  - eCommerce
+  - Logistics
+posted_date: 2026-09-03
+url: "https://builtin.com/job/senior-software-engineer-c-net/10998160"
+source: Built In

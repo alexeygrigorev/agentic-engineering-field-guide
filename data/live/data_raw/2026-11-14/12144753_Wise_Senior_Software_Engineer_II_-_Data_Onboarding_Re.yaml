@@ -1,0 +1,180 @@
+job_id: 12144753
+title: "Senior Software Engineer II - Data Onboarding & Reporting"
+company: Wise
+location: London, GBR
+work_type: FULL_TIME
+company_size: 9,000 Employees
+description: |
+  Company Description
+
+  Wise is a global technology company, building the best way
+  to move and manage the world’s money. Min fees. Max ease.
+  Full speed.
+
+  Whether people and businesses are sending money to another
+  country, spending abroad, or making and receiving
+  international payments, Wise is on a mission to make their
+  lives easier and save them money.
+
+  As part of our team, you will be helping us create an
+  entirely new network for the world's money. For everyone,
+  everywhere.
+
+  More about our mission and what we offer.
+
+  Job Description
+
+  About the Role:
+
+  Wise is on a mission to create money without borders—making
+  it instant, transparent, and eventually free. To support
+  this rapid global growth, our Finance Squad ensures that our
+  financial processes run in an efficient, scalable, and
+  controlled manner.
+
+  We are looking for a talented Senior Software Engineer II to
+  join our Data Onboarding Team in London. In this role, you
+  will be the driving force behind building, scaling, and
+  optimizing the critical data pipelines on top of our
+  Lakehouse (Trino + Iceberg) infrastructure following a
+  strict Medallion Architecture (Bronze, Silver, Gold layers).
+  You will build robust data pipelines that serve as the
+  foundational bedrock for reporting and assurance across the
+  entire Finance squad.
+
+  The Finance Squad is responsible for steward-shipping the
+  financial truth of Wise. The Data Onboarding team operates
+  alongside Core Accounting, Finance Implementation, and Data
+  & Assurance. Our team's mandate is to abstract product
+  complexity and build reusable, domain-agnostic stream-
+  enrichment pipelines. We handle high-throughput financial
+  event data (processing hundreds of millions of events daily)
+  to bridge the gap between immutable product events and
+  audit-ready data structures.
+
+  What will you be working on?
+
+  Technical Leadership & Pipeline Engineering
+
+  - Lakehouse Architecture: Design, build, and optimize robust
+    end-to-end data pipelines on top of our Trino + Iceberg
+    Lakehouse stack.
+  - Medallion Implementation: Own the extraction, cleaning, and
+    modeling layers to progressively refine raw event logs
+    (Bronze) into verified subledgers (Silver) and structured
+    Gold metrics.
+  - Stream Processing: Work closely with high-throughput
+    messaging queues (Kafka) and real-time computation models
+    to maintain our data freshness SLAs.
+  - Data Quality & Assurance: Embed rigorous, automated
+    reconciliation checks within the data pipelines (e.g.,
+    balance and double-entry validations) to catch data
+    discrepancies before they reach financial reporting
+    layers.
+
+  Strategic Impact & Collaboration
+
+  - Product & Stakeholder Alignment: Partner directly with
+    finance controllers, analysts, product and engineering to
+    turn complex corporate finance needs into production-ready
+    data schemas.
+  - Platform Alignment: Address data scaling constraints,
+    structural technical debt, and compute optimizations to
+    directly align infrastructure costs with Wise's financial
+    targets.
+
+  Mentorship & Engineering Excellence
+
+  - Upskilling: Assist and coach mid-level/junior engineers
+    within the team, performing thorough code and technical
+    design reviews.
+
+  Must Haves (Hard Skills)
+
+  - Data Lakehouse Mastery: Proven experience building data
+    infrastructure using Trino / Presto and open table formats
+    like Apache Iceberg or Delta Lake.
+  - Advanced Data Modeling: Deep expertise in Medallion
+    Architecture patterns, Star Schemas, and processing semi-
+    structured financial data logs (JSON/Avro).
+  - Robust ETL/ELT Orchestration: Expert proficiency in data
+    transformation engines (such as dbt) and scheduling tools
+    (such as Airflow).
+  - Stream/Message Queues: Solid understanding of event-driven
+    architectures and streaming processing via Apache Kafka.
+  - Strong Programming Foundations: Proficiency in Python, SQL,
+    or an Object-Oriented language (Java/Scala).
+
+  Nice to Haves
+
+  - Experience operating data assets within a regulated
+    SOX/PCAOB compliance environment.
+  - Familiarity with cloud data warehouses (e.g., Snowflake) and
+    cloud compute orchestration.
+  - Prior domain exposure to financial flows, double-entry
+    ledger systems, or accounting integrations.
+
+  Soft Skills
+
+  - A strong sense of long-term technical ownership.
+  - Excellent communication skills with the ability to bridge
+    technical engineering realities with financial analyst
+    requirements.
+
+  What We Offer / Selling Points
+
+  - The rare opportunity to help engineer the core "Engine of
+    Trust" for a fast-growing global fintech moving billions
+    in cross-border volume.
+  - A chance to work beyond isolated data pipelines, building
+    reusable libraries and system-wide framework layers rather
+    than bespoke, one-off fixes.
+  - Direct interaction and collaboration with top-tier product
+    minds, data platform engineers, and global financial
+    stakeholders.
+
+  Interested? Find out more:
+
+  - How we work – a practical guide
+  - DEI @ Wise
+  - Wise Tech Stack (2025 update)
+
+  What do we offer:
+
+  - Starting salary: £111k - £145k + RSUs
+  - Wise Benefits
+  - #LI-AB3 #LI-Hybrid
+  - Paved Paths: Create structured framework documentation and
+    automated tooling to reduce onboarding friction for new
+    data sources.
+  - See what it's like to work at Wise London!
+  - Our Engineering career map
+  - Wise Engineering - https://medium.com/wise-engineering
+
+  Additional Information
+
+  For everyone, everywhere. We're people building money
+  without borders  — without judgement or prejudice, too. We
+  believe teams are strongest when they are diverse, equitable
+  and inclusive.
+
+  We're proud to have a truly international team, and we
+  celebrate our differences. Inclusive teams help us live our
+  values and make sure every Wiser feels respected, empowered
+  to contribute towards our mission and able to progress in
+  their careers.
+
+  If you want to find out more about what it's like to work at
+  Wise visit Wise.Jobs.
+
+  Keep up to date with life at Wise by following us on
+  LinkedIn and Instagram.
+industries:
+  - Fintech
+  - Mobile
+  - Payments
+  - Software
+  - Financial Services
+posted_date: 2026-11-09
+url: "https://builtin.com/job/senior-software-engineer-ii-data-onboarding-reporting/12144753"
+source: Built In

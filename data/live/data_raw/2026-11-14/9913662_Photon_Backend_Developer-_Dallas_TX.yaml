@@ -1,0 +1,104 @@
+job_id: 9913662
+title: Backend Developer- Dallas, TX
+company: Photon
+location: USA
+locations:
+  - USA
+  - Dallas, USA
+remote: true
+work_type: FULL_TIME
+company_size: 5,017 Employees
+description: |
+  We are seeking a highly skilled Backend Engineer to design,
+  develop, and scale mission-critical backend services. In
+  this role, you will be responsible for building robust
+  microservices and real-time event-processing systems that
+  handle complex business logic and high-volume data streams.
+  The ideal candidate thrives in a cloud-native environment
+  and has a deep understanding of distributed systems and
+  event-driven patterns.
+
+  Key Responsibilities
+
+  - Microservices Development: Design and implement scalable,
+    high-performance microservices using Java and the Spring
+    Boot ecosystem.
+  - Event-Driven Architecture: Architect and maintain event-
+    driven systems utilizing Apache Kafka for seamless
+    asynchronous communication and real-time event processing.
+  - API Design: Develop and document secure, versioned RESTful
+    APIs to support internal services and external
+    integrations.
+  - Business Logic Implementation: Translate complex functional
+    requirements into efficient business rules and logic
+    within the application layer.
+  - Cloud Infrastructure: Deploy and manage containerized
+    applications on AWS EKS (Elastic Kubernetes Service),
+    ensuring optimal resource utilization and high
+    availability.
+  - System Integration: Integrate backend components with
+    various AWS services to enhance scalability, storage, and
+    monitoring capabilities.
+  - Quality & Performance: Write clean, maintainable, and well-
+    tested code while performing regular performance tuning
+    and troubleshooting of distributed systems.
+
+  Required Technical Skills
+
+  - Core Languages: Proficiency in Java (JDK 11+).
+  - Frameworks: Extensive experience with Spring Boot (Spring
+    Cloud, Spring Security, Spring Data).
+  - Messaging & Streaming: Hands-on experience with Apache
+    Kafka, including producers, consumers, and Kafka Streams.
+  - Cloud & Orchestration: Proven experience with AWS services,
+    specifically AWS EKS, EC2, S3, and IAM.
+  - Architecture: Strong understanding of Microservices
+    architecture and Event-Driven Architecture (EDA).
+  - Web Services: Expert knowledge of REST API design principles
+    and JSON/XML.
+  - Database & Logic: Experience managing event processing
+    workflows and implementing complex business rules engines.
+  - DevOps Tools: Familiarity with Docker, Kubernetes, and CI/CD
+    pipelines.
+
+  Preferred Qualifications
+
+  - Experience with SQL and NoSQL databases (e.g., PostgreSQL,
+    MongoDB, or DynamoDB).
+  - Understanding of distributed tracing and monitoring tools
+    (e.g., Prometheus, Grafana, or AWS CloudWatch).
+  - Knowledge of reactive programming or functional programming
+    patterns in Java.
+  - Background in designing systems for financial services or
+    high-frequency data environments.
+
+
+
+
+
+
+
+
+
+
+
+  Compensation, Benefits and Duration
+
+
+
+  Minimum Compensation: USD 39,000 Maximum Compensation: USD
+  137,000 Compensation is based on actual experience and
+  qualifications of the candidate. The above is a reasonable
+  and a good faith estimate for the role. Medical, vision, and
+  dental benefits, 401k retirement plan, variable
+  pay/incentives, paid time off, and paid holidays are
+  available for full time employees. This position is not
+  available for independent contractors No applications will
+  be considered if received more than 120 days after the date
+  of this post
+industries:
+  - Agency
+  - Information Technology
+posted_date: 2026-08-16
+url: "https://builtin.com/job/backend-developer-dallas-tx/9913662"
+source: Built In

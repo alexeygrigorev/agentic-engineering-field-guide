@@ -1,0 +1,99 @@
+job_id: 9719724
+title: SDET -  Senior Software Developer Engineer in Test (SDET)
+company: Standard Bots
+location: Glen Cove, USA
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  About Standard Bots
+
+  Standard Bot’s mission is to significantly lower the barrier
+  to entry to real-world automation, bringing the power of
+  bits to the world of atoms and unlocking productivity for
+  entire new industries and users.
+
+  Our user facing applications and APIs unlock the power of
+  automation for entire new use cases. A relentless focus on
+  simplicity and ease of use brings the revolutionary
+  potential of robotic automation to new users and industries.
+
+  Notes This role will be required to come into our Glen Cove
+  robotics factory 5 days/week
+
+  What You'll Do
+
+  You write the code that proves our software works. SDETs are
+  developers first. You build the test-automation and feature
+  test suites the rest of QA runs on, and you validate
+  features in real time alongside the engineers building them,
+  so bugs are caught before they become tickets
+
+  Responsibilities
+
+  - Build and own automated tests and feature test suites (end-
+    to-end, integration)
+  - Validate features in real time during the sprint, partnering
+    tightly with developers so defects are solved as they
+    appear.
+  - Hand off maintainable feature test code to Systems Test
+    Engineers and support them as they extend it.
+  - Build SW-based mocks/simulators for hardware (e.g.,
+    grippers) so testing isn't gated on physical hardware.
+  - Develop tooling and infrastructure that makes the whole QA
+    org faster (test data, reporting).
+  - Review designs and PRs for testability and push coverage
+    upstream into development.
+
+  Skills You'll Bring
+
+  - Quality-First Mindset: Quality is the job, not a gate at the
+    end of it. You value simplicity, reliability, and velocity
+    in equal measure, treat every escaped defect as a process
+    to fix, and would rather prevent a bug than file one.
+  - Strong Software Engineering: 3+ years (or strong equivalent)
+    writing production-quality code daily in Python,
+    TypeScript/JavaScript, or similar.
+  - Test Automation & Frameworks: Deep experience in automated
+    test infrastructure (Playwright, pytest, Jest) and CI/CD
+    pipelines.
+  - Systems Thinking: Comfortable debugging
+    networked/distributed systems.
+  - Collaboration: You enjoy pairing with developers and Systems
+    Engineers.
+
+  Who You Are
+
+  A quality-first developer, first and foremost. Someone who
+  measures their work by what doesn't break in the field, and
+  who wants to apply strong software skills to robotic
+  quality. No robotics background required.
+
+  Nice To Have
+
+  - Hardware-in-the-loop or system-level testing
+  - Embedded systems or real-time applications
+  - ROS2, Docker, or robotics software stacks
+
+  Compensation and Benefits:
+
+  The salary range for this role is $110,000 to $150,000,
+  depending on experience. We are open to a variety of
+  seniority levels for this role and will build compensation
+  packages that are commensurate with seniority and skill
+  level. Base salary is just one part of the overall
+  compensation at Standard Bots. All Full-Time Employees are
+  eligible for Employee Stock Options. We also offer a package
+  of benefits including paid time off, medical/dental/vision
+  insurance, life insurance, disability insurance, and 401(k)
+  to regular full-time employees.
+industries:
+  - Artificial Intelligence
+  - Productivity
+  - Robotics
+  - Industrial
+  - Generative AI
+  - Automation
+  - Manufacturing
+posted_date: 2026-09-22
+url: "https://builtin.com/job/sdet-senior-software-developer-engineer-test-sdet/9719724"
+source: Built In

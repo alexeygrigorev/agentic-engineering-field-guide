@@ -1,0 +1,152 @@
+job_id: 10991374
+title: Senior Software Engineer, Backend
+company: Aalyria
+location: London, GBR
+work_type: FULL_TIME
+company_size: 83 Employees
+description: |
+  About Aalyria:
+
+  Aalyria is a leading technology company that supplies laser
+  communications technology and temporospatial software-
+  defined networking platforms to the aerospace industry. With
+  technology acquired from Google, Aalyria is at the forefront
+  of innovation in satellite and airborne mesh networks, as
+  well as cislunar and deep-space communications. We are
+  revolutionizing the orchestration and management of
+  planetary mesh networks using any radio or optical spectrum,
+  any orbit, and any hardware across land, sea, air, and
+  space.
+
+  Role Overview:
+
+  We are looking for a strong backend Software Engineer to
+  join the Spacetime team and help build the next generation
+  of our platform: orchestration of 5G Non-Terrestrial
+  Networks (NTN) and Direct-to-Cell services, and coordination
+  between satellite operators and terrestrial mobile networks
+  through 3GPP- and O-RAN-aligned interfaces.
+
+  Spacetime orchestrates radio resource management, the
+  scheduling of pointing and handovers for steerable
+  directional antennas and laser terminals, and the control
+  plane for routing and switching across highly dynamic
+  networks such as non-geostationary satellite constellations.
+  In the cellular domain, Spacetime acts as the RIC/SMO for
+  the NTN itself. The NTN work extends the platform with RAN
+  and Core network models and with federation interfaces
+  through which Spacetime coordinates with the SMOs of
+  terrestrial mobile network operators for TN-NTN
+  coordination.
+
+  First and foremost, this is a software engineering role. You
+  will design and build distributed systems in a modern,
+  cloud-native codebase, working side by side with our
+  3GPP/NTN solution architects who own the standards and
+  systems expertise. Engineers on the team routinely pick up
+  the telecom domain as they go, therefore deep prior
+  knowledge of it is a genuine advantage, not a prerequisite.
+
+  Key Responsibilities:
+
+  - Develop and maintain the Spacetime platform using C++,
+    Golang, Java, gRPC, and Protocol Buffers
+  - Build scalable, distributed systems on Kubernetes
+  - Design and develop Spacetime features for 5G NTN and Direct-
+    to-Cell orchestration, including RIC/SMO capabilities for
+    the NTN, network model extensions, and federation APIs for
+    TN-NTN coordination with terrestrial operators' SMOs
+  - Translate 3GPP and O-RAN concepts and interface
+    specifications into clean, well-tested software, in
+    collaboration with our solution architects
+  - Integrate with other components of the Aalyria platform to
+    ensure end-to-end functionality
+  - Develop and maintain documentation related to the software
+    design and implementation
+  - Stay up-to-date with industry trends and technologies
+    related to 5G NTN, O-RAN, and satellite communications
+  - Write clean, maintainable, and efficient code
+  - Troubleshoot and debug issues in the software
+
+  Required Qualifications:
+
+  - Bachelor's degree in Computer Science / Engineering or
+    equivalent work experience
+  - Professional experience working in C++, Golang, and/or Java
+  - Knowledge of gRPC and Protocol Buffers
+  - Experience building and operating distributed systems
+  - Familiarity with wireless communications, modeling of
+    wireless performance, or satellite communications
+  - Strong technical communication skills, and ability to
+    communicate across multiple functions
+
+  Preferred Qualifications:
+
+  We know that engineers who combine strong software craft
+  with deep 3GPP/O-RAN domain expertise are rare, and rarer
+  still in 5G NTN. Experience in any of the areas below will
+  make you stand out, but we do not expect any one candidate
+  to cover them all. If you are a great software engineer and
+  these topics excite you, we will give you the environment
+  and the domain experts to master them.
+
+  - Professional software development experience on systems
+    related to 3GPP 4G/5G networks: RAN (eNB/gNB, CU/DU), Core
+    (EPC/5GC), or their management and orchestration (OAM,
+    FCAPS, NRM/network models)
+  - Hands-on experience with the O-RAN architecture: SMO, Non-
+    RT/Near-RT RIC, rApps or xApps, or the O-RAN interfaces
+    (O1, E2, R1)
+  - Familiarity with 3GPP NTN and Direct-to-Cell / Supplemental
+    Coverage from Space concepts (Rel-17+)
+  - Experience implementing or integrating against 3GPP or O-RAN
+    specified APIs and data models (e.g. SA5 NRM, 3GPP SBI,
+    O-RAN R1 service APIs)
+  - Experience with wireless standards work or applying
+    3GPP/ETSI/O-RAN specifications in production software
+  - Hands-on experience working with Kubernetes and cloud-native
+    telecom deployments (CNFs, Helm, service mesh)
+  - Professional experience with performance optimization of
+    distributed systems
+  - Experience working in the aerospace & defense or
+    telecommunications industry
+  - Familiarity with software-defined networking platforms
+
+  What We Offer:
+
+  - Innovative Environment: Work at a cutting-edge company
+    shaping the future of aerospace communications.
+  - Impactful Work: Directly contribute to critical national
+    security programs and initiatives.
+  - Growth Opportunities: Expand your career with opportunities
+    for professional development and advancement.
+  - Inclusive Culture: Be part of a collaborative, supportive,
+    and inclusive workplace where your contributions matter.
+  - Flexibility: Flexible working arrangements including hybrid
+    remote/in-office schedules.
+  - Competitive compensation, Pension Plan, Health insurance, 25
+    days annual leave, Equity
+
+  Work Requirements & Location:
+
+  - Applicants must have the right to work in the United
+    Kingdom.
+  - Work Location: Remote working within the UK.
+
+  Equal Opportunity Employer Statement:
+
+  Aalyria is an Equal Opportunity Employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees. We do not discriminate based
+  on race, color, religion, sex (including pregnancy, gender
+  identity, and sexual orientation), national origin, age,
+  disability status, genetic information, protected veteran
+  status, or any other characteristic protected by law.
+  Qualified applicants from all backgrounds are encouraged to
+  apply.
+industries:
+  - Aerospace
+  - Manufacturing
+posted_date: 2026-09-02
+url: "https://builtin.com/job/senior-software-engineer-backend/10991374"
+source: Built In

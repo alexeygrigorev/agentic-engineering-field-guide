@@ -1,0 +1,158 @@
+job_id: 11713056
+title: Fullstack Engineer
+company: Gallatin AI, Inc.
+location: Austin, USA
+locations:
+  - Austin, USA
+  - New York, USA
+  - Palo Alto, USA
+  - El Segundo, USA
+  - San Francisco, USA
+  - Washington, USA
+work_type: FULL_TIME
+company_size: 45 Employees
+description: |
+  About Gallatin
+
+  At Gallatin, we are rebuilding logistics infrastructure for
+  the national security missions of the United States and
+  allied partners. We build AI systems that determine how
+  logistics decisions are made — not just how they're
+  executed. From factory to foxhole, we operate at the layer
+  where data becomes decisions, and decisions make the
+  advantage.
+
+  About the Role
+
+  As a Fullstack Software Engineer, you’ll build modern tools
+  that hold up under the real-world constraints of Contested
+  Logistics. We’re looking for someone who can build demo-
+  ready, end-to-end flows that make resupply operations
+  smarter, faster, and more resilient. You’ll collaborate
+  every day with a top-notch team of engineers who value
+  thoughtful design and practical impact. If you want to build
+  systems that go beyond the typical cloud-based SaaS product,
+  this could be your next chapter.
+
+  What You'll Do
+
+  - Build and deliver features that support our mission:
+    - Extend our existing API layer with CRUD methods built for
+      performance and accuracy.
+    - Partner with the UX team and backend developers on rapid
+      feature buildouts.
+    - Contribute tested, production-ready code that passes our
+      CI/CD pipeline.
+    - Technical depth in at least one of the following is
+      preferred: TypeScript, Python, SQL, Vue.js.
+  - Design and maintain data models and pipelines that power our
+    Navigator platform:
+    - Define and evolve relational database schemas to represent
+      complex real-world entities.
+    - Use our semantic data modeling SDK to architect efficient
+      storage and retrieval methods.
+    - Build data pipelines to ingest, transform, and distribute
+      data across systems.
+  - Collaborate with cross-functional teammates to improve our
+    systems and practices:
+    - Work closely with product managers, UX designers, and other
+      engineers to ensure features and data models align with
+      user needs and mission outcomes.
+    - Contribute to engineering best practices: from code reviews
+      and documentation, to refining CI/CD pipelines, helping
+      us foster a culture of excellence.
+    - Help define best practices, continuously improve CI/CD
+      workflows, while keeping DX at the forefront.
+
+  What We’re Looking For
+
+  - Fullstack proficiency
+    - Comfortable debugging and navigating issues across the
+      entire stack.
+    - Experience building backend APIs or services in a strongly
+      typed language.
+    - Familiarity with HTTP response codes.
+  - Data modeling and architecture
+    - Hands-on experience with relational databases – designing
+      schemas, writing efficient queries, and ensuring data
+      integrity and performance.
+    - Experience with processing data streams and/or building or
+      maintaining data pipelines/ETL processes to handle
+      complex data flows between multiple systems.
+  - Great communicator
+    - Experience working closely with diverse teams (engineering,
+      product, design) to drive projects to completion.
+    - Clear, concise communication, whether you’re designing
+      system architecture or writing everyday documentation.
+  - Growth mindset
+    - Always seeking to learn and stay current with industry
+      trends and tools.
+
+  Bonus Points
+
+  - Existing security clearance, or experience with government,
+    defense, or aerospace.
+  - Experience building offline-first or progressive web
+    applications (PWAs) that operate smoothly with limited or
+    intermittent connectivity.
+  - Hands-on experience with DevOps or Infrastructure-as-Code
+    (CI/CD pipelines, Docker/Kubernetes, Terraform, etc.).
+  - Experience with cloud-based architecture such as AWS, Azure,
+    Palantir Foundry
+  - Contributions to open-source projects.
+
+  Mission and Identity
+
+  We are building the system that enables faster, smarter
+  logistics decisions in contested environments, and we're
+  doing it with a team of seasoned entrepreneurs, operators,
+  and technologists who have built and scaled solutions in
+  this space before. We hold ourselves to an extremely high
+  standard. We value clear thinking, direct communication, and
+  the kind of ownership that doesn't stop until something
+  actually works.
+
+  Our mission is to create decision advantage when the stakes
+  are the highest. If we succeed, the system doesn't just run;
+  it gets smarter. We're not building AI for its own sake.
+  We're building it because faster, smarter decisions in the
+  most demanding environments on earth can't wait. If you want
+  to work somewhere the stakes are real and the mission is
+  urgent — you'll fit in here.
+
+  Why Gallatin?
+
+  The logistics infrastructure that supports America's
+  warfighters and humanitarian disaster responders is overdue
+  for transformation, and we are building it. From defense
+  operations to disaster response, we're solving the hardest
+  problems that keep missions moving when it matters most.
+  Join a team where the mission is the point. Compensation:
+  Gallatin offers competitive compensation commensurate with
+  experience. Actual compensation may vary based on
+  experience, skills, and location. In addition to base
+  salary, we offer a generous equity grant, full healthcare
+  coverage, 401k, unlimited PTO, and the perks of working in a
+  high-caliber, mission-driven environment.
+
+  Gallatin is an equal opportunity employer. We do not
+  discriminate on the basis of race, color, religion, sex,
+  national origin, age, disability, veteran status, sexual
+  orientation, gender identity, or any other characteristic
+  protected by applicable federal, state, or local law.
+
+  This position may require the ability to obtain and maintain
+  a U.S. government security clearance. The successful
+  candidate must be able to work in a classified environment
+  when necessary.
+
+  We comply with the United States Department of Labor's Pay
+  Transparency provision.
+industries:
+  - Artificial Intelligence
+  - Logistics
+  - Software
+  - Defense
+posted_date: 2026-10-16
+url: "https://builtin.com/job/fullstack-engineer/11713056"
+source: Built In

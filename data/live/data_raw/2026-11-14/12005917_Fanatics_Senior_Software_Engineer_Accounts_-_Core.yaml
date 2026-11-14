@@ -1,0 +1,169 @@
+job_id: 12005917
+title: Senior Software Engineer, Accounts - Core
+company: Fanatics
+location: New York, USA
+work_type: FULL_TIME
+company_size: 7,500 Employees
+description: |
+  About Us
+
+  Fanatics is a leading global sports platform redefining how
+  fans connect with the teams, players and moments they love.
+  Our businesses — Fanatics Commerce, Fanatics Collectibles,
+  Fanatics Betting & Gaming, Fanatics Events, Fanatics
+  Advertising, Fanatics Markets and Fanatics Studios —
+  maximize the presence and reach for hundreds of partners
+  globally and create a one-stop experience that allows fans
+  to buy, bet, collect, and earn, while engaging with sports
+  in deeper, more immersive ways. This includes licensed fan
+  gear and lifestyle products, sportsbook and iGaming,
+  physical and digital trading cards, live events, premium
+  sports entertainment content, credit card offerings and
+  more. Together, they form a powerful, integrated ecosystem —
+  connected by the Fanatics ONE loyalty program and FanCash,
+  the currency of sport — delivering personalized experiences
+  to over 100 million fans worldwide. Fanatics holds
+  partnerships with over 900 sports properties, from
+  professional leagues and players’ associations to teams,
+  colleges and retail partners; over 7,000 athletes and
+  celebrities; and over 2,000 retail locations, including all
+  Lids stores. Backed by a team of more than 22,000 employees,
+  Fanatics is committed to relentlessly enhancing the fan
+  experience.
+
+  About the Team
+
+  Launched in 2021, Fanatics Betting and Gaming is the online
+  and retail sports betting subsidiary of Fanatics, a global
+  digital sports platform. The Fanatics Sportsbook is
+  available to 95% of the addressable online sports bettor
+  market in the U.S. Fanatics Casino is currently available
+  online in Michigan, New Jersey, Pennsylvania and West
+  Virginia. Fanatics Betting and Gaming operates twenty-two
+  retail sports betting locations, including the only
+  sportsbook inside an NFL stadium at Northwest Stadium.
+  Fanatics Betting and Gaming is headquartered in New York
+  with offices in Denver, Leeds and Dublin.
+
+  The Accounts team sits within the Fanatics Betting and
+  Gaming - Shared Services domain and owns the customer
+  account lifecycle, from registration, login, and identity
+  verification to the geolocation, eligibility, and
+  responsible gaming controls that decide whether a customer
+  is allowed to play. Accuracy and customer trust are the
+  team’s core tenets, because customers trust us with their
+  money, their identity, and their personal data.
+
+  We are seeking a Senior Software Engineer to build and
+  maintain the scalable, highly available, and compliant Java
+  services behind the account lifecycle. This is a hands-on
+  engineering role for someone who enjoys owning features end
+  to end, solving complex integration problems, and working
+  closely with product, compliance, and operations partners.
+  This is a US-based remote position.
+
+  Responsibilities
+
+  - Design, build, and maintain Java backend services using
+    Spring Boot or similar frameworks.
+  - Deliver features across registration, KYC, login and MFA,
+    device registration, account management, tax reporting,
+    Fanatics ID integration, and watchlist monitoring.
+  - Build and maintain services that enforce regulatory and
+    responsible gaming requirements, including geolocation,
+    state and self-exclusion, prohibited persons, loss limits,
+    and eligibility.
+  - Build integrations with third-party identity, verification,
+    geolocation, and compliance providers, designing for
+    failure, retries, and data integrity.
+  - Write scalable, well-tested services with strong unit and
+    integration test coverage.
+  - Contribute to architecture and design discussions for APIs,
+    event-driven systems, and data flows.
+  - Troubleshoot complex production issues and take part in the
+    weekly on-call rotation, contributing to runbooks and
+    post-mortems.
+  - Partner with Product, Technical Program Management,
+    Compliance, Support, and client engineering to turn
+    business and regulatory requirements into technical
+    solutions, and take part in sprint planning and agile
+    delivery.
+  - Mentor junior to mid-level engineering teammates through
+    code reviews, design feedback, and pairing.
+  - Follow engineering best practices (CI/CD, testing,
+    observability, feature flagging, documentation) and
+    improve reliability and maintainability by addressing
+    technical debt.
+
+  Experience and Skills
+
+  - 5+ years of professional software engineering experience
+    with Java.
+  - Strong experience building and supporting production Java
+    backend services with Spring Boot or similar frameworks.
+  - Experience developing REST APIs and integrating distributed
+    systems and data flows.
+  - Experience with event-driven architectures such as Kafka or
+    similar messaging platforms.
+  - Experience working in AWS or other cloud environments.
+  - Experience with relational and NoSQL data stores such as
+    Postgres and MongoDB.
+  - Experience using AI tools or coding assistants to improve
+    engineering productivity.
+  - Experience with identity and account systems (registration,
+    authentication, MFA, OAuth2/OIDC), KYC, fraud, or payments
+    is preferred.
+  - Experience with compliance-driven systems such as
+    geolocation, responsible gaming, or regulatory data
+    handling is preferred.
+  - Experience building highly available, regulated, or
+    enterprise-scale applications is preferred.
+  - Experience with observability tooling (for example Datadog)
+    and operating services on call is a plus.
+  - Strong troubleshooting, ownership, and communication skills,
+    with the ability to work independently and with cross-
+    functional partners.
+
+  Depending on the role, your interview and onboarding
+  experience may include in-person components, such as onsite
+  interviews or Launching into Better: LIVE—a multi-day
+  cultural immersion in New York City for full-time, non-
+  seasonal hires. These sessions are designed to build
+  connection and bring our culture to life, though specific
+  travel and participation requirements will be confirmed
+  based on your role and location. Your recruiter will provide
+  clear guidance at each stage of the process.
+
+  For information about our benefits, please visit
+  https://benefitsatfanatics.com/ #LI-VG1
+
+  Ranges will change based on country and state of residence,
+  which are reflected in Geographical Zones defined by
+  Fanatics Betting and Gaming. The range incorporates all of
+  our Geographical Compensation Zones and is subject to change
+  as the Zone associated with the actual offer is confirmed.
+  In addition to the base and bonus, full-time employment, and
+  more. For information about our benefits, please visit
+  https://benefitsatfanatics.com/
+
+  Salary Range
+
+  $144,000—$180,000 USD
+
+  By submitting your application, you agree to our terms of
+  service and acknowledge you have read our Candidate Privacy
+  Policy.
+
+  Fanatics will never ask candidates for money, banking
+  information, or other sensitive personal information as part
+  of the interview process. If you receive a suspicious
+  message claiming to be from Fanatics recruiting, please do
+  not respond and report it here.
+industries:
+  - eCommerce
+  - Retail
+  - Software
+  - Sports
+posted_date: 2026-11-02
+url: "https://builtin.com/job/senior-software-engineer-accounts-core/12005917"
+source: Built In

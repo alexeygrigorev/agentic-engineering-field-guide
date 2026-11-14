@@ -1,0 +1,240 @@
+job_id: 11248619
+title: Senior Infrastructure Software Engineer
+company: Lightning AI
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+  - London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Who We Are
+
+  Lightning AI is the company behind PyTorch Lightning.
+  Founded in 2019, we build an end-to-end platform for
+  developing, training, and deploying AI systems—designed to
+  take ideas from research to production with less friction.
+
+  Through our merger with Voltage Park, a neocloud and AI
+  Factory, Lightning AI combines developer-first software with
+  cost-efficient, large-scale compute. Teams get the tools
+  they need for experimentation, training, and production
+  inference, with security, observability, and control built
+  in.
+
+  We serve solo researchers, startups, and large enterprises.
+  Lightning AI operates globally with offices in New York
+  City, San Francisco, Seattle, and London, and is backed by
+  Coatue, Index Ventures, Bain Capital Ventures, and
+  Firstminute.
+
+  The Way We Work
+
+  The people who thrive here are builders who move fast,
+  communicate openly, take ownership, and continuously improve
+  themselves, their teams, and our company. Here's what that
+  looks like in practice:
+
+  - Move with Urgency: We move quickly, make thoughtful
+    decisions, and keep momentum. We value action over
+    perfection and learn by shipping.
+  - Take Ownership: We own outcomes, not just our individual
+    work. We make decisions that move the company forward and
+    follow through.
+  - Communicate Openly: We communicate directly, seek to
+    understand, and create clarity for others. Honest
+    conversations help us move faster together.
+  - Build Great Teams: We lead by example, empower others, and
+    create healthy teams where people can do their best work.
+  - Raise the Bar: We're always improving ourselves. We learn
+    from feedback, consistently challenge ourselves to grow,
+    and focus on the work that matters most.
+  - Think Long-Term: We design for what's next. We create
+    scalable systems, simplify complexity, and use AI and
+    automation to amplify our impact.
+
+
+
+  About the Role
+
+  Lightning AI is seeking a Senior Infrastructure Software
+  Engineer to join our Infrastructure Engineering team.
+
+  Our Infrastructure Engineering team builds the software
+  systems that operate and manage Lightning AI’s large-scale
+  GPU and bare-metal infrastructure. We develop services,
+  APIs, tooling, and automation that bridge the gap between
+  our physical infrastructure and the systems our customers
+  depend on for AI/ML training, inference, and HPC workloads.
+
+  In this role, you will build production software and
+  automation that support infrastructure throughout its
+  lifecycle, from provisioning and bring-up through
+  monitoring, maintenance, and decommissioning. You will
+  design systems that enable engineers and software to
+  interact programmatically with thousands of servers, storage
+  systems, and high-performance networks, reducing manual
+  operations and making infrastructure management more
+  reliable, repeatable, and scalable.
+
+  This is a software-first infrastructure role that combines
+  strong software engineering with Linux systems and hardware-
+  aware infrastructure automation. You will work closely with
+  teams across Infrastructure, Networking, Data Center
+  Operations, and Platform Engineering to bring new capacity
+  online and continuously improve how we operate our
+  infrastructure at scale.
+
+  This role may be fully remote within the U.S., or hybrid out
+  of one of our office hubs (NYC, SF, Seattle, or London),
+  with occasional team and company offsites. We are not able
+  to provide visa sponsorship for this position at this time.
+
+  What You Will DoInfrastructure Software & Automation
+
+  - Design, build, and operate production services, APIs,
+    tooling, and automation for managing large-scale bare-
+    metal and GPU infrastructure
+  - Build and extend software systems that support
+    infrastructure provisioning, configuration, monitoring,
+    and lifecycle management
+  - Develop reliable automation that reduces manual operational
+    work and improves the consistency and scalability of
+    infrastructure management
+  - Build tools and interfaces that enable engineers and other
+    systems to interact programmatically with physical
+    infrastructure
+
+  Provisioning & Lifecycle Management
+
+  - Build and extend systems for server discovery, provisioning,
+    configuration, validation, and lifecycle management
+  - Automate infrastructure bring-up and capacity deployment
+    across large fleets of compute systems
+  - Integrate software and automation with hardware management
+    and provisioning systems
+  - Improve tooling and workflows for managing infrastructure
+    throughout its production lifecycle
+
+  Reliability & Observability
+
+  - Build telemetry, logging, and observability capabilities
+    that provide visibility into the health of our
+    infrastructure
+  - Develop tools and automation to identify, diagnose, and
+    respond to infrastructure and hardware issues
+  - Translate recurring operational issues and hardware failure
+    modes into improvements to software, tooling, and
+    automation
+  - Improve the reliability and scalability of infrastructure
+    operations as the fleet grows
+
+  Architecture & Collaboration
+
+  - Partner with Network, Infrastructure Operations, Data
+    Center, Platform Engineering, and other teams to define
+    requirements and build new infrastructure capabilities
+  - Participate in architectural discussions and help define the
+    technical direction of Lightning AI’s infrastructure
+    software
+  - Make pragmatic design decisions that balance reliability,
+    scalability, simplicity, and speed of execution
+  - Write clear design documents and technical documentation and
+    contribute to engineering best practices
+
+  Who You AreRequired Qualifications
+
+  - 5+ years of professional software engineering,
+    infrastructure engineering, or related experience
+  - Strong software engineering fundamentals and experience
+    building production backend systems in Python or similar
+    object-oriented programming languages
+  - Strong experience with Linux in production environments
+  - Experience building APIs, tooling, or automation for
+    managing infrastructure at scale
+  - Familiarity with containerization and orchestration concepts
+  - Understanding of HPC and bare-metal infrastructure
+    fundamentals, including provisioning and out-of-band
+    management
+  - Ability to navigate ambiguity and make pragmatic
+    architecture decisions while building for long-term
+    reliability and scale
+  - Experience working in a startup or other fast-paced
+    environment with a high degree of ownership and autonomy
+
+  Ideal Experience
+
+  - Experience with bare-metal hardware troubleshooting and
+    provisioning, including technologies such as PXE/iPXE,
+    BMC, Redfish, or IPMI, particularly with Dell hardware
+  - Experience with GPU servers, either in bare-metal
+    environments or under virtualization
+  - Experience with network switches, routers, and firewalls,
+    particularly SONiC switches, Palo Alto firewalls, or
+    Juniper Networks
+  - Experience with high-performance storage systems,
+    particularly VAST
+  - Experience supporting AI/ML or HPC infrastructure at scale
+
+   Compensation
+
+  We are committed to offering competitive compensation that
+  reflects the value each team member brings to our mission.
+  Final offers are based on factors such as experience,
+  skills, geographic location, and role expectations. In
+  addition to base salary, our total rewards package for
+  eligible roles includes a discretionary bonus, a meaningful
+  equity component, and comprehensive benefits.
+
+  The anticipated annual base salary range for this role is:
+
+  $180,000—$220,000 USD
+
+  Benefits and Perks
+
+  We offer a comprehensive and competitive benefits package
+  designed to support our employees’ health, well-being, and
+  long-term success:
+
+  - Comprehensive Health Coverage: Medical, dental, and vision
+    coverage for employees and eligible dependents.
+  - Meaningful Equity: RSUs that give employees a stake in the
+    company's long-term success.
+  - Retirement Savings: 401(k) matching (U.S.) and pension
+    contributions (U.K.).
+  - Flexible Time Off: Unlimited PTO, company holidays, and
+    floating holidays to support work-life balance.
+  - Paid Parental & Family Leave: Paid leave to support you and
+    your family through life's important moments.
+  - Professional Development: Annual learning and development
+    allowance to support your professional growth.
+  - Wellness Benefits: Wellness and work-from-home stipends to
+    support your physical and mental well-being.
+  - Sabbatical Program: Four weeks of paid sabbatical leave
+    after four years of service.
+  - Flexible Work: Flexible schedules and a hybrid work model
+    for our office-based teams.
+  - In-Office Meals: Complimentary meals at our office hubs.
+
+  Benefits may vary by location, team, and role.
+
+  At Lightning AI, we are committed to fostering an inclusive
+  and diverse workplace. We believe that diverse teams drive
+  innovation and create better products. We provide equal
+  employment opportunities to all employees and applicants
+  without regard to race, color, religion, gender, sexual
+  orientation, gender identity, national origin, age,
+  disability, veteran status, or any other protected
+  characteristic. We are dedicated to building a culture where
+  everyone can thrive and contribute to their fullest
+  potential.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+posted_date: 2026-09-18
+url: "https://builtin.com/job/senior-infrastructure-software-engineer/11248619"
+source: Built In

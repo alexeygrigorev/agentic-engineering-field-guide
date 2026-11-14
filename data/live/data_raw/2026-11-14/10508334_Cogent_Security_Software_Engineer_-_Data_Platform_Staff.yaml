@@ -1,0 +1,122 @@
+job_id: 10508334
+title: Software Engineer - Data Platform (Staff+)
+company: Cogent Security
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 523 Employees
+description: |
+  About Cogent
+
+  Cogent is an Applied AI Lab building the next generation of
+  AI agents for cybersecurity. AI has fundamentally changed
+  how attacks happen, allowing malicious actors to operate at
+  unprecedented speed and scale. Cogent’s "AI Taskforce"
+  assesses petabytes of enterprise data to remediate these
+  issues before critical breaches occur.
+
+
+
+  To stay at the cutting edge, we blend frontier research with
+  real-world execution. Alongside our core product work,
+  Cogent Research serves as our applied AI lab, providing the
+  research horsepower needed to make truly agentic security
+  workflows a reality.
+
+
+
+  Since coming out of stealth, Cogent has experienced rapid
+  growth. We partner with Fortune 500 companies to secure some
+  of the most complex production environments in the world.
+
+
+
+  We’re backed by Greylock and we’ve built a team with the
+  best minds in applied AI. Our team is comprised of people
+  from:
+
+  - Top universities like Stanford, Berkeley, Penn, Duke,
+    Carnegie Mellon, Waterloo
+  - Unicorn, high-growth companies like Scale AI, Databricks,
+    Stripe, Tesla, Coinbase
+  - World class cybersecurity experts from Wiz, Abnormal AI,
+    Zscaler
+  - Preeminent research labs like Deepmind and SAIL
+
+  About the Role
+
+  We are looking for Founding and Staff-level Engineers to
+  design and implement the foundational pillars of Cogent’s
+  data platform and integration pipeline in order to reliably
+  ingest and normalize enterprise data sources across many
+  corporate and IT systems and then to enable the
+  transformation of that data into a knowledge base that can
+  be leveraged by other GenAI systems.
+
+  What You’ll Do & Achieve
+
+  - Build the new standard for ingesting and extracting
+    enterprise data
+    - Your role will involve building data connectors, running
+      data pipelines, and extracting insights and context from
+      our customer’s enterprise environments.
+    - You should get excited about building robust and secure
+      backend systems that handle large volumes of data, ETLs,
+      as well as reimagining how enterprise security teams
+      should extract, store and access data.
+  - Design highly performant data pipelines and indexing
+    strategies that enable Applied AI use cases like semantic
+    search and retrieval augmented generation
+    - Work with Applied AI teams to taxonomize, correlate and
+      deduplicate data across various enterprise sources, and
+      architect indexing, storage and query strategies for
+      data in Cogent’s data lake.
+  - Architect the modern data platform for Gen AI
+    - The LLM stack and Gen AI landscape is changing everyday.
+      You’ll be front and center of making build vs buy
+      decisions for various tools and services needed by the
+      data platform, and integrating these decisions into our
+      broader architecture and tech roadmap.
+    - Implement generalizable design patterns and system
+      components that allow us to scale from 1 integration to
+      thousands of integrations
+
+  What You’ll Bring
+
+  - 5+ years of professional experience as a hands-on engineer
+    and technical leader leading multiple projects
+  - Experience building data pipelines for Information Retrieval
+    Systems (such as knowledge graphs, search engines, or
+    similar) for enterprise use cases
+  - Experience in ETL orchestration and workflow management
+    tools (such as Temporal, Airflow) as well as building
+    batch processing and streaming systems with tools like
+    Apache Kafka/Flink
+  - Expert in database fundamentals, SQL, data reliability
+    practices and distributed computing
+  - Experience working fluently with standard orchestration &
+    deployment technologies like Kubernetes, Terraform,
+    Docker, Databricks, etc in multiple clouds
+
+  For California Based Applicants
+
+  The standard base salary range for this position is $100,000
+  - $300,000 annually. Compensation offered will be determined
+  by factors such as location, job level, job-related
+  knowledge, skills, and experience. Certain roles may be
+  eligible for variable compensation, equity, and benefits.
+
+  We are committed to building an inclusive and diverse
+  company. We do not discriminate based on gender, ethnicity,
+  sexual orientation, religion, civil or family status, age,
+  disability, or race.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Cybersecurity
+posted_date: 2026-08-03
+url: "https://builtin.com/job/software-engineer-data-platform-staff/10508334"
+source: Built In

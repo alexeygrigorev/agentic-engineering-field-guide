@@ -1,0 +1,127 @@
+job_id: 9354847
+title: Senior Full Stack Engineer
+company: Starboard Group
+location: Toronto, CAN
+locations:
+  - Toronto, CAN
+  - New York, USA
+work_type: FULL_TIME
+company_size: 55000 Employees
+description: |
+  About Starboard
+
+  Starboard is building the default agentic OS for global
+  trade. We write software to help freight forwarders. If you
+  don’t know what a freight forwarder is – no worries, we will
+  teach you! In short, they are responsible for logistics of
+  moving physical things across the planet. It's an
+  underserved market, ripe for disruption with AI. Our
+  software ingests complex rate sheets (pricing for moving
+  shipping containers, air cargo, trucking) and uses agentic
+  and deterministic programming to accurately store these
+  rates in a structured database. Our software then helps the
+  forwarders quote rapidly. We have agents that operate
+  directly from the freight forwarders email inbox, and a web-
+  app. Our stack is PostgreSQL & PostGIS, Next.js (frontend),
+  Python (backend, agents), Golang (API).
+
+  Our vision is to build the automated global marketplace for
+  freight. We’re expanding our core systems to support massive
+  scale: many autonomous agents operating safely,
+  deterministically, and in real time across global logistics
+  workflows. If you want to build foundational systems, not
+  just features, this is the role for you.
+
+  We’ve raised over $5.5M from top investors in SF and Toronto
+  including Eclipse Capital, Garuda Ventures, OTPP and
+  Everywhere Ventures and are HQ’d in Toronto and NY.
+
+  The Role
+
+  We’re looking for a Full Stack Engineer with a
+  backend/platform bias to help design and build Starboard’s
+  core infrastructure.
+
+  We need you to jump in with both feet. This is a startup,
+  and the job description won’t always match the job. You’ll
+  sit at the intersection of distributed systems, cloud
+  infrastructure, and AI-enabled platforms, owning the systems
+  that serve as the source of truth for our agents. This is a
+  high-ownership, high-impact role working closely with the
+  founding team and AI engineers.
+
+  We value speed over syntax. We practice high level
+  architecture and agent based coding. You’ll be able to use
+  Claude, Codex, Copilot on the job and in the interview, and
+  will be judged on the system you design, not how you program
+  it.
+
+  In this role you will:
+
+  - Build and operate Starboard’s core platform and cloud
+    infrastructure powering real-time, agent-driven trade
+    workflows.
+  - Design and own high-scale CRUD systems and APIs for rates,
+    quotes, shipments, customers, and marketplace data.
+  - Build event-driven systems and deterministic interfaces that
+    allow autonomous agents to read/write state safely and
+    reliably.
+  - Architect for performance, reliability, and observability
+    (milliseconds matter).
+  - Partner closely with AI engineers and founders to translate
+    complex logistics workflows into clean system models.
+  - Take end-to-end ownership of foundational systems and raise
+    the technical bar as the team scales.
+
+  Why You Should Join Us
+
+  - Build the foundational AI infrastructure for one of the
+    largest critical industries in the world ($2T+ global
+    trade).
+  - Work directly with deeply invested founders and a lightning-
+    fast engineering culture.
+  - Ship products that immediately touch real revenue with
+    global customers.
+  - Solve unstructured, messy real-world problems at massive
+    scale.
+  - Competitive compensation and equity ownership in a company
+    redefining how global trade operates.
+
+  Qualifications
+
+  - Experience in backend, platform, or infrastructure
+    engineering
+  - Strong experience with TypeScript/Node, Python, Go, or
+    similar
+  - Solid understanding of cloud infrastructure, containers, and
+    orchestration
+  - Experience designing and operating high-scale CRUD systems
+  - Hands-on experience with event-driven or distributed systems
+  - Strong data modeling instincts - you can move fast without
+    breaking integrity
+  - High ownership mindset; comfortable operating in ambiguity
+  - Curious, pragmatic, and impact-driven - you go where the
+    leverage is
+
+  Nice to Haves:
+
+  - Experience in B2B SaaS logistics, marketplaces, fintech, or
+    other complex domains
+  - Exposure to agent frameworks, LLM-driven systems, or AI
+    infrastructure
+  - Experience optimizing performance-sensitive or compute-heavy
+    workloads
+  - Early-stage startup experience is an asset
+
+  Benefits
+
+  - Compensation: $180,000 - $240,000 [base + bonus], 0.25-0.75%
+    equity
+  - Daily paid lunches in office
+  - Company provided laptop and equipment
+industries:
+  - Retail
+  - Travel
+posted_date: 2026-10-21
+url: "https://builtin.com/job/senior-full-stack-engineer/9354847"
+source: Built In

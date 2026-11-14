@@ -1,0 +1,239 @@
+job_id: 11632575
+title: Staff Software Engineer - FMX
+company: Fanatics
+location: London, GBR
+work_type: FULL_TIME
+company_size: 7,500 Employees
+description: |
+  About Us
+
+  Fanatics is a leading global sports platform redefining how
+  fans connect with the teams, players and moments they love.
+  Our businesses — Fanatics Commerce, Fanatics Collectibles,
+  Fanatics Betting & Gaming, Fanatics Events, Fanatics
+  Advertising, Fanatics Markets and Fanatics Studios —
+  maximize the presence and reach for hundreds of partners
+  globally and create a one-stop experience that allows fans
+  to buy, bet, collect, and earn, while engaging with sports
+  in deeper, more immersive ways. This includes licensed fan
+  gear and lifestyle products, sportsbook and iGaming,
+  physical and digital trading cards, live events, premium
+  sports entertainment content, credit card offerings and
+  more. Together, they form a powerful, integrated ecosystem —
+  connected by the Fanatics ONE loyalty program and FanCash,
+  the currency of sport — delivering personalized experiences
+  to over 100 million fans worldwide. Fanatics holds
+  partnerships with over 900 sports properties, from
+  professional leagues and players’ associations to teams,
+  colleges and retail partners; over 7,000 athletes and
+  celebrities; and over 2,000 retail locations, including all
+  Lids stores. Backed by a team of more than 22,000 employees,
+  Fanatics is committed to relentlessly enhancing the fan
+  experience.
+
+  About Fanatics Markets:
+
+  Fanatics Markets is the real-money prediction and trading
+  app where you can invest in moments you care about. Built on
+  a secure platform, we let users predict real-world outcomes
+  and trade on events they actually follow — from sports and
+  entertainment to political elections and beyond. Our mission
+  is to redefine how fans engage with the moments and markets
+  that matter most. We're looking for the right people to help
+  us build the future of prediction markets.
+
+  Overview:
+
+  This Staff Software Engineer role is an individual
+  contributor position with technical leadership and
+  significant ownership across our full stack: the web
+  application customers use to interact with our product and
+  the backend systems that power it. You'll combine hands-on
+  engineering with responsibility for shaping architecture,
+  setting technical direction, and enabling engineers across
+  teams to deliver effectively.
+
+  Whether your deepest expertise is in frontend or backend
+  engineering, you'll apply that strength across the platform
+  while making meaningful contributions on the other side of
+  the stack. Joining a product at an exciting early stage,
+  you'll help define its technical foundations, identify the
+  highest-impact engineering challenges, and turn ambiguous
+  problems into clear plans that balance customer needs,
+  delivery speed, and long-term reliability.
+
+  Your impact will extend beyond the systems you build. You'll
+  lead complex initiatives spanning teams, mentor engineers,
+  and establish practices that improve engineering quality and
+  effectiveness. You'll also shape our approach to AI-assisted
+  development while building systems that can handle millions
+  of events daily.
+
+  On the engineering side, we're pioneering the use of AI as a
+  code collaborator. We need engineers who have gone beyond
+  experimentation — who actively use Claude Code, Codex,
+  GitHub Copilot, or similar tools to ship production code
+  faster while maintaining exceptional quality standards, and
+  who can help others adopt these workflows responsibly and
+  effectively.
+
+  Responsibilities:
+
+  - Set technical direction for major areas of the Markets
+    platform, aligning architectural decisions with product
+    strategy and guiding their implementation across teams
+  - Lead the design and delivery of complex, scalable systems
+    and customer experiences, contributing hands-on in React,
+    Next.js, and TypeScript or backend services in Go, while
+    making meaningful contributions across the stack
+  - Identify and resolve ambiguous engineering problems spanning
+    team or system boundaries, turning them into clear
+    proposals, delivery plans, and measurable outcomes
+  - Own critical initiatives end-to-end, from discovery and
+    technical specifications through implementation,
+    instrumentation, deployment, monitoring, and iteration
+  - Partner with product, design, platform, and infrastructure
+    teams to make informed tradeoffs across customer
+    experience, accessibility, performance, security,
+    reliability, and delivery speed
+  - Define architecture and integration patterns for frontend
+    applications, backend APIs, and event-driven systems, with
+    particular attention to correctness in markets, orders,
+    and transactions
+  - Guide the design of experimentation capabilities, including
+    feature flags and A/B tests, so teams can validate ideas
+    quickly and safely
+  - Anticipate scaling constraints, reliability risks, and
+    technical debt; build alignment on pragmatic improvements
+    and drive them through to completion
+  - Raise engineering standards through design reviews, code
+    reviews, testing strategies, observability, and safe
+    deployment practices
+  - Mentor engineers and develop technical leaders, helping
+    teams make sound decisions and solve problems
+    independently
+  - Establish and evolve standards for AI-assisted development,
+    including appropriate use cases, review expectations,
+    security safeguards, and validation strategies
+  - Measure and improve engineering effectiveness, sharing tools
+    and practices that increase delivery speed without
+    compromising quality
+  - Lead through influence in an early-stage product
+    environment, creating clarity, unblocking teams, and
+    establishing ways of working that support growth
+
+  Qualifications:
+
+  - Substantial experience building and operating highly
+    scalable production systems, with demonstrated impact at
+    Staff level or equivalent scope, including technical
+    leadership across teams or major platform areas
+  - Deep expertise in either user-facing web applications built
+    with JavaScript/TypeScript and React or backend services
+    built with languages such as Go, Java, or Python,
+    alongside the ability to reason across the full stack. If
+    you're frontend-strong, you don't need to arrive fluent in
+    Go, but you should be comfortable engaging with backend
+    architecture and system tradeoffs
+  - A track record of setting technical direction and delivering
+    complex initiatives from ambiguous requirements through to
+    measurable production outcomes
+  - Strong architectural judgment, including the ability to
+    assess tradeoffs, establish clear system boundaries, and
+    evolve systems as product requirements and scale change
+  - Experience shaping React architecture, component-driven
+    development, and modern state management using tools such
+    as Next.js, TanStack Query, Tailwind, or Zustand; or deep
+    backend experience with data modeling, distributed
+    systems, and event-driven architecture using technologies
+    such as Postgres and Kafka/PubSub
+  - Deep knowledge of your primary language's features, idioms,
+    and best practices, with experience establishing standards
+    adopted beyond your immediate team
+  - Strong understanding of performance, reliability, and
+    security, including responsive design and accessibility on
+    the frontend or scalability, observability, data
+    integrity, and failure handling on the backend
+  - Experience defining API contracts and collaborating across
+    product, platform, and infrastructure teams to deliver
+    reliable systems
+  - Experience shaping CI/CD pipelines, testing strategies, and
+    safe deployment practices across services or applications
+  - Demonstrated ability to lead through influence, build
+    alignment across teams, and communicate technical
+    decisions clearly to engineers and non-technical
+    stakeholders
+  - A track record of mentoring engineers, strengthening
+    technical decision-making, and increasing the
+    effectiveness of others
+  - Demonstrated experience using AI tools such as Claude Code,
+    Codex, Cursor, or Copilot to ship production code, with
+    sound judgment about their limitations and appropriate
+    validation
+  - Specific examples of improving development workflows, with
+    evidence of their impact on delivery speed, quality, or
+    engineering productivity
+  - A team-first approach, with the judgment to move between
+    strategic technical work and hands-on delivery according
+    to the needs of the product
+  - Ability to create clarity in a high-growth environment where
+    priorities evolve and decisions must be made quickly
+  - Strong cross-functional collaboration skills, including
+    experience aligning teams and navigating dependencies
+    within large enterprise environments
+
+  You don't need to tick every box — deep strength in one
+  area, demonstrated technical leadership, and a willingness
+  to learn go a long way.
+
+  Preferred Qualifications:
+
+  - Previous experience shaping technical foundations in early-
+    stage or high-growth startup environments
+  - Experience with real-money transaction systems, including
+    financial correctness, auditability, and regulatory
+    requirements
+  - Experience developing technical roadmaps or leading
+    architectural changes adopted across multiple teams
+  - Background in building developer tools or improving
+    engineering productivity at scale
+  - Experience establishing AI-assisted engineering practices
+    across teams
+  - Contributions to open-source projects or the technical
+    community
+  - BSc in Computer Science or a related field
+
+  Depending on the role, your interview and onboarding
+  experience may include in-person components, such as onsite
+  interviews or Launching into Better: LIVE—a multi-day
+  cultural immersion in New York City for full-time, non-
+  seasonal hires. These sessions are designed to build
+  connections and bring our culture to life, though specific
+  travel and participation requirements will be confirmed
+  based on your role and location. Your recruiter will provide
+  clear guidance at each stage of the process.
+
+  Ready to build the future of sports trading? If you possess
+  some of these skills but not all of them, we still encourage
+  you to apply! Please note that visa sponsorship is not
+  available for this position. We are open to fully remote
+  candidates based in the United Kingdom. Remote employees may
+  also be eligible for a home office setup stipend.
+
+  By submitting your application, you agree to our terms of
+  service and acknowledge you have read our Candidate Privacy
+  Policy.
+
+  Fanatics will never ask candidates for money, banking
+  information, or other sensitive personal information as part
+  of the interview process. If you receive a suspicious
+  message claiming to be from Fanatics recruiting, please do
+  not respond and report it here.
+industries:
+  - eCommerce
+  - Retail
+  - Software
+  - Sports
+posted_date: 2026-10-13
+url: "https://builtin.com/job/staff-software-engineer-fmx/11632575"
+source: Built In

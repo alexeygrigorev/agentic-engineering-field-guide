@@ -1,0 +1,135 @@
+job_id: 11242965
+title: Software Engineer
+company: Orchard
+location: New York, USA
+work_type: FULL_TIME
+company_size: 400 Employees
+description: |
+  About Orchard
+
+  Orchard is transforming the way people buy and sell their
+  homes. Simplifying it, to the way it should have always
+  been; fair and true to market, straightforward, easy.  Every
+  year in the U.S., $1.5 trillion of single family homes
+  transact, generating over $120 billion of fees in a process
+  that has changed little in decades. For the average
+  American, the home purchase and sale process takes months,
+  creates anxiety and is filled with uncertainty and hassle.
+  Orchard offers a modern alternative, making one of life's
+  biggest decisions -- the sale and purchase of a home –so
+  stress free, fair and simple that people cannot imagine any
+  other way. Orchard is headquartered in New York City, has
+  150+ employees, a network of 600 agents and has grown nearly
+  2x year over the last 2 years. We have raised equity
+  financing from top tier investors including: Firstmark,
+  Accomplice, Revolution Growth, Navitas and Juxtapose.
+
+  About the Role
+
+  Orchard’s engineering team values clarity, collaboration,
+  and ownership. Our team builds the systems behind Orchard’s
+  website and the tools that help agents reach new customers.
+  We focus on helping people explore homes, book
+  consultations, and connect with our agents. Our site serves
+  over 150k unique visitors each month and sees about 700k
+  pageviews. The team partners closely with marketing,
+  product, and design to support new campaigns, track
+  performance, and ensure the site is fast and reliable at
+  scale.
+
+  You'll work on the systems that make this possible -
+  backend, frontend, or both, depending on where the work
+  takes you. That means building and improving APIs, data
+  services, and integrations that support both customers and
+  agents. Your work will touch many parts of the systems our
+  team owns. We build and maintain the services that bring new
+  customers into Orchard, from the public website and intake
+  flows, to scheduling and consultation booking. We also
+  support the tools that help our agents work with those
+  customers, like managing and syncing leads, powering
+  outreach, and maintaining privacy and consent systems that
+  keep customer data safe and compliant.
+
+  You’ll work closely with product managers, designers,
+  engineers, and business stakeholders to plan and ship
+  projects. The team is small and moves quickly, so you’ll
+  have real ownership and visibility in your work. Most of our
+  engineering work today is agent-driven: we use tools like
+  Claude Code, GitHub Copilot, and Codex daily, and the job is
+  less about typing code yourself and more about scoping the
+  work well, directing AI tools effectively, and catching it
+  when they get something wrong. We're looking for engineers
+  who are good at that loop, not just comfortable with AI
+  tools existing.
+
+  This is a full-time role that will report into our Senior
+  Software Engineer and be based out of the New York office,
+  where we are in office on Tuesdays and Wednesdays.
+
+  What You'll Do Here
+
+  - Build and maintain the services and interfaces that power
+    Orchard's website and internal tools. Most of our stack
+    uses Qwik on the frontend and Python with Postgres and
+    OpenSearch on the backend, though some other services use
+    React and TypeScript.
+  - Work with product and design to turn ideas into clear, well-
+    scoped projects.
+  - Debug and improve core services to make them faster and more
+    reliable as we prepare for national growth over the next
+    12-18 months.
+  - Ensure our systems can scale smoothly as our user base
+    continues to grow.
+  - Write clean, tested code that’s easy to understand and
+    maintain.
+  - Help improve developer workflows, testing, and
+    documentation.
+  - Take part in on-call rotations and own the systems you
+    build.
+  - Work with a small team that values communication, trust, and
+    practical solutions.
+  - Use AI coding tools like Claude Code, Copilot, and Codex as
+    part of your daily workflow to build and ship features
+    efficiently.
+  - Comfortable reviewing code you didn't write
+
+  We'd Love to Hear From You if You Have
+
+  - At least 2+ years of experience as a software engineer.
+  - Strong skills in at least one language relevant to our stack
+    (Python, TypeScript, or Go), with solid knowledge of APIs
+    and data modeling.
+  - Experience with tools like AWS, Postgres, SQL, Kafka,
+    Airflow, Docker, or CircleCI is a plus.
+  - Experience directing AI coding tools effectively
+  - A low-ego, problem-solving mindset. You take ownership,
+    improve what you touch, and ask for help when something
+    doesn't add up.
+  - Interest in a hands-on team where engineers ship quickly and
+    have real impact.
+
+  For NYC residents only: The pay range for this position in
+  New York City is $130,000-$150,000/year. The actual base pay
+  offered may vary within the range provided depending on job-
+  related knowledge, skills, experience, and location. Stock
+  options and other incentive pay may be provided as part of
+  the compensation package, in addition to a full range of
+  medical, financial, and/or other benefits, depending on the
+  position offered. This information is provided per the New
+  York City Human Rights Law. Please note that the range
+  provided is applicable only to New York City-based
+  applicants. Base compensation may vary if the work location
+  is outside of New York City.
+
+  Orchard is proud to be an equal opportunity employer. We
+  provide employment opportunities without regard to age,
+  race, color, ancestry, national origin, religion,
+  disability, sex, gender identity or expression, sexual
+  orientation, veteran status, or any other protected status
+  in accordance with applicable law.
+industries:
+  - Real Estate
+  - PropTech
+posted_date: 2026-09-17
+url: "https://builtin.com/job/software-engineer/11242965"
+source: Built In

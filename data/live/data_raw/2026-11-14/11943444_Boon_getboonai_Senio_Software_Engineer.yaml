@@ -1,0 +1,140 @@
+job_id: 11943444
+title: Senio Software Engineer
+company: Boon (getboon.ai)
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 27 Employees
+description: |
+  About Boon
+
+  Boon is the professional AI platform built specifically for
+  construction. Founded in the San Francisco Bay Area in 2023
+  by product and engineering leaders from Samsara, Apple,
+  Google and DoorDash. Boon is backed by leading Silicon
+  Valley venture capitalists. Our AI agents embed directly
+  into existing workflows, from preconstruction estimating to
+  bid management. They automate the repetitive tasks that
+  drain time and margins while surfacing the insights leaders
+  need to make faster and more confident decisions. The result
+  is measurable impact. Teams move faster, bids are submitted
+  sooner, win rates increase, and costs are reduced. Boon
+  enables construction companies to build more, generate more
+  revenue, and grow with confidence.
+
+  About the Role
+
+  Boon AI is building the agentic operating system for
+  construction preconstruction — the layer that reads
+  blueprints, specs, and bid documents, and does the
+  estimator's work with them. Our platform spans a Rails
+  product monolith, Python computer-vision services
+  (DINOv3/SAM-class vision models reading drawings), an LLM
+  agent runtime orchestrating multi-step construction
+  workflows, and model/eval infrastructure that keeps accuracy
+  honest. We're live with GCs and subs across the country,
+  shipping daily, and scaling from thousands to hundreds of
+  thousands of drawings per month.
+
+  As a Senior Software Engineer, you'll own meaningful
+  features and services across this platform, solve
+  challenging technical problems, and help build a system that
+  scales with our customers.
+
+  In this role, you will:
+
+  - Own features and services end to end across the Rails
+    product app, Python ML/CV services, agent SDK layer, and
+    data platform — balancing customer requirements,
+    maintainability, and shipping speed
+  - Improve the scalability, reliability, and cost efficiency of
+    our computer vision/LLM/VLM inference pipelines as we
+    scale blueprint throughput
+  - Build and improve our model infrastructure, including vision
+    model integration, LLM orchestration, agent workflows,
+    MLflow registry, and eval harnesses
+  - Contribute to architectural decisions, write clear design
+    docs, and raise the engineering bar through thoughtful
+    code review
+  - Share knowledge and mentor teammates as the engineering team
+    grows
+  - Partner with product and engineering teammates to scope
+    work, evaluate build-vs.-buy decisions, and turn customer
+    needs into reliable software
+  - Write and ship production code regularly, troubleshoot
+    issues, and participate in incident response
+
+  You’re a Great Fit If:
+
+  - You've shipped production systems that handle messy real-
+    world input — documents, PDFs, images, OCR, or user-
+    generated data
+  - You have sound engineering judgment about when to add
+    complexity, when to keep things simple, and when to use
+    proven open-source or paid solutions
+  - You've built or operated computer vision or LLM/agent
+    systems in production, or have strong adjacent experience
+    and want to work deeply in this space
+  - You care about testing and evals as practical tools for
+    improving accuracy and reliability
+  - You move fast while keeping the foundations strong, and can
+    recognize when a part of the system needs investment
+  - You thrive in flat, direct, high-velocity teams where
+    technical decisions are grounded in code, data, and
+    customer needs
+  - Bonus: construction, AEC, or other vertical-SaaS experience;
+    or experience helping a product scale at a growing startup
+  - Culturally, you embody working as “one team” and strive to
+    “get things done,” taking ownership and helping teammates
+    move work forward
+
+  Requirements for the Role:
+
+  - 3+ years of experience building production software, with a
+    track record of delivering in fast-paced environments
+  - Strong experience in at least one of: Rails or Python
+    applications, production computer vision pipelines,
+    LLM/agent systems, or data-intensive B2B SaaS
+  - Hands-on experience with cloud infrastructure (AWS and/or
+    GCP), PostgreSQL, background job or messaging systems
+    (such as Sidekiq or RabbitMQ), and modern deployment
+    practices
+  - Experience owning features or services from technical design
+    through deployment and ongoing operation
+  - Strong coding, debugging, and code review skills, with
+    recent experience shipping production code
+  - Familiarity with SRE and DevOps practices, such as CI/CD,
+    Kubernetes, or Helm, and the ability to collaborate with
+    Boon’s dedicated SRE teammates
+
+  Compensation
+
+  At Boon, we want to attract and retain the best employees
+  and compensate them in a way that appropriately and fairly
+  values their individual contribution to the company. With
+  that in mind, we carefully consider a number of factors to
+  determine the appropriate starting pay for an employee,
+  including their primary work location and an assessment of a
+  candidate’s skills and experience, as well as market demands
+  and internal parity. This estimate can vary based on the
+  above mentioned factors, so the actual starting annual base
+  salary may be above or below this range. A Boon employee may
+  be eligible for additional forms of compensation, depending
+  on their role, including sales incentives, discretionary
+  bonuses, and/or equity in the company.
+
+  Boon Is An Equal Opportunity Employer
+
+  As an equal-opportunity employer, Boon is committed to
+  providing employment opportunities to all individuals. All
+  applicants for positions at Boon will be treated without
+  regard to race, color, ethnicity, religion, sex, gender,
+  gender identity and expression, sexual orientation, national
+  origin, disability, age, marital status, veteran status,
+  pregnancy, or any other basis prohibited by applicable law.
+industries:
+  - Artificial Intelligence
+  - Logistics
+posted_date: 2026-10-28
+url: "https://builtin.com/job/senio-software-engineer/11943444"
+source: Built In

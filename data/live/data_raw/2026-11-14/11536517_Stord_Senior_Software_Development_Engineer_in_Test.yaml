@@ -1,0 +1,216 @@
+job_id: 11536517
+title: Senior Software Development Engineer in Test
+company: Stord
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 222 Employees
+description: |
+  ABOUT STORD
+
+  Stord is The Consumer Experience Company, powering seamless
+  checkout through delivery for today's leading brands. Stord
+  is rapidly growing and strategically scaling teams across
+  the entire company, and seeking energetic experts to help us
+  achieve our mission.
+
+  By combining comprehensive commerce-enablement technology
+  with high-volume fulfillment services, Stord provides brands
+  a platform to compete with retail giants. Stord manages over
+  $10 billion of commerce annually through its fulfillment,
+  warehousing, transportation, and operator-built software
+  suite including OMS, Pre- and Post-Purchase, and WMS
+  platforms. Stord is leveling the playing field for all
+  brands to deliver the best consumer experience at scale.
+
+  With Stord, brands can increase cart conversion, improve
+  unit economics, and drive sustained customer loyalty.
+  Stord’s end-to-end commerce solutions combine best-in-class
+  omnichannel fulfillment and shipping with leading technology
+  to ensure fast shipping, reliable delivery promises, easy
+  access to more channels, and improved margins on every
+  order.
+
+  Hundreds of leading DTC and B2B companies like True Classic,
+  Native, Seed Health, goodr, Sundays for Dogs, and more trust
+  Stord to deliver industry-leading consumer experiences on
+  every order. Stord is headquartered in Atlanta with
+  facilities across the United States, Canada, and Europe.
+  Stord is backed by top-tier investors including Kleiner
+  Perkins, Franklin Templeton, Founders Fund, Strike Capital,
+  Baillie Gifford, and Salesforce Ventures.
+
+  Stord is building the operating system for the modern supply
+  chain — a unified platform handling Order Management,
+  Warehouse Management, Transportation, and Consumer
+  Experience for brands doing over $10B in commerce annually.
+  We're standing up a net-new Software Engineer in Test (SET)
+  function — not to take quality ownership away from
+  engineering, but to build the automation infrastructure that
+  enables engineering teams to execute on ownership at scale.
+  Today, E2E coverage, regression testing, API/contract
+  testing, and performance testing all have inconsistent or no
+  systematic owner or methodology — engineers patch these gaps
+  ad hoc, on top of their feature work. This role sits
+  embedded within [Product Group], partnering directly with
+  engineers and EMs who remain accountable for coverage, CI
+  gates, and test strategy. You build the frameworks and AI-
+  assisted tooling that make that accountability sustainable
+  at scale. This role is for an engineer who thinks about
+  testing as a systems-building problem, not a checklist.
+  You'd rather write the automation that catches a regression
+  before a human ever sees it than manually re-verify a happy-
+  path scenario on every release. If you want to build test
+  infrastructure from the ground up, with real budget and
+  executive sponsorship behind it, this role gives you the
+  mandate to do exactly that.
+
+  Why This Role
+
+  Your work directly affects release velocity and confidence
+  for a large-scale, high-growth platform. By assisting in the
+  development of net-new frameworks and tests, you'll directly
+  impact the Engineering organization's long-term ability to
+  meet high standards in customer satisfaction.
+
+  AI-assisted test generation — turning acceptance criteria
+  into automated scripts — is a live, unsolved problem here,
+  not a vendor tool you're asked to babysit. You'll take a
+  cutting edge approach to automated testing in the 21st
+  century and be encouraged to cultivate and sharpen those
+  skills.
+
+  You work alongside a SET Lead defining cross-org framework
+  standards from day one, so you're shaping how quality
+  standards and methodologies land in practice, not just
+  inheriting a rulebook.
+
+  You're closing gaps across the entire test pyramid — E2E,
+  regression, contract testing, performance testing — that
+  Stord's own testing charter explicitly flags as unowned
+  today.
+
+  What You'll Build
+
+  Full-Suite Test Automation
+
+  - Build and maintain scripts across every layer of the test
+    pyramid: API, integration, end-to-end and load tests.
+  - Partner with PMs to convert their most critical smoke suite
+    user flows into automated coverage
+  - Build Playwright-based E2E suites covering [Product Group]'s
+    golden-path user journeys
+  - Wire test suites into GitHub Actions CI, gating releases on
+    passing coverage
+  - Own suite health standards and outcomes — flake reduction,
+    runtime, and reliability as coverage grows
+
+  AI-Assisted Workflow Optimization
+
+  - Build and refine tooling that turns acceptance criteria and
+    user stories into test plans and automated test scripts
+  - Evaluate and integrate AI-assisted test generation tools
+    into the team's day-to-day workflow
+  - Cut the manual effort required to interpret execution
+    results, validate outcomes, triage suites, and keep
+    coverage current as product ships features
+
+  Regression & Coverage Infrastructure
+
+  - Build and maintain a regression test register mapping
+    critical paths to automated coverage
+  - Wire coverage reporting into a shared dashboard and keep the
+    dashboard accurate as coverage expands
+
+  Load & Performance Testing
+
+  - Build load and performance test frameworks that engineers
+    can employ in a variety of applications
+  - Partner with engineers to define and validate performance
+    thresholds before release
+  - Ensure critical services are load- and soak-tested ahead of
+    peak season
+
+  Experience We're Looking For
+
+  Required
+
+  - Test automation frameworks — You've built and maintained
+    production E2E suites (Playwright or equivalent), not just
+    written individual test cases.
+  - CI/CD integration — You can wire test suites into GitHub
+    Actions (or equivalent) and configure release gates that
+    actually block bad merges.
+  - Programming proficiency — JavaScript/TypeScript, Python, or
+    similar. You write test automation as real software:
+    structured, reusable, maintainable.
+  - API/contract testing — Hands-on experience with contract
+    test tooling (e.g. Pact) or API test tooling (e.g.
+    Postman).
+  - Load/performance testing — Experience with load testing
+    tools (e.g. k6, Locust) or equivalent.
+  - Directed AI-assisted development — You use AI coding tools
+    as a productivity multiplier while keeping your own
+    technical judgment in the loop.
+  - CLI-native workflow — You operate primarily from the
+    terminal and script your own tooling rather than relying
+    on GUI test recorders.
+
+  Required Soft Skills
+
+  - Ownership & Accountability — You own features end-to-end and
+    take pride in what you ship. You follow through from
+    design to production and don't drop things.
+  - Strong Communication — You can explain technical decisions
+    and trade-offs to engineers, PMs, and stakeholders. You
+    ask good questions and listen well.
+  - Collaborative Approach — You work well with others, give
+    constructive code review feedback, and actively seek input
+    from teammates.
+  - Production Mindset — You prioritize reliability and user
+    impact. You think about failure modes, monitoring, and
+    operational concerns as part of your design process.
+  - Learning Agility — You're comfortable with rapidly evolving
+    AI/ML technologies and tools. You stay current without
+    chasing hype.
+
+  Strongly Preferred
+
+  - Experience building a test automation function from scratch,
+    not just extending an existing one
+  - Experience partnering directly with PMs on acceptance
+    criteria and Golden Path journey definition
+  - Familiarity with coverage tooling and using coverage data to
+    prioritize test investment
+  - Hands-on exposure to AI-assisted test generation tooling
+    specifically, not just general-purpose AI coding
+    assistants
+
+  Nice to Have
+
+  - Experience in e-commerce, logistics, or supply-chain domains
+  - Familiarity with [Shopify / WMS-TMS / billing systems]
+  - Experience with security/dependency scanning tools in CI
+
+  What Success Looks Like
+
+  30 days: Has audited existing test coverage against [Product
+  Group]'s happy-path / sad-path scenarios, identified the top
+  gaps, provided a test plan, and shipped at least one new
+  automated test into CI.
+
+  90 days: Regression test register live and passing threshold
+  criteria is gating releases; contract/API test tooling in
+  place for at least one major service boundary; AI-assisted
+  test generation piloted with at least one team.
+
+  6 months: Load/performance test framework in active use by
+  engineers on applicable stories; [Product Group]'s release
+  process clears Stord's Definition of Done quality gates
+  without manual rework surfacing at UAT.
+industries:
+  - Logistics
+  - Software
+posted_date: 2026-10-07
+url: "https://builtin.com/job/senior-software-development-engineer-test/11536517"
+source: Built In

@@ -1,0 +1,147 @@
+job_id: 10358033
+title: "Staff Software Engineer | Platform Team"
+company: Machinify
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 96 Employees
+description: |
+  Machinify is a leading healthcare intelligence company with
+  expertise across the payment continuum, delivering unmatched
+  value, transparency, and efficiency to health plan clients
+  across the country. Deployed by over 85 health plans,
+  including many of the top 20, and representing more than 270
+  million lives, Machinify brings together a fully
+  configurable and content-rich, AI-powered platform along
+  with best-in-class expertise. We’re constantly reimagining
+  what’s possible in our industry, creating disruptively
+  simple, powerfully clear ways to maximize financial outcomes
+  and drive down healthcare costs.
+
+  We’re seeking a skilled Staff/Sr. Staff Platform Engineer to
+  join our team!
+
+  The Platform team builds the foundation every engineer at
+  Machinify works on top of. Our scope is unusually broad:
+  developer tooling and shared standards, observability and
+  resilience engineering, core product server systems, and a
+  growing Rust framework for building correct services fast.
+  We lead AI tool adoption across the entire company. This is
+  a staff-level IC role — you'll have real influence over
+  technical direction without managing people.
+
+  We're honest about the challenge. We inherited complex and
+  important Scala systems that need scaling work and data
+  layer rethinking. Some of the work is untangling
+  implementation issues so the real architectural problems
+  become visible. If you're the kind of engineer who finds
+  that satisfying — seeing through symptoms to root causes,
+  making hard systems better — this is your team.
+
+  We have strong opinions about how engineering should work.
+  Emotional safety matters. We lead with empathy for our users
+  and our colleagues. We own the whole problem, not just the
+  interesting parts. We build it right, test it thoroughly,
+  and leave things better than we found them. We operate with
+  high trust and high autonomy, and we're looking for people
+  who thrive in that environment.
+
+  Does this sound like the right opportunity to explore?...
+  Lets connect!
+
+  What You’ll Do
+
+  Some or all of the following:
+
+  - Dig into inherited Scala systems to find where the real
+    problems are, separate symptoms from causes, and make them
+    scale
+  - Redesign the data layer our ML and AI products depend on —
+    this is an open, hard problem
+  - Build out a Rust framework that lets teams ship correct,
+    performant services without reinventing fundamentals
+  - Improve observability and resilience across the platform so
+    we find problems before our customers do
+  - Shape developer tooling and engineering standards — your
+    work multiplies everyone else's effectiveness
+  - Drive AI tool adoption across the company, figuring out what
+    actually helps engineers work better
+  - Work across the full stack: JVM (Java/Scala), Rust, Python,
+    SQL, and Spark
+
+  What You Bring
+
+  What matters most:
+
+  - Systems thinking. You see how pieces connect. When something
+    breaks, you reason about the whole system, not just the
+    component in front of you.
+  - Fearless code reading. You can drop into a large, unfamiliar
+    codebase, build a mental model, and figure out what needs
+    to change.
+  - Empathy for users. Whether it's a developer using your
+    framework or an operator reading your error messages, you
+    design for the people downstream.
+  - Testing discipline. You test thoroughly not because someone
+    requires it, but because you've shipped enough software to
+    know what happens when you don't.
+  - Comfort with ambiguity. Our hardest problems don't come with
+    specifications. You're energized, not paralyzed, by that.
+
+  Technical skills
+
+  - Proficiency in JVM ecosystem (Java, Scala)
+  - Experience with Rust highly desired
+  - Python
+  - SQL and data processing (Spark or similar)
+  - Distributed systems design
+  - Observability and resilience engineering
+
+  What We Offer
+
+  - Work from anywhere in the US! Machinify is digital-first.
+  - Top Medical/Dental/Vision offerings
+  - FSA/HSA
+  - Tuition reimbursement
+  - Competitive salary, 401(k) with company match
+  - Unlimited PTO
+  - Additional health and wellness benefits and perks
+  - Flexible and trusting environment where you’ll feel
+    empowered to do your best work
+
+  The salary for this position is based on an array of factors
+  unique to each candidate: Such as years and depth of
+  experience, set skills, certifications, etc.  We are hiring
+  for different levels, and our Recruiting team will let you
+  know if you qualify for a different role/range. Salary is
+  one component of the total compensation package, which
+  includes meaningful equity, excellent healthcare, flexible
+  time off, and other benefits and perks.
+
+  Pay range: $225,000-260,000
+
+
+
+  Equal Employment Opportunity at Machinify
+
+
+
+  We are committed to equal employment opportunity regardless
+  of race, color, ancestry, religion, sex, national origin,
+  sexual orientation, age, citizenship, marital status,
+  disability, gender, gender identity or expression, or
+  veteran status. We are proud to be an equal opportunity
+  workplace. Machinify is an employment at will employer. We
+  participate in E-Verify as required by applicable law. In
+  accordance with applicable state laws, we do not inquire
+  about salary history during the recruitment process. If you
+  require a reasonable accommodation to complete any part of
+  the application or recruitment process, please let our
+  recruiters know. See our Candidate Privacy Notice at:
+  https://www.machinify.com/candidate-privacy-notice/
+industries:
+  - Machine Learning
+  - Software
+posted_date: 2026-10-01
+url: "https://builtin.com/job/staff-software-engineer-platform-team/10358033"
+source: Built In

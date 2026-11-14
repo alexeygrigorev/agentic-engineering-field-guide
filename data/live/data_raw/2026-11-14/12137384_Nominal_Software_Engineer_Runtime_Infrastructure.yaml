@@ -1,0 +1,220 @@
+job_id: 12137384
+title: Software Engineer, Runtime Infrastructure
+company: Nominal
+location: Austin, USA
+locations:
+  - Austin, USA
+  - Seattle, USA
+  - New York, USA
+  - Los Angeles, USA
+work_type: FULL_TIME
+company_size: 87 Employees
+description: |
+  About Nominal
+
+  Engineers today are building some of the most ambitious
+  machines humanity has ever seen. They should have AI that’s
+  purpose-built for them.
+
+  Nominal is building the Hardware Intelligence Platform that
+  gives engineers increased visibility into complex physical
+  systems, helps them make better decisions, and ultimately
+  gets their products into the real world faster. It brings
+  together the systems, data, intelligence, and applications
+  hardware engineering requires to meet the AI moment.
+  Hardware engineering teams use Nominal to simulate, test,
+  manufacture, and operate the physical systems that keep the
+  world moving, from spacecraft and autonomous vehicles to
+  next-generation energy systems and robotics.
+
+  Our customers span aerospace, defense, manufacturing,
+  transportation, energy, and robotics. They include Anduril,
+  Shield AI, Wisk Aero, Pratt Miller Motorsports, Antares, and
+  Shinkei Systems, amongst others, alongside programs within
+  the U.S. Air Force and Navy. Our team draws from SpaceX,
+  Palantir, Anduril, Applied Intuition, Tesla, and other
+  leading companies, united by a common mission: giving
+  hardware engineers the tools to build the future with speed,
+  safety, and confidence. We're a fast-moving team that owns
+  problems end-to-end, works across disciplines, and thrives
+  at the intersection of hardware and software.
+
+  Some of the world’s leading technology investors, including
+  Sequoia, Lightspeed, Founders Fund, General Catalyst, Lux
+  Capital, and Insight Partners, are backing Nominal’s
+  ambition to change how machines are built and operated.
+  We’re looking for engineers who want to take on hard
+  problems and help make a new generation of world-changing
+  hardware possible.
+
+  Join Nominal as a Software Engineer, Runtime Infrastructure
+
+  Nominal runs mission-critical software wherever our
+  customers need it: in our cloud, in theirs, and on
+  disconnected networks for defense programs. An engineer
+  might be watching a vehicle in real time or working through
+  terabytes of post-test data. Either way, every layer between
+  the hardware and the chart on their screen has to be fast
+  and correct. Our customers expect a lot from us on
+  reliability, security, and compliance. Runtime
+  Infrastructure builds the libraries, services, and standards
+  that let every Nominal team meet that bar by default.
+
+  As a Software Engineer on Runtime Infrastructure, you'll
+  build the foundation the rest of engineering builds on. That
+  covers how our services and applications are observed, how
+  they record who did what, how they talk to each other, and
+  how they behave under load and failure. Your main users are
+  other Nominal engineers. If you do this well, they ship
+  faster, catch problems sooner, and meet our customers'
+  standards without having to think about it. Through them,
+  your work reaches the aerospace, defense, and autonomy teams
+  who use Nominal for mission-critical testing.
+
+  We're hiring both backend and full stack engineers for this
+  team. You'll build services, libraries, and APIs that have
+  to be correct, fast, and long-lived. You'll care about
+  architecture across the whole stack: how our web
+  applications are structured, how they talk to the backend,
+  and how they behave in production. You'll have a lot of
+  autonomy and work closely with product, frontend, platform,
+  and deployment engineers. You'll help shape the requirements
+  yourself, with input from fellow engineers and our
+  customers, and make the tradeoffs that decide how our
+  systems are built. You'll also be able to contribute to the
+  open source projects we depend on.
+
+  🚀 About the role
+
+  Build the foundation other engineers stand on
+
+  Build the service frameworks and shared libraries that every
+  Nominal service starts from: configuration, health checks,
+  graceful shutdown, resource limits, resilience, secure
+  defaults, and the conventions for how services define their
+  APIs and talk to each other. The goal is that a new service
+  is reliable, observable, and compliant from its first
+  commit. You'll measure success by how quickly other
+  engineers can ship, debug, and operate their own services.
+
+  Find where the time and memory go
+
+  Investigate concurrency, memory, and latency problems across
+  our services. You'll build runtime metrics, profiling, and
+  load testing, then turn what you find into fixes, and into
+  tools other engineers can use on their own.
+
+  Success in this role comes from treating other engineers as
+  your customers. You'll spend as much time understanding how
+  teams build, run, and debug software as you will writing
+  code.
+
+  🙌 We'd love to hear from you if you have
+
+  - 3+ years of experience as a backend or full stack engineer,
+    building and running production systems where performance,
+    reliability, and operational simplicity matter.
+  - Strong experience in at least one of Rust, Java, or
+    TypeScript, with an emphasis on correctness, clarity, and
+    long-lived systems. You don't need all three, but you
+    should be excited to work across them.
+  - Experience designing libraries, frameworks, or APIs that
+    other engineers build on: hiding complexity behind simple
+    interfaces, sensible defaults, and changing things without
+    breaking the people who depend on you.
+  - Hands-on experience with observability tools such as
+    OpenTelemetry, Prometheus, or Datadog, including metrics,
+    traces, and alerts that engineers actually rely on.
+  - A solid understanding of concurrency, async runtimes,
+    networking, and how distributed systems behave under load
+    and failure.
+  - A systems mindset. You like working out how a system should
+    behave, and how it will fail, before you build it.
+  - Excellent communication skills, and the ability to explain
+    technical tradeoffs clearly to the engineers who depend on
+    your work.
+  - A bias toward ownership: you design it, build it, ship it,
+    and run it.
+
+  ⚡ Skills that supercharge us
+
+  Security & Compliance
+
+  Experience building audit logging, access controls, data-
+  handling safeguards, or other systems that help a company
+  meet security and compliance requirements.
+
+  API Design
+
+  Experience with schema-driven APIs and RPC frameworks, code
+  generation, and keeping APIs compatible as many teams build
+  on them.
+
+  Distributed Tracing
+
+  Experience instrumenting services and following a request
+  across process, network, and browser boundaries.
+
+  Performance Engineering
+
+  Experience profiling CPU and memory, load testing, and
+  turning measurements into concrete improvements.
+
+  Resilience Patterns
+
+  Experience with backpressure, bulkheads, rate limiting,
+  retries, and graceful degradation in production systems.
+
+  Developer Experience
+
+  A track record of building tools, libraries, or platforms
+  that made other engineers more productive.
+
+  Async Rust
+
+  Experience with Tokio or similar, and a feel for what the
+  runtime is doing under the hood.
+
+  Frontend Architecture
+
+  Experience designing how large TypeScript/React applications
+  are structured: data fetching, caching, state management,
+  and the API boundaries they depend on.
+
+  ✨ Benefits/Perks
+
+  - 🏥 100% coverage of medical, dental, and vision insurance
+  - 🏖️ Unlimited PTO and sick leave
+  - 🍽️ Free lunch, snacks, and coffee
+  - 🚀 Professional Development Stipend
+  - 🛠️ In-office hardware lab with a $250 project stipend
+  - ✈️ Annual company retreat
+  - 👶 12 weeks parental leave
+  - 🌱 Fertility and family planning ($15,000 lifetime)
+  - 💪 Wellness stipend ($100/month)
+  - 🛠️ $500/year hardware sensor stipend
+  - 💼 401(k)
+  - 📈 Employee-friendly equity terms
+  - 🏢 In-office 5 days per week
+
+  All qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  sexual orientation, gender identity, or national origin.
+
+  ITAR Requirements
+
+  To conform to U.S. Government export regulations, applicant
+  must be a (i) U.S. citizen or national, (ii) U.S. lawful,
+  permanent resident (aka green card holder), (iii) Refugee
+  under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158,
+  or be eligible to obtain the required authorizations from
+  the U.S. Department of State. Learn more about the ITAR
+  here.
+
+  Compensation
+
+  The base pay range for this role is $179,000 – $310,000 per
+  year.
+posted_date: 2026-11-09
+url: "https://builtin.com/job/software-engineer-runtime-infrastructure/12137384"
+source: Built In

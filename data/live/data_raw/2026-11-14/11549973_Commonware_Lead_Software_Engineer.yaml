@@ -1,0 +1,84 @@
+job_id: 11549973
+title: Lead Software Engineer
+company: Commonware
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 7 Employees
+description: |
+  What is Exoware?
+
+  Exoware is the managed infrastructure offering built around
+  Commonware, an open-source framework for high-performance
+  decentralized systems.
+
+  The software powering Exoware largely exists in alpha form.
+  Now we need to build the production environment around it.
+
+  We’re looking for an experienced systems builder to make
+  that happen.
+
+  The Role
+
+  Think of it as building the machine that runs the machine.
+
+  You’ll build the systems required to deploy, scale, monitor,
+  secure, and recover Exoware in production. That includes
+  infrastructure automation as well as writing software to
+  drive that automation.
+
+  There’s no mature production environment to inherit. The
+  initial approach will be cloud-first and pragmatic, using
+  proven systems where they make sense.
+
+  What You’ll Work On
+
+  - Build Exoware’s production environment from the ground up.
+  - Automate deployment, scaling, upgrades, and recovery.
+  - Build CI/CD, monitoring, telemetry, and operational tooling.
+  - Design for data safety, availability, and security.
+  - Work across Kubernetes, ECS, cloud services, and related
+    infrastructure.
+  - Write software that improves how Exoware is deployed and
+    operated.
+  - Feed production insights back into the underlying software.
+
+  Who We’re Looking For
+
+  You’ve built production infrastructure for real systems at a
+  meaningful scale.
+
+  You’re the kind of engineer who wants someone to hand you
+  software and say: make this run reliably.
+
+  Relevant experience includes:
+
+  - Greenfield production infrastructure
+  - Distributed or stateful systems
+  - Cloud infrastructure and orchestration
+  - Kubernetes, ECS, or similar systems
+  - CI/CD and deployment automation
+  - Observability, reliability, and recovery
+  - Networking, storage, or systems software
+
+  We need a builder who is comfortable writing code, making
+  architectural decisions, and creating the production
+  environment rather than inheriting one.
+
+  About Commonware
+
+  Commonware builds open-source primitives across networking,
+  consensus, cryptography, and storage and has raised $30m+.
+
+  The small, distributed team includes engineers from Google,
+  Coinbase, Ava Labs, dYdX, Optimism, and Parity.
+
+  Commonware · GitHub · Benchmarks
+industries:
+  - Blockchain
+  - Software
+  - Cryptocurrency
+  - Cybersecurity
+posted_date: 2026-10-07
+url: "https://builtin.com/job/lead-software-engineer/11549973"
+source: Built In

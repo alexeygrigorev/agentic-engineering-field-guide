@@ -1,0 +1,85 @@
+job_id: 12150255
+title: Senior Backend Engineer - Transaction
+company: ether.fi
+location: CYM
+locations:
+  - CYM
+  - Denver, USA
+  - New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 25 Employees
+description: |
+  About us:
+
+  Ether.fi is one of the largest crypto companies in the
+  world. We have over $10B in assets under management and a
+  team of 30 almost all technical staff. We’ve been profitable
+  day one and are focusing on building real consumer
+  applications.
+
+  The future we envisage is true on-chain banking. Our current
+  products; Stake, Liquid, and Cash enable users to earn yield
+  in a variety of DeFi strategies, and spend their assets in
+  the real world with our credit cards. You can view public
+  analytics on Dune for Cash and Stake.
+
+  Position overview:
+
+  We’re looking for a senior backend engineer to own core
+  parts of our card program: transaction processing,
+  authorization and decline handling, disputes, and the
+  services around them. You’ll work on a small team where
+  engineers own problems end to end, from understanding why a
+  user’s card was declined to shipping the fix and measuring
+  whether it worked. Anything a neobank would build is on our
+  roadmap.
+
+  What you’ll do:
+
+  - Own core backend services for our card program, including
+    authorization, clearing, refunds, and dispute flows
+  - Reduce user friction from card declines: find root causes in
+    transaction data, work with our issuing partners, and ship
+    fixes
+  - Make product calls alongside design and ops: decide what to
+    build, cut scope where it doesn’t serve users, and track
+    outcomes after launch
+  - Use AI tools and agents as a core part of how you work, for
+    coding, investigation, data analysis, and automating
+    operational work
+  - Improve our infrastructure, CI/CD, observability, and
+    monitoring so the team can ship safely and quickly
+
+  What we are looking for:
+
+  - 5+ years of professional backend engineering experience with
+    strong fundamentals in software design and problem solving
+  - Experience building or operating a card program, on the
+    issuing side, processor side, or as a fintech running
+    cards through a program manager
+  - A product mindset: you care about what users experience, can
+    turn a vague problem into a scoped plan, and judge your
+    work by its effect on users
+  - You already use AI heavily to get things done and can show
+    examples where it changed how much or how fast you
+    delivered
+  - You have shipped products used by thousands of real users
+  - Drive and willingness to go the extra mile. We are an
+    ambitious team with audacious goals, and we work hard to
+    reach them
+
+  Perks and benefits:
+
+  - Competitive salary, performance-based incentives, and token
+    allocation grant
+  - Opportunity to work on multi-billion dollar products as part
+    of a small team
+  - Health, dental, and vision insurance plans
+  - Global team with opportunity for travel and working out of
+    our 3 offices around the world
+  - 4 weeks work from anywhere
+  - Exciting company events and team-building off-sites
+posted_date: 2026-11-10
+url: "https://builtin.com/job/senior-backend-engineer-transaction/12150255"
+source: Built In

@@ -1,0 +1,120 @@
+job_id: 10628429
+title: Software Engineer, Three.js
+company: Aether
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 14 Employees
+description: |
+  About Aether
+
+  Aether is building a comprehensive AI-driven platform for
+  the built world. Our core software is used by solar,
+  roofing, and heat pump companies to deliver advanced 3D
+  modeling, simulation, quoting, and financing tools — all in
+  one powerful interface. We combine deep technical rigor with
+  real-world utility, leveraging physics-based modeling, AI,
+  and scalable infrastructure.
+
+  Founded by alumni of UC Berkeley, École Polytechnique, and
+  ETH Zurich, we bring experience from leading energy and
+  software companies.
+
+  Aether is a recent graduate of YCombinator, and has raised
+  over $6M in funding.
+
+  Check us out: https://www.aethergtm.com
+
+  About the Role
+
+  We're looking for a sharp, ambitious Frontend Engineer with
+  strong CAD / 3D skills to take ownership of key parts of our
+  in-browser solar configurator — a Three.js-powered design
+  engine that lets users model rooftops and design solar
+  systems in 3D.
+
+  You'll join our existing configurator team and work directly
+  with our CTO, computational engineers, and product team.
+  While the CAD engine is already in production, we’re
+  building entirely new 3D functionality (e.g. full 3D site
+  visualization, generative design workflows, performance
+  tuning, etc.) that will require strong technical skill and
+  creativity.
+
+  Beyond 3D, you'll also take on regular frontend features
+  across the Aether platform — this is a hybrid CAD + product
+  role for someone excited to stretch across UX, engineering,
+  and real-time geometry.
+
+  We use Three.js and React Three Fiber (R3F) as part of our
+  tech stack, and expect deep familiarity with 3D frontend
+  work and strong problem-solving instincts. If you're looking
+  for a role where you can own complex features, help scale a
+  production configurator, and work on tools that power the
+  clean energy transition — this is it.
+
+  What You’ll Do
+
+  - Contribute to and expand our Three.js-based solar
+    configurator (CAD interface)
+  - Build and optimize 3D geometry tools and visual design
+    workflows
+  - Take ownership of both new CAD/3D features and regular
+    product-facing frontend tasks
+  - Collaborate with backend and computational teams on data
+    flows, simulations, and rendering
+  - Translate solar physics concepts into usable design tools
+  - Help define best practices and architecture for frontend +
+    3D stack
+  - Drive key UX and interaction decisions with design team
+  - Ensure configurator is performant, stable, and intuitive
+    across edge cases
+
+  Requirements
+
+  - 3+ years of experience building interactive frontends or 3D
+    web apps
+  - Strong knowledge of Three.js, React Three Fiber (R3F),
+    WebGL, and modern JavaScript (ES6+)
+  - Solid intuition for UX and interface design in 3D space
+  - Strong math/geometry background (vectors, transforms,
+    spatial reasoning)
+  - Experience with modern frontend tools (React, Vite, Git,
+    etc.)
+  - Comfortable working in fast-paced, high-ownership
+    environments
+  - While you’ll own major 3D features, you’re also comfortable
+    working in tandem with another CAD engineer on shared
+    systems and workflows
+  - You’re comfortable jumping between deeply technical CAD
+    logic and more traditional product UI work.
+
+  Bonus Points
+
+  - Background in engineering, physics, math, or computational
+    science
+  - Experience with rooftop design tools, CAD interfaces, or
+    solar-related software
+  - Familiarity with performance optimization for real-time
+    rendering
+  - Experience with shaders or low-level WebGL
+  - Understanding of solar/energy data, simulations, or ML
+    integration
+
+  Why Join Aether
+
+  - Build tools that directly accelerate clean energy adoption
+  - Own core parts of a 3D design engine used by real solar
+    installers
+  - Work with a fast-moving, talented team across design,
+    engineering, and ML
+  - Help shape a critical vertical in a scaling YC-backed
+    startup
+industries:
+  - Artificial Intelligence
+  - Software
+  - Energy
+  - Solar
+posted_date: 2026-10-26
+url: "https://builtin.com/job/software-engineer-three-js/10628429"
+source: Built In

@@ -1,0 +1,202 @@
+job_id: 10322202
+title: Senior Software Engineer II - Streaming and Durability
+company: Compass
+location: Manhattan, USA
+work_type: FULL_TIME
+company_size: 4,000 Employees
+description: |
+  At Compass, our mission is to help everyone find their place
+  in the world. Founded in 2012, we’re revolutionizing the
+  real estate industry with our end-to-end platform that
+  empowers residential real estate agents to deliver
+  exceptional service to seller and buyer clients.
+
+  About the Role
+
+
+
+  Every transaction, every listing view, every agent
+  interaction at Compass touches a streaming pipeline, a
+  database, or a cache owned by the Streaming & Durability
+  team. This team is responsible for the foundational data
+  layer: the systems that have to be fast, correct, and
+  isolated across thousands of tenants, every single time.
+
+
+
+  We don't just keep the lights on. We're solving hard
+  problems: how do you run Kafka as a true platform, with
+  clear authentication, managed schemas, and standard tooling,
+  when it has run for years without a dedicated owner? How do
+  you make Kafka upgrades, schema changes, and connector
+  rollouts routine instead of risky? How do you enforce
+  tenant-level data isolation across shared PostgreSQL
+  clusters and Redis/Valkey caches without sacrificing
+  latency? How do you build SDKs that make the safe path the
+  easy path for hundreds of engineers who never think about
+  infrastructure?
+
+
+
+  As a Senior Engineer, you'll own answers to those questions.
+  You'll design systems that quietly protect millions of
+  records, ship tooling that engineers across the company
+  reach for by default, and operate infrastructure where the
+  cost of getting it wrong is measured in trust, not just
+  latency.
+
+
+
+  Responsibilities
+
+
+
+  - Own Kafka at Compass end to end, across our MSK and
+    Confluent clusters: platform health, upgrades, capacity,
+    and cost. Set the technical direction for how the rest of
+    engineering uses streaming.
+
+  - Run the Kafka operational program: client authentication and
+    access standards, Schema Registry ownership with PR-driven
+    schema registration, Kafka Connect upgrades and standard
+    management, producer compression defaults, and the
+    runbooks and drills that let application teams recover
+    quickly.
+
+  - Build and scale Kafka/MSK streaming infrastructure, the
+    connective tissue between Compass services, including
+    topic architecture, consumer patterns, partition
+    rebalancing, upgrades, and dead-letter-queue and redrive
+    guidance.
+
+  - Build multi-tenant data isolation into Compass's data layer,
+    shipping SDKs in Go, Java, and Python that enforce tenant-
+    safe access patterns so product engineers can move fast
+    without risking cross-tenant data exposure.
+
+  - Support the database and caching fleet (RDS/Aurora
+    PostgreSQL, ElastiCache Redis/ValKey, DynamoDB) alongside
+    our database platform partners, including replication,
+    failover, and capacity decisions.
+
+  - Drive production database upgrades at fleet scale, moving
+    toward automation, with Terraform state changes across
+    hundreds of clusters and zero customer-facing impact.
+
+  - Develop deep observability into the data layer and streaming
+    platform, including SLI dashboards, tenant-dimensioned
+    telemetry, and real-time performance insights that let the
+    team (and the company) understand system behavior before
+    customers do.
+
+  - Partner directly with product and platform teams to assess
+    database readiness for scaling events, migrate workloads
+    onto golden-path infrastructure, and resolve the hardest
+    production incidents in the stack.
+
+
+
+  Basic Qualifications
+
+
+
+  - You've operated Kafka/MSK at scale and dealt with the hard
+    parts: upgrades, consumer lag, partition rebalancing, and
+    authentication (SASL/SCRAM or IAM).
+
+  - You know the surrounding Kafka ecosystem (Schema Registry,
+    Kafka Connect) well enough to run it and to set standards
+    for other teams.
+
+  - 7+ years of experience building and operating distributed
+    systems at production scale in AWS.
+
+  - Working knowledge of a major managed database (PostgreSQL or
+    similar), enough to partner with a dedicated database team
+    and reason about the infrastructure around it.
+
+  - You've built shared tooling (SDKs, client libraries,
+    platform APIs), and you understand what it takes to make
+    infrastructure accessible and safe for engineers who
+    aren't infrastructure specialists. Kafka client libraries
+    are a plus.
+
+  - You think in trade-offs, not absolutes. You can articulate
+    why you'd choose a soft application-enforced boundary over
+    a hard infrastructure lock and when that calculus changes.
+
+  - You write Go (or can ramp quickly), with Java a plus, and
+    you're comfortable in Terraform, Kubernetes, and IAM-heavy
+    AWS environments.
+
+  - You've led cross-team operational programs, including change
+    management, migration coordination, and rollback planning,
+    where the blast radius of a mistake extends well beyond
+    your own team.
+
+  - You can drive a technical decision end to end: frame the
+    options, prove them out with benchmarks or a proof of
+    concept, and lay out cost and risk for senior leaders.
+
+
+
+  Preferred Qualifications
+
+
+
+  - You've worked on multi-tenant isolation problems such as key
+    prefixing, row-level security, and RBAC/ACL models and
+    have opinions about where application-layer enforcement
+    breaks down.
+
+  - You've built or contributed to observability platforms,
+    specifically for database and cache monitoring.
+
+  - You've worked on Kafka cost and efficiency, such as
+    compression, retention, and cross-AZ data transfer.
+
+  Compensation: The base pay range for this position is
+  $176,000-$196,100; however, base pay offered may vary
+  depending on job-related knowledge, skills, and experience.
+  Bonuses and restricted stock units may be provided as part
+  of the compensation package, in addition to a full range of
+  benefits. Base pay is based on market location. Minimum wage
+  for the position will always be met.
+
+  Perks that You Need to Know About:
+
+  Participation in our incentive programs (which may include
+  eligible cash, equity, or commissions). Plus paid vacation,
+  holidays, sick time, parental leave, and recharge leave;
+  medical, tele-health, dental and vision benefits; 401(k)
+  plan; flexible spending accounts (FSAs); commuter program;
+  life and disability insurance; Maven (a support system for
+  new parents); Carrot (fertility benefits); UrbanSitter
+  (caregiver referral network); Employee Assistance Program;
+  and pet insurance.
+
+
+
+  Do your best work, be your authentic self.
+
+  At Compass, we believe that everyone deserves to find their
+  place in the world — a place where they feel like they
+  belong, where they can be their authentic selves, where they
+  can thrive.  Our collaborative, energetic culture is
+  grounded in our Compass Entrepreneurship Principles and our
+  commitment to diversity, equity, inclusion, growth and
+  mobility. As an equal opportunity employer, we offer
+  competitive compensation packages, robust benefits and
+  professional growth opportunities aimed at helping to
+  improve our employees' lives and careers.
+
+  Notice for California Applicants
+
+  Los Angeles County Fair Chance Notice
+industries:
+  - Real Estate
+  - Software
+  - PropTech
+posted_date: 2026-08-17
+url: "https://builtin.com/job/senior-software-engineer-ii-streaming-and-durability/10322202"
+source: Built In

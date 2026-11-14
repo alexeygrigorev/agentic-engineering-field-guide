@@ -1,0 +1,134 @@
+job_id: 11507902
+title: Senior Software Engineer - Credit
+company: LemFi
+location: London, GBR
+work_type: FULL_TIME
+company_size: 121 Employees
+description: |
+  Ambition has no passport. That belief is why LemFi exists.
+  We're the financial engine for people the world wasn't built
+  to serve, the millions who move countries to build something
+  better and find the financial system hasn't caught up with
+  them yet. We started with remittances: the money people send
+  home to the people they love. Now we run multi-currency
+  accounts, Savings, eSIMs and Credit. Because staying
+  connected to home and building somewhere new are not two
+  separate things. They never were.
+
+  About the role
+
+  LemFi's Credit tribe is early and moving fast. We're
+  building the infrastructure that will power lending products
+  for millions of people who've historically been locked out
+  of fair credit - immigrants, diaspora communities, and the
+  financially underserved across our 21 operating markets.
+  This is a ground-floor opportunity: the tribe is being built
+  right now, and the systems you design today will be the
+  foundation everything else sits on.
+
+  We're looking for a Senior Software Engineer to join the
+  Credit tribe and own core backend services end-to-end.
+  You'll be working primarily in Go, with some existing Java
+  services in the mix - switching between them is not the
+  blocker, deep engineering craft and an instinct for how
+  credit products behave is. We move fast and we don't
+  micromanage, which means you'll need to bring the domain
+  awareness to make the right call before anyone has to tell
+  you.
+
+  What you'll build and own
+
+  - Design, build and operate high-reliability backend services
+    that power LemFi's credit products, from loan origination
+    and underwriting through to repayment and collections.
+  - Make the right architectural calls independently - data
+    residency, service boundaries, state-machine design for
+    loan lifecycles - without needing to be told what a
+    credit-safe system looks like.
+  - Own your services in production: instrument them, monitor
+    them, debug them, and hold the bar on reliability and
+    correctness.
+  - Work closely with product and compliance to translate
+    credit-domain requirements into clean, testable,
+    maintainable code.
+  - Use AI coding tools actively to accelerate delivery and
+    improve test coverage, while taking full ownership of the
+    correctness of every line that ships.
+  - Contribute to growing the tribe - as one of the earliest
+    engineers you'll help set the engineering culture, review
+    others' work, and raise the bar on how we build.
+
+  Your experience
+
+  - Strong backend engineering in Go; Java experience is a plus
+    given our existing services, but Go is the primary
+    language.
+  - Meaningful fintech experience - you understand how financial
+    systems behave under load, under regulation, and under
+    audit.
+  - Exposure to credit products (lending, underwriting,
+    repayment, collections) at any level - even adjacent - so
+    you arrive with the right instincts, not just a
+    willingness to learn them.
+  - Solid grasp of distributed systems design: event-driven
+    architecture, service boundaries, data consistency, and
+    failure modes.
+  - You care about correctness and data integrity as much as
+    velocity - you've worked in environments where getting it
+    wrong has real consequences for real people.
+  - Comfortable operating with autonomy in an environment where
+    the spec is never fully finished and the team is still
+    being built.
+
+  Nice to have
+
+  - Direct experience building credit decisioning, risk scoring,
+    or loan management systems.
+  - Experience in a high-growth startup or scale-up where you
+    helped establish engineering foundations from scratch.
+  - Familiarity with regulatory and compliance constraints
+    specific to consumer credit (e.g. FCA, data protection
+    requirements for credit data).
+
+  Why join LemFi?
+
+  Your work here puts money back into families' pockets.
+  That's the reward, and the weight of it. You'll take on some
+  of the hardest problems in finance alongside people who do
+  their best work when the stakes are real. We move fast and
+  we expect a lot, because our customers can't afford for us
+  to do otherwise. In return you get room to own real
+  problems, global impact you can see, and a team that won't
+  slow you down.
+
+  Bring grit and ownership and there's a place for them here.
+  Ambition belongs here, come and show us yours. Follow us on
+  LinkedIn and Instagram and if you haven't already, download
+  the app on the App Store or Google Play.
+
+  Don't feel that you're right for this role, but want to
+  submit your interest in working for LemFi? You can join our
+  talent community to stay in touch for future opportunities.
+
+  Recruitment agencies notice
+
+  LemFi does not accept unsolicited CVs from recruitment
+  agencies. We work only with agencies on our preferred
+  supplier list, and only when we’ve asked them for their
+  support. Any CVs sent to us outside this arrangement will
+  not incur a fee.
+
+  AI in hiring at LemFi
+
+  We use AI to cut admin, like notetakers that let
+  interviewers focus on the conversation instead of typing. AI
+  never makes hiring decisions. That responsibility always
+  sits with our hiring teams. Read our AI use policy to see
+  how we use AI and how we expect you to use it too.
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-10-05
+url: "https://builtin.com/job/senior-software-engineer-credit/11507902"
+source: Built In

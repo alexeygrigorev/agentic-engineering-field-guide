@@ -1,0 +1,96 @@
+job_id: 11448370
+title: Backend / Data Platform Engineer
+company: Foundational
+location: London, GBR
+work_type: FULL_TIME
+company_size: 31 Employees
+description: |
+  Backend / Data Platform Engineer
+
+  This is a future role. We're building a shortlist now and
+  will contact you when it opens.
+
+  About us
+
+  Foundational is building the most precise picture of Earth
+  and orbit, using lasers fired from the ground. We call it
+  ground truth for orbit.
+
+  We design and run low-cost, autonomous satellite laser
+  ranging stations. They measure the distance to satellites
+  with extreme precision, day and night. Our data platform
+  turns those measurements into tracking data and orbit
+  products for satellite operators, space agencies and
+  governments. We also build our own flight-proven laser
+  retroreflector arrays, so any satellite can be tracked.
+
+  Our station network is expanding across continents. The data
+  supports resilient navigation, Earth observation and the
+  safe, sustainable use of space.
+
+  We're a small, fast-moving team of engineers, scientists and
+  operators in London. We're backed by venture investors and
+  supported by ESA, the UK Space Agency, and Innovate UK.
+
+  Position Overview
+
+  London · Full time · On-site
+
+  You'll build the platform that ingests, processes and serves
+  our tracking data, all the way from station to customer API.
+
+  What you'll do
+
+  - Build ingest pipelines from our stations and from third-
+    party data sources
+  - Design data models and storage for high-volume, time-series
+    scientific data
+  - Build and maintain customer APIs and data delivery in
+    standard formats
+  - Make pipelines reliable, observable and secure, including
+    for customers with strict data-handling requirements
+  - Work closely with front-end, geodesy and orbit determination
+    engineers
+
+  What you'll bring
+
+  - Extensive experience building backend systems in production
+  - Strong Python (or Go or Rust) and SQL
+  - Experience with data pipelines, message queues and time-
+    series storage
+  - Cloud infrastructure and containers (Docker, Kubernetes)
+  - Care for testing, security and documentation
+
+  Nice to have
+
+  - Scientific or geospatial data
+  - Space data standards (CCSDS, CRD)
+  - Streaming platforms such as Kafka
+  - A background in space situational awareness
+
+  What We Offer
+
+  - A high-impact role with real ownership at an early-stage,
+    venture-backed spacetech company
+  - EMI share options (UK employees)
+  - 25 Days Annual Leave + Bank Holidays
+  - Enhanced Parental Leave
+  - Cycle to work schemes
+  - Work alongside engineers and scientists across optics,
+    lasers, software and astrodynamics
+  - Offices in central London, with snacks, tea, coffee and
+    regular socials
+
+  We actively champion underrepresented groups and seek to
+  bridge gaps in our workforce. If you're excited by the role
+  but don't match every point, or you’re seeking a part time
+  role, please apply anyway and add a note into your
+  application. Building the best team is our priority.
+industries:
+  - Aerospace
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-09-30
+url: "https://builtin.com/job/backend-data-platform-engineer/11448370"
+source: Built In

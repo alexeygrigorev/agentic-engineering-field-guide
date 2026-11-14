@@ -1,0 +1,137 @@
+job_id: 11542209
+title: Platform Software Engineer
+company: G-Research
+location: London, GBR
+work_type: FULL_TIME
+company_size: 1,039 Employees
+description: |
+  We tackle the most complex problems in quantitative finance,
+  by bringing scientific clarity to financial complexity.
+
+  From our London HQ, we unite world-class researchers and
+  engineers in an environment that values deep exploration and
+  methodical execution – because the best ideas take time to
+  evolve. Together we're building a world-class platform to
+  amplify our teams' most powerful ideas.
+
+  As part of our engineering team, you’ll shape the platforms
+  and tools that drive high-impact research - designing
+  systems that scale, accelerate discovery and support
+  innovation across the firm.
+
+  Take the next step in your career.
+
+  The role:
+
+  The Storage Engineering team builds and operates the storage
+  products used across G-Research. As a Platform Software
+  Engineer, you'll build the APIs, workflows and data models
+  that turn manually operated infrastructure into self-service
+  products.
+
+  The work includes capacity requests, tenant and quota
+  automation, reporting and data lifecycle services. You'll
+  make infrastructure changes safe, repeatable and auditable,
+  while keeping observed state separate from intended change.
+
+  This is a software engineering role within an infrastructure
+  team, working alongside colleagues responsible for security,
+  research infrastructure and developer platform services.
+  Storage experience is useful but not required. You'll
+  operate the services you build and join the team's out-of-
+  hours on-call rotation.
+
+  Key responsibilities of the role include:
+
+  - Building and operating services and APIs in Python, Go and
+    TypeScript
+  - Automating capacity, tenant, quota, access and data
+    lifecycle workflows
+  - Building self-service requests with explicit policy checks
+    and exception paths
+  - Modelling infrastructure state and making changes
+    idempotent, attributable and auditable
+  - Defining stable contracts between storage platform and
+    developer platform services
+  - Building tests, fixtures and observability that make
+    failures safe to diagnose
+  - Working with users and partner teams to turn operational
+    problems into bounded engineering work
+  - Participating in incident response and the out-of-hours on-
+    call rotation
+
+  Who are we looking for?
+
+  The ideal candidate will have the following skills and
+  experience:
+
+  - Strong Python, with practical Go and TypeScript software
+    engineering skills
+  - Experience designing, testing and operating APIs and backend
+    services
+  - Strong use of coding agents in day-to-day delivery, with
+    clear task boundaries, careful review and tests
+    controlling the output.
+  - Experience building infrastructure automation, workflows or
+    reconciliation systems
+  - Understanding of retries, partial failure, concurrency,
+    idempotency and eventual consistency
+  - Strong Linux and production troubleshooting skills
+  - Experience with CI/CD, observability and safe deployment
+    practices
+  - A practical approach to security, permissions, audit and
+    change control
+  - A calm, methodical approach to incidents
+  - Desirable experience includes orchestration, configuration
+    management, enterprise identity and data lifecycle
+    tooling. Storage experience is useful but not required;
+    strong platform software engineering skills and
+    adaptability are more important. We expect every colleague
+    to actively bring AI into their daily workflow to deliver
+    impact.
+
+  Why join us?
+
+  - Highly competitive compensation plus annual discretionary
+    bonus
+  - Lunch provided (via Just Eat for Business) and dedicated
+    barista bar
+  - 30 days' annual leave
+  - 9% company pension contributions
+  - Informal dress code and excellent work/life balance
+  - Comprehensive healthcare and life assurance
+  - Cycle-to-work scheme
+  - Monthly company events
+
+  Relocation Support
+
+  - If you're relocating internationally to join us in London,
+    we offer a comprehensive range of support services to
+    assist you all the way. All costs associated with your
+    relocation and immigration are covered by G-Research.
+  - Concierge service: Your personal consultant will arrange
+    travel, help find your new home and manage your move.
+    They're also on hand to help with more bespoke requests
+    too.
+  - Immigration support: We'll partner you with an expert
+    consultant who will guide you through the full immigration
+    process.
+
+  G-Research is committed to cultivating and preserving an
+  inclusive work environment. We are an ideas-driven business
+  and we place great value on diversity of experience and
+  opinions.
+
+  We want to ensure that applicants receive a recruitment
+  experience that enables them to perform at their best. If
+  you have a disability or special need that requires
+  accommodation please let us know in the relevant section
+industries:
+  - Big Data
+  - Fintech
+  - Information Technology
+  - Machine Learning
+  - Financial Services
+posted_date: 2026-10-07
+url: "https://builtin.com/job/platform-software-engineer/11542209"
+source: Built In

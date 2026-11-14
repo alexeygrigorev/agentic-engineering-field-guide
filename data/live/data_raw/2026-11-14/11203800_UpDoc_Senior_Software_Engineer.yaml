@@ -1,0 +1,81 @@
+job_id: 11203800
+title: Senior Software Engineer
+company: UpDoc
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 18 Employees
+description: |
+  About UpDoc
+
+  At UpDoc, we are building the first clinically validated,
+  physician-supervised AI agent that manages chronic diseases.
+  We are an early-stage startup founded by Stanford
+  physicians.
+
+  We are seeking a talented and motivated senior engineer to
+  join our team. You will primarily work on our backend
+  services. This is a fully remote position.
+
+  Who You Are
+
+  You're an experienced senior engineer with strong backend
+  expertise. You're a pragmatic, thoughtful engineer with
+  experience owning projects end-to-end. You're excited to
+  build the technical foundation for AI-powered healthcare and
+  apply solid engineering principles to deliver reliability
+  when it matters most.
+
+  What You'll Do
+
+  - Develop and maintain high-quality backend systems in Python.
+  - Work with frontend, product and other engineering team
+    members to scope and define backend functionality for the
+    product.
+  - Design internal and external APIs that power the UpDoc
+    platform.
+  - Develop and maintain integrations with third-party
+    healthcare services.
+  - Help with aspects of the end-to-end engineering stack such
+    as DevOps, CI/CD and observability.
+  - Participate in day-to-day engineering tasks such as code
+    review and troubleshooting production issues.
+  - Collaborate with clinical experts to ensure our services are
+    accurate, reliable and trustworthy.
+
+  What You’ll Need
+
+  - 5+ years of professional backend development experience.
+  - Comfortable working with type-hinted, modern Python.
+  - Ability to deliver reliable, maintainable systems in a fast-
+    paced environment where safety matters.
+  - Knowledge of backend-relevant software engineering
+    fundamentals, e.g. networking basics, HTTP, caching,
+    database design, RPC, etc.
+  - Experience with cloud platforms (especially Azure),
+    DevOps/IaC practices and containerization.
+  - Experience in designing and implementing RESTful APIs.
+  - Extensive experience with software testing methodologies and
+    practices.
+  - Experience troubleshooting complex technical issues in
+    production environments.
+  - Demonstrated ability to learn continuously, work
+    independently and communicate effectively.
+  - Experience owning projects end-to-end.
+
+  Highly Desired
+
+  - Extensive experience with Python and knowledge of the Python
+    ecosystem.
+  - Experience with FastAPI and Pydantic.
+  - Experience with healthcare industry standards, such as FHIR,
+    and regulations, including HIPAA and SOC 2.
+  - Experience in an early stage (< 20 employees) startup
+    environment.
+  - Experience building applications with LLMs.
+industries:
+  - Healthtech
+  - Telehealth
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-software-engineer/11203800"
+source: Built In

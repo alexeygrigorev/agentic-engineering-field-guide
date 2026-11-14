@@ -1,0 +1,114 @@
+job_id: 11293959
+title: Software Engineer, Sandboxing
+company: Thinking Machines Lab
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 91 Employees
+description: |
+  About Thinking Machines
+
+  The mission of Thinking Machines is to build AI that extends
+  human will and judgment. We are training frontier models
+  with Inkling, developing Tinker to let people make models
+  their own, and crafting interfaces that broaden human-AI
+  communication. We believe the future worth building is
+  human, and we're hiring people who want to build it.
+
+  About the Role
+
+  Our models and agents increasingly need to run code, use
+  tools, and take actions in the world — safely, reliably, and
+  at scale. The Core Services team builds the sandboxing
+  infrastructure that makes this possible: the isolated
+  execution environments where models write and run code,
+  browse, and interact with tools, both for our researchers
+  during training and for external users building on Tinker.
+
+  We're hiring a software engineer to help design, build, and
+  operate this sandboxing platform. You'll work on the systems
+  that isolate and constrain untrusted, model-generated code,
+  and that scale to support thousands of concurrent executions
+  across the company. This is foundational infrastructure:
+  every research experiment and every product surface that
+  lets a model take action depends on it being fast, secure,
+  and dependable.
+
+
+
+  What You'll Do
+
+  - Design, build, and operate sandboxed execution environments
+    for running untrusted, model-generated code and tool calls
+    at scale.
+  - Improve isolation boundaries using technologies such as
+    containers, microVMs, or gVisor-style kernels, balancing
+    security against startup latency and throughput.
+  - Build the scheduling, resource-management, and lifecycle
+    systems that provision, reuse, and tear down sandboxes
+    efficiently under heavy concurrent load.
+  - Partner with researchers and Tinker's product team to expose
+    sandboxing primitives that are simple to use and hard to
+    misuse.
+  - Instrument sandboxes for observability and abuse detection,
+    and respond to novel escape or exploitation attempts as
+    they're discovered.
+  - Own reliability and performance of the sandboxing platform
+    end-to-end, from API design down to the underlying
+    virtualization layer.
+
+  Skills and QualificationsMinimum qualifications
+
+  - Bachelor's degree or equivalent experience in computer
+    science, engineering, or similar.
+  - Proficiency in at least one backend language (we use Python
+    or Rust).
+  - Experience building or operating isolation or virtualization
+    technology, such as containers, microVMs (e.g.
+    Firecracker, Cloud Hypervisor), or sandboxed runtimes
+    (e.g. gVisor, Kata Containers).
+  - Solid grounding in Linux internals relevant to isolation:
+    namespaces, cgroups, seccomp, capabilities, and
+    networking.
+  - Comfort operating across the stack and owning projects end-
+    to-end.
+  - Thrive in a highly collaborative environment involving many,
+    different cross-functional partners and subject matter
+    experts.
+
+  Preferred qualifications
+
+  - Experience securing systems that execute untrusted or
+    adversarial code, including threat modeling and hardening
+    against sandbox escapes.
+  - Familiarity with running large-scale, multi-tenant
+    infrastructure on Kubernetes or similar orchestration
+    systems.
+  - Experience with performance-sensitive systems programming
+    and reducing cold-start latency for ephemeral compute.
+  - Track record of contributing to open-source infrastructure
+    or security tooling.
+  - Interest in how AI agents use tools and code execution, and
+    how that shapes the design of safe execution environments.
+
+  Logistics
+
+  - Location: This role is based in San Francisco, CA.
+  - Compensation: Depending on background, skills and
+    experience, the expected annual salary range for this
+    position is $300,000 - $400,000 USD.
+  - Visa sponsorship: We sponsor visas. While we can't guarantee
+    success for every candidate or role, if you're the right
+    fit, we're committed to working through the visa process
+    together.
+  - Benefits: Thinking Machines offers generous health, dental,
+    and vision benefits, unlimited PTO, paid parental leave,
+    and relocation support as needed.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-09-22
+url: "https://builtin.com/job/software-engineer-sandboxing/11293959"
+source: Built In

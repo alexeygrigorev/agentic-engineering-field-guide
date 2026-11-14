@@ -1,0 +1,148 @@
+job_id: 11293105
+title: Software Engineer,  Automation and Control
+company: Culture Biosciences
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 86 Employees
+description: |
+  About Us:
+
+  Culture’s mission is to simplify and accelerate bioprocess
+  development to enable our customers to bring their
+  biopharmaceutical products to market faster.
+
+  With a focus on upstream cell culture process development,
+  Culture has developed a unique platform that merges
+  products, services and data management that can be applied
+  to mammalian, microbial and viral vector production
+  processes. This platform enables high-throughput process
+  development projects to be rapidly and seamlessly executed
+  directly by our customers in their own facilities, in our
+  service laboratories, or both, all driven by our cloud-
+  connected web application, accessible from anywhere, for
+  designing, managing and analyzing experiments.
+
+  At Culture, we combine our passions for biomanufacturing,
+  engineering, and operations to build new solutions that make
+  bioprocess development faster. We value curiosity,
+  communication, collaboration, a customer focused mindset and
+  a drive for results.
+
+  The Opportunity:
+
+  We're looking for a Software Engineer who has experience in
+  automation and controls to design, build, and maintain
+  automation systems for our Bioreactor and Bioprocessing
+  business. This person is comfortable with physical systems,
+  has a deep understanding of control loop
+
+  theory, and comes with a strong focus in controls, closed-
+  loop system behavior, and PID-based control strategies. When
+  a temperature control starts to oscillate, you can dive in,
+  look at the traces, have a working theory of where the
+  feedback loop went wrong, and come up with
+
+  solutions to compensate and add margin to the design.
+
+  The role is more than just PID tuning. You will own
+  everything from the interface of our Cloud software through
+  the low-level control of a physical device (from Ethernet to
+  USB). This role will work across software, hardware, and
+  systems teams to develop reliable automation solutions
+
+  for complex physical systems, improve process performance,
+  and enable scalable, repeatable operation. Our software
+  controls physical processes that run for days at a time,
+  where failures can ruin an expensive experiment.
+
+  What You’ll Do:
+
+  - Tune and troubleshoot control loops in real-world
+    environments, including diagnosing oscillation, lag,
+    overshoot, and instability. Improve automation reliability
+    through monitoring, logging, fault detection, and recovery
+    mechanisms.
+  - Evolve our AsyncAPI hardware interface so higher-level
+    automation and AI systems can safely interact with
+    physical equipment, with explicit permissions, validation,
+    and fail-safe behavior.
+  - Continuously improve the tuning and failure modes of our
+    existing control loops and develop and optimize new
+    feedback control systems, including PID control loops, for
+    stability, performance, and robustness.
+  - Build software interfaces for sensors, actuators, embedded
+    controllers, and higher-level orchestration systems.
+  - Partner with mechanical, electrical, process, and software
+    engineers to translate system requirements into reliable
+    control implementations.
+  - Learn about biotechnology and bioprocess development
+
+  About You:
+
+  - 4+ years of industry experience including 2+ years
+    developing software.
+  - Working knowledge of sensors, actuators, and data
+    acquisition, and the ways they fail.
+  - Strong understanding of classical control theory, especially
+    PID control, feedback loops, stability, response tuning,
+    and disturbance rejection.
+  - Strong working relationship with scientists and the ability
+    to translate process requirements into control logic.
+  - You care about technical rigor: testing assumptions,
+    validating behavior against data, and understanding
+    failure modes rather than stopping at "it works."
+  - Strong systems thinking and ability to work across hardware
+    and software boundaries.
+  - You're kind, curious, and enjoy learning new things.
+
+  Preferred Skills:
+
+  - Experience in robotics, manufacturing automation, biotech
+    automation, or other complex electromechanical systems.
+  - Professional software engineering experience, including CI
+    and automated testing.
+  - AWS, Docker, infrastructure as code, or connected edge
+    devices.
+  - Exposure to regulated environments (GLP/GMP, ISO).
+  - Familiarity with sampling, filtering, sensor noise, and
+    actuator constraints.
+
+  Location & Schedule:
+
+  - This is a fully remote position. The successful candidate
+    will work remotely and must be able to effectively
+    collaborate with team members across locations.
+
+  Base Salary Range:
+
+  - Culture Biosciences's compensation package includes market
+    competitive salary, equity for all full time roles, and
+    great benefits. Our expected base salary range for this
+    role is $130,000-$165,000. We are hiring for multiple
+    levels and backgrounds so final offers may vary within the
+    range provided based on experience, expertise, and other
+    factors.
+
+  Benefits:
+
+  - Competitive salary and equity compensation
+  - Medical, Dental, Vision, and Life insurance
+  - Medical and Dependent Care FSA (prorated based on start-
+    date)
+  - 401(k) plan with company match
+  - Responsible Time Off (non-accrual based) policy, 11 paid
+    company holidays and a week-long winter break
+  - 12 weeks of parental leave at full salary
+
+  Culture Biosciences provides equal employment opportunities
+  to all employees and applicants. We seek to build a company
+  that promotes inclusion and expands the diversity of our
+  industry as a whole. We encourage people with identities
+  underrepresented in biotech and technology to apply.
+industries:
+  - Cloud
+  - Biotech
+posted_date: 2026-09-22
+url: "https://builtin.com/job/software-engineer-automation-and-control/11293105"
+source: Built In

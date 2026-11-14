@@ -1,0 +1,149 @@
+job_id: 11160144
+title: Senior Software Engineer (AMS)
+company: Teamworks
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 600 Employees
+description: |
+  We're hiring a Senior Backend Engineer to tackle some of the
+  toughest performance and scalability challenges in our
+  Athlete Management System (AMS), owning the work from
+  initial investigation through production. I'm Charbel Al
+  Batal, Director, Engineering at Teamworks. AMS supports
+  elite sports and military organizations around the world and
+  runs on a Java application with roughly twenty years of
+  history. We’re building on that foundation to support
+  significantly larger workloads, making thoughtful
+  improvements where they will have the greatest impact.
+
+  We’re expanding the AMS backend team as part of a major
+  effort to improve performance, reliability, and scale. The
+  work includes evolving a legacy data model, reworking
+  asynchronous processing, and strengthening observability.
+  We’re looking for an engineer who enjoys digging into
+  complex, established systems and finding practical ways to
+  improve them. You’ll have meaningful influence over how AMS
+  evolves—particularly its data-access patterns, asynchronous
+  architecture, containerization strategy, and approach to
+  performance at scale—and customers will directly feel the
+  impact of your work.
+
+  The Role
+
+  - Find and address performance bottlenecks across APIs,
+    database queries, calculations, and background jobs, with
+    a focus on improving latency, throughput, and resource use
+  - Improve the data-access layer and gradually evolve a legacy
+    data model that relies heavily on XML and JSON
+  - Strengthen our queue and asynchronous processing
+    architecture so resource-intensive workloads are separated
+    from customer-facing traffic, calculations complete as
+    close to real time as possible, and retries and failures
+    are handled reliably
+  - Improve monitoring and observability, establish performance
+    baselines for large workloads, and help the team spot
+    issues before they affect customers
+  - Operate with a high degree of independence, turning broad
+    performance and scalability goals into technical plans and
+    driving them through production
+  - Partner with our Data Platform team as AMS becomes an early
+    consumer of Teamworks’ evolving data platform, helping
+    integrate new data capabilities into an established
+    application
+  - Serve as a trusted technical partner to engineering
+    leadership by reviewing complex architectural changes,
+    mentoring engineers, and helping the team balance
+    immediate scaling needs with longer-term improvements
+
+  What I'm Looking ForWhat You Must Bring
+
+  - 6+ years of backend engineering experience, including
+    ownership of complex systems from design through
+    production
+  - Strong Java skills and hands-on experience working with and
+    improving established codebases
+  - Experience with PostgreSQL, RESTful API design, and
+    performance optimization at scale
+  - Experience operating backend applications in AWS and working
+    effectively with containerized infrastructure and
+    infrastructure-as-code tooling
+  - US citizenship and US-based residency, which are required
+    for access to the secure environment supported by this
+    role
+  - Willingness to participate in an on-call rotation
+
+  Even Better If
+
+  - Experience moving monolithic applications toward
+    containerized or service-oriented architectures
+  - Experience in data-intensive, high-scale, or security-
+    sensitive environments
+  - Experience with Python
+  - A strong understanding of the JVM, including how to
+    troubleshoot memory and CPU issues under load
+  - A DevOps background and deep experience with AWS
+  - A bachelor's degree in Computer Science or a related field
+
+  Why This Role
+
+  You’ll have the opportunity to shape the future of a well-
+  established product used by elite sports and military
+  organizations around the world. The challenges are complex,
+  the work has a clear impact, and you’ll have meaningful
+  ownership over how AMS grows and performs. It’s a strong fit
+  for someone who likes solving difficult backend problems and
+  wants to see those improvements make a difference for
+  customers.
+
+  This role is not eligible for sponsorship at this time.
+
+  Please submit your application through this posting only.
+  We're unable to review applications or resumes sent via
+  email, LinkedIn, or other channels.
+
+  To all recruitment agencies: Teamworks does not accept
+  agency resumes. Please do not forward resumes to our jobs
+  alias, Teamworks employees or any other organization
+  location. Teamworks is not responsible for any fees related
+  to unsolicited resumes.
+
+  About Teamworks
+
+  We're the Operating System for Sports™, powering 7,000+
+  organizations worldwide, from collegiate programs to every
+  major pro league. Founded in 2006, we've evolved from a
+  messaging tool for college football into the leading sports
+  tech platform, with 600+ global teammates building the
+  future of sports tech. Our solutions span Personnel,
+  Coaching, Performance, Operations, and Intelligence -
+  helping teams recruit smarter, train better, stay compliant,
+  and win. Teamworks is an equal opportunity employer - if you
+  live our core values every day and are honest, hardworking,
+  humble, committed, innovative, and an all-around exceptional
+  person, you'll thrive at Teamworks. We are committed to
+  building a diverse and inclusive workforce and take
+  affirmative action to not discriminate based on race,
+  religion, color, national origin, ancestry, physical
+  disability, mental disability, medical condition, genetic
+  information, marital status, sex, gender, gender identity,
+  gender expression, age, sexual orientation, veteran or
+  military status, or any other legally protected
+  characteristics. This policy applies to all employment
+  practices within our organization, including but not limited
+  to recruiting, hiring, promotion, termination, compensation,
+  benefits, and training. Teamworks is committed to providing
+  reasonable accommodations for candidates with disabilities
+  who need assistance during the hiring process. To request a
+  reasonable accommodation, please email talent@teamworks.com.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Information Technology
+  - Machine Learning
+  - Software
+  - Sports
+  - Analytics
+posted_date: 2026-09-14
+url: "https://builtin.com/job/senior-software-engineer-ams-java/11160144"
+source: Built In

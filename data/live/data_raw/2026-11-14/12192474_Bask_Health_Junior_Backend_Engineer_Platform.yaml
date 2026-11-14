@@ -1,0 +1,206 @@
+job_id: 12192474
+title: Junior Backend Engineer, Platform
+company: Bask Health
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 24 Employees
+description: |
+  About Bask Health
+
+  Bask Health is a software platform that enables
+  entrepreneurs, doctors, and healthcare businesses to launch,
+  manage, and grow direct-to-consumer telehealth businesses.
+
+  Our platform brings together patient experiences, clinical
+  workflows, pharmacy operations, and commerce tools in one
+  place.
+
+  We're an entrepreneurial, product-focused engineering team
+  that values ownership, technical excellence, and building
+  software that solves real problems. Engineers work closely
+  with product teams and company leadership, take features
+  from idea to production, and have a direct role in shaping
+  the platform.
+
+  Engineering at Bask is AI-first and builder-led. We use
+  tools like Cursor and Claude Code throughout development
+  while maintaining high standards for reliability, testing,
+  and software quality.
+
+  About the Role
+
+  We're looking for a Junior Backend Engineer, Platform to
+  help build and improve the shared backend services and
+  infrastructure supporting Bask Health's telehealth platform.
+
+  You'll work on APIs, reusable backend components, internal
+  developer tools, database integrations, and infrastructure-
+  related improvements that help our engineering team build
+  and ship software more efficiently.
+
+  Unlike engineers focused primarily on one product area,
+  you'll contribute to systems used across multiple parts of
+  Bask, including patient experiences, clinical workflows,
+  pharmacy operations, and merchant tools.
+
+  Our engineering stack includes TypeScript, Node.js, AWS,
+  SST, and SQL databases, with technologies such as tRPC,
+  Prisma, and Drizzle used across the platform.
+
+  This is a hands-on junior engineering role for someone with
+  a foundation in backend development and an interest in
+  understanding how production systems work behind the scenes.
+
+  You'll work alongside experienced engineers, contribute to
+  well-defined projects, participate in code reviews, and
+  gradually take ownership of more complex platform
+  improvements.
+
+  We're looking for someone who enjoys solving technical
+  problems, likes making systems easier to maintain, and takes
+  pride in building reliable software that other engineers can
+  depend on.
+
+  You don't need extensive professional experience or a
+  background in healthcare. We care about your technical
+  fundamentals, the projects you've worked on, and your
+  ability to learn and contribute.
+
+  What You'll Do
+
+  - Build, test, and maintain shared backend services supporting
+    Bask's telehealth platform.
+  - Develop APIs, reusable components, and application logic
+    using TypeScript and Node.js.
+  - Help improve backend functionality used across multiple
+    product areas.
+  - Work with SQL databases, application data models, and
+    database access layers.
+  - Contribute to internal developer tools and automation that
+    simplify engineering workflows.
+  - Learn and work with Bask's serverless infrastructure using
+    AWS and SST.
+  - Assist with implementing background jobs, event-driven
+    processing, and asynchronous workflows.
+  - Work with AWS services such as Lambda, SQS, and EventBridge
+    under the guidance of experienced engineers.
+  - Help build and maintain shared authentication,
+    authorization, and configuration functionality.
+  - Contribute to reusable API patterns, validation utilities,
+    and common backend libraries.
+  - Write automated tests to verify backend functionality and
+    prevent regressions.
+  - Help investigate production issues, troubleshoot errors, and
+    resolve bugs in shared services.
+  - Improve logging, monitoring, and visibility into backend
+    system behavior.
+  - Assist with maintaining development environments, deployment
+    workflows, and testing processes.
+  - Collaborate with product engineers to understand shared
+    infrastructure needs and implement practical improvements.
+  - Participate in code reviews, technical planning, and
+    engineering discussions.
+  - Help document backend services, internal tools, and common
+    development workflows.
+  - Use AI-assisted development tools such as Cursor and Claude
+    Code to support coding, debugging, testing, and learning
+    while reviewing generated code carefully.
+  - Follow appropriate security practices when working with
+    shared infrastructure and sensitive application data.
+  - Contribute to improving performance, reliability, and
+    maintainability across existing services.
+  - Take ownership of smaller platform improvements from
+    implementation through testing and deployment.
+  - Learn how backend architecture, infrastructure, and
+    application services work together in a production SaaS
+    platform.
+  - Share ideas for reducing repetitive engineering work and
+    improving developer experience.
+  - Continue developing your skills through practical projects,
+    feedback, and collaboration with senior engineers.
+
+  Requirements
+
+  - 0–2 years of professional software engineering experience,
+    or equivalent hands-on experience through internships,
+    freelance work, bootcamps, personal projects, or open-
+    source contributions.
+  - Working knowledge of JavaScript or TypeScript.
+  - Familiarity with Node.js and backend application
+    development.
+  - Experience building or contributing to APIs, backend
+    services, or server-side applications.
+  - Basic understanding of SQL databases, relational data
+    models, and database queries.
+  - Understanding of programming fundamentals, data structures,
+    and basic software design principles.
+  - Familiarity with REST APIs or similar API technologies.
+  - Basic understanding of how backend applications communicate
+    with databases and external services.
+  - Familiarity with Git and collaborative software development
+    workflows.
+  - Ability to write clean, readable, maintainable code and
+    explain how it works.
+  - Familiarity with debugging, testing, and resolving
+    programming issues.
+  - Interest in cloud infrastructure, backend architecture, and
+    developer tooling.
+  - Willingness to learn serverless development, asynchronous
+    processing, and production deployment practices.
+  - Basic understanding of application security and responsible
+    handling of sensitive information.
+  - Ability to use AI-assisted development tools thoughtfully
+    while understanding and validating generated code.
+  - Strong problem-solving skills, curiosity, and attention to
+    detail.
+  - Ability to complete assigned tasks, ask questions, and
+    incorporate feedback from other engineers.
+  - Good written and verbal communication skills.
+  - Comfortable working in a fast-moving environment and
+    learning unfamiliar technologies.
+  - No previous healthcare industry experience required.
+
+  Nice to Have
+
+  - Internship or project experience involving backend
+    infrastructure, platform engineering, or developer tools.
+  - Experience building applications using TypeScript and
+    Node.js.
+  - Familiarity with AWS, SST, or other cloud infrastructure.
+  - Exposure to AWS Lambda, SQS, EventBridge, or serverless
+    development.
+  - Experience with PostgreSQL, MySQL, or another relational
+    database.
+  - Familiarity with Prisma, Drizzle, or tRPC.
+  - Experience building reusable backend libraries, API
+    utilities, or shared application components.
+  - Understanding of asynchronous programming, message queues,
+    or event-driven architectures.
+  - Familiarity with CI/CD pipelines, GitHub Actions, or
+    automated deployments.
+  - Experience working with Docker, infrastructure-as-code
+    tools, or development environments.
+  - Familiarity with application monitoring, logging, or
+    observability tools.
+  - Experience implementing authentication, authorization, or
+    API security.
+  - Experience building internal tools or automating repetitive
+    development tasks.
+  - Familiarity with multi-tenant SaaS platforms or monorepo
+    architectures.
+  - Experience writing automated unit or integration tests.
+  - Contributions to open-source projects or a portfolio of
+    technical projects.
+  - Experience using Cursor, Claude Code, or similar AI-assisted
+    development tools.
+  - Interest in building reliable infrastructure that supports
+    multiple products and engineering teams.
+industries:
+  - Healthtech
+  - Internet of Things
+  - Hospitality
+  - Telehealth
+posted_date: 2026-11-12
+url: "https://builtin.com/job/junior-backend-engineer-platform/12192474"
+source: Built In

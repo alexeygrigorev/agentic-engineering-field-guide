@@ -1,0 +1,98 @@
+job_id: 10505063
+title: Software Engineer - Storage Infrastructure (Senior+)
+company: Cogent Security
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 1800 Employees
+description: |
+  About Cogent
+
+  Cogent is an Applied AI Lab building the next generation of
+  AI agents for cybersecurity. AI has fundamentally changed
+  how attacks happen, allowing malicious actors to operate at
+  unprecedented speed and scale. Cogent's "AI Taskforce"
+  assesses petabytes of enterprise data to remediate these
+  issues before critical breaches occur.
+
+  To stay at the cutting edge, we blend frontier research with
+  real-world execution. Alongside our core product work,
+  Cogent Research serves as our applied AI lab, providing the
+  research horsepower needed to make truly agentic security
+  workflows a reality. We partner with Fortune 500 companies
+  to secure some of the most complex production environments
+  in the world.
+
+  We're backed by Greylock & Bain Capital Ventures, and we've
+  built a team with the best minds in applied AI. Our team is
+  comprised of people from:
+
+  - Top universities like Stanford, Berkeley, Penn, Duke,
+    Carnegie Mellon, Waterloo
+  - Unicorn, high-growth companies like Scale AI, Databricks,
+    Stripe, Tesla, Coinbase
+  - World class cybersecurity experts from Wiz, Abnormal AI,
+    Zscaler
+  - Preeminent research labs like Deepmind and SAIL
+
+  About the Role
+
+  We're hiring a Senior Storage Infrastructure Engineer on our
+  Core Platform team to own how we store, protect, and operate
+  data at scale. You'll build the backup, observability, and
+  operations layer across our relational, streaming, and
+  analytical stores - and make it agent-forward.
+
+  This is a hands-on role for an engineer with deep data
+  infrastructure experience, ideally sharpened at a data-
+  focused startup.
+
+  What You'll Do
+
+  - Standardize backup, restore, retention, and encryption
+    policies across Aurora / RDS, Clickhouse, and MSK
+  - Build storage observability dashboards for capacity,
+    performance, replication, lag, and cost
+  - Create a Storage Operations Agent for incident triage, slow-
+    query investigation, and remediation workflows
+
+  What We're Looking For
+
+  - Deep experience with data stores: Aurora RDS, Clickhouse,
+    Kafka / AWS MSK, and Postgres
+  - Experience with table formats and lakehouse patterns,
+    including Iceberg
+  - Strong coding in Python and Golang
+  - Infrastructure-as-code skills with Terraform
+  - 3-6 years at a successful tech company (Senior, Staff+)
+
+  Bonus Points
+
+  - 1-2 years at a data-focused startup (Databricks, Snowflake)
+  - Object and analytical storage experience: S3, GCS, Google
+    BigQuery, AWS Athena, Presto, Parquet
+  - Vector and graph stores: VectorDB, Turbopuffer, Puppygraph
+  - A secondary spike in Observability Infrastructure
+
+  For California Based Applicants
+
+  The standard base salary range for this position is $100,000
+  - $300,000 annually. Compensation offered will be determined
+  by factors such as location, job level, job-related
+  knowledge, skills, and experience. Certain roles may be
+  eligible for variable compensation, equity, and benefits.
+
+  We are committed to building an inclusive and diverse
+  company. We do not discriminate based on gender, ethnicity,
+  sexual orientation, religion, civil or family status, age,
+  disability, or race.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Cybersecurity
+posted_date: 2026-08-03
+url: "https://builtin.com/job/senior-storage-infrastructure-engineer/10505063"
+source: Built In

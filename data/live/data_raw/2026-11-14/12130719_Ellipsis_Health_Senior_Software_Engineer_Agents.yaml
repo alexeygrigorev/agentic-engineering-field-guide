@@ -1,0 +1,119 @@
+job_id: 12130719
+title: Senior Software Engineer, Agents
+company: Ellipsis Health
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 45 Employees
+description: |
+  Ellipsis Health builds AI products that take on healthcare's
+  staffing shortages and administrative burden, pairing
+  conversational AI with our patented voice biomarker
+  technology to help deliver better healthcare for everyone.
+  Our voice agents talk with patients every day: booking and
+  rescheduling appointments, answering billing questions,
+  handling medication refills, and checking in after a
+  hospital visit.
+
+  This role sits on our provider engineering team, building
+  the agents that health systems, provider groups, and FQHCs
+  deploy with their patients. You'll work across the provider
+  teams within Ellipsis, partnering with product, clinical,
+  deployment, and commercial teams to take new agent workflows
+  from idea to production.
+
+  We're seeking a Senior Software Engineer to build the AI
+  agents patients actually talk to. Our agents hold real
+  conversations with real patients every day, and each one has
+  to be accurate, safe, fast, and kind. In this role, you'll
+  own agents end to end: conversation design, prompts, tool
+  calling, and evals, plus the APIs and data that make an
+  agent work in production. This is a full-stack AI role, not
+  a research-only seat. You'll take an idea from concept to an
+  agent in front of patients quickly, then use live
+  conversation data to make it better. In your first three
+  months, you'll ship multiple production agents with our
+  health system partners, build the eval suite every agent
+  change must pass before it ships, and measurably improve how
+  our agents perform in production.
+
+  You'll work directly with our SVP of Engineering and
+  engineering leads, alongside product, clinical, and customer
+  teams, on a small team where your work reaches production
+  fast. The ideal candidate is a hands-on builder and fast
+  learner who is comfortable with ambiguity, communicates
+  clearly with engineers, nurses, and health system executives
+  alike, and is motivated by making healthcare work better for
+  patients.
+
+  Responsibilities
+
+  - Design, build, and ship AI agents end to end, including
+    conversation flows, prompts, tool and function calling,
+    retrieval, memory, and the backend services agents depend
+    on.
+  - Build evaluation systems (offline test suites, simulated
+    conversations, human review loops, and production
+    monitoring) so we know an agent is good before and after
+    it ships.
+  - Improve instruction following, tool-calling reliability,
+    latency, and cost across our LLM and speech stack.
+  - Help design and build our next-generation voice agent
+    platform, choosing the right models and architecture for
+    each task based on quality, latency, and cost.
+  - Partner with clinical, product, and customer teams to turn
+    workflows like scheduling, refills, billing, and post-
+    discharge check-ins into reliable agent behavior.
+  - Dig into real conversations and failure cases, and close the
+    loop with prompt, tool, model, or product changes.
+  - Build internal tools to observe, monitor, and analyze agent
+    behavior at scale to identify common failure modes and
+    patterns.
+  - Track what's new in models and tooling, and bring the useful
+    parts into production quickly.
+
+  Qualifications
+
+  - 5+ years of professional software engineering experience,
+    including 1+ year building and shipping LLM-powered
+    applications in production.
+  - Strong proficiency in Python and/or TypeScript, comfortable
+    across backend APIs and data, with enough frontend to ship
+    a complete feature.
+  - Hands-on experience with prompting, tool use and function
+    calling, RAG, structured outputs, and agent orchestration.
+  - Experience designing evals and using data to decide what to
+    fix next.
+  - Product sense: you care whether the patient got their
+    appointment booked, not just whether the model metric
+    moved.
+  - Clear written and verbal communication with technical and
+    non-technical teammates.
+
+  Preferred
+
+  - Voice AI or real-time speech experience, including STT, TTS,
+    voice activity detection and turn-taking, and telephony
+    (Twilio, SIP, WebRTC).
+  - Fine-tuning or post-training experience with open or hosted
+    models.
+  - Experience in healthcare or another regulated environment,
+    including HIPAA, EHR, and FHIR.
+  - Experience with workflow orchestration (e.g., Temporal).
+  - Familiarity with LLM observability and tracing tools.
+
+  Salary and Benefits
+
+  We offer a competitive salary and meaningful equity, along
+  with comprehensive health, dental, and vision insurance, a
+  401(k) plan, and [learning budget / conferences / additional
+  benefits].
+
+  The typical salary range for this role is $160,000 to
+  $210,000 USD, depending on skills, qualifications, and
+  relevant experience.
+posted_date: 2026-11-07
+url: "https://builtin.com/job/senior-software-engineer-agents/12130719"
+source: Built In

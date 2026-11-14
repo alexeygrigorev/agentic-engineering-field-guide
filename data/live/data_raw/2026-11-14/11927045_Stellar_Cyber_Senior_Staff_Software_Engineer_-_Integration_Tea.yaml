@@ -1,0 +1,170 @@
+job_id: 11927045
+title: Senior / Staff Software Engineer - Integration Team
+company: Stellar Cyber
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 93 Employees
+description: |
+  Join a fast-growing global leader in cybersecurity, trusted
+  by some of the biggest names in the industry. In addition to
+  some of the world’s largest enterprises and government
+  agencies, more than 30% of the world’s top MSSPs rely on our
+  platform. We’re at the forefront of protecting organizations
+  against sophisticated cyber threats using cutting-edge AI
+  and automation technologies. Our culture is built on
+  diversity, openness, and collaboration, fostering creativity
+  and innovation that drives real impact in the market.
+
+  Position Overview
+
+  We are looking for a Senior or Staff Software Engineer to
+  take ownership of one or more integration domains on our
+  Automation-Driven Open & Unified SecOps Platform (powering
+  our AI-driven SIEM, NDR, Open XDR, and Multi-Layer AI).
+
+  This role requires delivering robust, production-grade
+  integrations that support our growing customer base, while
+  driving the architecture forward so the platform can scale
+  to the next level. You will deliver microservice-based
+  solutions spanning both traditional and AI-native
+  integration patterns—REST, GraphQL, streaming APIs, MCP, and
+  LLM-powered automation—connecting our platform with a wide
+  range of cybersecurity tools and third-party services. You
+  will also design, develop, and maintain the parsing and
+  normalization components that turn raw security data from
+  hundreds of sources into the unified schema our detection
+  and analytics engines rely on.
+
+  Please note, as part of our interview process, we will be
+  inviting successful finalists for an on-site interview to
+  meet with our team.
+
+  What You Will Own
+
+  We need someone who focuses on the work AI cannot do—and
+  uses AI to amplify everything else.
+
+  The work only you can do
+
+  - Own one or more integration domains end-to-end: roadmap,
+    architecture decisions, trade-offs, and delivery. You
+    identify what needs solving, scope it, and drive it to
+    completion.
+
+  - Own and evolve shared integration frameworks, such as the
+    parser framework: identify patterns worth abstracting,
+    design the primitives other engineers build on, improve
+    performance on hot paths, and raise the reliability and
+    testability bar across the team’s output.
+  - Make the design calls that require judgment—schema mapping,
+    normalization trade-offs, how to handle ambiguous or
+    malformed data, when to generalize versus when to special-
+    case, when to evolve the framework versus work around it.
+  - Partner with detection and data teams to make sure ingested
+    data serves downstream use cases, not just passes
+    validation.
+  - Mentor junior engineers through design discussions and code
+    reviews, helping them grow into independent owners.
+
+  What you’ll use AI to amplify
+
+  - Accelerate your own design and development workflow using
+    LLM-based coding assistants, AI-driven testing, and
+    automated code review.
+  - Use LLMs to analyze unfamiliar log samples, propose initial
+    parsing rules, and bootstrap new integrations faster—while
+    applying human judgment to catch what AI gets wrong.
+  - Automate repetitive engineering tasks—builds, deployments,
+    monitoring, incident triage, parser regression testing,
+    schema diffing—using AI and scripting, so the team spends
+    more time on high-value work.
+  - Champion AI adoption across the team: help colleagues
+    integrate AI tools into their daily work, build internal
+    tooling where it adds leverage, and measure the efficiency
+    gains.
+
+  Requirements
+
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, or a related field
+  - 5+ years of backend software development experience,
+    including integration, data parsing, or log processing
+    work, with 1+ years as a technical lead or proven
+    experience in taking full ownership of a project.
+  - Strong proficiency in at least one general-purpose
+    programming language (e.g., Python, Go, Java, or C++),
+    with a track record of writing production-quality code in
+    it.
+  - Experience with API design and integration (REST, GraphQL,
+    streaming), including secure API patterns (OAuth, API
+    keys, rate limiting).
+  - Solid understanding of common log and data formats (JSON,
+    XML, CSV, syslog, key-value, unstructured text), regular
+    expressions, and data normalization and schema design.
+  - Demonstrated ability to use AI tools (e.g., Copilot, Cursor,
+    Claude, ChatGPT) to meaningfully accelerate engineering
+    workflows—not just experimentation, but regular use in
+    production work. You have the judgment to know when AI
+    output is trustworthy and when it needs human expertise.
+  - Strong problem-solving skills and clear communication with
+    both engineers and non-technical stakeholders.
+
+  Preferred Qualifications
+
+  - Experience in cybersecurity domains (SOAR, EDR, SIEM, XDR,
+    firewalls, IDS/IPS, cloud security services) and the kinds
+    of data security tools emit.
+  - Experience building and operating microservices in
+    production.
+  - Hands-on experience with large-scale data processing, real-
+    time pipelines, or event-driven architectures (e.g.,
+    Kafka, Spark).
+  - Strong background in distributed systems, message queues
+    (Kafka, RabbitMQ), or orchestration frameworks (Celery,
+    Airflow, or similar).
+  - Familiarity with cloud platforms (AWS, Azure, GCP) and their
+    logging services (CloudWatch, Azure Monitor, Cloud
+    Logging), and containerized deployments (Docker,
+    Kubernetes, Helm).
+  - Experience with AI service integration (LLM APIs, embedding
+    services) or AI-native integration patterns—such as MCP
+    (Model Context Protocol), function calling, or agent
+    orchestration frameworks—or hands-on experience building
+    systems that incorporate LLMs or AI services into
+    workflows or product features.
+  - Hands-on experience using LLMs for log analysis, parser
+    generation, or schema inference—or building internal
+    tooling that applies AI to data engineering workflows.
+
+  Why Join Us
+
+  - Work at the forefront of cybersecurity innovation within a
+    dynamic, fast-growing team.
+  - Opportunity to significantly influence and shape the
+    integration architecture of a next-generation SecOps
+    platform powered by AI and automation.
+  - Competitive salary and ample career growth opportunities.
+
+  Benefits
+
+  - Pre-IPO Stock Options (equity opportunity)
+  - Medical, Dental & Vision care
+  - Life Insurance
+  - 401(k)
+  - Employee Assistance Program
+  - Employee Discount Program
+  - Paid time off
+  - Referral Program
+  - Rewards and Recognition Program
+
+  The salary for this role will be between USD $160,000 to
+  $245,000 per year. The salary at offer will be determined by
+  a number of factors such as candidate’s location,
+  experience, knowledge, skills and abilities.
+industries:
+  - Software
+  - Cybersecurity
+posted_date: 2026-10-27
+url: "https://builtin.com/job/senior-staff-software-engineer-integration-team/11927045"
+source: Built In

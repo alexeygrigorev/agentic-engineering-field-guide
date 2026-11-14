@@ -1,0 +1,179 @@
+job_id: 12209894
+title: Sr Software Engineer - Data Infrastructure
+company: Uber
+location: New York, USA
+locations:
+  - New York, USA
+  - Seattle, USA
+  - Sunnyvale, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 21,000 Employees
+description: |
+  Senior Software Engineer - Data Infrastructure, Mobility
+  Simulation and PlanningAbout the role and team
+
+  How can Uber plan pricing and incentives to meet financial
+  goals while keeping its marketplace healthy and growing?
+  That’s the challenge our Mobility Simulation and Planning
+  (MSP) organization tackles within Marketplace.
+
+  MSP builds forecasting, simulation, and optimization
+  products that help Operations teams translate financial
+  targets into pricing and incentive policies across hundreds
+  of cities. Our planning product, Planner, brings these
+  capabilities together to generate actionable price plans.
+  Supporting this work requires dependable data, scalable
+  model training and simulation, and reliable workflows for
+  generating and deploying plans.
+
+  The MSP Infra team builds the data and computing foundations
+  that make these capabilities possible. We partner with
+  engineers and scientists to turn complex data and modeling
+  workflows into reliable, scalable, reusable infrastructure.
+
+  We’re looking for a Senior Software Engineer with a strong
+  infrastructure background and a focus on data-intensive
+  systems. You’ll build and evolve feature stores, distributed
+  data pipelines, and self-service tooling that support
+  forecasting, simulation, optimization, and financial
+  measurement. Your work will help teams move from new data
+  and modeling ideas to dependable production workflows.
+
+  The challenges go beyond moving data from one place to
+  another. How do we keep model inputs fresh and consistent as
+  upstream sources evolve? How do we efficiently rebuild
+  historical features for simulation and backtesting? How do
+  we make complex data operations safe and self-service?
+  You’ll solve these problems through hands-on engineering,
+  cross-team collaboration, and end-to-end ownership of
+  production systems.
+
+  What you’ll do
+
+  - Build scalable data infrastructure: Design and evolve shared
+    feature stores and distributed processing pipelines that
+    support model training, inference, backtesting,
+    simulation, and planning.
+  - Make data trustworthy: Develop automated validation,
+    monitoring, and alerting to detect freshness,
+    completeness, and correctness issues before they affect
+    downstream consumers.
+  - Improve data lifecycle operations: Build efficient
+    capabilities for incremental processing, historical
+    backfills, schema evolution, data versioning, and recovery
+    from failed or incorrect writes.
+  - Enable self-service: Create reusable frameworks, APIs, and
+    developer tooling that help engineers and scientists
+    onboard features, investigate issues, and operate
+    workflows with less manual support.
+  - Optimize performance and cost: Identify bottlenecks in data
+    processing, storage, and orchestration, and improve
+    throughput, resource efficiency, and reliability.
+  - Drive technical projects end to end: Translate ambiguous
+    requirements into designs, lead implementation and
+    rollout, and own production health through on-call,
+    incident response, and long-term improvements.
+  - Collaborate and mentor: Partner with modeling, financial-
+    data, and shared-platform teams to establish consistent
+    data foundations; guide engineers through thoughtful
+    design reviews, code reviews, and technical mentorship.
+
+  Basic Qualifications
+
+  - 6+ years of professional experience in software engineering,
+    data infrastructure, or a related technical role.
+  - Strong programming skills in Python, Java, Scala, Go, or a
+    comparable language.
+  - Experience designing, building, and operating large-scale
+    data pipelines or distributed data-processing systems.
+  - Strong SQL skills and experience with data modeling, storage
+    systems, and query-performance optimization.
+  - Experience delivering technical projects from design through
+    production rollout and ongoing operations.
+  - Ability to communicate technical tradeoffs and collaborate
+    across engineering and data science teams.
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, or equivalent practical experience.
+
+  Preferred Qualifications
+
+  - Experience with Apache Spark or comparable distributed data-
+    processing frameworks.
+  - Experience with Apache Hudi or similar data lake
+    technologies supporting incremental updates, schema
+    evolution, and versioned datasets.
+  - Experience building feature stores or data infrastructure
+    for machine learning, forecasting, optimization, or
+    simulation.
+  - Experience developing reusable data-quality frameworks,
+    observability systems, or tools for tracing and
+    reconciling data across sources.
+  - Familiarity with workflow orchestration and distributed
+    computing frameworks such as Ray.
+  - Experience building self-service platforms or automation
+    that reduces operational overhead for engineers and
+    scientists.
+  - A track record of measurable improvements in data
+    reliability, processing performance, infrastructure cost,
+    or developer productivity.
+
+  Responsibilities
+
+  For New York City, NY-based roles: The base salary range for
+  this role is USD $202,000 per year - USD $224,000 per year.
+
+  For San Francisco, CA-based roles: The base salary range for
+  this role is USD $202,000 per year - USD $224,000 per year.
+
+  For Seattle, WA-based roles: The base salary range for this
+  role is USD $202,000 per year - USD $224,000 per year.
+
+  For Sunnyvale, CA-based roles: The base salary range for
+  this role is USD $202,000 per year - USD $224,000 per year.
+
+  For all US locations, you will be eligible to participate in
+  Uber's bonus program, and may be offered an equity award &
+  other types of comp. All full-time employees are eligible to
+  participate in a 401(k) plan. You will also be eligible for
+  various benefits.
+
+  About Us
+
+  Ready to Ride?
+
+
+
+  This isn't the kind of place where you follow a playbook —
+  it's where you help write one. If you're driven by impact,
+  energized by challenge, and ready to shape how the world
+  moves — we'd love to hear from you.
+
+  You may be eligible for bonuses, equity, and other
+  compensation, as well as a range of benefits. Explore our
+  benefits.
+
+  Offices remain key to collaboration and Uber's culture.
+  Unless approved for full remote work, employees must spend
+  at least 50% of their time in-office. Some roles, like those
+  at greenlight hubs, require full-time in-office presence.
+  Ask your Recruiter for details about this role's
+  requirements.
+
+  Uber is proud to be an Equal Opportunity employer. All
+  qualified applicants will receive consideration for
+  employment without regard to sex, gender identity, sexual
+  orientation, race, color, religion, national origin,
+  disability, protected Veteran status, age, or any other
+  characteristic protected by law. We also consider qualified
+  applicants regardless of criminal histories, consistent with
+  legal requirements. If you have a disability or special need
+  that requires accommodation, please let us know by
+  completing this form.
+industries:
+  - Logistics
+  - Transportation
+  - "3PL: Third Party Logistics"
+posted_date: 2026-11-12
+url: "https://builtin.com/job/sr-software-engineer-data-infrastructure/12209894"
+source: Built In

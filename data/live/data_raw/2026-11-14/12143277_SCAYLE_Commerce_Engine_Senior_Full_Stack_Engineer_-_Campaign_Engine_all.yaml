@@ -1,0 +1,115 @@
+job_id: 12143277
+title: Senior Full Stack Engineer - Campaign Engine (all genders)
+company: SCAYLE Commerce Engine
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 196 Employees
+description: |
+  Company Description
+
+  Our mission is to digitize the classic shopping stroll,
+  turning it into a personalized, inspiring experience for
+  every customer. Technology and data sit at the center of
+  everything we build. We are not a fashion company with a
+  tech team on the side. Tech drives our product, our
+  strategy, and our growth. Our proprietary tech stack powers
+  our own shops and SCAYLE, our commerce infrastructure
+  solution that serves over 350 brands globally. Same
+  foundation, bigger stage. The challenges keep things
+  interesting.
+
+  Job Description
+
+  The Campaign Engine is a completely new product: its mission
+  is to enable self-service campaign management for Retail
+  Media Partners, giving them direct access to AY's unique
+  loyalty frameworks: Missions & Coupons. This creates a
+  compelling opportunity for partners to drive customer
+  acquisition and incremental engagement within AY's existing
+  customer base. Operating within an existing ecosystem, our
+  evolution into specialized product teams provides an
+  autonomous, greenfield-like environment.
+
+
+
+  - Ship full-stack features end-to-end across PHP/Laravel APIs
+    and React UI components
+  - Lead technical feature design and build background jobs,
+    REST endpoints, and MySQL migrations
+  - Work on high-precision domain logic covering CPC bidding, ad
+    budgets, and campaign eligibility
+  - Keep the frontend and backend synchronized through strictly
+    typed API contracts (OpenAPI/TypeSpec)
+  - Own production stability end-to-end, from writing automated
+    tests to AWS ECS deployments and Datadog/Sentry alerting
+  - Balance strict engineering rigor on billing/budget flows
+    with fast iteration on exploratory UI features
+  - Review full-stack code, optimize queries, and leverage
+    modern AI tools (Cursor, Claude Code) in daily work
+  - Partner with Product to break down features, estimate
+    effort, and ship in short, agile iterations
+
+  Qualifications
+
+
+
+  - 5+ years of full-stack engineering experience building and
+    scaling production web applications (computer science
+    degree or equivalent hands-on experience)
+  - Deep backend expertise in PHP 8 and Laravel, including
+    RESTful APIs, background queues, input validation, and
+    high-performance MySQL schema design and query tuning
+  - Strong frontend proficiency in TypeScript and React (or
+    Vue), with solid hands-on experience managing server state
+    and working with typed API clients
+  - Contract-first API design skills using OpenAPI/TypeSpec,
+    backed by a strong habit of writing full-stack automated
+    tests (PHPUnit, Vitest, Playwright)
+  - Familiarity with production tooling and observability,
+    including Git, CI/CD pipelines, AWS, Redis, Datadog/Sentry
+    monitoring, and modern AI coding assistants (Cursor,
+    Claude Code)
+  - True end-to-end ownership: You take complete accountability
+    for features, guiding them smoothly from early ideation to
+    a healthy production state
+  - A pragmatic, adaptable mindset: You focus on delivering
+    iterative value over over-engineering, staying autonomous
+    and effective even when project scopes evolve
+  - Clear communication and strong collaboration: You can
+    translate complex technical trade-offs for product teams
+    and enjoy sharing knowledge during peer code reviews
+
+
+
+  Nice to have
+
+  - Ad-tech, marketplace, bidding/budgeting or eCommerce domain
+    experience.
+  - Experience with React
+  - Experience with Laravel (Eloquent, Horizon)
+  - Ant Design (or a similar enterprise component library), MobX
+    or similar state management, and styled-components.
+  - Static analysis and automation (PHPStan/Larastan, Rector,
+    ESLint) and Nx monorepos.
+  - Experience with OpenSearch, BigQuery
+
+  Additional Information
+
+  Your perks at a glance: Visit our benefits page.
+
+  Simply apply online via our career page - we will get back
+  to you as soon as possible!
+
+  A Place Where You Can Be You We take it as our
+  responsibility to create an environment where everyone feels
+  welcome, exactly as they are. Different backgrounds and
+  perspectives make us stronger and shape our culture in ways
+  that matter. What we stand for internally, we stand for as a
+  brand: acceptance, inclusion, and a fairer approach to
+  fashion.
+industries:
+  - Retail
+  - Software
+posted_date: 2026-11-09
+url: "https://builtin.com/job/senior-full-stack-engineer-campaign-engine-all-genders/12143277"
+source: Built In

@@ -1,0 +1,185 @@
+job_id: 9201318
+title: "Senior/Staff Software Engineer (Search & Retrieval)"
+company: Actively AI
+location: New York, USA
+work_type: FULL_TIME
+company_size: 65 Employees
+description: |
+  About Actively AI
+
+  Actively AI is defining a new category: Intelligence-Led
+  Revenue.
+
+  Revenue organizations have always been bottlenecked on human
+  capacity. Reps triage which accounts get attention. Context
+  disappears at every handoff. On any given day, the vast
+  majority of accounts have exactly zero people thinking about
+  them.
+
+  Actively addresses this at the structural level. Our
+  platform deploys Per-Account AgentsTM across our customers’
+  TAM, working 24/7 to research, identify opportunities, and
+  advance next steps without being asked. Leading enterprises
+  including Ramp, Ironclad, and Samsara are already making
+  this shift.
+
+  Our co-founders are former Stanford AI researchers, and the
+  team comes from Harvard, CMU, Berkeley, Brex, Scale AI, and
+  Google. We've raised $68M from TCV, First Harmonic, Bain
+  Capital Ventures, First Round Capital, and more.
+
+  About the Role
+
+  We’re looking for a Senior / Staff Software Engineer -
+  Search & Retrieval to build and scale the systems that power
+  Actively’s AI agents to find, rank, and reason over data.
+
+
+
+  When an Actively agent decides which account to prioritize
+  or what action to take next, it reasons over retrieved
+  context; data pulled from customer records, call
+  transcripts, signals, and internal intelligence. Get that
+  retrieval right and the agent acts with precision. Get it
+  wrong and it doesn't matter how good the underlying model
+  is.
+
+
+
+  You'll design and build the search, retrieval, and relevance
+  infrastructure that feeds every agent at Actively from the
+  enrichment and entity extraction that turns raw data into
+  something queryable, to the ranking systems that determine
+  what context an agent actually sees. The data is diverse,
+  messy, and customer-specific. Freshness matters. So does
+  precision. And the consumer isn't a human browsing results
+  but it's a model that will act on whatever you give it.
+
+  What You’ll Do
+
+  - Build the retrieval layer agents depend on. Design and scale
+    the search and retrieval infrastructure that feeds
+    Actively's agents, covering indexing, querying, ranking,
+    and filtering across diverse customer data sources.
+  - Turn raw, unstructured data into something retrievable.
+    Design enrichment and entity extraction systems that pull
+    structure, relationships, and context out of call
+    transcripts, documents, and signals, making them queryable
+    in ways that improve what agents actually see.
+  - Own the Search for Agents Architecture: Define how data gets
+    represented and stored, making deliberate choices about
+    granularity, embedding models, and index configuration for
+    different data types and use cases.
+  - Build and iterate on ranking systems. Design and deploy
+    reranking layers that maximize relevance for agent
+    queries, and evolve them as data patterns and use cases
+    change.
+  - Develop shared retrieval primitives. Build the APIs and
+    retrieval interfaces used by the Intelligence, Assistant,
+    and Orchestration teams, balancing flexibility with
+    consistency across consumers.
+  - Own retrieval quality end to end. Build and maintain
+    evaluation infrastructure using classical IR metrics,
+    task-level success signals, and LLM-based techniques,
+    catching regressions before they affect agent behavior.
+
+  Who You Are
+
+  - Deep experience in search or retrieval systems. You have 5+
+    years building and operating retrieval systems in
+    production, across multiple customers, data sources, or
+    domains, and understand what relevance actually means at
+    scale.
+  - Background in information retrieval or applied ML. You've
+    tuned relevance, deployed reranking strategies, and
+    improved result quality in production, not just in
+    experiments.
+  - Understands the freshness problem. You've built retrieval
+    pipelines over fast-changing data, including near-real-
+    time indexing, incremental updates, or event-driven
+    ingestion, and know how freshness trade-offs affect system
+    design.
+  - Comfortable with hybrid retrieval approaches. You've worked
+    with systems that combine semantic search, keyword and
+    lexical matching, and metadata filtering to balance
+    recall, precision, and reliability.
+  - Rigorous about evaluation. You've designed or evolved
+    retrieval evaluation frameworks using IR metrics, task-
+    level success signals, or automated quality checks, and
+    you treat regressions as real incidents.
+  - Thinks about retrieval architecture holistically. You know
+    when to pre-compute versus retrieve at query time, how to
+    manage index growth, and how to design retrieval paths
+    that stay relevant as scale increases.
+
+  Nice to Haves
+
+  - Prior experience at a search or retrieval-focused company
+    (Elastic, Algolia, Cohere, Pinecone, Weaviate) or building
+    shared search infrastructure used across multiple teams or
+    products.
+  - Experience with entity resolution, knowledge graph
+    construction, or relationship extraction at scale,
+    particularly over noisy or inconsistently structured
+    source data.
+
+  Actively AI provides an estimate of the compensation for
+  roles that may be hired as required by state regulations.
+  Compensation may vary based on (a) location, as Actively AI
+  factors in specific location when benchmarking compensation
+  for most roles; (b) individual candidate skills and
+  qualifications; and (c) individual candidate experience.
+  Additionally, Actively AI leverages current market data to
+  determine compensation, so posted compensation figures are
+  subject to change as new market data becomes available. The
+  salary, other compensation, and benefits information is
+  accurate as of the date of this posting. Actively.ai
+  reserves the right to modify this information at any time,
+  subject to applicable law.
+
+  Actively AI is committed to equal treatment and opportunity
+  in all aspects of recruitment, selection, and employment
+  without regard to gender, race, religion, national origin,
+  ethnicity, disability, gender identity/expression, sexual
+  orientation, veteran or military status, or any other
+  category protected under the law. Actively AI is an equal
+  opportunity employer; committed to a community of inclusion,
+  and an environment free from discrimination, harassment, and
+  retaliation.
+
+  Compensation Range:
+
+  $160,000—$220,000 USD
+
+  Why Join
+
+  At Actively, you write playbooks rather than follow them.
+  You own outcomes, not just tasks, and see directly how your
+  work changes what customers can do — across a product and
+  go-to-market motion that is scaling fast.
+
+  The team is high-caliber and low-ego: people who work from
+  first principles, move with urgency, and care deeply about
+  building something that drives real value. If that's the
+  kind of challenge you're looking for, Actively is the right
+  place.
+
+  Benefits
+
+  - 🚀 Competitive Early-Stage Equity
+  - ⚕ Health, Dental, Vision Coverage
+  - 💡 Unlimited PTO + Recharge Days
+  - 🍽️ Catered Lunch on Tuesday & Friday, Dinners every day!
+  - 🍿 Fully Stocked Kitchen
+  - 💻 Cutting-Edge Tech & Tools
+  - 🌴 Annual Off-sites & Monthly Events
+  - 🚆 Commuter Benefits
+  - 🏢 Cozy Office in NYC
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Machine Learning
+  - Software
+posted_date: 2026-08-10
+url: "https://builtin.com/job/senior-staff-software-engineer-search-retrieval/9201318"
+source: Built In

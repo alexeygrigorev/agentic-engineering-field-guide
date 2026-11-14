@@ -1,0 +1,94 @@
+job_id: 8953276
+title: Staff Software Engineer, FinOps
+company: Syllo
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 56 Employees
+description: |
+  About Syllo
+
+  Syllo is on a mission to transform litigation. Our product
+  is a unified litigation platform that enables lawyers and
+  paralegals to safely harness the power of language models
+  and agentic AI throughout the litigation life cycle. Since
+  going to market, we have gained a diverse group of
+  enterprise customers, including some of the biggest law
+  firms and corporations in the country, and we are quickly
+  expanding. By reducing the expense of litigation industry-
+  wide, we aim to improve access to high-quality
+  representation and promote the alignment of legal outcomes
+  with merit.
+
+  About the Role
+
+  We’re looking for a Staff Engineer to take ownership of
+  cloud costs at Syllo and drive cost improvements across our
+  engineering organization. They will contribute directly to
+  technical design and implementation but also bring a FinOps
+  mindset, treating cost as a first-class engineering concern,
+  while fostering a collaborative, high-performing environment
+  where engineers can grow, learn, and thrive. Just as Syllo
+  reduces the cost of litigation for our customers, this role
+  ensures we run our own platform with the same discipline.
+
+  Responsibilities
+
+  - Own cloud cost efficiency end-to-end by championing FinOps
+    initiatives that drive cost visibility, accountability,
+    and sustained reductions in unit cost as we scale.
+  - Provide technical leadership and mentorship especially
+    around socializing the FinOps mindset across the broader
+    Engineering team.
+  - Design, implement, and manage scalable cloud-based
+    infrastructure using Kubernetes, Pub/Sub, and other
+    relevant technologies.
+  - Collaborate with our AI team to optimize data pipelines and
+    integrate AI technologies to remove performance
+    bottlenecks.
+  - Refactor existing systems to enhance scalability, including
+    transforming stateful components into stateless ones, and
+    applying extensive autoscaling and auto-repair mechanisms.
+  - Drive platform reliability initiatives, including enhancing
+    alerting, health checking, and incident management.
+  - Ensure the platform meets rigorous testing and security
+    standards to maintain data integrity and security.
+  - Participate in an on-call rotation to ensure meeting SLAs.
+
+  Qualifications
+
+  - Demonstrated success leading FinOps or cloud cost-
+    optimization initiatives including establishing cost
+    governance, driving cross-functional adoption, and
+    delivering quantifiable savings at scale.
+  - Core software engineering skills, including proficiency in
+    languages such as Python and Ruby.
+  - Strong system administration experience, including fluency
+    with Linux, networking, and bash scripting.
+  - Proficiency with GCP.
+  - Proficiency with cloud tools and distributed systems, such
+    as Kubernetes, Kafka, Postgres, and Elasticsearch, or
+    equivalent technologies.
+  - Ability to design and implement scalable, resilient cloud
+    infrastructure.
+  - Strong analytical and troubleshooting skills with a
+    proactive approach to problem-solving.
+  - Excellent communication and interpersonal skills, able to
+    engage effectively with both technical and non-technical
+    stakeholders.
+  - Experience addressing scaling challenges and resource
+    contention in distributed systems.
+  - Expertise in cloud data security
+
+  Salary Range ($190- $230K) plus health insurance and equity.
+
+  United States - Remote Pay Range
+
+  $190,000—$230,000 USD
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Software
+posted_date: 2026-08-24
+url: "https://builtin.com/job/staff-software-engineer-systems/8953276"
+source: Built In

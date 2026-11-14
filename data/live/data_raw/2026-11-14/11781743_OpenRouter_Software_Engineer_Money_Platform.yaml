@@ -1,0 +1,124 @@
+job_id: 11781743
+title: Software Engineer, Money Platform
+company: OpenRouter
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 8 Employees
+description: |
+  About OpenRouter
+
+  OpenRouter is the leading AI routing and infrastructure
+  layer that enterprises use to access, manage, and optimize
+  the best large language models across providers—without
+  lock-in, capacity constraints, or unnecessary cost. We power
+  the most advanced AI teams in the world by giving them the
+  flexibility to move fast, scale confidently, and stay
+  future-proof as models evolve.
+
+  As enterprise adoption of AI accelerates, OpenRouter sits at
+  the center of how organizations operationalize LLMs across
+  research, product, and production workloads.
+
+  About the Role
+
+  Every token that flows through OpenRouter is a financial
+  event. Billions of requests run across hundreds of models
+  and dozens of providers, and each request carries its own
+  cost, price, discount and contract terms. Behind the
+  inference engine sits a money engine: metering, pricing,
+  invoicing, credits, payments, payouts and the ledger that
+  ties it all together.
+
+  We're hiring our first engineer to envision, build and own
+  the dollar+token value capture engine behind OpenRouter's
+  leading inference gateway, marketplace and rapidly growing
+  suite of agentic products. You will be responsible for the
+  robust and flexible platform that lets the business sell any
+  pricing model it can dream up. If you come from fintech and
+  have a passion for financial engineering, this is your
+  chance to reimagine an AI-first, agentic Money Platform from
+  the ground up.
+
+  What You’ll Do
+
+  - Flexible pricing and contract terms. Any commitment size,
+    BYOK pricing, overages, platform fees and per-seat
+    pricing. Sales and CS should be able to test new deals
+    without an engineer.
+  - Automate quote-to-cash. Take a signed contract straight to a
+    provisioned, correctly billed customer with no manual
+    uploads. Handle POC and production contracts as separate
+    flows. Build credit transfers at onboarding and self-serve
+    credit grants for CS into our own tools.
+  - Define the source of truth. Financial core that owns fees,
+    plans and entitlements. Establish robust data architecture
+    for internal and customer reporting.
+  - Own usage → revenue. Every completed request is metered,
+    priced and recorded exactly once, across our streaming
+    spend-tracking pipeline and usage records. Reconcile what
+    we served against what we charged.
+  - Own billing, payments & collections. That means invoicing,
+    prepaid credits, auto top-ups, refunds, tax/VAT, POs and
+    spend-against-commitment tracking. It also covers the
+    Stripe integration, failed-payment recovery and overdue-
+    invoice collections.
+  - Build the ledger, AP & reconciliation. Build a double-entry
+    ledger as the financial system of record. Automate
+    reconciliation across Postgres, Stripe, billing and usage
+    data. Own provider settlements and payables, and hand
+    Finance close-ready numbers.
+  - Work cross-functionally. Partner closely with the Provider
+    team on usage tracking, per-generation cost attribution
+    and provider pricing/discounts, and with the Trust &
+    Safety team on payments fraud and abuse prevention.
+  - Treat correctness and controls as features. The system
+    ensures idempotency of financial transactions, anomaly
+    detection, auditability and least-privilege access for
+    finance tools. Any dollar that can't be explained is a
+    bug.
+
+  What We’re Looking For
+
+  - 5+ years building production financial systems: billing,
+    payments, ledgers or revenue infrastructure, at a fintech
+    or a usage-based SaaS company.
+  - Deep fluency in money-correctness patterns: idempotency,
+    double-entry accounting, exactly-once event processing,
+    reconciliation and safe migrations of financial data.
+  - Hands-on experience with Stripe (or similar processors) and
+    a billing/invoicing platform, including contract,
+    subscription and usage-based models.
+  - Strong TypeScript and SQL. Comfortable with Postgres and
+    analytical stores (ClickHouse or similar) at high event
+    volume.
+  - Working knowledge of accounting: AR/AP, revenue recognition,
+    deferred revenue, month-end close. You can talk with
+    Finance in their language.
+  - You work well across teams. You'll partner daily with
+    Provider, Trust & Safety, Sales, CS and Finance, and turn
+    messy business asks into clean systems.
+  - High agency and AI-forward. You use coding agents daily and
+    like automating away manual finance ops.
+
+  Nice to Haves
+
+  - You've built usage-based, hybrid or seat-based billing at
+    scale.
+  - Experience with streaming data pipelines (e.g. Dataflow,
+    Spanner, Kafka) for metering.
+  - Experience with payments fraud and risk systems (e.g. Stripe
+    Radar).
+  - Experience with multi-currency, sales tax/VAT or global
+    payment methods.
+  - You've helped get financial systems ready for an audit.
+  - You're an existing OpenRouter user, or have built projects
+    in AI tooling.
+
+  If you don’t think you meet all of the criteria below but
+  still are interested in the job, please apply. Nobody checks
+  every box, and we’re looking for someone who is excited to
+  join the team.
+posted_date: 2026-10-21
+url: "https://builtin.com/job/software-engineer-money-platform/11781743"
+source: Built In

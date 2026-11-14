@@ -1,0 +1,207 @@
+job_id: 11196354
+title: Sr Software Engineer - Full Stack
+company: Custral
+location: New York, USA
+work_type: FULL_TIME
+company_size: 2 Employees
+description: |
+  Sr Software Engineer - Full Stack
+
+  New York City. In person, five days a week. $170,000 to
+  $210,000 base, 0.6% to 1.25% equity.
+
+  What Custral is
+
+  Most CRMs stop at the closed deal. Everything after it,
+  implementation, support, renewal, product feedback, ends up
+  spread across five tools that don't share a record. Teams
+  bend their process to fit the software and keep the real
+  work in spreadsheets.
+
+  Custral is one workspace for the whole loop. Marketing,
+  sales, onboarding, success and product work from the same
+  customer records. You shape the objects, views and workflows
+  around how you run, instead of the other way around. AI
+  agents live in the data model rather than on top of it, with
+  real scoping, tool gating and model selection across OpenAI
+  and Anthropic. Stella, our assistant, works the same records
+  the rest of the product does, and asks before she sends
+  anything.
+
+  It is early. We're letting teams in a few at a time.
+
+  The role
+
+  Build the product end to end, and own the decisions the rest
+  of the codebase has to live with.
+
+  TypeScript across the stack. React and Next.js on the front,
+  Node and Express on the back, Postgres through Sequelize,
+  Redis, OpenSearch, AWS. A desktop app in Electron and mobile
+  in Expo, out of the same monorepo. You will touch all of it.
+
+  What makes this the senior posting is not scope of tickets,
+  it's scope of consequence. You'd own the shape of core
+  systems: the data model everything else reads, realtime, the
+  AWS footprint, how we keep a monorepo fast as more people
+  commit to it. You'd set the patterns other engineers follow,
+  and you'd be the person who says no to an architecture that
+  will hurt in a year.
+
+  Some of it is unglamorous. We're building toward SOC 2, so
+  code scanning findings, dependency hygiene and audit prep
+  are part of the job, not someone else's.
+
+  You'd also be an early voice on how we hire. At this stage,
+  senior means you raise the bar for who comes after you.
+
+  Work like this is on the table for your first quarter:
+
+  - Scale and performance across the core: the query layer,
+    caching, and every path that gets slower as a customer's
+    record count grows.
+  - The public API and SDK. The external developer platform and
+    the webhook event catalogue are decisions other people
+    build on, which makes them hard to take back.
+  - The engineers around you. Reviews, patterns, and the
+    argument that changes someone's mind.
+
+  What we look for
+
+  You'll be a fit if:
+
+  - You're deeply fluent in TypeScript and have used it across
+    the stack for years
+  - You've owned core systems in production, not just features
+    on top of them, and you can point at a design decision
+    that paid off and one that didn't
+  - You're strong in React on the front and Node and Express on
+    the back
+  - You know Postgres deeply: data modeling, migrations under
+    load, and how to make a slow query fast for the right
+    reason
+  - You've operated what you built, on AWS or equivalent,
+    including the night it broke
+  - You raise the people around you: reviews, patterns, and the
+    argument that changes someone's mind
+
+  Useful, not required: Redis for caching, queues or realtime;
+  OpenSearch or Elasticsearch; Electron or React Native; SOC 2
+  or similar compliance work; building with AI coding tools,
+  which is how we work.
+
+  Don't apply if senior means you've stopped writing code, or
+  if you want to direct work rather than do it. This is a
+  hands-on seat with architectural authority, in that order.
+
+  Strong candidates ship real functionality without cutting
+  corners, explain their tradeoffs, and leave the system
+  better than they found it.
+
+  How we work
+
+  Deliver Impact Through Excellence. It's the one lens we hire
+  on, and we ask about it in every interview.
+
+  Impact, how we do the work:
+
+  - Customer Focus. We start from what customers need and check
+    our work against it.
+  - Candor and Transparency. Say what you think, early, and
+    argue about the work in the open.
+  - Clarity and Focus. Pick the simplest thing that solves the
+    problem, and ship it.
+  - Embrace Change. Drop an idea that isn't working, including
+    your own.
+  - Think Big, Act Bold. Take on the hard problems customers
+    actually have.
+  - Attention to Detail. Test the edge cases and finish the
+    details before calling it done.
+
+  Excellence, how we work with each other:
+
+  - Top-Tier People. People who are very good at their work and
+    want to do it at an early-stage company.
+  - No Ego. The best idea wins, whoever it came from.
+  - Proactive Mindset. If you see a problem, fix it or flag it
+    without waiting to be asked.
+  - Future-Mindedness. Know how your work affects the rest of
+    the company, and plan for what comes next.
+  - Continuous Learning. Keep learning from customers, from
+    teammates and from what went wrong.
+  - Diversity of Thinking. Different backgrounds catch different
+    mistakes, so we hire for range.
+
+  We give people a lot of autonomy and expect them to own the
+  outcome. We keep process to the minimum that keeps us
+  honest.
+
+  This is a five day a week in-person role in New York. At
+  this stage, being in the room is worth more than the
+  flexibility it costs.
+
+  It's early-stage work: the problems are ambiguous, the pace
+  is high, and there will be long days. The tradeoff is that
+  the decisions you make in the next year compound for the
+  life of the company.
+
+  How we hire
+
+  Four steps, under seven hours in all, and no take-home. We
+  look for our values at every one, not with resume checklists
+  or trick questions.
+
+  - 15 min, phone screen. A first call to see if there's a fit
+    on both sides.
+  - 30 min, experience screen. Your experience, and how you
+    think.
+  - 60 min, role interview. A technical interview on the work of
+    the role.
+  - 4 hours, onsite. In person, at our New York City office.
+
+  We're looking for this person to start in January of 2027.
+
+  Compensation and benefits
+
+  - Base salary: $170,000 to $210,000
+  - Equity: 0.6% to 1.25%, four year vest with a one year cliff
+  - Medical, dental and vision, fully covered for you
+  - A monthly wellness stipend for gym, fitness and mental
+    health
+  - Lunch and dinner at the office, and a commuter stipend
+  - Unlimited PTO. Everyone takes at least three weeks.
+
+  Where you land in the range depends on experience and scope,
+  not tenure or credentials.
+
+  Disclaimers
+
+  This role is based in New York, NY, and requires in-person
+  work five days per week. Relocation assistance may be
+  available on a case-by-case basis.
+
+  Custral is an equal opportunity employer. We are committed
+  to creating an inclusive environment for all employees and
+  applicants. We do not discriminate on the basis of race,
+  color, religion, sex, sexual orientation, gender identity or
+  expression, national origin, age, disability, veteran
+  status, genetic information, marital status, or any other
+  characteristic protected by applicable law.
+
+  In compliance with New York law, the compensation range
+  listed for this role is a good-faith estimate of the base
+  salary range Custral expects to pay for this position at the
+  time of posting. Actual compensation may vary based on
+  experience, skills, performance, and role scope.
+
+  Custral is committed to providing reasonable accommodations
+  to qualified individuals with disabilities and for sincerely
+  held religious beliefs, in accordance with applicable law.
+  If you require an accommodation during the hiring process,
+  please let us know.
+industries:
+  - Software
+  - Automation
+posted_date: 2026-10-22
+url: "https://builtin.com/job/sr-software-engineer-full-stack/11196354"
+source: Built In

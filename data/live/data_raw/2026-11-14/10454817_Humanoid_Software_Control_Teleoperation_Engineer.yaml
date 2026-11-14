@@ -1,0 +1,140 @@
+job_id: 10454817
+title: Software Control Teleoperation Engineer
+company: Humanoid
+location: London, GBR
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  Here at Humanoid, we believe in a future where robots
+  amplify human potential. That’s why we’ve set out on a
+  mission to build the world’s most capable, commercially-
+  scalable, and safe humanoid robots. We’re bringing that
+  mission to life with HMND‑01 - our rapidly developed
+  humanoid platform being deployed in real industrial
+  environments - and we’re growing the team to take it even
+  further.
+
+  About The Role
+
+  We are seeking a Teleoperation Control Engineer to help
+  build the systems that let human operators safely,
+  confidently, and precisely control advanced robots. This
+  role sits at the intersection of robot control, real-time
+  software, operator UX, hardware integration, and human-in-
+  the-loop workflows.
+
+  You will develop the core teleoperation capability that
+  enables operators to guide, recover, teach, and improve
+  robot behavior in real time. That includes intuitive control
+  mappings, reliable command pipelines, clear operator
+  feedback, high-quality data capture, and safeguards for safe
+  use around real hardware.
+
+  We are open to strong candidates from junior through staff
+  level. The key traits are hands-on robotics ability, strong
+  engineering judgment, care for software quality, and a
+  product-minded instinct for making complex robot systems
+  intuitive for operators.
+
+  What You’ll Do
+
+  - Develop teleoperation capabilities for controlling robots
+    across manipulation, mobility, and loco-manipulation
+    tasks.
+  - Design intuitive operator experiences, including input
+    mappings, visualizations, feedback loops, recovery flows,
+    and workflows that reduce cognitive load and improve
+    operator confidence.
+  - Integrate input devices such as VR controllers, gloves,
+    haptic devices, motion capture systems, and custom
+    operator stations into the robot software stack.
+  - Translate noisy, high-frequency human input into smooth,
+    stable, physically feasible robot commands with
+    predictable behavior.
+  - Build robust teleoperation infrastructure for real-time data
+    streaming, calibration, replay, debugging, logging,
+    operator training, and high-quality demonstration capture.
+  - Develop shared-autonomy and assistive-control features that
+    blend human intent with robot capability to improve
+    precision, safety, and ease of use.
+  - Create safe operating boundaries, limiters, alerts,
+    emergency/recovery flows, and clear state feedback so
+    robot operators can use teleoperation safely.
+  - Define and improve quality metrics for teleoperation
+    systems, including latency, reliability, observability,
+    operator success rate, demonstration quality, and failure
+    modes.
+  - Stress-test teleoperation systems on real hardware and in
+    simulation, then drive reliability improvements based on
+    operator feedback and observed failures.
+  - Work closely with controls, manipulation, hardware, and
+    operations teams to ensure teleoperation requirements
+    shape robot design and field workflows.
+
+  What We're Looking For
+
+  - Strong robotics fundamentals, including kinematics,
+    coordinate frames, control interfaces, state estimation
+    basics, and real-time system behavior.
+  - Experience building a subset of the following: teleoperation
+    systems, operator UIs, shared-autonomy tools, human-robot
+    interfaces, or robot learning data-collection pipelines.
+  - Ability to write reliable software in C++ and/or Python,
+    with experience in ROS/ROS2, real-time data streaming, or
+    robotic middleware.
+  - Good intuition for human-in-the-loop systems: how operators
+    perceive robot state, issue commands, recover from errors,
+    and build trust.
+  - A quality mindset: clean abstractions, testing, logging,
+    observability, performance tuning, and tools that remain
+    usable under pressure.
+  - Strong debugging skills across the stack, from operator
+    input devices to robot motion, sensors, networking, and
+    hardware behavior.
+  - Comfort iterating quickly on real robots, learning from
+    operator feedback, and turning prototypes into robust
+    capabilities.
+  - Clear communication and collaboration with cross-functional
+    teams.
+
+  Nice to have:
+
+  - Hands-on experience building or debugging software for real
+    robotic hardware, ideally in manipulation, mobile
+    manipulation, humanoids, or dexterous systems.
+  - Experience designing safe workflows for hardware-facing
+    systems where latency, instability, poor feedback, or
+    misuse can create operational risk.
+  - Experience collecting high-quality demonstrations for
+    imitation learning, behavior cloning, or other robot
+    learning workflows.
+  - Exposure to intent inference, haptics, force feedback,
+    motion capture, VR/AR interfaces, or custom control
+    devices.
+  - A product-minded approach to robotics: caring not only that
+    the robot moves, but that control is intuitive, safe,
+    reliable, and pleasant for operators to use.
+
+  What We Offer
+
+  - Competitive equity: stock options with meaningful upside as
+    we scale.
+  - 30+ days time off, including 23 days annual leave, all UK
+    bank holidays, and additional company closure days
+    (including Christmas–New Year shutdown).
+  - Private healthcare, including virtual and in-person care.
+  - Pension scheme with 8% total contribution (5% employee, 3%
+    employer) on full earnings.
+  - Free daily breakfast, catered lunch, and snacks in-office.
+  - Work at the frontier - collaborate daily with world-class
+    engineers, researchers, and product experts building the
+    next generation of AI and humanoid robotics.
+  - Real ownership - direct access to founding leadership,
+    meaningful input on product direction, and the ability to
+    drive key initiatives from day one.
+industries:
+  - Artificial Intelligence
+  - Robotics
+posted_date: 2026-08-25
+url: "https://builtin.com/job/software-control-teleoperation-engineer/10454817"
+source: Built In

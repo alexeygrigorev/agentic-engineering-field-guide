@@ -1,0 +1,335 @@
+job_id: 11458615
+title: Senior/Staff Software Engineer, Data Platform
+company: Carrum Health
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  At Carrum Health, we have built a unique marketplace for
+  specialty care with unparalleled patient experience
+
+  Since 2014, we have been rewiring a fundamentally broken
+  healthcare system. By connecting large employers directly
+  with the nation's top-tier providers, our platform replaces
+  a flawed fee-for-service model with one that actually works.
+  If you are passionate about solving complex economic
+  problems, driving systemic change in our healthcare system,
+  and thriving in a people-first culture, we want you on our
+  team. As a high-growth health tech company, we are seeking
+  high-performing, exceptional talent to scale our platform
+  and ensure that anyone in the country facing a specialty
+  procedure has access to the life-changing Carrum benefit.
+
+  Our marketplace creates massive value for all stakeholders:
+
+  - For Employers (Demand): Predictable, transparent pricing
+    that slashes specialty care costs by up to 45% and
+    eliminates waste
+  - For Providers (Supply): Ability to gain market share while
+    reducing administrative burden, empowering top-tier
+    doctors to focus completely on delivering optimal care.
+  - For Members (Users): A life-changing benefit with dedicated
+    concierges, VIP access to the nation's best specialists,
+    and little-to-no out-of-pocket costs.
+
+  The Data Operations team owns the end-to-end data supply
+  chain at Carrum Health: ingesting eligibility and claims
+  data from dozens of insurance carriers and data providers,
+  processing it into reliable datasets that power member
+  experiences, clinical outcomes, and business reporting, and
+  delivering it to partners and internal teams on time and
+  with high fidelity.
+
+  Today, much of that work is operational. Every new client
+  launch, every data provider switch, every recurring claims
+  load consumes engineering time. We are hiring a Senior
+  Software Engineer, Data Platform to systematically eliminate
+  that. The mission is to build a real data platform:
+  production services, well-defined contracts, infrastructure
+  as code, observability as code, that turns carrier-specific
+  work into configuration against a sound foundation.
+
+  We are AWS-native (ECS Fargate, Batch, S3, RDS, Athena,
+  Lambda, Step Functions, EventBridge, Transfer Family) with
+  dbt as our transformation backbone and Datadog for
+  observability. We are also an AI-forward engineering
+  culture. Every engineer uses AI tooling every day. AWS
+  Bedrock (Claude) is in active production use today for job
+  monitoring and failure summarization. A meaningful part of
+  this role's mandate is extending that foundation: building
+  AI-assisted ingestion, classification, and transformation
+  systems that turn carrier-specific work into something
+  closer to configuration.
+
+  This is a full time position, and spans multiple levels. The
+  salary range for this role is $180,000 - $250,000 depending
+  on level of experience and geographic location.
+
+  What You'll Do
+
+  - Own and extend the data pipeline platform: The core data
+    pipeline is a Ruby/Rake/Bash orchestration system with
+    230+ active carrier integrations. Your job is to drive its
+    evolution: adding automation, testing, structured
+    observability, and configuration-driven abstractions that
+    reduce the cost of every new integration. Long-term we are
+    moving toward Python and Spark-based compute; you will
+    help shape that path.
+  - Build production platform services: Write the Python and SQL
+    for batch jobs, Lambda functions, and data services that
+    ingest, transform, validate, and route data. The output is
+    software with tests, contracts, monitoring, and on-call
+    ownership, not a collection of scripts.
+  - Build platform tooling that creates leverage: Some of the
+    highest-value work here is building tools for the team:
+    code generators for eligibility automation, integration
+    testing infrastructure, classification Lambdas, data-fix
+    utilities, scaffolding for new data models. You think in
+    systems, not one-offs.
+  - Treat infrastructure as a first-class engineering
+    discipline: Design and extend Terraform modules. Build
+    environment promotion, secret management, IAM patterns,
+    and deployment pipelines. Migrate operational config from
+    runbooks into Terraform-managed resources. The platform's
+    reliability is a function of its infrastructure design.
+  - Build observability into the platform: Structured JSON
+    logging, Datadog monitors and log pipelines, SLOs, data
+    quality checks (including statistical anomaly detection
+    like EWMA control charts), and automated alerting,
+    designed in at the architectural level, not bolted on
+    after.
+  - Lean into AI as a force multiplier: Bedrock (Claude) is in
+    production today, used for job failure analysis and
+    summarization. Our engineering culture is built around
+    multi-agent AI workflows: every engineer uses AI tooling
+    daily and we have a full agentic development setup in
+    active use. Extend this foundation into ingestion tooling,
+    data classification, and transformation assistance. We
+    want someone who is hands-on with this technology, not
+    just curious.
+  - Eliminate operational toil through software, not heroics:
+    The team today carries meaningful operational load:
+    recurring eligibility and claims loads, SFTP setup, PGP
+    key management, data provider switches, launch automation.
+    You will take on some of this work in your first months,
+    not as a tax, but as the curriculum. You will learn
+    exactly where the system is fragile and use that knowledge
+    to drive what you build next. The explicit goal is to make
+    this class of work disappear.
+  - Drive platform modernization: Evaluate and integrate
+    Databricks as a near-term roadmap item. Drive the
+    architectural decisions that come with it: storage layout,
+    compute model, governance, and migration path.
+  - Raise the engineering bar: Define patterns for testing, code
+    review, CI/CD, deployment, and incident response. Document
+    architectural decisions. Write code the next engineer
+    wants to extend.
+  - Partner across the organization: Work with analytics
+    engineers, data scientists, software engineers, and
+    client-facing teams. Translate ambiguous requirements into
+    well-scoped platform capabilities.
+  - Learn the domain: Develop fluency in healthcare data:
+    medical claims, insurance eligibility, HIPAA, and build a
+    platform that is operationally and clinically correct.
+
+  What We're Looking For
+
+  Required
+
+  - 5+ years of professional software engineering experience,
+    with a track record of owning production systems end to
+    end.
+  - Strong Python and SQL. The batch jobs and Lambda functions
+    that do the real work here are Python. SQL is Trino/Athena
+    dialect via dbt. You write clean, tested, well-structured
+    code in both.
+  - Production-grade software engineering practices. Strict
+    testing discipline requiring comprehensive automated test
+    coverage (unit, integration, contract) on all new code.
+    CI/CD comfort (GitHub Actions, CircleCI, or comparable). A
+    commitment to shipping code that holds up under load and
+    over time.
+  - Deep AWS experience. ECS, Batch, Lambda, S3, RDS, Athena,
+    Step Functions, EventBridge, Transfer Family, IAM, Secrets
+    Manager, and CloudWatch. You have operated and debugged
+    production systems on this stack.
+  - Terraform fluency. Not "I've used Terraform" — you have
+    designed or extended Terraform modules that other
+    engineers built on. You understand environment promotion,
+    secret management, and IAM patterns.
+  - dbt proficiency. Modeling, testing, documentation, and the
+    discipline to deprecate what shouldn't exist.
+  - A platform engineering mindset. You think in terms of
+    systems, contracts, and reusable abstractions rather than
+    one-off solutions. You can point to tooling or platform
+    work you have built that created leverage for engineers
+    beyond yourself.
+  - Strong debugging and incident response instincts. When
+    something breaks repeatedly, you fix the system that
+    allows it to break, not just the symptom.
+  - High bias for action and self-unblocking. A proven track
+    record of driving stalled tasks to resolution through
+    proactive cross-team communication rather than waiting for
+    direction.
+  - Daily AI usage in your engineering workflow. This is not a
+    nice-to-have. We expect you to use AI tools every day to
+    ship code, design systems, debug, and document. You hold
+    full responsibility for understanding and defending your
+    code submissions.
+  - Maintain rigorous technical documentation. Own your features
+    from start to finish: centralize project decisions,
+    technical notes, and action-oriented blocker histories
+    (naming specific dates and next steps) in Jira. Write
+    Technical Design Documents before implementation begins on
+    large projects.
+
+  Strongly Preferred
+
+  - LLM/RAG experience. Bedrock (Claude) is in production. We
+    are actively building AI-assisted ingestion and
+    classification tooling. Experience with LLM APIs, RAG
+    architectures, vector stores (pgvector, FAISS), or agentic
+    frameworks (LangChain, LlamaIndex) is a meaningful
+    advantage.
+  - Experience with Databricks or comparable lakehouse platforms
+    (Delta Lake, Spark, Iceberg), directly relevant to our
+    near-term roadmap.
+  - PostgreSQL depth: data modeling, indexing, query
+    performance, and understanding of how application-layer
+    data flows into the warehouse.
+  - Experience with streaming or CDC architectures (Kafka,
+    Kinesis, Flink, Debezium, or similar), real-time data
+    delivery is a current need.
+  - Experience in healthcare, insurance, or another highly
+    regulated industry. Familiarity with claims data formats
+    (837P/I), eligibility files (834/820), HIPAA compliance,
+    and the operational realities of working with insurance
+    carriers.
+  - Familiarity with SFTP-based data exchange, PGP encryption,
+    and integrating with external data providers.
+  - Experience with data quality frameworks (dbt tests, Great
+    Expectations, Monte Carlo) and proactive observability
+    with Datadog or comparable tooling.
+  - Comfort reading and navigating Ruby/Rake. Our current data
+    pipeline is Ruby-based. You don't need to be a Ruby
+    engineer, but you need to be able to read it, debug it,
+    and extend it while we migrate toward Python.
+
+  Why This Role Is Interesting
+
+  - The problems here are real and consequential. When an
+    eligibility file fails to load, a member may not be able
+    to access their surgery. When a claims export is delayed,
+    a client relationship is at risk. The stakes are high, the
+    domain is complex, and the platform leverage available is
+    enormous.
+  - You are joining at an inflection point. The team has built
+    up enough operational depth to know exactly where the
+    system is fragile. We have a clear picture of what to
+    automate next, and a culture already built around AI-
+    accelerated execution. Bedrock is in production.
+    Databricks is on the roadmap. A multi-agent engineering
+    workflow is how we work every day.
+  - There is substantive platform-building work to be done, and
+    unusual leverage available from doing it well.
+
+  Why you’ll love working with us...
+
+  - We’re a hard-working, humble, and compassionate group
+    motivated to solve the hard problems in healthcare today.
+    You’ll work with talented, experienced co-workers from
+    companies like Booz & Company, Teladoc, Hinge Health,
+    Accolade, Angi, and Optum.
+  - We champion a collaborative environment where team members
+    can be autonomous, receive support and healthy feedback,
+    and bring their authentic selves to work.
+  - We carve out time to celebrate our successes and have fun.
+    We’re a remote-first company with employees all over the
+    United States. We offer holistic employee support with
+    flexible working hours, generous time off, paid parental
+    leave, opportunities to connect virtually and in-person,
+    and more.
+  - We embrace our team’s diversity of thought, experience, and
+    interests and know that doing so makes us stronger as a
+    company. Carrum has an active employee-led Diversity,
+    Equity, Inclusion, and Justice (DEIJ) committee alongside
+    several employee resource groups (ERGs) that support
+    parents, women, and various underrepresented groups.
+  - You’ll feel proud that the work you do each day directly
+    impacts people’s lives in big and meaningful ways.
+  - Carrum is remote-first, but we believe the best work often
+    happens in person. This role may include occasional travel
+    for team offsites, client events, or company gatherings.
+
+  Other benefits:
+
+  - Stock option plan and performance bonus for eligible
+    employees
+  - Flexible schedules and remote work
+  - Chicago and San Francisco offices available as an option
+  - Flexible PTO, within reason
+  - Summer Fridays (sign off @ 1pm local time)
+  - 15+ paid holidays, including Juneteenth, World Mental Health
+    Day, and Carrum Health Day
+  - Annual holiday shutdown in December
+  - Paid parental leave
+  - Health, vision, and dental insurance
+  - Employee Assistance Programs (EAP)
+  - 401K retirement plan
+
+  About Carrum
+
+  Carrum Health’s mission is to change how we pay for and
+  deliver specialty care. We offer self-insured employers and
+  plan sponsors a value-based specialty care platform that
+  connects their members with a rigorously vetted network of
+  specialty care providers. Carrum’s transparent, all-
+  inclusive bundled pricing, award-winning technology, and
+  dedicated care navigation team help lower costs for both
+  members and employers while delivering a superior member
+  experience. Carrum is independently validated to reduce
+  unnecessary procedures by as much as 30%, lower readmissions
+  by 80%, and save employers up to 45% per episode of surgical
+  care. Learn more at carrumhealth.com.
+
+  Since launching in 2014, we’ve partnered with top-quality
+  providers across the nation including Cleveland Clinic,
+  Johns Hopkins, Mayo Clinic, Stanford Health Care, and a
+  growing network of 1,400+ COEs. We serve hundreds of self-
+  insured employers including Fortune 50 companies, such as
+  United Airlines, US Foods, and Prudential, and public sector
+  clients such as the States of Maine, Nevada, Tennessee, and
+  Self-Insured Schools of California.
+
+  The impact of our platform has been validated by a landmark
+  RAND Corporation study, honored with prestigious awards from
+  institutions like Harvard Business School & Harvard Medical
+  School, and featured as a Harvard Business School case
+  study.
+
+  As a recognized digital health leader, Carrum is frequently
+  covered by national media, including Bloomberg, Fast
+  Company, Fierce Healthcare, Fortune, Los Angeles Times,
+  Reuters, TechCrunch, and U.S News & World Report. Backed by
+  $96M from top-tier investors including OMERS, Tiger Global
+  Management, Revelation Partners and Wildcat Ventures, we’re
+  only scratching the surface of our opportunity. Come join
+  us.
+
+  Carrum Health is an equal opportunity employer and
+  encourages all applicants from every background and life
+  experience.
+
+  A Note on Recruitment Safety: To protect yourself against
+  recruitment fraud, please note that Carrum Health will only
+  communicate via an @carrumhealth.com email address. We do
+  not conduct interviews via text or messaging apps, nor do we
+  ever request financial information or fees during the hiring
+  process. All authentic job openings are posted at
+  carrumhealth.com/careers. If you are unsure about the
+  legitimacy of a communication, please verify it via
+  talent@carrumhealth.com.
+posted_date: 2026-10-01
+url: "https://builtin.com/job/senior-staff-software-engineer-data-platform/11458615"
+source: Built In

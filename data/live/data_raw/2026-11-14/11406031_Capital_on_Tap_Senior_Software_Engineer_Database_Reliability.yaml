@@ -1,0 +1,139 @@
+job_id: 11406031
+title: Senior Software Engineer (Database Reliability)
+company: Capital on Tap
+location: London, GBR
+work_type: FULL_TIME
+company_size: 440 Employees
+description: |
+  We’re Capital on Tap 👋 💳 Capital on Tap started because
+  small businesses were underserved. Big banks were slow,
+  their products weren't fit for purpose, and small business
+  owners often couldn't access what they needed. We set out to
+  fix that.
+
+  Today we're a financial platform - not just a credit card
+  company. We offer a best-in-class business credit card, SME-
+  focused spend management platform, a savings product that
+  hit £1 billion in funds within its first year, and a growing
+  suite of tools and financial products that make running a
+  small business easier.
+
+  1,000+ employees, £20bn in annual card spend, 200,000+
+  customers, 17,000+ Trustpilot reviews averaging 4.7 stars,
+  and we're profitable. We’ve done a pretty good job so far,
+  but we’re just getting started!
+
+  🏡🏢This is a Hybrid role, the Database team work from our
+  Moorgate (London) Offices 2 days per week.
+
+  The Role
+
+  Our platform runs on .NET and SQL Server on Azure, and it
+  has scaled well beyond its original design parameters. We're
+  hiring our first dedicated Database Software Engineer to own
+  performance and scale: to make the fast paths faster, keep
+  them ahead as volume grows, and give every engineer here the
+  tooling and judgement to write data access that holds up in
+  production.
+
+  You'll join a small, agile team of Database Engineers and
+  SREs in a hands-on, senior individual contributor role. You
+  won't be working a ticket queue. You'll choose the work that
+  moves the needle on latency, cost and reliability, and
+  you'll be trusted to call out what needs re-architecting.
+
+  What You'll Do
+
+  - Evangelise advanced database technologies to the software
+    engineering teams. Research, demo and promote technologies
+    such as graph databases, vector stores and zero-downtime
+    data migrations, and how they can be used in C# via Entity
+    Framework or other ORM technologies.
+  - Build and enhance self serve tooling to enable development
+    teams to identify query plan regressions along with self
+    service diagnostic tools to allow teams to debug their own
+    query performance.
+  - Work alongside Product Engineering and our data analytics
+    team, reviewing designs before they ship and levelling up
+    how the whole engineering org thinks about data access.
+  - Own performance across our transactional SQL Server estate,
+    using execution plans, Query Store, wait statistics, real
+    production telemetry and other data-driven measures.
+  - Investigate and implement scaling techniques such as multi-
+    cluster architecture, contained availability groups,
+    sharding, etc, to ensure Capital on Tap’s distributed
+    software estate can continue to support a fast growing
+    customer base and increasing service count.
+
+  What We're Looking For
+
+  - Experience working with ORMs (ideally Entity Framework) and
+    the particular performance tradeoffs that come with an
+    ORM.
+  - Substantial experience running Microsoft SQL Server in
+    production at scale, whether that be self managed, Managed
+    Instances, or on Azure SQL, in a business where downtime
+    and latency have direct commercial impact.
+  - Real depth in the internals. The query optimiser and plan
+    cache, indexing and statistics, locking, blocking and
+    isolation levels, tempdb, and the wait types that tell you
+    which of those is actually hurting you.
+  - A track record of specific, measurable performance wins you
+    can walk us through end to end.
+  - Experience scaling relational data past the point where
+    tuning alone works. Partitioning, archival,
+    denormalisation, caching, read replicas, or a considered
+    move to a different store.
+  - Comfortable writing application code, not just scripts.
+    T-SQL to an expert level, plus PowerShell, and
+    infrastructure as code.
+  - Hands-on with HA/DR design and with leading production
+    incidents.
+  - An ability to translate technical concepts and trade-offs to
+    non-database specialists.
+
+  Suggested Interview Process
+
+  - 30 minute screening with a Talent Partner.
+  - 60 minute tech chat with Hiring Manager
+  - 90 minute technical interview with 2 team members
+  - 30 minute values interview with Head of Platform Engineering
+
+  Diversity & Inclusion 🌈 We welcome, consider and encourage
+  applications from anyone who shares our commitment to
+  inclusivity. Join us in creating a space where authenticity
+  thrives, and everyone can do their best work.
+
+  Great Work Deserves Great Perks We try not to take ourselves
+  too seriously (all the time) so we make sure our office is
+  decked out with a pool table, arcade machine, beer tap, and
+  a couple of office dogs thrown in for good measure. Check
+  out our benefits: 🏥 Private Healthcare including dental and
+  opticians services through Vitality ✈️ Worldwide travel
+  insurance through Vitality 🎁 Anniversary Rewards (£250,
+  £500, £750, 4-week fully paid sabbatical) 👛 Salary Sacrifice
+  Pension Scheme up to 7% match 🚘 Octopus EV Salary Sacrifice
+  Scheme 🏖️ 28 days holiday (plus bank holidays) 📖 Annual
+  Learning and Wellbeing Budget 👪 Enhanced Parental Leave 🚲
+  Cycle to Work Scheme 🚂 Season Ticket Loan 💬 6 free therapy
+  sessions per year 🐶 Dog Friendly Offices 🍫 Free drinks and
+  snacks in our offices
+
+  Check out more of our benefits, values and mission here.
+
+  Other Info 👍Check out our ‘Top Tips’ for interviewing.
+  ✔️Keep updated on new job opportunities by following us on
+  Linkedin. 📧Email careers@capitalontap.com if you have any
+  questions.
+
+  Excited to work here? Apply! If you’d like to progress your
+  career within our fast growing, profitable fintech then
+  click apply and we will aim to get back to you within 3
+  working days (during busy periods this could take up to 5
+  working days.)
+industries:
+  - Fintech
+  - Payments
+posted_date: 2026-09-28
+url: "https://builtin.com/job/senior-database-engineer/11406031"
+source: Built In

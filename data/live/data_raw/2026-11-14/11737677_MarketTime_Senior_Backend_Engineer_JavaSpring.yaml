@@ -1,0 +1,138 @@
+job_id: 11737677
+title: Senior Backend Engineer (Java/Spring)
+company: MarketTime
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 747 Employees
+description: |
+  Remote Position About Us
+
+  We are a growing B2B ecommerce SaaS company helping
+  businesses sell smarter and faster. Our multi-tenant
+  platform powers enterprise customers across multiple
+  industries, processing sensitive financial data—including
+  credit card payments—while maintaining rigorous PCI DSS
+  compliance.
+
+  Built on a scalable cloud-native architecture with robust
+  public APIs and a MySQL-backed data platform, we deliver
+  secure, reliable, and high-performance commerce solutions
+  that our customers depend on every day.
+
+  We're a fully distributed engineering team that values
+  ownership, collaboration, continuous improvement, and
+  building software the right way.
+
+  About the Role
+
+  We're looking for a Senior Backend Engineer (Java/Spring) to
+  help design, build, and evolve our ecommerce platform.
+  You'll work closely with Product and other engineers to
+  solve complex technical problems, shape the architecture of
+  our platform, and deliver secure, scalable solutions for our
+  customers.
+
+  Beyond writing code, you'll mentor other engineers, drive
+  engineering best practices, and help ensure our systems
+  remain secure, reliable, and compliant.
+
+  Tech Stack
+
+  Java 25 • Spring Boot 4 • MySQL • REST APIs • AWS • GitHub
+  Actions • Containers • SQS • Terraform • React
+
+  Responsibilities
+
+  - Design, develop, deploy, and maintain Spring Boot services
+    powering our SaaS ecommerce platform.
+  - Design secure, scalable, and highly available solutions that
+    meet PCI DSS and other security requirements.
+  - Design and build REST APIs that are intuitive, backwards-
+    compatible, secure, and performant.
+  - Collaborate with Product, QA, and other engineers throughout
+    the software development lifecycle.
+  - Design and optimize relational database schemas, queries,
+    and data access patterns using MySQL.
+  - Participate in architectural discussions and help drive
+    technical decisions across the platform.
+  - Write clean, maintainable, and idiomatic Java using modern
+    language features and engineering best practices.
+  - Champion engineering best practices including code reviews,
+    automated testing, CI/CD, observability, and
+    documentation.
+  - Use AI-assisted development tools (e.g., Claude Code,
+    Cursor, GitHub Copilot) to accelerate delivery, while
+    owning the correctness, security, and maintainability of
+    everything you ship.
+  - Take ownership of features from design through production,
+    including monitoring and operational support.
+  - Work in small, incremental pull requests with a strong
+    emphasis on code reviews, automated testing, and
+    continuous delivery.
+  - Help evolve our architecture by challenging assumptions and
+    continuously improving how we build software.
+  - Mentor and support engineers through technical leadership,
+    design reviews, and pair programming.
+  - Troubleshoot production issues and participate in an on-call
+    rotation as needed.
+
+  Required Qualifications
+
+  - Operated as a senior engineer or technical lead on Java
+    backend applications.
+  - Strong expertise with Spring Boot 3+ and the broader Spring
+    ecosystem.
+  - Strong proficiency with modern Java, with new development
+    targeting Java 25.
+  - Ability to write clean, idiomatic Java using modern language
+    features such as streams, lambda expressions, Optional,
+    records, and pattern matching.
+  - Experience with Hibernate/JPA or jOOQ.
+  - Hands-on experience building and operating production
+    workloads on AWS.
+  - Proven ability to design and build RESTful APIs.
+  - Strong SQL skills with MySQL or PostgreSQL.
+  - Working knowledge of asynchronous messaging systems (SQS,
+    RabbitMQ, ActiveMQ).
+  - Experience building and deploying containerized
+    applications.
+  - Experience with GitHub Actions or other modern CI/CD
+    platforms.
+  - Hands-on experience using AI coding tools in professional
+    work, with sound judgment about when to trust, verify, or
+    discard their output, and a clear understanding of what
+    data must never be shared with them.
+  - Solid understanding of software design principles and
+    distributed systems.
+  - Excellent communication, collaboration, and problem-solving
+    skills.
+  - A track record of mentoring engineers and leading technical
+    initiatives.
+  - Self-motivated and effective working in a remote-first
+    environment.
+
+  Preferred Qualifications
+
+  - Experience building and operating multi-tenant SaaS
+    applications.
+  - Familiarity with Infrastructure as Code using Terraform and
+    GitOps practices.
+  - Hands-on experience deploying and operating AWS services
+    including VPCs, ALBs, EC2, ECS, SQS, and S3.
+  - Working knowledge of React or Angular.
+  - Understanding of payment processing systems, PCI DSS, and
+    security best practices.
+  - Background in ecommerce, fintech, or payment processing.
+  - Familiarity with API security concepts including OAuth 2.0,
+    JWT, authentication, authorization, and rate limiting.
+  - Experience with test-driven development (TDD) and modern
+    testing frameworks.
+  - Experience establishing team practices for AI-assisted
+    development (e.g., shared context and conventions files,
+    review standards for AI-generated code, guardrails for
+    sensitive data).
+  - Exposure to C#/.NET is a plus.
+posted_date: 2026-10-17
+url: "https://builtin.com/job/senior-backend-engineer-java-spring/11737677"
+source: Built In

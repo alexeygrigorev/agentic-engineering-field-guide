@@ -1,0 +1,185 @@
+job_id: 12097421
+title: Engineering Manager, Release Engineering
+company: Superhuman
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 1,500 Employees
+description: |
+  Superhuman offers a dynamic hybrid working model for this
+  role. This flexible approach gives team members the best of
+  both worlds: plenty of focus time along with in-person
+  collaboration that helps foster trust, innovation, and a
+  strong team culture.
+
+
+
+  About Superhuman
+
+  Superhuman is an AI productivity suite that makes AI work
+  for everyone. Over 40 million people rely on it daily to get
+  work done. A recognized leader in productivity tools,
+  Superhuman is the maker of popular products including Docs,
+  Fathom, Go, GPTZero, Grammarly, and Mail. The newest
+  product, Superhuman Go, builds on Grammarly’s ability to
+  deliver help everywhere people work. It lets anyone build
+  proactive agents that act as teammates across more than 1
+  million apps and websites, without changing how they work.
+  Learn more at superhuman.com.
+
+
+
+  The Opportunity
+
+  We’re looking for an Engineering Manager to lead our
+  Developer Experience/Release Engineering team in Berlin. You
+  will own how code travels from a developer’s commit to
+  millions of users across Superhuman’s products: Grammarly,
+  Superhuman Docs, and Superhuman Mail.
+
+  As our product suite grows, so do the number of engineers
+  contributing to it and the number of surfaces we release on
+  (web, desktop, mobile, browser extensions, APIs). Our team
+  makes shipping fast, safe, and boring. The team builds and
+  runs the CI/CD platform, release pipelines, and rollout
+  tooling that let product teams deploy many times a day with
+  confidence; it enables engineers to be productive, use new
+  technologies to optimize the SLDC, and push on green many
+  times a day.
+
+  You will lead a team of engineers working at the
+  intersection of developer productivity, infrastructure, and
+  reliability. You will partner with Product Engineering, SRE,
+  Platform/Infrastructure, and Security to increase release
+  speed and safety. This role is hands-on: you will help set
+  the technical direction and stay close to the work. As an
+  Engineering Manager, Release Engineering, you will:
+
+  - Lead, mentor, and grow a team of Engineers; hire great
+    people and build a strong, inclusive team culture in
+    Berlin and across a distributed organization.
+  - Own the strategy and roadmap for CI/CD, build, and release
+    systems that scale with company growth and the number of
+    products and surfaces we ship.
+  - Drive faster, safer delivery: improve lead time, deployment
+    frequency, change failure rate, and time to restore, and
+    make these measures visible to engineering leadership.
+  - Build and operate release tooling, including progressive
+    rollouts, canaries, feature flags, automated rollback, and
+    release health monitoring.
+  - Coordinate release trains and launches across all our
+    products, working with Product, QA, Support, and Marketing
+    to ensure major launches land smoothly.
+  - Partner with SRE, Infrastructure, and Security to keep the
+    delivery platform reliable and compliant, including supply
+    chain security, artifact integrity, and access controls.
+  - Reduce friction for product engineers: cut build and test
+    times, eliminate flaky tests and pipelines, and offer
+    self-service paths so teams can ship without waiting on
+    us.
+  - Act as an escalation point and Incident Commander for
+    release-related incidents, and lead blameless postmortems
+    that turn into lasting fixes.
+  - Balance near-term pipeline fixes with foundational
+    investments, and make clear tradeoffs in a fast-moving
+    environment.
+  - Stay hands-on where it matters: review designs, help debug
+    tough pipeline problems, and set a high engineering bar.
+
+
+
+  Qualifications
+
+  - Have 5+ years of software, DevOps, or release/build
+    engineering experience, and 2+ years managing engineers
+    (or engineering managers) with a record of hiring,
+    developing, and retaining talent.
+  - Bring hands-on depth in CI/CD systems and build tooling (for
+    example, GitHub Actions, Jenkins, Buildkite, Bazel, or
+    similar) and can reason independently about pipeline
+    architecture and trade-offs.
+  - Know cloud platforms (AWS, GCP, or Azure) and Kubernetes or
+    another container orchestration system.
+  - Have shipped and operated release systems at scale, using
+    progressive delivery, feature flags, canary releases, and
+    safe rollback.
+  - Understand release practices across multiple surfaces (web,
+    desktop, mobile, browser extensions, or backend services).
+  - Know infrastructure as code (eg Terraform) and observability
+    tooling, and use delivery metrics (DORA) to guide
+    decisions.
+  - Have experience as an Incident Commander and running
+    blameless postmortems.
+  - Know the basics of software supply chain security:
+    dependency management, artifact signing, and secrets
+    handling.
+  - Have experience managing people in a distributed or remote
+    setting, and can collaborate effectively with Product,
+    SRE, Security, QA, and Support.
+  - Operate well in ambiguity, set a high engineering bar, and
+    empower senior engineers to own technical decisions.
+  - Has a demonstrated ability to work independently with
+    minimal guidance, proactively manages tasks and priorities
+    across multiple projects, analyzes and executes work
+    efficiently, collaborates effectively with cross-
+    functional teams, and thrives in fast-paced, results-
+    driven environments.
+
+
+
+  Compensation and Benefits
+
+  - Professional growth: We believe that autonomy and trust are
+    key to empowering our team members to do their best, most
+    innovative work in a way that aligns with their interests,
+    talents, and well-being. We also support professional
+    development and advancement with training, coaching, and
+    regular feedback.
+  - A connected team: Superhuman builds a product that helps
+    people connect, and we apply this mindset to our own team.
+    Our remote-first hybrid model enables a highly
+    collaborative culture supported by our values. We work to
+    foster belonging among team members in a variety of ways.
+    This includes our employee resource groups, Superhuman
+    Circles, which promote connection among those with shared
+    identities including BIPOC and LGBTQIA+ team members,
+    women, and parents. We also celebrate our colleagues and
+    accomplishments with global, local, and team-specific
+    programs.
+  - Comprehensive benefits for candidates based in Germany:
+    Superhuman offers all team members competitive pay along
+    with a benefits package encompassing life care (including
+    mental health care and risk benefits) and ample and
+    defined time off. We also offer support to set up a home
+    office, wellness and pet care stipends, learning and
+    development opportunities, and more.
+  - Relocation Support: Superhuman provides relocation support
+    to make your move to Berlin seamless. Our package includes
+    visa assistance, destination services to help you and your
+    family settle in comfortably, and a relocation bonus to
+    cover additional expenses, such as temporary housing.
+
+
+
+  We encourage you to apply
+
+  At Superhuman, we value our differences, and we encourage
+  all to apply. Superhuman is an equal-opportunity company. We
+  do not discriminate on the basis of race or ethnic origin,
+  religion or belief, gender, disability, sexual identity, or
+  age.
+
+  For more details about the personal data Superhuman collects
+  during the recruitment process, for what purposes, and how
+  you can address your rights, please see the Superhuman Data
+  Privacy Notice for Candidates here.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Machine Learning
+  - Natural Language Processing
+  - Productivity
+  - Software
+  - Generative AI
+posted_date: 2026-11-05
+url: "https://builtin.com/job/engineering-manager-release-engineering-berlin/12097421"
+source: Built In

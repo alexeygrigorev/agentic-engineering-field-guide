@@ -1,0 +1,154 @@
+job_id: 11732538
+title: Senior Software Engineer, Product
+company: Decagon
+location: New York, USA
+work_type: FULL_TIME
+company_size: 49 Employees
+description: |
+  About Decagon
+
+  Decagon is the leading conversational AI platform empowering
+  every brand to deliver concierge customer experiences.
+
+  Our technology enables industry-defining enterprises like
+  Avis Budget Group, Block’s Cash App and Square, Chime, Oura
+  Health, and Hunter Douglas to deploy AI agents that power
+  personalized, deeply satisfying interactions across voice,
+  chat, email, SMS, and every other channel.
+
+  We’re building a future where customer experiences are being
+  redefined from support tickets and hold music to faster
+  resolutions, richer conversations, and deeper relationships.
+  We’re proud to be backed by world-class investors who share
+  that vision, including a16z, Accel, Bain Capital Ventures,
+  Coatue, and Index Ventures, along with many others.
+
+  We’re an in-office company, driven by a shared commitment to
+  excellence and velocity. Our values — Just Get It Done,
+  Invent What Customers Want, Winner’s Mindset, and The
+  Polymath Principle — shape how we work and grow as a team.
+
+  About the Team
+
+  Product Engineering at Decagon builds all aspects of the
+  platform our customers use to create, operate, and improve
+  their AI agents. We turn work that currently requires an
+  engineer into product that a CX team can run themselves.
+
+  This team is core to how Decagon scales. The frameworks we
+  build support every agent we have in production, each with
+  its own workflows, data, and constraints. We build the
+  agents too, and that’s what keeps the platform honest: a
+  failure mode we debug in production becomes a guardrail, an
+  eval, or a piece of tooling that catches it everywhere.
+
+  Our agents run for companies like Hertz, American Airlines,
+  and Notion across chat, voice, email, and SMS.
+
+  About the Role
+
+  You’ll design and build the systems that let customers
+  configure, train, test, and monitor sophisticated AI agents
+  with confidence. That means strong engineering underneath,
+  and abstractions on top that hold up across different use
+  cases without forking per customer.
+
+  You’ll work day to day with product and design: joining
+  discovery, defining requirements, reviewing designs, and
+  iterating through launch. You’ll stay close enough to
+  customers to understand their use cases in depth and to
+  ensure what you’re building is actually right for them.
+
+  Engineers here own features end to end, from technical
+  architecture through deployment and the iteration after it.
+
+  In this role, you will
+
+  - Eliminate manual work by building self-serve functionality
+    for agent configuration, training, and deployment
+  - Design configuration abstractions that balance power and
+    simplicity, handling diverse enterprise use cases while
+    staying usable by non-technical teams
+  - Build AI-powered tooling that lets CX and ops teams create
+    and manage complex agent workflows without writing code
+  - Build monitoring, tracing, and analytics that surface
+    actionable signal, so customers can see where an agent is
+    failing and why
+  - Handle agentic systems at scale; your work will touch
+    critical flows for Fortune 100 companies.
+  - Run evaluations on new text and voice models, then integrate
+    the ones that win into production traffic
+
+  Your background and skillset look something like this
+
+  - 4+ years building software products, with strong product
+    thinking
+  - Proficient in Python, comfortable working across the entire
+    stack
+  - Experience translating complex technical capabilities into
+    simple, usable interfaces
+  - Complex systems instincts, including asynchronous
+    programming and the failure modes that only appear at
+    scale
+  - A high degree of comfort debugging system failures in deep
+    technology stacks, using whatever tool gets you to the
+    answer
+  - A knack for turning customer asks into clear, well-scoped
+    product and technical specs
+  - Judgment about when to ship fast and when to slow down and
+    build it correctly
+
+  Even better
+
+  - Background with LLMs, prompt engineering, evals, or AI agent
+    systems
+  - Experience building developer tools, APIs, platforms, or
+    internal tools that became customer-facing
+  - Experience with observability, data visualization, or
+    analytics products
+  - Experience building security-sensitive product systems, such
+    as authentication and data access controls
+  - Work with multi-modal or voice models
+
+  Compensation
+
+  $200K – $400K + Offers Equity
+
+  This range reflects the expected compensation for this role.
+  Compensation within the range is determined based on
+  experience, skills, and the scope of responsibilities, with
+  flexibility for candidates who demonstrate exceptional
+  impact.
+
+  In addition to base salary, we offer competitive equity.
+  Final compensation may vary based on location within the
+  United States.
+
+  Benefits
+
+  We proudly offer the following benefits for our full-time
+  employees:
+
+  - Medical, Dental, and Vision benefits for you and your family
+  - Life Insurance and Disability Benefits
+  - Retirement Plan (e.g., 401K, pension)
+  - Parental Leave
+  - Fertility and family building benefits through Carrot
+  - Monthly stipend to support your wellness, lifestyle, and
+    work-life balance
+  - Daily lunches and snacks in the office to keep you at your
+    best
+  - Take what you need vacation policy (subject to local
+    requirements; UK employees receive 25 days of statutory
+    leave)
+
+  Decagon offers a competitive benefits package that varies by
+  country and complements local statutory benefits. Details
+  for this location will be provided during the recruitment
+  process.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-16
+url: "https://builtin.com/job/senior-software-engineer-product/11732538"
+source: Built In

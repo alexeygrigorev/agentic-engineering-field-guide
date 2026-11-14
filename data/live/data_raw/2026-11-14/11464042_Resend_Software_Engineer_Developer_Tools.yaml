@@ -1,0 +1,132 @@
+job_id: 11464042
+title: Software Engineer, Developer Tools
+company: Resend
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 22 Employees
+description: |
+  Resend is growing fast, and there are now over 4 million
+  developers using it. We’re building tools that make email
+  better for developers. We care about dependable
+  infrastructure, thoughtful design, and the experience of
+  everyone building with our products.
+
+  On our DevTools Squad, you’ll work across our SDKs, React
+  Email, CLI, MCP, and integrations, alongside the backend
+  services that support them. Your work will help developers
+  build within their existing workflows, understand failures,
+  and confidently depend on Resend as their applications grow.
+
+  This role is fully remote based in Americas or European
+  timezones, with some expected travel for team offsites,
+  conferences, meetups, and more.
+
+  Read more about how we work, how we hire, and what we value
+  here.
+
+  In this role, you will…
+
+  - Build and maintain developer tools that make Resend easy to
+    integrate with across languages, frameworks, and
+    environments
+  - Build and operate services that support our developer tools
+    and integrations
+  - Collaborate with product squads on clear API contracts and
+    consistent behavior across SDKs, CLI, MCP, and
+    documentation
+  - Build the interfaces developers and agents use to work with
+    Resend, such as MCP, skills, and the CLI
+  - Take care of compatibility, testing, releases, and upgrades
+    so developers can depend on what we ship
+  - Build shared tooling that helps other squads ship changes
+    across our developer tools confidently
+  - Work directly with developers through support, GitHub
+    issues, and pull requests
+
+  You will be a great fit if you...
+
+  - Have strong backend engineering experience, including
+    building and maintaining APIs or services in production.
+  - Are experienced in TypeScript and Node.js
+  - Understand authentication, authorization, retries,
+    idempotency, rate limits, and partial failures
+  - Have built software that other developers depend on and
+    understand the responsibility of maintaining it
+  - Care about interface design, clear errors, useful
+    documentation, and backward compatibility
+  - Think about agents as users of a product, with their own
+    needs for discovery and security
+  - Can take an ambiguous problem, propose a focused solution,
+    and follow through after release
+  - Communicate clearly, welcome feedback, and take ownership
+    while working closely with others
+
+  You will be an exceptional fit if you also...
+
+  - Have maintained an open source project or worked closely
+    with external contributors
+  - Have built SDKs, command-line tools, MCP servers, or
+    integrations between platforms
+  - Have experience with React or frontend build tooling
+  - Have built and operated systems with queues, monitoring, and
+    error recovery
+  - Have worked across multiple programming languages and
+    understand what makes a library feel natural in each
+  - Have experience with email development or a strong interest
+    in learning the space
+
+  What it means to join the team:
+
+  - Room to shape technical decisions and take projects from
+    discovery through production
+  - Work remotely with teammates around the world
+  - Close collaboration with the developers who use what you
+    build
+  - Teammates who value thoughtful feedback, shared learning,
+    and care for each other
+  - A high bar for product quality, reliability, and the details
+    that make software enjoyable to use
+  - Comp: $130,000 - $160,000 USD, commensurate with location
+    and experience
+
+  About Resend
+
+  We are building the modern email sending platform for
+  developers. We care deeply about quality, craft, and the
+  developer experience.
+
+  Our fully remote team of 50 spans 15 countries and counting.
+  We're backed by a16z, Y Combinator, and others. Meet the
+  humans →
+posted_date: 2026-10-01
+url: "https://builtin.com/job/software-engineer-developer-tools/11464042"
+source: Built In

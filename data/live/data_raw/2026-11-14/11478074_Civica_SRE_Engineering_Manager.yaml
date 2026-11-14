@@ -1,0 +1,175 @@
+job_id: 11478074
+title: SRE Engineering Manager
+company: Civica
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 3,366 Employees
+description: |
+  We’re Civica and we make software that helps deliver
+  critical services for citizens all around the world. From
+  local to state government, to education, to health and care,
+  over 5,000 public bodies across the globe use our software
+  to help provide critical services to over 100 million
+  citizens.
+
+  Our aspiration is to be a GovTech champion everywhere we
+  work around the globe, supporting the needs of citizens and
+  those that serve them every day. Building on 21 years of
+  continuous growth and success, we're at a pivotal point on
+  our journey to realise that aspiration.
+
+  At Civica, we are reshaping how public sector software is
+  built and run. Shifting our portfolio of citizen-focused
+  products to a fully cloud-native, SaaS operating model.
+
+  We are seeking an experienced SRE Engineering Manager to
+  help lead this evolution: driving operational excellence
+  across our Engineering and LiveOps teams, and embedding
+  reliability, performance, and security into everything we
+  deliver for education, health and care, and local government
+  customers.
+
+  Why you will like the SRE Engineering Manager role
+
+  The work is complex and high stakes; but it is also an
+  opportunity to solve real-world problems at scale, alongside
+  a team that values inquisitive minds, blameless approach,
+  keeping things simple and automated, celebrating success,
+  and learning from mistakes.
+
+  - Delivering reliability improvements: In collaboration with
+    our Principal SRE engineer and LiveOps teams, implement
+    and iterate on SRE practices across your team, delivering
+    measurable improvements in availability, performance, and
+    incident response.
+  - Connecting engineering and operations: Partner with Platform
+    and LiveOps to build and run solutions that scale securely
+    and efficiently.
+  - Implementing observability: Instrument services with
+    metrics, tracing, and logging through our observability
+    stacks, creating shared visibility across teams.
+  - Running incident response: Support on-call readiness, run
+    blameless post-mortems, and feed lessons back into
+    engineering and product planning.
+  - Building automation and standardisation: Implement and
+    improve our IaC and CI/CD practices (Terraform, GitHub
+    Actions, Ansible, Packer, Kubernetes), delivering
+    reusable, auditable patterns.
+  - Experienced in establishing and evolving core SRE practices
+    - including SLOs, on-call structures, toil reduction, and
+    production readiness and adapting them to the maturity and
+    needs of the organisation.
+  - Hands-on technical leadership: Get into the code and the
+    systems. Review architecture proposals, prototype
+    reliability solutions, debug complex production issues
+    with your team, and make technical calls on trade-offs
+    between speed, resilience, and cost.
+  - Technical debt and prioritisation: Identify systemic
+    reliability risks, make the case for addressing them, and
+    ensure technical debt doesn't quietly erode service
+    quality.
+  - People leadership: Mentor engineers, nurture psychological
+    safety, and foster curiosity and accountability within
+    your team.
+  - Security and Governance: Collaborate with our Security and
+    Compliance teams to integrate resilience and regulatory
+    requirements (SOC2, ISO27001, PCI) into design and
+    delivery.
+
+  Requirements
+
+  - Proven experience leading SRE, DevOps, or Cloud/Software
+    engineering teams (typically 5+ engineers) within a SaaS
+    or complex multi-product environment.
+  - Strong technical foundation in cloud architecture (AWS,
+    Azure, GCP, or equivalent) and hybrid or cloud migration
+    patterns.
+  - You can read and review application and infrastructure code,
+    not just delegate it. Comfortable writing automation,
+    debugging distributed systems issues, and making
+    architecture decisions grounded in hands-on experience.
+  - Solid background in observability tooling and incident
+    management practices, including monitoring, tracing, and
+    alerting. You've used data from these systems to diagnose
+    real production problems, not just configured dashboards.
+  - Excellent communicator and facilitator. Able to work across
+    Product, Platform, Security, Support and LiveOps
+    stakeholders.
+  - Skilled mentor who builds clarity, alignment, and confidence
+    in engineers.
+  - Passionate about reliability and user experience as a
+    culture, not just a function. Embedding SRE principles
+    within your team and across the teams you support.
+
+  Nice to haves:
+
+  - Experience with large-scale multi-tenant SaaS or hybrid
+    cloud migrations.
+  - Awareness of ITIL or incident command frameworks adapted for
+    modern SRE cultures.
+  - Familiarity with multiple observability ecosystems (Grafana,
+    Datadog, ELK, Prometheus).
+  - Experience working with distributed global teams.
+  - Experience working in software development and strong
+    familiarity with software lifecycle.
+
+  Benefits
+
+  Why You'll Love Working with Us
+
+  As a company, we're passionate about what we do and the
+  citizens we serve. If you, too, want to champion the use of
+  technology in public services to improve outcomes for
+  citizens and public sector organizations, then Civica is the
+  right place for you. We will help you unlock the best
+  version of yourself, achieve career growth, and make a real
+  difference to people and communities.
+
+  We know that when our people are happy, they work better and
+  have greater job satisfaction. Here's what you can expect:
+
+  Time Off & Work-Life Balance
+
+  ✔ 25 Days Annual Leave + bank holidays – plus the option to
+  buy up to 10 extra days!  ✔ Days of Difference – Up to 3
+  extra days off for volunteering.
+
+
+  Financial Well-being & Security
+
+  ✔ Pension Contributions – 5% employer match to support your
+  future.  ✔ Income Protection – Up to 75% salary cover for
+  long-term illness. ✔ Life Assurance – 4x salary tax-free
+  lump sum. ✔ Critical Illness Cover – £25,000 lump sum
+  (extendable to dependents).
+
+
+
+  Health & Perks
+
+  ✔ Private Medical Insurance – Fast access to private
+  healthcare.  ✔ Health Cash Plan – Claim back physio,
+  therapies & more. ✔ Dental Insurance – Cover for routine &
+  emergency care. ✔ Affinity Groups – Join employee-led
+  communities. ✔ Bounty Bonus – Refer a friend & get rewarded.
+
+  At Civica, we are committed to building an inclusive and
+  diverse workplace where everyone feels valued and supported.
+  We believe that a variety of perspectives drives innovation
+  and excellence, and we welcome applicants from all
+  backgrounds, cultures, and experiences.
+
+  We are an equal opportunity employer. We do not discriminate
+  based on race, ethnicity, religion, gender, sexual
+  orientation, disability, age, or any other legally protected
+  characteristic. Our recruitment process is designed to
+  ensure fairness and transparency, so every candidate has an
+  equal chance to contribute to our mission.
+
+  If you need any adjustments or accommodations to participate
+  in our recruitment process, please let us know. We are here
+  to support you.
+posted_date: 2026-10-02
+url: "https://builtin.com/job/sre-engineering-manager/11478074"
+source: Built In

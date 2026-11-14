@@ -1,0 +1,156 @@
+job_id: 9996614
+title: Staff Software Engineer, Platform
+company: Wisdom
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 43 Employees
+description: |
+  About Wisdom
+
+  Wisdom blends industry expertise with advanced technology to
+  make dental practices work better for everyone involved. We
+  believe dentistry is about people, and we exist to make the
+  future of dentistry stronger and more sustainable for
+  dentists, their teams, and the patients they serve. We match
+  administrative teams with expert billers and custom-built
+  technology to take on the heavy lifting of dental billing
+  while maximizing dentists’ time in-office, and their bottom
+  line.
+
+  Coming from a fresh $21M Series A round of funding we are
+  looking for exceptional candidates to help us build a
+  category-defining company. Wisdom has employees across the
+  US.
+
+  About The Role
+
+  The roadmap isn't handed to you here. You'll help write it,
+  then build the parts that matter most.
+
+  As a Staff Software Engineer at Wisdom, you'll set technical
+  direction across the platform and build the systems that
+  automate dental insurance billing end to end: the LLM-driven
+  agents that make high-stakes billing decisions, the
+  integrations that keep inconsistent insurance and practice-
+  management systems talking to us, the product our customers
+  use every day, and the infrastructure it all runs on. This
+  is a force-multiplier role on a small, high-trust team.
+  You'll go where the hardest, highest-leverage problem is,
+  whether that's a gnarly product feature, a brittle carrier
+  integration, an AI pipeline that needs to fail safe instead
+  of loud, or the deploy path the whole team depends on, and
+  you'll leave both the codebase and the team better than you
+  found them.
+
+  Wisdom's stack is TypeScript, Node.js, React, Postgres, and
+  AWS, with LLM-driven agents (Mastra, Anthropic) making high-
+  stakes billing decisions in production. The problems we're
+  solving are legitimately hard: keeping inconsistent
+  insurance integrations alive, making AI pipelines fail safe
+  instead of failing loud, and running HIPAA-compliant systems
+  that genuinely can't go down. We'd rather have someone
+  energized by owning problems end to end than someone who
+  wants a narrow lane and a perfect brief.
+
+  In your first year, you'll have shipped platform-defining
+  work across the stack, raised the technical bar through the
+  code and standards you set, and become the person the team
+  routes its hardest problems to. This is a fully remote role
+  reporting directly to the Head of Engineering.
+
+  What You'll Own
+
+  - Set technical direction across the platform: the
+    architecture, the standards, and the roadmap for systems
+    that bill real money for real practices, plus the judgment
+    about what to build, what to buy, and what to leave alone.
+  - Build across the whole stack: ship product features, backend
+    services, and the data layer end to end. You're as
+    comfortable in a React component as in a Postgres query
+    plan or an AWS deploy.
+  - Own how we build and operate AI-powered agentic workflows:
+    the pipelines where LLMs make billing decisions in
+    production, including retries, idempotency, graceful
+    degradation, and cost and capacity controls. The failure
+    modes here are new (batch blowups, stream drops, runaway
+    cost, model misbehavior), and you'll set the patterns the
+    team builds against.
+  - Harden the integration surface with dental insurance
+    carriers and practice-management systems (Dentrix,
+    Eaglesoft): poorly documented, inconsistent, and the first
+    thing to buckle under load.
+  - Keep production healthy: fast, safe, reversible deploys,
+    observability that surfaces problems before users do, and
+    an incident practice that runs without heroics.
+    Reliability is everyone's job here, and you'll make it
+    easy to do well.
+  - Raise the bar through others: set technical standards via
+    code review, architecture guidance, and documentation that
+    actually gets used, and level up how the whole engineering
+    team reasons about building and operating software.
+  - Take on the ambiguous, undefined, company-level problems and
+    drive them to resolution without waiting for permission or
+    a perfect brief.
+
+  Who You Are
+
+  - 8+ years building and operating production software, with a
+    track record of operating at staff/principal scope. You've
+    owned systems where the work had real consequences and
+    left them measurably better.
+  - You've shipped across the stack: product features, backend
+    services, and the infrastructure underneath, and you can
+    reason from first principles when the runbook runs out.
+  - You multiply the people around you. Your impact shows up in
+    what others ship, not only in what you touch directly.
+    You've set standards, mentored engineers, and driven
+    technical decisions across teams without needing the
+    authority to mandate them.
+  - Strong command of TypeScript/JavaScript, across both
+    application code and the systems around it. You can go
+    deep wherever the problem is.
+  - Deep AWS (or GCP) experience. You've deployed, operated, and
+    debugged distributed services in production.
+  - Deep experience with relational databases: connection
+    management, query performance, and reasoning about data
+    integrity under load.
+  - Hands-on production experience with at least one major LLM
+    API (OpenAI, Anthropic (Claude), or Google Vertex AI),
+    with a feel for the operational reality: rate limits,
+    retries, latency, cost, and what happens when the model
+    misbehaves in a live system.
+  - You default to ownership and move toward the hard problem,
+    not away from it.
+  - You're direct, intellectually honest, and collaborative. You
+    surface bad news early, change your mind when the evidence
+    warrants it, and write the postmortem that makes the whole
+    team sharper.
+
+  You'll Stand Out If You Have
+
+  - Experience building or operating LLM / agentic systems in
+    production, or with frameworks like Mastra, LangChain,
+    LlamaIndex, or CrewAI, where reliability, cost, and
+    latency were yours to manage.
+  - Comfort with infrastructure as code (Terraform), containers
+    (ECS/Kubernetes), and CI/CD. You don't need to be an SRE,
+    but you're not afraid of the deploy path.
+  - Working knowledge of HIPAA compliance and what it means to
+    build responsibly in a healthcare context.
+  - Experience at a Series A or early-stage startup where you
+    built things from scratch rather than inheriting them.
+
+  Wisdom is an equal opportunity employer. We provide
+  employment opportunities without regard to age, race, color,
+  ancestry, national origin, religion, disability, sex, gender
+  identity or expression, sexual orientation, veteran status,
+  or any other protected status in accordance with applicable
+  law.
+industries:
+  - Healthtech
+  - Insurance
+  - Financial Services
+posted_date: 2026-08-20
+url: "https://builtin.com/job/staff-software-engineer-infrastructure/9996614"
+source: Built In

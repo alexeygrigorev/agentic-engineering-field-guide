@@ -1,0 +1,272 @@
+job_id: 11913794
+title: Senior Software Engineer, Advancement Services
+company: GiveCampus
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 77 Employees
+description: |
+  GiveCampus is the world's leading fundraising platform for
+  non-profit educational institutions. Trusted by millions of
+  donors and 1,300+ colleges, universities, and K-12 schools,
+  our mission is to help advance the quality, the
+  affordability, and the accessibility of education. At our
+  current pace, we will facilitate $100 billion in charitable
+  giving over the next decade–enough money to send more than 1
+  million students to college, tuition-free.
+
+  GiveCampus is backed by leading investors including Y
+  Combinator, but we’re also practitioners of Sustainable
+  Growth: we’ve made the Inc. 5000 list of America's fastest-
+  growing private companies each of the last five years and
+  we’ve been profitable nine of the last 10. In 2025, we
+  celebrated a $140 million growth investment that included a
+  major liquidity event for GiveCampus employees–the second in
+  less than three years.
+
+  Our purpose-driven team of 130+ is located in 30+ states
+  across the US: team members work from anywhere they choose.
+  We have a beautiful 12,000sf office in Washington, DC that
+  is available for people to use whenever they want, and we
+  regularly organize team meet-ups, visit partner
+  institutions, and host retreats in various locations.
+
+  While we operate at meaningful scale, we’re still small
+  relative to the commercial and social good opportunities in
+  front of us. Every GiveCampus employee plays a meaningful
+  role in shaping what comes next, and we're growing the team
+  in support of our ambitious plans–including a $100 million
+  investment in AI product development. If you believe in the
+  transformative power of education and want to join a fast-
+  growing, mission-driven company, you’ll fit right in.
+
+  Location: This is a remote-first role based in the U.S.
+  While we embrace flexible, distributed work, we also value
+  in-person connection. Team members are expected to attend
+  multiple company-wide and team-specific onsites throughout
+  the year.
+
+  About the role
+
+  Everything GiveCampus is building runs on school data, and
+  today, getting that data connected is the top reason a
+  school's launch stalls. GC Intelligence, our AI that
+  predicts which donors are likely to give and drafts outreach
+  to them, needs a school's full donor history to work. So do
+  Smart Ask Amounts, which suggest how much to ask each donor
+  for, and GC Gift Officer, the tool fundraisers use to manage
+  their donor relationships.
+
+  All of it depends on data flowing between GiveCampus and the
+  school's CRM, where its advancement office (the fundraising
+  and alumni relations team) keeps every donor, gift, and
+  interaction. Only a fraction of our Partner schools send us
+  their complete data. Closing that gap is one of the biggest
+  growth levers in front of the company.
+
+  The Advancement Services team owns that flow. It's named for
+  the advancement services staff at each school, the people
+  who manage donor data and the main users of what we build.
+  We connect GiveCampus to the CRMs schools run, mainly
+  Blackbaud Raiser's Edge NXT and Salesforce-based systems
+  such as Ascend and Affinaquest. We also own the API that
+  schools and software partners use to send and pull data, the
+  guided data importer that lets schools upload files of donor
+  and gift records, and a new queue-driven pipeline on AWS
+  designed to move tens of millions of records.
+
+  We're hiring two Senior Software Engineers to build that
+  pipeline and the bidirectional integrations that run on it.
+  A redelivered message can become a duplicate gift in a
+  school's books, and the CRM on the other end may cap you at
+  about 10 requests per second. You'll design for both. You'll
+  also help set how the team builds with AI agents, from the
+  checks and context files that keep agents on track to the
+  guardrails that keep them away from donor data they
+  shouldn't touch.
+
+  The team is small and the surface area is large, so you'll
+  own big pieces of it from your first month. The code you
+  ship decides whether a gift made on a giving day (a school's
+  one-day fundraising push) lands in a school's CRM correctly
+  that same day.
+
+  You'll work closely with the Advancement Services Product
+  Manager, Partner Success, Partner Operations, and Data
+  Science, plus the CRM vendors and connector partners whose
+  APIs we build against. The team runs one-week sprints and
+  ships to production multiple times a day.
+
+  We're hiring at two levels. At IC4, you'll own major
+  components of the pipeline and integrations, with design
+  input from the team. At IC5, you'll own the architecture of
+  a system end to end, guide the team's agentic engineering
+  practices, and mentor others through the work. If you're not
+  sure which fits, apply and we'll figure it out together.
+
+  Successful outcomes
+
+  - A pipeline that holds up at scale. You design and ship AWS-
+    based pipelines with idempotent consumers. You keep memory
+    and database load bounded, throttling writes, budgeting
+    connections, and keeping pipeline storage off the app
+    database.
+  - Incremental syncs that stay correct. Runs pick up only what
+    changed, using row hashing that holds up when batches run
+    in parallel. You reconcile records that arrive from file
+    uploads, the API, Raiser's Edge NXT, and the GiveCampus
+    app, including deletes, and you handle rate limiting so no
+    single job burns through a CRM's request budget.
+  - Migrations with a fallback. You move schools onto new
+    infrastructure by proving parity with the old system
+    first, then cutting over with the old path ready.
+    Everything ships as infrastructure as code, with deploy,
+    recovery, replay, and monitoring included from the start.
+  - No silent failures. Every sync reports to Sentry and New
+    Relic, so the team sees a broken sync before a school's
+    advancement services director does.
+  - A partner API developers want to build on. You design
+    versioned, documented endpoints that go through a beta
+    period before general availability, so the consultants and
+    software partners who build integrations for schools can
+    plan around them.
+  - An agentic practice the whole team uses. You write and
+    maintain the context agents read and build reviewed skills
+    for repeated work like stacked PRs and support-ticket
+    triage. You measure whether a tooling change helped and
+    you teach what works to the rest of the team.
+
+  What we're looking for
+
+  Required
+
+  - Pipelines at real volume. 6+ years building and running
+    production backend systems, including a distributed ETL or
+    sync pipeline that moved tens of millions of records. You
+    can explain how your consumers handled redelivery,
+    backpressure, and replay.
+  - Third-party integration scar tissue. You've built against
+    APIs you didn't control and handled auth, token expiry in
+    the middle of long pagination, rate limits, retries, and
+    upsert semantics. You know what breaks when the other
+    system changes without warning.
+  - Careful data modeling. You think in external IDs, timezone-
+    safe bulk writes, and safe schema changes to busy core
+    tables. Data integrity matters to you because someone on
+    the other end reconciles every record.
+  - Clear, written communication. You write design docs and PR
+    descriptions that a distributed team can act on without a
+    meeting, and you're comfortable explaining a sync failure
+    to a school's IT staff.
+
+  Strongly preferred
+
+  - AI-native, with receipts. You've made coding agents more
+    reliable for a team by writing context files, building
+    skills, or adding checks and evals. You can tell us about
+    a time you didn't trust an agent's output and the check
+    you added afterward.
+  - Infrastructure you can operate. You ship on AWS (or an
+    equivalent cloud) with infrastructure as code, and you've
+    owned the deploy, monitoring, and on-call side of what you
+    built.
+
+  Bonus points
+
+  - Experience integrating with fundraising or nonprofit CRMs:
+    Blackbaud Raiser's Edge NXT or its SKY API, Salesforce
+    (including Ascend or Affinaquest), or school systems like
+    Ellucian, Veracross, or Slate.
+  - Experience with Ruby on Rails and RSpec.
+  - You've built a public or partner-facing API product with
+    OpenAPI documentation.
+  - You've worked in higher education advancement, nonprofit
+    fundraising, or a nearby domain.
+
+  What you'll learn here
+
+  You don't need to know advancement data on day one. In your
+  first 90 days, you'll learn Raiser's Edge NXT, the Blackbaud
+  SKY API, and the Salesforce products we support. You'll also
+  learn the building blocks of school fundraising data:
+
+  - Constituents: anyone a school tracks, such as alumni,
+    parents, and donors.
+  - Hard and soft credits: who gave a gift, and who else gets
+    recognized for it, like a spouse or a company that matched
+    it.
+  - Recurring gifts and designations: gifts that repeat on a
+    schedule, and the fund each gift goes to, such as
+    financial aid or athletics.
+  - Opportunities and assignments: large gifts a fundraiser is
+    working toward, and which fundraiser owns each donor
+    relationship.
+  - Events: reunions, galas, and other gatherings, along with
+    who registered and attended.
+
+  You'll get to know our pipeline codebase and our tools
+  (Metabase for reporting, New Relic, and the Rails console).
+  If you come from another backend framework, you'll pick up
+  Rails along the way.
+
+  Our stack
+
+  - Ruby on Rails and React
+  - Postgres and Redis
+  - AWS, including SQS, Aurora, S3, and EKS
+  - REST APIs documented with OpenAPI, plus the Blackbaud SKY
+    API, Salesforce, and other CRM APIs
+  - Sentry and New Relic for observability
+  - AI coding agents across the workflow, with shared context
+    files, skills, and evals
+
+  How the team works
+
+  - You go deep on the other system's quirks. You'd rather read
+    the SKY API changelog than guess at why a sync broke, and
+    you want to know how a system got the way it is.
+  - You use AI agents by default and verify what they produce.
+    You've built the checks that catch when they're wrong.
+  - You write it down. Design docs, PR descriptions, and
+    incident notes that let a distributed team act without a
+    meeting.
+  - Strong opinions, loosely held. You argue hard for your
+    approach, then commit fully once the team decides.
+  - You care about the people on the other end: the advancement
+    services staff reconciling every record, the fundraisers
+    relying on the data, and the donors behind it all.
+
+  Keep an eye on your spam and promotions folders in case our
+  emails end up there.
+
+  Ready to apply?
+
+  Be sure to keep an eye on your spam and promotions boxes in
+  case our emails end up there!
+
+  At GiveCampus, we value diversity and we pledge to foster an
+  environment of support, inclusivity, and learning, both on
+  the job and throughout the application process. In this
+  spirit, we encourage candidates of all backgrounds to apply.
+
+  GiveCampus is an Equal Opportunity Employer. Applicants and
+  employees are not discriminated against because of race,
+  color, creed, sex, sexual orientation, gender identity or
+  expression, age, religion, national origin, citizenship
+  status, disability, ancestry, marital status, veteran
+  status, medical condition or any protected category
+  prohibited by local, state or federal laws.
+
+  If you feel like you don't meet all of the requirements for
+  this role, please apply anyways. We know confidence gaps and
+  imposter syndrome often get in the way of connecting with
+  incredible people, and we don't want them to prevent us from
+  meeting you.
+industries:
+  - Edtech
+  - Fintech
+  - Information Technology
+  - Software
+posted_date: 2026-10-27
+url: "https://builtin.com/job/senior-software-engineer-advancement-services/11913794"
+source: Built In

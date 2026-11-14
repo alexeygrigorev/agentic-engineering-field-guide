@@ -1,0 +1,128 @@
+job_id: 9539555
+title: Senior Staff Software Engineer
+company: Ritchie Bros.
+location: USA
+locations:
+  - USA
+  - Norwalk, USA
+remote: true
+work_type: FULL_TIME
+company_size: 2,445 Employees
+description: |
+  Role Summary: The Sr. Staff Software Engineer will be part
+  of the new Product Engineering team tasked with designing
+  and building the next generation of Agentic AI-powered
+  products for SmartEquip. Acting as the Technical Lead and
+  Primary Architect, you will be a hands-on leader responsible
+  for the team’s overall delivery. You will lead a small squad
+  by decomposing complex product requirements into actionable
+  tasks, providing deep technical mentorship, and guiding the
+  architectural direction while remaining deeply embedded in
+  the codebase.
+
+  Key Responsibilities:
+
+  - Technical Execution: Lead technical delivery by translating
+    high-level product roadmaps into actionable development
+    cycles. Partner with Product Owners to define scope and
+    ensure high-quality output through rigorous code reviews
+    and technical mentorship
+  - Transactional Microservices: Architect and develop high-
+    concurrency backend services in Python (FastAPI/Django) to
+    handle core business logic, including shopping carts,
+    order processing, and complex transactional workflows
+  - Tool Engineering for Agents: Design and implement "Agent-
+    Ready" APIs using Pydantic for strict type enforcement and
+    OpenAPI/MCP for autonomous service discovery, allowing
+    agents to execute business actions (like placing an order)
+    with 100% reliability.
+  - Integration Frameworks: Build and maintain secure, scalable
+    integration layers (OAuth2, Webhooks) to connect the
+    SmartEquip platform with diverse customer ERP and
+    procurement systems
+  - Observation-Friendly APIs: Implement advanced error-handling
+    and "hinting" within API responses to allow autonomous
+    agents to self-diagnose and correct invalid requests
+    during complex multi-step tasks
+  - AI-Native SDLC: Actively utilize autonomous coding agents to
+    plan, generate, and test backend code, maintaining high
+    velocity while ensuring code quality through agent-
+    assisted peer reviews.
+  - Security & Auth: Own the implementation of secure
+    authorization protocols (JWT,OpenID Connect) to ensure
+    that both humans and AI agents operate within strict
+    permission boundaries
+  - Performance Optimization: Monitor and optimize API latency
+    and database query performance (PostgreSQL/MS SQL) to
+    support real-time interaction for both web/mobile apps and
+    high-frequency agent calls.
+
+  Skills and Experience:
+
+  - 10+ years of Software Engineering experience, with a proven
+    history of leading technical squads, architecting, and
+    building complex transactional backend systems.
+  - Expert mastery of Python (FastAPI, Django) and proficiency
+    in modern Front-end frameworks (Angular/Typescript).
+  - Deep mastery of RESTful API design, specialized in Tool-
+    Calling patterns and structured data exchange for LLMs.
+  - Strong SQL skills (PostgreSQL/MS SQL) and production
+    experience with OAuth2/JWT for secure service-to-service
+    communication.
+  - Experienced in working with cloud platforms (GCP, AWS) and
+    deploying containerized services that are secure and
+    scalable.
+  - Demonstrated proficiency in using coding agents to
+    accelerate the SDLC and plan and code complex engineering
+    tasks.
+
+  About Us
+
+  RB Global (NYSE: RBA)
+
+  RB Global (NYSE: RBA) (TSX: RBA) is a leading, omnichannel
+  marketplace that provides value-added insights, services and
+  transaction solutions for buyers and sellers of commercial
+  assets and vehicles worldwide. Through its auction sites in
+  13 countries and digital platform, RB Global serves
+  customers in more than 170 countries across a variety of
+  asset classes, including automotive, commercial
+  transportation, construction, government surplus, lifting
+  and material handling, energy, mining and agriculture.
+
+  The company’s marketplace brands include Ritchie Bros., the
+  world’s largest auctioneer of commercial assets and vehicles
+  offering online bidding, and IAA, a leading global digital
+  marketplace connecting vehicle buyers and sellers. RB
+  Global’s portfolio of brands also includes Rouse Services,
+  which provides a complete end-to-end asset management, data-
+  driven intelligence and performance benchmarking system;
+  SmartEquip, an innovative technology platform that supports
+  customers’ management of the equipment lifecycle and
+  integrates parts procurement with both OEMs and dealers;
+  Xcira, a leader in live simulcast auction technologies; and
+  Veritread, an online marketplace for heavy haul transport.
+
+  RB Global full-time employees are offered medical, dental,
+  vision, and basic life insurances. Employees are able to
+  enroll in our company’s 401k plan and RB Global will match
+  100% for the first 4% contributed.  Employees will also
+  receive 15 days of PTO each year.
+
+  About the Team
+
+  About the team - Corporate
+
+  As a global company, our corporate teams support billions of
+  dollars in equipment sales every year.
+
+  In joining our corporate services teams, you will be
+  ensuring the business runs smoothly in your respective
+  verticals and supporting the overall business to achieve our
+  core objectives.
+
+  Every day your work will make a difference in the way we run
+  our business and in the way customers interact with us.
+posted_date: 2026-08-12
+url: "https://builtin.com/job/senior-staff-software-engineer/9539555"
+source: Built In

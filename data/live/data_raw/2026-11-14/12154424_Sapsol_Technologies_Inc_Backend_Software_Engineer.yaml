@@ -1,0 +1,453 @@
+job_id: 12154424
+title: Backend Software Engineer
+company: Sapsol Technologies Inc
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 144 Employees
+description: |
+  Position: 7089 - Senior Software Engineer
+
+  Mode: Long term contract
+
+  Remote-only Accepted? YES
+
+  Profile: This is a senior backend individual contributor
+  role. The team seeks a technically strong backend engineer
+  who can design solutions and provide hands-on support.
+
+  Process/Submission Rules: List Tech Stack Grid in Submission
+  notes. Once a candidate is invited to interview, the team
+  will either hold an initial 30-minute call with the manager,
+  followed by a 1 to 1.5 hour interview with the team, or move
+  straight to a technical interview with the team if the
+  resume looks solid.
+
+  Tech Stack Grid
+
+
+
+  Technology
+
+
+
+  Some Awareness (1)
+
+
+
+  Novice (2)
+
+
+
+  Intermediate (3)
+
+
+
+  Advanced (4)
+
+
+
+  Expert (5)
+
+
+
+  Languages and runtime
+
+
+
+  Node.js Development
+
+
+
+
+
+
+
+
+
+  4
+
+
+
+
+
+  TypeScript (JavaScript ES6+)
+
+
+
+
+
+
+
+
+
+  4
+
+
+
+
+
+  AWS compute and messaging
+
+
+
+  AWS - Lambda
+
+
+
+
+
+
+
+
+
+  4
+
+
+
+
+
+  AWS - SNS/SQS
+
+
+
+
+
+
+
+  3
+
+
+
+
+
+
+
+  AWS CLI
+
+
+
+
+
+
+
+  3
+
+
+
+
+
+
+
+  AWS data and storage
+
+
+
+  AWS - DynamoDB
+
+
+
+
+
+
+
+
+
+  4
+
+
+
+
+
+  AWS - S3
+
+
+
+
+
+
+
+
+
+  4
+
+
+
+
+
+  AWS - Athena
+
+
+
+
+
+  2
+
+
+
+
+
+
+
+
+
+  AWS - Glue
+
+
+
+
+
+  2
+
+
+
+
+
+
+
+
+
+  Infrastructure as code
+
+
+
+  AWS CDK
+
+
+
+
+
+
+
+
+
+  4
+
+
+
+
+
+  Source control and CI/CD
+
+
+
+  Git
+
+
+
+
+
+
+
+
+
+  4
+
+
+
+
+
+  GitHub Actions (CI/CD)
+
+
+
+
+
+
+
+  3
+
+
+
+
+
+
+
+  Architecture
+
+
+
+  SaaS / multi-tenant application design
+
+
+
+
+
+
+
+  3
+
+
+
+
+
+
+
+  AI coding tools
+
+
+
+  Claude Code (agentic coding)
+
+
+
+
+
+
+
+  3
+
+
+
+
+
+
+
+  GitHub Copilot
+
+
+
+
+
+
+
+  3
+
+
+
+
+
+
+
+  About the Role
+
+  As a Senior Software Engineer, you will design, build, test,
+  deploy and document backend solutions on AWS, including the
+  infrastructure and delivery pipelines that run them. You
+  will improve shared patterns and components and help the
+  team move its systems forward.
+
+  You will report to the Senior Director and work in agile
+  teams that build and maintain highly visible, critical
+  applications. You will design and tune software patterns,
+  help teammates use them, and from time to time implement,
+  test and document complex solutions. You will also keep
+  strong, professional relationships with customers and
+  partner teams.
+
+  You will follow emerging technology trends, apply them to
+  College Board's needs, and work with teams on practices,
+  standards and guidelines.
+
+  Our engineers use AI coding agents such as Claude Code and
+  GitHub Copilot in everyday development, and you will help
+  the team use them well and safely.
+
+  We're looking for a skilled communicator and active partner
+  who can turn business needs into lasting, high-quality
+  solutions that support College Board's mission.
+
+  Responsibilities of the Role
+
+  •     Design and build backend AWS solutions and the
+  continuous delivery pipelines that ship them with quality
+
+  •     Write complex code, build and maintain AWS
+  infrastructure with CDK, and automate testing and deployment
+
+  •     Design multi-tenant backend services with tenant data
+  isolation
+
+  •     Own DevOps for the solutions you build, including
+  deployments, monitoring and production support
+
+  •     Use AI coding agents (Claude Code, GitHub Copilot) day
+  to day to design, write, test and document code, and own the
+  quality of what ships
+
+  •     Review AI-generated code with the same rigor as any
+  other code
+
+  •     Own the quality of your work: set quality criteria,
+  use reviews, and keep improving
+
+  •     Write design specs, unit tests and technical
+  documentation, including documenting current-state systems
+
+  •     Develop and apply standards, patterns and processes
+  that make our systems consistent, lower risk and improve
+  efficiency
+
+  •     Define best practices for modeling, storing and moving
+  data in cloud applications
+
+  •     Mentor teammates on best practices, cloud technologies
+  and safe use of AI coding tools
+
+  •     Improve the team's processes, speed and quality using
+  ideas from other teams and the industry
+
+  Qualifications Needed for the Role
+
+  •     Bachelor's degree in Computer Science, Engineering or
+  MIS
+
+  •     7+ years of experience in software systems and backend
+  programming
+
+  •     5+ years of backend development with Node.js and
+  TypeScript on AWS
+
+  •     4+ years hands-on with AWS Lambda, SNS/SQS, S3 and
+  DynamoDB
+
+  •     Strong hands-on experience building AWS infrastructure
+  as code with AWS CDK
+
+  •     Strong experience with Git and associated
+  methodologies
+
+  •     Working experience with CI/CD pipelines using GitHub
+  and GitHub Actions
+
+  •     Experience writing unit and integration tests
+
+  •     Experience with monitoring and observability tools
+
+  •     Experience designing multi-tenant SaaS applications,
+  including tenant data isolation and tenant-scoped access
+  control
+
+  •     Working knowledge of AWS serverless architecture,
+  distributed architecture patterns, and AWS data services
+  such as Athena and Glue
+
+  •     Hands-on experience using Claude Code and GitHub
+  Copilot to build, test and ship production software
+
+  •     Good judgment on when to trust, check or reject AI-
+  generated code, and awareness of risks such as prompt
+  injection, data exposure and over-broad permissions
+
+  •     Experience mentoring other engineers on cloud
+  technology
+
+  •     Strong problem solving and analytic skills
+
+  •     Able to handle multiple projects, work independently,
+  and be a supportive Scrum team member
+
+  Preferred Skills for the Role
+
+  •     Familiarity with AWS networking and containers (for
+  example VPC, ECS/Fargate)
+
+  •     Strong knowledge of relational and NoSQL databases
+
+  •     Experience with event-driven design and API design
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-11-10
+url: "https://builtin.com/job/backend-software-engineer/12154424"
+source: Built In

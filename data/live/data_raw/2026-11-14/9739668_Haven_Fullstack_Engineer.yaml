@@ -1,0 +1,101 @@
+job_id: 9739668
+title: Fullstack Engineer
+company: Haven
+location: USA
+locations:
+  - USA
+  - New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 120 Employees
+description: |
+  Job Title: Fullstack Engineer
+
+  Location: Remote (US-based preferred)
+
+  Employment Type: Full-Time
+
+  About Haven
+
+  Haven is building the next generation financial platform for
+  startups—combining accounting, tax, and banking into a
+  single, intelligent service. Our mission is to make high-
+  quality finance operations effortless for founders and
+  finance teams.
+
+  Today, we serve 500+ venture-backed startups, managing over
+  $6M in annual recurring revenue. We’re growing quickly and
+  backed by top-tier investors including 8VC, Long Journey,
+  Gilgamesh Ventures, and more. Our team is made up of
+  experienced fintech operators, engineers, and accountants
+  who are passionate about creating products founders love.
+
+  From automated bookkeeping to embedded banking to full-
+  service tax filing, Haven delivers the finance stack every
+  startup deserves—without the overhead. We’re remote-first,
+  execution-obsessed, and hiring people who want to build the
+  future of startup finance.
+
+  The Role
+
+  We’re looking for an exceptional Fullstack Engineer to help
+  us build the next great fintech platform. You’ll join a
+  small, fast-moving team building high-impact products across
+  accounting, tax, and banking. You’ll own features end-to-end
+  and contribute across frontend, backend, infrastructure, and
+  architecture.
+
+  Responsibilities
+
+  - Build and scale Haven’s core platform across tax,
+    accounting, and banking
+  - Take ownership of the full software lifecycle — scoping,
+    building, testing, deploying
+  - Collaborate with product and design to ship features that
+    delight customers
+  - Write scalable backend code and craft refined, performant
+    frontends
+  - Contribute to infrastructure, observability, and system
+    reliability
+  - Help shape our technical roadmap and engineering best
+    practices
+
+  Tech Stack
+
+  - Cloud: GCP (Cloud Run, Cloud SQL Postgres, Pub/Sub,
+    Terraform)
+  - Languages: TypeScript, Python (typed), Rust
+  - Frameworks: React, Next.js, Slonik, Axum, SQLx, Django
+
+  Requirements
+
+  - 3+ years of experience as a fullstack or backend engineer
+  - Experience with modern frameworks (React/Next.js, Django,
+    etc.)
+  - Proficiency in at least one typed language (TypeScript,
+    Rust, etc.)
+  - Strong product intuition and ability to work cross-
+    functionally
+  - Experience with system design and building scalable services
+  - Excellent communication skills; startup or fintech
+    experience a plus
+
+  Compensation
+
+  - Salary: $120,000 – $200,000 USD
+  - Equity: 0.25% – 2%
+  - Benefits: Full medical, flexible hours, remote-first culture
+
+  Interview Process
+
+  - Take-home coding project (1–2 hours)
+  - Live coding session focused on real-world problems (no
+    leetcode)
+  - Final interview with a cofounder
+industries:
+  - Fintech
+  - Professional Services
+  - Financial Services
+posted_date: 2026-10-14
+url: "https://builtin.com/job/fullstack-engineer/9739668"
+source: Built In

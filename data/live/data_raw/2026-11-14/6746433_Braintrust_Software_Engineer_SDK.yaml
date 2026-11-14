@@ -1,0 +1,104 @@
+job_id: 6746433
+title: Software Engineer, SDK
+company: Braintrust
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 241 Employees
+description: |
+  About the company
+
+  Braintrust is the agent observability platform. By actively
+  applying intelligence to agent traces and automatically
+  surfacing the most critical patterns, Braintrust gives teams
+  the visibility to understand how agents behave in production
+  and the tools to improve them. Teams at Notion, Stripe, Box,
+  OpenAI, and Cloudflare use Braintrust to trace their agents,
+  find the issues in their observability data, and run evals
+  that tell them how to improve.
+
+  About the Role
+
+  We’re hiring engineers to build the open-source libraries
+  that customers use to observe, understand, and optimize how
+  AI operates inside their production applications. These SDKs
+  are a critical part of Braintrust’s platform. They power
+  evaluation and observability pipelines across a wide range
+  of environments, frameworks, and AI providers.
+
+  This role is ideal for engineers who are passionate about
+  developer experience, API craftsmanship, and building fast,
+  reliable, and idiomatic libraries. You’ll own the full SDK
+  lifecycle: design, implementation, release, documentation,
+  and community support. Your work will be embedded in
+  thousands of applications and help define how AI is adopted
+  and operationalized across industries.
+
+  What You’ll Do
+
+  - Build elegant, idiomatic, and resilient SDKs that power
+    Braintrust’s LLM evaluation and AI observability platform.
+  - Ensure our libraries are easy to use, efficient to run, and
+    a delight to work with, prioritizing developer experience
+    and performance.
+  - Integrate with major AI providers, frameworks, and platforms
+    our customers rely on, such as OpenAI, Anthropic, and
+    Gemini.
+  - Build tools and automation to improve testing, profiling and
+    simplify release workflows.
+  - Collaborate closely with backend, platform, and product
+    teams to ensure a cohesive and polished developer
+    experience.
+  - Be a great community ambassador: talk with our users,
+    understand their issues, help them get their fixes merged
+    and have deep empathy for our users.
+
+  You Might Be a Fit If You:
+
+  - Are customer-obsessed and passionate about solving real-
+    world problems for developers.
+  - Have deep expertise in either Javascript, Python, or Go, and
+    understand what it takes to build fast, idiomatic, and
+    reliable libraries in that ecosystem.
+  - Are proficient with the tooling needed to build robust SDKs,
+    such as testing frameworks, profilers, CI/CD pipelines,
+    and packaging systems.
+  - Care deeply about developer experience, from clean APIs and
+    clear docs to thoughtful error handling and backward
+    compatibility.
+  - Know how to wrap, patch, or extend existing frameworks and
+    SDKs to inject observability and control without breaking
+    developer workflows.
+  - Have experience maintaining or contributing to production-
+    grade open-source libraries, ideally used across multiple
+    environments.
+  - Bonus: You’ve contributed to popular open source projects,
+    led SDK adoption at your organization, are familiar with
+    tracing and observability tools like OpenTelemetry, or
+    worked on tools in the LLM/AI ecosystem.
+
+  #LI-DNI
+
+  Benefits include
+
+  - Medical, dental, and vision insurance
+  - Daily lunch, snacks, and beverages
+  - Flexible time off
+  - Competitive salary and equity
+  - Wifi & cellphone stipend
+
+  Equal opportunity
+
+  Braintrust is an equal opportunity employer. All applicants
+  will be considered for employment without attention to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, veteran or disability status.
+industries:
+  - Blockchain
+  - Web3
+posted_date: 2026-08-22
+url: "https://builtin.com/job/open-source-engineer-go/6746433"
+source: Built In

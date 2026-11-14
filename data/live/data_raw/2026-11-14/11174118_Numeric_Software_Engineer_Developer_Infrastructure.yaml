@@ -1,0 +1,181 @@
+job_id: 11174118
+title: Software Engineer, Developer Infrastructure
+company: Numeric
+location: New York, USA
+work_type: FULL_TIME
+company_size: 35 Employees
+description: |
+  Why Numeric
+
+  Every business runs on accounting, but the systems
+  underneath it were built for a different era. Today’s ERPs
+  don’t store a company’s financial data. They store a diluted
+  copy of it. Every contract, lease, and invoice gets
+  flattened into a journal entry, and the context that made it
+  meaningful is thrown away. That’s why accounting teams spend
+  every month re-checking numbers, stitching together
+  spreadsheets, and waiting on engineering, and why AI
+  struggles to do real accounting work. Accounting doesn’t
+  have a reporting problem. It has a data problem.
+
+  Enter Numeric: the data platform finance teams run on. We
+  started with the month-end close, where the data problem
+  hurts most, and hundreds of finance teams now run their
+  close on Numeric. That work led us to rebuild the system of
+  record itself. In September 2026 we launched the Financial
+  Data Platform (FDP), a platform built for the agent era.
+  Instead of a journal entry, the real business object enters
+  the system and the accounting is derived from it. Every
+  number is traceable to its source, reporting works on any
+  dimension, and accountants and AI agents finally have enough
+  context to work together. While others bolted AI features
+  onto the old data model, we built a new one.
+
+  We have a growing base of customers who love our product,
+  including Anthropic, Plaid, Brex, Betterment, Wealthfront,
+  and Asana. We’ve raised $89M from top-tier investors
+  including IVP, Menlo Ventures, Founders Fund, and 8VC, along
+  with founders and executives from Ramp, Segment, and other
+  category-defining companies. We’re in-person, with teams in
+  New York, San Francisco, and London, and we just shipped the
+  product that will define our next decade. There’s never been
+  a better time to join.
+
+  About the role
+
+  Platform Engineering at Numeric is engineering for
+  engineering. Our customers are our own engineers and,
+  increasingly, the AI agents working alongside them. The
+  mission: make every engineer and agent dramatically more
+  productive by building a shared platform, so anyone can go
+  from idea to safely deployed change without bespoke setup or
+  tribal knowledge. This role is the developer-infrastructure
+  half of that mission — environments, CI/CD and deployment,
+  infrastructure-as-code, environment parity, observability,
+  security, and internal tooling. The current reality has gaps
+  (deploys with no staging gate, migrations without clean
+  rollback, a prod-DB-clone lock that blocks deploys,
+  Terraform drift, two clouds where there should be one) and a
+  roadmap to close them. You’d own pieces of that roadmap end
+  to end and then watch engineers actually use them.
+
+  What you might work on
+
+  - Deployment process: serialized, gated deploys across
+    services; automated schema migrations with rollback;
+    staging → production promotion that engineers trust.
+  - Environments & parity: local and remote dev environments
+    that are reliable and fast to stand up; sandboxes and
+    preview/review environments so reviewers can verify
+    behavior, not just read code.
+  - Agent-First development: Including MCP gateways, governance,
+    cost management, and foundation model selection.
+  - Infrastructure-as-code: Spacelift/OpenTofu, drift
+    remediation, consolidating off DigitalOcean onto AWS, and
+    IaC standards that are easy to follow by default.
+  - Repo standards & ownership: repository standards (linting,
+    testing hierarchy, ownership manifests, idempotent
+    onboarding), an ownership registry, and an internal
+    developer portal.
+  - Observability foundations: local tracing/logging/metrics for
+    every engineer, Datadog cost and hygiene, incident-
+    management maturity, status pages.
+  - Security & access: unified secrets/config management, SSO in
+    front of internal sites, IAM scoping, ECR scanning, audit
+    logging, vulnerability management.
+  - AI Internal tools hosting: Numeric Labs — the platform that
+    lets anyone at Numeric ship an internal tool without re-
+    solving auth, hosting, and observability.
+
+  You might be a great fit if you…
+
+  - Are technically deep in infrastructure — AWS,
+    containers/ECS, networking, IaC — and pragmatic about it.
+  - Have a product builder’s instinct for developer experience:
+    sane defaults, tooling that teaches, “shipping means
+    seeing it work successfully.”
+  - Like discovering the problem by meeting your users: pairing
+    with engineers, watching onboarding, reading the friction
+    in Slack.
+  - Are comfortable building in-house when it’s the right call
+    (and explicit about when a third-party tool earns its
+    place).
+
+  What you need
+
+  - 3+ years of software engineering experience, including
+    significant time on infrastructure, platform, or
+    developer-productivity work.
+  - Confidence with AWS, IaC (Terraform/OpenTofu or similar),
+    CI/CD systems, and Linux/container fundamentals.
+  - Strong general-purpose programming skills (primarily
+    TypeScript, Python where it fits).
+
+  Nice to have
+
+  - Prior experience with tools like Spacelift / Atlantis,
+    Datadog / Firetiger / Chronosphere, or GitHub Actions /
+    Buildkite
+  - Running incident-management, defining SLAs, and keeping
+    sites up through enormous traffic
+  - Supporting non-engineer contributors (e.g., support
+    engineers shipping fixes with AI tools).
+
+  Stack: AWS (ECS, RDS, S3), OpenTofu/Terraform via Spacelift,
+  GitHub Actions, Datadog, TypeScript / Node, Postgres,
+  ClickHouse, Inngest.
+
+  How we work
+
+  This role is in-person in New York City (in office, with
+  flexibility).
+
+  As an engineer at Numeric you will learn the domain, meet
+  your users, and exercise substantial creativity and agency
+  over product direction. You'll work with a high-pace, high-
+  integrity team that loves collaboration.
+
+  We believe the best company is the one with the best ICs and
+  we’ve built a culture to maximize great work. We believe
+  great product & engineering come from a desire to win, a
+  deep care for the craft, and a pragmatism in shipping for
+  overall impact. As engineers we ground our work in our
+  understanding of the users, the domain, and the goals for
+  our organization.
+
+  We strongly believe we will only be successful if everyone
+  on the team is anchored in our following set of core
+  principles:
+
+  - Own the Outcome: We own our results. We typically hire
+    builders and give them large mandates with high-trust.
+    Engineers are responsible not just for code, but for
+    ensuring the product is solving the end problems of the
+    users.
+  - Brick by Brick: To win, our team needs to show up and
+    execute in each domain every day.
+  - Love the Game: We focus on the craft and a deep sense of
+    giving a f*ck. We’re building a company full of people who
+    are equally engaged and motivated.
+  - Earn the right: Our ability to rethink how things are done
+    depends on the trust and reputation we build by shipping
+    quality products and improving the lives of our users.
+  - SALY: We refuse to accept “Same As Last Year.” We bring
+    fresh eyes to a stagnated and underserved domain. We’re
+    driven by a first-principles approach to building better
+    solutions.
+
+
+
+  Read some of our thoughts on engineering and company-
+  building here.
+
+  We now offer green card sponsorship from day one for
+  technical roles.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+posted_date: 2026-09-14
+url: "https://builtin.com/job/software-engineer-developer-infrastructure/11174118"
+source: Built In

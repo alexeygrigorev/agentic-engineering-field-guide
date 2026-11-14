@@ -1,0 +1,136 @@
+job_id: 12118310
+title: Senior Software Engineer, Cloud Applications
+company: Temporal Technologies
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 501 Employees
+description: |
+  Role Summary
+
+  We're looking for a senior software engineer to join a high-
+  impact team building the systems that power Temporal Cloud's
+  customer experience at scale. Our team owns some of the most
+  critical surface area in the product — Namespaces, Audit
+  Logs, and Export. Namespaces are the core unit of isolation
+  within Temporal Cloud, providing security boundaries,
+  workflow management, unique identifiers, and dedicated gRPC
+  endpoints. Audit Logs and Export give customers reliable
+  access to the operational and compliance data they depend
+  on.
+
+  In this role, you'll work on a new initiative, set technical
+  direction and build systems that directly shape how
+  customers provision, operate, and extract value from
+  Temporal Cloud. You'll partner closely with engineers,
+  product managers, and solutions architects to design
+  resilient architectures, drive cross-functional execution,
+  and raise the bar on reliability and scalability for our
+  most critical features. If you thrive on ambiguous, high-
+  leverage problems and take pride in building durable systems
+  that grow with the business, we'd love to meet you.
+
+  What You’ll Do
+
+  - Lead the Design of Business-Critical Systems: Own end-to-end
+    technical design and delivery for the services that power
+    namespace scalability, reliability, and the customer data
+    products built on top of them.
+  - Bridge Instrumentation and Product Value: Partner with
+    analytics and product engineers to ensure what gets
+    collected actually powers meaningful customer insights;
+    translate business questions into durable event schemas
+    that outlast the feature that introduced them.
+  - Architect Data Pipelines for Scale and Correctness: Define
+    and evolve our data pipeline architecture for high-
+    throughput usage and operational data; make principled
+    tradeoffs across data freshness, query cost, tenant
+    isolation, and fault-tolerance.
+  - Drive Data Quality as a First-Class Concern: Establish
+    schema contracts, pipeline-level anomaly detection, and
+    alerting for silent failures — holding the line on data
+    correctness before bad numbers reach customers.
+  - Raise the Engineering Bar: Set quality standards through
+    code and design reviews; introduce patterns and tooling
+    that improve maintainability, observability, and incident
+    response across the team.
+  - Mentor and Multiply Impact: Grow the engineers around you,
+    unblock execution, and foster a culture of ownership,
+    learning, and pragmatic excellence.
+  - Improve Developer and Customer Experience: Identify
+    opportunities to streamline customer flows via automation,
+    better tooling, and targeted platform improvements that
+    reduce friction and support load.
+
+  Technology Stack
+
+  - Primary Language: Go
+  - Data Storage: PostgreSQL, Redshift, S3, Google Cloud
+    Storage, Azure Blob Storage
+  - Data Warehouse: Snowflake, Databricks, Clickhouse, Big Query
+  - Data Processing: Kinesis, Firehose
+  - Infrastructure: Kubernetes
+  - Core Framework: Temporal (of course 😉)
+
+  What You’ll Bring
+
+  - Deep experience designing and delivering production-grade
+    backend systems in cloud environments, with direct
+    ownership over architecture and operational outcomes —
+    including what happens when things go wrong.
+  - Strong proficiency in at least one systems or backend
+    language (Go preferred), with the ability to navigate
+    large codebases and drive technical decisions with
+    confidence.
+  - Hands-on experience building and operating distributed
+    systems: concurrency, reliability, scaling, consistency,
+    and failure handling in production.
+  - Solid experience with data pipelines and storage systems
+    (Postgres, Redshift, Kafka/Kinesis, S3-compatible storage,
+    Clickhouse) and a track record of ensuring correctness and
+    traceability at scale.
+  - Experience with production operations: observability,
+    incident response, performance tuning, on-call readiness,
+    and continuous delivery.
+  - Ability to work effectively across functions — translating
+    ambiguous requirements from product managers and solutions
+    architects into clear, executable technical plans.
+  - Strong written and verbal communication: you write crisp
+    design docs, align stakeholders on tradeoffs, and can
+    explain a complex system to someone who didn't build it.
+  - A builder's mindset: you enjoy simplifying complex
+    workflows, improving tooling, and leaving systems better
+    than you found them.
+
+  What You Can Expect
+
+  - High-impact ownership over systems tied directly to revenue,
+    customer lifecycle, and platform scalability
+  - Collaborative engineering culture focused on quality,
+    pragmatism, and measurable outcomes
+  - Exceptional technical colleagues and a feedback-rich
+    environment
+  - Lean processes and autonomy without unnecessary bureaucracy
+  - Strong emphasis on reliability and operational
+    excellence—balanced with rapid iteration
+  - A team that values mentorship, thoughtful design, and steady
+    improvements that compound over time
+
+  Temporal Technologies is an Equal Opportunity Employer.
+  Temporal Technologies does not discriminate on the basis of
+  race, religion, color, sex, gender identity, sexual
+  orientation, age, non-disqualifying physical or mental
+  disability, national origin, veteran status, or any other
+  basis covered by appropriate law. All employment is decided
+  on the basis of qualifications, merit, and business need. We
+  embrace and celebrate differences and diversity.
+
+  Temporal is committed to providing access, equal
+  opportunity, and reasonable accommodation for individuals
+  with disabilities in employment, its services, programs, and
+  activities. If you need to request a reasonable
+  accommodation, please let your Recruiter know so we can
+  assist.
+posted_date: 2026-11-07
+url: "https://builtin.com/job/senior-software-engineer-cloud-applications/12118310"
+source: Built In

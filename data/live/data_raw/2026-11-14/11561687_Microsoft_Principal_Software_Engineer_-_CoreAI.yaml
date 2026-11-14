@@ -1,0 +1,169 @@
+job_id: 11561687
+title: Principal Software Engineer - CoreAI
+company: Microsoft
+location: USA
+locations:
+  - USA
+  - Redmond, USA
+remote: true
+work_type: FULL_TIME
+company_size: 206,870 Employees
+description: |
+  Overview
+
+  Microsoft Azure powers some of the world’s most
+  mission‑critical cloud services. At this scale, database
+  reliability, performance, and operational excellence are
+  foundational to customer trust.We are looking for a
+  Principal Software Engineer to provide technical leadership
+  for the database layer of a first‑party Azure service built
+  on Azure SQL. This role goes beyond traditional DBA
+  responsibilities. You will shape how the service designs,
+  uses, operates, and evolves its databases at
+  scale—partnering closely with software engineers, SREs, and
+  architects to drive durable reliability and performance
+  improvements.Success in this role is measured by
+  service‑level impact, technical influence, and long‑term
+  reliability outcomes, not by task execution alone.
+
+  Responsibilities
+
+  Database Reliability, Performance, and Scale Own the
+  availability, durability, and performance of large‑scale
+  Azure SQL databases supporting a production Azure
+  service.Lead deep performance tuning efforts, including
+  query plan analysis, indexing strategies, concurrency
+  control, stored procedure optimization, and workload
+  isolation.Diagnose and resolve complex issues such as
+  deadlocks, blocking, resource contention, latency spikes,
+  memory pressure, and failover behaviors.Define and drive
+  capacity planning models, performance guardrails, and growth
+  readiness strategies.
+
+  Engineering Partnership and Architectural Influence Partner
+  with software engineers and architects to influence how the
+  service uses Azure SQL, including schema design, access
+  patterns, transaction boundaries, and consistency
+  models.Review and guide database‑related design proposals
+  with a focus on long‑term reliability, operability,
+  scalability, and cost efficiency.Advocate for engineering
+  solutions that reduce ongoing operational burden and
+  eliminate repetitive manual work.
+
+  Schema, Configuration, and Data Migrations Lead the design
+  and execution of safe, automated schema changes,
+  configuration updates, and data migrations on live, highly
+  available systems.Establish rollout, validation, and
+  rollback strategies that minimize customer impact and
+  operational risk.Anticipate migration risks and proactively
+  design mitigations before issues surface in production.
+
+  Observability and Proactive Health Define and evolve deep
+  Azure SQL telemetry, including latency, throughput, waits,
+  failures, saturation signals, and early‑warning
+  indicators.Use data to proactively identify reliability
+  risks, performance regressions, and emerging capacity
+  constraints.Partner with SREs to integrate database health
+  signals into service‑level monitoring and reliability
+  models.
+
+  Incident Response and Root Cause OwnershipServe as the
+  database technical authority during live‑site incidents and
+  on‑call rotations.Lead root cause analysis for
+  database‑related outages and reliability events.
+
+  Reliability Fundamentals and Reuse Identify and reduce
+  database technical debt to improve maintainability,
+  predictability, and operational simplicity.Build reusable
+  tooling, automation, and standards that improve database
+  operations across the service.Share best practices,
+  documentation, and learnings to raise the reliability bar
+  beyond your immediate team.
+
+  Qualifications
+
+  Required Qualifications
+
+  - Bachelor's Degree in Computer Science or related technical
+    field AND 6+ years technical engineering experience with
+    coding in languages including, but not limited to, C, C++,
+    C#, Java, JavaScript, or Python
+    - OR equivalent experience.
+
+  Other Requirements
+
+  - Ability to meet Microsoft, customer and/or government
+    security screening requirements are required for this
+    role. These requirements include but are not limited to
+    the following specialized security screenings:
+    - Microsoft Cloud Background Check: This position will be
+      required to pass the Microsoft Cloud background check
+      upon hire/transfer and every two years thereafter.
+
+  Preferred Qualifications
+
+  - Extensive experience operating and administering Azure SQL
+    in largescale, highly available, production environments.
+  - Proven expertise in database performance tuning,
+    troubleshooting, and optimization for high‑traffic,
+    mission‑critical systems.
+  - Strong understanding of distributed systems fundamentals as
+    they apply to relational databases, including replication,
+    failover, durability, and consistency.
+  - Demonstrated experience designing and executing online
+    schema changes and data migrations on live systems.
+  - Experience providing technical leadership during
+    high‑severity incident response and driving long‑term
+    corrective actions.
+  - Ability to influence engineers and architects without direct
+    authority and set technical direction across teams.
+  - Experience with Azure SQL, geo‑replication, failover groups,
+    and high‑availability patterns.
+  - Background in Site Reliability Engineering (SRE) or
+    reliability‑focused engineering roles.
+  - Track record of building automation and eliminating manual
+    operational work.
+  - Experience mentoring senior engineers and shaping technical
+    strategy across multiple teams.
+
+
+
+  Software Engineering IC5 - The typical base pay range for
+  this role across the U.S. is USD $142,800 - $274,800 per
+  year. There is a different range applicable to specific work
+  locations, within the San Francisco Bay area and New York
+  City metropolitan area, and the base pay range for this role
+  in those locations is USD $188,000 - $304,200 per year.
+
+
+
+  Certain roles may be eligible for benefits and other
+  compensation. Find additional benefits and pay information
+  here: https://careers.microsoft.com/us/en/us-corporate-pay
+
+  This position will be open for a minimum of 5 days, with
+  applications accepted on an ongoing basis until the position
+  is filled.
+
+  Microsoft is an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to age, ancestry, citizenship, color, family or
+  medical care leave, gender identity or expression, genetic
+  information, immigration status, marital status, medical
+  condition, national origin, physical or mental disability,
+  political affiliation, protected veteran or military status,
+  race, ethnicity, religion, sex (including pregnancy), sexual
+  orientation, or any other characteristic protected by
+  applicable local laws, regulations and ordinances. If you
+  need assistance with religious accommodations and/or a
+  reasonable accommodation due to a disability during the
+  application process, read more about requesting
+  accommodations.
+industries:
+  - Software
+  - Quantum Computing
+  - Metaverse
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-10-19
+url: "https://builtin.com/job/principal-software-engineer-coreai/11561687"
+source: Built In

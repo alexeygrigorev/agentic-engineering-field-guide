@@ -1,0 +1,158 @@
+job_id: 11450542
+title: Senior Software Engineer - Developer Experience
+company: Filevine
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 450 Employees
+description: |
+  Filevine is a Legal AI company delivering Legal Operating
+  Intelligence for the future of legal work. Grounded in a
+  singular system of truth, Filevine brings together data,
+  documents, workflows, and teams into one unified
+  platform—where modern legal work happens with clarity and
+  consistency.
+
+
+
+  Powered by LOIS, the Legal Operating Intelligence System,
+  Filevine connects context across every matter to transform
+  legal operations from reactive to proactive. LOIS reads,
+  understands, and reasons across your data to surface
+  insight, automate complexity, and give professionals the
+  clarity and confidence to see more, know more, and do more.
+  Fueled by a team of exceptional collaborators and
+  innovators, Filevine’s rapid growth has earned AI awards and
+  recognition from Deloitte and Inc. as one of the most
+  innovative and fastest-growing technology companies in the
+  country.
+
+  Role Summary:
+
+  Every engineer pays a tax on slow builds, flaky tests,
+  manual release steps, and tooling they have to work around.
+  That tax compounds, and it’s paid by every team, every day,
+  and it never shows up on a roadmap. This role exists to pay
+  it down, so that everyone building software for legal teams
+  can ship faster.
+
+  Today the largest known cost is the path from commit to
+  production: GitLab CI for build, Octopus Deploy for release,
+  across .NET, Python, and Svelte. That’s where you’ll start,
+  and it isn’t where the job ends. The same mandate covers
+  developer platform work, internal tooling, and purpose-built
+  solutions for one team’s specific problem. What stays fixed
+  is the measure: how much faster we ship, and how much
+  friction you took out. You’ll have a strong hand in choosing
+  the means. This is a senior individual contributor role, and
+  your leverage comes from what you build and who you
+  persuade.
+
+  What You'll Do:
+
+  - Own and re-architect the path from commit to production, end
+    to end, across three language ecosystems. It’s the largest
+    single cost today and the first thing you’ll take on.
+  - Build internal tooling that engineers adopt because it’s
+    better, not because it’s mandated.
+  - Build the platform layer where it pays for itself: self-
+    service environments, paved paths, and shared
+    infrastructure that teams should stop solving separately.
+    Build one-off solutions where a single team’s problem
+    deserves a purpose-built answer.
+  - Expand our delivery metrics and use them to drive decisions
+    and report progress.
+  - Improve local development setup and onboarding, and bring
+    AI-assisted development into our workflow deliberately.
+
+  What You'll Need:
+
+  - Deep hands-on CI/CD ownership: you’ve designed and rebuilt
+    pipelines, not just consumed them.
+  - Real software engineering ability. This isn’t a
+    configuration role; you’ll write code your peers respect.
+  - Product sense for internal tools, and the ability to change
+    how engineers work without the authority to make them. You
+    treat engineers as users, you know the difference between
+    what they ask for and what they need, and you earn
+    adoption through better tools, clear writing, and
+    credibility from having shipped.
+  - Range across more than one language ecosystem at once:
+    several dependency caches, several test runners, one
+    coherent release process. We care that you’ve handled the
+    variety, not that you’ve handled ours.
+  - Fluency in how software delivery is measured: You know the
+    metrics well enough to instrument them, read them
+    honestly, and use them to choose what to work on. We make
+    decisions on data, not whim.
+  - Infrastructure-as-code and containerization in practice.
+
+  Nice To Have
+
+  - GitLab CI at scale (runner fleets, caching strategies,
+    reusable templates) or Octopus Deploy.
+  - Build systems for .NET/MSBuild, Python packaging, or modern
+    JavaScript build tooling.
+  - Experience with monorepo tooling, pipeline observability, or
+    security/compliance automation.
+  - Prior background working as a product/feature software
+    engineer
+
+  Compensation Information: $190k - $230k
+
+
+
+  The base salary range represents the low and high end of the
+  salary range for this position. The total compensation
+  package for this position will be determined by each
+  individual’s location, qualifications, education, work
+  experience, skills and performance. We believe in the
+  importance of pay equity - the range listed is just one
+  component of Filevine’s total compensation package for
+  employees. This position is also eligible for a paid time
+  off policy, as well as a comprehensive benefits package.
+
+
+
+
+
+
+
+  Cool Company Benefits:
+
+  - A dynamic, rapidly growing company, focused on helping
+    organizations thrive
+
+  - Medical, Dental, & Vision Insurance (for full-time
+    employees)
+
+  - Competitive & Fair Pay
+
+  - Maternity & paternity leave (for full-time employees)
+
+  - Short & long-term disability
+
+  - Opportunity to learn from a dedicated leadership team
+
+  - Top-of-the-line company swag
+
+
+
+  Privacy Policy Notice
+
+  Filevine will handle your personal information according to
+  what’s outlined in our Privacy Policy.
+
+
+
+  Communication about this opportunity, or any open role at
+  Filevine, will only come from representatives with email
+  addresses using "filevine.com". Other addresses reaching out
+  are not affiliated with Filevine and should not be responded
+  to.
+industries:
+  - Legal Tech
+  - Software
+posted_date: 2026-10-09
+url: "https://builtin.com/job/senior-software-engineer-developer-experience/11450542"
+source: Built In

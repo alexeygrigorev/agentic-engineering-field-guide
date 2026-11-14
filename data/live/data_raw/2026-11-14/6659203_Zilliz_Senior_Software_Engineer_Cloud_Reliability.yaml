@@ -1,0 +1,206 @@
+job_id: 6659203
+title: Senior Software Engineer, Cloud Reliability
+company: Zilliz
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 75 Employees
+description: |
+  About Zilliz
+
+  Zilliz is building the next generation of data
+  infrastructure for AI. Founded in 2017 by the creators of
+  Milvus, one of the world's most popular open-source vector
+  databases, we help developers and enterprises build, deploy,
+  and scale AI-powered applications, from semantic search and
+  RAG to emerging agentic AI workloads.
+
+
+
+  Backed by $113 million in funding from leading global
+  investors, Zilliz has established a strong presence in the
+  AI infrastructure market. Milvus has earned over 46,000
+  GitHub stars, and our technology has reached more than
+  10,000 enterprise users worldwide. Companies including
+  OpenEvidence, Exa, and Filevine rely on Zilliz Cloud to
+  power their AI applications.
+
+
+
+  Building on our roots in vector database technology, we're
+  expanding Zilliz Cloud into a broader AI data platform with
+  Zilliz Vector Lakebase. As AI continues to reshape how
+  applications are built and how data is used, we're focused
+  on making the underlying infrastructure more powerful,
+  scalable, and accessible to organizations worldwide.
+
+  About the Role
+
+  We're looking for a Senior Software Engineer focused on
+  Cloud Reliability to help scale the infrastructure behind
+  Zilliz Cloud.
+
+
+
+  As our customer base, data volumes, and production workloads
+  grow, we're tackling increasingly complex reliability
+  challenges across distributed database systems, Kubernetes,
+  and multi-cloud infrastructure.
+
+
+
+  You'll join our Cloud Platform team and work closely with
+  database and infrastructure engineers to keep our systems
+  reliable, performant, and efficient. The role combines
+  hands-on production ownership with software engineering,
+  from responding to critical incidents and diagnosing complex
+  failures to building the tools and automation that prevent
+  problems from recurring.
+
+
+
+  We're looking for someone who enjoys working deep in
+  production systems, takes ownership of difficult engineering
+  problems, and wants to have a direct impact on the
+  reliability of a growing cloud data platform.
+
+  What you will do:
+
+  - Own production reliability. Take responsibility for the
+    availability, stability, and operational health of Zilliz
+    Cloud, identifying reliability risks and driving
+    improvements as our infrastructure and customer workloads
+    scale.
+  - Participate in on-call and incident response. Take part in
+    production on-call rotations, respond to critical
+    incidents, investigate service disruptions, coordinate
+    with engineering teams, and drive timely mitigation and
+    recovery to minimize customer impact.
+  - Troubleshoot complex distributed systems. Diagnose
+    production issues across Kubernetes, cloud infrastructure,
+    networking, storage, and distributed database systems.
+    Investigate problems across multiple layers of the stack
+    and identify their underlying causes.
+  - Drive root cause analysis and incident prevention. Lead or
+    contribute to post-incident investigations, document
+    findings, and turn recurring failures into actionable
+    engineering improvements, whether through code changes,
+    better tooling, operational procedures, or improvements to
+    the underlying platform.
+  - Build automation and diagnostic tools. Develop software and
+    internal tooling for log analysis, alert correlation,
+    incident investigation, runbook automation, and
+    remediation workflows. Reduce repetitive operational work
+    and make production systems easier to diagnose, recover,
+    and maintain.
+  - Improve observability and operational visibility. Strengthen
+    monitoring, logging, tracing, and alerting across Zilliz
+    Cloud. Improve visibility into latency, availability,
+    throughput, resource utilization, and system health to
+    enable proactive detection and faster troubleshooting.
+  - Improve scalability and infrastructure efficiency. Identify
+    potential bottlenecks, capacity constraints, and
+    reliability risks as we grow across customers, clusters,
+    and workloads. Work on improvements that support scalable,
+    efficient, and reliable operations.
+  - Strengthen deployment safety and failure recovery. Partner
+    with Cloud Platform and database engineers to improve
+    production readiness, deployment reliability, rollback
+    capabilities, and recovery mechanisms. Help ensure new
+    platform and database capabilities can be operated safely
+    in production.
+  - Improve operational practices and knowledge sharing. Develop
+    and maintain runbooks, troubleshooting guides, and
+    operational documentation. Share production learnings
+    across engineering teams and help make our systems easier
+    to operate as the organization grows.
+
+  What we are looking for:
+
+  - 3+ years of experience building or operating production
+    cloud infrastructure, distributed systems, database
+    platforms, or large-scale online services.
+  - Strong software engineering skills in Go, Python, or similar
+    languages, with experience developing production tooling,
+    automation, or infrastructure services.
+  - Hands-on experience with Kubernetes, Docker, and at least
+    one major cloud platform (AWS, GCP, or Azure).
+  - Solid understanding of distributed systems, including
+    availability, scalability, performance, fault tolerance,
+    failure recovery, and operational tradeoffs.
+  - Strong troubleshooting skills across Linux, networking,
+    storage, and cloud infrastructure, with the ability to
+    investigate complex production issues across different
+    system layers.
+  - Experience supporting production services, participating in
+    incident response, and diagnosing reliability or
+    performance problems in live environments.
+  - Familiarity with modern infrastructure and observability
+    tools such as Terraform, Helm, Argo CD, Prometheus,
+    Grafana, and CI/CD systems.
+  - Strong analytical and problem-solving skills, with the
+    ability to move from immediate incident resolution to
+    sustainable engineering solutions.
+  - Ability to work independently, communicate clearly during
+    production incidents, and collaborate effectively with
+    engineers across teams and time zones.
+  - Bachelor's degree in Computer Science, Software Engineering,
+    or a related field, or equivalent practical experience.
+  - Experience with distributed databases, storage engines,
+    search systems, or other data-intensive infrastructure.
+  - Experience operating large-scale, highly multi-tenant
+    environments, including infrastructure fleets with
+    thousands of nodes, clusters, tenants, or customer
+    deployments.
+  - Experience with multi-cloud environments, service-level
+    objectives (SLOs), capacity planning, or reliability
+    engineering practices at scale.
+
+  How we operate:
+
+  - High ownership and autonomy. We trust engineers to take
+    responsibility for outcomes, not just individual tasks.
+    You'll have the opportunity to investigate problems across
+    system boundaries, influence engineering decisions, and
+    drive improvements through to production.
+  - Engineering over repetitive operations. We believe the best
+    way to improve reliability is to make systems easier to
+    operate. We invest in automation, reusable tooling, and
+    engineering solutions that reduce operational overhead as
+    we scale.
+  - Fast and pragmatic. We're a growing engineering team that
+    values speed, initiative, and thoughtful execution. We
+    move quickly while maintaining the technical discipline
+    needed to operate critical production infrastructure.
+  - Globally distributed collaboration. We work closely with
+    engineering teams across regions and time zones. Our on-
+    call model is designed around regional timezone coverage
+    rather than routine overnight paging, with occasional
+    early morning or evening collaboration to support our
+    global operations.
+
+  Benefits
+
+  - Comprehensive Health Coverage: Medical, dental, and vision
+    insurance plans for employees and eligible family members.
+  - Unlimited PTO: Flexible paid time off to rest, recharge, and
+    take care of personal needs.
+  - Competitive Compensation and Equity: Competitive cash
+    compensation and long-term incentive opportunities,
+    including stock options.
+  - 401(k) with Company Match: Retirement savings plan with
+    employer matching contributions.
+
+  Zilliz is an Equal Opportunity Employer. We consider all
+  qualified applicants for employment without regard to race,
+  color, religion, sex, sexual orientation, gender identity or
+  expression, national origin, age, disability, genetic
+  information, veteran status, or any other characteristic
+  protected by applicable law.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Database
+posted_date: 2026-08-06
+url: "https://builtin.com/job/senior-site-reliability-engineer-cloud-platform/6659203"
+source: Built In

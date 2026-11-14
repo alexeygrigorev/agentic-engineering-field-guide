@@ -1,0 +1,118 @@
+job_id: 11041536
+title: Software Engineer, Research Tools
+company: Thinking Machines Lab
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 91 Employees
+description: |
+  About Thinking Machines
+
+  The mission of Thinking Machines is to build AI that extends
+  human will and judgment. We are training frontier models
+  with Inkling, developing Tinker to let people make models
+  their own, and crafting interfaces that broaden human-AI
+  communication. We believe the future worth building is
+  human, and we're hiring people who want to build it.
+
+  About the Role
+
+  We are a team of full stack generalists with strong product
+  instincts who work closely with researchers. We build
+  systems that compound research and engineering velocity over
+  time. We own the internal platform researchers use every day
+  to manage and monitor training runs and evaluations, inspect
+  and debug model trajectories, and compare results on shared
+  leaderboards.
+
+  You’ll own key parts of this platform, including evaluation
+  and training libraries, experiment-tracking systems, and
+  visualization tools. You’ll identify researchers’ most
+  important bottlenecks and turn them into reliable,
+  generalizable systems. Our team is still small—expect to
+  participate in research meetings, build close relationships
+  with researchers, and gather feedback frequently to develop
+  conviction about where we should invest next.
+
+  This role requires technical judgment, close cross-
+  functional collaboration, and product intuition. Success
+  means researchers trust your systems to work, rely on them
+  every day, and find them genuinely delightful to use.
+
+  What You’ll Do
+
+  - Design, build, and maintain research infra, including
+    evaluation frameworks, training systems, experiment
+    tracking platforms, and visualization tools.
+  - Work across backend systems, data pipelines, and user-facing
+    applications to deliver tools end to end.
+  - Partner directly with researchers to identify bottlenecks
+    and unlock new capabilities. Treat research tooling as a
+    product: proactively gather feedback, set priorities, and
+    measure adoption.
+  - Build systems for reproducibility, traceability, and robust
+    quality control across research experiments and model
+    training runs, with monitoring and observability built in.
+
+  Skills and QualificationsMinimum qualifications
+
+  - A bachelor’s degree, or equivalent practical experience, in
+    computer science, engineering, machine learning, or a
+    related field.
+  - Two years of post-grad work experience as a software
+    engineer or ML engineer, exclusive of internships.
+  - Strong software engineering fundamentals and experience
+    building reliable, maintainable systems.
+  - Proficiency in at least one backend programming language; we
+    primarily use Python and Rust. We use React and Typescript
+    on the frontend.
+  - Experience working with databases, data warehouses
+    (Clickhouse), caching systems such as Redis, and other
+    data infra.
+  - Comfort working across the stack and owning projects from
+    initial problem discovery through deployment and
+    operation.
+  - Experience collaborating with cross-functional partners and
+    subject-matter experts.
+
+  Preferred qualifications
+
+  We encourage you to apply even if you meet only some of
+  these:
+
+  - A track record of building tools for researchers, improving
+    developer productivity, or creating technical products for
+    technical users.
+  - Experience building polished, intuitive user-facing
+    applications that demonstrate strong product judgment and
+    attention to detail on UI/UX.
+  - Experience at a startup or on a small team, building
+    technically complex products end to end.
+  - Experience building or maintaining ML research
+    infrastructure, such as training frameworks, evaluation
+    libraries, or experiment-tracking systems.
+  - Experience working closely with researchers to understand
+    and solve their tooling needs.
+
+  Logistics
+
+  - Location: This role is based in San Francisco, California or
+    New York, New York.
+  - Compensation: Depending on background, skills and
+    experience, the expected annual salary range for this
+    position is $300,000 - $350,000 USD.
+  - Visa sponsorship: We sponsor visas. While we can't guarantee
+    success for every candidate or role, if you're the right
+    fit, we're committed to working through the visa process
+    together.
+  - Benefits: Thinking Machines offers generous health, dental,
+    and vision benefits, unlimited PTO, paid parental leave,
+    and relocation support as needed.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-09-07
+url: "https://builtin.com/job/software-engineer-research-tools/11041536"
+source: Built In

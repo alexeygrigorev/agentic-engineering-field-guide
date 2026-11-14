@@ -1,0 +1,162 @@
+job_id: 12022331
+title: Senior Software Engineer, Pioneer Desktop
+company: SewerAI
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 38 Employees
+description: |
+  About SewerAI Corporation
+
+  SewerAI is transforming underground infrastructure
+  management through AI-powered inspection and risk analysis.
+  Our platform helps contractors, engineering firms, and
+  utilities unlock valuable insights from sewer inspection
+  data—turning hours of manual video review into actionable
+  intelligence in minutes. After doubling our customer base
+  over the past year, we’re now entering an exciting phase of
+  accelerated growth.
+
+  About the Role
+
+  We're looking for a Senior Software Engineer to develop
+  Pioneer Desktop alongside the Truck team lead. It's an
+  Electron app: our React web app, Pioneer, runs inside a
+  desktop shell that talks to the truck's hardware. The
+  operator drives the camera, records video, reads distance
+  and incline from the crawler controller, codes defects to
+  NASSCO standards, and syncs the inspection to the cloud once
+  the truck has signal.
+
+  Trucks are a hard place to run software. They run on
+  hardware we don't choose, from many manufacturers, often
+  with no internet connection. The operator isn't a software
+  person and has a crew waiting. If a recording fails, someone
+  drives back to the manhole.
+
+  Working with the Truck team lead, you'll contribute across
+  the desktop runtime: hardware integrations, video recording,
+  offline storage, sync, crash diagnostics, and the release
+  pipeline that gets software updates onto trucks safely.
+
+  What You'll Work On
+
+  Working alongside the Truck team lead, you'll:
+
+  - Connect Pioneer Desktop to inspection cameras, truck
+    equipment and sensors
+  - Make video recording reliable and inspection data safe, even
+    without internet access
+  - Improve cloud sync, app stability and software updates for
+    trucks in the field
+  - Work with Product, Design and the web team to make
+    operators' workflows simpler
+  - Help resolve customer issues and visit trucks and hardware
+    vendors to understand how the software is used
+
+  Who You Are
+
+  - You have 5+ years building production software, including
+    real time on desktop or hardware-connected applications.
+  - You've shipped a desktop app (Electron, Tauri, Qt, WPF or
+    native Windows) to users you can't SSH into. Auto-update,
+    code signing and crash reporting are familiar ground.
+  - Your TypeScript is strong, and you understand the Electron
+    process model: main, renderer, preload and utility
+    processes, and what belongs in each.
+  - You've talked to hardware: serial protocols, byte framing,
+    checksums, flaky USB and drivers that behave differently
+    on every machine.
+  - You can debug on Windows. You know your way around file
+    locks, path and locale quirks, Event Viewer, Process
+    Monitor and PowerShell.
+  - You design for failure. You assume the disk fills up, the
+    network drops, and Windows kills the process halfway
+    through a write.
+  - You can take a log from a customer you'll never meet and
+    work out what happened.
+  - You have strong product fundamentals: you understand user
+    needs, weigh tradeoffs, and focus on solving the right
+    problem for operators.
+  - You explain technical problems in plain language to
+    operators and field supervisors, and you listen when they
+    describe a bug in their own words.
+  - You follow through. When a truck in another state can't
+    record, you work with the Truck team lead and your
+    teammates to investigate the issue and see the fix
+    through.
+  - You use AI coding tools every day to optimize your workflow.
+
+  Technical Skills
+
+  - TypeScript
+  - Node.js
+  - Electron
+  - React
+  - Browser media APIs
+  - ffmpeg
+  - Understanding of serial communication
+  - Database fundamentals
+  - Windows internals and PowerShell
+  - Desktop app testing (Playwright for Electron, Vitest)
+  - AWS
+  - CI/CD (GitHub Actions)
+
+  Nice to Have
+
+  - C#/.NET, DirectShow or Media Foundation
+  - Rust and WebAssembly
+  - Crash analysis: minidumps, Crashpad or Breakpad, symbol
+    servers
+  - Windows installers and fleet management: WiX/MSI, Squirrel,
+    Intune, SCCM
+  - Code signing: Authenticode, EV certificates, cloud KMS
+  - Video capture and encoding: H.264, capture cards, RTSP
+  - GPS, NMEA and geospatial data
+  - NASSCO standards (PACP/MACP/LACP) and sewer inspection data
+  - CCTV inspection trucks, crawler controllers or other
+    industrial hardware
+  - Municipal utility, contractor or infrastructure customers
+
+  What You'll Gain
+
+  - The chance to help build a product that crews depend on
+    every working day, working alongside the Truck team lead
+  - Work that spans bytes on a serial wire, video pipelines,
+    Windows installers and React UI
+  - A short path from code to impact: you'll hear from the
+    operators who use your release
+  - Growth in a fast-moving company where you'll write processes
+    as well as code
+
+  Compensation & Benefits
+
+  - Base salary: $150,000–$205,000, plus equity
+  - Medical, dental, vision, basic life and 401(k)
+  - Unlimited PTO
+
+  This role requires about 5-10% travel for truck visits,
+  customer go-lives and team offsites.
+
+  Why Join SewerAI? Join the fastest-growing team in
+  wastewater tech and help modernize critical infrastructure
+  with AI. You’ll own high-visibility projects, influence how
+  our brand meets the market, and see your work drive
+  measurable impact for customers and communities.
+
+  ____________________________________________________________
+  ___________
+
+  SewerAI is proud to be an Equal Opportunity Employer. We are
+  committed to providing a workplace free from discrimination
+  or harassment on the basis of age, disability, sex, race,
+  religion or belief, gender reassignment, marriage/civil
+  partnership, pregnancy/maternity, or sexual orientation. All
+  your information will be kept confidential according to EEO
+  guidelines.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-11-03
+url: "https://builtin.com/job/senior-software-engineer-pioneer-desktop/12022331"
+source: Built In

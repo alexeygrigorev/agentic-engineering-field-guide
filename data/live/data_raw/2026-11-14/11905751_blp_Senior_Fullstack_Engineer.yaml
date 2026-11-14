@@ -1,0 +1,183 @@
+job_id: 11905751
+title: Senior Fullstack Engineer
+company: blp
+location: GBR
+locations:
+  - GBR
+  - ESP
+  - Zürich, CHE
+remote: true
+work_type: FULL_TIME
+company_size: 74 Employees
+description: |
+  Join BLP and help make the world’s business processes
+  autonomous!
+
+  Our agentic platform helps finance and operations teams
+  worldwide remove manual work from their core business
+  processes, so work runs end-to-end with greater control and
+  significant productivity gains.
+
+  Today, over 550 enterprise customers use BLP across 1,300+
+  deployed projects. In the processes we automate, customers
+  achieve productivity improvements of 5 to 10 times.
+
+  To date, BLP remains majority employee-owned, with Goldman
+  Sachs holding a minority stake as a growth investor. Our
+  success is driven by deep expertise in technology and
+  business processes, a superior product with strong product-
+  market fit, reflected in an expanding customer base that
+  includes Fortune 500 companies.
+
+  BLP is one of Switzerland's fastest-growing SaaS scale-ups;
+  we are now entering our next phase of growth. From our
+  headquarters on Zürich's Bahnhofstrasse, we're expanding
+  globally, with a growing presence across Europe and North
+  America.
+
+  Join us and help make autonomous operations the new
+  standard.
+
+  The team
+
+  At blp, dedicated engineering teams own individual products
+  such as invoices, customer orders, and order confirmations.
+  The Platform Team owns what all of them are built on: shared
+  services and APIs, the data access layer, and the component
+  and design system that shape how the product looks and
+  behaves.
+
+  The team's focus has been the frontend platform, and we are
+  now deliberately extending that ownership deeper into the
+  stack. You would be central to that shift, with real
+  influence over how the platform layer gets defined rather
+  than inheriting someone else's blueprint.
+
+
+
+  About the role
+
+  - What you'll do and for whom. You build and run the core
+    backend service our product teams rely on, from its APIs
+    and persistence layer to email, user provisioning, and
+    cross-tenant capabilities for large enterprises. Through
+    those teams, your work reaches the 20'000+ people who use
+    our Purchase-to-Pay and Order-to-Cash agents every day.
+  - Where you'll work. You join the Platform Team, about 10
+    engineers. At BLP, platform means the core of our product,
+    not internal infrastructure: the shared services, data
+    access layer, and design system that every product runs
+    on. You work closely with the senior backend engineer who
+    owns these areas today, in a large production Go codebase
+    with well-established patterns.
+  - What success looks like. In your first year, you own one
+    core area end-to-end, for example, user provisioning,
+    outbound email, cross-tenant capabilities, analytics, or
+    workflow configuration, from the Go service to the
+    customer using it.
+
+
+
+  What you'll do
+
+  - Build the service that product teams build on. Design,
+    build, and evolve the core APIs behind document
+    processing, approval workflows, administration, and
+    analytics, with clear contracts so product teams can ship
+    on top of them without workarounds.
+  - Own the persistence layer. Each tenant has its own isolated
+    MySQL database. You evolve the abstraction product teams
+    build on (a tenant-scoped unit of work, typed
+    repositories, and shared type-safe querying) so that
+    isolation, transactions, and permissions are right by
+    default.
+  - Scale BLP for large enterprises. Extend our cross-tenant
+    capabilities so customers with many subsidiaries and
+    business units can manage users, permissions, and
+    documents across all of them from one place, correctly,
+    securely, and fast.
+  - Own email, in and out. Own our email document ingestion and
+    outbound email services, including the audit trail and its
+    UI.
+  - Make setup self-service. Turn manual SSO, SCIM, and email
+    setups into migration tools and admin UIs that customers
+    and project managers can run on their own.
+  - Work with customers. Join onboarding calls with customer IT
+    teams and project managers, get their setups running, and
+    turn what you learn into better tooling.
+  - Own it end-to-end. From the Go service through the React UI
+    to production, including tracing, metrics, and incident
+    analysis after it ships.
+
+  Tech stack: Go, React/TypeScript, MySQL, Redis, Temporal,
+  Kubernetes on GCP and AWS, GitHub CI/CD, and OpenTelemetry
+  with Grafana, Prometheus, Tempo, and Parca for
+  observability.
+
+
+
+  We're excited about you because
+
+  - You have 4+ years of experience as a software engineer, with
+    most of that time spent building and operating backend
+    systems in production.
+  - You have 2+ years of professional Go experience, writing
+    services that run in production, not side projects.
+  - You've designed a backend service or API that other teams
+    depended on, and kept it reliable and evolvable as usage
+    grew.
+  - You work well across teams. You align with product,
+    integration, and infrastructure teams on contracts,
+    priorities, and rollouts, and you can explain technical
+    trade-offs to people who aren't engineers.
+  - You improve existing production systems step by step, and
+    you know when a rewrite isn't worth it.
+  - You have strong fundamentals in type systems, composition,
+    testing, and clean architecture, and you're comfortable
+    working in a codebase built on functional patterns.
+  - You're fullstack where it counts: you build on the
+    components and design system our frontend experts maintain
+    to ship admin UIs quickly, even though the backend is
+    where you do your deepest work.
+  - You think in products and take ownership. You translate
+    business problems into precise specifications, weigh cost
+    against benefit, work directly with customers when a setup
+    needs it, and stay responsible for what you ship after it
+    goes live.
+
+
+
+  Strong plus
+
+  - Experience with distributed systems, Kubernetes, Temporal,
+    or cloud infrastructure.
+  - Experience with user provisioning (SCIM) and SSO (OIDC).
+  - Experience running multi-tenant systems.
+  - Domain knowledge in ERP, finance, procurement, or supply
+    chain processes, or German language skills.
+
+  What you'll get
+
+  - Ownership of visible outcomes. The areas you own decide how
+    fast enterprise customers go live and how well BLP scales
+    with them.
+  - Impact at scale. Every improvement you ship to the product
+    core multiplies across all product teams and the 20'000+
+    people who use BLP daily.
+  - Senior scope from day one. You'll lead technical initiatives
+    and mentor engineers on a team that is actively growing
+    its backend ownership.
+
+  Learn more about BLP and our values at
+  blp.digital/company/careers.
+
+  Please note: Hybrid work in London office, or remote in
+  wider UK and Europe.
+industries:
+  - Artificial Intelligence
+  - Logistics
+  - Software
+  - Automation
+posted_date: 2026-10-27
+url: "https://builtin.com/job/senior-fullstack-engineer/11905751"
+source: Built In

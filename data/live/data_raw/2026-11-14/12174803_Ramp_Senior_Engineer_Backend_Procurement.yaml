@@ -1,0 +1,191 @@
+job_id: 12174803
+title: Senior Engineer, Backend, Procurement
+company: Ramp
+location: New York, USA
+work_type: FULL_TIME
+company_size: 450 Employees
+description: |
+  About Ramp
+
+  Ramp is building the smart infrastructure for finance teams,
+  embedded in the transaction flow of every dollar a business
+  spends. We automate how over $275B in annualized spend flows
+  in and out of 85,000+ companies: authorizing payments,
+  flagging risk, categorizing spend, and closing books.
+
+  The problems are high-stakes, data-dense, and unforgiving.
+
+  We hire people with high agency and high urgency. We look
+  for slope over intercept. We care less about where you
+  trained and more about what you’ve built. At Ramp, everyone
+  is a builder who owns problems end to end and makes
+  consequential decisions that shape the outcome.
+
+  The median Ramp customer saves 7.5% and grows revenue 16% in
+  their first year – far in excess of businesses operating
+  without Ramp. We believe every ambitious company deserves
+  the same.
+
+  If you want to build systems that directly shape how
+  companies move and manage billions, Ramp is the place to do
+  it.
+
+  About the Role
+
+  Buying software and services is still slow and fragmented at
+  most companies. Employees don't know how to request what
+  they need, approvals stall across finance, legal, and
+  security, purchase orders live in a separate system from the
+  bills that pay them, and finance teams spend month-end
+  matching it all together by hand.
+
+  Ramp's Procurement team builds the system that connects
+  every step of that process, from the first purchase request
+  through sourcing, approvals, purchase orders, receiving, and
+  matching bills and contracts back to what was ordered.
+  Procurement sits upstream of payments and works closely with
+  Bill Pay, Accounting, and ERP integrations, so the systems
+  we build shape how money leaves a business long before a
+  payment goes out.
+
+  We're looking for a senior backend engineer to own a core
+  part of that system. You'll take responsibility for a
+  product area such as the purchase order lifecycle, PO and
+  bill matching, PO coding and accruals, or supplier and ERP
+  integrations, set its technical direction within the team,
+  and keep it healthy as customers and complexity grow. You'll
+  work closely with product, design, and data partners to turn
+  enterprise purchasing workflows into software that is
+  flexible, auditable, and simple to use.
+
+  What You'll Do
+
+  - Own the design and evolution of a core Procurement system,
+    such as purchase orders, receiving, or PO, bill, and
+    contract matching, from technical design through launch,
+    monitoring, and iteration
+  - Build flexible request, intake, and approval workflows that
+    handle the policies, approval chains, and audit
+    requirements of complex organizations
+  - Design data models that keep purchase orders, receipts,
+    bills, and accounting data accurate and traceable from
+    request to payment
+  - Build and improve integrations with ERPs and supplier
+    systems that stay consistent through retries, partial
+    failures, and edits on either side
+  - Help build AI-assisted features, such as automated PO coding
+    and intelligent matching, that reduce manual work for
+    finance and procurement teams
+  - Drive technical direction for your area, connecting long-
+    term system health to the team's roadmap
+  - Work cross-functionally with product, design, and data, and
+    with partner teams across Bill Pay, Accounting, to ship
+    features across the full procurement lifecycle
+  - Raise the engineering bar through design reviews, code
+    reviews, and mentorship
+
+  What You'll Need
+
+  - Experience designing, building, and operating production
+    backend systems, including APIs, data models, and
+    asynchronous workflows
+  - A track record of owning a system or product area end to
+    end: spotting problems before they are assigned, proposing
+    the fix & working with relevant stakeholders, and shaping
+    the area's technical direction over time
+  - Strong system design judgment, especially around data
+    correctness, auditability, and keeping complex workflows
+    understandable
+  - Product sense: you care about the customer problem, can work
+    through ambiguous enterprise requirements, and push back
+    when the spec is wrong
+  - Clear communication and a collaborative approach to
+    technical decisions across product, design, and
+    engineering
+
+  Nice to Haves
+
+  - Experience with procurement, purchasing, accounts payable,
+    or other B2B finance workflows
+  - Experience building integrations with ERPs or other systems
+    of record, such as NetSuite, QuickBooks, or Sage Intacct
+  - Experience integrating with punchout catalogs, cXML, and
+    other supplier facing integrations
+  - Experience building configurable workflow or approval
+    engines for enterprise customers
+  - Experience applying LLMs or other automation to structured
+    business workflows
+
+  Benefits available to all full-time Ramp employees (Global)
+
+  - Flexible PTO
+  - Centralized home-office equipment ordering
+  - Health and wellness stipend
+  - Budget for intra-office travel
+  - Weekly coffee stipend
+
+  United States
+
+  - 100% medical, dental & vision insurance coverage for you,
+    with partial coverage for dependents
+  - One Medical annual membership
+  - 401(k), including employer match on contributions made while
+    employed by Ramp
+  - Fertility HRA (up to $10,000 per year)
+  - Parental leave: up to 16 weeks (birthing + bonding) or 8
+    weeks (bonding only) at 100% pay
+  - Pet insurance
+  - In-office perks: lunch, snacks, drinks, and more
+  - Relocation expense coverage to NYC or SF (if needed)
+
+  Canada
+
+  - Group medical, dental, and vision coverage through Sun Life
+  - Life, AD&D, and disability coverage
+  - Fertility drug coverage (up to $4,000 lifetime)
+  - Group Retirement Plan with employer match (RRSP + DPSP)
+  - Parental leave: up to 16 weeks (birthing + bonding) or 8
+    weeks (bonding only) at 100% pay, with additional time
+    available at reduced pay
+  - Employee Assistance Program and virtual care through Lumino
+    Health
+
+  United Kingdom
+
+  - Private medical insurance through Freedom Elite
+  - Virtual GP and at-home care via eMed x Livi
+  - Workplace pension through Penfold, with salary sacrifice
+    option
+  - Parental leave: up to 16 weeks (birthing + bonding) or 8
+    weeks (bonding only) at 100% pay with additional time
+    available at reduced pay
+
+  Referral Instructions
+
+  If you are being referred for the role, please contact that
+  person to apply on your behalf.
+
+
+
+  Other notices
+
+  Pursuant to the San Francisco Fair Chance Ordinance, we will
+  consider for employment qualified applicants with arrest and
+  conviction records.
+
+
+
+  Beware of recruiting scams: Ramp will only contact you
+  through official @Ramp.com email addresses and will never
+  ask for payment or sensitive personal information during the
+  hiring process.
+
+
+
+  Ramp Applicant Privacy Notice
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-11-11
+url: "https://builtin.com/job/senior-engineer-backend-procurement/12174803"
+source: Built In

@@ -1,0 +1,153 @@
+job_id: 11364859
+title: Senior Software Engineer
+company: ComPsych
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 851 Employees
+description: |
+  About ComPsych
+
+  ComPsychⓇ is the worldwide leader in organizational mental
+  health, well-being, and absence management, dedicated to
+  igniting human potential in workplaces across the globe. For
+  over 40 years, we have combined the best in technology with
+  unmatched human expertise to help individuals and their
+  organizations thrive. Our GuidanceResourcesⓇ and
+  AbsenceResourcesⓇ solutions deliver end-to-end mental
+  health, well-being, work-life, health navigation, and
+  absence support to more than 75,000 customers worldwide,
+  touching more than 160 million lives across 200 countries.
+  Visit compsych.com to find out why 40% of the Fortune 500
+  choose ComPsych for their mental health and absence
+  management needs.
+
+  About the Role
+
+  We're modernizing how ComPsych builds technology — new
+  customer-facing web and mobile experiences, a unified design
+  system, and AI-powered capabilities across our products.
+  That means raising the engineering bar for how we design,
+  build, and operate software, with Engineering, Product, and
+  Design working together end to end.
+
+  We're looking for a Senior Software Engineer who has hands-
+  on experience with modern, AI-led development practices and
+  wants to help shape how our engineering organization builds
+  software going forward. This is a high-leverage role: you'll
+  spend more time on system design, task decomposition, and
+  technical direction than on writing code line-by-line.
+  You'll use AI tools to generate code, automated tests, and
+  first-pass reviews, then apply your own judgment to validate
+  and refine that output before it ships.
+
+  What You'll Do
+
+  AI changes what your time goes toward. You're still
+  accountable for the full lifecycle — planning, design, code,
+  tests, review, production — but your hands-on role in each
+  shifts:
+
+  - Plan and design as your core contribution. You own problem
+    framing, sequencing, and tradeoffs with Product and
+    Design, and the system design that follows — the data
+    model, the API contracts, the failure modes.
+  - Direct implementation rather than writing it line by line.
+    Decompose the work, write the specs, and let AI agents
+    build — dropping into the code yourself when debugging or
+    complexity demands it.
+  - Own testing as a design decision. You decide what needs
+    coverage and at what level, direct AI to build it, and
+    validate that the tests prove what they claim — not just
+    that they pass.
+  - Build security, reliability, and observability in from the
+    start. They're design inputs, not production afterthoughts
+    — the systems you ship can be operated safely and
+    understood when they fail.
+  - Review everything with the same rigor, regardless of author,
+    and keep production judgment human. You're accountable for
+    what ships whether you or an agent wrote it. Deployment
+    calls, on-call response, and what an incident teaches you
+    stay yours.
+  - Raise the bar for how the team works with AI, coaching
+    engineers to specify, delegate, and validate rather than
+    hand-code everything themselves.
+
+  What We're Looking For
+
+  - Deep server-side experience in a modern language such as
+    Java, Python, C#, Kotlin, or Go. You've owned services end
+    to end, not just features inside someone else's, and can
+    pick up ours quickly.
+  - Must have 5+ years of full stack development experience.
+  - APIs and data models other people depend on: REST contracts,
+    versioning, OAuth2/OIDC, schema design, and SQL that holds
+    up under real load.
+  - Async and event-driven systems in production — Kafka or
+    comparable, idempotency, and a clear view of what at-
+    least-once costs you downstream.
+  - You've built and operated production systems at real scale
+    on AWS or Azure — containers, Kubernetes or serverless,
+    IaC, and CI/CD pipelines you've built, operated, or
+    materially improved. You've carried the on-call load for
+    them, so you know what “good” looks like independent of
+    who or what wrote the code.
+  - A testing strategy you can defend — what belongs at unit,
+    integration, and contract level, and how you know a
+    release is verifiable before it ships.
+  - Reliability and security you've been accountable for: SLOs
+    you’ve been paged against, incidents you led, OWASP and
+    threat modeling applied — and PHI/HIPAA or comparable
+    regulated-data experience.
+  - Agentic AI is your primary development surface, and you
+    catch what it gets subtly wrong. Not occasional
+    autocomplete, not a hunch — you've shipped and operated
+    real production systems working this way, and can point to
+    what you caught before it shipped.
+
+  Bonus: LLM application engineering (RAG, retrieval quality,
+  evals, LLM observability), or modern TypeScript frontend
+  work against a design system.
+
+  Compensation and Benefits
+
+  - Full benefits package, including Paid Time Off (PTO),
+    medical, dental, vision, 401(k) with match, robust EAP,
+    wellness program, and much more
+  - The salary range for this position is $150,000 - $200,000
+    (USD). The base salary range represents the anticipated
+    low end and high end of the range for this position. The
+    actual compensation will be influenced by a wide range of
+    factors including, but not limited to previous experience,
+    education, pay market/geography, and scheduled hours.
+
+  EEO
+
+  ComPsych is an equal opportunity employer.  All applicants
+  will be considered for employment regardless of race, color,
+  age, genetics, religion, gender, sexual orientation, gender
+  identity, national origin, disability or protected veteran
+  status and any other characteristic protected by federal,
+  state or local laws. ComPsych Corporation maintains a drug
+  free workplace.
+
+  ComPsych Corporation and its affiliates is committed to the
+  responsible and transparent handling of your personal data.
+  Information collected during the recruitment process will be
+  used to assess your application and, where applicable, to
+  prepare and administer an offer of employment. Your personal
+  data will be processed in accordance with the privacy laws
+  applicable in your country or jurisdiction of residence,
+  which may include the California Consumer Privacy Act
+  (CCPA), the EU General Data Protection Regulation (GDPR),
+  Canada's Personal Information Protection and Electronic
+  Documents Act (PIPEDA) and applicable provincial privacy
+  legislation, and other applicable national or local privacy
+  laws. For full details on what personal data we collect, how
+  we use it, your rights as an Applicant, and how to contact
+  us with privacy-related questions, please review the
+  relevant Applicant Data Privacy Notices: US Applicant Data
+  Privacy Notice & Canada Data Privacy Notice.
+posted_date: 2026-09-24
+url: "https://builtin.com/job/senior-software-engineer/11364859"
+source: Built In

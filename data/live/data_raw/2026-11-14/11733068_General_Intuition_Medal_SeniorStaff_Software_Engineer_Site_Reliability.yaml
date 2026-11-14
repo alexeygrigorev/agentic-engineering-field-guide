@@ -1,0 +1,71 @@
+job_id: 11733068
+title: "Senior/Staff Software Engineer – Site Reliability & Infrastructure"
+company: "General Intuition & Medal"
+location: New York, USA
+work_type: FULL_TIME
+company_size: 41 Employees
+description: |
+  About The Company
+
+  General Intuition is the frontier lab for acting in space
+  and time. We build large action models and world models that
+  can perceive, predict, and act across virtual and physical
+  environments. General Intuition builds on the strength of
+  Medal, the world's largest and fastest-growing platform for
+  gaming clips, where millions of gamers capture, share, and
+  discover new games every year. We've raised over $650M from
+  Khosla, GC, Valor, and Point72 since October 2025, and
+  recently closed our latest round at a $6.2B valuation.
+
+  The Role
+
+  Medal's infrastructure handles billions of clips, video
+  ingestion pipelines, and social features at a massive scale
+  most engineers never get to touch. The work centers on
+  reliability, incident response, scaling, and making sure our
+  infrastructure keeps up with our growth. You'll own the on-
+  call rotation, drive postmortems, and work directly with
+  engineering teams to meet their infra needs. The right
+  person probably came through startups and scale-ups and has
+  been in the room when things broke at 2am, has scaled
+  databases under pressure.
+
+  What We're Looking For
+
+  - Infrastructure-as-code: Strong fluency in Terraform, with
+    real experience owning infrastructure-as-code at scale
+  - Elastic search depth: Hands-on experience running ES for
+    user-facing features, not just as a log sink
+  - GCP depth: Kubernetes, VPC, IAM, Cloud Logging, and the
+    managed services ecosystem
+  - Database scaling: Deep, hands-on experience scaling and
+    sharding relational databases (MySQL, Postgres) in
+    production
+  - Incident response instincts: You can work a P0 calmly,
+    communicate clearly under pressure, and run a postmortem
+    that prevents recurrence
+  - CI/CD: You've worked with GitHub Actions in a production
+    environment
+  - Communication (crucial!): You flag issues clearly and
+    rapidly during incidents and lead/write actionable
+    postmortems
+  - Experience at startups: You are comfortable in an
+    environment of rapid growth where scaling up is a priority
+  - Great judgment: You know the difference between a durable,
+    sustainable fix and a patch that buys you a week
+
+  Our Stack
+
+  Electron, React, Redux, Styled Components & other modern
+  web-based technologies C# and C++ for native Windows
+  recording & more Swift for iOS, Kotlin for Android Java,
+  Redis, RabbitMQ, Kubernetes for backend Terraform, Salt,
+  GitHub Actions, CircleCI for IaC and CI/CD
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Generative AI
+posted_date: 2026-10-17
+url: "https://builtin.com/job/senior-staff-software-engineer-site-reliability-infrastructure/11733068"
+source: Built In

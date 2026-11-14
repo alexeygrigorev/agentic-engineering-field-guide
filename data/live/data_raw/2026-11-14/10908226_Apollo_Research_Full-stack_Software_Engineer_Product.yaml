@@ -1,0 +1,170 @@
+job_id: 10908226
+title: Full-stack Software Engineer (Product)
+company: Apollo Research
+location: San Francisco, USA
+locations:
+  - San Francisco, USA
+  - London, GBR
+work_type: FULL_TIME
+company_size: 28 Employees
+description: |
+  THE OPPORTUNITY
+
+  We are building Watcher, a coding agent security product.
+  Watcher is deployed in production and monitors billions of
+  agent tokens per month across engineering teams at agent-
+  building scale-ups and enterprises. We are looking for a
+  product engineer to build and scale Watcher end to end.
+
+  This role includes backend and frontend components. You will
+  own features across the full stack, from agent hooks and
+  ingestion pipelines to monitoring dashboards and enterprise
+  integrations. You can expect to  own features from customer
+  conversation to production deployment.
+
+  This is truly a “start-up role”: you will own big chunks of
+  the product, make decisions fast, and ship at high volume.
+  You will join a small team with significant ability to shape
+  the product and tech, and you can earn more responsibility
+  quickly. This is an individual contributor role but could
+  lead to management responsibilities eventually, if desired.
+
+  KEY RESPONSIBILITIES
+
+  - Design, build, and ship Watcher features across the stack:
+    agent-side hooks and CLI tooling, ingestion and grading
+    pipelines, real-time monitoring UI (Watcher Live), and the
+    organization-wide Analyzer dashboard.
+  - Own features end to end, from ambiguous requirements to
+    production: talk to users, scope the work, make the
+    technical decisions, put that into production, and iterate
+    based on usage.
+  - Build Watcher integrations:  We currently support Claude
+    Code and Codex, but we’re planning on increasing our
+    coverage to other coding agents, LLM gateways, and
+    anywhere that could benefit from agent monitoring.
+  - Build the policy and configuration layer that lets security
+    teams set org-wide guardrails for  engineers to operate
+    safely within.
+  - Turn monitoring research (new monitors, grading strategies,
+    backtesting results) into production-ready product
+    features. We are "our own customer": You will use the
+    product you build every day.
+  - Design and operate backend systems that process large
+    volumes of agent logs in real time.
+  - Own reliability: robust error handling, graceful
+    degradation, and observability (logging, metrics, tracing,
+    alerting). We should catch issues before customers do.
+  - Architect data models and storage that handle both high-
+    throughput writes and complex analytical queries over
+    historical trajectories. Retention policies have to fit
+    highly sensitive customer data.
+  - Make sure Watcher is safe to deploy: Work with our AI
+    Security & Control Engineer on tenant isolation,
+    encryption, and access controls. Watcher touches some of
+    the most sensitive data our customers have.
+  - Build and maintain integrations with the enterprise security
+    stack, e.g. streaming monitoring alerts into SIEM systems
+    and existing security operations workflows.
+  - Support flexible deployment models: cloud-hosted, on-prem,
+    and local backends, so sensitive agent logs never have to
+    leave customer control.
+  - Talk to customers, debug issues in their environments, and
+    feed what you learn back into the roadmap.
+
+  REPRESENTATIVE PROJECTS
+
+  JOB REQUIREMENTS
+
+  BENEFITS
+
+  LOGISTICS
+
+  ABOUT THE TEAM
+
+  The product team consists of product engineers: Jeremy
+  Neiman, Zak Walters, Zen van Riel, Srdjan Miletic and
+  Gustavo Bicalho; research scientists: Victor Gillioz, Monika
+  Jotautaitė, Dmitrii Volkov; and our GTM lead: Kyle Dai.
+  Marius Hobbhahn (CEO) advises the team. Furthermore you will
+  interact with our other SWEs and researchers, since we
+  intend to be "our own customer" by using our products
+  internally for our research work. You can find our full team
+  here.
+
+  ABOUT APOLLO RESEARCH
+
+  The rapid rise in AI capabilities offers tremendous
+  opportunities, but also presents significant risks. At
+  Apollo Research, we're primarily concerned with risks from
+  Loss of Control, i.e. risks coming from the model itself
+  rather than e.g. humans misusing the AI. We're particularly
+  concerned with deceptive alignment / scheming, a phenomenon
+  where a model appears to be aligned but is, in fact,
+  misaligned and capable of evading human oversight.
+
+  We work on the science of scheming, detection of scheming
+  (e.g. building evaluations), and scheming mitigations (e.g.
+  anti-scheming). We also work on control and monitoring
+  research (see our scalable monitoring agenda). We work
+  closely with many frontier AI companies, such as OpenAI,
+  Anthropic, Google, Meta, Thinking Machines and others, e.g.
+  to test their models and collaborate on the science of
+  scheming. At Apollo, we aim for a culture that emphasizes
+  truth-seeking, being goal-oriented, giving and receiving
+  constructive feedback, and being friendly and helpful. If
+  you're interested in more details about what it's like
+  working at Apollo, you can find more information here.
+
+  We also build a coding agent security product called Watcher
+  that secures agent deployments in companies. Our goal is to
+  reduce the probability of catastrophic incidents by securing
+  coding agents, learning about their real-world risks, and
+  publishing our research on how to build these control
+  systems most effectively.
+
+  Equality Statement: Apollo Research is an Equal Opportunity
+  Employer. We value diversity and are committed to providing
+  equal opportunities to all, regardless of age, disability,
+  gender reassignment, marriage and civil partnership,
+  pregnancy and maternity, race, religion or belief, sex, or
+  sexual orientation.
+
+  HOW TO APPLY
+
+  Please complete the application form with your CV. The
+  provision of a cover letter is neither required nor
+  encouraged. Please also feel free to share links to relevant
+  work samples.
+
+  About the interview process: Our multi-stage process
+  includes a screening interview, a take-home test (3 hours),
+  3 technical interviews, and a final interview with Marius
+  (CEO). There are no leetcode-style general coding
+  interviews. You may use AI tools on the take-home; we judge
+  the result the way we'd judge any contributor's work, so you
+  are responsible for the quality of everything you submit. If
+  you want to prepare, we suggest building simple monitors for
+  coding agents and running them on your own Claude Code /
+  Cursor / Codex / etc. traffic.
+
+  Your Privacy and Fairness in Our Recruitment Process: We are
+  committed to protecting your data, ensuring fairness, and
+  adhering to workplace fairness principles in our recruitment
+  process. To enhance hiring efficiency, we use AI-powered
+  tools to assist with tasks such as resume screening. These
+  tools are designed and deployed in compliance with
+  internationally recognized AI governance frameworks. Your
+  personal data is handled securely and transparently. All
+  resumes are screened by a human and final hiring decisions
+  are made by our team. If you have questions about how your
+  data is processed or wish to report concerns about fairness,
+  please contact us at info@apolloresearch.ai.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Security
+  - Software
+posted_date: 2026-08-28
+url: "https://builtin.com/job/full-stack-software-engineer-product/10908226"
+source: Built In

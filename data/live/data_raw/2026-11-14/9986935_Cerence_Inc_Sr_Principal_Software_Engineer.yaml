@@ -1,0 +1,265 @@
+job_id: 9986935
+title: Sr. Principal Software Engineer
+company: Cerence Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,288 Employees
+description: |
+  AI That Moves the World. Careers That Move You Forward. At
+  Cerence AI, you’ll help transform advanced AI into trusted,
+  real-world solutions that make complex technology – think
+  vehicles, robots, smart manufacturing, and emerging
+  intelligent devices – more natural, reliable, and useful.
+  Building on decades of innovation and global deployment in
+  automotive, we are extending our expertise into new
+  products, markets, and intelligent systems.
+
+  As part of our global team, you’ll work alongside leading
+  innovators, researchers, engineers, and business leaders to
+  solve meaningful challenges and turn breakthrough ideas into
+  technology people use every day. You’ll have the opportunity
+  to make a visible impact, help shape Cerence AI’s next
+  chapter, and move your own career forward.
+
+  Who is Cerence AI?
+
+  Cerence AI is the global leader in AI for transportation,
+  specialized in building AI and voice-powered companions for
+  cars, two-wheelers, and more that enable people to focus on
+  what matters most. With over 500 million cars shipped with
+  Cerence AI's technology, we partner with leading automakers
+  (such as Volkswagen, Mercedes, Audi, Toyota and many more),
+  mobility providers, and technology companies to power
+  intuitive, integrated experiences that create safer, more
+  connected, and more enjoyable journeys for drivers and
+  passengers alike.
+
+  Our Driving Force
+
+  Our team is dedicated to pushing the boundaries of AI
+  innovation, working around the globe with headquarters in
+  Burlington, Massachusetts, USA and 16 other offices across
+  Europe, Asia, and North America. We bring together diverse
+  backgrounds, and varied skill sets with the shared goal of
+  advancing the next generation of transportation user
+  experiences. Our culture is customer-centric, collaborative,
+  fast-paced, and fun, with continuous opportunities for
+  learning and development to support your career growth.
+
+  Interested in having a significant impact in a dynamic
+  industry with a high-performing global team? We’re looking
+  for an exceptional Senior Principal Software Engineer who is
+  ready to drive the future of mobility with us!
+
+  Job Description:
+
+  What You Will Work On
+
+  - Optimize and deploy high‑performance LLM inference pipelines
+
+  - Own inference runtimes across data center, edge, and
+    embedded platforms
+
+  - Push model performance through quantization, kernel fusion,
+    and cache optimization
+
+  - Drive latency and throughput improvements that
+    directly impact production products
+
+  - Enable efficient, reliable deployment without external
+    vendor dependency
+
+  Core Responsibilities
+
+  Inference Engines & Runtime
+
+  - Build deep expertise and ownership of:
+
+  - vLLM
+
+  - TensorRT‑LLM
+
+  - llama.cpp
+
+  - QAIRT
+
+  - Extend and tune inference engines using custom CUDA kernels
+
+  - Adapt runtimes for constrained and embedded deployment
+    environments
+
+  Quantization & Numerical Optimisation
+
+  - Implement and evaluate quantisation strategies:
+
+  - INT8, INT4, FP4, FP8, mixed precision
+
+  - AWQ
+
+  - GPTQ
+
+  - Balance accuracy, latency, memory footprint, and throughput
+
+  KV Cache Optimization
+
+  - Optimize key–value cache performance through:
+
+  - Paging
+
+  - Prefix caching
+
+  - Cache‑aware memory layout design
+
+  - Reduce memory pressure while sustaining high throughput
+
+  Latency & Throughput Optimisation
+
+  - Design and tune:
+
+  - Batching strategies
+
+  - Continuous batching
+
+  - Speculative decoding
+
+  - Optimize tail latency and tokens/sec under real production
+    traffic patterns
+
+  What Success Looks Like
+
+  - Models deploy efficiently on edge and embedded devices, not
+    just servers
+
+  - Tokens/sec significantly outperform baseline implementations
+
+  - End‑to‑end latency is minimized and predictable
+
+  - Inference cost per request is materially reduced
+
+  - The company is no longer dependent on partners for inference
+    optimization
+
+  Required Experience & Skills
+
+  Strongly Required
+
+  - Proven experience optimizing ML inference performance in
+    production
+
+  - Deep understanding of GPU architecture and memory
+    hierarchies
+
+  - Hands‑on experience with CUDA and low‑level performance
+    tuning
+
+  - Experience deploying models beyond research environments
+
+  Critical Technical Skills
+
+  - Inference engines: vLLM, TensorRT‑LLM, llama.cpp, QAIRT
+
+  - CUDA kernel development and profiling
+
+  - Quantisation techniques: INT8/INT4/FP4/FP8, AWQ, GPTQ
+
+  - KV cache optimisation and memory layout design
+
+  - Latency optimisation: batching, speculative decoding,
+    continuous batching
+
+  Common Problems You’ll Be Solving
+
+  - Deploy efficiently on edge or embedded targets
+
+  - Achieve competitive tokens/sec
+
+  - Reduce and stabilize inference latency
+
+  You will be responsible for closing these gaps, creating a
+  major competitive advantage.
+
+  What we offer
+
+  We offer a generous compensation and benefits package (in
+  addition to the base salary), including:
+
+  - Salary range $185,000.00 USD - $280,000.00 USD It is not
+    typical for offers to be made at or near the top of the
+    range. The actual salary will be determined based on
+    experience and other job-related factors.
+
+  - Annual bonus opportunity
+
+  - Insurance coverage (medical, dental, vision, life, and
+    disability)
+
+  - Paid time off
+
+  - Paid holidays
+
+  - Company contribution to the 401K
+
+  - Equity awards for certain positions and levels
+
+  - Remote and/or hybrid work available depending on the
+    position
+
+  All compensation and benefits are subject to the terms and
+  conditions of the underlying plans or programs, as
+  applicable, and may be amended, terminated, or replaced from
+  time to time.
+
+  Cerence AI (NASDAQ: CRNC) helps people and intelligent
+  systems work together naturally and reliably. Proven at
+  global scale in automotive, Cerence provides the trusted
+  interaction and action layer connecting people, machines,
+  and intelligent systems. Its AI platform enables natural
+  interaction and dependable action across complex real-world
+  environments where reliability, safety, security, and
+  performance are critical. Working with customers and
+  partners worldwide, Cerence transforms advanced AI into
+  trusted solutions that bridge the gap between AI potential
+  and real-world performance.
+
+  For more information, visit www.cerence.ai.
+
+  EQUAL OPPORTUNITY EMPLOYER
+
+  Cerence is firmly committed to Equal Employment Opportunity
+  (EEO) and to compliance with all federal, state and local
+  laws that prohibit employment discrimination on the basis of
+  age, race, color, gender, gender identity, gender
+  expression, sex, sex stereotyping, pregnancy, national
+  origin, ancestry, religion, physical or mental disability,
+  medical condition, marital status, citizenship status,
+  sexual orientation, protected military or veteran status,
+  genetic information and other protected classifications.
+  Cerence Equal Employment Opportunity Policy Statement.
+
+  All prospective and current Employees need to remain
+  vigilant when it comes to executing security policies in the
+  workplace. This includes:
+
+  - Following workplace security protocols and training programs
+    to familiarize with the ways to maintain a safe workplace.
+  - Following security procedures to report any suspicious
+    activity.
+  - Having respect for corporate security procedures to allow
+    those procedures to be effective.
+  - Adhering to company's compliance and regulations.
+  - Encouraging to follow a zero tolerance for workplace
+    violence.
+
+  - Basic knowledge of information security and data privacy
+    requirements (e.g., how to protect data & how to be
+    handling this data).
+
+  - Demonstrative knowledge of information security through
+    internal training programs.
+industries:
+  - Automotive
+  - Other
+posted_date: 2026-08-20
+url: "https://builtin.com/job/sr-principal-software-engineer/9986935"
+source: Built In

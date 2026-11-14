@@ -1,0 +1,207 @@
+job_id: 10685812
+title: Software Engineer, Frontend (React)
+company: Plane
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 77 Employees
+description: |
+  About Plane
+
+  Plane's mission is to build the infrastructure the world's
+  work runs on. Every organization runs on three things: the
+  projects it's driving, the knowledge it keeps, and the
+  requests it fields. Plane brings all three into one open,
+  adaptable platform: simple enough for any team to adopt,
+  dependable enough for organizations to build on. And we are
+  building it for a future where humans and AI agents do that
+  work together.
+
+  Plane began in public on GitHub at the end of 2022. Since
+  then it has grown into a work management platform used by
+  teams around the world: 55,000+ stars, 5,000+ forks, and a
+  contributor community that reads our code and files our
+  issues. Organizations run Plane as a managed Cloud service,
+  on their own infrastructure, or inside fully isolated
+  environments. Building in the open keeps us close to users
+  and raises the standard for everything we ship.
+
+  Plane is the #1 work infrastructure in aerospace, defense,
+  financial services, and other regulated industries:
+  organizations whose requirements for control, auditability,
+  and data residency rule most software out. When the
+  strictest buyers pick a system of record, that choice means
+  something. Adoption is growing fastest on Plane Cloud and in
+  sovereign clouds, deployments that keep everything inside a
+  country's own borders and rules.
+
+  Plane is backed by top investors and built across San
+  Francisco, London, and Hyderabad. We work in tightly knit
+  teams, stay close to users, and care about the visible
+  product as much as the unglamorous details that make
+  software dependable. People own problems end to end, and we
+  add process only when it helps the work.
+
+
+
+  Humans and agents
+
+  We believe the next decade of work will be done by humans
+  and AI agents together. Not agents replacing people, and not
+  a chat window bolted onto software built for humans clicking
+  around, but both working in one system of action, where an
+  agent's work is as visible and as accountable as a person's.
+
+  Most software treats AI as a feature. We treat agents as a
+  kind of worker, and that changes what the system underneath
+  has to be. Agents are only as good as the context they can
+  see and the state they are allowed to change, so shared
+  context, explicit state, durable history, and accountable
+  action are not items on our roadmap. They are the product.
+  Plane is built so that when an agent acts, the humans
+  responsible can see what happened, why, and on whose
+  authority, and the record survives.
+
+  This is what the infrastructure is for: making the future
+  where humans and agents work together useful, legible, and
+  fully within the organization's control. Every role at Plane
+  is some part of building that.
+
+
+
+  About the role
+
+  Plane's client is local-first, so state lives in the
+  browser, syncs when the network allows, and has to stay
+  correct when two people edit the same document at once or
+  when a customer's cluster never touches the internet. Agents
+  now act inside those same workspaces, which means the
+  interface has to render a change made by a machine as
+  legibly as one made by a colleague. You will own frontend
+  surfaces across that client: the dense views that hold tens
+  of thousands of issues, the collaborative editor, the
+  offline and caching layer under both, and the design system
+  components the rest of the product is built from. You will
+  work with designers, product, and backend engineers in San
+  Francisco and Hyderabad, and your commits land in a public
+  repository where contributors read them.
+
+
+
+  What you'll do
+
+  - Own user-facing surfaces from design review through
+    component work to rollout, starting with scoped ones and
+    taking on larger ones as you learn the client.
+  - Extend the local-first sync and collaborative editing layer
+    alongside the engineers who built it: serialization,
+    conflict resolution, and what the interface does when the
+    two disagree.
+  - Keep dense views fast. Virtualization, memoization, and
+    render paths in workspaces holding tens of thousands of
+    issues are yours to profile and fix.
+  - Make Plane usable offline and on slow networks with Service
+    Workers and IndexedDB, including for customers whose
+    machines never reach the internet.
+  - Work daily with designers and backend engineers across San
+    Francisco and Hyderabad, and review community pull
+    requests from contributors you will never meet.
+  - Chase visual and behavioral bugs you cannot reproduce,
+    across browsers, screen sizes, and self-hosted versions
+    running months behind ours.
+
+
+
+  What you'll bring
+
+  - You have shipped React and TypeScript to production. Point
+    us to something you built, and tell us one decision in it
+    you would make differently now.
+  - You reason about state, not just hooks. You know when state
+    belongs local, when it belongs global, and how reactivity
+    moves through an app (MobX, Redux, Zustand, or similar).
+  - You write CSS with intent. Responsive, themeable interfaces
+    in Tailwind or a comparable system, and an eye that
+    catches a misaligned element before review does.
+  - You have worked inside a shared component library. You know
+    what breaks when a component is used in ways its author
+    did not plan for.
+
+
+
+  Nice to haves
+
+  - You have made a slow interface fast, and you can quote the
+    measurement.
+  - You have contributed to Plane, run it self-hosted, or
+    maintained another open project people rely on.
+  - You have worked inside a rich-text editor framework
+    (ProseMirror, CodeMirror, Lexical, Tiptap) rather than
+    only on top of one.
+  - You have built offline-first or CRDT-backed applications and
+    have opinions about conflict resolution.
+  - You have built interfaces where AI agents act on real data,
+    and you have thought about how to show authorship and
+    authority.
+
+
+
+  Tech
+
+  - Frontend: React, TypeScript, Tailwind CSS, MobX, React
+    Router
+  - Editing and sync: ProseMirror based editor, local-first
+    sync, Service Workers, IndexedDB
+  - Desktop: Electron
+  - Build and design system: Vite, Rolldown, internal React
+    component library
+  - Services you will call: Python/Django, Golang, Elixir,
+    Postgres, Redis, public REST and GraphQL APIs
+  - Observability: Datadog, Sentry
+  - Everyday tools: GitHub, Plane (yes, we run on it), Figma,
+    Slack
+
+
+
+  Why Plane?
+
+  Every company says it is different. We will try evidence
+  instead.
+
+  The scope is real. We are a passion team serving companies
+  of every size, including some of the largest in the world.
+  Something you ship this month will run inside a Fortune 500
+  company and a 50-person startup in the same week, and you
+  will hear from both.
+
+  The constraints make you better. Plane runs in our cloud, in
+  customers' clouds, and on machines that will never touch the
+  internet. Much of the work happens in the open, where the
+  issues, the fixes, and the roadmap conversations are public.
+  Building software that survives all of that is harder than
+  building an ordinary SaaS product, and it is a better
+  education than most companies can offer.
+
+  The people-and-agents future is being built here, in
+  production. We think humans and AI agents will share one
+  system of action for work. We are building that system now,
+  for customers who already depend on it, and you will work on
+  that problem directly whatever your role.
+
+  Your name is on the work. The teams are deeply connected
+  enough that credit and responsibility both find you fast.
+  That is some pressure. Mostly it is the fun part.
+
+  If that sounds like your kind of place, we would like to
+  meet you.
+
+
+
+  Plane is an equal opportunity employer. We do not
+  discriminate based on race, color, religion, gender identity
+  or expression, sexual orientation, national origin, age,
+  disability, veteran status, or any other protected
+  characteristic under applicable law.
+posted_date: 2026-08-14
+url: "https://builtin.com/job/software-engineer-frontend-react/10685812"
+source: Built In

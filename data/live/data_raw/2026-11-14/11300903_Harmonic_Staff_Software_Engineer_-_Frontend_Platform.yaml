@@ -1,0 +1,111 @@
+job_id: 11300903
+title: Staff Software Engineer - Frontend Platform
+company: Harmonic
+location: New York, USA
+work_type: FULL_TIME
+company_size: 42 Employees
+description: |
+  About Harmonic
+
+  Harmonic is the startup discovery engine.
+
+  It pains us to see great startup opportunities consistently
+  go unfunded not because of lack of talent, but lack of
+  signal.
+
+  We're fixing that by mapping the entire startup landscape
+  and building the tools that put the right companies in front
+  of the right people at the right time. Investors, corporate
+  development, and GTM teams use us to find breakout companies
+  before they're obvious and turn that discovery into action.
+  Whether that's a check, an acquisition, partnership or new
+  business.
+
+  We're growing revenue at a rate of 100%+ annually, with $30M
+  in funding from Craft, Floodgate, and Sozo Ventures. We're
+  committed to ensuring hundreds of billions of dollars find
+  the right founders, so the innovations that matter most
+  flourish. If that resonates, let's talk.
+
+  About the Team
+
+  Our Infrastructure team powers Harmonic's ability to process
+  millions of startup signals in real-time. While Flow builds
+  workflows and Discovery surfaces insights, Infrastructure
+  makes it all fast, reliable, and scalable.
+
+  We're at an inflection point. Our frontend serves hundreds
+  of users who run complex queries across millions of
+  companies, build sophisticated searches, and collaborate on
+  deal flow. As we scale, we need to transform our frontend
+  from "it works" to "it works flawlessly."
+
+  Our infrastructure priorities:
+
+  - Reliability. Our users depend on us for critical investment
+    decisions. When they're analyzing deals or presenting to
+    partners, nothing can break. We need robust error
+    handling, graceful degradation, and resilient core flows.
+  - Performance. Large datasets currently strain our frontend.
+    Views with thousands of rows need to render smoothly.
+    Complex filters need to respond quickly. Data
+    visualizations need to load without blocking the UI.
+  - Enabling developers. Once we've nailed reliability and
+    performance, the right infra multiplies our team's impact.
+    Better abstractions and clearer patterns let engineers
+    ship with confidence.
+
+  Who You Are
+
+  - You have 7+ years building frontend applications at scale.
+  - You have deep expertise in React, TypeScript, and modern
+    build tooling.
+  - You have a track record of fixing production performance
+    issues at scale.
+  - You have strong opinions on frontend architecture, backed by
+    real experience shipping.
+  - Bonus: you've worked on discovery systems, search, or
+    recommendation systems (CRM, ATS, or similar), or anything
+    that helps index, structure, and surface data for use.
+  - Bonus: you have exposure to venture capital, private
+    markets, or company intelligence data.
+
+  What You'll Do
+
+  - Fix core reliability issues: error boundaries, state
+    management, data consistency.
+  - Optimize performance: virtualization for large datasets,
+    bundle optimization, render performance.
+  - Build monitoring and observability to catch issues before
+    users do.
+  - Establish testing strategies that prevent regressions.
+  - Create abstractions and patterns that help engineers ship
+    faster without breaking things.
+  - Drive technical decisions and mentor the team through
+    complex migrations.
+
+  Our Stack
+
+  Interview Process
+
+  - Recruiter Screening: 30 mins
+  - Technical Screening (Debugging): 45 mins
+  - Technical Screening (System Design): 45 mins
+  - Jam Session: 2 hours
+  - Behavioral interviews with our Head of Engineering and CEO:
+    30 mins each
+  - References
+
+  We are an Equal Opportunity Employer committed to
+  recruiting, hiring and promoting qualified people of all
+  backgrounds regardless of gender, race, color, creed,
+  national origin, religion, age, marital status, pregnancy,
+  physical or mental disability, sexual orientation, gender
+  identity, military or veteran status, or any other basis
+  protected by federal, state, or local law.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-22
+url: "https://builtin.com/job/staff-software-engineer-frontend-platform/11300903"
+source: Built In

@@ -1,0 +1,125 @@
+job_id: 12252955
+title: Software Engineer
+company: GovDash
+location: New York, USA
+work_type: FULL_TIME
+company_size: 5550 Employees
+description: |
+  GovDash helps businesses win and deliver government
+  contracts that advance American interests. Our AI platform
+  is a single, secure, workflow-driven system for the full
+  contracting lifecycle, from opportunity discovery and
+  capture through proposal execution, award, and post-award
+  operations. We’re building Dash, an AI coworker that takes
+  action across every part of the government contracting
+  workflow to help real businesses be more successful. To
+  date, our customers have won over $15B in awards while using
+  GovDash.
+
+  Our engineering team is a tight knit group of incredibly
+  talented people. We’re lean and bias toward action, which
+  allows for a high level of ownership and accountability. We
+  treat our engineering organization as the GovCon AI research
+  lab. We experiment with cutting edge techniques to meet the
+  stringent requirements that the government and our customers
+  demand. The bar is high. We have a unique customer base and
+  complex environments that are FedRAMP certified, support
+  ITAR, or are self-hosted and run in a customer’s cloud. Our
+  team enjoys working with these unique security and
+  compliance constraints and all the complexities that come
+  with them.
+
+  What you'll do:
+
+  - Ship features customers use every day, from design through
+    production.
+  - Talk to customers and use their insight to guide your
+    prioritization and decision making.
+  - Build agents that call tools, cite their sources, and show
+    their work.
+  - Write evals and verify outputs that don’t always seem black
+    and white.
+  - Take workflows people run by hand and make them autonomous,
+    with verification, traceability, and observability built
+    in.
+  - Improve how we build: our model harness, our coding agents,
+    our infra, etc.
+
+  Who you are:
+
+  Everyone we hire:
+
+  - Has high agency. You see a problem and fix it without being
+    asked.
+  - Has a bias to action and works with urgency.
+  - Brings real effort and drive; we can teach you Typescript,
+    we can’t teach you to care.
+  - Cares about America and her interests.
+
+  Things we look for:
+
+  - You've shipped things we can look at: open source, side
+    projects, a portfolio, or something you launched publicly
+    at a company.
+  - You've written an eval, compared models against each other,
+    or built with coding agents.
+  - You've taken a loop a person was running and made it mostly
+    run itself. You can show how you know it works.
+  - You might be a deep specialist in evals, infra, testing, or
+    systems.
+
+  Going above and beyond:
+
+  - You've owned a large part of a product, or made high-impact
+    contributions across several product areas.
+  - You've been a lead, done well at a startup like ours, worked
+    on a stack like ours, or written code at big-tech scale.
+  - You have strong opinions on technical design and product
+    direction, and you can defend them.
+  - You're fully self-directed. You may lead other engineers.
+
+  Our stack:
+
+  - Our primary app is written end-to-end in TypeScript and
+    Effect, React and Next.js on the front end, and some Rust
+    in our infrastructure (e.g. agent sandboxes).
+  - Prisma, tRPC, Postgres, Redis, and Temporal for background
+    workflows.
+  - Models from OpenAI, Anthropic, and Google, run through our
+    own harness.
+  - Cursor, Linear, Slack, and Google Workspace.
+  - Access to Claude Code, Codex, Devin, Grok Bot, etc.
+
+  Where you might work:
+
+  - Capture: finding and qualifying opportunities, and managing
+    pipeline.
+  - Proposal: drafting and reviewing content with AI that cites
+    its sources and satisfies compliance requirements.
+  - Contract: deliverables, modifications, and past performance
+    management for active contracts.
+  - Platform: Dash itself, its sub-agents, automations, and
+    integrations like Microsoft Graph, Salesforce, and Google
+    Drive.
+  - Data Library: how customer documents and records feed every
+    AI workflow, with the user in control.
+
+  Logistics and comp:
+
+  - In office 4 days a week in Flatiron with 1 flex day from
+    home.
+  - Salary: $160,000 – $200,000.
+  - Equity in a fast growing start up.
+  - Health, dental, vision insurance.
+  - 401K & company match.
+  - Paid time off and off for all federal holidays.
+  - A collaborative and supportive team culture.
+  - Dinner on us when you work past 7pm.
+industries:
+  - Artificial Intelligence
+  - Productivity
+  - Software
+  - Defense
+posted_date: 2026-11-13
+url: "https://builtin.com/job/software-engineer/12252955"
+source: Built In

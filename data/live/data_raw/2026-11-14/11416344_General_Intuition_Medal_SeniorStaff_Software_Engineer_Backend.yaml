@@ -1,0 +1,66 @@
+job_id: 11416344
+title: Senior/Staff Software Engineer – Backend
+company: "General Intuition & Medal"
+location: New York, USA
+work_type: FULL_TIME
+company_size: 41 Employees
+description: |
+  About The Company
+
+  General Intuition is the frontier lab for acting in space
+  and time. We build large action models and world models that
+  can perceive, predict, and act across virtual and physical
+  environments. General Intuition builds on the strength of
+  Medal, the world's largest and fastest-growing platform for
+  gaming clips, where millions of gamers capture, share, and
+  discover new games every year. We've raised over $650M from
+  Khosla, GC, Valor, and Point72 since October 2025, and
+  recently closed our latest round at a $6.2B valuation.
+
+  The Role
+
+  Medal's backend powers everything from real-time in-app
+  communications and storage of billions of user-generated
+  clips to our ML-based feed and social features. You'll work
+  closely with product, infra, and data teams to architect and
+  build highly scalable, low-latency systems, helping design
+  critical APIs, evolving our backend infrastructure,
+  mentoring other engineers, and driving technical decisions
+  that impact millions of users.
+
+  What We're Looking For
+
+  - 5+ years of backend engineering experience, with significant
+    time in production environments
+  - Strong proficiency in Java and hands-on experience building
+    scalable microservices
+  - Deep understanding of RESTful API design and distributed
+    systems
+  - Relational databases: Experience with MySQL or PostgreSQL,
+    including performance tuning and schema design
+  - Experience building systems that handle thousands of
+    requests per second
+  - Comfort with cloud infrastructure (GCP or AWS preferred),
+    CI/CD, and infrastructure as code
+  - Strong grasp of system design, architectural patterns, and
+    security best practices
+  - Strong communication and leadership skills, with the ability
+    to drive cross-team projects
+  - Bonus: Redis, RabbitMQ, or other message brokers and caching
+    systems; SRE/DevOps or DevSecOps experience
+
+  Our Stack
+
+  Electron, React, Redux, Styled Components & other modern
+  web-based technologies C# and C++ for native Windows
+  recording & more Swift for iOS, Kotlin for Android Java,
+  Redis, RabbitMQ, Kubernetes for backend Terraform, Salt,
+  GitHub Actions, CircleCI for IaC and CI/CD
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Generative AI
+posted_date: 2026-09-29
+url: "https://builtin.com/job/senior-staff-software-engineer-backend/11416344"
+source: Built In

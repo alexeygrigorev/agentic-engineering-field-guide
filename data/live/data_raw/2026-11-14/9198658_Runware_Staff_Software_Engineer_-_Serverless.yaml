@@ -1,0 +1,116 @@
+job_id: 9198658
+title: Staff Software Engineer - Serverless
+company: Runware
+location: ESP
+locations:
+  - ESP
+  - FRA
+  - DEU
+  - NLD
+  - USA
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 19 Employees
+description: |
+  We’re looking for a Staff/Senior Software Engineer to
+  technically lead and build Runware’s serverless platform.
+  You’ll be part of a small team working closely with senior
+  leadership to bring a new product line to market.
+
+  Runware is evolving beyond model APIs into a platform where
+  developers can deploy models and run AI workloads without
+  managing GPUs, servers or infrastructure. You’ll build the
+  software layer that connects our proprietary high-
+  performance sonic inference engine and turns complex
+  infrastructure into a compelling developer experience.
+
+  This is a role for someone who enjoys technical leadership,
+  hard platform problems and clean, simple systems. Your work
+  will help enterprises, model labs and developers move from
+  idea to production faster, then scale without needing to
+  build and operate the infrastructure themselves.
+
+  What you’ll do
+
+  - Build the core systems behind Runware’s serverless platform,
+    including workload execution, routing, scheduling,
+    isolation and scaling leveraging our inference engine
+  - Make it simple for developers to deploy models and run AI
+    workloads without managing GPUs, servers, queues or
+    infrastructure through a simple SDK interface
+  - Design and improve the control plane for serverless
+    execution, including APIs, workers, lifecycle management,
+    retries and failure handling
+  - Work closely with our infrastructure and ML teams to improve
+    workload startup time, GPU utilisation, model warm-up,
+    caching and placement
+  - Build observability that makes serverless workloads easy to
+    monitor, debug and operate at scale globally
+  - Lead the technical design, mentor other engineers and help
+    define the engineering standards for a new product area
+
+  Requirements
+
+  - Strong experience as a Staff Engineer, Senior Software
+    Engineer, Backend Engineer, Platform Engineer or similar
+  - Experience building backend services, distributed systems,
+    developer platforms or workload orchestration systems
+  - Strong understanding of async processing, queues,
+    scheduling, retries, back pressure and failure handling
+  - Comfortable working across APIs, control planes, workers,
+    databases and observability systems
+  - Strong engineering fundamentals in one or more backend
+    languages ideally Go
+  - Good judgement around trade-offs between reliability,
+    latency, scale, cost and developer experience
+  - Clear communication, strong ownership and the ability to
+    lead technical direction in a fast-moving environment
+
+  Nice to have
+
+  - Experience building serverless platforms, job execution
+    systems, container platforms or compute orchestration
+    systems
+  - Experience with GPU-backed workloads, AI/ML inference, model
+    serving, batch processing or high-performance compute
+  - Familiarity with technologies such as vLLM, TensorRT,
+    Triton, Kubernetes, Nomad or Knative
+  - Experience improving workload performance through batching,
+    autoscaling, model warm-up, caching, request routing or
+    queue management
+  - Experience with multi-tenant isolation, sandboxing, quotas,
+    rate limits, resource accounting or usage-based billing
+
+  Benefits
+
+  We’re a remote-first collective, meeting in person twice a
+  year to plan, brainstorm, celebrate wins, and enjoy some
+  face-to-face time. We have core hours for cooperative
+  working and calls, but outside of that your calendar is
+  yours. Work the hours that let you perform at your peak
+  while also building a healthy life.
+
+  We move quickly and hold a high bar, but we also believe
+  sustainable performance matters. After major releases and
+  milestones, we create space for the team to properly unplug,
+  recharge and come back with the energy to tackle what's
+  next.
+
+  - Generous paid time off – vacation, sick days, public
+    holidays
+  - Meaningful stock options – share in the upside you create
+  - Remote-first setup – work from home anywhere we can employ
+    you
+  - Flexible hours – own your schedule outside core
+    collaboration blocks
+  - Family leave – paid maternity, paternity, and caregiver time
+  - Company retreats – twice-yearly gatherings in inspiring
+    locations
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-10-21
+url: "https://builtin.com/job/staff-software-engineer-serverless/9198658"
+source: Built In

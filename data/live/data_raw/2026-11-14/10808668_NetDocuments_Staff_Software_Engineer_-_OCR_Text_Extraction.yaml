@@ -1,0 +1,231 @@
+job_id: 10808668
+title: Staff Software Engineer - OCR / Text Extraction
+company: NetDocuments
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 250 Employees
+description: |
+  NetDocuments is committed to providing an excellent
+  candidate experience and will never ask you to engage in
+  recruitment activity without phone, video, and in person
+  meetings and communications from emails using the
+  @netdocuments.com domain. If you have any concerns or
+  questions about communications you have received, please
+  send them to hrgroup@netdocuments.com so our team members
+  can review.
+
+  About NetDocuments
+
+  At NetDocuments, we're shaping the future of legal work. We
+  believe legal professionals should spend less time searching
+  for information and managing documents, and more time
+  solving complex problems, serving clients, and delivering
+  meaningful outcomes. That's why we're building technology
+  that helps organizations work smarter, collaborate more
+  effectively, and unlock the full value of their
+  institutional knowledge.
+
+  Our team is redefining what's possible for legal technology.
+  NetDocuments is the trusted intelligent document management
+  platform for legal professionals and the company behind the
+  industry's first and only legal context graph—a breakthrough
+  that gives legal professionals and AI a richer understanding
+  of how matters, documents, people, and knowledge connect
+  across an organization while respecting enterprise-grade
+  security, governance, permissions, and ethical walls.
+
+  Innovation is only part of our story. We believe our
+  greatest strength is our people. We foster a collaborative,
+  inclusive, and high-performing culture where curiosity is
+  encouraged, diverse perspectives are valued, and employees
+  are empowered to make a meaningful impact. Whether you're
+  building products, serving customers, or supporting the
+  business, your work helps shape the future of one of the
+  world's most trusted legal technology platforms.
+
+  That commitment to our employees and customers has earned us
+  recognition as one of the nation's top workplaces,
+  including:
+
+  - Four consecutive appearances on the Inc. 5000 list of
+    America's Fastest-Growing Private Companies
+  - Five-time Top Workplace USA winner
+  - Five-time Salt Lake Tribune Top Workplace
+  - Multiple Top Workplaces Culture Excellence awards
+    recognizing innovation, employee appreciation, work-life
+    flexibility, and compensation & benefits
+
+  If you're excited to solve meaningful challenges, work
+  alongside talented colleagues, and help define the next
+  generation of legal technology, we'd love to meet you.
+
+  What You'll Do
+
+  Every document that enters NetDocuments passes through our
+  content extraction and transformation platform, which turns
+  scanned images, PDFs and Office files into searchable text,
+  structured data, and the foundation for AI features like
+  semantic search. We process documents at very high volume,
+  on an event-driven platform built on AWS.
+
+  We're looking for a Staff Software Engineer to set the
+  technical direction for this platform and, over time, lead
+  the team that builds it. You'll design the distributed
+  systems that process millions of documents an hour, bring
+  AI-powered extraction into production, and lead an
+  engineering practice where AI agents are part of how we
+  design, build and test software.
+
+  This is a hands-on role. You'll write production code, make
+  architecture decisions that hold up over time, and raise the
+  technical bar for the engineers around you.
+
+  You will:
+
+  Technical Leadership & Architecture
+
+  - Set technical direction for our document content extraction
+    and transformation platform, establishing patterns for
+    scalable, secure, and cost-efficient systems on AWS.
+  - Design and own distributed, event-driven pipelines that
+    process millions of documents an hour, including how they
+    scale, how they fail, and how they recover.
+  - Lead architectural decisions involving OCR technologies such
+    as Tesseract and Apryse, and AI models for document
+    understanding.
+  - Drive improvements in throughput, reliability and
+    performance, while controlling cost per document without
+    affecting customer experience.
+  - Make critical technical decisions that balance performance,
+    security, cost and maintainability, with reasoning that
+    stands up over time.
+
+  Build & Operate
+
+  - Build production services in C#/.NET using AWS (such as ECS,
+    Lambda, S3 and SQS) and event streaming with Kafka.
+  - Design resilient processing: retries, dead-letter handling,
+    idempotency, backpressure, and graceful recovery. No
+    silent failures.
+  - Design and implement scalable APIs (REST, GraphQL) that
+    power our product and enable third-party integrations.
+  - Implement observability through logging, metrics, tracing
+    and telemetry (Datadog, CloudWatch) to find and fix issues
+    before customers notice.
+  - Ensure security, compliance and confidentiality across all
+    implementations. Legal documents are privileged, and our
+    systems treat them that way.
+
+  AI in the Product
+
+  - Build the content pipelines that power semantic search:
+    chunking, embeddings, vector indexing and evaluation, at
+    the scale of millions of documents.
+  - Measure and improve AI output quality with evaluation sets
+    and metrics, while managing cost and latency in
+    production.
+
+  AI in How We Build
+
+  - Lead the team's AI-assisted development practice, using AI
+    agents such as Claude Code across specification, design,
+    testing and implementation.
+  - Set the standards for reviewing and approving AI-generated
+    work so that speed never comes at the cost of quality.
+
+  Ownership & Collaboration
+
+  - Take full ownership of initiatives from concept through
+    production and ongoing evolution.
+  - Proactively identify and address technical debt before it
+    affects the team or customers.
+  - Partner with product management to turn requirements into
+    technical solutions, and with Platform Services,
+    Operations and other teams on shared infrastructure.
+  - Mentor engineers at every level through design reviews, code
+    reviews and documentation.
+  - Build agreement on technical approaches, while having the
+    authority to make the final call when needed.
+  - Research and prove out new technologies through POCs that
+    align with product strategy.
+
+  What You'll Need to Be Successful
+
+  - Bachelor's degree or higher in Computer Science, Information
+    Systems, or a related field, or equivalent experience.
+  - 8+ years of professional software engineering experience
+    delivering production systems at scale on cloud platforms.
+  - Proven experience designing and owning distributed, event-
+    driven systems that process high volumes in production.
+    Please describe the scale of the systems you've built in
+    your resume (for example, events or documents per hour or
+    per day).
+  - A deep understanding of what it takes to ingest millions of
+    documents an hour into a SaaS platform, including how to
+    partition and scale the pipeline, handle backpressure and
+    failure, and control cost per document.
+  - Experience leading technical direction for a team: making
+    architecture decisions, setting standards, and growing
+    other engineers.
+  - U.S. citizenship is required for this role.
+
+  Required Technical Knowledge
+
+  - Expert proficiency in C#/.NET.
+  - Expert proficiency designing event-driven, microservice-
+    based systems, including failure handling, scaling and
+    recovery.
+  - Strong experience with Kafka or similar event streaming and
+    messaging platforms.
+  - Strong experience developing on cloud platforms, preferably
+    AWS.
+  - Strong experience with observability (logging, metrics,
+    tracing, telemetry), preferably with Datadog.
+  - Daily use of AI coding tools (for example, Claude Code or
+    GitHub Copilot) across the development lifecycle, with
+    sound judgment about reviewing and validating AI-generated
+    code.
+
+  What Will Make You Stand Out
+
+  - You've done it before: you have built or run a SaaS platform
+    that ingests millions of documents an hour.
+  - Deep hands-on experience with OCR or document extraction
+    technologies, such as Tesseract, Apryse, ABBYY, AWS
+    Textract or Azure Document Intelligence.
+  - Experience building document management, enterprise content
+    management, or high performance content extraction
+    products.
+  - Experience in the legal industry or in B2B SaaS for
+    regulated industries.
+
+  Compensation Transparency
+
+  The compensation range for this position is:  $170,000 -
+  $190,000
+
+  The posted cash compensation for this position includes on
+  target earnings. Some roles may qualify for overtime pay.
+  Individual compensation packages are determined based on
+  various factors specific to each candidate, such as career
+  level, skills, experience, geographic location,
+  qualifications, and other job-related considerations.
+
+  Equal Opportunity
+
+  NetDocuments is an Equal Opportunity Employer and prohibits
+  discrimination and harassment of any kind. All employment
+  decisions are based on business needs, job requirements,
+  individual qualifications, without regard to race, color,
+  religion, sex, (including pregnancy), national origin, age,
+  physical and mental disability, marital status, sexual
+  orientation, gender identity and/or expression, military and
+  veteran status, or any other status protected by laws or
+  regulations in the locations where we operate. NetDocuments
+  believes diversity and inclusion among our employees is
+  critical to our success, and we are committed to providing a
+  work environment free of discrimination and harassment.
+posted_date: 2026-08-22
+url: "https://builtin.com/job/staff-software-engineer-ocr-text-extraction/10808668"
+source: Built In

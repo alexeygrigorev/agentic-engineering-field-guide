@@ -1,0 +1,140 @@
+job_id: 6665106
+title: Software Engineer - GPU Kernels
+company: Baseten
+location: Toronto, CAN
+locations:
+  - Toronto, CAN
+  - Seattle, USA
+  - Montréal, CAN
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 350 Employees
+description: |
+  ABOUT BASETEN
+
+  Baseten powers mission-critical inference for the world's
+  most dynamic AI companies, like Cursor, Notion,
+  OpenEvidence, Abridge, Clay, Gamma, and Writer. By uniting
+  applied AI research, flexible infrastructure, and seamless
+  developer tooling, we enable companies operating at the
+  frontier of AI to bring cutting-edge models into production.
+  We're growing quickly and recently raised our $1.5B Series
+  F, led by Altimeter Capital, Conviction Partners, and Spark
+  Capital. Join us and help build the platform engineers turn
+  to ship AI products.
+
+  THE ROLE
+
+  We’re seeking a GPU Kernel Engineer to join our team at the
+  cutting edge of AI acceleration, where your code directly
+  impacts the performance of state-of-the-art machine learning
+  models. As a GPU Kernel Engineer, you'll craft the
+  foundation that powers modern AI workloads, optimizing every
+  microsecond of computation to enable breakthrough
+  applications.
+
+  You'll work in a fast-paced, intellectually stimulating
+  environment where technical excellence is paramount and your
+  contributions directly influence production systems serving
+  millions of users across numerous products. This role offers
+  exceptional growth potential for engineers passionate about
+  low-level optimization and high-impact systems work.
+
+  EXAMPLE INITIATIVES
+
+  You'll get to work on these types of projects as part of our
+  Model Performance team:
+
+  - Baseten Embeddings Inference: The fastest embeddings
+    solution available
+  - The Baseten Inference Stack
+  - Driving model performance optimization
+
+  RESPONSIBILITIES
+
+  Core Engineering Responsibilities
+
+  - Design and implement high-performance GPU kernels for key ML
+    operations, including matrix multiplications, attention
+    mechanisms, and mixture-of-experts routing
+  - Write and optimize code using CUDA, PTX assembly, and
+    architecture-specific techniques
+  - Apply advanced performance optimization methods such as
+    memory coalescing, warp-level programming, tensor core
+    acceleration, and compute/memory overlap
+
+  Performance & Innovation
+
+  - Implement cutting-edge features like quantization (FP8/FP4),
+    sparsity, and compute/communication overlap
+  - Identify and resolve performance bottlenecks using tools
+    like Nsight Systems, Nsight Compute, and Torch Profiler
+  - Collaborate with research teams to productionize theoretical
+    advancements
+
+  Impact & Collaboration
+
+  - Contribute to internal and open-source GPU libraries
+  - Present technical contributions at industry conferences
+    (e.g., NVIDIA GTC, AWS re:Invent)
+
+  REQUIREMENTS
+
+  - Strong understanding of GPU architecture and programming
+    paradigms:
+    - Memory hierarchy (global, shared, registers, L1/L2 cache)
+    - Thread/block/grid organization
+    - Synchronization techniques and race condition mitigation
+  - Proficient in C++ and GPU performance profiling tools
+  - Knowledge of:
+    - CUDA C++ API
+    - Memory access patterns and bandwidth optimization
+    - Numerical precision and quantization strategies
+    - Modern GPU features (e.g., tensor cores, async operations)
+
+  NICE TO HAVE
+
+  - Experience with Transformer models and attention
+    optimization (e.g., Flash Attention)
+  - Familiarity with GPU kernel libraries: Cutlass, Triton,
+    Thrust, CUB
+  - Background in GEMM tuning and distributed/multi-GPU compute
+  - Contributions to open-source GPU projects
+  - Research publications or conference presentations on GPU
+    performance
+
+  BENEFITS
+
+  - Competitive compensation, including meaningful equity
+  - (U.S. only) 100% coverage of medical, dental, and vision
+    insurance for employee and dependents
+  - Flexible PTO policy including company wide Winter Break (our
+    offices are closed from Christmas Eve to New Year's Day!)
+  - Paid parental leave
+  - Fertility and family-building stipend through Carrot
+  - (U.S. only) Company-facilitated 401(k)
+  - Exposure to a variety of ML startups, offering unparalleled
+    learning and networking opportunities.
+
+  Apply now to embark on a rewarding journey in shaping the
+  future of AI! If you are a motivated individual with a
+  passion for machine learning and a desire to be part of a
+  collaborative and forward-thinking team, we would love to
+  hear from you.
+
+  At Baseten, we are committed to fostering a diverse and
+  inclusive workplace. We provide equal employment
+  opportunities to all employees and applicants without regard
+  to race, color, religion, gender, sexual orientation, gender
+  identity or expression, national origin, age, genetic
+  information, disability, or veteran status.
+
+  We are an Equal Opportunity Employer and will consider
+  qualified applicants with criminal histories in a manner
+  consistent with applicable law (by example, the requirements
+  of the San Francisco Fair Chance Ordinance, where
+  applicable).
+posted_date: 2026-08-12
+url: "https://builtin.com/job/gpu-kernel-engineer/6665106"
+source: Built In

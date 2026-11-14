@@ -1,0 +1,151 @@
+job_id: 11186165
+title: Lead Software Development Engineer in Test
+company: Alteryx
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,786 Employees
+description: |
+  Meet the Moment with Alteryx
+
+  We're living through a once-in-a-generation shift in how
+  work gets done. Data, automation, and AI are quickly
+  becoming the center of every business decision - and Alteryx
+  is leading the transformation.
+
+  You'll be working on the challenges that sit at the heart of
+  modern business. No matter your role, the work you do will
+  help organizations move faster, see more clearly, and tackle
+  questions that used to feel impossible.
+
+  If you're ready to meet the moment with innovation,
+  curiosity, and excellence, there's a place for you here.
+
+  Lead SDET Responsibilities
+
+  This Lead SDET will work on the test infrastructure that
+  powers agent evaluation and observability for Ask Alteryx,
+  partnering with engineering, product, and data science to
+  measure and improve agent quality.
+
+  - Analyze requirements to produce a comprehensive test
+    strategy and detailed test cases.
+  - Design and implement manual and automated tests at all
+    levels in the test pyramid, including unit, component,
+    integration, and end-to-end levels.
+  - Design, build, and enhance scalable automated test
+    frameworks to support feature testing and AI-driven
+    product workflows.
+  - Develop and maintain automation for UI and API tests using
+    tools such as Selenium, pytest, and Playwright.
+  - Conduct performance and load testing (using tools like
+    locust) to ensure product scalability.
+  - Build test reports using reporting tools such as Allure.
+  - Report regressions to a corresponding dev team.
+  - Influence design decisions by providing timely feedback on
+    design documents and testability.
+  - Collaborate closely with other members of an agile team,
+    including engineers, product management, and UX, to become
+    a valued member of an autonomous, cross-functional team.
+
+  Requirements
+
+  - Experience evaluating AI agents, including multi-step task
+    completion, tool selection, tool-call accuracy, and
+    failure recovery.
+  - Working knowledge of agent frameworks, preferably LangChain,
+    with the ability to understand and debug context handling,
+    tool execution, and agent state.
+  - Hands-on experience with LangSmith or similar platforms for
+    evaluation datasets, custom evaluators, experiments, and
+    comparisons across agent changes.
+  - Experience with agent observability, using traces and
+    telemetry to investigate quality issues, latency, token
+    usage, and cost.
+  - Strong Python software engineering skills to build and
+    extend evaluation tooling, metrics pipelines, and
+    reporting systems. JavaScript or TypeScript experience is
+    a nice-to-have.
+  - Applied statistics and data analysis skills to assess
+    variability, compare experiments, and distinguish
+    meaningful improvements from noise; modeling experience is
+    a plus.
+  - Experience developing evaluation datasets and scoring
+    methods, combining deterministic checks, human feedback,
+    and LLM-based judges.
+  - Ability to contribute at a technical lead level, guiding
+    evaluation practices, mentoring engineers, integrating
+    evaluations into CI/CD, and translating production
+    failures into regression coverag
+
+  Compensation
+
+  Alteryx is committed to fair, equitable, and transparent
+  compensation. Final compensation is determined by several
+  factors, including but not limited to relevant work
+  experience, education, certifications, skills, and
+  geographic location.
+
+  The base salary range for this role in the United States is
+  $165,000-$185,000 . This role is also eligible for a target
+  annual bonus of 15% of base salary, based on individual and
+  company performance.
+
+  In addition to base pay and bonus eligibility, this role
+  includes clear forms of additional compensation, such as:
+
+  - A monthly Connectivity Plus stipend of $150 to support
+    remote work-related expenses
+  - An annual $200 home office reimbursement
+
+  Alteryx offers a comprehensive benefits package designed to
+  support your health, financial security, and overall well-
+  being, including:
+
+  - Medical, dental, and vision coverage
+  - 401(k) with company match
+  - Paid parental leave, caregiver leave, and flexible time off
+  - Mental health support and wellness reimbursement
+  - Career development and education assistance
+
+  Find yourself checking a lot of these boxes but doubting
+  whether you should apply? At Alteryx, we support a growth
+  mindset for our associates through all stages of their
+  careers. If you meet some of the requirements and you share
+  our values, we encourage you to apply. As part of our
+  ongoing commitment to a diverse, equitable, and inclusive
+  workplace, we’re invested in building teams with a wide
+  variety of backgrounds, identities, and experiences.
+
+  Find yourself checking a lot of these boxes but doubting
+  whether you should apply? At Alteryx, we support a growth
+  mindset for our associates through all stages of their
+  careers. If you meet some of the requirements and you share
+  our values, we encourage you to apply. As part of our
+  ongoing commitment to a diverse, equitable, and inclusive
+  workplace, we’re invested in building teams with a wide
+  variety of backgrounds, identities, and experiences.
+
+  Benefits & Perks:
+
+  Alteryx has amazing benefits for all Associates which can be
+  viewed here.
+
+  For roles in San Francisco and Los Angeles: Pursuant to the
+  San Francisco Fair Chance Ordinance and the Los Angeles Fair
+  Chance Initiative for Hiring, Alteryx will consider for
+  employment qualified applicants with arrest and conviction
+  records.
+
+  This position involves access to software/technology that is
+  subject to U.S. export controls. Any job offer made will be
+  contingent upon the applicant’s capacity to serve in
+  compliance with U.S. export controls.
+industries:
+  - Big Data
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-10-20
+url: "https://builtin.com/job/software-development-engineer-test/11186165"
+source: Built In

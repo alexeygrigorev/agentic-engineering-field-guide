@@ -1,0 +1,225 @@
+job_id: 11287421
+title: Staff Software Engineer – Build Platform
+company: RapidFort, Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 119 Employees
+description: |
+  Staff Software Engineer – Build Platform
+
+  Location: Remote (U.S.) or Hybrid (Bay Area Preferred)
+
+  Security Requirement: U.S. Citizenship is required due to
+  the nature of RapidFort's work supporting U.S. Department of
+  Defense (DoD) and other federal customer engagements.
+
+  About RapidFort
+
+  RapidFort is redefining software supply chain security.
+
+  Modern enterprises spend enormous effort identifying
+  software vulnerabilities. We believe the future isn't
+  finding more vulnerabilities—it's eliminating them
+  automatically.
+
+  Our platform transforms vulnerable container images into
+  production-ready, hardened artifacts that dramatically
+  reduce software supply chain risk without requiring
+  application code changes. By combining automated container
+  hardening, vulnerability remediation, runtime intelligence,
+  and policy automation, RapidFort enables engineering teams
+  to deliver secure software faster while reducing operational
+  complexity.
+
+  We're solving some of the most challenging problems at the
+  intersection of cybersecurity, Linux, distributed systems,
+  containers, Kubernetes, and cloud infrastructure. If you're
+  passionate about building platforms that power secure
+  software at scale, you'll have an outsized impact here.
+
+  The Opportunity
+
+  RapidFort's platform is built on one simple idea: software
+  should reach production already secure.
+
+  Every day, our build platform transforms thousands of
+  vulnerable open-source container images into hardened,
+  production-ready artifacts that help enterprises and U.S.
+  government agencies dramatically reduce software supply
+  chain risk.
+
+  We are looking for a Staff Software Engineer – Build
+  Platform to architect, scale, and evolve the systems that
+  make this possible.
+
+  This is not a traditional DevOps or CI/CD role.
+
+  This is a senior technical leadership position where you'll
+  own one of the most critical engineering platforms at
+  RapidFort. You'll define the architecture behind our
+  distributed build systems, influence engineering direction
+  across multiple teams, and build the automation that powers
+  our products.
+
+  You'll work at the intersection of Linux internals,
+  distributed systems, Kubernetes, containers, software supply
+  chain security, and large-scale automation while helping
+  shape the future of RapidFort's engineering platform.
+
+  What You'll Do
+
+  - Own the architecture and long-term technical strategy for
+    RapidFort's Build Platform.
+  - Design and operate highly scalable distributed build systems
+    capable of producing and maintaining thousands of
+    production-ready container images.
+  - Build automated systems for image creation, validation,
+    signing, publishing, and lifecycle management.
+  - Improve build performance, scalability, reproducibility,
+    reliability, and operational efficiency.
+  - Design automation that eliminates manual engineering work
+    while improving developer productivity.
+  - Develop internal tooling and platform services using Python,
+    Bash, and modern cloud-native technologies.
+  - Solve complex Linux, dependency management, networking,
+    container, and build-system challenges.
+  - Drive engineering standards around software supply chain
+    integrity, reproducible builds, and platform reliability.
+  - Partner closely with Platform Engineering, Security
+    Research, Product Engineering, and Infrastructure teams.
+  - Lead architecture reviews and influence technical decisions
+    across multiple engineering organizations.
+  - Mentor senior engineers and help raise the technical bar
+    across the company.
+  - Continuously identify opportunities to simplify systems,
+    improve reliability, and reduce operational overhead.
+
+  Minimum Qualifications
+
+  - 10+ years of software engineering, platform engineering,
+    infrastructure engineering, or developer platform
+    experience.
+  - Demonstrated experience architecting and operating large-
+    scale build platforms or distributed infrastructure.
+  - U.S. Citizenship required pursuant to applicable federal
+    customer requirements.
+  - Deep expertise with Linux systems and operating system
+    internals.
+  - Expert knowledge of Docker, OCI container images, and
+    container ecosystems.
+  - Strong Python development experience.
+  - Strong Bash scripting skills.
+  - Experience designing distributed automation systems and
+    developer platforms.
+  - Strong Kubernetes experience in production environments.
+  - Experience operating modern CI/CD platforms such as GitHub
+    Actions, Jenkins, Buildkite, GitLab CI, or equivalent.
+  - Strong understanding of software build systems, dependency
+    management, package management, and artifact lifecycle.
+  - Experience troubleshooting large-scale distributed systems
+    in production.
+  - Strong Git-based development workflows.
+  - Excellent communication and collaboration skills with the
+    ability to influence engineering across multiple teams.
+  - Demonstrated ability to lead technical initiatives without
+    direct management responsibility.
+
+  Preferred Qualifications
+
+  - Go (Golang)
+  - BuildKit, Bazel, or advanced build optimization techniques
+  - Terraform or Infrastructure as Code
+  - AWS, Azure, or GCP
+  - Helm
+  - OCI registries and artifact management
+  - Software Bill of Materials (SBOM)
+  - Sigstore, Cosign, SLSA, in-toto, SPDX, or CycloneDX
+  - Prometheus, Grafana, or OpenTelemetry
+  - Supply chain security, container security, or Kubernetes
+    security
+  - Experience building internal developer platforms
+  - Experience working in high-growth startups or cloud
+    infrastructure companies
+
+  What Makes You Successful Here
+
+  We're looking for engineers who naturally think beyond
+  individual tasks.
+
+  You will thrive if you:
+
+  - Think in systems rather than tickets.
+  - Build platforms that other engineers love using.
+  - Automate repetitive work instead of accepting manual
+    processes.
+  - Enjoy debugging difficult problems that don't have obvious
+    answers.
+  - Care deeply about software quality, reliability,
+    scalability, and elegant engineering.
+  - Take ownership of outcomes rather than simply completing
+    assigned work.
+  - Raise the technical standards of the engineers around you
+    through collaboration and mentorship.
+
+  What Success Looks Like
+
+  Within your first six months, you will:
+
+  - Become the technical owner of RapidFort's Build Platform.
+  - Improve build throughput, reliability, and scalability
+    across the engineering organization.
+  - Deliver measurable improvements in build performance and
+    developer productivity.
+  - Eliminate significant operational overhead through
+    intelligent automation.
+  - Establish engineering standards for build systems, software
+    supply chain integrity, and platform reliability.
+  - Become the engineering team's trusted technical expert for
+    build infrastructure and container technologies.
+  - Deliver architectural improvements that enable RapidFort's
+    platform to scale for future growth.
+
+  Why Join RapidFort?
+
+  This is an opportunity to solve difficult engineering
+  problems that have real-world impact.
+
+  You'll work on technology at the heart of modern cloud-
+  native security while collaborating with experienced
+  engineers who value technical excellence, ownership, and
+  innovation.
+
+  As a Staff Engineer, you'll have the freedom to influence
+  architecture, shape engineering strategy, mentor other
+  senior engineers, and build systems that become foundational
+  to the company's success.
+
+  If you're excited about building the platform behind secure
+  software delivery—not just maintaining it—we'd love to talk.
+
+  Compensation & Benefits
+
+  - Base Salary: $150,000–$200,000, depending on experience and
+    qualifications
+  - Annual performance bonus
+  - Meaningful equity participation
+  - Comprehensive medical, dental, and vision coverage
+  - 401(k)
+  - Flexible PTO
+  - Flexible work environment
+  - Opportunity to work on cutting-edge cybersecurity and cloud-
+    native technologies
+  - Direct influence on the architecture and technical direction
+    of a rapidly growing cybersecurity company
+
+  RapidFort is an Equal Opportunity Employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees.
+industries:
+  - Cloud
+  - Software
+  - Cybersecurity
+posted_date: 2026-09-21
+url: "https://builtin.com/job/staff-software-engineer-build-platform/11287421"
+source: Built In

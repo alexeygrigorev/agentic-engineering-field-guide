@@ -1,0 +1,119 @@
+job_id: 10624867
+title: Software Reliability Engineer
+company: RE Partners
+location: London, GBR
+locations:
+  - London, GBR
+  - Belfast, GBR
+work_type: FULL_TIME
+company_size: 97 Employees
+description: |
+  Hello from RE Partners!
+
+  Who We Are: We are a fast growing business and technology
+  consultant company co-founded in 2019.  We offer a custom-
+  tailored, white-glove engineering service fit for our
+  clients, because a digital transformation is more than just
+  technology.  With a successful track record of being a
+  preferred vendor for Fortune 500 companies and as a trusted
+  partner for some of the industry’s leading companies, our
+  global talent has helped many clients achieve their goals.
+
+  The 3 G’s of RE:
+
+  “Get Shit Done.”
+
+  “Get Over Shit.”
+
+  “Give a Shit.”
+
+  Software Reliability Engineer
+
+  We are seeking experienced, hands-on Software Reliability
+  Engineers to act as evangelists for continuous integration,
+  testing, and safe, automated deployments. This is a
+  practical DevOps and SRE role for practitioners who lead by
+  example to make change safe and easy for development teams.
+  The position is roughly 70% coding and configuration.
+
+  Key Responsibilities:
+
+  - Conduct targeted engagements with development teams facing
+    challenges getting to safe and rapid release cadence, or
+    struggling with vulnerability resolution.
+  - Wrapping the application in a suite of well-designed tests,
+    most of which can run locally, including smoke tests to be
+    run as part of the deployment process.
+  - Sourcing and integrating appropriate test data, implementing
+    data masking in lower environments
+  - Upgrading to supported runtimes (generally Java or NPM).
+  - Containerizing applications where feasible.
+  - Upgrading open-source libraries to their latest available
+    major versions (e.g., migrating from Spring 2). Upgrading
+    to the latest version of all dependencies, whether
+    installed software, libraries, internal code, base images
+    or operating system. Implementing processes that allow us
+    seamlessly to stay current
+  - Implementing continuous library updates using Renovate. o
+    Introducing best practice source control and branch
+    management o Improving code review processes
+  - Ensuring best practice security patterns, secrets
+    management, authentication and authorisation
+  - Simplifying and automating application deployment processes,
+    including automated database changes with Liquibase and
+    installed software with Ansible.
+  - Introducing standard observability patterns.
+  - Overhauling exception handling and logging.
+  - Implementing resilient hot-hot cross-datacenter deployment
+    topologies.
+
+  Required Qualifications :
+
+  - Several years of experience with Test-Driven Development
+    (TDD) using multiple test frameworks.
+  - Really excellent understanding of the different approaches
+    to automation testing and an ability to choose the best
+    approach and drive outcomes with AI support
+  - Proficiency in JVM languages and/or TypeScript.
+  - Highest quality coding skills
+  - An excellent understanding of safe practices for critical
+    systems, including deployment architecture and
+    observability
+  - At home with multiple continuous integration and deployment
+    systems
+  - Excellent understanding of secure coding practices
+  - Competent with Docker and Openshift
+  - Actively embracing AI coding
+  - Comfortable with build automation tools such as Gradle,
+    Maven, and npm.
+  - Competent with (RedHat ) Linux
+  - Spring framework skills are advantageous.
+  - Ansible skills are advantageous
+
+  Location & Work Environment:
+
+  - Hybrid work model
+  - Collaborative, fast-paced, engineering-driven environment
+  - Strong emphasis on hands-on engineering, technical autonomy,
+    problem solving, and cross-team impact
+
+  Join Our Global Team: We invite you to apply for the
+  position at RE Partners. Join us in shaping the future of
+  business technology consulting and transforming the way
+  organizations thrive in a digital world. As a diverse,
+  woman-owned global business, we pride ourselves on keeping
+  talent happy – our 7% attrition rate speaks volumes. Bring
+  your talented friends along and earn a referral bonus
+
+  Equal Opportunity Employer: We are an equal opportunity
+  employer and welcome applications from all qualified
+  individuals regardless of race, color, religion, gender,
+  sexual orientation, gender identity or expression, national
+  origin, age, disability, or veteran status.
+industries:
+  - Information Technology
+  - Business Intelligence
+  - Consulting
+posted_date: 2026-08-11
+url: "https://builtin.com/job/lead-software-reliability-engineer/10624867"
+source: Built In

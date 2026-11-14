@@ -1,0 +1,132 @@
+job_id: 11089754
+title: Senior Product Engineer (Full Stack)
+company: Doctronic
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 22 Employees
+description: |
+  Senior Product Engineer (Full Stack)Doctronic | New York
+  City or San Francisco (hybrid) | Full-time
+
+  The role
+
+  Doctronic gives people free, private access to AI health
+  guidance and affordable visits with human physicians.
+  Millions of consultations already flow through the product.
+
+  We are hiring a Senior Product Engineer to build features
+  used by patients, clinicians, and healthcare partners.
+
+  This is a full-stack role. We do not split product
+  engineering into frontend and backend lanes. A project may
+  require a patient workflow in Next.js, a FastAPI endpoint, a
+  new data model, and changes to how the service runs in
+  production. You will work across those boundaries to ship
+  the complete feature.
+
+  We expect product engineers to work AI-natively. Coding
+  agents are part of daily delivery, not an occasional
+  assistant. You will use them to explore code, plan changes,
+  implement, test, review, debug, and automate repeated work.
+  You remain responsible for product decisions, system design,
+  and the correctness of every change.
+
+  What you will do
+
+  - Build patient experiences for onboarding, AI consultations,
+    health records, prescriptions, physician visits, and
+    follow-up care.
+  - Connect AI consultations with clinical workflows so patients
+    can move from guidance to treatment.
+  - Turn new clinical and AI capabilities into clear product
+    features with appropriate safeguards.
+  - Build tools and integrations for clinicians and healthcare
+    partners.
+  - Improve performance, accessibility, privacy, and reliability
+    across web and mobile.
+  - Use agents to run parallel investigations, shorten the path
+    from idea to tested production code, and turn repeated
+    work into shared automation.
+  - Review product usage and feedback after launch, then improve
+    the feature.
+
+  What we are looking for
+
+  - Experience shipping user-facing products across frontend and
+    backend systems.
+  - Strong skills in at least one part of the stack and the
+    ability to work effectively in the rest.
+  - Good product judgment and attention to interface quality.
+  - The ability to define and deliver a solution when the
+    initial requirements are incomplete.
+  - Daily experience directing coding agents. You know how to
+    supply context, split work, verify results, and decide
+    when to work directly.
+  - A habit of turning manual engineering work into scripts,
+    tools, or reusable agent workflows.
+  - Sound decisions about privacy, security, accessibility,
+    reliability, and maintainability.
+  - Clear communication with clinical, product, design, AI, and
+    operations teams.
+
+  Many candidates will have 5+ years of professional
+  experience. We care more about the products you shipped and
+  your role in shipping them than a specific degree or exact
+  tool match.
+
+  Experience in healthcare, fintech, AI products, or another
+  regulated field is useful but not required.
+
+  Production stack
+
+  Our product includes a Next.js, React, and TypeScript web
+  application; native iOS and Android apps written in Swift
+  and Kotlin; and Python and FastAPI services. Backend systems
+  use MariaDB, SQLAlchemy, Redis, and Celery. Services run in
+  Docker on AWS ECS and integrate with AI providers,
+  telehealth systems, healthcare APIs, and FHIR-based
+  workflows.
+
+  You do not need experience with every part of the stack, but
+  you should be able to learn unfamiliar systems and ship
+  across product and backend code.
+
+  How we work
+
+  - A small, senior engineering team with high autonomy.
+  - Engineers take projects from initial definition through
+    launch and production support.
+  - Short planning cycles and frequent releases.
+  - High standards for patient safety, privacy, and code
+    quality.
+
+  Compensation and benefits
+
+  - New York City and San Francisco base salary: $180,000 to
+    $240,000, plus equity.
+  - Benefits reimbursement.
+
+  About Doctronic
+
+  Doctronic is the #1 AI Doctor and the first AI legally
+  authorized to practice medicine. We process millions of
+  consultations monthly, with 99%+ treatment-plan accuracy
+  validated by board-certified clinicians.
+
+  At doctronic.ai, people can receive free, anonymous, HIPAA-
+  compliant AI consultations and connect with human physicians
+  for affordable visits, available 24/7 across all 50 states.
+
+  Doctronic raised its seed, Series A, and Series B rounds
+  between February 2025 and January 2026, with backing from
+  Union Square Ventures, Lightspeed Venture Partners, and
+  Abstract.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+posted_date: 2026-09-09
+url: "https://builtin.com/job/senior-product-engineer-full-stack/11089754"
+source: Built In

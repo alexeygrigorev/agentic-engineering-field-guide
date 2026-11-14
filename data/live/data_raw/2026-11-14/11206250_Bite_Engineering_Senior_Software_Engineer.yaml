@@ -1,0 +1,211 @@
+job_id: 11206250
+title: Senior Software Engineer
+company: Bite Engineering
+location: London, GBR
+work_type: FULL_TIME
+company_size: 30 Employees
+description: |
+  The role
+
+  We're a well-funded startup using AI to decrease risk and
+  grow margin in the architecture, engineering and
+  construction industry. Our current focus is general
+  contractors. When they bid to build a major project, such as
+  a skyscraper or an airport, they price millions of pounds'
+  worth of project risks, and treatments for them, by hand,
+  and often inaccurately. During delivery, risk treatments
+  that were suboptimal or never applied erode the margin.
+  Despite billions in annual revenue, contractors only keep
+  ~2%. Bite puts contractors' data to work at tender and
+  through delivery, so the bid price rests on evidence and the
+  margin predicted at tender is the margin realised.
+
+
+
+  You'll be one of our first engineering hires, working
+  directly with the founders and with Phil Cowans, our
+  fractional CTO, who co-founded Songkick and Nested as CTO
+  and studied Bayesian machine learning at Cambridge (the
+  maths behind probabilistic risk pricing). The platform is in
+  production on a Python backend and a React/TypeScript
+  frontend on Azure. You don't need experience in construction
+  or in our stack. We hire for strong core engineering, and
+  the team treat specific technologies as tools for tackling
+  problems.
+
+
+
+  Why join Bite
+
+  The problem is genuinely hard. A tender pack is thousands of
+  pages of drawings, specifications, contracts and bills of
+  quantities, with a tight deadline for bids. Turning it into
+  a structured risk register, then into a defensible bid price
+  checked against similar completed internal and external
+  projects, is the core of our product. Every number has to
+  show its working, because contractors won't trust things
+  they can't interrogate and deeply understand.
+
+
+
+  You'll own whole parts of the product, not a slice of them.
+  There's no ticket factory and no waiting on three other
+  teams. You'll take features from a conversation with a
+  customer through implementation, tests and deployment, and
+  own significant parts of the codebase outright, including
+  the extraction pipeline the risk model depends on.
+
+
+
+  You'll build it in the room with the customer. We're co-
+  developing the product on real data with some of the world's
+  largest general contractors. You'll hear what works and what
+  doesn't directly from bid and risk teams.
+
+
+
+  What we're building
+
+  Today, contractors set the risk premium on instinct: a
+  top-50 risk register in Excel, scored by hand, with
+  treatments that are often suboptimal and rarely followed
+  through. Decades of completed-project data sit in archives
+  that are never really used, and nine in ten construction
+  projects still run over budget or schedule.
+
+
+
+  Bite ingests the whole tender pack, auto-builds the risk
+  register for the team to review, and prices it with Monte
+  Carlo simulation reconciled against a reference class of
+  similar completed projects. Through delivery, an AI auditor
+  tracks risks and treatments, and every completed project
+  improves the next tender.
+
+
+
+  What you'll do
+
+  - Ship features end to end across the Python backend, the
+    React frontend, and the tests that prove they work.
+  - Build the pipeline that turns tender packs into structured,
+    citable risk data: ingestion, LLM extraction, and the
+    checks that catch what it misses.
+  - Productionise the risk model with Phil, with evals against
+    completed projects that show whether a change made it
+    better.
+  - Build the interfaces where bid and risk teams review the
+    auto-generated register and see the working behind every
+    number.
+  - Design and evolve the contracts between our services, and
+    the async queues and workers behind them.
+  - Make the pragmatic calls on tech debt with the team: what we
+    fix now, what we log, and why.
+
+
+
+  What we need from you
+
+  - A love of learning a new domain, and shipping something
+    quickly that actually fixes what was broken.
+  - A track record of shipping and owning production systems end
+    to end. Years matter less to us than evidence you've done
+    it.
+  - Strong backend experience, ideally Python in a production
+    context, and comfortable working in a React/TypeScript
+    frontend.
+  - Experience designing and evolving APIs in production. The
+    async tooling behind ours, queues and workers, is
+    something you'll pick up here.
+  - Experience shipping LLM or ML features to production, and
+    measuring whether they actually got better.
+  - Genuine product sense so you can independently weigh
+    technical trade-offs against customer value.
+  - The instinct to keep things simple under pressure, and the
+    judgement to know when a tactical shortcut is right and
+    when it isn't.
+  - Clear communication across deeply technical, semi-technical
+    and plain-language conversations. Contractors buy outputs
+    they can audit, so explaining the working matters.
+
+
+
+  What will make you stand out
+
+  - Probabilistic modelling or forecasting: Monte Carlo
+    simulation, reference class forecasting, regression on
+    messy real-world data.
+  - Structured extraction from long, document-heavy inputs such
+    as contracts, specifications and drawings.
+  - Infrastructure as code on Azure: Docker, Terraform or Bicep.
+  - Per-client or on-premise deployment for enterprise customers
+    with sensitive data.
+  - Background in construction, tendering, estimating or cost
+    management, or document-intensive vertical SaaS.
+
+
+
+  Don't rule yourself out over the stack. We're looking for a
+  strong engineer with sound principles. Technologies are
+  tools.
+
+
+
+  What you can expect from us
+
+  - Early-team equity: the numbers on the table at the first
+    conversation.
+  - A seat at the table on product direction: how the risk model
+    works, and what we build next, are still being decided.
+  - Significant parts of the codebase to own outright: including
+    the extraction pipeline the risk model depends on.
+  - A supportive team: founders who want to be argued with and
+    nobody between you and shipping.
+  - A domain you'll learn deeply: how contractors price and
+    manage risk, and how AI and statistical models hold up
+    against real project outcomes.
+  - Direct access to customers: you'll be invited to all product
+    discovery calls.
+  - Tight feedback loops: you'll see how a change performs on
+    real customer data within days.
+  - A clear path to owning a domain and mentoring the engineers
+    who come after you, as the team grows around you.
+
+
+
+  How we work
+
+  We believe in thorough automated testing. Not strict TDD,
+  but every PR ships with the appropriate E2E tests, unit
+  tests or eval harnesses, and for the risk model, backtests
+  against completed projects are how we know a change made it
+  better. We own the entire platform including its deployment
+  and reliability, so we control our own CI and CD. We work
+  discovery first, prototype second, on real customer data
+  within days. This is a hands-on, delivery-focused role, so
+  there are times we take a short-term tactical solution to
+  ship faster than we'd like: you'll hold a strong line on
+  code quality while pragmatically paying off tech debt. The
+  team is autonomous, multi-disciplinary and empowered, and
+  works on one focused thing at a time.
+
+
+
+  Inclusion at Bite
+
+  Bite Engineering is an Equal Employment Employer and does
+  not discriminate on the basis of race, colour, religion,
+  sex, sexual orientation, gender identity, national origin,
+  disability, or any other legally protected status. We want
+  people from all walks of life to feel valued for their
+  individuality, thrive in our business and share a sense of
+  belonging. If you have a disability or special need that
+  requires accommodation, let us know.
+industries:
+  - Artificial Intelligence
+  - Software
+  - PropTech
+  - Automation
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-software-engineer/11206250"
+source: Built In

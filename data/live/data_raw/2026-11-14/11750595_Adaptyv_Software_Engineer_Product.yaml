@@ -1,0 +1,83 @@
+job_id: 11750595
+title: Software Engineer, Product
+company: Adaptyv
+location: London, GBR
+work_type: FULL_TIME
+company_size: 22 Employees
+description: |
+  Adaptyv is building an automated lab that lets AI agents run
+  biology experiments.
+
+  We're entering the era of agentic science where AI models
+  can now design novel proteins, propose hypotheses, and
+  iterate on experimental results. But they can't run the
+  experiments themselves - that's still a manual, months-long
+  process. We're building the infrastructure that gives AI
+  agents access to the physical world.
+
+  We are one of the fastest growing biotech companies, trusted
+  by leading biopharmas, frontier AI labs, and the techbio
+  companies pushing the field forward. This is a rare chance
+  to help advance some of the most important work happening in
+  biotech today.
+
+  Our automated lab is powered by a deep software + hardware
+  stack: lab instruments worth millions of USD reverse-
+  engineered into API-controllable hardware, dozens of devices
+  orchestrated through complex workflows, full observability
+  on everything that happens in the lab, processing pipelines
+  for messy physical-world data, and AI systems that
+  troubleshoot production results and accelerate assay
+  development.
+
+  We’re growing rapidly and are hiring for talented people to
+  scale and support the massive demand for AI-driven wet lab
+  experimentation.
+
+  About the role
+
+  You'll work across LabOS — our internal software platform —
+  building the orchestration layer that coordinates everything
+  from experiment scheduling to execution to data capture and
+  results processing. This is full-stack product engineering
+  at the intersection of software and physical-world biology.
+
+  Day-to-day, that can mean things like:
+
+  - Creating interfaces and APIs that give scientists and AI
+    agents visibility into what's happening in the lab in real
+    time
+  - Building custom AI agents and tooling that automate
+    decisions across the experiment lifecycle, from protocol
+    design to troubleshooting failed results
+  - Turning proprietary hardware into API-controllable devices
+    that agents and software can operate programmatically
+  - Designing scheduling systems that coordinate dozens of lab
+    instruments with complex dependency chains
+
+  You'll own large areas of the product. We're a small team
+  where individual engineers have large impact on what gets
+  built and how.
+
+  What we're looking for
+
+  - Full-stack production experience. We use TypeScript, React,
+    Node, Postgres, but what matters is you can work across
+    the stack.
+  - Product instinct. You've shipped, watched users, iterated,
+    and shipped again.
+  - Comfortable in ambiguity. You start from a goal, not a spec.
+    You scope problems down, decide what to build and what to
+    skip, and write your own plan when none exists.
+  - Builds with AI. You use AI tools heavily, but you have
+    enough experience without them to know what good looks
+    like.
+  - Curious about biology. No background required, but running
+    real experiments in the physical world should excite you.
+
+  Application deadline
+
+  We are reviewing applicants on a rolling basis.
+posted_date: 2026-10-19
+url: "https://builtin.com/job/software-engineer-product/11750595"
+source: Built In

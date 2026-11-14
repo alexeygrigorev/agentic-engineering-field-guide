@@ -1,0 +1,187 @@
+job_id: 10878062
+title: Senior Staff Software Engineer, Recognition Platform
+company: Metropolis Technologies
+location: New York, USA
+work_type: FULL_TIME
+company_size: 23,100 Employees
+description: |
+  Who we are
+
+  The real world is the next frontier, and at Metropolis, we
+  are creating the artificial intelligence to make it
+  responsive. We are pioneering the Recognition Economy — a
+  future where mundane repetition disappears and being known
+  unlocks access, comfort, and belonging everywhere you go.
+  From transforming parking into a seamless drive-in, drive-
+  out experience for millions of Members to expanding our
+  intelligence layer across retail and hospitality, we are
+  building a world that feels instinctive and magical. The
+  future isn't coming; it's here, and we need builders,
+  innovators, and problem solvers to help us create it.
+
+  Who you are
+
+  Metropolis is seeking a Senior Staff Software Engineer,
+  Recognition Platform to serve as the technical owner of the
+  Metropolis Recognition Platform (MRP). You are the engineer
+  other engineers route their hardest architectural questions
+  to, holding the entire platform architecture in your head
+  and navigating cross-functional boundaries across
+  application engineering, computer vision, data, security,
+  and platform teams as well as external partners. In this
+  role, you will lead the evolution of high-volume edge-to-
+  cloud pipelines and decisioning systems that transform
+  physical-world sensor signals into real-time actions,
+  setting technical direction, establishing architectural
+  RFCs, and driving cross-functional alignment without needing
+  formal reporting authority.
+
+  What you'll do
+
+  - Lead end-to-end architecture across edge ingestion, identity
+    resolution, decisioning, notification, and operator
+    surfaces while driving spec-driven development through
+    RFCs and managing roadmap sequencing
+  - Drive cross-functional alignment and resolve ownership
+    ambiguities across application, CV/ML, data, security, and
+    platform engineering teams as well as external partner
+    integrations
+  - Evolve high-volume edge-to-cloud streaming pipelines on a
+    horizontally scalable backbone, engineering for tail
+    latency, intermittent connectivity, backpressure, and out-
+    of-order events
+  - Design rules and decisioning layers for real-time actions
+    including watchlist alerting, arrival routing,
+    eligibility, consent gating, frequency capping, and next-
+    best-action logic
+  - Balance deterministic logic with probabilistic signals by
+    establishing explicit thresholds, quantitative cost
+    reasoning for recognition errors, and replay harnesses for
+    model testing
+  - Architect privacy, identity, and consent models designed for
+    biometric-regulated environments with bounded-time opt-out
+    propagation in close collaboration with Legal and Security
+  - Own production quality by defining SLOs, actionable
+    alerting, runbooks, soak testing, and progressive rollout
+    via feature flags
+  - Elevate technical standards through design reviews, code
+    reviews, mentorship, and AI-native engineering workflows
+
+  What we're looking for
+
+  - 12+ years of experience building and operating distributed,
+    data-intensive production systems, including deep
+    experience as a multi-service platform technical owner
+  - Proven track record of cross-functional technical leadership
+    and aligning independent engineering teams on shared
+    architecture
+  - Expert proficiency in a JVM language such as Java or Scala,
+    alongside fluency in event-driven and service-oriented
+    design using gRPC/protobuf, streaming, and relational data
+    modeling
+  - Hands-on experience designing high-throughput ingestion
+    pipelines with deep understanding of delivery semantics,
+    idempotency, ordering, backpressure, and tail latency
+  - Experience building rules, eligibility, or decisioning
+    systems where deterministic logic coexists with
+    probabilistic or model-driven signals
+  - Strong systems judgment integrating third-party APIs, SDKs,
+    and vendor constraints
+  - Excellent written technical communication skills with a
+    track record of writing decisive RFCs
+  - Comfortable navigating physical-world deployment
+    constraints, hardware conditions, and operational
+    messiness beyond staging environments
+  - Deep understanding of observability, automated testing,
+    progressive delivery, and fluency with AI-assisted
+    engineering tools like Claude Code and GitHub Copilot in
+    daily workflows
+
+  While not required, these are a plus:
+
+  - Experience with computer vision, biometric matching, or
+    sensor-fusion systems, specifically reasoning about
+    confidence, thresholds, and drift
+  - Background operating in privacy- or biometric-regulated
+    domains such as BIPA, CCPA, or GDPR, or working with
+    consent-management systems
+  - Experience with IoT, edge computing, fleet-scale device
+    telemetry, or MQTT-class transports
+  - Expertise in identity resolution or customer data platforms,
+    stitching multi-system signals into durable profiles
+  - Experience with hospitality, retail, or physical-operations
+    software, including hospitality CRM and PMS integrations
+  - Prior experience in a Uber-tech-lead, TL-of-TLs, or
+    principal-adjacent scope
+
+  Our Stack
+
+  - Languages + Frameworks: TypeScript, React, Scala
+    (principally), Java (limited)
+  - Datastores: MySQL, PostgreSQL, Snowflake
+  - Cloud: AWS
+  - Version control: Git & GitHub
+  - AI Tooling: Copilot on GitHub and Claude Code
+  - Observability: Datadog
+
+  4 Days in Office: Metropolis values in-person collaboration
+  to drive innovation, strengthen culture, and enhance the
+  Member experience. Our corporate team members hold to our
+  office-first model, which requires employees to be on-site
+  at least four days a week, fostering organic interactions
+  that spark creativity and connection
+
+  When you join Metropolis, you'll join a team of world-class
+  product leaders and engineers, building an ecosystem of
+  technologies at the intersection of parking, mobility, and
+  real estate. Our goal is to build an inclusive culture where
+  everyone has a voice and the best idea wins. You will play a
+  key role in building and maintaining this culture as our
+  organization grows. The anticipated base salary for this
+  position is $241,000 - $279,500 USD annually. The actual
+  base salary offered is determined by a number of variables,
+  including, as appropriate, the applicant's qualifications
+  for the position, years of relevant experience, distinctive
+  skills, level of education attained, certifications or other
+  professional licenses held, and the location of residence
+  and/or place of employment. Base salary is one component of
+  Metropolis' total compensation package, which may also
+  include access to or eligibility for healthcare benefits, a
+  401(k) plan, short-term and long-term disability coverage,
+  basic life insurance, a lucrative stock option plan, bonus
+  plans, and more. #LI-LR1 #LI-Onsite
+
+  Metropolis may utilize an automated employment decision tool
+  (AEDT) to assess or evaluate your candidacy for employment
+  or promotion. AEDTs are used to assist in assessing a
+  candidate’s application relative to the required job
+  qualifications and responsibilities listed in the job
+  posting.
+
+  As part of this process, Metropolis retains data relevant to
+  your candidacy, including personal information, for a period
+  that is reasonably necessary for the use of the tool. If you
+  are hired for the position, your data may become part of
+  your employee records.
+
+  Metropolis Technologies is an equal opportunity employer. We
+  make all hiring decisions based on merit, qualifications,
+  and business needs — without regard to race, color,
+  religion, sex (including gender identity, sexual
+  orientation, and pregnancy), national origin, disability,
+  veteran status, or any other protected characteristic under
+  federal, state, or local law. We are committed to providing
+  a welcoming, accessible hiring experience. If you need a
+  reasonable accommodation for any part of the application or
+  interview process, please reach out to us at
+  recruiting@metropolis.io.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Machine Learning
+  - Payments
+  - Real Estate
+  - PropTech
+posted_date: 2026-10-20
+url: "https://builtin.com/job/senior-staff-software-engineer-recognition-platform/10878062"
+source: Built In

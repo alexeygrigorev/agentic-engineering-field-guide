@@ -1,0 +1,278 @@
+job_id: 11252757
+title: Staff Software Engineer - DevEx
+company: Very Good Security
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 223 Employees
+description: |
+  About VGS
+
+  VGS is building the trust infrastructure for a new era of
+  commerce. As commerce becomes agentic, payments are
+  increasing dramatically in volume, speed, and complexity,
+  and the companies driving that shift need a foundation they
+  can fully trust.
+
+  That's where VGS comes in. We're the world's leader in
+  payment tokenization, trusted by the most innovative AI and
+  Fortune 500 companies, merchants, banks, and fintechs to
+  power modern payments and agentic commerce. We store more
+  than 9 billion tokens and process more than 10 billion
+  monthly interactions, touching a third of all e-commerce.
+  That scale isn't incidental. It's why leading companies
+  embed our universal token vault and credential management
+  platform directly into their stack, taming the complexity of
+  payment data so they can move faster.
+
+  Come build the platform that enables modern payments for the
+  world's largest companies. We're helping businesses unlock
+  new possibilities in an industry that never stops moving.
+  And that takes exceptional people.
+
+
+
+  Trusted Engineering That Matters
+
+  Engineering at VGS
+
+  VGS is building the platform powering agentic commerce and
+  global payments infrastructure. VGS Engineering is the
+  pillar that supports that vision. We create a platform that
+  is an indispensable, ubiquitous component of our partners'
+  payments and security infrastructure. We build and operate
+  high-scale, reliable, and resilient systems that manage
+  mission-critical payment data across the globe. We don't
+  just participate in the payments ecosystem; we power it.
+
+  Our Environment & Culture
+
+  - Modern Tooling as Leverage: We value speed and impact. To
+    ensure nothing slows you down, we arm you with a highly
+    consistent modern stack (e.g. AWS, Kubernetes, Java,
+    TypeScript, Python) and world-class AI-augmented SDLC
+    tooling. We strip away the friction so you can focus on
+    the problems that demand creativity and judgment.
+  - Ownership of Outcomes: Scaling global payments
+    infrastructure requires individuals who take personal
+    ownership of outcomes from day one. We look for builders
+    who combine high agency with deep strategic alignment;
+    channeling their urgency and relentless iteration into
+    what matters most.
+  - Mission-Critical Accountability: We power payments
+    infrastructure for global market leaders, making system
+    trust and integrity our core deliverable. We don't treat
+    compliance (PCI, SOC2, ISO27001), security patching, and
+    platform maintenance as administrative overhead—we
+    engineer them with first-class product discipline.  In
+    payments infrastructure, reliability is not background
+    work, it’s part of what customers buy.
+
+  Learn More: See how our engineering practices drive trust
+  and innovation in our official blog and our reliability
+  practices.
+
+
+
+  About the Role
+
+  We’re building payment infrastructure for a world where AI
+  agents don’t just recommend, search, and summarize. They
+  transact.
+
+  The Agentic API is creating the secure backend layer that
+  enables trusted agents to initiate purchases, operate within
+  user-approved mandates, retrieve scoped payment credentials,
+  and complete transactions without exposing raw card data.
+
+  As a Staff Software Engineer, you’ll help pioneer a new
+  category of payment infrastructure at the intersection of
+  AI, card networks, cryptography, and secure money movement,
+  building clean, reliable APIs for the next generation of
+  commerce.
+
+
+
+  What You’ll Do
+
+  - Architect Agentic Payment Infrastructure: Lead the design
+    and evolution of Python 3.13+ and FastAPI services
+    powering secure, production-critical agentic payment
+    flows.
+  - Define the Core API Platform: Design APIs and domain models
+    for card enrollment, agentic token provisioning, purchase
+    intents, mandates, device attestation, OTP flows,
+    confirmations, and cryptogram retrieval.
+  - Own Security, Reliability & Scale: Drive architectural
+    decisions across security, scalability, availability,
+    performance, and developer experience for sensitive
+    payment and cryptographic workflows.
+  - Build Deep Observability: Establish consistent patterns for
+    error handling, traceability, structured logging, metrics,
+    and distributed tracing using OpenTelemetry and
+    Prometheus.
+  - Automate Platform Provisioning: Design extensible
+    provisioning workflows using Kubernetes APIs and Custom
+    Resource Definitions.
+  - Set the Quality Bar: Define rigorous unit, integration,
+    acceptance, and end-to-end testing strategies for high-
+    risk payment flows, including canary-safe production
+    validation.
+  - Lead Complex Initiatives: Lead technical design reviews,
+    surface architectural and delivery risks early, and drive
+    cross-functional initiatives from initial exploration
+    through reliable production operation.
+  - Pioneer AI-Native Engineering: Apply AI-assisted development
+    and agentic workflows across the SDLC to accelerate
+    prototyping, testing, refactoring, investigation, and
+    delivery while maintaining a high quality and security
+    bar.
+  - Partner Across the Ecosystem: Collaborate with Product,
+    Security, Infrastructure, Platform, and external card-
+    network partners to translate evolving requirements into
+    secure, scalable systems.
+
+  What You Bring
+
+  - Ownership at Scale: 10+ years of experience taking personal
+    ownership of outcomes in complex, large-scale distributed
+    systems within mission-critical environments.
+  - AWS & Infrastructure-as-Code: Advanced proficiency in AWS
+    ecosystems leveraging Terraform to build reproducible
+    environments.
+  - Containerization & Orchestration: Strong, hands-on
+    experience with Kubernetes (EKS), Docker, and GitOps
+    workflows (Flux, Argo, GitHub Actions).
+  - Automation & Scripting: Strong coding skills in Python to
+    automate infrastructure and build operational tools.
+  - Observability Expertise: Experience implementing Prometheus,
+    Grafana, or OpenTelemetry at scale.
+  - Security & Networking Foundations: Solid understanding of
+    cloud security, API Gateways, load balancing, and network
+    isolation, viewing security as a fundamental engineering
+    constraint, not an afterthought.
+
+  Nice to Have:
+
+  - Experience with tokenization, payment processing, or
+    security products
+  - BA/BS degree
+  - A knack for out-of-the-box thinking that thrives in a fast-
+    paced startup environment
+  - Experience designing mandate, credential-provisioning,
+    authentication, attestation, or cryptogram-based
+    workflows.
+  - Experience applying AI developer tools or agentic automation
+    to day-to-day engineering workflows.
+
+  We're looking for passionate professionals who take pride in
+  their craft and want to help grow a team tackling some of
+  the most critical problems in payments. People who thrive
+  here are curious by nature, unafraid of hard problems, and
+  motivated by the chance to build something that matters at
+  scale.
+
+  If you're driven to make a meaningful impact, work at the
+  leading edge of payment technology, and grow your career
+  alongside a team that values ownership, collaboration, and
+  continuous learning, you'll feel right at home at VGS.
+
+
+
+
+
+  How We Work
+
+  At VGS, we embrace a remote-first philosophy because we
+  believe flexibility leads to great work and a healthy work-
+  life balance. That said, if you live within 30 miles of one
+  of our office locations, you'll be on a hybrid schedule with
+  some in-person time, because we know there's real value in
+  coming together.
+
+  We're not about being in the office every day. We are about
+  connection, collaboration, and the energy that comes from a
+  great brainstorm, a team lunch, or celebrating a big win in
+  person.
+
+
+
+  Our Benefits
+
+  Financial and retirement
+
+  - Competitive salary
+  - 401 (k) with a 4% match and immediate vesting (applies to US
+    only)
+  - Early equity
+  - Internet Stipend
+  - Learning Stipend
+  - Office set-up stipend (applies to US only)
+
+  Health and Wellness
+
+  - Insurance (medical, dental, and vision)
+  - HSA/FSA Options
+  - Life and disability insurance
+  - Pet insurance
+
+  Vacation and time off
+
+  - Flexible PTO
+  - Paid national holidays
+  - Global parental leave program
+
+  Professional Development
+
+  - Promote from within
+  - Lunch and learns
+  - Team events and summits
+
+  Office life and perks
+
+  - Remote and hybrid opportunities
+  - Flexible working hours
+  - Weekly office lunches
+  - Employee discount platform
+
+
+
+  Equal Opportunity
+
+  We consider all applicants without regard to race, color,
+  national origin, sex, age, religion, sexual orientation,
+  gender identity, veteran status, marital status, physical or
+  mental disability, or other protected classes under all
+  applicable local, state, and federal laws and ordinances
+  (AA/EOE/W/M/Vet/Disabled).
+
+  Qualified applicants with arrest and conviction records will
+  be considered for this position in accordance with the San
+  Francisco Fair Chance Ordinance.
+
+
+
+  Where We're Hiring
+
+  We are currently hiring in the following locations: Arizona,
+  California, Colorado, Connecticut, Florida, Idaho, Illinois,
+  Iowa, Michigan, Minnesota, New York, North Carolina, Ohio,
+  Oregon, Pennsylvania, Texas, Utah, Virginia, Washington,
+  Ontario (Canada), Alberta (Canada), and British Columbia
+  (Canada).
+
+
+
+  VGS-286
+
+  A Note on Our Hiring Process
+industries:
+  - Security
+  - Database
+  - Cybersecurity
+posted_date: 2026-09-18
+url: "https://builtin.com/job/staff-software-engineer/11252757"
+source: Built In

@@ -1,0 +1,138 @@
+job_id: 10920053
+title: Engineering Manager
+company: Eisen
+location: New York, USA
+work_type: FULL_TIME
+company_size: 160 Employees
+description: |
+  About Eisen
+
+  Escheatment looks like a niche reporting problem until you
+  build it. Then it becomes a massive data correctness problem
+  with almost no tolerance for error.
+
+  Eisen is the system of record for unclaimed property
+  compliance at institutions like AllianceBernstein, Coinbase,
+  Adyen, and BinanceUS. That means ingesting consumer account
+  and transaction data out of core banking platforms,
+  custodians, and crypto exchanges, each with its own schema,
+  its own quirks, and its own data hygiene. It means applying
+  dormancy and due diligence rules that differ across every US
+  jurisdiction and change every legislative session. And it
+  means producing filings that a state examiner can audit
+  years after the fact, where every number traces back to the
+  source record and the rule version that produced it.
+
+  There is no eventual consistency in this domain. A wrong
+  dormancy date is not a bug you quietly roll back. It is a
+  regulatory finding for a client. So the systems have to be
+  built so that correctness is provable: every state
+  transition recorded, every transformation reconstructable,
+  every filing defensible under examination.
+
+  What We Want
+
+  We are looking for a leader who grows the engineering team.
+  Someone who has scaled an engineering organization through
+  real PMF, drives a team to ship, and holds a high bar for
+  quality in a domain where correctness is paramount.
+
+  This is a leader-first role. We have an experienced
+  technical team who do their best work as hands-on principal
+  builders. What we need is the leader who runs and scales the
+  org around them: sets technical direction, partners with
+  product and design to turn priorities into shipped product,
+  drives execution and accountability, and owns management,
+  hiring and culture. You'll be the person unambiguously in
+  charge of how engineering delivers. You communicate clearly,
+  you're proactive, and you care as much about the people on
+  the team as the output you deliver.
+
+  This role is based in our New York City office.
+
+  Responsibilities
+
+  Scale the team. Grow the engineering team from 10 to 30, and
+  build the hiring, management, onboarding, and process
+  infrastructure that makes that growth work.
+
+  Drive execution. Set the bar and the cadence and push the
+  team to ship on time without dropping quality. You own
+  delivery, not just direction.
+
+  Own quality at scale. Build the practices that keep bugs
+  down and reliability up as the codebase and team grow. In a
+  compliance product, correctness is non-negotiable.
+
+  Set technical direction. Define the architecture, roadmap,
+  and standards for our core systems: data processing,
+  transaction processing, security, and partner integrations
+  at scale, in partnership with our product and design team.
+
+  Lead and develop engineers. Coach the team, manage their
+  career growth, give regular feedback, and build a culture of
+  ownership, communication, and continuous learning.
+
+  Stretch beyond the swim lane. Care about the whole product,
+  not just the code. Understand the compliance problem well
+  enough to push back on requirements and shape what we build.
+
+  Partner across the company. Work closely with Product,
+  Compliance, Security, Sales, and Operations, and communicate
+  clearly with non-technical stakeholders.
+
+  About You
+
+  - You’ve doubled an engineering team and built the
+    infrastructure to support it. Ideally, this was at a B2B
+    SaaS for fintech company
+  - Leader-first: you've managed and grown engineers and you
+    want to lead, but if needed, you can still deep dive on
+    engineering topics and code.
+  - Comfortable leading a team that includes senior principal
+    engineers, earning their trust and setting direction
+    alongside them
+  - Strong background architecting and running scalable, secure,
+    reliable backend systems
+  - A high quality and reliability bar, with a track record of
+    keeping bugs down as systems and teams scale
+  - A clear communicator who's proactive and thoughtful, and
+    cares about the teams you serve as much as your own
+  - Comfortable in a fast-moving, high-stakes, regulated
+    environment
+  - NYC based
+
+  Nice To Have
+
+  - Financial services, fintech, or regulated-industry
+    experience
+  - Experience with high-volume data processing, transaction
+    processing, or partner integrations
+  - Familiarity with the security and compliance bar of
+    enterprise financial customers
+  - Early-stage startup experience scaling from the ground up
+
+  Compensation & Benefits
+
+  - Competitive compensation package and equity plan
+  - Health, dental, and vision insurance with 100% premiums
+    covered for you
+  - Unlimited PTO (and yes, we expect you to use it!)
+  - 401(k) plan with a company match
+  - Monthly pre-tax commuter benefits available
+  - Financial support for relocation
+
+  We have ambitious plans. Our success will depend on our
+  ability to build a thoughtful, inclusive environment where
+  people can sustainably do their best work. We invite and
+  encourage folks from all backgrounds to explore
+  opportunities with us, even if you feel like you don't meet
+  100% of the qualifications outlined above.
+industries:
+  - Enterprise Web
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-28
+url: "https://builtin.com/job/engineering-manager/10920053"
+source: Built In

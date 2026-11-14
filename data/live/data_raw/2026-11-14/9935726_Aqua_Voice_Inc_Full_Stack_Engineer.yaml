@@ -1,0 +1,79 @@
+job_id: 9935726
+title: Full Stack Engineer
+company: Aqua Voice, Inc.
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 3 Employees
+description: |
+  About Us
+
+  Aqua Voice is building the voice input layer for the age of
+  AI. We train our own models and build deep OS integrations
+  because doing voice well requires controlling the entire
+  stack.
+
+  The way people work is changing. IC work is over; you manage
+  AI agents now. This type of work is wonderfully suited for
+  voice.
+
+  We aren't building conversational agents. We believe the
+  most natural way to interact with your computer is voice in
+  text out (VITO). We believe that voice belongs at a level
+  above the application, and that a small company can win by
+  pushing the envelope.
+
+  We are applying relentless energy to this opportunity and
+  the results so far have been good. We hope you will join us.
+
+  The Role
+
+  We're a small team and growing. You'll touch every part of
+  the system.
+
+  Recent projects include:
+
+  - Real-time transcription server handling thousands of
+    concurrent audio streams
+
+  - Custom speech recognition model training and deployment
+
+  - Native macOS and Windows integrations using deep system APIs
+
+  Stack
+
+  - Frontend: TypeScript, React, Next.js, Electron
+
+  - Backend: Python, real-time server (Bun/Node.js), WebSockets
+
+  - Native: Swift (macOS), C# (Windows)
+
+  - ML: Custom speech recognition models, inference pipelines
+
+  - Infra: Terraform, Stripe
+
+  You don't need experience with all of this.
+
+  What We're Looking For
+
+  - Show us what you've built
+
+  - Comfortable switching between languages and domains
+
+  - Can own projects from idea to production
+
+  - Writes readable, maintainable code
+
+  - Experience in production systems
+
+  - You are a winner overall (will bring good luck to team etc.)
+industries:
+  - Artificial Intelligence
+  - Natural Language Processing
+  - Productivity
+  - Software
+posted_date: 2026-08-16
+url: "https://builtin.com/job/full-stack-engineer/9935726"
+source: Built In

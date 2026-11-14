@@ -1,0 +1,109 @@
+job_id: 12134835
+title: Software Engineer, AI (Early Career)
+company: Ande
+location: New York, USA
+work_type: FULL_TIME
+company_size: 52 Employees
+description: |
+  About Ande
+
+  Ande makes Corporate Entertainment Effortless. Marketing,
+  sales, EAs and workplace teams use Ande’s AI to book client
+  dinners, sports suites, catering, merch and more. Policies,
+  spend and logistics are managed in one place, with one
+  vendor.
+
+  Over 60 enterprises run their entertainment on Ande, with
+  $400 million+ in annual entertainment spend flowing through
+  a network of 93,000 entertainment providers across 90+
+  cities. Ande has raised $52 million+ in seed and Series A
+  funding from Lightspeed Venture Partners, Redpoint Ventures,
+  Duration Ventures and Sierra Ventures, with participation
+  from Bain Capital Ventures.
+
+  About the role
+
+  You will build the intelligence behind the Ande Agent.
+  That's the concierge and its team of subagents that take a
+  request from one sentence ("dinner for 12 with the Acme team
+  next Thursday, somewhere private") to a confirmed, paid, on-
+  policy booking.
+
+  This is not a chatbot or a demo. The agent acts on real
+  money, on behalf of real executives, with real venues on the
+  other end of the thread. You will ship to production from
+  your first weeks, own real parts of the agent end to end,
+  and work side by side with senior engineers who will review
+  your work closely and help you grow fast.
+
+  What you'll work on
+
+  - The agent system. Improve how the concierge and its
+    subagents for sourcing, comparison and venue coordination
+    plan, call tools and recover when something goes wrong.
+    Find the failure in real conversations, fix it, and prove
+    the fix.
+  - Tools the agent can trust. Build and extend the typed
+    capabilities the agent uses to search, hold, book, pay and
+    message, including the proposals a booker confirms before
+    anything consequential happens.
+  - Evals. Write scenarios, graders and LLM judges, add every
+    bug you fix as a case, and help keep the suite trustworthy
+    enough that changes ship on the number.
+  - Memory and supply data. Build the pieces that turn every
+    venue conversation into structured facts that make the
+    next recommendation better.
+  - Fast judgments. Ship typed classifiers for consent, triage,
+    ranking and urgency, each with labelled thresholds, a
+    timeout and a fallback, rolled out from shadow to live.
+  - How we build. Ship with AI coding agents every day, and help
+    us improve the guides, skills and checks that make them
+    good at our codebase.
+
+  What you'll bring
+
+  - A degree in Computer Science or Engineering, and either 1
+    year of professional experience with strong internships,
+    or 1-2 years building with AI.
+  - Something you built with LLMs that real people used: tool
+    use, multi-step agents, structured outputs or evals. A
+    side project, hackathon win or internship project counts.
+  - Solid TypeScript or Python, and strong fundamentals in data
+    structures, APIs and databases.
+  - Curiosity about why a model did what it did, and the habit
+    of measuring before and after a change.
+  - Daily fluency with AI coding agents, and the judgment to
+    read and own what they write.
+  - Clear communication and a bias to ship: you take feedback
+    well and turn it around fast.
+
+  Even better
+
+  - Internships or early roles at a startup or an AI-first
+    company.
+  - Experience with evals, prompt engineering or agent
+    frameworks beyond the tutorials.
+  - Experience with search, ranking or recommendation.
+  - Experience with React, Node and Postgres.
+  - You've shipped something in hospitality, events, payments or
+    marketplaces.
+
+  Equal Employment Opportunity
+
+  Ande is an equal opportunity employer. We are committed to
+  building a diverse and inclusive team and do not
+  discriminate on the basis of race, color, religion, sex,
+  sexual orientation, gender identity or expression, national
+  origin, age, disability, veteran status, or any other
+  characteristic protected by applicable federal, state, or
+  local law. We welcome applications from all qualified
+  candidates and will consider all applicants for employment
+  without regard to any legally protected status
+industries:
+  - Artificial Intelligence
+  - Events
+  - Productivity
+  - Software
+posted_date: 2026-11-07
+url: "https://builtin.com/job/software-engineer-ai-early-career/12134835"
+source: Built In

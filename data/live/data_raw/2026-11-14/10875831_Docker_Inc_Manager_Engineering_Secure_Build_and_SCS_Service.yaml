@@ -1,0 +1,311 @@
+job_id: 10875831
+title: Manager, Engineering, Secure Build and SCS Services (East Coast or England Preferred)
+company: Docker, Inc
+location: CAN
+locations:
+  - CAN
+  - USA
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 498 Employees
+description: |
+  About Docker
+
+  Docker has been one of the most loved brands in developer
+  tooling, trusted by more than 20 million monthly users and
+  over 20 billion container image pulls. From solo founders to
+  the world's largest companies, developers rely on Docker to
+  build, share, and run their applications across our suite of
+  products including Docker Desktop, Docker Hub, and Docker
+  Scout. We are a globally distributed, remote-first team
+  building the tools that define how software gets built and
+  delivered. As AI agents redefine software development,
+  Docker is at the center of that shift, providing the
+  sandboxed environments, verified images, and secure
+  infrastructure that make autonomous workflows trustworthy by
+  default.
+
+  ____________________________________________________________
+  ___________
+
+  The Role
+
+  Secure Build builds and operates the infrastructure behind
+  Docker's container builds. The team owns Docker Build Cloud
+  and Docker Hub Automated Builds while developing the next
+  generation of trusted build and CI capabilities. Its
+  direction is to make Docker the trusted place CI runs:
+  isolated execution, brokered access to secrets and networks,
+  and verifiable evidence of what each build or test job did.
+  The work spans Go services, container and build technology,
+  cloud infrastructure, sandboxing and software supply-chain
+  security, alongside the operational responsibility for
+  production systems customers already depend on.
+
+  SCS Services builds the backend systems and product
+  capabilities that help developers understand, secure and
+  ship software with confidence. The team powers important
+  parts of Docker Scout and Docker Hardened Images, including
+  the services and workflows that turn supply-chain data into
+  useful developer, customer and agent experiences. Its estate
+  is deliberately polyglot, with Clojure and Go services,
+  event-driven workflows, Kafka, legacy Datomic components and
+  newer Spanner-backed services. It also supports the customer
+  journey around discovering, assessing, subscribing to and
+  managing hardened artefacts.
+
+  We are looking for one Engineering Manager to lead both
+  teams. Together they sit at the centre of Docker's secure
+  software supply-chain work: one creates trusted build
+  outcomes, while the other turns build, artifact and
+  dependency data into services and experiences used across
+  Scout and Docker Hardened Images. This is a two-team
+  leadership role with separate roadmaps, production
+  responsibilities and technical domains. The teams should
+  deliver independently, with explicit contracts and joined-up
+  ownership where their services connect.
+
+  You will own the health, delivery and growth of both teams
+  and make the trade-offs that keep them effective as a
+  portfolio. You will not be expected to be the deepest expert
+  in every language or domain. You will need enough technical
+  breadth and current engineering judgement to engage credibly
+  in designs, reviews and incidents across both teams, set
+  direction with strong senior engineers, and recognise when
+  the right answer is to create space for their expertise.
+
+  ____________________________________________________________
+  ___________
+
+  The Kind of Person We're Looking For
+
+  The successful candidate leads first. They are an
+  experienced engineering manager who can inherit two capable
+  teams, earn trust quickly and help each become a high-
+  performing, value-delivering part of the wider Docker
+  organisation. They are deliberate about where they spend
+  their attention, protect both teams from becoming the second
+  priority, and make portfolio trade-offs visible rather than
+  allowing urgency, proximity or the loudest stakeholder to
+  decide.
+
+  They stay close to the technical work without trying to own
+  every technical decision. They can hold a substantive
+  conversation about distributed backend systems, event and
+  data pipelines, build and CI infrastructure, trust
+  boundaries and production operations. They are active in
+  design and review, useful during incidents and willing to
+  get hands-on where that moves the work forward. The balance
+  still tilts strongly to leadership, coaching, delivery and
+  organisational judgement.
+
+  They care about security as a product and engineering
+  property, not only as compliance. They understand how modern
+  attacks exploit identity, secrets, dependencies and build
+  systems, and they can reason about the evidence customers
+  need to trust an artefact or workflow. They lead through
+  judgement, clarity and unblocking rather than ceremony for
+  its own sake. Above all, they grow the engineers around them
+  and help both teams ship outcomes developers and enterprises
+  can rely on.
+
+  ____________________________________________________________
+  ___________
+
+  Responsibilities
+
+  - Lead Secure Build and SCS Services, owning delivery, team
+    health, growth, performance and operational excellence
+    across both.
+  - Turn two changing roadmaps into a coherent portfolio plan
+    with explicit priorities, capacity and trade-offs, and
+    create leadership coverage so neither team becomes the
+    permanent second priority.
+  - Partner with Product to shape strategy and roadmaps for
+    secure build, Docker Scout, Docker Hardened Images and the
+    services that connect them.
+  - Stay close to the technical work through design and code
+    review, incident response and selective hands-on
+    contribution where it adds leverage.
+  - Ensure each team's technical direction supports product,
+    security, reliability and customer priorities, setting it
+    collaboratively with Staff and senior engineers while
+    leaving clear decision ownership with them.
+  - Own the interfaces between the teams, including trust
+    boundaries, contracts, data quality, versioning,
+    operational ownership and customer-facing failure modes.
+  - Balance new product work with inherited systems and on-call,
+    and invest in reliability improvements driven by recurring
+    operational pain.
+  - Own engineer growth and performance, handle difficult
+    conversations directly, hire and retain strong people and
+    build succession depth within both teams.
+  - Align Product, Design, Security, DHI Content, Registry, Hub,
+    sales, support, commercial and legal partners while
+    shielding the teams from churn.
+  - Lead disciplined use of AI-assisted engineering and
+    communicate decisions, risks and progress clearly across
+    UK and US working hours.
+
+  ____________________________________________________________
+  ___________
+
+  Qualifications
+
+  Required
+
+  - 5+ years managing high-performing engineering teams, with
+    meaningful responsibility across more than one team or
+    distinct technical domain.
+  - 8+ years of professional, hands-on software engineering
+    experience in backend, infrastructure, platform or
+    developer tooling.
+  - Experience leading, growing and retaining engineers at or
+    above your own technical seniority, including teams you
+    did not build and difficult performance conversations.
+  - A leader-first operating model, with current enough
+    technical judgement to participate in design and review
+    across unfamiliar systems without needing to be the best
+    engineer in the room.
+  - Experience prioritising across competing roadmaps,
+    operational load and stakeholder commitments, with clear
+    mechanisms for allocating attention and capacity.
+  - Strong backend and distributed-systems judgement, including
+    APIs, event-driven architectures, data stores, cloud-
+    native infrastructure and production operations.
+  - Understanding of CI or build-system internals, containers
+    and artefact workflows, plus a strong interest in software
+    supply-chain security and trust boundaries.
+  - Experience leading teams that operate production
+    infrastructure through on-call, incident response,
+    observability, SLOs and the work required to reduce
+    recurring operational load.
+  - Strong product judgement and evidence of shaping roadmaps
+    with Product rather than only receiving requirements.
+  - Clear written and verbal communication, strong cross-
+    functional influence, customer closeness and comfort
+    leading a remote-first organisation across European and US
+    time zones.
+
+  Helpful, but Not Required
+
+  - Experience with Go, Clojure or both, and evidence of
+    becoming effective across a polyglot estate.
+  - Experience with Kafka, Spanner, Datomic or comparable event-
+    streaming and distributed-data systems.
+  - Experience with OCI, BuildKit, Buildx, GitHub Actions or
+    comparable build and CI platforms.
+  - Experience with sandboxing, microVMs, untrusted workload
+    execution or multi-tenant infrastructure.
+  - Experience with SLSA, in-toto, SBOMs, VEX, Sigstore, cosign,
+    provenance, signing or vulnerability scanning.
+  - Experience evolving legacy systems while shipping new
+    capability for developer tools, security products,
+    regulated customers or software-agent workflows.
+
+  ____________________________________________________________
+  ___________
+
+  What to expectFirst 30 days
+
+  - Build relationships with every engineer and the Product
+    partners for both teams before changing structure, process
+    or roadmap.
+  - Understand Secure Build's product direction, production
+    estate and on-call load, including Docker Build Cloud and
+    Docker Hub Automated Builds.
+  - Understand the SCS Services products, customers,
+    architecture and operational profile, and map the
+    dependencies, trust boundaries and ownership lines between
+    the teams.
+
+  First 90 days
+
+  - Own a coherent portfolio plan with both teams and Product,
+    including explicit capacity for roadmap, reliability and
+    cross-team work.
+  - Establish a sustainable operating cadence and leadership
+    coverage that prevents either team depending on your
+    constant presence.
+  - Agree ownership and escalation paths for shared services and
+    failures, start one material improvement in each team and
+    make progress and risk visible.
+
+  One year Outlook
+
+  - Both teams deliver predictably against a portfolio that
+    connects secure build, Scout and Docker Hardened Images
+    outcomes without collapsing their distinct missions.
+  - Secure Build has delivered material trusted-build or secure-
+    CI capability and reduced operational risk in its
+    inherited production systems.
+  - SCS Services has delivered material customer outcomes, while
+    both teams have sustainable on-call, clearer ownership and
+    senior engineers leading broader work.
+
+  Visa sponsorship: Docker considers visa sponsorship on a
+  case-by-case basis based on business needs.
+
+  ____________________________________________________________
+  ___________
+
+  Compensation & Equity
+
+  All full-time roles include equity. Final compensation is
+  determined on factors including but not limited to
+  experience, skills, qualifications, and location.
+
+  Canada: CA$244,550 – CA$392,150 base
+
+  United States: $174,900 – $282,700 base
+
+  ____________________________________________________________
+  __________
+
+  Posting Information
+
+  - Open vacancy: This posting is for an existing open role.
+  - AI in hiring: Docker may use AI-assisted tools during our
+    recruiting process.
+  - Interview recordings: Candidates will be invited to opt in
+    to interview recordings to support interviewer calibration
+    and consistent evaluations. Recordings are optional and
+    require explicit consent.
+
+  ____________________________________________________________
+  __________
+
+  Perks & Benefits
+
+  - Remote-first by design – Work from your home, with offices
+    in Seattle and Paris for connection and collaboration.
+  - Flexibility that fits your life – We trust you to manage
+    your schedule while delivering great work.
+  - Time to recharge – Generous PTO, designated quarterly
+    Whaleness Days, and a designated end-of-year Whaleness
+    break.
+  - Home office support – Set up your workspace for comfort and
+    success.
+  - Technology stipend – Equivalent to US$100 net per month to
+    help support your work.
+  - Learning & development – Annual stipend for conferences,
+    courses, certifications, and continued learning.
+  - Parental leave – 16 weeks of paid parental leave after six
+    months of employment.
+  - Equity for all full-time employees – Share in Docker's long-
+    term success as we continue to grow.
+  - Comprehensive benefits – Medical, retirement, and paid
+    holidays vary by country.
+  - Docker swag – Because representing the whale never gets old.
+
+  Docker is proud to be an equal opportunity employer. We are
+  committed to building a team that reflects a broad range of
+  backgrounds, experiences, and perspectives. We believe
+  diverse teams build better products, make better decisions,
+  and better serve our global community.
+
+  #LI-REMOTE
+posted_date: 2026-08-27
+url: "https://builtin.com/job/manager-engineering-secure-build-and-scs-services-east-coast-preferred/10875831"
+source: Built In

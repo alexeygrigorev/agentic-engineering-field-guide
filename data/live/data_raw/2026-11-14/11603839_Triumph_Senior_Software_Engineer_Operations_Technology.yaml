@@ -1,0 +1,87 @@
+job_id: 11603839
+title: "Senior Software Engineer (Operations Technology & Automation)"
+company: Triumph
+location: USA
+locations:
+  - USA
+  - East Bay, USA
+remote: true
+work_type: FULL_TIME
+company_size: 28 Employees
+description: |
+  The Role
+
+  Triumph ships a lot of cards. Behind that is a warehouse, a
+  network of vendors, and hundreds of people running processes
+  that should be automated. This team builds the software that
+  makes all of it work, and we are hiring an engineer to help
+  us scale it.
+
+  You will be on a team of five building the software behind
+  Triumph's physical card business: the portal vendors sell to
+  us through, the dashboard that tracks our inventory,
+  computer vision that identifies cards, and the tools Ops
+  uses to audit and ship from our warehouse. You'll work full
+  stack across our Go backend, React frontend, and React
+  Native mobile apps.
+
+  This team sits closer to the physical cards than any other
+  engineering team at Triumph. Every card we buy, vault, and
+  ship moves through software you'll build. A problem Ops
+  flags in the morning often has a fix by the afternoon. You
+  can walk to the Ops floor and watch it get used the same
+  day. Please note this role is located in Mountain View, and
+  will most likely be moving to Fremont, CA in the near
+  future.
+
+  What You'll Do
+
+  - Build and scale the tooling that runs logistics: vendor
+    intake, validation, fulfillment, and third party logistics
+    integrations.
+  - Automate manual operations processes, working alongside
+    mechanical engineering, to increase how much Triumph can
+    ship.
+  - Extend our computer vision system for identifying cards from
+    a photograph, expanding it beyond its current scope to
+    additional trading card games.
+  - Build event and experiential tools, like the iPad pack rip
+    we ran at Collect-A-Con, and help shape what comes next.
+    This is an area where we want your ideas as much as your
+    code.
+  - Own and improve the internal dashboard and other internal
+    tooling as the team's scope grows.
+  - Work across the whole stack. We also maintain a few iOS
+    apps, which the team built along the way.
+
+  What We're Looking For
+
+  - 1-5 years of full stack web development experience.
+  - Comfort with ambiguity and ownership. Projects here are
+    defined loosely and you will shape them.
+  - Fluency with AI as a tool, never as a substitute for
+    understanding. You use it aggressively and can explain
+    every line that ships under your name.
+  - Willingness to work on site most days, where the operation
+    actually happens.
+
+  Why Triumph?
+
+  - High growth. Build the platform under a high-scale consumer
+    product that touches gaming, finance, and social, with 16x
+    year-over-year growth.
+  - High agency. We let builders build. Blast radius is
+    contained by modularity and feature flags, not by process
+    and approval gates. Small team, real ownership,
+    significant room for leadership.
+  - High stakes. Real money moves through your systems every
+    minute. The work is visible, and it matters.
+  - Competitive salary and benefits. $400/mo lunch credit,
+    healthcare, vision, dental, 401k, etc.
+  - In person. Our team gathers 5 days a week.
+industries:
+  - Gaming
+  - Software
+posted_date: 2026-10-09
+url: "https://builtin.com/job/software-engineer-operations-technology-automation-fullstack/11603839"
+source: Built In

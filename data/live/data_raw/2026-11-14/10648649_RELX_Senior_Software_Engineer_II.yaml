@@ -1,0 +1,139 @@
+job_id: 10648649
+title: Senior Software Engineer II
+company: RELX
+location: USA
+locations:
+  - USA
+  - New York, USA
+  - Philadelphia, USA
+remote: true
+work_type: FULL_TIME
+company_size: 10,001 Employees
+description: |
+  Senior Software Engineer AI Agents · Wellsheet at Elsevier
+
+  About Wellsheet at Elsevier: Wellsheet is a clinical
+  decision support platform used by more than 20,000 providers
+  across 100+ hospitals. We embed directly in the EHR (Epic,
+  Cerner, Athena) and put AI-generated clinical context in
+  front of clinicians at the bedside. In 2026 Wellsheet became
+  part of Elsevier's Clinical Solutions group, and we're now
+  building the next generation of our product: a new clinical
+  AI experience shipping to our first hospital clients in
+  early 2027, backed by an integration platform       we've
+  run in production for years. We're a small, all-senior
+  engineering team. You'll own real surface area from your
+  first weeks, work directly with the people who built the
+  system, and ship software that clinicians use during patient
+  care. No healthcare background is required. We train the
+  clinical and interoperability domain; we hire for
+  engineering judgment.
+
+  About the team, The Platform squad runs the machinery
+  underneath everything clinicians see: real-time EHR sync
+  across Epic, Cerner, and Athena, FHIR ingestion for 100+
+  hospitals, and vocabulary normalization across 125+ clinical
+  terminologies. The squad is led directly by the technical
+  leader behind Wellsheet's platform. Its next major build,
+  which you'll help kick off, is platform API that other
+  Elsevier clinical products and internal teams will consume.
+  The squad also owns the internal tooling for managing the
+  platform and the health of the stack itself, from framework
+  upgrades to developer tooling.
+
+  Responsibilities
+
+  - Owning agent-powered features end to end: prompt and
+    orchestration logic, backend plumbing, and the UI where
+    the output lands.
+  - Taking loosely specified feature ideas ("clinicians want the
+    chart review agent to explain itself") through design,
+    implementation, and measured rollout.
+  - Building and extending eval coverage for the features you
+    ship; nothing ships unmeasured
+  - Building new ways for agents to present their work, from
+    richer in-chat results to interactive views.
+  - Improving the synthetic data simulator and the tooling
+    around it
+  - Work across squad boundaries with Product to land agent
+    features in the clinical experience.
+  - Pairing with the engineer leading our agent work, ship an
+    improvement to a production agent feature end to end, and
+    add the eval coverage that proves it. By month three
+    you'll own an agent surface outright.
+
+  Requirements
+
+  - Possess current Software Engineering development skills with
+    TypeScript and Ruby experience; you treat prompts and
+    models as components in a system you're responsible for.
+  - End-to-end ownership from backend to UI, with the judgment
+    to keep the seams clean.
+  - Instinct to measure: you'd rather have a small honest eval
+    than a big impressive demo.
+  - Comfort with ambiguity; much of this work has no established
+    playbook yet.
+  - AI-assisted development as a default: coding agents and
+    spec-driven development are already part of how you work.
+
+  Elsevier is a renowned global information analytics company
+  that primarily focuses on providing scientific, technical,
+  and medical (STM) research content, tools, and services. It
+  is one of the largest publishers of academic journals and
+  scholarly literature in the world.
+
+  Elsevier operates in various domains, including science,
+  technology, medicine, social sciences, and more. They
+  publish a vast number of peer-reviewed journals covering a
+  wide range of disciplines. These journals act as platforms
+  for researchers and academics to share their findings and
+  contribute to the advancement of knowledge in their
+  respective fields.
+
+  U.S. National Base Pay Range: $95,300 - $158,800. Geographic
+  differentials may apply in some locations to better reflect
+  local market rates.
+
+  If performed in New York, the base pay range is $104,800 -
+  $174,700.If performed in New York City, the base pay range
+  is $114,300 - $190,500.If performed in Rochester, NY, the
+  base pay range is $95,300 - $158,800.
+
+  This job is eligible for an annual incentive bonus.
+
+  We know your well-being and happiness are key to a long and
+  successful career. We are delighted to offer country
+  specific benefits. Click here to access benefits specific to
+  your location.
+
+  We are committed to providing a fair and accessible hiring
+  process. If you have a disability or other need that
+  requires accommodation or adjustment, please let us know by
+  completing our Applicant Request Support Form or please
+  contact 1-855-833-5120.
+
+  Criminals may pose as recruiters asking for money or
+  personal information. We never request money or banking
+  details from job applicants. Learn more about spotting and
+  avoiding scams here.
+
+  Please read our Candidate Privacy Policy.
+
+  We are an equal opportunity employer: qualified applicants
+  are considered for and treated during employment without
+  regard to race, color, creed, religion, sex, national
+  origin, citizenship status, disability status, protected
+  veteran status, age, marital status, sexual orientation,
+  gender identity, genetic information, or any other
+  characteristic protected by law.
+
+  USA Job Seekers:
+
+  EEO Know Your Rights.
+industries:
+  - Information Technology
+  - Legal Tech
+  - Analytics
+posted_date: 2026-08-12
+url: "https://builtin.com/job/senior-software-engineer-ii/10648649"
+source: Built In

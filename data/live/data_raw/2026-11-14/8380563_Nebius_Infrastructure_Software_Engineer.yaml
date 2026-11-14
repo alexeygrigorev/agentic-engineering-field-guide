@@ -1,0 +1,161 @@
+job_id: 8380563
+title: Infrastructure Software Engineer
+company: Nebius
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 473 Employees
+description: |
+  About Nebius:
+
+  Nebius is leading a new era in cloud infrastructure for the
+  global AI economy. We are building a full-stack AI cloud
+  platform that supports developers and enterprises from data
+  and model training through to production deployment, without
+  the cost and complexity of building large in-house AI/ML
+  infrastructure.
+
+  Built by engineers, for engineers. From large-scale GPU
+  orchestration to inference optimization, we own the hard
+  problems across compute, storage, networking and applied AI.
+
+  Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we
+  have a global footprint with R&D hubs across Europe, the UK,
+  North America and Israel. Our team of 1,500+ includes
+  hundreds of engineers with deep expertise across hardware,
+  software and AI R&D.
+
+  The role
+
+  Nebius operates large-scale, mission-critical bare-metal
+  infrastructure. As a Software Engineer (Python), you will
+  design and build systems that provision, configure, test,
+  and manage physical hardware at scale. Your work will sit
+  close to the metal—interfacing directly with servers,
+  networks, and management controllers—while supporting highly
+  automated, reliable infrastructure operations.
+
+  You will collaborate closely with hardware, networking, and
+  data center operations teams to ensure our platforms are
+  robust, scalable, and production ready.
+
+  Your responsibilities will include:
+
+  - Design and develop backend services and automation in Python
+  - Build and maintain systems for hardware provisioning,
+    testing, and lifecycle management
+  - Develop software that runs directly on bare-metal
+    environments
+  - Integrate with Linux systems, using Bash and low-level
+    tooling where needed
+  - Implement and maintain CI/CD pipelines for infrastructure-
+    focused software
+  - Work with networking services including IPv4/IPv6, DHCP,
+    DNS, network boot, and server boot workflows
+  - Interface with BMC controllers and management protocols
+    (IPMI-style protocols, HTTP-based standards)
+  - Enable reliable hardware interaction and automation across
+    large fleets
+  - Support ARM64 / ARM64EC architectures
+  - Design and integrate NoSQL data stores for system state and
+    orchestration data
+  - Write clear documentation and contribute to operational
+    excellence
+
+  What we expect you to have:
+
+  - Strong professional experience as a software engineer, with
+    a focus on Python
+  - Solid experience with Linux systems and shell scripting
+  - Hands-on experience working with bare-metal servers or low-
+    level infrastructure Strong understanding of networking
+    fundamentals (IPv4/IPv6, DHCP, DNS, PXE / network boot)
+  - Experience interacting with hardware management interfaces
+    (BMC, IPMI-like protocols, HTTP APIs)
+  - Familiarity with CI/CD systems and production deployment
+    workflows
+  - Experience designing or working with NoSQL databases
+  - Ability to debug complex issues spanning software, hardware,
+    and networks
+  - Strong ownership mindset and clear communication skills in a
+    distributed team
+
+  It will be an added bonus if you have:
+
+  - Experience operating or building systems for large-scale
+    infrastructure
+  - Familiarity with ARM-based platforms in production
+    environments
+  - Background in hardware testing, validation, or factory
+    provisioning
+  - Experience with infrastructure automation or internal
+    platform tooling
+  - Contributions to open-source or internal systems software
+    projects
+
+  Working conditions:
+
+  - Fully remote position (United States)
+  - Collaboration with globally distributed engineering and
+    operations teams
+
+  Key employee benefits:
+
+  - Health insurance: 100% company-paid medical, dental, and
+    vision coverage for employees and families
+  - 401(k) plan: up to 4% company match with immediate vesting
+  - Parental leave: 20 weeks paid for primary caregivers, 12
+    weeks for secondary caregivers
+  - Remote work reimbursement: up to $85/month for mobile and
+    internet
+  - Disability & life insurance: company-paid short-term, long-
+    term, and life insurance coverage
+
+  Compensation
+
+  - We offer competitive salaries, ranging from $150k- $210k
+    base equity + quarterly performance bonuses.
+
+  Join Nebius today and help build the software that powers
+  the next generation of AI infrastructure.
+
+  Benefits & Perks:
+
+  - Competitive compensation
+  - Career growth and learning opportunities
+  - Flexibility and ownership
+  - Collaborative and innovative culture
+  - Opportunity to work on impactful AI projects
+  - International environment and talented teams
+
+  What's it like to work at Nebius:
+
+  Fast moving - Bold thinking - Constant growth - Meaningful
+  impact - Trust and real ownership - Opportunity to shape the
+  future of AI
+
+  Equal Opportunity Statement:
+
+  Nebius is an equal opportunity employer. We are committed to
+  fostering an inclusive and diverse workplace and to
+  providing equal employment opportunities in all aspects of
+  employment. We do not discriminate on the basis of race,
+  color, religion, sex (including pregnancy), national origin,
+  ancestry, age, disability, genetic information, marital
+  status, veteran status, sexual orientation, gender identity
+  or expression, or any other characteristic protected by
+  applicable law.
+
+  Applicants must be authorized to work in the country in
+  which they apply and will be required to provide proof of
+  employment eligibility as a condition of hire.
+
+  If you need accommodations during the application process,
+  please let us know.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Consulting
+posted_date: 2026-08-01
+url: "https://builtin.com/job/infrastructure-software-engineer/8380563"
+source: Built In

@@ -1,0 +1,94 @@
+job_id: 11267465
+title: Software Engineer
+company: Love Mobile
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 5 Employees
+description: |
+  About Love Mobile
+
+  Love Mobile is a community‑focused mobile telecommunications
+  company on a mission to give back. Launched in beta in
+  Tulsa, OK, we blend modern network services with meaningful
+  social impact, investing a portion of every customer’s spend
+  back into local schools, shelters, and skill‑building
+  initiatives. As we scale our website, PWA, and
+  native‑feeling apps, we need a hands‑on technologist who can
+  build the features our customers want today and lay the
+  foundation for tomorrow’s innovations.
+
+  What You’ll Do
+
+  - Build & maintain our digital front ends:
+  - Develop responsive, interactive web experiences (React, Vue,
+    or Angular) and Progressive Web Apps.
+  - Extend into React Native or Flutter for “app‑store”
+    installs.
+  - Design & integrate APIs:
+  - Architect, document, and secure RESTful or GraphQL services
+    (Node.js/Python).
+  - Connect with third‑party platforms (payment gateways, CRMs,
+    SMS/voice providers).
+  - Stand up AI‑powered bots:
+  - Build and maintain conversational chat and voice bots
+    (Dialogflow, Rasa, Microsoft Bot Framework).
+  - Implement tier‑1 support automation and seamless escalation
+    to live reps via Twilio/other telephony.
+  - Targeted messaging & ad‑tech:
+  - Integrate with ad‑generator APIs (Google Marketing Platform,
+    Facebook Marketing API, or custom DSPs).
+  - Segment users and send personalized push notifications (FCM,
+    APNs, web‑push) and in‑app messages.
+  - Measure & iterate:
+  - Instrument analytics (Google Analytics, Mixpanel, Amplitude)
+    and run A/B tests.
+  - Monitor performance, optimize load times (service workers,
+    code‑splitting, WebP images), and ensure 99.9% uptime.
+
+  What We’re Looking For
+
+  - Proven Experience (2–5 years):
+  - Hands‑on building full‑stack applications, designing and
+    integrating APIs, and/or implementing marketing‑tech
+    workflows.
+  - Technical Skills:
+  - Front‑end: JavaScript/TypeScript with React (or
+    Vue/Angular), CSS Grid/Flexbox, responsive design.
+  - Backend/API: Node.js (Express/Koa) or Python
+    (Django/Flask/FastAPI), OAuth/JWT, database design
+    (PostgreSQL, MongoDB).
+  - Conversational AI: Intent/entity modeling, dialog flow
+    design, voice integrations (Twilio, Amazon Connect).
+  - Ad‑tech & Automation: Calling marketing APIs, user
+    segmentation, push/in‑app messaging.
+  - DevOps Basics: Docker, CI/CD, cloud platforms
+    (AWS/GCP/Azure), HTTP/2 or HTTP/3 deployments.
+  - Soft Skills:
+  - Clear communicator, customer‑centric mindset, comfortable in
+    a fast‑paced startup environment.
+  - Legal Requirement:
+  - Must be legally authorized to work in the United States
+    without company sponsorship now or in the future.
+
+  Nice‑to‑Haves
+
+  - Familiarity with large‑language models (OpenAI, Anthropic).
+  - Exposure to MVNO/MVNE telecom ecosystems.
+  - Experience with workflow automation tools (Zapier, n8n).
+
+  Why You’ll Love Working Here
+
+  - Impact: Every line of code powers devices in our
+    community—and funds local schools, shelters, and
+    job‑training programs.
+  - Growth: Wear multiple hats in a lean team and shape the
+    product roadmap as we scale.
+  - Perks: Competitive salary, flexible schedule, professional
+    development budget, health benefits, and volunteer day
+industries:
+  - Mobile
+  - Social Impact
+posted_date: 2026-10-05
+url: "https://builtin.com/job/software-engineer/11267465"
+source: Built In

@@ -1,0 +1,169 @@
+job_id: 6987155
+title: Senior / Staff Product Engineer, Backend
+company: Radar
+location: New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 64 Employees
+description: |
+  About Radar
+
+  Radar is the global leader in geolocation, with geofencing
+  SDKs, maps APIs, and AI-enabled solutions for marketing,
+  fraud, and operations teams.
+
+  Why is Radar the best place to work?
+
+  - We're trusted by some of the world's best companies, from
+    high-growth startups to the Fortune 500.
+  - We have incredible scale: We're processing over 1 billion
+    API calls per day from hundreds of millions of devices.
+  - We're well-resourced, and we've raised $85.5M from world-
+    class investors, including Accel and Insight Partners.
+  - We have a high-performance culture, with ambitious and
+    entrepreneurial teammates in every role.
+  - We recently moved into an amazing new office in Flatiron,
+    Manhattan, NYC.
+  - We were recently named a top 10 best place to work in NYC by
+    Crain's.
+
+  Despite our growth and scale, we're still just getting
+  started. That's where you come in.
+
+  About the role:
+
+  We're looking for Backend Product Engineers to extend the
+  core Radar platform. Our daily traffic is 1 Billion API
+  calls / day (15,000 requests / second) so you will be
+  operating at scale. This role can either be in our NYC HQ or
+  remote in the US.
+
+  How we work:
+
+  Most of our engineering team are former technical co-
+  founders or former Radar interns from schools like Waterloo
+  and CMU. Most engineers at Radar fit one of two molds,
+  technically: either Staff level expertise in one stack, or
+  "Multi-Stack" at any level. We say "Multi-Stack" because
+  "Full-Stack" has the connotation of "Frontend and Backend",
+  but Radar Engineers might also work on Mobile or Data
+  engineering. Not that you need to be an expert in all of
+  those, but a desire to learn, jump around to different
+  stacks, and get things done is the important part.
+
+  We care a lot about shipping fast and talking to customers.
+  We're committed to our product vision of full-stack location
+  infrastructure, but we also know that customer feedback is a
+  treasure map to gold. Even though Slack is the brain of our
+  company, working together in-person in our NYC HQ is the
+  fastest way for us to get things done. We meet on Mondays to
+  plan out work for the week in small groups and use Linear
+  for planning.
+
+  To us, a week is a long time, and we expect to ship big
+  things every week.
+
+  The stack:
+
+  The API layer is a Node.js TypeScript app.
+
+  Our main backend service is a geospatial database written in
+  Rust that we call HorizonDB.
+
+  We use MongoDB, S3/Athena, Redis, and Airflow.
+
+  Everything is deployed to AWS via Kubernetes on EKS using
+  Terraform .
+
+  Most engineers are in the on-call rotation.
+
+  We sponsor OpenStreetMaps, MapLibre, and OpenAddresses.
+
+  How we use AI:
+
+  - Engineers choose what AI tools they use, Claude and Codex
+    being the most popular.
+  - We're actively building Claude skills - for example we've
+    taught it how to debug HorizonDB, our geospatial database.
+  - All code changes are reviewed by an Engineer knowledgeable
+    in that area. Claude and Codex also review all PRs.
+  - There is a range of how much engineers use AI. Most use it
+    daily if not weekly.
+  - We are excited about what AI can do, but we also recognize
+    the risks and don't compromise our coding standards.
+
+  The hiring process:
+
+  After a call with our Technical Recruiter, you'll do several
+  technical Zoom calls with members of our engineering team:
+  code screen, coding round, and system design round. If those
+  go well we'll invite you to our NYC HQ for a final round
+  interview. You'll meet one of our co-founders, someone from
+  outside engineering, and meet more people from Radar. We'll
+  go into more depth about how we work to see if there is a
+  match.
+
+  What you’ll do:
+
+  - Work on core Radar products using TypeScript, Rust, Python
+    and Scala
+  - Work on features across the backend API layer and offline
+    pipelines
+  - Have your work power 1 Billion API calls / day
+  - Talk to Radar customers and prospects, hear their feedback,
+    incorporate it into your work and make them successful
+
+  You should:
+
+  - Think of yourself as a generalist engineer first, not tied
+    to any particular stack
+  - Are interested in talking to customers or prospects and
+    making them successful
+  - Are deeply curious about how things work, and have the
+    tenacity to sit with hard problems and power through them
+
+  Bonus points if you:
+
+  - Are a former technical co-founder
+  - Have worked on a high throughput, high growth SaaS
+    application
+  - Have worked on geospatial infrastructure
+
+  You’ll work with:
+
+  - Nick Patrick, Co-Founder and CEO
+  - Tim Julien, CTO
+  - Our customers and prospects
+  - Our Customer Success, Sales Engineering, and Sales teams
+
+  What we offer:
+
+  - Competitive salary
+  - Meaningful stock options in a fast-growing company
+  - 401(k) plan with 4% match
+  - New HQ in Flatiron, NYC
+  - Top-notch equipment
+  - Catered lunches
+  - Unlimited PTO
+  - Health, dental, and vision insurance with 100% coverage for
+    employees
+  - 12 weeks of paid parental leave
+  - Commuter and fitness benefits
+
+  We’ll share full details of our benefits package at the
+  offer stage. Benefits may vary by location.
+
+
+
+  Radar is an equal opportunity employer and does not
+  discriminate on the basis of race, color, ancestry,
+  religion, sex, national origin, sexual orientation, age,
+  citizenship, marital status, disability, gender, gender
+  identity or expression, veteran status, or any other
+  characteristic protected by law.
+industries:
+  - Mobile
+  - Software
+posted_date: 2026-08-22
+url: "https://builtin.com/job/product-engineer-backend/6987155"
+source: Built In

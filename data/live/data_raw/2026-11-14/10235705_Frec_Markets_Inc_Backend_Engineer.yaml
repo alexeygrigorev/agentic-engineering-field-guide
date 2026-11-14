@@ -1,0 +1,95 @@
+job_id: 10235705
+title: Backend Engineer
+company: Frec Markets, Inc.
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 12 Employees
+description: |
+  We created Frec to expand the possibilities for everyone and
+  their money. We’re a tight team of builders, creators, and
+  designers who want to be smarter with our money for our
+  futures and our families. As a software engineer at Frec,
+  you’ll create products that enable us to level the financial
+  playing field and empower people to manage their own money.
+  Some values we identify with are accountability, humility,
+  compassion, and teamwork. If this resonates with you, join
+  us at this pivotal time to help shape our structures,
+  systems, and Frec’s future.
+
+  Frec highly values product ideas and feedback from all
+  employees, in a true bottoms-up fashion. This means as an
+  engineer, you will work with a growing team comprised of
+  product managers, designers, and brokerage operations
+  professionals to ideate, prioritize, prototype, develop,
+  test, and iterate on software that will educate and equip
+  people with newer and smarter ways to build wealth. We’re
+  looking for engineers who have an unrelenting sense of
+  urgency and capability to move fast, have a strong sense of
+  ownership, ability to deal with ambiguity and are
+  enthusiastic about tackling new challenges to help us build
+  a world-class financial platform.
+
+  What you will do:
+
+  - Backend Engineering: You will be working with a small team
+    of experienced engineers across all areas related to the
+    backend powering Frec. You will own large pieces of the
+    infrastructure – all aspects of it ranging from proposing
+    changes to existing services, building new ones, improving
+    how we deploy, and ensuring the systems we build are
+    stable, durable, and can scale smoothly as we grow. You
+    take pride in designing services that not only work well
+    in development but remain healthy, observable, and easy to
+    operate in production.
+  - Distributed Systems & Data Processing: You’ll tackle complex
+    backend challenges around data consistency, transactional
+    integrity, and high availability. This includes designing
+    APIs and services that are fault-tolerant, building
+    mechanisms for secure and reliable financial data
+    handling, and ensuring the platform scales gracefully
+    under increasing load.
+  - Infrastructure & Operations Mindset: You will help shape how
+    we build, deploy, and monitor our services. You care
+    deeply about stability and maintainability, ensuring every
+    line of code contributes to a platform that’s resilient in
+    the face of failures and straightforward to operate.
+  - Collaboration: You’ll partner closely with other backend
+    engineers, as well as product, design, and operations
+    teams, to ensure we build a platform that is technically
+    strong, operationally sound, and enables high-quality
+    product experiences.
+
+  What we offer:
+
+  - Competitive salary and equity grants
+  - Fully paid health, vision and dental insurances
+  - 401k
+  - Monthly allowance to help with maintaining a healthy body
+    and mind (fitness & mental health components)
+  - Flexible (Unlimited) paid time off
+  - Visa sponsorship & immigration support
+  - Daily in-office lunch and dinner
+  - Office in San Francisco/New York for in-person collaboration
+    (close to public transit options)
+
+  Tech stack:
+
+  - TypeScript/Node, Python as the main components of the
+    backend
+  - PostgreSQL as our data store, with Redis for caching and
+    distributed coordination
+  - Distributed worker systems powering asynchronous and high-
+    throughput tasks
+  - Deployed on AWS using containerized infrastructure
+  - GraphQL as the mode of building and exposing APIs
+
+  Contact:
+
+  If all of the above resonates with you, reach out to us at
+  careers@frec.com or apply below!
+posted_date: 2026-08-12
+url: "https://builtin.com/job/backend-engineer/10235705"
+source: Built In

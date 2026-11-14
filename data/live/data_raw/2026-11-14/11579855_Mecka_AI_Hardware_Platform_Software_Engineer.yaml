@@ -1,0 +1,112 @@
+job_id: 11579855
+title: Hardware, Platform Software Engineer
+company: Mecka AI
+location: Toronto, CAN
+locations:
+  - Toronto, CAN
+  - New York, USA
+work_type: FULL_TIME
+company_size: 58 Employees
+description: |
+  About Mecka AI
+
+  Mecka AI is building the data infrastructure layer for
+  robotics and embodied AI. We design and operate global
+  systems for data capture, data labeling, and hardware-
+  enabled workflows used by leading AI labs and robotics
+  companies to train and validate humanoid and embodied AI
+  systems. We work closely with frontier robotics teams to
+  bridge real-world data, simulation, learning-based systems,
+  and deployed hardware.
+
+  About the Role
+
+  You will build the software platform that connects Mecka's
+  capture devices, operations, and customers. As data
+  collection grows, your work will let people operate a
+  distributed fleet and put its data to use through reliable
+  systems and clear interfaces.
+
+  You will own production software from architecture through
+  deployment and operation, with depth in service reliability
+  or developer experience.
+
+  What You'll Do
+
+  - Own service and API design for connected hardware and data-
+    intensive workflows, including the data models behind
+    them.
+  - Build telemetry, diagnostics, and operational tools that
+    help engineers understand how devices and services are
+    behaving.
+  - Develop APIs, SDKs, and command-line tools that help
+    hardware and data customers integrate Mecka into their
+    workflows.
+  - Implement asynchronous workflows that handle retries,
+    duplicate events, and interrupted transfers predictably.
+  - Test complete user workflows end to end, and maintain
+    documentation, monitoring, and backward compatibility as
+    the platform evolves.
+
+  What You BringMust-have:
+
+  - 5+ years of software engineering experience, including
+    strong backend programming and operating production
+    services in a language such as Python, Go, or TypeScript.
+  - Depth in at least one of these areas:
+    - Service reliability: telemetry, monitoring, diagnostics, and
+      operational tooling for distributed systems.
+    - Developer experience: APIs, SDKs, command-line tools,
+      documentation, and useful examples.
+  - Experience designing APIs, data schemas, and databases, with
+    practical knowledge of SQL and query performance.
+  - Understanding of how distributed systems fail, including
+    retries, duplicate events, interrupted transfers, and
+    intermittent connectivity.
+  - Knowledge of authentication, authorization, automated
+    testing, versioning, and release practices.
+  - Ability to debug across services, client software, and
+    device interfaces.
+
+  Nice-to-have:
+
+  - Experience with connected hardware or operational web
+    applications.
+  - Experience building public SDKs or working with large video
+    and sensor datasets.
+
+  About You
+
+  - You are ambitious about what you build. You can point to
+    results you personally delivered.
+  - You care deeply about your craft, pursue difficult
+    questions, and learn quickly.
+  - You take initiative and own problems through to results. You
+    work independently, make decisions, and bring others in
+    when needed.
+  - You communicate honestly. You own mistakes, share credit,
+    and help the people around you succeed.
+
+  If you don't check every box above but believe you can do
+  the job, we encourage you to apply — we're looking for
+  capability and trajectory, not a perfect checklist match.
+
+  We strive to create an inclusive work environment for all;
+  we welcome applicants from all backgrounds and are committed
+  to providing equal opportunities. Should you require any
+  accommodations during the recruitment process, we will
+  partner with you to meet your needs.
+
+  We may use AI-assisted tools to help evaluate applications
+  against the requirements of this role. These tools support
+  our recruiting team in identifying qualified candidates but
+  do not replace human judgment or limit which applications
+  may be reviewed or considered.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Machine Learning
+  - Robotics
+posted_date: 2026-10-08
+url: "https://builtin.com/job/senior-software-engineer-device-data-platform/11579855"
+source: Built In

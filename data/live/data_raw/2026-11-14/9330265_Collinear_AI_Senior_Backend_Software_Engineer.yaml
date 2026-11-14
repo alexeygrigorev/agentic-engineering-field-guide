@@ -1,0 +1,108 @@
+job_id: 9330265
+title: Senior Backend Software Engineer
+company: Collinear AI
+location: USA
+locations:
+  - USA
+  - Mountain View, USA
+remote: true
+work_type: FULL_TIME
+company_size: 2200 Employees
+description: |
+  About the Company
+
+  Born from the understanding that AI deployment shouldn't
+  require months of preparation or compromise on quality,
+  we've built a comprehensive platform that turns your brand
+  values into production-ready AI applications in days, not
+  months.
+
+  Our product is AI Judges that are trained with proprietary
+  auto-align technology and powered by state-of-the-art
+  research on Alignment and RL. We help companies build AI
+  systems that aren't just safe and reliable, but truly
+  aligned with their brand values and business objectives.
+
+  Backed by top-tier Silicon Valley venture capital firms,
+  we're on a mission to make safe, reliable, and highly-
+  performant frontier AI for enterprise use-cases a reality.
+
+  Join us in pushing the boundaries of what's possible in AI!
+  Learn more about the company here.
+
+  About the Role
+
+  We're looking for a Senior Backend Software Engineer to help
+  shape the infrastructure behind cutting-edge LLM alignment.
+  You’ll design the systems that transform research
+  breakthroughs into real-world products, fast, reliable, and
+  built to scale.
+
+  This isn’t just another backend role. You'll be working
+  hand-in-hand with researchers and product teams to bring
+  alignment workflows to life, build internal tools for
+  experimentation, and power the next generation of enterprise
+  LLM customization. If you’re excited by the idea of building
+  something novel from the ground up and leaving your
+  fingerprints on a rapidly evolving space, we’d love to meet
+  you.
+
+  What You’ll Do
+
+  - Design, build, and scale backend systems using Python and
+    FastAPI
+  - Architect robust APIs and services to support our alignment
+    workflows and customer-facing tools
+  - Optimize infrastructure for performance, latency, and scale
+  - Collaborate with researchers and ML engineers to integrate
+    models and support experimentation
+  - Build tooling to evaluate and visualize model behavior
+  - Implement testing frameworks, CI/CD pipelines, and
+    monitoring systems
+  - Work across SQL/NoSQL databases, designing efficient schemas
+    and data pipelines
+  - Contribute to a strong engineering culture and help define
+    backend best practices
+  - Stay current with backend trends and emerging technologies
+
+  What We’re Looking For
+
+  - 5+ years of backend engineering experience, ideally at
+    startups or fast-paced teams
+  - Strong proficiency in Python (FastAPI or similar
+    frameworks)Experience designing APIs, microservices, and
+    distributed systems
+  - Hands-on experience with DevOps tools (e.g., Docker,
+    Kubernetes, AWS, GitHub Actions)
+  - Familiarity with data modeling, query optimization, and both
+    SQL and NoSQL databases
+  - Experience working closely with ML teams or building ML
+    infrastructure is a plus
+  - A bias for shipping, ownership, and thoughtful system design
+  - Experience with Celery (or similar task queues) for async
+    model workflows, including retries, scheduling,
+    monitoring, and production ops.
+  - Bonus: Interest in LLMs, post-training techniques (e.g.,
+    reward models, evaluation, data curation), or alignment
+    research
+
+  Why Join Us
+
+  - Shape the future of aligned AI at the infrastructure layer
+  - Work alongside top researchers, engineers, and operators in
+    a high-trust, low-ego team
+  - Comprehensive health, dental, and vision coverage
+  - Build meaningful systems with real-world impact and
+    technical depth
+
+  This is a rare opportunity to join a small, high-performing
+  team and help build something that matters. Let’s redefine
+  what enterprise AI can be.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Generative AI
+posted_date: 2026-08-24
+url: "https://builtin.com/job/senior-backend-software-engineer/9330265"
+source: Built In

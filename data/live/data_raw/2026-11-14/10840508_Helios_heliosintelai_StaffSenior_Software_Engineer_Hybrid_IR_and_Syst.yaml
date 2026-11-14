@@ -1,0 +1,167 @@
+job_id: 10840508
+title: Staff/Senior Software Engineer, Hybrid IR and Systems
+company: Helios (heliosintel.ai)
+location: New York, USA
+work_type: FULL_TIME
+company_size: 8 Employees
+description: |
+  Staff/Senior Software Engineer, Hybrid IR and Systems
+
+  New York City | Full-time | On-site in SoHo, five days per
+  week
+
+  Reports to the CTO and works directly with the founding team
+
+  ABOUT HELIOS
+
+  Helios is building a new kind of company to solve America’s
+  hardest problems, starting with the government interaction
+  layer.
+
+  Government shapes every consequential market, but the
+  infrastructure connecting public institutions and private
+  organizations remains fragmented, manual, and difficult to
+  navigate. Helios is rebuilding that layer.
+
+  Our core platform, Proxi, gives organizations the
+  intelligence they need to understand what government is
+  doing, why it matters, and what to do next. From that
+  foundation, we design and deploy secure, mission-specific
+  systems for government agencies, enterprises, and
+  institutions operating in complex and highly regulated
+  environments.
+
+  We bring together frontier AI, deep public-sector expertise,
+  and forward-deployed execution. Our team includes leaders
+  and builders from the White House, U.S. Department of State,
+  Datadog, and Microsoft. We are backed by leading
+  institutional investors and trusted by organizations working
+  on high-stakes problems across government and industry.
+
+  MISSION
+
+  As a search and information retrieval engineer at Helios,
+  you will own the key components of the Helios Rapid Ontology
+  System (H.R.O.S.), our long horizon temporal memory
+  management and search system. This system is what powers
+  Proxi’s lossless memory system, enabling traceable and
+  auditable AI outputs for sensitive information environments.
+  This also is used to power retrieval over our several
+  hundred terabyte data corpora. Expected areas of expertise:
+
+  - Retrieval mechanisms and their complementarity.
+  - Analyzers, tokenization, field boosts and BM25
+    parameterization for lexical indices. HNSW parameters,
+    quantization, shard design and recall against latency for
+    vector indices.
+  - Rank fusion, score normalization, learning to rank, cross
+    encoder reranking, duplicate suppression and source
+    coverage limits.
+  - Query intent classification, entity linking, alias and
+    acronym graphs, controlled expansion and translation of
+    natural language into structured filters and facets.
+  - Temporal modeling, valid vs. transaction time, supersession,
+    corrections and effective date intervals.
+  - Permission aware retrieval, including tenant isolation, PII
+    filtering and cache key authorizations.
+  - Relevance evaluation under sparse labels.
+  - Multilingual and cross lingual retrieval.
+
+  KEY RESPONSIBILITIES
+
+  - Own Proxi’s retrieval stack end to end, from corpus
+    onboarding and index design through hybrid retrieval,
+    fusion, reranking, reindexing, and backfills.
+  - Advance our query-understanding and temporal-retrieval
+    capabilities, including intent detection, entity
+    resolution, structured filtering, and jurisdiction-,
+    date-, and version-aware search.
+  - Improve retrieval performance, reliability, and cost through
+    capacity planning, caching, reranker optimization, and
+    safe degradation under load.
+  - Expand federated search across Proxi’s separate data
+    collections, including source-aware query planning,
+    filtering, score calibration, and result merging.
+  - Enhance time as a first-class retrieval concept so users can
+    search the correct version, status, or historical state of
+    a record.
+  - Improve the dynamic connection system to map documents and
+    records to the people, organizations, agencies, events,
+    and relationships they concern.
+  - Expand support for multimodal content searchable through the
+    same retrieval interface as Proxi’s continuously ingested
+    datasets.
+  - Own relevance quality and production performance, including
+    evaluation, indexing, observability, authorization,
+    provenance, and recovery.
+
+  NICE TO HAVE
+
+  - Domain adaptation of embedding models through fine tuning,
+    hard negative mining or distillation.
+  - Work on policy, legislative, procurement, legal or
+    healthcare corpora, where traceable information systems
+    are mandatory.
+  - Experience with transliteration and identifying entity names
+    that should never be translated.
+  - Operating search in classified, air gapped or forward
+    deployed environments.
+  - Open source contributions to search and ranking projects.
+
+  WORKING AT HELIOS
+
+  This is a full-time, in-person role based in our SoHo office
+  in New York City. Team members are expected to work from the
+  office five days per week when they are not deployed with
+  customers.
+
+  Certain customer engagements may require background checks,
+  security reviews, access approvals, or eligibility for a
+  U.S. government security clearance. Some projects may be
+  subject to U.S. citizenship or other customer-specific
+  access requirements.
+
+  We're not looking for passengers; we want driven innovators
+  with a hunger to build from the ground up - obsessed with
+  pushing the boundaries of natural language understanding,
+  document processing, and personalized relevance.
+
+  Helios is a fast-moving startup with ambitious goals. This
+  is not a conventional 9-to-5 role. We expect flexibility
+  during critical deployment periods, customer incidents,
+  product launches, and other company-critical work. In
+  return, this role offers unusual ownership, direct access to
+  consequential institutions, and the opportunity to build
+  systems that affect how major decisions are made.
+
+  HOW WE WORK
+
+  - Own outcomes, not just assigned tasks. Identify what needs
+    to happen and drive it through completion.
+  - Move quickly without lowering the standard. Speed and rigor
+    are complementary.
+  - Stay close to the mission and the user. The best decisions
+    begin with the real problem.
+  - Work across boundaries. Everyone contributes beyond the
+    narrow limits of a job title.
+  - Communicate directly. We value clear thinking, honest
+    feedback, and low-ego collaboration.
+  - Build for the real world. Our systems must perform in
+    complex, regulated, and high-stakes environments.
+
+  EQUAL OPPORTUNITY
+
+  Helios is an equal opportunity employer. We evaluate
+  candidates based on their abilities, experience, and
+  potential to contribute to our mission. We do not
+  discriminate on the basis of race, color, religion, sex,
+  gender identity or expression, sexual orientation, national
+  origin, age, disability, veteran status, or any other status
+  protected by applicable law.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-08-25
+url: "https://builtin.com/job/staff-senior-software-engineer-hybrid-ir-and-systems/10840508"
+source: Built In

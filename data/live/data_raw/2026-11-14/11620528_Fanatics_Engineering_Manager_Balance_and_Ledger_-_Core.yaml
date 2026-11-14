@@ -1,0 +1,199 @@
+job_id: 11620528
+title: Engineering Manager, Balance and Ledger - Core
+company: Fanatics
+location: New York, USA
+work_type: FULL_TIME
+company_size: 7,500 Employees
+description: |
+  About Us
+
+  Fanatics is a leading global sports platform redefining how
+  fans connect with the teams, players and moments they love.
+  Our businesses — Fanatics Commerce, Fanatics Collectibles,
+  Fanatics Betting & Gaming, Fanatics Events, Fanatics
+  Advertising, Fanatics Markets and Fanatics Studios —
+  maximize the presence and reach for hundreds of partners
+  globally and create a one-stop experience that allows fans
+  to buy, bet, collect, and earn, while engaging with sports
+  in deeper, more immersive ways. This includes licensed fan
+  gear and lifestyle products, sportsbook and iGaming,
+  physical and digital trading cards, live events, premium
+  sports entertainment content, credit card offerings and
+  more. Together, they form a powerful, integrated ecosystem —
+  connected by the Fanatics ONE loyalty program and FanCash,
+  the currency of sport — delivering personalized experiences
+  to over 100 million fans worldwide. Fanatics holds
+  partnerships with over 900 sports properties, from
+  professional leagues and players’ associations to teams,
+  colleges and retail partners; over 7,000 athletes and
+  celebrities; and over 2,000 retail locations, including all
+  Lids stores. Backed by a team of more than 22,000 employees,
+  Fanatics is committed to relentlessly enhancing the fan
+  experience.
+
+  Overview
+
+  Fanatics Betting & Gaming (FBG) is on a mission to create
+  the best online sportsbook in the industry. We are seeking
+  an Engineering Manager to lead the team that builds the
+  Balance and Ledger platform: the shared ledger and customer-
+  level balance that holds customer funds across Fanatics.
+  This leader will own systems where accuracy matters most,
+  guiding the team through complex and ambiguous problems
+  while ensuring operational excellence, consistent delivery,
+  and long-term impact. The team sits within the Customer,
+  Accounts & Transactions (CAT) domain and works closely with
+  the Payments team.
+
+  The Engineering Manager plays a central role in shaping the
+  architecture, processes, and engineering culture of the
+  balance platform. You will lead backend engineers (Java,
+  Spring Boot, AWS) who are responsible for the ledger, the
+  rules that decide where each portion of a balance can be
+  used, and the migration of existing wallets onto a shared
+  platform.
+
+  At FBG, we're revolutionizing sports betting with cutting-
+  edge technology, a customer-first mindset, and a world-class
+  engineering team. You'll have the opportunity to work on
+  complex, high-scale challenges in an exciting and rapidly
+  growing industry, as part of a team that values innovation,
+  integrity, and excellence.
+
+  ResponsibilitiesOperational Leadership & Ownership
+
+  - Lead an engineering team that owns the ledger and balance
+    services for customer funds, where correctness,
+    auditability, and availability are key.
+  - Drive operational excellence by setting high standards for
+    security, reliability, observability, and on-call
+    practices.
+  - Lead the phased migration of existing business wallets onto
+    the shared ledger, including reconciliation, cutover, and
+    rollback planning that avoids customer-visible downtime.
+  - Partner with Finance, Legal, and Compliance on fund
+    attribution between businesses, settlement, chargebacks,
+    and audit requirements.
+  - Identify and resolve technical and operational risks before
+    they affect the business.
+
+  Team Performance & Delivery
+
+  - Build and maintain a high-performing engineering team
+    through hiring, coaching, performance management, and
+    career development.
+  - Define and execute a roadmap that balances new capabilities,
+    migration work, technical health, and operational load.
+    Plan team capacity honestly, make tradeoffs visible, and
+    hold the team to the commitments it makes.
+  - Deliver maintainable, scalable software that handles high
+    transaction volume without losing or double-counting a
+    transaction.
+  - Stay close enough to the technical work to review designs,
+    take part in architectural decisions, and unblock
+    engineers.
+
+  Communication, Stakeholder Management & Product Partnership
+
+  - Communicate clearly with engineers, Product, Finance, Legal,
+    Compliance, and executive stakeholders.
+  - Build partnerships with the Payments team and with the teams
+    in other Fanatics businesses that depend on the balance,
+    and agree on ownership boundaries.
+  - Write and present clear documentation, including roadmaps,
+    vision documents, design reviews, and incident reviews.
+  - Represent the balance platform's technical perspective in
+    broader company planning.
+
+  Navigating Complexity & Ambiguity
+
+  - Lead the team through open questions that span engineering,
+    finance, and regulation, using structured and data-
+    informed approaches.
+  - Bring Product, Legal, Finance, and Engineering viewpoints
+    together to make decisions that hold up over time.
+  - Provide clarity as requirements change, new businesses
+    onboard, and regulatory expectations evolve.
+
+  Travel
+
+  - Must be open to occasional travel to Fanatics Betting &
+    Gaming offices and other locations for conferences,
+    events, meetings, and team building activities.
+
+  Qualifications
+
+  We value aptitude and integrity over years of experience,
+  but here are key skills that will make you successful in
+  this role:
+
+  - 3-5+ years of experience managing software engineering
+    teams, with a track record of delivering secure, scalable
+    systems in regulated or high-stakes environments.
+  - Background leading teams or contributing in a Java and AWS
+    ecosystem preferred.
+  - Experience with ledgers, wallets, balance services,
+    payments, or other financial systems of record is highly
+    desirable.
+  - Understanding of transactional consistency, idempotency, and
+    data modeling in systems where accuracy cannot be
+    compromised.
+  - Experience with event-driven architectures and message
+    streaming platforms such as Kafka.
+  - Experience leading migrations of live, high-traffic systems
+    with minimal customer impact.
+  - Ability to balance strategic direction with technical depth.
+  - Strong communication skills and the ability to influence
+    across Engineering, Product, Finance, Legal, and
+    Compliance.
+  - Experience working through complex, cross-functional, and
+    regulatory challenges.
+  - Commitment to operational excellence and to building systems
+    that people can trust.
+  - Passion for mentoring and developing engineers, and for
+    fostering a culture of accountability, empathy, and
+    innovation.
+
+  Depending on the role, your interview and onboarding
+  experience may include in-person components, such as onsite
+  interviews or Launching into Better: LIVE—a multi-day
+  cultural immersion in New York City for full-time, non-
+  seasonal hires. These sessions are designed to build
+  connection and bring our culture to life, though specific
+  travel and participation requirements will be confirmed
+  based on your role and location. Your recruiter will provide
+  clear guidance at each stage of the process.
+
+  For information about our benefits, please visit
+  https://benefitsatfanatics.com/
+
+  Ranges will change based on country and state of residence,
+  which are reflected in Geographical Zones defined by
+  Fanatics Betting and Gaming. The range incorporates all of
+  our Geographical Compensation Zones and is subject to change
+  as the Zone associated with the actual offer is confirmed.
+  In addition to the base and bonus, full-time employment, and
+  more. For information about our benefits, please visit
+  https://benefitsatfanatics.com/
+
+  Salary Range
+
+  $190,000—$237,500 USD
+
+  By submitting your application, you agree to our terms of
+  service and acknowledge you have read our Candidate Privacy
+  Policy.
+
+  Fanatics will never ask candidates for money, banking
+  information, or other sensitive personal information as part
+  of the interview process. If you receive a suspicious
+  message claiming to be from Fanatics recruiting, please do
+  not respond and report it here.
+industries:
+  - eCommerce
+  - Retail
+  - Software
+  - Sports
+posted_date: 2026-10-12
+url: "https://builtin.com/job/engineering-manager-balance-and-ledger-core/11620528"
+source: Built In

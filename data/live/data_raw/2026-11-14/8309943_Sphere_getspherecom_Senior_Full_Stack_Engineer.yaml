@@ -1,0 +1,133 @@
+job_id: 8309943
+title: Senior Full Stack Engineer
+company: Sphere (getsphere.com)
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+  - London, GBR
+work_type: FULL_TIME
+company_size: 27 Employees
+description: |
+  ABOUT SPHERE
+
+  Every breakthrough in trade infrastructure has followed the
+  same pattern: reduce a transaction cost, expand the market.
+  Containerization for goods. SWIFT for money. Stripe for
+  payments. Compliance is one of the last and largest — and
+  the hardest, because trade rules aren't data to be looked
+  up. They're a complex adaptive system with 190+ sovereign
+  jurisdictions, in different languages, changing constantly,
+  reacting to each other.
+
+  Sphere built the system that solves it. Our AI (TRAM)
+  ingests global trade law, interprets it, resolves conflicts
+  across jurisdictions, and produces compliance determinations
+  more reliable than human experts. We handle the entire
+  lifecycle — calculation, registration, filing, remittance —
+  at millisecond latency with zero downtime.
+
+  - Backed by a16z and YC. $21M Series A, 30%+ month-over-month
+    growth, customers include ElevenLabs, Replit, Deel,
+    Runway, and Lovable.
+  - Small team, global surface area. Everyone owns a domain that
+    would be a full team at a larger company. San Francisco,
+    in office.
+  - The problem keeps compounding. Expanding into input tax,
+    withholding, e-invoicing, tariffs — each multiplies the
+    complexity. Tens of millions of transactions today,
+    billions ahead.
+
+  THE ROLE
+
+  Sphere is looking for senior full stack engineers who will
+  own and build out new product lines (input tax, withholding
+  tax, e-invoicing, tariffs) as well as mission critical parts
+  of the Sphere platform (filing infrastructure, tax engine
+  and AI / agentic related features).
+
+  These areas are key levers towards scaling Sphere and
+  growing ARR, meaning that your work will have a direct
+  impact on the growth of the business on a daily basis.
+
+  WHAT YOU'LL DO
+
+  Within weeks:
+
+  - Ship mission critical features that clients will use daily -
+    e.g. filing infrastructure
+  - Own and manage a feature and drive measurable outcomes
+  - Work directly with customers like Eleven Labs, Lovable and
+    Deel to improve / optimize that key component of the
+    platform (e.g. improve filing generation and submission
+    speed [x]%)
+
+  Within months:
+
+  - Own the end-to-end development of new products lines that
+    will help build out our AI-native revenue-based compliance
+    platform
+  - Lead / mentor additional engineers in component areas that
+    you have worked in
+
+  REQUIREMENTS
+
+  - Experience in Python . Our core application backend and data
+    pipeline services are built with Python and Django
+  - While frontend / React may not be your primary focus, you’re
+    not afraid to dive in when needed
+  - Very strong attention to detail. When you work with numbers
+    this is a non-negotiable - it’s not enough to be 99%
+    right.
+
+  NICE TO HAVES
+
+  - Experience working with large volumes of transaction data.
+    You’ll be getting very familiar with it!
+  - Experience with Django or Python ORM
+
+  WHO YOU ARE
+
+  You'll thrive here if:
+
+  - You're a Dog. You've been underestimated, gone through
+    struggle, and never stopped running. You have a chip on
+    your shoulder and enormous drive. You look at Stripe,
+    Deel, and Flexport all punting on compliance and think:
+    good, that means the opportunity is ours. Hunger beats
+    pedigree.
+
+  - Early stage is in your bones. You've built things where
+    there's no playbook and nobody handing you the answer. You
+    define the problem instead of waiting for instructions.
+
+  - You own it end to end. Give you a goal and you figure out
+    your own path. Small team, global surface area — everyone
+    owns a domain that would be a full team at a larger
+    company. No one tells you how.
+
+  - You believe speed and accuracy are both possible. We're
+    building a complex product that requires robustness and
+    100% uptime, and we have to build at our customers' pace.
+    Move fast. Don't break things. Both.
+
+  - Being in the room is a feature, not a cost. Being in SF
+    isn't a policy, it's how the work gets done. The speed and
+    density of collaboration we need doesn't survive over
+    video.
+
+  This won't be a fit if:
+
+  - You need structure handed to you or ambiguity feels draining
+    rather than motivating
+  - You want to manage people more than own hard problems (we're
+    a flat, experienced team — everyone builds)
+  - You're used to "good enough" shipping (small errors have
+    outsized impact here)
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-08-21
+url: "https://builtin.com/job/senior-full-stack-engineer/8309943"
+source: Built In

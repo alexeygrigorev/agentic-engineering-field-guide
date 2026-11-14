@@ -1,0 +1,180 @@
+job_id: 11721227
+title: Senior Software Engineer (Agentic Search) - Web Access Engineer
+company: Nebius
+location: ISR
+locations:
+  - ISR
+  - Amsterdam, NLD
+  - London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 473 Employees
+description: |
+  About Nebius:
+
+  Nebius is leading a new era in cloud infrastructure for the
+  global AI economy. We are building a full-stack AI cloud
+  platform that supports developers and enterprises from data
+  and model training through to production deployment, without
+  the cost and complexity of building large in-house AI/ML
+  infrastructure.
+
+  Built by engineers, for engineers. From large-scale GPU
+  orchestration to inference optimization, we own the hard
+  problems across compute, storage, networking and applied AI.
+
+  Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we
+  have a global footprint with R&D hubs across Europe, the UK,
+  North America and Israel. Our team of 1,500+ includes
+  hundreds of engineers with deep expertise across hardware,
+  software and AI R&D.
+
+  The Product
+
+  In a rapidly evolving world, trust in AI depends on AI
+  agents being grounded in fresh, verified real-world data.
+  Search is the foundation that makes this possible.
+
+  We are building an agent-native search platform designed
+  specifically for AI systems rather than human users. Our
+  product provides programmatic, low-latency, and observable
+  search APIs that AI agents use to retrieve, filter, and
+  reason over real-world information at scale.
+
+  The Role
+
+  We are looking for a Senior Software Engineer to work on the
+  web access infrastructure of a novel search engine tailored
+  for agentic AI consumption.
+
+  In this role, you will focus on making our access to public
+  web content reliable and efficient. You will investigate how
+  modern websites and browsers communicate across the full
+  request lifecycle, find the root cause when a request fails
+  or returns something unexpected, and build the fixes into
+  production systems operating at internet scale. Your work
+  ensures that high-quality content is consistently available
+  to the crawling, indexing and retrieval systems downstream.
+
+  In this position, your responsibility will be to
+
+  - Diagnose failed or degraded requests at the right layer:
+    network and IP, TLS and HTTP/2 behavior, headers and
+    session state, client-side scripts, or browser
+    characteristics
+  - Analyze how websites verify and classify clients, including
+    how client-side scripts and protocol-level behavior shape
+    what a site serves to different clients
+  - Build clients and tooling that behave consistently and
+    compatibly with standard browsers across all of these
+    layers, using a real browser where a lightweight client is
+    not enough
+  - Monitor access quality as websites change: detect
+    regressions, find the cause, and measure success on real
+    content rather than on status codes
+  - Build the tooling to do this at scale: traffic capture and
+    comparison against real browsers, per-site and per-method
+    success tracking, and the cost of each successful fetch
+  - Choose the fetch method for each host, from a lightweight
+    HTTP client to a full browser, balancing quality against
+    cost
+
+  You may be a good fit if you
+
+  Have 5+ years of experience building production systems, and
+  are an expert in several of the following areas.
+
+  The request lifecycle
+
+  - HTTP/1.1, HTTP/2 and HTTP/3, TLS handshakes and TLS
+    fingerprints (JA3/JA4), and header behavior
+  - What a server can observe at each step of a request, and
+    what a client controls at each step
+  - A debugging method, not guesses: replaying captured browser
+    traffic, comparing against a real browser on the same
+    network path, and changing one variable at a time
+
+  Client-side analysis
+
+  - Reading and analyzing complex or obfuscated JavaScript, and
+    observing what a script measures by hooking browser APIs
+  - How browser, device and network characteristics are measured
+    (canvas, fonts, WebGL, screen and window metrics) and how
+    consistent they are across layers
+  - Browser instrumentation and the Chrome DevTools Protocol,
+    used as tools for investigation
+
+  Running it for real
+
+  - Have run this in production and can give numbers: requests
+    per day, sites or hosts, and the success rate and how you
+    measured it
+  - Strong programming in at least one of Go, Python, Rust or
+    C++
+
+  Strong candidates may also have experience with
+
+  - Working at a web data provider, a browser or web-security
+    company, or a company that collects data from complex
+    sources
+  - Contributions to browser networking or fingerprinting-
+    related open-source tooling, or public write-ups of how
+    client verification works
+  - Building or maintaining a patched browser
+  - Networks, proxies and IP reputation
+  - Internet-scale distributed systems, Kubernetes and cloud
+    infrastructure
+
+  The kind of problems you will work on
+
+  - A site returns a different response to our client than to
+    Chrome on the same network path. Find out why, and fix
+    that cause.
+  - A site changes how it verifies clients and success drops
+    across a group of sites. Find what changed, adapt, and
+    make the next change cheaper to catch.
+  - Switching to a browser-like network profile makes results
+    worse on some hosts. Work out what no longer matches.
+
+  We conduct coding interviews as part of the process.
+
+  Benefits & Perks:
+
+  - Competitive compensation
+  - Career growth and learning opportunities
+  - Flexibility and ownership
+  - Collaborative and innovative culture
+  - Opportunity to work on impactful AI projects
+  - International environment and talented teams
+
+  What's it like to work at Nebius:
+
+  Fast moving - Bold thinking - Constant growth - Meaningful
+  impact - Trust and real ownership - Opportunity to shape the
+  future of AI
+
+  Equal Opportunity Statement:
+
+  Nebius is an equal opportunity employer. We are committed to
+  fostering an inclusive and diverse workplace and to
+  providing equal employment opportunities in all aspects of
+  employment. We do not discriminate on the basis of race,
+  color, religion, sex (including pregnancy), national origin,
+  ancestry, age, disability, genetic information, marital
+  status, veteran status, sexual orientation, gender identity
+  or expression, or any other characteristic protected by
+  applicable law.
+
+  Applicants must be authorized to work in the country in
+  which they apply and will be required to provide proof of
+  employment eligibility as a condition of hire.
+
+  If you need accommodations during the application process,
+  please let us know.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Consulting
+posted_date: 2026-10-16
+url: "https://builtin.com/job/senior-software-engineer-agentic-search-web-access-engineer/11721227"
+source: Built In

@@ -1,0 +1,105 @@
+job_id: 12091308
+title: Software Engineer, Operations Research
+company: CircuitHub
+location: London, GBR
+locations:
+  - London, GBR
+  - Cambridge, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 42 Employees
+description: |
+  About CircuitHub
+
+  CircuitHub is reshaping electronics manufacturing with The
+  Grid, a factory-scale robotics platform that makes small-
+  batch, high-mix electronics assembly radically more
+  efficient. Think semiconductor-fab precision applied to the
+  chaotic world of prototyping and low-volume production: a
+  10x throughput improvement in one of the world's most
+  foundational industries.
+
+  We've raised $45M from top-tier investors including Plural,
+  Y Combinator and Google Ventures, and we're already
+  profitable. Our customers include a major EV maker, a top AI
+  lab and many of the worlds largest companies.
+
+  The Grid isn't a prototype. It's live, scaling fast and
+  delivering real revenue, and we're building the team that
+  will scale it further.
+
+  What you'll do
+
+  CircuitHub builds circuit boards on demand, every order
+  different. Each day thousands of decisions are made: which
+  orders run on which machines, which parts to buy and when,
+  what to promise a customer and what to charge. You'll build
+  the models behind those decisions.
+
+  - Plan the factory. Schedule orders, panels and machines
+    across our factories for throughput and on-time delivery,
+    and know days ahead when we will run out of work or
+    capacity.
+  - Model the Grid. The Grid is our factory-scale robot: dozens
+    of movers, gantries, printers and ovens. Model how work
+    flows through it, find the bottlenecks, and tell us what
+    the next machine or change is worth.
+  - Price and promise. Estimate what an order really costs in
+    labour, machine time and parts, and help set prices and
+    lead times that win work and make money.
+  - Buy smarter. Decide what parts and consumables to stock,
+    when to order them, and how much risk of a shortage to
+    accept.
+  - Put it into production. Your models don't live in a
+    spreadsheet: they run every day, feed the planning and
+    quoting systems, and get checked against what actually
+    happened.
+
+  What we look for
+
+  - A quantitative background in operations research, applied
+    maths, statistics, quantitative finance, economics or a
+    similar field, and a record of models that changed real
+    decisions.
+  - Optimisation: linear and integer programming, constraint
+    programming, or heuristics, and judgement about when a
+    simple rule beats a solver.
+  - Simulation and forecasting: building a model of a messy
+    system, calibrating it to data and saying how far to trust
+    it.
+  - Strong Python and SQL. You write code other people can run
+    and rely on.
+  - You use coding agents to move faster and take full ownership
+    of what they produce.
+  - Curiosity about how things are physically made. You'll spend
+    time in our factories in the US and UK.
+
+  Manufacturing experience is welcome but not required. If you
+  have priced risk, optimised a portfolio or forecast demand,
+  the problems here will feel familiar.
+
+  Stack
+
+  - Modelling: Python, OR-Tools, simulation
+  - Data: PostgreSQL, Snowflake, dbt, Dagster
+  - Agents: Claude Code and Codex throughout
+
+  Location
+
+  Remote anywhere, or from our offices in London or Cambridge
+  (UK) if you prefer, with regular visits to our factories in
+  the UK and US.
+
+  Pay
+
+  UK £80k–£125k · US $125k–$250k, depending on experience,
+  plus equity.
+industries:
+  - Hardware
+  - Internet of Things
+  - On-Demand
+  - Appliances
+  - Manufacturing
+posted_date: 2026-11-05
+url: "https://builtin.com/job/software-engineer-operations-research/12091308"
+source: Built In

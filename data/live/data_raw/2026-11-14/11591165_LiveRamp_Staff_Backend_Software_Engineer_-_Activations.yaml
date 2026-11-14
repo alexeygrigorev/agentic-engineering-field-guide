@@ -1,0 +1,201 @@
+job_id: 11591165
+title: Staff Backend Software Engineer - Activations
+company: LiveRamp
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - Little Rock, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 1,190 Employees
+description: |
+  LiveRamp is shaping the future of responsible data
+  collaboration between the world’s leading brands, retailers,
+  financial services providers, and healthcare innovators. As
+  consumers embrace new AI-driven experiences, the LiveRamp
+  data collaboration network exponentially expands the breadth
+  and accuracy of the data on which marketing AI capabilities
+  operate, powering deeper customer insight and measurable
+  performance on a global scale. LiveRamp is headquartered in
+  San Francisco, California, with offices worldwide. Learn
+  more at LiveRamp.com.
+
+  The Activations Backend team is responsible for the bulk of
+  big data processing that powers LiveRamp’s primary
+  activation product, which delivers hundreds of millions in
+  annual recurring revenue. Our systems process over one
+  hundred thousand batch jobs per day, ranging in size from
+  gigabytes to over 100 terabytes, and power distributions to
+  hundreds of downstream destinations. Cumulatively, our
+  systems process multiple exabytes per year. We provide
+  detailed monitoring, statistics, error recovery, and
+  resiliency to keep this core product reliable for our
+  largest customers.
+
+  At LiveRamp, big data processing is not just for back-office
+  analytics. Our product is a big data product: we transform,
+  deduplicate, and transport massive datasets across clouds
+  and regions, while respecting complex rate limits and SLAs,
+  and enabling many of the most successful companies on the
+  planet to activate their data safely and efficiently.
+
+  Your team will:
+
+  - Re‑architect Activations Back End to be cloud‑forward and
+    multi‑regional, taking advantage of SingleStore and other
+    modern data warehouses to replace legacy Spark‑heavy flows
+    where it makes sense.
+  - Deliver high‑throughput, low‑latency activation by
+    combining: SingleStore‑backed state and delta computation,
+    Spark/Dataproc for the heaviest batch workloads, and
+    Streaming infrastructure (e.g., Redpanda/Pub/Sub) for
+    event‑driven and incremental deliveries.
+  - Build smarter orchestration and scheduling using
+    Temporal/Cadence and queueing services to: Classify jobs
+    (latency‑critical vs. throughput‑heavy vs. background),
+    Route them through multi‑queue schedulers and capacity
+    pools, respect destination‑specific rate limits and SLAs,
+    and eliminate duplicated work through config
+    canonicalization and caching so identical or similar jobs
+    across customers share heavy computation.
+  - Collaborate closely with partner teams (Identity, Data
+    Foundation, Activations Fullstack, Integrations/OPI) to
+    deliver end‑to‑end improvements in activation reliability,
+    speed, and observability, and continuously raise the bar
+    on operational excellence.
+
+  You will:
+
+  - Lead the design and evolution of a petabyte‑scale activation
+    platform, pushing it toward a delta‑first, cache‑aware,
+    and cost‑efficient architecture.
+  - Shape end‑to‑end technical strategy for major areas of
+    Activations Back End (e.g., matching/delta computation,
+    job orchestration, delivery pipelines), from design
+    through rollout and long‑term maintenance.
+  - Architect and build big data pipelines using Apache
+    Spark/Dataproc, SingleStore, Kubernetes/GKE, and streaming
+    systems (e.g., Pub/Sub, Redpanda/Kafka) where appropriate.
+  - Use workflow engines such as Temporal and Cadence to
+    orchestrate complex, long‑running workflows with robust
+    retry, compensation, and observability, and define
+    patterns other engineers can reuse.
+  - Design for multi‑tenant fairness and scalability, ensuring
+    small, latency‑sensitive jobs stay fast while large
+    backfills and bulk workflows do not starve the system, via
+    job classification, queueing, and rate‑limit–aware
+    scheduling.
+  - Drive performance and cost optimization for petabyte‑scale
+    workloads: reduce duplicate processing, improve cache hit
+    rates, tune cluster sizing and autoscaling policies, and
+    set and track SLOs.
+  - Lead production excellence: own critical services in
+    production, coordinate incident response and postmortems,
+    and drive structural fixes that meaningfully reduce
+    operational load and risk.
+  - Infuse AI into how we build and operate: evaluate and adopt
+    AI‑enhanced tooling (for coding, design exploration, data
+    analysis, and operational debugging) and help define best
+    practices.
+  - Mentor and level up other engineers through design/code
+    reviews, pairing, and technical guidance, and represent
+    Activations Back End in cross‑team architecture forums and
+    external venues.
+
+  About you:
+
+  - You are excited to adapt to major industry shifts (including
+    the rapid evolution of AI), and approach your work with
+    curiosity, humility, and a strong desire to keep learning.
+  - AI‑enabled development experience, or strong excitement to
+    learn and grow in using AI‑enhanced development tools
+    (e.g., code assistants, agents for log/metrics analysis,
+    AI‑supported design and review) and help others use them
+    effectively.
+  - 5+ years of experience writing and deploying high‑quality
+    production code in a modern language (e.g., Java, Go,
+    Scala, or similar), including owning complex systems in
+    production.
+  - Led the design and delivery of large‑scale distributed or
+    big data systems with clear business impact (e.g., major
+    latency/cost improvements, substantial reliability gains,
+    or large new capabilities).
+  - Strong data engineering and SQL skills: comfortable modeling
+    data, writing and optimizing complex queries on very large
+    tables, and reasoning about performance, correctness, and
+    cost.
+  - Deep experience owning end‑to‑end data pipelines: ingestion,
+    transformation, orchestration, failure handling, and
+    observability, not just individual jobs or microservices.
+  - Comfortable working in a cloud environment (ideally GCP) and
+    with containerized workloads (Kubernetes/GKE or similar);
+    you understand how infra choices impact performance, cost,
+    and reliability.
+  - Able to define and drive technical strategy: break down
+    multi‑quarter problems, evaluate tradeoffs, align
+    stakeholders, and deliver incremental value along the way.
+  - Excellent communication and collaboration skills; you can
+    influence across teams and disciplines and drive consensus
+    on complex technical decisions.
+  - Demonstrated ability to mentor and grow other engineers,
+    give effective feedback, and create space for others to
+    contribute.
+  - Comfortable with ambiguity and deeply inquisitive: you ask
+    “why” and “what if” and convert those questions into
+    concrete experiments and system changes.
+
+
+
+  Preferred skills:
+
+  - Google Cloud Platform (GCP): GCS, Dataproc, GKE, Pub/Sub,
+    BigQuery, IAM.
+  - Workflow orchestration: Temporal or Cadence; Airflow or
+    similar systems for long‑running, failure‑prone workflows.
+  - Apache Spark (or Dataproc) for large‑scale batch processing
+  - Experience with data warehouses such as SingleStore,
+    BigQuery, Snowflake, or similar.
+  - Streaming systems: Kafka/Redpanda, Pub/Sub, or equivalent
+    event/streaming platforms, especially for high‑volume or
+    incremental data processing.
+  - Experience designing multi‑tenant systems that enforce rate
+    limits, fairness, and SLAs across many customers and
+    destinations.
+  - Strong background in performance and cost optimization for
+    large‑scale data workloads (e.g., 10–100x speedups,
+    significant compute cost reductions).
+  - Prior experience working on advertising, marketing, or data
+    activation platforms or other systems where data
+    correctness, timeliness, and scale are all critical.
+
+  The approximate annual base compensation range is $156,500
+  to $235,000. The actual offer, reflecting the total
+  compensation package and benefits, will be determined by a
+  number of factors including the applicant's experience,
+  knowledge, skills, and abilities, geography, as well as
+  internal equity among our team.
+
+  We use automated decision systems (ADS) as part of our
+  recruitment and hiring process. If you require an
+  accommodation or believe that the use of an ADS may create a
+  barrier to your application or participation in the hiring
+  process due to a disability or other protected
+  characteristic, please let us know. We are committed to
+  providing reasonable accommodations and ensuring an
+  equitable hiring experience for all candidates.
+
+  To all recruitment agencies: LiveRamp does not accept agency
+  resumes. Please do not forward resumes to our jobs alias,
+  LiveRamp employees or any other company location. LiveRamp
+  is not responsible for any fees related to unsolicited
+  resumes.
+industries:
+  - Big Data
+  - Cloud
+  - Marketing Tech
+  - Social Impact
+  - Software
+posted_date: 2026-10-09
+url: "https://builtin.com/job/staff-backend-software-engineer-activations/11591165"
+source: Built In

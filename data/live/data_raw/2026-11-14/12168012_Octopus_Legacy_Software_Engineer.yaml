@@ -1,0 +1,214 @@
+job_id: 12168012
+title: Software Engineer
+company: Octopus Legacy
+location: London, GBR
+work_type: FULL_TIME
+company_size: 99 Employees
+description: |
+  Ship real things for real families from week one. Own
+  features end to end, grow fast, and get handed more of the
+  system every quarter.
+
+  About the role
+
+  When someone dies, their family inherits a mountain of
+  admin. A will is the single most useful thing that makes it
+  smaller, but only if it’s correct, current and actually says
+  what the person meant. That’s the bar our code has to clear,
+  every time.
+
+  As a software engineer, you’ll own features from the first
+  conversation to production. You won’t get a ticket with the
+  answer already written on it. You’ll get a problem, the
+  context behind it, and someone to think it through with.
+
+  The scope you own grows as fast as you do. Small team, lots
+  of surface area: if you want more responsibility, it’s there
+  to take.
+
+  The team
+
+  Engineering is small but mighty, and growing. You’ll work
+  alongside Product, Design and the legal specialists who know
+  every edge case by heart. You’ll join the team where you can
+  make the most difference as roles fill, and you’ll have a
+  say in where that is.
+
+  We work in small, stable teams that own a product area end
+  to end, from the first conversation with legal to the alert
+  that fires if it breaks. Nobody hands you a ticket and walks
+  away. Teams decide how to solve the problems in front of
+  them, and often which problems are worth solving at all.
+  Decisions are written down, reviewed kindly and revisited
+  when we learn something new.
+
+  We’re AI-native. Frontier models, best-in-class agentic
+  tooling, and nobody counts tokens. That pushes the job away
+  from boilerplate and towards the parts that need a person:
+  architecture, judgement, and getting the detail right.
+  Families come to us for a will or for probate, not for
+  software, so we’re not racing the models. Every time they
+  improve, so does the service families get. We ship to
+  production 20+ times a day across 7+ services.
+
+  What you’ll do
+
+  Most weeks are a mix of building, reviewing and learning the
+  domain. Some of the work you’ll pick up:
+
+  - Build features end to end: the API, the data model, the UI
+    if it needs one, and the tests that keep it honest.
+  - Turn a family’s answers into correct, signed documents, edge
+    cases included.
+  - Use agentic tools to move fast, and review what they write
+    as carefully as you’d review a colleague.
+  - Own what you ship in production. Dashboards, alerts and the
+    occasional fix are yours.
+  - Bring opinions to design reviews. We’d rather hear the half-
+    formed idea than miss it.
+
+  Your first 90 days
+
+  - Week one: first PR in production, paired with someone who
+    knows the codebase.
+  - Ship a feature you scoped yourself, from first conversation
+    to customers.
+  - Know a corner of the system well enough that people bring
+    their questions about it to you.
+  - Spot something that bugs you about how we work and fix it,
+    without asking permission.
+
+  What we’re looking for
+
+  We care more about how you approach problems than a list of
+  keywords. That said, here’s what tends to make someone
+  successful in this role.
+
+  You’ll need
+
+  - A few years building and shipping production software. The
+    language matters less than how you use it.
+  - You write tests that describe behaviour, not implementation.
+  - Comfort with relational data models and SQL.
+  - Curiosity about agentic coding, and the discipline to check
+    its work.
+
+  Nice to have
+
+  - Python or TypeScript in production.
+  - Serverless on AWS: Lambda, API Gateway, the lot.
+  - Experience in a regulated domain: legal, financial or
+    health.
+
+  Don’t tick every box? Apply anyway. We hire for how you
+  think, not a checklist.
+
+  What you’ll work with
+
+  - Languages: Python 3.12, TypeScript
+  - Backend: FastAPI
+  - Frontend: Next.js
+  - Serverless: AWS Lambda
+  - Data: PostgreSQL
+  - Infra: Terraform, AWS, GCP
+  - Quality: pytest, Ruff, mypy
+  - Review: humans, Greptile
+  - Agents: Claude Code, Cursor, whatever you’re fastest in
+  - Observe: CloudWatch, Sentry
+
+  The honest bits
+
+  Every codebase has them. Better you hear it from us.
+
+  - Debt: Part of our estate is a PHP service we’re migrating
+    off. You might be the one who retires it.
+  - Rope: You’ll get responsibility earlier than you might
+    elsewhere. Sometimes that’s uncomfortable. We’ll back you
+    through it.
+  - Regs: Regulated, sensitive data. Some changes need a second
+    pair of eyes from legal, and that’s on purpose.
+  - Pace: We ship often, but “move fast and break things” isn’t
+    an option when the thing is someone’s will.
+
+  You’ll probably enjoy this if
+
+  - You want to own outcomes, not just close tickets.
+  - You learn fastest by shipping something and seeing what
+    happens.
+  - You can talk about death plainly. Our users are planning for
+    it or living through it.
+
+  What we offer
+
+  Listed, not teased. If something matters to you and isn’t
+  here, ask in your first call.
+
+  - Holiday: 27 days + bank holidays + your birthday
+  - Pension: 3% contribution
+  - Working pattern: Hybrid. In the office Tuesday to Thursday
+    at Monument, London
+  - Contract: Permanent
+  - Learning: Time carved out for it, plus budget agreed case by
+    case
+  - A will, on us: A free will for you, and a discount for
+    friends and family
+  - Tools: Whatever makes you fastest. Frontier models, agentic
+    tooling, no token budget.
+  - Ownership: Real decisions from week one. You’ll be trusted
+    with the call and backed when it’s hard.
+
+  How we’ll get to know each other
+
+  Four stages, about two weeks end to end. You’ll hear back
+  within two working days of each one, whatever the outcome.
+
+  1. Intro call (30 min, video) A relaxed conversation with
+  the hiring manager about what you’ve worked on and what
+  you’re looking for. Ask us anything. You’ll meet the hiring
+  manager. Nothing to prepare.
+
+  2. Meet our People team (30 min, video) A conversation about
+  how you like to work, what you need from a team to do your
+  best work, and the practical stuff: start dates,
+  adjustments, anything you’re unsure about. You’ll meet our
+  People team. Nothing to prepare.
+
+  3. Pairing and design (~2.5 hours, on site) Two parts, with
+  the people you’d work with. First, pair on a real-shaped
+  problem on your own laptop with your own tools. Look things
+  up, use agents, think out loud. Then sketch a small system
+  together and talk through the trade-offs. We care how you
+  reason, not whether you’ve built this exact thing before. No
+  take-home, no trick questions. You’ll meet the team. Bring
+  your laptop; we’ll send setup notes in advance.
+
+  4. Final conversation (45 min, video) Meet our founder. Talk
+  about where Octopus Legacy is going, where you’d fit in it,
+  and anything you still want to know. It runs both ways.
+  You’ll meet our founder. Bring your questions.
+
+  Decision (within two working days) A clear yes or no, with
+  written feedback either way, from the hiring manager. If
+  it’s a yes, we’ll talk through the offer on a call. No
+  exploding deadlines.
+
+  About Octopus Legacy
+
+  Octopus Legacy is the place to plan for death and find
+  support after loss. We were founded after our founder’s mum
+  died suddenly, and we’re a group of people who work in death
+  because we’ve been affected by it. We help people write a
+  will, set up a trust or a Lasting Power of Attorney, and
+  protect the people they love. When someone dies, we help
+  their family with probate and the practical, personal and
+  emotional challenges that come after. We’re part of Octopus
+  Group, alongside Octopus Energy and Octopus Investments.
+
+  Octopus Legacy is committed to creating an inclusive
+  environment and is proud to be an equal opportunities
+  employer. We welcome applications from everyone. If you need
+  any adjustments at any stage, tell us and we’ll make them,
+  no explanation needed.
+posted_date: 2026-11-10
+url: "https://builtin.com/job/software-engineer/12168012"
+source: Built In

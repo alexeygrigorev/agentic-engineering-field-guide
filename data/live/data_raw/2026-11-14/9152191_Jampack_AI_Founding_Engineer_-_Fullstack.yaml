@@ -1,0 +1,76 @@
+job_id: 9152191
+title: Founding Engineer - Fullstack
+company: Jampack AI
+location: New York, USA
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  About Jampack
+
+  Wholesale is 7x the size of e-commerce, yet the
+  infrastructure is stuck in the 1990s. We're building the
+  agentic operating system for wholesale that replaces
+  spreadsheets, email chains, and manual data entry with
+  autonomous workflows that just work. We recently raised a
+  $3.2M seed round led by Maveron.
+
+  Jampack already powers high-growth brands like Fishwife,
+  Immi, and PATH — handling everything from purchase order
+  ingestion to freight coordination to invoicing and payment
+  reconciliation.
+
+  We're a small, high-agency team building what doesn't exist
+  yet.
+
+  The Role
+
+  We're hiring a founding engineer to build the core platform
+  that powers our AI agents and our customer experience — the
+  data pipelines, integrations, APIs, and operator console
+  that make everything work.
+
+  The moat isn't the model. It's the scaffolding — the
+  software infrastructure around the AI that connects to real-
+  world systems and delivers real-world reliability. That's
+  what you'll build.
+
+  What You'll Do
+
+  - Take customer-facing features from concept to production.
+    You'll talk to users, design the solution, build it, and
+    watch them use it.
+  - Design secure, auditable data models and event-driven
+    pipelines that power our agent workflows
+  - Develop internal and external APIs and a real-time operator
+    console that gives customers full visibility into their
+    operations
+  - Build first-party integrations with ERPs, 3PLs, retailers,
+    and freight partners — and a resilient sync layer that
+    keeps everything in lockstep
+  - Establish observability, SLOs, and on-call practices for
+    mission-critical workflows where downtime means missed
+    shipments and chargebacks
+  - Work across the full stack — backend, data engineering, and
+    frontend — wherever the highest-leverage problem lives
+
+  What We're Looking For
+
+  - 5+ years building production platforms or infrastructure at
+    scale (startup experience preferred)
+  - Strong proficiency in TypeScript/Node, Postgres,
+    queues/streams, and cloud platforms (AWS/GCP)
+  - Systems thinking paired with product intuition — you care
+    about the developer experience and the operator experience
+    equally
+  - Versatility across backend, data engineering, and frontend.
+    You don't wait for someone else to build the other half
+  - You want to work on hard infrastructure problems that have
+    direct, measurable impact on real businesses
+industries:
+  - Artificial Intelligence
+  - Logistics
+  - Software
+  - Automation
+posted_date: 2026-08-04
+url: "https://builtin.com/job/founding-engineer-fullstack/9152191"
+source: Built In

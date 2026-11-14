@@ -1,0 +1,287 @@
+job_id: 12251753
+title: Senior Manager, Engineering(Platform)
+company: Stord
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 222 Employees
+description: |
+  ABOUT STORD
+
+  Stord is The Consumer Experience Company, powering seamless
+  checkout through delivery for today's leading brands. Stord
+  is rapidly growing and strategically scaling teams across
+  the entire company, and seeking energetic experts to help us
+  achieve our mission.
+
+  By combining comprehensive commerce-enablement technology
+  with high-volume fulfillment services, Stord provides brands
+  a platform to compete with retail giants. Stord manages over
+  $10 billion of commerce annually through its fulfillment,
+  warehousing, transportation, and operator-built software
+  suite including OMS, Pre- and Post-Purchase, and WMS
+  platforms. Stord is leveling the playing field for all
+  brands to deliver the best consumer experience at scale.
+
+  With Stord, brands can increase cart conversion, improve
+  unit economics, and drive sustained customer loyalty.
+  Stord’s end-to-end commerce solutions combine best-in-class
+  omnichannel fulfillment and shipping with leading technology
+  to ensure fast shipping, reliable delivery promises, easy
+  access to more channels, and improved margins on every
+  order.
+
+  Hundreds of leading DTC and B2B companies like True Classic,
+  Native, Seed Health, goodr, Sundays for Dogs, and more trust
+  Stord to deliver industry-leading consumer experiences on
+  every order. Stord is headquartered in Atlanta with
+  facilities across the United States, Canada, and Europe.
+  Stord is backed by top-tier investors including Kleiner
+  Perkins, Franklin Templeton, Founders Fund, Strike Capital,
+  Baillie Gifford, and Salesforce Ventures.
+
+  Stord is building the operating system for modern supply
+  chain: a unified platform handling Order Management,
+  Warehouse Management, Transportation, and Consumer
+  Experience for brands doing billions in commerce annually.
+  The Platform team sits underneath all of it. The shared
+  services, tooling, and standards Platform owns are what
+  every product team builds on, which means the quality of
+  Platform's work shows up in OMS, WMS, TMS, Commerce, and AI.
+  Stord is in a growth stage, and many of the hard problems
+  that come with it land here. This role leads a single team
+  of about five engineers, expected to expand to multiple
+  teams as scope grows, and also serves as the product lead
+  for Platform. You are the voice of the team to every product
+  engineering group, and you lead the effort to get what
+  Platform builds adopted, working alongside product
+  engineering leaders. This role is for a strong engineer who
+  is also a great leader. You were a high-performing IC, you
+  still know what good engineering looks like, and you spend
+  your days close to your engineers and your stakeholders. You
+  can tell when a plan has a hole in it and say so plainly.
+  You get your results through other people and are
+  comfortable never writing the code yourself. You are also a
+  credible advocate who can explain what Platform is building
+  and why to engineers and executives alike, and who earns
+  adoption by listening to customers(other Engineering teams).
+  If you want to shape how an entire tech stack scales and
+  build the team that does it, this role was built for you.
+
+  Why This Role
+
+  - Platform sits at the center of every product team, so how
+    well your team executes is visible across the whole stack.
+  - You are the face of Platform and lead the push to get what
+    you build adopted, in partnership with product engineering
+    leaders.
+  - Stord is in a growth stage, and Platform is where many of
+    the problems that make that growth sustainable get solved.
+  - You start with one team of about five engineers and have a
+    real path to leading several as the scope grows.
+  - Solving for real scale is part of the job, and the decisions
+    you make will have to hold up as volume and complexity
+    climb.
+  - You work daily with engineers and with leaders across every
+    product area, so your input shapes priorities across the
+    company.
+  - The stack is multifaceted, with Elixir and TypeScript as the
+    primary languages.
+
+  What You'll Do
+
+  Team Leadership & Delivery
+
+  - Own the complete people management lifecycle for the
+    Platform team, starting with about five engineers and
+    growing from there.
+  - Stay close to the work. Know what each engineer is building
+    day to day, read the designs and pull requests that
+    matter, and ask the questions that surface gaps early.
+  - Challenge plans and viewpoints directly when they don't hold
+    up, and push the team toward a better answer.
+  - Run planning, standups, and retrospectives that keep the
+    team predictable and moving fast.
+  - Report delivery, quality, risk, and resourcing to
+    engineering leadership on a regular cadence, using
+    measures that keep observations as objective as possible.
+
+  Platform Product Leadership & Adoption
+
+  - Act as the product lead for Platform. Define what the team
+    builds, for whom, and why, and own the roadmap as a
+    product.
+  - Be the voice of Platform across Engineering. Communicate
+    what is shipping, what is coming, and how to use it to
+    product engineering teams and leadership.
+  - Lead adoption of Platform products and features in
+    partnership with product engineering leaders. Set adoption
+    goals, track them, and report on progress.
+  - Treat product engineering teams as your customers. Gather
+    feedback regularly, find where they get stuck, and feed it
+    back into the roadmap.
+  - Drive the documentation, migration paths, and enablement
+    material that make adoption easy.
+  - Make the case for retiring legacy approaches, and push teams
+    to move when the Platform path is the better one.
+  - Define success measures for Platform products, such as
+    adoption, reliability, and developer experience, and
+    report on them to leadership.
+
+  People Development & Hiring
+
+  - Run weekly 1:1s focused on growth, feedback, and career
+    development.
+  - Deliver performance reviews, make compensation
+    recommendations, and write promotion cases for your direct
+    reports.
+  - Handle performance issues and hard conversations directly,
+    including the cases where an engineer needs to move on.
+  - Lead the full hiring lifecycle, and sell both the role and
+    Stord to candidates with credible optimism about where the
+    company is today.
+  - Identify and develop future tech leads and managers as
+    Platform expands to multiple teams.
+
+  Technical & Roadmap Ownership
+
+  - Own the Platform roadmap and architectural direction across
+    multiple quarters, working with your tech lead and
+    principal engineers.
+  - Turn the needs of product teams into prioritized platform
+    work, and sequence it against competing demands.
+  - Hold quality and velocity together. Set the standards for
+    code review, testing, and release practices that let the
+    team ship fast without regressions.
+  - Hold your team accountable for AI adoption, and replace or
+    significantly improve legacy team processes through AI
+    enablement.
+  - Manage team cost drivers such as tooling, infrastructure,
+    and contractor spend, and flag budget risk early.
+
+  Cross-Team Alignment & Platform Reliability
+
+  - Work daily with engineering managers, product leaders, and
+    stakeholders across Product Engineering.
+  - Own the reliability of the platform services your team runs:
+    monitoring, incident response, root cause follow-through,
+    and on-call discipline.
+  - Represent Platform in cross-team planning, keep dependencies
+    visible, and drive consistent engineering practices across
+    teams.
+  - Renegotiate scope and priorities when demand exceeds
+    capacity.
+
+  What We're Looking For
+
+  Required
+
+  - Engineering management (3+ years): You have led teams of 5+
+    engineers with a track record of predictable delivery and
+    team development, and you have managed through ambiguity.
+  - Strong engineering background (5+ years as a high-performing
+    IC): You were a strong engineer first. You can read a
+    design or a pull request, reason about it, and challenge
+    it. You do not carry sprint work yourself.
+  - Product ownership of a technical platform: You have owned
+    the roadmap of a platform, tooling, or shared service used
+    by other engineering teams, and have helped those teams
+    adopt it. You can define customers, set priorities, and
+    measure adoption.
+  - Distributed systems and service architecture depth: You can
+    evaluate trade-offs in reliability, scalability, and
+    system design well enough to pressure-test your team's
+    decisions.
+  - Hard conversations and performance management: You have
+    first-hand experience with underperformance, conflict, and
+    difficult exits, and you handled them directly.
+  - Full hiring lifecycle: You have sourced, interviewed,
+    closed, and onboarded engineers, and you can sell yourself
+    and Stord to a strong candidate.
+  - A way to measure your team: You have a repeatable process
+    for assessing team and individual performance with as
+    little subjectivity as possible.
+  - Strong opinions, held with evidence: You are a decision
+    maker. You take a position, defend it with facts, and
+    change it when the facts change.
+
+  Required Soft Skills
+
+  - Ownership & Accountability: You own outcomes, not just
+    activities. When your team ships, you take pride. When
+    something breaks, you take responsibility and fix the
+    system.
+  - Strong Communication: You communicate clearly with
+    engineers, PMs, and executives. You translate technical
+    complexity into business language and vice versa.
+  - Delegation & Multiplication: You scale through people, not
+    heroics. You have a history of developing team members and
+    multiplying impact through others.
+  - Navigating Ambiguity: You set direction when requirements
+    are evolving. You build alignment across teams and
+    functions without formal authority.
+  - Balanced Judgment: You balance innovation with pragmatic
+    delivery constraints. You know when to push for quality
+    and when to ship.
+  - Directed AI-Assisted Development: You understand how AI
+    coding tools work as a productivity multiplier and can
+    guide your team's adoption while maintaining quality and
+    independent technical judgment.
+
+  Strongly Preferred
+
+  - Experience driving adoption of internal platforms or
+    developer tooling across multiple engineering teams.
+  - Production experience with Elixir or TypeScript, and the
+    appetite to get fluent in both.
+  - Experience leading platform, infrastructure, or shared-
+    services teams whose customers are other engineering
+    teams.
+  - A track record of scaling a team across multiple teams
+    through rising scale and scope without a drop in delivery
+    quality.
+  - Experience operating systems through significant growth in
+    load, usage, or complexity.
+
+  Nice to Have
+
+  - Experience with event-driven architecture.
+  - Experience leading incident response and post-incident
+    improvement across multiple teams.
+  - Experience introducing AI-enabled workflows that changed how
+    an engineering team operates.
+
+  What Success Looks Like
+
+  - 30 days: You have met with every engineer on the team and
+    with the leaders of each product engineering team. You
+    understand Platform's current roadmap, delivery cadence,
+    and risks, how teams use Platform today, and you have a
+    point of view on what needs to change.
+  - 90 days: You own the team's delivery rhythm, your 1:1s are
+    producing real development conversations, and product
+    teams trust your status updates and priorities. You have
+    published a Platform roadmap, defined adoption measures,
+    and begun reporting on them.
+  - 6 months: The team ships predictably, and quality and
+    velocity trends are visible and improving. Adoption of key
+    Platform capabilities is rising across product engineering
+    teams, and they see Platform as a partner. You have made a
+    meaningful hire or development move, and you have a plan
+    for expanding to multiple teams.
+
+  About Stord
+
+  Stord is a cloud-based supply chain platform that enables
+  brands to compete and grow through end-to-end logistics
+  solutions. We process billions in commerce annually and
+  operate across Order Management, Warehouse Management ,
+  Transportation Management, and Consumer Experience. We are
+  backed by leading investors and are rapidly scaling our
+  engineering organization to match our ambitions.
+industries:
+  - Logistics
+  - Software
+posted_date: 2026-11-13
+url: "https://builtin.com/job/senior-manager-engineering-platform/12251753"
+source: Built In

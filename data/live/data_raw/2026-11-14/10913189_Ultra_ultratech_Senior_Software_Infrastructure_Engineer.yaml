@@ -1,0 +1,119 @@
+job_id: 10913189
+title: Senior Software Infrastructure Engineer
+company: Ultra (ultra.tech)
+location: Brooklyn, USA
+work_type: FULL_TIME
+company_size: 14 Employees
+description: |
+  About Ultra
+
+  Ultra builds industrial AI robots that are working in the
+  real world today. Our robots automate mission-critical
+  warehouse labor end-to-end, starting with e-commerce order
+  packaging. We deploy fast, learn from real production data,
+  and iterate aggressively. We already have a quickly growing
+  number of revenue-generating robots operating in U.S.
+  warehouses, and are now scaling towards thousands of
+  deployments over the next few years. Our mission is simple:
+  build the world's most useful and deployable robot.
+
+  WARNING: Robotics is not for the faint of heart. There are
+  no silver bullets here. It is tiresome, unglamorous, and at
+  times brutal work. The only way out is through, and the only
+  way through is treacherous and unknown. Success will require
+  teamwork - so we are building a world-class team to tackle
+  some of the most exciting problems out there. We hope you
+  join us.
+
+  Overview
+
+  Ultra is looking for a Senior Software Infrastructure
+  Engineer to design and implement industry standard company
+  data infrastructure and tooling, along with airtight
+  information security and architecture, to enable multiple
+  mission-critical projects for Ultra’s long-term growth. As
+  Senior Infrastructure Engineer, you'll own the company's
+  data infrastructure and information security architecture
+  end to end: auditing what exists today, closing the gap to
+  industry-standard practice within six months, and building
+  the authZ/authN foundation that makes AI tooling and
+  enterprise customers trust us with their data. You'll also
+  own the platform that lets engineers and vibe-coders across
+  Ultra get safe, compliant data access without waiting on you
+  for every request. This is an in-person NYC role with direct
+  line of sight to top-line business goals.
+
+  Who You Are
+
+  - You have 7+ years in infrastructure/security engineering,
+    with real ownership of authn/authz systems in production
+  - You're proficient in Python; a software generalist who knows
+    when to build vs. buy
+  - You've led or heavily contributed to a SOC2 (or equivalent)
+    compliance effort — you know what auditors actually look
+    for
+  - You're comfortable auditing legacy systems and making the
+    call on what to fix, replace, or leave alone
+  - You have experience designing data infrastructure that
+    scales to onboard new data sources without re-architecting
+    each time
+  - You're dangerous with LLMs because you know when they're
+    wrong; you've thought hard about misbehaving agents and
+    what it takes to secure AI tooling
+  - You can look at a backlog of "we need access to X" requests
+    and pick the highest-leverage platform investment
+  - You have a bias toward shipping durable systems over quick
+    patches; you document decisions so others can build on
+    them
+
+  What You’ll Do
+
+  - Audit existing authn/authz infrastructure and produce a gap
+    analysis against industry standards
+  - Design and execute a roadmap to bring infrastructure to
+    industry-standard within 6 months
+  - Drive SOC2 compliance workstream — controls, evidence,
+    remediation; turn compliance requirements into enforceable
+    platform controls
+  - Build scalable systems/tooling for onboarding new data
+    sources
+  - Design and implement authorization architecture that
+    securely enables AI tooling across the company
+  - Support software engineers and vibe-coders so everyone can
+    ship code safely and quickly
+  - Partner with engineering leadership on architecture
+    decisions that support enterprise-market expansion
+
+  Bonus Points
+
+  - You've built a comprehensive authentication and
+    authorization system at another company
+  - You have strong opinions about the best way to implement
+    RBAC (and its limitations)
+
+  Expected Compensation
+
+  $160,000 - $250,000/annual salary + equity + benefits
+
+  This compensation range may be inclusive of several career
+  levels at Ultra and will be narrowed during the interview
+  process based on the candidate’s experience and
+  qualifications. Adjustments outside of this range may be
+  considered for candidates whose qualifications significantly
+  differ from those outlined in the job description.
+
+  Equal Employment Opportunity Statement
+
+  We are an Equal Opportunity Employer. We do not discriminate
+  based on race, religion, color, national origin, gender,
+  sexual orientation, age, marital status, veteran status, or
+  disability status. We are committed to creating a diverse
+  and inclusive environment and encourage applicants from all
+  backgrounds to apply.
+industries:
+  - eCommerce
+  - Robotics
+  - Software
+posted_date: 2026-08-28
+url: "https://builtin.com/job/senior-software-infrastructure-engineer/10913189"
+source: Built In

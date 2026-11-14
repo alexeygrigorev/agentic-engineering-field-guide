@@ -1,0 +1,153 @@
+job_id: 12009693
+title: Principal Software Engineer, AMER Payments
+company: Trustly
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 905 Employees
+description: |
+  WHO WE ARE
+
+  Our ambition is to make open banking real for everyone.
+  We're building the network that lets people pay and get paid
+  straight from their bank account, instantly and securely, so
+  more of every payment reaches the people it's meant for.
+  We're a global leader in open banking payments: since 2008
+  we've connected more than 12,000 banks, and today we process
+  more than $100 billion in payments a year.
+
+  ABOUT THE ROLE
+
+  Trustly moves money between consumers, merchants and banks
+  across the US. This is a hands-on engineering role. You'll
+  own, in code, the contracts between our payments systems,
+  bank connectivity and risk decisioning, and you'll build the
+  hardest cross-system changes yourself. Expect to spend about
+  two-thirds of your time building.
+
+  What you'll do
+
+  - Write and merge code on the critical path every week:
+    reference implementations, contract tests and the hardest
+    fixes.
+  - Own the contracts between payments, bank connectivity and
+    risk as versioned specs in the repo, with contract tests
+    in CI that fail the build when a contract breaks.
+  - Build the first version of hard cross-domain changes, then
+    hand them to the owning team.
+  - Own our global API specification, with the engineers who own
+    our merchant-facing APIs.
+  - Lead the technical response to any P0 or P1 that crosses
+    domains, as part of the escalation rotation.
+  - Run peak-event readiness yourself: load tests, failure
+    drills and capacity calls.
+  - Lead the US Platform squad: set platform priorities and
+    contracts across payments, bank connectivity and
+    infrastructure, and weigh them against the needs of the
+    business squads, with program support from our Core
+    Payments TPMs.
+
+  What you bring
+
+  - Typically 15+ years in software engineering, with principal-
+    level scope across multiple teams, and still writing
+    production code.
+  - Designed, built and operated payment, banking or ledger
+    systems at scale.
+  - A record of setting technical direction through code and
+    clear writing, not slides.
+  - Product judgment: you can make platform trade-offs with
+    business and product leaders, not only engineers.
+  - Deep distributed systems expertise: consistency,
+    idempotency, concurrency, failure handling.
+  - Practical, current use of AI in engineering, with clear
+    judgment on its limits in regulated systems.
+
+  Nice to have
+
+  - Experience with ACH, RTP, FedNow or open banking, and with
+    unifying platforms across regions.
+
+
+
+  LOCATION & WORKPLACE
+
+  This is a hybrid role based out of our San Francisco office.
+  We look for team members to be in the office Tuesday through
+  Thursday.
+
+  SALARY RANGES IN US-BASED ROLE POSTING
+
+  Our salary ranges are determined by role, level, and
+  location. The range displayed on each job posting reflects
+  the minimum and maximum target for new hire salaries for the
+  position across all US locations. Within the range,
+  individual pay is determined by work location and additional
+  factors, including job-related skills, experience, and
+  relevant education or training. Recruiters can share more
+  information with applicants about the specific salary range
+  for preferred locations during the hiring process. Please
+  note that the compensation details listed in US role
+  postings reflect the base salary only, and do not include
+  other perks and benefits.
+
+  WHAT WE OFFER
+
+  At Trustly, you will have the chance to solve meaningful
+  challenges alongside some of the brightest minds in FinTech.
+  Together, we are shaping the future of payments in an
+  environment that celebrates curiosity, collaboration, and
+  innovation. You will be challenged and empowered to grow,
+  making a real impact every step of the way.
+
+
+
+  Our team is as diverse as the global footprint we serve,
+  with colleagues across Silicon Valley, the U.S., Canada,
+  Brazil, Europe, and beyond. At Trustly, we foster a
+  workplace where everyone feels they belong—a place where
+  teamwork thrives, ideas flourish, and we never forget to
+  have fun along the way.
+
+
+
+  We offer innovative perks and benefits packages that
+  include:
+
+  - Flexible paid time off & generous PTO accrual plans
+
+  - Comprehensive medical, dental, vision, and other insurances
+
+  - FSA & HSA plans for medical and dependent care
+
+  - Home office set-up allowance
+
+  - Internet stipend
+
+  - Retirement plan match for 401k and RRSP
+
+  - Gender-neutral paid parental leave, and more!
+
+  (The benefits and total compensation packages outlined above
+  are for full-time employees; some exclusions apply for
+  temporary positions.)
+
+
+
+  At Trustly, we embrace and celebrate diversity of all forms
+  and the value it brings to our employees and customers. We
+  are proud and committed to being an Equal Opportunity
+  Employer and believe an open and inclusive environment
+  enables people to do their best work. All decisions
+  regarding hiring, advancement, and any other aspects of
+  employment are made solely on the basis of qualifications,
+  merit, and business need.
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-11-02
+url: "https://builtin.com/job/principal-software-engineer-amer-payments/12009693"
+source: Built In

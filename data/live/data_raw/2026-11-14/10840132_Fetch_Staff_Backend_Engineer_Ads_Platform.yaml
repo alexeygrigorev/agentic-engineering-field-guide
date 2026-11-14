@@ -1,0 +1,260 @@
+job_id: 10840132
+title: Staff Backend Engineer, Ads Platform
+company: Fetch
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 950 Employees
+description: |
+  What we’re building and why we’re building it.
+
+  Fetch helps people live rewarded every day, with a vision to
+  become the rewards destination for everyone. We turn
+  everyday activities into meaningful rewards, whether it’s
+  grocery shopping, grabbing a quick meal, or playing a
+  favorite mobile game. To date, we’ve awarded more than $1
+  billion in Fetch Points to our users.
+
+  Each day, more than 13 million receipts are submitted on
+  Fetch, providing visibility into over $212 billion in gross
+  merchandise value. This creates the largest retail-agnostic,
+  SKU-level view of household spending, powering Fetch as an
+  outcomes-based advertising platform that helps brands
+  acquire and retain lifelong consumers.
+
+  The Fetch app is available on the App Store and Google Play,
+  with more than 6 million five-star reviews from a highly
+  engaged and loyal user base.
+
+  It’s not just our users who believe in Fetch: with
+  investments from Softbank, ICONIQ, DST, Greycroft, and
+  partnerships ranging from challenger brands to Fortune 500
+  companies, Fetch is reshaping how brands and consumers
+  connect in the marketplace. When you work at Fetch, you play
+  a vital role in a platform that drives brand loyalty and
+  creates lifelong consumers with the power of Fetch points.
+  User and partner success are at the heart of everything we
+  do, and we extend that same commitment to our employees.
+
+  At Fetch, we value curiosity, adaptability, and the
+  confidence to explore new tools, especially AI, to drive
+  smarter, faster work. You don’t need to be an expert, but
+  you should be ready to learn quickly and think critically.
+  We welcome learners who move fast, challenge the status quo,
+  and shape what’s next, with us.  Ranked as one of America’s
+  Best Startup Employers by Forbes for two years in a row,
+  Fetch fosters a people-first culture rooted in trust,
+  accountability, and innovation. We encourage our employees
+  to challenge ideas, think bigger, and always bring the fun
+  to Fetch.
+
+  Meet Fetch Engineering
+
+  At Fetch, engineering is driven by curiosity, ownership, and
+  a bias toward action. We operate in complex problem spaces
+  where the right answer is not always clear, and success
+  depends on adaptability, critical thinking, and informed
+  decision-making. Our engineers are comfortable navigating
+  ambiguity, understanding tradeoffs, gathering context, and
+  turning uncertainty into progress while maintaining high
+  technical standards.
+
+  Engineers at Fetch take pride in building reliable, scalable
+  systems that serve millions of users. You will contribute
+  directly to the codebase, collaborate closely with cross-
+  functional partners, and help shape best practices that
+  elevate the quality of our work. We foster a culture of
+  mentorship and collaboration, where engineers grow by
+  learning from one another and holding a high bar for
+  quality, reliability, and impact.
+
+  About the Role:
+
+  Fetch is investing in the next generation of its advertising
+  platform, building intelligent, scalable systems that help
+  brands achieve measurable business outcomes through
+  automation, personalization, and optimization.
+
+  We are looking for a Staff Backend Engineer to lead the
+  architecture and development of foundational platform
+  capabilities supporting these initiatives. You will design
+  and build distributed systems, establish reusable services
+  and integration patterns, and create the technical
+  foundations that enable multiple teams to develop and
+  deliver advertising capabilities at scale.
+
+  We are looking for an engineer who has gone beyond
+  developing individual services to architecting, building,
+  and evolving platforms adopted by multiple teams or
+  products. You should bring strong judgment around system
+  architecture, service boundaries, reliability, and long-term
+  technical evolution.
+
+  At Fetch, Staff means impact beyond a single team. You will
+  lead complex technical initiatives, establish architectural
+  direction, and collaborate closely with Engineering, ML,
+  Data, and Product teams. You will remain hands-on while
+  mentoring engineers, setting technical standards, and
+  resolving high-ambiguity problems across systems and
+  organizational boundaries.
+
+  This is an opportunity to shape a foundational part of
+  Fetch's advertising technology, working at the intersection
+  of distributed systems, ML-driven decisioning, and
+  monetization.
+
+  This is a full-time role that can be held from one of our US
+  offices or remotely in the United States.
+
+  What you’ll do at Fetch:
+
+  - Lead platform architecture and development. Design and
+    evolve scalable backend platforms that support complex
+    advertising workflows and enable new capabilities as
+    business needs grow.
+  - Build reusable platform capabilities. Establish shared
+    services, APIs, integration patterns, and architectural
+    standards that enable multiple teams to build efficiently
+    while minimizing duplication and technical complexity.
+  - Design scalable distributed systems. Architect reliable,
+    high-performance systems across services, databases,
+    messaging, and event-driven infrastructure, making
+    informed trade-offs around scalability, consistency,
+    latency, and operational complexity.
+  - Enable ML-driven capabilities. Partner with ML and Data
+    teams to integrate intelligent decisioning and
+    optimization capabilities into production systems,
+    ensuring the architecture supports evolving models and
+    business requirements.
+  - Drive technical strategy and execution. Translate ambiguous
+    business requirements into scalable architectures, make
+    critical technical decisions, and lead multi-quarter
+    initiatives while balancing immediate delivery with long-
+    term platform sustainability.
+  - Ensure reliability and operational excellence. Establish
+    engineering practices for observability, resilience,
+    performance, and fault tolerance, so systems operate
+    reliably at scale and remain maintainable as complexity
+    grows.
+  - Provide cross-team technical leadership. Collaborate across
+    Engineering, Product, ML, and Data teams to align
+    technical direction, resolve complex architectural
+    challenges, mentor senior engineers, and raise engineering
+    standards across the organization.
+
+  Minimum Requirements:
+
+  - Proven experience architecting, building, and evolving
+    complex backend platforms adopted by multiple teams,
+    products, or business workflows, including ownership of
+    platform architecture, reusable capabilities, and long-
+    term technical evolution.
+  - Deep expertise in API and contract design, service
+    decomposition, and defining effective boundaries between
+    shared infrastructure and application-specific services.
+  - Strong track record designing and operating distributed
+    systems at significant production scale, including
+    consistency, concurrency, asynchronous processing, event
+    streaming, messaging, caching, and recovery from partial
+    failures, with the observability, alerting, and incident
+    response to run them reliably.
+  - Experience designing business-critical transactional systems
+    requiring strong guarantees around correctness,
+    consistency, auditability, and reliability.
+  - Experience designing complex, stateful workflows across
+    distributed services, including orchestration, failure
+    handling, and recovery mechanisms.
+  - Demonstrated ability to translate ambiguous business
+    requirements into scalable architectures and lead multi-
+    quarter initiatives from design through production,
+    influencing architectural direction across teams and
+    mentoring senior engineers.
+  - Strong hands-on backend development skills and fluency with
+    modern cloud infrastructure, Kubernetes, CI/CD, and
+    infrastructure automation.
+
+  Preferred Requirements:
+
+  - Experience building or scaling advertising, marketplace,
+    campaign management, or automated decisioning platforms.
+  - Familiarity with advertising concepts such as targeting,
+    campaign optimization, budgeting, pacing, attribution, and
+    measurement.
+  - Experience integrating ML models, forecasting systems, or
+    optimization algorithms into production backend systems.
+  - Experience building experimentation, decision-logging, or
+    measurement infrastructure.
+  - Experience designing platforms that integrate independently
+    evolving services, models, or decisioning components.
+  - Experience evolving early-stage systems into mature
+    platforms while balancing rapid product development with
+    architectural discipline.
+  - Demonstrated success improving the scalability, reliability,
+    performance, or developer productivity of complex
+    production platforms.
+
+  Compensation: At Fetch, we offer competitive compensation
+  packages including base, equity, and benefits to the
+  exceptional folks we hire. Discover our benefits and how our
+  employees live rewarded at https://fetch.com/careers.
+
+  At Fetch, we'll give you the tools to feel healthy, happy
+  and secure through:
+
+  - Equity: We offer full-time employees equity in Fetch, so
+    that everyone can benefit from Fetch’s growth.
+  - 401(k): Fetch will match your contributions dollar for
+    dollar, up to 4% of your eligible pay.
+  - Benefits for humans and pets: We offer comprehensive
+    medical, dental, and vision plans for everyone, including
+    your pets.
+  - Continuing Education: Fetch provides ten thousand per year
+    in education reimbursement.
+  - Employee Resource Groups: Take part in employee-led groups
+    that are centered around fostering a diverse and inclusive
+    workplace through events, dialogue, and advocacy. The ERGs
+    participate in our Inclusion Council with members of
+    executive leadership.
+  - Paid Time Off: On top of our flexible PTO, Fetch observes 9
+    paid holidays, as well as our year-end week-long break.
+    (Holidays will vary for Canada-based roles)
+  - Robust Leave Policies: 14 weeks of fully paid parental leave
+    for all employees, plus 6 additional weeks of paid
+    childbirth recovery leave for birthing parents, and a
+    flexible return-to-work schedule.
+  - Calvin Care Cash: Employees who are welcoming new family
+    members will also receive a one-time $2,000 incentive to
+    assist employees with covering the cost of childcare,
+    clothing, diapers, and much more!
+  - Flexible Work Environment: Collaborate with your team in one
+    of our stunning offices, or you can work fully remotely
+    from anywhere in the US for US-based roles. We’ll ensure
+    you are equally equipped with the hardware and software
+    you need to get your job done in the comfort of your home.
+    (applicable for most roles)
+
+  Fetch is an equal opportunity employer that embraces
+  diversity, inclusion, and respect for all individuals. We do
+  not discriminate on the basis of race, color, religion,
+  gender, gender identity or expression, sexual orientation,
+  age, national origin, marital status, veteran status,
+  disability, or any other characteristic protected by
+  applicable law. Our commitment to inclusivity ensures that
+  everyone is treated with dignity and has the opportunity to
+  succeed based on their talent, skills, and potential.
+
+  Fetch also provides reasonable accommodations to qualified
+  individuals with disabilities or those with sincerely held
+  religious beliefs, as required by law. If you need
+  assistance with the application process or require an
+  accommodation, please contact us at
+  accommodations@fetch.com.
+industries:
+  - AdTech
+  - Big Data
+  - Marketing Tech
+  - Mobile
+  - Consumer Packaged Goods (CPG)
+posted_date: 2026-08-25
+url: "https://builtin.com/job/staff-backend-engineer-ads-platform/10840132"
+source: Built In

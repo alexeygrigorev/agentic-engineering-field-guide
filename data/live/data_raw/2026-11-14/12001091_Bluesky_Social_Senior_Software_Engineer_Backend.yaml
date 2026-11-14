@@ -1,0 +1,77 @@
+job_id: 12001091
+title: Senior Software Engineer, Backend
+company: Bluesky Social
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 78 Employees
+description: |
+  Bluesky's mission is to transition the social web from
+  platforms to protocols. We're building a federated social
+  network where users have more power. Our team has decades of
+  combined experience building distributed applications. As a
+  backend dev, you'll build data infrastructure that powers
+  Bluesky’s developer services and will be a critical part of
+  transforming social media.
+
+  Working on our AT Protocol-oriented services, you’ll be
+  building and maintaining systems running on dense, latest-
+  generation, bare-metal servers running in our own racks
+  serving hundreds of thousands of events per second.
+
+  Responsibilities:
+
+  - Scale our Go production services to hundreds of millions of
+    users
+  - Build mission critical data infrastructure that powers much
+    of the AT Protocol ecosystem
+  - Build services that scale across tens of terabytes of RAM,
+    thousands of CPU cores, and petabytes of NVME storage
+
+  You might be a good fit if you:
+
+  - Have strong fundamental programming and software engineering
+    skills
+  - Have extensive experience with Go (e.g. 3+ years)
+  - Have built scalable backend systems (1M+ ops/sec) (e.g. data
+    services, load balancers, etc.)
+  - Have familiarity with the upper limits of operating systems,
+    networks, and storage.
+  - Have significant experience with database systems (e.g.
+    Postgres, MySQL, SQLite)
+  - Have some experience with with other data stores (e.g.
+    Scylla/Cassandra, Redis, ClickHouse)
+  - Have a high bar for ownership and operation of production
+    services.
+  - Like working on small, fast-moving teams
+  - Have read the AT Protocol docs and want to contribute
+
+  We're especially excited if you have:
+
+  - Previous experience working on social or Internet
+    infrastructure at large scale
+
+  We're a fully remote team, though a significant overlap of
+  working hours with US/Pacific is required. For full-time
+  roles, we offer health, dental, and vision insurance.
+
+  To learn more about us, check out:
+
+  - bsky.social
+  - atproto.com
+
+  Please attach your resume and links to your GitHub, GitLab,
+  or a portfolio of past work within the same attachment.
+
+  The anticipated base salary range for this position is
+  $179,000 - $220,000, excluding equity. Equity will be
+  considered in the total compensation package. The final base
+  salary for this role will be based on the individual’s
+  geographic location, as well as experience level, skill set,
+  training, licenses and certifications.
+industries:
+  - Social Media
+  - Software
+posted_date: 2026-10-31
+url: "https://builtin.com/job/senior-software-engineer-backend/12001091"
+source: Built In

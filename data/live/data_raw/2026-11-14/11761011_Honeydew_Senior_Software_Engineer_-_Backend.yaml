@@ -1,0 +1,122 @@
+job_id: 11761011
+title: Senior Software Engineer - Backend
+company: Honeydew
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 27 Employees
+description: |
+  The Mission 💪
+
+  Our mission is to ensure that no one in the world has to
+  suffer from a treatable skin disease because of an access
+  issue ever again.
+
+  About Honeydew 👋
+
+  Honeydew is building a platform for hundreds of millions of
+  people globally to access expertise and science-backed skin
+  treatments, from prescription to retail. Our tech-forward
+  dermatology experience helps people with chronic skin
+  conditions access licensed specialists, FDA-approved
+  treatment, and ongoing support in record time. Honeydew is
+  the future of skin health — digitally native, scientifically
+  rooted, integrated end-to-end, and powered by AI.
+
+  The Opportunity 📈
+
+  Our feature teams can only move as fast as the platform
+  underneath them, and we want to help them move faster. As a
+  Platform Engineer, you’ll contribute to the work that makes
+  our platform stronger, from moving our data layer onto RDS,
+  to tightening security and compliance across our multi-
+  account AWS organization, to building tooling that speeds up
+  every team shipping on top of it. You’ll review and test
+  your teammates’ work, and partner with feature teams and
+  other stakeholders to shape what our platform can do next.
+
+  What You'll Build (Your First 6 Months) 🛠
+
+  - By day 60: Standardize and optimize our logging for AI-
+    supported troubleshooting across the platform.
+  - Day 61-180: Implement processes and infrastructure for AI
+    agents to autonomously open PRs to resolve dependency
+    vulnerabilities and other issues
+  - And more platform and security-related improvements TBD!
+
+  How You'll Make an Impact
+
+  Build the platform. You'll work with the engineering manager
+  to identify and plan projects, then execute them using
+  agentic engineering methods.
+
+  Harden data and security. You'll deliver the migration,
+  security, and compliance work that keeps our data stores,
+  APIs, and cloud infrastructure safe and reliable.
+
+  Enable the feature teams. You'll assist other teams with
+  data and security requests, and review other engineers'
+  code, so everyone ships faster on a solid foundation.
+
+  What We're Looking For
+
+  The Non-Negotiables:
+
+  - Object-oriented programming language with strong data and
+    architecture skills — production experience building
+    backend services and APIs, and current best practices in
+    data modeling and system architecture
+  - Platform security — you've secured platform-layer
+    components, including data stores, APIs, and cloud
+    infrastructure, applying current best practices for access
+    control, encryption, and audit logging
+  - Infrastructure and automation — hands-on experience building
+    and operating production infrastructure with
+    infrastructure as code (CDK, Terraform, or CloudFormation)
+    and CI/CD pipelines
+  - 4+ Years of experience in a similar role
+
+  The Nice-to-Haves:
+
+  - Experience in healthcare setting, or another heavily
+    regulated domain
+  - Experience building and using custom agents
+  - Experience with Typescript, AWS, serverless functions,
+    PostgreSQL
+
+  You'll Thrive Here If…
+
+  - You make a plan and execute to that plan and timeline.
+  - You identify and report timeline issues early.
+  - You identify and champion opportunities to improve the
+    ecosystem you work in.
+  - You keep up with current best practices, including AI-
+    assisted engineering.
+  - You give direct, useful feedback in code review.
+  - You request and give help when needed.
+  - You write things down so the next engineer can rely on them.
+
+  Our tech stack
+
+  - Languages: TypeScript, Python, SQL
+  - Frontend: React, Redux Toolkit, Material UI, Tailwind CSS,
+    Vite, Next.js
+  - Backend: Node.js on AWS Lambda, GraphQL (AWS AppSync,
+    Apollo), REST (API Gateway), event-driven architecture
+    (EventBridge, SQS, SNS), authentication (Cognito)
+  - Data: PostgreSQL (RDS), DynamoDB, OpenSearch, S3
+  - Infrastructure: AWS (multi-account, Control Tower,
+    CloudFormation, IAM, SSM, CloudWatch, CloudTrail),
+    Terraform, Serverless Framework, Docker, LocalStack, Git,
+    CI/CD on Bitbucket Pipelines and GitHub Actions
+  - Analytics: Databricks, dbt, Amplitude
+  - AI: OpenAI and Anthropic APIs, Cursor
+  - Testing: Vitest, Jest, Playwright
+industries:
+  - Beauty
+  - Healthtech
+  - Software
+  - Telehealth
+posted_date: 2026-10-20
+url: "https://builtin.com/job/senior-software-engineer-platform/11761011"
+source: Built In

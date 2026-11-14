@@ -1,0 +1,175 @@
+job_id: 10808761
+title: Senior Software Engineer, Reinforcement Learning
+company: hud
+location: MYS
+locations:
+  - MYS
+  - MDV
+  - Tajikistan, TJK
+  - USA
+  - JPN
+  - IND
+  - TUR
+  - TWN
+  - KHM
+  - PAK
+  - PHL
+  - MNG
+  - THA
+  - Laos, LAO
+  - KOR
+  - Singapore, SGP
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  About HUD
+
+  HUD's mission is to build reliable, fair and open
+  infrastructure for AI data. We want data to be valuable for
+  the people who create it and trustworthy for the labs that
+  train on it. Our team is a quickly growing group of
+  researchers, engineers and operators building the economy
+  that shapes what AI will become. Backed by $16M from top VCs
+  and YC (W25), our marketplace and platform are used by
+  startups, Fortune 500 companies and frontier labs.
+
+  About the role
+
+  We’re looking for a Senior Software Engineer, Reinforcement
+  Learning to build the product surfaces, backend systems, and
+  internal tools that power HUD’s RL data engine.
+
+  You’ll own product surfaces end-to-end, including backend
+  services, APIs, databases, dashboards, tools, vendor
+  workflows, data collection, and observability for RL
+  rollouts. You don’t need to be a researcher, but you need to
+  work research engineers and vendors to translate ambiguous
+  needs into polished products that enable our RL systems.
+
+  Responsibilities
+
+  - Develop product-facing tools for browsing environments,
+    inspecting trajectories, reviewing task quality, debugging
+    failures, and understanding model behavior
+  - Build vendor-facing workflows that make it easy for external
+    partners to create, submit, test, and iterate on RL
+    environments and training data
+  - Create dashboards and observability tools that surface
+    environment quality, eval results, data collection
+    progress, grader issues, reward signal problems, and
+    pipeline health
+  - Design backend services and APIs that connect task
+    authoring, data collection, evaluation, QA/QC, and RL
+    training infrastructure
+  - Partner closely with research, operations, and GTM teams to
+    turn vague, high-stakes requests into well-designed
+    systems that ship quickly
+
+  Experience
+
+  You may be a good fit if you have:
+
+  - Strong software engineering fundamentals and real full-stack
+    range, including proficiency in Python and a modern web
+    stack such as React, TypeScript, Next.js, or similar
+  - Experience owning user-facing or internal products end-to-
+    end
+  - Good product taste and the ability to build tools that are
+    intuitive for both technical and non-technical users
+  - Comfort with cloud infrastructure, Docker, CI/CD,
+    observability, and production debugging
+  - High agency—you identify what needs to exist, build it, and
+    improve it without waiting for a perfect spec
+  - Strong communication skills for working across research,
+    engineering, operations, vendors, and founders
+
+  Strong candidates may also have:
+
+  - Experience building data collection, labeling, annotation,
+    eval, or research tooling platforms
+  - Experience building dashboards, review workflows,
+    observability tools, or debugging interfaces for complex
+    systems
+  - Experience building developer tools, infrastructure
+    products, internal platforms, or workflow products that
+    made a team dramatically faster
+  - Experience with AWS, Kubernetes, Terraform, Docker, Grafana,
+    or similar infrastructure tools as tools to ship product,
+    not as the center of the role
+
+  We prioritize technical aptitude and learning potential over
+  years of experience. Motivated candidates are encouraged to
+  apply even if they don't meet all criteria.
+
+  Team & company details
+
+  - Team Size: ~25 people currently, mostly full-time in-person,
+    but some remote.
+  - Our team: Our team brings together five International
+    Olympiad medalists across IOI, ILO and IPhO, researchers
+    published at NeurIPS and ICLR, and engineers and
+    researchers from Google DeepMind, Amazon, AWS, Meta, Qwen,
+    GLM, and Mercor. It also includes operators from BCG and
+    Uber, the first security hire at one of the largest crypto
+    exchanges, serial AI startup founders, former quant
+    researchers, artists and the former #1 ranked Catan player
+    in the world.
+  - Company stage: We have 8 figures in funding and are scaling
+    profitably and quickly to meet very strong demand.
+
+  Logistics
+
+  - Employment: Full-time.
+  - Location: We have offices in San Francisco or Singapore but
+    are open to remote candidates who can work hours that
+    70-80% overlap with either San Francisco or Singapore time
+    zones.
+  - Visa Sponsorship: We provide support for relocation and
+    visas for strong full-time candidates to the US or
+    Singapore.
+  - Timeline: Applications are rolling. The process is 2
+    technical interviews and a 2-3 day work trial.
+
+  What we offer
+
+  - Competitive compensation
+  - 100% covered top-of-the-line medical, dental, and vision (US
+    and Singapore employees)
+  - Lunch and dinner for in-office employees
+  - Company-wide holiday break (Christmas Eve to New Year’s Day)
+    on top of PTO and paid holidays
+  - 401k with a 4% match
+  - Other perks including an Equinox membership and commuter
+    benefits (US employees) and a health/wellness stipend
+    (Singapore employees)
+  - Unlimited* access to tokens for ChatGPT, Claude Code,
+    Cursor, etc. *By unlimited, we mean no one on our token
+    usage leaderboard has ever hit a limit. So we have no idea
+    what the limit is.
+  - Two top-floor offices in San Francisco’s Union Square and
+    Singapore’s Raffles Place
+  - Annual travel budget to visit either office
+
+  Compensation
+
+  Actual offers are adjusted for experience and location, but
+  our base salary bands are
+
+  - San Francisco (and other major US cities): $130,000 -
+    $225,000
+  - Singapore: $100,000 - $170,000
+  - Rest of world: $100,000 - $170,000
+
+  Due to high volume, we may not actively respond to every
+  application, but feel free to contact us at
+  recruiting@hud.so or elsewhere if we missed your
+  application!
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-08-22
+url: "https://builtin.com/job/full-stack-software-engineer-reinforcement-learning/10808761"
+source: Built In

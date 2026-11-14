@@ -1,0 +1,114 @@
+job_id: 11168513
+title: Senior Software Engineer, Identity
+company: Zeta Global
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 2,429 Employees
+description: |
+  WHO WE ARE
+
+  Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud
+  that leverages advanced artificial intelligence (AI) and
+  trillions of consumer signals to make it easier for
+  marketers to acquire, grow, and retain customers more
+  efficiently. Through the Zeta Marketing Platform (ZMP), our
+  vision is to make sophisticated marketing simple by unifying
+  identity, intelligence, and omnichannel activation into a
+  single platform – powered by one of the industry’s largest
+  proprietary databases and AI. Our enterprise customers
+  across multiple verticals are empowered to personalize
+  experiences with consumers at an individual level across
+  every channel, delivering better results for marketing
+  programs. Zeta was founded in 2007 by David A. Steinberg and
+  John Sculley and is headquartered in New York City with
+  offices around the world. To learn more, go to
+  www.zetaglobal.com.
+
+  The Opportunity: Where Impossible Becomes Possible
+
+  The Identity team operates the critical backend services
+  powering the Zeta Identity Graph. How do you engineer
+  distributed architectures to manage a profile store running
+  in several terabytes while maintaining single-digit
+  millisecond latencies for billions of monthly events? We
+  seek an innovative Senior Software Engineer to help navigate
+  this exact scale, driving a multi-year roadmap to optimize
+  our existing systems and architect our next-generation
+  platform.
+
+  You Will:
+
+  - Design and build backend services and APIs for identity
+    resolution, graph transparency, and platform integrations.
+  - Optimize event-driven pipelines processing billions of
+    signals.
+  - Deploy and operate cloud-native services on EKS/Kubernetes
+    using Helm.
+  - Ensure absolute reliability, observability, and scalability
+    across services and data pipelines.
+  - Collaborate with engineering, product, and data teams to
+    deliver identity solutions and mentor junior engineers.
+
+  You Have:
+
+  - 5+ years of experience in backend and/or data engineering at
+    enterprise scale.
+  - Strong programming skills in Python, Java, or Scala, with
+    expertise in API design and distributed systems.
+  - Experience with Kafka, streaming frameworks
+    (Spark/Hive/Flink), and schedulers (Airflow/Luigi).
+  - Proficiency with Kubernetes (EKS) and AWS cloud deployment
+    practices.
+  - Knowledge of SQL, complex data modeling, and high-throughput
+    NoSQL/columnar databases (Aerospike, Snowflake, Scylla,
+    etc.).
+
+  Bonus Skills:
+
+  - Experience designing multi-tenant distributed systems or
+    real-time streaming frameworks (Flink/Storm).
+  - Knowledge of open table formats (Iceberg, Hudi, Delta Lake)
+    and security/privacy frameworks.
+
+  BENEFITS & PERKS
+
+  - Unlimited PTO
+  - Excellent medical, dental, and vision coverage
+  - Employee Equity
+  - Employee Discounts, Virtual Wellness Classes, and Pet
+    Insurance And more!!
+
+  SALARY RANGE
+
+  The salary range for this role is $150,000 - $180,000,
+  depending on location and experience.
+
+  PEOPLE & CULTURE AT ZETA
+
+  Zeta considers applicants for employment without regard to,
+  and does not discriminate on the basis of an individual’s
+  sex, race, color, religion, age, disability, status as a
+  veteran, or national or ethnic origin; nor does Zeta
+  discriminate on the basis of sexual orientation, gender
+  identity or expression.
+
+  We’re committed to building a workplace culture of trust and
+  belonging, so everyone feels invited to bring their whole
+  selves to work. We provide a forum for employees to
+  celebrate, support and advocate for one another. Learn more
+  about our commitment to diversity, equity and inclusion
+  here:  https://zetaglobal.com/blog/a-look-into-zetas-ergs/
+
+  ZETA IN THE NEWS!
+
+  https://zetaglobal.com/press/?cat=press-releases  #LI-TS1
+industries:
+  - AdTech
+  - Artificial Intelligence
+  - Marketing Tech
+  - Software
+  - Analytics
+posted_date: 2026-09-14
+url: "https://builtin.com/job/senior-software-engineer-identity/11168513"
+source: Built In

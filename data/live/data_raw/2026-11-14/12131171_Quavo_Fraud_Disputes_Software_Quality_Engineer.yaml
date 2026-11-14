@@ -1,0 +1,151 @@
+job_id: 12131171
+title: Software Quality Engineer
+company: "Quavo Fraud & Disputes"
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 141 Employees
+description: |
+  Who we are:
+
+  Quavo is the industry leader in fraud and disputes
+  management technology, offering the world’s only E2E cloud-
+  based Disputes as a Service solution for issuing financial
+  services organizations. Quavo is an organization of
+  tenacious experts who are innovative and challenge
+  complacency to continuously deliver cutting edge technology
+  and AI. Our experts are passionate about delivering value in
+  our solutions and empowering our client community to enhance
+  and evolve industry standards in fraud and disputes
+  management.
+
+  Who you are:
+
+  Quavo is looking for authentic and courageous professionals
+  to join our team. If you are a driven, accountable, and
+  innovative problem solver searching for a collaborative
+  environment of like-minded teammates dedicated to improving
+  the client experience…. Then you are going to love working
+  at Quavo!
+
+  About the role:
+
+  As a Software QA Engineer at Quavo, you’ll ensure the
+  quality, reliability, and performance of our products across
+  the full development lifecycle. You’ll go beyond Acceptance
+  Criteria, thinking like an end user to uncover issues in
+  functionality, security, and UX, and catching problems early
+  by reviewing requirements in refinement.
+
+  You’ll work AI-first with Quavo’s Claude Code QA skills for
+  test planning, execution, and bug filing, while remaining
+  accountable for every output you approve. You’ll test
+  Pega/QFD workflows, validate data with read-only Snowflake
+  SQL, and publish traceable evidence to Jira and
+  BrowserStack. You’ll also verify regulatory coverage (Reg E,
+  Reg Z, NACHA, PCI, UDAAP) and maintain audit-ready evidence
+  for SOC2 and PCI-DSS.
+
+  Partnering with Product, Engineering, Infrastructure,
+  Onboarding, Services, and Client Experience, you’ll be an
+  active voice in Agile ceremonies, investigate customer
+  issues, and contribute to Confluence. Over time, you’ll
+  become a subject-matter expert on Quavo’s products,
+  supporting release readiness and guiding clients with
+  confidence.
+
+  This role is not sponsorship eligible. Applicants must be
+  legally authorized to work in the United States without
+  employer visa sponsorship, now or in the future.
+
+  Responsibilities include:
+
+  AI-Assisted Testing
+
+  - Operate the QA skills framework. Use Quavo's Claude Code QA
+    skills for board sync, test planning, execution, sign-off,
+    kickbacks, and bug filing.
+  - Own every AI-generated output. Review, correct, and approve
+    all drafts before they post to Jira or BrowserStack. You
+    are accountable for the result, not the tool.
+  - Contribute product context, compliance dimensions, and
+    reusable test procedures into skills to improve future
+    performance.
+
+  Test Planning and Execution
+
+  - Develop and execute test plans to Quavo's ten-point standard
+    covering acceptance criteria mapping, traceability,
+    compliance applicability, and known-gap disclosure that go
+    beyond defined Acceptance Criteria.
+  - Test Pega/QFD case lifecycles, flows, decision rules, and
+    data transforms; inspect and compare branches and trace
+    each branch to its Jira ticket.
+  - Validate data with read-only SQL against QFD in Snowflake,
+    following PII masking and tenant isolation rules.
+  - Ensure product quality in all areas: functionality,
+    reliability, performance, security, and UX. Think like an
+    end user.
+  - Publish test cases, runs, and evidence to BrowserStack Test
+    Management to maintain full traceability.
+
+  Compliance and Release Readiness
+
+  - Tag and verify regulatory coverage across Reg E, Reg Z,
+    NACHA, PCI, and UDAAP.
+  - Maintain test evidence that supports SOC2 and PCI-DSS
+    audits; use synthetic or masked data and never commit
+    secrets or PII.
+
+  Collaboration and Shift-Left
+
+  - Participate in sprint ceremonies: standups, refinement,
+    pointing, and retrospectives.
+  - Find defects early by reviewing requirements in refinement
+    and applying Quavo's Definition of Ready.
+  - Partner with Engineering, Product, Onboarding, Services,
+    Infrastructure, and Client Experience to drive quality.
+  - Investigate customer complaints and product issues.
+  - Contribute regularly to Confluence and become a Subject
+    Matter Expert on Quavo's products.
+
+  Required Qualifications:
+
+  - Bachelor's degree in computer science or a related field, or
+    equivalent industry experience with a proven track record.
+  - ISTQB or other quality/testing certification.
+  - 2+ years testing a low-code BPM platform.
+  - Hands-on experience using generative AI tools in daily work,
+    with the judgment to spot and challenge incorrect or
+    unsupported results.
+  - Basic SQL, Git, and command-line proficiency.
+  - Understanding of the disputes and fraud domain (Reg E and
+    Reg Z disputes, chargebacks, card network rules), or a
+    demonstrated ability to learn it quickly.
+  - Meticulous attention to detail and strong organizational
+    skills.
+  - Excellent written and verbal communication. Not afraid to
+    ask questions; communicates with tact.
+  - Works well on a team in a fast-paced, deadline-driven
+    environment and asks for help early.
+
+  Preferred Qualifications:
+
+  - Working knowledge of Pega (case types, flows, Tracer,
+    Clipboard)
+  - Pega CSA or CSSA certification.
+  - Test automation experience, especially Playwright with
+    TypeScript.
+  - API testing experience (e.g., Postman).
+  - Familiarity with AWS services such as CloudWatch, Lambda,
+    and SQS.
+  - Experience in FinTech or another regulated industry.
+  - Experience with Jira, Confluence, Bitbucket, BrowserStack,
+    and SharePoint.
+industries:
+  - Security
+  - Software
+  - Financial Services
+posted_date: 2026-11-07
+url: "https://builtin.com/job/software-quality-engineer/12131171"
+source: Built In

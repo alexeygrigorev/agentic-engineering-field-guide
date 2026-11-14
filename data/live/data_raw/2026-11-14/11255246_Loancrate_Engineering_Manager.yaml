@@ -1,0 +1,304 @@
+job_id: 11255246
+title: Engineering Manager
+company: Loancrate
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 35 Employees
+description: |
+  What is Loancrate?
+
+  We started Loancrate to make home-buying simpler and less
+  expensive for lenders and borrowers (us!). Today, mortgage
+  lenders are stuck running their companies on software
+  products built 20 years ago. These products are slow,
+  unstable, and don't lead to material improvements in
+  efficiency. When using these systems, the average human cost
+  to originate a loan is still over $11,000.
+
+  Loancrate builds AI-native tooling to automate mortgage
+  workflows. Our ultimate goal is fully automated origination,
+  which has the potential to save lenders over $16B in
+  operating expense per year.
+
+  Since starting in 2020, our remote team has enabled our
+  customers to power >$85 billion in new home loans. We are a
+  group of people excited to tackle the complexity of the
+  home-lending industry. We care about collaboration, very
+  open communication covering the good & the bad so that we
+  learn from our decisions quickly, and ultimately having fun
+  while we're building. You'll fit in well if you like diving
+  deep quickly!
+
+  The Opportunity
+
+  Our dreams are big and we have much to build! We're looking
+  for an Engineering Manager to own the health, output, and
+  trajectory of one of our engineering pods — roughly 6–8
+  engineers, reporting to the Head of Engineering. You'll own
+  your pod’s operating system: people, execution, delivery
+  health, cross-functional partnership, and continuous
+  improvement. You'll partner with a Technical Lead on
+  architecture and technical quality, and with a Product
+  Manager on what's worth building.
+
+  Those partnerships are the job. You are not the technical
+  decision-maker of last resort, and you are not a proxy PM —
+  you are the person accountable for whether the pod is
+  healthy and whether the pod delivers. Our product runs some
+  of the most complex, high-stakes workflows in financial
+  services, and when our software is wrong, someone's home
+  purchase is at risk. That reality shapes how we build and
+  how we manage.
+
+  What To Expect
+
+  On your first day, you'll ship something to production. It's
+  a team tradition, and for managers it's also a statement of
+  intent. We don't want EMs who lose touch with what their
+  engineers actually do all day.
+
+  A quick note before diving in: we're building an AI-native
+  product, and we rely on AI heavily in our own engineering
+  workflows too. We use background agents, evals, and AI-
+  assisted development. We expect our managers to be fluent in
+  this, not just tolerant of it. If that excites you, you'll
+  thrive here. If it gives you pause, this probably isn't the
+  right fit.
+
+  From there, your first 90 days will look something like:
+
+  First 30 days Weekly 1:1s established with every direct
+  report, and a real read on each person's strengths,
+  motivation, and growth trajectory. A working understanding
+  of the pod's roadmap, codebase, and dependencies. A clear-
+  eyed inventory of what's actually blocking your engineers.
+
+  First 60 days Your pod’s operating cadence is yours:
+  planning, retros, and follow-through. You're catching
+  stalled or poorly scoped projects before they slip, and
+  you're surfacing risk to the Head of Engineering before it's
+  discovered independently. Your PM has started treating you
+  as a partner in prioritization rather than a recipient of
+  it.
+
+  First 90 days Performance expectations are explicit and
+  understood. Any sustained performance gap on the pod is
+  being actively addressed. New hires are ramping faster than
+  they were before you arrived. The pod is solving most of its
+  own problems without escalation.
+
+  Core Responsibilities Pod effectiveness
+
+  - Own your pod’s overall performance, and create clarity
+    around priorities, ownership, and expectations.
+  - Own the operating cadence including planning, retros, and
+    follow-through. We’re looking for decision makers instead
+    of status trackers.
+  - Remove what blocks engineers from doing their best work, and
+    keep them on high-leverage problems.
+  - Hold high standards, accountability, autonomy, and
+    psychological safety at the same time.
+
+  Execution
+
+  - Be accountable for whether the pod delivers, and know the
+    roadmap deeply enough to spot risk yourself.
+  - Catch projects that are stalled, poorly scoped, or under-
+    owned and intervene, including when an engineer is blocked
+    or spinning.
+
+  People management
+
+  - Run weekly 1:1s with every direct report, and give specific
+    feedback continuously rather than at review time.
+  - Know each engineer's performance, strengths, motivation, and
+    growth trajectory. This should be top of mind.
+  - Set clear expectations, and give high performers room to
+    increase their impact.
+  - Address sustained performance gaps quickly with direct and
+    honest feedback, coaching, and formal improvement plans
+    when needed.
+  - Support growth, write reviews that are fair and well-
+    supported, and stay alert to burnout and retention risk.
+  - At Loancrate, we care about and for our people and you
+    should too.
+
+  Onboarding
+
+  - Own onboarding for every new engineer including setting up
+    real work before their day one, and a high-touch first
+    month.
+  - Get new hires into production quickly and onto meaningful
+    work.
+  - Keep documentation, runbooks, and ownership boundaries
+    accurate enough that engineers ramp fast.
+
+  Product partnership
+
+  - Partner closely with your pod's Product Manager, and make
+    sure effort lands on genuinely high-value problems.
+  - Challenge unclear, incomplete, or unnecessarily complex
+    requirements.
+  - Participate in planning and prioritization rather than
+    receiving work from Product.
+  - Represent engineering tradeoffs including urgency, cost,
+    quality, and scope to non-engineering stakeholders, and
+    escalate persistent misalignment.
+
+  Technical partnership
+
+  - Partner with your Technical Lead on architecture, quality,
+    and technical risk and protect their capacity to actually
+    lead technically.
+  - Maintain enough technical depth to challenge plans and
+    recognize problems on your own. You don't need to be the
+    strongest engineer on the pod, but you do need to be
+    credible to it.
+  - Ensure technical decisions have clear owners, get made at
+    the right level, and don't stall on unresolved
+    disagreement.
+  - Keep technical debt and quality risk visible and
+    deliberately managed rather than silently absorbed.
+  - Contribute as an IC where it doesn't crowd out the rest of
+    the job, and keep operational burden sustainable so
+    incidents produce durable improvements. On-call is shared
+    team-wide.
+
+  Staffing and pod design
+
+  - Know whether your pod has the right skills and seniority
+    mix, and recommend hiring based on real organizational
+    problems.
+  - Interview meaningfully, vet every candidate entering the
+    final round, and help close strong candidates.
+  - Identify capability and leadership gaps, recommend transfers
+    where an engineer would have more impact, and support
+    succession planning.
+
+  Communication and escalation
+
+  - Give the Head of Engineering an honest picture of pod
+    health, and surface risks and delivery issues early.
+  - Escalate when a problem needs organizational help, not
+    simply because it's hard, with context, options, and a
+    recommendation.
+  - Communicate dependencies and tradeoffs across pods before
+    they become surprises.
+
+  What Success Looks Like
+
+  You're succeeding in this role when:
+
+  - Engineers on your pod know what's expected of them.
+  - The pod consistently delivers meaningful outcomes, and
+    delivery problems get caught early.
+  - New hires ramp quickly. Strong engineers are visibly
+    growing. Weak performance is being actively addressed.
+  - Morale is good without performance expectations having been
+    lowered to get there.
+  - Your pod doesn’t just take orders from Product. Your PM
+    views Engineering as a strong partner.
+  - Your Technical Lead has room to lead technically.
+  - The pod solves most of its problems without intervention
+    from the Head of Engineering.
+  - You surface important problems before your manager discovers
+    them independently.
+  - Cross-pod dependencies are actively managed, and quality
+    risks are visible before they become incidents.
+  - Documentation and ownership boundaries make onboarding and
+    execution easier over time, not harder.
+
+  Tech Stack
+
+  Nearly all of our code is TypeScript. React + Vite on the
+  frontend, Node/Express on the backend (in Docker),
+  GraphQL/Apollo on both sides, Postgres (Aurora) as our
+  database — all in a Turborepo/PNPM monorepo with types
+  generated from our Postgres and GraphQL schemas and shared
+  end to end. Infrastructure runs on AWS (ECS, Aurora,
+  ElastiCache, MSK/Kafka, OpenSearch) and is managed 100% as
+  code with Terraform and Pulumi. CI/CD runs on Buildkite with
+  TypeScript pipeline-as-code, including per-PR ephemeral
+  environments. Observability is Datadog, CloudWatch, and
+  Sentry.
+
+  You won't be writing most of this code. You will be expected
+  to understand it well enough to know when a plan doesn't add
+  up.
+
+  Preferred Skills & Background
+
+  (It's okay not to have all of these — these are just some
+  things we're excited about!)
+
+  👥 Experience managing engineers directly — ideally 5+ on a
+  product or platform team, with real examples of performance
+  you improved and performance you had to manage out.
+
+  🛠 A credible engineering background. You've shipped
+  production software yourself and can still read a PR,
+  evaluate a design doc, and push back on an estimate.
+
+  🚚 A track record of delivery. You can point to teams that
+  got predictably better at shipping under your management,
+  and explain what you actually changed.
+
+  🤖 Fluency with modern AI product development — evals,
+  experiment design, dataset curation, and the reality that
+  non-deterministic systems need different management than
+  deterministic ones. Plus first-hand use of AI in your own
+  engineering workflow.
+
+  🧭 Comfort with ambiguity and high-complexity domains.
+  Mortgage origination is genuinely hard. You'll need to build
+  real domain understanding, not manage around it.
+
+  🤝 Strong product partnership instincts. You engage with the
+  "why," challenge weak requirements, and hold your own with
+  non-engineering stakeholders.
+
+  ✍️ Crisp written communication. We're remote-first and write
+  things down. Your reviews, escalations, and updates need to
+  be clear and specific.
+
+  🔥 Directness with care. You give hard feedback early and
+  kindly, and you'd rather have an uncomfortable conversation
+  now than an unfair surprise later.
+
+  📊 Operational and reliability instincts — SLOs, incident
+  response, postmortems, and keeping toil off your team's
+  plate.
+
+  🔒 A keen eye for security risk. We store and display some of
+  people's most sensitive personal data and need to keep it
+  safe.
+
+  🌱 Experience hiring and onboarding in a growing
+  organization, including interviewing well and closing
+  candidates.
+
+  Perks & Benefits
+
+  - Robust medical coverage (100% of employee + family premiums
+    covered)
+  - Vision & dental coverage
+  - 401(k)
+  - HSA / FSA
+  - Access to lender partner's employee loan program
+  - Remote-first culture — work from wherever you do your best
+    work
+  - Flexible time off — we trust you to manage your time
+
+  Loancrate is an equal opportunity employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees. We do not discriminate on the
+  basis of race, color, religion, sex, sexual orientation,
+  gender identity, national origin, age, disability, veteran
+  status, or any other legally protected characteristic.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-09-18
+url: "https://builtin.com/job/engineering-manager/11255246"
+source: Built In

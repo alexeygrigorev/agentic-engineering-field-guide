@@ -1,0 +1,103 @@
+job_id: 10542119
+title: Senior Software Engineer, Simulation
+company: AeroVect
+location: ITA
+locations:
+  - ITA
+  - POL
+  - Atlanta, USA
+  - London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  Who We Are
+
+  AeroVect is transforming ground handling with autonomy,
+  redefining how airlines and ground service providers around
+  the globe run day-to-day operations. We are a Series A
+  company backed by top-tier venture capital investors in
+  aviation and autonomous driving. Our customers include some
+  of the world’s largest airlines and ground handling
+  providers. For more information, visit www.aerovect.com.
+
+  You will own and extend the simulation tooling. A
+  significant part of the role is test quality. A test suite
+  that produces flaky failures does not provide usable
+  information. Determinism, reproducibility, and verifying
+  that each gate is capable of failing are ongoing
+  responsibilities rather than one-off tasks.
+
+  You Will
+
+  - Build and extend the capabilities of the simulation
+    environment: integration with the production autonomy
+    stack, the interfaces it consumes, vehicle and actor
+    models, and the range of environmental and operational
+    conditions that can be represented
+  - Maintain and improve that integration as the autonomy stack
+    evolves, including fidelity work where the difference
+    between simulated and real inputs changes how the stack
+    behaves
+  - Build and operate scenario execution in the cloud:
+    orchestration, parallelism, result aggregation, artifact
+    capture, and runtime cost modelling
+  - Build and extend the evaluation layer that turns a run into
+    a verdict — assertions and pass/fail criteria precise
+    enough to gate a release and stable enough to avoid false
+    failures
+  - Build failure-triage tooling: failure clustering, per-
+    failure recordings, and dashboards that autonomy engineers
+    can use without assistance
+  - Extend the scenario authoring tooling used by the V&V team,
+    across backend and frontend
+  - Maintain simulation foundations: determinism and
+    reproducibility, pipeline performance, and extending
+    coverage to additional maps and sites
+
+  You Have
+
+  - Bachelor’s in Computer Science, Electrical Engineering,
+    Robotics, or related field
+  - Strong Python, with a track record of maintainable code in a
+    shared codebase
+  - Hands-on simulation experience for autonomous systems,
+    familiarity with simulation platforms such as CARLA,
+    Applied Intuition, Foretellix, NVIDIA Omniverse, IsaacSim,
+    Gazebo, or a proprietary in-house simulator
+  Working knowledge of simulation, modelling, and validation
+  methodology, including how simulated results are used to
+  support claims about real-world behaviour
+  - Docker and Linux, distributed-systems fundamentals, and
+    experience with GPU-based simulation environments
+  CI/CD and cloud execution, experience integrating automated
+  test workflows into CI for end-to-end validation coverage
+  - Experience analyzing simulation output and telemetry to
+    identify performance bottlenecks and failure modes
+  - Debugging and profiling skills suited to distributed, GPU-
+    bound systems
+
+  We Prefer
+
+  - Master’s in Computer Science, Robotics, or related field
+  - Experience designing and validating safety-critical systems
+    in autonomous driving, aerospace, or robotics
+  - Experience developing or maintaining autonomous vehicle
+    software stacks (ROS/ROS2)
+  - Cloud-based simulation infrastructure and large-scale
+    distributed test execution
+  - Sensor modelling (camera, lidar, radar), environment
+    generation, or perception ground-truth pipelines
+  - Automated testing, continuous integration, and data-driven
+    validation
+  - Log/bag re-simulation from recorded real-world data
+  - Test-signal quality work: flake reduction, determinism
+    debugging, golden-output comparison
+  - Safety standards exposure: ISO 26262, ISO 21448 (SOTIF),
+    UL4600, ISO 13849
+industries:
+  - Aerospace
+  - Automation
+posted_date: 2026-08-05
+url: "https://builtin.com/job/senior-software-engineer-simulation/10542119"
+source: Built In

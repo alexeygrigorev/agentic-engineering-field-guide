@@ -1,0 +1,206 @@
+job_id: 7406966
+title: Staff Backend Engineer, Hub (East Coast)
+company: Docker, Inc
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 498 Employees
+description: |
+  About Docker
+
+  Docker has been one of the most loved brands in developer
+  tooling, trusted by more than 20 million monthly users and
+  over 20 billion container image pulls. From solo founders to
+  the world's largest companies, developers rely on Docker to
+  build, share, and run their applications across our suite of
+  products including Docker Desktop, Docker Hub, and Docker
+  Scout. We are a globally distributed, remote-first team
+  building the tools that define how software gets built and
+  delivered. As AI agents redefine software development,
+  Docker is at the center of that shift, providing the
+  sandboxed environments, verified images, and secure
+  infrastructure that make autonomous workflows trustworthy by
+  default.
+
+  ____________________________________________________________
+  ___________
+
+  The Role
+
+  We’re looking for a Staff Backend Engineer with extensive
+  experience in distributed systems, large-scale backend
+  architecture, and high-volume storage systems. You will own
+  systems end-to-end—from schema design and API architecture
+  to deployment, observability, and operational excellence.
+
+  The work is highly dynamic, and you will operate in a fast-
+  paced environment where we continuously evolve the platform
+  to support enormous growth in traffic, data, and global
+  usage. You’ll collaborate across engineering, SRE, Product,
+  and Design while acting as a technical leader who simplifies
+  complexity, elevates engineering quality, and improves a
+  globally critical developer platform.
+
+  If you’re passionate about building and operating massive-
+  scale distributed systems with huge data and throughput
+  demands, this role is for you.
+
+  ____________________________________________________________
+  ___________
+
+  ResponsibilitiesDistributed Systems & Backend Engineering
+
+  - Architect, build, and operate high-scale distributed systems
+    powering Docker Hub’s registry platform—spanning artifact
+    storage, metadata services, indexing workflows, and
+    performance-critical APIs.
+  - Lead the design and implementation of backend services with
+    a strong emphasis on scalability, correctness, resilience,
+    and performance.
+  - Drive major initiatives around multi-region replication,
+    caching strategies, request-path optimization, and core
+    registry reliability.
+
+  Data Infrastructure & Storage
+
+  - Design, optimize, operate the data and storage layers - for
+    both Relational and NoSql as well as object storage and
+    related technologies.
+  - Develop schemas and data models to support high-throughput,
+    large-volume workloads.
+  - Own systems end-to-end—from storage-layer behavior to API
+    design, deployment workflows, and production monitoring.
+
+  Operations, Observability & Scale
+
+  - Improve the performance and reliability of one of the
+    world’s largest repositories of container images.
+  - Develop and enhance observability through metrics, traces,
+    alerting, and dashboards.
+  - Lead improvements to deployment and operational tooling
+    (e.g., Argo CD, GitHub Actions).
+  - Participate in on-call rotations as part of supporting
+    critical production services.
+
+  Leadership & Collaboration
+
+  - Mentor engineers and lead design and architecture reviews.
+  - Partner with Product, Design, SRE, and Platform teams to
+    deliver high-impact projects.
+  - Engage with open-source communities, cloud-native partners,
+    and the broader ecosystem.
+  - This role may require participation in an on-call rotation
+    to provide support outside of standard business hours,
+    including evenings, weekends, and holidays, as needed.
+
+  ____________________________________________________________
+  ___________
+
+  QualificationsRequired
+
+  - 8+ years backend engineering experience with deep expertise
+    in distributed systems and large-scale backend
+    architectures.
+  - Strong production experience with Golang, including
+    designing and operating large Go-based services in cloud
+    environments.
+  - Strong production experience with Kubernetes, including
+    operating services at scale.
+  - Experience designing and running high-scale storage systems
+    (PostgreSQL, DynamoDB, or equivalent) in production.
+  - Experience building and operating cloud-based services (AWS
+    preferred).
+  - Experience with event-driven or streaming systems, such as
+    Kafka, SNS/SQS, or equivalent.
+  - Strong foundation in software engineering best practices:
+    design documentation, testing strategies, CI/CD, code
+    review, observability.
+  - Comfortable functioning autonomously in a fully distributed,
+    remote-first team and working effectively in a fast-paced
+    environment.
+  - Bachelor’s degree in Computer Science, Engineering, or a
+    related field, or equivalent practical experience
+
+  Nice to Have
+
+  - Experience with OCI registries, artifact stores, or large-
+    scale content distribution systems.
+  - Familiarity with search/indexing systems or metadata-rich
+    architectures.
+  - Contributions to cloud-native or open-source ecosystems.
+
+  What We’re Looking For
+
+  - An engineer with deep experience in distributed systems and
+    large-scale storage
+  - Someone who thrives in a fast-paced environment and
+    consistently optimizes for reliability, automation, and
+    performance.
+  - A technical leader who takes ownership of complex systems
+    and drives long-term architectural direction.
+  - An engineer energised by the challenges of operating a
+    global developer platform at massive scale.
+
+  Visa sponsorship: Docker considers visa sponsorship on a
+  case-by-case basis based on business needs.
+
+  ____________________________________________________________
+  ___________
+
+  Compensation & Equity
+
+  All full-time roles include equity. Final compensation is
+  determined on factors including but not limited to
+  experience, skills, qualifications, and location.
+
+  United States: $170,350 – $275,550 base
+
+  ____________________________________________________________
+  __________
+
+  Posting Information
+
+  - Open vacancy: This posting is for an existing open role.
+  - AI in hiring: Docker may use AI-assisted tools during our
+    recruiting process.
+  - Interview recordings: Candidates will be invited to opt in
+    to interview recordings to support interviewer calibration
+    and consistent evaluations. Recordings are optional and
+    require explicit consent.
+
+  ____________________________________________________________
+  __________
+
+  Perks & Benefits
+
+  - Remote-first by design – Work from your home, with offices
+    in Seattle and Paris for connection and collaboration.
+  - Flexibility that fits your life – We trust you to manage
+    your schedule while delivering great work.
+  - Time to recharge – Generous PTO, designated quarterly
+    Whaleness Days, and a designated end-of-year Whaleness
+    break.
+  - Home office support – Set up your workspace for comfort and
+    success.
+  - Technology stipend – Equivalent to US$100 net per month to
+    help support your work.
+  - Learning & development – Annual stipend for conferences,
+    courses, certifications, and continued learning.
+  - Parental leave – 16 weeks of paid parental leave after six
+    months of employment.
+  - Equity for all full-time employees – Share in Docker's long-
+    term success as we continue to grow.
+  - Comprehensive benefits – Medical, retirement, and paid
+    holidays vary by country.
+  - Docker swag – Because representing the whale never gets old.
+
+  Docker is proud to be an equal opportunity employer. We are
+  committed to building a team that reflects a broad range of
+  backgrounds, experiences, and perspectives. We believe
+  diverse teams build better products, make better decisions,
+  and better serve our global community.
+
+  #LI-REMOTE
+posted_date: 2026-08-14
+url: "https://builtin.com/job/senior-backend-engineer-secure-policy-us-canada-eastern-or-european-cet-western-regions/7406966"
+source: Built In

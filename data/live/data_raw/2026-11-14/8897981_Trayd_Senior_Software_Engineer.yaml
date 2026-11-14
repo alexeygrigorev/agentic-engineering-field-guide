@@ -1,0 +1,180 @@
+job_id: 8897981
+title: Senior Software Engineer
+company: Trayd
+location: Manhattan, USA
+work_type: FULL_TIME
+company_size: 40 Employees
+description: |
+  New York City - FiDi, in person
+
+  $185,000–$210,000
+
+  Meaningful Series A equity
+
+  About Trayd
+
+  Trayd is solving the oldest problem in America: how do we
+  build physical infrastructure that lasts generations? We’re
+  replacing manual processes and legacy systems with AI-native
+  software built around how construction actually runs.
+  Companies using our software have built some of America’s
+  greatest infrastructure projects like the Buffalo Bills’
+  Highmark Stadium and JFK International Airport.
+
+  We're building the category-defining back office for trade
+  contractors with a platform that runs live payroll, job
+  costing, and accounting workflows every week for the
+  hardest-working people in the country. We grew 600% over the
+  last year with a lean team of ~30, made up of some of the
+  sharpest and most driven talent in New York.
+
+  We were in Y Combinator’s Summer 2023 batch and have raised
+  over $15 million from Tier 1 investors. We’re proudly and
+  permanently based in NYC. We’re in the next phase of growth,
+  and every hire here directly shapes what customers see next.
+
+  Role Overview
+
+  We’re hiring a senior software engineer to help build the
+  core systems that power Trayd.
+
+  This is not a “take tickets and stay in your lane” job.
+  Engineers at Trayd own product areas end-to-end. You will
+  design, build, ship, and maintain real systems that move
+  real money, under real compliance constraints, for customers
+  who depend on us every week.
+
+  Payroll is one of the only product categories where 99%
+  accuracy is an F. The systems have to be built for
+  correctness, traceability, and edge cases from day one.
+
+  You will work on a small, high-output team where decisions
+  are made quickly, quality matters, and your work will show
+  up in production constantly. You will help build the
+  foundation for Trayd’s growth beyond Series A, with massive
+  room for your own growth throughout the organization as we
+  scale together.
+
+  What You’ll Do
+
+  - Own major projects end-to-end: scoping, technical design,
+    implementation, testing, and release.
+  - Build full-stack features across the frontend, backend, and
+    data layers in a production SaaS environment.
+  - Design and evolve systems for payroll, deductions, benefits,
+    compliance, and accounting workflows where correctness
+    matters
+  - Model and migrate relational data in Postgres for complex
+    real-world financial workflows
+  - Make strong architectural tradeoffs in ambiguous, fast-
+    moving product environments
+  - Debug production issues, improve reliability, and drive
+    problems through to resolution
+  - Collaborate closely with product and operations to translate
+    business requirements into scalable technical solutions
+  - Work directly with customers and internal stakeholders to
+    understand how construction companies actually operate
+  - Contribute as a senior engineer through code reviews, design
+    discussions, and raising the quality bar across the team
+
+  Example problems you might work on
+
+  - Building workflows that handle union pay rules, deductions,
+    and benefits correctly across job types and locations
+  - Designing systems that make payroll auditable and
+    explainable, not just “it worked somehow”
+  - Making accounting exports and job-costing data reliable
+    enough that controllers trust them
+  - Improving performance and correctness in a system that
+    processes large amounts of payroll data under deadlines
+  - Creating tooling and guardrails that prevent edge cases from
+    becoming customer emergencies
+
+  Why Trayd
+
+  - This is real infrastructure. Payroll and compliance are
+    high-stakes. The work is technical, regulated, and
+    unforgiving in the best way
+  - You will have real ownership. You won’t be one engineer on a
+    giant team shipping tiny changes. You will own systems
+    that matter
+  - We’re winning in a hard market. Strong customer demand, real
+    usage, and a product that customers rely on weekly
+  - The domain is deep. Construction is full of complexity that
+    most software ignores. We build for the real workflows
+  - In-person team, high velocity. We work together in FiDI five
+    days a week because it makes us faster and sharper
+  - You’ll grow quickly. Small team, high responsibility,
+    constant production exposure, and meaningful influence
+    over the product
+
+  On payroll days, the whole team runs together. We provide
+  meals because those days matter here.
+
+  Who You Are
+
+  - 5+ years building production software on a team
+  - Full-stack capable (or excited to be) and comfortable
+    working across systems
+  - High ownership mindset: you ship, you fix, you follow
+    through
+  - Strong judgment balancing speed, correctness, and
+    maintainability
+  - You communicate clearly and collaborate well across
+    functions
+  - NYC-based or ready to relocate quickly
+
+  Nice to Have
+
+  - React, Next.js, Prisma, tRPC, Postgres
+  - Strong TypeScript and Node.js fundamentals
+  - Experience in fintech, payroll, accounting, compliance, or
+    other high-stakes systems
+
+  Working style
+
+  This is an in-person role in New York City, five days a
+  week. We move quickly, collaborate constantly, and value
+  people who take initiative and ownership.
+
+  If you want to ship important software fast with a team that
+  cares about doing it right, you’ll fit here.
+
+  Compensation/Benefits
+
+  Base Salary $185,000–$220,000
+
+  Meaningful Series A equity
+
+  Benefits
+
+  - Healthcare: Comprehensive medical, dental, and vision
+    insurance options for employees and dependents
+  - Unlimited/Flexible PTO
+  - 401(k) Retirement Plan
+  - Free lunch (Mon–Wed) and dinner (Mon–Thu after 7:30pm) for
+    in-office roles
+
+  The posted range represents the typical compensation range
+  for this role. To determine actual compensation we review
+  the market rate of each candidate which can include a
+  variety of factors including qualifications, experience,
+  interview performance, and location.
+
+  Trayd provides equal employment opportunities (EEO) to all
+  employees and applicants for employment without regard to
+  race, color, religion, sex, national origin, age,
+  disability, genetics, sexual orientation, gender identity,
+  or gender expression. We are committed to a diverse and
+  inclusive workforce and welcome people from all backgrounds,
+  experiences, perspectives, and abilities.Compensation
+
+  The base pay range for this role is $185,000 – $220,000 per
+  year.
+industries:
+  - HR Tech
+  - Software
+  - Financial Services
+posted_date: 2026-08-04
+url: "https://builtin.com/job/senior-software-engineer/8897981"
+source: Built In

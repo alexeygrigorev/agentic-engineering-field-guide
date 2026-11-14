@@ -1,0 +1,152 @@
+job_id: 9174000
+title: Senior Software Engineer, Predictions (Mobile)
+company: Gemini
+location: Miami, USA
+locations:
+  - Miami, USA
+  - New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 660 Employees
+description: |
+  About the Company
+
+  Gemini is a global crypto and Web3 platform founded by
+  Cameron and Tyler Winklevoss in 2014, offering a wide range
+  of simple, reliable, and secure crypto products and services
+  to individuals and institutions in over 70 countries. Our
+  mission is to unlock the next era of financial, creative,
+  and personal freedom by providing trusted access to the
+  decentralized future. We envision a world where crypto
+  reshapes the global financial system, internet, and money to
+  create greater choice, independence, and opportunity for all
+  — bridging traditional finance with the emerging
+  cryptoeconomy in a way that is more open, fair, and secure.
+  As a publicly traded company, Gemini is poised to accelerate
+  this vision with greater scale, reach, and impact.
+
+  The Department: Predictions
+
+  The Role: Senior Software Engineer (Mobile)
+
+  As a Senior Mobile Engineer on the Predictions team, you'll
+  own the mobile experience for Gemini's CFTC-regulated
+  prediction markets exchange. You'll build and ship trading
+  interfaces for event contracts — from order entry and
+  position management to real-time market data — within
+  Gemini's React Native app. You'll work closely with product,
+  design, backend, and compliance to bring new contract types
+  (binary, range, combo) to market on mobile and drive
+  activation and retention for a fast-growing product line.
+
+  Responsibilities:
+
+  - Build and maintain the Predictions mobile trading experience
+    end-to-end: market browsing, order placement, portfolio
+    views, and settlement flows.
+  - Architect performant, real-time UI for streaming market data
+    (orderbook, price charts, position P&L) using modern React
+    Native patterns (TurboModules, JSI, native navigator
+    integration).
+  - Collaborate with backend engineers on gRPC and WebSocket
+    integrations that power live trading surfaces.
+  - Create reusable, well-tested UI components shared across
+    Predictions and the broader Gemini mobile app.
+  - Partner with product and design to shape mobile-specific UX
+    for new contract categories (weather, economics, crypto,
+    sports) and features like combo contracts and range
+    contracts.
+  - Scope and implement solutions independently, making informed
+    architecture decisions and tradeoffs around native vs. JS
+    boundaries.
+  - Establish and improve mobile development processes — testing
+    strategy, release quality gates, OTA vs. native release
+    decisions.
+  - Conduct thorough code reviews and mentor other engineers on
+    React Native best practices.
+  - Use analytics and experimentation data to inform product and
+    engineering decisions around activation funnels,
+    onboarding, and trading engagement.
+
+  Minimum Qualifications:
+
+  - 6+ years of software engineering experience, including 4+
+    years building production mobile applications with React
+    Native.
+  - Strong proficiency in TypeScript.
+  - Deep understanding of React Native internals — bridging,
+    native modules, performance profiling, and debugging.
+  - Experience building real-time, data-intensive UIs (trading,
+    dashboards, live feeds).
+  - Strong UX/UI sensibility with a track record of contributing
+    to design and product decisions, not just implementing
+    specs.
+  - Expertise in unit and integration testing for mobile.
+  - Comfort working in a regulated environment where changes
+    require rigor and auditability.
+
+  Preferred Qualifications:
+
+  - Experience with financial or trading applications
+    (orderbooks, charting, position management).
+  - Familiarity with Expo, EAS, and OTA update strategies.
+  - Experience with native module authoring (Swift/Kotlin) or
+    SwiftUI/Jetpack Compose embedding via Expo Modules API.
+  - Exposure to gRPC, WebSockets, or similar real-time transport
+    protocols.
+  - Experience with performance analysis tooling (Flipper, React
+    DevTools profiler, native instruments).
+  - Prior work at a fintech, exchange, or other regulated
+    product environment.
+
+  It Pays to Work Here
+
+
+
+  The compensation & benefits package for this role includes:
+
+  - Competitive starting pay
+  - A discretionary annual bonus
+  - Long-term incentive in the form of a new hire equity grant
+  - Comprehensive health plans
+  - 401K with company matching
+  - Paid Parental Leave
+  - Flexible time off
+
+  Salary Range: The base salary range for this role is between
+  $140,000 - $200,000 in the State of New York, the State of
+  California and the State of Washington. This range is not
+  inclusive of our discretionary bonus or equity package. When
+  determining a candidate’s compensation, we consider a number
+  of factors including skillset, experience, job scope, and
+  current market data.
+
+  In the United States, we offer a hybrid work approach at our
+  hub offices, balancing the benefits of in-person
+  collaboration with the flexibility of remote work.
+  Expectations may vary by location and role, so candidates
+  are encouraged to connect with their recruiter to learn more
+  about the specific policy for the role. Employees who do not
+  live near one of our hubs are part of our remote workforce.
+  All employees, however, are required to onboard in-person at
+  one of our office locations.
+
+  At Gemini, we strive to build diverse teams that reflect the
+  people we want to empower through our products, and we are
+  committed to equal employment opportunity regardless of
+  race, color, ancestry, religion, sex, national origin,
+  sexual orientation, age, citizenship, marital status,
+  disability, gender identity, or Veteran status. Equal
+  Opportunity is the Law, and Gemini is proud to be an equal
+  opportunity workplace. If you have a specific need that
+  requires accommodation, please let a member of the People
+  Team know.
+
+  #LI-AA1
+industries:
+  - Blockchain
+  - Fintech
+  - Cryptocurrency
+posted_date: 2026-08-08
+url: "https://builtin.com/job/senior-software-engineer-predictions-mobile/9174000"
+source: Built In

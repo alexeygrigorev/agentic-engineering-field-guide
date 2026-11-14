@@ -1,0 +1,78 @@
+job_id: 8889008
+title: Senior Backend Engineer
+company: Littlebird ai
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  Role Overview
+
+  We're seeking a Senior Backend Engineer to join our fast-
+  paced team to design, develop, and implement new
+  infrastructure for Littlebird, our personalized AI teammate
+  for Mac and Android (Windows soon!). We’re building personal
+  AI; a thought partner that connects dots in your work and
+  helps you think. Check out the recent TechCrunch news on our
+  $11M seed funding and what users are saying about the
+  product.
+
+  We're an async-first team that values craft and ownership.
+  Our engineers live at the intersection of genuine research
+  curiosity and production discipline: you'll push the
+  frontier in areas like realtime data, search, and inference,
+  then wrestle those ideas into systems that are fast, lean,
+  and built to scale.
+
+  The Role
+
+  You will architect the system that allows our agent to
+  reason, remember, and evolve. You'll develop core
+  infrastructure that turns messy, unstructured user data into
+  a coherent world model.
+
+  Some of the hard problems you'll solve:
+
+  - Build AI Memory: Our current memory systems will continue to
+    scale. You'll lead the charge to design and implement our
+    next-generation memory system This means solving hard
+    problems in:
+    - Scale Our Data & Retrieval Pipelines: As we grow, you'll be
+      responsible for ensuring our data ingestion, hybrid
+      search, and re-ranking pipelines are fast, reliable, and
+      cost-effective.
+    - Security: Ensure our infrastructure is highly secure and
+      observable, with a focus on speed and cost
+    - Graph-based Retrieval: How do you query a graph efficiently
+      to provide the agent with rich, structured context,
+      moving beyond simple semantic search?
+
+  Required Skills
+
+  - Deep experience building and scaling data-intensive backend
+    systems in Python or Go.
+  - Strong system-design skills and experience working with
+    distributed systems.
+  - A clear mental model for data structures and their trade-
+    offs. You like to think deeply about how to represent
+    complex information.
+  - Hands-on experience with RAG pipelines, even if you're a
+    little frustrated with their limitations.
+  - Production experience with modern cloud infrastructure,
+    observability tooling, and PostgreSQL
+  - A pragmatic approach. You know when to build for the long
+    term and when to ship a clever solution that works now.
+
+  Benefits
+
+  - Remote-friendly work environment
+  - Collaborative team culture
+  - Opportunity to shape infrastructure decisions
+  - Competitive compensation packages including stock and health
+    benefits, paid time off, and parental leave. 401k options
+    for all US-based employees.
+  - Flexible working hours across multiple time zones
+  - We love to hear when birds chirp!
+posted_date: 2026-08-02
+url: "https://builtin.com/job/senior-backend-engineer/8889008"
+source: Built In

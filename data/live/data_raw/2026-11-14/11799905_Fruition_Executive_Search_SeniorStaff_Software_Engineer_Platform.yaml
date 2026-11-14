@@ -1,0 +1,140 @@
+job_id: 11799905
+title: Senior/Staff Software Engineer — Platform
+company: Fruition Executive Search
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 3 Employees
+description: |
+  This is a remote position.
+
+
+
+
+
+   Senior/Staff Software Engineer — Platform
+
+
+
+
+      On behalf of our client · Remote (US) · Full-time ·
+  Salaried
+
+
+
+
+
+
+
+
+
+
+   The build: Our client is building the software backbone
+  that powers autonomous manufacturing operations. As a
+  Senior/Staff engineer on the Platform team, you'll design
+  scalable backend services, data pipelines, and integrations
+  that coordinate AI-powered agents and high-stakes
+  transactions across complex supply chain workflows. This
+  role is critical to reliably moving physical goods through
+  manufacturing systems — where a broken pipeline means
+  stalled production lines.
+
+
+
+
+
+
+
+
+
+
+   What you'll do
+
+
+  - Design and scale backend services using Next.js API routes,
+    background jobs, and serverless functions to handle high-
+    throughput order processing.
+  - Build and productionize LLM-based agents, AI/ML
+    infrastructure, and RAG patterns for intelligent quote
+    analysis and supplier recommendations.
+  - Own the data layer — PostgreSQL schemas, migrations, and
+    complex queries for materials, quotes, orders, and
+    supplier relationships.
+  - Architect event-driven systems with reliable pipelines for
+    order state management, notification triggers, and cross-
+    system synchronization.
+  - Implement caching and rate limiting strategies to keep
+    external API calls reliable at scale.
+  - Establish monitoring, alerting, and observability patterns
+    while owning incident response for backend systems.
+
+
+
+
+
+
+
+
+
+
+
+
+    Requirements
+
+   What we're looking for
+
+
+
+
+
+
+
+
+
+  - Experience designing reliable data processing with
+    transactional guarantees (ACID semantics, exactly-once
+    processing) and idempotent APIs.
+  - Background with NLP/ML pipelines extracting data from
+    unstructured supplier documents and emails, including OCR
+    and information extraction.
+  - Domain knowledge of manufacturing supply chain, procurement,
+    and logistics workflows.
+  - Strong computer science fundamentals.
+  - Experience integrating with ERP systems (SAP, Oracle) and
+    freight/carrier APIs, including legacy or poorly
+    documented interfaces.
+
+
+
+
+
+
+
+
+   Logistics: Remote within the United States. Visa
+  sponsorship available.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Benefits
+
+  Full + Meaningful equity.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Professional Services
+  - Financial Services
+posted_date: 2026-10-21
+url: "https://builtin.com/job/senior-staff-software-engineer-platform/11799905"
+source: Built In

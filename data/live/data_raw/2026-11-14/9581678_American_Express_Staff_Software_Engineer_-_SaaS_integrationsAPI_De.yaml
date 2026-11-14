@@ -1,0 +1,148 @@
+job_id: 9581678
+title: "Staff Software Engineer - SaaS integrations,API Designs - Travel & Lifestyle Services"
+company: American Express
+location: New York, USA
+work_type: FULL_TIME
+company_size: 100,703 Employees
+description: |
+  The U.S. Consumer Services and Membership Digital
+  Experiences Technology team (USCDT) brings together
+  foundational strategic technology capabilities in digital
+  experience engineering (Mobile and Web), marketing and
+  advertising technology, enterprise communications, travel
+  and lifestyle, and dining technology. It employs a ground-
+  breaking focus with development responsibilities for
+  customer-facing capabilities that deepen and expand digital
+  engagement, as well as core technical capabilities that cut
+  across business lines and customer segments.
+
+  American Express Travel & Lifestyle Technology builds
+  platforms that power premium travel experiences for millions
+  of Card Members. We partner with industry-leading third
+  parties to deliver booking, inventory, and fulfillment
+  capabilities at scale, with high expectations for
+  reliability, performance, and customer experience.
+
+  We are seeking a Staff Software Engineer to provide
+  technical ownership and leadership for these critical third-
+  party travel platforms.
+
+  About the Role
+
+  This role owns the technical health and evolution of Amex’s
+  most important external travel integrations. Sitting at the
+  intersection of architecture, vendor engineering, and
+  internal platform development, you will define integration
+  strategy, reduce systemic risk, and drive technical leverage
+  across teams and partners. This role is not focused on day-
+  to-day incident response or feature delivery. It is focused
+  on architecture, standards, influence, and long-term
+  outcomes.
+
+  Responsibilities
+
+  - Act as the single technical owner for all critical third-
+    party travel platforms, including booking, inventory, and
+    fulfillment providers.
+  - Define and maintain integration architecture, standards, and
+    patterns that support reliability, scalability,
+    observability, and vendor isolation.
+  - Serve as the primary technical counterpart to vendor
+    engineering leadership, including directors and CTOs.
+  - Push vendors on API design, performance, reliability,
+    security posture, network architecture, and operational
+    readiness.
+  - Influence vendor product roadmaps and provide technical
+    input into vendor selection, renewal, and replacement
+    decisions.
+  - Establish API contract governance, versioning standards, and
+    automated contract testing to prevent breaking changes.
+  - Partner with SRE to address systemic integration risks and
+    ensure durable remediation of recurring issues without
+    owning day-to-day support.
+  - Drive resilience practices including graceful degradation,
+    dependency isolation, and multi-vendor fallback
+    strategies.
+  - Define data quality, consistency, and lineage expectations
+    for third-party data flows in partnership with Data and
+    Product teams.
+  - Support contract negotiations with clear technical
+    acceptance criteria, SLAs, and non-functional
+    requirements.
+  - Collaborate with enterprise architecture and internal
+    platform staff engineers to align with portfolio and
+    enterprise strategy.
+  - Mentor engineers across teams on integration design,
+    distributed systems tradeoffs, and vendor constraints.
+  - Work closely with product and business architecture to
+    surface technical risks early and shape roadmap decisions.
+  - Hands-on development of proof of concepts (POCs) and rapid
+    prototypes to validate new technologies, AI capabilities,
+    and customer experience innovations, including
+    collaboration with third-party partners and vendors where
+    applicable.
+
+  Qualifications
+
+  - 10+ years of experience designing, building, and operating
+    large-scale, distributed systems in production.
+  - Demonstrated ownership of mission-critical third-party or
+    SaaS integrations, including architecture, reliability,
+    and lifecycle management.
+  - Deep expertise in API design and integration patterns,
+    including synchronous and asynchronous workflows,
+    versioning, and backward compatibility.
+  - Strong understanding of distributed systems fundamentals,
+    including fault tolerance, latency tradeoffs, consistency
+    models, and failure isolation.
+  - Hands-on experience designing for resilience and high
+    availability, including retries, circuit breakers,
+    graceful degradation, and multi-vendor strategies.
+  - Experience implementing contract testing, schema governance,
+    and pre-production validation for external integrations.
+  - Strong data engineering fundamentals, including data
+    modeling, reconciliation, data quality controls, and
+    lineage across system boundaries.
+  - Experience partnering with SRE and platform teams to improve
+    observability and operational maturity.
+  - Solid understanding of integration security architecture,
+    including authentication, authorization, secure
+    networking, and sensitive data protection.
+  - Proven ability to translate technical risk into business
+    impact and influence decisions across engineering,
+    product, and external partners.Preferred Experience
+  - Experience in travel, payments, commerce, or other real-time
+    transactional domains.
+  - Prior responsibility for vendor technical relationships,
+    including roadmap influence and participation in renewal
+    or replacement decisions.
+  - Experience defining and enforcing integration standards
+    across multiple teams or platforms.
+  - Strong cloud-native architecture experience (AWS or
+    equivalent), including networking and observability
+    tooling.
+  - Experience evaluating vendors, leading build vs buy
+    decisions, or executing platform migrations.
+  - Familiarity with modern API gateways, event-driven
+    architectures, and service-to-service communication
+    patterns.
+  - Experience supporting analytics or AI use cases that depend
+    on third-party data, with an emphasis on traceability and
+    compliance.Core Competencies
+  - Distributed systems and integration architecture
+  - API design and lifecycle management
+  - Reliability engineering and failure analysis
+  - Technical leadership and influence without authority
+  - Cross-team and cross-company collaboration
+  - Strategic thinking with a focus on long-term technical
+    leverage
+
+  Depending on factors such as business unit requirements, the
+  nature of the position, cost and applicable laws, American
+  Express may provide visa sponsorship for certain positions.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-08-18
+url: "https://builtin.com/job/staff-software-engineer-saas-integrations-api-designs-travel-lifestyle-services/9581678"
+source: Built In

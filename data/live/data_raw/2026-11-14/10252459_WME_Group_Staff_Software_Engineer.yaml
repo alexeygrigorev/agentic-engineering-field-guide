@@ -1,0 +1,193 @@
+job_id: 10252459
+title: Staff Software Engineer
+company: WME Group
+location: VAT
+locations:
+  - VAT
+  - CAN
+  - PAN
+  - DEU
+  - GAB
+  - ISR
+  - MDA
+  - MAC
+  - NCL
+  - USA
+  - Et-Tabia, TUN
+  - Kings Court, USA
+  - DC, USA
+  - New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 10,000 Employees
+description: |
+  WME is building the next generation of internal platforms
+  that power one of the world's leading entertainment
+  companies. The software we build helps agents and teams
+  manage relationships, deals, and opportunities across the
+  global entertainment industry.
+
+  We're looking for a Staff Software Engineer to take
+  ownership of a major area of our platform. This is a senior
+  ownership role rather than a senior individual contributor
+  role. You'll be accountable for whether your area is staffed
+  well, moving at the speed the business needs, aligned with
+  product, and making deliberate architectural choices. You'll
+  be working through the team leads who run day-to-day
+  execution rather than driving that execution yourself.
+
+  Deep technical judgment still matters here. You can't set a
+  technical bar you couldn't personally meet, and you'll make
+  the calls that shape how these systems evolve. But the work
+  happens a level up from the ticket queue, and the engineers
+  who thrive in this role are the ones who find that shift
+  energizing rather than limiting.
+
+  We're building this engineering organization largely from
+  the ground up, so we're looking for people who enjoy scrappy
+  environments, are comfortable navigating ambiguity, and want
+  to help shape how a team operates. We're also investing
+  heavily in AI-assisted development, and engineers here
+  actively use modern AI tools and workflows to improve
+  development velocity and product quality. We take the work
+  seriously, but not ourselves.
+
+  What You'll Do
+
+  - Own an area of the platform. You'll be responsible for the
+    outcomes of one or more teams working across a connected
+    set of product surfaces. Scope is assigned based on
+    business need and shifts as the org grows.
+  - Keep leadership ahead of risk. Your manager should hear
+    about slippage, resourcing gaps, or a bad bet before they
+    have to ask. That includes pushing back if a timeline
+    isn't realistic, or a product ask will create debt worth
+    knowing about. Raising risk early is never treated as a
+    failure here.
+  - Give your teams context. Engineers in your area should
+    understand why a priority exists, why a tradeoff was made,
+    and why something changed. You're the connection between
+    company direction and day-to-day execution.
+  - Own technical health. Staffing mix, delivery pace, product
+    alignment, and architectural direction all sit with you. A
+    team can be fully staffed and shipping quickly while
+    quietly accumulating problems, so tracking velocity isn't
+    the same as setting the technical bar — you're responsible
+    for both.
+  - Own the roadmap. You should be able to articulate what your
+    area is building over the next quarter and defend the
+    sequencing on your own.
+  - Grow leads. Identifying and developing engineers who can own
+    execution is a core part of the job, not a side effect of
+    it.
+  - Hire. You'll source and interview for your own teams and
+    weigh in on candidates joining them.
+  - Partner with a technical program manager. You'll work
+    alongside a TPM who runs planning cadence, cross-team
+    dependencies, and operational execution. You set the
+    direction and make the calls; they keep the machinery of
+    delivery running, so you're not absorbed into it.
+  - Make architectural calls. Including the uncomfortable ones.
+    You decide where to take on debt and where to pay it down,
+    rather than letting either drift by default.
+  - Shape architecture beyond your own area. You'll work with
+    engineering leadership and peer Staff Engineers on overall
+    system architecture and the shared components that cut
+    across products.
+
+  Example Problems You Might Own
+
+  - Designing systems that capture and connect relationships
+    across the entertainment industry
+  - Building modern CRM workflows that replace fragmented legacy
+    tools and spreadsheets
+  - Developing AI-powered features that surface insights from
+    operational data
+  - Creating APIs and services that support complex deal and
+    workflow management
+  - Migrating legacy applications into modern web-based systems
+
+  What We're Looking ForOwnership and judgment
+
+  - Experience owning outcomes across multiple teams or
+    workstreams at once, through leads rather than direct
+    execution
+  - A track record of surfacing risk early and pushing back
+    constructively on unrealistic scope or timelines
+  - Experience growing engineers into technical leadership
+  - Comfort owning a roadmap and defending its prioritization
+  - Hiring and interviewing experience
+  - Comfort working where systems, processes, and org structure
+    are still forming
+
+  Technical depth
+
+  - Extensive software engineering experience, typically 15+
+    years
+  - Strong full-stack background building modern web
+    applications, with deep proficiency in React, TypeScript,
+    and Next.js
+  - Solid backend experience with Node.js, building scalable
+    services and APIs (REST and gRPC)
+  - Experience designing and managing relational databases,
+    particularly PostgreSQL
+  - Experience with cloud infrastructure; Azure preferred,
+    including cloud-native services such as serverless
+    functions, managed databases, queues, and blob storage
+  - Containerized workloads with Docker and Kubernetes, and
+    infrastructure as code with Terraform
+  - Familiarity with CI/CD pipelines and developer tooling
+    (GitHub Actions, Azure DevOps, or similar)
+  - Strong product instincts and a collaborative mindset
+
+  How We Build
+
+  - Ship practical software that solves real problems
+  - Favor simple, maintainable architectures
+  - Work closely across engineering, product, and design
+  - Use modern cloud infrastructure (Azure), Terraform, and
+    containerized deployments
+  - Maintain automated CI/CD pipelines to keep shipping fast and
+    safe
+  - Leverage AI-assisted development across the engineering
+    workflow
+
+  AI-First Engineering
+
+  AI tools are part of our everyday engineering workflow. We
+  encourage engineers to use modern AI-assisted development
+  tools to accelerate coding, testing, debugging, and system
+  design, and we're actively exploring how AI can enhance the
+  systems we build.
+
+  Per local requirements and in the interest of transparency,
+  the rate shown below reflects the prevalent current hiring
+  range for this position. Hiring pay rates are based on a
+  number of factors, including location and may vary depending
+  on job-related qualifications, knowledge, skills and
+  experience. The company strives to provide locally
+  competitive rewards packages, which include base rate along
+  with, as applicable, short- and long-term incentives, growth
+  and developmental opportunities, and robust benefits, such
+  as health care, retirement, vacation and other paid time
+  off, and additional offerings.
+
+  Hiring Rate Minimum:
+
+  $176,250 annually (minimum will not fall below the
+  applicable state/local minimum salary thresholds)
+
+  Hiring Rate Maximum:
+
+  $235,000 annuallyWME is an equal opportunity employer and
+  encourages applications from qualified and eligible
+  candidates regardless of sex, race, disability, age, sexual
+  orientation, or religion or belief.
+industries:
+  - Agency
+  - Fashion
+  - News + Entertainment
+  - Sports
+posted_date: 2026-08-13
+url: "https://builtin.com/job/staff-software-engineer/10252459"
+source: Built In

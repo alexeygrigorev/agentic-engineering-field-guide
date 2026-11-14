@@ -1,0 +1,126 @@
+job_id: 11779718
+title: Senior Engineering Manager, Risk Platform
+company: Trustly
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 905 Employees
+description: |
+  WHO WE ARE
+
+  At Trustly, we're building a smarter, faster, and more
+  secure financial future by revolutionizing the world of
+  payments. As a global leader in Open Banking Payments, we
+  are establishing Pay by Bank as the new standard at
+  checkout, providing unparalleled freedom, speed, and ease to
+  millions of consumers and merchants worldwide.
+
+  Our Ambition: To build the world’s most disruptive payment
+  network and redefine what the payment experience should feel
+  like.
+
+  Trustly is a global team of innovators, collaborators, and
+  doers. If you are driven by a strong sense of purpose and
+  thrive in a dynamic, entrepreneurial, and high-growth
+  environment, join us and be part of a team that’s
+  transforming the way the world pays.
+
+  ABOUT THE ROLE
+
+  Trustly guarantees payments in North America, and every
+  approval and recovery decision runs on our risk decisioning
+  platform. You’ll lead the engineering team that builds and
+  runs it: its architecture, reliability and modernization,
+  and the path that takes Data Science models into production.
+  You’ll work closely with Risk Product Management, which owns
+  the product roadmap, and with Data Science and payments
+  engineering.
+
+  WHAT YOU'LL DO
+
+  Platform strategy and architecture
+
+  - Set the technical strategy and roadmap for the risk engine
+    with Risk Product Management and Data Science.
+  - Own the architecture of the real-time decisioning platform.
+    Make and document the trade-offs on latency, availability,
+    cost and auditability.
+  - Lead the modernization of the risk engine, including a
+    configuration-driven rules framework with versioning,
+    testing and approval controls.
+  - Partner with Data Science to deploy models into the risk
+    engine using shadow mode and champion/challenger testing.
+
+  DELIVERY AND OPERATIONS
+
+  - Turn the product roadmap into team plans. Agree scope, order
+    and capacity with Product, Data Science, Risk Management
+    and Payments engineering.
+  - Own delivery and release management: CI/CD, release
+    coordination, go/no-go decisions and rollback. Track DORA
+    metrics and fix bottlenecks.
+  - Own reliability for a system on the critical payment path:
+    SLOs, observability, on-call, incident response and
+    blameless postmortems.
+  - Make sure every risk decision is logged, versioned and
+    reproducible for audits, customer inquiries and loss
+    investigations.
+
+  LEAD THE TEAM
+
+  - Hire, coach and develop engineers and tech leads. Give
+    direct feedback and manage performance.
+  - Spread ownership and system knowledge across the team so the
+    team has no single points of failure.
+  - Explain technical decisions, risks and trade-offs clearly to
+    senior leaders, Product and Commercial teams.
+
+  WHAT WE'RE LOOKING FOR
+
+  - 10+ years in backend software engineering, including 4+
+    years managing engineers.
+  - Experience owning a real-time, high-availability decisioning
+    system in production, such as a fraud, risk, credit or
+    payment authorization platform.
+  - Strong Java or Kotlin and a background in distributed
+    systems. You can review code and designs and challenge
+    them.
+  - Experience with rule engines, model serving and real-time
+    scoring, including putting ML models into production.
+  - A track record of modernizing a business-critical platform
+    while it stays in service.
+  - Experience owning CI/CD and releases for production
+    services, and using delivery and reliability metrics to
+    improve the team.
+  - Product sense: you can shape a roadmap with Product, push
+    back on scope and decide what not to build.
+  - Clear written and verbal communication with engineers, data
+    scientists and senior leaders.
+
+  PREFERRED
+
+  - Payments, fraud or credit risk domain experience, ideally
+    ACH or EFT.
+  - Understanding of how rules, thresholds and model scores
+    together drive approval rate, loss and conversion.
+  - Experience building controls in a regulated financial
+    environment, such as change management, decision logs and
+    model governance.
+  - Experience leading teams across time zones in the Americas
+    and Europe.
+  - Bachelor’s degree in Computer Science or a related field, or
+    equivalent experience.
+
+  LOCATION AND WORKPLACE
+
+  This role is based in San Francisco or New York, with 3 days
+  a week in the office.
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-10-20
+url: "https://builtin.com/job/senior-engineering-manager-risk-platform/11779718"
+source: Built In

@@ -1,0 +1,128 @@
+job_id: 10477183
+title: "Software Engineering Manager (Test & DevOps)"
+company: CoMind
+location: London, GBR
+work_type: FULL_TIME
+company_size: 61 Employees
+description: |
+  At CoMind, we are developing a non-invasive neuromonitoring
+  technology that will result in a new era of clinical brain
+  monitoring. In joining us, you will be helping to create
+  cutting-edge technologies that will improve how we diagnose
+  and treat brain disorders, ultimately improving and saving
+  the lives of patients across the world.
+
+  The Role:
+
+  The Software team at CoMind spans the full stack of a
+  regulated medical device company — from embedded and real-
+  time systems through application software, ML inference,
+  GUI, DevOps, and test engineering. It is a team that builds
+  across every layer, working to medical device software
+  standards and shipping software that has to perform reliably
+  in clinical environments.
+
+  This is a people-first leadership role. You will manage and
+  develop a team of Test and DevOps engineers, set priorities
+  and development plans, and drive performance, while staying
+  hands-on in the technical direction.
+
+  At CoMind, all team members work at least 4 days per week in
+  the office, plus a flexible work-from-home day. This role is
+  based in our London (Kings Cross) office.
+
+  Responsibilities:
+
+  - Manage and mentor a team of DevOps and test engineers,
+    setting priorities, individual development plans,
+    conducting performance reviews, and maintaining a high
+    standard of engineering practice
+  - Own the CI/CD strategy and build and release infrastructure
+    across the software stack, including the multi-device test
+    fleet, pipeline reliability, and artifact management
+  - Own the Yocto-based embedded Linux platform build and
+    deployment, including the signed software update mechanism
+    with rollback, hardware compatibility checks, and image
+    integrity and authenticity
+  - Lead architecture reviews, perform proofs-of-concept for new
+    infrastructure tools, and contribute directly to codebases
+    where high-level technical hurdles require expert
+    intervention.
+  - Define and drive the software V&V and test automation
+    strategy, building infrastructure for continuous
+    validation and championing design for testability across
+    the engineering stack
+  - Establish compliance-as-code workflows that map verification
+    evidence to IEC 62304 (Class C) and ISO 14971 risk
+    controls, maintain the high-bar for engineering excellence
+    in a regulated safety-critical environment and automate
+    regulatory evidence generation to reduce time to
+    submission
+  - Own cloud-side data pipelines and infrastructure-as-code,
+    supporting data ingest, analysis, and MLOps workflows
+    where required
+  - Coordinate cybersecurity workstreams, working closely with
+    IT and QARA teams
+  - Partner with the Software Engineering Manager on release
+    processes, branching strategy, and automated quality gates
+  - AI is fundamental to our culture. It's not just a tool, but
+    a core part of how we work, collaborate, and innovate. We
+    expect all team members to embrace AI in their daily work
+    and continuously find new ways to use it effectively.
+
+  Skills & Experience:
+
+  - 10+ years of progressive experience in software, DevOps, or
+    test engineering, with at least 3 years in an engineering
+    management or team lead role
+  - Proven experience leading and growing DevOps, test,
+    platform, or infrastructure teams
+  - Strong hands-on background in CI/CD, build systems, and test
+    automation for embedded and/or cloud systems
+  - Experience with embedded Linux build and deployment, ideally
+    Yocto-based BSPs, or a strong equivalent
+  - Experience architecting scalable test infrastructure
+    spanning embedded hardware and cloud-side data pipelines
+  - Experience delivering in a regulated industry (medical
+    devices, aerospace, automotive, or similar), with working
+    knowledge of IEC 62304 and ISO 14971
+  - Advanced Python and C/C++, with experience of
+    infrastructure-as-code and at least one major cloud
+    provider (AWS, GCP, or Azure)
+
+  Nice to have:
+
+  - Experience with hardware-in-the-loop or software-in-the-loop
+    test environments
+  - Exposure to MLOps, including model drift validation, dataset
+    governance, and automated performance evaluation and
+    deployment of organisational AI strategy
+  - Experience with cybersecurity requirements (e.g. IEC
+    81001-5-1, FDA cybersecurity guidance) and SOUP management
+  - Experience managing complex build environments (CMake,
+    Conan, Ceedling) or cloud-native infrastructure-as-code
+    (Terraform, CDK)
+  - Familiarity with observability tooling such as Grafana and
+    Prometheus
+
+  Benefits:
+
+  - Company equity plan so all employees share in the success of
+    the company
+  - Salary-sacrifice pension scheme
+  - Private medical, dental and vision insurance (medical
+    history disregarded)
+  - Group life assurance at 4x annual income
+  - Comprehensive mental health support, including unlimited
+    access to 1:1 sessions with trained professionals
+  - Unlimited holiday allowance (+ bank holidays) and one week
+    of remote working per quarter
+  - Lunch voucher (£10) every day for JustEat and free dinner on
+    those days where you need to work later
+  - Twice weekly deliveries of fresh fruit and an extensive
+    selection of snacks and drinks
+  - YuLife subscription, allowing you to turn your daily steps
+    and meditation into discounts at a range of stores
+posted_date: 2026-07-31
+url: "https://builtin.com/job/software-engineering-manager-test-devops/10477183"
+source: Built In

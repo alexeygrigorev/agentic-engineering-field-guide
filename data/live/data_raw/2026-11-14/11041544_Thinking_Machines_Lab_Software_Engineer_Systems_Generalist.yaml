@@ -1,0 +1,114 @@
+job_id: 11041544
+title: Software Engineer, Systems Generalist
+company: Thinking Machines Lab
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 91 Employees
+description: |
+  About Thinking Machines
+
+  The mission of Thinking Machines is to build AI that extends
+  human will and judgment. We are training frontier models
+  with Inkling, developing Tinker to let people make models
+  their own, and crafting interfaces that broaden human-AI
+  communication. We believe the future worth building is
+  human, and we're hiring people who want to build it.
+
+  About the Role
+
+  We’re looking for generalist infrastructure and systems
+  engineers to help build the systems that power our
+  foundation models and the internal teams on research and
+  product development to be able to create the models and ship
+  the products powered by our models.
+
+  You'll join a small, high-impact team responsible for
+  architecting and scaling the core infrastructure behind
+  everything we do. You’ll work across the full technical
+  stack, solving complex distributed systems problems and
+  building robust, scalable platforms.
+
+  Infrastructure is critical to us: it's the bedrock that
+  enables every breakthrough. You'll work directly with
+  researchers to accelerate experiments, improve
+  infrastructure efficiency, and enable key insights across
+  our models, products, and data assets.
+
+  What You’ll Do
+
+  We interview generally, but during project selection we’ll
+  take into account your interests and experience alongside
+  organizational needs. This flexible approach allows us to
+  match talented engineers with the infrastructure teams where
+  they'll have the greatest impact and growth potential.
+
+  Here are example areas you may contribute to depending on
+  your area of expertise and interest:
+
+  - Core Infrastructure: We support teams that train, research,
+    and ultimately serve AI models and build the underlying
+    infrastructure for the clusters to reliably and safely
+    train frontier models. Examples might include building
+    systems and running large Kubernetes clusters with GPU
+    workloads, or building infrastructure to support Tinker.
+  - Data Infrastructure: We build and maintain the data systems
+    for our research and products. You'll design and optimize
+    data pipelines using tools like Spark and other modern
+    data infrastructure technologies.  You’ll build scalable,
+    reliable, data infrastructure while embedding governance
+    best practices.
+  - Developer Productivity: We care deeply about research and
+    engineering productivity and our ability to continue
+    shipping quickly. We build tooling, systems, frameworks,
+    and systems to make sure everyone gets well configured,
+    optimized developer environments.
+
+  Skills and QualificationsMinimum qualifications
+
+  - Bachelor’s degree or equivalent experience in computer
+    science, engineering, or similar.
+  - Proficiency in at least one backend language (we use Python
+    or Rust).
+  - Experience operating large‑scale clusters and container
+    orchestration systems (e.g. Kubernetes or Slurm).
+  - Comfort operating across the stack and owning projects end-
+    to-end.
+  - Thrive in a highly collaborative environment involving many,
+    different cross-functional partners and subject matter
+    experts.
+  - A bias for action with a mindset to take initiative to work
+    across different stacks and different teams where you spot
+    the opportunity to make sure something ships.
+
+  Preferred qualifications
+
+  - Strong debugging across application, OS, and network layers.
+  - Proficiency in Python or Rust (or similar), containers, and
+    modern CI.
+  - Experience with Kubernetes, controllers/operators, or
+    performance profiling.
+  - Familiarity with GPU/ML workflows or large‑scale data/eval
+    pipelines.
+
+  Logistics
+
+  - Location: This role is based in San Francisco, California.
+  - Compensation: Depending on background, skills and
+    experience, the expected annual salary range for this
+    position is $300,000 - $400,000 USD.
+  - Visa sponsorship: We sponsor visas. While we can't guarantee
+    success for every candidate or role, if you're the right
+    fit, we're committed to working through the visa process
+    together.
+  - Benefits: Thinking Machines offers generous health, dental,
+    and vision benefits, unlimited PTO, paid parental leave,
+    and relocation support as needed.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-09-07
+url: "https://builtin.com/job/software-engineer-systems-generalist/11041544"
+source: Built In

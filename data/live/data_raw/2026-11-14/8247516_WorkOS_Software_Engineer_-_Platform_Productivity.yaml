@@ -1,0 +1,186 @@
+job_id: 8247516
+title: "Software Engineer - Platform & Productivity"
+company: WorkOS
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 48 Employees
+description: |
+  About WorkOS 🚀
+
+  WorkOS builds modern developer tools and APIs that make it
+  easy for companies to become Enterprise Ready. Our platform
+  powers authentication, identity, authorization, and other
+  critical infrastructure that developers need to securely
+  scale their products to large organizations. We recently
+  raised a $100M Series C, valuing the company at $2B, led by
+  Meritech and Sapphire with participation from Greenoaks,
+  Craft, Abstract, and Audacious. WorkOS powers enterprise
+  features for many of the fastest-growing AI companies,
+  including OpenAI, Cursor, and Perplexity, Sierra, and Plaid.
+  As AI reshapes software, WorkOS is at the frontier of Human
+  and Agent Authentication, Identity, and Access Control
+  helping companies answer a new critical question: who are
+  your agents, and what are they allowed to do? Our fast-
+  growing customer base includes hundreds of modern software
+  companies building the next generation of enterprise-ready
+  products.
+
+  About the role 💭
+
+  The Platform team builds the shared backend components and
+  development systems that every WorkOS product, workflow, and
+  team member depends on.
+
+  On the platform side, we build common backend capabilities
+  used across WorkOS, including our events infrastructure,
+  webhooks, email delivery, outbox-pattern queues, and more.
+  These systems allow product teams to scale without
+  rebuilding the same critical primitives. Because they sit on
+  critical paths across our products, scalability, latency,
+  consistency, reliability, and operational simplicity matter
+  deeply.
+
+  On the productivity side, we build the systems that take
+  code from an idea to production, including CI/CD, build and
+  test infrastructure, deployment workflows, and internal
+  tooling. As agents play a larger role in software
+  development and increase the volume of code and concurrent
+  changes, we are rethinking this platform to scale with that
+  volume through safe execution, fast feedback, relevant
+  context, and verifiable outcomes.
+
+  Our internal teams are our customers. Success means they can
+  build and operate products faster, adopt shared capabilities
+  instead of creating one-off solutions, and confidently
+  delegate more work to agents.
+
+  What you’ll work on ✔️
+
+  - Design, build, and operate high-throughput, low-latency
+    shared backend systems that preserve consistency and
+    durability through retries, duplicates, reordering,
+    partial failures, and high concurrency
+  - Create platform interfaces, abstractions, and paved paths
+    with a clean developer experience that makes shared
+    capabilities easy for product teams to adopt
+  - Rotate across and embed with product teams to experience
+    their workflows directly, understand their friction, and
+    use those insights to shape platform investments
+  - Map evolving product-team needs and collaborate with the
+    Foundations team to introduce new systems and primitives,
+    such as scalable search, database partitioning, and
+    archival strategies
+  - Own and evolve our CI/CD, build, test, deployment, and
+    release infrastructure to shorten feedback loops and make
+    production changes safer
+  - Reimagine CI/CD for an agentic software development
+    lifecycle by building isolated, reproducible, and
+    verifiable execution environments, along with automated
+    loops that allow agents to diagnose failures, update
+    changes, rerun validation, and safely move work through
+    review, deployment, and production verification
+  - Instrument the entire software development lifecycle and use
+    metrics such as feedback time, CI reliability, deployment
+    frequency, lead time, and change failure rate to identify
+    bottlenecks and verify that platform investments improve
+    engineering outcomes
+  - Own platform reliability end to end, including
+    observability, capacity planning, incident response, root-
+    cause analysis, and prevention
+  - Shape the long-term platform strategy with a high bar for
+    introducing new infrastructure. Thoroughly evaluate
+    vendors and existing solutions, make deliberate build-
+    versus-buy decisions, and account for operational
+    complexity, lock-in, migration cost, reversibility, and
+    long-term ownership
+
+  What we’re looking for 🌟
+
+  - 8+ years of software development experience, with a track
+    record of owning high-impact technical projects
+  - Experience building and operating distributed systems or
+    platform services at scale, with a strong understanding of
+    event-driven systems, queues, concurrency, idempotency,
+    consistency, backpressure, retries, and failure recovery
+  - Experience building or operating CI/CD, build systems, test
+    infrastructure, deployment platforms, or similar developer
+    tooling
+  - A track record of designing platforms, frameworks, and
+    tooling with a clean developer experience that makes
+    complex capabilities easy for other engineers to adopt and
+    operate
+  - Strong operational instincts across observability, capacity
+    planning, incident response, and reliability
+  - Hands-on experience with AI coding agents, or a strong
+    interest in building agentic CI/CD systems, verifiable
+    execution environments, automated feedback loops,
+    evaluations, and verification
+  - Exceptional pragmatism and technical judgment. You treat
+    major infrastructure changes with the gravity they deserve
+    and make deliberate, evidence-based decisions about when
+    to build, buy, or improve an existing system
+  - Ability to move between long-term architecture and hands-on
+    implementation while making thoughtful tradeoffs in an
+    ambiguous environment
+  - Strong written and verbal communication skills, including
+    experience documenting systems and influencing technical
+    direction across teams
+  - Familiarity with TypeScript, Node.js, React, Postgres, AWS,
+    Terraform, and queueing or streaming systems such as SQS
+    and Kinesis is helpful, but not required
+
+  We expect strong depth in either distributed platform
+  systems or developer infrastructure, along with an interest
+  in working across both.
+
+  Benefits and Perks (US Only) 💖
+
+  At WorkOS, we offer resources that emphasize personal and
+  familial well-being. We offer healthcare coverage for you
+  and your family, including medical, dental, and vision. We
+  offer parental leave, paid-time off and fully remote working
+  arrangements.
+
+
+
+  - 401k matching
+  - Competitive Equity
+  - Healthcare, dental and vision coverage
+  - FSA, ST/LT Disability, Voluntary Life
+  - Carrot fertility benefits
+  - 20 days paid vacation + 10 holidays + unlimited sick leave
+  - 12 weeks fully paid parental leave
+  - Fitness: Monthly stipend for gyms, yoga classes, race
+    registrations or whatever keeps you active
+  - Wellness: Monthly stipend for a massage, meditations class,
+    therapy, or activities that enhance your well-being
+  - Commuter benefits for hybrid employees in SF/NYC
+  - Unlimited token usage!
+
+  Please inquire directly with our recruiting team for
+  benefits available to those working outside the US.
+
+
+
+  Equal Opportunity Employer
+
+  WorkOS is an equal opportunity employer, committed to
+  diversity and inclusiveness. We will consider all qualified
+  applicants without regard to race, color, nationality,
+  gender, gender identity or expression, sexual orientation,
+  religion, disability or age.
+
+  We may use artificial intelligence (AI) tools to support
+  parts of the hiring process, such as reviewing applications,
+  analyzing resumes, or assessing responses. These tools
+  assist our recruitment team but do not replace human
+  judgment. Final hiring decisions are ultimately made by
+  humans. If you would like more information about how your
+  data is processed, please contact us.
+posted_date: 2026-08-12
+url: "https://builtin.com/job/software-engineer-productivity/8247516"
+source: Built In

@@ -1,0 +1,131 @@
+job_id: 11415658
+title: Senior Software Engineer - Foundations
+company: LemFi
+location: London, GBR
+work_type: FULL_TIME
+company_size: 121 Employees
+description: |
+  Ambition has no passport. That belief is why LemFi exists.
+  We're the financial engine for people the world wasn't built
+  to serve, the millions who move countries to build something
+  better and find the financial system hasn't caught up with
+  them yet. We started with remittances: the money people send
+  home to the people they love. Now we run multi-currency
+  accounts, Savings, eSIMs and Credit. Because staying
+  connected to home and building somewhere new are not two
+  separate things. They never were.
+
+  About the role
+
+  LemFi's Foundations tribe is the platform backbone every
+  product team relies on. We own onboarding and identity (KYC
+  end-to-end), engagement systems (rewards, CRM tooling, Lemfi
+  cash), and the internal SDKs and architectural standards
+  that let other squads move fast without reinventing the
+  wheel. If it touches how a customer gets onto the platform
+  or how teams build reliably on top of it, it runs through
+  us. We are looking for a Senior Backend Engineer who is at
+  home in Go, cares deeply about building things that last,
+  and has the ownership instinct to drive a system from design
+  to production with minimal hand-holding. You will be a key
+  technical voice in the tribe - setting standards, shipping
+  real product, and enabling the rest of engineering to move
+  faster because of the work you do.
+
+  What you'll build and own
+
+  - Own and evolve our core identity and onboarding services -
+    KYC flows, verification orchestration and the data
+    contracts that downstream systems depend on.
+  - Build and maintain internal SDKs and shared libraries that
+    abstract platform concerns (auth, identity, caching,
+    eventing) so product teams can move without friction.
+  - Define and champion cross-platform architectural standards,
+    making opinionated decisions about service design, API
+    contracts and data consistency that the wider engineering
+    org follows.
+  - Drive engagement platform capabilities - rewards logic, CRM
+    integrations and Lemfi cash - from spec to production,
+    using AI-assisted development tooling to compress
+    iteration cycles without sacrificing correctness.
+  - Partner closely with platform and infrastructure teams to
+    raise the reliability and observability bar across
+    Foundations-owned services.
+  - Tackle the hard, ambiguous problems - new country launches,
+    regulatory identity requirements, scaling events - and
+    turn them into clean, well-documented solutions.
+  - Contribute to a high-ownership engineering culture: code
+    reviews, architectural reviews, incident response and
+    mentoring are part of the job, not extras.
+
+  Your experience
+
+  - At least five years of backend engineering experience with
+    Go as your primary language in a production environment.
+  - A track record of building and scaling distributed systems -
+    you have seen things break at scale and know how to design
+    so they do not.
+  - Experience working on or closely with platform or enablement
+    teams: shared libraries, internal tooling, developer
+    experience or API gateways.
+  - Comfortable with the full lifecycle - design, build,
+    operate, improve - with evidence of genuine end-to-end
+    ownership rather than handing off to other teams.
+  - Practical, demonstrable use of AI development tools in your
+    daily engineering workflow; you validate AI output rather
+    than blindly accepting it.
+  - Strong opinions about system design, API contracts and
+    service boundaries, backed by real examples you can walk
+    us through.
+
+  Nice to have
+
+  - Exposure to fintech, payments or identity/KYC systems.
+  - Experience building SDKs or developer-facing platform
+    services consumed by other engineering teams.
+  - Prior work in a high-growth startup or scale-up (roughly
+    50-500 people) where you had to set standards, not just
+    follow them.
+
+  Why join LemFi?
+
+  Your work here puts money back into families' pockets.
+  That's the reward, and the weight of it. You'll take on some
+  of the hardest problems in finance alongside people who do
+  their best work when the stakes are real. We move fast and
+  we expect a lot, because our customers can't afford for us
+  to do otherwise. In return you get room to own real
+  problems, global impact you can see, and a team that won't
+  slow you down.
+
+  Bring grit and ownership and there's a place for them here.
+  Ambition belongs here, come and show us yours. Follow us on
+  LinkedIn and Instagram and if you haven't already, download
+  the app on the App Store or Google Play.
+
+  Don't feel that you're right for this role, but want to
+  submit your interest in working for LemFi? You can join our
+  talent community to stay in touch for future opportunities.
+
+  Recruitment agencies notice
+
+  LemFi does not accept unsolicited CVs from recruitment
+  agencies. We work only with agencies on our preferred
+  supplier list, and only when we’ve asked them for their
+  support. Any CVs sent to us outside this arrangement will
+  not incur a fee.
+
+  AI in hiring at LemFi
+
+  We use AI to cut admin, like notetakers that let
+  interviewers focus on the conversation instead of typing. AI
+  never makes hiring decisions. That responsibility always
+  sits with our hiring teams. Read our AI use policy to see
+  how we use AI and how we expect you to use it too.
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-09-29
+url: "https://builtin.com/job/senior-software-engineer-foundations/11415658"
+source: Built In

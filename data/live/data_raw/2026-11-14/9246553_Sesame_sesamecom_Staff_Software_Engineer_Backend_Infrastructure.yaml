@@ -1,0 +1,123 @@
+job_id: 9246553
+title: Staff Software Engineer, Backend Infrastructure
+company: Sesame (sesame.com)
+location: Bellevue, USA
+locations:
+  - Bellevue, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 55 Employees
+description: |
+  About Sesame
+
+  Sesame believes in a future where computers are lifelike -
+  with the ability to see, hear, and collaborate with us in
+  ways that feel natural and human. With this vision, we're
+  designing a new kind of computer, focused on making voice
+  agents part of our daily lives. Our team brings together
+  founders from Oculus and Ubiquity6, alongside proven leaders
+  from Meta, Google, and Apple, with deep expertise spanning
+  hardware and software. Join us in shaping a future where
+  computers truly come alive.
+
+  Responsibilities:
+
+  - Design, build, and maintain secure, maintainable, self-serve
+    core infrastructure that engineering teams can rely on and
+    operate independently.
+  - Lead the architecture and evolution of a modern ML training
+    infrastructure — scalable, reproducible, and built for
+    rapid experimentation.
+  - Build and operate a modern model serving architecture with a
+    focus on reliability, cost efficiency, and low latency.
+  - Lead and own the low-latency voice interface and audio
+    processing pipeline — a technically demanding,
+    performance-sensitive system at the core of Sesame's
+    product.
+  - Build developer tooling, server infrastructure, and data
+    infrastructure that is high leverage and low maintenance —
+    the kind that makes other engineers faster without
+    creating new dependencies on you.
+  - Lead technical direction within your domain, bring others
+    along through clear communication and well-reasoned
+    proposals, and raise the engineering bar across the team.
+
+  Required Qualifications:
+
+  - A strong systems thinker who is equally comfortable leading
+    technical direction and getting hands-on with
+    implementation.
+  - 7+ years of software engineering experience, with
+    significant time in infrastructure, platform, or ML
+    systems roles.
+  - Hands-on reliability engineering experience — you have well-
+    formed convictions about observability, monitoring,
+    deployment systems, and loosely coupled architectures, and
+    you've put them into practice at scale.
+  - Proven track record of building and shipping services at
+    scale, with all the operational complexity that comes with
+    it.
+  - Kubernetes — significant production experience building,
+    operating, and scaling Kubernetes clusters.
+  - Experience designing and shipping flexible domain models and
+    APIs — you think carefully about boundaries, contracts,
+    and long-term maintainability.
+  - A default toward automation — you've consistently built
+    efficiency gains through automation and have the track
+    record to show it.
+  - Strong communication skills — you can lead your own
+    direction, write clearly about tradeoffs, and bring
+    engineers and stakeholders along with you.
+
+  Preferred Qualifications:
+
+  We'd love to hear about experience in any of these areas —
+  we don't expect any one person to have all of them:
+
+  - Infrastructure as Code at scale — significant IaC
+    experience, preferably Terraform; CloudFormation, Pulumi,
+    or Kubernetes-based approaches also welcome. Ideally
+    you've led, architected, or contributed to a multi-stack,
+    self-serve IaC system and understand the challenges of
+    building infra that teams can own independently.
+  - ML infrastructure — any combination of the following:
+    - PyTorch experience, especially model optimization for
+      serving.
+    - ML training or serving experience in general.
+    - Experience building ML serving and/or training
+      infrastructure (TorchServe, Seldon, KServe, Ray Serve,
+      or similar).
+    - Experience building and leading large-scale distributed
+      training and serving systems.
+  - Data engineering — pipeline design, dataset management, or
+    data platform experience.
+  - Database design — complex schema design, query optimization,
+    and hard data modeling decisions across relational and
+    non-relational stores.
+  - Real-time communication systems — low-latency audio, video,
+    or streaming infrastructure.
+
+  Sesame is committed to a workplace where everyone feels
+  valued, respected, and empowered. We welcome all qualified
+  applicants, embracing diversity in race, gender, identity,
+  orientation, ability, and more. We provide reasonable
+  accommodations for applicants with disabilities. Contact
+  careers@sesame.com for assistance.
+
+  Full-time Employee Benefits:
+
+  - 401 (k) max employer match: 3.5% of compensation
+  - 100% employer-paid health, vision, and dental benefits for
+    you and your dependents
+  - Unlimited PTO and sick time
+  - Flexible spending account with employer matching up to
+    $1,650/year (medical FSA)
+  - Guardian Employee Assistance Program (EAP)
+  - Opportunity to share in the company's success with
+    competitive stock options
+
+  Benefits do not apply to contingent/contract workers.
+posted_date: 2026-08-22
+url: "https://builtin.com/job/swe-backend-infrastructure-engineer/9246553"
+source: Built In

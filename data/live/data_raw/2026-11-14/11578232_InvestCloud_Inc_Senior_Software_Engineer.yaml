@@ -1,0 +1,206 @@
+job_id: 11578232
+title: Senior Software Engineer
+company: InvestCloud, Inc.
+location: London, GBR
+work_type: FULL_TIME
+company_size: 1,100 Employees
+description: |
+  We are building a green field next-generation platform for
+  private markets. We are at an early stage of the build and
+  looking for Senior Software Engineers to partner closely
+  with Principal Engineers to design and deliver foundational
+  capabilities. This is a hands-on role for someone who wants
+  to help shape the architecture, standards, and engineering
+  culture of a new platform while leveraging modern coding
+  practices to deliver high-quality code and infrastructure.
+
+  What you’ll do
+
+  - Design and build backend services for the platform,
+    primarily in Go, running on AWS with Postgres as a core
+    data store.
+
+  - Own features and services end-to-end: from shaping
+    requirements and technical design through implementation,
+    testing, deployment, and operational support, including
+    taking responsibility for how they run in production.
+
+  - Own the technical design of features within key services:
+    contributing to design and architecture discussions,
+    making sound technical decisions in your area, and helping
+    other engineers grow through pairing and code review.
+
+  - Help define and evolve the target state architecture for the
+    platform: service boundaries, data models, integration
+    patterns, and reliability/observability standards.
+
+  - Use AI tooling (e.g. Claude and similar) as a force
+    multiplier to accelerate discovery, prototyping, and
+    implementation, while maintaining a high bar for code
+    quality, security, and correctness.
+
+  - Collaborate with product, operations, and other engineering
+    teams to integrate the platform with upstream and
+    downstream systems, and to model private markets workflows
+    effectively.
+
+  - Contribute to and improve engineering practices across the
+    team: automated testing, code review, design
+    documentation, CI/CD, monitoring, and incident response.
+
+  - Work effectively in an early-stage environment with evolving
+    requirements, helping to shape our engineering processes,
+    tooling, and standards as we scale the platform.
+
+  Our stack
+
+  We are language-agnostic in principle, but the current stack
+  includes:
+
+  - Languages: Go (primary), with room for the right tool for
+    specific problems.
+  - Infrastructure: AWS, Kubernetes.
+  - Data: Postgres as a core relational store.
+  - APIs: gRPC and HTTP-based services.
+  - Tooling: GitOps, IaC, observability tooling.
+
+  You don’t need prior experience with every technology above,
+  but you should be comfortable learning and working across
+  this kind of stack.
+
+  What we’re looking for
+
+  Must-have experience
+
+  - Significant experience as a Senior Software Engineer (or
+    equivalent), building and operating backend systems in
+    production.
+
+  - Deep experience in at least one modern backend language (Go,
+    Java, C#, etc.), and an interest in working with Go day-
+    to-day.
+
+  - Strong understanding of distributed systems, service design,
+    and API design.
+
+  - Practical experience with relational databases, ideally
+    Postgres: schema design, performance considerations, and
+    migration strategies.
+
+  - Track record of owning problems end-to-end: engaging with
+    stakeholders, clarifying requirements, making design
+    trade-offs, and delivering working software into
+    production.
+
+  - Comfortable working with and evaluating AI tooling in your
+    workflow (e.g. for ideation, code generation, test
+    generation, or documentation), while retaining strong
+    engineering judgement and maintaining quality.
+
+  Nice-to-have experience
+
+  - Experience in private markets, capital markets, asset
+    management, or adjacent financial domains.
+
+  - Experience working in an early-stage or 0→1 environment,
+    where architecture, tooling, and processes are still being
+    defined.
+
+  - Experience with:
+
+  - Document generation workflows, e-signature platforms, or
+    regulated operational processes.
+
+  - Infrastructure-as-code and AWS-based platforms.
+
+  - Event-driven architectures, workflow engines, or
+    orchestration systems (e.g. Temporal).
+
+  How you work
+
+  - You are pragmatic and delivery-focused, but care deeply
+    about designing systems that are reliable, observable, and
+    maintainable.
+
+  - You are comfortable with ambiguity and can help turn loosely
+    defined problems into clear technical plans, making
+    sensible trade-offs under time and information
+    constraints.
+
+  - You are keen to learn about the private markets domain, and
+    you can work with product and operations partners to shape
+    workflows and requirements.
+
+  - You communicate clearly with both technical and non-
+    technical stakeholders, and you are happy to challenge
+    assumptions constructively.
+
+  - You are collaborative and low ego: you give and receive
+    feedback well, and you care about the success of the
+    overall platform, not just your own code.
+
+  Impact
+
+  In your first 3-6 months you will:
+
+  - Design and deliver significant features and components
+    within the platform's core services and workflows.
+  - Uphold and help improve the platform's engineering standards
+    (testing, observability, operational readiness) in the
+    services you work on.
+  - Improve the team’s speed and quality of delivery, including
+    through effective use of AI tooling and better development
+    practices.
+  - Build toward broader technical ownership (e.g. leading the
+    design of a key service or stepping into a Lead role) as
+    the platform and team expand.
+
+
+
+  About InvestCloud
+
+  InvestCloud, a global leader in wealth technology, aspires
+  to enable a smarter financial future. Driving the digital
+  transformation of the wealth management industry, the
+  company serves a broad array of clients globally, including
+  Wealth and Asset Managers, Wirehouses, Banks, RIAs, and
+  Insurers. In terms of scale, the company’s clients represent
+  more than 40 percent of the $132 trillion of total assets
+  globally. As a leader in delivering personalization and
+  scale across advisory programs, including unified managed
+  accounts (UMA) and separately managed accounts (SMA), the
+  company is committed to the success of its clients. By
+  equipping and enabling advisors and their clients with
+  connected technology, enhanced intelligence, and inspired
+  experiences, InvestCloud delivers leading digital wealth
+  management and financial planning solutions, complemented by
+  a dynamic data warehouse, which scale across the complete
+  wealth continuum. In 2024, InvestCloud was named CNBC
+  World’s Top Fintech Company, a proof point of the company’s
+  commitment to innovation and client success. Headquartered
+  in the United States, InvestCloud serves clients around the
+  world. For more information, visit InvestCloud.com.
+
+  Our Values
+
+  - Client Connected
+  - Human Centered
+  - Technology Forward
+  - Respect + Integrity
+  - Excellence
+
+  The actual salary will vary based on the applicant’s
+  education, experience, skills, and abilities, as well as
+  internal equity and alignment with market data. The salary
+  may also be adjusted based on the applicant’s geographic
+  location.
+
+
+
+   #LI-BH1
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-10-08
+url: "https://builtin.com/job/senior-software-engineer/11578232"
+source: Built In

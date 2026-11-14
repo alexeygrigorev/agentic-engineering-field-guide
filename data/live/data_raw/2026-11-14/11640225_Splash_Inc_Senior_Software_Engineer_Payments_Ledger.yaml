@@ -1,0 +1,174 @@
+job_id: 11640225
+title: "Senior Software Engineer, Payments & Ledger"
+company: Splash Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 57 Employees
+description: |
+  About Splash
+
+  Splash brings people and communities together through the
+  gamification of live sports and events. We nurture, foster,
+  and inspire the competitive spirit that lives within us all
+  - one season, one game, one play at a time. With a variety
+  of sports categories and pool formats to choose from, our
+  websites are the premier spots for hosting friendly
+  competitions against friends and family. We're a small,
+  quickly growing, and remote-first team, looking for talented
+  people who love sports and tech startups!
+
+  The Role
+
+  This is a full-time, remote job on our engineering team.
+  You'll own the money side of Splash. That covers deposits
+  and withdrawals, entry fees and payouts, fraud checks, and
+  the double-entry ledger that ties every cent back to a
+  player wallet and a contest.
+
+  You'll build and run the backend services that move real
+  money through our web and mobile games. Finance and
+  Compliance will lean on you a lot. You'll work with them
+  directly so the books close clean every day, and you'll own
+  our integrations with payment processors and with KYC and
+  fraud vendors.
+
+  It's a backend job first. Our services run on NodeJS and
+  TypeScript in AWS, and you'll work alongside engineers in
+  the US and Prague.
+
+  Location: This is a remote role and you need to be based in
+  the US.
+
+  What You'll Own
+
+  - Ledger: Design and grow our double-entry ledger and wallet
+    services. You'll own the account structure, covering
+    player cash, promo balances, contest escrow, house
+    accounts, and processor clearing.
+  - Deposits and withdrawals: Build payment flows for cards and
+    ACH, plus whatever processors we add next.  This means
+    working with partners to understand API versioning and new
+    feature rollouts including idempotent APIs, webhook
+    handling, retries, refunds, chargebacks, and payout
+    orchestration.
+  - Contest money: Own the accounting for entry fees, rake,
+    prize pools, promos, and private contest fees.  This must
+    be exact and you must work with game ops and marketing to
+    understand updates in promotions
+  - Fraud and risk: We run real-time risk checks on every
+    deposit and withdrawal, and on contest entry where it
+    matters. Examples include velocity limits, device and
+    identity signals, KYC and AML gating, geolocation, and
+    responsible gaming limits. When a case needs a human, you
+    will interface with our Trust and Safety team.
+  - Reconciliation: Automate daily three-way reconciliation. The
+    ledger has to match processor settlement reports and bank
+    statements. When it doesn't, the break gets flagged and
+    routed before Finance has to ask.
+  - FinOps data: Feed clean ledger and transaction data into our
+    Snowflake and dbt warehouse. Finance uses it for GGR,
+    handle by state, tax reporting, and cash position.
+  - Correctness and audit: Exactly-once posting and safe
+    concurrency are table stakes.  You must keep audit trails
+    that hold up when a regulator or a processor comes asking.
+  - On-call: Take your turn on call for payment systems. Big
+    sports weekends are when it counts.
+
+  You Must
+
+  - Care a lot about getting money right. Rounding errors and
+    race conditions bother you. A one-cent break bothers you
+    more.
+  - Work well on your own and on a small team. You write and
+    talk clearly, which matters when everyone is remote and
+    some of your closest partners work in Finance.
+  - Be a self-starter with a strong work ethic.
+  - Troubleshoot well. You can pick apart a system you've never
+    seen, including a processor's odd behavior or a messy
+    settlement file.
+  - Follow good engineering and security practice. For this job
+    that includes PCI-aware handling of payment data and
+    least-privilege access to financial systems.
+  - Make smart trade-offs. Know when to build for the long run
+    and when to ship something simpler. Also know which
+    shortcuts are off the table when money is involved.
+  - Be up for startup life. We keep core hours, and big sporting
+    events sometimes mean evening work.
+  - Be excited to use the latest AI tools to make yourself and
+    the team faster.
+
+  You Have
+
+  - 5+ years of backend engineering, including at least 2 years
+    on production payments, fintech, wallet, or ledger systems
+    that moved real money.
+  - Familiarity and a passion for regulated real-money gaming
+    like DFS, sportsbook, iGaming, or peer-to-peer contests.
+    Bonus if you've handled state-by-state compliance and
+    geolocation.
+  - Hands-on experience designing a ledger system. You're
+    comfortable with accounting basics like debits and
+    credits, chart of accounts, accruals, authorization versus
+    settlement, and reconciliation.
+  - Experience integrating payment processors, including
+    webhooks, idempotency keys, chargebacks, and settlement
+    reports.
+  - Experience building or running fraud and risk controls, such
+    as rules engines, velocity checks, KYC and AML vendor
+    integrations, and manual review tools.
+  - Proficient with NodeJS with TypeScript.
+  - Deep knowledge of relational databases, ideally PostgreSQL.
+    You understand isolation levels and locking, and you know
+    how to design schemas for append-only financial data. Your
+    SQL is strong.
+  - Experience running scalable, highly available services in
+    AWS, including PostgreSQL on RDS.
+  - Strong automated testing habits, including property-based or
+    invariant tests for financial logic. You're at home with
+    Git and the rest of the standard toolkit.
+  - A computer science degree or equivalent experience.
+
+  Nice to Have
+
+  - Experience with escrow or custodial account models, where
+    you hold player funds on someone else's behalf.
+  - Exposure to responsible gaming controls and tax reporting
+    (W-2G, 1099).
+  - Event-driven systems work with SQS/SNS or Kafka, plus outbox
+    patterns for reliable financial events.
+  - Familiarity with Snowflake and DBT, or time spent partnering
+    with data teams on finance reporting.
+  - Proficiency with React for building internal tools like
+    review queues and reconciliation dashboards.
+
+  Compensation & Benefits
+
+  As a Splash team member, you'll receive a comprehensive
+  compensation and benefits package that includes:
+
+  - A competitive annual salary range of $150-185k. This range
+    may be modified, and final compensation may vary based on
+    work experience and skill level
+  - Potential to earn equity in the company
+  - Medical, Dental, & Vision Insurance
+  - 401K/Retirement Plan Options
+  - Flexible PTO
+  - Annual company retreats & team offsites
+  - Frequent company-wide games with cash prizes
+  - An exciting opportunity to be a part of the fast-growing
+    fantasy sports industry, where you'll help build products
+    for millions of fans across the country!
+
+  Splash is committed to creating an inclusive work
+  environment. We are proud to be an equal opportunity
+  employer and will consider all qualified applicants
+  regardless of gender, gender identity, race, religion,
+  color, nationality, ethnic origin, sexual orientation,
+  marital status, veteran status, age or disability.
+industries:
+  - Gaming
+  - Sports
+posted_date: 2026-11-03
+url: "https://builtin.com/job/senior-software-engineer-payments-ledger/11640225"
+source: Built In

@@ -1,0 +1,123 @@
+job_id: 4453463
+title: Senior Software Engineer - Full Stack
+company: Cinder
+location: New York, USA
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  About Cinder
+
+  Cinder is the mission-critical infrastructure that keeps the
+  world's most important digital platforms true to what they
+  stand for. The internet has always been abused by bad
+  actors, and AI is making it exponentially worse, driving
+  fraud, abuse, and manipulation at a scale and speed no human
+  team can fight alone. Cinder gives platforms one command
+  center to fight back: to write and enforce policy, deploy AI
+  agents against abuse in real time, investigate threats, file
+  NCMEC reports, and prove their safety programs are working.
+
+  Our customers are some of the largest internet platforms in
+  the world. The decisions made in our software directly
+  determine what stays up, what comes down, and how users are
+  treated.
+
+  We're a small, fast-moving team backed by Accel and Y
+  Combinator. We care about being intentional, direct, and
+  deeply focused on solving real customer problems.
+
+  Why this role
+
+  You'd be building the infrastructure that some of the
+  largest online communities in the world depend on to
+  function. The problems aren't hypothetical: state-sponsored
+  disinformation, CSAM reporting, coordinated abuse at scale.
+  The software you build is used daily by the reviewers,
+  investigators, and T&S leads making the calls that define
+  what a platform stands for. This is an early-stage company
+  with a mature product and real enterprise customers. You'll
+  have outsized influence on architecture, product direction,
+  and engineering culture.
+
+  What you'll work on
+
+  This isn't a generic full-stack role. Here's what's actually
+  on the roadmap right now and what you'd be contributing to:
+
+  - AI agents that review content against customer policies,
+    callable from within our durable workflow engine. We're
+    moving from hardcoded LLM prompts to a configurable agent
+    spec that customers can edit and deploy themselves.
+  - A workflow engine built on Restate for durable execution.
+    Engineers build new nodes that customers wire together to
+    automate moderation pipelines, NCMEC reporting,
+    enforcement actions, and more.
+  - Review queue tooling: the core UI where moderators and
+    investigators spend their day. You'd work on features like
+    QA decision overrides, attribute-level labeling, forms,
+    and skills-based routing.
+  - Analytics and metrics dashboards that help T&S leads
+    understand how their programs are performing, built with a
+    React frontend backed by a Django/GraphQL API.
+  - Two-way user communications: building integrations
+    (Salesforce, Zendesk) so moderators can contact users and
+    see conversation history without leaving Cinder.
+  - Reliability at scale. Our customers process high volumes of
+    content through review queues, workflows, and AI agents.
+    You'd help define SLIs, improve pipeline throughput, and
+    own oncall for systems where downtime means moderation
+    stops.
+
+  What we're looking for
+
+  - 5+ years building production software, with experience
+    across the stack: Django or similar backend frameworks,
+    React or similar on the frontend, relational databases,
+    and message/event systems.
+  - You've identified a customer problem yourself, not just been
+    handed a ticket, and built an end-to-end solution for it.
+    We don't operate with a traditional PM-led design approach
+    at Cinder. Engineers participate in customer demos, hear
+    feedback firsthand, and shape what gets built next.
+  - Experience with high-throughput, data-intensive systems. Our
+    platform ingests large volumes of entity data, events, and
+    media from customer platforms. You should be comfortable
+    reasoning about pipeline throughput, latency, and the
+    tradeoffs that come with scale.
+  - You have a real point of view on how AI tooling has changed
+    the way you write code. We use it extensively and expect
+    engineers to be fluent and opinionated, not just familiar.
+  - End-to-end ownership. Even as AI code gen changes how
+    frontend code gets written, you need to understand how the
+    backend is designed to build something usable from start
+    to finish. You'd own features from data model through API
+    through UI.
+  - Clear written communication. We're a distributed team with a
+    concentration in NYC, and we work closely with customer-
+    facing teams. You need to write clearly in PRs, Slack, and
+    customer-facing documentation.
+
+  Nice to have
+
+  - Experience in Trust & Safety or abuse prevention.
+    Understanding how attackers exploit platforms gives you a
+    head start.
+  - Experience at a startup or early-stage company where you
+    wore multiple hats and shipped fast with limited
+    resources.
+  - Familiarity with workflow/automation systems, policy
+    engines, or case management tools.
+  - Experience working directly with enterprise customers or in
+    a customer-facing engineering role.
+
+  Location & Benefits
+
+  We're based in NYC and would relocate the right person for
+  this role. We believe in working together in person and hold
+  at least two all-company events per year. We offer health,
+  vision & dental benefits, a 401(k) plan with employer
+  matching, fully paid commuter benefits, and a fully stocked
+  office with paid lunch and dinner.
+posted_date: 2026-08-12
+url: "https://builtin.com/job/senior-software-engineer-full-stack/4453463"
+source: Built In

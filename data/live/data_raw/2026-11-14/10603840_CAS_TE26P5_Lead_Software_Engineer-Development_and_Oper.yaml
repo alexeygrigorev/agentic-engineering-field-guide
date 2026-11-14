@@ -1,0 +1,136 @@
+job_id: 10603840
+title: TE26P5 Lead Software Engineer-Development and Operations
+company: CAS
+location: USA
+locations:
+  - USA
+  - Columbus, USA
+remote: true
+work_type: FULL_TIME
+company_size: 3,991 Employees
+description: |
+  CAS uses intuitive technology, unparalleled scientific
+  content and unmatched human expertise to help companies
+  create groundbreaking innovations that benefit the world. As
+  the scientific information solutions division of the
+  American Chemical Society, CAS manages the largest curated
+  reservoir of scientific knowledge, and for 118 years, has
+  helped innovators mine, assess and apply that information to
+  keep businesses thriving. The CAS team is global, diverse,
+  endlessly curious and strives to make scientific insights
+  accessible to innovators worldwide.
+
+  CAS is currently seeking a DevOps Engineer for our Content
+  Technology Team. This position will be in our headquarters
+  in Columbus, Ohio.
+
+  CAS is seeking a highly motivated DevOps Engineer to join
+  our Technology organization. In this role, you will help
+  design, build, automate, and support the infrastructure and
+  deployment processes that power our products and services.
+  You will work closely with software engineers, architects,
+  security teams, and product stakeholders to enhance platform
+  reliability, scalability, performance, and security. The
+  ideal candidate is passionate about automation, cloud
+  technologies, continuous improvement, and enabling
+  development teams to deliver high-quality solutions
+  efficiently. Key Responsibilities
+
+  - Design, implement, and maintain cloud-based infrastructure
+    and platform services.
+  - Build and manage CI/CD pipelines that support automated
+    testing, deployment, and release management.
+  - Develop and maintain Infrastructure as Code (IaC) solutions
+    using industry-standard tools.
+  - Monitor system health, performance, availability, and
+    capacity across production and non-production
+    environments.
+  - Collaborate with software engineering teams to improve
+    application deployment, observability, and operational
+    excellence.
+  - Implement and maintain security best practices throughout
+    the software delivery lifecycle.
+  - Troubleshoot and resolve infrastructure, deployment, and
+    application-related issues.
+  - Support disaster recovery, backup, and business continuity
+    initiatives.
+  - Identify opportunities for automation and process
+    improvements to increase efficiency and reliability.
+  - Participate in on-call support and incident response
+    activities as required.
+  - Can write and defend architecture decision records (ADRs),
+    technical documentation, standards, and operational
+    procedures.
+  - Cost optimization mindset (right-sizing, spot instances,
+    reserved capacity)
+  - Security-first thinking (pod security standards, network
+    policies, secrets management via Vault/External Secrets).
+
+  Required Qualifications
+
+  - Bachelor's degree in Computer Science, Information
+    Technology, Engineering, or related field, or equivalent
+    experience.
+  - 5-8+ years of experience in DevOps, Site Reliability
+    Engineering, Cloud Engineering, or related technical
+    roles.
+  - Experience with cloud platforms such as AWS, Azure, or
+    Google Cloud.
+  - Experience building and maintaining CI/CD pipelines using
+    tools such as Azure DevOps, GitHub Actions, Jenkins, or
+    GitLab.
+  - Deep hands-on experience running production Kubernetes
+    clusters at scale (EKS specifically, given your AWS
+    environment)
+  - Strong grasp of workload scheduling, resource management,
+    autoscaling (HPA/VPA/Cluster Autoscaler or Karpenter)
+  - Experience with stateful workloads — critical for you since
+    MarkLogic clusters and Spark jobs have different
+    persistence/networking needs than typical stateless
+    microservices
+  - Custom operators, CRDs, or Helm chart authorship
+  - Strong Terraform experience
+  - Module design, state management (remote state, locking), and
+    workspace strategies for multi-environment setups
+  - EKS internals (control plane, node groups, Fargate vs. EC2
+    nodes)
+  - IAM/RBAC integration (IRSA), VPC networking, security groups
+  - Experience with EMR-on-EKS or running Spark on Kubernetes is
+    a strong plus
+  - ArgoCD or Flux experience
+  - Pipeline design (GitHub Actions, GitLab CI, Jenkins, or
+    CodePipeline)
+  - Prometheus/Grafana, OpenTelemetry — you've already been
+    exploring this, so alignment here matters
+  - Log aggregation (Loki, CloudWatch, ELK)
+
+  CAS offers a competitive salary and comprehensive benefits
+  package, including a generous vacation plan, medical,
+  dental, vision insurance plans, and employee savings and
+  retirement plans. Candidates for this position must be
+  authorized to work in the United States and not require work
+  authorization sponsorship by our company for this position
+  now or in the future. EEO/Minority/Female/Disabled/Veteran.
+
+  Qualifications
+
+  Behaviors
+
+  Preferred Team Player: Works well as a member of a group
+  Dedicated: Devoted to a task or purpose with loyalty or
+  integrity Innovative: Consistently introduces new ideas and
+  demonstrates original thinking
+
+  Education
+
+  Preferred Bachelors or better. Bachelors or better.
+  Bachelors or better.
+
+  Equal Opportunity Employer/Protected Veterans/Individuals
+  with Disabilities This employer is required to notify all
+  applicants of their rights pursuant to federal employment
+  laws. For further information, please review the Know Your
+  Rights notice from the Department of Labor.
+posted_date: 2026-08-10
+url: "https://builtin.com/job/te26p5-lead-software-engineer-development-and-operations/10603840"
+source: Built In

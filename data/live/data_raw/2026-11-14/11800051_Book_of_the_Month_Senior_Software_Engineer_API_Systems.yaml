@@ -1,0 +1,96 @@
+job_id: 11800051
+title: Senior Software Engineer, API Systems
+company: Book of the Month
+location: New York, USA
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  The Engineering team at Book of the Month is responsible for
+  developing and maintaining our website, mobile apps, and the
+  internal systems that run the business. We work closely with
+  Product, Design, fellow engineers, and stakeholders across
+  the company to take projects from inception to launch on
+  quick, iterative timelines, balancing quality with business
+  impact.
+
+  We are looking for a Senior Software Engineer to architect
+  creative technical solutions to complex problems, ensure
+  consistent delivery of roadmapped features, and seek
+  constant improvement of our code’s efficacy, performance,
+  and maintainability.
+
+
+  What you will do…
+
+  - Own the end-to-end creation of customer-facing features that
+    reach hundreds of thousands of users.
+  - Architect and maintain the systems that power Book of the
+    Month, such as our inventory, order management, financial,
+    and fulfillment systems, applying evolving technologies to
+    best support our internal teams.
+  - Keep our APIs, website, and mobile apps fast and reliable
+    through spiky, unpredictable traffic from monthly
+    selection launches, promotions, and holiday gifting.
+  - Collaborate closely with technical and non-technical
+    stakeholders to find practical, cost-effective solutions
+    that meet business needs in feasible timelines.
+  - Create detailed, comprehensive technical specifications
+    outlining well thought-out solutions for review by peers &
+    execution by orchestrated agentic workflows.
+  - Review technical specifications of other developers to
+    ensure success of their projects along with your own,
+    mentoring other engineers to architect for scalability,
+    follow good design patterns, and uncover edge cases.
+  - Write code and direct code generation to implement approved
+    solutions at high code-quality standards.
+  - Verify solutions at every step of the development process,
+    considering both happy and unhappy paths, & monitoring
+    success after release.
+
+  About you…
+
+  - 6+ years of work experience delivering high-quality
+    production code. Experience at a consumer facing brand is
+    a plus.
+  - Solution-oriented: Enjoys tackling problems, breaking them
+    down into pieces, and finding innovative ways to use new
+    technologies to solve them.
+  - Excited by ownership: Embraces the prospect of creating
+    something from scratch, owning its development, and
+    ensuring its quality to end users.
+  - Undeterred by ambiguity: Sees complex problems as
+    opportunities for growth rather than obstacles, driving a
+    solution forward no matter how complicated the path.
+  - Team player: Collaborates with others and picks up new
+    skills to help out when needed, whether that be nailing
+    down reproduction steps of a bug, creating a frontend
+    component, or hunting down a gap in our data for
+    analytics.
+
+  Technical Requirements…
+
+  - Develop high-quality, production code in event-driven
+    systems, preferably Node.js.
+  - Utilize typed languages, preferably TypeScript, to ensure
+    integrity of API contracts, store clean data, and future-
+    proof projects for low-lift expansion while avoiding
+    regressions.
+  - Model data in relational databases such as MySQL or
+    PostgreSQL and evolve schemas safely against live
+    production data.
+  - Design and version REST APIs with clear, reliable contracts
+    and consistent backward compatibility.
+  - Build and maintain test suites rigorous enough to be trusted
+    as a quality gate for production release.
+  - Prioritize efficiency by optimizing SQL, minimizing DB
+    trips, managing in-memory load, and utilizing third-party
+    services such as Redis, Kafka, and SQS.
+
+  Salary Range: $125,000 - $180,000
+industries:
+  - eCommerce
+  - News + Entertainment
+  - Retail
+posted_date: 2026-10-21
+url: "https://builtin.com/job/senior-software-engineer-api-systems/11800051"
+source: Built In

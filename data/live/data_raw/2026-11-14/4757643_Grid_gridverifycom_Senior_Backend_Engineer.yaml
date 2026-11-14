@@ -1,0 +1,104 @@
+job_id: 4757643
+title: Senior Backend Engineer
+company: Grid (gridverify.com)
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 9 Employees
+description: |
+  About Grid
+
+  We founded Grid to design future-proof solutions for
+  financial firms and startups struggling to keep pace with
+  the breakneck advance of fraud tactics. A new player in the
+  fraud prevention space with deep roots in financial business
+  management, we came by our mission the hard way.
+
+  After our consumer business fell victim to one of the
+  infinite variations of fraud, our co-founders set out to
+  create a platform that’s more of a fortress than a tool —
+  saving our clients millions in annual revenue and a ton of
+  restless nights. The result? A fraud prevention platform
+  that  integrates multiple data providers into a single,
+  powerful solution designed for rapid deployment and ease of
+  use.
+
+  About the Role
+
+  - Build robust, fault-tolerant integrations with 3rd party
+    APIs that have little to no or poor documentation.
+  - Create sophisticated background processing pipelines that
+    are also fault-tolerant.
+  - Develop mature APIs and microservices that adhere to RESTful
+    principles that are used by paying clients in production.
+  - Write strong unit and integration tests that ensure the code
+    quality of your work.
+  - Investigate client issues and service disruptions that
+    require a deep dive.
+  - Translate high-level requirements into a system design
+    update and new data model while collaborating with clients
+    and team members through requirements gathering and
+    discovery.
+  - Evaluate the pros and cons of high level architectural
+    choices as well as lower level design decisions required
+    within an existing application.
+  - Work autonomously and make system design decisions that are
+    resistant to change leveraging your experience.
+  - Deeply invested in your work and client happiness.
+  - Mentor junior to mid level engineers while also holding them
+    accountable.
+
+  About You
+
+  - 7+ years of full-time experience as a Software Engineer
+  - BS in Computer Science or commensurate experience
+  - Proficient in TypeScript and JavaScript programming
+    languages
+  - Strong experience with relational databases including schema
+    and query design, implementation, optimization, and ORM
+    usage
+  - Deep understanding of Node.js semantics (event loops,
+    streams, events, etc)
+  - Proven track record for integrating with external APIs
+  - Full confidence in building a fault-tolerant and high-
+    performant microservice
+  - Experience with background job processing, queues, etc
+  - History of scaling and optimizing performance of
+    applications to support rapid growth
+
+  Our Stack
+
+  - NestJS
+  - TypeScript
+  - PostgreSQL
+  - TypeORM
+  - RabbitMQ
+  - Redis
+  - Heroku
+  - Git
+
+  Bonus
+
+  - Software Engineering experience in Finance or FinTech.
+  - Experience on the Google Cloud Platform
+
+  Benefits & Perks
+
+  - Medical
+  - Dental
+  - Vision
+  - $1,500.00 professional development budget
+  - Fitness/Wellness reimbursement
+  - Internet reimbursement
+  - Home Office $1,000.00 stipend
+  - Unlimited PTO with manager approval
+  - Mental health days off
+  - Annual company offsite
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-12
+url: "https://builtin.com/job/senior-backend-engineer/4757643"
+source: Built In

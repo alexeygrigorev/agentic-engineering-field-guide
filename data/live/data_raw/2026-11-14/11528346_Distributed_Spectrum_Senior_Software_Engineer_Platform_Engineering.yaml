@@ -1,0 +1,147 @@
+job_id: 11528346
+title: Senior Software Engineer, Platform Engineering
+company: Distributed Spectrum
+location: New York, USA
+work_type: FULL_TIME
+company_size: 33 Employees
+description: |
+  DS creates systems that power the next generation of radio
+  spectrum intelligence. We collect radio data from all over
+  the world, train neural networks to decipher it, and run
+  them on the smallest chips we can. We’re solving a new,
+  technically hard problem where nothing from other fields
+  works out of the box, and along the way, we’ve built our own
+  stack from scratch, including entirely new embedding model
+  architectures, custom GPU kernels, and much more.
+
+  Joining DS means owning major parts of a fast-growing AI
+  research organization, joining a collaborative, talent-dense
+  team with decades of experience in probabilistic ML,
+  accelerated computing, embedded systems, and signal theory,
+  and growing your career in the areas that interest you.
+  You’ll fit in if you want to come to work for the problem
+  itself and don’t want to choose between technical rigor,
+  business value, and real-world impact.
+
+  We work with high ownership and trust.
+
+  The Role
+
+  Everything DS ship; inference services, data pipelines,
+  agents, and the UI, it all runs on infrastructure this role
+  owns. We're hiring a Platform Engineer to build the
+  foundation that lets a fast-moving team deploy many times a
+  day, scale to meet unpredictable load, and do it all
+  securely.
+
+  You'll own our CI/CD, infrastructure-as-code, and cloud
+  deployment strategy, and you'll bring a DevSecOps mindset to
+  how we build: security and compliance as part of the
+  pipeline, not a gate at the end.
+
+  What you'll do
+
+  - Design, build, and operate our cloud infrastructure across
+    environments using infrastructure-as-code; make it
+    reproducible, reviewable, and easy to evolve.
+  - Own CI/CD end to end: build pipelines, artifact management,
+    testing gates, progressive delivery, and rollback
+    strategies for services, ML models, and data jobs.
+  - Automate infrastructure scaling and deployments, autoscaling
+    for GPU and CPU workloads, capacity planning, and cost
+    controls that keep our cloud spend proportional to value.
+  - Embed security into the platform: secrets management, IAM
+    and least-privilege access, vulnerability scanning,
+    dependency and container hardening, policy-as-code, and
+    audit logging.
+  - Build observability as a platform capability: metrics, logs,
+    tracing, alerting, and SLOs that engineers can adopt with
+    minimal friction.
+  - Run large-scale cloud deployments reliably, including
+    incident response and post-incident improvements.
+  - Create developer tooling and paved paths so product
+    engineers can ship safely without becoming infrastructure
+    experts.
+
+  What we're looking for
+
+  - 4+ years of experience in platform, infrastructure, DevOps,
+    or SRE roles supporting production systems at meaningful
+    scale.
+  - Hands-on DevSecOps experience and integrating security
+    scanning, secrets handling, access control, and compliance
+    checks directly into delivery pipelines.
+  - Deep experience with CI/CD tooling (GitHub Actions, GitLab
+    CI, Buildkite, ArgoCD, Jenkins, etc.) and deployment
+    strategies (blue/green, canary, feature flags).
+  - Strong experience with AWS (or GCP / Azure) at scale —
+    compute, networking, storage, IAM, managed Kubernetes, and
+    cost management.
+  - Expert-level infrastructure-as-code skills with Terraform,
+    Pulumi, CloudFormation / CDK, or similar; plus
+    configuration management or GitOps workflows.
+  - Experience with containers and orchestration (Docker,
+    Kubernetes, Helm) in production, including autoscaling and
+    multi-environment management.
+  - Solid programming ability in Python, Go, or Bash for
+    automation and tooling.
+  - Strong operational instincts: you think about failure modes,
+    blast radius, and recover-ability before they become
+    incidents.
+
+  Nice to have
+
+  - Experience running GPU workloads and ML infrastructure in
+    the cloud.
+  - Experience with compliance frameworks and secure or air-
+    gapped deployments (e.g., FedRAMP, CMMC, IL environments).
+  - Familiarity with edge / hybrid deployments where cloud
+    infrastructure coordinates with on-device or on-prem
+    systems.
+  - Experience with observability stacks (Prometheus, Grafana,
+    OpenTelemetry, Datadog).
+
+  Who Thrives at Distributed Spectrum
+
+  - Fast learners over specific backgrounds – We care more about
+    how quickly you can pick up new skills than where you’ve
+    worked before.
+  - Intellectual honesty – The right answer matters more than
+    being right. You challenge assumptions, test ideas, and
+    pivot when needed.
+  - Adaptability – We’re organized, but sometimes things change
+    quickly. You find a way to make it work and balance short-
+    term deliverables with long-term goals.
+  - Ownership of outcomes – You optimize your own time, focus on
+    what matters to deliver quickly, and cut out
+    inefficiencies.
+  - Not building in a vacuum – You stay connected to the rest of
+    our teams and our customers to make sure all the pieces
+    fit together.
+
+  What We Offer
+
+  - Above-market salary, equity, and benefits package.
+  - Early Series A Equity
+  - Excellent health, dental, and vision coverage
+  - 401(k) match - up to 4% of your salary
+  - Flexible PTO
+  - Daily office lunches in NYC
+
+  ITAR Requirements
+
+  To conform to U.S. Government technology export regulations,
+  including the International Traffic in Arms Regulations
+  (ITAR) you must be a U.S. citizen, lawful permanent resident
+  of the U.S., protected individual as defined by 8 U.S.C.
+  1324b(a)(3), or eligible to obtain the required
+  authorizations from the U.S. Department of State. Learn more
+  about the ITAR here.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Defense
+posted_date: 2026-10-06
+url: "https://builtin.com/job/senior-software-engineer-platform-engineering/11528346"
+source: Built In

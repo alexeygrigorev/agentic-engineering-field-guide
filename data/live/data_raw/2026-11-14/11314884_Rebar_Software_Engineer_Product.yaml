@@ -1,0 +1,169 @@
+job_id: 11314884
+title: Software Engineer, Product
+company: Rebar
+location: New York, USA
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  About Rebar
+
+  Rebar is building the AI operating system for commercial
+  HVAC, Electrical, and Plumbing.
+
+  Over the past year our quoting platform has processed tens
+  of thousands of projects across North America and we’re
+  continuing that growth. Our customers include many of the
+  top firms in the industry. Some of these companies are
+  running billion dollar construction projects on workflows
+  that still look like it's 1985.
+
+  Construction is 10% of GDP and still massively underserved
+  by software. We are changing that.
+
+  We raised a $14M Series A from leading construction tech
+  investors and are entering our next phase of growth. We are
+  building a set of AI native products that will define how
+  this industry operates.
+
+  About the Engineering Org
+
+  The role of the engineer is rapidly changing. We're aware,
+  and we're being intentional about adapting alongside it.
+  We're fostering an engineering culture of growth and
+  development. We strongly emphasize care of craft and winning
+  together. Our core values are:
+
+  - Everyone operates like an owner
+  - Find a way
+  - We win together
+
+  That being said the whole company still works really hard!
+  This is something that you should read and internalize. This
+  might not be the place for everyone.
+
+  About the Role
+
+  We're looking for a Software Engineer focused on our
+  product. This hire will own the engineering behind key
+  product expansion, a quickly rising quality bar, and the
+  architecture of the application our customers live in all
+  day.
+
+  Our product engineers are full stack with a slight frontend
+  skew. While numerous difficult customer workflows and
+  interactions sit in the client, you'll still ship and own
+  features end to end. You should be comfortable in DBeaver
+  with Postgres or digging into the React profiler.
+
+  Our product is a browser-based (konva) canvas editor on top
+  of extremely dense construction drawings. Estimators open a
+  planset with thousands of pages, our models mark it up, and
+  multiple people edit the same document at the same time.
+  That means the hard problems here are not CRUD screens. They
+  are rendering performance on enormous documents, correctness
+  in a collaborative document, and state that has to survive a
+  flaky jobsite network.
+
+  This is a scale moment for us. We are expanding both
+  vertically up our market as well as branching into new
+  markets like hydronics and plumbing. We need an experienced
+  and technically strong engineer to help us accomplish that.
+
+  I cannot state this enough - I will personally ensure that
+  you leave as a better and more experienced engineer than
+  when you joined. You will get to set the technical standard
+  for a product org as it roughly doubles over the next year,
+  own a genuinely hard piece of client-side engineering, and
+  watch it scale fr om hundreds of companies to thousands.
+
+  Responsibilities
+
+  - Own runtime quality of the product
+    - Interaction latency, rendering performance, memory, and
+      correctness on real customer projects - not lab
+      conditions. You own the metrics, the budgets, and the
+      regressions.
+  - Own the hard client-side architecture
+    - The canvas editor, the collaborative document layer, and the
+      state that ties them together.
+  - Help set a strong engineering standard in the agentic world
+    - Help continue to raise the quality bar for the engineering
+      org
+  - Raise the review and testing bar
+    - Required checks, meaningful end-to-end coverage of the flows
+      that actually break, and review that catches design
+      problems rather than typos.
+  - Ship features end to end
+    - From the editor down through the API and the database. You
+      design the data model and the endpoints your feature
+      needs rather than waiting on someone else to build them.
+
+  What We’re Looking For
+
+  At a high level, we want technical depth plus the taste to
+  know what not to build. You should actually give a shit
+  about how the product feels under a user's hands.
+
+  You should be able to walk me through the last time you took
+  a slow, heavy interface and made it fast - what you
+  profiled, what you measured, what you shipped, and what you
+  deliberately left alone. You should have opinions about
+  testing that come from having been burned. In addition,
+  we’re asking for comfort across the whole stack, so that
+  you’re excited and eager to jump into our collaboration
+  engine and understand data flow end to end.
+
+  Qualifications
+
+  - 5+ years building production web applications, with
+    significant time in a large, long-lived codebase
+  - Deep React and TypeScript - you know how rendering actually
+    works and you can reason about it without guessing
+  - Real browser performance work: profiling, interaction
+    latency, memory, rendering
+  - Has owned complex client-side state in production - not just
+    fetch and render
+  - Solid backend fundamentals: you've designed APIs and
+    relational data models, written migrations, and run
+    server-side code in production (we're Python and Postgres
+    on AWS and GCP)
+  - Comfortable owning a domain end to end, including the
+    production incidents in it
+
+  Nice to Have
+
+  - Canvas or WebGL rendering at scale (Konva, Pixi, Three,
+    custom) - we're on Konva today and evaluating a move
+  - Real-time collaboration and CRDTs (Yjs, Automerge, ShareDB),
+    and the failure modes that come with them
+  - Offline and unreliable-network handling: IndexedDB, local
+    persistence, reconnect and conflict behavior
+  - Backend depth beyond CRUD: Postgres query and schema
+    performance, durable async workflows (we use Temporal), or
+    the server side of a real-time system
+
+  Compensation and Benefits
+
+  - Salary: Competitive base salary
+  - Equity: Meaningful equity package, commensurate with
+    experience
+  - Benefits: Comprehensive medical, dental, and vision coverage
+  - Perks:
+    - agentic tooling budget
+    - lunches provided, dinners provided (after a set time)
+    - great culture and office banter
+
+  This is a salaried, onsite role located in New York City's
+  Flatiron district. We are still a startup! We love working
+  onsite together and believe strongly that this gives us
+  creative problem-solving, and building strong connections.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Analytics
+  - Business Intelligence
+  - Industrial
+  - Generative AI
+posted_date: 2026-09-22
+url: "https://builtin.com/job/software-engineer-product/11314884"
+source: Built In

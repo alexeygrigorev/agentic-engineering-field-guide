@@ -1,0 +1,63 @@
+job_id: 9388650
+title: Engineering Manager - Packet Processing
+company: emnify
+location: Berlin, DEU
+remote: true
+work_type: FULL_TIME
+company_size: 188 Employees
+description: |
+  Your Role
+
+  Are you an experienced engineering leader with a strong
+  technical foundation and an understanding of networking
+  protocols and applications? Do you enjoy leading teams
+  working on complex, performance-sensitive software? At
+  emnify, you will lead a team focused on control plane packet
+  processing, a critical part of our platform that bridges
+  telecom protocols and internet-based systems. This domain is
+  central to how we enable reliable, high-performance
+  connectivity at scale. As part of the Engineering
+  organization, you will take ownership of a team working on
+  one of our most complex and performance-sensitive areas. You
+  will guide both people and technical direction, ensuring the
+  team delivers robust solutions while continuously improving
+  how it operates. The Packet Gateway environment includes: ✓
+  Go for control plane services in a cloud-native architecture
+  ✓ AWS infrastructure, primarily EKS, with supporting managed
+  services ✓ Distributed systems communicating via Kafka and
+  gRPC ✓ Designing solutions based on networking protocols and
+  packet processing concepts
+
+  Your Impact
+
+  - Lead and develop a team of ~6 engineers, driving
+    performance, clarity, and accountability
+  - Provide technical direction for the team's control plane
+    packet-processing systems, working with engineers and
+    adjacent teams to ensure sound design and maintainable
+    solutions
+  - Translate engineering priorities into clear plans, managing
+    delivery, risks, and dependencies
+  - Work closely with adjacent teams to align on architecture,
+    trade-offs, and system evolution
+  - Build a strong team environment through coaching, feedback,
+    and structured development
+
+  What We Expect
+
+  - Demonstrated experience leading engineering teams, including
+    ownership of team performance, delivery, and development
+  - Solid foundation in networking protocols and concepts,
+    particularly TCP/IP
+  - Strong technical foundation through hands-on software
+    engineering in Go or C++, or through substantial
+    software/system architecture experience
+  - Clear and effective communication, with the ability to align
+    stakeholders, guide decisions, and drive execution
+industries:
+  - Cloud
+  - Information Technology
+  - Internet of Things
+posted_date: 2026-07-31
+url: "https://builtin.com/job/engineering-manager-packet-processing/9388650"
+source: Built In

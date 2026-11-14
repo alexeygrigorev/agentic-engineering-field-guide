@@ -1,0 +1,144 @@
+job_id: 11765878
+title: Architect/Staff Embedded Software Engineer
+company: OLIX
+location: London, GBR
+work_type: FULL_TIME
+company_size: 82 Employees
+description: |
+  About OLIX
+
+  AI is growing faster than any technology in history and the
+  explosion in demand has created a massive infrastructure
+  gap; we can no longer build chips or power stations fast
+  enough to keep up. The industry is still leaning on a ten-
+  year-old hardware blueprint that has reached its limit. A
+  new paradigm that is faster and more efficient will be the
+  biggest economic opportunity of the next century and create
+  the most important company of the next decade. The OLIX
+  Decode Accelerator 1 (DX-1) is the first accelerator
+  architected specifically for decode. Rack-scale co-design of
+  logic, data movement, packaging, optics and interconnect
+  enables a step change in system level performance.
+
+  The Role
+
+  As a Staff Embedded Software Engineer, you will be the
+  design authority for a major area of the DX-1 platform
+  firmware, within the overall platform architecture. This is
+  the software that makes a rack of custom silicon bootable,
+  manageable and observable, from pre-silicon simulation and
+  FPGA prototypes through first silicon into production.
+
+  The kind of work you would own: bare-metal and real-time
+  firmware on resource-constrained cores, embedded Linux on
+  the platform processors, the BMC and management plane, and
+  register-level control of the ASIC over its management link.
+  You will report to the Platform Architect who leads the
+  Embedded team and work closely with the FPGA, ASIC and
+  Systems Software teams.
+
+  You bring exceptional depth on both sides of the hardware-
+  software boundary, the judgment to identify what matters
+  most and why, and the ability to influence and align
+  engineering teams without relying on formal authority. It is
+  a hands-on individual-contributor role. We will judge it by
+  what others can build on: specs other teams work to,
+  firmware that is ready when the hardware is, and designs
+  that still hold up a year on.
+
+  Responsibilities
+
+  - Lead a major area of the platform firmware. Boot and update,
+    platform management or register-level control of the ASIC,
+    agreed with you based on your strengths. Own its design,
+    interfaces and roadmap within the platform architecture,
+    and be accountable for it reaching production.
+  - Make the interfaces explicit. Write down the contracts your
+    area depends on and exposes, from register maps to update
+    and telemetry flows, so the teams on either side can build
+    against them.
+  - Support bring-up and validation. When a bring-up or test
+    problem turns out to be in boot, drivers or the management
+    plane, you are the person who gets called. Help the teams
+    running it get to the cause, and write up what you find so
+    nobody has to rediscover it.
+  - Define failure and update behaviour. How a fault in a node,
+    rail or link is contained so it does not take out the
+    rack, what gets logged so we can find the cause, and what
+    happens if a firmware update is interrupted halfway.
+  - Build things the team keeps using. Reference
+    implementations, firmware tests on the infrastructure the
+    validation teams already run, and contributions to the
+    device models.
+  - Pick the problems that matter. Identify the highest-impact
+    technical risks in the platform firmware and at its
+    interfaces to the FPGA and silicon teams, and make sure
+    they get solved.
+  - Develop the senior engineers around you. Review their
+    designs as well as their code, set them up to lead areas
+    of their own, and take an active part in hiring.
+
+  Skills & Experience
+
+  - Depth on both sides of the hardware-software boundary. Bare-
+    metal or RTOS firmware on resource-constrained cores, and
+    embedded Linux BSP work (Yocto/OpenEmbedded, U-Boot or
+    UEFI, drivers, device tree).
+  - Systems fundamentals. Memory ordering and barriers, coherent
+    and non-coherent shared memory, synchronisation with and
+    without atomics, interrupt latency, and timing and memory-
+    bandwidth budgets.
+  - Taken firmware through a silicon or board bring-up, from
+    pre-silicon simulation or emulation and FPGA prototypes to
+    first power-on, and able to walk us through what went
+    wrong and how it was found. More than one generation, or
+    firmware for an ASIC whose tape-out you worked towards, is
+    a significant advantage.
+  - Platform management in a rack-scale context. OpenBMC or
+    equivalent, Redfish, PLDM over MCTP, and the buses
+    underneath (I2C/SMBus/PMBus, SPI, UART), including power
+    sequencing and fault isolation.
+  - Register-level control of an ASIC or large FPGA over a
+    management link, including against a simulation model
+    before silicon exists. Precision timing (IEEE 1588 PTP,
+    SyncE), SerDes or optical link bring-up, or secure boot
+    would all be an advantage.
+  - Technical leadership without formal authority. A
+    specification, methodology, or tool you authored that
+    teams outside your own adopted and still use, and the
+    design document behind it.
+  - Outstanding technical communicator. You can articulate
+    architectural decisions and their consequences clearly to
+    engineers, managers and senior leadership alike, and write
+    design documents that other teams build to.
+
+  Compensation & Equity
+
+  - Competitive Salary: Commensurate with your experience,
+    skills, and location
+  - Equity & Ownership: Meaningful stock options. You’re not
+    just joining the mission; you’re owning a piece of it
+  - Proximity Bonus: We value your time. To minimise your
+    commute and maximise your life, we offer an annual Living-
+    Local Bonus if your residence is within 20 minutes of the
+    office
+  - Retirement Benefits: Employer-contributed retirement plans
+    to help you build long-term financial security.
+
+  Due to U.S. export control regulations, candidates’
+  eligibility to work at OLIX depends on their most recent
+  citizenship or permanent residency status. We are generally
+  unable to consider applicants whose most recent citizenship
+  or permanent residence is in certain restricted countries
+  (currently including Iran, North Korea, Syria, Cuba, Russia,
+  Belarus, China, Hong Kong, Macau, and Venezuela). Applicants
+  who have subsequently obtained citizenship or permanent
+  residency in another country not subject to these
+  restrictions may still be eligible.
+industries:
+  - Artificial Intelligence
+  - Semiconductor
+  - Manufacturing
+posted_date: 2026-10-20
+url: "https://builtin.com/job/architect-staff-embedded-software-engineer/11765878"
+source: Built In

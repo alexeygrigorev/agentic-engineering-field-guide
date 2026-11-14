@@ -1,0 +1,101 @@
+job_id: 9535380
+title: Staff Backend SWE - Billing Platform
+company: Syndesus
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 63 Employees
+description: |
+  Staff Backend Software Engineer — Revenue Cycle Management
+
+  Our VC-backed, Unicorn-level US client is building the next
+  generation of intelligent billing infrastructure for
+  independent healthcare providers — a cloud-native, AI-native
+  platform designed to eliminate the manual complexity of US
+  medical billing and get providers paid faster. This is a
+  greenfield build with real urgency, a talented team, and
+  meaningful skin in the game for everyone involved.
+
+  We're looking for a Staff Backend Software Engineer with
+  deep Java expertise and genuine AI fluency to join
+  theirRevenue Cycle Management team. You'll be a core
+  technical leader on a small, senior team building a new
+  billing system from the ground up — one where AI isn't
+  bolted on after the fact but baked into the architecture
+  from day one.
+
+  What you'll be doing
+
+  - Designing and building the backend services that power a new
+    AI-native billing platform, hosted on GKE and built cloud-
+    native from the ground up
+  - Integrating LLMs, ML models, and external AI services into
+    billing workflows — with proper observability, fallback
+    behaviour, and human review where appropriate
+  - Identifying and implementing practical AI opportunities
+    across the SDLC: summarization, extraction,
+    classification, recommendation, and workflow automation
+  - Partnering closely with a principal frontend engineer and
+    cross-functional teams (product, design, data, operations)
+    to turn complex billing pain points into scalable
+    solutions
+  - Leading code reviews, establishing engineering best
+    practices, and mentoring junior and mid-level engineers
+  - Contributing to technical direction and architecture
+    decisions for a platform with a real end-of-year launch
+    target
+
+  What we're looking for
+
+  - 8+ years of professional software engineering experience
+  - Strong, production-depth Java and Spring Boot — this is
+    their core backend language and a hard requirement
+  - RESTful APIs and microservices architecture at scale
+  - Hands-on React and frontend fluency — you're comfortable
+    owning frontend work, not just aware of it
+  - Cloud platform experience: GCP preferred, AWS or Azure also
+    fine; you understand cloud-native architecture in practice
+  - Containers, Kubernetes, CI/CD pipelines (Jenkins, Harness,
+    Docker) — not just awareness, actual production use
+  - Database depth across relational and NoSQL: MySQL,
+    PostgreSQL, MongoDB, DynamoDB
+  - You use AI tools every day across your full workflow —
+    research, debugging, code generation, deployment. This
+    isn't a nice-to-have; it's how they work and how they
+    expect this person to work
+
+  What will make you stand out
+
+  - Recent TypeScript or Node.js experience alongside your Java
+    background — they're evolving ther stack and that
+    combination is genuinely valuable there
+  - Prior exposure to US healthcare billing, claims processing,
+    or RCM — the domain has a steep learning curve and prior
+    knowledge meaningfully accelerates impact
+  - Experience building production AI-enabled services — agentic
+    workflows, LLM integration, evaluation frameworks, not
+    just using Copilot
+  - Track record of greenfield platform delivery with real
+    deadlines and real stakes
+
+  The role
+
+  Fully remote. You'll report directly to the engineering
+  leader (Sr Director) for this team. This is a high-
+  ownership, high-impact seat on a small team with a tight
+  timeline — the right person will have the technical depth to
+  lead from day one and the mindset to thrive in a build
+  environment.
+
+  Compensation
+
+  The base pay range for this role is CA$180,000 – CA$220,000
+  per year.
+industries:
+  - Artificial Intelligence
+  - HR Tech
+  - Information Technology
+  - Professional Services
+posted_date: 2026-08-12
+url: "https://builtin.com/job/staff-backend-swe-billing-platform/9535380"
+source: Built In

@@ -1,0 +1,173 @@
+job_id: 11955196
+title: Senior Software Engineer, Dermatology Inference
+company: Tono Health
+location: Brooklyn, USA
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  About Tono
+
+  Specialty care is hard to access and even harder to run.
+  Patients often wait months, and clinics rely on fragmented
+  tools and manual workflows.
+
+  Tono builds software and operations together to make
+  specialty care faster to access and easier to deliver,
+  starting with dermatology.
+
+  We’re building a fully autonomous specialty medicine clinic:
+  continuous, real-time care for patients anywhere.
+
+  What makes us different is how we build. We run two clinics
+  of our own, a national telehealth practice and an in-person
+  clinic in DUMBO, Brooklyn. Our engineers work side by side
+  with our doctors and care coordinators to build (mostly)
+  every piece of the software from scratch. The long-term goal
+  is for specialty clinics across the country to run on our
+  autonomous EHR, freeing them from the administrative burden
+  that slows care down.
+
+  Today we see patients in 33 states, covering more than 80%
+  of the US population.
+
+  You will work closely with the co-founders and a team of
+  engineers and physicians (backgrounds include Amazon, Apple,
+  and leading academic medical centers). We are backed by
+  Village Global (backed by Mark Zuckerberg, Jeff Bezos,
+  Michael Dell, chaired by Reid Hoffman), HOF Capital, and
+  Oncology Ventures.
+
+  What You'll Do
+
+  Build the specialized models that help our dermatologists
+  see more, catch change earlier and decide faster. You'll own
+  the full path from research idea to production model:
+  developing, training, evaluating and deploying models for
+  dermatology, including image-based diagnosis support and
+  longitudinal lesion detection and tracking across a
+  patient's visits over time. You'll work side by side with
+  our physicians to define what a useful, trustworthy result
+  looks like, and with the engineers who build our EHR and
+  patient portal to get it in front of doctors.
+
+  On any given week you might be:
+
+  - Training and fine-tuning vision and multimodal models
+    (including LoRA and other adaptation methods) on
+    dermatology images, and deciding when to build custom
+    versus adapt an open source model
+  - Building longitudinal pipelines that align and compare
+    lesions across photos taken weeks or months apart,
+    handling differences in lighting, angle, camera and skin
+    tone
+  - Building labeled datasets and annotation workflows with
+    clinicians, and using them to evaluate models honestly
+  - Standing up inference services: model serving, batching,
+    latency and cost
+  - Adding confidence scoring, uncertainty estimation and human-
+    in-the-loop review so doctors are never asked to trust a
+    black box
+  - Monitoring models in production for drift, image quality
+    problems and failure cases, with performance broken out
+    across skin tones and patient groups
+  - Integrating results into our TypeScript product (tRPC,
+    Prisma, Postgres) so output fits naturally into the
+    doctor's workflow
+
+  Patients and doctors deserve better than a demo. We ship in
+  a regulated environment with careful reviews, feature flags
+  and safe rollouts.
+
+  How We Work
+
+  - We ship quickly, with discipline: small PRs, clear
+    ownership, and tight feedback loops.
+  - Small team, broad scope. Engineers regularly work across
+    frontend, backend, data, and infrastructure.
+  - We ship with confidence in a regulated environment: feature
+    flags, careful reviews, and safe migrations (including
+    backfills). We use AI all the time but we do not vibe code
+    our way into debt. Patients and doctors deserve better.
+  - We invest in maintainability. Dependency upgrades,
+    performance work, and removing dead code are part of the
+    roadmap.
+  - Observability is built-in. Logs, metrics, alerting, and
+    error monitoring are part of the job.
+  - We value builders. Curiosity, good taste, and a willingness
+    to pick up whatever the system needs goes a long way.
+
+  Stack
+
+  Frontend: Next.js, TanStack Start, React
+
+  Backend: Fastify, tRPC, Prisma, PostgreSQL
+
+  Durable Workflows: Inngest
+
+  AI: Mastra, OpenAI, Anthropic, Vertex
+
+  Infra: Cloudflare, Turborepo, Doppler, AWS, GCP
+
+  Observability: Posthog
+
+  Data: Motherduck/DuckDB, dbt, dlt, Prefect, BigQuery
+
+  What We're Looking For
+
+  - 5+ years of software engineering experience, including
+    training and shipping ML or computer vision models into
+    production
+  - Strong Python and deep learning experience (PyTorch or
+    similar), with hands-on work in computer vision such as
+    classification, detection, segmentation or image
+    registration
+  - Experience with fine-tuning and adaptation methods (LoRA,
+    transfer learning) on vision or multimodal models
+  - A rigorous approach to evaluation: clinically meaningful
+    metrics, calibration, held-out and external validation
+    sets, and an awareness of bias and failure across skin
+    tones and imaging conditions
+  - Experience building and serving models in production: GPU
+    workloads, inference performance, cost and monitoring
+  - Experience building datasets and labeling workflows with
+    domain experts
+  - Comfort with relational databases, data pipelines (we use
+    tools like dbt, DuckDB and BigQuery), and shipping
+    iteratively with feature flags and instrumentation
+  - Comfort working in a TypeScript product codebase, or
+    eagerness to learn it
+  - Care about patient safety, privacy and reliability, and take
+    pride in your craft
+  - Nice to have: dermatology or medical imaging experience,
+    longitudinal or change-detection models, published
+    research or open source work in vision, regulated
+    environments (HIPAA, FDA SaMD), startups, or experience
+    working directly with clinicians
+
+  Compensation & Benefits
+
+  Salary: 180k - 325k commensurate with experience
+
+  Equity: Meaningful equity in a high-growth, venture-backed
+  company
+
+  Medical: Medical, dental, and vision coverage
+
+  Growth: Direct access to founders and an agile team where
+  your impact is highly visible. We do weekly demos with
+  leadership
+
+  PTO: Unlimited PTO to recharge when you need it
+
+  Location
+
+  ﻿New York City preferred. We are hybrid and currently spend
+  a few days per week in our DUMBO, Brooklyn office. We will
+  consider fully remote for the right candidate.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Telehealth
+posted_date: 2026-10-29
+url: "https://builtin.com/job/senior-software-engineer-dermatology-inference/11955196"
+source: Built In

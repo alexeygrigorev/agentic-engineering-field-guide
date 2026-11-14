@@ -1,0 +1,150 @@
+job_id: 9987022
+title: Engineering Manager - Core Infra
+company: Cinder
+location: New York, USA
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  About Cinder
+
+  Cinder is the mission-critical infrastructure that keeps the
+  world's most important digital platforms true to what they
+  stand for. The internet has always been abused by bad
+  actors, and AI is making it exponentially worse, driving
+  fraud, abuse, and manipulation at a scale and speed no human
+  team can fight alone. Cinder gives platforms one command
+  center to fight back: to write and enforce policy, deploy AI
+  agents against abuse in real time, investigate threats, file
+  NCMEC reports, and prove their safety programs are working.
+
+  Our customers are some of the largest internet platforms in
+  the world. The decisions made in our software directly
+  determine what stays up, what comes down, and how users are
+  treated.
+
+  We're a small, fast-moving team backed by Accel and Y
+  Combinator. We care about being intentional, direct, and
+  deeply focused on solving real customer problems.
+
+  Why this role
+
+  Cinder’s Core Infrastructure team builds the platform and
+  infrastructure that judges the safety of much of the user-
+  generated content on the internet. This journey requires
+  extreme focus and ruthless prioritization. As Cinder has
+  grown, Core Infra has become responsible for the critical
+  pieces that underpin workstreams across the product, without
+  a dedicated leader to organize that work. We have a small,
+  senior team doing high-leverage work, and we need a capable
+  people manager to ensure that effort is aimed at the right
+  things, coordinated cleanly with the rest of the company,
+  and never wasted on collisions or unclear ownership.
+
+  This is a people and coordination role at its core. Your job
+  is to take a group of strong, self-directed engineers and
+  make sure they're working on the most important things, that
+  those priorities are clear, and that the rest of the company
+  knows how to work with the team. You'll need enough
+  technical depth to earn the respect of senior engineers and
+  hold your own in architecture discussions; the team is
+  strong enough to largely run its own execution. You'll
+  report to our Head of Engineering and have real influence on
+  how we build out engineering leadership as the org scales.
+
+  What you'll work on
+
+  You'll own the health, direction, and delivery of the Core
+  Infra team. The team owns the systems the rest of
+  engineering builds on, including the graph service, CI/CD,
+  and core developer tooling. It's a small team that leans
+  senior, and its work is a genuine competitive advantage for
+  Cinder. In practice that means:
+
+  - Setting clear priorities and a roadmap your team
+    understands. Engineers should know what they're working
+    on, why it matters to the business, and what we're
+    choosing not to do. You'll bring the business context
+    behind the work and translate it into focused execution.
+  - Owning the interface between Core Infra and the rest of the
+    company. You'll be the clear point of contact for other
+    teams, run the intake process for work coming into Core
+    Infra, and make sure requests are triaged, routed, and
+    prioritized transparently rather than landing through
+    back-channels. You’ll be the default liaison to GTM, FDE,
+    CX and other cross-functional partners, and pick up
+    technical work alongside your team when it helps, without
+    becoming a blocker.
+  - Raising the bar on team-level execution. All Engineering
+    Managers at Cinder are focused on advancing both velocity
+    and quality. You will implement the right level of process
+    to keep a growing team moving fast while remaining
+    responsive to needs of the broader engineering
+    organization. We want to deliver robust features with
+    clear ownership and vision - the kind of feature all of us
+    love to see when we’re oncall.
+  - Coaching and developing engineers. You’ll set clear
+    expectations against role and provide direct, constructive
+    feedback promptly and empathetically. People should always
+    know how they're progressing and where they need to grow.
+  - Driving operational rigor proactively. Helping define
+    SLIs/SLOs for your team's systems and getting ahead of
+    reliability and tech-debt problems to get ahead of
+    incidents.
+
+  This role is about organizing and leading a senior team and
+  owning its priorities and coordination, not about being its
+  lead architect or top individual contributor. The team owns
+  its technical execution; you own making sure it's aimed
+  correctly and running smoothly.
+
+  What we're looking for
+
+  - 8+ years building production software with at least 4 years
+    in a startup environment, managing platform engineers
+    directly. You've owned a team's delivery, not just your
+    own, and you've grown ICs into stronger engineers.
+  - Deep familiarity with high-throughput, data-intensive
+    systems, workflow/automation engines, or AI-powered
+    platforms in production, with experience managing full
+    stack engineers
+  - A track record of driving a high-performing team: clear
+    priorities and sufficient process to drive both velocity
+    and quality, grounded in metrics.
+  - Technical credibility with a senior team. You can lead
+    architecture and trade-off discussions, review work, and
+    earn the respect of staff-level engineers. We use AI
+    tooling extensively and expect you to be fluent and
+    opinionated about how it changes the way teams build.
+  - Experience setting roadmaps and priorities in an ambiguous,
+    fast-moving environment, and the judgment to decide what
+    to deprioritize.
+  - A real point of view on what high-performing engineering
+    teams look like and how to measure them, with experience
+    driving reliability, quality, or operational metrics..
+  - You give direct, constructive feedback as a matter of
+    course, and you deliver it in a way people can act on.
+  - Clear written communication. While our company is
+    concentrated in our NYC headquarters, this team is
+    distributed across London and the east coast of the US.
+    You write clearly in PRs, Slack, planning docs, and cross-
+    functional updates.
+
+  Nice to have
+
+  - Experience in Trust & Safety or abuse prevention.
+    Understanding how attackers exploit platforms gives you a
+    head start.
+  - Experience operating at the Product ↔ Engineering boundary,
+    or in a customer-facing engineering capacity.
+
+  Location & Benefits
+
+  We're based in NYC and would relocate the right person for
+  this role. We believe in working together in person and hold
+  at least two all-company events per year. We offer health,
+  vision & dental benefits, a 401(k) plan with employer
+  matching, fully paid commuter benefits, and a fully stocked
+  office with paid lunch and dinner.
+posted_date: 2026-08-20
+url: "https://builtin.com/job/engineering-manager-core-infra/9987022"
+source: Built In

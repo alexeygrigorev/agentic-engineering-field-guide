@@ -1,0 +1,55 @@
+job_id: 11873147
+title: Contract Staff Software Engineer - (Firefox) C++,Storage Encryption
+company: Mozilla
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 1,485 Employees
+description: |
+  The role
+
+  You will help the Firefox DOM LWS team to implement tasks
+  for Storage Encryption everywhere, helping to drive the in-
+  progress project through to completion .
+
+  Responsibilities
+
+  - Contributing to delivering Storage Encryption Everywhere in
+    Gecko, which may include tasks such as migrating data
+    between schemas, implementing data storage in PBM and
+    integration testing.
+  - Write and pass Web Platform Tests, and add Gecko tests as
+    needed.
+  - Work through code review with the relevant Gecko module
+    owners and iterate to landing.
+  - Surface and help resolve any specification questions the
+    implementation raises.
+  - Shepherd the feature through Nightly, Beta, and Release. Fix
+    correctness, performance issues and regressions.
+
+  Definition of done
+
+  Ship Storage Encryption Everywhere to release channel. Fix
+  triaged and prioritized issues.
+
+  Required qualifications
+
+  - Strong C++.
+  - Substantial experience in a browser-engine codebase, ideally
+    Firefox/Gecko.
+  - Substantial experience in databases.
+  - Familiarity with web standards and Web Platform Tests.
+  - Strong debugging and optimization in a multithreaded
+    codebase.
+  - Comfort working in the open: public bugs, code review, and
+    upstream landing.
+
+  Preferred
+
+  - Prior contributions to Gecko or another major browser
+    engine.
+  - Familiarity with the relevant standards body and
+    specification process.
+posted_date: 2026-10-26
+url: "https://builtin.com/job/contract-staff-software-engineer-firefox-c-storage-encryption/11873147"
+source: Built In

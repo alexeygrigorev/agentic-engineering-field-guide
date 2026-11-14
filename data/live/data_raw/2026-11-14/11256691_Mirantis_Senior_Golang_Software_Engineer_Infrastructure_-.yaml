@@ -1,0 +1,141 @@
+job_id: 11256691
+title: Senior Golang Software Engineer, Infrastructure - remote in the US
+company: Mirantis
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 729 Employees
+description: |
+  Company Description
+
+  Mirantis is the Kubernetes-native AI infrastructure company,
+  enabling organizations to build and operate scalable,
+  secure, and sovereign infrastructure for modern AI, machine
+  learning, and data-intensive applications. By combining open
+  source innovation with deep expertise in Kubernetes
+  orchestration, Mirantis empowers platform engineering teams
+  to deliver composable, production-ready developer platforms
+  across any environment—on-premises, in the cloud, at the
+  edge, or in sovereign data centers. As enterprises navigate
+  the growing complexity of AI-driven workloads, Mirantis
+  delivers the automation, GPU orchestration, and policy-
+  driven control needed to manage infrastructure with
+  confidence and agility. Committed to open standards and
+  freedom from lock-in, Mirantis ensures that customers retain
+  full control of their infrastructure strategy.
+
+  Job Description
+
+  We are looking for an experienced Software Engineer,
+  Infrastructure to design and implement the Infrastructure
+  Services that power our GPU-as-a-Service platform. You will
+  build the control plane that turns high-level API calls into
+  real infrastructure actions — enrolling bare-metal servers,
+  provisioning them, and assembling them into multi-tenant
+  Kubernetes clusters on high-performance hardware.
+
+  You will own the full lifecycle of the infrastructure-level
+  services—from the Server and MachineType APIs down to the
+  provisioning workflows and reconciliation loops that keep
+  the platform's view of hardware consistent with physical
+  reality.
+
+
+  Key Responsibilities
+
+  • Infrastructure API Design: Design, build, and maintain the
+  versioned REST and gRPC APIs for bare-metal server
+  lifecycle, MachineType definitions, and cluster CRUD
+  operations.
+
+  • Provisioning & Workflow Development: Develop the
+  asynchronous workflows that drive server enrollment,
+  inspection, OS provisioning, and cluster bring-up, exposing
+  durable status to callers.
+
+  • Implementation: Implement and maintain the consoles and
+  interfaces that visualize hardware inventory, provisioning
+  progress, and cluster health.
+
+  • System Reliability: Design the error-handling models,
+  idempotency guarantees, and reconciliation loops necessary
+  to manage long-running provisioning operations reliably.
+
+  Qualifications
+
+  • API Development: Strong experience designing RESTful APIs
+  or gRPC services. You understand API versioning and gateway
+  patterns.
+
+  • Proficiency in Go (preferred for backend/Kubernetes
+  ecosystem)
+
+  • Kubernetes Knowledge: Deep understanding of Kubernetes
+  primitives and controller/reconciler patterns. You will be
+  interacting with systems like k0rdent, Metal3, and Cluster
+  API to translate high-level API calls into infrastructure
+  actions.
+
+  • Bare-Metal Provisioning: Hands-on experience with bare-
+  metal provisioning flows — BMC/Redfish, PXE/iPXE, image
+  management, and hardware inspection.
+
+  • Asynchronous Systems: Experience building workflow-driven
+  or event-driven systems (e.g., Temporal) where operations
+  are long-running and state must remain consistent across
+  retries and failures.
+
+
+  Preferred Qualifications
+
+  • State Reconciliation: Experience building informers or
+  reconciliation bridges that keep an external datastore
+  consistent with Kubernetes resource state.
+
+  • Multi-Tenancy: Experience building platforms where strict
+  data and network isolation between tenants is required.
+
+  • Infrastructure-as-Code: Familiarity with
+  Terraform/OpenTofu and GitOps-driven configuration (ArgoCD
+  or Flux).
+
+  • Hardware Domain: Familiarity with GPU server hardware,
+  DPUs/NICs, and high-performance datacenter fabrics.
+
+  Additional Information
+
+  What does Mirantis offer you?
+
+  - Work with an established Silicon Valley leader in the cloud
+    infrastructure industry;
+  - Work with exceptionally passionate, talented and engaging
+    colleagues, helping Fortune 500 and Global 2000 customers
+    implement next-generation cloud technologies;
+  - Be a part of cutting-edge, open-source innovation;
+  - Thrive in the high-energy environment of a young company
+    where openness, collaboration, risk-taking, and continuous
+    growth are valued;
+  - Professional development and training;
+  - Attend conferences and working groups;
+  - Company outings, happy hours, hackathons, and tech talks;
+  - Receive a competitive compensation package with a strong
+    benefits plan.
+
+  It is understood that Mirantis, Inc. may use automated
+  decision-making technology (ADMT) for specific employment-
+  related decisions. Opting out of ADMT use is requested for
+  decisions about evaluation and review connected with the
+  specific employment decision for the position applied for.
+  You also have the right to appeal any decisions made by ADMT
+  by sending your request to isamoylova@mirantis.com
+
+  By submitting your resume, you consent to the processing and
+  storage of your personal data in accordance with applicable
+  data protection laws, for the purposes of considering your
+  application for current and future job opportunities.
+
+  We are a Leader for Container Management in G2 (#2 after
+  AWS)!
+posted_date: 2026-09-18
+url: "https://builtin.com/job/senior-golang-software-engineer-infrastructure-remote-us/11256691"
+source: Built In

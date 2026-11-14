@@ -1,0 +1,212 @@
+job_id: 11458625
+title: Senior Manager, Analytics Engineering
+company: Carrum Health
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  At Carrum Health, we have built a unique marketplace for
+  specialty care with unparalleled patient experience
+
+  Since 2014, we have been rewiring a fundamentally broken
+  healthcare system. By connecting large employers directly
+  with the nation's top-tier providers, our platform replaces
+  a flawed fee-for-service model with one that actually works.
+  If you are passionate about solving complex economic
+  problems, driving systemic change in our healthcare system,
+  and thriving in a people-first culture, we want you on our
+  team. As a high-growth health tech company, we are seeking
+  high-performing, exceptional talent to scale our platform
+  and ensure that anyone in the country facing a specialty
+  procedure has access to the life-changing Carrum benefit.
+
+  Our marketplace creates massive value for all stakeholders:
+
+  - For Employers (Demand): Predictable, transparent pricing
+    that slashes specialty care costs by up to 45% and
+    eliminates waste
+  - For Providers (Supply): Ability to gain market share while
+    reducing administrative burden, empowering top-tier
+    doctors to focus completely on delivering optimal care.
+  - For Members (Users): A life-changing benefit with dedicated
+    concierges, VIP access to the nation's best specialists,
+    and little-to-no out-of-pocket costs.
+
+  The salary range for this role is $195,000 - $225,000
+  depending on geography and level of experience, plus equity
+  and an annual bonus.
+
+  We are looking for a Senior Manager, Analytics Engineering
+  to help us turn the data that runs our business into a
+  platform anyone at Carrum can trust and use. The Senior
+  Manager will play a critical role in our success.
+
+  Reporting to the Director of AI & Analytics Engineering, you
+  will own our dbt data mart, the semantic layer on top of it,
+  and the client-facing exports the business runs on. You'll
+  be responsible for the standard of that work and the growth
+  of the team producing it — and for the modeling, metadata
+  and guardrails that let anyone at Carrum get a trustworthy
+  answer without writing SQL.
+
+  You’re excited about this opportunity because you will...
+
+  - Own data the business depends on: Take accountability for
+    client exports, the dbt data mart, and the semantic layer
+    above them, where reliability is a commercial outcome
+    rather than a hygiene metric.
+  - Lead and build the team: Coach and develop analytics
+    engineers, shape how the team works, and hire as we grow.
+  - Set the standard for the craft: Define what "done" means at
+    Carrum — grain definitions, testing, freshness checks,
+    documentation and ownership metadata — then review against
+    it and hold the line.
+  - Make reliability a discipline: Build the monitoring, testing
+    and ownership model that lets the team catch issues before
+    stakeholders do — and design systems that stay dependable
+    as the team and the business scale.
+  - Make AI self-service real: Treat Hex as a product, not a
+    tool. Build the semantic layer, guardrails and PHI
+    controls that let anyone at Carrum query the warehouse in
+    natural language and trust the answer.
+  - Modernize the stack: Support the Databricks migration to
+    completion — setting direction and clearing obstacles
+    without taking the design away from the engineer leading
+    it.
+  - Be the front door: Translate ambiguous requests from
+    Finance, Client Success and Operations into scoped work,
+    and push back when the ask isn't the real need.
+
+  We’re excited about you because…
+
+  - You lead analytics engineers and still write code: 8-10
+    years in analytics engineering or a closely related data
+    role, with 2+ years managing. You review PRs, you unblock
+    by doing, and you know when to stop doing.
+  - You've mastered dbt: Advanced hands-on experience, with
+    defensible opinions on project structure, testing,
+    documentation and modularity, and a track record of
+    building team practice around them.
+  - You set standards and enforce them kindly: You've raised a
+    team's bar through code review, process and clear
+    expectations rather than through heroics or rewrites.
+  - You've owned an operational data surface: Something where
+    late or wrong data had consequences outside your team, and
+    you built the monitoring and process that made it
+    dependable.
+  - You care about the semantic layer: You've owned a BI tool
+    like Hex as a product, thinking about semantic layer
+    health and cross-team model standards, and you're thinking
+    hard about how AI agents query data accurately without
+    bypassing governance.
+  - You've worked at scale in the cloud: Deep experience with
+    cloud data warehousing (Azure,  Athena, Snowflake,
+    Databricks, etc.) and cost minimization. Databricks and
+    platform migration experience are a strong plus.
+  - You thrive in ambiguity: You're comfortable with a startup's
+    pace, proactively seeking out high-value problems before
+    they're on anyone's roadmap rather than waiting to be told
+    what to do.
+  - Bonus: you know healthcare: Knowledge of the healthcare tech
+    industry and/or medical/pharmacy claims is a strong plus.
+
+  Why you’ll love working with us...
+
+  - We’re a hard-working, humble, and compassionate group
+    motivated to solve the hard problems in healthcare today.
+    You’ll work with talented, experienced co-workers from
+    companies like Booz & Company, Teladoc, Hinge Health,
+    Accolade, Angi, and Optum.
+  - We champion a collaborative environment where team members
+    can be autonomous, receive support and healthy feedback,
+    and bring their authentic selves to work.
+  - We carve out time to celebrate our successes and have fun.
+    We’re a remote-first company with employees all over the
+    United States. We offer holistic employee support with
+    flexible working hours, generous time off, paid parental
+    leave, opportunities to connect virtually and in-person,
+    and more.
+  - We embrace our team’s diversity of thought, experience, and
+    interests and know that doing so makes us stronger as a
+    company. Carrum has an active employee-led Diversity,
+    Equity, Inclusion, and Justice (DEIJ) committee alongside
+    several employee resource groups (ERGs) that support
+    parents, women, and various underrepresented groups.
+  - You’ll feel proud that the work you do each day directly
+    impacts people’s lives in big and meaningful ways.
+  - Carrum is remote-first, but we believe the best work often
+    happens in person. This role may include occasional travel
+    for team offsites, client events, or company gatherings.
+
+  Other benefits:
+
+  - Stock option plan and performance bonus for eligible
+    employees
+  - Flexible schedules and remote work
+  - Chicago and San Francisco offices available as an option
+  - Flexible PTO, within reason
+  - Summer Fridays (sign off @ 1pm local time)
+  - 15+ paid holidays, including Juneteenth, World Mental Health
+    Day, and Carrum Health Day
+  - Annual holiday shutdown in December
+  - Paid parental leave
+  - Health, vision, and dental insurance
+  - Employee Assistance Programs (EAP)
+  - 401K retirement plan
+
+  About Carrum
+
+  Carrum Health’s mission is to change how we pay for and
+  deliver specialty care. We offer self-insured employers and
+  plan sponsors a value-based specialty care platform that
+  connects their members with a rigorously vetted network of
+  specialty care providers. Carrum’s transparent, all-
+  inclusive bundled pricing, award-winning technology, and
+  dedicated care navigation team help lower costs for both
+  members and employers while delivering a superior member
+  experience. Carrum is independently validated to reduce
+  unnecessary procedures by as much as 30%, lower readmissions
+  by 80%, and save employers up to 45% per episode of surgical
+  care. Learn more at carrumhealth.com.
+
+  Since launching in 2014, we’ve partnered with top-quality
+  providers across the nation including Cleveland Clinic,
+  Johns Hopkins, Mayo Clinic, Stanford Health Care, and a
+  growing network of 1,400+ COEs. We serve hundreds of self-
+  insured employers including Fortune 50 companies, such as
+  United Airlines, US Foods, and Prudential, and public sector
+  clients such as the States of Maine, Nevada, Tennessee, and
+  Self-Insured Schools of California.
+
+  The impact of our platform has been validated by a landmark
+  RAND Corporation study, honored with prestigious awards from
+  institutions like Harvard Business School & Harvard Medical
+  School, and featured as a Harvard Business School case
+  study.
+
+  As a recognized digital health leader, Carrum is frequently
+  covered by national media, including Bloomberg, Fast
+  Company, Fierce Healthcare, Fortune, Los Angeles Times,
+  Reuters, TechCrunch, and U.S News & World Report. Backed by
+  $96M from top-tier investors including OMERS, Tiger Global
+  Management, Revelation Partners and Wildcat Ventures, we’re
+  only scratching the surface of our opportunity. Come join
+  us.
+
+  Carrum Health is an equal opportunity employer and
+  encourages all applicants from every background and life
+  experience.
+
+  A Note on Recruitment Safety: To protect yourself against
+  recruitment fraud, please note that Carrum Health will only
+  communicate via an @carrumhealth.com email address. We do
+  not conduct interviews via text or messaging apps, nor do we
+  ever request financial information or fees during the hiring
+  process. All authentic job openings are posted at
+  carrumhealth.com/careers. If you are unsure about the
+  legitimacy of a communication, please verify it via
+  talent@carrumhealth.com.
+posted_date: 2026-10-01
+url: "https://builtin.com/job/senior-manager-analytics-engineering/11458625"
+source: Built In

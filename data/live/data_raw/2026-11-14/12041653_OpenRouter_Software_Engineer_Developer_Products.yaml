@@ -1,0 +1,92 @@
+job_id: 12041653
+title: Software Engineer, Developer Products
+company: OpenRouter
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 8 Employees
+description: |
+  About OpenRouter
+
+  OpenRouter is the leading AI routing and infrastructure
+  layer that enterprises use to access, manage, and optimize
+  the best large language models across providers—without
+  lock-in, capacity constraints, or unnecessary cost. We power
+  the most advanced AI teams in the world by giving them the
+  flexibility to move fast, scale confidently, and stay
+  future-proof as models evolve.
+
+  As enterprise adoption of AI accelerates, OpenRouter sits at
+  the center of how organizations operationalize LLMs across
+  research, product, and production workloads.
+
+  About the Role
+
+  We're hiring a Software Engineer on our Developer Products
+  team to build the surfaces external developers use to
+  integrate with OpenRouter — our API, SDKs, docs, CLI, and
+  other tools. Today, this work is owned by a small group, and
+  the developer ecosystem around OpenRouter is growing
+  quickly. Your work will also shape how agents interact with
+  our platform and integrations.
+
+  This role is ideal for engineers who love autonomy, value
+  collaboration, and have a track record of shipping software
+  that works. You’ll play a critical role in shaping our
+  product as we scale, helping expand our platform’s features,
+  and delivering exceptional experiences for our users.
+
+  What You'll Do
+
+  - Own and evolve our public REST API and the developer
+    experience around it — from API design and ergonomics to
+    versioning, errors, and rate-limiting behavior.
+  - Build and maintain our client SDKs across TypeScript and
+    Python, and lead the launches of our upcoming SDKs.
+  - Ship our Agent SDK, expanding it into a surface for multi-
+    step, agentic workloads built on OpenRouter.
+  - Treat documentation, examples, and starter repos as products
+    — instrument what developers and AI coding agents land on
+    first, and make sure those are strong entry points to
+    OpenRouter.
+  - Make every developer-facing surface agent-friendly, given
+    that AI coding agents are users of our APIs and SDKs.
+  - Collaborate with our DevRel, Product, and Platform teams to
+    identify gaps in the developer ecosystem and run with them
+    end to end.
+
+  About You
+
+  - 5+ years building external-facing developer products — APIs,
+    SDKs, or developer platforms widely used by engineers.
+  - Strong API and SDK design instincts; you've shipped
+    libraries that developers integrate with and you have
+    opinions about what makes them good.
+  - Strong TypeScript skills; we're a TypeScript shop and
+    TypeScript is widely used across the AI ecosystem.
+  - AI-forward in your own workflow and interested in what
+    agentic systems can do.
+  - High agency and a bias toward action — you spot something
+    missing in the developer ecosystem and ship it without
+    waiting for a ticket.
+  - Comfortable owning a product line at a small company where
+    boundaries between teams are fluid.
+  - Strong written communication; docs, changelogs, and SDK
+    reference material are part of the job.
+  - Pragmatic about tradeoffs between speed and simplicity.
+
+  Nice to Haves
+
+  - Prior experience at developer-centric companies
+  - Hands-on experience designing or maintaining agent SDKs or
+    other agentic developer tooling.
+  - Existing user of OpenRouter, contributions to open-source
+    projects, or side projects in the AI tooling space.
+
+  If you don’t think you meet all of the criteria below but
+  still are interested in the job, please apply. Nobody checks
+  every box, and we’re looking for someone who is excited to
+  join the team.
+posted_date: 2026-11-03
+url: "https://builtin.com/job/software-engineer-developer-products/12041653"
+source: Built In

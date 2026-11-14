@@ -1,0 +1,106 @@
+job_id: 9152057
+title: Staff Software Engineer
+company: Hayden AI
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 150 Employees
+description: |
+  About Us
+
+  At Hayden AI, we are on a mission to harness the power of
+  computer vision to transform the way transit systems and
+  other government agencies address real-world challenges.
+
+  From bus lane and bus stop enforcement to transportation
+  optimization technologies and beyond, our innovative mobile
+  perception system empowers our clients to accelerate
+  transit, enhance street safety, and drive toward a
+  sustainable future.
+
+  What the job involves As a Staff Software Engineer on the
+  Perception team, you will be a key technical leader,
+  defining and driving the long-term vision and architecture
+  for our perception systems in forthcoming pilots, directly
+  influencing Hayden’s mission and roadmap for business
+  expansion.
+
+  This role requires deep expertise in computer vision and/or
+  robotics algorithms that are deployed on the edge/cloud. You
+  will be responsible for setting the technical direction and
+  standards for the team, architecting complex, scalable, and
+  robust end-to-end perception and robotics systems for
+  deployment on real-world hardware, and ensuring their
+  successful integration into Hayden’s core product platform.
+
+  This is a C++ software engineering position demanding both
+  hands-on technical mastery and significant architectural and
+  systems leadership. You will operate with complete technical
+  ownership over major system components, mentoring junior and
+  senior engineers, driving complex cross-functional
+  initiatives, and making critical trade-off decisions that
+  balance bleeding-edge innovation, system reliability,
+  performance, and long-term maintainability across the entire
+  Perception stack.
+
+  Responsibilities:
+
+  - Spearhead the architectural design, implementation, and
+    long-term ownership of next-generation perception systems,
+    ensuring seamless transition from research prototypes to
+    robust, scalable production solutions.
+  - Champion best practices in software development, delivering
+    high-performance, meticulously tested, and maintainable
+    C++ code optimized for heterogeneous edge and robotics
+    computing platforms.
+  - Architect and optimize high-throughput, real-time perception
+    pipelines, setting the technical direction for advanced
+    techniques in object detection, tracking, and
+    sophisticated sensor fusion
+  - Drive the strategic selection, adaptation, and integration
+    of state-of-the-art Machine Learning (ML) and Computer
+    Vision (CV) models, including the development of novel,
+    proprietary models tailored to complex, large-scale
+    Hayden-specific problems.
+  - Provide technical leadership in highly ambiguous and complex
+    problem domains, defining the technical roadmap and
+    consistently striking the optimal balance between rapid
+    iteration for R&D and the rigorous requirements for
+    productization and scale.
+  - Act as a key technical liaison, collaborating strategically
+    with Product leadership and setting technical standards
+    across cross-functional Engineering organizations.
+  - Define and significantly contribute to foundational shared
+    infrastructure, tooling, and architectural patterns,
+    scaling pilot initiatives into core, mission-critical
+    product capabilities.
+
+  Required Qualifications:
+
+  - Advanced degree (MS or PhD) in Computer Science, Electrical
+    Engineering, Robotics, or a related field.
+  - 10+ years of relevant experience in building and deploying
+    perception systems; experience in automotive or robotics
+    domains is a plus.
+  - Deep expertise in one or more of: robotics, state
+    estimation, computer vision, or applied machine learning.
+  - Extensive experience leading large, complex, production-
+    grade systems end-to-end.
+  - Expert-level proficiency in modern C++, including experience
+    with real-time and/or embedded systems.
+  - Proven track record of technical leadership and
+    architectural ownership across multiple projects or teams.
+  - Experience scaling systems from prototype to production in
+    ambiguous, fast-moving environments.
+  - Strong ability to influence without authority and drive
+    alignment across teams.
+  - Demonstrated mentorship and ability to raise the bar for
+    engineering quality across an organization.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-08-12
+url: "https://builtin.com/job/staff-software-engineer/9152057"
+source: Built In

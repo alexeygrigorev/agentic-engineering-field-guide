@@ -1,0 +1,67 @@
+job_id: 10901336
+title: Senior Software Engineer
+company: Hayfin Capital Management
+location: London, GBR
+work_type: FULL_TIME
+company_size: 278 Employees
+description: |
+  We are hiring a Full-Stack Engineer to help build the
+  analytics workbench applications that supports analysis and
+  decision-making across our business.
+
+  Hayfin is a global alternative asset manager with deep
+  expertise in credit and a broad alternatives platform,
+  partnering with institutional investors worldwide. Reporting
+  directly to the Director of Portfolio Analytics, you will
+  take ownership of our growing in-house analytics workbench -
+  working across the full stack, shaping how the business uses
+  data, and coordinating with a small offshore vendor team to
+  keep delivery on track. It's a hands-on role for someone
+  with a strong track record shipping enterprise software, who
+  wants to bring that experience to a small, fast-moving team
+  that's actively rethinking how it builds, using AI as part
+  of the day-to-day workflow.
+
+  What you'll do
+
+  - Build and maintain the analytics workflow app, using Angular
+    on the front end and Python (FastAPI) on the back end,
+    writing clean, well-tested code that's easy to support and
+    extend.
+  - Build data pipelines and models using pandas and NumPy,
+    working with Snowflake and Azure to store and serve data
+    reliably and securely.
+  - Coordinate an offshore vendor team: setting priorities,
+    assigning work, reviewing output, and tracking hours and
+    spend.
+  - Use AI coding assistants as part of daily development work,
+    and look for ways to improve how the team builds, tests,
+    and ships software.
+  - Work directly with the Director of Portfolio Analytics and
+    business stakeholders, turning requirements into working
+    software and explaining technical choices in plain
+    language.
+
+  Requirements
+
+  - 8+ years building and managing enterprise-grade software,
+    including experience working across offshore/onshore
+    vendor teams.
+  - 8+ years with Python, including pandas and NumPy; 5+ years
+    building APIs with FastAPI; 5+ years with Angular and UI
+    libraries such as Material or Bootstrap.
+  - Experience hosting and managing applications on Azure, and
+    building solutions on Snowflake.
+  - Hands-on, day-to-day experience using AI coding assistants
+    as part of a development workflow.
+  - A clear communicator, comfortable working directly with non-
+    technical stakeholders.
+  - Financial services experience (asset management, banking, or
+    fintech) is a plus, as is experience in a small, fast-
+    moving analytics or engineering team.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-08-28
+url: "https://builtin.com/job/senior-software-engineer/10901336"
+source: Built In

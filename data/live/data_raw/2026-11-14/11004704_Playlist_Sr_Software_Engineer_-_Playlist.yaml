@@ -1,0 +1,145 @@
+job_id: 11004704
+title: Sr Software Engineer - Playlist
+company: Playlist
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 2,954 Employees
+description: |
+  About the Company:
+
+  At Playlist, life's richest moments happen when people step
+  away from screens to move, connect, explore, and play. We're
+  building the definitive platform for intentional living,
+  connecting people with inspiring experiences in fitness,
+  wellness, and beyond. With popular brands like Mindbody and
+  ClassPass, Playlist empowers businesses and individuals,
+  making it effortless for aspirations to become actions. Join
+  us in reshaping technology's role to foster meaningful,
+  real-world connections.
+
+  The Role You'll Play
+
+  You’ll build and operate the backend systems that power
+  Playlist. This is a senior, hands-on role focused on
+  distributed systems, data modeling, and pragmatic system
+  design—delivering reliable services at scale while keeping
+  the architecture simple and maintainable. You’ll also
+  operate at the edge of what’s possible by leveraging AI
+  (LLMs and agentic tooling) to accelerate delivery, improve
+  quality, and push system capabilities forward.
+
+  - Partner with Product and Design to deliver features from
+    ideation through deployment, iterating based on feedback
+    and outcomes
+  - Design and ship backend services and APIs end-to-end, owning
+    system design and architecture decisions across service
+    boundaries, data ownership, consistency models, failure
+    modes, and others
+  - Model and store data thoughtfully: schema design,
+    indexing/partitioning, migrations, and performance tuning
+  - Promote engineering excellence by driving simplicity,
+    strengthening operational health, and upholding quality
+    through automated testing, code reviews, and
+    monitoring/observability
+  - Mentor teammates and raise the bar for engineering rigor and
+    clarity, including best practices for responsible AI usage
+
+   What We're Looking For
+
+  - 8+ years building and operating backend systems for high-
+    traffic and high-reliability products
+  - Strong system design skills across distributed systems
+    (latency, throughput, durability, backpressure,
+    idempotency, retries, timeouts)
+  - Deep understanding of data modeling and persistence
+    (relational and/or NoSQL), including tradeoffs around
+    normalization, transactions, and consistency
+  - Experience designing service-oriented architectures
+    (microservices or modular monoliths), including service-
+    to-service communication patterns
+  - Solid CS fundamentals and engineering judgment, proficiency
+    in an OO language (e.g., Java/Kotlin/C#), and a solid
+    understanding of SDLC and Agile methodologies
+  - AI-native builder mindset with strong judgment;
+    understanding of AI tooling such as MCPs, evals, RAG are
+    good to have
+  - Strong communication and collaboration across functions
+
+  Tools and Systems
+
+  You don’t need experience with every item below—what matters
+  is strong fundamentals and the ability to learn quickly.
+
+  - Languages and Frameworks: Java/Kotlin/C#,
+    SpringBoot/NetCore. async/concurrency, RPC/REST
+  - Data: PostgreSQL/MongoDB/DynamoDB, Redis, schema migrations,
+    indexing, partitioning/sharding
+  - Runtime & tooling: gradle, monorepos, CI/CD
+  - Testing: unit/integration/e2e testing
+    (JUnit/Mockito/TestContainers)
+  - Observability: metrics/logging/tracing; New
+    Relic/Datadog/Kibana/Grafana
+  - AI tooling: Claude Code/ Cursor/ Codex-style coding
+    assistants; MCPs; agent/orchestration frameworks; safety
+    harnesses
+  - Engineering Practices: automated testing, code reviews,
+    CI/CD, observability, on-call, incident management — with
+    AI-accelerated workflows where appropriate
+
+  It is the Company’s intent to pay all Team Members
+  competitive wages and salaries that are fair and equitable.
+  Actual compensation packages are based on several factors
+  unique to each candidate, including skill set, depth of
+  experience, certifications, and work location. The goal of
+  Company's compensation program is to be transparent, attract
+  potential employees, meet the needs of all current
+  employees, and encourage Team Members to stay with our
+  organization.
+
+  The base salary range for this position in the United States
+  is $151,275 to $210,000. The total compensation package may
+  also include a performance bonus, benefits, and other
+  applicable incentive compensation plans.
+
+  Have we piqued your curiosity?
+
+  Sound like the role for you? We’d love to hear from you!
+  Even if you’re not 100% sure about potential fit, we still
+  encourage you to apply. We’re looking for the right person,
+  not the perfect series of checkboxes.
+
+  The Company is an Equal Opportunity Employer. We highly
+  value diversity at our company and encourage people of all
+  different backgrounds, experiences, abilities and
+  perspectives to apply. We do not discriminate on the basis
+  of race, religion, color, national origin, gender, sexual
+  orientation, age, marital status, veteran status, disability
+  status, or other protected characteristics.
+
+  By entering your email and phone number and submitting your
+  application, you consent to receive emails, calls and SMS
+  about your application and other roles at The Company,
+  including by auto-dialer. Message and data rates may apply.
+  Opt-out or text STOP to cancel at any time. If you are a
+  California resident or reside outside the United States then
+  by submitting your application you confirm that you have
+  read, understood, agree and - where applicable - grant your
+  prior, free, informed and express consent for the processing
+  of your personal information, including sensitive personal
+  information, as described in our California Applicant
+  Privacy Notice or International Applicant Privacy Notice (as
+  applicable).
+
+  Note: This description outlines key responsibilities but
+  isn’t intended to cover every task or duty. Additional
+  responsibilities may be assigned as needed to support the
+  team and business goals.
+industries:
+  - Artificial Intelligence
+  - Beauty
+  - Fitness
+  - Software
+posted_date: 2026-09-03
+url: "https://builtin.com/job/sr-software-engineer-playlist/11004704"
+source: Built In

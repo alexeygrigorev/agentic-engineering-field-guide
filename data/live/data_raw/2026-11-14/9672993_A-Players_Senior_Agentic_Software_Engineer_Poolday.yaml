@@ -1,0 +1,103 @@
+job_id: 9672993
+title: "Senior Agentic Software Engineer | Poolday"
+company: A-Players
+location: London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 13000 Employees
+description: |
+  Europe based candidates | Remote
+
+  A-Players is helping Poolday hire a Senior Agentic Software
+  Engineer to build the core agent systems behind a next-
+  generation AI-powered video editor. Poolday is creating a
+  new category of creative tooling that combines a traditional
+  timeline-based editor with autonomous AI agents that can
+  understand intent, generate visuals, and manipulate projects
+  end-to-end.
+
+  This role will work closely with the founders and early
+  engineering team to design and implement the agentic
+  architecture that powers the product. This is a high-
+  ownership position with significant influence over system
+  design, product direction, and engineering culture.
+
+  About Poolday
+
+  Poolday is building a modern video editor where users
+  describe what they want, and intelligent agents assemble
+  compositions, generate pixels, and perform edits
+  autonomously. The product blends familiar creative workflows
+  with cutting-edge agentic AI systems.
+
+  The founding team consists of experienced operators and
+  builders with a strong track record of shipping complex
+  products. Poolday is early-stage, product-driven, and
+  focused on building category-defining creative tools. What
+  You’ll Be Doing
+
+  - Designing and building multi-agent systems in TypeScript,
+    including a primary orchestration agent and specialized
+    sub-agents
+  - Architecting agent workflows that interpret user intent,
+    plan multi-step edits, and execute them across a video
+    timeline
+  - Building the interface layer between agents and the video
+    editor, enabling agents to read project state, issue
+    commands, and observe results in real time
+  - Developing agent capabilities for scene composition, visual
+    generation, timing adjustments, effects, and compositing
+  - Implementing plan-and-execute loops, recovery strategies,
+    and feedback mechanisms for reliable autonomous editing
+  - Creating memory and context systems that allow agents to
+    reason about project state, user preferences, and editing
+    history
+  - Working closely with founders to shape both the product
+    vision and the technical foundations of the platform
+
+  What Poolday Is Looking For
+
+  - Must-Have
+
+  - 5+ years of professional software engineering experience
+    with strong system design skills
+  - Deep expertise in TypeScript, including building large,
+    maintainable codebases
+  - Experience building complex front-end or editor-like
+    applications using React
+  - Hands-on experience with agentic systems (e.g. LangChain.js,
+    LangGraph.js, Vercel AI SDK, or custom agent frameworks)
+  - Strong understanding of agent orchestration patterns such as
+    hierarchical delegation, multi-agent collaboration, and
+    plan-and-execute loops
+  - Experience designing APIs or command layers to
+    programmatically control complex applications
+  - Strong prompt engineering skills, including function calling
+    and structured outputs
+  - Ability to work independently in ambiguous, fast-moving
+    environmentsNice to Have
+  - Experience with video editing software, motion graphics, or
+    creative tooling
+  - Familiarity with generative Al for images or video
+  - Experience building plugin systems or extensible application
+    architectures
+
+  Why Join Poolday
+
+  This is a chance to help define how AI agents will power
+  creative tools. You’ll work on a product where users
+  describe an idea and watch agents build it - composing
+  scenes, generating visuals, and assembling edits
+  autonomously.
+
+  Poolday offers real ownership, deep technical challenges,
+  and the opportunity to shape a product from early traction
+  to scale.
+industries:
+  - HR Tech
+  - Professional Services
+  - Software
+  - Consulting
+posted_date: 2026-08-24
+url: "https://builtin.com/job/senior-agentic-software-engineer-poolday/9672993"
+source: Built In

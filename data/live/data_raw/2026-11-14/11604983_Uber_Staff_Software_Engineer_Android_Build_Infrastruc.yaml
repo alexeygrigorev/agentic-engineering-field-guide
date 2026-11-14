@@ -1,0 +1,184 @@
+job_id: 11604983
+title: Staff Software Engineer – Android Build Infrastructure
+company: Uber
+location: New York, USA
+locations:
+  - New York, USA
+  - Seattle, USA
+  - Sunnyvale, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 21,000 Employees
+description: |
+  About the Role:
+
+  Engages with stakeholders across teams to lead the design,
+  development, and evolution of the build systems and CI
+  infrastructure that every Android engineer at Uber depends
+  on.
+
+  Every change to Uber's Android apps — Rider, Driver, Uber
+  Eats, and more — flows through the build. In this role, you
+  will own the Android build end to end: the Bazel build graph
+  and rules, remote caching, and the CI pipelines that verify
+  every change before it lands. You will set the technical
+  direction for making Android builds faster, more reliable,
+  and more cost-efficient at monorepo scale, and lead cross-
+  team initiatives to achieve these goals.
+
+  What You'll Do:
+
+  - Own the Android build end to end — the Bazel build graph,
+    Starlark rules and toolchains (Android, Kotlin, Java), and
+    dependency management across a large, multi-app Android
+    monorepo.
+  - Drive down CI and local build latency through remote build
+    caching and remote execution, build-graph pruning,
+    critical-path parallelism, and cost-aware CI sharding.
+  - Make local and CI results consistent, so a green local
+    build, test, or lint result means a green CI run.
+  - Make every build failure actionable: eliminate flakiness and
+    cache-correctness issues, add per-target telemetry and
+    smarter retry policies, and ensure engineers and AI coding
+    agents know what failed, how to fix it, and who to
+    contact.
+  - Keep the Android build modern: lead Bazel upgrades, Kotlin
+    and Android toolchain upgrades, and dependency-automation
+    (Gazelle) rollouts as coordinated, low-disruption
+    initiatives.
+  - Shrink the workload, not just speed it up: partner on smart
+    test selection over the shared Bazel graph so each change
+    runs only the tests it can affect, without sacrificing
+    quality.
+  - Define and track build health — latency, success rate, cache
+    hit rate, and flakiness — and catch regressions before
+    developers feel them.
+  - Lead through influence: write design documents, set
+    standards, mentor engineers, lead build incident response,
+    and partner with Android Platform, CI Platform, and
+    product teams to deliver improvements across the
+    organization.
+
+  About the Team:
+
+  Core Build is Uber's centralized build platform team. We own
+  the common build infrastructure — Bazel, Gazelle, build
+  rules, client-side remote build caching and execution, and
+  shared build/test CI pipelines — across Uber's Java, Go,
+  Android, iOS, and Web monorepos.
+
+  Our vision is simple: make builds fast with less friction.
+  Because the stack is shared, an improvement we make once
+  benefits every engineer at Uber.
+
+  We work across three pillars:
+
+  - Velocity: Make builds faster everywhere with fewer resources
+    — in CI, remote development environments, and on laptops —
+    through caching, remote execution, sharding, and build-
+    graph optimization.
+  - Reliability & Diagnosability: A build failure should never
+    leave an engineer stranded. Every failure should
+    communicate what failed, how to fix it, and who can help.
+  - Modernization, Unification & Scale: Keep the platform on the
+    latest Bazel, maximize CI fleet utilization with smart
+    test selection and build-graph pruning, and apply GenAI/ML
+    to automate diagnosis and optimization.
+
+  Our next major initiative is to stop compiling the same code
+  thousands of times: make mobile builds remote-first, so a
+  local build becomes a download rather than a compile, and
+  run only the tests a change can actually affect.
+
+  As the Staff Android Engineer on the team, you will be the
+  technical owner for the Android side of this roadmap.
+
+  Minimum Qualifications:
+
+  - Bachelor's degree in Computer Science or a related field, or
+    equivalent practical experience.
+  - 8+ years of full-time engineering experience.
+  - Systematic problem-solving approach and knowledge of
+    algorithms, data structures, and complexity analysis.
+  - Strong understanding of Android development.
+
+  Preferred Technical Skills:
+
+  - Deep, hands-on experience with Bazel (or Buck) for Android
+    builds: Starlark rules, rules_android / rules_kotlin,
+    build-graph and dependency management.
+  - Remote build caching and remote execution (Remote Execution
+    API; e.g., Buildbarn, BuildBuddy, EngFlow).
+  - Android build internals: Gradle, D8/R8, resource processing,
+    and Kotlin compiler / annotation-processing performance.
+  - CI systems at scale (e.g., Buildkite): sharding, test
+    orchestration, and flaky-test management.
+  - Build performance analysis and observability (Bazel
+    profiles, Build Event Protocol, metrics, and regression
+    dashboards).
+  - Leading large-scale build migrations or upgrades (e.g.,
+    Buck/Gradle to Bazel, Bazel major versions, bzlmod).
+  - Tooling development in Kotlin/Java.
+  - Applying LLMs/AI agents to developer tooling (e.g.,
+    automated build-failure diagnosis).
+  - Cross-platform experience (Android and iOS).
+
+  Responsibilities
+
+  For New York City, NY-based roles: The base salary range for
+  this role is USD $232,000 per year - USD $258,000 per year.
+
+  For San Francisco, CA-based roles: The base salary range for
+  this role is USD $232,000 per year - USD $258,000 per year.
+
+  For Seattle, WA-based roles: The base salary range for this
+  role is USD $232,000 per year - USD $258,000 per year.
+
+  For Sunnyvale, CA-based roles: The base salary range for
+  this role is USD $232,000 per year - USD $258,000 per year.
+
+  For all US locations, you will be eligible to participate in
+  Uber's bonus program, and may be offered an equity award &
+  other types of comp. All full-time employees are eligible to
+  participate in a 401(k) plan. You will also be eligible for
+  various benefits.
+
+  About Us
+
+  Ready to Ride?
+
+
+
+  This isn't the kind of place where you follow a playbook —
+  it's where you help write one. If you're driven by impact,
+  energized by challenge, and ready to shape how the world
+  moves — we'd love to hear from you.
+
+  You may be eligible for bonuses, equity, and other
+  compensation, as well as a range of benefits. Explore our
+  benefits.
+
+  Offices remain key to collaboration and Uber's culture.
+  Unless approved for full remote work, employees must spend
+  at least 50% of their time in-office. Some roles, like those
+  at greenlight hubs, require full-time in-office presence.
+  Ask your Recruiter for details about this role's
+  requirements.
+
+  Uber is proud to be an Equal Opportunity employer. All
+  qualified applicants will receive consideration for
+  employment without regard to sex, gender identity, sexual
+  orientation, race, color, religion, national origin,
+  disability, protected Veteran status, age, or any other
+  characteristic protected by law. We also consider qualified
+  applicants regardless of criminal histories, consistent with
+  legal requirements. If you have a disability or special need
+  that requires accommodation, please let us know by
+  completing this form.
+industries:
+  - Logistics
+  - Transportation
+  - "3PL: Third Party Logistics"
+posted_date: 2026-10-12
+url: "https://builtin.com/job/staff-software-engineer-android/11604983"
+source: Built In

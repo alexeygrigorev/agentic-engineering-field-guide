@@ -1,0 +1,136 @@
+job_id: 11534452
+title: Software Engineer, Backend (Product)
+company: Hex
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 160 Employees
+description: |
+  About Hex
+
+  Hex is growing our team of builders on a mission to make
+  everyone a data person. Our platform solves key pain points
+  with today’s data and analytics tooling, and empowers anyone
+  to explore data using natural language, with or without
+  code, on trusted context. Thousands of customers like Ramp,
+  Figma, Stubhub, Anthropic, and Gamma love Hex for our
+  beautiful UI, agentic superpowers, and boundless
+  flexibility.
+
+  Hex has raised over $100M from leading investors like
+  Sequoia, a16z, Snowflake and Amplify. With office hubs in
+  San Francisco and New York, as well as remote team members
+  throughout the US and UK, we’re a high-agency team that
+  ships fast and has fun doing it. Check out our Intro to Hex
+  video and employee handbook to learn more about what it’s
+  like to work at Hex.
+
+  About the role
+
+  We are looking for experienced, backend-leaning product
+  engineers to help expand the capabilities of our industry-
+  leading AI analytics platform.
+
+  At Hex, we're deeply focused on building powerful,
+  integrated AI features that augment and accelerate analytics
+  workflows. The possibilities here are incredible, and we're
+  uniquely positioned to reinvent how people think about
+  understanding data.
+
+  In this role, you’ll work on a product team building complex
+  workflows that increase the capabilities, reach, and
+  ergonomics of Hex’s agentic analytics platform. We’re
+  especially focused on features that enable Hex’s AI agent to
+  operate across more customer segments and surface areas,
+  including APIs, MCP, and command-line interfaces.
+
+  What you will do
+
+  Our backend product engineers work on features across the
+  entire Hex application. Here are some example projects:
+
+  - Build and extend Hex’s API and CLI to enable powerful,
+    ergonomic workflows for our most sophisticated technical
+    users
+  - Design MCP server and client implementations to expand entry
+    points into our capabilities
+  - Design and implement a next-generation access control
+    system, including role-based access control (RBAC), admin
+    request/approval flows, and tiered admin roles that scale
+    with complex organizations
+  - Own full-stack product changes end-to-end, from backend
+    policy enforcement to admin-facing workflows, ensuring
+    these enterprise features are intuitive, reliable, and
+    secure
+  - Propose and implement well-architected, scalable systems in
+    collaboration with the broader Hex team
+
+  About You
+
+  - 5+ years of backend or full-stack software engineering
+    experience
+  - Skilled at building systems with high levels of complexity
+    and intricate business logic
+  - Deep interest and/or experience in developing state-of-the-
+    art agentic workflows involving disparate systems and
+    tools
+  - Experience working in a remote-first team, with strong
+    communication skills in that context
+  - A passion for technical collaboration, including RFCs, code
+    reviews, and architecture discussions
+  - Hands-on familiarity with enterprise integrations: SSO,
+    SCIM-based provisioning, audit logs, MFA, and delegated
+    access
+  - A strategic mindset that balances business and product goals
+    with engineering excellence—you understand tradeoffs
+    between user value and technical complexity and operate
+    pragmatically
+  - Willingness to make changes anywhere in the stack to drive
+    impact
+
+  Our stack
+
+  Our product is a web-based notebook and app authoring
+  platform. Our frontend is built with Typescript and React,
+  using a combination of Apollo GraphQL and Redux for managing
+  application state and data. On the backend, we also use
+  Typescript to power an Express/Apollo GraphQL server that
+  interacts with Postgres, Redis, and Kubernetes to manage our
+  database and Python kernels. Our backend is tightly
+  integrated with our infrastructure and CI/CD, where we use a
+  combination of Terraform, Helm, and AWS to deploy and
+  maintain our stack.
+
+  The salary range for this role is: $198,750 - $295,000
+
+  In addition to our unique culture, Hex proudly offers a
+  competitive total rewards package, including but not limited
+  to, market-benched salary & equity, comprehensive health
+  benefits, and flexible paid time off.
+
+  The salary range shown may be a reflection of additional
+  factors such as geographical location and skill
+  ranges/levels we’re open to. Placement in the salary range
+  will be decided upon completion of the interview process,
+  taking into account factors like leaving room for growth,
+  internal fairness & parity, your demonstrated skills, and
+  the depth of your experience. Our Recruiting team will be
+  able to provide more details during the interview process.
+
+  By submitting an application the candidate consents to the
+  use of their personal information in accordance with the Hex
+  Privacy policy: https://learn.hex.tech/docs/trust/privacy-
+  policy.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Software
+  - Analytics
+  - Business Intelligence
+  - Big Data Analytics
+posted_date: 2026-10-06
+url: "https://builtin.com/job/software-engineer-backend-product/11534452"
+source: Built In

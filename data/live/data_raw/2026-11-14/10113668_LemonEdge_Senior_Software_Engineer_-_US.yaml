@@ -1,0 +1,165 @@
+job_id: 10113668
+title: Senior Software Engineer - US
+company: LemonEdge
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 72 Employees
+description: |
+  Location: United States (Remote, Eastern Coast)
+
+  About LemonEdge
+
+  LemonEdge is a next-generation accounting platform purpose-
+  built for private capital markets. Our technology gives fund
+  administrators and asset managers the tools to automate
+  complexity, improve transparency, build trust, and scale
+  faster. With strong early traction in North America and
+  EMEA, we are now entering our next phase of growth focused
+  on customer expansion, operational discipline, and world-
+  class client experience.
+
+  About the Role
+
+  As a Senior Software Engineer at LemonEdge, you’ll own
+  meaningful parts of our accounting platform, from data model
+  to production. You’ll design and ship the features and
+  services that move fund operations from manual and fragile
+  to automated and dependable, and you’ll have the latitude to
+  fix what’s in the way, whether that’s a performance
+  bottleneck, a test gap, or architecture that has outlived
+  its usefulness.
+
+  You’ll be building alongside a market in the middle of real
+  change. Private capital is growing fast, and the way funds
+  are created, administered, and managed is being rebuilt
+  around modern software rather than spreadsheets and systems
+  designed for a different era. LemonEdge is purpose-built for
+  that shift, and what you ship goes straight to the fund
+  administrators and asset managers who run on it. The
+  engineering is hard and the impact is visible: your work
+  changes how an entire industry operates.
+
+  The financial logic must be exactly right, the platform
+  needs to hold up at real scale, and customers feel every
+  improvement you make. You’ll be trusted to keep a living
+  codebase healthy, not just to build on it. We use AI-
+  assisted development pragmatically and with clear
+  guardrails, and you’ll help shape how the team puts it to
+  work.
+
+  LemonEdge is a remote-first company. This role is open to
+  candidates based in the United States who can work core
+  Eastern Time hours. Expect occasional travel for team and
+  customer onsites, typically up to four times per year. The
+  role participates in an engineering on-call rotation, which
+  is light and infrequent.
+
+  What You’ll Do
+
+  - Design, build, and ship features and services on the
+    LemonEdge platform end-to-end — from data model and API
+    design through testing, deployment, and production
+    operation.
+  - Identify and implement high-impact improvements: performance
+    baselines, reliability hardening, refactoring of high-
+    traffic paths, and optimizing data-access patterns the
+    rest of the platform sits on.
+  - Partner with Product, Client Success, and peer engineering
+    teams to scope work, own delivery of committed customer-
+    visible milestones across the quarterly roadmap, and
+    surface trade-offs and risks early rather than late.
+  - Work directly with technical and subject-matter accounting
+    experts both internally and from our clients to shape the
+    solution and rapidly iterate on their feedback.
+  - Raise the engineering bar through thorough code review,
+    design feedback, and mentoring of mid-level engineers
+    toward production ownership.
+  - Leverage agentic coding tools pragmatically in your day-to-
+    day work, and expand the safe operating patterns that make
+    AI-accelerated delivery trustworthy such as automated test
+    coverage at PR time, regression prevention, validation of
+    generated code, and norms for where AI output can and
+    cannot yet be trusted.
+  - Champion supportability and customer experience: strong
+    observability, disciplined incident response, SLA
+    adherence, and a proactive posture on defects rather than
+    a reactive one.
+
+  What You’ll Bring
+
+  - 7+ years building production software, with a track record
+    of shipping non-trivial systems on committed timelines.
+  - Strong technical depth in a modern server-side stack.
+    Working experience with .NET / C# is strongly preferred;
+    we will consider candidates with equivalent depth in
+    another typed, managed-runtime ecosystem who can ramp
+    quickly.
+  - Demonstrated success improving an existing platform at
+    scale; you are energized by making a living codebase
+    faster, safer, and easier to change, not only by
+    greenfield work.
+  - Comfort across the full delivery lifecycle: data modeling,
+    API design, testing strategy, CI/CD, observability, and
+    production operations in a cloud-hosted SaaS environment.
+  - Working fluency with AI-assisted development tools, paired
+    with the judgment to know where they accelerate you and
+    where they cannot yet be trusted.
+  - A high bar for quality: you own every line of code you ship,
+    you write tests as a habit rather than an obligation, and
+    you hold the line on regression prevention.
+  - Self-direction and pragmatism; you can take an ambiguous
+    problem, scope it honestly, and drive it to a shipped
+    outcome without waiting to be unblocked.
+  - Strong written communication and a collaborative working
+    style that holds up across engineering, product, and
+    client-facing teams in a distributed company.
+
+  Nice to Have
+
+  - Experience operating SaaS systems on Kubernetes or a
+    comparable cloud-native platform — observability, on-call
+    practice, cloud cost awareness.
+  - Background in fintech, fund administration, partnership
+    accounting, or another domain with non-trivial financial
+    logic and audit expectations.
+  - Experience defining team-level guardrails for AI-assisted
+    development — usage policies, evaluation of generated
+    code, prompt and context practices, or building LLM-backed
+    product capabilities safely.
+  - Experience contributing to a platform migration,
+    modernization, or re-architecture while continuing to
+    deliver value to existing customers.
+  - Experience operating in an early-stage or high-growth
+    environment where shape and process are still being
+    defined.
+
+  What We Offer
+
+  - Comprehensive benefits package including medical, dental,
+    vision
+  - Remote work options
+  - 401(k) plan with employer contributions
+  - Paid time off
+  - Generous parental and family leave policies
+  - Challenging problems to tackle with a supportive,
+    entrepreneurially driven team
+  - A strong work culture centered on integrity, excellence, and
+    transparency
+
+  Equal Opportunity Employer
+
+  LemonEdge is an Equal Opportunity Employer and is committed
+  to fair and equitable hiring practices. All hiring decisions
+  are based on strategic business needs, job requirements, and
+  individual qualifications — without regard to race, color,
+  religion, sex, sexual orientation, gender identity, national
+  origin, age, disability, or any other characteristic
+  protected by applicable law.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-04
+url: "https://builtin.com/job/senior-software-engineer-us/10113668"
+source: Built In

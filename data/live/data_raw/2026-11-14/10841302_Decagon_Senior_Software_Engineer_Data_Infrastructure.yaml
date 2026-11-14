@@ -1,0 +1,157 @@
+job_id: 10841302
+title: Senior Software Engineer, Data Infrastructure
+company: Decagon
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 49 Employees
+description: |
+  About Decagon
+
+  Decagon is the leading conversational AI platform empowering
+  every brand to deliver concierge customer experiences.
+
+  Our technology enables industry-defining enterprises like
+  Avis Budget Group, Block’s Cash App and Square, Chime, Oura
+  Health, and Hunter Douglas to deploy AI agents that power
+  personalized, deeply satisfying interactions across voice,
+  chat, email, SMS, and every other channel.
+
+  We’re building a future where customer experiences are being
+  redefined from support tickets and hold music to faster
+  resolutions, richer conversations, and deeper relationships.
+  We’re proud to be backed by world-class investors who share
+  that vision, including a16z, Accel, Bain Capital Ventures,
+  Coatue, and Index Ventures, along with many others.
+
+  We’re an in-office company, driven by a shared commitment to
+  excellence and velocity. Our values — Just Get It Done,
+  Invent What Customers Want, Winner’s Mindset, and The
+  Polymath Principle — shape how we work and grow as a team.
+
+  About the Team
+
+  The Infrastructure team builds and operates the foundations
+  that power Decagon: networking, data, ML serving, developer
+  platform, and real‑time voice. We partner closely with
+  product, data, and ML to deliver high‑scale, low‑latency
+  systems with clear SLOs and great developer ergonomics.
+
+  We organize around four focus areas:
+
+  - Core Infra: The foundational cloud stack—networking,
+    compute, storage, security, and infrastructure‑as‑code—to
+    ensure reliability, scale, and cost efficiency.
+  - Data Infra: Streaming/batch data platforms powering
+    analytics/BI and customer‑facing telemetry, including for
+    customer‑managed and on‑prem environments.
+  - ML Infra: GPU and model‑serving platforms for LLM inference
+    with multi‑provider routing and support for
+    on‑prem/air‑gapped deployments.
+  - Platform (DevEx): CI/CD, paved paths, and core services that
+    make shipping fast, safe, and consistent across teams.
+
+  Our mission is to deliver magical support experiences — AI
+  agents working alongside humans to resolve issues quickly
+  and accurately.
+
+
+
+  About the Role We're hiring a Senior Data Infrastructure
+  Engineer to design, build, and operate the data systems that
+  power Decagon's AI products. You'll own critical data
+  pipelines and storage layers end‑to‑end, improve reliability
+  and performance, and create paved paths that let every
+  Decagon engineer work confidently with data at scale. In
+  this role, you will
+
+  - Design and implement high‑throughput data pipelines and
+    streaming systems with strong SLOs, clear runbooks, and
+    actionable telemetry.
+  - Build and operate real‑time and batch ingestion
+    infrastructure using tools like Kafka, Flink, and Airflow.
+  - Own our analytical data layer — schema design, query
+    performance, and cost optimization across ClickHouse,
+    BigQuery, or similar.
+  - Partner with research and product teams to architect data
+    solutions, evaluate performance, and scale new features.
+  - Tune pipeline and query latencies: optimize data paths,
+    apply smart caching/partitioning, and hit tight p95/p99
+    targets.
+  - Lead infrastructure‑as‑code (Terraform) and GitOps practices
+    for data systems; reduce drift with reusable modules and
+    policy‑as‑code.
+  - Participate in on‑call and drive down toil through
+    automation and elimination of recurring data issues.
+
+  Your background looks something like this
+
+  - 5+ years building and operating production data
+    infrastructure at scale.
+  - Hands-on experience with Tier 1 data technologies:
+    ClickHouse, Kafka (or MSK/Pub‑Sub/RabbitMQ), and Flink or
+    dbt.
+  - Proven track record meeting high availability and low
+    latency targets across streaming and batch workloads.
+  - Excellent observability chops (OpenTelemetry,
+    Prometheus/Grafana, Datadog) and strong incident response
+    discipline.
+  - Clear written communication and the ability to turn
+    ambiguous data requirements into simple, reliable designs.
+
+  Even better if you have
+
+  - Experience with CDC tooling (Debezium) and orchestration
+    frameworks (Airflow, Dagster, or Prefect)
+  - Familiarity with Spark or Dask for large‑scale data
+    processing
+  - Experience with cloud data warehouses (Snowflake, BigQuery,
+    Redshift, Databricks)
+  - Experience being an early data/platform/infrastructure
+    engineer at another company
+  - Strong Kubernetes experience (GKE/EKS/AKS) and multi‑cloud
+    exposure (GCP, AWS, Azure)
+  - Experience with customer‑managed deployments
+
+
+
+  Compensation
+
+  $200K – $400K + Offers Equity This range reflects the
+  expected compensation for this role. Compensation within the
+  range is determined based on experience, skills, and the
+  scope of responsibilities, with flexibility for candidates
+  who demonstrate exceptional impact. In addition to base
+  salary, we offer competitive equity. Final compensation may
+  vary based on location within the United States.
+
+  Benefits
+
+  We proudly offer the following benefits for our full-time
+  employees:
+
+  - Medical, Dental, and Vision benefits for you and your family
+  - Life Insurance and Disability Benefits
+  - Retirement Plan (e.g., 401K, pension)
+  - Parental Leave
+  - Fertility and family building benefits through Carrot
+  - Monthly stipend to support your wellness, lifestyle, and
+    work-life balance
+  - Daily lunches and snacks in the office to keep you at your
+    best
+  - Take what you need vacation policy (subject to local
+    requirements; UK employees receive 25 days of statutory
+    leave)
+
+  Decagon offers a competitive benefits package that varies by
+  country and complements local statutory benefits. Details
+  for this location will be provided during the recruitment
+  process.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-08-25
+url: "https://builtin.com/job/senior-software-engineer-data-infrastructure/10841302"
+source: Built In

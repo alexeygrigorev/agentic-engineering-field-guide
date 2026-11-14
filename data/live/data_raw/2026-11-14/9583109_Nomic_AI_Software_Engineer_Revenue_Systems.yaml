@@ -1,0 +1,97 @@
+job_id: 9583109
+title: Software Engineer, Revenue Systems
+company: Nomic AI
+location: New York, USA
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Senior Engineer, Revenue Systems
+
+  Location: NYC Reports to: CTO
+
+  About Nomic
+
+  Nomic builds AI agents and developer tools that power the
+  built world. We help enterprise teams in architecture,
+  engineering, and construction extract structured knowledge
+  from decades of drawings, specs, and project files. Our
+  platform combines embedding models, document parsing, and
+  autonomous agents that reason over real-world data and take
+  action in live environments.
+
+  The Role
+
+  Revenue systems are the connective tissue between what we
+  sell and what we ship. We're hiring a Senior Engineer to own
+  that surface—the integrations, data models, and pipelines
+  that keep contracts, usage, and invoicing consistent and
+  correct as we scale.
+
+  Strong software engineering experience is the requirement.
+  Revenue systems domain experience matters more than
+  payments-infrastructure-from-scratch experience. The job is
+  correctness: making sure the right things get billed, that
+  HubSpot, our platform, and Tabs agree with each other, and
+  that the whole pipeline runs without manual intervention.
+
+  This is a senior IC role with broad ownership and real
+  architectural influence.
+
+  What You'll Own
+
+  - HubSpot integration — deal terms and contract data flowing
+    reliably into the platform; CRM and platform staying in
+    sync
+  - Contract and entitlement modeling — representing what's
+    billable, what's recognized, and how contract terms map to
+    data
+  - Tabs integration — usage and entitlements flowing out to
+    invoicing automatically and correctly
+  - Reconciliation — keeping multiple sources of truth
+    consistent and surfacing discrepancies before they become
+    problems
+  - Integration standards — establishing the quality bar for how
+    revenue-systems integrations get built and maintained
+    going forward
+
+  What We're Looking For
+
+  - Strong systems integration and data modeling skills —
+    API/webhook integration, reconciliation, keeping sources
+    of truth consistent
+  - Revenue or accounting domain sense — you understand how
+    contracts, usage, and entitlements map to money
+  - Comfortable building greenfield against tools that aren't
+    fully spec'd yet
+  - Production experience in Python and/or TypeScript
+  - A correctness-first mindset — edge cases in billing aren't
+    acceptable
+
+  Even better if you have:
+
+  - Experience with CRM integrations (HubSpot, Salesforce, or
+    similar)
+  - Background in billing, invoicing, or usage-based pricing
+    systems
+  - Familiarity with B2B SaaS contract models — seat licenses,
+    usage tiers, entitlements
+  - Experience scaling revenue operations without adding
+    headcount per customer
+
+  How to Apply
+
+  Send a cover letter describing:
+
+  - A system you've built to keep two or more data sources
+    consistent
+  - How you think about correctness in financial or billing
+    contexts
+  - Tools and languages you'd reach for on day one
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Generative AI
+posted_date: 2026-08-20
+url: "https://builtin.com/job/software-engineer-revenue-systems/9583109"
+source: Built In

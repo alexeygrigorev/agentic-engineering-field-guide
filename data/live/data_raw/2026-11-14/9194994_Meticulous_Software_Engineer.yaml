@@ -1,0 +1,86 @@
+job_id: 9194994
+title: Software Engineer
+company: Meticulous
+location: London, GBR
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  Our mission is to radically accelerate the pace of software
+  development. Meticulous is growing revenue exceptionally
+  fast with leading companies adopting the tool at record
+  pace.
+
+  We’ve brought together a small team of some of the most
+  talented engineers in the world. This has allowed us to
+  build a technology that fully autonomously and exhaustively
+  tests frontend codebases.
+
+  Such a capability has never existed before, and no other
+  company is even close to building such a capability — it’s
+  built on the back of a range of novel technologies and
+  research (hint: the core itself doesn't use transformers or
+  LLMs, but something more novel).
+
+  As a result the demand for the product has been immense. In
+  addition to being one of the fastest growing companies,
+  customers like Dropbox, Wiz, Notion are often paying more
+  for Meticulous than any other vendor or software product -
+  and then spontaneously referring us to other companies.
+
+  We believe that autonomous and exhaustive testing is the
+  missing piece in unlocking the full potential of code
+  generation, and automating the majority of software
+  development.
+
+  We are a team of ten onsite in London. We believe in
+  building a small but extremely talented team.
+
+  We are hiring in London and are considering opening up
+  Forward Deployed Engineering roles in San Francisco shortly.
+  If either role sounds interesting please apply to this job
+  posting here.
+
+  What you may work on:
+
+  - Build a distributed system to concurrently replay thousands
+    of sessions, such that a developer gets a result in
+    seconds.
+  - Integrate Meticulous into the inner loop of agentic code
+    generation, to produce a coding agent far beyond anything
+    that exists today - by giving it a feedback loop to
+    understand the exhaustive impact of every change it makes
+    and iterate against; while also allowing it to understand
+    the full runtime behaviour of the code it’s editing and
+    space of data and edge cases it may operate over.
+  - Derive algorithms to detect sessions that cover differing
+    code paths and edge cases, and ignore sessions that are
+    too similar.
+  - Work directly with engineering leaders across the world's
+    top technology companies to help them deploy Meticulous to
+    their organisations.
+
+  What you get from working here:
+
+  - World-class compensation, exceeding top technology companies
+    and startups.
+  - Work with exceptional colleagues to solve novel and
+    exceedingly difficult problems and change the way the
+    world develops software. Work with some of the very best
+    engineers who were previously at Uber, Google, Dropbox,
+    GitHub, Meta and Palantir, including previously leading
+    100+ engineer organisations at these companies.
+  - Expand your network - Guillermo Rauch (founder of Vercel),
+    Jason Warner (CTO of GitHub), Calvin French-Owen (founder
+    of Segment), Jared Friedman (YC partner and founder of
+    Scribd), Scott Belsky (CPO of Adobe), Arash Ferdowsi
+    (founder of Dropbox) and many others are all personal
+    investors in Meticulous. We can connect you with anyone in
+    the technology world.
+industries:
+  - Information Technology
+  - Software
+  - Analytics
+  - Automation
+posted_date: 2026-08-10
+url: "https://builtin.com/job/software-engineer/9194994"
+source: Built In

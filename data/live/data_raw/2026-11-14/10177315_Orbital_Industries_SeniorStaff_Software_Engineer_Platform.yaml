@@ -1,0 +1,190 @@
+job_id: 10177315
+title: Senior/Staff Software Engineer, Platform
+company: Orbital Industries
+location: London, GBR
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Orbital Industries is an AI Industrial company, with
+  frontier AI embedded at every step in the production of
+  critical physical products - from creating advanced
+  materials to engineering and manufacturing.
+
+  Every Orbital Industries product is developed using CurieOS,
+  our AI operating system, uniting AI-automated hardware
+  engineering with AI-designed material science to achieve
+  breakthrough real-world performance. We also offer CurieOS
+  to our customers and partners, extending the same platform
+  and workflows that power Orbital Industries to their own
+  teams and products.
+
+  We have an ambitious mission and need excellent people in
+  all our teams - AI research, operations, advanced materials,
+  mechanical engineering, chemical engineering and
+  manufacturing.
+
+  Working at Orbital Industries means working in vertically
+  integrated teams across the full stack, from molecules to
+  manufacturing. We're looking for people who have a love of
+  physical technology, curiosity in AI and a desire to learn.
+
+  The role
+
+  Physical engineering is one of the hardest domains for AI.
+  Designs have to meet standards, calculations must be
+  deterministic and checkable, and a wrong number can end up
+  in a power system or a data centre. CurieOS is built to let
+  agents do real engineering work and to show exactly how
+  every output was produced.
+
+  The platform team builds the foundation that every workflow,
+  agent and product on CurieOS depends on, and runs it in
+  production for people who need to trust it. Your work sets
+  the floor for how reliable our AI is, and the ceiling for
+  what it can do.
+
+  This is a small team, and you'll shape what we build as well
+  as how. You'll see the results of those decisions in
+  production within days. If you want a narrow, well-defined
+  slice of a large system, this isn't the role. If you want to
+  own a platform while it scales, it is.
+
+  How we work
+
+  We build with agents, not just for them. Everyone on the
+  team works with the latest frontier models and coding agents
+  every day, and token budgets won't hold you back. Part of
+  what we build is CurieOS's ability to work on itself:
+  triaging defects, proposing fixes and opening pull requests
+  for engineers to review. So engineers here spend more of
+  their time on design, review and judgement, and less on
+  typing. If you already work this way, you'll feel at home.
+  If you want to see how far it can go, this is the place to
+  find out.
+
+  You'll also work alongside our AI researchers, turning
+  cutting-edge research and evals into things that run in the
+  platform and in production.
+
+  What you'll work on first
+
+  In your first six months you'll work across the parts of
+  CurieOS that customers have to be able to trust. Like
+  everyone on the team you'll touch most of them, and go
+  deepest where your interests take you:
+
+  - Tenancy, isolation and identity. How CurieOS keeps each
+    customer separate, from shared multi-tenant accounts to
+    dedicated single-tenant deployments. That covers data
+    isolation, SSO and access control. You'll also be an
+    engineering voice in customer security reviews.
+  - Release and production. How changes get to production
+    safely: release gates, staged rollouts and rollback,
+    automated smoke tests, on-call and incident response. We
+    ship often, and you'll build what lets us keep doing that
+    without breaking what customers rely on.
+  - Agent quality in production. Measuring how well agents
+    perform on real customer workflows, working with our
+    researchers to bring the latest evals into the platform,
+    and using those measurements to decide what is good enough
+    to release. A model or prompt change should have to pass
+    the same gate as a code change.
+  - Observability and cost. Knowing the platform is healthy and
+    what it costs. That means SLOs, tracing and alerting, plus
+    cost telemetry and usage metering for every workflow and
+    every customer, so we can see where model and compute
+    spend goes and make deliberate choices about it.
+  - Infrastructure and deployment. One standard for how CurieOS
+    is deployed, configured and upgraded in each environment,
+    across our own cloud accounts, GPU capacity and customer-
+    dedicated deployments.
+
+  Where the platform is going
+
+  Once those foundations are solid, there's a lot to shape
+  next:
+
+  - Traceable results. Provenance for every number an agent
+    produces: which inputs, tools, models and versions went
+    into it, so our users can check it and sign it off.
+  - Agent runtime and context. How agents plan, call tools,
+    manage context across long-running work and hand off to
+    people at the right moment.
+  - Durable workflows. Orchestration that survives failures,
+    retries and runs lasting hours, mixing agent steps with
+    deterministic calculations.
+
+  At Staff level, you'd set technical direction across these
+  areas, not just within one. You'd own one of them end to
+  end, run the design reviews that our research and forward
+  deployed teams build on, make the architecture calls that
+  are hard to reverse, and help shape how we hire and grow
+  engineers.
+
+  Our stack
+
+  Python services on Kubernetes, running on AWS plus
+  specialist GPU clouds for heavy compute. Strong engineers
+  from Go, Kotlin, Java or a comparable stack will pick up the
+  language quickly. What matters more is that you've run real
+  systems in the cloud.
+
+  You'll have most of these
+
+  - Designed and built backend services that other teams or
+    customers relied on, and made the key decisions yourself.
+  - Owned a system in production after it shipped: the cloud
+    infrastructure it ran on, on-call, incidents, how changes
+    went out, and the monitoring that told you it was healthy.
+  - Built and run something where LLMs do real work for real
+    users, and dealt with the cost, latency and quality trade-
+    offs that come with it.
+  - Used coding agents heavily in your own work, with opinions
+    on where they help and where they break.
+  - Led a project end to end, made trade-offs you can explain,
+    and raised the bar for the engineers around you.
+
+  Bonus points
+
+  - Shipped software to external enterprise customers: SSO,
+    tenant isolation, per-customer deployments, security
+    reviews.
+  - Run infrastructure as code at scale, or GPU workloads across
+    more than one cloud provider.
+  - Helped a system or a company through a scaling phase, such
+    as a platform going from internal use to many external
+    customers.
+  - Worked closely with researchers, scientists, engineers or
+    other domain experts and built what they actually needed.
+  - For Staff: a track record of setting technical direction
+    beyond your own team, such as architecture other teams
+    adopted, a migration you led across several teams, or
+    engineers you've grown into senior roles.
+
+  You don't need a background in materials, chemistry or
+  engineering. You'll pick up the domain from the people who
+  have it.
+
+  Why Orbital
+
+  Orbital Industries is an AI Industrial company. We put
+  frontier AI into the making of critical physical products,
+  from advanced materials to data-centre engineering. Our
+  research team works at the cutting edge, from universal
+  interatomic potentials to GPU-native simulation, and we turn
+  that research into tools engineers use every day. CurieOS is
+  the platform that brings it together: the AI operating
+  system the whole company runs on, which customers are
+  starting to depend on for their own engineering work too.
+
+  Orbital is an equal opportunity employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees.
+industries:
+  - Artificial Intelligence
+  - Hardware
+  - Industrial
+  - Manufacturing
+posted_date: 2026-08-09
+url: "https://builtin.com/job/senior-backend-engineer/10177315"
+source: Built In

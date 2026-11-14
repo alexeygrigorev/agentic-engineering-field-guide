@@ -1,0 +1,145 @@
+job_id: 10631443
+title: Software Engineer, Data Integration
+company: Bayesian Health
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 37 Employees
+description: |
+  Software Engineer, Data Integration
+
+  In Brief
+
+  - We're a rapidly growing startup on a mission to make
+    healthcare proactive by empowering physicians, nurses, and
+    care team members with real-time data to save lives.
+  - Join us in transforming healthcare from reactive to
+    proactive. You’ll spearhead the engineering effort to
+    build the bridge between massive, complex Electronic
+    Health Record (EHR) systems and the Bayesian platform,
+    delivering critical, real-time insights to help clinicians
+    save lives.
+
+  Who We Are
+
+  Bayesian Health’s mission is to improve patient outcomes by
+  empowering clinicians with the insights they need to make
+  the right decision for the right patient at the point-of-
+  care. We’re a diverse team of clinicians, engineers, machine
+  learning experts, product designers, and performance
+  improvement leaders committed to enabling smarter, patient-
+  specific care delivery through unlocking the power of data.
+
+  We’re funded by top tier tech and biotech investors: Obvious
+  Ventures, Andreessen Horowitz, American Medical
+  Association’s venture arm, Catalio Partners, and LifeForce
+  Capital. Our company has won many awards; most recent
+  recognitions include: Forbes AI Top 50, World Economic Forum
+  Tech Pioneer, Time Best Inventions, BioTech AI Company of
+  the Year.
+
+  Read more about our recent publication in Nature Medicine
+  that associates our products with lives saved.
+
+  What you’ll do
+
+  You will be at the forefront of a high-impact engineering
+  mission, building the bridge between massive, complex
+  Electronic Health Record (EHR) systems and the Bayesian
+  platform to generate real-time lifesaving clinical insights
+  that clinicians rely on. Working directly with our health
+  system clients' technical teams, you'll turn fragmented data
+  into immediate, actionable clinical insights that empower
+  care teams to make the best decisions for their patients.
+
+  Each integration is a partnership. An Implementation Lead
+  owns the client relationship and project management; a
+  Clinical Integration owns clinical workflow design and
+  training. You own the technical workstream — which means
+  you're the engineer in the room. When a lab result isn't
+  reaching the Bayesian platform for a patient, you have
+  thirty minutes and the client's full attention to trace it
+  from the inbound HL7 message through parsing, mapping, and
+  ingestion, and tell them what happened.
+
+  Responsibilities
+
+  - Data Integration & Ingestion: Partner with the client's
+    technical teams to design and implement the data
+    integration interface and ingestion pipelines that feed
+    the Bayesian platform with real-time clinical data,
+    powering insights that improve patient outcomes.
+  - Integration Testing & Troubleshooting: Implement automated
+    integration tests at the data layer, and work directly
+    with client technical teams during integration testing to
+    investigate and resolve issues, ensuring smooth and timely
+    integrations.
+  - Production Deployment & Go-Live: Execute the deployment
+    process in close collaboration with the client's technical
+    team, ensuring build and configuration for the data
+    interface, ingestion, and mapping are successfully
+    promoted to production for a seamless launch. During go-
+    live week, you will serve as the technical point of
+    contact for any data integration issues, both internally
+    and with the client's teams, providing clear status
+    updates to cross-functional partners so they can
+    effectively manage client communication.
+  - Integration Tooling & Automation: Develop frameworks and
+    tooling, leveraging LLMs and automation, to increase the
+    efficiency and velocity of our platform integrations as we
+    scale.
+  - Cross-Functional Collaboration: Work alongside an
+    Implementation Lead, Clinical Integration, and the
+    client's technical teams to align the data integration
+    workstream with the overall integration effort.
+
+  Minimum qualifications
+
+  - BS in Computer Science or equivalent practical experience
+  - 3+ years building and deploying data pipelines to
+    production, including integration with external APIs
+    (Python preferred)
+  - Strong ability to investigate and resolve data correctness
+    problem end-to-end, across services, storage, and external
+    data sources.
+  - Experience with cloud solutions (AWS, Azure, etc.) and
+    relational databases (PostgreSQL, MySQL, etc.) in a
+    production environment
+  - Experience writing automated integration tests for
+    production systems
+  - Strong communicator with a demonstrated ability to
+    collaborate across functions, working effectively with
+    internal stakeholders, including Project/Product Managers,
+    to align on priorities and deliver results.
+
+  Preferred qualifications
+
+  - Experience with health data, integration with Electronic
+    Health Records (EHR) systems, and Health IT
+    interoperability standards such as HL7v2 and FHIR.
+  - Experience rolling out production deployments, supporting
+    systems through go-live via an on-call or support
+    rotation, and triaging production issues
+  - Experience working with enterprise customers, and the
+    agility and responsiveness they require.
+  - Experience building internal tooling or automation,
+    including leveraging LLMs, to improve engineering velocity
+
+  Bayesian Health provides equal employment opportunities to
+  all employees and applicants for employment and prohibits
+  discrimination and harassment of any type without regard to
+  race, color, religion, age, sex, national origin, disability
+  status, genetics, protected veteran status, sexual
+  orientation, gender identity or expression, or any other
+  characteristic protected by federal, state or local laws.
+  This policy applies to all terms and conditions of
+  employment, including recruiting, hiring, placement,
+  promotion, termination, layoff, recall, transfer, leaves of
+  absence, compensation and training.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Machine Learning
+posted_date: 2026-08-11
+url: "https://builtin.com/job/software-engineer-data-integration/10631443"
+source: Built In

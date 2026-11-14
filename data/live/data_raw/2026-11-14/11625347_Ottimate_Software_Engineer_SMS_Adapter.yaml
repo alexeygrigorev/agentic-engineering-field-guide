@@ -1,0 +1,160 @@
+job_id: 11625347
+title: Software Engineer, SMS Adapter
+company: Ottimate
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 256 Employees
+description: |
+  About Ottimate
+
+  Ottimate is an AI-powered AP [Accounts Payable] automation
+  platform that empowers finance teams to reduce costs,
+  prevent overpayments, detect fraud, and enforce policy
+  compliance across the entire invoice-to-payment lifecycle.
+
+  About the Role
+
+  Ottimate is expanding into the retail and grocery market.
+  There, invoice and vendor data live inside store-level
+  systems, such as POS, back-office, and inventory platforms
+  like BRdata, rather than the ERPs we integrate with today.
+
+  The SMS Adapter makes that data usable: a secure connector
+  that runs at the store or corporate office, pulls data
+  directly from the store's system, and syncs it to Ottimate's
+  AP platform. We're looking for a software engineer to own
+  this adapter end-to-end, from the initial data connection
+  and sync logic through to the security, reliability, and
+  deployment experience that lets a non-technical store
+  operator run it with confidence.
+
+  This is a high-ownership, high-autonomy role. You'll be one
+  of the first engineers dedicated to this product line,
+  working closely with the retail/grocery product owner and
+  store-side IT contacts at pilot customers.
+
+  Responsibilities
+
+  - Build and maintain the adapter that connects to in-store
+    systems, starting with BRdata, and syncs invoice items,
+    vendor, and PO data to Ottimate.
+  - Design and harden a reliable sync process: delta and full
+    syncs, retry and backoff behavior, conflict handling, and
+    clear failure visibility when a store's network or data
+    source is unreliable.
+  - Own local data handling and credential storage so the
+    adapter can run unattended and securely on a store's
+    machine.
+  - Build and improve the setup and monitoring experience that
+    store staff and support use to configure connections,
+    check sync health, and troubleshoot issues without
+    engineering involvement.
+  - Establish strong automated test coverage for the adapter and
+    keep it reliable across all target deployment environments
+    (Windows is the primary target).
+  - Own packaging, updates, and installation for software
+    running on store-owned machines, often behind restrictive
+    IT policies.
+  - Work directly with pilot retail/grocery customers to
+    diagnose environment issues, such as network, permissions,
+    and data access, and turn them into product and
+    reliability improvements.
+  - Define and evolve the adapter's data model and mapping layer
+    as we onboard additional store systems beyond BRdata.
+
+  Requirements
+
+  - +5 YoE in strong software engineering experience, with a
+    track record of owning a product end-to-end, from the data
+    layer through the user-facing experience.
+  - Experience building and shipping software that runs on end-
+    user machines, including the packaging and distribution
+    concerns that come with that.
+  - Solid database experience, including comfort reverse-
+    engineering schemas in third-party systems you don't
+    control.
+  - A track record of writing dependable integration and sync
+    code: idempotency, retries, partial-failure handling,
+    observability.
+  - Practical testing instincts. You know when to reach for
+    integration and end-to-end tests, not just unit tests, to
+    catch real-world failure modes like a flaky store network
+    or a locked-down machine.
+  - Comfort operating with ambiguity. This is a new, fast-moving
+    product area without years of established internal
+    convention to lean on.
+  - Bonus: Prior experience with retail/grocery back-office
+    systems, POS integrations, or field-deployed software
+    supporting non-technical end users.
+
+  Why This Role
+
+  You'll be the engineering owner of a product that's
+  foundational to Ottimate's entry into a new market. The work
+  you ship directly determines whether retail and grocery
+  customers can get their invoice data into Ottimate at all.
+  You'll have significant latitude to shape the adapter's
+  design, testing strategy, and roadmap as the product line
+  grows.
+
+  Benefits
+
+  Benefits
+
+  We care deeply about making Ottimate an incredible place to
+  work and invest a significant amount of time and energy into
+  creating and maintaining a company culture that provides our
+  team with a generous level of support whilst inspiring them
+  to do their best work.  The specific benefits/perks we offer
+  are continually evolving, but currently include:
+
+  - Compensation: $160,000-180,000 USD /year.
+  - Competitive salary based on skills & experience.
+  - Medical, Dental, Vision and other Company-Subsidized
+    Benefits for you and your family.
+  - Employer sponsored 401(k) with company match.
+  - Paid Time Off (and the encouragement to use it).
+  - Promote from within philosophy.
+
+  Beyond the tangible benefits though:
+
+  - You will be part of a growing team, at a pinnacle moment of
+    scale for the business, and experience the excitement of
+    working in a startup where each action makes a huge
+    difference.
+  - You will have the agency to solve difficult problems
+    creatively, the freedom to explore work that inspires you,
+    and infrastructure to ensure you're constantly challenged
+    and developing.
+  - You will work with sharp, passionate teammates solving some
+    of the most unique challenges and positioning our product
+    as a premier finance automation solution.
+  - Our commitment to empowering a diverse and inclusive
+    workforce, celebrating differences, and creating a safe
+    space for our employees to bring their whole selves to
+    work is second to note.
+  - We are transforming entire industries using innovative
+    technology including Artificial Intelligence, Payment
+    Tech, and Neural Networks.
+  - Our leaders lead with a people-first approach; inspiring
+    excellence, nurturing ideas, and finding creative ways to
+    eliminate obstacles for cultivating growth.
+  - We truly love what we do and who we do it with - and we
+    think you will too!
+
+  Ottimate is an equal opportunity employer that is committed
+  to diversity and inclusion. We do not discriminate based on
+  race, color, national origin, religion, gender, gender
+  expression, sexual orientation, age, veteran status,
+  disability status, or marital status. If you are excited
+  about the role but do not meet 100% of the qualifications
+  listed above, we encourage you to apply.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Automation
+posted_date: 2026-10-12
+url: "https://builtin.com/job/software-engineer-sms-adapter/11625347"
+source: Built In

@@ -1,0 +1,195 @@
+job_id: 12110963
+title: Staff Software Engineer, Security Platform
+company: Aalyria
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 83 Employees
+description: |
+  About Aalyria:
+
+  Aalyria is a leading technology company that supplies laser
+  communications technology and temporospatial software-
+  defined networking platforms to the aerospace industry. With
+  technology acquired from Google, Aalyria is at the forefront
+  of innovation in satellite and airborne mesh networks, as
+  well as cislunar and deep-space communications. We are
+  revolutionizing the orchestration and management of
+  planetary mesh networks using any radio or optical spectrum,
+  any orbit, and any hardware across land, sea, air, and
+  space.
+
+  Role Overview:
+
+  As a Staff Software Engineer on the Security Platform team,
+  you'll set the direction for how Aalyria secures Spacetime.
+  The team owns security for Aalyria products, and we build
+  each capability once so it works the same in every
+  environment Spacetime ships into. A system built this way
+  produces its own compliance evidence. You'll work with
+  product engineers and the infrastructure and developer
+  platform teams to make that the default.
+
+  Spacetime runs in commercial cloud, government cloud, and
+  classified or disconnected environments, and that last
+  category shapes the work. Trust decisions must be verifiable
+  offline, at sites we cannot reach, with no upstream to call.
+  Most identity platforms assume a connected world. Ours
+  cannot. Our security platform is evolving, with capabilities
+  that grew up alongside Spacetime being consolidated into one
+  coherent layer with identity at its center. You'll shape
+  that evolution and set the patterns the rest of engineering
+  follows. The people who thrive here bring depth in identity,
+  PKI, and authorization, plus the judgment to make good
+  tradeoffs when requirements pull in different directions.
+
+  Key Responsibilities:
+
+  Identity & Access
+
+  - Build authentication and authorization for Spacetime: token
+    validation, trust anchors, the principal namespace, and
+    the permission model operators configure.
+  - Design authorization that holds up under delegation, multi-
+    tenancy, and machine-to-machine access.
+  - Define the access control model for Spacetime
+    infrastructure, including the break-glass path.
+  - Own the auth SDKs that our engineering teams and customers
+    use to reach Spacetime APIs.
+
+  Credentials & Keys
+
+  - Own PKI end to end: certificate authorities, issuance
+    policy, rotation, and revocation.
+  - Issue workload identity and build the libraries services use
+    to present it. Service meshes and infrastructure consume
+    what you issue.
+  - Own the access model for secrets and keys, and the client
+    libraries teams use to reach them.
+
+  Audit & Evidence
+
+  - Design audit and structured logging schemas that make every
+    authorization decision reconstructable after the fact.
+  - Make those records hold up as evidence in regulated and
+    classified environments, including sites we cannot reach.
+
+  Partner & Operate
+
+  - Run what you build: availability, upgrades, security
+    maintenance, and incident response.
+  - Threat-model across the platform, and build mitigations that
+    remove classes of vulnerability rather than single
+    findings.
+  - Set the security standards – hardened images, mesh policy,
+    supply chain and pipeline gates – that the infrastructure
+    and developer platform teams implement in the systems they
+    own.
+  - Run what you build in production: availability, upgrades,
+    security maintenance, and incident response.
+  - Set the security standard for systems other teams run,
+    hardened images, supply chain, pipeline gates and work
+    with the platform and developer platform teams who own
+    them.
+  - Work with product engineers, and turn their requirements
+    into capabilities they adopt on their own.
+
+  Required Qualifications:
+
+  - 10+ years of backend software engineering on production
+    services, including ownership of systems other teams
+    depend on
+  - Deep experience in Go, or deep backend experience in a
+    comparable language and readiness to work in Go daily
+  - Built, or been a core contributor to and design owner of, at
+    least one of: an authentication or authorization system
+    inside a product, an identity provider integration, a
+    certificate authority, or a secrets or key management
+    service
+  - Firsthand knowledge of the failure modes of token based
+    authentication, including audience confusion, unverified
+    issuers, key confusion, and redirect handling at token
+    endpoints, from having shipped through them
+  - Working knowledge of Kubernetes and cloud infrastructure
+  - Experience setting technical direction across teams: writing
+    design docs, driving decisions to closure, and earning
+    adoption without direct authority
+  - Experience mentoring engineers and raising the quality of
+    design and code review
+
+  Preferred Qualifications:
+
+  - Experience building for regulated, disconnected, or high
+    assurance environments
+  - Experience integrating or operating an OIDC provider such as
+    Zitadel, Keycloak, Okta, Auth0, or comparable
+  - Experience with authorization at scale: policy engines, RBAC
+    or ReBAC models, or fine grained permission services
+  - Experience with SPIFFE/SPIRE, Vault, cloud KMS, or HSM
+    backed key management
+  - Experience with audit logging or evidence generation for
+    FedRAMP, DoD Impact Levels, or a comparable regime
+  - Experience setting security standards for infrastructure,
+    such as hardened images, supply chain security, or CI/CD
+    pipeline gates
+  - Experience threat modeling distributed systems
+  - Bachelor's degree in Computer Science or a related technical
+    field, or equivalent practical experience
+
+  What We Offer:
+
+  - Innovative Environment: Work at a cutting-edge company
+    shaping the future of aerospace communications.
+  - Impactful Work: Directly contribute to critical national
+    security programs and initiatives.
+  - Growth Opportunities: Expand your career with opportunities
+    for professional development and advancement.
+  - Inclusive Culture: Be part of a collaborative, supportive,
+    and inclusive workplace where your contributions matter.
+  - Flexibility: Flexible working arrangements including hybrid
+    remote/in-office schedules.
+  - Compensation and Equity: Competitive salary, comprehensive
+    benefits (401(k), dental, vision, health, life insurance),
+    paid time off, and equity options.
+
+  ITAR/EAR Requirements:
+
+  This position involves access to export-controlled
+  information. To comply with U.S. government export
+  regulations, applicants must meet one of the following
+  criteria:
+
+  (A) Qualify as a U.S. person, which includes:
+
+  - U.S. citizen or national
+  - U.S. lawful permanent resident (green card holder)
+  - Refugee under 8 U.S.C. 1157
+  - Asylee under 8 U.S.C. 1158
+
+  (B) Be eligible to access export-controlled information
+  without requiring an export authorization.
+
+  (C) Be eligible and reasonably likely to obtain the
+  necessary export authorization from the appropriate U.S.
+  government agency.
+
+  The company reserves the right to decline pursuing an export
+  licensing process for legitimate business-related reasons.
+
+  Equal Opportunity Employer Statement:
+
+  Aalyria is an Equal Opportunity Employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees. We do not discriminate based
+  on race, color, religion, sex (including pregnancy, gender
+  identity, and sexual orientation), national origin, age,
+  disability status, genetic information, protected veteran
+  status, or any other characteristic protected by law.
+  Qualified applicants from all backgrounds are encouraged to
+  apply.
+industries:
+  - Aerospace
+  - Manufacturing
+posted_date: 2026-11-06
+url: "https://builtin.com/job/staff-software-engineer-security-platform/12110963"
+source: Built In

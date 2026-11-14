@@ -1,0 +1,54 @@
+job_id: 9369696
+title: Full-Stack Engineer
+company: Radpilot
+location: USA
+locations:
+  - USA
+  - Boston, USA
+  - Washington, USA
+remote: true
+work_type: FULL_TIME
+company_size: 55000 Employees
+description: |
+  Full-stack engineers will touch every part of the system,
+  primarily focusing on the integrated desktop app that
+  radiologists use daily. Day-to-day work includes shipping
+  new features, architecting low-latency WebSocket workflows,
+  and building seamless UI/UX. You'll receive direct feedback
+  from users and have significant autonomy in shipping new
+  products.
+
+  Stack
+
+  - Frontend: TypeScript, React, Electron
+  - Backend: TypeScript, NestJS, PostgreSQL, Redis
+  - Infra: GCP
+
+  You might be a fit if you:
+
+  - Have experience in shipping meaningful projects
+  - Experience building low latency WebSocket workflows
+  - Apply your systems thinking to ensure great user experience
+  - High level of autonomy
+  - Able to iterate quickly off of user feedback
+  - Have deeply integrated AI into how you work
+
+  Benefits
+
+  - Competitive compensation with meaningful equity
+  - Comprehensive medical coverage or health stipend
+  - Flexible PTO
+  - Company-provided laptop
+  - Free housing
+  - Meals included
+  - Periodic team off-sites
+  - Chance to shape our product and culture from the earliest
+    days
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Software
+  - Automation
+posted_date: 2026-09-10
+url: "https://builtin.com/job/full-stack-engineer/9369696"
+source: Built In

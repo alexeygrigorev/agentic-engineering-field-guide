@@ -1,0 +1,116 @@
+job_id: 8989508
+title: Forward Deployed Full-Stack Engineer
+company: Fundamental
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 54 Employees
+description: |
+  About Fundamental
+
+  Fundamental is an AI research lab pioneering the future of
+  enterprise decision-making. Our flagship model, NEXUS is the
+  world's most powerful Large Tabular Model (LTM) - purpose-
+  built for the structured records that contain trillions of
+  dollars in business value. With $275m in funding from
+  leading investors and trusted by Fortune 100 companies,
+  Fundamental is giving businesses the Power to Predict.
+
+  At Fundamental, you'll work on unprecedented technical
+  challenges in foundation model development and build
+  technology that transforms how the world's largest companies
+  make decisions. This is your opportunity to be part of a
+  category-defining company from the ground-up. Join the team
+  defining the future of enterprise AI.
+
+  About the role
+
+  Fundamental is seeking a Forward Deployed Full-Stack
+  Engineer to build the critical integration layers and
+  interfaces that allow our customers to adopt NEXUS.
+
+  The Forward Deployed Engineer is an integral part of our FDE
+  team, dedicated to driving the successful deployment of
+  Fundamental products. While our ML engineers focus on the
+  model performance, you will focus on usability, integration,
+  and system reliability. You will work hand-in-hand with
+  customers from the Proof of Value stage to post-
+  implementation, ensuring our solutions are not just
+  accurate, but accessible, secure, and seamlessly embedded in
+  the client's production workflow. In this role, you’ll
+  manage technical relationships with multiple stakeholders
+  (IT security, application owners, and business users) and
+  function as a key bridge, translating field requirements
+  into features for our platform roadmap.
+
+  Key responsibilities
+
+  - You’ll individually architect and build production-grade
+    applications that wrap our core models, turning projects
+    into intuitive, high-value user experiences
+  - You’ll lead the last mile engineering efforts, handling API
+    integration, data visualization, and
+    authentication/security requirements (SSO, RBAC) within
+    complex enterprise environments (VPC, on-prem, air-gapped)
+  - You’ll design and implement performant backend services to
+    ingest customer data and serve model predictions at scale,
+    ensuring low latency and high availability
+  - You’ll work in collaboration with our research and product
+    teams to translate operational friction - such as data
+    ingestion difficulties or UI gaps - into essential inputs
+    for the Fundamental roadmap
+  - Your collaboration with the Sales and Solution Architect
+    teams will help align diverse stakeholders, building
+    dashboards and tools that allow business users to inspect,
+    trust, and act on predictions
+
+  Must have
+
+  - You hold a BS/MS in Computer Science, Software Engineering,
+    or a related field
+  - You have 5+ years as a Full-Stack Engineer, with a track
+    record of shipping production code in complex environments
+  - You have deep proficiency in modern frontend frameworks
+    (React, TypeScript, Next.js) and data visualization
+    libraries (D3.js, Recharts, or similar)
+  - You have strong experience with backend development
+    (Python/FastAPI, Go, or Node.js) and database design
+    (PostgreSQL, Redis)
+  - You have experience with containerization (Docker),
+    orchestration (Kubernetes), and CI/CD pipelines
+  - You are comfortable navigating enterprise security
+    constraints and have experience integrating with identity
+    providers (LDAP, SAML, OIDC)
+  - You hold strong communication skills with an ability to
+    translate architectural nuances into clear business value
+    for non-technical stakeholders
+
+  Nice to have
+
+  - Experience building tools for Data Science or ML workflows
+    (e.g., labeling interfaces, model monitoring dashboards)
+  - Experience with cloud-native architectures (AWS, GCP, Azure)
+    and Infrastructure as Code (Terraform)
+  - Experience as a Forward Deployed Engineer, Solutions
+    Engineer, or Technical Consultant in a B2B software
+    company
+  - Familiarity with data processing frameworks (Pandas,
+    PySpark) to better collaborate with our ML counterparts
+
+  Benefits
+
+  - Competitive compensation with salary and equity
+  - Comprehensive health coverage for you and your dependents,
+    including medical, dental, vision, and 401K
+  - Paid parental leave for all new parents, inclusive of
+    adoptive and surrogate journeys
+  - Relocation support for employees moving to join the team in
+    one of our office locations
+  - A mission-driven, low-ego culture that values diversity of
+    thought, ownership, and bias toward action
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-08-22
+url: "https://builtin.com/job/forward-deployed-full-stack-engineer/8989508"
+source: Built In

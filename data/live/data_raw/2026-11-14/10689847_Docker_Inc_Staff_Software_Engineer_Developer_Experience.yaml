@@ -1,0 +1,266 @@
+job_id: 10689847
+title: Staff Software Engineer, Developer Experience
+company: Docker, Inc
+location: USA
+locations:
+  - USA
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 498 Employees
+description: |
+  About Docker
+
+  Docker has been one of the most loved brands in developer
+  tooling, trusted by more than 20 million monthly users and
+  over 20 billion container image pulls. From solo founders to
+  the world's largest companies, developers rely on Docker to
+  build, share, and run their applications across our suite of
+  products including Docker Desktop, Docker Hub, and Docker
+  Scout. We are a globally distributed, remote-first team
+  building the tools that define how software gets built and
+  delivered. As AI agents redefine software development,
+  Docker is at the center of that shift, providing the
+  sandboxed environments, verified images, and secure
+  infrastructure that make autonomous workflows trustworthy by
+  default.
+
+  ____________________________________________________________
+  ___________
+
+  The Role
+
+  The Developer Experience team builds the backend systems and
+  product capabilities that help developers understand, secure
+  and ship software with confidence. The team powers important
+  parts of Docker Scout, Docker Hardened Images and the
+  workflows that turn supply-chain data into useful developer
+  experiences.
+
+  Our systems are deliberately polyglot. Today that includes
+  Clojure and Go services, event-driven workflows, Kafka,
+  legacy Datomic components and newer Spanner-backed services.
+  We will keep evolving the stack as the product and business
+  change. We are looking for an adaptable backend engineer who
+  can become effective in an unfamiliar codebase, choose
+  technology pragmatically and help other engineers do the
+  same. Clojure experience is useful, but it is not a
+  requirement and this is not a Clojure-specialist role.
+
+  We make extensive use of AI-assisted engineering tools. We
+  expect engineers to use them thoughtfully, validate their
+  output and remain accountable for the quality, security and
+  operability of what ships. At Staff level, you will also
+  help the team turn good individual practice into repeatable
+  workflows, controls and shared standards.
+
+  As a Staff Software Engineer, you will lead ambiguous,
+  cross-team work from problem definition through measurable
+  outcomes. You will remain hands-on in code while shaping
+  architecture, raising operational standards and creating
+  enough clarity for several engineers and partner teams to
+  move quickly. Work may span developer-facing features, build
+  and artefact workflows, data and event pipelines, platform
+  evolution and integrations with Docker's build and security
+  systems.
+
+  Success in This Role Looks Like
+
+  You will succeed by finding the highest-leverage problem,
+  creating momentum before every detail is known and bringing
+  people with you. Within your first year, teams should be
+  delivering more confidently because you have made system
+  boundaries clearer, reduced operational risk, connected
+  technical choices to customer outcomes and helped senior
+  engineers take on larger work.
+
+  ____________________________________________________________
+  ___________
+
+  Responsibilities
+
+  - Set technical direction for major backend and developer-
+    experience initiatives across Clojure, Go and adjacent
+    systems.
+  - Turn ambiguous product or platform problems into clear
+    plans, staged decisions and measurable outcomes.
+  - Design, build and operate distributed services, event
+    pipelines, databases and APIs with strong security and
+    reliability characteristics.
+  - Lead cross-team delivery, surface risks early and remove
+    technical or organisational blockers without waiting for
+    formal authority.
+  - Make pragmatic recommendations about when to retain, evolve
+    or replace existing components, including the continued
+    reduction of legacy Datomic dependencies.
+  - Partner with Product, Design, Security and other engineering
+    teams to connect technical investment to developer and
+    business outcomes.
+  - Improve observability, incident readiness, performance and
+    service ownership across the Developer Experience estate.
+  - Improve engineering leverage through appropriate automation,
+    AI-assisted workflows and controls that preserve human
+    accountability.
+  - Mentor senior engineers, raise the quality of design and
+    code reviews and create reusable patterns that multiply
+    the team.
+  - Stay hands-on through implementation, debugging and the
+    team's paid on-call rotation.
+  - Communicate decisions and trade-offs clearly in a remote,
+    async-first environment.
+
+  ____________________________________________________________
+  ___________
+
+  QualificationsRequired
+
+  - 8+ years of software engineering experience, with
+    demonstrated technical leadership on production systems at
+    scale.
+  - Bachelor’s degree in Computer Science, Engineering, or a
+    related field, or equivalent practical experience
+  - Deep experience designing, building and operating production
+    backend or platform systems.
+  - Strong programming ability in at least one production
+    language, with evidence of becoming effective in
+    unfamiliar languages and codebases.
+  - Experience with distributed systems, event-driven
+    architectures, APIs, relational or distributed databases
+    and cloud-native infrastructure.
+  - A track record of leading complex initiatives that crossed
+    team or organisational boundaries.
+  - Strong technical and product judgement, including the
+    ability to explain constraints, alternatives, customer
+    outcomes and business trade-offs.
+  - Evidence of influencing without authority and improving the
+    effectiveness of other experienced engineers.
+  - An operational mindset that treats observability,
+    resilience, incident response and on-call ownership as
+    part of engineering.
+  - Comfort using AI-assisted engineering tools critically while
+    retaining ownership of the result.
+  - Clear written and spoken communication suited to a remote,
+    async-first company.
+
+  Helpful, but not required
+
+  - Production experience with Go, Clojure or both.
+  - Experience with Spanner, Datomic, Kafka or other distributed
+    data and streaming platforms.
+  - Experience with build systems, containers, artefact
+    workflows or developer tooling.
+  - Experience evolving a platform, database or language
+    strategy without disrupting product delivery.
+  - Experience building security or software supply-chain
+    products.
+
+  ____________________________________________________________
+  ___________
+
+  What to ExpectFirst 30 Days
+
+  - Build context on Developer Experience products, customers,
+    architecture and current priorities.
+  - Pair across Clojure, Go, Datomic and Spanner-backed systems
+    and ship a useful production change.
+  - Understand the operational profile of the team's services,
+    including on-call and recurring failure modes.
+  - Build working relationships with Product, Design, Security
+    and adjacent engineering teams.
+  - Learn the team's AI-assisted engineering practices and
+    identify where shared controls or workflows would improve
+    them.
+
+  First 90 Days
+
+  - Lead the technical framing and delivery plan for one
+    significant team or cross-team problem.
+  - Contribute production code in the parts of the stack needed
+    to move that work forward.
+  - Identify and begin addressing a material reliability,
+    observability, data or architectural weakness.
+  - Establish a mentoring and design-review cadence that helps
+    other engineers own larger decisions.
+
+  One Year Outlook (First Year)
+
+  - Be a trusted technical leader for Developer Experience and a
+    sought-after partner across Docker.
+  - Deliver at least one material product or platform outcome
+    spanning multiple teams or systems.
+  - Improve the reliability, clarity and delivery speed of the
+    backend and data estate.
+  - Shape pragmatic evolution across Clojure, Go, Datomic,
+    Spanner and future technologies without turning technology
+    choice into the goal.
+  - Grow other senior engineers into broader ownership and
+    reduce the number of decisions that depend on a small set
+    of people.
+
+  Visa sponsorship: Docker considers visa sponsorship on a
+  case-by-case basis based on business needs.
+
+  ____________________________________________________________
+  ___________
+
+
+
+  Compensation & Equity
+
+  All full-time roles include equity. Final compensation is
+  determined on factors including but not limited to
+  experience, skills, qualifications, and location.
+
+  Europe: €110,500 – €181,500 base
+
+  United States: $170,350 – $275,550 base
+
+  ____________________________________________________________
+  __________
+
+  Posting Information
+
+  - Open vacancy: This posting is for an existing open role.
+  - AI in hiring: Docker may use AI-assisted tools during our
+    recruiting process.
+  - Interview recordings: Candidates will be invited to opt in
+    to interview recordings to support interviewer calibration
+    and consistent evaluations. Recordings are optional and
+    require explicit consent.
+
+  ____________________________________________________________
+  __________
+
+  Perks & Benefits
+
+  - Remote-first by design – Work from your home, with offices
+    in Seattle and Paris for connection and collaboration.
+  - Flexibility that fits your life – We trust you to manage
+    your schedule while delivering great work.
+  - Time to recharge – Generous PTO, designated quarterly
+    Whaleness Days, and a designated end-of-year Whaleness
+    break.
+  - Home office support – Set up your workspace for comfort and
+    success.
+  - Technology stipend – Equivalent to US$100 net per month to
+    help support your work.
+  - Learning & development – Annual stipend for conferences,
+    courses, certifications, and continued learning.
+  - Parental leave – 16 weeks of paid parental leave after six
+    months of employment.
+  - Equity for all full-time employees – Share in Docker's long-
+    term success as we continue to grow.
+  - Comprehensive benefits – Medical, retirement, and paid
+    holidays vary by country.
+  - Docker swag – Because representing the whale never gets old.
+
+  Docker is proud to be an equal opportunity employer. We are
+  committed to building a team that reflects a broad range of
+  backgrounds, experiences, and perspectives. We believe
+  diverse teams build better products, make better decisions,
+  and better serve our global community.
+
+  #LI-REMOTE
+posted_date: 2026-08-14
+url: "https://builtin.com/job/staff-software-engineer-developer-experience/10689847"
+source: Built In

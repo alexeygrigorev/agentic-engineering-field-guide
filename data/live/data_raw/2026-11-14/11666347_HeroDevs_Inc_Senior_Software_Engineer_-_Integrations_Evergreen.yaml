@@ -1,0 +1,121 @@
+job_id: 11666347
+title: Senior Software Engineer - Integrations (Evergreen)
+company: HeroDevs Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 106 Employees
+description: |
+  Senior Software Engineer - IntegrationsAbout the job
+
+  HeroDevs is hiring a Senior Software Engineer for our
+  Evergreen team. HeroDevs keeps critical open-source software
+  secure long after it reaches end of life. The Evergreen team
+  owns EOLDS, our end-of-life dataset, which internal teams
+  and integration partners rely on to understand which open-
+  source software has reached end of life, the risk that
+  carries, and how to remediate it. We also build the systems
+  that turn that data into packages our partners can consume,
+  and we need those systems to produce packages at scale when
+  a partner needs them.
+
+  Position Summary
+
+  We're looking for a Senior Software Engineer to help take
+  EOLDS to its next stage. You'll help build the pipelines
+  that let us generate and publish large numbers of packages
+  for partners on demand. This is a high-ownership role.
+  You'll make design decisions, set patterns for the team, and
+  work closely with partner-facing teams to understand what
+  partners need from the data.
+
+   Responsibilities
+
+  - Improve EOLDS data quality through validation,
+    deduplication, provenance tracking, and automated checks
+    that catch regressions before they reach partners
+  - Investigate and document how our current risk heuristics
+    work, including their inputs, assumptions, and edge cases
+  - Design and build a multi-model risk scoring framework that
+    supports different risk profiles for remediation,
+    including CVE-centric models alongside our existing
+    heuristics
+  - Build weighted, configurable scoring so risk profiles can be
+    tuned per partner or use case, with clear explanations of
+    how a score was produced
+  - Integrate EOLDS with Kafka and our data lake, including
+    event schemas, producers and consumers, backfills, and
+    consistency between systems
+  - Build automated pipelines that can generate, version, and
+    publish large numbers of packages for partners on demand,
+    reliably and reproducibly
+  - Add monitoring and data quality metrics so problems with the
+    dataset, scoring, or package delivery surface quickly
+  - Work with product and partner-facing teams to translate
+    partner requirements into data and scoring changes
+  - Write services and tooling in TypeScript/Node.js, with
+    automated testing and CI/CD
+  - Review code and designs, mentor other engineers, and help
+    raise the team's engineering bar
+  - Write clear documentation for the dataset, scoring models,
+    and pipelines you build
+  - Work to automate package requests from our partners
+
+  Required Qualifications
+
+  - 5+ years of professional software engineering experience,
+    with significant time spent building data-intensive
+    systems or data pipelines in production
+  - Proficiency in TypeScript/JavaScript (Node.js)
+  - Experience with event streaming platforms such as Kafka, and
+    with data lakes or data warehouses
+  - Strong SQL and data modeling skills
+  - Experience designing data validation and data quality checks
+    for datasets other teams or customers depend on
+  - Comfort reasoning about scoring, ranking, or heuristic
+    systems, such as weighted models or risk scores, and
+    explaining their tradeoffs
+  - Experience building build, release, or publishing
+    automation, including CI/CD pipelines
+  - The ability to dig into an unfamiliar system, figure out how
+    it works, and write it down so others can understand it
+  - Strong written communication and the ability to drive
+    technical decisions in a distributed team
+  - Bachelor's degree in Computer Science or a related field, or
+    equivalent practical experience
+  - Experience with git-based software development (preferably
+    on GitHub)
+
+  Preferred (Nice-to-Have) Skills
+
+  - Familiarity with vulnerability data and scoring, such as
+    CVEs, CVSS, EPSS, CISA KEV, OSV, or GitHub Security
+    Advisories
+  - Experience with package ecosystems and their publishing
+    workflows, such as npm, Maven, PyPI, RPM, or Debian
+    packaging
+  - Experience with schema registries and serialization formats
+    such as Avro or Protobuf
+  - Experience with lakehouse table formats such as Apache
+    Iceberg, Delta Lake, or Parquet-based storage
+  - Background in software supply chain security, including
+    SBOMs, artifact signing, or provenance (e.g., Sigstore,
+    SLSA)
+  - Experience working with enterprise partners on data delivery
+    or integrations
+  - Experience mentoring engineers or acting as a technical lead
+  - Interest in open-source software and long-term maintenance
+    of critical software
+  - Experience with Temporal Cloud or similar orchestration
+    solutions
+  - Experience with OpenSearch and/or ElasticSearch
+  - Experience with OTEL/opentelemetry and Grafana
+  - Experience with Argo UI
+industries:
+  - Information Technology
+  - Professional Services
+  - Software
+  - Cybersecurity
+posted_date: 2026-10-13
+url: "https://builtin.com/job/senior-software-engineer-integrations-evergreen/11666347"
+source: Built In

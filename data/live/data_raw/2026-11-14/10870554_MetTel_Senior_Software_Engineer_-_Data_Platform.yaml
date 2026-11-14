@@ -1,0 +1,174 @@
+job_id: 10870554
+title: Senior Software Engineer - Data Platform
+company: MetTel
+location: New York, USA
+work_type: FULL_TIME
+company_size: 695 Employees
+description: |
+  MetTel is a global communications solutions provider with
+  the most complete suite of fully managed services that focus
+  on secure connectivity, and network and mobility services.
+  We simplify communications and networking for business and
+  government agencies. Our customers include many of the
+  Fortune 500, and Gartner recognizes us as an industry
+  leader. We have the broadest portfolio of technology and
+  integrated partnerships, as well as our private network,
+  which we use to create tailored solutions design,
+  deployment, and ongoing management, driving cost savings,
+  efficiency, innovation, and the ability to focus on core
+  objectives.
+
+  We believe that each team member is a key to the success and
+  sustainability of the group. In order to achieve this, we
+  offer an environment where all professionals can grow and
+  develop their skills and competencies, collaborate with
+  diverse professionals, share knowledge and enjoy a rewarding
+  career.
+
+  We are seeking a Senior Software Engineer – Data Platform to
+  join our Data Engineering team in NYC.
+
+  You will help build the modern data processing platform
+  behind proactive network monitoring — a core capability of
+  MetTel's Managed Network Services product, delivered to
+  thousands of enterprise and government customer sites. This
+  is product engineering, not internal maintenance tooling:
+  real-time visibility and automated detection are central to
+  how MetTel differentiates in the managed network services
+  market, where we have been recognized in the Gartner® Magic
+  Quadrant™ for Managed Network Services for six consecutive
+  years. What this platform detects, and how quickly, is
+  something our customers experience directly.
+
+  ROLE AND RESPONSIBILITIES:
+
+  - Data Pipeline & Ingestion: Design, build, and operate
+    reliable, scalable, data-intensive pipelines carrying
+    high-volume device and network telemetry — including
+    ingestion and orchestration across network monitoring
+    systems, device and satellite terminal telemetry, and
+    third-party vendor APIs.
+  - Real-Time Event Processing: Build and evolve the stateful,
+    real-time event processing that turns raw telemetry into
+    meaningful operational events, applying detection logic at
+    scale.
+  - Workflow & Rule Engine: Extend and enhance the detection and
+    workflow engine to support client-specific flow paths and
+    parameters through managed configuration that users can
+    view and maintain from the product interface, along with
+    the authoring, validation, and versioning that keeps those
+    changes safe.
+  - Event & Incident Flow Visibility: Partner with product and
+    front-end engineers to expose event and incident
+    monitoring flow in the product experience — making it
+    clear what was detected, what it triggered, and where it
+    stands — for network operations engineers today and for
+    customers as the capability expands. Own the data models,
+    APIs, and services behind those views.
+  - Observability & Data Lineage: Instrument the platform so
+    engineers can trace an event end to end and understand why
+    the system behaved as it did — including per-job
+    telemetry, retry semantics, and lineage back to the
+    source.
+  - Data Lakehouse & Storage: Contribute to the design and
+    evolution of our data lakehouse — table and partition
+    design, schema evolution, storage lifecycle, and query
+    performance for downstream analytics and reporting.
+  - Technology Stack Evolution: Contribute to the ongoing
+    upgrade of our technology stack and architecture to meet
+    the demands of an evolving product roadmap and customer
+    needs.
+  - Cloud & DevOps: Build and operate services on our
+    containerized infrastructure, deploying through CI/CD and
+    following the team's deployment and infrastructure
+    patterns.
+  - Design & Code Quality: Work with engineering leadership and
+    business stakeholders to turn requirements into technical
+    design and high-quality code. Write design docs and
+    diagrams before significant changes, participate in code
+    review, and share a light on-call rotation for the
+    pipeline you own.
+  - AI-Augmented Engineering: Use AI-assisted engineering tools
+    as a primary part of your development workflow, with the
+    fundamentals and judgment to direct them effectively and
+    validate what they produce.
+
+  DESIRED QUALIFICATIONS:
+
+  - A degree in Computer Science, Engineering, a similar field
+    of study, or equivalent work experience.
+  - 5+ years of professional software engineering, with
+    substantial time building production data pipelines and
+    workflow or rule engines.
+  - Strong Java or Python — ideally both, as our stream
+    processing is Java and our orchestration is Python.
+  - Hands-on production stream processing experience (Apache
+    Flink, Kafka Streams, Spark Structured Streaming, or
+    Beam), with the ability to reason about keyed state,
+    watermarks, checkpointing, and event-time versus
+    processing-time semantics.
+  - Practical Apache Kafka knowledge beyond consumer usage —
+    partitioning, compaction, consumer group behavior, and
+    schema evolution (Avro / Schema Registry).
+  - Experience with a workflow or ETL orchestration tool —
+    Dagster preferred, or a comparable orchestrator such as
+    Airflow or Prefect.
+  - SQL fluency and production experience with a columnar or
+    lakehouse query engine (Trino, Presto, Spark SQL,
+    Snowflake, BigQuery, ClickHouse, or StarRocks).
+  - Comfort operating in Kubernetes — reading logs, adjusting
+    resources, and troubleshooting workloads.
+  - Demonstrated ability to debug distributed systems under
+    pressure: serialization failures, GC pressure,
+    backpressure, and stuck jobs.
+  - Familiarity with unit testing, automated testing, and CI/CD
+    practices.
+  - Demonstrated proficiency with AI-assisted development tools
+    (Claude Code, Copilot, Cursor, or similar) as a core part
+    of your engineering workflow.
+  - Strong communication skills; able to articulate technical
+    decisions to engineering peers, operations stakeholders,
+    and non-technical audiences.
+
+  *The salary range reflected is a good faith estimate of base
+  pay for the primary location of the position. Our
+  compensation reflects the cost of labor across several U.S.
+  geographic markets, and we pay differently based on those
+  defined markets. The U.S. pay for this position ranges from
+  $145,000.00 to $165,000.00 annually. Pay varies by work
+  location and may also depend on job -related knowledge,
+  skills, experience and abilities of the successful
+  candidate. Your recruiter can share more about the specific
+  salary range for the job location during the hiring process.
+
+  Keywords: #NYC, NYC, #NewYorkCity, New York City,
+  NewYorkCity, Senior Software Engineer,
+  #SeniorSoftwareEngineer, Senior Data Engineer,
+  #SeniorDataEngineer, Data Engineer, #DataEngineer,
+  #Manhatten, #DataPlatform, Data Platform, #DataPipeline,
+  Data Pipeline, #DataEngineering, Data Engineering,
+  #ApacheFlink, Apache Flink, Flink, #Kafka, Kafka, #Dagster,
+  Dagster, #Airflow, Airflow, #Iceberg, Apache Iceberg,
+  #Trino, Trino, #StarRocks, StarRocks, #Lakehouse, Lakehouse,
+  #StreamProcessing, Stream Processing, #EventProcessing,
+  Event Processing, #Java, Java, #Python, Python, #Kubernetes,
+  Kubernetes, #ClaudeCode, Claude Code, ClaudeCode,
+  #Engineering, #Telecom
+
+  To learn more about our company visit us at www.mettel.net
+
+  MetTel is an Equal Opportunity Employer and considers
+  applicants for all positions without regard to race, color,
+  religion or belief, sex, age, national origin, citizenship
+  status, marital status, military/veteran status, genetic
+  information, sexual orientation, gender identity, physical
+  or mental disability or any other characteristic protected
+  by applicable laws.
+
+  To learn more about our company visit us at www.mettel.net
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-08-27
+url: "https://builtin.com/job/senior-software-engineer-data-platform/10870554"
+source: Built In

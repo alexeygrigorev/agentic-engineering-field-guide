@@ -1,0 +1,167 @@
+job_id: 11613332
+title: Senior Agentic Backend Engineer
+company: beqom
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 161 Employees
+description: |
+  Join beqom — where tech meets impact
+
+  beqom is a high-growth B2B SaaS company that provides
+  industry-leading tools for pay equity and transparency,
+  compensation, and performance management.
+
+  Trusted by some of the world’s most respected companies,
+  beqom enables HR and business leaders to navigate global
+  compliance and make smarter pay decisions that attract,
+  retain, and motivate top talent.
+
+  Founded in Switzerland and serving clients worldwide, our
+  powerful, enterprise-ready products are fuelled by beqom pay
+  intelligence.
+
+  Role Overview
+
+  We are looking for a Senior Agentic Backend Engineer to join
+  our Compensation team, which owns the services at the heart
+  of beqom’s data architecture — multi-tenant data ingestion,
+  schema management, snapshots, calculated fields, and the
+  data contracts powering analytics and reporting across the
+  product.
+
+  In this role you will not write the code. AI agents will.
+  You will own the specifications that govern these services,
+  the agentic pipeline that turns those specifications into
+  production software, and the verification machinery that
+  proves the output is correct — with the explicit goal of
+  reaching fully AI-embedded development: no human-written
+  code, no human line-by-line review, and external behavioural
+  scenarios, not traditional test suites, as the quality gate.
+
+  You will collaborate closely with our engineers, Support
+  teams, and Product stakeholders — translating their needs
+  into agent-executable specifications. Specs are our system
+  of record; agents do the typing.
+
+  What you'll be doing
+
+  Agentic Delivery
+
+  - Deliver features across multi-tenant data platform services
+    — data ingestion, schema management, effective dating,
+    snapshots, calculated fields, and exports — exclusively
+    through AI agents working from your specifications.
+  - Author structured, testable Product Requirement Prompts
+    (PRPs) and spec files as the primary engineering artefact,
+    and maintain the versioned spec library that governs the
+    codebase.
+  - Run multiple agents in parallel across workstreams; evaluate
+    outcomes against specs; progress agent first-pass success
+    rate, defect escape rate, and the share of changes merged
+    without human review steadily upward.
+
+  Pipeline Engineering
+
+  - Build and maintain the agentic pipeline: agent harness,
+    blueprint engine interleaving deterministic steps (lint,
+    build, git) with AI reasoning, MCP tool layer exposing
+    internal APIs, warm sandbox pool, and retrieval over the
+    codebase, tickets, and historical PRs.
+  - Own the economics of the pipeline: observability over token
+    usage, task latency, and cost per run; model-tier routing
+    and cost-per-outcome gating.
+  - Embed governance into the pipeline — machine-generated audit
+    trails, named ownership per feature, data-classification
+    gates keeping production secrets and PII out of agent
+    context.
+
+  Verification Engineering
+
+  - Engineer verification, not code: external behavioural
+    scenario suites and holdout sets stored outside the
+    codebase (agents never see the evaluation criteria),
+    digital twins of the systems we integrate with, layered
+    AI-reviews-AI gates, and automated remediation for self-
+    healing services.
+  - Set and enforce the constraints that keep agent output
+    correct on performance-critical paths: bulk ingestion
+    throughput, large export streaming, memory behaviour, and
+    complex SQL — validated by scenario and load gates rather
+    than line-by-line reading.
+
+  Production Ownership & Collaboration
+
+  - Diagnose and resolve production data issues through agents —
+    with deep enough functional understanding of every service
+    you own to steer remediation quickly, in collaboration
+    with Support and Engineering.
+  - Document the specs, scenarios, and pipeline decisions that
+    govern the platform — artefacts both humans and agents can
+    act on — and help other engineers make the same shift.
+
+  Skills & Experience
+
+  What you'll bring
+
+  - Demonstrated senior-level experience building production
+    backend services — including .NET/C# and PostgreSQL
+    systems — with a demonstrable shift from writing code to
+    directing agents: the majority of your recent production
+    output should be AI-generated under your direction.
+  - Hands-on mastery of AI coding agents — Claude Code strongly
+    preferred — including parallel agent sessions, custom
+    skills and sub-agents, and structuring codebases and
+    context so agents work reliably.
+  - Excellence in specification writing — turning ambiguous
+    business needs into precise, agent-executable PRPs and
+    spec files. In this role, spec quality is the single most
+    load-bearing skill.
+  - Strong verification engineering: behavioural and scenario-
+    based testing, holdout evaluation, quality gates, and
+    validation frameworks — the ability to trust and judge
+    output you did not write.
+  - Strong architecture judgement: assessing whether an agent-
+    proposed solution meets performance, scalability, and
+    reliability requirements, and challenging designs that
+    will not hold up under real workloads.
+  - Experience building agent infrastructure: MCP servers and
+    tool layers, sandboxed execution, and CI/CD adapted for
+    agent-driven workflows.
+  - Deep enough .NET/C# and SQL reading fluency to audit
+    generated code when quality gates flag it — schema design,
+    query plans, streaming vs. buffering, memory behaviour.
+  - Excellent written communication: specs, scenario
+    definitions, and design docs that both humans and agents
+    can act on.
+
+  Bonus points if you have
+
+  - Experience building digital twins or service virtualisations
+    of external systems for agent evaluation environments.
+  - Experience with LLM evaluation at scale: eval suites, red-
+    teaming AI-generated code, benchmarking agent workflows.
+  - Multi-tenant SaaS architecture experience, CDC/event-driven
+    ingestion (Debezium, Kafka, RabbitMQ/MassTransit), or
+    lakehouse exposure (Microsoft Fabric).
+  - Azure services, Docker, Kubernetes/Helm.
+  - Experience with legal, security, or compliance frameworks
+    for AI-authored code.
+  - Familiarity with compensation, HR, or pay transparency
+    domains.
+
+  Why join us?
+
+  - Your career, your design. Unleash your ambition in our
+    dynamic, autonomous environment.
+  - Drive meaningful change. Build a fairer future for every
+    employee by joining a market leader that is improving the
+    world of work.
+  - Belong to something bigger. Collaborate with a passionate,
+    diverse and talented team around the globe.
+
+  Please review our Candidate Privacy Notice before submitting
+  your application.
+posted_date: 2026-10-12
+url: "https://builtin.com/job/senior-agentic-backend-engineer/11613332"
+source: Built In

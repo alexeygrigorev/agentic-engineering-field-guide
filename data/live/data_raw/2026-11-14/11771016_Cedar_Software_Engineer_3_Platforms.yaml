@@ -1,0 +1,154 @@
+job_id: 11771016
+title: Software Engineer 3 (Platforms)
+company: Cedar
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 420 Employees
+description: |
+  Our healthcare system is the leading cause of personal
+  bankruptcy in the U.S. Every year, over 50 million Americans
+  suffer adverse financial consequences as a result of seeking
+  care, from lower credit scores to garnished wages. The
+  challenge is only getting worse, as high deductible health
+  plans are the fastest growing plan design in the U.S.
+
+  Cedar’s mission is to leverage data science, smart product
+  design and personalization to make healthcare more
+  affordable and accessible. Today, healthcare providers still
+  engage with its consumers in a “one-size-fits-all” approach;
+  and Cedar is excited to leverage consumer best practices to
+  deliver a superior experience.
+
+  The Role
+
+  Our Platform Testing team builds the tooling, frameworks,
+  and standards that help every Cedar engineering team test
+  more effectively. We’re hiring an engineer with deep testing
+  expertise to make our large test suite faster and more
+  reliable, shape how we test services as our architecture
+  evolves, and identify where our biggest risks are. You’ll
+  write production-quality code, own well-defined problems
+  independently, and partner with senior engineers in a
+  broader direction. Because Cedar builds healthcare
+  technology, better testing directly improves the experience
+  for patients, providers, and customers. This role is remote
+  across the United States.
+
+  What you will do:
+
+  - Build tooling and metrics that make test quality visible,
+    including reliability, flakiness, and coupling
+  - Establish code-coverage measurement and help teams close
+    gaps in the highest-risk areas
+  - Improve service-to-service testing as our architecture
+    becomes more distributed
+  - Integrate testing capabilities into CI/CD and developer
+    workflows with Platform engineers
+  - Make great testing easier through better frameworks,
+    documentation, and standards
+  - Help connect tests to product behavior and feature
+    specifications
+  - Own projects end to end, from investigation to adoption, and
+    measure their impact on quality
+
+  What We Look For
+
+  - 4–7 years in software engineering, or as an SDET with
+    substantial software development responsibilities
+  - Proficiency in Python and JavaScript/TypeScript
+  - Deep knowledge of testing strategies from unit through end-
+    to-end, and hands-on use of frameworks such as pytest,
+    Jest, Vitest, Cypress, or Playwright
+  - You’ve implemented CI/CD pipelines, including collecting and
+    reporting on test results
+  - You’ve measured test suites through metrics such as
+    coverage, reliability, execution time, or flakiness
+  - Ability to work cross-functionally to improve processes, and
+    to bring in the right people when a problem needs broader
+    input
+  - Strong written and verbal communication, including turning
+    testing strategy into clear standards and documentation
+  - Comfort working independently once a problem is defined, and
+    genuine curiosity about how software fails
+
+  Nice to Have
+
+  - Service-to-service or contract testing (e.g., Pact,
+    Testcontainers), especially during an architecture
+    migration
+  - You’ve built a test framework from scratch
+  - Time on a platform, developer productivity, or internal
+    tooling team, ideally within a product engineering
+    organization
+  - You’ve built AI-assisted testing tools or tested LLM-powered
+    applications
+  - Familiarity with Go or Kotlin, or eagerness to pick up new
+    languages
+
+  Compensation Range and Benefits
+
+  - Salary Range*: $170,000-$215,000
+  - This role is equity eligible
+  - This role offers a competitive benefits and wellness package
+
+  *Subject to location, experience, and education
+
+  What do we offer to the ideal candidate?
+
+  - A chance to improve the U.S. healthcare system at a high-
+    growth company! Our leading healthcare financial platform
+    is scaling rapidly, helping millions of patients per year
+  - Unless stated otherwise, most roles have flexibility to work
+    from home or in the office, depending on what works best
+    for you
+  - For exempt employees: Unlimited PTO for vacation, sick and
+    mental health days–we encourage everyone to take at least
+    20 days of vacation per year to ensure dedicated time to
+    spend with loved ones, explore, rest and recharge
+  - 16 weeks paid parental leave with health benefits for all
+    parents, plus flexible re-entry schedules for returning to
+    work
+  - Diversity initiatives that encourage Cedarians to bring
+    their whole selves to work, including three employee
+    resource groups: be@cedar (for BIPOC-identifying Cedarians
+    and their allies), Pridecones (for LGBTQIA+ Cedarians and
+    their allies) and Cedar Women+ (for female-identifying
+    Cedarians)
+  - Competitive pay, equity (for qualifying roles), and health
+    benefits, including fertility & adoption assistance, that
+    start on the first of the month following your start date
+    (or on your start date if your start date coincides with
+    the first of the month)
+  - Cedar matches 100% of your 401(k) contributions, up to 3% of
+    your annual compensation
+  - Access to hands-on mentorship, employee and management
+    coaching, and a team discretionary budget for learning and
+    development resources to help you grow both professionally
+    and personally
+
+  About us
+
+  Cedar was co-founded by Florian Otto and Arel Lidow in 2016
+  after a negative medical billing experience inspired them to
+  help improve our healthcare system. With a commitment to
+  solving billing and patient experience issues, Cedar has
+  become a leading healthcare technology company fueled by
+  remarkable growth. "Over the past several years, we've
+  raised more than $350 million in funding & have the active
+  support of Thrive and Andreessen Horowitz (a16z).
+
+  As of November 2024, Cedar is engaging with 26 million
+  patients annually and is on target to process $3.5 billion
+  in patient payments annually. Cedar partners with more than
+  55 leading healthcare providers and payers including
+  Highmark Inc., Allegheny Health Network, Novant Health,
+  Allina Health and Providence.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Healthtech
+  - Software
+posted_date: 2026-10-20
+url: "https://builtin.com/job/platform-engineer-iii/11771016"
+source: Built In

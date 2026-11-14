@@ -1,0 +1,145 @@
+job_id: 10894267
+title: Staff Software Engineer
+company: Onshore
+location: New York, USA
+work_type: FULL_TIME
+company_size: 85 Employees
+description: |
+  Staff Software Engineer
+
+  About Onshore
+
+  Onshore is the modern standard for U.S. companies claiming
+  the R&D tax credit. We find, document, and defend the tax
+  credits and deductions that farms, manufacturers,
+  architects, and engineers have earned. Claiming the R&D tax
+  credit has historically been an ordeal full of consultants,
+  spreadsheets, and hidden fees. Now, our software and AI-
+  powered solutions read every line of a client's records
+  against the tax code, produce verified computations, and are
+  reviewed by a credentialed tax professional before filing.
+
+  About the team
+
+  Engineering at Onshore is three teams, and Staff engineers
+  own their technical direction. Platform & Agents builds the
+  infrastructure everyone else runs on: the agent execution
+  framework behind every study, the evaluation harness that
+  proves agent output is correct before an expert sees it, and
+  the tooling operators use to run engagements. Agriculture
+  turns farm records into defensible R&D credit computations
+  and is expanding into livestock, dairy, and soil fertility
+  deductions. Corporate Tax & Compliance is taking Onshore
+  from credit studies to the filing itself, with full
+  corporate returns targeting general availability in early
+  2027.
+
+  Staff is the top of our ladder and it is an engineering role
+  in the fullest sense. We run a technical leadership model:
+  no direct reports by default, and your influence comes
+  through architecture, code, and technical direction rather
+  than headcount. You will never be asked to trade your editor
+  for a calendar. The first Staff engineers here set the
+  direction the next ten engineers inherit.
+
+  What you'll do
+
+  - Define and drive the technical strategy for one of Onshore's
+    three pillars, including multi-year architecture decisions
+    across agent infrastructure, tax computation, and data
+    pipelines
+  - Own end-to-end technical solutions for the systems that
+    can't be wrong: durable agent workflows, versioned tax
+    computation, evaluation infrastructure, filing pipelines
+  - Identify and lead the infrastructure investments that unlock
+    what's next: new study types, new entity and state
+    coverage, and higher leverage for the operators who run
+    engagements
+  - Make principled build-versus-buy decisions and produce
+    technical roadmaps that balance near-term delivery against
+    long-term platform health
+  - Advise the founders and engineering leadership on technical
+    trade-offs and their downstream implications for the
+    business
+  - Multiply the team: your primitives, designs, and reviews
+    raise what every other engineer ships
+
+  About you
+
+  If you meet the minimum requirements, apply. The preferred
+  qualifications are a bonus, not a gate, and we would rather
+  see your work than a perfectly matched resume.
+
+  Minimum requirements
+
+  - 8+ years of software engineering experience, with
+    demonstrated impact at staff or equivalent scope: leading
+    initiatives across multiple teams or systems.
+  - A proven track record designing and shipping systems that
+    are both highly available and correct, in domains where
+    wrong output has consequences.
+  - Deep architectural judgment paired with genuinely fast
+    hands. You prototype to think, and your strategy shows up
+    as code.
+  - The ability to influence technical direction and align teams
+    without direct authority, with excellent written and
+    verbal communication across engineering and leadership.
+  - High ownership: comfortable with ambiguity, able to define
+    the problem and the plan rather than execute a predefined
+    spec.
+  - Able to work in person at our New York City office.
+
+  Preferred qualifications
+
+  - Experience making LLM-powered systems production-reliable:
+    agents, evaluation infrastructure, structured extraction
+    at scale. You know the distance between a demo and a
+    system users rely on.
+  - Experience owning platforms other teams built on, and the
+    judgment about primitives versus one-offs that comes with
+    it.
+  - Compliance-aware system design: audit trails, data lineage,
+    financial controls, or regulated-domain experience.
+  - Experience with correctness-critical computation: ledgers,
+    billing, rules engines, or anything compiler-shaped.
+  - A track record of raising senior engineers through technical
+    direction and of contributing meaningfully to hiring and
+    engineering culture.
+
+  Pay and benefits
+
+  The annual base salary for this role is $270,000, with a
+  total equity grant valued at $100,000. Equity is ISOs valued
+  at our Series B preferred price, on a standard four-year
+  vest with a one-year cliff and early exercise available.
+  Benefits include health, dental, and vision coverage and
+  unlimited PTO.
+
+  Our interview process
+
+  Three conversations, about two hours of live time, with a
+  decision typically one day after each step.
+
+  - Resume deep dive, 30 minutes. We go through your experience
+    and projects at real depth: what you built, the decisions
+    you made, and what you'd do differently. Bring the work
+    you're proud of.
+  - Take-home assessment, then a one-hour review. You build
+    something on your own time, then walk us through it live:
+    your assumptions, patterns, and tradeoffs. We care as much
+    about how you reason through the decisions as the code
+    itself.
+  - Behavioral interview, 30 minutes. How you work, how you
+    handle ambiguity and disagreement, and whether Onshore is
+    the right place for you, in both directions.
+
+  No six-round gauntlets, no trick questions, no waiting weeks
+  to hear back.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-27
+url: "https://builtin.com/job/staff-software-engineer/10894267"
+source: Built In

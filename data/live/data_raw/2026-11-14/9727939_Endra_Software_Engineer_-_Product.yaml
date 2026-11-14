@@ -1,0 +1,106 @@
+job_id: 9727939
+title: Software Engineer - Product
+company: Endra
+location: London, GBR
+work_type: FULL_TIME
+company_size: 28 Employees
+description: |
+  At Endra, our vision is to produce software of exceptional
+  quality. Attaining this standard requires both talent and
+  ownership. We seek individuals who care deeply about the
+  quality of the software we deliver, whether their focus is
+  engineering, design, support, or sales.
+
+  Join our small and talented team as the technical link
+  between our platform and our users. You’ll own features from
+  concept to deployment, working directly with customers to
+  shape the future of MEP design. We’re looking for engineers
+  who love solving real-world problems, care about user
+  experience, and are driven to see their code make an
+  immediate impact. What we’re looking for
+
+  - 5+ years shipping real product improvements in a complex
+    setting.
+  - Comfortable with C++ or TypeScript so you can hit the ground
+    running.
+  - Experience with performance-intensive applications is a big
+    plus.
+  - Confident in taking ownership of front-end features from
+    start to finish, working collaboratively with backend
+    services, and debugging across the stack.
+  - You enjoy talking with users, turning feedback into product
+    improvements, and seeing your work solve real problems in
+    the field.
+  - Experience with CAD/BIM or a prior product‑company
+    background.
+
+  What you'll do
+
+  - Write, review, and maintain clean, well-tested code across
+    the stack; drive best practices for code quality,
+    performance, security, and observability.
+  - Build and optimize performance-critical features in C++ or
+    TypeScript, from our core library to WebAssembly
+    components in the browser.
+  - Improve frontend architecture, component libraries, state
+    management, build pipelines, and performance at scale.
+  - Manage and maintain databases, APIs, and other backend
+    services, ensuring reliability, performance, and security.
+  - Design and implement flawless UX to enable end users to
+    create quickly and efficiently.
+  - Serve as the technical lead for customer engagements,
+    translating user feedback and pain points into product
+    features and bug fixes.
+  - Communicate technical trade-offs and progress clearly to
+    both technical and non-technical stakeholders in English
+    and Swedish.
+
+  Our current tech stack
+
+  - Core Logic (C++23): A high-performance, modern C++23
+    codebase developed from scratch. It underpins our system
+    with geometric primitives, advanced optimization
+    algorithms, and the core business logic essential for our
+    MEP (Mechanical, Electrical, Plumbing) decision-making and
+    validation frameworks.
+  - Backend Services (TypeScript/GCP): A lightweight
+    asynchronous TypeScript API deployed on GCP. It manages
+    database interactions (Postgres), generates required
+    reports, and interfaces with our high-speed C++ Core
+    library.
+  - Frontend Interface (Svelte/TypeScript/WebAssembly): A
+    compact, high-performance CAD application delivered
+    directly in the user's browser. It is built using Svelte,
+    extensive custom TypeScript, and WebAssembly components,
+    ensuring a minimal, clean, and highly responsive user
+    experience.
+
+  How we operate
+
+  - Less is more: We simplify and ship smaller, fast.
+  - Build the right things: We listen carefully and build what
+    users actually need.
+  - Velocity & Quality: We build things that last, but we don’t
+    perfect them forever.
+  - Trust & Collaboration: Strong opinions, loosely held.
+
+  What We Offer
+
+  - Competitive salary and equity.
+  - Employee-friendly equity terms.
+  - Private health insurance.
+  - Regular team events and off-sites.
+  - An inspiring, ambitious, and global work environment.
+
+  Ready to move the needle?
+
+  Do you feel this is your opportunity to do your most
+  meaningful work and reshape an entire industry? Let's talk!
+industries:
+  - Artificial Intelligence
+  - Software
+  - PropTech
+  - Automation
+posted_date: 2026-08-04
+url: "https://builtin.com/job/software-engineer-product/9727939"
+source: Built In

@@ -1,0 +1,118 @@
+job_id: 10650998
+title: Staff Software Engineer – Full Stack
+company: Claryo, Inc.
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 14 Employees
+description: |
+  We’re looking for a Staff Full Stack Engineer to own the
+  product layer of our system. You’ll be responsible for the
+  frontend experience and the API/application layer—working
+  across the stack to deliver reliable, end-to-end product
+  workflows. You’ll collaborate closely with backend/data
+  engineers and SRE, shaping how systems come together at the
+  product layer, and contributing wherever needed to ship
+  features. You’ll play a key role in moving us from early
+  deployments to a repeatable product across multiple
+  facilities. This is a high-ownership role. You will define
+  patterns, unblock teams, and help shape how the product
+  works—not just how it’s implemented. We've found tremendous
+  value in collaborative problem-solving, so our team works
+  from our SF office three days a week.
+
+  Key Responsibilities
+
+  - Drive the development of our frontend (Next.js /
+    TypeScript), leveraging modern code-generation
+    agentsArchitect and oversee the API/application layer,
+    focusing on system integration, security, and data
+    integrity
+  - Design robust end-to-end product workflows, acting as the
+    primary reviewer and quality gatekeeper for automated code
+    contributions
+  - Implement strict automated testing and CI/CD pipelines to
+    ensure reliability and safety of the features
+  - Build and maintain:
+    - Customer-facing UI for live operations and analytics
+    - Internal tools for configuring and deploying facilities
+  - Collaborate with product to translate high-level
+    requirements into concrete workflows and implementations
+  - Collaborate with backend engineers to define and evolve API
+    contracts and data interactions
+  - Improve performance, reliability, and maintainability of the
+    frontend
+  - Implement and maintain frontend and API testing and CI
+    workflows
+  - Own authentication flows and system integration at the
+    product layer
+
+  Required Qualifications
+
+  - Strong experience with TypeScript and React (Next.js or
+    similar)
+  - Experience building and maintaining API layers using backend
+    frameworks (Python, Node, or similar)
+  - 5+ years building and shipping production systems
+  - Experience owning end-to-end features or products, not just
+    isolated components
+  - Comfortable working across the stack (frontend + API layer)
+  - Strong ownership and product mindset, with the ability to
+    operate in ambiguous, fast-moving environments
+
+  Preferred Qualifications
+
+  - Experience building real-time or data-heavy applications
+    (e.g., streaming, time-series, or analytics systems)
+  - Experience working with authentication systems (e.g., login
+    flows, session management, SSO integrations)
+  - Experience working with systems deployed outside pure cloud
+    environments (e.g., on-prem, edge, or hardware-integrated
+    systems)
+
+  How We Work with Product & Design
+
+  - You will often start from high-level product goals, not
+    detailed specifications. You’re expected to help define:
+    - workflows
+    - user interactions
+    - system behavior
+  - You’ll collaborate with product and design, but also fill in
+    gaps and move work forward independently
+
+  Why This Role Matters
+
+  We’re scaling from a small number of deployments to many,
+  and this role is critical in making that happen. We need:
+
+  - A product layer that can support multiple facilities and
+    configurations
+  - Internal tools that make deployments repeatable
+  - Clear workflows that work in real-world environments
+
+  Engineers who can move quickly without breaking the system
+
+  Equal Opportunity Statement
+
+  We’re an equal opportunity employer that values diversity
+  and inclusion. We welcome teammates of all backgrounds and
+  don’t discriminate based on race, color, religion, sex,
+  sexual orientation, gender identity, national origin,
+  disability, or veteran status.
+
+  Benefits
+
+  At Claryo, we offer a competitive benefits package that
+  supports your health and well-being, including — top-tier
+  medical, dental, and vision coverage, 401k with employer
+  matching, parental leave, and unlimited vacation.
+industries:
+  - Artificial Intelligence
+  - Logistics
+  - Robotics
+  - Software
+posted_date: 2026-08-12
+url: "https://builtin.com/job/staff-software-engineer-full-stack/10650998"
+source: Built In

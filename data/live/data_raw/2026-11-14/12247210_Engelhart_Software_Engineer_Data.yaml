@@ -1,0 +1,204 @@
+job_id: 12247210
+title: Software Engineer, Data
+company: Engelhart
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 404 Employees
+description: |
+  About Us
+
+  Engelhart was founded in 2013 by BTG Pactual Group as a
+  commodities trading company. Our business model is “asset
+  light” and highly diversified – giving us the ability to
+  adapt effectively and nimbly to changing market conditions.
+  We have assembled successful multidisciplinary teams,
+  leveraging advanced fundamental analysis with deep
+  quantitative and weather research capabilities.  Our
+  activities are underpinned by strong risk management
+  practices and by powerful technology and operational
+  excellence. We have exceptional teams with diverse global
+  backgrounds and decades of experience, and are driven by a
+  highly collaborative culture, across products and
+  competencies.
+
+  In 2024, Engelhart acquired Trailstone, a global energy
+  trading and technology company. The acquisition provides us
+  with new expertise, analytics and proprietary technology
+  which is being used to provide risk management and
+  optimisation services to help maximise the value of our
+  clients’ renewable power. The acquisition also expanded
+  Engelhart’s capabilities into physical natural gas across
+  North America, a critical fuel to support the energy
+  transition.
+
+  Our talented and experienced individuals work together
+  according to its four company values: Performance, Agility,
+  Collaboration, Entrepreneurship.
+
+  About the Role
+
+  As a member of the Data team, you will help build the
+  services, infrastructure, and data platforms that power our
+  business. Our team is responsible for ingesting, processing,
+  storing, and distributing large volumes of data reliably and
+  efficiently, enabling teams across the business to make
+  data-driven decisions and build innovative products.
+
+  This role sits at the intersection of backend software
+  engineering and data engineering, with an emphasis on data
+  engineering. You will build and maintain data pipelines,
+  develop backend services for data ingestion and access, and
+  contribute to the data infrastructure that enables reliable,
+  cost-effective, and high-performance data processing.
+
+  You'll work closely with software engineers, DevOps
+  engineers, product managers, data consumers, and more
+  experienced colleagues, who will provide guidance, code
+  reviews, and support as you grow. While the role involves
+  technical collaboration across the organization, it is
+  primarily focused on engineering rather than stakeholder
+  management.
+
+  We are a trading company, so business requirements change
+  quickly, and priorities can shift. We are looking for
+  someone who enjoys solving technical problems, takes
+  ownership of their work, is eager to learn, and makes
+  pragmatic engineering decisions in a dynamic environment.
+
+  Responsibilities
+
+  - Build and maintain reliable data pipelines and ingestion
+    workflows for structured and unstructured data from a
+    variety of internal and external sources, including
+    fetching data from external providers.
+  - Develop and maintain backend services and APIs (e.g.,
+    FastAPI) that support data ingestion, processing, and
+    distribution, including asynchronous ingestion at scale.
+  - Transform and process data using Python and Pandas.
+  - Contribute to reusable frameworks and tooling that simplify
+    onboarding new data sources and improve developer
+    productivity.
+  - Work with data lakes, analytical and relational databases,
+    and contribute to their design and optimization together
+    with senior colleagues.
+  - Help catalogue and document the data we own so it can be
+    discovered and used by others.
+  - Help improve the reliability, scalability, observability,
+    and cost-efficiency of our data infrastructure.
+  - Integrate data across multiple systems while reducing
+    duplication and ensuring high data quality.
+  - Contribute to orchestration workflows and automated data
+    processing pipelines.
+  - Build internal libraries and services that enable other
+    engineering teams to access and consume data efficiently.
+  - Monitor, troubleshoot, and fix issues in production systems
+    and data pipelines, escalating when needed.
+  - Participate in architecture discussions and technical
+    decisions across the data platform.
+  - Collaborate with software engineers, DevOps engineers,
+    product managers, and data consumers to deliver high-
+    impact solutions.
+  - Build and maintain simple internal self-service tools,
+    occasionally including a user interface.
+  - Use AI coding assistants (e.g., GitHub Copilot) responsibly
+    to speed up development, while remaining accountable for
+    the design, correctness, and quality of your code.
+  - Identify opportunities to simplify systems, improve
+    automation, and reduce operational overhead.
+
+  About You
+
+  The following education, experience, and skills are
+  essential for this role:
+
+  - Background in Computer Science, Software Engineering,
+    Information Systems, or equivalent practical experience.
+  - Around 2+ years of professional experience in data
+    engineering or backend development, with a focus on data
+    pipelines and data-intensive systems.
+  - Professional experience developing applications and services
+    using Python, including data processing with Pandas or
+    similar libraries.
+  - Experience building or working with data pipelines (ETL/ELT)
+    or data processing systems.
+  - Solid SQL skills and experience working with relational
+    databases (e.g., PostgreSQL, SQL Server).
+  - Experience building RESTful APIs and backend services.
+  - Familiarity with containerized applications (e.g., Docker)
+    and basic software delivery practices such as Git and
+    CI/CD.
+  - Hands-on grounding in software engineering fundamentals:
+    software design principles, programming paradigms,
+    testing, and maintainability. You must be able to write,
+    read, debug, and reason about code yourself.
+  - Experience using AI coding assistants (e.g., GitHub Copilot)
+    as a tool to work faster, including prompting them
+    effectively and critically reviewing their output. AI
+    supports your work; it does not replace your own
+    engineering judgement.
+  - Ability to work in a fast-paced environment with changing
+    requirements, and to make pragmatic trade-offs.
+  - Good problem-solving and analytical skills.
+  - Ability to work independently on well-defined tasks while
+    collaborating effectively within a team, and to ask for
+    help when needed.
+  - Ownership mentality and willingness to learn and take on
+    more responsibility over time.
+  - Good communication skills and fluent English.
+  - Ideally, you have worked in a trading or similarly fast-
+    moving business environment, such as commodities,
+    financial services, or renewable energy.
+
+  The following experience is desirable (not required):
+
+  - Experience with cloud platforms, preferably AWS (e.g., S3,
+    Glue, Athena, SQS, Lambda, ECS, CloudWatch).
+  - Experience with analytical databases or query engines such
+    as ClickHouse, Athena/Presto, or similar.
+  - Familiarity with data lake or data warehouse concepts and
+    file formats such as Parquet.
+  - Experience with workflow orchestration tools such as
+    Airflow.
+  - Experience building services using FastAPI or similar modern
+    Python frameworks.
+  - Familiarity with messaging and asynchronous processing
+    patterns, or streaming platforms such as Kafka.
+  - Exposure to Infrastructure as Code and cloud-native
+    architectures.
+  - Interest in distributed systems and high-throughput data
+    processing.
+  - Exposure to observability, monitoring, and performance
+    tuning.
+  - Experience working in Agile software development
+    environments.
+  - Experience with frontend development (e.g.,
+    JavaScript/TypeScript, React) for building internal tools.
+
+  What we offer
+
+  - Competitive compensation and participation in Engelhart’s
+    discretionary bonus plan.
+  - 28 days of annual holiday entitlement plus Berlin public
+    holidays.
+  - €3,000 per year contribution to a private pension scheme on
+    your behalf.
+  - €20 monthly subsidy towards BVG tickets.
+  - €25 monthly subsidy towards ClassPass membership.
+  - A subsidy for German language courses to help you immerse
+    yourself in the local culture.
+  - A sociable working environment with an open, international
+    culture.
+
+  We believe in inclusivity and are therefore dedicated to
+  ensuring all employees – across gender identity, race,
+  ethnicity, sexual orientation, religion, life experience,
+  background and more – feel welcome and included in the
+  company. We promote diversity because we believe it is
+  essential to our ability to think holistically.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-11-13
+url: "https://builtin.com/job/software-engineer-data/12247210"
+source: Built In

@@ -1,0 +1,87 @@
+job_id: 10227576
+title: Senior Software Engineer Full-stack
+company: InsightRX
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  InsightRX | Engineering
+
+  About the Role
+
+  InsightRX is looking for a Full Stack Engineer to help build
+  our Astra AI platform — a system that combines a modern web
+  application with conversational AI agents to support
+  pharmacokinetic/pharmacodynamic (PK/PD) analysis and
+  clinical trial data workflows. You'll work across the
+  client, server, and agent layers, understanding how they fit
+  together end to end: how the frontend talks to the API, how
+  the API queues and tracks work, and how LLM-powered agents
+  process data and return results.
+
+  This is a strong fit for someone who enjoys working across
+  the stack, is comfortable navigating both traditional web
+  application architecture and newer LLM-agent design
+  patterns, and wants to build tools used directly in
+  pharmaceutical R&D decision-making.
+
+  What You'll Work On
+
+  - Build and maintain features across our React/TypeScript
+    client and NestJS/TypeScript backend, including UI
+    components, REST APIs, and the data layer connecting them.
+  - Design and extend the client-server architecture: state
+    management, routing, authentication (including SSO/SAML),
+    real-time updates via WebSockets, and background job
+    processing via AWS SQS.
+  - Collaborate on the integration layer between the web app and
+    our LLM-based agents — message schemas, queue-based
+    communication, and file/data handoff.
+  - Work with our conversational AI agent system, which
+    orchestrates multiple specialized agents for statistical
+    modeling, data quality checks, and PK/PD analysis
+    workflows.
+  - Contribute to database schema design and migrations
+    (PostgreSQL/Sequelize), API documentation (Swagger), and
+    test coverage (Jest, pytest).
+  - Participate in code review, architecture discussions, and
+    production support across the stack.
+
+  What We're Looking For
+
+  - Strong professional experience building production level
+    full stack web applications, comfortable owning features
+    from database to UI.
+  - Strong TypeScript skills across both frontend (React) and
+    backend (Node.js/NestJS) contexts.
+  - Experience designing REST APIs, relational data models
+    (PostGresSQL, MongoDB), and authentication/authorization
+    flows.
+  - Familiarity with message-queue or event-driven architectures
+    (SQS, similar).
+  - Comfort reading and reasoning about systems that integrate
+    with LLMs — understanding agent/tool patterns, prompt-
+    driven workflows, and the practical quirks of working with
+    LLM output, even without deep AI/ML research background.
+  - Strong problem-solving, ownership, and ability to debug
+    across web applications and nondeterministic AI behavior.
+  - Uses Claude Code, Codex, or similar AI coding tools
+    effectively while understanding, validating, and taking
+    responsibility for the resulting code.
+  - Good instincts for reliability and correctness in domains
+    where data quality matters — you ask "what happens when
+    this fails or the data is malformed."
+  - Clear communicator, comfortable working across an evolving
+    codebase with detailed technical documentation.
+  - Operate with a high level of independence and cope with
+    ambiguity
+
+  Nice to Have
+
+  - Experience with LLM agent architecture a plus
+  - Experience with SAML SSO, multi-tenant systems, or
+    healthcare/life-sciences software.
+posted_date: 2026-08-11
+url: "https://builtin.com/job/senior-software-engineer-full-stack/10227576"
+source: Built In

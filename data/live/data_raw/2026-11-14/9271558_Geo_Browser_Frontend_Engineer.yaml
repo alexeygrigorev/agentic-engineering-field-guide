@@ -1,0 +1,40 @@
+job_id: 9271558
+title: Frontend Engineer
+company: Geo Browser
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 11000 Employees
+description: |
+  We're building an exciting new world on top of blockchains
+  and decentralized networks. You'll be building the user
+  interface that helps communities organize knowledge and
+  information, come to consensus on the state of a shared
+  knowledge graph, and browse all of this information in a
+  verifiable way.
+
+  What you'll do
+
+  - Bring new functionality to life through carefully crafted
+    user interfaces
+  - Implement complex React components from drag & drop to
+    virtualized rendering of large data collections
+
+  Tech
+
+  - React frontend with Emotion, using hooks for the
+    composability of functionality
+  - Legend State for binding the data model to the UI
+  - IPFS / Arweave for storing data
+  - Polygon / other Layer 2's for anchoring data on the
+    blockchain
+  - The Graph for indexing and querying public data over GraphQL
+  - Design system with React component library
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Generative AI
+posted_date: 2026-08-16
+url: "https://builtin.com/job/frontend-engineer/9271558"
+source: Built In

@@ -1,0 +1,78 @@
+job_id: 11828074
+title: Staff Backend Engineer
+company: Emumba
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 750 Employees
+description: |
+  We're looking for a highly skilled Staff Backend Engineer to
+  design and build robust, scalable, and secure distributed
+  systems. As a critical member of our engineering team,
+  you'll use your expertise in Python to build cloud-native
+  applications that power our core services. We currently
+  operate in an AWS environment, and the core need is strong
+  distributed systems and backend fundamentals.
+
+  Key Responsibilities
+
+  - Build backend logic for event-driven systems using message
+    queues and pub/sub services, with strong data processing
+    and file-handling logic.
+  - Manage concurrent tasks efficiently in distributed
+    environments using asynchronous programming techniques.
+  - Design and implement data processing pipelines across cloud
+    storage, compute, and database services.
+  - Optimize applications for performance and scalability
+    through caching, async calls, and latency reduction.
+  - Design and develop serverless applications and RESTful APIs
+    using Flask or FastAPI.
+  - Follow cloud security best practices (IAM, encryption,
+    network isolation), and implement authentication
+    mechanisms (OAuth, JWT, or managed identity services).
+
+  Skills, Knowledge and Expertise Must-Have Skills
+
+  - 5+ years of hands-on Python backend development experience,
+    with solid exposure to cloud-native or serverless
+    solutions (AWS preferred).
+  - Proven experience with distributed systems concepts — event-
+    driven architecture, message queues, and scalable data
+    pipelines.
+  - Hands-on experience with asynchronous and concurrent
+    programming.
+  - Strong testing and debugging skills across distributed
+    architectures.
+
+  Nice-to-Have
+
+  - Exposure to GenAI tooling or LLM-based systems, particularly
+    RAG or agentic RAG architectures, is a plus.
+  - Experience integrating LLM APIs into backend services or
+    workflows.
+  - Familiarity with vector databases and embedding-based
+    search.
+
+  Soft Skills
+
+  - Builder mindset: thrives on writing, debugging, and
+    improving production code.
+  - Collaborative, humble, and open to feedback.
+  - Strong communicator who explains design decisions clearly.
+  - Influences through contribution, not hierarchy.
+
+  About Emumba is a global engineering and consulting company
+  with strengths in software development and an established
+  AWS cloud practice focused on Data and GenAI. For 15 years,
+  our teams across the US, the UAE, and Pakistan have earned
+  trust through quality delivery and ownership of work. We
+  look for people who value the culture they work in as much
+  as the craft they bring to it.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Information Technology
+  - Software
+posted_date: 2026-10-23
+url: "https://builtin.com/job/staff-backend-engineer/11828074"
+source: Built In

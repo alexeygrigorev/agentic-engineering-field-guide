@@ -1,0 +1,339 @@
+job_id: 12149393
+title: Principal Software Engineer / Architect – AI – Legal FDE
+company: Thomson Reuters
+location: Frisco, USA
+locations:
+  - Frisco, USA
+  - Eagan, USA
+  - Toronto, CAN
+  - New York, USA
+  - Washington, USA
+work_type: FULL_TIME
+company_size: 33,822 Employees
+description: |
+  Job Description
+
+  Thomson Reuters is looking for a recognized technical
+  authority to set the direction for how the world's top law
+  firms and corporate legal departments adopt AI. CoCounsel is
+  trusted by over 20,000 law firms and corporate legal
+  departments, including the majority of top US courts and Am
+  Law 100 firms, and is used by one million professionals
+  across 107 countries.
+
+  As the senior-most individual contributor on the Forward
+  Deployed Engineering (FDE) team, you will define and drive
+  the technology strategy and roadmap for designing, building,
+  and operating bespoke AI solutions. You will own the team's
+  most complex, highest-risk, and most strategically important
+  engagements, working alongside Staff Software Engineers and
+  Architects, Senior Legal AI Engineers, and AI Solution
+  Engineers. You will partner with Product, Engineering, and
+  business leadership to align FDE work with CoCounsel's long-
+  term objectives.
+
+  This is a hands-on technical leadership role with broad
+  influence. You will make high-stakes architectural decisions
+  with autonomy, raise the engineering bar across the team and
+  beyond, and help make the team AI-native in everything it
+  does.
+
+  Key Responsibilities
+
+       Technical Vision and Strategy
+
+  - Define and drive the long-term technical vision and strategy
+    for FDE, including vision documents, technology
+    requirements, and roadmaps tied to product and business
+    objectives.
+  - Lead the selection, evaluation, and adoption of
+    technologies, frameworks, and patterns, and build
+    consensus across teams.
+  - Identify where emerging capabilities such as agentic
+    systems, MCP and A2A interoperability, and new model and
+    orchestration patterns could cause a transformational
+    shift, and communicate the opportunities and trade-offs to
+    senior leadership.
+  - Contribute to cross-functional and cross-business-unit
+    engineering strategy, standards, and, where appropriate,
+    patents.
+
+       Architecture and Delivery of Complex AI Systems
+
+  - Lead complex, high-risk, high-visibility AI initiatives from
+    concept through production, staying hands-on in design,
+    prototyping, and code for the hardest problems.
+  - Architect scalable, secure AI systems that integrate with
+    client environments, including document management
+    systems, enterprise platforms, and legal technology
+    ecosystems.
+  - Design RAG pipelines, multi-agent orchestration, event-
+    driven backends, and agentic workflows using CoCounsel,
+    Westlaw, and Practical Law capabilities, plus third-party
+    AI APIs.
+  - Build reusable AI components, frameworks, and solution
+    templates that scale delivery across the team.
+  - Set standards for MLOps/LLMOps, Infrastructure as Code, and
+    CI/CD so delivery is secure, repeatable, and fast.
+  - Identify weaknesses in existing designs and drive remedies.
+
+      Quality, Observability, and Trust
+
+  - Set the strategy for AI monitoring and observability,
+    covering performance, output quality, latency, cost, and
+    production reliability risk.
+  - Own LLM evaluation, including accuracy, hallucination risk,
+    citation quality, A/B testing, and red-teaming, and define
+    quality benchmarks grounded in real legal workflows.
+  - Ensure every solution meets ethical AI, data protection, and
+    enterprise security requirements.
+  - Drive operational excellence across the software development
+    lifecycle, including post-launch measurement.
+
+       Client and Stakeholder Engagement
+
+  - Act as the senior technical voice in discovery on high-value
+    engagements, scoping use cases, shaping architectures, and
+    building credibility with legal and technical executives.
+  - Present complex technical concepts and strategy to audiences
+    from engineers to business unit executives, and negotiate
+    solutions between key stakeholders.
+  - Work with legal SMEs to translate professional reasoning and
+    domain heuristics into pipeline design, evaluation
+    criteria, and benchmarks.
+  - Anticipate customer and market needs and feed field insights
+    back into the product roadmap.
+
+       Leadership, Mentorship, and Culture
+
+  - Mentor and coach Staff, Senior, and Lead engineers, and
+    indirectly lead a small team of engineers and technical
+    experts on ambiguous problems.
+  - Review architecture and design at team and sub-unit levels
+    and give authoritative feedback.
+  - Strengthen engineering culture through knowledge sharing and
+    by championing AI-native tools and practices.
+  - Work with program and project managers to bring the
+    technical dimension into status and risk reporting, and
+    consult on budgets for large programs where applicable.
+  - Represent Thomson Reuters externally through speaking,
+    publications, community engagement, or open-source and
+    standards participation.
+
+  Required Qualifications
+
+  - 12+ years of software engineering experience, with deep
+    expertise in system design, distributed systems, and
+    architecture, and a track record of leading highly
+    complex, high-risk projects.
+  - Extensive experience owning technical requirements and
+    strategy, setting technology roadmaps, and prioritizing
+    between competing features and investments.
+  - Expert-level, hands-on experience building and deploying
+    AI/ML and LLM-powered applications in production.
+  - Deep proficiency with orchestration frameworks such as
+    LangChain, LangGraph, PydanticAI, or AutoGen, and expert
+    understanding of RAG architectures and vector databases.
+  - Hands-on experience with Model Context Protocol (MCP) and
+    Agent-to-Agent (A2A) patterns for interoperable, tool-
+    augmented AI systems.
+  - Expert Python (FastAPI or equivalent), with strong
+    experience in RESTful, async, and event-driven
+    architectures.
+  - Experience with a major cloud platform (AWS, Azure, or GCP)
+    and Infrastructure as Code (Terraform, CDK, or
+    equivalent).
+  - Production observability experience (Datadog, Grafana,
+    Prometheus, or similar) and experience with AI evaluation
+    platforms (LangSmith, Langfuse, Braintrust, or W&B).
+  - Strong background in secure API development using OAuth 2.0,
+    OpenID Connect, and JWT.
+  - Demonstrated fluency with AI-assisted development tools
+    (Claude Code, Cursor, GitHub Copilot) and a track record
+    of driving AI-native engineering practices.
+  - Proven ability to influence across teams and domains, advise
+    senior leadership, and communicate complex ideas at
+    multiple levels of an organization.
+  - Autonomy, sound judgment, comfort with ambiguity in a fast-
+    paced agile environment, and strong attention to detail.
+  - Recognized as a technical role model and leader in your
+    field.
+
+  Preferred Qualifications
+
+  - Experience in a regulated industry (legal, fintech, or
+    healthcare), with familiarity with compliance and data
+    privacy requirements.
+  - Experience building agentic AI systems with autonomous
+    decision-making.
+  - Familiarity with legal platforms, document management
+    systems, and legal technology ecosystems.
+  - Container orchestration (Docker/Kubernetes) and MLOps/LLMOps
+    lifecycle management.
+  - Understanding of transformer model scaling, limitations, and
+    fine-tuning.
+  - External presence through conference talks, publications,
+    patents, open-source contributions, or standards
+    participation.
+  - Experience developing vision documents and leading cross-
+    business-unit technology strategy.
+
+  #LI-GK1
+
+  This posting is for proactive recruitment purposes and may
+  be used to fill current openings or future vacancies within
+  our organization.
+
+  What’s in it For You?
+
+  - Hybrid Work Model: We’ve adopted a flexible hybrid working
+    environment for our office-based roles while delivering a
+    seamless experience that is digitally and physically
+    connected.
+  - Flexibility & Work-Life Balance: Flex My Way is a set of
+    supportive workplace policies designed to help manage
+    personal and professional responsibilities, whether caring
+    for family, giving back to the community, or finding time
+    to refresh and reset. This builds upon our flexible work
+    arrangements, including work from anywhere for up to 8
+    weeks per year, empowering employees to achieve a better
+    work-life balance.
+  - Career Development and Growth: By fostering a culture of
+    continuous learning and skill development, we prepare our
+    talent to tackle tomorrow’s challenges and deliver real-
+    world solutions. Our Grow My Way programming and skills-
+    first approach ensures you have the tools and knowledge to
+    grow, lead, and thrive in an AI-enabled future.
+  - Industry Competitive Benefits: We offer comprehensive
+    benefit plans to include flexible vacation, two company-
+    wide Mental Health Days off, access to the Headspace app,
+    retirement savings, tuition reimbursement, employee
+    incentive programs, and resources for mental, physical,
+    and financial wellbeing.
+  - Culture: Globally recognized, award-winning reputation for
+    inclusion and belonging, flexibility, work-life balance,
+    and more. We live by our values: Obsess over our
+    Customers, Compete to Win, Challenge (Y)our Thinking, Act
+    Fast / Learn Fast, and Stronger Together.
+  - Social Impact: Make an impact in your community with our
+    Social Impact Institute. We offer employees two paid
+    volunteer days off annually and opportunities to get
+    involved with pro-bono consulting projects and
+    Environmental, Social, and Governance (ESG) initiatives.
+  - Making a Real-World Impact: We are one of the few companies
+    globally that helps its customers pursue justice, truth,
+    and transparency. Together, with the professionals and
+    institutions we serve, we help uphold the rule of law,
+    turn the wheels of commerce, catch bad actors, report the
+    facts, and provide trusted, unbiased information to people
+    all over the world.
+
+  Our use of AI within the recruitment process Thomson Reuters
+  utilizes Artificial Intelligence (AI) to support parts of
+  our global recruitment process. Unless you opt-out, our AI
+  system will assess the information provided by you and
+  compare it to the requirements listed for the role, and
+  present the result to our recruitment personnel for further
+  review. The AI system acts as a supporting tool, but there
+  is always a human making the decision if you will be
+  considered for the role.
+
+  In the United States, Thomson Reuters offers a comprehensive
+  benefits package to our employees. Our benefit package
+  includes market competitive health, dental, vision,
+  disability, and life insurance programs, as well as a
+  competitive 401k plan with company match. In addition,
+  Thomson Reuters offers market leading work life benefits
+  with competitive vacation, sick and safe paid time off, paid
+  holidays (including two company mental health days off),
+  parental leave, sabbatical leave. These benefits meet or
+  exceeds the requirements of paid time off in accordance with
+  any applicable state or municipal laws. Finally, Thomson
+  Reuters offers the following additional benefits: optional
+  hospital, accident and sickness insurance paid 100% by the
+  employee; optional life and AD&D insurance paid 100% by the
+  employee; Flexible Spending and Health Savings Accounts;
+  fitness reimbursement; access to Employee Assistance
+  Program; Group Legal Identity Theft Protection benefit paid
+  100% by employee; access to 529 Plan; commuter benefits;
+  Adoption & Surrogacy Assistance; Tuition Reimbursement; and
+  access to Employee Stock Purchase Plan.
+
+  Thomson Reuters complies with local laws that require
+  upfront disclosure of the expected pay range for a position.
+  The base compensation range varies across locations.
+
+  Eligible office location(s) for this role include one or
+  more of the following: New York City, San Francisco, Los
+  Angeles, and/or Irvine, CA; McLean, VA; Washington, DC. The
+  base compensation range for the role in any of those
+  locations is $183,100 USD - $340,000 USD. For any eligible
+  US locations, unless otherwise noted, the base compensation
+  range for this role is $158,900 USD - $295,100 USD.
+
+  Base pay is positioned within the range based on several
+  factors including an individual’s knowledge, skills and
+  experience with consideration given to internal equity. Base
+  pay is one part of a comprehensive Total Reward program
+  which also includes flexible and supportive benefits and
+  other wellbeing programs. This role may also be eligible for
+  an Annual Bonus based on a combination of enterprise and
+  individual performance.
+
+  About Us
+
+  Thomson Reuters informs the way forward by bringing together
+  the trusted content and technology that people and
+  organizations need to make the right decisions. We serve
+  professionals across legal, tax, accounting, compliance,
+  government, and media. Our products combine highly
+  specialized software and insights to empower professionals
+  with the data, intelligence, and solutions needed to make
+  informed decisions, and to help institutions in their
+  pursuit of justice, truth, and transparency. Reuters, part
+  of Thomson Reuters, is a world leading provider of trusted
+  journalism and news.
+
+  We are powered by the talents of 26,000 employees across
+  more than 70 countries, where everyone has a chance to
+  contribute and grow professionally in flexible work
+  environments. At a time when objectivity, accuracy,
+  fairness, and transparency are under attack, we consider it
+  our duty to pursue them. Sound exciting? Join us and help
+  shape the industries that move society forward.
+
+  As a global business, we rely on the unique backgrounds,
+  perspectives, and experiences of all employees to deliver on
+  our business goals. To ensure we can do that, we seek
+  talented, qualified employees in all our operations around
+  the world regardless of race, color, sex/gender, including
+  pregnancy, gender identity and expression, national origin,
+  religion, sexual orientation, disability, age, marital
+  status, citizen status, veteran status, or any other
+  protected classification under applicable law. Thomson
+  Reuters is proud to be an Equal Employment Opportunity
+  Employer providing a drug-free workplace.
+
+  Thomson Reuters makes reasonable accommodations for
+  applicants with disabilities, including veterans with
+  disabilities, and for sincerely held religious beliefs in
+  accordance with applicable law. If you reside in the United
+  States and require an accommodation in the recruiting
+  process, you may contact our Human Resources Department at
+  HR.Leave-Expert@thomsonreuters.com. Disability
+  accommodations in the recruiting process may include things
+  like a sign language interpreter, making interview rooms
+  accessible, providing assistive technology, or other
+  relevant accommodations. Please note this email is not
+  intended for general recruitment questions and we will
+  promptly respond to inquiries regarding accommodations. More
+  information on requesting an accommodation here.
+
+  Learn more on how to protect yourself from fraudulent job
+  postings here.
+
+  More information about Thomson Reuters can be found on
+  thomsonreuters.com
+posted_date: 2026-11-10
+url: "https://builtin.com/job/principal-software-engineer-architect-ai-legal-fde/12149393"
+source: Built In

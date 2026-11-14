@@ -1,0 +1,86 @@
+job_id: 7242755
+title: Software Engineer
+company: Campfire
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 44 Employees
+description: |
+  About Us Campfire is an AI-native ERP system. Finance teams
+  at fast-growing companies and the fractional CFO firms that
+  serve them use us to close their books in hours (not weeks),
+  recognize revenue, run AP and AR, and consolidate entities.
+  Ember, our AI, works on the ledger alongside them. We came
+  out of Y Combinator (S'23) and raised a $65M Series B led by
+  Accel and Ribbit Capital. About the Role As a Software
+  Engineer at Campfire, you will own real product surface area
+  from design through production. You will build across our
+  Python/Django backend and our Next.js/React frontend, in a
+  product where correctness is a non-negotiable: the general
+  ledger, revenue recognition, invoicing, bills, bank and
+  payment integrations, and the financial close. You will work
+  close to customers' needs and see your work in production in
+  days (not quarters). What You'll Do
+
+  - Own features end to end: scope the problem, write a short
+    design, build it, ship it and monitor it.
+  - Build backend services in Python/Django (DRF, Celery,
+    PostgreSQL) for multi-tenant accounting workflows.
+  - Build fast, polished interfaces in Next.js, React and
+    Tailwind for dense, data-heavy workflows such as tables,
+    ledgers, reconciliation and reporting.
+  - Integrate with banks, payment processors, ERPs and CRMs, and
+    keep those integrations reliable.
+  - Protect data correctness: ledger integrity, closed periods,
+    idempotent jobs, safe migrations, and performance as
+    customers scale.
+  - Write well-tested code and review teammates' work.
+  - Mentor junior engineers: pair with them, give thoughtful
+    code review feedback, and help them grow into owning
+    larger pieces of the product.
+  - Use AI coding tools in your daily work and build features on
+    top of Ember.
+
+  What We're Looking For
+
+  - 5+ years of professional software engineering experience.
+  - Strong Python (Django preferred) and PostgreSQL skills,
+    including schema design, query tuning and migrations on
+    large tables.
+  - Solid React/Next.js and Tailwind experience; you are
+    comfortable across the stack, with real depth on one side.
+  - Experience owning production systems: debugging incidents,
+    fixing root causes, and standing behind what you ship.
+  - Good judgment on tradeoffs, and the ability to turn
+    ambiguous problems into shippable pieces with little
+    structure.
+  - Clear written and verbal communication, and the drive to
+    take projects to the finish line.
+
+  Nice to Have
+
+  - Experience in fintech, accounting, payments or ERP software,
+    or an understanding of double-entry bookkeeping.
+  - Experience with Celery or other async task systems, AWS, and
+    multi-tenant architectures.
+  - Experience building with LLMs or agents.
+  - Experience at an early-stage startup.
+
+  Benefits
+
+  - We pay 100% of your health, dental, and vision premiums and
+    80% for your dependents.
+  - We cater lunch every day, reimburse your commute costs (up
+    to $200/mo), and offer a 401(k).
+  - You also get unlimited PTO and two weeks a year to work
+    remotely from wherever you like.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Analytics
+  - Financial Services
+posted_date: 2026-07-31
+url: "https://builtin.com/job/full-stack-engineer/7242755"
+source: Built In

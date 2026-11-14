@@ -1,0 +1,253 @@
+job_id: 8730447
+title: Full Stack Engineer
+company: Kepler 
+location: New York, USA
+work_type: FULL_TIME
+company_size: 9 Employees
+description: |
+  Introducing KeplerThe Problem
+
+  High-stakes industries are falling behind on AI adoption.
+  Their workflows can’t afford wrong answers. And AI can’t be
+  trusted to give right ones because of hallucinations. The
+  barrier isn’t that the models aren’t smart enough. It’s that
+  no one can verify what they produce. The fix isn’t a better
+  model, it’s a trust layer: every output traceable, every
+  calculation auditable, every answer reproducible.
+
+  What Kepler Is
+
+  Kepler is the agent harness - the infrastructure layer that
+  wraps around AI models to make their outputs reliable,
+  traceable, and verifiable. The model is a replaceable
+  component. The harness is the product.
+
+  In Kepler's architecture, the LLM orchestrates - it decides
+  what data to gather, what to compute, how to structure the
+  output. But every actual data point, every extracted value,
+  every calculation flows through deterministic code
+  pipelines. The LLM never touches the data itself. Every
+  value carries provenance metadata back to its exact source.
+  Every computation is auditable and reproducible.
+  Verification loops cross-check outputs before users ever see
+  them.
+
+  We started in finance because the stakes are highest and the
+  tolerance for error is zero. We’ve built a finance research
+  product that lets analysts supercharge their workflow:
+  pulling comparables, building models and researching
+  filings. No more double-checking every number AI spits out.
+  Every number tracing back to the source, every time.
+
+  But the architecture - provenance, deterministic
+  computation, verification - applies anywhere trust in AI
+  output matters: chemicals, legal, healthcare. Models are
+  commoditizing fast. The trust layer is what's missing and
+  the market is massive.
+
+  The Team
+
+  The founding team spent a combined 40+ years at Palantir
+  building the type of large-scale data infrastructure that
+  Kepler requires. Our founding engineers led Foundry's core
+  systems - Ontology, Fusion, Workshop, FoundryML, created
+  Palantir's first AI platform and scaled data products at
+  Meta to 1B+ users.
+
+  We’ve paired this deep technical foundation with a repeat
+  founder profile. Our CEO built and scaled a data company to
+  $15M ARR before successfully selling it. He then became
+  Citadel's first Head of Business Engineering, experiencing
+  first hand the problems we are now solving. We have a team
+  who’ve been on both sides: building systems like this at
+  massive scale and selling it into the buyers who need it
+  most.
+
+  We’re backed by investors who built the modern AI and data
+  stacks, plus the builders of iconic commercial businesses.
+  This includes founders of OpenAI, Meta AI Research,
+  MotherDuck, dbt Labs and Square as well as PebbleBed,
+  Company Ventures and Mantis VC firms.
+
+  The RoleWhat You'll Own
+
+  You'll build core systems that power Kepler's AI research
+  platform. You'll work across the stack: backend services
+  that orchestrate AI workflows, data pipelines that process
+  billions of data points, and the infrastructure that
+  financial professionals rely on for million-dollar
+  decisions.
+
+  This role is for engineers who want to build foundational
+  technology at the intersection of AI and finance, where your
+  code directly impacts how clients make critical business
+  decisions.
+
+  In the first few weeks you might:
+
+  - Ship the UI for a source explorer that lets users trace any
+    value back to its exact origin in the original document
+  - Build a new extraction pipeline for a data source we don't
+    yet handle - with full provenance tagging and verification
+    integrated from day one
+  - Redesign how our agent orchestrator handles failures and
+    retries so that a bad extraction from one source doesn't
+    block the rest of a parallel workflow
+  - Add verification rules that cross-check extracted values
+    across multiple sources and surface conflicts with full
+    provenance on both sides
+
+  In the longer term, you’ll be given ownership of whole
+  functional areas, from extending our platform to a new
+  industry to leading new architecture as our infrastructure
+  scales.
+
+  You'll consistently own features end-to-end. In a small
+  team, there's nobody to hand things off to.
+
+  How We Work
+
+  We’re a close team, working together in an office in New
+  York. We use AI tools heavily - Cursor, Claude Code,
+  whatever makes us faster. Fluency is assumed. Our users are
+  analysts at firms where a wrong number costs real money. The
+  feedback loop on what you ship is hours, not quarters.
+
+  The pace is startup-fast but the engineering bar is high. We
+  care about getting things right, not just getting things
+  out. If you've worked somewhere that moves fast but ships
+  broken software, this is different. If you've worked
+  somewhere that's rigorous but slow, this is also different.
+
+  The team has strong backgrounds and low ego. We expect
+  everyone to roll up their sleeves and handle the unglamorous
+  problems: the weird regressions, the subtle bugs, the last
+  minute debugging session before a demo. We move as a team,
+  not as a collection of individuals.
+
+  Who You Are
+
+  You've shipped production systems and you care about whether
+  they're correct - not just whether they work on the happy
+  path. You think about failure modes before someone asks you
+  to.
+
+  You're comfortable in a codebase you didn't write, moving
+  between backend services and frontend components in the same
+  day. You're drawn to early-stage not for the title but
+  because you want your work visible in the product, not
+  abstracted behind three layers of management.
+
+  From the technical side:
+
+  - 5+ years building production software. No upper limit, comp
+    scales with experience.
+  - Strong in TypeScript/React. Comfortable in backend work -
+    our backend is Rust, but we don't require Rust experience.
+    We believe strong engineering fundamentals and experience
+    in other languages is what matters.
+  - You've built systems where correctness matters - payments,
+    data infrastructure, healthcare, anything where a wrong
+    output has consequences.
+  - You understand distributed systems basics: concurrency,
+    fault tolerance, retries, idempotency.
+  - You’re a quick learner and are as comfortable in a codebase
+    you wrote as one you’re reading for the first time.
+
+  From the personal side:
+
+  - You care what the analyst does with what you shipped, not
+    whether the code was clever.
+  - You’d rather fix something than file a ticket about it.
+  - You’ll tell someone their design has a flaw before the PR
+    goes in, not after.
+  - You communicate before it’s a problem, and when a teammate
+    needs something from you, they don’t have to ask twice.
+  - You know what it feels like when the plan changes twice in a
+    day and the work still has to ship.
+
+  Don't check every box? Apply anyway. We prioritize problem-
+  solving ability, systems thinking, and drive to build
+  transformative agentic infrastructure.
+
+  Our Technical Stack
+
+  - Backend: Rust - agent orchestration, data extraction,
+    computation pipelines.
+  - Frontend: TypeScript, React - the analyst workspace and
+    verification interfaces.
+  - Data: PostgreSQL, plus direct integrations with official
+    data sources.
+  - Infra: AWS.
+  - AI: Model-agnostic by design. We currently use Claude and
+    GPT. The model is the replaceable part.
+
+  Mentorship & Growth
+
+  You'll be directly mentored by engineers who built
+  Palantir's core systems. Expect:
+
+  - Weekly 1:1s with senior engineers who've built systems at
+    Palantir and Meta scale.
+  - Deep architectural reviews and guidance on system design.
+  - Clear growth path toward technical leadership and system
+    ownership.
+  - Learn by building production systems that power real
+    financial research.
+
+  Working at KeplerOur Benefits
+
+  - 100% covered top-of-the-line medical, dental, and vision
+    insurance for employees and their families. HSA maxed by
+    the company to the IRS limit.
+  - Automatic coverage for life, AD&D, and disability insurance.
+  - Daily lunch in office.
+  - Unlimited PTO policy.
+  - Development environment budget - latest MacBook Pro,
+    multiple monitors, ergonomic setup, and any development
+    tools you need.
+  - "Build anything" budget - dedicated funding for whatever
+    tools, libraries, datasets, or infrastructure you need to
+    solve technical challenges, no questions asked.
+  - Learning budget - attend any conference, course, or program
+    that makes you better at what we're building.
+
+  Our Operating Principles
+
+  - Trust as the Default: People do their best work when
+    confidence is mutual. We show our work, keep our promises,
+    and flag risks before they bite. Trust isn't an aspiration
+    - it's the baseline.
+  - Forward-Deployed with Product DNA: We own customer outcomes
+    while building a product company. We don't win if they
+    don't win.
+  - Extreme Ownership: If you notice a problem, you own it by
+    making sure it doesn’t fall through the cracks. Authority
+    comes from initiative, not job titles. Once you step up,
+    you're accountable for the outcome.
+  - Production-First Engineering: We design for critical
+    workloads from day one. Durable execution, blue/green
+    deploys, automated rollbacks, continuous delivery with
+    end-to-end observability.
+  - Communicate with Intent: Great work disappears without great
+    communication. We push information to the people who need
+    it, when they need it. Silence is never the safe choice.
+  - Earn it Every Day: Your work speaks for itself. We create an
+    environment where the best idea wins, the strongest work
+    gets recognized, and everyone is held to the same high
+    standard.
+  - Keep Raising the Bar: Great teams compound. Every hire
+    raises the bar, every win gets named, every person gets
+    the tools and runway to grow.
+
+  Kepler is an Equal Opportunity Employer and prohibits
+  discrimination and harassment of any kind. We are committed
+  to the principle of equal employment opportunity for all
+  employees and to providing employees with a work environment
+  free of discrimination and harassment.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-08-12
+url: "https://builtin.com/job/full-stack-engineer/8730447"
+source: Built In

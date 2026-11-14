@@ -1,0 +1,108 @@
+job_id: 10832329
+title: Staff Software Engineer, Platform
+company: Luminai
+location: CAN
+locations:
+  - CAN
+  - Fremont, USA
+  - Oakland, USA
+  - Berkeley, USA
+  - San Jose, USA
+  - New York, USA
+  - Santa Clara, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  About Luminai
+
+  Healthcare operations have always depended on people to
+  bridge the gaps that technology couldn't. It relies on
+  complex manual work to carry out critical internal
+  processes, yet most health systems don’t have enough
+  resources to properly automate these tasks, leaving them
+  stuck in outdated, labor-intensive SOPs. Luminai structures
+  the chaos, automates the manual handoffs, and deploys end-
+  to-end workflows across every system, providing the
+  integrated intelligence layer to improve processes over
+  time. By delegating to autonomous AI systems those mission-
+  critical workflows that previously expended valuable human
+  time, Luminai allows doctors and administrators to do what
+  they do best: Focus on Patients. We've raised $60M in
+  funding, including our recent Series B led by Peak XV
+  Partners (formerly Sequoia India), with participation from
+  healthcare-focused Define Ventures and continued support
+  from General Catalyst and Y Combinator. We're backed by some
+  of the best investors in Silicon Valley, including Kevin
+  Weil (Chief Product Officer at OpenAI), Arash Ferdowsi (co-
+  founder of Dropbox), Katie Stanton (former VP Global Media,
+  Twitter), and CEOs of companies such as Flexport, Notion,
+  Front, Ramp, and Twitch.
+
+  Our team is in-office 4 days a week (Monday - Friday,
+  Wednesday optional WFH) in either San Francisco, California
+  or New York, New York.
+
+  About the role
+
+  As a Staff Software Engineer working on Platform, you will
+  play a foundational role in designing, implementing and
+  spearheading the core platform development. The platform is
+  used by organizations worldwide to deploy and scale
+  executable AI automations in mission critical production
+  environments. As a senior member of the engineering team,
+  you are expected to have a strong proficiency in
+  fundamentals of software engineering and exceptional ability
+  to drive technical projects in ambitious technical
+  environments. You will help define, architect and improve
+  key system foundations that allows the overall engineering
+  team to execute effectively and deliver a stellar platform
+  experience for users within a high growth team.
+
+  What You'll Do
+
+  - Design and maintain the core frameworks, libraries, and
+    shared packages that product engineers and FDEs build on
+    every day
+  - Own developer experience end to end, including local dev
+    environments, build systems, CI/CD, test infrastructure,
+    and time-to-first-commit for new hires
+  - Build and maintain the tooling that keeps quality high
+    without slowing anyone down: linters, formatters, static
+    analysis, codegen, and automated checks
+  - Find and remove the bottlenecks in how we ship, then re-
+    architect foundational abstractions to hold up as the team
+    and the product scale
+  - Lead core technical initiatives that set the quality bar in
+    the codebase
+  - Define and scale experimentation, monitoring, reliability,
+    and observability for production systems
+  - Set sane defaults for how the platform handles access
+    control, secrets management, and authentication, so the
+    systems others build on are safe without extra effort
+
+  What We're Looking For
+
+  - 8+ years as a software engineer, including zero to one
+    projects you drove from scratch
+  - Track record of shipping high-quality code on hard problems
+  - Experience building internal frameworks, libraries, or
+    developer tooling that other engineers depended on, and a
+    real interest in making them better
+  - Direct experience designing high performance backend systems
+    in production, with judgment about the architectural
+    trade-offs involved
+  - Working familiarity with a modern infrastructure stack
+    (Kafka, Kubernetes, or similar)
+  - Solid grasp of security fundamentals for backend and cloud
+    systems (authN/authZ, secrets management, encryption)
+
+  Bonus
+
+  - Familiarity with frontend foundations (JS toolchain,
+    bundlers, build systems). Not required, but useful for
+    platform work that reaches into the client
+posted_date: 2026-08-25
+url: "https://builtin.com/job/staff-software-engineer-platform/10832329"
+source: Built In

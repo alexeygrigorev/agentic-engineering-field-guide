@@ -1,0 +1,137 @@
+job_id: 9108439
+title: Lead Software Systems Engineer - GPU  Performance
+company: Nebius
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 473 Employees
+description: |
+  About Nebius:
+
+  Nebius is leading a new era in cloud infrastructure for the
+  global AI economy. We are building a full-stack AI cloud
+  platform that supports developers and enterprises from data
+  and model training through to production deployment, without
+  the cost and complexity of building large in-house AI/ML
+  infrastructure.
+
+  Built by engineers, for engineers. From large-scale GPU
+  orchestration to inference optimization, we own the hard
+  problems across compute, storage, networking and applied AI.
+
+  Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we
+  have a global footprint with R&D hubs across Europe, the UK,
+  North America and Israel. Our team of 1,500+ includes
+  hundreds of engineers with deep expertise across hardware,
+  software and AI R&D.
+
+  We are looking for a Lead Software Systems Engineer - GPU
+  Performance to play a key role in building our hyperscaler
+  platform, working across its core components while analyzing
+  and optimizing the performance of large-scale GPU clusters
+  at the intersection of hardware and software.
+
+  You will operate across the full stack—from hardware and
+  system software to networking (InfiniBand/RoCE),
+  virtualization (KVM/QEMU), and distributed communication
+  layers (e.g., MPI, NCCL).
+
+  In this role you will
+
+  - Focus on understanding system behavior across multiple
+    layers, identifying performance bottlenecks, and driving
+    improvements that shape how our clusters are built,
+    operated, tuned, and validated.
+  - Investigate and troubleshoot performance issues of GPU
+    cluster under real workloads (training and inference)
+  - Evaluate and integrate new hardware, system configurations
+    and tuning approaches through software stack
+  - Support complex performance-related escalations from
+    internal teams and customers
+  - Work closely with infrastructure, software engineering and
+    hardware vendor teams (e.g. NVIDIA, Mellanox, Intel)
+  - Contribute to hardware and cluster qualification
+    (acceptance), ensuring systems meet performance
+    expectations
+
+  We expect you to have:
+
+  - 5+ years of professional experience in system-level software
+    development (focused on performance optimization, low-
+    level programming).
+  - 3+ years of hands-on experience with Linux systems
+    (administration, troubleshooting, and performance tuning).
+  - In-depth understanding of server architecture, including
+    PCIe devices, NICs, Linux OS/Kernel, and high-performance
+    computing (HPC) systems.
+  - Strong proficiency in one or more performance-oriented
+    programming languages (C/C++, Go, Python).
+
+  We conduct coding interviews as part of the process.
+
+  Key employee benefits:
+
+  - Health insurance: 100% company-paid medical, dental and
+    vision coverage for employees and families.
+  - 401(k) plan: Up to 4% company match with immediate vesting.
+  - Parental leave: 20 weeks paid for primary caregivers, 12
+    weeks for secondary caregivers.
+  - Remote work reimbursement: Up to $85/month for mobile and
+    internet.
+  - Disability & life insurance: Company-paid short-term, long-
+    term and life insurance coverage.
+
+  #LI-LH2
+
+  Pay Transparency
+
+  We offer competitive compensation and benefits packages.
+  Actual compensation will be determined based on job-related
+  factors, including experience, skills, qualifications, the
+  level at which the candidate is hired, and geographic
+  location, consistent with applicable law.
+
+  Base Compensation Range
+
+  $170,000—$300,000 USD
+
+  Benefits & Perks:
+
+  - Competitive compensation
+  - Career growth and learning opportunities
+  - Flexibility and ownership
+  - Collaborative and innovative culture
+  - Opportunity to work on impactful AI projects
+  - International environment and talented teams
+
+  What's it like to work at Nebius:
+
+  Fast moving - Bold thinking - Constant growth - Meaningful
+  impact - Trust and real ownership - Opportunity to shape the
+  future of AI
+
+  Equal Opportunity Statement:
+
+  Nebius is an equal opportunity employer. We are committed to
+  fostering an inclusive and diverse workplace and to
+  providing equal employment opportunities in all aspects of
+  employment. We do not discriminate on the basis of race,
+  color, religion, sex (including pregnancy), national origin,
+  ancestry, age, disability, genetic information, marital
+  status, veteran status, sexual orientation, gender identity
+  or expression, or any other characteristic protected by
+  applicable law.
+
+  Applicants must be authorized to work in the country in
+  which they apply and will be required to provide proof of
+  employment eligibility as a condition of hire.
+
+  If you need accommodations during the application process,
+  please let us know.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Consulting
+posted_date: 2026-08-01
+url: "https://builtin.com/job/lead-systems-hpc-engineer/9108439"
+source: Built In

@@ -1,0 +1,128 @@
+job_id: 9203260
+title: Senior Software Engineer
+company: SingleStore
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 400 Employees
+description: |
+  SingleStore engineers build the real-time data platform
+  powering some of the world’s most demanding applications.
+  Our cloud-native architecture enables high-performance
+  transactional and analytical workloads at scale, and our
+  teams ship production code continuously throughout the year.
+
+  We operate in a fast-moving, highly collaborative
+  environment where engineers own their work end-to-end and
+  partner closely across Product, Sales, and Go-To-Market
+  teams to deliver meaningful business impact.
+
+  Position Summary
+
+  SingleStore engineers build the real-time data platform that
+  enables some of the world’s most demanding applications. Our
+  cloud-native database architecture enables high-performance
+  transactional and analytical workloads at scale.
+
+  Our Software Engineers work on small, collaborative teams to
+  help drive our company forward.  Whether you’re improving
+  the fault tolerance of a SingleStore cluster, accelerating
+  the performance of SQL queries with techniques like SIMD
+  vectorization and LLVM codeGen, or writing search and
+  costing modules for the query optimizer, our engineers are
+  responsible for building systems critical to high
+  performance workloads.
+
+  Note: This role is open across multiple levels. Final
+  leveling (Senior, Staff, or Principal) will be determined
+  based on experience, scope of impact, and demonstrated
+  technical leadership throughout the interview process.
+
+  Role and Responsibilities
+
+  - Develop database engine features based on company direction
+    and customer requests to ensure that requirements are met
+    in a timely manner
+  - Deliver bug-free code in a low-level, unmanaged memory C++
+    environment
+  - Translate high-level customer requirements into actionable
+    and deliverable software features
+  - Learn, propose, and adapt cutting-edge technologies from
+    across industry and academia into SingleStore’s database
+    architecture for ensuring optimal performance and
+    throughput for customer workloads in both analytical and
+    transactional scenarios
+  - Design and execute comprehensive test plans to evaluate
+    database engine functionality, ensuring thorough coverage
+    and accuracy, using Python, C++, and SQL
+  - Use low-level debugging techniques including GDB and Flame
+    graphs to fix  problems and improve performance
+  - Work on distributed systems algorithms and
+    problems/components of core database engine behind
+    SingleStore
+  - Take part in code reviews and design reviews for the purpose
+    of software quality assurance
+
+  Required Skills and Experience
+
+  - 5+ years of experience developing and debugging system-level
+    software in unmanaged languages like C++ or Rust
+  - Bachelor’s degree in Computer Science or equivalent
+    practical experience.
+  - Demonstrated ability to design and build highly reliable,
+    high-performance system software.
+
+  Preferred Qualifications
+
+  - Knowledge of database architecture and operating systems
+  - Familiarity with distributed systems managed via Kubernetes
+
+  SingleStore delivers our cloud-native database with the
+  speed and scale to power the world’s data-intensive
+  applications. With a distributed SQL database that
+  introduces simplicity to your data architecture by unifying
+  transactions and analytics, SingleStore empowers digital
+  leaders to deliver exceptional, real-time data experiences
+  to their customers. SingleStore is venture-backed and
+  headquartered in San Francisco with offices in Sunnyvale,
+  Raleigh, Seattle, Boston, London, Lisbon, Bangalore, Dublin
+  and Kyiv.
+
+  Consistent with our commitment to diversity & inclusion, we
+  value individuals with the ability to work on diverse teams
+  and with a diverse range of people.
+
+  To all recruitment agencies: SingleStore does not accept
+  agency resumes. Please do not forward resumes to SingleStore
+  employees. SingleStore is not responsible for any fees
+  related to unsolicited resumes and will not pay fees to any
+  third-party agency or company that does not have a signed
+  agreement with the Company.
+
+  SingleStore values individuals for their unique skills and
+  experiences, and we’re proud to offer roles in a variety of
+  locations across the United States. Salary is based on
+  permissible, non-discriminatory factors such as skills,
+  experience, and geographic location, and is just one part of
+  our total compensation and benefits package. Certain roles
+  are also eligible for additional rewards, including merit
+  increases and annual bonuses.
+
+  For candidates residing in California, please see our
+  California Recruitment Privacy Notice. For candidates
+  residing in the EEA, UK, and Switzerland, please see our
+  EEA, UK, and Swiss Recruitment Privacy Notice.
+
+  SingleStore’s total salary range for this role, if based in
+  Boston, Chicago, New York, Austin, Phoenix, Las Vegas,
+  Seattle, Washington, or Dallas is: $140,000 - $215,000 USD
+  per year
+
+  Req ID: ENG00470
+industries:
+  - Cloud
+  - Software
+  - Database
+posted_date: 2026-08-12
+url: "https://builtin.com/job/senior-software-engineer/9203260"
+source: Built In

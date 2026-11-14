@@ -1,0 +1,111 @@
+job_id: 10542232
+title: Staff Software Engineer, Infrastructure (Cloud)
+company: AeroVect
+location: ITA
+locations:
+  - ITA
+  - POL
+  - USA
+  - Berlin, DEU
+  - Atlanta, USA
+  - Seattle, USA
+  - Frankfurt, DEU
+  - Munich, DEU
+  - Stockholm, SWE
+  - New York, USA
+  - Amsterdam, NLD
+  - Paris, FRA
+  - London, GBR
+  - South San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  Who We Are
+
+  AeroVect is transforming ground handling with autonomy,
+  redefining how airlines and ground service providers around
+  the globe run day-to-day operations. We are a Series A
+  company backed by top-tier venture capital investors in
+  aviation and autonomous driving. Our customers include some
+  of the world’s largest airlines and ground handling
+  providers. For more information, visit www.aerovect.com.
+
+  As a Staff Software Engineer, Infrastructure (Cloud), you
+  will own the data infrastructure and cloud systems that
+  power AeroVect's autonomous driving platform. You'll design
+  and scale the pipelines that move operational data from
+  real-world deployments into the systems that drive
+  development, testing, and continuous improvement — ensuring
+  reliability and performance
+
+  This is a highly impactful role at the intersection of cloud
+  infrastructure and data engineering. You'll have real
+  ownership — designing systems from the ground up, not
+  inheriting a finished stack. The opportunity to grow into a
+  technical leadership role is real as the team scales.
+
+  You Will
+
+  - Design, build, and maintain scalable data pipelines that
+    move operational data from on-prem systems into cloud
+    infrastructure
+  - Architect and manage cloud-based infrastructure (AWS) for
+    scalable computation, data processing, and system
+    telemetry
+  - Integrate on-prem and cloud data flows into a cohesive,
+    reliable data architecture
+  - Build and maintain CI/CD pipelines to enable rapid, reliable
+    software delivery and validation across simulation and
+    real-world testing environments
+  - Implement and manage infrastructure-as-code (Terraform,
+    CloudFormation) for consistent, automated provisioning
+  - Develop internal services and automation tools to streamline
+    data ingestion, processing, and observability
+  - Establish and enforce best practices for data reliability,
+    pipeline observability, and system security
+  - Drive root-cause analysis for data infrastructure and
+    pipeline issues; design long-term solutions to improve
+    system resilience
+  - Collaborate with autonomy and systems engineers to define
+    scalable data interfaces and cloud deployment strategies
+
+  You Have
+
+  - Bachelor's or Master's degree in Computer Science,
+    Electrical Engineering, or a related field
+  - 7+ years of experience building cloud infrastructure and
+    data systems for large-scale distributed systems
+  - Strong proficiency in Python with a focus on data pipeline
+    development and automation
+  - Hands-on experience with Kafka, Kubernetes, and gRPC for
+    building scalable, high-throughput data systems
+  - Deep expertise with AWS cloud services including compute,
+    storage, and data processing
+  - Experience with CI/CD platforms (Jenkins, GitHub Actions,
+    CircleCI)
+  - Proficiency with containerization and orchestration (Docker,
+    Kubernetes)
+  - Experience automating deployments with Terraform or
+    CloudFormation
+  - Familiarity with Git-based workflows, code review processes,
+    and collaborative software development
+
+  We Prefer
+
+  - Experience integrating on-prem and cloud data flows in a
+    hybrid infrastructure environment
+  - Background in data engineering for robotics, autonomous
+    systems, or real-time operational data
+  - Knowledge of monitoring, logging, and alerting tools such as
+    Prometheus, Grafana, or the ELK Stack
+  - Familiarity with networking, security, and distributed
+    system performance optimization
+  - Experience supporting safety-critical, real-time, or high-
+    availability systems
+industries:
+  - Aerospace
+  - Automation
+posted_date: 2026-08-05
+url: "https://builtin.com/job/staff-software-engineer-infrastructure-cloud/10542232"
+source: Built In

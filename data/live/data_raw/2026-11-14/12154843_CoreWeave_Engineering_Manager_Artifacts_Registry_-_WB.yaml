@@ -1,0 +1,292 @@
+job_id: 12154843
+title: "Engineering Manager, Artifacts & Registry - W&B"
+company: CoreWeave
+location: Bellevue, USA
+locations:
+  - Bellevue, USA
+  - New York, USA
+  - Livingston, USA
+  - Sunnyvale, USA
+work_type: FULL_TIME
+company_size: 1,450 Employees
+description: |
+  CoreWeave is The Essential Cloud for AI™. Built for pioneers
+  by pioneers, CoreWeave delivers a platform of technology,
+  tools, and teams that enables innovators to build and scale
+  AI with confidence. Trusted by leading AI labs, startups,
+  and global enterprises, CoreWeave combines superior
+  infrastructure performance with deep technical expertise to
+  accelerate breakthroughs and turn compute into capability.
+  Founded in 2017, CoreWeave became a publicly traded company
+  (Nasdaq: CRWV) in March 2025. Learn more at
+  www.coreweave.com.
+
+  Weights & Biases at CoreWeave
+
+  CoreWeave acquired Weights & Biases to create the most
+  powerful end-to-end platform to develop, deploy, and iterate
+  AI faster. CoreWeave operates a growing footprint of data
+  centers covering every region of the US and across Europe,
+  and was ranked as one of the TIME100 most influential
+  companies of 2024. By bringing together CoreWeave’s
+  industry-leading cloud infrastructure with the best-in-class
+  tools AI practitioners know and love from Weights & Biases,
+  we’re setting a new standard for how AI is built, trained,
+  and scaled.
+
+  The integration of our teams and technologies is
+  accelerating our shared mission: to empower developers with
+  the tools and infrastructure they need to push the
+  boundaries of what AI can do. From experiment tracking and
+  model optimization to high-performance training clusters,
+  agent building, and inference at scale, we’re combining
+  forces to serve the full AI lifecycle — all in one seamless
+  platform.
+
+  Weights & Biases has long been trusted by over 1,500
+  organizations — including AstraZeneca, Canva, Cohere,
+  OpenAI, Meta, Snowflake, Square, Toyota, and Wayve — to
+  build better models, AI agents and applications. Now, as
+  part of CoreWeave, that impact is amplified across a broader
+  ecosystem of AI innovators, researchers, and enterprises.
+
+  As we unite under one vision, we’re looking for bold
+  thinkers and agile builders who are excited to shape the
+  future of AI alongside us. If you’re passionate about
+  solving complex problems at the intersection of software,
+  hardware, and AI, there’s never been a more exciting time to
+  join our team.
+
+  What You'll Do
+
+  You'll join the ML Workflows organization as the Engineering
+  Manager for Artifacts & Registry, leading a team of six
+  engineers.
+
+  Registry is the organization-level source of truth for what
+  a company has approved for production. It provides access
+  control, protected aliases, lineage, and automation hooks,
+  and it is where a model version goes once it moves out of
+  research. Pinterest, Capital One, Canva, Recursion, and
+  Dropbox all run on it, and for some of them it sits inside a
+  production serving path. Artifacts is the layer underneath
+  it: content-addressable storage, deduplication, lineage, and
+  retention for datasets, model weights, checkpoints, and
+  evaluation outputs, across S3, GCS, Azure, and CoreWeave AI
+  Object Storage. Every object logged to W&B is an artifact.
+
+  The team's mandate is also weighted heavily toward closing
+  the gap between CoreWeave's infrastructure and the ML
+  experimentation that happens in W&B. That includes extending
+  the Registry beyond a record of decisions, so that promoting
+  a model version can put it into serving on CoreWeave compute
+  with lineage and access control carried through, and
+  bringing compute and experimentation into a single unified
+  experience rather than separate tools. This work is done in
+  partnership with foundational infrastructure teams at
+  CoreWeave and product teams across the W&B ecosystem.
+
+  The current scope is well defined and load bearing, with
+  enterprise customers relying on it daily. What is open is
+  what comes next, where there is significant room for new
+  products, new roadmaps, and deeper integration between
+  CoreWeave and W&B. The role therefore calls for a product-
+  first mindset alongside strong operational ownership.
+
+  About the role
+
+  You'll own the full lifecycle, from roadmap shaping through
+  delivery and production reliability. You'll partner with
+  product management on prioritization, unblock your engineers
+  across team boundaries, and hold the reliability bar while
+  the team ships new capability. The failure modes here are
+  customer data and customer uptime, so operational judgment
+  matters as much as delivery.
+
+  You need to be technically fluent enough for the real
+  architecture conversations: relational data modeling and
+  query performance at scale, object storage, an analytical
+  search index maintained alongside a transactional system of
+  record, permission models, and the lifecycle of data
+  customers cannot afford to lose. You're not afraid to get
+  your hands dirty when the team needs it.
+
+  Your primary focus is growing your engineers into autonomous
+  leaders and technical decision-makers. We're an AI-forward
+  organization and we expect you to champion that. This team
+  already does, both in how they build and in what they build,
+  including the agent-facing surfaces of the product itself.
+
+  Like any role at a hyperscaler, this comes with high
+  accountability and ownership. You'll own your team's
+  outcomes end to end, make hard prioritization calls, and
+  build a team that operates with autonomy and urgency.
+
+  Who You Are
+
+  - 3+ years of engineering management experience shipping
+    platform, data, or infrastructure products
+  - 5+ years of software engineering experience prior to
+    management, with backend systems depth
+  - Technical fluency in Go (or a comparable statically typed
+    backend language), relational data modeling, and
+    distributed backend systems. You won't write code daily,
+    but you need to review PRs, unblock architectural
+    decisions, and understand production incidents
+  - Experience managing teams that own production systems where
+    the durability and correctness of customer data is the
+    primary constraint
+  - Demonstrated ability to balance product delivery with
+    technical health, covering technical debt, reliability,
+    and on-call
+  - Experience partnering with product managers to shape a
+    roadmap, including making the case for platform investment
+    with evidence
+  - Track record of growing engineers across levels, from mid-
+    level through senior
+  - Strong communication skills with both engineering and non-
+    engineering stakeholders
+  - Comfortable operating in ambiguity, including product areas
+    where the right level of investment is an open question
+    you're expected to help answer
+
+  Preferred
+
+  - Experience with ML infrastructure, ML platforms, model
+    registries, or developer tools for data scientists
+  - Background in large-scale object storage, content-
+    addressable storage, deduplication, or garbage collection
+    over large object graphs
+  - Depth in query performance and schema migrations against
+    large production databases, and experience with a columnar
+    or OLAP store such as ClickHouse alongside a transactional
+    system of record
+  - Familiarity with multi-tenant permission models, RBAC, and
+    enterprise access control requirements
+  - Experience taking a mature, widely-adopted product into a
+    new strategic phase rather than only building from zero
+  - Experience with post-acquisition platform integration
+  - Founding experience or early-stage background where you took
+    a product from idea to the hands of users
+
+  Wondering if you're a good fit?
+
+  We believe in investing in our people, and value candidates
+  who can bring their own diversified experiences to our
+  teams, even if you aren't a 100% skill or experience match.
+  Here are a few qualities we've found compatible with our
+  team. If some of this describes you, we'd love to talk.
+
+  - You're interested in owning a system other products depend
+    on, and in extending it rather than only keeping it
+    running.
+  - You think reliability is part of the product, and you can
+    make that case to product partners and leadership with
+    data.
+  - You care about developer experience and understand that
+    infrastructure teams succeed when their users actually
+    love the tools.
+  - You've managed through organizational complexity before and
+    you're comfortable navigating cross-team dependencies and
+    shifting priorities.
+
+  Why Us?
+
+  We work hard, have fun, and move fast! We’re in an exciting
+  stage of hyper-growth that you will not want to miss out on.
+  We’re not afraid of a little chaos, and we’re constantly
+  learning. Our team cares deeply about how we build our
+  product and how we work together, which is represented
+  through our core values:
+
+  - Be Curious at Your Core
+  - Act Like an Owner
+  - Empower Employees
+  - Deliver Best-in-Class Client Experiences
+  - Achieve More Together
+
+  We support and encourage an entrepreneurial outlook and
+  independent thinking. We foster an environment that
+  encourages collaboration and provides the opportunity to
+  develop innovative solutions to complex problems. As we get
+  set for takeoff, the growth opportunities within the
+  organization are constantly expanding. You will be
+  surrounded by some of the best talent in the industry, who
+  will want to learn from you, too. Come join us!
+
+  The base salary range for this role is $165,000 to $242,000.
+  The starting salary will be determined based on job-related
+  knowledge, skills, experience, and market location. We
+  strive for both market alignment and internal equity when
+  determining compensation. In addition to base salary, our
+  total rewards package includes a discretionary bonus, equity
+  awards, and a comprehensive benefits program (all based on
+  eligibility).
+
+  What We Offer
+
+  In addition to a competitive salary, we offer a variety of
+  benefits to support your needs. The benefits below reflect
+  our US-based offerings for full-time employees; for roles in
+  other locations, benefits vary and are shared during the
+  hiring process. These include:
+
+  - Medical, dental, and vision insurance - 100% paid for by
+    CoreWeave
+  - Company-paid Life Insurance
+  - Voluntary supplemental life insurance
+  - Short and long-term disability insurance
+  - Flexible Spending Account
+  - Health Savings Account
+  - Tuition Reimbursement
+  - Ability to Participate in Employee Stock Purchase Program
+    (ESPP)
+  - Mental Wellness Benefits through Spring Health
+  - Family-Forming support provided by Carrot
+  - Paid Parental Leave
+  - Flexible, full-service childcare support with Kinside
+  - 401(k) with a generous employer match
+  - Flexible PTO
+  - Catered lunch each day in our office and data center
+    locations
+  - A casual work environment
+  - A work culture focused on innovative disruption
+
+  California Applicants
+
+  California Consumer Privacy Act
+
+  Equal Opportunity & Accommodations
+
+  CoreWeave is an equal opportunity employer, committed to
+  fostering an inclusive and supportive workplace. All
+  qualified applicants and candidates will receive
+  consideration for employment without regard to race, color,
+  religion, sex, disability, age, sexual orientation, gender
+  identity, national origin, veteran status, or genetic
+  information.
+
+  As part of this commitment and consistent with the Americans
+  with Disabilities Act (ADA), CoreWeave will ensure that
+  qualified applicants and candidates with disabilities are
+  provided reasonable accommodations for the hiring process,
+  unless such accommodation would cause an undue hardship. If
+  reasonable accommodation is needed, please contact:
+  careers@coreweave.com.
+
+  Export Control Compliance
+
+  This position requires access to technology and/or source
+  code subject to U.S. export control laws. Any such access
+  will be provided only in compliance with applicable U.S.
+  export control requirements. As part of the recruitment
+  process, CoreWeave may request limited information
+  reasonably necessary to assess applicable export-control
+  requirements.
+industries:
+  - Cloud
+  - Information Technology
+  - Machine Learning
+posted_date: 2026-11-10
+url: "https://builtin.com/job/engineering-manager-artifacts-registry-w-b/12154843"
+source: Built In

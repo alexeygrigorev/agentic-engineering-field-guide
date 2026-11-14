@@ -1,0 +1,251 @@
+job_id: 11497218
+title: Mid-Level Java Full-Stack / API Developer, Federal Civilian Programs, Remote (East Coast)
+company: BizFirst LLC
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 747 Employees
+description: |
+  This is a remote position.
+
+
+
+
+
+  Mid-Level Java Full-Stack / API Developer, Federal Civilian
+  Programs, Remote (East Coast)
+
+
+
+  Summary:
+
+
+
+  - Job Title: Mid-Level Java Full-Stack / API Developer
+  - Level: Mid-level (approximately 3–6 years of professional
+    software development experience)
+  - Security Clearance: U.S. citizenship required. Requirement
+    depends on program. CBP: must be able to obtain and
+    maintain a CBP Public Trust; an existing DHS Public Trust
+    is preferred. Department of State: active Secret clearance
+    required.
+  - Work Type: Remote: East Coast working hours, with travel
+    approximately once per quarter; candidates in the
+    Washington, DC area preferred
+  - Job Type: Full-time
+  - Agency name: U.S. Customs and Border Protection (CBP),
+    Department of Homeland Security, or U.S. Department of
+    State, Bureau of Consular Affairs, depending on program
+  - Start Date: Immediate. Start follows a favorable suitability
+    determination (CBP) or clearance verification (State) and
+    completion of customer onboarding.
+
+
+
+  BizFirst is assisting our client with recruiting a skilled
+  and experienced Mid-Level Java Full-Stack / API Developer.
+  Our client is the prime contractor and incumbent on federal
+  civilian programs at U.S. Customs and Border Protection
+  (CBP) and the U.S. Department of State. The developer builds
+  modern, secure, cloud-native enterprise applications for
+  these programs using Java, Spring Boot, REST APIs,
+  relational databases, enterprise messaging, and modern
+  front-end technologies. The work covers the full application
+  lifecycle, from database development and API-first design
+  with OpenAPI to event-driven integration with JMS and Apache
+  Kafka, automated testing, Docker, Kubernetes, CI/CD, and
+  API/developer portals built with React and/or Angular.
+  Experience with AI-assisted development and automated test-
+  case generation is highly desirable. The role is fully
+  remote on East Coast hours and requires U.S. citizenship.
+
+
+
+
+  Our client is an IT solutions and services company based in
+  Alpharetta, Georgia, founded in 2000 to build mission-
+  critical systems that run around the clock. Its cloud
+  experts design and build cloud infrastructure on AWS, Azure,
+  and Google Cloud, with work spanning cloud strategy and
+  architecture, cloud modernization and engineering, security
+  and compliance, cloud DevOps, and data and analytics.
+  Federal civilian agencies are a core part of that work,
+  supported through a GSA Multiple Award Schedule contract,
+  and the company is an AWS Advanced Tier Services Partner.
+
+
+
+
+  What will you do
+
+
+
+  Build enterprise applications from the database to the
+  browser. You will design schemas and write SQL, build Java
+  and Spring Boot services, define REST APIs in OpenAPI first,
+  connect systems through JMS and Kafka messaging, automate
+  testing, package services in Docker, and deploy them to
+  Kubernetes through CI/CD pipelines. You will also build the
+  API/developer portals and React or Angular front ends that
+  help developers find and use those APIs. You will work
+  across synchronous REST integration and asynchronous, event-
+  driven architectures, troubleshoot issues across
+  applications, databases, messaging platforms, and cloud-
+  native infrastructure, and collaborate with DevOps, platform
+  engineering, UX, API, and backend teams.
+
+
+
+
+  Responsibilities:
+
+
+
+  - Design, develop, test, and maintain enterprise applications,
+    microservices, and backend services using Java and Spring
+    Boot, applying established design patterns, secure coding
+    practices, and development standards.
+  - Build data-access components with Spring Data,
+    JPA/Hibernate, and JDBC, and develop synchronous and
+    asynchronous integrations between enterprise applications.
+  - Design and implement secure, production-grade RESTful APIs
+    using an API-first approach: create and maintain OpenAPI
+    definitions, and generate or integrate API clients, server
+    interfaces, documentation, validation, and test artifacts
+    from them.
+  - Apply consistent API standards for versioning, error
+    handling, authentication, authorization, pagination, and
+    observability, and take part in API design and governance
+    reviews.
+  - Develop event-driven and message-based integrations with JMS
+    and Apache Kafka using Spring JMS and Spring Kafka,
+    including producers, consumers, listeners, topics, queues,
+    and event-processing components across publish/subscribe
+    and point-to-point patterns.
+  - Build resilient messaging with sound acknowledgment, retry,
+    timeout, error-handling, and dead-letter queue/topic
+    (DLQ/DLT) strategies, accounting for message ordering,
+    delivery semantics, idempotency, duplicate messages, and
+    consumer concurrency.
+  - Work with Kafka topics, partitions, consumer groups,
+    offsets, serialization, and schema management; monitor
+    messaging flows, consumer lag, and failed messages; and
+    apply security controls to messaging and event-streaming
+    solutions.
+  - Design and optimize relational database components in
+    PostgreSQL, Oracle, MySQL, or similar platforms, including
+    logical and physical data models, normalization, schemas,
+    views, indexes, constraints, stored procedures, and SQL
+    queries; manage transactions, locking, isolation levels,
+    connection pooling, and concurrency; and version schema
+    changes with Flyway or Liquibase.
+  - Develop unit, integration, API, database, messaging, and
+    regression tests, including tests for Kafka/JMS producers,
+    consumers, and event-driven workflows, and run them
+    automatically in CI/CD pipelines.
+  - Use automated and AI-assisted approaches to generate test
+    cases, test data, and test scenarios, working with API
+    testing and automation technologies such as Arazzo or
+    similar tools.
+  - Package applications with Docker, build optimized container
+    images, and deploy, operate, and troubleshoot them on
+    Kubernetes using Deployments, Services, ConfigMaps,
+    Secrets, Ingress, and health probes.
+  - Build and maintain CI/CD pipelines (GitHub Actions, GitLab
+    CI, Jenkins, Azure DevOps, Harness, or similar) that
+    integrate builds, automated tests, database migrations,
+    security scanning, container builds, and Kubernetes
+    deployments, and promote releases from development through
+    production.
+  - Build and maintain API/developer portals with Scalar,
+    Redocly, Swagger UI, Backstage, or similar platforms,
+    including interactive OpenAPI documentation, API catalogs,
+    getting-started guides, examples, and developer onboarding
+    workflows.
+  - Develop responsive, accessible web applications and portal
+    interfaces in React and/or Angular using
+    JavaScript/TypeScript, HTML, and CSS, with reusable UI
+    components integrated with REST APIs.
+  - Troubleshoot complex application, integration, database,
+    messaging, and performance issues, and take part in peer
+    code reviews and continuous improvement.
+
+
+
+  Requirements:
+
+
+
+  - U.S. citizenship.
+  - CBP positions: able to obtain and maintain a CBP Public
+    Trust background investigation. Department of State
+    positions: active Secret clearance.
+  - Approximately three to six (3–6) years of professional
+    software development experience.
+  - Strong Java programming experience and hands-on experience
+    with Spring Boot and the Spring ecosystem.
+  - Experience designing and developing REST APIs and
+    microservices, with working knowledge of OpenAPI/Swagger
+    and API-first development.
+  - Experience with enterprise messaging technologies such as
+    JMS and Apache Kafka, and an understanding of asynchronous
+    processing and event-driven architectures.
+  - Strong SQL and relational database development experience
+    with PostgreSQL, Oracle, MySQL, or comparable databases,
+    including schema design, data modeling, SQL optimization,
+    indexing, and transactions.
+  - Experience using JPA/Hibernate, Spring Data, and/or JDBC.
+  - Experience writing automated unit, integration, API,
+    database, and messaging tests with tools such as JUnit,
+    Mockito, and REST Assured.
+  - Experience with Docker and containerized application
+    development, and working knowledge of Kubernetes.
+  - Experience with automated CI/CD pipelines, Git, and modern
+    source-control workflows.
+  - Experience developing web applications with React and/or
+    Angular, and working knowledge of JavaScript and/or
+    TypeScript.
+  - Understanding of application, API, messaging, and database
+    security principles.
+  - Strong debugging, troubleshooting, and problem-solving
+    skills.
+  - Able to work remotely on East Coast hours and travel
+    approximately once per quarter.
+
+
+
+  Desired Skills
+
+
+
+  - Experience with Spring Kafka and Spring JMS.
+  - Experience with Kafka consumer groups, partitioning, schema
+    management, retries, and dead-letter topics.
+  - Experience with JMS-compatible messaging platforms such as
+    IBM MQ, ActiveMQ, or Artemis.
+  - Experience with automated or AI-assisted test-case
+    generation, and knowledge of Arazzo or comparable API
+    testing and automation solutions.
+  - Experience with Flyway or Liquibase.
+  - Experience developing or maintaining API/developer portals
+    with Scalar, Redocly, Swagger UI, Backstage, or similar
+    technologies.
+  - Experience with AWS, Azure, or Google Cloud.
+  - Experience deploying Spring Boot applications to Kubernetes,
+    and familiarity with Helm and Kubernetes deployment
+    automation.
+  - Understanding of OAuth 2.0, OpenID Connect, JWT, and API
+    authentication and authorization.
+  - Familiarity with API gateways and API management platforms.
+  - Experience with application, database, API, and messaging
+    observability.
+  - Familiarity with DevSecOps practices and automated security
+    scanning.
+industries:
+  - Agency
+  - HR Tech
+  - Information Technology
+  - Professional Services
+posted_date: 2026-10-05
+url: "https://builtin.com/job/mid-level-java-full-stack-api-developer-federal-civilian-programs-remote-east-coast/11497218"
+source: Built In

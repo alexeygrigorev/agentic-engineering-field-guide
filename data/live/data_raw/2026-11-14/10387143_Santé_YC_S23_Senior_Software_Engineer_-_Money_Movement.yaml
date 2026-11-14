@@ -1,0 +1,150 @@
+job_id: 10387143
+title: Senior Software Engineer - Money Movement
+company: Santé (YC S23)
+location: New York, USA
+work_type: FULL_TIME
+company_size: 16000 Employees
+description: |
+  Senior Software Engineer - Money Movement About Santé
+
+  Santé is the #1 operating system for local retailers.
+
+  Our platform runs the entire store — point of sale,
+  integrated payments, eCommerce, inventory management,
+  delivery-app integrations, marketing, bookkeeping, and AI
+  Agents — so the owners of liquor, grocery, and convenience
+  stores can compete like the big chains without losing what
+  makes them local.
+
+  We're building a future where the corner liquor store has
+  better technology than the national retailer: one place for
+  selling to customers everywhere with AI agents that spots
+  slow-moving inventory and creates the promotion to move it.
+  Every feature we ship lands in real stores the same week,
+  and the feedback loop is direct — our customers call us by
+  name.
+
+  We move fast and ship daily. AI-assisted engineering isn't a
+  talking point here; agents like Devin, Claude, and Codex are
+  part of how the team works every day, and engineers who
+  master that leverage ship multiples of what they could
+  alone.
+
+  About the Team
+
+  Money Movement owns everything at Santé that touches money
+  after the sale: Payroll, Banking, and Lending.
+
+  Today that means the accounting backbone our merchants
+  reconcile their businesses on — QuickBooks sync for
+  invoices, bills, COGS journal entries, and sales mappings —
+  plus the ledgers behind loyalty, gift cards, and deposits,
+  where being off by a cent is a bug. Next it means payroll:
+  our merchants run stores with hourly staff across multiple
+  locations, and they want to pay their people from the same
+  system that already knows every shift and every drawer
+  count. This team is where Santé goes from recording our
+  merchants' money to moving it.
+
+  About the Role
+
+  You'll be one of the first engineers on Santé's payroll
+  build, and a technical owner of the financial systems where
+  correctness is non-negotiable: ledgers, accounting sync, and
+  the money movement rails underneath them. This means
+  designing systems an auditor could read — double-entry
+  ledgers, idempotent payment execution, reconciliation that
+  proves everything ties out — and debugging from ambiguous
+  production signals ("this merchant's books are off by $0.47
+  since the 9th") down to root cause. You'll partner closely
+  with Platform Engineering, whose sale write path your
+  ledgers consume, and directly with store owners whose
+  payrolls you'll run. Beyond building, you'll establish the
+  financial-correctness patterns the rest of engineering
+  adopts.
+
+  In this role, you will
+
+  - Build Santé's payroll product from the ground up — earnings
+    computed from shift data the platform already has, tax
+    withholding, payment execution, and filings integrations
+  - Develop Santé’s bill pay product that moves our customers
+    from paying their suppliers by check to one-click handling
+    accounts payable directly in our platform
+  - Embed bank accounts directly into our OS so that our
+    customers have access to their card processing revenues in
+    minutes
+  - Own and harden our accounting integrations (QuickBooks
+    today), where a sync bug shows up as a merchant's books
+    not balancing at month-end
+  - Design and maintain the ledgers behind loyalty, gift cards,
+    and deposits — correct, idempotent, and auditable under
+    concurrent writes
+  - Establish the financial-correctness patterns (double-entry
+    ledgers, idempotency keys, reconciliation jobs, timezone
+    cutoffs) that other teams adopt
+  - Multiply your output with AI agents: direct, review, and
+    productionize agent-written code as a core part of your
+    workflow — with the guardrails money-touching code demands
+
+  Your background looks something like this
+
+  - 5+ years building production backend systems, ideally in
+    TypeScript/Node — though we care more that you write
+    correct, reviewable code in any language
+  - Practical fluency with transactional guarantees:
+    idempotency, atomicity, retry semantics, and what happens
+    when a webhook arrives twice
+  - Real depth in PostgreSQL: schema design an auditor could
+    follow, transactions under concurrency, and queries that
+    stay fast as ledgers grow
+  - An instinct for the unglamorous parts of money —
+    reconciliation, rounding, tax rates with three decimals —
+    done exactly right
+  - A bias for root cause over patch, and a track record of
+    turning one-off incidents into eliminated bug classes
+  - Comfort operating with high ownership in a small team where
+    your decisions become the standard
+
+  Even better
+
+  - Experience with payroll, banking, ledger, or other financial
+    systems where an auditor has actually read your data model
+  - Experience with accounting integrations (QuickBooks,
+    NetSuite, Xero), payment processors, or ACH rails
+  - Familiarity with our stack: Next.js, tRPC, Prisma, Vercel,
+    ElastiCache, RDS/RDS Proxy
+  - Experience directing AI coding agents (Devin, Claude Code,
+    Cursor) and building the guardrails that make them safe at
+    scale
+  - Retail or POS domain experience, especially multi-location
+    operations or cash reconciliation
+  - History of establishing technical standards or architectural
+    principles adopted across teams
+
+  Compensation
+
+  $220k – $300k + Meaningful equity
+
+  This range reflects the expected compensation for this role.
+  Compensation within the range is determined based on
+  experience, skills, and scope of responsibilities. In
+  addition to base salary, we offer meaningful early-stage
+  equity — this team's work is the foundation the company
+  compounds on.
+
+  Benefits
+
+  - Fully company-covered medical and dental benefits.
+  - 401(k)
+  - Catered Lunches and Dinners: Santé provides dinner each
+    evening for employees who would like to eat and connect
+    with the team. Lunch is provided on a weekly basis.
+industries:
+  - Fintech
+  - Payments
+  - Retail
+  - Software
+posted_date: 2026-07-26
+url: "https://builtin.com/job/fintech-engineering/10387143"
+source: Built In

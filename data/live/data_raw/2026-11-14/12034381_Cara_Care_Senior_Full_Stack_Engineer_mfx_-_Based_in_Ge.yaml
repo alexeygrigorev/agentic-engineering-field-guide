@@ -1,0 +1,211 @@
+job_id: 12034381
+title: (Senior) Full Stack Engineer (m/f/x) - Based in Germany
+company: Cara Care
+location: DEU
+locations:
+  - DEU
+  - Berlin, DEU
+remote: true
+work_type: FULL_TIME
+company_size: 38 Employees
+description: |
+  Cara Care, a digital health company backed by Bayer AG, is
+  on a mission to improve people’s digestive health through
+  technology. As we expand our product portfolio and modernize
+  our platform, we’re looking for a versatile, pragmatic, and
+  forward-thinking (Senior) Full-Stack Engineer (m/f/x) to
+  help shape the future of digital therapeutics.
+
+  Your Role
+
+  You’ll join a cross-functional product team with high
+  ownership, lean processes, and a clear focus: deliver real
+  impact to patients. We’re looking for someone who thrives on
+  solving real-world problems with code, is technology-open,
+  and knows when to build fast and when to build right. Your
+  main focus will be building and improving our backend
+  services, while also contributing to our React Native apps.
+  You’ll also help us use AI tools and coding agents
+  thoughtfully in day-to-day engineering, turning emerging
+  capabilities into reliable workflows that improve how we
+  design, build, test, and operate patient-facing products.
+
+  Your Responsibilities
+
+  - Design, build, and operate reliable backend services and
+    APIs, primarily using Python, Django, and PostgreSQL, and
+    contribute targeted changes to our React Native
+    applications with TypeScript.
+  - Use AI coding agents to implement features, refactor code,
+    and generate tests. Define clear tasks and constraints,
+    provide relevant context, Provide clear context and
+    constraints, and validate changes through code review,
+    automated tests, and application-level checks.
+  - Take an end-to-end view of features: understand how mobile
+    clients, APIs, data models, and infrastructure interact,
+    and make pragmatic technical decisions across these
+    boundaries.
+  - Own backend delivery from architecture and implementation to
+    automated testing, deployment, monitoring, and iteration,
+    and continuously improve our CI/CD pipelines.
+  - Improve the performance and reliability of our backend
+    services, APIs, and databases.
+  - Connect AI-assisted development to engineering and design
+    tools via MCP, for example to automate repetitive coding
+    tasks or check frontend changes against Figma designs.
+    Keep patient data, credentials, and other sensitive
+    information out of unapproved tools and workflows.
+  - Collaborate closely with Product, Design, and Medical to
+    explore, define, and deliver patient-centric features
+    across our platform, supporting regulated digital health
+    products for IBS, GERD, and upcoming indications.
+  - Uphold technical excellence in architecture, code quality,
+    and security, including applicable requirements under IEC
+    62304, BSI TR-03161, and the MDR.
+  - Mentor other developers and help raise the technical bar
+    across the team.
+
+  RequirementsYour Profile
+
+  Must haves
+
+  - 5+ years of professional software engineering experience,
+    with a strong backend focus and an understanding of how
+    complete applications work from user interface to
+    infrastructure.
+  - Strong backend development skills in an established language
+    such as Python, TypeScript, Java, or PHP. Our current
+    stack includes Python, Django, and PostgreSQL.
+  - Working knowledge of React Native and TypeScript, with the
+    ability to implement and test changes in an existing
+    mobile application.
+  - Solid understanding of relational databases, API design,
+    distributed systems and services.
+  - Experience writing and maintaining automated tests for
+    backend services and APIs, including unit and integration
+    tests.
+  - Solid understanding of backend security and privacy,
+    including authentication, authorization, secrets
+    management, and secure handling of personal and patient
+    data.
+  - Strong practical knowledge of containers, Kubernetes, and
+    cloud-native architecture, with experience using GCP or
+    another major cloud provider such as AWS or Azure.
+  - Hands-on experience using AI coding agents to implement
+    features, refactor code, and write automated tests,
+    including connecting agents to engineering tools via MCP.
+    You can explain how you scoped the work, verified the
+    results, and handled tool permissions and sensitive data.
+  - A pragmatic product mindset: you collaborate effectively
+    with non-technical stakeholders, understand the impact of
+    technical decisions on patients and UX, and continuously
+    improve both product and platform.
+
+  Nice-to-have
+
+  - Strong Linux administration skills, including setting up,
+    operating, and securing self-managed cloud instances;
+    familiarity with monitoring and observability concepts.
+  - Experience with Prometheus, Loki, and Grafana; GitOps using
+    ArgoCD or FluxCD; or configuration management using
+    Ansible or similar tools.
+  - Networking knowledge and experience with mobile CI/CD,
+    release automation, or application monitoring tools such
+    as Sentry.
+  - Experience in regulated industries, healthcare, or other
+    security-conscious environments.
+
+  💡Please note: Cara Care is a remote-first company with a
+  fully distributed team. All team members are based in
+  Germany so candidates must reside in Germany to join us.
+
+  Benefits
+
+  💸 Fair compensation: We offer fair pay, regular salary
+  reviews, and the equipment you need to do your best work.
+
+  🫶 Great team spirit: Join a vibrant, interdisciplinary team
+  and enjoy a friendly, supportive working atmosphere, with
+  regular in-person team events.
+
+  👨‍💻 Remote-first working: Prefer working from home? No
+  problem. Want to join us at our Berlin office? That works
+  too. Our remote-first approach gives you the flexibility to
+  work where it suits you best.
+
+  🏝️ 30 days off per year: Rest matters. You’ll get 26
+  vacation days plus 4 additional company-wide mental health
+  days each year to take a breather and recharge.
+
+  🦉 Flexible working hours: Whether you’re an early bird or
+  prefer a later start, you can shape your working day around
+  what works for you.
+
+  🏋️ Urban Sports Club (USC): Enjoy access to a wide range of
+  sports, fitness, and wellness activities at discounted
+  rates.
+
+  🧠 OpenUp: Access a variety of resources and services to
+  support your mental health and personal wellbeing.
+
+  🛍️ Corporate Benefits: Get attractive discounts and
+  exclusive offers from a wide range of well-known brands and
+  providers.
+
+  🚀 Make a real impact: Be involved, contribute your ideas,
+  and help shape what comes next. Your voice matters, and you
+  can make a real difference.
+
+  About Cara Care
+
+  Cara Care is a digital health company on a mission to
+  improve the lives of people with digestive health conditions
+  through holistic, science-based digital therapies.
+
+  Our established IBS therapy, Cara Care für Reizdarm,
+  provides personalised content, practical exercises, and
+  symptom tracking to help people better understand and manage
+  their condition. It is listed in the German Federal
+  Institute for Drugs and Medical Devices’ (BfArM) directory
+  of digital health applications (DiGA) and is covered by
+  statutory health insurance in Germany.
+
+  We are expanding our product portfolio and evolving our
+  technology platform to bring digital therapies to more
+  people across a broader range of conditions.
+
+  Backed by Bayer
+
+  We’re proud to share that Cara Care has recently joined the
+  Bayer Group, a move that strengthens our mission and enables
+  us to scale our impact even further. With Bayer’s global
+  healthcare expertise and our innovative digital approach,
+  we’re poised to redefine care for digestive health.
+
+  What It’s Like to Work With Us
+
+  At Cara Care, you’ll be part of an interdisciplinary team of
+  doctors, designers, engineers, and creatives who are deeply
+  passionate about improving lives. We’re inspired by our
+  patients and driven by real-world impact. We move fast,
+  collaborate closely, and never lose sight of the importance
+  of well-being—both for our users and ourselves.
+
+  Diversity Matters to Us
+
+  We believe that diverse teams build better products. That’s
+  why we’re committed to creating an inclusive environment for
+  everyone—regardless of race, religion, color, national
+  origin, sex, sexual orientation, gender identity, age, or
+  disability.
+
+  We know that applying for a new job is a big step, and we
+  genuinely appreciate your time and effort. We’re excited to
+  get to know you!
+industries:
+  - Healthtech
+  - Telehealth
+  - Manufacturing
+posted_date: 2026-11-03
+url: "https://builtin.com/job/senior-full-stack-engineer-m-f-x-based-germany/12034381"
+source: Built In

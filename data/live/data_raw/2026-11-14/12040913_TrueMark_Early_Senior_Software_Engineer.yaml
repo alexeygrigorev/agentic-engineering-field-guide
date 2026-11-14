@@ -1,0 +1,142 @@
+job_id: 12040913
+title: Early Senior Software Engineer
+company: TrueMark
+location: New York, USA
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  $140k - $190k base | 2-5% equity | New York City (in-person)
+
+  AI is changing what it means to learn to write. Students can
+  now generate an essay in seconds – but the process of
+  struggling with an idea, forming an argument, and putting it
+  into their own words is still how they learn to think. And
+  the more students turn to AI as a crutch for learning, the
+  more quickly they fall behind in school
+
+  At the core, TrueMark helps schools and universities protect
+  that process while figuring out where AI belongs in the
+  classroom. We think this is one of the most important
+  problems facing education right now, and it only becomes
+  more urgent as AI gets better.
+
+  In our first 18 months since launching, we’ve:
+
+  - Amassed almost 50 paying schools/districts from grades 4-12
+    and higher ed, including Phillips Exeter and Boston
+    College
+  - Won a US Dept of Education grant to research AI’s impact on
+    student learning
+  - Have state contracts with New York and Montana
+  - Raised funding from Thrive Capital (investors in OpenAI,
+    Cursor, and Instagram), the US Dept of Education, and
+    LearnLaunch
+
+  Students spend tens of thousands of hours writing on our
+  platform each week, and we process tens of millions of
+  edits. And our product works: 65% of monthly active users
+  are weekly active, and our highest usage school saw their
+  test scores increase 18% in their first year.
+
+  Our founders, Will and Shelley, are both technical. They
+  worked at Google and Stripe before this, and before that,
+  they met at Brown where they bonded over creating a new
+  Computer Science course together for their senior year
+  capstones.
+
+  We’re a small team based in NYC, and we’re still early
+  enough that the people joining now will meaningfully shape
+  both the product and the company.
+
+  This is an opportunity to join as an early engineer and help
+  answer a question that will shape a generation of students:
+  how students build critical thinking skills in an AI world.
+
+  WHAT YOU’LL WORK ON
+
+  Select technical challenges you’ll face in your first 6
+  months:
+
+  - Moving our patent-pending integrity analysis from running
+    all at once after a document is submitted to running bit-
+    by-bit in real-time as edits stream in. This will allow
+    teachers to intervene with academic integrity issues
+    during class instead of playing detective weeks later.
+    This means rethinking the entire computation model.
+  - Training typing behavior models on proprietary data to
+    detect anomalies based on custom features that you decide,
+    such as student typing speed and correction ratios.
+  - Improving AI rubric grading to achieve industry-leading
+    consistency across grade levels, and systematize ways to
+    measure our performance. This means ML and systems design,
+    not just prompt engineering.
+  - Building a peer paper repository for cross-student
+    similarity search at scale.
+
+  What the day-to-day will be like:
+
+  - Work with the founders, talk to customers, and have input on
+    the roadmap
+  - Own the platform’s reliability and the engineering team’s
+    velocity as a “player-coach”
+
+  You’d work with 1-2 other engineers. Essentially, we’d like
+  you to be (or become) an IC-focused tech lead as we expand
+  our team over the next 12 to 18 months.
+
+  WHO YOU ARE
+
+  You’re a strong, thoughtful engineer. You’re comfortable
+  designing systems, debugging subtle race conditions, and
+  writing production-ready code with little help.
+
+  You’re self-directed and take ownership. You know when to
+  ask questions, when to pull others in, and when to make a
+  reasonable decision and keep moving. An open-ended task like
+  “figure out how we should approach reliability” sounds
+  interesting.
+
+  You’re a clear, positive, communicative teammate. You
+  collaborate well, share context, and are comfortable raising
+  concerns or working through disagreements.
+
+  You’re product- and user-minded. You want to understand the
+  problems teachers and students are actually facing. If a
+  teacher is struggling with something you built, you care
+  about understanding why and making it better.
+
+  You’re pragmatic. You can make thoughtful tradeoffs between
+  speed, quality, and complexity. You have an intuition for
+  when the details matter and when a simpler solution is good
+  enough.
+
+  You’re curious and always learning. You care about building
+  good software and staying on top of how the craft is
+  changing in the age of AI.
+
+  QUALIFICATIONS
+
+  - 3–8 years of professional engineering experience, with depth
+    in backend systems
+  - Strong fundamentals: databases, API design, data modeling,
+    system reliability
+  - Full-stack capable—backend is the core, but you work across
+    the stack (Python and React/NextJS)
+  - Experience owning production systems where reliability
+    mattered
+  - Ideally based in NYC or willing to relocate
+
+  Bonus: Relevant startup experience; experience building core
+  backend systems for scale, prior edtech experience.
+
+
+  HOW TO APPLY
+
+  Click 'Apply' to fill out the application form and submit
+  your resume.
+
+  If you have any questions, you can email us at
+  hello@truemark.ai.
+posted_date: 2026-11-03
+url: "https://builtin.com/job/early-senior-software-engineer/12040913"
+source: Built In

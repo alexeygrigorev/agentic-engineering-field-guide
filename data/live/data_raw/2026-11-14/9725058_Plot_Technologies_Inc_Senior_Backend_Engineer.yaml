@@ -1,0 +1,97 @@
+job_id: 9725058
+title: Senior Backend Engineer
+company: Plot Technologies, Inc.
+location: New York, USA
+work_type: FULL_TIME
+company_size: 7 Employees
+description: |
+  Why Plot
+
+  Plot is building the next generation of social intelligence
+  — an AI-native platform that helps some of the world's most
+  influential brands understand culture, find emerging trends,
+  and activate their communities at scale. We're a high-
+  growth, venture-backed startup supported by the co-founders
+  of Reddit and Plaid, with customers like Tory Burch,
+  Lululemon, La Roche-Posay, and other household names.
+
+  We operate at the intersection of applied AI and large-scale
+  data systems, turning millions of short-form videos every
+  day into structured representations of culture and consumer
+  behavior. Plot makes unstructured social media legible at
+  scale, enabling brands to build a deep, systematic
+  understanding of trends, audiences, and influence.
+
+  You'll join a small but mighty team where engineers own
+  systems end-to-end — not tickets. You'll work directly with
+  founders, shape foundational architecture, and make
+  decisions that define how Plot scales for years to come. If
+  you enjoy ambiguous problems, deep systems thinking, and
+  building infrastructure that unlocks entire product
+  surfaces, Plot is the place. It’s also a great fit if you
+  aspire to be a technical founder one day — we operate with a
+  strong founder’s mindset.
+
+  What You'll Work On
+
+  - Own the core data systems that power Plot. You’ll take
+    responsibility for how millions of enriched videos flow
+    from ingestion → storage → analytics → product surfaces.
+  - Stabilize and harden high-throughput write paths. Our
+    pipelines ingest and enrich data continuously; you’ll
+    diagnose failure modes, reduce error rates, and make
+    ingestion reliable, observable, and predictable.
+  - Design data access patterns that stay fast under pressure.
+    You’ll ensure dashboards and analytical queries remain
+    responsive even while large volumes of data are being
+    written concurrently.
+  - Separate transactional and analytical concerns. You’ll lead
+    decisions around which workloads belong where, and design
+    the systems and contracts that keep them from stepping on
+    each other.
+  - Build read-optimized models for insight, not just storage.
+    This includes partitioning strategies, rollups, and
+    schemas that reflect how data is actually queried — by
+    humans and by AI.
+  - Enable AI-native analytics. You’ll shape how our internal
+    tools and AI agents query and reason over data, making it
+    possible to answer complex analytical questions without
+    brute-force scans.
+  - Make architectural calls that matter. You’ll evaluate
+    tradeoffs, write RFCs, and guide the evolution of Plot’s
+    data platform as scale, product needs, and AI capabilities
+    grow.
+  - Raise the bar for reliability and performance across the
+    team. You’ll define best practices, unblock other
+    engineers, and become a go-to resource for data-related
+    decisions.
+
+  What We're Looking For
+
+  - Deep experience operating Postgres in production under real-
+    world read/write concurrency. You understand partitioning,
+    locking, autovacuum, connection pooling, and why systems
+    fail in subtle ways.
+  - Strong systems intuition. You think in bottlenecks, failure
+    modes, and tradeoffs — not just indexes or tooling.
+  - Experience designing or owning analytical data
+    architectures, including read-optimized schemas,
+    aggregations, or large-scale querying patterns.
+  - Comfort leading ambiguous, high-impact work. You can take a
+    messy system, form a clear mental model, and chart a
+    pragmatic path forward.
+  - High ownership mindset. You like digging into logs, metrics,
+    and real data — and you care deeply about correctness,
+    reliability, and long-term maintainability.
+  - Curiosity, pragmatism, and a desire to build foundational
+    systems that other engineers and AI systems depend on. No
+    degree requirements.
+  - Minimum 5 years of relevant experience
+industries:
+  - Artificial Intelligence
+  - Marketing Tech
+  - Social Media
+  - Software
+posted_date: 2026-08-02
+url: "https://builtin.com/job/senior-backend-engineer/9725058"
+source: Built In

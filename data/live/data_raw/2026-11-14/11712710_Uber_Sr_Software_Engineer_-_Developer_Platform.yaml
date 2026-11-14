@@ -1,0 +1,142 @@
+job_id: 11712710
+title: Sr Software Engineer - Developer Platform
+company: Uber
+location: New York, USA
+locations:
+  - New York, USA
+  - Seattle, USA
+  - Sunnyvale, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 21,000 Employees
+description: |
+  About the Role and Team
+
+
+
+  We are seeking a highly skilled and motivated Sr Software
+  Engineer to join our Code Lifecycle team within the
+  Developer Platform organization. We own the infrastructure
+  behind code hosting, code search, and the SubmitQueue — the
+  system that merges thousands of diffs daily into Uber's Go
+  monorepo while keeping main green. What you build here is
+  felt by every engineer at Uber.
+
+
+
+  What You’ll Do
+
+
+  - Own and evolve Uber's code hosting, code review, and code
+    search platforms — ensuring system stability and a
+    consistently green main branch across our largest
+    monorepo.
+  - Design, build, and maintain Go-based tooling for the code
+    review workflow, including the SubmitQueue, automated
+    review checks, and custom integrations.
+  - Drive projects end-to-end — from problem framing and
+    stakeholder alignment through implementation, production
+    rollout, and ongoing operations — making pragmatic build-
+    vs-buy and rewrite-vs-incremental tradeoffs.
+  - Define and enforce testing, monitoring, and alerting
+    standards; track key metrics (land time, throughput, build
+    reliability) and lead incident response and remediation.
+  - Measure and improve developer experience through
+    quantitative metrics, continuously refining workflows and
+    tooling for thousands of engineers across the company.
+
+  Basic Qualifications
+
+  - 5+ years of software engineering experience, with strong
+    proficiency in Go and building distributed systems at
+    scale
+  - Track record of delivering well-tested, production-ready
+    code with high standards for quality, monitoring, and
+    operational readiness
+  - Experience owning projects through the full lifecycle —
+    scoping, design, stakeholder alignment, delivery, and
+    production support
+  - Demonstrated ability to make sound technical decisions under
+    ambiguity, balancing engineering rigor with business
+    priorities
+  - Experience mentoring engineers and contributing to a healthy
+    engineering culture through code reviews, documentation,
+    and knowledge sharing
+  - Excellent communication skills and the ability to
+    collaborate effectively with cross-functional teams.
+
+  Preferred Qualifications
+
+  - Experience with build systems (Bazel, Buck, Gradle), CI/CD
+    pipelines, code review platforms, or Monorepo
+    infrastructure — with a focus on improving developer
+    productivity and reducing friction in large-scale monorepo
+    environments
+  - Comfortable with production on-call responsibilities,
+    including triaging high-urgency issues under pressure,
+    driving incident resolution, and following through with
+    root-cause analysis and preventive fixes
+  - Experience defining and tracking engineering KPIs — such as
+    build times, land times, or developer throughput — to
+    measure system health and drive measurable improvements to
+    developer experience
+
+  Responsibilities
+
+  For New York City, NY-based roles: The base salary range for
+  this role is USD $202,000 per year - USD $224,000 per year.
+
+  For San Francisco, CA-based roles: The base salary range for
+  this role is USD $202,000 per year - USD $224,000 per year.
+
+  For Seattle, WA-based roles: The base salary range for this
+  role is USD $202,000 per year - USD $224,000 per year.
+
+  For Sunnyvale, CA-based roles: The base salary range for
+  this role is USD $202,000 per year - USD $224,000 per year.
+
+  For all US locations, you will be eligible to participate in
+  Uber's bonus program, and may be offered an equity award &
+  other types of comp. All full-time employees are eligible to
+  participate in a 401(k) plan. You will also be eligible for
+  various benefits.
+
+  About Us
+
+  Ready to Ride?
+
+
+
+  This isn't the kind of place where you follow a playbook —
+  it's where you help write one. If you're driven by impact,
+  energized by challenge, and ready to shape how the world
+  moves — we'd love to hear from you.
+
+  You may be eligible for bonuses, equity, and other
+  compensation, as well as a range of benefits. Explore our
+  benefits.
+
+  Offices remain key to collaboration and Uber's culture.
+  Unless approved for full remote work, employees must spend
+  at least 50% of their time in-office. Some roles, like those
+  at greenlight hubs, require full-time in-office presence.
+  Ask your Recruiter for details about this role's
+  requirements.
+
+  Uber is proud to be an Equal Opportunity employer. All
+  qualified applicants will receive consideration for
+  employment without regard to sex, gender identity, sexual
+  orientation, race, color, religion, national origin,
+  disability, protected Veteran status, age, or any other
+  characteristic protected by law. We also consider qualified
+  applicants regardless of criminal histories, consistent with
+  legal requirements. If you have a disability or special need
+  that requires accommodation, please let us know by
+  completing this form.
+industries:
+  - Logistics
+  - Transportation
+  - "3PL: Third Party Logistics"
+posted_date: 2026-10-16
+url: "https://builtin.com/job/sr-software-engineer-developer-platform/11712710"
+source: Built In

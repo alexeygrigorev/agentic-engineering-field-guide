@@ -1,0 +1,189 @@
+job_id: 11976592
+title: Backend Engineer — Integrations (Senior/Staff)
+company: Revspire
+location: New York, USA
+work_type: FULL_TIME
+company_size: 28 Employees
+description: |
+  Senior / Staff Backend Engineer — Integrations
+
+  Revin · Integrations · Flatiron, New York City
+
+  $225,000–$325,000 base salary + meaningful early equity ·
+  Full-time
+
+  Four days per week in our Flatiron office, with one remote
+  day and flexibility when life comes up. We are hiring at
+  Senior and Staff levels. Final compensation depends on
+  level, based on your demonstrated experience, scope of
+  ownership, and impact.
+
+  About Revin
+
+  Revin builds AI-powered software for the businesses that
+  keep our homes running: roofing, HVAC, plumbing, remodeling,
+  and more. We help these businesses respond to customers,
+  book appointments, and manage the customer experience across
+  voice, SMS, and email.
+
+  Revin handles around half a million customer conversations a
+  month. Businesses with hundreds of millions in annual
+  revenue rely on our products for work that directly affects
+  their customers and their bottom line.
+
+  Our customers include Vertex Service Partners, a national
+  roofing and exterior-services platform with over $600M in
+  revenue, and Del-Air, a $300M+ HVAC and plumbing business.
+  See the impact of our work: we’ve helped Del-Air book
+  11,000+ membership appointments, while ImproveIt uses Revin
+  to set 34% of its booked appointments.
+
+  The Role
+
+  Build the backend systems that let AI agents work inside the
+  software our customers run their businesses on. You’ll join
+  our Integrations team to turn CRM changes into timely agent
+  actions and give agents reliable ways to look up
+  information, book appointments, and update customer records.
+
+  This is a backend and distributed systems role with direct
+  product impact. We build custom integrations with platforms
+  including ServiceTitan, LeadPerfection, AccuLynx, Salesforce
+  and i360, Builder Prime, and SalesRabbit. Each has its own
+  data model, authentication, business rules, and failure
+  modes.
+
+  Our backend is primarily Python and PostgreSQL, with
+  asynchronous services and event-driven processing. We value
+  strong engineering fundamentals and the ability to learn
+  unfamiliar systems quickly.
+
+  What You’ll Build
+
+  - The event pipelines that keep Revin in sync. Ingest CRM
+    changes through webhooks, event streams, and polling;
+    maintain fresh, accurate state; and deliver the events
+    that trigger the right agent workflows.
+  - The tools that let agents take action. Build APIs and
+    services for customer lookup, availability, appointment
+    booking, and CRM updates, preserving each system’s
+    business rules and returning clear, accurate results to
+    agents.
+
+  The hard problems live at the boundaries: a webhook arrives
+  twice, a stream disconnects, two workers race, or a CRM
+  accepts a booking but the request times out. You’ll design
+  how the system detects, handles, and recovers from these
+  cases, so customers can trust what our agents do.
+
+  What You’ll Do
+
+  - Design reliable event processing. Work through ordering,
+    deduplication, retries, rate limits, concurrency, and
+    backpressure. Build recovery and replay paths that
+    preserve correctness as integrations grow.
+  - Make CRM actions dependable. Design clear API contracts,
+    validate inputs and results, and handle partial failures
+    and uncertain write outcomes without creating duplicate or
+    inconsistent records.
+  - Build and deepen integrations. Understand partner APIs and
+    customer workflows, add new capabilities, and develop
+    shared components that make integrations easier to extend
+    and maintain.
+  - Protect data integrity and customer boundaries. Design sound
+    data models, secure authentication and credential
+    handling, and correct routing across customer accounts,
+    brands, and locations.
+  - Own reliability in production. Instrument data freshness,
+    processing lag, and action success; make failures
+    diagnosable; and build tests, alerts, reconciliation, and
+    recovery tools that prevent recurring issues.
+  - Shape the platform with the team. Partner with agents
+    engineers, product, and forward-deployed engineers to
+    prioritize customer needs and make clear tradeoffs around
+    correctness, latency, complexity, and cost.
+
+  At Staff level, you’ll also guide architecture across the
+  integrations platform, establish stronger patterns for event
+  processing and external actions, and raise the broader
+  team’s effectiveness while remaining hands-on.
+
+  What You’ll Bring
+
+  - Substantial experience building and operating production
+    backend systems. You can explain the systems you owned,
+    the design decisions you made, how they behaved under
+    failure, and what you improved.
+  - Strong distributed systems judgment. You’ve worked with
+    asynchronous processing, queues or streams, concurrency,
+    consistency, and retries, and understand how to preserve
+    correctness when parts of a system fail.
+  - Experience working across system boundaries. You can build
+    reliable integrations with external APIs, reason about
+    their constraints, and turn unfamiliar data models and
+    business rules into maintainable software.
+  - Strong programming and SQL skills. You’re comfortable with
+    data modeling, transactions, and production debugging, and
+    can work effectively in our Python backend. We care about
+    depth of understanding and execution more than familiarity
+    with a particular framework.
+  - Ownership and clear communication. You investigate problems
+    end to end, surface risks early, and explain technical
+    tradeoffs in terms of what customers and the team need.
+  - A desire to work in an early-stage startup. You’re energized
+    by broad responsibility, rapid iteration, and high
+    standards. We use AI programming tools heavily and expect
+    you to use them effectively while owning the quality of
+    your work.
+
+  Nice To Have
+
+  - Experience with CRM, scheduling, payments, or other
+    operational systems where data correctness and reliable
+    actions matter.
+  - Experience with change data capture, synchronization,
+    backfills, or reconciliation across external systems.
+  - Experience building tools or APIs used by AI agents.
+  - Experience at a strong startup or on a small team with
+    substantial ownership.
+
+  Why Join Revin
+
+  Your work determines which businesses Revin can serve and
+  what our agents can actually do for them. A new integration
+  opens up a customer segment; a more reliable booking or data
+  pipeline improves the experience of businesses using Revin
+  every day.
+
+  We’re still early. You’ll join a small team of sharp,
+  ambitious people, have substantial influence over the
+  architecture of a core part of the product, and receive
+  meaningful equity ownership with the opportunity to share
+  substantially in the upside you help create.
+
+  Compensation and Benefits
+
+  - $225,000–$325,000 base salary, with final compensation
+    dependent on level
+  - Meaningful early equity. A real ownership stake and the
+    opportunity to share substantially in the upside you help
+    create
+  - Excellent health coverage. $0 employee premiums for
+    individual medical coverage on most plans, plus dental and
+    vision insurance
+  - 401(k) matching up to 4% of salary. Contribute 5% to receive
+    the full match
+  - Unlimited PTO
+  - Commuter benefits
+  - Free lunches and dinners in the office
+  - $100/month gym membership stipend
+  - Tech equipment of your choice
+  - Mentorship pairing with a Revin advisor or investor
+industries:
+  - Artificial Intelligence
+  - Marketing Tech
+  - Sales
+  - Software
+posted_date: 2026-10-29
+url: "https://builtin.com/job/backend-engineer-integrations-senior-staff/11976592"
+source: Built In

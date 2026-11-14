@@ -1,0 +1,155 @@
+job_id: 11283399
+title: Staff Software Engineer, Data Systems (Python)
+company: Northbeam
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 100 Employees
+description: |
+  About Northbeam
+
+  Northbeam is building the world's most advanced marketing
+  intelligence platform, providing top eCommerce brands a
+  unified view of their business data through powerful
+  attribution modeling and customizable dashboards. Our
+  technology helps customers accurately track ad spend,
+  understand the full customer journey, and drive profitable
+  growth. Machine learning has been at the heart of Northbeam
+  since day one: our full suite of measurement, spanning
+  multi-touch attribution, MMM+, and incrementality, is built
+  on it, along with laser-accurate first-party data. Now we're
+  taking that foundation further, using AI to help brands
+  operationalize their data and turn Northbeam insights into
+  automated decisions.
+
+  We're experiencing rapid growth, have strong product-market
+  fit, and are looking for the right people to help us scale.
+  This is a rare chance to make a meaningful impact at a fast-
+  moving, high-growth company. At Northbeam, you'll join a
+  team of driven, collaborative, and talented individuals who
+  value personal growth and excellence. We'd love for you to
+  be part of our journey.
+
+  We're a remote-friendly company with physical offices in San
+  Francisco and Los Angeles.
+
+  About the Role
+
+  Northbeam is fundamentally a data product - the whole
+  company. We don’t sell shoes, ads, or games. We sell data:
+  quality integrations with a variety of platforms, fresh and
+  reliable data pulls, robust data ingest APIs, correct
+  aggregations, and algorithmic insights on top of that data,
+  all packaged up in a user-facing application.
+
+  What this means for you is that high-quality, robust data
+  integration is at the core of what we do, and your work will
+  have a direct connection to the company’s success.
+
+  Our data systems team is foundational and load-bearing, and
+  this role sets its technical direction. As a Staff engineer,
+  you'll own the architecture of the integration and ingestion
+  platform that the rest of the company builds on — deciding
+  how we onboard new sources, where the abstractions live, and
+  what "reliable" means in practice. You'll work across
+  product, engineering, and with business leaders, and your
+  judgment will shape what the team builds long after any
+  individual project ships.
+
+  The work involves a labyrinth of integrations and
+  transformations across a complex network of touchpoints,
+  powered by data spanning numerous ad platforms, order
+  management systems (Shopify, Amazon, and others), and our
+  own real-time event collection.
+
+  Your Impact
+
+  - Own the architecture of our ingestion and integration
+    platform, setting the patterns that determine how quickly
+    and safely we onboard new data sources.
+  - Define technical direction for event-driven and batch
+    processing across the company, and make the build/buy and
+    migration calls that go with it.
+  - Establish the standards for observability, data freshness,
+    and failure handling that the data systems team works to —
+    and hold the bar on them.
+  - Lead design across team boundaries, working with data
+    engineering, infrastructure, and product to keep platform
+    decisions coherent.
+  - Raise the ceiling of the engineers around you through design
+    review, mentorship, and the code you write.
+  - Identify the platform problems nobody has scoped yet, make
+    the case for solving them, and drive them to completion.
+
+  What You Bring
+
+  - 8+ years of software or data engineering experience,
+    including significant time owning the architecture of
+    large-scale ingestion, ETL, or integration platforms.
+  - Deep proficiency in Python, and strong SQL and cloud data
+    warehouse experience (BigQuery or equivalent).
+  - A track record of designing API-based ETL systems at scale —
+    REST, GraphQL, webhooks, and the authentication and multi-
+    tenancy concerns that come with them.
+  - Production depth with orchestration (Airflow or similar) and
+    containerized infrastructure (Docker, Kubernetes).
+  - Demonstrated technical leadership: setting direction,
+    aligning engineers who don't report to you, and improving
+    how a team builds, not just what it ships.
+  - Experience mentoring engineers and elevating engineering
+    practice across a team or org.
+  - Sound judgment about when to invest in platform durability
+    and when to ship and move on.
+
+  Bonus Skills & Experience
+
+  - Detailed understanding of authentication mechanisms (OAuth
+    2.0, API keys, secrets management) and secure multi-tenant
+    architectures.
+  - Experience working with ERP systems, CRMs, CDPs, or complex
+    other enterprise data tools and their APIs.
+  - Exposure to event-driven architectures and real-time data
+    processing tools
+  - Knowledge of data governance, compliance (GDPR, SOC2), and
+    security best practices for handling sensitive data.
+  - Experience working in a multi-tenant SaaS or large-scale
+    data-intensive environment.
+
+  #LI-Remote
+
+  Base Salary Range
+
+  $190,000—$240,000 USD
+
+  Actual compensation may vary based on experience, skills,
+  and location.
+
+  In addition to your base salary, we offer an equity package,
+  comprehensive healthcare benefits (medical, dental, and
+  vision), and a 401(k) plan. Our team enjoys a flexible PTO
+  policy, 12 company-paid holidays, and 12 weeks of paid
+  parental leave. We also provide a $500 work-from-home
+  stipend to support your remote setup.
+
+  Interview Process The interview process varies by role but
+  typically begins with a 30-minute interview with a Northbeam
+  recruiter, followed by a video interview with the hiring
+  manager. Next, candidates complete a role-specific video
+  interview followed by video or onsite interviews with
+  several team members. The final step is a video interview
+  with our CEO/Co-founder. The entire interview process is
+  usually 5-7 interviews total and requires around 5-8 hours
+  of your time.
+
+  We accept applications on an ongoing basis.
+industries:
+  - eCommerce
+  - Information Technology
+  - Machine Learning
+  - Marketing Tech
+  - Database
+  - Analytics
+  - Big Data Analytics
+posted_date: 2026-09-21
+url: "https://builtin.com/job/staff-software-engineer-data-systems-python/11283399"
+source: Built In

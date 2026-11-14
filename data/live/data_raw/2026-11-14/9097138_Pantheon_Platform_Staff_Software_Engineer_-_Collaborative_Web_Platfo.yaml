@@ -1,0 +1,227 @@
+job_id: 9097138
+title: Staff Software Engineer - Collaborative Web Platform
+company: Pantheon Platform
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 372 Employees
+description: |
+  About Pantheon
+
+  Pantheon brings together exceptional builders who take
+  ownership, drive meaningful impact, and shape what's next
+  for the web. We power more than 300,000 websites globally
+  for organizations including Google, Princeton, Salesloft,
+  Clorox, and the United Nations. Every day, thousands of
+  developers and marketers use our WebOps platform to build,
+  iterate, and scale WordPress, Drupal, and Next.js sites that
+  reach billions of people worldwide. As an employer, we
+  operate with the same philosophy that drives our product:
+  foundation and freedom. Pantheon is a vibrant, remote-
+  forward team of experts who care deeply about their craft
+  and results. Here, you take ownership of work that matters,
+  contribute alongside exceptional people, and see the impact
+  you create.
+
+  The Opportunity
+
+  This is a rare chance to be at the ground floor of something
+  genuinely new. Pantheon is building the next generation of
+  web content infrastructure: a real-time, collaborative
+  platform that redefines how teams create, publish, and
+  manage content on the modern web.
+
+  This is a zero-to-one role. The product is early, the
+  architecture is being defined, and the decisions you make
+  will shape how thousands of developers and content teams
+  experience the web for years to come. You will not be
+  maintaining legacy systems or iterating on feature #1001.
+  You will be inventing the foundational layer of a new
+  product category: one that sits at the intersection of
+  developer tooling, visual editing, and cloud-native content
+  infrastructure.
+
+  Content management has been largely unchanged for two
+  decades. CMSes were built for an era of documents and
+  databases, not for the speed, collaboration expectations, or
+  deployment patterns of today's web. Pantheon is uniquely
+  positioned — with deep roots in the web platform, a global
+  CDN, and a sophisticated branching platform already trusted
+  by thousands of organizations — to build the content
+  management experience that the modern web actually deserves.
+
+  If you've ever wanted to work on a problem that is
+  technically hard, commercially meaningful, and genuinely
+  unsolved, this is it.
+
+  The Role
+
+  As a Staff Engineer on this team, you will be a technical
+  leader and hands-on builder in equal measure. You will work
+  across the full stack — from the APIs and real-time
+  synchronization services that power the platform's backend,
+  to the visual editing interfaces and component systems that
+  content teams interact with every day. You will partner
+  closely with product and design to shape the architecture,
+  make build-vs-buy decisions, define engineering standards,
+  and accelerate a small, focused team toward meaningful
+  milestones.
+
+  This role requires both breadth and depth. You are equally
+  comfortable reasoning about distributed state management and
+  crafting a delightful, low-latency editing experience in the
+  browser. You understand that great infrastructure and great
+  product experience are not in tension — they are the same
+  problem viewed from different angles.
+
+  What You Need to Succeed Platform Architecture & Technical
+  Leadership
+
+  - Design and own the architecture of a real-time content
+    platform — including data models, sync protocols, API
+    surface, and client-side state management.
+  - Drive technical decisions that balance developer ergonomics,
+    operational simplicity, and long-term scalability across a
+    cloud-native, multi-tenant environment.
+  - Define engineering standards for the team: API design
+    conventions, testing strategy, performance budgets, and
+    observability practices.
+  - Evaluate and select third-party services, libraries, and
+    infrastructure components — with a clear framework for
+    build vs. buy tradeoffs.
+
+  Full-Stack Product Development
+
+  - Build backend services that power collaborative editing,
+    conflict resolution, and content delivery — operating
+    reliably at scale across a distributed cloud
+    infrastructure.
+  - Build frontend systems that enable visual, real-time editing
+    experiences — including page builders and publishing
+    workflows.
+  - Own the integration layer between the editing experience and
+    the underlying platform: APIs, webhooks, and the
+    developer-facing extension model.
+  - Contribute meaningfully to UX architecture — not just
+    implementation — by collaborating with design on
+    interaction models for novel, stateful editing flows.
+
+  Cross-Functional Collaboration & Mentorship
+
+  - Serve as a technical partner to product and design —
+    translating ambiguous problem spaces into concrete
+    technical strategies and phased delivery plans.
+  - Mentor and elevate engineers on the team through code
+    review, pairing, architecture feedback, and clear
+    documentation of technical decisions.
+  - Engage with customers and partners to pressure-test
+    architectural assumptions and ensure the platform
+    addresses real-world integration patterns.
+
+  What You Bring to the TableExperience & Technical Depth
+
+  - 10+ years of overall software engineering experience, with a
+    strong track record of ownership across the full product
+    lifecycle.
+  - Genuine full-stack capability — you have shipped production
+    systems on both the backend (APIs, data services, cloud
+    infrastructure) and frontend (interactive UIs, component
+    systems, browser performance).
+  - Experience with real-time or collaborative systems — whether
+    content editing, multiplayer applications, event-driven
+    architectures, or live data synchronization.
+  - Cloud-native fluency: you are comfortable designing and
+    operating services in GCP, AWS, Cloudflare, or Azure, with
+    experience in containerization and modern deployment
+    pipelines.
+  - API design expertise: you have strong opinions about REST,
+    GraphQL, and event-driven interfaces — and know when to
+    apply each.
+  - Frontend architecture chops: you understand component
+    modeling, state management, rendering performance, and the
+    browser platform at a level that goes well beyond
+    framework familiarity.
+  - Bachelor's degree in Computer Science or equivalent
+    practical experience.
+
+  Soft Skills & Values
+
+  - Owners mindset: you are energized by ambiguity, take
+    initiative without being asked, and feel personal
+    ownership over outcomes — not just outputs.
+  - Clear communicator: you can translate complex technical
+    tradeoffs for product partners, write crisp design docs,
+    and give feedback that makes engineers better.
+  - Systems thinker: you see how architectural decisions today
+    create optionality or debt tomorrow, and you make those
+    tradeoffs consciously.
+  - Builder's patience: zero-to-one work is non-linear. You
+    understand that the path to a great product involves
+    iteration, dead ends, and genuine collaboration — and you
+    thrive in that environment.
+
+  Bonus Skills
+
+  - Experience with visual or low-code editing interfaces (page
+    builders, WYSIWYG editors, drag-and-drop component
+    systems).
+  - Familiarity with CMS architectures — headless, hybrid, or
+    traditional — and their tradeoffs in real-world
+    deployments.
+  - Experience building developer-facing platforms or extension
+    systems (SDKs, plugin APIs, CLI tooling).
+  - Contributions to open-source projects in the web platform or
+    developer tooling ecosystem.
+
+  What We Offer
+
+  We have all the usual perks and benefits but what we can
+  really offer you is a fantastic work environment powered by
+  an amazing team.
+
+  - Industry competitive compensation and equity plan
+  - Flexible time off, sick days, and 13 paid holidays
+  - Comprehensive medical insurance including Health, Dental and
+    Vision
+  - Paid parental leave (plus fertility, adoption and other
+    family planning benefits)
+  - In-office workspace (San Francisco & Chicago)
+  - Monthly allowance for wellness, reading and access to
+    LinkedIn Learning for continued development
+  - Events and activities both team-based and company wide that
+    inspire, educate and cultivate
+
+  Pantheon is an equal opportunity employer and we welcome
+  applications from all backgrounds regardless of race, color,
+  religion, sex, national origin, ancestry, age, marital
+  status, sexual orientation, gender identity, veteran status,
+  disability, or any other classification protected by law.
+  Pantheon complies with federal and local disability laws and
+  makes reasonable accommodations for applicants and employees
+  with disabilities. If you need a reasonable accommodation
+  due to a disability for any part of the interview process,
+  please contact talent@pantheon.io. Pursuant to local and
+  federal regulations, Pantheon will consider qualified
+  applicants with arrest and conviction records for
+  employment.
+
+  After an offer is made and accepted, E-verify will be
+  utilized to establish your identity and employment
+  eligibility as required by the U.S. Department of Homeland
+  Security.
+
+  To review the Employee and Applicant's Privacy Policy, click
+  here.
+
+  The US base salary range for this position in the United
+  States is $164,160 - $205,200 USD per year. Our salary
+  ranges are determined by role, level, and location. At
+  Pantheon, it is not typical for an individual to be hired at
+  or near the top of the range for their role and compensation
+  decisions are dependent on the facts and circumstances of
+  each case.
+
+  Visa Sponsorship is not available at this time.
+posted_date: 2026-08-02
+url: "https://builtin.com/job/staff-software-engineer-web-platform/9097138"
+source: Built In

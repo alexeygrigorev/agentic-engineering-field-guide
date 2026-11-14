@@ -1,0 +1,111 @@
+job_id: 9169445
+title: Frontend Engineer
+company: Tristero
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  Location: Remote / Americas Preferred
+
+  Compensation: $100k — $160k USD base, 0.3–0.6% equity
+
+  Overview
+
+  Tristero's mission is to increase individual sovereignty.
+  We’re building a Binance-grade exchange platform entirely
+  on-chain with total privacy, powered by cutting-edge
+  cryptography. Our early focus is blockchain interoperability
+  — already delivering industry-leading pricing and settlement
+  times.
+
+  We’re looking for a Front-End Engineer to help make our web-
+  based Dapp fast, stable, and seamless for traders. You’ll
+  work closely with a lead engineer, a designer, and other
+  front-end devs to deliver high-performance trading
+  interfaces across multiple blockchain networks. This role is
+  hands-on, with a strong emphasis on performance tuning,
+  state management, and smooth cross-chain UX.
+
+  Key Responsibilities
+
+  High-Performance Trading Interfaces
+
+  - Implement and optimize responsive trading UIs that handle
+    sub-second quote updates across multiple blockchains.
+  - Integrate with our quote engine to support real-time order
+    tracking via WebSockets, ensuring a smooth, centralized-
+    exchange-grade feel in a decentralized setting.
+  - Work on advanced order routing and fallback logic to
+    maintain stability under varying network conditions.
+
+  Multi-Chain State Management
+
+  - Contribute to our Zustand-based architecture that manages
+    complex trading flows across EVM, Bitcoin UTXO, Solana,
+    and Tron.
+  - Identify and reduce performance bottlenecks in memoization
+    and state synchronization layers.
+  - Help ensure consistent UX across drastically different
+    blockchain paradigms.
+
+  Transaction Handling & Reliability
+
+  - Implement and refine cross-chain transaction features,
+    including retry logic, circuit breakers, and failover
+    handling.
+  - Enhance user feedback and error states to ensure clarity
+    during network instability or quote unavailability.
+
+  Scalable Component Development
+
+  - Build modular, reusable trading components that adapt to
+    different wallet types and blockchain environments.
+  - Optimize React render cycles to handle frequent price
+    updates without UI lag.
+  - Collaborate on building robust error-handling patterns
+    tailored for multi-chain environments.
+
+  Qualifications
+
+  - 3–5 years experience in front-end or full-stack development.
+  - Strong proficiency in React and modern
+    JavaScript/TypeScript.
+  - Experience with performance optimization in data-intensive
+    UIs.
+  - Solid understanding of asynchronous programming and
+    WebSocket integrations.
+  - Excellent collaboration skills — comfortable working in a
+    fast-paced, cross-functional team.
+  - Interest in blockchain technology (hands-on crypto/Web3
+    experience a plus).
+
+  Nice-to-Have
+
+  - Experience contributing to blockchain or open-source
+    projects.
+  - Familiarity with DeFi, trading platforms, or multi-chain
+    Dapp development.
+
+  We’ve got unlimited PTO, a full suite of healthcare options,
+  and some swag with your name on it. We foster a high-trust,
+  high-autonomy culture. If you’re looking for a no-nonsense
+  team to build groundbreaking financial products
+  with—Tristero may be the place for you.
+
+  We're looking forward to hearing from you! If you do not
+  have any direct crypto experience, please
+
+  make sure to include a brief cover letter that explains why
+  you think you can onboard to a new domain smoothly. This can
+  be
+
+  very short - we do read these.
+industries:
+  - Blockchain
+  - Software
+  - Financial Services
+  - Cryptocurrency
+posted_date: 2026-08-08
+url: "https://builtin.com/job/frontend-engineer/9169445"
+source: Built In

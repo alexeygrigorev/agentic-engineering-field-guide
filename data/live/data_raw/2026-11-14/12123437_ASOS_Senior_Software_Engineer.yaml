@@ -1,0 +1,281 @@
+job_id: 12123437
+title: Senior Software Engineer
+company: ASOS
+location: London, GBR
+work_type: FULL_TIME
+company_size: 3,200 Employees
+description: |
+  Company Description
+
+  We're ASOS, the online retailer for fashion lovers all
+  around the world.
+
+  We exist to give our customers the confidence to be whoever
+  they want to be, and that goes for our people too. At ASOS,
+  you're free to be your true self without judgement, and
+  channel your creativity into a platform used by millions.
+
+  We're proud members of Inclusive Companies; are Disability
+  Confident Committed and have signed the Business in the
+  Community Race at Work Charter. Everyone needs some help
+  showing up as their best self, so let our Talent team know
+  if you need any adjustments throughout the process in
+  whatever way works best for you.
+
+  Job Description
+
+  We believe being together in person helps us move faster,
+  align more effectively, and build stronger teams. Our
+  approach includes spending at least two days a week in the
+  office to support collaboration, decision-making, and shared
+  ownership.
+
+  We’re looking for a Senior Software Engineer to join our
+  Developer Experience team in London. Developer Experience is
+  the team responsible for the internal developer platform at
+  ASOS: Backstage, our developer portal, golden path
+  templates, engineering metrics, and the agentic AI
+  capabilities that are fundamentally changing how engineers
+  work. The goal is always the same: reduce the cognitive load
+  on engineers so they can focus on building things that
+  matter for the business.
+
+  At senior level your ownership sits at the system and
+  architectural level. As an individual contributor you will
+  be the person others look to for technical decisions, design
+  direction, and engineering quality on the platform. You are
+  not just delivering features; you are shaping how the
+  platform is built and setting the standards the whole team
+  works to.
+
+  In this role, you will take technical ownership of
+  significant parts of the Developer Experience platform.
+  You’ll lead the design and delivery of complex features, set
+  engineering standards within the team, mentor more junior
+  engineers, and play a direct role in shaping how the
+  platform evolves. The end-user of everything you build is a
+  fellow engineer at ASOS, and every improvement you make is
+  multiplied across hundreds of people, returning time that
+  would otherwise be lost to toil, setup, or unnecessary
+  complexity. The measure of a great developer platform is
+  whether a new engineer can onboard into their team and get
+  their first service into production without needing to ask
+  anyone for help. That is what we are building.
+
+  This is a role for a senior engineer who combines deep
+  technical capability with genuine product thinking, who
+  operates comfortably across the full breadth of a platform
+  stack, and who is energised by solving hard problems that
+  make other engineers more productive. We want someone who
+  ships, learns, and iterates, not someone who plans
+  endlessly.
+
+  Platform Ownership & Delivery
+
+  - Lead the design and delivery of complex features across
+    Developer Experience services, covering Backstage, golden
+    path templates, engineering metrics, DORA instrumentation,
+    and AI-assisted developer tooling.
+  - Take architectural ownership of key Developer Experience
+    components, making clear, well-reasoned technical
+    decisions and ensuring they scale across a diverse
+    engineering organisation.
+  - Design and evolve Backstage plugins, scaffolder templates,
+    and catalogue integrations that make the developer portal
+    the single trusted starting point for engineers at ASOS.
+  - Own the engineering quality of golden path templates,
+    ensuring they reflect current best practices, cover the
+    right service archetypes, support ASOS canonical languages
+    and frameworks, and include security, observability, and
+    CI/CD by default.
+  - Drive the team’s work on DORA and developer productivity
+    instrumentation, designing measurement approaches that
+    give real visibility into deployment frequency, lead time,
+    collaboration score, and developer satisfaction, surfacing
+    these signals to engineering management so they can
+    identify and remove friction across their teams.
+
+  Agentic AI & Developer Tooling
+
+  - Play a leading technical role in embedding agentic AI
+    capabilities into the ASOS developer experience, working
+    closely with OCTO (Office of the CTO) to shape and
+    integrate AI-powered workflows into the portal and
+    toolchain. You do not need to have done this before at
+    scale; you need to be the kind of engineer who runs toward
+    it, moves fast, and figures it out.
+  - Design and implement AI agent platform integrations using
+    GitHub Copilot, MCP servers, and related tooling, making
+    AI assistance a natural part of how engineers at ASOS
+    work.
+  - Work in lockstep with the Engineering Lead and in close
+    collaboration with OCTO to assess the agentic AI tooling
+    landscape as it evolves, evaluating tools across workflow
+    benefit, model cost, and capability for multi-step agentic
+    tasks, and translating that analysis into clear guidance
+    on what we use, when, and why.
+  - Take a leading role in shaping how Developer Experience
+    evolves for an agentic engineering model, not just
+    adopting tools, but redesigning how golden paths, system
+    templates, and onboarding work when AI agents are part of
+    the engineering workflow. You will define the approach,
+    run experiments across GitHub Copilot and Claude
+    workflows, and establish the patterns the rest of the team
+    builds from.
+  - Contribute to evaluation frameworks and guardrails for AI-
+    assisted engineering, ensuring the team can measure
+    quality, manage regression, and adopt AI safely at scale.
+
+  Engineering Leadership
+
+  - Set technical direction within the DevEx team, contributing
+    to architectural decisions, defining standards, and
+    ensuring the platform is built to last.
+  - Mentor and develop junior and mid-level engineers through
+    code review, pairing, design conversations, and direct
+    feedback that accelerates their growth.
+  - Champion automated testing, documentation-as-code, and
+    engineering excellence across everything the team ships.
+  - Work with the Engineering Lead to shape the team’s roadmap,
+    sequence delivery, and communicate technical trade-offs
+    clearly to stakeholders.
+
+  Cross-Domain Collaboration
+
+  Your technical credibility is what earns you a seat at the
+  table with adjacent teams (not organisational seniority).
+  The collaboration below is a consequence of the engineering
+  you do, not a separate workstream.
+
+  - Partner with Release Engineering, Developer Infrastructure,
+    and Cyber Security to ensure the Developer Experience
+    platform integrates cleanly with the wider ecosystem, with
+    security, compliance, and access standards embedded by
+    default, not bolted on.
+  - Engage directly with product engineering teams,
+    understanding the friction they face, gathering feedback
+    on portal and template adoption, and using those insights
+    to improve the platform.
+
+  What we are using
+
+
+
+  - Backstage - our internal developer portal (catalogue,
+    scaffolder, TechDocs, plugins)
+  - TypeScript, React and Node.js - portal frontend, plugin
+    development, and backend services
+  - GitHub and GitHub Actions - source control, automation, and
+    CI/CD
+  - Azure - cloud hosting, identity, and storage for Developer
+    Experience services
+  - Docker and containers - building and running platform
+    services
+  - AI tooling - AI coding assistants embedded into our
+    engineering workflows, in partnership with OCTO. At senior
+    level, your job is to know which tool to reach for and to
+    set the pattern for the team.
+  - Engineering metrics, DORA instrumentation, and DX/SPACE
+    signals
+  - Azure DevOps - work item tracking and pipeline management
+
+  Beyond technical depth, we are looking for engineers with a
+  genuine agentic mindset. At senior level this means more
+  than using the tools - it means seeing how agentic workflows
+  reshape the entire developer platform, from golden paths to
+  onboarding to how teams reason about service ownership. You
+  will be one of the people who defines what that looks like
+  at ASOS.
+
+
+
+  Qualifications
+
+  At senior level we are looking for engineers who bring deep
+  technical expertise, strong independent judgement, and a
+  track record of owning and delivering complex platform work.
+  This is an individual contributor role; you will be the
+  technical authority on what you own, with the space and
+  trust to make real decisions.
+
+  Required Skills and Experience
+
+  - Proven experience delivering production-grade software in a
+    platform, developer experience, or internal developer
+    platform team; you know what it means to build for
+    engineers as customers.
+  - Deep proficiency in TypeScript/JavaScript and/or a primary
+    backend language (C#/.NET, Node.js, or Go); you write
+    idiomatic, performant, production-ready code.
+  - Proven experience with Git, including branching strategies
+    and pull request workflows, with a consistent track record
+    of clean, well-structured code reviews and setting the
+    quality bar for the team.
+  - Experience with Backstage or a comparable internal developer
+    portal, with the credibility and drive to become the
+    technical authority on it quickly. Depth in catalogue
+    modelling, plugin development, scaffolder templates, or
+    TechDocs is a strong advantage.
+  - Solid understanding of CI/CD, modern software delivery
+    practices, and golden path approaches, and the ability to
+    make developer onboarding fast, consistent, and safe.
+  - Confident with containers (Docker), GitHub Actions or Azure
+    Pipelines, and Azure platform fundamentals.
+  - Experience with React and component-based frontend
+    development; you can build and maintain developer portal
+    UIs to a high standard.
+  - Hands-on experience using agentic AI tools (GitHub Copilot,
+    Claude Code, or equivalent) as a core part of your
+    engineering workflow. At senior level, we expect you to go
+    further than using these tools - you should be able to
+    evaluate them critically, design the system context and
+    patterns that make agents reliable at scale, and lead the
+    team’s thinking on where agentic approaches add the most
+    value.
+  - A track record of setting technical direction, making
+    architecture decisions, and delivering shared platforms
+    used by multiple product teams.
+  - Strong collaborator, comfortable working across platform
+    engineering, application engineering, security, and
+    product teams, and able to explain technical decisions
+    without hiding behind jargon.
+  - Experience mentoring engineers, running effective code
+    reviews, and contributing to a culture of engineering
+    excellence.
+
+  We'd Love It If You Have
+
+  - Experience with MCP server integration, LLM tool use
+    patterns and building AI-assisted developer workflows
+    beyond standard Copilot usage.
+  - Experience with DORA metrics, developer productivity
+    instrumentation, or DevEx research methods (surveys,
+    journey mapping, friction logs).
+  - Familiarity with platform/product thinking frameworks: paved
+    roads, fitness functions, service ownership taxonomy.
+  - Experience with CLI tooling design, documentation pipelines,
+    or service catalogue governance models.
+  - Knowledge of evaluation and guardrail design for AI features
+    in an engineering context.
+
+  Additional Information
+
+  BeneFITS'
+
+  - Employee discount (hello ASOS discount!)
+  - Employee sample sales
+  - 25 days paid annual leave + an extra celebration day for a
+    special moment
+  - Private medical care scheme
+  - Flexible benefits allowance - take it as extra cash or use
+    it towards other benefits
+  - Opportunity to represent ASOS at industry-leading events
+
+  Why take our word for it? Search #InsideASOS on our socials
+  to see what life at ASOS is like.
+industries:
+  - eCommerce
+  - Retail
+posted_date: 2026-11-07
+url: "https://builtin.com/job/senior-software-engineer/12123437"
+source: Built In

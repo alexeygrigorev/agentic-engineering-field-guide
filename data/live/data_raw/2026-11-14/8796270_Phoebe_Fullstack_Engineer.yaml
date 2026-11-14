@@ -1,0 +1,106 @@
+job_id: 8796270
+title: Fullstack Engineer
+company: Phoebe
+location: New York, USA
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  About Phoebe
+
+  Phoebe is modernizing America's home healthcare
+  infrastructure. This is the coordination layer for one of
+  the largest labor markets in the country.
+
+  We're looking for hungry, high-throughput generalist
+  engineers as we scale into the multi-millions over the next
+  6 months.
+
+  About You
+
+  We're looking for hungry, high-throughput generalist
+  engineers as we scale into the multi-millions over the next
+  6 months. You might want to start your own company one day,
+  but aren’t sure what to build yet. You might have spent time
+  at a larger unicorn and want to join a fast growing startup
+  with PMF.
+
+  You will:
+
+  - Get a clear view into engineering, product, go-to-market,
+    and the iterative loop that connects all 3
+  - Learn the Vertical AI playbook
+    - how to embed into an industry, learn the domain, and build
+      LLM-driven workflows to automate it.
+    - How to generate demand with modern GTM techniques across B2B
+      and B2C
+
+  What You'll Build
+
+  - Voice and SMS agents that automate the 24/7 shift lifecycle
+    (confirmations, clock-ins, notes, last-minute coverage)
+  - LLM orchestration across prompt engineering, tool use,
+    context management, and evals that keep agents reliable as
+    we scale
+  - Internal ops tooling so our team can monitor agent
+    performance, handle edge cases, and onboard new customers
+    fast
+  - Reliability and observability improvements across our voice
+    and messaging infrastructure
+  - Full-stack features from data model to API to UI, shipped to
+    real customers within days
+
+  Your First 90 Days
+
+  - Month 1: Ship something real. You'll pair-program with the
+    team immediately and ship features within your first week.
+    By the end of month one, you'll own a complete feature
+    from design to production.
+  - Month 2: Go deep on the orchestration layer. You'll improve
+    reliability and observability across our voice and
+    messaging stack, and contribute to how we evaluate agent
+    quality at scale.
+  - Month 3: Take ownership. You'll scope and lead a feature
+    area yourself, such as a new EHR integration, an
+    improvement to the talent agent product, or better tooling
+    for our ops team.
+
+  Our Tech
+
+  - React / TypeScript / Vite on the frontend
+  - FastAPI / Python on the backend
+  - Postgres (RDS)
+  - Twilio for voice and SMS
+  - LLMs throughout
+  - AWS
+  - Linear, Notion
+
+  You're a Good Fit If
+
+  - You're a strong generalist who can work across the stack
+  - You stay on the cutting edge of AI dev workflows and love
+    using coding agents to automate engineering,
+    observability, and the entire development workflow.
+  - You ship fast and iterate based on real usage
+  - You're comfortable with ambiguity and figuring things out as
+    you go
+  - You've worked with LLMs in production (or are eager to)
+  - You want to be early at a company that's growing very
+    quickly
+
+  What We Offer
+
+  - Interesting, high-leverage work at a company growing very
+    fast
+  - $180k+ base salary with above-market equity
+  - Small team where your work ships to customers immediately
+  - In-person in NYC - we work in the same room
+  - Multiple second-time founders to learn from - Justin (CEO)
+    sold Bayes (YC S19) to Airtable. Dave built and sold
+    Kamana, an app for travel nurses.
+industries:
+  - Healthtech
+  - HR Tech
+  - Conversational AI
+posted_date: 2026-08-22
+url: "https://builtin.com/job/fullstack-engineer/8796270"
+source: Built In

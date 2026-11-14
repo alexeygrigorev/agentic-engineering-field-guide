@@ -1,0 +1,148 @@
+job_id: 11954031
+title: "Senior Software Engineer — Container Images & Security"
+company: RapidFort, Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 119 Employees
+description: |
+  Senior Software Engineer — Container Images & Security
+
+  Citizenship Requirement: U.S. citizenship is required for
+  this position due to work supporting federal government
+  customers.
+
+  Location: Remote
+
+  Team: Engineering / Curated Images Employment Type: Full-
+  Time
+
+  About the Role
+
+  RapidFort is looking for a hands-on Senior Software Engineer
+  to join our Curated Images team and help build, secure, and
+  maintain production-ready container images at scale.
+
+  This role combines deep Linux engineering, vulnerability
+  remediation, and software automation. You will own the
+  container image lifecycle—from building minimal,
+  reproducible images to analyzing and remediating CVEs,
+  validating runtime compatibility, and automating ongoing
+  maintenance and publishing.
+
+  You will work closely with engineering, infrastructure, and
+  security teams to deliver secure, reliable images across
+  Linux distributions and application stacks, including
+  Python, Go, and Java. Success requires the ability to
+  investigate package and dependency issues, implement fixes,
+  and build automation that makes those fixes repeatable.
+
+  What You’ll Do
+
+  - Design, build, and maintain minimal, hardened container
+    images across Linux distributions and application
+    runtimes.
+  - Own end-to-end CVE remediation across OS packages,
+    libraries, runtimes, and dependencies, including analysis,
+    patching, rebuilding, and validation.
+  - Troubleshoot complex package compatibility, dependency,
+    build, and runtime issues while preserving application
+    functionality.
+  - Reduce image attack surface and size by removing unnecessary
+    packages, binaries, and dependencies.
+  - Build and improve automated pipelines for image builds,
+    vulnerability scanning, remediation, testing, and
+    publishing.
+  - Develop tooling to manage image versioning, dependency
+    updates, metadata, and release traceability.
+  - Generate, validate, and maintain SBOMs to support software
+    supply chain visibility and compliance.
+  - Validate image functionality, reproducibility, and
+    compatibility with Kubernetes and other containerized
+    environments.
+  - Collaborate with platform, infrastructure, and security
+    teams to define image hardening standards and integrate
+    curated images into development and deployment workflows.
+  - Maintain clear documentation that helps developers adopt and
+    use curated images.
+  - Continuously improve remediation speed, image quality, build
+    reliability, and operational efficiency.
+
+  What You Bring
+
+  - 5+ years of relevant experience in software engineering,
+    Linux systems engineering, platform engineering,
+    DevSecOps, or SRE.
+  - Deep understanding of Linux systems, with hands-on
+    experience across distributions such as Debian, Ubuntu,
+    Alpine, or RHEL.
+  - Strong experience building and optimizing Docker images,
+    including multi-stage builds, image layering, and
+    container filesystem structures.
+  - Proven experience investigating and remediating CVEs in
+    Linux packages and container images, including patching,
+    rebuilding, and validating fixes.
+  - Strong working knowledge of Linux package management and
+    dependency resolution using tools such as apt, apk,
+    yum/dnf, or rpm.
+  - Strong programming or scripting skills in Python, Go, or
+    Bash, with experience building maintainable automation and
+    internal tooling.
+  - Experience developing and maintaining CI/CD pipelines using
+    GitHub Actions, GitLab CI, Jenkins, or similar tools.
+  - Hands-on experience with vulnerability scanners such as
+    Trivy, Grype, or Clair, along with SBOM generation.
+  - Solid understanding of Kubernetes concepts, container
+    lifecycles, and image deployment requirements.
+  - Ability to independently troubleshoot complex technical
+    issues and collaborate effectively across engineering
+    teams.
+
+  Nice to Have
+
+  - Experience building minimal or distroless images and
+    maintaining a large catalog of container images.
+  - Experience building Linux packages from source or
+    backporting security fixes.
+  - Familiarity with SBOM formats and tools such as SPDX,
+    CycloneDX, and Syft.
+  - Experience with image signing, provenance, and verification
+    using Cosign or Sigstore.
+  - Knowledge of software supply chain security frameworks such
+    as SLSA.
+  - Familiarity with container registries such as Docker Hub,
+    Harbor, or Amazon ECR.
+  - Experience with Helm, Kustomize, GitOps, or infrastructure-
+    as-code workflows.
+  - Experience in a startup environment or regulated industry.
+
+  What Success Looks Like
+
+  - Reliable delivery of production-ready, hardened images with
+    near-zero exploitable CVEs.
+  - Scalable automation for image builds, remediation,
+    validation, and publishing.
+  - Faster remediation turnaround while maintaining runtime
+    compatibility and image quality.
+  - Measurable reductions in image size and attack surface.
+  - Repeatable standards for secure, reproducible container
+    image delivery.
+
+  Compensation & Benefits
+
+  - Base salary: $130,000–$200,000, depending on experience and
+    technical depth.
+  - Equity participation.
+  - Comprehensive health, dental, and vision coverage.
+  - Remote-first work environment.
+  - Opportunity to solve complex Linux, container, and software
+    supply chain security challenges.
+  - Career growth within a rapidly scaling cybersecurity
+    company.
+industries:
+  - Cloud
+  - Software
+  - Cybersecurity
+posted_date: 2026-10-29
+url: "https://builtin.com/job/senior-software-engineer-container-images-security/11954031"
+source: Built In

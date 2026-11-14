@@ -1,0 +1,145 @@
+job_id: 11877537
+title: Senior Backend Engineer
+company: Jeeves
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 238 Employees
+description: |
+  Jeeves is the stablecoin-native banking platform for global
+  enterprises. Thousands of companies across 35 countries run
+  their corporate cards, payments, treasury and spend on one
+  platform, with more than $5B in annualized volume, payouts
+  to 190 countries, and one of the fastest-growing stablecoin
+  payment networks in the world. BMW, H&M, Lululemon, Burger
+  King, Kavak and XP are among them, and more than 80% of
+  customers use multiple Jeeves products.
+
+  We chose hard problems on purpose.
+
+  We hire for one thing: relentlessness. A strong motor that
+  keeps going when the problem has no playbook. You'll know in
+  your first week if Jeeves is right for you. For the right
+  people, it's the steepest learning curve of your career.
+
+  Jeeves has raised more than $400 million in equity funding
+  from Andreessen Horowitz, Y Combinator, CRV, Coinbase
+  Ventures, GIC, AllianceBernstein, CoinFund and others.
+
+  If you want to rebuild how money moves across borders, come
+  build it with us.
+
+  Jeeves is looking for a Senior Backend Engineer to join our
+  engineering team. You will design and build the backend
+  systems that power Jeeves's financial platform — working
+  across payments, cards, spend management, and compliance
+  infrastructure that serves businesses across the Americas
+  and beyond.
+
+
+
+  This is a backend engineering role at its core, we're
+  looking for a strong backend engineer who knows how to work
+  effectively with AI tools, understands where AI can
+  accelerate development and product capabilities, and is
+  comfortable integrating AI-powered features into production
+  backend systems.
+
+
+
+  Location: This is a full-time remote position. #LI-REMOTE
+
+  What You'll Do:
+
+  - Design, build, and maintain scalable, reliable backend
+    services that process financial transactions and serve
+    Jeeves customers across 20+ countries.
+  - Write clean, testable, production-quality code in Go,
+    Python, or Node.js/TypeScript; participate actively in
+    design and code reviews.
+  - Build and consume RESTful and GraphQL APIs; design inter-
+    service communication using gRPC, message queues, and
+    event-driven architectures.
+  - Design and optimize relational and non-relational database
+    schemas (PostgreSQL, MongoDB, Redis) for correctness,
+    performance, and scale.
+  - Own backend features end-to-end — from scoping and technical
+    design through deployment, monitoring, and iteration.
+  - Implement security best practices: authentication,
+    authorization, input validation, and data protection
+    across distributed services.
+  - Integrate LLM API calls (e.g., OpenAI, Anthropic) into
+    backend services as product features — such as spend
+    categorization, document parsing, or natural language
+    workflows — ensuring those integrations are reliable,
+    observable, and cost-efficient.
+  - Build backend pipelines that consume AI-generated outputs
+    safely: validate structured outputs, handle fallback
+    scenarios, and design graceful degradation when AI
+    services are unavailable or return low-confidence results.
+  - Collaborate with AI and data science teams to integrate
+    model outputs into backend APIs — bridging experimental AI
+    work and production systems.
+  - Use AI coding tools (GitHub Copilot, Claude, Cursor, etc.)
+    fluently as part of your everyday development workflow.
+  - Instrument services with structured logging, distributed
+    tracing, and metrics for full operational visibility.
+  - Participate in on-call rotation; respond to production
+    incidents and contribute to post-incident reviews.
+  - Contribute to CI/CD pipeline improvements, testing
+    infrastructure, and deployment practices.
+  - Work closely with engineering, product, compliance, and data
+    teams across multiple time zones and regions —
+    communicating in both English and Spanish or Portuguese as
+    the situation requires.
+  - Contribute to a globally distributed engineering culture
+    through thorough documentation, async design reviews, and
+    thoughtful pull request feedback.
+  - Bring your regional perspective to product and engineering
+    conversations — our LATAM customers have specific needs,
+    and engineers who understand those markets make our
+    product better.
+
+  Requirements:
+
+  - 5+ years of professional backend engineering experience
+    building and operating production systems.
+  - Fluent in English — professional fluency required for daily
+    work with global teams in written and spoken contexts.
+  - Strong proficiency in at least one backend language: Go,
+    Python, or Node.js/TypeScript.
+  - Experience designing and building RESTful APIs,
+    microservices, and event-driven backend systems.
+  - Solid understanding of relational databases (PostgreSQL
+    preferred): schema design, query optimization, and data
+    modeling.
+  - Experience with cloud infrastructure (AWS, GCP, or Azure),
+    containerization (Docker, Kubernetes), and CI/CD
+    pipelines.
+  - Demonstrated ability to integrate third-party APIs reliably
+    in production — including error handling, retry logic, and
+    observability.
+  - Experience working on globally distributed teams across time
+    zones and regions.
+  - Comfortable using AI tools as part of everyday engineering
+    work — integrating LLM API outputs into backend services
+    and using AI coding assistants fluently.
+  - Experience in fintech, financial services, payments, or a
+    regulated industry — familiarity with ledger systems,
+    payment rails, or financial compliance (KYC/AML, PCI-DSS)
+    is a strong plus.
+  - Fluent in Spanish or Portuguese — preferred for
+    collaboration with LATAM teammates, customers, and
+    operational partners.
+  - Prior experience at a startup or high-growth scale-up,
+    comfortable building in ambiguity without heavy process
+    support.
+  - Experience with multi-currency systems or cross-border
+    payment processing.
+  - Familiarity with message queue systems (Kafka, RabbitMQ) and
+    event-driven architecture.
+  - Global work experience — prior roles at companies operating
+    across multiple countries and regulatory environments.
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-backend-engineer/11877537"
+source: Built In

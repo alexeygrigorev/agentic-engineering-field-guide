@@ -1,0 +1,135 @@
+job_id: 11262677
+title: Senior Software Engineer, Payments
+company: AngelList
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 518 Employees
+description: |
+  About AngelList
+
+  Private markets are the new public markets. The most
+  important companies of this era are private, and almost no
+  one can own them. What's missing is the financial system
+  public markets spent a century building: exchanges,
+  custodians, brokers, and ways for ordinary people to buy in.
+  Private markets, now $28T, never had the equivalent.
+  AngelList is building it.
+
+  The last decade of structural innovation in venture happened
+  here: syndicates, SPVs at scale, Rolling Funds, scout
+  programs. Today we have $200B+ in assets and 30,000+
+  startups funded on our platform. The rest of private markets
+  is next. Funds is the software and services behind private
+  funds, Nova is the banking network, Meridian is the wealth
+  platform for accredited investors, and USVC is the brand
+  behind a registered fund that lets anyone invest in venture.
+
+  Working here means an unusual amount of agency on a problem
+  that matters. Titles are closer to suggestions, and there
+  are about 200 of us building what private markets never had.
+  Come build it with us.
+
+  About the Role
+
+  Nova is building the banking and payments network for
+  private markets. This infrastructure moves money between
+  funds and investors for subscriptions, capital calls, and
+  distributions. Nova currently supports $1.2B+ in deposits,
+  $100M+ in weekly transfers across six bank integrations, and
+  ~150k verified investors. Moving large sums between funds
+  and investors is among the highest-stakes work in private
+  markets. Getting every transaction right is how Nova earns
+  and keeps the trust of GPs and LPs.
+
+  If you're a Senior Software Engineer who wants to build the
+  financial infrastructure behind private markets, Nova
+  Foundations gives you the opportunity to own significant
+  parts of these systems end to end. The team owns the ledger,
+  bank and payment integrations, KYC, and secure PII storage
+  across money movement and risk and compliance. You'll take
+  difficult money-movement and identity problems from
+  ambiguity through launch and operation. The team will rely
+  on you to get every detail right in a domain where
+  correctness and auditability are non-negotiable.
+
+  What You'll Do
+
+  - Design, build, and operate core Foundations systems,
+    including the ledger, bank and payment integrations for
+    ACH and wires, KYC, and secure PII handling. You'll own
+    meaningful parts of these systems end to end.
+  - Take difficult problems from design through rollout and on-
+    call operation. You'll own the operational tail, not just
+    the initial release.
+  - Model complex financial and identity domains precisely in
+    relational data, then build the service contracts and APIs
+    that Product teams depend on.
+  - Build for correctness, auditability, security, and
+    reliability. Help catch predictable failures before they
+    become incidents.
+  - Improve the team's work through thoughtful code reviews and
+    design feedback, and mentor other engineers.
+  - Work with the Product teams that build on your systems and
+    with Compliance/Risk to keep the platform coherent across
+    team boundaries.
+
+  What We're Looking For
+
+  Nice to Have
+
+  - Experience with double-entry accounting or general-ledger
+    design.
+  - A background in fintech infrastructure or another highly
+    regulated, high-stakes environment.
+  - Familiarity with gRPC/protobuf APIs and event-driven or
+    workflow-orchestration patterns, such as Temporal or a
+    similar system.
+  - Experience handling sensitive PII and building systems that
+    meet compliance and security requirements for KYC/AML.
+
+  How Success Will Be Measured
+
+  Working Here
+
+  If you don’t meet every requirement above, we still
+  encourage you to apply. We value complementary strengths and
+  operators who learn by doing.
+
+  AngelList has offices in a few cities, with our engineering
+  hub in San Francisco. We’re building our engineering and
+  product teams around this hub to make the most of in-person
+  collaboration. We have a hybrid in-office model: teammates
+  come in at least 2 days per week (Tuesdays and either
+  Wednesday or Thursday).
+
+  Compensation:
+
+  The compensation for this role consists of a competitive
+  base salary, benefits, and equity package. The base salary
+  for this role is $200,000+ annually but actual will vary
+  based on a number of factors including a candidate’s
+  professional background, experience, and location.
+  Additional details about our Total Rewards package will be
+  provided during the recruitment process.
+
+  Benefits: We support your life both in and outside of work.
+  Explore our benefits Learn about Funders & Founders
+
+  What Guides Us: At AngelList, we are united in our purpose
+  to accelerate innovation and build the future of private
+  markets. Our beliefs and values shape what we work on and
+  how we create impact. If the below resonate, we'd love to
+  have you with us. Our beliefs Our values & leadership
+  expectations
+
+  AngelList is an equal opportunity employer and we value
+  diversity at our company. We do not discriminate on the
+  basis of race, religion, color, national origin, gender,
+  sexual orientation, age, marital status, veteran status, or
+  disability status.
+posted_date: 2026-09-18
+url: "https://builtin.com/job/senior-software-engineer-payments/11262677"
+source: Built In

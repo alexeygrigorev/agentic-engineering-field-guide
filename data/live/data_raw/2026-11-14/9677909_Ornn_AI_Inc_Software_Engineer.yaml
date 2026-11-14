@@ -1,0 +1,96 @@
+job_id: 9677909
+title: Software Engineer
+company: Ornn AI, Inc.
+location: New York, USA
+work_type: FULL_TIME
+company_size: 5 Employees
+description: |
+  About Ornn
+
+  Ornn is building the financial infrastructure for AI
+  compute. Our price indices are live on Bloomberg Terminal.
+  We structure and trade compute hedging instruments. And
+  we're now building a platform that brings exchange-grade
+  mechanics like order management, matching, scheduling, and
+  settlement to how compute capacity gets reserved and
+  allocated. We're a lean team in New York, backed by leading
+  venture and strategic investors.
+
+  About the Role
+
+  You would be one of the first engineers building a system
+  where bugs have financial consequences. The platform handles
+  real capacity commitments backed by real contracts, so the
+  engineering bar is closer to a trading system than a typical
+  SaaS product. You will work across the full stack having
+  ownership on the infrastructure and user experience for both
+  AI labs and neoclouds. You will work directly with our Head
+  of Engineering. Expect real influence over architecture and
+  technical direction, building end-to-end.
+
+  What You'll Do
+
+  - Build core platform features that let people use and trade
+    compute.
+  - Own frontend interfaces for thousands of customers (and
+    growing!)
+  - Make reliability a feature: write tests, maintain code
+    quality, and treat correctness as a hard requirement.
+  - Shape technical decisions around performance as the platform
+    scales.
+  - Contribute to infrastructure and deployment tooling as Ornn
+    grows.
+
+  What We're Looking For
+
+  Requirements
+
+  - 3+ years shipping production software.
+  - Strong Python skillset: you've built backend services, APIs,
+    and data-intensive systems with it.
+  - Full-stack capability.
+  - Comfortable operating independently in a lean team.
+  - BS, MS in CS or related field from a strong program.
+
+  Nice-to-Haves
+
+  - Rust experience, especially for systems-level or
+    performance-critical work.
+  - Time in trading, fintech, or crypto where latency and
+    reliability were non-negotiable.
+  - Familiarity with GPU compute, cloud infrastructure, or
+    datacenter operations.
+  - Experience with IaC, container orchestration, and CI/CD in
+    production.
+
+  Why This Role Matters
+
+  Ornn Compute's value to neoclouds and institutional
+  investors depends entirely on the platform working. The
+  credit structures, the rating agency relationships, the
+  financial products that sit on top of the marketplace all
+  assume a functioning, reliable exchange underneath. The near
+  term engineering execution will define whether Ornn Compute
+  can onboard its first cohort of tenants and operators.
+
+  Compensation and Benefits
+
+  Benefits include competitive salary, meaningful equity,
+  health coverage, free meals, and additional benefits. This
+  is a leadership role with significant strategic impact and
+  equity upside.
+
+  Equal Opportunity Statement
+
+  Ornn is committed to building a diverse team. We evaluate
+  candidates based on their ability to do the work, not on
+  pedigree or background. We encourage applications from
+  people of all backgrounds and experiences.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-07-31
+url: "https://builtin.com/job/software-engineer/9677909"
+source: Built In

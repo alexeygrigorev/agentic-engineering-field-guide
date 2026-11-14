@@ -1,0 +1,123 @@
+job_id: 9210554
+title: Senior Backend Engineer
+company: Giga AI Inc.
+location: New York, USA
+work_type: FULL_TIME
+company_size: 37 Employees
+description: |
+  About Giga
+
+  Giga has recently raised a $61M Series A and is working with
+  Fortune 500 customers to deploy the next generation of
+  customer experience - real-time AI agents that can
+  understand emotion, resolve issues instantly, and scale
+  across the world's largest enterprises.
+
+  Industry leaders like DoorDash trust Giga with their most
+  complex support and operations workflows across voice, chat,
+  and email, in high-stakes regulated environments where
+  accuracy and compliance matter. We're at an exciting
+  inflection point.
+
+  While we've found real commercial success, our ambitions are
+  larger: to become the go-to AI platform for all enterprise
+  automation, powered by our voice superintelligence. The work
+  affects millions of people every day, and our team has the
+  autonomy to make true impact - with brilliant founders, a
+  clear path forward, and the kind of momentum that defines
+  generational companies.
+
+  If being part of that resonates with you, we'd love to hear
+  from you!
+
+  - Voice AI startup Giga raises $61M Series A
+  - DoorDash and Giga Partnership
+
+
+
+  The Role
+
+  We're looking for backend engineers to build the
+  infrastructure and systems that power our AI agents. You'll
+  work across the stack, from data pipelines and analytics to
+  real-time agent systems, shipping features that directly
+  impact how our customers operate.
+
+  This isn't a role where you'll be handed a spec and asked to
+  execute. You'll own problems end-to-end: figuring out the
+  right approach, building it, and iterating based on what you
+  learn.
+
+
+
+  What You'll Work On
+
+  A few examples from our current roadmap:
+
+  - Analytics rewrite: Migrating our analytics service to
+    ClickHouse and rebuilding it to scale through our next 10x
+    of growth
+  - Hallucination detection: Improving our detection systems
+    with the goal of driving hallucination rates toward zero
+  - Browser use agent: Scaling, stabilizing, and adding features
+    and accuracy to our browser use agent in lieu of formal
+    customer APIs
+
+  As a senior engineer, you'll be expected to make sound
+  technical decisions, ship reliably, and help set the bar for
+  code quality and system design. You'll have significant
+  autonomy and influence over what gets built and how.
+
+
+
+  Tech Stack
+
+  - Backend: Python (Django/FastAPI), TypeScript (Node.js)
+  - Infrastructure: AWS, Modal, Kubernetes, Postgres
+  - Frontend: TypeScript, Next.js (you'll interact with this,
+    but it's not the focus)
+
+
+
+  You Might Be a Fit If You
+
+  - Have 4+ years building backend systems, ideally at companies
+    where reliability and scale mattered
+  - Are comfortable with ambiguity: you can take a loosely-
+    defined problem and figure out what to build
+  - You'll jump into unfamiliar parts of the codebase when
+    that's what the problem requires
+  - Write clean code and care about getting the details right,
+    but also know when to ship
+  - Want to work on hard problems with a small team where your
+    work has obvious impact
+  - Are excited about AI agents and the infrastructure
+    challenges that come with running them in production
+
+
+
+  Perks & Benefits
+
+  - Competitive base + bonus + equity
+  - Catered lunch daily
+  - Dinner stipend
+  - $300/month wellness & commuter benefit (gym, fitness
+    classes, mental health)
+  - 401(k) plan
+  - Medical, dental, and vision coverage
+
+
+
+  Giga is an equal opportunity employer. We're committed to
+  providing equal employment opportunities regardless of race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, age, disability, veteran status, or any
+  other characteristic protected by law.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Productivity
+  - Software
+posted_date: 2026-08-10
+url: "https://builtin.com/job/senior-backend-engineer/9210554"
+source: Built In

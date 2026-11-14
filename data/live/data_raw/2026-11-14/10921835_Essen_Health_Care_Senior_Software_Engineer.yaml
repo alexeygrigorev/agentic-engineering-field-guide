@@ -1,0 +1,140 @@
+job_id: 10921835
+title: Senior Software Engineer
+company: Essen Health Care
+location: New York, USA
+work_type: FULL_TIME
+company_size: 682 Employees
+description: |
+  Overview
+
+  Essen Health Care is the largest privately held,
+  multispecialty medical group in New York, providing high-
+  quality, compassionate care to some of the state’s most
+  vulnerable and underserved residents.
+
+  Founded in 1999, we’ve grown from a single primary care
+  office into a network of 50+ locations offering urgent care,
+  primary care and specialty services, from women’s health to
+  endocrinology and psychiatry. We also provide nursing home
+  support, care management, and in-home care through our Essen
+  House Calls program. Guided by a Population Health model,
+  our team of 500+ providers deliver care in-person, at home,
+  or via telehealth, ensuring patients get the support they
+  need when and where they need it.
+
+  We’re looking for talented, motivated individuals to join
+  our growing team. Whether you’re a medical provider,
+  administrator, or operations professional, there’s a career
+  here for you. Join us in making a real difference in the
+  health of our community.
+
+  Job Summary
+
+  Position Title: Senior Software Engineer
+
+  The role:
+
+  We're hiring Software Engineers to join our founding
+  engineering team. You'll take well-scoped technical work
+  from our principal engineers and ship it, end to end:
+  features, integrations, bug fixes, infrastructure
+  improvements. You'll work across the full stack, and you'll
+  have full ownership over what you build.
+
+  Responsibilities
+
+  What you’ll own
+
+  The work here spans the full platform. Some examples of what
+  you might be building in a given week:
+
+  · Implementing clinical rules that determine which patients
+  need outreach and for what (e.g., a diabetic patient who
+  hasn't seen endocrinology in 6 months)
+
+  · Building AI automations that interact with payor and
+  Medicaid systems to understand and leverage insurance
+  benefits on behalf of patients
+
+  · Working on EHR integrations that pull patient data, push
+  appointment updates, and keep systems in sync
+
+  · Using LLMs to deliver critical patient context to care
+  coordinators so they can educate and engage patients
+
+  · Improving infrastructure: API performance, data pipelines,
+  deployment tooling, test coverage
+
+  Day to day, you'll pick up work from a prioritized queue,
+  build it well, write tests, submit PRs, and ship. You'll
+  work with principal engineers when the technical approach
+  needs clarification and participate in code review across
+  the team.
+
+  Qualifications
+
+  What we’re looking for
+
+  · 5+ years of professional software engineering experience
+
+  · Comfortable working across the stack, backend and frontend
+
+  · Strong fundamentals: data structures, system design
+  basics, debugging, writing testable code
+
+  · Self-directed and comfortable with focused, independent
+  work
+
+  · Thorough. You think through edge cases, write tests, and
+  care about getting it right
+
+  · Excited to own features and work with the team to deliver
+  them our users
+
+  Our stack: Python (FastAPI), React/TypeScript, MSSQL, Redis,
+  Azure (Container Apps, Static Web Apps, DevOps Pipelines),
+  Terraform. The ability to learn and contribute is more
+  important than matching our stack exactly.
+
+  Nice to have
+
+  · Health tech or healthcare experience
+
+  · Experience with EHR systems or healthcare data
+
+  · Experience working in compliance-heavy or regulated
+  environments
+
+  · Familiarity with Azure cloud services
+
+  · Background working with underserved communities or in
+  mission-driven organizations
+
+  Location
+
+  Based in the Bronx, co-located with Essen Health Care. We
+  sit next to the care coordinators, clinicians, and operators
+  who use the platform every day and work in a community that
+  we serve. Instead of scheduling a user research session, you
+  can walk down the block and see someone using what you
+  built.
+
+  Hybrid: 3 days on-site, 2 days remote.
+
+  Why this role
+
+  You'll be a founding engineer building something from the
+  ground up. You'll make decisions that shape the platform for
+  years. You'll learn healthcare deeply, which is a career-
+  making domain. And you'll work alongside strong engineers on
+  a small team with no bureaucracy, and where what you build
+  goes directly into the hands of the people who deliver care.
+
+  Equal Opportunity Employer
+
+  Essen Health care is proud to be an equal opportunity
+  employer, and we seek candidates who desire to work in and
+  serve an ethnically diverse population.
+posted_date: 2026-10-19
+url: "https://builtin.com/job/senior-software-engineer/10921835"
+source: Built In

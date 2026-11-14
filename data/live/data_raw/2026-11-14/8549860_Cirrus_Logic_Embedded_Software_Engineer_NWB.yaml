@@ -1,0 +1,153 @@
+job_id: 8549860
+title: Embedded Software Engineer (NWB)
+company: Cirrus Logic
+location: Newbury, GBR
+locations:
+  - Newbury, GBR
+  - London, GBR
+work_type: FULL_TIME
+company_size: 1,604 Employees
+description: |
+  For over four decades, Cirrus Logic has been propelled by
+  the top engineers in mixed-signal processing. Our rockstar
+  team thrives on solving complex challenges with innovative
+  end-user solutions for the world's top consumer brands.
+  Cirrus Logic is also known for its award-winning culture,
+  built on a foundation of inclusion and fairness, meaningful
+  community engagement, and delivering enjoyable employee
+  experiences at every turn. But we couldn’t do it without our
+  extraordinary workforce – and that’s where you come in. Join
+  our team and help us continue to make Cirrus Logic an
+  exceptional place to grow your career!
+
+  We’re looking for an Embedded Software Engineer who thrives
+  close to the hardware and enjoys building high-performance,
+  reliable firmware for DSP architecture and microcontrollers
+  (e.g., RISC V and Arm Cortex M/A). You’ll design and
+  implement real-time embedded software, optimize compute-
+  heavy pipelines, and collaborate with hardware and systems
+  teams to bring products from concept to production.
+
+
+
+  This role suits someone who can move comfortably between
+  architecture/design, low-level firmware, and performance
+  tuning—especially where latency, throughput, power, and
+  determinism matter.
+
+  Key Responsibilities:
+
+  - Design, implement, and maintain embedded firmware for DSP
+    cores and MCUs (RISC V and/or Arm).
+  - Build and optimize real-time signal-processing pipelines
+    (fixed-point and/or floating-point), potentially including
+    FFTs, filters, modulation/demodulation, codecs, feature
+    extraction, or control loops.
+  - Develop firmware using a mix of C/C++ (and selective
+    assembly where appropriate), with strong focus on
+    performance, memory, and power optimization.
+  - Work with SoC/board peripherals: DMA, timers, SPI, I²C,
+    UART, I²S/TDM, PWM, GPIO, and relevant bus fabrics.
+  - Bring up new hardware: boot flows, clocks, memory maps,
+    interrupt vectors, peripheral init, and early validation.
+  - Implement and debug drivers and RTOS components (e.g.,
+    Zephyr or equivalent), including task scheduling,
+    synchronization primitives, and ISR design.
+  - Develop test strategies: unit tests, hardware-in-the-loop
+    tests, test automation, and manufacturing/production
+    diagnostics.
+  - Use debugging/profiling tools: JTAG/SWD, logic analyzers,
+    oscilloscopes, trace (ETM/ITM), and cycle-accurate
+    profiling when available.
+  - Collaborate cross-functionally with hardware, FPGA/ASIC,
+    systems, and application teams to define requirements and
+    interfaces.
+  - Contribute documentation: architecture notes, interface
+    specs, timing budgets, work packages, and bring-up guides.
+  - Participate in code reviews and help establish best
+    practices for embedded quality, safety, and
+    maintainability.
+
+  Required Skills and Qualifications:
+
+  - Strong professional experience developing embedded firmware
+    in C/C++ for MCUs and/or DSPs.
+  - Hands-on experience with RISC V and/or Arm architecture
+    (Cortex M/A), including interrupts, memory, caches, and
+    performance characteristics.
+  - Solid understanding of embedded software fundamentals:
+  - register-level programming, memory-mapped I/O
+  - concurrency (ISRs, RTOS tasks), race conditions, timing
+    determinism
+  - fixed-point arithmetic, numerical precision, and
+    overflow/underflow management
+  - Proven ability to optimize firmware: cycle counting, memory
+    layout, DMA usage, cache behavior, minimizing latency and
+    jitter.
+  - Comfortable with toolchains and build systems:
+  - GCC/LLVM-based toolchains, cross-compilation
+  - CMake/Make, Meson, linker scripts, map files
+  - Strong debugging skills with hardware and firmware:
+  - JTAG/SWD debugging
+  - root-cause analysis of timing and performance issues
+  - Source control expertise (Git) and disciplined engineering
+    practices (code reviews, CI).
+
+  Preferred Skills and Qualifications:
+
+  - Languages: C, C++, (optional) assembly, Python for test
+    tooling/scripts
+  - Architectures: RISC V, Arm Cortex M/A, DSP cores
+  - RTOS/OS: Zephyr, embedded Linux (optional)
+  - Tools: JTAG/SWD debuggers, GDB, OpenOCD/J-Link, logic
+    analyzer, oscilloscope, trace tools
+  - Practices: profiling, timing analysis, unit/integration
+    testing, CI/CD for embedded
+  - Experience with common DSP libraries/techniques (e.g.,
+    CMSIS-DSP, vendor DSP libs) and SIMD/vector optimization
+    patterns.
+  - Experience with Zephyr, or embedded Linux on Arm.
+  - Familiarity with bootloaders, secure boot, OTA update
+    mechanisms, and field diagnostics.
+  - Understanding of digital communications, or audio,
+    processing domains.
+  - Exposure to safety/security standards (e.g., MISRA C/C++,
+    IEC 61508, ISO 26262)
+
+  This Newbury or London based role is a hybrid remote
+  position and will follow a 2 day in-office work schedule,
+  with in-office days based on business needs and team
+  preference. You must be based within commutable distance of
+  the work location listed on the job posting, or willing to
+  relocate prior to beginning employment with Cirrus Logic.
+
+
+
+  #LI-PD1
+
+  #LI-Hybrid
+
+
+
+  Export control restrictions based upon applicable laws and
+  regulations would prohibit candidates who are nationals of
+  certain embargoed countries from working in this position
+  without Cirrus Logic first obtaining an export license.
+  Candidates for this role must be able to access technical
+  data without a requirement for an export license. We are
+  unable to sponsor or obtain export licenses for this role.
+
+  At Cirrus Logic, we believe that diversity drives
+  innovation, and we are committed to encouraging an open and
+  collaborative culture where different approaches, ideas, and
+  points of view are respected and valued. We aim to promote a
+  workplace where everyone can contribute irrespective of
+  race, colour, national origin, religion or belief, gender or
+  gender identity, sexual orientation, age, marital status,
+  pregnancy status, or disability.
+industries:
+  - Hardware
+  - Software
+posted_date: 2026-08-22
+url: "https://builtin.com/job/embedded-software-engineer-nwb/8549860"
+source: Built In

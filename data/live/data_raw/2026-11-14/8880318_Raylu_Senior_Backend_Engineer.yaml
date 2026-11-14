@@ -1,0 +1,80 @@
+job_id: 8880318
+title: Senior Backend Engineer
+company: Raylu
+location: New York, USA
+work_type: FULL_TIME
+company_size: 35 Employees
+description: |
+  Position Summary
+
+  We’re hiring a Senior Backend Engineer to be the scaling
+  expert behind our core systems. You’ll drive architectural
+  decisions that balance “what must work today” with “what
+  must scale tomorrow,” owning systems that are low-latency,
+  resilient, and cost-aware.
+
+  What we’re looking for
+
+  - TS-first backend: Expert in Node/Typescript services; bonus
+    points for production Go.
+  - Systems & scale: Deep grasp of memory management,
+    distributed systems, durable execution, and edge
+    functions.
+  - Queues & state: Hands-on with Temporal (or equivalent
+    durable workflows) and Redis at scale.
+  - Cloud & reliability: Comfortable shipping/operating in
+    modern cloud environments with strong observability
+    habits.
+  - LLM-aware: Familiarity with LLM integrations and their
+    operational quirks is a plus.
+  - Product sense: You make pragmatic tradeoffs, communicate
+    risk clearly, and choose designs that unblock the roadmap.
+  - Opinionated: Deep level of understanding of the
+    technological landscape, making both high level system and
+    granular code design decisions based on understanding
+    rather than preference - diving deep on unknown patterns
+    in order to build the best product.
+
+  Responsibilities
+
+  - Architect, build, and operate backend services that are
+    fast, fault-tolerant, and easy to evolve.
+  - Define service boundaries, data models, and contracts that
+    keep teams moving independently.
+  - Establish performance baselines and SLOs; design for
+    durability and graceful degradation.
+  - Lead technical design reviews and mentor engineers across
+    code quality, testing, and ops.
+  - Own critical systems: queue orchestration (Temporal),
+    caching (Redis), and infra automation.
+
+  Nice to have
+
+  - Prior work with agentic/LLM workflows
+
+  Logistics
+
+  - Compensation: $165K - $250K salary, $100K-200K equivalent in
+    new hire equity (4 year vest)
+  - Location: New York City. We are a fully in-office team
+    working out of Midtown Manhattan Monday through Friday. We
+    allow for WFH days when anyone is traveling, but we do not
+    allow for permanent remote work.
+  - Benefits:
+    - Generous health, dental, and vision insurance
+    - 401k with 3% automatic contribution (no vesting)
+    - Paid Lunches
+    - Wellness and Citi Bike benefit
+
+  Compensation
+
+  The base pay range for this role is $165,000 – $250,000 per
+  year.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-02
+url: "https://builtin.com/job/senior-backend-engineer/8880318"
+source: Built In

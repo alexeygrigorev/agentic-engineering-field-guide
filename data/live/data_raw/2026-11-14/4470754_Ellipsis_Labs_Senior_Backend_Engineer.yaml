@@ -1,0 +1,64 @@
+job_id: 4470754
+title: Senior Backend Engineer
+company: Ellipsis Labs
+location: New York, USA
+work_type: FULL_TIME
+company_size: 11 Employees
+description: |
+  Ellipsis Labs is a profitable, venture-backed New York
+  startup building performant DeFi protocols on high-
+  throughput decentralized infrastructure. Our long-term
+  mission is to build a more efficient, transparent, and fair
+  financial system.
+
+  Our flagship product, Phoenix Perpetuals, brings
+  professional-grade perpetual futures to Solana. Phoenix has
+  processed over $4 billion in trading volume and is growing
+  20% month over month, adding to the more than $300 billion
+  our products have facilitated to date. Behind Phoenix is a
+  lean, high-caliber team with experience at top trading
+  firms, blockchain companies, and tech companies.
+
+  Ellipsis Labs is seeking a Senior Backend Engineer to join
+  our team. As an early-stage startup, we appreciate bright
+  generalists who can iterate and ship quickly. In this role,
+  you will:
+
+  - Build and maintain scalable production services. We
+    currently support thousands of QPS, and future systems
+    will need to handle at least another order of magnitude.
+  - Implement systems to monitor performance at the micro- and
+    nano-second level
+  - Drive ambitious engineering initiatives (for example,
+    realtime data indexing at scale) from inception to
+    completion: specification, architecture, implementation,
+    testing, monitoring, and maintenance
+
+  QualificationsRequired
+
+  - 3+ years of experience building and maintaining production-
+    grade software systems (preferably in Rust, C++, C, or
+    Golang), with high-quality and well-documented production
+    code
+  - 3+ years of experience with Unix systems
+  - Experience working with cloud infrastructure, preferably AWS
+  - Ability to make informed engineering decisions based on
+    relevant business context
+  - A demonstrated track record of high agency, willingness to
+    dive into unfamiliar technical and non-technical areas,
+    and a team-first attitude
+  - Passion for decentralized finance
+
+  Preferred
+
+  - Experience working with blockchain technology, specifically
+    Solana
+  - Experience in quant trading or fintech
+  - Proficiency in Rust
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-14
+url: "https://builtin.com/job/senior-backend-engineer/4470754"
+source: Built In

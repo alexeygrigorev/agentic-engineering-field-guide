@@ -1,0 +1,167 @@
+job_id: 12241038
+title: Backend Engineer - Integrations
+company: Granted
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  💡 Mission
+
+  The US healthcare system is complex, error-prone, and
+  financially draining. Medical bills and insurance coverage
+  shouldn't be this hard to navigate. At Granted, we're
+  building the one solution every American can turn to for
+  help.
+
+  Thanks to AI and new regulations, Granted can fight claim
+  denials, correct billing errors, negotiate bills, and make
+  coverage easier to understand, saving people time, money,
+  and energy. Our goal is simple: to be the platform that
+  empowers all Americans to take charge of their healthcare.
+
+
+
+  🩺 About Us
+
+  Founded by a former Oscar Health leader, we're a seed-stage
+  company with $17M in funding. We're lucky to be backed by
+  the founders and investors at Hugging Face, Rocket Money,
+  Oscar Health, CaseText, Forerunner Ventures, RRE Ventures,
+  and more. We are well-funded and have solid runway.
+
+  People come to us when they have a bill they can't afford or
+  don't understand. Granted checks it, catches errors,
+  overcharges and denials, secures financial assistance, and
+  negotiates with providers. That earns us the right to be
+  connected to their insurance and their patient data, and
+  from there Granted runs in the background, proactively
+  monitoring every bill to help patients lower and pay what
+  they owe.
+
+
+
+  🔎 About the Role
+
+  Our Integrations Pod builds the infrastructure that connects
+  to the systems where members' healthcare and insurance
+  information lives, bringing everything together so we can
+  understand their coverage, identify billing issues, and take
+  action to lower their medical bills. With AI, we have an
+  opportunity to rethink how these integrations work: building
+  highly personalized systems that can retrieve and make sense
+  of the information needed to resolve a member's billing
+  issues, without requiring them to track down documents,
+  navigate portals, or do the legwork themselves.
+
+  As a member of our Integrations and Platform team, you'll
+  work across backend systems and integrations. You'll
+  leverage AI-native software paradigms and cutting-edge
+  development tools to build a world-class application. You'll
+  work closely with Product, Engineering leadership, and
+  senior engineers on the pod, owning features from idea to
+  production, with plenty of room to grow your scope as you
+  ramp.
+
+
+
+  📖 Read more about our stack and Eng culture here
+
+
+
+  🚀 What You'll Do
+
+  - Build and own the pipelines that pull claims, bills, EOBs
+    and coverage data from payer portals, providers and
+    partners
+  - Design for failure: portal changes, auth and 2FA, partial
+    data, rate limits, and knowing something broke before an
+    advocate does
+  - Own the path from raw capture to normalized records to
+    analytics, including where PHI lives and how it's
+    protected
+  - Set technical direction for the pod: architecture,
+    sequencing, and what we say no to
+  - Mentor engineers on the pod through code review, pairing and
+    design, and raise the bar for how we build with agents
+
+
+
+  🧪 What You Might Work On
+
+  - Insurance and portal linking that lets a patient connect
+    their accounts in a few taps
+  - Data integrations that monitor every connected account and
+    flag new bills, claims and deductible changes
+  - Inbound channels like email, fax and partner webhooks,
+    landed safely and exactly once
+  - The warehouse layer that turns raw healthcare data into
+    anonymized, analytics-ready tables
+
+
+
+  🛠 Tech Stack
+
+  - TypeScript frontend & backend
+  - React Native, NextJS, NestJS, GraphQL
+  - Postgres, amplitude, sentry, datadog
+  - Temporal, Pulumi, Docker, AWS
+
+
+
+  👩‍💻 You'll BringMust-haves
+
+  - 5+ years of backend engineering experience, including
+    integrations or data pipelines in production
+  - Strong TypeScript or Node experience, and deep comfort with
+    relational databases and data modeling
+  - A track record of building systems against unreliable third
+    parties: scraping or browser automation, flaky APIs,
+    webhooks, file drops
+  - Reliability and observability instincts: idempotency,
+    replay, monitoring, and data quality checks you bring up
+    without being asked
+  - Technical leadership: you've set direction on a team, made
+    architecture calls, and mentored other engineers
+  - AI-native workflow: you use coding agents daily for real
+    work and want to make how the team uses them better
+
+  Nice-to-haves
+
+  - Data engineering: warehousing, Snowflake, dbt or similar,
+    and anonymization pipelines
+  - Experience with workflow engines like Temporal
+  - Healthcare data experience: claims, EOBs, X12/EDI, FHIR, or
+    payer and provider systems
+  - Experience handling PHI or working under HIPAA or SOC 2
+
+  📢 You don't need to check every single box. If you're
+  passionate, driven, and excited about the impact AI can make
+  on the healthcare system, we'd love to hear from you!
+
+
+
+  🦸 Working with Us
+
+  Granted is headquartered in New York, with our office near
+  Union Square. Our team is split between in-office and remote
+  across the US: Engineering and CX are remote-first, while
+  other teams work hybrid from our NYC office (in-office
+  Monday to Thursday, Fridays from home). We're intentional
+  about when we're together and flexible where it enables
+  deep, high-quality work.
+
+  More than anything, we're here because we care deeply about
+  the problem we're solving and the standard we hold ourselves
+  to. Healthcare is broken, and fixing it requires people who
+  want ownership, impact, and the chance to do the most
+  meaningful work of their careers.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Insurance
+  - Mobile
+  - Financial Services
+posted_date: 2026-11-13
+url: "https://builtin.com/job/integrations-engineer/12241038"
+source: Built In

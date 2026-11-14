@@ -1,0 +1,133 @@
+job_id: 11258378
+title: Staff Software Engineer
+company: Affinity.co
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 299 Employees
+description: |
+  With a growing customer base and expansion into new markets
+  and use cases, we have more to build than ever at Affinity
+  as we execute on our vision to put relationship intelligence
+  at every professional's fingertips.
+
+  Reporting to the Sr Engineering Manager, as a Staff Software
+  Engineer, you'll have the opportunity to push our product in
+  new directions while also shaping the next iterations of the
+  features our customers already love. This is a hands-on role
+  with broad scope. You'll work across the stack, from our
+  data model and async processing on the backend to design
+  systems and rich visualizations on the frontend. You'll also
+  be one of the people product and engineering leadership come
+  to when the path forward isn't obvious yet.
+
+  What you'll do
+
+  - Set and own the technical direction for a core product
+    domain, including the architecture decisions, the
+    sequencing, and the tradeoffs you choose to make and
+    defend
+  - Lead complex, multi-quarter initiatives end to end, breaking
+    ambiguous problems into work other engineers can pick up
+    and run with
+  - Partner closely with product and design from the problem-
+    definition stage, shaping what gets built and not just how
+    it gets built
+  - Raise the technical bar across the team through design
+    review, code review, and mentorship of senior and mid-
+    level engineers
+  - Identify the highest-leverage investments in reliability,
+    performance, and developer velocity in your area, and make
+    the case for them
+  - Own the operational health of what you build, including
+    performance, observability, and on-call for your domain
+  - Work fluently with AI development tools and help the team
+    get better at using them well, including where they
+    genuinely speed us up and where they don't
+
+  What we're looking for
+
+  - 10+ years building and shipping production software as a
+    full-stack engineer, with a track record of technical
+    leadership on ambiguous, high-stakes projects
+  - Demonstrated impact beyond your own team, whether that's
+    through architecture other teams build on, standards you
+    established, or engineers you grew
+  - Experience building product features on top of LLMs or agent
+    frameworks, including how you evaluated and monitored them
+  - Strong server-side experience with modern OOP practices; we
+    use Ruby and PostgreSQL, and we're open to candidates with
+    deep expertise in a comparable stack who are motivated to
+    pick ours up
+  - Experience building component-based interfaces with React
+    and TypeScript
+  - Deep understanding of relational databases, including
+    designing systems that scale and diagnosing performance
+    bottlenecks before they reach customers
+  - Practical fluency with AI-assisted development (Claude Code,
+    Cursor, Copilot, or similar) and good judgment about when
+    to use it, how to review what it produces, and where the
+    risks are
+  - Pride in delivering high-quality, powerful products to
+    customers while championing technical excellence
+  - Eagerness to contribute your ideas and experience to help
+    Affinity keep improving as a product and as a company
+
+  Tech stack
+
+  React and TypeScript on the front end, Ruby and PostgreSQL
+  on the back end. Our infrastructure is hosted on AWS and
+  runs on Kubernetes.
+
+  What you'll enjoy at Affinity:
+
+  - We live our values: As owners, we take pride in everything
+    we do. We embrace a growth mindset, engage in respectful
+    candor, act as playmakers, and "taste the soup" by diving
+    deep into experiences to create the best outcomes for our
+    colleagues and clients.
+  - Health Benefits: We cover your medical, dental, and vision
+    insurance premiums with comprehensive PPO, HDHP and HMO
+    options (in CA), and offer flexible personal & sick days
+    to support your well-being.
+  - Retirement Planning: We offer a 401(k) plan to help you plan
+    for your future.
+  - Learning & Development: We provide an annual education
+    budget and a comprehensive L&D program.
+  - Wellness Support: We reimburse monthly for things like home
+    internet, meals, and wellness memberships/equipment to
+    support your overall health and happiness.
+  - Team Connection: Virtual team-building activities and
+    socials to keep our team connected, because building
+    strong relationships is key to success.
+
+  About Affinity
+
+  Affinity is the AI-first CRM for private capital, helping
+  firms turn relationship intelligence into action across the
+  investment lifecycle. Built on a decade of proprietary
+  relationship, interaction and deal data, Affinity
+  automatically captures activity, maps firm networks, and
+  surfaces the connections and insights that help investors
+  source, evaluate and win opportunities.
+
+  Trusted by more than 3,300 private capital firms, including
+  40% of the venture capital market and more than 330 private
+  equity buyout teams, Affinity powers one of the industry's
+  deepest relationship graphs. The platform is built on more
+  than 130 billion structured relationships, 177 million
+  people tracked, 88 million companies tracked and 31 billion
+  interactions, helping firms uncover opportunities sooner,
+  move with greater conviction and scale institutional
+  knowledge over time.
+
+  Learn more: affinity.co
+industries:
+  - Big Data
+  - Software
+posted_date: 2026-09-18
+url: "https://builtin.com/job/staff-software-engineer/11258378"
+source: Built In

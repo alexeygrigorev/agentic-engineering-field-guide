@@ -1,0 +1,258 @@
+job_id: 12126454
+title: Manager, Engineering
+company: Priority (prioritycommerce)
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,522 Employees
+description: |
+  Job title: Manager, Engineering - Merchant Capabilities
+
+  Reports to: Director, Engineering
+
+  Department: Central Services
+
+  Location: Waterloo, Ontario, Canada/United States
+
+  About Priority:
+
+  Priority Commerce is a leading financial technology company
+  on a mission to deliver a personalized, easy-to-adopt
+  financial toolset that accelerates cash flow and optimizes
+  working capital for businesses. Our vision is to eliminate
+  the barriers to unlocking revenue - empowering businesses to
+  grow faster and operate smarter.
+
+  We achieve this through the Priority Commerce Engine, an
+  innovative platform that combines payables, acquiring, and
+  banking and treasury solutions. This unified approach allows
+  businesses to streamline financial operations, reduce
+  unnecessary costs, and uncover new revenue opportunities.
+
+  At Priority Commerce, we're driven by results. We expect our
+  people to be known for results - bringing expertise,
+  momentum, and relentless focus to every challenge, helping
+  our clients and each other thrive.
+
+  About the Role:
+
+  What you'll own
+
+  The Merchant Capabilities team owns MX Merchant, the product
+  merchants use to run the money side of their business every
+  day: payments, terminals, invoices, payment links,
+  customers, card vaults, recurring billing, receipts,
+  reporting, and the sign-in and account experience around it
+  all.
+
+  What you'll be building
+
+  We’re modernizing MX Merchant from the front door. That
+  means seamless sign-in with passkeys and trusted devices,
+  PCI security, new self-serve account settings, and the next
+  generation of payment links built on the embedded checkout
+  widget.
+
+  How we work
+
+  Engineers own their work from pull requests through QA
+  handover and release. QA engineers drive regression and
+  risk, and an SDET owns the automation platform that checks
+  our flows at scale. AI-assisted development is part of how
+  we build. We share our own AI skills for things like release
+  documentation, and we ship in two-week sprints with regular
+  demos.
+
+  Who you’ll work with
+
+  Full-stack engineers working across the .NET and Node.js
+  codebases. They’re led by an engineering manager who owns
+  the domain, and supported by dedicated QA engineers, an
+  SDET, and embedded product managers and design. You’ll also
+  partner closely with the Commerce Engine, Core Platform, and
+  Customer Care teams.
+
+  The role
+
+  One team (or a few) — its delivery, its people, its
+  standards — performs because you own all of it, full time.
+  You'll manage one to several teams as a full-time craft; the
+  team's performance is your contribution, and the leverage
+  flows through judgment, hiring, coaching, standards, and the
+  conditions you create, not your own commits. You can still
+  pick up the keyboard when the work genuinely calls for it —
+  you just won't lean on it as your contribution.
+
+  Responsibilities:
+
+  Craft — Hiring, feedback, and performance management operate
+  as a system, not events: the bar is consistent, the
+  assessments are honest, and underperformance is addressed
+  early and directly. Can interrogate a design and hold the
+  technical bar in any conversation — and the team's senior
+  engineer would say so. AI-native practice is a team standard
+  with expectations, not an encouraged option.
+
+  Impact — The team delivers predictably and sustainably;
+  commitments to product, design, and business partners hold,
+  and they're trusted because they keep holding. The team's
+  outcomes — the metrics it exists to move — move on the
+  manager's watch, in partnership with their Product and
+  Design peers. The team is instrumented through the company's
+  engineering management platform — the outcomes it exists to
+  move, the paired delivery-and-quality signals beneath them
+  (a speed signal only counts when its quality pair held), and
+  the activity beneath those — and improves on what it
+  measures, with the fix nameable. A metric that improved
+  while its outcome didn't is a flag, not a win.
+
+  Ownership — Owns the team's operational health: ensures SLO
+  coverage exists for the team's services and is honored,
+  deploy frequency and lead time improve, on-call stays
+  humane, and the team never ships untested work downstream as
+  someone else's problem. During high-pressure moments,
+  orchestrates the response — outward communication, decision-
+  making, protecting the team's ability to recover — owns the
+  response and ensures it's led well. They actively identify
+  the team's single points of failure — including themselves —
+  and close them: named shadows, deliberate rotation,
+  documented knowledge.
+
+  Influence — Engineers grow into and beyond their levels.
+  Some grow past the manager, into roles the manager
+  championed. Measured on the team's outcomes alongside the
+  team's senior engineer, each through their own lever: the
+  manager owns delivery, people, and conditions; the senior
+  engineer owns technical direction — respected and amplified,
+  never overridden.
+
+  Judgment — Knows when to protect the team and when to push
+  it; when to pick up the keyboard and when doing so would
+  steal the growth moment; which battles to escalate and which
+  to absorb. Debt and platform work get real roadmap space
+  because the manager makes the tradeoff explicit rather than
+  silently mortgaging the future.
+
+  What Success Looks Like:
+
+  You'll be succeeding when commitments hold quarter after
+  quarter, your hires raise the bar, an underperformance case
+  was handled early and fairly, engineers you developed now
+  operate a level up — and no part of the team's operation
+  depends on a single head — including yours.
+
+  Candidate Requirements:
+
+  - Experience managing engineers full time — hiring,
+    performance, and delivery accountability.
+  - Sufficient technical depth to hold the bar in design
+    reviews, incidents, and roadmap debates.
+  - Typically ~7+ years of experience including people
+    leadership — a guide, never a gate.
+  - Strong technical background in .NET systems and
+    Node.js/JavaScript applications, sufficient to evaluate
+    designs and operational health (data-access performance,
+    messaging, resilience).
+  - Experience managing legacy modernization as a delivery
+    program (.NET Framework to modern .NET).
+  - Fluency in the operational side of the stack: API contracts,
+    Kafka, observability, reliability patterns.
+  - Experience running hiring processes for .NET and Node.js
+    engineers and maintaining a high technical bar.
+  - Experience partnering effectively with senior technical
+    leaders (Staff+ engineer).
+
+  Nice to Have
+
+  - Advanced degree (Master's or PhD) in Computer Science,
+    Computer Engineering, or a related quantitative field; a
+    specialization or applied experience in AI/ML is a plus.
+  - Prior individual-contributor experience as a Senior or Staff
+    .NET engineer.
+
+  What’s Preferred
+
+  - Experience in payments, banking, or another regulated
+    financial-services domain — systems that move money, store
+    cardholder data, or touch card network/ACH rails.
+  - Familiarity with PCI DSS (especially audit-trail, logging,
+    and access-control requirements) or adjacent frameworks
+    like SOC 2 Type II and SOX IT general controls (change
+    management, access reviews, log retention).
+  - Experience with fraud detection, chargebacks/disputes,
+    reconciliation, or AML/KYC systems.
+
+  Work Environment & Culture:
+
+  We believe that performance and experience go hand in hand -
+  an exceptional employee experience is earned through
+  contribution. We are a results-driven team, grounded in our
+  core values: ownership, authenticity, service, trust,
+  innovation, and camaraderie.
+
+  Our culture is built for those who want to make an impact.
+  We challenge each other to grow, celebrate progress, and
+  support one another through shared goals and real
+  connection. Whether you're building technology, serving
+  clients, or supporting internal teams, you’ll be part of a
+  company that empowers you to perform at your best and be
+  known for results.
+
+  Compensation and Benefits: $175K-$210K USD, $144K-$187K CAD
+
+  Compensation range: We invest in the whole employee -
+  personally and professionally. Our benefits package is
+  designed to support your well-being, growth, and success -
+  both inside and outside of work.
+
+  Financial Wellness
+
+  - Bonus programs
+  - 401(k) match
+  - Employee Stock Purchase Program (ESPP)
+  - HSA and FSA options
+  - Financial wellness resources and employee discount programs
+
+  Health & Well-being
+
+  - Medical, dental, and vision coverage
+  - Mental health support for employees and dependents through
+    Lyra Health
+  - Family planning and women’s health benefits through Carrot
+  - Gym membership reimbursement and virtual wellness programs
+    (including yoga)
+
+  Time Off
+
+  - 3 weeks PTO to start, with unlimited PTO after year one
+
+  Growth & Development
+
+  - Education expense reimbursement
+  - Leadership development programs
+  - Certified Payments Professional (CPP) certification support
+
+  We believe great performance starts with feeling supported -
+  and we’ve built our benefits with that in mind.
+
+
+
+  Traditional Physical Requirements:
+
+  - Requires prolonged sitting, standing, bending, stooping and
+    stretching.
+  - Requires the ability to lift 10 pounds.
+  - Requires eye-hand coordination, manual dexterity and a
+    normal range of hearing and vision (with or without
+    correction).
+
+
+
+  Join our team at Priority Technology Holdings, Inc. and be
+  part of a dynamic and innovative company that is
+  transforming the financial technology landscape. Together,
+  we can shape the future of payments and banking solutions
+  while providing unmatched value to our clients.
+posted_date: 2026-11-07
+url: "https://builtin.com/job/manager-engineering/12126454"
+source: Built In

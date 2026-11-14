@@ -1,0 +1,63 @@
+job_id: 7108282
+title: Backend Developer
+company: HOC Inc.
+location: CAN
+locations:
+  - CAN
+  - IND
+  - AUS
+  - IRL
+  - USA
+  - GBR
+  - Singapore, SGP
+remote: true
+work_type: FULL_TIME
+company_size: 222 Employees
+description: |
+  Job Description
+
+  - Proficiency in backend web development in
+    Typescript/Javascript (NodeJS).
+  - Proficiency in widely-used DBMS technologies, such as:
+    - MongoDB
+    - PostgreSQL
+  - Knowledge of version control (git)
+  - Experience in any of the following is an advantage:
+    - CQRS + Event sourcing
+    - Microservices
+    - REST
+    - GraphQL
+    - gRPC
+    - ActiveMQ
+    - Redis
+    - Docker
+
+  Responsibilities
+
+  - Participate in the entire application lifecycle focusing on
+    building the backend software
+  - Write clean code and tests to develop a functional and
+    reliable APIs for web applications
+  - Collaborate with Frontend Engineers to integrate APIs
+  - Build reusable code and libraries to simplify future
+    developments
+  - Troubleshoot and debug applications
+  - Collaborate with various departments such as product and
+    design to gather specifications and requirements
+  - Collaborate and work with QA to ensure high-quality output
+  - Follow emerging technologies
+  - Adapt to reasonable changes
+
+  Working Hours:  10:00 AM - 6:00 PM
+
+  UTC+01:00
+
+   or  4:00 PM - 12:00 AM GMT +8
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+  - Automation
+posted_date: 2026-08-08
+url: "https://builtin.com/job/backend-developer/7108282"
+source: Built In

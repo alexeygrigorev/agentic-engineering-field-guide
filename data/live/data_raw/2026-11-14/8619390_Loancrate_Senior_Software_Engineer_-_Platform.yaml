@@ -1,0 +1,189 @@
+job_id: 8619390
+title: Senior Software Engineer - Platform
+company: Loancrate
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 35 Employees
+description: |
+  What is Loancrate?
+
+  We started Loancrate to make home-buying simpler and less
+  expensive for lenders and borrowers (us!). Today, mortgage
+  lenders are stuck running their companies on software
+  products built 20 years ago. These products are slow,
+  unstable, and don't lead to material improvements in
+  efficiency. When using these systems, the average human cost
+  to originate a loan is still over $11,000.
+
+  Loancrate builds AI-native tooling to automate mortgage
+  workflows. Our ultimate goal is fully automated origination,
+  which has the potential to save lenders over $16B in
+  operating expense per year.
+
+  Since starting in 2020, our remote team has enabled our
+  customers to power >$85 billion in new home loans. We are a
+  group of people excited to tackle the complexity of the
+  home-lending industry. We care about collaboration, very
+  open communication covering the good & the bad so that we
+  learn from our decisions quickly, and ultimately having fun
+  while we're building. You'll fit in well if you like diving
+  deep quickly!
+
+  The Opportunity
+
+  Our dreams are big and we have much to build! We’re looking
+  for someone to build the tooling and systems that let
+  product engineers focus on shipping features fast - without
+  having to worry about performance, reliability, or scale.
+  This role spans infrastructure and internal developer
+  tooling: you’ll design self-serve platforms, libraries, and
+  automation that “just work,” enabling complex product
+  experiences without compromising security or uptime.
+
+  What To Expect
+
+  In this role at Loancrate, you’ll ship platform improvements
+  to production early and often - spanning infrastructure,
+  developer tooling, and shared libraries. Within your first
+  month, you'll be diving into mission-critical work such
+  as...
+
+  - Designing and building the systems that let engineers deploy
+    dozens of times per day with confidence - from our
+    Buildkite CI/CD pipelines and per-PR ephemeral
+    environments to our IaC-managed AWS infrastructure.
+  - Creating self-serve developer experiences - local dev
+    tooling, templates, golden paths, and CI-integrated
+    workflows - so “the right thing” is the easy thing.
+  - Pioneer tooling and best practices for AI-first software
+    engineering - from setting up background agents to
+    autonomously make code changes to designing frameworks
+    that allow AI product experiences to self-optimize in
+    response to user interactions.
+  - Extending our internal TypeScript tooling - from schema/code
+    generation to data access libraries - so teams can build
+    features faster with safer, more consistent primitives.
+  - Making Loancrate's platform observable and self-healing -
+    instrumenting our services with Datadog, building alerting
+    that actually signals rather than spams, and reducing the
+    blast radius of incidents before they happen.
+  - Baking security into our platform defaults - across infra
+    and developer tooling - while keeping engineering velocity
+    high.
+  - Solving interesting scaling problems as our AI-native
+    mortgage platform grows - from Aurora PostgreSQL tuning to
+    Kafka throughput to cost-efficient compute autoscaling.
+
+  Core Responsibilities
+
+  - Own and evolve our AWS infrastructure using Terraform and
+    Pulumi Cloud - treating infrastructure as a product that
+    engineering teams depend on.
+  - Design and maintain internal developer tooling and libraries
+    that standardize how we build and ship - code generation,
+    shared SDKs, data access patterns, and service
+    scaffolding.
+  - Create and maintain golden paths for common workflows (new
+    service setup, background jobs, event streams, APIs) so
+    teams can ship quickly with built-in security and
+    observability (and consistent defaults across services).
+  - Build and maintain CI/CD pipelines and per-PR ephemeral
+    environments that make deploying feel easy and safe.
+  - Drive reliability through SLOs, auto-scaling, incident
+    response, and postmortems - and build systems that make
+    the next incident less likely.
+  - Create observability tooling and shared instrumentation
+    libraries that give engineers real-time insight into their
+    services.
+  - Enforce security best practices across IAM, secrets
+    management, encryption, audit logging, and DDoS
+    protection.
+  - Own the reliability and performance of our data platform
+    (Aurora PostgreSQL) - provisioning, backups, failover, and
+    tuning - and build tooling that makes safe usage the
+    default.
+  - Reduce toil through automation and self-service tooling so
+    engineers can move fast without waiting on the platform.
+  - Contribute to architecture decisions and documentation, and
+    participate in on-call rotation (shared by the whole
+    engineering team).
+
+  Tech Stack
+
+  Our infrastructure runs on AWS and is managed 100% with
+  Terraform and Pulumi Cloud. Application services run in
+  Docker on ECS EC2 or Fargate. Key services include Aurora
+  PostgreSQL, ElastiCache (Redis), MSK (Kafka), and
+  OpenSearch. Our CI/CD runs on Buildkite with TypeScript
+  pipeline-as-code.
+
+  We also maintain internal TypeScript platform libraries
+  (codegen, service templates, shared data
+  access/instrumentation) that power consistent APIs and
+  developer workflows across the monorepo. Observability is
+  powered by Datadog, CloudWatch, and Sentry. DNS and CDN are
+  handled by Cloudflare. Application code is a TypeScript
+  monorepo running Node/Express with a React frontend and
+  GraphQL/Apollo API layer. We use GitHub for source control.
+
+  Preferred Skills and Background
+
+  (It's okay not to have all of these things - these are just
+  some skills we are excited about!)
+
+  - 🧩 Experience building internal platforms / developer
+    tooling: code generation, CLIs, templates, shared SDKs, or
+    frameworks that improve engineering velocity.
+  - 🏗️ Strong TypeScript skills and API design taste - you enjoy
+    building stable primitives that other engineers rely on.
+  - 🌩 Deep AWS experience across compute, networking, storage,
+    and security (ECS, Lambda, VPC, ALB, IAM, RDS,
+    ElastiCache, MSK, OpenSearch, S3, CloudWatch, CloudTrail,
+    GuardDuty).
+  - 🏠 Strong Terraform and/or Pulumi proficiency: modules,
+    workspaces, and CI-driven plan/apply workflows.
+  - 🚀 Experience designing and operating CI/CD systems that help
+    large engineering teams ship frequently and confidently.
+  - 🔍 Track record building production observability stacks
+    (Datadog, CloudWatch, Sentry, distributed tracing, SLOs).
+  - 🧱 You’ve built “paved roads” that bake in secure, reliable
+    defaults (instrumentation helpers, policy-as-code, safe-
+    by-default deployment patterns).
+  - 🔒 Security-first mindset - you proactively harden
+    infrastructure without slowing teams down.
+  - 🛢 Aurora PostgreSQL operations at scale: backups, PITR,
+    failover, read replicas, query tuning.
+  - 🧰 Comfort with Docker and container orchestration
+    environments.
+  - 📊 Reliability engineering mindset: SLOs, error budgets,
+    incident response.
+  - 🤖 Curiosity about the unique infrastructure demands of AI
+    and LLM workloads.
+  - 📝 Strong written communication - you document decisions and
+    help the team understand the systems they depend on.
+
+  Perks & Benefits
+
+  - Robust medical coverage (100% of employee + family premiums
+    covered)
+  - Vision & dental coverage
+  - 401(k)
+  - HSA / FSA
+  - Access to lender partner’s employee loan program
+  - Remote-first culture - work from wherever you do your best
+    work
+  - Flexible time off - we trust you to manage your time
+
+  Loancrate is an equal opportunity employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees. We do not discriminate on the
+  basis of race, color, religion, sex, sexual orientation,
+  gender identity, national origin, age, disability, veteran
+  status, or any other legally protected characteristic.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-08-14
+url: "https://builtin.com/job/senior-platform-engineer/8619390"
+source: Built In

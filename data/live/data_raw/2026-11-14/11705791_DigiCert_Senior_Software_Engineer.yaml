@@ -1,0 +1,203 @@
+job_id: 11705791
+title: Senior Software Engineer
+company: DigiCert
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,372 Employees
+description: |
+  Who we are
+
+  DigiCert is a global leader in intelligent trust. We protect
+  the digital world by ensuring the security, privacy, and
+  authenticity of every interaction. Our AI-powered DigiCert
+  ONE platform unifies PKI, DNS, and certificate lifecycle
+  management, to secure infrastructure, software, devices,
+  messages, AI content and agents. Learn why more than 100,000
+  organizations, including 90% of the Fortune 500, choose
+  DigiCert to stop today’s threats and prepare for a quantum-
+  safe future at www.digicert.com
+
+  Job summary
+
+  This position is for the SSL Store, powered by DigiCert
+
+  We are hiring a Senior Software Engineer to build and run
+  the platform behind our certificate management, TLS and
+  vulnerability monitoring, uptime, and security products. The
+  platform is a TypeScript monorepo: Fastify and Express
+  services, Next.js and React frontends, MySQL and Redis,
+  queues and workers on AWS, deployed to Kubernetes through
+  Terraform, Helm, and Azure DevOps pipelines. It also carries
+  a legacy .NET estate that we are steadily retiring, and a
+  growing set of AI-assisted features and internal tooling.
+
+  You will own features end to end, from schema and API
+  through UI, pipeline, and production. We work in a small
+  team with a lot of surface area, so the job rewards
+  engineers who pick up whatever the problem needs, whether
+  that is a new framework, a scanner's quirks, or a cloud
+  primitive they have not touched before
+
+
+
+  What you will do
+
+  - Design, build, and ship features across the full stack:
+    Fastify or Express APIs, Next.js and React frontends,
+    MySQL schemas and migrations, SQS-driven workers, and the
+    infrastructure that runs them.
+  - Own services in production: observability with Sentry and
+    Grafana, on-call participation, incident root-causing, and
+    the follow-through fixes.
+  - Build and evolve security and monitoring products that scan,
+    probe, and score real customer infrastructure at scale,
+    with correctness and performance budgets that matter.
+  - Maintain and incrementally retire legacy .NET and Python
+    components, moving behavior into the TypeScript platform
+    with parity verified rather than assumed.
+  - Extend CI/CD and infrastructure: Azure DevOps pipelines,
+    Docker images, Helm charts, and Terraform for EKS, RDS,
+    SQS, and related AWS services.
+  - Integrate third-party and partner APIs (certificate
+    authorities, scanners, identity providers) and keep those
+    integrations resilient.
+  - Use AI-assisted development tools as part of daily work, and
+    build AI-backed features where they genuinely improve the
+    product.
+  - Review code, write tests, and raise the bar on standards
+    that apply to human and AI-generated code alike.
+  - Mentor other engineers and write up decisions so others can
+    act on them without you in the room.
+
+
+
+  What you will have
+
+  - 6+ years building and operating production web services and
+    the frontends on top of them.
+  - Strong TypeScript and Node.js, including a modern API
+    framework (Fastify preferred, Express acceptable) and a
+    React framework (Next.js preferred).
+  - Production experience in more than one language or
+    ecosystem, and at least one stack change you drove or
+    adapted to in the last few years. Depth in a single
+    language is not enough for this role.
+  - Solid relational database skills on MySQL or Postgres:
+    schema design, migrations, indexing, query performance,
+    and transaction and locking behavior.
+  - Comfort owning what you ship: logging, metrics, alerting,
+    and calm, evidence-led debugging in production.
+  - Security awareness as a habit: authentication and
+    authorization flows, secrets handling, input validation,
+    and dependency hygiene.
+  - Clear written communication. You can explain a design, a
+    trade-off, or an incident to engineers and non-engineers.
+
+
+
+  Nice to have
+
+  - Hands-on AWS (compute, queues, storage, secrets) and the
+    ability to read and change Terraform.
+  - Containers and Kubernetes at a working level: writing a
+    Dockerfile, reading a Helm chart, debugging a failing pod.
+  - CI/CD pipeline work in Azure DevOps or similar, plus
+    Cloudflare or AWS WAF experience.
+  - Grafana, Sentry, or equivalent observability tooling beyond
+    basic dashboards.
+  - Experience with PKI, TLS, or certificate lifecycle
+    management, or with monitoring and scanning products
+    (uptime, vulnerability, DNS or email security).
+  - OAuth 2.0 and OpenID Connect implementation experience,
+    especially multi-tenant identity providers.
+  - C# and .NET, enough to read, maintain, and migrate legacy
+    services without making them your home.
+  - Python for data pipelines, scanners, or tooling.
+  - Large-scale scanning or crawling systems: fleets of workers,
+    rate limits, timeouts, and the cost math behind them.
+  - Building with LLM APIs, MCP servers, or agentic workflows in
+    a product context.
+
+
+
+  Benefits
+
+  - Competitive compensation and comprehensive health, dental,
+    and vision coverage
+  - Retirement savings programs with company matching (401(k) or
+    RRSP)
+  - Generous paid time off, including holidays, and vacation
+  - Paid parental leave and family support benefits
+  - Life and disability coverage
+  - Flexible spending and health savings options (where
+    applicable)
+  - Health and wellness support, including gym reimbursement and
+    wellness programs
+  - Employee Assistance Program with 24/7confidential support
+    for employees and families
+  - Education assistance and professional development
+    opportunities
+  - Access to LinkedIn Learning and continuous learning
+    resources
+  - Employee referral bonus program and additional company perks
+    and discounts
+  - Internal rewards and recognition platform (Motivosity) to
+    celebrate and acknowledge project wins, milestone
+    achievements, and the outstanding contributions of our
+    colleagues
+  - Business travel insurance and global employee support
+    programs
+
+  To protect candidate information and maintain a secure
+  hiring process, all applications must be submitted through
+  our careers portal. Resumes or CVs sent directly via email
+  will not be reviewed or considered.
+
+  DigiCert is an Equal Opportunity employer and is committed
+  to diversity in its workforce. In compliance with applicable
+  federal and state laws, DigiCert prohibits discrimination on
+  the basis of race or ethnicity, religion, color, national
+  origin, sex, age, sexual orientation, gender
+  identity/expression, veteran’s status, status as a qualified
+  person with a disability, or genetic information.
+  Individuals from historically underrepresented groups, such
+  as minorities, women, qualified person with disabilities,
+  and protected veterans are strongly encouraged to apply.
+
+
+
+  #LI-IW1
+
+  Compensation Transparency:
+
+  The annualized base salary range for this position is
+  outlined below.
+
+  Each candidate’s compensation offer will be determined based
+  on factors including experience, skills, qualifications, job
+  duties, business needs, and location. For roles that include
+  additional compensation components, total compensation may
+  include base pay, bonus, equity, or other incentives.
+
+  This role may also be eligible for benefits, which will be
+  discussed during the hiring process. We are committed to
+  fair and transparent pay practices and comply with all
+  applicable pay transparency requirements. If you would like
+  more information about compensation or benefits, we are
+  happy to provide additional details during the hiring
+  process.
+
+  For more information regarding our comprehensive benefits,
+  see the benefits section.
+
+  Base Salary
+
+  $115,000—$160,000 USD
+industries:
+  - Security
+  - Software
+  - Cybersecurity
+posted_date: 2026-10-15
+url: "https://builtin.com/job/senior-software-engineer/11705791"
+source: Built In

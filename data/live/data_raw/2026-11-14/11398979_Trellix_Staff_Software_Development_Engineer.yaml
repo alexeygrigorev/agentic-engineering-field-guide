@@ -1,0 +1,193 @@
+job_id: 11398979
+title: Staff Software Development Engineer
+company: Trellix
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 3,118 Employees
+description: |
+  Job Title:
+
+  Staff Software Development Engineer
+
+  About Trellix   Trellix is a global cybersecurity leader
+  helping organizations build cyber resilience for the AI era.
+  Combining AI-native security, operational threat
+  intelligence, and automated detection and response, Trellix
+  provides defense-grade protection at machine speed across
+  on-premises, air-gapped, operational technology, hybrid, and
+  cloud environments. Trellix helps customers anticipate
+  threats, scale effective security operations, maintain
+  business continuity, and adapt their security posture for
+  the modern threat landscape. Working with a broad partner
+  ecosystem and global intelligence collaborators, Trellix
+  helps strengthen the collective defense against
+  cybercriminals and state-sponsored attacks. At Trellix, we
+  empower professionals at all career stages to expand their
+  technical expertise, lead strategic initiatives, and make a
+  tangible global impact. Whether you are an industry pioneer
+  or an emerging specialist, Trellix provides the tools and
+  opportunities to enhance and expand your skill set. Join our
+  mission to scale AI-driven cyber defense alongside an AI-
+  accelerated threat landscape, and help build a safer, more
+  resilient future. More at https://trellix.com.
+
+  Role Overview:
+
+  Join our innovative team at Trellix, where you'll lead the
+  design and development of our high-performance Cloud Threat
+  Detection Platform. In this role, you will lead the
+  architecture and engineering of high-throughput threat
+  analysis pipelines, submission engines, analyst web
+  interfaces, and microservices processing millions of daily
+  inspection requests. You will work at the intersection of
+  execution engines, asynchronous cloud APIs, full-stack web
+  applications, secure AWS cloud infrastructure, global
+  security standards, and modern AI development tooling. This
+  role is hybrid in nature with the Engineer able to commute
+  into the Frisco, TX office 3-4 days/week.
+
+  About the Role:
+
+  - Design and Develop: Lead the design and engineering of our
+    Cloud Threat Detection Platform, driving core submission
+    pipelines, high-throughput microservices, dynamic sandbox
+    execution, and platform features from concept to
+    production.
+  - Full-Stack & Web UI: Build modern, responsive web
+    application interfaces and analyst dashboards using React,
+    Django, HTML, CSS, JavaScript, Bootstrap, AJAX, and
+    jQuery.
+  - High-Volume Submission Pipelines: Architect resilient
+    microservices and asynchronous processing pipelines
+    capable of handling millions of API submission requests
+    daily with low latency.
+  - End-to-End AWS Infrastructure: Design, deploy, and manage
+    secure AWS cloud environments leveraging VPC architecture,
+    NAT Gateways, Security Groups, EC2 fleets, Load Balancers
+    (ALB/ELB), EFS, Lambda, API Gateway, ECS, EKS, WAF, and S3
+    lifecycle management.
+  - AI-Assisted Engineering: Leverage modern AI tools (including
+    Claude Code, Amazon Q, and LLMs) to streamline code
+    development, automate pull request and code reviews,
+    accelerate debugging, and optimize software delivery
+    lifecycle workflows.
+  - Identity & Security: Implement secure API boundaries,
+    security exchange protocols, and identity mechanisms using
+    OAuth2, JWT, SAML, and token exchange routines.
+  - Compliance & Sovereignty Boundaries: Enforce secure multi-
+    region data architecture complying with FedRAMP, US, EU,
+    APJ, and Canadian regulatory and data residency
+    guidelines.
+  - Observability & Telemetry: Design telemetry pipelines to
+    capture, process, and visualize customer data telemetry,
+    product health metrics, and engine-level telemetry using
+    OpenSearch, DynamoDB, RDS, and Athena.
+  - Ensure Resilience & Compliance: Ensure applications are
+    highly resilient and secure, following strict Secure
+    Development Lifecycle (SDL) practices, vulnerability
+    assessments, and FedRAMP security boundary requirements.
+  - Technical Ownership & Reliability: Author detailed design
+    docs and IaC specs while owning production issues end-to-
+    end, including triage, root cause analysis, and SLA
+    commitments.
+
+  About You:
+
+  - Experience: 11+ years of professional software development
+    experience building and operating high-throughput
+    microservices, cloud platforms, and full-stack web
+    architectures.
+  - AWS Cloud Expertise (Must-Have): Deep, expert-level
+    knowledge of AWS cloud architecture, compute, networking,
+    security, and storage services for large-scale enterprise
+    systems.
+  - Operating Systems: Linux proficiency is a must; Shell
+    scripting required.
+  - Core Development Skills:
+    - Excellent development and debugging skills in Python
+      (FastAPI, Django, Flask)
+    - Strong grasp of data structures, design patterns, REST, and
+      async Web APIs handling millions of requests
+    - Working knowledge of C and C++ for interfacing with low-
+      level inspection engines and execution runtimes (Go
+      preferred)
+    - CI/CD pipeline and IaC experience (GitHub Actions,
+      Terraform, AWS CDK, CloudFormation)
+  - Web UI & Full-Stack: Full-stack expertise with Python
+    Django, React, JavaScript, HTML, CSS, Bootstrap, AJAX, and
+    jQuery.
+  - AWS Core Infrastructure: Hands-on experience with VPCs, NAT
+    Gateways, Security Groups, EC2 fleets, Load Balancers, S3,
+    EFS, Lambda, API Gateway, ECS, EKS, WAF, Docker, RDS,
+    DynamoDB, OpenSearch, Athena, and Redis.
+  - Compliance Knowledge: Working knowledge of regional data
+    isolation, privacy, and regulatory controls across US
+    (FedRAMP), EU, APJ, and Canada.
+  - AI Tooling & Code Intelligence: Practical experience
+    integrating AI tooling (e.g., Claude Code, Amazon Q, AWS
+    Bedrock) into daily software development, code generation,
+    refactoring, and automated code review workflows.
+  - Identity & Security: Solid understanding of OAuth2, JWT,
+    SAML, SDL processes, vulnerability assessments, and
+    FedRAMP compliance.
+  - Domain Knowledge: Working knowledge of cybersecurity threat
+    detection processes, malware analysis pipelines, and
+    security inspection tools.
+  - Soft Skills: Excellent written and verbal communication
+    skills with the ability to operate autonomously and
+    collaborate effectively across engineering and threat
+    research teams.
+
+  Company Benefits and Perks:
+
+  We believe that the best solutions are developed by teams
+  who embrace each other's unique experiences, skills, and
+  abilities. We work hard to create a dynamic workforce where
+  we encourage everyone to bring their authentic selves to
+  work every day. We offer a variety of social programs,
+  flexible work hours and family-friendly benefits to all of
+  our employees.
+
+  - Retirement Plans
+  - Medical, Dental and Vision Coverage
+  - Paid Time Off
+  - Paid Parental Leave
+  - Support for Community Involvement
+
+  We're serious about our commitment to a workplace where
+  everyone can thrive and contribute to our industry-leading
+  products and customer support, which is why we prohibit
+  discrimination and harassment based on race, color,
+  religion, gender, national origin, age, disability, veteran
+  status, marital status, pregnancy, gender expression or
+  identity, sexual orientation or any other legally protected
+  status.
+
+  Our Commitment to You:
+
+  At Trellix, we are committed to creating a safe and
+  trustworthy experience for our customers, employees, and
+  candidates. Please be aware that fraudulent recruiting
+  activity can occur through fake job postings or impersonated
+  communications.
+
+  Trellix conducts interviews through professional channels
+  only and does not use text messages, instant messaging, or
+  group chats for interviews. We will never request sensitive
+  personal information—such as your date of birth, Social
+  Security number, or national ID number—during the interview
+  process.
+
+  Trellix also does not require candidates to pay fees,
+  purchase products or services, or process payments of any
+  kind as part of the recruiting or hiring process. And
+  Trellix will never keep any original work authorization
+  documents that we may be required to review during the
+  hiring process.
+industries:
+  - Machine Learning
+  - Cybersecurity
+posted_date: 2026-09-28
+url: "https://builtin.com/job/staff-software-development-engineer/11398979"
+source: Built In

@@ -1,0 +1,206 @@
+job_id: 10360680
+title: Senior Staff Software Engineer, Interop
+company: Zocdoc
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,100 Employees
+description: |
+  Our Mission
+
+  You call. You wait. You call again. In every other part of
+  your life, you book in seconds. In healthcare, you’re
+  blocked.
+
+  We’re here to give power to the patient.
+
+  For nearly 20 years, we’ve built the leading healthcare
+  marketplace - helping tens of millions of people find and
+  book the care they need. Now, we’re going further: building
+  our infrastructure beyond Zocdoc’s marketplace to power
+  access to care wherever patients search, from provider
+  websites and insurance directories to search engines, AI
+  platforms, and more.
+
+  Healthcare still lacks something every other major consumer
+  industry takes for granted: a seamless way to go from
+  seeking to getting. We don’t want to own the front door to
+  care; there isn't one. We want to make sure all of those
+  doors open when patients are knocking.
+
+  Fixing healthcare starts with fixing access to it. And we're
+  still just getting started.
+
+  *Please note, we are open to remote candidates for this
+  role.
+
+  Your Impact on our Mission
+
+  As a Senior Staff Software Engineer in the Interoperability
+  group, you will unlock the full potential of our
+  integrations with 170+ EHRs. These integrations enable
+  Zocdoc to pull real-time availability, write back bookings
+  to trigger practice workflows, and exchange appointment data
+  – insurance cards, medical history, and intake forms –
+  between patients and providers. Your leadership will expand
+  their impact across our entire product ecosystem.
+
+  Our platform is at an inflection point. New product lines
+  require us to move from eventually-consistent syncs to
+  tighter, fail-fast integrations – a major rearchitecture
+  that you will lead. EHR systems also hold valuable data
+  we've only begun to tap: insurance credentialing, provider
+  onboarding signals, patient LTV and more. You will shape
+  both the technical strategy and contribute to the product
+  vision for how we leverage this data.
+
+  You will develop clear abstractions that let other
+  engineering teams leverage our integration capabilities
+  without understanding the inner workings of individual EHRs.
+  You'll bring order to immense complexity and translate it
+  into simple, powerful interfaces.
+
+  You will partner with senior product, engineering, and
+  business leaders to define strategic priorities and
+  influence architectural decisions across multiple teams. You
+  will mentor engineers, guide teams through ambiguity, and
+  establish best practices that improve reliability and
+  scalability across our integration stack.
+
+  You’ll enjoy this role if you are…
+
+  - Inspired by the opportunity to positively impact the
+    healthcare experience for millions of customers and
+    providers.
+  - Passionate about building highly scalable platforms with the
+    latest technologies, and excited about developing new and
+    innovative products.
+  - A visionary product-driven leader with a relentless focus on
+    customer needs, and excited to partner closely with cross
+    functional teams leading strategic projects from early
+    ideation through successful launch and iteration.
+  - Energized by complexity – you see 170+ different integration
+    partners not as chaos but as a puzzle to solve through
+    smart abstractions and clear interfaces
+  - A fervent champion of engineering fundamentals that enjoys
+    driving adoption of best practices in code health,
+    testing, and maintainability across organizations and
+    teams.
+  - A proven leader who mentors and grows teams, cultivates
+    innovation and drives cross-collaboration across multiple
+    teams.
+  - Hands-on and lead by example, shipping code alongside your
+    team, not just from the whiteboard.
+  - A believer that diverse and inclusive teams and cultures are
+    non-negotiable.
+  - An entrepreneur with strong ownership who can thrive in an
+    ambiguous and fast changing environment
+
+  Your day to day is…
+
+  - Taking ultimate technical ownership of Zocdoc’s
+    interoperability technical strategy
+  - Building solutions that scale to serve Zocdoc’s largest,
+    most complex customers.
+  - Driving the rearchitecture of our sync framework to support
+    real-time, fail-fast integration patterns
+  - Designing abstractions that hide EHR-specific complexity and
+    expose clean, consistent capabilities to product teams
+  - Analyzing and decomposing complex product challenges to
+    drive sound design decisions
+  - Working hands-on with your team and shipping production code
+    using C#, AWS technologies, React to millions of users
+    autonomously
+  - Collaborating with our agile team of dedicated and brilliant
+    engineers, product managers, and designers
+  - Upleveling the interop engineering team through coaching,
+    code reviews, and establishing patterns that the team can
+    follow
+  - Continuously improving our ability to deliver quality
+    solutions through evolving engineering processes, building
+    technical capabilities and driving strategic investments
+    in our platforms.
+
+  You’ll be successful in this role if you have…
+
+  - Successfully architected and shipped high-impact, complex,
+    solutions and frameworks, with experience working across
+    multiple areas of the technology stack and complex system
+    integrations.
+  - Experience building platforms or frameworks that abstract
+    complexity for other engineering teams – you know how to
+    design APIs and interfaces that are a joy to use.
+  - Demonstrated history of solid and well rounded system design
+    and architectural leadership skills
+  - A product mindset – you think beyond the technical
+    implementation to how capabilities translate into customer
+    value.
+  - Improved developer productivity, efficiency and velocity by
+    setting up and evangelizing best practices for coding,
+    testing, deployment, observability and developer tooling.
+  - Successfully mentored other engineers in the past and have
+    encouraged your peers to use engineering best practices
+  - Been an outstanding and persuasive communicator capable of
+    delving into technical project details and facilitating
+    technical discussions while also being adept at presenting
+    solutions at an appropriate level of abstraction for a
+    diverse cross-functional audience, including non-technical
+    stakeholders.
+  - A growth mindset and inspire excellence, acting as a
+    multiplier for your team and the broader engineering
+    organization.
+  - Experience successfully working with a distributed workforce
+    preferred.
+  - 10+ years of significant expertise in backend development.
+    Strong understanding of OO Fundamentals. Experience within
+    AWS environments and a high emphasis on testing is a plus
+
+  Zocdoc is committed to fair and equitable compensation
+  practices. Salary ranges are determined through alignment
+  with market data. Base salary offered is determined by a
+  number of factors including the candidate’s experience,
+  qualifications, and skills. Certain positions are also
+  eligible for variable pay and/or equity; your recruiter will
+  discuss the full compensation package details.
+
+  NYC Base Salary Range
+
+  $201,400—$304,000 USD
+
+  About us Zocdoc is the country’s leading digital health
+  marketplace that helps patients easily find and book the
+  care they need. Each month, millions of patients use our
+  free service to find nearby, in-network providers, compare
+  choices based on verified patient reviews, and instantly
+  book in-person or video visits online. Providers participate
+  in Zocdoc’s Marketplace to reach new patients to grow their
+  practice, fill their last-minute openings, and deliver a
+  better healthcare experience. Founded in 2007 with a mission
+  to give power to the patient, our work each day in pursuit
+  of that mission is guided by our six core values. Zocdoc is
+  a private company backed by some of the world’s leading
+  investors, and we believe we’re still only scratching the
+  surface of what we plan to accomplish.
+
+  Zocdoc is a mission-driven organization dedicated to
+  building teams as diverse as the patients and providers we
+  aim to serve. In the spirit of one of our core values -
+  Together, Not Alone, we are a company that prides itself on
+  being highly collaborative, and we believe that diverse
+  perspectives, experiences and contributors make our
+  community and our platform better.  We’re an equal
+  opportunity employer committed to providing employees with a
+  work environment free of discrimination and harassment.
+  Applicants are considered for employment regardless of race,
+  color, ethnicity, ancestry, religion, national origin,
+  gender, sex, gender identity, gender expression, sexual
+  orientation, age, citizenship, marital or parental status,
+  disability, veteran status, or any other class protected by
+  applicable laws. Job Applicant Privacy Notice
+industries:
+  - Healthtech
+  - Information Technology
+  - Software
+  - Telehealth
+posted_date: 2026-08-24
+url: "https://builtin.com/job/senior-staff-software-engineer-interop/10360680"
+source: Built In

@@ -1,0 +1,144 @@
+job_id: 11474434
+title: Mid-Level Backend Software Developer (L2-L3)
+company: Atlas Data Science
+location: Remote, USA
+locations:
+  - Remote, USA
+  - Miami, USA
+  - New York, USA
+  - St Louis, USA
+  - Boston, USA
+  - Baltimore, USA
+  - Charlotte, USA
+  - Philadelphia, USA
+  - Washington, USA
+remote: true
+work_type: FULL_TIME
+company_size: 13 Employees
+description: |
+  Summary  As organizations accelerate their adoption of
+  Agentic AI capabilities, the demand for robust data
+  management and governance solutions is becoming increasingly
+  critical. Atlas Data Science is seeking an L2/L3 Software
+  Engineer to help build a central metadata hub that
+  streamlines discovery, access, use, and sharing of diverse
+  data types across an expanding ecosystem of suppliers and
+  consumers. By orchestrating the full data lifecycle—from
+  receipt to metadata capture and enrichment to discovery and
+  dissemination—we aim to deliver a new-to-market data
+  management and governance product that is foundational to
+  enable agentic at scale.
+
+  Duties and Responsibilities  We are seeking a talented and
+  motivated Software Engineer to join our dynamic and growing
+  team. You will work alongside experienced engineers,
+  leveraging a modern technology stack that includes
+  TypeScript, Python, Java, Postgres, OpenSearch, Kubernetes,
+  Airflow, Terraform, and GitLab. You will contribute to the
+  development, testing, and productization of solution
+  components integrating relational databases, microservices,
+  cloud services, and containerized applications.
+
+  What You’ll Do  • Design, develop, and maintain data service
+  metadata capture, transformation, and delivery pipelines. •
+  Integrate structured data from relational databases (Oracle,
+  PostgreSQL, MySQL, etc.) into pipelines. • Optimize and
+  troubleshoot pipelines for performance, reliability, and
+  scalability. • Contribute to backend service development
+  using Java, Node.js, and Python. • Implement infrastructure
+  as code using Terraform to provision and manage platform
+  resources. • Collaborate with DevOps to integrate pipelines
+  into CI/CD workflows using GitLab. • Write unit,
+  integration, and system tests to ensure code quality and
+  functionality. • Support AI/ML initiatives by building and
+  optimizing metadata pipelines for LLM training and data
+  processing. • Stay current with emerging technologies,
+  development best practices, modern data lake/lakehouse
+  frameworks, and evolving approaches in data brokerage
+  services.
+
+  Who We’re Looking For  We have noticed a pattern in the
+  people who do well at Atlas, and it is less about a specific
+  resume line than a shared set of qualities. Some of them are
+  ex-founders who have already lived through building
+  something without a playbook, and they know what it feels
+  like when the only person accountable for a problem is you.
+  Others come from the military, where they learned to make
+  real decisions with incomplete information in a highstakes
+  environment. A good number spent a few years in professional
+  services, places that are excellent at teaching you how to
+  structure an ambiguous problem quickly, and they left
+  because they wanted to build the answer instead of
+  presenting it in a deck. What unites them is not where they
+  have worked, but how quickly they learn, grow, and turn
+  ideas into results. We care more about how fast someone is
+  improving and how much they have accomplished than about a
+  polished pedigree that has not yet been tested against speed
+  and real ownership. If you have already broken out of a
+  highly structured environment to go build something that
+  matters, you will likely feel at home here.
+
+  Required Competencies  • Proficiency developing production
+  backend services using Python. • Experience developing and
+  integrating REST APIs and backend services. • Understanding
+  of Docker and deploying services in containerized
+  environments. • Experience with SQL, relational databases,
+  and data modeling using platforms such as PostgreSQL,
+  Oracle, or MySQL. • Knowledge of authentication,
+  authorization, secure API design, and secrets handling. •
+  Experience troubleshooting distributed services using logs
+  and operational metrics. • Strong communication, problem-
+  solving, and collaborative development skills. • Ability to
+  work collaboratively in a team-oriented Agile environment. •
+  Experience diagnosing and improving backend performance,
+  reliability, and scalability. • Experience designing
+  reliable asynchronous workflows, including retries,
+  idempotency, timeouts, and failure handling. • Experience
+  with Airflow, Step Functions, Argo, or another orchestration
+  platform. • Experience with Git-based source control, code
+  review, and CI/CD workflows; GitLab experience is preferred.
+  • Ability to decompose complex features into smaller
+  deliverables and drive them from design through completion.
+  • Clear written and verbal communication skills.
+
+  Bonus Points  • Experience with AI assisted development. •
+  Experience with OpenSearch or another search engine. •
+  Familiarity with policy engines such as OPA and
+  authorization models such as RBAC or ABAC. • Familiarity
+  with OpenMetadata, DataHub, or another metadata-management
+  platform. • Experience or interest in modern data
+  lake/lakehouse technologies (Apache Iceberg, Spark, etc.). •
+  Experience implementing semantic or hybrid search using
+  embeddings, vector indexes, metadata filtering, and
+  relevance ranking. • Experience building LLM-powered
+  workflows, including Retrieval-Augmented Generation,
+  structured outputs, tool integration, evaluation, and
+  production monitoring.
+
+  Other Requirements  • US Citizen. • 5+ years of experience.
+
+  Why Atlas
+  -Meaningful work. Our platform powers decisions that matter,
+  from federal government to financial institutions to
+  healthcare systems.
+  -Benefits that make a difference. We pay competitively and
+  back it up with equity, because we want you to have a real
+  stake in what we build together. Beyond salary, here’s what
+  you can expect while working at Atlas:  • Healthcare
+  coverage for you and your dependents, where Atlas pays 90%
+  of the median plan cost. • 401(k) matching at 100% up to 6%
+  of your contribution. • Paid parental leave. • Unlimited PTO
+  to take time off to recharge. • A remote work environment,
+  so you can do your best work from wherever that happens to
+  be.
+
+  Room to grow. Early-stage company with the backing and
+  momentum to scale—your impact here is real.
+industries:
+  - Big Data
+  - Software
+  - Defense
+  - Big Data Analytics
+posted_date: 2026-10-01
+url: "https://builtin.com/job/mid-level-backend-software-developer-l2-l3/11474434"
+source: Built In

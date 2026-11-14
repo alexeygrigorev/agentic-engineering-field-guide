@@ -1,0 +1,239 @@
+job_id: 12023012
+title: Staff Software Engineer, Search
+company: Babylist
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 300 Employees
+description: |
+  What the Role Is
+
+  We’re hiring a Staff Software Engineer who’ll be the
+  technical lead for a new Search team at Babylist. This new
+  team will be focused on moving Babylist’s search capability
+  in-house, making our search results more relevant and
+  personalized, and partnering with other teams to transform
+  search in the product from functional to delightful.
+
+  Registry building is the heart of the Babylist product.
+  Every parent builds a list of dozens of products, from
+  swaddle to stroller, with real stakes (a friend or family
+  member is going to buy these things, and a baby is going to
+  use them). As a universal registry, this registry also
+  typically spans many retailers. This makes registry building
+  on Babylist one of the most interesting search and
+  personalization problems in consumer e-commerce.
+
+  This is zero-to-one work, with big ambitions. You’d build a
+  search capability from the ground up, with a clear mandate
+  from leadership to do it. In your first year, we expect to
+  have rebuilt search to be highly relevant and personalized,
+  and delivered big bets like universal search: one experience
+  across items we sell and items from other retailers, and
+  across products, guides and registries. We also want to work
+  with Addie, our AI registry assistant, to have LLMs play a
+  role in the search experience.
+
+  If you want to tune an established search system, this isn’t
+  the right role. If you’ve worked inside a strong search team
+  and want to build a new system from scratch at a company
+  earlier in that journey, read on.
+
+  What You'll Own
+
+  A Staff Engineer at Babylist sets direction. You’ll be the
+  technical lead for search: you decide where it goes over the
+  next year or two, sequence the bets that get there, and make
+  the technical and product calls along the way. You’re still
+  in the code and will drive initiatives forward across
+  multiple teams. You’ll have software engineering and machine
+  learning engineering support on the team.
+
+  A few examples of initiatives you’d drive on the Search
+  team:
+
+  - Build search in-house. Choose the architecture for indexing,
+    retrieval and serving, and plan a seamless migration. The
+    system you design replaces what we use today and is the
+    foundation for everything below.
+  - Define what a good result is. Decide how we measure result
+    quality, then improve it through query understanding,
+    ranking and the behavioral signals we collect.
+  - Unify search across everything we show. One experience
+    across items we sell and items from other retailers, and
+    across products, guides and registries, including how to
+    rank items we don’t sell next to ones we do.
+  - Decide how search and recommendations fit together. Bring
+    what we know about a user and their registry into results,
+    and decide how much retrieval and ranking search shares
+    with our recommendation models.
+  - Make search conversational. Work with the Addie team, our AI
+    registry assistant, on queries like “best stroller for
+    urban family,” where the shopper describes a need instead
+    of naming a product.
+
+  Like every Staff Engineer here, you will:
+
+  - Take a fuzzy business problem from the first sketch through
+    to production, and stay on the hook for whether it
+    actually helped customers.
+  - Build the platform or tooling other teams adopt by choice,
+    and own it as it scales.
+  - Set the standard for how search builds with AI. Decide what
+    good looks like, build the patterns and evals that get
+    agents there and catch the output that's confidently wrong
+    before it ships.
+  - Partner with product, design and data as a peer, shaping
+    what's worth building from the start.
+  - Coach Senior engineers through the hard calls, the ambiguous
+    ones as much as the technical ones
+
+  Who You Are
+
+  You meet the Staff bar at Babylist. You’ve shipped
+  production systems for enough years to have earned strong
+  opinions, and you hold them loosely. You can pick up an
+  ambiguous problem and start moving before anyone hands you
+  the full picture. You’ve already changed how a team builds
+  with AI, and the new way stuck.
+
+  On top of that, you’ve worked on search problems before,
+  ideally in an e-commerce setting. This role needs depth in
+  the systems behind search and a clear focus on the people
+  using it. You bring:
+
+  - Hands-on search experience: building and running search in
+    production, including indexing, retrieval, ranking and
+    query understanding. You know how to keep a search service
+    fast, relevant and reliable as traffic and catalog size
+    grow.
+  - Experience evaluating search quality: offline and online,
+    including relevance judgments and A/B tests.
+  - A focus on the user: you use query data, behavior and
+    judgment about result quality to decide what to build, and
+    you can connect a search change to what shoppers do, and
+    to conversion or revenue.
+  - Comfort building from zero: you can define the problem,
+    design the system and own it end to end.
+  - You measure yourself by impact: a customer outcome, or a
+    system a dozen teams come to depend on.
+
+  Compensation
+
+  We post real numbers. For a US-based Staff Engineer, the
+  starting base salary range is $233,500 to $290,700, plus a
+  target annual bonus of 20 percent of base. That's total
+  target cash of roughly $280,200 to $348,840. On top of that
+  you get meaningful equity and a 401(k) match. Where you
+  start in that range depends on your experience, and your pay
+  grows from there with performance and scope.
+
+  How We Build
+
+  AI is the default here. Engineers run agentic sessions for
+  most of the work, and a lot of the interesting engineering
+  now lives in the scaffolding that makes the agents good: the
+  eval harnesses, the curated context, custom review skills
+  and fast CI. Agents also triage incidents and handle a big
+  share of support. A human always owns the outcome.
+
+  The architecture is intentionally simple: one Rails
+  monolith, MySQL and few moving parts. That's deliberate.
+  Simple infrastructure lets us move fast and lets AI reason
+  about the whole system, so the hardest problems are the ones
+  in front of customers.
+
+  The Stack
+
+  - Core app: Rails, Packwerk, React, TypeScript, Sidekiq
+  - Mobile: iOS (Swift), Android (Kotlin)
+  - Data, search & events: MySQL, Snowflake, dbt, Airflow,
+    Weaviate, WarpStream, Hex, Sigma
+  - Machine learning: deep learning, matrix factorization,
+    retrieval & ranking, AWS SageMaker, MLflow
+  - AI & dev tooling: Claude Code, Devin, Linear, CodeRabbit,
+    Warden, LangChain, Bedrock AgentCore, Maxim
+  - Infra & ops: AWS, Kubernetes, Terraform, GitHub Actions,
+    Datadog, incident.io, LaunchDarkly
+  - Key integrations: Shopify (payments), Iterable (CRM)
+
+  Why Babylist
+
+  An engineer, expecting her first baby, couldn't find the
+  registry she wanted. So she built it. That's how Babylist
+  started, and it's still how we work: engineers solving
+  problems for families. Becoming a parent is one of the
+  biggest moments in a person's life. Millions reach it for
+  the first time every year, making thousands of decisions and
+  figuring it out as they go. That's who we build for, and
+  we're a long way from done.
+
+  Ten million people give gifts through Babylist every year.
+  We did more than $750M in revenue in 2025, up 45 percent
+  over the year before, and we've been profitable for eight
+  years while staying independent. So you can take on a hard,
+  multi-year problem without watching over your shoulder for
+  the next round or the next correction. And the team is
+  small, around 65 engineers, so what you ship stays visible
+  and your scope stays wide.
+
+  How We Work
+
+  Remote-first across the US and Canada, and we have been for
+  years. That's not changing. We trust you to own your time
+  and your outcomes, and we get everyone in a room together
+  twice a year. Teams are small, pods of three to five
+  engineers, so nothing you ship disappears into a committee.
+  You'll work shoulder to shoulder with product, design and
+  data, and with the partners across the business who rely on
+  what you ship. You'll also stay close to customers yourself:
+  sitting in on user interviews, watching session recordings,
+  riding along with support. Here that's part of the
+  engineering job, on a regular basis.
+
+  How We Hire
+
+  Three rounds, usually two to three weeks start to finish.
+
+  - Recruiter conversation (30 minutes). Trade context: what you
+    want next, what we're building and straight answers on
+    comp, team and remote.
+  - Technical screen (1 hour). One round, no AI, language-
+    agnostic. Reach for Google when you normally would. We
+    just want to see how you reason from first principles.
+  - Final round (4 hours). Four one-hour interviews: system
+    design, AI-assisted coding with the tools you'd actually
+    use here, product sense and culture and values. You'll
+    hear back either way within 24 to 48 hours.
+
+  Benefits
+
+  - Company-paid medical and fully covered dental and vision
+  - A 401(k) match
+  - Generous paid parental leave for birthing and non-birthing
+    parents, plus a gradual return-to-work program
+  - Winter Wonder Week, a paid company-wide week off at the end
+    of the year
+  - A remote-work stipend
+  - Mental-health and wellness support
+
+  A Few Things to Know
+
+  - We record and transcribe interviews to evaluate candidates,
+    in line with applicable privacy laws.
+  - We expect you to use AI in your work and we welcome it in
+    the process, but what you submit and say should reflect
+    your own thinking.
+  - If you have a family member or close relationship with a
+    Babylist employee, let your recruiter know.
+  - Official outreach only ever comes from an @babylist.com
+    address
+industries:
+  - eCommerce
+  - Healthtech
+  - Kids + Family
+  - Retail
+  - Social Media
+posted_date: 2026-11-12
+url: "https://builtin.com/job/staff-software-engineer-search/12023012"
+source: Built In

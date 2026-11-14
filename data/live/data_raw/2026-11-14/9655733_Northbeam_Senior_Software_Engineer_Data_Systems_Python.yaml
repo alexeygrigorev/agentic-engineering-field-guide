@@ -1,0 +1,167 @@
+job_id: 9655733
+title: Senior Software Engineer, Data Systems (Python)
+company: Northbeam
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 100 Employees
+description: |
+  About Northbeam
+
+  Northbeam is building the world's most advanced marketing
+  intelligence platform, providing top eCommerce brands a
+  unified view of their business data through powerful
+  attribution modeling and customizable dashboards. Our
+  technology helps customers accurately track ad spend,
+  understand the full customer journey, and drive profitable
+  growth. Machine learning has been at the heart of Northbeam
+  since day one: our full suite of measurement, spanning
+  multi-touch attribution, MMM+, and incrementality, is built
+  on it, along with laser-accurate first-party data. Now we're
+  taking that foundation further, using AI to help brands
+  operationalize their data and turn Northbeam insights into
+  automated decisions.
+
+  We're experiencing rapid growth, have strong product-market
+  fit, and are looking for the right people to help us scale.
+  This is a rare chance to make a meaningful impact at a fast-
+  moving, high-growth company. At Northbeam, you'll join a
+  team of driven, collaborative, and talented individuals who
+  value personal growth and excellence. We'd love for you to
+  be part of our journey.
+
+  We're a remote-friendly company with physical offices in San
+  Francisco and Los Angeles.
+
+  About the Role
+
+  Northbeam is fundamentally a data product - the whole
+  company. We don’t sell shoes, ads, games, or database
+  technologies. We sell data: quality integrations with a
+  variety of platforms, fresh and reliable data pulls, correct
+  aggregations, and algorithmic insights on top of that data,
+  all packaged up in a user-facing application.
+
+  What this means is that out data systems team is
+  foundational and load-bearing. As a data-tilted software
+  engineer working at Northbeam, you will work with a cross-
+  functional team of product managers, product engineers, and
+  business leaders to translate our customers’ feedback into
+  scalable data pipelines and products.
+
+  The work involves creating, maintaining, and improving a
+  labyrinth of integrations and transformations in a complex
+  network of touchpoints to keep everything running smoothly.
+  The system is powered by data that spans numerous ad
+  platforms, a variety of order management systems (such as
+  Shopify and Amazon), as well as our own real-time events
+  that we collect as our customers navigate their online
+  stores.
+
+  Curiosity, experience, and a desire to build data pipelines
+  and applications at scale will be the key to success in this
+  role.
+
+  Your Impact
+
+  This is a startup. The one thing that’s constant is change.
+  To start with, you can expect to:
+
+  - Design and implement scalable, high-performance data
+    pipelines to ingest and transform data from a variety of
+    sources, ensuring reliability, observability, and
+    maintainability.
+  - Build and maintain APIs that enable flexible, secure, and
+    tenant-aware data integrations with external systems.
+  - Work with event-driven and batch processing architectures,
+    ensuring data freshness and consistency at scale.
+  - Drive clean API design and integration patterns that support
+    both real-time and batch ingestion while handling diverse
+    authentication mechanisms (OAuth, API keys, etc.).
+  - Implement observability, monitoring, and alerting to track
+    data freshness, failures, and performance issues, ensuring
+    transparency and reliability.
+  - Optimize data flows and transformations, balancing cost,
+    efficiency, and rapid development cycles in a cloud-native
+    environment.
+  - Collaborate with data engineering, infrastructure, and
+    product teams to create an integration platform that is
+    flexible, extensible, and easy to onboard new sources.
+
+  You will work with great people who have done this many
+  times before. You will teach them some new tricks, and maybe
+  learn some old ones.
+
+  If this sounds like your kind of chaos, we’d love to hear
+  from you.
+
+  What You Bring
+
+  - 5+ years of experience in data engineering, software
+    engineering, or integration engineering, with a focus on
+    ETL, APIs, and data pipeline orchestration.
+  - Strong proficiency in Python
+  - Experience with API-based ETL, handling REST, GraphQL,
+    Webhooks
+  - Experience implementing authentication flows
+  - Proficiency in SQL and BigQuery
+  - Experience with orchestration frameworks (e.g., Airflow) to
+    manage and monitor complex data workflows.
+  - Familiarity with containerization (Docker, Kubernetes) to
+    deploy and scale workloads.
+  - Ability to drive rapid development while ensuring
+    maintainability, balancing short-term delivery needs with
+    long-term platform stability.
+
+  Bonus Skills & Experience
+
+  - Detailed understanding of authentication mechanisms (OAuth
+    2.0, API keys, secrets management) and secure multi-tenant
+    architectures.
+  - Experience working with ERP systems, CRMs, CDPs, or complex
+    other enterprise data tools and their APIs.
+  - Exposure to event-driven architectures and real-time data
+    processing tools
+  - Knowledge of data governance, compliance (GDPR, SOC2), and
+    security best practices for handling sensitive data.
+  - Experience working in a multi-tenant SaaS or large-scale
+    data-intensive environment.
+
+  #LI-Remote
+
+  Base Salary Range
+
+  $165,000—$210,000 USD
+
+  Actual compensation may vary based on experience, skills,
+  and location.
+
+  In addition to your base salary, we offer an equity package,
+  comprehensive healthcare benefits (medical, dental, and
+  vision), and a 401(k) plan. Our team enjoys a flexible PTO
+  policy, 12 company-paid holidays, and 12 weeks of paid
+  parental leave. We also provide a $500 work-from-home
+  stipend to support your remote setup.
+
+  Interview Process The interview process varies by role but
+  typically begins with a 30-minute interview with a Northbeam
+  recruiter, followed by a video interview with the hiring
+  manager. Next, candidates complete a role-specific video
+  interview followed by video or onsite interviews with
+  several team members. The final step is a video interview
+  with our CEO/Co-founder. The entire interview process is
+  usually 5-7 interviews total and requires around 5-8 hours
+  of your time.
+
+  We accept applications on an ongoing basis.
+industries:
+  - eCommerce
+  - Information Technology
+  - Machine Learning
+  - Marketing Tech
+  - Database
+  - Analytics
+  - Big Data Analytics
+posted_date: 2026-08-24
+url: "https://builtin.com/job/senior-software-engineer-data-systems-python/9655733"
+source: Built In

@@ -1,0 +1,150 @@
+job_id: 10449566
+title: Senior and/or Principal Software Engineer - Performance
+company: Microsoft
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 206,870 Employees
+description: |
+  Overview
+
+  The Artificial Intelligence Performance team at Microsoft
+  develops AI software that enables running AI models
+  everywhere, from world’s fastest AI supercomputers, to
+  servers, desktops, mobile phones, IoT devices and internet
+  browsers. We collaborate with our hardware teams and
+  partners, both internal and external, and operate at the
+  intersection of AI algorithmic innovation, purpose-built AI
+  hardware, systems, and software. We are a team of highly
+  capable and motivated people that pride themselves on a
+  collaborative and inclusive culture. We own inference
+  performance of OpenAI and other state of the art LLM models
+  and work directly with OpenAI on the models hosted on the
+  Azure OpenAI service serving some of the largest workloads
+  on the planet with trillions of inferences per day in major
+  Microsoft products, including Office, Windows, Bing, SQL
+  Server, and Dynamics.
+
+  As a Senior and/or Principal Software Engineer - Performance
+  on the team, you will have the opportunity to work on
+  multiple levels of the AI software stack, including the
+  fundamental abstractions, programming models, compilers,
+  runtimes, libraries and APIs to enable large scale training
+  and inferencing of models. You will benchmark OpenAI and
+  other LLM models for performance on GPUs and Microsoft HW,
+  debug and optimize performance, monitor performance and
+  enable these models to be deployed in the shortest amount of
+  time and the least amount of HW possible helping achieve
+  Microsoft Azure's capex goals.This is a hands-on technical
+  role requiring software design and development skills. We’re
+  looking for someone who has a demonstrated history of
+  solving technical problems and is motivated to tackle the
+  hardest problems in building a full end-to-end AI stack. An
+  entrepreneurial approach and ability to take initiative and
+  move fast are essential.
+
+  Microsoft’s mission is to empower every person and every
+  organization on the planet to achieve more. As employees we
+  come together with a growth mindset, innovate to empower
+  others, and collaborate to realize our shared goals. Each
+  day we build on our values of respect, integrity, and
+  accountability to create a culture of inclusion where
+  everyone can thrive at work and beyond.
+
+  Responsibilities
+
+  As an Engineer on the team the common tasks of the job would
+  include, but not be limited to:
+
+  - Identify and drive improvements to end-to-end inference
+    performance of OpenAI and other state-of-the-art LLMs
+  - Measure, benchmark performance on Nvidia/AMD GPUs and first
+    party Microsoft silicon
+  - Optimize and monitor performance of LLMs and build SW
+    tooling to enable insights into performance opportunities
+    ranging from the model level to the systems and silicon
+    level to improve customer experience and reduce the
+    footprint of the computing fleet
+  - Enable fast time to market of LLMs/models and their
+    deployments at scale by building SW tools that afford
+    velocity in porting models on new Nvidia and AMD GPUs
+  - Design, implement, and test functions or components for our
+    AI/DNN/LLM frameworks and tools
+  - Speeding up/reducing complexity of key components/pipelines
+    to improve performance and/or efficiency of our systems
+  - Communicate and collaborate with our partners both internal
+    and external
+  - Embody Microsoft's Culture and Value
+
+  Qualifications
+
+  Required Qualifications:
+
+  - Bachelor's Degree in Computer Science or related technical
+    field AND 4+ years technical engineering experience with
+    coding in languages including, but not limited to, C, C++,
+    C#, Java, JavaScript, or Python OR equivalent experience.
+
+  Other Requirements:
+
+  Ability to meet Microsoft, customer and/or government
+  security screening requirements are required for this role.
+  These requirements include but are not limited to the
+  following specialized security screenings: Microsoft Cloud
+  Background Check: This position will be required to pass the
+  Microsoft Cloud background check upon hire/transfer and
+  every two years thereafter.
+
+  Preferred Qualifications:
+
+  - Master's Degree in Computer Science or related technical
+    field AND 8+ years technical engineering experience with
+    coding in languages including, but not limited to, C, C++,
+    C#, Java, JavaScript, or Python
+    - OR Bachelor's Degree in Computer Science or related
+      technical field AND 12+ years technical engineering
+      experience with coding in languages including, but not
+      limited to, C, C++, C#, Java, JavaScript, or Python
+    - OR equivalent experience.
+  - Technical background and solid foundation in software
+    engineering principles, computer architecture, GPU
+    architecture, HW neural net acceleration
+  - Experience in end-to-end performance analysis and
+    optimization of state of the art LLMs, including
+    proficiency using GPU profiling tools
+  - Experience in DNN/LLM inference and experience in one or
+    more DL frameworks such as PyTorch, Tensorflow, or ONNX
+    Runtime and familiarity with CUDA, ROCm, Triton
+  - Cross-team collaboration skills and the desire to
+    collaborate in a team of researchers and developers
+
+  #AIInfra
+
+
+
+  This position will be open for a minimum of 5 days, with
+  applications accepted on an ongoing basis until the position
+  is filled.
+
+  Microsoft is an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to age, ancestry, citizenship, color, family or
+  medical care leave, gender identity or expression, genetic
+  information, immigration status, marital status, medical
+  condition, national origin, physical or mental disability,
+  political affiliation, protected veteran or military status,
+  race, ethnicity, religion, sex (including pregnancy), sexual
+  orientation, or any other characteristic protected by
+  applicable local laws, regulations and ordinances. If you
+  need assistance with religious accommodations and/or a
+  reasonable accommodation due to a disability during the
+  application process, read more about requesting
+  accommodations.
+industries:
+  - Software
+  - Quantum Computing
+  - Metaverse
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-11-10
+url: "https://builtin.com/job/senior-and-or-principal-software-engineer-perfomance/10449566"
+source: Built In

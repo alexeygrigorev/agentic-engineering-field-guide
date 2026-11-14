@@ -1,0 +1,109 @@
+job_id: 11589041
+title: Senior Backend Engineer - Payin Platform
+company: Wise
+location: London, GBR
+work_type: FULL_TIME
+company_size: 9,000 Employees
+description: |
+  Company Description
+
+  Wise is a global technology company, building the best way
+  to move and manage the world’s money. Min fees. Max ease.
+  Full speed.
+
+  Whether people and businesses are sending money to another
+  country, spending abroad, or making and receiving
+  international payments, Wise is on a mission to make their
+  lives easier and save them money.
+
+  As part of our team, you will be helping us create an
+  entirely new network for the world's money. For everyone,
+  everywhere.
+
+  More about our mission and what we offer.
+
+  Job Description
+
+  Recurring Payin team owns the Direct Debit API that powers
+  automated payments into Wise. Underneath this, we are
+  building a platform that allows customers to easily schedule
+  top-ups or business collections.
+
+  The platform is also built on top of our internal Payin
+  Platform rails; which is a critical component to the Wise
+  money-movement machine and we’re looking for an engineer
+  motivated to come and help us build for this.
+
+  We primarily offer APIs for any partner looking to set up
+  automated funding or pre-authorizations. From setting up GBP
+  balance top ups automatically to allowing business partners
+  collect EUR bills monthly without having the customer go
+  through the flow every time; our platform aims to
+  consolidate all these use-cases.
+
+  We aim to allow customers to give a one time permission
+  (pre-authorization) for Wise to pull money across any
+  payment method, a USD bank account or a EUR issued bank
+  card; you name it.
+
+  Job Responsibilities:
+
+  - Design, develop, test, and maintain backend services written
+    in any language deployed on cloud infrastructure (AWS)
+  - Build and maintain RESTful APIs that serve millions of
+    customers across web and mobile platforms
+  - Develop and optimise services powering the card pay-in
+    payment method — one of the most popular payment methods,
+    enabling Wise customers to move around £1 billion every
+    month
+  - Design and implement database schemas, write and optimise
+    SQL queries against PostgreSQL databases handling high-
+    volume transactional data
+  - Build and maintain event-driven architectures using Apache
+    Kafka for asynchronous processing of financial events
+    across distributed services
+  - Develop and maintain a payment orchestration system that
+    dynamically routes payments across Payment Service
+    Providers to optimize for cost and reliability
+  - Write automated tests (unit, integration, and end-to-end) to
+    ensure correctness and reliability of financial systems
+  - Conduct code reviews for team members, ensuring code
+    quality, security, and adherence to engineering standards
+  - Participate in on-call rotations to monitor and respond to
+    production incidents for Tier 2 critical services
+  - Collaborate with product managers, designers, analysts, and
+    engineers across other teams to deliver cross-functional
+    projects
+  - Identify and resolve performance bottlenecks, scalability
+    issues, and technical debt in existing systems
+  - Ensure development follows security best practices,
+    particularly around handling of sensitive financial data
+    and compliance with financial regulations
+
+  Additional Information
+
+  For everyone, everywhere. We're people building money
+  without borders  — without judgement or prejudice, too. We
+  believe teams are strongest when they are diverse, equitable
+  and inclusive.
+
+  We're proud to have a truly international team, and we
+  celebrate our differences. Inclusive teams help us live our
+  values and make sure every Wiser feels respected, empowered
+  to contribute towards our mission and able to progress in
+  their careers.
+
+  If you want to find out more about what it's like to work at
+  Wise visit Wise.Jobs.
+
+  Keep up to date with life at Wise by following us on
+  LinkedIn and Instagram.
+industries:
+  - Fintech
+  - Mobile
+  - Payments
+  - Software
+  - Financial Services
+posted_date: 2026-10-09
+url: "https://builtin.com/job/senior-backend-engineer-payin-platform/11589041"
+source: Built In

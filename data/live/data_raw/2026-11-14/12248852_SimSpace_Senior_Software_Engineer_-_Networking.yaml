@@ -1,0 +1,258 @@
+job_id: 12248852
+title: Senior Software Engineer - Networking
+company: SimSpace
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 161 Employees
+description: |
+  The weaponization of AI is driving a paradigm shift in the
+  cyber security industry from proactive to preemptive
+  security: clients must now invest more intelligence and
+  effort in understanding their vulnerabilities before their
+  adversaries do (Open AI). The only way to achieve this is to
+  simulate future attack scenarios at scale, and to run them
+  in high fidelity digital replicas of production environments
+  (Gartner/Forrester). SimSpace serves as the AI Proving
+  Grounds to generate hypersynthetic data which pressure tests
+  controls, tools, teams, and agentic capabilities in full
+  kill chain attacks hidden in realistic environmental traffic
+  and patterns of life.
+
+  Founded in 2015 by experts from U.S. Cyber Command and MIT
+  Lincoln Laboratory, the platform was initially conceived to
+  assist in Offensive Cyber Operations (OCO), to quickly
+  replicate target environments to conduct mission rehearsal
+  of human operators and their tools to deny (disrupt,
+  degrade, destroy) or deceive (manipulate or exfiltrate data)
+  adversaries. The company has since expanded to serve over a
+  dozen allied governments in OCO/DCO as well as critical
+  infrastructure enterprises around the world. The company is
+  actively investing in the Americas, Asia Pacific, Europe and
+  the Middle East through direct sales and channel partners.
+  SimSpace has launched the AI Proving Grounds Consortium,
+  leading the revolution by creating an open platform for the
+  InfoSec ecosystem to train, validate and operationalize
+  their agentic capabilities before committing to production.
+
+  Why join SimSpace?
+
+  We are a team united by a shared purpose and four core
+  values: Serve to Protect, Acquire Understanding, Teamwork
+  without Borders, and Operate as Innovators. We value candid,
+  constructive feedback and create opportunities for personal,
+  professional, and financial growth. Our vision, “Defend the
+  Free World,” drives our mission: “Defeat Any Adversary in
+  Any Cyber Terrain at Machine Speed.”
+
+  How Do We Work?
+
+  We listen to customers and colleagues, challenge
+  assumptions, and turn ideas into meaningful results. We
+  expect everyone to embrace emerging technologies, simplify
+  and automate work, and use AI to learn, solve problems, and
+  help deliver quality with speed. We apply human judgment and
+  take responsibility for outcomes. Whether remote or office-
+  based, we collaborate across teams and time zones.
+
+  We invite you to apply today!
+
+  We are looking for a Senior Software Engineer, Greyspace, to
+  design and develop a realistic, simulated internet for
+  SimSpace cyber ranges. You will help build the services,
+  networking, and operator workflows that make training
+  environments believable, repeatable, and safely contained.
+  The ideal candidate brings deep experience building
+  distributed software systems, strong networking
+  fundamentals, and the ability to turn ambiguous requirements
+  into working software across team boundaries.
+
+  In this hands-on engineering role, you'll contribute to
+  Greyspace's architecture and implementation with Product,
+  Security, and engineering partners. You will write and
+  review code, prove architectural decisions through working
+  increments, and take services from early implementations to
+  reliable operation. The focus is on building reusable
+  simulated services with clear isolation boundaries and
+  integrating them into the SimSpace platform. Specifically,
+  this position will be responsible for:
+
+  - Greyspace service architecture, APIs, and orchestration for
+    configuring and managing simulated internet environments
+  - Realistic network and application behavior, including DNS,
+    TLS, web, and mail services
+  - Reusable services and content with isolated per-range
+    configuration, identities, and mutable state
+  - Platform and range integrations, operator workflows,
+    automated validation, and operational readiness
+
+  What will you be doing as a Senior Software Engineer,
+  Greyspace at SimSpace?
+
+  - Own technical design and implementation for Greyspace
+    services, defining service boundaries, data ownership, API
+    contracts, and failure behavior in collaboration with
+    technical leads and partner teams.
+  - Design and build the services that configure, deploy, and
+    manage simulated internet environments. Own critical
+    implementation work and help turn prototypes into
+    maintainable, tested software.
+  - Develop realistic network and application behavior across
+    DNS, certificates, routing, and services such as web and
+    mail. Validate complete workflows from a range host
+    through the simulated service and back.
+  - Design for reuse across ranges while isolating
+    configuration, credentials, mutable state, and faults.
+    Work with Security and infrastructure partners to test
+    containment and prevent unintended access between
+    environments or to live networks.
+  - Develop versioned integration contracts with platform,
+    range, and emulation teams. Partner on operator workflows
+    for configuration, readiness checks, troubleshooting, and
+    lifecycle management.
+  - Partner with Product and technical leaders to translate
+    training needs into prioritized use cases, explicit
+    acceptance criteria, and incremental delivery plans.
+  - Own scoping and estimation for assigned projects, making
+    assumptions, dependencies, and trade-offs explicit. Break
+    ambiguous work into useful milestones and validate high-
+    risk decisions with focused technical proofs.
+  - Drive reliability and operational readiness through
+    automated integration tests, observability, performance
+    testing, recovery procedures, and deployment and upgrade
+    validation for hosted and on-premises environments.
+  - Participate in design and code reviews, identify and help
+    resolve cross-service technical risks, and improve
+    engineering practices that support reliable delivery.
+  - Mentor engineers through hands-on collaboration, sharing
+    expertise in distributed systems, networking, testing, and
+    technical decision-making.
+
+  Who you are:
+
+  - 5+ years of software engineering experience with a strong
+    record of building distributed applications, platform
+    services, or networked systems and independently
+    delivering technically complex projects.
+  - Proven ability to design, build, and ship production-grade
+    distributed services — comfortable owning the full
+    software development lifecycle from architecture through
+    delivery.
+  - Strong networking fundamentals, including TCP/IP, DNS, HTTP,
+    and TLS, with hands-on experience diagnosing behavior
+    across application, service, and network boundaries.
+  - Experience designing multi-tenant or distributed systems
+    with clear isolation, state management, API, and failure-
+    recovery boundaries. Familiarity with cyber ranges,
+    simulation, or internet service infrastructure is a plus.
+  - Demonstrated ability to make sound technical decisions
+    within a team and collaborate effectively with partner
+    teams, balancing idealism with pragmatic delivery.
+  - Strong scoping and estimation judgment: able to produce an
+    early estimate, identify uncertainty and dependencies, and
+    break complex projects into testable milestones. Helps the
+    team make commitments grounded in evidence and available
+    capacity.
+  - Strong communicator who can explain complex architecture,
+    networking behavior, and engineering trade-offs to
+    technical and non-technical audiences.
+  - Proficient in a modern backend programming language and
+    software engineering practices including API design,
+    service decomposition, automated testing, code review, and
+    CI/CD.
+  - Hands-on experience with Linux, containers, and Kubernetes,
+    including deploying and troubleshooting services.
+    Experience with self-hosted, on-premises, or disconnected
+    environments is a strong plus.
+  - Comfortable operating with ambiguity — requirements aren't
+    always fully defined, and this role is expected to help
+    clarify them and propose practical solutions. We're
+    looking for someone who drives clarity rather than waiting
+    for it.
+  - Experience working in security-sensitive or compliance-
+    driven environments (DoD, FedRAMP, SOC 2, or similar) is a
+    strong plus.
+
+  We’re proud to offer a competitive and comprehensive package
+  designed to support your well-being, growth, and success:
+
+  - Compensation. Base salary range: $160,000 - $225,000,
+    reflecting our confidence in your expertise and impact,
+    with the opportunity for annual bonuses tied to company
+    performance and individual contributions.
+  - Health & Wellness. Comprehensive medical, dental, and vision
+    benefits, plus savings plans—coverage starts on day one!
+  - Mental Health Support. Access to company-paid counseling,
+    coaching, and resources for you and your family through
+    Spring Health.
+  - Financial Well-Being. Plan for your future with a
+    401(k)-retirement savings plan featuring a company match.
+  - Flexible Time Off. Take the time you need with unlimited
+    vacation and dedicated health & wellness days. SimSpace
+    provides flexible solutions to meet the diverse work-life
+    needs of team members.
+  - Parental Leave. Paid leave plans to support you and your
+    loved ones during life’s most important moments.
+  - Ownership Opportunities: Equity stock options at hire, with
+    annual performance-based grants—become an invested
+    stakeholder in our shared success.
+  - Referral Rewards: Earn $1,500–$3,500 for every qualified
+    hire through our employee referral program.
+  - Peloton Interactive Wellness Program: Full- and partial-
+    subsidized membership plans and equipment discounts to
+    help you reach your personalized fitness goals.
+  - Continuous Learning: Access a LinkedIn Learning membership
+    to prioritize your personal and professional development.
+  - Social Connections: Monthly reimbursements for meaningful
+    connections with teammates through our SocialSpace
+    Community.
+  - Extra Perks: Legal plan coverage, pet insurance, wellness
+    reimbursements, and more to simplify life’s details.
+
+
+
+  SimSpace is an Equal Opportunity Employer:
+
+  In compliance with federal law, all persons hired will be
+  required to verify identity and eligibility to work in the
+  United States and to complete the required employment
+  eligibility verification document form upon hire.
+
+  SimSpace is an Equal Opportunity Employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, sexual orientation,
+  gender identity, national origin, age, pregnancy, genetic
+  information, disability, status as a protected veteran, or
+  any other protected category under applicable federal,
+  state, and local laws. We are committed to providing an
+  inclusive and welcoming environment for all members of our
+  staff, clients, volunteers, subcontractors, vendors, and
+  clients.
+
+  Research shows that women and people from underrepresented
+  groups only apply to jobs if they meet all of the
+  qualifications. However, no one ever meets 100% of the
+  qualifications. SimSpace encourages you to break that
+  statistic and to apply. We look forward to your application!
+
+  We also consider qualified applicants regardless of criminal
+  histories, in accordance with applicable law. We are
+  committed to providing reasonable accommodations for
+  qualified individuals with disabilities in our job
+  application procedures. If you need assistance or
+  accommodation due to a disability, please contact
+  careers@simspace.com.
+
+  SimSpace does not accept unsolicited resumes from employment
+  agencies.
+
+  Actual compensation for the position is based on a variety
+  of factors, including, but not limited to affordability,
+  skills, qualifications and experience, and may vary from the
+  range.
+industries:
+  - Information Technology
+  - Security
+posted_date: 2026-11-13
+url: "https://builtin.com/job/senior-software-engineer-networking/12248852"
+source: Built In

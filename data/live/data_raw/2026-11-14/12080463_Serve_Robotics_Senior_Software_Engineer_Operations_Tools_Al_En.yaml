@@ -1,0 +1,227 @@
+job_id: 12080463
+title: "Senior Software Engineer, Operations Tools & Al Enablement"
+company: Serve Robotics
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 402 Employees
+description: |
+  At Serve Robotics, we’re reimagining how things move in
+  cities. Our personable sidewalk robot is our vision for the
+  future. It’s designed to take deliveries away from congested
+  streets, make deliveries available to more people, and
+  benefit local businesses.
+
+  The Serve fleet has been delighting merchants, customers,
+  and pedestrians along the way in Los Angeles, Miami, Dallas,
+  Atlanta and Chicago while doing commercial deliveries. We’re
+  looking for talented individuals who will grow robotic
+  deliveries from surprising novelty to efficient ubiquity.
+
+  Who We Are
+
+  We are tech industry veterans in software, hardware, and
+  design who are pooling our skills to build the future we
+  want to live in. We are solving real-world problems
+  leveraging robotics, machine learning and computer vision,
+  among other disciplines, with a mindful eye towards the end-
+  to-end user experience. Our team is agile, diverse, and
+  driven. We believe that the best way to solve complicated
+  dynamic problems is collaboratively and respectfully.
+
+  JOB OVERVIEW
+
+  Build practical software that makes Robotics Operations more
+  effective. We are looking for a proactive engineer with a
+  product and entrepreneurial mindset: someone who discovers
+  opportunities, anticipates pain points, and turns them into
+  useful, reliable software. You will deliver improvements
+  quickly and own the tools we rely on, including applications
+  originally built with Al-assisted coding.
+
+  You will be an engineer embedded with Operations, taking
+  initiative to understand how teams work and where software
+  can make the biggest difference. You will observe workflows,
+  ask questions, and use feedback and data to uncover unmet
+  needs, including problems users have learned to work around.
+  You will help shape what gets built, rather than wait for a
+  fully defined task list. Think like a product owner and
+  execute as an engineer. Connect everyday friction to the
+  bigger picture: delivery quality, operator effectiveness,
+  and the ability to scale. Choose focused improvements that
+  create meaningful value, test assumptions early, and adapt
+  as you learn. We value initiative, product judgment, and
+  demonstrated impact over the length of an engineering résumé
+  alone. Some solutions will start as lightweight prototypes
+  or Al-generated applications. Your job is to bring the
+  engineering judgment needed to make them dependable:
+  understand the code, fix defects, improve the design where
+  needed, add appropriate tests and monitoring, and support
+  the application as operational needs and underlying systems
+  change. You will personally build, ship, and maintain
+  production code. Al-assisted development is encouraged, but
+  you must be able to evaluate the output, debug it
+  independently, and take responsibility for its behavior in
+  production. You will work across several programming
+  languages. Our primary system is Elixir-heavy. Previous
+  Elixir experience is not required, but you should be ready
+  to learn quickly and become productive developing and
+  maintaining Elixir applications. You will also work with
+  applications and services on Google Cloud Platform (GP). You
+  will work cross-functionally with Operations, Product
+  Engineering, and other technical teams to make sure local
+  improvements work with the wider system. Build shared
+  understanding, surface dependencies early, and drive
+  decisions through completion. You will know when a small
+  Operations tool is the right answer, when an existing
+  solution can be reused, and when a problem requires a
+  coordinated change to shared services or core product
+  functionality.
+
+  JOB DUTIES
+
+  - Discover needs before they become urgent. Proactively
+    explore workflows with Operations, identify recurring
+    friction and emerging failure points, and propose
+    improvements before teams need to escalate a problem.
+  - Prioritize and deliver quick wins. Connect opportunities to
+    operational goals, assess user impact, effort, and risk,
+    and choose the smallest useful solution. Make clear
+    recommendations about what to build, improve, reuse, or
+    leave alone.
+  - Build iteratively with users. Deliver small, useful changes,
+    gather feedback early, and refine solutions based on how
+    people use them. Keep the scope focused while ensuring the
+    result is safe and fit for its intended use.
+  - Own Operations applications. Maintain and improve internal
+    tools, dashboards, automations, and integrations,
+    including applications initially created through Al-
+    assisted coding. Diagnose issues, resolve bugs, and keep
+    tools working as dependencies and requirements evolve.
+  - Develop across our stack. Contribute in several languages,
+    ramp up quickly on our Elixir-heavy core system, and
+    build, deploy, troubleshoot, and support applications on
+    Google Cloud Platform. &X. Metaview
+  - Bring engineering discipline to Al-built software. Review
+    generated code, understand its dependencies and data
+    access, address security and reliability gaps, and add
+    tests, documentation, monitoring, and maintainable
+    structure appropriate to the application's risk.
+  - Drive cross-functional execution. Align Operations and
+    Engineering on needs, owners, dependencies, and tradeoffs.
+    Anticipate the effects of API, schema, authentication, and
+    platform changes on Operations tools. Bring
+    recommendations to the teams that own shared systems,
+    resolve blockers, and follow through on commitments rather
+    than building fragile workarounds.
+  - Champion practical Al adoption. Help Operations identify
+    useful Al-assisted workflows, evaluate tools, and develop
+    safe, repeatable practices. Help colleagues understand
+    where Al saves time and where human review and engineering
+    ownership are essential.
+  - Stay accountable after launch. Support the software you
+    ship, investigate failures, and verify that improvements
+    reduce operational friction or improve delivery quality.
+    Favor durable fixes over recurring manual intervention.
+
+  EXPERIENCE, QUALIFICATIONS, & SKILLS
+
+  Required Experience, Qualifications, and Skills
+
+  - 5+ years of professional experience, with substantial
+    software engineering experience and ownership of shipped
+    software. We prioritize what you have identified, built,
+    and improved over tenure alone.
+  - Strong production coding capability. You can independently
+    design, implement, test, debug, deploy, and maintain
+    applications. You can understand and improve an unfamiliar
+    codebase, including code generated with Al assistance.
+  - Google Cloud Platform experience. You have built, deployed,
+    or supported applications and services on GCP and can
+    troubleshoot their behavior in a cloud environment.
+  - Ability to learn and contribute across languages. You can
+    become productive quickly in an unfamiliar stack. Prior
+    Elixir experience is not required; learning it quickly and
+    contributing to our Elixir-heavy system is an expectation
+    of the role.
+  - Experience building useful applications, internal tools,
+    automations, or integrations for business or operational
+    users.
+  - A proactive, self-starting approach. You can find a
+    worthwhile problem, investigate it independently, propose
+    a path forward, and take ownership without waiting for
+    detailed instructions.
+  - Product and entrepreneurial judgment. You understand user
+    needs, challenge assumptions, balance speed with quality,
+    and focus effort on solutions people will use. You can
+    create clarity and momentum when the problem or solution
+    is not yet well defined.
+  - Big-picture thinking. You connect a local workflow
+    improvement to broader operational goals, recognize
+    upstream and downstream effects, and avoid optimizing one
+    tool at the expense of the wider system.
+  - Sound judgment about testing, code review, access controls,
+    sensitive data, dependency management, observability, and
+    production support.
+  - A practical, iterative approach: you can deliver a small
+    improvement quickly without losing sight of reliability,
+    maintainability, or user needs.
+  - Ability to work directly with non-engineering users, clarify
+    ambiguous requests, explain tradeoffs, and turn feedback
+    into working improvements.
+  - Cross-functional leadership through influence: you can bring
+    operational and engineering perspectives together, explain
+    tradeoffs, secure alignment, and keep work moving through
+    release and adoption.
+  - Interest in Al-assisted development and workflow automation,
+    paired with the ability to validate results and recognize
+    limitations.
+  - Previous experience managing an operations team is not
+    required. This role is centered on building and supporting
+    software for Operations, rather than managing a program or
+    coordinating other engineers' delivery.
+
+  Preferred Experience, Qualifications, and Skills
+
+  - Experience with operator-facing applications, workflow
+    automation, dashboards, or fleet and robotics tools.
+  - Full-stack development experience, including user
+    interfaces, services, APls, and data integrations.
+  - Previous experience developing applications in Elixir.
+  - Experience taking a prototype or lightly engineered
+    application into dependable operational use.
+  - Effective use of Al coding assistants, with examples of
+    reviewing, correcting, testing, and maintaining their
+    output.
+  - Experience owning a product or internal tool from discovery
+    through adoption and iteration, or building useful
+    solutions in an entrepreneurial environment.
+  - Experience helping non-technical teams adopt Al tools
+    responsibly.
+  - Robotics, autonomous vehicles, logistics, delivery, or other
+    technology-enabled field operations experience.
+
+  What success looks like
+
+  - Operations receives useful improvements in short iterations,
+    with feedback shaping subsequent work.
+  - Important needs and risks are surfaced early, with solutions
+    initiated before they become urgent requests or recurring
+    incidents.
+  - Tools are adopted and deliver measurable value, with low-
+    value ideas changed or stopped based on evidence.
+  - Cross-functional partners have clear ownership and fewer
+    surprises as tools and underlying systems evolve.
+  - High-value internal applications have clear technical
+    ownership and dependable support.
+  - Al-built tools become easier to understand, test, change,
+    and maintain.
+  - Changes to shared engineering systems cause fewer avoidable
+    disruptions to Operations tools.
+  - Teams spend less time on repetitive work and recurring
+    software issues.
+  - Al adoption produces practical benefits without compromising
+    data handling, reliability, or engineering standards.
+posted_date: 2026-11-04
+url: "https://builtin.com/job/senior-software-engineer-operations-tools-al-enablement/12080463"
+source: Built In

@@ -1,0 +1,125 @@
+job_id: 7106011
+title: Founding Software Engineer
+company: ThirdLaw AI
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 4 Employees
+description: |
+  About the Company
+
+  ThirdLaw is building the control layer for AI in the
+  enterprise. As companies rush to adopt LLMs and AI agents,
+  they face new safety, compliance, and operational risks that
+  traditional observability tools were never designed to
+  detect. Metrics like latency or cost don’t capture when a
+  model makes a bad decision, leaks sensitive data, or behaves
+  unpredictably.
+
+  We help IT and Security teams answer the foundational
+  question: "Is this OK?"—and take real-time action when it’s
+  not.
+
+  Backed by top-tier venture firms and trusted by forward-
+  looking enterprise design partners, we’re building the
+  infrastructure to monitor, evaluate, and control AI behavior
+  in real-world environments—at runtime, where it matters. If
+  you're excited to build systems that help AI work as
+  intended—and stop it when it doesn’t—we’d love to meet you.
+
+  About the Role
+
+  You won’t just be piping logs or tuning models—you’ll
+  architect systems that reconcile latency, correctness, and
+  observability across distributed pipelines. You’ll be
+  designing the nervous system of a new class of
+  software—where AI Agents reason, act, and fail in
+  unpredictable ways. If you're excited by AI and want to
+  shape its safe deployment—not just watch from the
+  sidelines—this is your opportunity.
+
+  What You’ll Do
+
+  - Architect and evolve core backend systems—event ingestion,
+    real-time risk evaluation, semantic search, and
+    investigation-grade querying.
+  - Design and optimize streaming data pipelines using Kafka,
+    Redpanda, or similar technologies to support high-
+    throughput, low-latency processing of LLM interactions.
+  - Define and refine data models and schemas across structured
+    (Postgres), analytical (ClickHouse), unstructured (S3),
+    and vector (Qdrant) storage layers.
+  - Identify architectural weaknesses and performance
+    bottlenecks across ingest, indexing, and query layers;
+    lead improvements to support scalability, correctness, and
+    observability.
+  - Implement data ingestion and transformation frameworks that
+    support policy evaluation, semantic analysis, and dynamic
+    response.
+  - Optimize query performance, storage efficiency, and
+    retrieval accuracy to support deep investigation and real-
+    time enforcement.
+  - Build and maintain backend APIs, monitoring infrastructure,
+    and policy enforcement workflows that underpin the
+    ThirdLaw platform.
+
+  Who We are Looking For
+
+  You’ll be one of the first backend hires, helping define not
+  just what we build, but how we build it.
+
+  Required
+
+  - 10+ years of backend or data engineering experience, ideally
+    with a focus on distributed systems or streaming
+    architectures.
+  - Strong in Golang and/or Python; experienced with gRPC, REST,
+    and working in Unix/Linux environments.
+  - You’ve been the architect behind at least one complex
+    distributed system—ideally involving real-time data,
+    search, or observability—and can explain your design
+    decisions clearly.
+  - Familiarity with schema evolution, ORMs, and data mapping
+    strategies in evolving analytics systems.
+  - Comfort working with Kubernetes and cloud-native services in
+    AWS/GCP/Azure.
+  - Ability to debug deeply, reason about performance tradeoffs,
+    and own systems end to end.
+
+  Nice-to-Have
+
+  - Experience with semantic search, vector embeddings, AI agent
+    infrastructure (e.g. LangChain, CrewAI, Autogen, etc.) and
+    integrating LLM telemetry or foundation model outputs into
+    observability pipelines.
+  - Familiarity with OpenTelemetry, event trace modeling, Model
+    Context Protocol (MCP), or real-time AI evaluation
+    architectures.
+  - Based in or willing to spend time in the San Francisco Bay
+    Area for in-person collaboration.
+
+  Why Apply?
+
+  Our team is small and focused, valuing autonomy and real
+  impact over titles and management. We need strong technical
+  skills, a proactive mindset, and clear written
+  communication, as much of our work is asynchronous. If
+  you're organized, take initiative, and want to work closely
+  with customers to shape our products, you'll fit in well
+  here.
+
+  Finally, we pay market cash compensation and generally
+  above-market equity. The compensation package for this role
+  is benchmarked using Carta Total Compensation and reflects
+  real-time market data for our company’s size, this role’s
+  level, and your geographic location. We have well-designed
+  and generous benefits.
+
+  https://www.thirdlaw.io/
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-08-09
+url: "https://builtin.com/job/founding-software-engineer/7106011"
+source: Built In

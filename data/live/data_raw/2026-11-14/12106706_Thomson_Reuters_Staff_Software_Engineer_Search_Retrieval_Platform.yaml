@@ -1,0 +1,342 @@
+job_id: 12106706
+title: Staff Software Engineer, Search Retrieval Platform
+company: Thomson Reuters
+location: Eagan, USA
+locations:
+  - Eagan, USA
+  - Toronto, CAN
+  - New York, USA
+work_type: FULL_TIME
+company_size: 33,822 Employees
+description: |
+  Staff Software Engineer, Search Retrieval Platform
+
+  Our vision
+
+  We are building the next-generation search platform, with a
+  vision to democratize knowledge construction and consumption
+  at Thomson Reuters. The platform consolidates search systems
+  across Thomson Reuters products and services, serving
+  millions of end users, internal agents, and internal search
+  teams, into a fully managed, customizable, sovereign, and
+  self-serve search platform.
+
+
+
+  Job Description:
+
+  Advanced Content Engineering (ACE) is seeking a Staff
+  Software Engineer to democratize retrieval at Thomson
+  Reuters. You will build the platform capabilities that let
+  any product team, research team, or AI agent get high-
+  quality, customizable search without building it from
+  scratch. That takes customer obsession: understanding what
+  teams need, translating it into reusable platform
+  capabilities, and making retrieval a fully customizable,
+  plug-and-play service.
+
+  You will work closely with product, research engineering,
+  and applied science partners. The scope spans APIs, search
+  services, agents, evaluation and grading, and authentication
+  and security, powering end customers, AI agents, and
+  internal systems at enterprise scale. Staff Engineers here
+  define, build, deploy, and operate what they ship. We ship
+  to production constantly and use AI-assisted development as
+  the norm.
+
+  Key Responsibilities:
+
+  - Turn customer and product needs into platform capabilities,
+    working directly with product teams, client teams, and
+    agent builders to learn what they need and where the
+    platform gets in their way.
+
+  - Design the retrieval APIs and search services that serve end
+    users, AI agents, and internal systems, with consistent
+    contracts, tunable filtering and ranking, predictable
+    latency, and result payloads built for agent context
+    windows.
+
+  - Make retrieval customizable by design: pluggable components
+    for chunking, enrichment, embedding, ranking, and custom
+    models that teams can compose and tune through self-
+    service APIs.
+
+  - Own how content is ingested and indexed on the platform
+    (streaming pipelines, search engine configuration, zero-
+    downtime index changes), so customization reaches all the
+    way down the stack.
+
+  Partner across disciplines
+
+  - Partner with Research Engineering and Applied Science to
+    take new retrieval techniques, such as embedding models,
+    hybrid retrieval, re-ranking, and agentic patterns, from
+    experiment to supported platform capability, with a clear
+    path to production.
+
+  - Work with product and client teams to prioritize the
+    roadmap, bring adoption feedback back into the platform,
+    and reduce time-to-value for new adopters.
+
+  Quality, security, and trust
+
+  - Build evaluation into the platform: offline evaluation,
+    search grading, LLM-as-judge scoring, and online
+    experiments, so every change to retrieval can be measured.
+
+  - Own the security posture of retrieval: multi-tenant data
+    isolation, entitlements enforced at query time, and
+    telemetry that protects user content.
+
+  - Own SLOs, observability, and on-call for what you build,
+    including tracing for agentic retrieval paths, and drive
+    improvements from incident reviews.
+
+  Technical leadership
+
+  - Set architectural direction and design patterns across
+    retrieval, search services, and the APIs teams build on,
+    and act as the technical authority others turn to.
+
+  - Lead cross-team initiatives, set priorities, and make hard
+    trade-offs between near-term product needs and the long-
+    term platform.
+
+  - Mentor Senior and mid-level engineers, and help the team use
+    AI-assisted development effectively.
+
+  Required Qualifications:
+
+  - 8+ years of software engineering experience with progression
+    to staff-level scope, including ownership of a functional
+    area and cross-functional leadership. A degree in Computer
+    Science, Engineering, or a related field, or equivalent
+    experience
+
+  - Experience building search, retrieval, or data-intensive
+    platforms at scale, with strong distributed systems
+    fundamentals, in a language such as Python, Java, or Go
+
+  - Track record translating customer needs into platform
+    capabilities, working across product, engineering, and
+    science
+
+  - Experience designing APIs and services consumed by multiple
+    teams, with attention to contracts, versioning, and
+    developer experience
+
+  - Operational rigor: SLOs, observability, on-call ownership,
+    and learning from incidents
+
+  - Fluency with AI-assisted development tools
+
+  Preferred qualifications:
+
+  - Production experience with search engines such as Vespa,
+    OpenSearch, or Elasticsearch
+
+  - Experience with hybrid (dense and sparse) retrieval,
+    ranking, and embedding pipelines
+
+  - Experience building tools or APIs for AI agents, including
+    agentic retrieval patterns and protocols such as MCP
+
+  - Search evaluation experience: relevance metrics, LLM-as-
+    judge, and online experimentation
+
+  - Multi-tenant authentication, authorization, and entitlements
+
+  - Experience operationalizing ML models in production,
+    including serving, promotion, and monitoring
+
+  What Success Looks Like
+
+  In the first 90 days
+
+  - Learn the platform's retrieval, indexing, and API
+    architecture and its known gaps
+
+  - Build relationships with product, research, and client
+    teams, and understand their top pain points firsthand
+
+  - Take on-call ownership for your area and deliver one
+    meaningful improvement to retrieval quality, reliability,
+    or customizability
+
+  In the first year
+
+  - Deliver a customizable retrieval capability that a client
+    team adopts and configures on its own, without platform
+    team involvement
+
+  - Establish evaluation coverage, SLOs, and runbooks for the
+    retrieval stack
+
+  - Move at least one research innovation from experiment to
+    supported platform capability
+
+  - Become the recognized technical authority for retrieval on
+    the platform, shaping standards and advising leadership
+
+  #LI-SM2
+
+  This posting is for proactive recruitment purposes and may
+  be used to fill current openings or future vacancies within
+  our organization.
+
+  What’s in it For You?
+
+  - Hybrid Work Model: We’ve adopted a flexible hybrid working
+    environment for our office-based roles while delivering a
+    seamless experience that is digitally and physically
+    connected.
+  - Flexibility & Work-Life Balance: Flex My Way is a set of
+    supportive workplace policies designed to help manage
+    personal and professional responsibilities, whether caring
+    for family, giving back to the community, or finding time
+    to refresh and reset. This builds upon our flexible work
+    arrangements, including work from anywhere for up to 8
+    weeks per year, empowering employees to achieve a better
+    work-life balance.
+  - Career Development and Growth: By fostering a culture of
+    continuous learning and skill development, we prepare our
+    talent to tackle tomorrow’s challenges and deliver real-
+    world solutions. Our Grow My Way programming and skills-
+    first approach ensures you have the tools and knowledge to
+    grow, lead, and thrive in an AI-enabled future.
+  - Industry Competitive Benefits: We offer comprehensive
+    benefit plans to include flexible vacation, two company-
+    wide Mental Health Days off, access to the Headspace app,
+    retirement savings, tuition reimbursement, employee
+    incentive programs, and resources for mental, physical,
+    and financial wellbeing.
+  - Culture: Globally recognized, award-winning reputation for
+    inclusion and belonging, flexibility, work-life balance,
+    and more. We live by our values: Obsess over our
+    Customers, Compete to Win, Challenge (Y)our Thinking, Act
+    Fast / Learn Fast, and Stronger Together.
+  - Social Impact: Make an impact in your community with our
+    Social Impact Institute. We offer employees two paid
+    volunteer days off annually and opportunities to get
+    involved with pro-bono consulting projects and
+    Environmental, Social, and Governance (ESG) initiatives.
+  - Making a Real-World Impact: We are one of the few companies
+    globally that helps its customers pursue justice, truth,
+    and transparency. Together, with the professionals and
+    institutions we serve, we help uphold the rule of law,
+    turn the wheels of commerce, catch bad actors, report the
+    facts, and provide trusted, unbiased information to people
+    all over the world.
+
+  Our use of AI within the recruitment process Thomson Reuters
+  utilizes Artificial Intelligence (AI) to support parts of
+  our global recruitment process. Unless you opt-out, our AI
+  system will assess the information provided by you and
+  compare it to the requirements listed for the role, and
+  present the result to our recruitment personnel for further
+  review. The AI system acts as a supporting tool, but there
+  is always a human making the decision if you will be
+  considered for the role.
+
+  In the United States, Thomson Reuters offers a comprehensive
+  benefits package to our employees. Our benefit package
+  includes market competitive health, dental, vision,
+  disability, and life insurance programs, as well as a
+  competitive 401k plan with company match. In addition,
+  Thomson Reuters offers market leading work life benefits
+  with competitive vacation, sick and safe paid time off, paid
+  holidays (including two company mental health days off),
+  parental leave, sabbatical leave. These benefits meet or
+  exceeds the requirements of paid time off in accordance with
+  any applicable state or municipal laws. Finally, Thomson
+  Reuters offers the following additional benefits: optional
+  hospital, accident and sickness insurance paid 100% by the
+  employee; optional life and AD&D insurance paid 100% by the
+  employee; Flexible Spending and Health Savings Accounts;
+  fitness reimbursement; access to Employee Assistance
+  Program; Group Legal Identity Theft Protection benefit paid
+  100% by employee; access to 529 Plan; commuter benefits;
+  Adoption & Surrogacy Assistance; Tuition Reimbursement; and
+  access to Employee Stock Purchase Plan.
+
+  Thomson Reuters complies with local laws that require
+  upfront disclosure of the expected pay range for a position.
+  The base compensation range varies across locations.
+
+  Eligible office location(s) for this role include one or
+  more of the following: New York City, San Francisco, Los
+  Angeles, and/or Irvine, CA; McLean, VA; Washington, DC. The
+  base compensation range for the role in any of those
+  locations is $136,000 USD - $253,000 USD. For any eligible
+  US locations, unless otherwise noted, the base compensation
+  range for this role is $118,400 USD - $219,800 USD. For
+  Ontario, Canada, the base compensation range for this role
+  is $140,600 CAD - $190,600 CAD.
+
+  Base pay is positioned within the range based on several
+  factors including an individual’s knowledge, skills and
+  experience with consideration given to internal equity. Base
+  pay is one part of a comprehensive Total Reward program
+  which also includes flexible and supportive benefits and
+  other wellbeing programs. This role may also be eligible for
+  an Annual Bonus based on a combination of enterprise and
+  individual performance.
+
+  About Us
+
+  Thomson Reuters informs the way forward by bringing together
+  the trusted content and technology that people and
+  organizations need to make the right decisions. We serve
+  professionals across legal, tax, accounting, compliance,
+  government, and media. Our products combine highly
+  specialized software and insights to empower professionals
+  with the data, intelligence, and solutions needed to make
+  informed decisions, and to help institutions in their
+  pursuit of justice, truth, and transparency. Reuters, part
+  of Thomson Reuters, is a world leading provider of trusted
+  journalism and news.
+
+  We are powered by the talents of 26,000 employees across
+  more than 70 countries, where everyone has a chance to
+  contribute and grow professionally in flexible work
+  environments. At a time when objectivity, accuracy,
+  fairness, and transparency are under attack, we consider it
+  our duty to pursue them. Sound exciting? Join us and help
+  shape the industries that move society forward.
+
+  As a global business, we rely on the unique backgrounds,
+  perspectives, and experiences of all employees to deliver on
+  our business goals. To ensure we can do that, we seek
+  talented, qualified employees in all our operations around
+  the world regardless of race, color, sex/gender, including
+  pregnancy, gender identity and expression, national origin,
+  religion, sexual orientation, disability, age, marital
+  status, citizen status, veteran status, or any other
+  protected classification under applicable law. Thomson
+  Reuters is proud to be an Equal Employment Opportunity
+  Employer providing a drug-free workplace.
+
+  Thomson Reuters makes reasonable accommodations for
+  applicants with disabilities, including veterans with
+  disabilities, and for sincerely held religious beliefs in
+  accordance with applicable law. If you reside in the United
+  States and require an accommodation in the recruiting
+  process, you may contact our Human Resources Department at
+  HR.Leave-Expert@thomsonreuters.com. Disability
+  accommodations in the recruiting process may include things
+  like a sign language interpreter, making interview rooms
+  accessible, providing assistive technology, or other
+  relevant accommodations. Please note this email is not
+  intended for general recruitment questions and we will
+  promptly respond to inquiries regarding accommodations. More
+  information on requesting an accommodation here.
+
+  Learn more on how to protect yourself from fraudulent job
+  postings here.
+
+  More information about Thomson Reuters can be found on
+  thomsonreuters.com
+posted_date: 2026-11-06
+url: "https://builtin.com/job/staff-software-engineer-search-retrieval-platform/12106706"
+source: Built In

@@ -1,0 +1,113 @@
+job_id: 9687357
+title: Software Engineer
+company: Codes Health
+location: New York, USA
+work_type: FULL_TIME
+company_size: 12 Employees
+description: |
+  About Codes Health
+
+  We’re fixing one of the most broken and crucial parts of
+  plaintiff litigation: getting complete, accurate medical
+  records. Today, that takes 30 to 50 days of faxing, calling,
+  and portal-chasing across thousands of providers, each
+  running its own back office.
+
+  We deliver records 2-3x faster. To do this, we're building
+  an agentic layer that operates in this messy, real-world
+  environment. Every retrieval teaches our system how to
+  access another corner of American healthcare, building a
+  provider data layer you can't scrape or buy. All while
+  putting us at the most upstream point of a $20B+ market
+  where everything downstream depends on us.
+
+  This problem extends far beyond the plaintiff legal space.
+  It's also pervasive in healthcare, where our CEO Alvaro
+  first encountered it while running a home health agency, as
+  well as in disability services, life sciences/clinical
+  trials, and the insurance industry. All of these verticals
+  face this same challenge.
+
+  “Codes isn’t just participating in the workflow; it’s
+  capturing the moment where the most important data is
+  created, positioning itself to expand from ingestion into
+  orchestration and ultimately own the entire stack.” -
+  Amplify Partners, Boring is Sexy
+
+  We've raised $17.5M from Amplify, General Catalyst,
+  Haystack, and Y Combinator. We serve 130+ law firms across
+  plaintiff litigation and mass tort, including the largest
+  plaintiff firm in the country.
+
+  The Work
+
+  The core challenges are data complexity and reliability
+  under extreme variability.
+
+  You can think about it as reverse-engineering the back
+  office of every healthcare facility in the U.S., then
+  rebuilding it as a system that continuously learns from
+  outcomes and improves across thousands of edge cases.
+
+  That includes:
+
+  - Building agentic systems that run end to end across fax,
+    email, web portals, and physical mail, where each document
+    type triggers a different workflow.
+  - Processing records that average 300 pages, sometimes hit
+    30,000, and run roughly 70% duplicate, and still surfacing
+    what matters to a case.
+  - Matching patients and facilities across messy provider
+    networks, where a single system like NYU Langone is 340+
+    care locations with no clean way to match them.
+
+  We're a lean team where everyone works on everything. The
+  work splits loosely across automating the retrieval
+  pipeline, the customer-facing product law firms use to
+  request and view records, and the applied AI threaded
+  through both.
+
+  You'll move between them as our goals shift, ship customer-
+  facing product one month and go deep on the pipeline the
+  next, and stay close to both the customer and the data.
+
+  Who we're looking for
+
+  This role is open at all levels. You might be a fit if you:
+
+  - Have shipped features start to finish in production and want
+    to own outcomes.
+  - Go deep on the domain: the data systems and the workflows
+    our agents run.
+  - You’ve explored LLMs and are excited about turning them into
+    reliable systems.
+  - Want to talk to users directly and ship off their feedback.
+  - Are excited to apply real engineering rigor to a messy,
+    economically valuable problem.
+
+  You'd work directly with the founders and a small, high-bar
+  engineering team.
+
+  Non-negotiable
+
+  Fully in person in Dumbo, Brooklyn.
+
+  Stack
+
+  TypeScript and React on the frontend. Python and FastAPI on
+  the backend.
+
+  Compensation
+
+  Competitive base salary ($160k -$300K depending on years of
+  experience), early-stage equity, unlimited PTO, and
+  additional benefits such as paid dinner in office and Ubers
+  from the office.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Software
+  - Automation
+posted_date: 2026-07-31
+url: "https://builtin.com/job/software-engineer-all-levels/9687357"
+source: Built In

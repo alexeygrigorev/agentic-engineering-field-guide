@@ -1,0 +1,173 @@
+job_id: 11884811
+title: Senior Software Engineer, Placer Intelligence
+company: Placer.ai
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 800 Employees
+description: |
+  ABOUT PLACER.AI:
+
+  Placer.ai is transforming how organizations understand the
+  physical world. Our location analytics platform provides
+  unprecedented visibility into locations, markets, and
+  consumer behavior. Placer empowers thousands of
+  customers—from Fortune 500 companies, to local governments
+  and nonprofits— to make smarter, data-driven decisions.
+
+  What sets us apart? We've built the most advanced location
+  intelligence platform in the market while maintaining an
+  uncompromising commitment to privacy, proving that powerful
+  analytics and responsible data practices can coexist.
+
+  Our growth reflects the market's demand: we reached $100M in
+  annual recurring revenue within just 6 years of launching,
+  achieved unicorn status with a $1B+ valuation in 2022, and
+  continue to expand rapidly as one of North America's
+  fastest-growing tech companies. We're creating a $100B+
+  market opportunity, and we're just getting started.
+
+  Named one of Forbes America's Best Startup Employers and a
+  Deloitte Technology Fast 500 company, we're building a
+  culture where innovation thrives, collaboration is the norm,
+  and every team member contributes to reshaping how the world
+  understands location.
+
+  SUMMARY:
+
+  We are seeking an experienced Software Engineer,  with deep
+  GenAI expertise to lead our AI product solutions and
+  development efforts. In this role, you will be responsible
+  for driving the technical vision and architecture of our AI-
+  powered location intelligence platform, building production-
+  ready solutions that transform how businesses understand and
+  leverage location data. You will oversee the full-stack
+  development of our conversational AI system, from LLM
+  integration and agentic workflows to real-time streaming
+  interfaces, while establishing the technical foundation for
+  our next-generation business intelligence tools. If you are
+  a technical leader with 10+ years of software development
+  experience, proven success in production GenAI environments,
+  and a passion for building scalable AI platforms that
+  deliver measurable business impact, we want to hear from
+  you.
+
+  RESPONSIBILITIES:
+
+  - Work closely with product, design, and customers. Bring an
+    engineer's view of what to build and how, not just take
+    tickets.
+  - Turn vague requirements into clear technical plans, and
+    adjust as you learn.
+  - Design, build, and ship production features across the full
+    stack: APIs, data models, services, and UI.
+  - Make architecture decisions that balance speed now against
+    maintainability later.
+  - Build AI-powered capabilities into the product: LLM
+    features, retrieval, agents, and tool-calling flows
+    (including MCP), with scoped permissions and failure
+    recovery.
+  - Build evals from real user questions so every prompt or
+    model change is measured before it ships.
+  - Protect AI features against prompt injection, personal-data
+    leaks, and made-up answers.
+  - Keep production healthy: monitoring and tracing (including
+    AI cost and latency), debugging from real traces, and
+    fixing what breaks.
+  - Use AI coding tools (Claude Code, Cursor, or similar) as a
+    core part of how you work, and own the quality, tests, and
+    reliability of what ships.
+  - Raise the engineering bar through code review, sharing what
+    works with AI tools, and improving the team's workflow.
+
+  REQUIREMENTS:
+
+  - 10+ years of software engineering, shipping customer-facing
+    products in production.
+  - Strong full-stack fundamentals: Python (FastAPI or similar),
+    React and TypeScript, relational databases and SQL, and
+    shipping containerized services to the cloud.
+  - Strong system design: data modeling, API design, and
+    production systems that stay reliable, fast, and secure as
+    they grow. You can explain the trade-offs behind your
+    choices.
+  - Hands-on experience shipping LLM-powered features: context
+    engineering (prompts, retrieval, tools, memory), evals,
+    handling model failures, and AI system architecture.
+  - An AI-native workflow: you plan before prompting, work in
+    small reviewable steps, give your agents good context, use
+    tests as the safety net, and can tell when their output is
+    wrong.
+  - Strong product sense: you understand the user's problem,
+    care about the experience, and push back when something
+    doesn't feel right.
+  - High EQ: you listen well, read what stakeholders really
+    need, and can disagree while keeping trust.
+  - Clear communicator with both technical and non-technical
+    people.
+  - Comfortable with ambiguity: you work independently and know
+    when to ask for help.
+
+  NICE TO HAVES:
+
+  - Demonstrated use of AI tools to work more
+    efficiently—whether professionally or personally—and a
+    curiosity for finding new ways to apply them.
+  - Comfort integrating generative AI into day-to-day workflows
+    to boost productivity, quality, and output.
+
+  WHY JOIN PLACER.AI?
+
+  - Join a rocketship! We are pioneers of a new market that we
+    are creating
+  - Take a central and critical role at Placer.ai
+  - Work with, and learn from, top-notch talent
+  - Competitive salary
+  - Excellent benefits
+  - Fully remote
+
+  The U.S. annualized pay range for this position is $160,000
+  - $190,000 USD. In addition, certain roles have the
+  opportunity to earn sales-based commissions. Base pay
+  offered within the stated range may vary depending on
+  multiple individualized factors, including job-related
+  skills, professional experience, education and licenses (if
+  applicable), work location and compensation market data.
+
+  Base pay is just a part of our total rewards program. Placer
+  provides medical, dental and vision coverage as well as
+  flexible time off, 401K and equity awards for certain roles.
+
+  Your recruiter can share more about the specific salary
+  range for your preferred location during the hiring process.
+
+  NOTEWORTHY LINKS TO LEARN MORE ABOUT PLACER
+
+  - About Placer.ai
+  - Placer.ai's $100M round C funding (unicorn valuation!)
+  - See our data in action at The Anchor
+  - Placer.ai in the news
+  - Video: About Placer for Commercial Real Estate
+
+  Placer.ai is committed to maintaining a drug-free workplace
+  and promoting a safe, healthy working environment for all
+  employees.
+
+  Placer.ai is an equal opportunity employer and has a global
+  remote workforce. Placer.ai’s applicants are considered
+  solely based on their qualifications, without regard to an
+  applicant’s disability or need for accommodation. Any
+  Placer.ai applicant who requires reasonable accommodations
+  during the application process should contact Placer.ai’s
+  Human Resources Department to make the need for an
+  accommodation known.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Software
+  - Analytics
+  - Business Intelligence
+  - Big Data Analytics
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-software-engineer-placer-intelligence/11884811"
+source: Built In

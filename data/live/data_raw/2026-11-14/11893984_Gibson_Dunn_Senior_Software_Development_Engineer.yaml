@@ -1,0 +1,275 @@
+job_id: 11893984
+title: Senior Software Development Engineer
+company: Gibson Dunn
+location: New York, USA
+locations:
+  - New York, USA
+  - Washington, USA
+work_type: FULL_TIME
+company_size: 4,160 Employees
+description: |
+  Gibson Dunn is a leading global law firm, advising clients
+  on significant transactions and disputes. Our exceptional
+  teams craft and deploy creative legal strategies that are
+  meticulously tailored to every matter, however complex or
+  high-stakes. The firm’s work is distinguished by a unique
+  combination of precision and vision.
+
+  Based in New York or Washington D.C., the Senior Software
+  Development Engineer will be responsible for designing,
+  architecting, building, and leading the delivery of
+  enterprise applications and shared platform capabilities
+  across the firm. As part of the firm’s strategic investment
+  in artificial intelligence, this role will develop next-
+  generation applications that enable attorneys and business
+  professionals to work more efficiently, uncover insights
+  faster, and deliver exceptional client service.
+
+  The Senior Software Development Engineer will serve as a
+  technical leader, partnering closely with the AI Platform
+  and Data Engineering teams, product owners, attorneys, and
+  business stakeholders to translate complex business needs
+  into scalable software solutions. The role will lead
+  initiatives from rapid prototype through production
+  implementation, with a particular focus on AI-enabled
+  products and applications, agentic workflows, enterprise
+  integrations, and modern software engineering practices.
+
+  Primary applications and platforms include:
+
+  - Microsoft Azure, including Azure App Services, Azure
+    Functions, Azure API Management, Azure SQL, Cosmos DB, and
+    Storage Accounts
+  - C#, .NET, Python, JavaScript, and TypeScript
+  - React, Angular, or similar front end technologies
+  - Large language models, retrieval augmented generation, and
+    AI enabled applications
+  - Agent orchestration frameworks, including LangGraph and
+    Semantic Kernel
+  - Model Context Protocol
+  - Vector and hybrid search technologies
+  - Docker and Kubernetes
+  - Terraform and Bicep
+  - Git based source control and CI/CD platforms
+  - Data pipeline, machine learning, and MLOps tooling
+  - AWS services, including SageMaker, Glue, Athena, Lambda,
+    ECS, and S3
+
+  Responsibilities include:
+
+  Application Development & Architecture
+
+  - Designing, developing, and maintaining enterprise-grade
+    applications, APIs, services, and shared platform
+    capabilities.
+  - Developing AI-enabled solutions that integrate the firm’s
+    proprietary large language models, services, retrieval
+    capabilities, and intelligent agent frameworks into legal
+    and business workflows.
+  - Leading the technical architecture and end-to-end delivery
+    of complex software initiatives from rapid prototyping and
+    proof of concept through production implementation.
+  - Defining technical strategies and architecture patterns that
+    balance scalability, maintainability, security,
+    reliability, and performance.
+  - Translating complex legal and business workflows into
+    scalable technical solutions, including determining where
+    AI-enabled or agent-assisted solutions can provide
+    meaningful value.
+  - Automating manual and email-driven processes through data-
+    integrated workflows and intelligent decision support.
+  - Evaluating emerging technologies and recommending adoption
+    where appropriate.
+
+  AI & Agentic Workflow Engineering
+
+  - Designing and building agentic workflows that plan, invoke
+    tools, and execute multi-step legal and business
+    processes.
+  - Developing tools and Model Context Protocol interfaces that
+    securely connect AI agents with firm systems and data.
+  - Building orchestration capabilities including state
+    management, retries, checkpointing, human review,
+    approvals, and safe recovery for long-running workflows.
+  - Develop, deploy, and maintain AI-powered applications, large
+    language model (LLM) solutions, retrieval-augmented
+    generation (RAG) architectures, intelligent agents, and
+    workflow automation capabilities that support legal and
+    business functions across the firm.
+  - Establishing evaluation, testing, monitoring, and quality
+    standards for AI-enabled and non-deterministic systems.
+  - Partnering with AI Platform Engineering to leverage shared
+    model gateway, retrieval, evaluation, and orchestration
+    services.
+
+  Full-Stack, Data & Integration Engineering
+
+  - Developing modern web applications and services using
+    contemporary front-end and back-end technologies.
+  - Designing reusable application components, services, APIs,
+    microservices, and integration patterns.
+  - Integrating applications with internal platforms, document
+    and knowledge management systems, search services, and
+    other enterprise applications.
+  - Building and maintaining data pipelines that transform
+    structured and unstructured information for retrieval,
+    evaluation, machine learning, and real-time inference.
+  - Applying machine learning, natural language processing, and
+    document-understanding techniques where appropriate.
+  - Partnering with AI Platform Engineering on MLOps practices
+    including model deployment, monitoring, drift detection,
+    and retraining.
+
+  Software Engineering, Security & Operations
+
+  - Establishing and championing engineering standards and best
+    practices including automated testing, CI/CD,
+    observability, release management, and secure development.
+  - Leading technical design and architecture reviews and
+    providing guidance on implementation approaches.
+  - Building solutions in accordance with firm security
+    standards, data governance policies, confidentiality
+    requirements, and client obligations.
+  - Implementing appropriate authentication, authorization,
+    auditing, monitoring, and least-privilege access controls.
+  - Designing appropriate human oversight and safety controls
+    for AI-enabled applications, including protections against
+    prompt injection, data exfiltration, and unintended
+    actions.
+  - Monitoring and optimizing application performance,
+    scalability, reliability, and user experience.
+  - Leading production incident investigations, root cause
+    analyses, and long-term resiliency improvements.
+
+  Collaboration & Technical Leadership
+
+  - Partnering with attorneys, business stakeholders, product
+    owners, architects, and engineers to understand business
+    needs and translate them into technical solutions.
+  - Leading discovery and design discussions to identify high-
+    value automation and AI opportunities.
+  - Presenting technical concepts, solution approaches, business
+    value, and associated risks to executive and non-technical
+    stakeholders.
+  - Mentoring engineers through code reviews, technical
+    coaching, architecture discussions, and design guidance.
+  - Influencing engineering standards, technology roadmaps, and
+    software development best practices across teams.
+  - Building consensus across engineering, infrastructure,
+    information security, and business teams.
+
+  Qualifications:
+
+  - Experience developing applications within Microsoft Azure
+    environments.
+  - Hands-on experience with agent frameworks, orchestration
+    tooling, Model Context Protocol, and evaluation frameworks
+    for non-deterministic systems.
+  - Hands-on experience with a second major cloud platform — for
+    example AWS (SageMaker, Glue, Athena, Lambda, ECS, S3)
+  - Experience with data engineering, machine learning, MLOps,
+    natural language processing, or document-understanding
+    technologies.
+  - Experience delivering technology in regulated or audited
+    environments, including model validation or compliance-
+    driven oversight requirements
+  - Extensive experience designing and developing web
+    applications, APIs, microservices, and distributed
+    systems.
+  - Demonstrated experience designing scalable enterprise
+    architectures and leading technical delivery for complex,
+    cross-functional initiatives.
+  - Experience translating ambiguous business requirements into
+    scalable technical solutions and leading initiatives from
+    prototype through production.
+  - Experience building production software using large language
+    models, including retrieval, tool or function calling, and
+    orchestration of multi-step workflows.
+  - Strong understanding of software architecture, object-
+    oriented design, distributed systems, application
+    performance, and reliability.
+  - Experience with source control, Git workflows, automated
+    testing, CI/CD pipelines, and DevOps practices.
+  - Demonstrated ability to mentor engineers, influence
+    technical direction, and establish engineering standards.
+  - Strong communication skills with demonstrated experience
+    partnering with technical, business, and executive
+    stakeholders.
+
+  Experience:
+
+  - Bachelor’s degree in Computer Science, Software Engineering,
+    Information Systems, or a related technical discipline.
+  - 10 to 15 years of progressive experience designing,
+    developing, and leading the delivery of enterprise
+    software applications.
+  - Strong proficiency in one or more modern programming
+    languages such as C#, .NET, Python, JavaScript, or
+    TypeScript.
+  - Relevant Microsoft Azure, software development, or cloud
+    certifications are a plus.
+
+  Gibson Dunn will consider for employment qualified
+  Applicants with Criminal Histories in a manner consistent
+  with the requirements of local law.
+
+  Compensation & Benefits:
+
+  The annual compensation range for this position is $180,000
+  - $230,000. The salary offered within this range will depend
+  upon qualifications and other operational considerations.
+
+  Benefits offered for this position include health care;
+  retirement benefits; paid days off, including sick time, and
+  vacation time; parental leave; basic life insurance;
+  Flexible Spending Accounts; as well as discretionary,
+  performance-based bonuses.
+
+  ______
+
+  For technical difficulties with our online application,
+  please contact us at staffrecruiting@gibsondunn.com. Our
+  recruiting support team will respond as soon as possible.
+
+  ______
+
+  Gibson Dunn is committed to ensuring equal employment
+  opportunities for all qualified applicants, including
+  individuals with disabilities.  We strive to ensure an
+  inclusive and accessible hiring experience.  The Firm will
+  provide reasonable accommodations to qualified individuals
+  with disabilities to enable participation in the application
+  and recruitment process, unless doing so would impose an
+  undue hardship, in accordance with applicable laws and
+  regulations.
+
+  If you require a reasonable accommodation to complete an
+  application, participate in an interview, or otherwise take
+  part in the recruitment process, please contact us at
+  recruiting-accommodations@gibsondunn.com. Please note, this
+  is a dedicated email inbox established exclusively to assist
+  applicants with accommodation request related to the
+  recruitment process.  Inquiries about the status of an
+  application or other non-accommodation matter will not
+  receive a response.
+
+  ______
+
+  Notice to Recruitment Agencies: Gibson Dunn does not accept
+  unsolicited resumes from recruitment agencies, headhunters,
+  or vendors. Resumes sent to any Gibson Dunn employee or
+  attorney, or submitted by an agency through the direct
+  candidate application portal will not establish agency
+  ownership of the candidate and Gibson Dunn will not be
+  expected to honor an agency’s terms or pay any related fees.
+  When a role is open for agency submissions, Gibson Dunn will
+  notify our current agency partners and make the position
+  available through our Agency Portal in Greenhouse. Only
+  agencies that have been given portal access are authorized
+  to submit candidates for consideration. Agencies without a
+  current agreement that wish to be considered for future
+  opportunities may contact staffrecruiting@gibsondunn.com.
+  Please do not send resumes to this address.
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-software-development-engineer/11893984"
+source: Built In

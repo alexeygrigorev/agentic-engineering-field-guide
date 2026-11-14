@@ -1,0 +1,226 @@
+job_id: 11481565
+title: Senior Backend Engineer - Data Core (remote, Europe)
+company: Modash
+location: Berlin, DEU
+locations:
+  - Berlin, DEU
+  - Bucharest, ROU
+  - Tallinn, EST
+  - Prague, CZE
+  - Cracow, POL
+  - Vilniaus miesto, LTU
+remote: true
+work_type: FULL_TIME
+company_size: 56 Employees
+description: |
+  Hey, I'm Andrei. I’m hiring a Senior Backend Engineer to
+  join the Data Core team at Modash.
+
+  Modash helps brands find, understand, and work with creators
+  across Instagram, TikTok, and YouTube. More than 2,700
+  companies (including Stanley 1913, Sennheiser, and NordVPN)
+  use us to manage and scale their creator partnerships.
+
+  Every one of those products depends on fresh, reliable
+  creator data. Data Core owns the systems that collect and
+  maintain profiles for 400M+ creators across social
+  platforms, process billions of data points, and keep the
+  rest of Modash supplied with the raw material it needs.
+
+  That’s where you come in.
+
+  Why we're hiring
+
+  Data Core isn't an internal support team. It owns the
+  collection infrastructure that the entire Modash product
+  (and every downstream data team) depends on.
+
+  Collecting social data at this scale is a hard distributed-
+  systems problem. APIs change without warning. Providers
+  become unreliable. Platforms rate-limit requests. Data grows
+  stale. A tiny inefficiency becomes expensive when repeated
+  hundreds of millions of times.
+
+  We need a senior engineer who can design resilient services,
+  make thoughtful tradeoffs between coverage, freshness,
+  reliability, and cost, and take production-critical systems
+  from a rough idea to dependable operation.
+
+  You’ll join the specialised Data Core team and work closely
+  with Data Search, Data Insights, product teams, and company
+  leadership. You’ll have real ownership, but you won’t work
+  in isolation.
+
+  If you want a feel for how we think about building software,
+  check our Engineering Blog.
+
+  What you'll actually own
+
+  1. Keep creator data flowing at massive scale.
+
+  You’ll build and evolve the systems that collect and
+  maintain 400M+ creator profiles across Instagram, TikTok,
+  and YouTube, keeping billions of data points fresh enough
+  for search, analytics, APIs, and customer-facing products.
+
+  2. Make collection resilient when the outside world isn't.
+
+  You’ll design services that handle third-party API
+  instability, rate limits, provider outages, platform
+  changes, and partial failures without turning every
+  disruption into a customer incident.
+
+  3. Improve the economics of collection.
+
+  At this scale, every request, proxy call, retry, storage
+  decision, and compute cycle matters. You’ll improve coverage
+  and freshness while keeping the system financially
+  sustainable.
+
+  4. Own production, not just the code.
+
+  You’ll shape the problem, design the architecture, write and
+  review the code, ship it, observe it, and improve it. You’ll
+  build the monitoring and operational safeguards that catch
+  gaps and regressions before customers do.
+
+  What the day-to-day looks like
+
+  Here’s what a typical week might include:
+
+  - Monday. A social platform has changed its behaviour
+    overnight. Collection success has dropped, but only for
+    part of the traffic. You trace the failure pattern,
+    protect downstream freshness, and design a resilient fix
+    rather than a brittle patch.
+  - Tuesday. Deep-focus time. You redesign part of the
+    subscription system that decides which creators to
+    collect, when, and how often, balancing customer value
+    against request and compute cost.
+  - Wednesday. You pair with a Data Search engineer on an
+    indexing dependency. Together, you agree on a cleaner
+    contract that improves freshness without coupling the two
+    teams’ systems.
+  - Thursday. You review a new request-routing approach across
+    proxy providers. You model throughput, failure modes, and
+    unit economics before shipping a small production
+    experiment.
+  - Friday. An observability review reveals a slow coverage
+    regression that existing alerts missed. You improve the
+    data-quality checks so the team catches the next one
+    before it reaches customers.
+
+  We keep meetings purposeful and protect time for deep work.
+  You’ll have a short standup, close collaboration when it
+  helps, and plenty of space to design, build, harden, and
+  operate systems.
+
+  RequirementsWhat you've done before
+
+  - Built large-scale backend or data systems. You have solid
+    experience with high-volume services where reliability,
+    throughput, latency, and cost all matter.
+  - Shipped systems from concept to production. You’ve owned
+    scoping, architecture, implementation, release, operation,
+    and iteration, not just one layer of the solution.
+  - Designed distributed systems. You can reason clearly about
+    partial failure, retries, idempotency, backpressure,
+    scaling, and operational tradeoffs.
+  - Built resilient integrations. You’ve worked with third-party
+    APIs or other external dependencies that are rate-limited,
+    unstable, or liable to change.
+  - Taken operational ownership. You care about observability,
+    alerting, runbooks, and what happens after deployment, not
+    just whether the code merged.
+  - Worked autonomously on ambiguous problems. You know how to
+    gather requirements, ask useful questions, and make
+    progress without waiting for a perfectly specified ticket.
+  - Communicated clearly across teams. You can explain
+    tradeoffs, give direct feedback, and collaborate without
+    creating unnecessary process.
+
+  Bonus points if you’ve worked with social-media APIs, data-
+  quality frameworks, large-scale collection systems, or
+  freshness and coverage monitoring. Curiosity about the
+  creator economy helps too, but we’ll get you up to speed.
+
+  Our stack
+
+  - AWS, with Pulumi for infrastructure as code
+  - TypeScript and Node.js as the primary languages
+  - Aurora Limitless/Postgres for subscription and collection
+    state
+  - S3 for raw data-lake storage
+  - CloudWatch for observability and alerting
+  - Proxy networks and custom routing layers
+  - ECS, SQS, Athena, and other AWS services
+  - Slack, GitHub, Linear, Notion, and Cursor
+
+  The interview process
+
+  We move quickly and can complete the process in under a
+  week:
+
+  - Intro chat
+  - Coding interview
+  - System design interview
+  - Team interview
+  - Culture and alignment conversation with our CEO, Avery
+    Schrader
+
+  BenefitsWhat we offer
+
+  - Fully remote in Europe 🏠 Work from wherever you do your best
+    work, with some overlap with GMT+3.
+  - Compensation. Your compensation is made up of salary and
+    stock options. As we're growing fast, the stock option
+    package is especially significant. Annual salary range is
+    80,000€ - 110,000€ for this role. We hire across Europe,
+    so the exact number depends on your location, employment
+    type, skills, and experience.
+  - Flexible hours ⏱ We care about outcomes, not when you log
+    on.
+  - Unlimited paid vacation 🌴 If you’re rested and happy, you do
+    better work. Take what you need.
+  - Personal development support 🧠 Courses, books, and
+    conferences are on us when they help you grow.
+  - Real ownership 💡 Take production-critical infrastructure
+    from idea to operation without layers of unnecessary
+    process.
+  - Regular offsites ✈️ We’re remote-first, but we make time to
+    connect, collaborate, and have fun together in person.
+
+  And a little more about us...
+
+  Founded in 2018 by a high-school dropout and a Canadian
+  (yes, we’re also shocked it’s going so well), Modash is
+  building a suite of tools that help brands scale
+  partnerships with online content creators.
+
+  2,700+ companies like Stanley 1913, Sennheiser, and NordVPN
+  already use Modash to manage and scale their influencer
+  marketing work. And we're just getting started. Over the
+  coming decade, brand investment in creators will continue to
+  boom, and Modash will be at the centre of it all.
+
+  Modash is here to stay. We have 8-figures in ARR across two
+  products, a $12M series A investment, and we are default
+  alive. We are building a company that will still be here in
+  20 years; not rushing towards an exit.
+
+  We’re almost 100 people distributed across 20+ countries,
+  operating with a fast, async-first culture. If you join
+  Modash, you’ll be surrounded by people who truly want to be
+  the greatest at their craft. People who make you better.
+  Interesting people too, who have done everything from
+  building solar cars, to hanging out with Metallica and Bon
+  Jovi.
+
+  Come join us. Be great, do great things, create great
+  memories, all while making a great impact. Do it.
+industries:
+  - Marketing Tech
+  - Software
+posted_date: 2026-10-02
+url: "https://builtin.com/job/senior-backend-engineer-data-core-remote-europe/11481565"
+source: Built In

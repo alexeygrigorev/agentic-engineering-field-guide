@@ -1,0 +1,148 @@
+job_id: 11194453
+title: "Senior Manager, Cluster Engineering & Deployment"
+company: TensorWave
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 56 Employees
+description: |
+  About TensorWave
+
+  Our mission is simple: deliver seamless, secure, reliable,
+  and resilient AI compute at scale. We've built a versatile
+  cloud platform that eliminates infrastructure barriers,
+  empowering builders to focus on innovation instead of
+  fighting their stack. Because breakthrough AI should move at
+  the speed of ideas, not infrastructure.
+
+  About the Role
+
+  The Senior Manager, Cluster Engineering & Deployment owns
+  and runs the machine that turns delivered racks into
+  accepted clusters: network bring-up, fabric cabling
+  verification against port maps, GPU node integration with
+  the fabric, cluster-level validation and burn-in (including
+  RCCL/collective performance), and the acceptance gate into
+  production. This is one of the most schedule-critical roles
+  in the pillar cluster revenue starts when this team says a
+  cluster is ready.
+
+  What You’ll Do
+
+  - Own the cluster deployment playbook and drive its evolution:
+    staged bring-up, automated config push, link/optics
+    validation, cabling verification against L1 port maps, and
+    fault triage during deployment windows.
+  - Lead deployment engineering across concurrent cluster
+    builds, through team leads and on-site engineers;
+    coordinate daily with Data Center Integration field teams
+    and cabling vendors.
+  - Drive deployment velocity engineering: cut bring-up time per
+    cluster through tooling, pre-staging, and defect-source
+    elimination, and set the targets the team is measured
+    against.
+  - Own defect feedback loops to Network Engineering (design),
+    Layer One (cabling quality), and vendors (hardware/optics
+    RMA patterns), holding those partners accountable to
+    resolution.
+  - Define spares, test equipment, and deployment tooling
+    requirements per site, and standardize them across sites.
+
+  Who You Are
+
+  Required Qualifications
+
+  - 10+ years across network deployment, cluster/HPC bring-up,
+    or large-scale infrastructure delivery, including managing
+    engineers in a field/deployment setting.
+  - Hands-on fabric bring-up experience at scale (hundreds of
+    switches / thousands of links per deployment).
+  - Strong operational rigor: building and enforcing playbooks,
+    gates, metrics, and blameless defect loops.
+  - Team leadership with schedule accountability across multiple
+    concurrent builds or sites.
+
+  Preferred Qualifications
+
+  - GPU cluster validation experience (NCCL/RCCL benchmarking).
+  - Automation skills (Python, Ansible) applied to deployment.
+  - Optics/link-layer debugging depth.
+  - Experience with acceptance testing as a commercial gate
+    (revenue-linked).
+  - Own cluster validation end to end: bandwidth/latency
+    baselines, collective (RCCL) performance tests, burn-in
+    criteria, and go/no-go acceptance gates and raise the bar
+    on each as the fleet scales.
+
+  What We Offer
+
+  - Stock Options
+
+  - 100% paid Medical, Dental, and Vision insurance for
+    Employees
+
+  - Company Health Savings Account Contributions
+
+  - 100% paid Short Term and Long Term Disability Insurance for
+    Employees
+
+  - Life and Voluntary Supplemental Insurance Options
+
+  - Other Insurance Options, such as Pet & Legal Insurance
+
+  - Various Supplementary Health Benefits, such as discounted
+    Virtual Healthcare Appointments and Serious Illness
+    Support
+
+  - Flexible Spending Account
+
+  - 401(k)
+
+  - Employee Assistance Program
+
+  - Flexible PTO
+
+  - Paid Holidays
+
+  - Parental Leave
+
+  - Other In-Office Perks
+
+  Equal Employment Opportunity
+
+  TensorWave is an Equal Opportunity Employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees. We do not discriminate on the
+  basis of any protected status under applicable law.
+
+  Reasonable Accommodations
+
+  TensorWave provides reasonable accommodations in accordance
+  with applicable laws. If you require accommodation during
+  the hiring process, please contact
+  accomodations@tensorwave.com.
+
+  Employment Eligibility
+
+  All offers of employment are contingent upon verification of
+  identity and authorization to work in the United States, as
+  required by law.
+
+  Background Checks
+
+  Where permitted by law, employment may be contingent upon
+  the successful completion of a job-related background check.
+
+  Data Privacy Notice
+
+  By submitting an application, you acknowledge that
+  TensorWave may collect, use, and retain your personal
+  information for recruiting and employment-related purposes
+  in accordance with applicable data privacy laws.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Software
+posted_date: 2026-09-15
+url: "https://builtin.com/job/senior-manager-cluster-engineering-deployment/11194453"
+source: Built In

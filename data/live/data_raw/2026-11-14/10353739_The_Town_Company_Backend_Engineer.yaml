@@ -1,0 +1,100 @@
+job_id: 10353739
+title: Backend Engineer
+company: The Town Company
+location: New York, USA
+work_type: FULL_TIME
+company_size: 17 Employees
+description: |
+  About Town
+
+  Town is building the AI coworker for every team. Everyone
+  gets their own Townie, an AI assistant that learns how you
+  work (your voice, judgment, relationships, and priorities)
+  and does real work on your behalf across email, calendar,
+  docs, Slack, and CRM. Townies don't wait to be prompted.
+  They observe, learn, and act. And because every teammate has
+  one, Townies can ask each other questions and hand off work,
+  so the whole team moves faster together.
+
+  Four months after our public launch, we became a $1B
+  company. We recently raised a $108M Series B, co-led by
+  Forerunner Ventures and Menlo Ventures, with continued
+  support from Andreessen Horowitz, First Round Capital and
+  angels such as Zach Perret, Soleio Cuervo, Scott Belsky, and
+  more. Our founders, Jean-Denis and Tony, previously led EPD
+  at Plaid and applied AI product at Google.
+
+
+
+  About the Role
+
+  The core technical challenge at Town is: context from
+  everywhere, action anywhere. The assistant pulls from your
+  email, calendar, Slack, docs, and connected tools to build a
+  deep understanding of who you are and what you need -- then
+  executes reliably across all of them.
+
+  Town's AI assistant goes beyond a solid harness and decent
+  tool integrations. It has memory that compounds over time, a
+  suggestion engine that discovers what to automate before you
+  think to ask, and network effects where your assistant gets
+  better because your colleagues are using Town too. These are
+  the systems you'll build.
+
+  You'll be a foundational hire, working across the full
+  backend -- from LLM orchestration and workflow execution to
+  the identity and knowledge layer that makes every
+  interaction smarter than the last. Everyone has direct
+  influence over architecture decisions. There's no platform
+  team to hand things off to -- you own it end to end. The
+  environment is greenfield, and the problems are unlike
+  traditional backend engineering: non-deterministic, cost-
+  sensitive LLM workloads; real-time personalization across a
+  growing knowledge graph; agent-to-agent protocols that work
+  across organizational boundaries.
+
+
+
+  Example projects include...
+
+  - Building the orchestration layer for agentic workflows
+  - Building multi-provider LLM infrastructure
+  - Rethinking email, calendar, and contacts as AI-native
+    experiences
+  - Designing the identity and knowledge layer
+  - Architecting agent networks
+  - Building the trust and autonomy system
+  - Defining what service ownership
+
+  You might thrive in this role if you...
+
+  - Have built and scaled backend systems through a company's
+    high-growth arc -- you were there during the inflection,
+    not after. We want to hear all your your concrete product
+    scaling stories.
+  - Are comfortable defining technical direction in ambiguous,
+    fast-moving environments -- not just executing within one
+  - Think in systems -- distributed systems, data pipelines,
+    APIs, reliability. You're drawn to infrastructure-level
+    problems and the tradeoffs that come with them.
+  - Have tuned your AI-native coding workflow that makes you
+    dramatically faster and more effective.
+  - Have experience with LLM infrastructure, agentic systems, or
+    real-time AI workloads in production
+  - Care about trajectory over tenure. We're less interested in
+    years of experience than how fast you got here and what
+    you built along the way.
+  - Are excited about working in-person, five days a week. We
+    believe it matters at this stage.
+
+
+
+  Location
+
+  5 days per week in person, in either SF or NYC
+industries:
+  - Food
+  - Hospitality
+posted_date: 2026-08-18
+url: "https://builtin.com/job/staff-backend-engineer/10353739"
+source: Built In

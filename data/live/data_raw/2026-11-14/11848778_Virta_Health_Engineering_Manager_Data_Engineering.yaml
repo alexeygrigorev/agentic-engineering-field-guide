@@ -1,0 +1,227 @@
+job_id: 11848778
+title: Engineering Manager, Data Engineering
+company: Virta Health
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 340 Employees
+description: |
+  Virta Health is on a mission to reverse metabolic disease in
+  one billion people. Current treatment approaches aren’t
+  working—over half of US adults have either type 2 diabetes
+  or prediabetes, and obesity rates are at an all-time high.
+  Virta is changing this by helping people reverse their
+  metabolic condition through innovations in technology,
+  personalized nutrition, and virtual care delivery reinvented
+  from the ground up. We have raised over $350 million from
+  top-tier investors, and partner with the largest health
+  plans, employers, and government organizations to help their
+  employees and members restore their health and take back
+  their lives. Join us on our mission to reverse metabolic
+  disease in one billion people.
+
+  About the Role
+
+  As Engineering Manager for Data Engineering, you will lead
+  and grow the team responsible for the data foundations that
+  support Virta’s business, care delivery, and AI
+  capabilities. You will take over an established team with
+  deep technical and business knowledge and help shape its
+  next stage of growth. The team is composed of both Data
+  Engineers (platform) and Analytics Engineers (models). You
+  will be accountable for reliable pipelines, platform
+  tooling, and engineering standards, as well as reusable
+  analytical models, semantic definitions, and the Looker
+  experiences that help people make decisions. Both
+  disciplines are core to the role, with distinct skills and
+  career paths to develop.
+
+  Your initial priorities will be completing our data and
+  analytics modernization, expanding self-service, and
+  enabling agents and ML to use trusted data. Our stack
+  includes BigQuery, dbt Cloud, and Looker/LookML. You will
+  work directly with stakeholders to understand their needs,
+  set priorities, and measure adoption. Strong engineers will
+  be your partners in delivery; you should be comfortable
+  getting into the technical details when decisions or
+  problems require it.
+
+  Responsibilities:
+
+  - Lead and grow both engineering disciplines. Coach data
+    engineers and analytics engineers, set clear expectations,
+    and support their technical and career growth. Assess the
+    team’s needs and use additional planned hires to build the
+    right mix of capabilities.
+  - Complete the data and analytics migration. Lead the
+    remaining BigQuery medallion architecture and Looker Core
+    rollout, including validation, stakeholder onboarding, and
+    retirement of legacy paths. Preserve confidence in
+    business metrics throughout the transition.
+  - Own discovery, priorities, and delivery. Build relationships
+    with Engineering, Analytics, Finance, Commercial, and
+    Clinical partners. Translate their needs into a focused
+    roadmap, resolve competing priorities, and balance planned
+    work with operational support.
+  - Expand self-service. Build reusable ingestion and
+    transformation patterns, tooling, documentation, and
+    standards that help engineering and analytics teams
+    produce and use trustworthy data with less central
+    coordination.
+  - Own analytics engineering quality. Guide the development of
+    reusable dbt models, shared semantic definitions, and
+    LookML. Partner with domain experts to establish
+    consistent business meaning and create datasets that serve
+    multiple use cases.
+  - Advance data capabilities for agents and ML. Build and
+    operate data agents, and provide governed datasets,
+    semantic context, and tools for agents built by other
+    teams. Partner with Applied AI and MLOps on the data
+    access, quality, and interfaces needed for their ML
+    workflows.
+  - Improve reliability and governance. Establish clear
+    ownership, testing, freshness expectations, actionable
+    alerts, and incident practices. Partner with Security and
+    Infrastructure on access controls, PHI/PII protection,
+    lineage, and cost management.
+  - Improve how the team works. Apply AI-assisted development
+    and automation where they reduce toil and improve
+    delivery, with validation that protects data correctness.
+    Use adoption, migration progress, reliability, and
+    stakeholder feedback to assess impact.
+
+  Requirements:
+
+  - 3+ years of engineering management experience, including
+    direct leadership of both data engineering and analytics
+    engineering work. Deep expertise in one discipline is
+    sufficient if you have successfully led and developed
+    engineers in the other.
+  - Strong technical judgment across data pipelines, cloud
+    warehouses, SQL and data modeling, transformation
+    frameworks, orchestration, and BI or semantic layers. You
+    can review designs and code, investigate difficult
+    problems, and make sound tradeoffs with experienced
+    engineers.
+  - Experience leading a significant data platform or analytics
+    migration, including data validation, stakeholder
+    adoption, and operational continuity.
+  - Experience owning stakeholder discovery and roadmap
+    prioritization without relying on a dedicated product
+    manager. You can understand a business problem, challenge
+    assumptions, and turn competing requests into an
+    achievable plan.
+  - A track record of building reusable capabilities and helping
+    other teams adopt them. You can balance shared standards
+    with the needs of different business domains.
+  - Experience hiring, coaching, and managing performance across
+    different engineering skill sets, and building
+    collaborative teams in a remote or asynchronous
+    environment.
+  - Clear communication with technical and business audiences,
+    with experience connecting team priorities to company
+    outcomes and using evidence to guide decisions.
+
+  Bonus Points For…
+
+  - Experience with BigQuery, dbt Cloud, Looker/LookML, GCP,
+    Python, Go, or infrastructure as code.
+  - Experience building data agents, governed natural-language
+    analytics, semantic layers for AI, or data capabilities
+    that support production ML systems.
+  - Experience introducing AI-assisted development workflows
+    with effective testing and review practices.
+  - Experience in healthcare or another regulated industry,
+    including sensitive-data governance and access controls.
+
+  90 Day Plan
+
+  An example of what your first 90 days at Virta could include
+  is:
+
+  - By Day 45: Build relationships with the team and its
+    stakeholders, understand the migration and operational
+    workload, and establish individual growth goals. Assess
+    capability gaps across both disciplines and define
+    profiles for additional hires.
+  - By Day 60: Align stakeholders on the next migration
+    milestones and the highest-value self-service and agent/ML
+    opportunities. Establish success measures, clarify
+    ownership with Applied AI and MLOps, and begin delivery on
+    a prioritized improvement.
+  - By Day 90: Deliver a meaningful migration milestone or self-
+    service improvement with measurable user adoption. Align
+    the next two quarters of work in the team’s Now/Next/Later
+    roadmap, with a clear path for data agents and ML
+    enablement, and advance hiring against the agreed team
+    needs.
+
+  Values-driven culture
+
+  Virta’s company values drive our culture, so you’ll do well
+  if:
+
+  - You put people first and take care of yourself, your peers,
+    and our patients equally
+  - You have a strong sense of ownership and take initiative
+    while empowering others to do the same
+  - You prioritize positive impact over busy work
+  - You have no ego and understand that everyone has something
+    to bring to the table regardless of experience
+  - You appreciate transparency and promote trust and
+    empowerment through open access of information
+  - You are evidence-based and prioritize data and science over
+    seniority or dogma
+  - You take risks and rapidly iterate
+
+  Is this role not quite what you're looking for? Join our
+  Talent Community and follow us on Linkedin to stay
+  connected!
+
+  As part of your duties at Virta, you may come in contact
+  with sensitive patient information that is governed by
+  HIPAA. Throughout your career at Virta, you will be expected
+  to follow Virta's security and privacy procedures to ensure
+  our patients' information remains strictly confidential.
+  Security and privacy training will be provided.
+
+  Virta has a location based compensation structure. Starting
+  pay will be based on a number of factors and commensurate
+  with qualifications & experience. For this role, the
+  compensation range is $175,000-228,000. Information about
+  Virta’s benefits is on our Careers page at:
+  https://www.virtahealth.com/careers.
+
+  #LI-remote
+
+  As part of your duties at Virta, you may come in contact
+  with sensitive patient information that is governed by
+  HIPAA. Throughout your career at Virta, you will be expected
+  to follow Virta's security and privacy procedures to ensure
+  our patients' information remains strictly confidential.
+  Security and privacy training will be provided.
+
+  As a remote-first company, our team is spread across various
+  locations with office hubs in Denver and San Francisco.
+
+  Clinical roles: We currently do not hire in the following
+  states: AK, HI, RI
+
+  Corporate roles: We currently do not hire in the following
+  states: AK, DE, HI, ME, MS, OK, SD, VT.
+
+  Virta uses Ashby as its applicant tracking system, which
+  incorporates AI-powered tools (provided by OpenAI, AWS, and
+  Google Gemini) in certain aspects of the recruiting process,
+  including application review, candidate screening, and
+  interview note taking; your data is not used to train AI
+  models, and all final hiring decisions are made by Virta
+  Health personnel. For more information, see Virta’s AI
+  Interview Resources page.
+  https://www.virtahealth.com/careers/ai-interview-resources
+industries:
+  - Healthtech
+  - Social Impact
+posted_date: 2026-10-23
+url: "https://builtin.com/job/engineering-manager-data-engineering/11848778"
+source: Built In

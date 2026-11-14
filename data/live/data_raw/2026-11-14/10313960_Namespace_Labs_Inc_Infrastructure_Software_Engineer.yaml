@@ -1,0 +1,121 @@
+job_id: 10313960
+title: Infrastructure Software Engineer
+company: Namespace Labs Inc
+location: DEU
+locations:
+  - DEU
+  - CHE
+  - GBR
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  Join our mission
+
+  We're proud to work with many incredible companies,
+  accelerating their ability to build their products.
+
+  We've spent years watching talented engineering teams lose
+  momentum to the same frustrating bottleneck: waiting.
+  Waiting for CI to finish. Waiting for builds to complete.
+  Waiting for tests to run.
+
+  After experiencing this pain firsthand at companies of every
+  size, we set out to build the developer infrastructure
+  platform we'd always wanted to use. Something that would
+  seamlessly integrate with our workflows and the tools teams
+  already love—but make everything dramatically faster and
+  more cost-effective.
+
+  Today, we're already accelerating hundreds of companies
+  around the world, helping them ship features instead of
+  waiting for infrastructure. We've built something that feels
+  almost magical in its simplicity: change your runs-on line,
+  mount your toolchain cache directory and suddenly your
+  builds are 5x faster.
+
+  About the role
+
+  Namespace's approach is low-friction, designed for immediate
+  integration into existing developer toolchains, empowering
+  teams to experience tangible results within just five
+  minutes. With an end-to-end stack optimized for high
+  performance—including compute, memory, storage, and
+  networking—Namespace delivers capabilities and efficiencies
+  unmatched by traditional cloud providers.
+
+  Own the software that drives our hardware. You'll write the
+  control planes, automation, and observability that keep our
+  global fleet fast, efficient, and reliable, while charting a
+  path to scale that continues to increase the number of
+  "machines under management" per engineer.
+
+  Our culture
+
+  We're looking for people with grit—people who push through
+  ambiguity, take ownership, and keep going when things get
+  hard. You're deeply curious, driven to understand how things
+  work and how they can be improved. Most importantly, you
+  have a strong bias to execution: you don't wait for perfect
+  conditions, you ship, learn, and iterate quickly. If you
+  care about building, moving fast, and making real impact,
+  you'll fit right in.
+
+  What you'll do
+
+  - Manage and automate the fleet – build services for
+    provisioning, health checks, upgrades, and incident
+    remediation
+  - Uphold reliability – embed observability, graceful
+    degradation, and rollback paths into every layer you touch
+  - Architect the network – design and evolve a high-throughput,
+    low-latency fabric tailored to our high performance use-
+    cases
+  - Ship software, not scripts – develop clean, testable code
+    (mostly Go) that treats our fleet like a first-class API
+  - Drive efficiency – improve utilization and power-to-
+    performance ratios so capacity grows slower than usage
+  - Partner across the stack – work with product, infra, and
+    platform teams to scope and deliver features like storage-
+    aware scheduling, cache volumes, and other developer-
+    facing features
+
+  What we're looking for
+
+  - Proven experience engineering large-scale infrastructure -
+    writing the software that runs fleets, not just operating
+    existing hyperscalers
+  - Depth in network architecture, data-center design, and
+    performance tuning
+  - Hands-on time deploying and managing compute hardware at
+    scale (servers, switches, etc)
+  - Fluency with modern orchestration and automation tooling
+    (Kubernetes, Terraform, Ansible - plus the judgment to
+    know when to build vs. buy)
+  - A track record of delivering reliable systems and measurable
+    efficiency gains
+
+  You can expect:
+
+  - Competitive salary and stock options
+  - Flexible working hours
+  - Market-leading parental leave
+
+  Life at Namespace Labs:
+
+  - We pride ourselves in being a small team of experts that can
+    achieve a lot.
+  - We balance our long-term vision with short-term pragmatism.
+  - We believe in being fully transparent internally on how
+    decisions are made, on how the company is doing, and we
+    use that information to drive our decisions.
+industries:
+  - Cloud
+  - Productivity
+  - Software
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-08-17
+url: "https://builtin.com/job/infrastructure-software-engineer/10313960"
+source: Built In

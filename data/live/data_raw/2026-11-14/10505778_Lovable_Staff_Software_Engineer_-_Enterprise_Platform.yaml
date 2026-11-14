@@ -1,0 +1,156 @@
+job_id: 10505778
+title: Staff Software Engineer - Enterprise Platform
+company: Lovable
+location: London, GBR
+work_type: FULL_TIME
+company_size: 351 Employees
+description: |
+  TL;DR
+
+  We're looking for a Staff Software Engineer to help define
+  the future of Lovable Enterprise.
+
+  Some of the world's largest companies are already building
+  with Lovable. Now we're building the platform that allows
+  them to deploy Lovable securely, reliably, and on their own
+  terms.
+
+  How do you let an enterprise customer deploy Lovable inside
+  their own cloud without slowing product development? How do
+  you build a platform that works seamlessly across AWS,
+  Azure, and Google Cloud without compromising security or
+  developer experience? Those are the kinds of problems you'll
+  solve.
+
+  You'll define the technical direction for the platform that
+  powers Lovable Enterprise—from cloud architecture and
+  sandboxing to networking, encryption, and identity.
+
+  Why Lovable?
+
+  Lovable is the software creation platform that gives people
+  the power to act on the problems closest to them. For
+  decades, turning an idea into software required so much
+  capital, technical fluency, and time that many ideas never
+  came to life. Lovable is the counterargument: a platform for
+  all people with ideas, ambition, and problems worth solving.
+  From solopreneurs to small business owners to teams at
+  companies like Adidas and Zendesk, people have built over 60
+  million projects on Lovable since its launch in November
+  2024. And we’re just getting started.
+
+  We’re building a generational company from Stockholm, with
+  growing teams in London, Boston, New York, and San
+  Francisco. Our team is small, talent-dense, and moving
+  quickly, with a culture rooted in extreme ownership, high
+  velocity, and low-ego collaboration. We look for people who
+  care deeply, ship fast, and are eager to make a dent in the
+  world.
+
+  Lovable is one of TIME’s 100 Most Influential Companies and
+  has been recognized on the Forbes AI 50 and CNBC Disruptor
+  50, reflecting our momentum as one of Europe’s fastest-
+  growing AI companies and one of the most ambitious places to
+  build in this next era of software.
+
+  Why join now?
+
+  Very few engineering roles offer this level of ownership.
+  You'll help define a platform rather than inherit one. Many
+  of the hardest architectural decisions haven't been made
+  yet, giving you the opportunity to shape the foundation of
+  Lovable Enterprise alongside engineering leadership.
+
+  Whether you've been a Staff Engineer, Principal Engineer,
+  founding engineer, or CTO, we're looking for someone who's
+  already operated with this level of ownership—and wants to
+  do it again on an even bigger stage.
+
+  What you'll do
+
+  You'll define the technical direction for the platform that
+  lets enterprise customers run Lovable securely and at scale.
+
+  You'll spend your time writing software, making architecture
+  decisions, mentoring engineers, and working directly with
+  customers on problems that don't have established playbooks.
+  Examples include:
+
+  - Defining the architecture for enterprise deployments across
+    AWS, Azure and Google Cloud, including deployments into
+    customer-controlled environments.
+  - Building cloud-agnostic systems that give customers
+    flexibility in how and where they run Lovable.
+  - Designing secure sandboxing and runtime environments for
+    running untrusted code at scale.
+  - Setting the technical bar for networking, encryption,
+    identity and enterprise infrastructure.
+  - Building the internal platform that helps our engineering
+    teams ship faster.
+  - Mentoring engineers and raising the engineering bar across
+    the organisation.
+  - Working directly with enterprise customers and cloud
+    providers on complex infrastructure challenges.
+
+  What we're looking for
+
+  We're looking for a Staff-level (or equivalent) Software
+  Engineer with deep platform and infrastructure experience
+  who have set technical direction before. This is a role for
+  engineers who enjoy building software that powers
+  infrastructure, if you’re from a traditional DevOps
+  background this is less likely to be a good fit.
+
+  This is the role for you if you have:
+
+  - Strong programming skills in Go or Rust, or a comparable
+    systems language (C++, Java or similar)
+  - Experience building enterprise products and working with
+    enterprise customers.
+  - Designed and scaled distributed systems in production that
+    are used by multiple teams.
+  - Built on Kubernetes (or a similar orchestrator) as a
+    platform, not just deployed to it.
+  - Hands-on experience designing and running production systems
+    across more than one major cloud (AWS, Azure, Google
+    Cloud), with deep expertise in at least one.
+  - A product mindset. You care about the people using the
+    systems you build, not just the systems themselves.
+
+  - Experience operating at Staff, Principal, founding engineer,
+    or CTO-level scope.
+
+  And deep experience in some of these:
+
+  - Shipping software into customer-controlled environments
+    (BYOC, VPC, self-hosted, air-gapped).
+  - Sandboxing and isolation (containers, microVMs, multi-tenant
+    security).
+  - Enterprise identity, networking and encryption (SSO/SCIM,
+    KMS/BYOK, private networking).
+
+  Our tech stack
+
+  - Languages: Go, Rust, TypeScript
+  - Cloud: AWS, Azure, Google Cloud, Cloudflare
+  - Infrastructure: Kubernetes, Terraform, Temporal,
+    OpenTelemetry, CI/CD
+  - Data: PostgreSQL, ClickHouse, Firestore, Spanner, BigQuery
+
+
+
+  About your application
+
+  Please submit your application in English—it's our company
+  language.
+
+  We encourage anyone excited by the role to apply, even if
+  your current title isn't "Staff Software Engineer." What
+  matters most is the scope you've owned and the impact you've
+  had.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-05
+url: "https://builtin.com/job/staff-software-engineer-platform-enterprise/10505778"
+source: Built In

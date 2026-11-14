@@ -1,0 +1,185 @@
+job_id: 11899539
+title: Software Engineer, Infrastructure
+company: Keycard
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 12 Employees
+description: |
+  About Keycard
+
+  At Keycard, we're building identity and access
+  infrastructure for the agent-native era, where software
+  isn't static but a dynamic, constantly changing system of AI
+  agents working on behalf of people and businesses. Keycard
+  gives every agent a verified identity and issues short-
+  lived, task-scoped credentials at runtime, so agents can
+  only do what they were asked to do, and every action is
+  fully auditable. We're backed by a16z, Boldstart, and Acrew,
+  and our founding team built and scaled Snyk, Auth0,
+  HashiCorp, and Heroku.
+
+  The Role
+
+  We're hiring two staff-level Software Engineers,
+  Infrastructure to own how Keycard is built, shipped, and
+  run.
+
+  Keycard is a control plane for agents: identity, credential
+  exchange, delegation, policy, and audit. Many of the
+  enterprises adopting it need that control plane inside their
+  own cloud, behind their network controls, with no standing
+  access for us. Bring-your-own-cloud (BYOC) is a product at
+  Keycard, not a services engagement. It's versioned,
+  documented, and held to the same reliability and security
+  bar as our hosted service.
+
+  You'll own Keycard's build and release systems, our multi-
+  tenant cloud, dedicated deployments, and deployments in
+  customers' cloud accounts. Build common delivery and
+  operating tools across them, with release safety,
+  reliability, cloud cost, and repeatable installs as
+  priorities. You'll work with founders, engineers, product,
+  and customers, and agree escalation and on-call with
+  engineering. We build on AWS (and later GCP and Azure), EKS,
+  Pulumi, and Helm.
+
+  What You'll Do
+
+  - BYOC product. Own what it's like to install, upgrade, and
+    get support for Keycard in a customer's cloud, from what
+    their security team reviews to how each version is
+    documented.
+  - Compatibility. Decide what we support, from clouds, regions,
+    and Kubernetes versions to customer guardrails like SCPs
+    and egress proxies. Set the skew limits and deprecation
+    policy that keep our control plane and customer-hosted
+    deployments compatible.
+  - Deployments. Make a new deployment, ours or a customer's, a
+    configuration change: infrastructure as code, account
+    bootstrap, and network patterns like PrivateLink and
+    certificates that work through customer proxies. For
+    example: take a new customer's AWS account to a running,
+    upgradeable deployment with no standing access from us.
+  - Releases. Own one pipeline from commit to running
+    deployment, wherever it runs, with the control plane kept
+    separate from the data plane. Get releases to many
+    independently versioned deployments with staged promotion,
+    approval gates, and rollback.
+  - Reliability. Set the availability and durability targets we
+    hold ourselves to for the hosted service, with the
+    observability, runbooks, and incident response behind
+    them. Operate customer-hosted deployments without standing
+    access, using audited break-glass.
+  - Agent operations. Build agents for the repetitive work: pre-
+    install checks, installs, failed-upgrade triage, and
+    runbook drafts. They run with scoped credentials, every
+    action is audited, and an engineer approves any change to
+    a customer account.
+  - Cost per install. Keep each install cheap in engineering
+    time and cloud spend. Decide what's standard, what's
+    configurable, and what we decline, so one customer's
+    request doesn't become the roadmap.
+  - Deployment guardrails. Work through reviews with customers'
+    cloud and security teams. With security, set the
+    guardrails for every deployment, from credential scope and
+    isolation to workload identity and PKI, then build and run
+    them.
+
+  What We're Looking For
+
+  - You build infrastructure as software in Pulumi, Terraform,
+    or CDK, and write the Go or TypeScript tooling around it.
+    You've run Kubernetes and Helm in production.
+  - Deep AWS experience, especially IAM and permission
+    boundaries, Organizations and SCPs, and VPC networking.
+  - You've run software in accounts you don't control, like
+    customer VPCs, on-prem, or regulated networks, and
+    supported it through upgrades.
+  - You've shipped versioned releases that customers upgrade on
+    their own schedule, with a support matrix and deprecations
+    they could plan around.
+  - You debug across layers: a hung request that turns out to be
+    a security group rule, a proxy that breaks a TLS
+    handshake, a certificate challenge that can't reach the
+    internet.
+  - You've worked directly with customers' platform and security
+    teams, and turned down a one-off when a product change was
+    better.
+  - You think in control plane and data plane: you've designed
+    or run systems where the two are separate and upgrade
+    independently.
+  - Agents at work. You already use coding agents in
+    infrastructure work and have a clear view of where they're
+    reliable and where a human has to review.
+
+  Strong Candidates May Also Have
+
+  - Experience building a BYOC, single-tenant, or self-hosted
+    offering at an infrastructure, data, or security company.
+  - Experience with cell-based architecture.
+  - GCP or Azure alongside AWS, including private connectivity
+    on those clouds.
+  - Workload identity and PKI in production: SPIFFE/SPIRE, cert-
+    manager, private CAs.
+  - Experience with OAuth, OIDC, or mTLS, and interest in agent
+    protocols like MCP.
+
+  Your First 90 Days
+
+  - Take a customer-hosted deployment from pre-production to
+    production with the customer.
+  - Make the next install need no bespoke work, starting from
+    the templates, bootstrap, and pre-install checks.
+  - Ship a release through one delivery pipeline to hosted and
+    customer-hosted deployments, with staged rollout and
+    rollback.
+  - Write down availability and durability targets for the
+    hosted service, with the alerts and runbooks behind them.
+
+  Who Will Love This Job
+
+  - You want to build a product that runs in someone else's
+    cloud and make it as solid as one you host.
+  - You'd rather fix the product than repeat a custom install.
+
+  What We Offer
+
+  - Build at the Frontier: Work every day at the frontier of
+    agent-native systems — shipping, inventing, and iterating
+    on technology that hasn’t been built before. You’ll be
+    given huge autonomy, the opportunity to gain mastery, and
+    the chance to work in a team that holds each other
+    accountable to succeed.
+  - Truly Agent-Native Culture: At Keycard, we don’t just enable
+    others to adopt agents — we use them ourselves to build.
+    You’ll help shape an organization that embeds AI into its
+    foundation as an enduring competitive advantage.
+  - Compensation With Upside: Market-competitive salaries and
+    generous equity packages (4-year vest, 1-year cliff) give
+    you the security to focus on building — and the asymmetric
+    upside of ownership in a company chasing a category-
+    defining mission.
+  - Comprehensive Benefits & Recharge: Health, dental, vision,
+    and paramedical coverage for you and your family, plus 4
+    weeks vacation, 11 statutory holidays, and 1 volunteer day
+    annually. We encourage at least 2 weeks off each year to
+    fully recharge.
+  - Tools That Keep You Ahead: A new MacBook Pro, a $500 stipend
+    for peripherals, and the best AI tools available so you
+    can work at the forefront of agent-native workflows.
+  - Remote-First Flexibility: We are a remote-first team
+    prioritizing asynchronous collaboration, with hiring
+    focused in North and South America. Work where you’re
+    strongest — we just want the best.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Information Technology
+  - Software
+posted_date: 2026-10-26
+url: "https://builtin.com/job/software-engineer-infrastructure/11899539"
+source: Built In

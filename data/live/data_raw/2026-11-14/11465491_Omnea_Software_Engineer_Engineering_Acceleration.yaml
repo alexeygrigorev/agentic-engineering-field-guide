@@ -1,0 +1,193 @@
+job_id: 11465491
+title: Software Engineer, Engineering Acceleration
+company: Omnea
+location: London, GBR
+work_type: FULL_TIME
+company_size: 150 Employees
+description: |
+  Our Mission:
+
+  Omnea is the agentic operating system for procurement.
+
+  Procurement touches every pound a business spends, yet
+  requests still stall for weeks and approvals get lost in
+  inboxes. Our AI-first platform changes that: our agents
+  capture requests, route approvals, onboard suppliers, flag
+  risk and track every renewal, while anyone in the business
+  can ask a question and get an answer grounded in their own
+  company’s data. Buying becomes painless for everyone,
+  procurement gets a seat at the table, and our customers have
+  saved more than 100,000 hours of manual work so far.
+
+  Companies like Spotify, PayPal, T. Rowe Price, JustEat,
+  Adyen and S&P Global run procurement on Omnea. We’re backed
+  by $75M from Khosla Ventures, Insight Partners and Accel,
+  and we’ve been named the UK’s number one startup in the
+  Startups 100, ranked 11th on Sifted’s 2026 list of Europe’s
+  fastest-growing companies, and recognised as one of Fast
+  Company’s Most Innovative Companies.
+
+  Talent density matters more to us than almost anything else.
+  We keep the bar high in every team, so everyone here has
+  real ownership and real impact. Our team is full of former
+  founders and operators who’ve scaled unicorns, and we’re
+  looking for people who want to do the best work of their
+  careers alongside them.
+
+  Find out more about the team and life at Omnea here.
+
+  What We're Looking For
+
+  We're looking for software engineers to join Engineering
+  Acceleration, one of the teams in Omnea's Platform
+  Engineering department, building the tools and
+  infrastructure that help Omnea's engineers develop, test and
+  ship software.
+
+  Engineering Acceleration develops and operates the systems
+  that support AI-assisted software development: agent
+  tooling, context management, development environments and
+  automated validation. You'll work across application code
+  and infrastructure, improving existing systems and building
+  new capabilities.
+
+  You'll likely come from product or backend engineering,
+  though developer tooling experience is a plus. What matters
+  is strong software engineering ability, practical
+  infrastructure experience and an interest in making other
+  engineers more effective.
+
+  What You'll Do
+
+  - Build systems for AI-native software engineering. Develop
+    the tooling and infrastructure that enable engineers to
+    delegate substantial engineering work to agents, spanning
+    investigation, implementation, testing and code review.
+    Improve the context, execution environments and feedback
+    available to agents so they can complete increasingly
+    complex tasks reliably.
+  - Improve development and testing environments. Develop the
+    infrastructure that allows engineers and agents to
+    reproduce problems, run applications and verify changes.
+    Improve development environments, previews and automated
+    validation.
+  - Evaluate quality and impact. Build evaluations for agent
+    behaviour and test changes to context, tools and
+    configuration against representative engineering tasks.
+    Measure the effect on correctness, review effort,
+    reliability and cost before wider rollout.
+  - Identify and address engineering bottlenecks. Work with
+    engineers across Omnea to identify friction in
+    development, testing and delivery. Prioritise improvements
+    based on their impact on engineering productivity and
+    software quality, and measure the results.
+  - Lead tooling selection and adoption. Assess emerging tools
+    and make build-versus-buy decisions based on capability,
+    integration effort and long-term maintenance. Spearhead
+    the selection and rollout of an agentic development
+    platform (ADP), giving engineers a single interface for
+    tooling and agent management.
+  - Own systems through delivery and operation. Take
+    responsibility for technical design, implementation,
+    deployment and ongoing operation. Build for reliability
+    and maintainability, with appropriate observability,
+    access controls and recovery mechanisms.
+
+  What Can You Expect?
+
+  - Join the team early. Help shape and invent how engineers and
+    agents design, build and verify software at Omnea. You'll
+    be an integral part of deciding the team's technical
+    direction, develop new approaches and own projects from
+    experimentation through to adoption across engineering.
+  - Work directly with your users. You'll collaborate with
+    Product engineers and the other Platform Engineering teams
+    to understand their requirements and evaluate the impact
+    of your work.
+  - Work across the stack. Our stack includes TypeScript, React,
+    Postgres and AWS serverless infrastructure, with SST,
+    Pulumi, GitHub Actions and Datadog.
+
+  About You
+
+  - Strong software engineering fundamentals. You have
+    experience designing, shipping and operating production
+    software. You bring sound judgement to system design,
+    testing and reliability, and can diagnose failures across
+    application and infrastructure boundaries.
+  - Practical AWS serverless experience. You've built or
+    maintained serverless infrastructure on AWS, deployment
+    pipelines or development environments. You understand the
+    trade-offs around access control, isolation,
+    observability, reliability and cost.
+  - Hands-on experience with AI-assisted development. You've
+    applied coding agents to software development and
+    understand their capabilities and failure modes. You have
+    practical experience with the context, tools and
+    verification needed to use them effectively.
+  - Product engineering background. You've worked as a product
+    engineer shipping user-facing features, and you bring that
+    mindset to internal tooling. You can translate developer
+    needs into well-designed tools and services. You evaluate
+    success through adoption, user feedback and measurable
+    improvements to the development process.
+  - Independent execution. You can scope ambiguous technical
+    problems, assess alternatives and deliver projects without
+    a detailed specification. You make considered trade-offs
+    between delivery speed, reliability and long-term
+    maintenance.
+  - Effective collaboration. You communicate technical decisions
+    and trade-offs clearly, work constructively across team
+    boundaries and incorporate feedback into your approach.
+    You share knowledge and contribute to the engineering
+    practices of the wider team.
+
+  At Omnea, we embrace diversity. To build a product that's
+  loved by everyone, we're best served by a team with all
+  sorts of backgrounds, experiences, and perspectives. We
+  encourage you to apply even if your experience doesn't quite
+  match the full job spec! And regardless of your race,
+  religion, colour, gender, or anything else! If you think you
+  could be a good fit for Omnea, please reach out.
+
+  A few things to note:
+
+  - We offer competitive geo-localised benefits, and you can
+    check out our UK Benefits Package here and our US Benefits
+    Package here.
+  - We work Tuesdays, Wednesdays & Thursdays in-person at our
+    offices. At this early stage of our company life-cycle
+    it's important to us that we get this together-time, and
+    you can read more about why we believe this is a winning
+    move here
+  - We're commercial, ambitious and we don't pretend otherwise!
+    We're actively seeking folks looking to make the most of a
+    career-defining opportunity, with the hunger to be part of
+    building something really impressive. You can see our
+    values here and our Omnea Future Founder's fund here!
+  - We sometimes use AI note-takers to help us transcribe
+    interview notes, so we can be more present in your
+    interview. If you'd like to opt out of us using automatic
+    transcribers, please note this in the free text field in
+    your application, otherwise we'll take your application as
+    confirmation that you're happy for us to use notetakers
+    (whether added to video calls or in the background).
+
+  We are proud to be recognised for both our culture and
+  product, and we are just getting started. Join us as we
+  grow!
+
+  Legal note: if you are viewing this posting outside of the
+  Omnea careers' page, this may be an auto-generated
+  advertisement and may lack the full range of advertised
+  information - please click through to the posting at
+  https://jobs.ashbyhq.com/omnea to view additional advertised
+  information on this posting.  Additionally, where roles have
+  hard-specified requirements (e.g. [x] days in office, unable
+  to provide visas, etc), if in your application you provide
+  deterministic check-box confirmation that you do not meet
+  the hard-specified requirements, deterministic (not AI or
+  subjective) automatic rejection criteria are in place.
+posted_date: 2026-10-01
+url: "https://builtin.com/job/software-engineer-engineering-acceleration/11465491"
+source: Built In

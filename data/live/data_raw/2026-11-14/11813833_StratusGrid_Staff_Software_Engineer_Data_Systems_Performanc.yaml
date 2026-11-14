@@ -1,0 +1,276 @@
+job_id: 11813833
+title: "Staff Software Engineer, Data Systems & Performance"
+company: StratusGrid
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 30 Employees
+description: |
+  Opportunity StratusGrid delivers a high-trust, high-
+  competence customer experience around cloud optimization,
+  and we're productizing that expertise into our agentic
+  platform, Stratusphere. We are looking for a staff+ software
+  engineer to help create the technical architecture and
+  development of our data systems optimization products and
+  integrations, while also shaping and improving the data
+  systems behind Stratusphere itself.
+
+  You will work across data systems and cloud infrastructure,
+  contribute production code, and lead technical design for
+  new features you develop. Partnering with product
+  engineering, forward deployed engineers (FDEs), and
+  customers, you will test and implement optimizations in real
+  environments and turn proven approaches into reusable
+  platform capabilities. Customer workloads range from a few
+  gigabytes to many petabytes across AWS and Azure today, with
+  additional clouds ahead.
+
+  We are looking for a systems thinker with broad expertise,
+  as our scope includes PostgreSQL, MySQL, SQL Server,
+  MongoDB, DynamoDB, Elasticsearch/OpenSearch, and Amazon
+  Redshift, alongside lakehouse and analytical systems. Our
+  current platform uses Apache Iceberg tables in Amazon S3
+  with Athena and Starburst. Experience with Databricks and
+  other lakehouse and analytical platforms will help expand
+  our capabilities.
+
+  Responsibilities
+
+  • Technical Architecture: Drive architecture, interfaces,
+  and engineering standards for data optimization products.
+  Lead technical design for new features you develop,
+  communicate tradeoffs, guide implementation, and design for
+  expansion across clouds and data systems.
+
+  • Agent-First Product Development: Use and oversee AI agents
+  to build, test, and mature Stratusphere features, backend
+  services, customer integrations, analysis tools, and user-
+  facing workflows. Contribute production code and improve the
+  platform's own data architecture, performance, and
+  reliability.
+
+  • Data Systems Optimization: Diagnose bottlenecks across
+  queries, schemas, indexes, caching, data layout, compute,
+  storage, and networking. Evaluate sizing, scaling,
+  concurrency, and workload changes against customer
+  performance, reliability, governance, and cost goals.
+
+  • Customer Validation & Product Partnership: Work with FDEs,
+  Product, and customer teams to identify opportunities,
+  establish baselines, test hypotheses, and implement
+  optimizations. Measure results, document tradeoffs, and turn
+  repeatable findings into roadmap priorities, features, and
+  integrations.
+
+  • Engineering Judgment & Safe Automation: Take
+  responsibility for AI-generated plans, code, queries, and
+  recommendations. Ensure implementations are tested,
+  maintainable, scalable, and secure, with appropriate access
+  boundaries, change controls, auditability, and rollback.
+
+  • Agent Improvement Feedback Loop: Identify recurring agent
+  errors and missing context. Improve architecture, tooling,
+  prompts, evaluation criteria, and workflows with Product and
+  FDEs to measurably improve analysis quality and execution
+  safety.
+
+  • Add to the Foundation: Stay current with the latest
+  methods and best practices for improving velocity, quality,
+  and maintainability with agent-first development approaches.
+  Share knowledge and actively contribute to maturing the
+  processes, standards, and tooling that make the whole team
+  better.
+
+  • Cross-Functional Collaboration: Share context in visible
+  channels, ask questions early, and work openly with
+  Engineering, Product, FDEs, and customers. Surface
+  assumptions and disagreements constructively so teams can
+  learn quickly and make informed decisions.
+
+  • Execution with Reliability & Urgency: Own work end to end,
+  capture commitments, communicate progress proactively,
+  escalate risks early, and close the loop. Follow change-
+  control and customer experience standards, maintain clear
+  documentation, and keep work records current.
+
+  Requirements
+
+  • Staff-Level Technical Leadership: Demonstrated ownership
+  of architecture and implementation for complex production
+  systems, with the ability to guide decisions across teams,
+  influence through clear reasoning, and remain deeply hands-
+  on.
+
+  • Proven Optimization Results: A track record of improving
+  complex data systems using profiling, query plans,
+  observability, and representative benchmarks. Explain
+  measured improvements in latency, throughput, reliability,
+  or cost and the tradeoffs involved.
+
+  • Multifaceted Data Systems Expertise: Deep relational
+  database expertise and substantial optimization experience
+  in at least one additional category: search, document or
+  key-value systems, or analytical platforms. Strong SQL, data
+  modeling, indexing, and distributed systems fundamentals.
+
+  • Iceberg & Query Engines: Hands-on familiarity with Apache
+  Iceberg and distributed query engines such as Athena,
+  Starburst, or Trino. Understand partitioning, file sizing
+  and compaction, metadata and statistics, and their effects
+  on performance and cost.
+
+  • Software Engineering & Adaptability: Deep proficiency in
+  at least one programming language and the ability to
+  contribute across backend services, APIs, integrations, and
+  frontend workflows. Learn new languages, frameworks, and
+  data systems quickly and critically review AI-assisted work
+  across the stack.
+
+  • Testing & CI/CD: Architect services for layered testing
+  and build automated delivery checks that catch defects
+  early. Validate correctness, performance, and failure
+  behavior while developing rapidly with AI agents.
+
+  • Observability: Integrate and use metrics, logs, traces,
+  and data-system diagnostics to investigate complex problems,
+  establish baselines, and verify improvements in production.
+
+  • Cloud & Infrastructure Engineering: Experience working in
+  production cloud environments and managing infrastructure
+  with infrastructure as code (IaC).
+
+  • AI as a Daily Tool: Use AI and coding agents effectively
+  for analysis, planning, implementation, and testing. Take
+  ownership of AI-assisted work and remain accountable for its
+  quality, security, and cost.
+
+  • Excellent Communication: Translate complex findings into
+  clear technical and business decisions. Listen to customer
+  concerns, explain risks and tradeoffs with empathy, and turn
+  incomplete information into actionable next steps.
+
+  • Startup Environment & Ambiguity: Operate effectively in a
+  fast-paced startup with evolving priorities and incomplete
+  requirements. Identify the most valuable problems, make
+  pragmatic decisions, test assumptions, and deliver in useful
+  increments while maintaining engineering quality and
+  customer trust.
+
+  • Strong Ownership & Urgency: Take initiative without
+  waiting for detailed direction, meet commitments, adapt
+  priorities thoughtfully, and communicate status and risks
+  early. Balance delivery speed with reliability,
+  maintainability, and follow-through.
+
+  • Travel: Willingness and ability to travel to our
+  Chattanooga, Tennessee headquarters quarterly, with
+  flexibility to travel up to monthly as needed for
+  collaboration and team planning.
+
+  • Remote-Work-Ready: This is a remote role. Work effectively
+  in a distributed team with reliable high-speed internet, a
+  professional workspace, and the ability to communicate,
+  collaborate, and execute independently.
+
+  • Work Authorization & Customer Access: Applicants must be
+  legally authorized to work in the United States at the time
+  of hire. Must be eligible and able to meet applicable
+  customer requirements for working in GovCloud and CJIS-
+  regulated environments, including required background
+  screening, security training, and access restrictions.
+
+  Nice-to-have / differentiators
+
+  • Databricks & Analytics: Databricks experience is strongly
+  preferred, including Spark, Delta Lake, and workload
+  optimization. Experience with other lakehouse and analytical
+  platforms, such as Snowflake, Microsoft Fabric, Azure
+  Synapse Analytics, Google BigQuery, or Amazon Redshift, is
+  also valuable.
+
+  • Application Stack & Caching: TypeScript, React/Next.js,
+  and Python; caching systems and strategies; and experience
+  building reusable optimization tooling or customer-facing
+  data products.
+
+  • Data Pipelines & Operations: Experience building high-
+  quality, cost-effective data pipelines with tools such as
+  dbt, together with strong DevOps practices and familiarity
+  with policy as code.
+
+  • Emerging Data Capabilities: Familiarity with graph data
+  models and databases, vector search, and retrieval-augmented
+  generation (RAG), including performance and retrieval-
+  quality tradeoffs.
+
+  • Location: Ideally located in the Chattanooga, Nashville,
+  Atlanta, or Knoxville area to support quarterly
+  collaboration at Chattanooga HQ, with flexibility for visits
+  up to monthly.
+
+  Benefits
+
+  At StratusGrid, we invest in the health, well-being, and
+  growth of our team. We offer competitive pay and a flexible
+  benefits package that supports employees and their families
+  at every stage. Full-time employees receive:
+
+  • Competitive salary
+
+  • Medical, dental, and vision insurance
+
+  • Life insurance and short-term and long-term disability
+  coverage
+
+  • 401(k) plan
+
+  • Flexible PTO, paid sick leave, and paid holidays
+
+  Benefits may vary by location and employment status.
+
+  Equal opportunity & fair chance hiring
+
+  StratusGrid is an Equal Opportunity Employer. We consider
+  all qualified applicants without regard to race, color,
+  religion, sex, sexual orientation, gender identity or
+  expression, national origin, age, disability, veteran
+  status, or any other characteristic protected by applicable
+  law. Qualified applicants with arrest or conviction records
+  will be considered in accordance with applicable laws,
+  including the California Fair Chance Act.
+
+  Accommodations
+
+  StratusGrid is committed to providing reasonable
+  accommodations throughout the hiring process. If you need an
+  accommodation, please note it in your application or contact
+  us through our website.
+
+  About StratusGrid
+
+  StratusGrid is building Stratusphere, a multi-agent platform
+  that turns cloud complexity into measurable outcomes.
+  Stratusphere coordinates specialized infrastructure agents
+  to observe AWS and Azure environments, simulate policy-safe
+  plans, and execute approved changes with auditability and
+  rollback-ready safety, so savings compound over time,
+  security improves, delivery accelerates, and teams spend
+  less time on toil and fire drills.
+
+  We're a team of builders and operators who care about
+  trustworthy automation and real business impact. Our work
+  sits at the intersection of cloud engineering, product, and
+  customer outcomes, helping customers make infrastructure
+  changes they can measure, explain, and stand behind.
+
+  We'd love to meet you!
+
+  #StratusGrid
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Software
+  - Consulting
+posted_date: 2026-10-22
+url: "https://builtin.com/job/staff-software-engineer-data-systems-performance/11813833"
+source: Built In

@@ -1,0 +1,187 @@
+job_id: 12147549
+title: Software Engineer, Backend, Comms Platform
+company: Ramp
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 450 Employees
+description: |
+  About Ramp
+
+  Ramp is building the smart infrastructure for finance teams,
+  embedded in the transaction flow of every dollar a business
+  spends. We automate how over $275B in annualized spend flows
+  in and out of 85,000+ companies: authorizing payments,
+  flagging risk, categorizing spend, and closing books.
+
+  The problems are high-stakes, data-dense, and unforgiving.
+
+  We hire people with high agency and high urgency. We look
+  for slope over intercept. We care less about where you
+  trained and more about what you’ve built. At Ramp, everyone
+  is a builder who owns problems end to end and makes
+  consequential decisions that shape the outcome.
+
+  The median Ramp customer saves 7.5% and grows revenue 16% in
+  their first year – far in excess of businesses operating
+  without Ramp. We believe every ambitious company deserves
+  the same.
+
+  If you want to build systems that directly shape how
+  companies move and manage billions, Ramp is the place to do
+  it.
+
+  About the Role
+
+  Every approval request, receipt reminder, payment alert, and
+  card notification Ramp sends has to reach the right person,
+  on the right channel, at the right time. When it does,
+  finance teams close faster and employees spend less time
+  chasing tasks. When it doesn't, a missed message can mean a
+  stalled approval, a late payment, or a flood of
+  notifications nobody asked for.
+
+  Ramp's Communications Platform team builds the shared system
+  that every product team uses to reach customers. It handles
+  transactional messages across email, SMS, push, Slack,
+  Microsoft Teams, and WhatsApp, including templating,
+  delivery, retries, digesting, user preferences, and delivery
+  monitoring. The team also supports the conversational
+  experiences that let customers work with Ramp directly from
+  the channels they already use.
+
+  We're looking for a backend engineer to own a core part of
+  that platform. You'll take responsibility for an area such
+  as message delivery and channel integrations, communication
+  preferences, or platform reliability and scale, set its
+  technical direction within the team, and keep it correct and
+  dependable as message volume and the number of teams
+  building on it grow. You'll work closely with product,
+  design, and engineering partners across Ramp to make
+  communications faster, more reliable, and easier for every
+  team to build on.
+
+  What You'll Do
+
+  - Own the design and evolution of a core part of Ramp's
+    communications platform, from technical design through
+    launch, monitoring, and iteration
+  - Build and extend integrations with messaging channels and
+    delivery providers, including email, SMS, push, and
+    workplace chat tools such as Slack and Microsoft Teams
+  - Design delivery workflows that are idempotent, retry safely,
+    and confirm successful delivery, so customers reliably get
+    the messages they need without duplicate sends
+  - Build communication preferences and controls that let users
+    and administrators decide what they receive and where
+  - Make the platform simple and safe for other Ramp engineers
+    to build on, with clear abstractions, strong defaults, and
+    good developer tooling
+  - Improve the reliability, performance, and observability of
+    the platform as message volume grows
+  - Drive technical direction for your area and raise the
+    engineering bar through design reviews, code reviews, and
+    mentorship
+
+  What You'll Need
+
+  - Experience designing, building, and operating production
+    backend systems, including APIs, data models, and
+    asynchronous workflows
+  - A track record of owning a system or product area end to end
+    and shaping its technical direction over time
+  - Strong system design judgment, especially around
+    reliability, idempotency, and correctness in high-volume
+    distributed systems
+  - Product sense: you care about the experience of the people
+    receiving each message, not just the ticket, and you
+    balance speed with quality
+  - Clear communication and a collaborative approach to
+    technical decisions across product, design, and
+    engineering
+
+  Nice to Haves
+
+  - Experience building notification, messaging, or
+    communications platforms
+  - Experience integrating with messaging providers or channel
+    APIs, such as Twilio, SendGrid, Slack, Microsoft Teams, or
+    WhatsApp
+  - Experience building internal platforms or shared services
+    used by many engineering teams
+  - Experience scaling high-volume, event-driven, or queue-based
+    systems
+
+  Benefits available to all full-time Ramp employees (Global)
+
+  - Flexible PTO
+  - Centralized home-office equipment ordering
+  - Health and wellness stipend
+  - Budget for intra-office travel
+  - Weekly coffee stipend
+
+  United States
+
+  - 100% medical, dental & vision insurance coverage for you,
+    with partial coverage for dependents
+  - One Medical annual membership
+  - 401(k), including employer match on contributions made while
+    employed by Ramp
+  - Fertility HRA (up to $10,000 per year)
+  - Parental leave: up to 16 weeks (birthing + bonding) or 8
+    weeks (bonding only) at 100% pay
+  - Pet insurance
+  - In-office perks: lunch, snacks, drinks, and more
+  - Relocation expense coverage to NYC or SF (if needed)
+
+  Canada
+
+  - Group medical, dental, and vision coverage through Sun Life
+  - Life, AD&D, and disability coverage
+  - Fertility drug coverage (up to $4,000 lifetime)
+  - Group Retirement Plan with employer match (RRSP + DPSP)
+  - Parental leave: up to 16 weeks (birthing + bonding) or 8
+    weeks (bonding only) at 100% pay, with additional time
+    available at reduced pay
+  - Employee Assistance Program and virtual care through Lumino
+    Health
+
+  United Kingdom
+
+  - Private medical insurance through Freedom Elite
+  - Virtual GP and at-home care via eMed x Livi
+  - Workplace pension through Penfold, with salary sacrifice
+    option
+  - Parental leave: up to 16 weeks (birthing + bonding) or 8
+    weeks (bonding only) at 100% pay with additional time
+    available at reduced pay
+
+  Referral Instructions
+
+  If you are being referred for the role, please contact that
+  person to apply on your behalf.
+
+
+
+  Other notices
+
+  Pursuant to the San Francisco Fair Chance Ordinance, we will
+  consider for employment qualified applicants with arrest and
+  conviction records.
+
+
+
+  Beware of recruiting scams: Ramp will only contact you
+  through official @Ramp.com email addresses and will never
+  ask for payment or sensitive personal information during the
+  hiring process.
+
+
+
+  Ramp Applicant Privacy Notice
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-11-09
+url: "https://builtin.com/job/software-engineer-comms-platform/12147549"
+source: Built In

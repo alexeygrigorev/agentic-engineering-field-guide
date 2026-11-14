@@ -1,0 +1,105 @@
+job_id: 10454816
+title: Senior Software Serviceability Engineer
+company: Humanoid
+location: London, GBR
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  Here at Humanoid, we believe in a future where robots
+  amplify human potential. That’s why we’ve set out on a
+  mission to build the world’s most capable, commercially-
+  scalable, and safe humanoid robots. We’re bringing that
+  mission to life with HMND‑01 - our rapidly developed
+  humanoid platform being deployed in real industrial
+  environments - and we’re growing the team to take it even
+  further.
+
+  About the Role
+
+  We are looking for a Senior Software Serviceability Engineer
+  to own the software and AI dimension of serviceability for
+  our humanoid robots. Product Services Engineering makes sure
+  the robot is designed to be maintained — and that when it
+  needs service, it can be diagnosed and repaired quickly,
+  safely, and at low skill in the field. You will own that
+  mission for everything software: diagnostics, firmware and
+  bootloader serviceability, and the diagnostic content behind
+  our remote-diagnostics (Digital Shadow) platform.
+
+  This is a deeply technical, hands-on role. You will validate
+  the software and AI dimension of every service procedure
+  before it reaches production, build the diagnostic tooling
+  that lets our Remote Services and Repair Centre teams find
+  faults fast, and act as part of the single engineering
+  interface between Services and R&D.
+
+  What You’ll Do:
+
+  - Own Design-for-Serviceability for software: ensure the
+    robot’s software, firmware, and AI stack can be diagnosed,
+    updated, and recovered in the field with minimal skill.
+  - Collaborate with R&D to build and validate diagnostic
+    scripts, tooling, and self-test routines that localise
+    faults as deep as possible in the BOM.
+  - Define and own the software diagnostic content in the
+    Digital Shadow platform: remote diagnostics, fleet-pattern
+    detection, and AR-guided execution.
+  - Validate the software and AI dimension of service, repair,
+    calibration and OTA procedures before production release.
+  - Own firmware, bootloader, and calibration serviceability,
+    including recovery paths for failed updates.
+  - Support New Services Introduction (NSI) for software, and
+    act as the single point of entry from Services into R&D
+    for software escalations.
+
+  We’re Looking For:
+
+  - Strong software engineering for robotics or embedded
+    systems: ROS2, Bash, and Ubuntu/Linux, with
+    bootloader/firmware workflows.
+  - Proficiency in Python (and ideally C++) for diagnostics,
+    tooling, and automation.
+  - Hands-on experience diagnosing robots or complex
+    electromechanical systems — you can tell whether a fault
+    is software, firmware, calibration, or hardware.
+  - Working understanding of sensor and actuator stacks (2D/3D
+    LiDAR, RGB cameras, motors/actuators) from a software and
+    diagnostic perspective.
+  - A design-for-serviceability mindset — you think about the
+    technician in the field, not just the happy path.
+  - Disciplined engineering practice and version control (Git).
+
+  Nice to have:
+
+  - Experience deploying AI/ML on robots and diagnosing model or
+    behaviour issues in the field.
+  - Familiarity with remote-diagnostics or fleet-telemetry
+    platforms.
+  - Experience authoring service documentation or work
+    instructions consumed by non-engineers.
+  - Exposure to Design-for-Serviceability / DfMA on a hardware
+    product line.
+
+  What We Offer
+
+  - Competitive equity: stock options with meaningful upside as
+    we scale.
+  - 30+ paid days off, including 23 days of annual leave, all UK
+    bank holidays, and additional company closure days
+    (including Christmas–New Year shutdown).
+  - Private healthcare, including virtual and in-person care.
+  - Pension scheme with 8% total contribution (5% employee, 3%
+    employer) on full earnings.
+  - Free daily breakfast, catered lunch, and snacks in-office.
+  - Work at the frontier - collaborate daily with world-class
+    engineers, researchers, and product experts building the
+    next generation of AI and humanoid robotics.
+  - Real ownership - direct access to founding leadership,
+    meaningful input on product direction, and the ability to
+    drive key initiatives from day one.
+industries:
+  - Artificial Intelligence
+  - Robotics
+posted_date: 2026-08-25
+url: "https://builtin.com/job/senior-software-serviceability-engineer/10454816"
+source: Built In

@@ -1,0 +1,120 @@
+job_id: 9621712
+title: Software Engineer, Agents
+company: Output Biosciences
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 2 Employees
+description: |
+  The Role
+
+  Output has built a biological reasoning model that
+  understands biology at the scale and complexity life
+  actually operates. Our model independently learned the
+  principles of molecular interactions, opening up drug
+  treatments that were previously impossible. We're already
+  generating therapies that traditional approaches cannot
+  reach. The hardest problems in both AI and biology are being
+  solved here, and there is room for you to own one.
+
+  Output is currently in stealth, operated by a team of repeat
+  founders and biotech veterans with multiple exits in AI x
+  Bio, and backed by top-tier VCs including Y Combinator.
+
+  You will build the agent infrastructure that turns model
+  capabilities into usable tools and workflows. This role owns
+  the orchestration layer, the inference serving, the internal
+  tooling, and the interfaces that researchers and external
+  systems interact with.
+
+  - You will design and build the agent orchestration system
+    that composes model capabilities into multi-step
+    workflows, handling sequencing, state management, and
+    error recovery
+  - You will implement agent skills and tools that expose model
+    capabilities to automated and interactive workflows
+  - You will build inference infrastructure for serving models
+    efficiently, optimizing for latency, throughput, and
+    reliability
+  - You will design and build APIs and integrations, including
+    MCP-compatible interfaces, that allow external systems and
+    users to interact with Output's models
+  - You will build internal tools that accelerate the research
+    team's work, from experiment management to evaluation
+    pipelines
+  - You will establish and maintain software engineering
+    practices across the team: testing, CI/CD, code review,
+    and documentation
+
+  About You
+
+  - You have a BS in Computer Science or a related field, or
+    equivalent experience
+  - You have 4+ years of experience building production software
+    systems
+  - You have experience integrating ML models into products or
+    workflows, including LLM-based systems
+  - You have strong Python engineering skills with a track
+    record of building maintainable, well-tested production
+    code
+  - You have experience designing APIs and building systems that
+    other engineers and researchers depend on
+  - You are comfortable with cloud infrastructure,
+    containerization, and deployment pipelines
+  - You think in systems: you design for reliability,
+    observability, and graceful failure, not just the happy
+    path
+
+  Bonus Points
+
+  - You have experience with LLM orchestration frameworks, agent
+    architectures, or tool-use patterns
+  - You have experience with MCP (Model Context Protocol) or
+    similar model-integration protocols
+  - You have a background in biology, chemistry, computational
+    biology, or a related natural science
+  - You have experience building internal tools that accelerate
+    research or data science teams
+  - You have experience with inference optimization for large
+    models
+
+  Our Values
+
+  ❤️ Heart: We foster a culture of ownership. We are
+  assembling a team of individuals who are passionate and take
+  pride in their contributions.
+
+  🏆 Excellence: We have an unwavering commitment to excellence
+  and continuously challenge ourselves to reach the highest
+  standards.
+
+  🚀 Practicality: We value practicality and results-oriented
+  thinking. We are committed to making a tangible impact on
+  the lives of patients and the broader community.
+
+  📣 Honesty: We place a high value on honesty and directness.
+  We firmly believe in addressing issues as they arise, in an
+  open and transparent manner.
+
+  🎮 Fun: We believe that life is too short to not have fun.
+  Our goal is to create a workplace that is fun, engaging,
+  rewarding and fulfilling.
+
+  What We Offer
+
+  - We encourage new and different ideas, creativity and
+    contrarian thinking
+  - Healthy feedback focused environment to help you strive -
+    leadership will have high expectations, regularly share
+    constructive feedback, support you and help you grow, and
+    welcome receiving feedback and ideas from you
+  - You own your day-to-day management. What we care about is
+    that we all hit our milestones
+  - Competitive salary and equity in a growing, well-funded
+    startup
+  - Excellent medical, dental, and vision coverage
+posted_date: 2026-08-20
+url: "https://builtin.com/job/software-engineer-agents/9621712"
+source: Built In

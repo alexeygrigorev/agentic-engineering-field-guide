@@ -1,0 +1,131 @@
+job_id: 9715429
+title: Senior Software Engineer – ModelVault
+company: Jouster
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - TJK
+  - MYS
+  - ITA
+  - MDV
+  - EGY
+  - TUR
+  - JPN
+  - ESP
+  - HUN
+  - LAO
+  - IND
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - BEL
+  - TWN
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - KHM
+  - PAK
+  - ROU
+  - PHL
+  - MNG
+  - THA
+  - LUX
+  - BGD
+  - CHE
+  - NLD
+  - KOR
+  - IRL
+  - CZE
+  - USA
+  - Singapore, SGP
+remote: true
+work_type: FULL_TIME
+company_size: 5 Employees
+description: |
+  ModelVault is building the world’s first fully-integrated,
+  on-prem AI appliance — a plug-and-play AI server preloaded
+  with software, models, and tools that let businesses (and
+  eventually consumers) run powerful AI models locally,
+  privately, and securely.
+
+  We're looking for a Senior Software Engineer to help us
+  build the core software stack that powers our on-prem
+  systems — from model integration and system orchestration to
+  user interfaces and remote updates. You’ll be a key
+  technical partner in defining our architecture, tools, and
+  technical culture from day one.
+
+  🚀 What You’ll Do
+
+  - Design and build the software stack that ships with
+    ModelVault’s on-prem AI systems — everything from
+    containerized inference engines to local dashboards and
+    command-line tools.
+  - Set up and manage integration with modern LLMs and vision
+    models (e.g. LLaMA, Mistral, SDXL), including support for
+    fine-tuning and local deployment.
+  - Build and maintain user-facing tooling: CLIs, lightweight
+    GUIs, and APIs that make the device intuitive for
+    developers and AI teams.
+  - Make architecture decisions for system orchestration,
+    hardware interfacing, remote update pipelines, and
+    telemetry — all optimized for stability and security.
+  - Help set up GPU drivers, OS configuration (e.g., Ubuntu,
+    NVIDIA stack), and optimized inference runtimes as needed.
+  - Collaborate with the founding team to test and iterate with
+    early business customers.
+  - Contribute to hiring and scaling the engineering team over
+    the next 12 months.
+
+  🧠 You Might Be a Fit If You
+
+  - Have 5+ years of software engineering experience, preferably
+    at early-stage startups or in fast-paced environments.
+  - Are comfortable working across the stack — from OS-level
+    setup and deployment to user-facing tools.
+  - Have experience with containerization, system packaging,
+    deployment tooling, and managing model runtimes.
+  - Have worked with, or integrated, LLMs and ML models in real-
+    world systems (e.g., inference, fine-tuning, embeddings).
+  - Can independently drive architecture decisions and own large
+    pieces of product infrastructure.
+  - Thrive in ambiguity, learn fast, and are passionate about
+    building great tools from scratch.
+
+  ⭐️ Bonus Points
+
+  - Experience with GPU computing, NVIDIA drivers, CUDA, or
+    model acceleration tools.
+  - Familiarity with ML tooling: vLLM, Ollama, Triton Inference
+    Server, LangChain, etc.
+  - Comfort with Linux system internals, remote access tooling
+    (e.g., SSH, Ansible), or auto-update agents.
+  - Previous experience with AI developer tooling, embedded
+    systems, or secure local apps.
+
+  🌍 Why Join ModelVault?
+
+  - Help define a new category: secure, local AI for everyone —
+    starting with businesses, expanding to the world.
+  - Work on real, shipped hardware + software that users will
+    touch.
+  - Be part of the founding engineering team with high autonomy
+    and deep ownership.
+  - Fully remote, async-friendly, with strong product velocity
+    and clear vision.
+industries:
+  - Angel or VC Firm
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-software-engineer-modelvault/9715429"
+source: Built In

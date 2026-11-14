@@ -1,0 +1,152 @@
+job_id: 9002852
+title: Staff Fullstack Engineer
+company: Morpho
+location: New York, USA
+locations:
+  - New York, USA
+  - Paris, FRA
+  - East End, VIR
+remote: true
+work_type: FULL_TIME
+company_size: 70 Employees
+description: |
+  About Morpho
+
+  Morpho is a leading Decentralized Finance (DeFi) lending
+  protocol backed by a16z crypto, Paradigm, Ribbit Capital,
+  Apollo, Vaneck, Coinbase Ventures, Variant and 50 others to
+  build an open credit network giving anyone, anywhere, access
+  to the best possible terms. Morpho is experiencing
+  exponential adoption, with over billion in deposits on the
+  network and used by institutional clients including Bitwise,
+  Galaxy, and Anchorage Digital and the largest crypto
+  exchanges, such as Coinbase, Binance, and Kraken. Now,
+  Morpho is scaling its team of contributors to establish
+  itself as the open credit network, not just of DeFi, but of
+  the world.
+
+
+
+  Why Morpho Exists
+
+  Everyone has the potential to build something great for the
+  world. But fulfilling that ambition almost always requires
+  more: people willing to trust you with their capital. Yet
+  access to capital still depends on where you live, who you
+  know, and which institutions are willing to trust you. Even
+  when capital is available, it sits fragmented across
+  disconnected networks and hidden behind intermediaries. The
+  result is a system that fails most of the people it should
+  serve. Borrowers overpay. Lenders earn less than they
+  should. Many are shut out entirely, not because they are
+  unworthy of credit, but because today's infrastructure was
+  never built to connect them. Morpho exists to solve this.
+  Full article here.
+
+  Location
+
+  Paris or remote (from -5h GMT up to +2h GMT to ensure
+  sufficient overlap with the rest of the team).
+
+  How we work
+
+  We move fast on hard problems in a nascent market with no
+  set playbook: navigating uncertainty is part of the job.
+  You'll be challenged: anyone can question work and decisions
+  must be justified. We keep a high bar and match it with high
+  support: we help each other unblock and share context
+  openly, with low ego. More about our values:
+  morpho.org/jobs.
+
+  Role
+
+  The mission of this role is to own the technical
+  architecture and end-to-end delivery of Morpho's product
+  suite, spanning React frontends, GraphQL APIs, and on-chain
+  data systems, ensuring the platform scales reliably as
+  Morpho grows beyond $10B in TVL, while actively raising the
+  technical bar across the engineering team.
+
+  Responsibilities
+
+  - Architect and own end-to-end delivery of DeFi products with
+    billions in TVL, from React/Next.js frontends through
+    GraphQL/REST APIs to blockchain data indexers, ensuring
+    sub-second response times for users.
+  - Design and implement the API and SDK strategy enabling
+    hundreds of integrators to build on Morpho's
+    infrastructure, including versioning patterns, developer
+    experience standards, and real-time streaming systems.
+  - Build and optimize high-performance data systems processing
+    millions of on-chain events across 15+ blockchains, using
+    intelligent caching and query optimization to maintain
+    reliability at scale.
+  - Lead technical architecture reviews and establish coding
+    standards that raise the technical capability of 5-10
+    engineers across product teams.
+  - Own observability and incident response across the stack,
+    using OpenTelemetry, Grafana, and Sentry to ensure
+    reliability for users and integrators.
+
+  What Success Looks LikeFirst 30 days
+
+  Shipped a high-impact feature end-to-end that demonstrates
+  competency across the full stack. Completed an architecture
+  review of current systems and proposed a modernization
+  roadmap. Built working relationships with key stakeholders
+  across product, protocol, and business teams.
+
+  First 4 months
+
+  Leading delivery of a major product initiative from scoping
+  to production. Driving measurable improvements to API p95
+  latency through caching, query optimization, and
+  architectural changes.
+
+  In 1 year
+
+  Owns technical architecture for an entire product vertical,
+  with proven reliability and performance metrics. Recognized
+  as the technical authority for fullstack architecture
+  decisions across the organization.
+
+  Must-have Experience & Skills
+
+  - 8-10+ years building fullstack applications at scale, with
+    demonstrated impact on business metrics.
+  - Proven track record architecting high-availability systems
+    handling millions of requests daily.
+  - Deep TypeScript expertise across client and server:
+    React/Next.js, GraphQL (Apollo Server), Node.js, and typed
+    contract interactions (viem).
+  - Hands-on experience building or maintaining on-chain data
+    indexers (Ponder, Subsquid, or similar) and working
+    knowledge of EVM event structures.
+  - Track record of leading technical initiatives across
+    multiple teams without direct authority.
+  - Comfort operating in fast-changing, ambiguous environments
+    without needing a defined playbook.
+  - Strong ownership mindset: you drive things to completion and
+    don't wait to be asked.
+  - Clear, crisp async communication: you write well and can
+    explain complex technical decisions simply.
+  - Team-first approach: you make the engineers around you
+    better, not just the codebase.
+  - Humble.
+
+  Perks & Benefits
+
+  We design benefits around deep work and growth, so you can
+  do the best work of your career. Expect fair, top-tier
+  compensation, real flexibility, time together in Paris,
+  great health coverage, and support to keep learning.
+
+
+
+  Equal Opportunity
+
+  We welcome applicants from all backgrounds and hire based on
+  talent, potential, and values alignment.
+posted_date: 2026-06-22
+url: "https://builtin.com/job/staff-fullstack-engineer/9002852"
+source: Built In

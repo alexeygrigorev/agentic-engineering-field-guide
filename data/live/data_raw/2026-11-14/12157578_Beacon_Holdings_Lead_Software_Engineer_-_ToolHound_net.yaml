@@ -1,0 +1,164 @@
+job_id: 12157578
+title: Lead Software Engineer - ToolHound (.net)
+company: Beacon Holdings
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 103 Employees
+description: |
+  Where the Work Is:
+
+  Beacon buys great vertical software businesses and makes
+  them dramatically more valuable, not by squeezing them, but
+  by giving them world-class engineering and AI leadership
+  they could never hire on their own. Our engineers go where
+  the work is: embedded inside a single business, owning its
+  technology end to end, and compounding its enterprise value
+  quarter over quarter.
+
+  This role is one of those seats. You will be the technical
+  leader for ToolHound, a mature, profitable tool-and-asset-
+  management platform used by industrial, construction,
+  energy, and manufacturing customers to track where every
+  tool and asset is, who has it, and what it costs them. You
+  won't advise from the outside. You'll own the codebase, set
+  the roadmap, lead the team, and be measured on the value you
+  create. This is an AI-native rebuild, not maintenance.
+  ToolHound is a profitable, established platform, and the
+  mandate is to reimagine what it does with AI at the center,
+  and you're the technical leader who owns that from the
+  front.
+
+  We're looking for a jack of all trades, a strong generalist
+  who can go deep where it counts. Deep, current .NET
+  expertise is the price of entry, because that's what
+  ToolHound is built on today. Over time, ToolHound converges
+  onto Beacon's shared engineering standards, and you'll be
+  the one leading that journey. The right person is excited by
+  both, mastering the stack in front of them and growing into
+  a broader one.
+
+  What You'll Do:
+
+  - Own the technical and product roadmap. Decide what gets
+    built and why, in partnership with the GM and customers.
+    Translate business priorities (retention, expansion, new
+    verticals, operational leverage) into a sequenced
+    engineering plan you're accountable for.
+  - Drive everything technical. Architecture, code quality,
+    security, data modeling, performance, release engineering,
+    and the migration path. You set the bar and you'll make
+    the final technical decision.
+  - Ship AI that changes the business, not demos. Take the
+    natural-language assistant and the broader AI surface from
+    plan to production: evals, guardrails, tenant-safe tool
+    use, and features customers feel. You know when to lean on
+    a foundation model, when to fine-tune, and how to keep
+    agentic workflows on the rails in a multi-tenant system.
+  - Lead and grow the team. Mentor the current engineer, raise
+    their ceiling, and establish the best practices.
+  - Increase velocity and harden the codebase. Make shipping
+    faster and safer: modernize the stack, tighten the SQL and
+    data layer, invest in test coverage and automation, and
+    pay down risk so the platform can carry far more weight
+    than it does today.
+  - Be the technical face of ToolHound. Earn the trust of
+    operators and customers, set expectations, and communicate
+    clearly in writing.
+
+  What We're Looking For:
+
+  - A senior .NET expert — day one. Deep, current C# / ASP.NET
+    Core (through .NET 8–10), comfortable owning a large,
+    mature codebase immediately: reading it, fixing it, and
+    reshaping it with judgment. This is the non-negotiable
+    starting requirement.
+  - A genuine generalist ("jack of all trades"). You're
+    T-shaped, deep in .NET now, but you pick up new languages,
+    stacks, and clouds quickly and enjoy it. You can move
+    across web, mobile, data, infra, and AI without waiting
+    for permission, and you're energized (not threatened) by
+    converging onto TypeScript/React, Go, Python, and AWS over
+    time.
+  - Cloud and SQL depth. You've designed, deployed, and operated
+    real systems in the cloud, and can model, query, tune, and
+    reason about production databases.
+  - Mobile fluency. Hands-on with cross-platform mobile: .NET
+    MAUI (or Xamarin/ native, with the ability to go deep on
+    MAUI), including scanning, camera, and offline sync.
+  - AI-native engineering. You've shipped production software on
+    foundation models (LLM tool use, retrieval, evals,
+    guardrails), not just prototypes, and you have a point of
+    view on doing it safely in a multi-tenant product.
+  - Technical leadership. You've led engineers. Set direction,
+    mentored, raised quality in a small, high-ownership team
+    where the leader still ships code.
+  - Product and business instinct. You can read what actually
+    drives the business, prioritize accordingly, and defend a
+    roadmap to a GM and to customers.
+  - A strong writer and communicator who builds trust with non-
+    engineers.
+
+  Nice to Have:
+
+  - Experience across our target technologies —
+    TypeScript/React, Go, Python, AWS, Kubernetes,
+    infrastructure-as-code, modern CI/CD, Postgres, and
+    metrics/product-analytics tooling — or a track record of
+    learning stacks like these fast.
+  - Vertical / B2B or industrial SaaS experience (asset
+    management, inventory, field service, logistics,
+    construction tech).
+  - RFID / IoT / hardware-integrated systems.
+  - DevExpress reporting, multi-tenant SaaS architecture, or
+    licensing systems.
+  - Experience modernizing or re-platforming a legacy .NET
+    codebase without a disruptive rewrite.
+
+  Our Values at Beacon Software
+
+  - Humility: We acknowledge that the path to getting to the
+    right answer involves being wrong along the way. We have
+    strong beliefs which are weakly held. We actively seek new
+    ideas and believe we can learn from anyone at any time.
+  - Honesty: We are truth seeking in our approach to business
+    problems. Business is a repeat game and we believe that
+    human relationships generate alpha. We understand that
+    trust is earned over a lifetime and can be lost in an
+    instant.
+  - Hunger: We play to win. We hold ourselves to high standards
+    and will not be outworked. We take pride in having a deep
+    sense of responsibility to ourselves, each other, our
+    partners, and our customers. We believe to whom much is
+    given much is expected.
+  - Horizon: We seek to build a generational software company.
+    This will take decades. We manage our expectations and
+    those of our partners to take advantage of the 8th wonder
+    of the world - compounding growth.
+
+  How We Use AI in Our Hiring Process: To ensure transparency,
+  we want candidates to know that Beacon Software uses
+  Artificial Intelligence and AI-enabled tools to assist with
+  screening, reviewing, organizing and highlighting profiles
+  and applications that match the key requirements for each
+  role.
+
+
+
+  AI does not make hiring decisions: Every application is
+  reviewed by a member of our team, and all decisions
+  throughout the process are made by humans. We use AI to
+  support efficiency and consistency, not to replace human
+  judgment. We are committed to a fair, thoughtful, and
+  equitable experience for every candidate.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Financial Services
+posted_date: 2026-11-10
+url: "https://builtin.com/job/tech-lead-toolhound/12157578"
+source: Built In

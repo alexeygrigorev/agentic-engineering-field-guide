@@ -1,0 +1,169 @@
+job_id: 9301737
+title: Senior or Staff Software Engineer, SRE/ Platform Team
+company: OneSignal
+location: ESP
+locations:
+  - ESP
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 102 Employees
+description: |
+  OneSignal is the autonomous lifecycle marketing engine for
+  B2C app companies. Marketers can orchestrate the campaigns
+  that onboard, engage, and retain users, increasing LTV and
+  reducing churn. Companies like Zynga, Bitcoin.com, and
+  Philips use OneSignal to drive outcomes with AI that scales
+  with you.
+
+  We’re Series C, venture-backed by SignalFire, Rakuten
+  Ventures, Y Combinator, HubSpot, and BAM Elevate. We offer
+  remote work as the default option in the United States in
+  California, Colorado, Florida, Massachusetts, New York, New
+  Jersey, Ohio, Oregon, Pennsylvania, Texas, Utah and
+  Washington. As well as in the UK, Singapore, and Canada -
+  with plans to expand the locations we support in the future.
+  Some roles are hybrid roles and will be listed as such. We
+  have offices in San Francisco and San Mateo in CA, in
+  London, UK, and offer flex seating options for employees to
+  work together in-person in NY and other areas. Hiring in
+  Singapore is done in partnership with a local EOR, and
+  hiring in Canada is done in partnership with Rippling's EOR.
+
+  OneSignal has a lot of the great tech startup qualities
+  you'd expect, but we don't stop there. Our massive scale and
+  small team, emphasis on collaboration, and focus on
+  ownership and personal growth make OneSignal a uniquely
+  great place to work.
+
+  About The Team:
+
+  We have grown rapidly to where we are today, serving
+  billions of HTTP requests daily. We achieved this scale by
+  writing scale-sensitive components in languages like Rust
+  and Go. This potent combination of high performance with
+  efficient resource utilization has given us an incredible
+  competitive edge.
+
+
+
+  We are seeking a Platform Engineer to join our team and help
+  us scale by managing and developing the next generation of
+  our infrastructure. While we currently maintain a 99.95%
+  uptime, we are dedicated to sustaining this level of
+  reliability as our product and business expand.
+
+  In this role, your core responsibility will be software
+  engineering with a specialized focus on operations,
+  infrastructure, and automation. You will develop the systems
+  that power our product, enhance internal services, and
+  provide architectural guidance to product teams to ensure
+  optimal service operability.
+
+  You will leverage Kubernetes to automate data center
+  functions and create services that streamline database
+  operations. A major aspect of this position is gaining a
+  deep enough understanding of our systems to move beyond
+  manual intervention and build sophisticated software
+  solutions that fully automate these processes.
+
+  What You'll Do:
+
+  - Optimize and Elevate Performance: Identify bottlenecks in
+    our systems and unleash your creativity to introduce
+    cutting-edge optimizations. You'll have the chance to
+    improve the performance of our databases and evaluate
+    innovative storage technologies that will elevate our
+    infrastructure to new heights.
+  - Forge Infrastructure as Code: Take the lead in setting up
+    robust infrastructure and configuration-as-code with
+    Kubernetes and Terraform. You'll be at the forefront of
+    shaping our foundational architecture, ensuring it’s both
+    resilient and scalable.
+  - Drive Observability and Monitoring: Establish and maintain a
+    state-of-the-art observability and monitoring stack. Your
+    insights will enable us to stay ahead of potential issues,
+    ensuring our services remain reliable and performant.
+  - Craft the Golden Path for CI/CD: Define and implement best
+    practices for continuous integration and deployment. Your
+    work will streamline the deployment process for our
+    engineering teams, allowing them to roll out new features
+    swiftly and safely.
+  - Collaborate Across Teams: Work closely with engineering
+    teams to architect highly scalable, observable services.
+    Your collaboration will be essential in creating a
+    cohesive and efficient development environment.
+  - Be a Key Player in Incident Response: Join the on-call
+    rotation and play a crucial role in maintaining our
+    systems' health. Your expertise will be vital in
+    troubleshooting and resolving issues, ensuring our
+    services always meet the highest standards.
+
+  What you'll bring:
+
+  - At least 8 years of platform experience
+  - Experience operating reliable production systems at scale
+  - Knowledge of Linux systems internals
+  - Desire and ability to automate tasks
+  - Experience managing PostgreSQL for high-scale throughput
+    systems, or similar experience with other relevant SQL
+    datastores.
+  - Operational experience deploying and managing Kubernetes
+  - Experience working with Cloud Providers (AWS/GCP/Azure)
+
+  We value a variety of experiences, so these are not
+  required. It would be an added bonus if you have experience
+  in any of the following:
+
+  - Recently writing Go and/or Rust
+  - Working with ScyllaDB
+  - Redis, Kafka, etcd, Clickhouse, Kubernetes
+
+  The base salary in UK for a Senior Software Engineer full-
+  time position is between GBP 100,000 and GBP 125,000, and
+  for the Staff level is GBP 125,000 and GBP 145,000. Your
+  exact starting salary is determined by a number of factors
+  such as your experience, skills, and qualifications. In
+  addition to base salary, we also offer a competitive equity
+  program and comprehensive and inclusive benefits.
+
+  Qualities we look for:
+
+  - Friendliness & Empathy
+  - Accountability & Collaboration
+  - Proactiveness & Urgency
+  - Growth Mindset & Love of Learning
+
+  In keeping with our beliefs and goals, no employee or
+  applicant will face discrimination/harassment based on:
+  race, color, ancestry, national origin, religion, age,
+  gender, marital domestic partner status, sexual orientation,
+  gender identity, disability status, or veteran status. Above
+  and beyond discrimination/harassment based on 'protected
+  categories,' we also strive to prevent other, subtler forms
+  of inappropriate behavior (e.g., stereotyping) from ever
+  gaining a foothold in our office. Whether blatant or hidden,
+  barriers to success have no place in our workplace.
+
+  Applicants with disabilities may be entitled to reasonable
+  accommodation under the terms of the Americans with
+  Disabilities Act and certain state or local laws. A
+  reasonable accommodation is a change in the way things are
+  normally done which will ensure an equal employment
+  opportunity without imposing undue hardship on OneSignal.
+  Please inform us if you need assistance completing any forms
+  or to otherwise participate in the application and/or
+  interview process.
+
+  OneSignal collects and processes personal data submitted by
+  job applicants in accordance with our Privacy Policy -
+  including GDPR and CCPA compliance. Please see our privacy
+  notice for job applicants.
+industries:
+  - Mobile
+  - Other
+  - Software
+  - Analytics
+posted_date: 2026-08-22
+url: "https://builtin.com/job/senior-or-staff-software-engineer-sre-platform-team/9301737"
+source: Built In

@@ -1,0 +1,181 @@
+job_id: 11376836
+title: Software Engineer, Platform
+company: Ambrook
+location: Denver, USA
+locations:
+  - Denver, USA
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 15 Employees
+description: |
+  Ambrook helps American family-run businesses become more
+  profitable and resilient. From volatile markets to climate
+  shifts, independent operators face mounting pressure. While
+  sustainable investments often yield the best long-term
+  returns, they require financial clarity and capital that
+  fragmented legacy systems can’t provide. We are rebuilding
+  the financial infrastructure that real economy operators
+  rely on. By replacing paperwork with modern tools for
+  accounting, banking, and spending, Ambrook gives owners the
+  data they need to prove viability to lenders and the next
+  generation. We empower the stewards of land and labor to
+  make confident investments in their future. We’re a Series B
+  startup backed by Lachy Groom, Thrive Capital, Dylan Field,
+  Thomson Reuters Ventures, Cameron Ventures, and leaders at
+  Notion, Gusto, and Vercel. We’re looking for team members to
+  help us untangle the intersection of American industry,
+  climate, and the economy.
+
+  The opportunity
+
+  Ambrook's platform engineers build the foundational systems
+  that let the rest of the company build Ambrook better. This
+  is a broad mandate: you'll work across product
+  infrastructure, including our PostgreSQL databases and GCP
+  environment, and company infrastructure, including internal
+  tooling, data platforms, and the systems that power internal
+  AI workflows. Most of our stack is TypeScript, with some GCP
+  scripting you'll pick up on the job.
+
+  This role combines strong infrastructure judgment with a
+  product mindset. You'll learn from the engineers and non-
+  engineering teams who depend on the platform, iterate
+  quickly for them, and defend the quality, security, and
+  scalability standards that keep Ambrook dependable as we
+  grow.
+
+  You'll also help build the infrastructure behind Ambrook's
+  agentic systems. The focus isn't on building individual
+  agents: it's on creating the shared frameworks, evals,
+  loops, harnesses, sandboxes, and interfaces that let
+  internal teams and customer-facing product teams build and
+  operate agents with confidence. We're working toward a world
+  where any team can request an agent, deploy it to the cloud,
+  run evals, and see results on a dashboard. Your work will
+  improve the experience of every employee and expand what the
+  whole company can ship.
+
+  Within 1 month you'll…
+
+  - Build a working mental model of Ambrook's product and
+    company infrastructure, including PostgreSQL, GCP, data
+    systems, developer tooling, security foundations, and
+    emerging agent infrastructure.
+  - Develop relationships with engineering and non-engineering
+    stakeholders to understand how they use the platform and
+    where it creates friction.
+  - Ship a meaningful infrastructure improvement to production
+    that improves the codebase, developer experience, or
+    internal tooling.
+  - Identify and prioritize platform opportunities based on
+    conversations with the teams who depend on these systems.
+
+  Within 3 months you'll…
+
+  - Own a platform project from discovery through production
+    rollout that improves developer velocity, reliability, or
+    scalability across the codebase.
+  - Plan and execute a production database or GCP change with
+    safe migration, validation, observability, and rollback
+    practices.
+  - Ship a useful slice of Ambrook's internal agent
+    infrastructure, such as an interface for configuring
+    agents, an evaluation system, or a harness for running
+    agent loops.
+  - Establish a tight feedback loop with internal platform
+    customers and use it to improve what you build.
+
+  Within 6 months you'll…
+
+  - Expand shared agent infrastructure that supports both
+    internal workflows and customer-facing agentic features,
+    including reusable evals, harnesses, sandboxes, and
+    operational tooling.
+  - Drive a platform roadmap informed by internal customer
+    needs, codebase-wide opportunities, and Ambrook's
+    standards for quality, security, and scalability.
+  - Deliver a substantial improvement to Ambrook's database,
+    cloud, data, or developer infrastructure and help the
+    broader engineering team adopt it.
+  - Raise the standard for infrastructure changes through clear
+    design, careful migration planning, and production
+    ownership.
+
+  About you
+
+  - You have built and operated production platform or
+    infrastructure systems, with hands-on experience in
+    PostgreSQL and GCP.
+  - You have planned and run migrations at scale, including
+    validation, observability, and rollback strategies that
+    protect production systems and customer data.
+  - You enjoy platform work and look for changes that improve
+    the whole codebase, developer experience, or tooling
+    rather than a single feature.
+  - You treat engineers and non-engineering teams as platform
+    customers. You learn how they work, build with empathy,
+    and iterate from real feedback.
+  - You can move quickly while defending the quality and
+    scalability standards that shared infrastructure requires.
+  - You are comfortable building the interfaces and supporting
+    product surfaces that make infrastructure useful to
+    internal teams.
+  - You are security-minded and consider access, data handling,
+    failure modes, and operational risk as part of ordinary
+    engineering work.
+  - Bonus: You have built infrastructure for agentic systems,
+    such as evals, agent loops, harnesses, or sandboxes,
+    rather than only building individual agents.
+  - Bonus: Experience working directly on application security
+    or infrastructure security.
+  - Bonus: Experience building financial products or systems
+    where auditability and data integrity matter.
+
+  Our values
+
+  - Real Talk – We create space for ourselves and others to be
+    straightforward, vulnerable, and accountable.
+  - Reach Understanding – We are driven by curiosity and empathy
+    to learn about our customers, team, and world.
+  - Be Proactively Resourceful – We are internally motivated and
+    externally empowered to identify opportunities and solve
+    problems.
+  - Derisk Thoughtfully – We lean into the biggest risks we face
+    as a company and put in the work to address them
+    systematically.
+  - Find the Positive-Sum – We believe in creating incentive
+    structures that align the needs of our company, our
+    customers, and our planet.
+
+  Benefits
+
+  - Competitive salary
+  - Health insurance
+  - 401(k) with matching contribution
+  - Flexible vacation time
+  - Flexible work hours
+  - Work-from-home/remote office stipend, or desk at Ambrook’s
+    NYC office or Denver office
+  - Wellness stipend
+  - Professional development stipend
+
+  Our values
+
+  - Real Talk – We create space for ourselves and others to be
+    straightforward, vulnerable, and accountable.
+  - Reach Understanding – We are driven by curiosity and empathy
+    to learn about our customers, team, and world.
+  - Be Proactively Resourceful – We are internally motivated and
+    externally empowered to identify opportunities and solve
+    problems.
+  - Derisk Thoughtfully – We lean into the biggest risks we face
+    as a company and put in the work to address them
+    systematically.
+  - Find the Positive-Sum – We believe in creating incentive
+    structures that align the needs of our company, our
+    customers, and our planet.
+posted_date: 2026-09-25
+url: "https://builtin.com/job/software-engineer-platform/11376836"
+source: Built In

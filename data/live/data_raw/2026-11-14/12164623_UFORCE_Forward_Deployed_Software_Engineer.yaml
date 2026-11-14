@@ -1,0 +1,149 @@
+job_id: 12164623
+title: Forward Deployed Software Engineer
+company: UFORCE
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 1,000 Employees
+description: |
+  UFORCE exists to make aggression unaffordable. Founded in
+  Ukraine and headquartered in London, UFORCE is a defence-
+  technology company with operations across Europe, the United
+  States and Asia. UFORCE builds uncrewed vessels, ground
+  robotics and aircraft, autonomy software, and the command-
+  and-control layer that operates them together. Each platform
+  is deployable on its own, and stronger as part of the
+  system. Its product lines include the MAGURA family of
+  uncrewed surface vessels, the NEMESIS family of strike
+  platforms, the LIUT family of ground robotic platforms, and
+  counter-UAS systems.
+
+  About the Role
+
+  We’re looking for a Forward Deployed Engineer to make UFORCE
+  systems work reliably in the field. You’ll work alongside
+  engineers, operators and customers during trials,
+  demonstrations, training and deployments, resolving issues
+  and turning field experience into practical improvements.
+
+  Software is your primary discipline, but this is not a desk-
+  based software role. It’s a hands-on, deployed position
+  where you’ll work across the wider system, from networking
+  and communications to equipment setup and operator
+  workflows.
+
+  You don’t need deep mechanical, marine or electronics
+  expertise. We’re looking for strong software skills,
+  practical operational experience and the ability to learn
+  quickly.
+
+  The role is a remote based role, with regular travel to
+  field sites and customer locations locally and
+  internationally.
+
+  What You Will Do
+
+  - Own technical execution in the field: deploying,
+    configuring, and supporting our systems during trials,
+    demonstrations, training, and customer activity, often
+    with limited backup.
+  - Manage the software side of deployments, including
+    baselines, versions, configuration control, release notes,
+    validation checks, and rollback and recovery procedures.
+  - Diagnose faults across the whole deployed system using
+    structured fault isolation, separating software, hardware,
+    network, comms, power, sensor, configuration, operator,
+    and environmental causes.
+  - Read logs, reproduce issues, test hypotheses, and capture
+    clear evidence, then hand issues back to Engineering with
+    enough context to act on them quickly.
+  - Write scripts and small tools that automate checks, validate
+    configuration, parse logs, and reduce manual work in the
+    field.
+  - Prepare for field activity by checking equipment, cabling,
+    compute setup, spares, tools, checklists, and
+    documentation. Support practical tasks beyond software,
+    such as system setup and compute swaps, and improve
+    preparation so deployments become faster and more
+    repeatable.
+  - Turn field observations into clear feedback for Software,
+    Product, Operations, and Engineering, closing the gap
+    between what is built, what is deployed, and what the
+    customer expects.
+  - Support operators and customers during demonstrations and
+    training, explain technical issues clearly to both
+    specialist and non-specialist audiences, and help
+    customers become more self-sufficient after handover.
+  - Improve software readiness over time, including
+    observability, release discipline, documentation, and
+    knowledge transfer, so the field depends less on
+    engineering reach-back.
+
+  What We're Looking For
+
+  - Strong software engineering ability as your primary
+    discipline, with skills in Python and/or C++ for
+    debugging, log analysis, and system maintenance.
+  - You can read, write, and debug code and scripts and are
+    comfortable with version control, APIs, services, and
+    logs.
+  - Systems-minded judgment. You can explain interfaces,
+    dependencies, and trade-offs across software, compute,
+    networking, comms, sensors, hardware, and field
+    operations, and you avoid assuming that every problem is a
+    software problem.
+  - Experience deploying and configuring Linux-based software
+    systems, including package management, services,
+    containers, updates, rollbacks, and repeatable deployment
+    methods.
+  - Practical field troubleshooting experience in deployed or
+    operational settings, such as military or global
+    operations, motorsport, field engineering, remote
+    production, customer sites, maritime, robotics, aerospace,
+    or automotive environments.
+  - Working knowledge of networking and integration, including
+    TCP/IP, VLANs, routing, VPNs, DNS, DHCP, firewalls, and
+    how to tell a software failure from a connectivity,
+    sensor, or data-link problem.
+  - Operational discipline: you prepare thoroughly, use
+    checklists, manage risk, escalate sensibly, and stay calm
+    under pressure.
+  - Clear technical communication, including structured,
+    unambiguous reporting that Engineering can act on and
+    operators can understand.
+  - A team-first, high-ownership approach. You work well with a
+    small, multidisciplinary team, including during extended
+    deployments, and are willing to travel regularly and
+    support field activity.
+
+  Nice to Have
+
+  - Experience with robotics, uncrewed systems, autonomy or
+    mission software, sensors, telemetry, operator interfaces,
+    or defence trials.
+  - Experience deploying software to edge compute or in
+    disconnected environments, including containers and
+    orchestration, CI/CD, infrastructure automation,
+    observability, and controlled updates.
+  - Familiarity with tools such as Docker, Kubernetes, Helm,
+    Ansible, or Terraform.
+  - Experience representing a technical team in customer
+    demonstrations, trials, training, or deployments.
+  - Experience working in security-sensitive or controlled
+    environments.
+
+  The nature of combat has changed.
+
+  Tomorrow’s battlefield success depends on autonomy, speed,
+  and adaptability.
+
+  And UFORCE is ready.
+
+  Are You?
+industries:
+  - Aerospace
+  - Robotics
+  - Defense
+posted_date: 2026-11-10
+url: "https://builtin.com/job/forward-deployed-software-engineer/12164623"
+source: Built In

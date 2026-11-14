@@ -1,0 +1,123 @@
+job_id: 7634290
+title: Junior Software Engineer (with SRE Influences)
+company: Fogsphere
+location: London, GBR
+work_type: FULL_TIME
+company_size: 31 Employees
+description: |
+  About Fogsphere
+
+  Fogsphere is a London‑based innovator focused on
+  transforming workplace and urban safety through advanced AI,
+  Computer Vision, and Industrial IoT. Built on a principled
+  “Edge‑to‑Fog‑to‑Cloud” architecture, our platform turns
+  passive CCTV cameras and sensors into proactive hazard
+  detectors, capable of identifying threats like missing PPE,
+  fire, smoke, restricted access violations, and more—in real
+  time and at scale. This helps organizations across
+  industries—from manufacturing, construction, oil & gas, and
+  healthcare to smart cities—reduce workplace accidents by up
+  to 90%, ensure regulatory compliance (EHS), and gain
+  powerful operational insights. Fogsphere’s intuitive no‑code
+  visual workflows, hyper‑scalable Kubernetes‑based
+  infrastructure, and commitment to ethical AI and privacy
+  (GDPR compliance) make it a user‑friendly yet
+  enterprise‑grade solution.
+
+  About the Role
+
+  As a Junior Software Engineer, you will play a key role in
+  the development, testing, and reliability of Fogsphere’s AI
+  platform. This role blends software engineering with
+  elements of site reliability engineering (SRE) — giving you
+  exposure not only to building robust software but also to
+  ensuring its smooth, automated, and scalable deployment in
+  production environments.
+
+  You’ll start by supporting our engineering team with Python
+  and JavaScript development, test automation, and CI/CD
+  workflows on Azure, progressively expanding your scope
+  toward infrastructure reliability, monitoring, and
+  performance optimization.
+
+  We are looking for brilliant, motivated, and curious
+  individuals — those who love solving complex problems,
+  learning new technologies, and taking ownership of both code
+  and systems.
+
+  This position is ideal for someone who enjoys coding but is
+  equally passionate about automation, quality, and the
+  reliability of the systems they help build.
+
+  Key Responsibilities
+
+  - Develop and maintain small Python and JavaScript modules
+    supporting internal tools, workflows, and production
+    systems.
+  - Design, write, and execute unit and integration tests using
+    frameworks such as pytest, unittest, Playwright.
+  - Support test data preparation, validation scripts, and
+    backend service testing.
+  - Assist in automating CI/CD pipelines on Azure, improving
+    build and deployment reliability.
+  - Collaborate with Software, QA, and SRE Engineers to
+    identify, reproduce, and document bugs and performance
+    issues.
+  - Participate in code reviews and contribute to improving code
+    quality, testing coverage, and deployment stability.
+  - Learn and apply DevOps and SRE principles — observability,
+    monitoring, and automated recovery.
+  - Explore infrastructure-as-code, containerization (Docker,
+    Kubernetes), and cloud-based automation.
+
+
+
+  Required Skills & Qualifications
+
+  - Bachelor’s degree in Computer Science, Engineering, or
+    equivalent practical experience.
+  - Basic to intermediate knowledge of Python and JavaScript
+    programming.
+  - Understanding of software testing principles, version
+    control (Git), and CI/CD basics.
+  - Curiosity for QA, DevOps, and reliability engineering
+    practices.
+  - Strong attention to detail, analytical thinking, and
+    problem-solving mindset.
+  - Good communication and collaboration skills in English.
+
+
+
+  Nice-to-Have (or “Good to Grow Into”)
+
+  - Experience with testing libraries (pytest, unittest, mock,
+    Playwright, MochaJS, …).
+  - Exposure to REST API testing, Selenium, or other automation
+    tools.
+  - Familiarity with Azure DevOps, Docker, Linux environments,
+    or cloud-based CI/CD systems.
+  - Interest in site reliability, monitoring tools (e.g.,
+    Prometheus, Grafana), or infrastructure automation.
+  - Enthusiasm for learning, experimentation, and continuous
+    improvement.
+
+  What We Offer
+
+  - ZERO micromanagement. At Fogsphere, developers work
+    independently under the Head of Engineering, with a focus
+    on open discussion and professional development, where the
+    best ideas are the ones applied.
+  - Opportunity to work on cutting-edge front-end development
+    challenges in some of the largest deployments in the
+    field.
+  - Collaborative environment with a team of engineers based in
+    multiple countries.
+  - Competitive salary and benefits package.
+  - Career growth and continuous learning opportunities.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-08-20
+url: "https://builtin.com/job/junior-software-engineer-sre-influences/7634290"
+source: Built In

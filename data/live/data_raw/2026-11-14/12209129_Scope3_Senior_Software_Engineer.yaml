@@ -1,0 +1,233 @@
+job_id: 12209129
+title: Senior Software Engineer
+company: Scope3
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 54 Employees
+description: |
+  About Apostra
+
+  Apostra is defining a new future for advertising, for both
+  humans and their agents.
+
+  Our founders helped build the technology that shaped
+  advertising as we know it today. Now, we’re reimagining it
+  from the ground up for a world of people and agents, with
+  human intent at its heart.
+
+  We’re creating a place where advertisers, media owners and
+  their agents can discover and act on every kind of media,
+  opening up opportunities that have historically been
+  fragmented and hard to access.
+
+  About the Role
+
+  Our technical team is creating the infrastructure that
+  enables AI agents to discover, negotiate, and transact media
+  inventory autonomously.
+
+  As a Senior Software Engineer, you'll be a hands-on
+  contributor to the APIs, protocols, and agent interfaces
+  that power our agentic advertising platform. You'll help
+  build systems where AI agents are first-class participants,
+  with their own authentication, capabilities, and
+  communication standards.
+
+  You'll work at the intersection of advertising technology,
+  distributed systems, and emerging AI agent frameworks,
+  tackling complex technical challenges and helping shape how
+  our marketplace evolves.
+
+  This is a full-stack (80/20 backend-leaning), hands-on
+  product engineering role. You'll design and build production
+  systems, explore new agent communication patterns, and take
+  meaningful ownership of technical problems from concept
+  through implementation. We're looking for someone who
+  combines strong engineering fundamentals with curiosity,
+  resourcefulness, and an eagerness to work with emerging AI
+  technologies.
+
+  This Isn't a Typical Engineering Role
+
+  - AI isn't an add-on to how we engineer; it's central to how
+    we build. We embrace AI-first development workflows and
+    expect engineers to actively leverage AI coding agents and
+    tools throughout their work. We're looking for people who
+    are genuinely excited about this shift, experiment with
+    emerging capabilities, and continuously rethink what's
+    possible when AI becomes an integral part of the
+    engineering process.
+  - We're operating in a space without a fixed playbook. We
+    value engineers who are comfortable navigating ambiguity,
+    figuring things out, and creating structure where none
+    exists.
+  - Our approach favors rapid experimentation over upfront
+    perfection. We test, learn, iterate, and formalize what
+    works.
+  - We move quickly, tackle difficult problems, and expect
+    engineers to take ownership of their work. You'll have
+    significant autonomy and the opportunity to make a
+    meaningful impact.
+  - We're a small, collaborative team where initiative matters.
+    We value people who know how to make progress
+    independently, communicate proactively, and seek out the
+    context or support they need to succeed.
+
+  Responsibilities
+
+  - Design and build scalable APIs for both human and AI agent
+    clients.
+  - Develop agent interfaces, MCP servers, and A2A communication
+    layers.
+  - Build and operate high-throughput systems for real-time
+    advertising transactions.
+  - Explore, evaluate, and integrate emerging agent frameworks
+    and protocols.
+  - Contribute to architectural decisions around authentication,
+    protocols, and transaction flows.
+  - Take ownership of complex technical challenges, anticipating
+    edge cases in autonomous agent behavior.
+  - Continuously improve engineering workflows, including the
+    practical application of AI tools to accelerate
+    development and problem-solving.
+  - Collaborate with teammates to share knowledge, work through
+    technical challenges, and raise the overall quality of our
+    engineering output.
+
+  Qualifications
+
+  - 5+ years of professional software product engineering
+    experience, ideally building distributed backend systems
+    or complex production applications. Exceptional candidates
+    with 4+ years of experience are encouraged to apply.
+  - AI-native engineering mindset: Demonstrated experience
+    incorporating AI coding agents and tools into your
+    development workflow. You actively experiment with AI-
+    assisted development and are excited about the evolving
+    role of AI in software engineering.
+  - Strong engineering fundamentals, with the ability to think
+    through complex technical problems and translate them into
+    practical, scalable solutions.
+  - Experience designing and building APIs and backend services
+    (REST, event-driven systems, authentication, versioning).
+  - Experience working with distributed systems, high-throughput
+    applications, or systems involving autonomous or semi-
+    autonomous decision-making.
+  - A self-starter mentality and the ability to take ownership
+    of projects and drive them forward with minimal direction.
+  - Comfortable navigating ambiguity, learning unfamiliar
+    technologies, and adapting quickly as priorities and
+    requirements evolve.
+  - Strong communication skills and the confidence to advocate
+    for what you need, ask questions, and collaborate
+    effectively with teammates.
+  - A low-ego approach to engineering: open to feedback, willing
+    to challenge your own assumptions, and more interested in
+    finding the right solution than being right.
+
+  Backgrounds in early-stage startups, founding engineering
+  teams, or forward-deployed engineering can be particularly
+  valuable, especially where you've had to operate
+  independently, take ownership across multiple areas, and
+  work directly with customers or external partners.
+
+  Our Engineering Environment & Tech Stack
+
+  AI-First Development: AI is central to how we build software
+  at Apostra. Our engineers actively leverage AI coding agents
+  and development tools throughout the software development
+  lifecycle, from exploring unfamiliar codebases and designing
+  solutions to writing, testing, debugging, and iterating on
+  production code. We're looking for engineers who are
+  enthusiastic about pushing the boundaries of what's possible
+  with AI-assisted development and continuously evolving how
+  they work.
+
+  Core Technologies:
+
+  - Backend & APIs: TypeScript/Node.js, REST and event-driven
+    services
+  - Frontend: React
+  - Agent Interfaces: MCP servers and A2A protocol handlers
+  - Data: PostgreSQL, BigQuery, Cloud Storage, Redis
+  - Infrastructure: GCP, AWS
+
+  We're interested in engineers who understand systems, think
+  critically about technical problems, and know how to
+  leverage AI to build effectively. Deep familiarity with
+  every technology in our stack is less important than strong
+  engineering fundamentals, adaptability, and the ability to
+  learn quickly.
+
+  Leveling & Growth
+
+  We're hiring at the Senior Software Engineer level, with
+  flexibility to consider candidates whose experience and
+  technical capabilities warrant a broader scope of
+  responsibility.
+
+  At Apostra, we value demonstrated impact, ownership, and
+  technical ability over titles alone. For an exceptional
+  candidate, there may be an opportunity to grow into Staff-
+  level responsibilities, taking on greater technical
+  ownership and influence as the company and engineering
+  organization evolve.
+
+  We're most interested in what you can build, how you
+  approach difficult problems, and how you contribute to the
+  success of a small, highly collaborative engineering team.
+
+  Compensation
+
+  The salary range for this role is $160k-$210k USD,
+  $160k-$215k CAD.
+
+  These ranges span multiple location-based salary bands
+  across the US and Canada. Candidates are aligned to a
+  narrower range based on geographic market compensation data
+  specific to where they live, and final offers reflect
+  demonstrated skills, experience, and role expectations.
+
+  Benefits & Perks
+
+  Details vary by location (USA/Canada), but all employees
+  receive:
+
+  - Health & wellness: Comprehensive medical, dental, and vision
+    coverage with significant employer contribution; short-
+    and long-term disability coverage; health savings/flexible
+    spending options
+  - Retirement: Employer-matched retirement savings plan (401(k)
+    or RRSP)
+  - Time off: Generous paid time off, statutory holidays, and
+    year-end office closure
+  - Parental leave: 13 weeks fully paid (eligibility
+    requirements apply)
+  - Remote work: Company-provided home office equipment, setup
+    stipend, and access to WeWork spaces
+  - Equity: Stock options
+
+  Application Requirements
+
+  - As part of our application process, candidates must provide
+    a LinkedIn profile that includes a clear, identifiable
+    photograph of themselves. Because we receive a high volume
+    of applications for fully remote positions, we use
+    publicly available professional profiles as one part of
+    our candidate identity and experience verification
+    process. Applications without a verifiable LinkedIn
+    profile and identifiable profile photo will not be
+    considered. Please ensure your LinkedIn profile URL is
+    included and that your profile is accessible to our
+    recruiting team before applying.
+  - Although Apostra has a global team, this position is limited
+    to candidates authorized to work in the United States or
+    Canada. We are unable to provide employer-sponsored work
+    authorization now or in the future.
+posted_date: 2026-11-12
+url: "https://builtin.com/job/senior-software-engineer/12209129"
+source: Built In

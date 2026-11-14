@@ -1,0 +1,95 @@
+job_id: 11203819
+title: Senior Software Engineer - Automation
+company: UpDoc
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 18 Employees
+description: |
+  About UpDoc
+
+  At UpDoc, we are building the first clinically validated,
+  physician-supervised AI agent that manages chronic diseases.
+  We are an early-stage startup founded by Stanford
+  physicians.
+
+  We are seeking a Senior Software Engineer, Automation to
+  find high-friction processes across engineering, operations,
+  and compliance and replace them with reliable software. You
+  will build internal systems and AI-enabled workflows that
+  make UpDoc dramatically faster and easier to operate as we
+  scale.
+
+  This is a fully remote position.
+
+  Who You Are
+
+  You’re an exceptional generalist software engineer who
+  notices friction and can’t resist eliminating it. You can
+  take a messy, poorly specified cross-functional process and
+  turn it into a reliable technical solution. You move
+  quickly, communicate well across teams, and are excited
+  about using AI to automate workflows that were not
+  previously practical.
+
+  What You'll Do
+
+  - Own high-leverage automation projects end-to-end: identify
+    friction, understand the real need, challenge the existing
+    process, ship a solution, and improve it based on usage.
+  - Automate regulatory and compliance workflows, including
+    compliant software releases, evidence collection,
+    traceability, documentation, approvals, and recurring
+    compliance work.
+  - Improve engineering productivity and developer experience
+    through faster and more reliable CI, release tooling,
+    debugging tools, internal developer tools, and automation
+    of repetitive engineering work.
+  - Build AI-enabled internal workflows for tasks such as
+    conversation annotation, data labeling, evaluation,
+    structured extraction, review, triage, and agentic
+    processes, combining LLMs with deterministic software,
+    validation, monitoring, and human review where
+    appropriate.
+  - Integrate internal and external systems as needed, and build
+    reliable, maintainable production software with
+    appropriate testing, observability, auditability, and
+    failure handling.
+
+  What You'll Need
+
+  - 5+ years of professional software engineering experience,
+    ideally in backend, platform, developer productivity,
+    internal tools, or other generalist engineering roles.
+  - Excellent software engineering fundamentals and strong
+    Python skills, with experience building backend services,
+    APIs, databases, and reliable production systems.
+  - Ability to take an ambiguous operational or engineering
+    problem, challenge assumptions about the existing process,
+    and independently turn it into a shipped technical
+    solution.
+  - Strong judgment around system design, testing, reliability,
+    and maintainability, with a track record of moving quickly
+    and taking end-to-end ownership.
+  - Strong written and verbal communication and the ability to
+    work effectively with both technical and non-technical
+    teams.
+
+  Highly Desired
+
+  - Experience building production AI- or LLM-enabled
+    automation, including structured outputs, tool use,
+    evaluation, monitoring, and safeguards.
+  - Experience building developer productivity, CI/CD, release
+    engineering, or internal tooling.
+  - Experience with regulatory, compliance, quality, security,
+    or other auditable workflows, such as FDA-regulated
+    software or SOC 2.
+  - Experience building internal systems at an early-stage or
+    rapidly scaling company.
+industries:
+  - Healthtech
+  - Telehealth
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-software-engineer-automation/11203819"
+source: Built In

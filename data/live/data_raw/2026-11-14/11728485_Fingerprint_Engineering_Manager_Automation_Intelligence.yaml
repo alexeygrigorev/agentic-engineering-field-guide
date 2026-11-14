@@ -1,0 +1,307 @@
+job_id: 11728485
+title: Engineering Manager, Automation Intelligence
+company: Fingerprint
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 115 Employees
+description: |
+  Fingerprint empowers enterprises to detect and stop online
+  fraud with the world’s most accurate device intelligence.
+  We lead our industry with bleeding-edge identification
+  capabilities and work on turning new ideas and discoveries
+  in the fraud detection space into reality. Our customers
+  range from innovative startups to leading enterprise
+  companies, including Plaid, Dropbox, and Booking.com.
+
+  Fingerprint is a globally dispersed, 100% remote company. We
+  were named on on the 2026 Forbes Best Startup Employers list
+  and ranked #803 on the 2026 Inc. 5000 list of America’s
+  fastest-growing private companies.
+
+  We have raised $77M and are backed by Craft Ventures (Tesla,
+  Facebook, Airbnb ), Nexus Venture Partners ( Postman,
+  Apollo.io, MinIO, Druva) and Uncorrelated Ventures ( Redis,
+  Rollbar,  Gradle).
+
+  The Role in Context
+
+  Fingerprint's device intelligence platform processes
+  billions of identification events for companies that need to
+  know who — or what — is on the other end of a request.
+  Increasingly, the answer is not a person. AI agents, AI
+  assistants, crawlers, headless browsers, and malicious
+  automation now make up a large and fast-growing share of
+  internet traffic, and telling them apart from humans — and
+  from each other — is becoming one of the most important
+  problems our customers ask us to solve.
+
+  We are standing up a dedicated Automation Intelligence
+  engineering team to own that problem end to end: detection
+  in the browser, detection at the edge, the classification
+  taxonomy that tells customers what kind of automation
+  they're seeing and how confident we are, and the API that
+  customers and their agents call.
+
+  We're looking for an Engineering Manager to lead this team.
+  You'll inherit a small, senior group (three engineers to
+  start, growing to four or five) and a clear mandate. You
+  report directly to the VP of Engineering.
+
+  Your Mission
+
+  - Ship the product — Take the automation intelligence product
+    through Beta to GA, and then to a standalone commercial
+    launch. You own engineering readiness: scope, estimates,
+    service reliability, operating limits, API and MCP
+    coverage, and the evidence that it's ready
+  - Make detection accurate and keep it that way — Build the
+    team's quality loop: a test corpus of known bots, agents,
+    and automation frameworks; continuous false-positive and
+    false-negative testing; a regression test for every
+    confirmed gap; and coverage benchmarked against the best
+    in the industry. Detection quality is the product
+  - Build a team that runs itself — Set the team up so adding a
+    detection, shipping a change, or running a staged rollout
+    doesn't depend on another team's calendar. Grow the
+    engineers, hire the next seats, and create an environment
+    where senior people do their best work
+  - Lead the AI-native engineering model — AI agents write the
+    code by default and engineers decide what gets built and
+    whether it's right. You'll operate that model, measure it
+    honestly, and produce the playbook the rest of engineering
+    adopts
+
+  What You'll Do
+
+  Delivery & Product Readiness
+
+  - Own the engineering plan for Beta → GA → standalone launch:
+    PRD partnership with the product manager, estimates,
+    sequencing, and the readiness evidence that gates each
+    stage
+  - Define and prove the service's operating envelope —
+    throughput, latency tails, rate limiting, availability
+    SLOs — before customers depend on it
+  - Run staged rollouts for detection changes that affect
+    customer bot rates, with feature flags, rollback, and
+    clear go/no-go evidence for customer-facing teams
+  - Turn design-partner feedback and customer-reported false
+    positives into prioritized, owned engineering work
+
+  Detection Quality & Coverage
+
+  - Stand up and run a weekly detection quality loop:
+    prioritized test corpus, automated FP/FN testing across
+    browser and edge detection, regression coverage, and drift
+    monitoring
+  - Drive coverage of the automation that matters most to
+    customers — AI agents and assistants first — benchmarked
+    against industry leaders, and prioritized by customer
+    exposure rather than catalogue size
+  - Guide the hard problems: self-hosted agents, stealth and
+    anti-detect browser automation, and fingerprinting agent
+    infrastructure across browser, network, and runtime
+    evidence
+  - Evolve the classification contract from "automation
+    detected" to rich agent context — automation type,
+    verified vs. inferred identity, confidence, and reason
+    codes — and keep detection and attribution measured
+    separately
+
+  Team Leadership
+
+  - Manage, coach, and grow a team of senior engineers; run
+    hiring for the next seats, starting with a detection
+    research and quality engineer
+  - Set the team's goals against its charter and bring them to
+    leadership for alignment, not approval; communicate
+    decisions as intent with reasoning before acting
+  - Establish healthy engineering practice from day one: written
+    ownership lines, review tiers per repository, specs before
+    epics, and baselines for cycle time, throughput,
+    predictability, change failure rate, and recovery time
+  - Negotiate clean working agreements with the sibling team the
+    codebase is shared with today, and drive gradual
+    decoupling prioritized by what blocks independent deploys
+
+  AI-Native Engineering
+
+  - Operate the agent-first development model: spec → coding
+    agent → review agent → security review → human merge, with
+    low-risk changes merging on agent approval and mandatory
+    human review on critical paths
+  - Treat the agent harness — repository instructions, skills,
+    review personas — as infrastructure maintained like code,
+    and publish it so other teams start ahead
+  - Measure the model against the team's own baseline, run 30-
+    and 60-day reviews, and write up what worked and what
+    didn't for the rest of engineering
+
+  Contract-First APIs
+
+  - Ensure every surface the team ships is contract-first:
+    OpenAPI in the repo, breaking-change detection in CI,
+    generated docs and SDKs, and the API kept readable by both
+    developers and AI agents
+  - Own the team's observability: logs, metrics, traces, and
+    SLOs for the detection service
+
+  What We're Looking For
+
+  Required
+
+  - Engineering management experience: 3+ years managing
+    software engineers, ideally including senior and staff-
+    level ICs, with a track record of shipping products — not
+    just features — through launch
+  - Strong technical foundation: 8+ years in software
+    engineering before or alongside management. You can read a
+    design doc and a PR critically, engage senior engineers on
+    architecture, and make technical calls when the team is
+    split
+  - Relevant domain depth in at least one of: bot detection or
+    bot management, fraud or abuse prevention, web security,
+    browser or client-side engineering, or high-volume API
+    services. You understand that this is an adversarial
+    problem where the other side adapts
+  - Quality-driven mindset: Experience building or running
+    measurement-driven engineering — test corpora,
+    precision/recall or FP/FN tracking, regression suites,
+    SLOs — and using that data to prioritize
+  - Hands-on with AI coding tools: You use AI coding agents in
+    your own work, have opinions about where they help and
+    where they don't, and are excited to lead a team where
+    they are the default
+  - Cross-functional operator: You've worked closely with
+    product managers, researchers, and customer-facing teams,
+    and you're comfortable making dependencies and trade-offs
+    explicit rather than absorbing them
+  - Clear communicator: You write well, make decisions visible
+    with your reasoning, and can explain detection quality and
+    launch readiness to executives and customers alike
+
+  Nice to Have
+
+  - Direct experience with bot detection, bot management, or
+    anti-automation products (e.g. at a CDN, WAF, fraud, or
+    security vendor)
+  - Familiarity with AI agent ecosystems: agent frameworks,
+    verified-agent protocols, and how agents interact with
+    websites and APIs
+  - Experience with browser internals or headless/automation
+    frameworks and the techniques used to detect or evade them
+  - Experience running API-first products with public OpenAPI
+    specs, SDKs, and MCP or similar agent-facing surfaces
+  - Experience forming a new team out of an existing one —
+    separating codebases, setting ownership lines, and keeping
+    the sibling relationship healthy
+  - Experience in a high-growth SaaS company with enterprise
+    customers
+
+  The Shape of This Role
+
+  This is a hands-on-adjacent engineering manager role for a
+  small, senior, high-leverage team. You are not expected to
+  write the production code — your engineers and their agents
+  do that — but you are expected to be close enough to it to
+  set direction, evaluate the work, and hold the quality bar.
+
+  The team has unusual autonomy and unusual visibility. It
+  owns a product that leadership considers strategically
+  critical, it is the first team operating Fingerprint's AI-
+  native engineering model, and its results — good and bad —
+  will be used as evidence for how the rest of engineering
+  works. That means two things: you'll have real room to
+  decide how the team operates, and you'll need to be honest
+  about what the data shows.
+
+  In the first 90 days you will likely: finalize the roster
+  and ownership lines with the sibling team, get the quality
+  loop and engineering baselines running, deliver the
+  engineering evidence for the Beta gate, and run the first
+  review of the AI-native operating model.
+
+  Why This Role?
+
+  - A problem that is getting harder and more important every
+    quarter: The internet is filling with agents. Customers
+    need to tell useful automation from abuse, and the answer
+    isn't "block everything." The team that solves this well
+    defines a category
+  - A product with a clear path to market: Beta to GA to
+    standalone launch, with product, go-to-market, and
+    executive support already lined up
+  - A senior team and a dedicated PM from day one: You're not
+    starting from zero. The engineers already know the
+    problem; your job is to focus them and remove what's in
+    their way
+  - Lead how engineering will work next: AI-native development,
+    contract-first APIs, and a self-directed team model —
+    piloted here first, with your findings shaping the whole
+    organization
+  - VP direct line: You report to the VP of Engineering, set
+    your own goals against a clear charter, and bring
+    recommendations rather than requests for direction
+
+  Compensation & Transparency
+
+  At Fingerprint, we believe in pay transparency — it's part
+  of how we operate as a distributed, remote-first team.
+  Salaries are based on function, level, and geographic
+  location, benchmarked against similar stage growth
+  companies.
+
+  Because this role is open across the United States and can
+  be based anywhere our team members work from, the salary
+  range reflects that geographic breadth: $159k - $215k
+
+  Some example salaries for specific locations are below:
+
+  NYC: $187k - $215k
+
+  Chicago: $159k - $183k
+
+  Final offer amounts are determined by multiple factors,
+  including the successful candidate's location, experience,
+  and expertise, and may vary from the amounts listed above.
+
+  Due to regulatory and security reasons, there’s a small
+  number of countries where we cannot have Fingerprint
+  teammates based. Additionally, because Fingerprint is an
+  all-remote company and people can join our workforce from
+  almost any country, we do not sponsor visas. Fingerprint
+  teammates need to be authorized to work from their home
+  location.
+
+  We are dedicated to creating an inclusive work environment
+  for everyone. We embrace and celebrate the unique
+  experiences, perspectives and cultural backgrounds that each
+  employee brings to our workplace. Fingerprint strives to
+  foster an environment where our employees feel respected,
+  valued and empowered, and our team members are at the
+  forefront in helping us promote and sustain an inclusive
+  workplace. We highly encourage people from underrepresented
+  groups in tech to apply.
+
+  If you are applying as a resident of California, please read
+  our CCPA notice here.
+
+  If you are applying as a resident of the EU, please read our
+  GDPR notice here.
+
+  **We have noticed a rise in recruiting impersonations across
+  the industry, where scammers attempt to access candidates'
+  personal and financial information through fake interviews
+  and offers. All Fingerprint recruiting email communications
+  will always come from the @fingerprint.com domain. Any
+  outreach claiming to be from Fingerprint via other sources
+  should be ignored.
+industries:
+  - Information Technology
+  - Security
+  - Software
+  - Cybersecurity
+posted_date: 2026-10-16
+url: "https://builtin.com/job/engineering-manager-automation-intelligence/11728485"
+source: Built In

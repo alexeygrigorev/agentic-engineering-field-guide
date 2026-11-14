@@ -1,0 +1,152 @@
+job_id: 11943708
+title: Software Engineer, Global Investment Research, Agentic Systems
+company: Goldman Sachs
+location: Dallas, USA
+locations:
+  - Dallas, USA
+  - Singapore, SGP
+  - New York, USA
+  - Bengaluru, IND
+work_type: FULL_TIME
+company_size: 67,118 Employees
+description: |
+  What We Do
+
+
+
+  At Goldman Sachs, our Engineers don't just make things – we
+  make things possible. Change the world by connecting people
+  and capital with ideas. Solve the most challenging and
+  pressing engineering problems for our clients. Join our
+  engineering teams that build massively scalable software and
+  systems, architect low latency infrastructure solutions,
+  proactively guard against cyber threats, and leverage
+  machine learning alongside financial engineering to
+  continuously turn data into action. Drive new businesses,
+  redefine finance using AI, and seize opportunities at market
+  speed.
+
+
+
+  In an era defined by AI, Engineering isn't just central –
+  it's the driving force behind our business. Our dynamic
+  environment demands innovative strategic thinking and
+  immediate, impactful solutions. Ready to push the limits of
+  digital possibility? Begin your journey here.
+
+
+
+
+  Who We Look For
+
+
+
+  Goldman Sachs Global Investment Research (GIR) is seeking an
+  Agentic Systems Engineer to build, enhance, and
+  productionize intelligent research tools and automated
+  agentic pipelines. You will collaborate with senior
+  engineers to develop end-to-end full-stack applications,
+  implement advanced RAG components, and integrate AI services
+  into mission-critical GIR platforms.
+
+
+
+
+  How You Will Fulfill Your Potential
+
+
+
+  - Feature Engineering: Build and maintain end-to-end full-
+    stack features, integrating analyst-facing frontends with
+    backend APIs and microservices implemented in Java or
+    Python.
+  - Gen AI & Agent Implementation: Implement and optimize
+    advanced RAG pipelines and stateful multi-agent workflows
+    using Google ADK, LangChain, LangGraph, AWS Bedrock, or
+    equivalent technologies, incorporating structured outputs,
+    tool calling, and human-in-the-loop steps.
+  - Evaluation & Benchmarking: Implement automated offline and
+    online evaluation suites using tools such as Braintrust,
+    AgentCore Eval, equivalent industry solutions,  or custom
+    test harnesses to assess contextual relevance,
+    groundedness, and hallucination reduction.
+  - Cloud & Data Integration: Deploy and connect AI components
+    with enterprise services on AWS, configuring Lambda,
+    ECS/Fargate, EventBridge, S3, IAM policies, and API
+    Gateway endpoints.
+  - Observability & Incident Support: Monitor model and service
+    performance using CloudWatch and distributed tracing;
+    triage production incidents, conduct root-cause analyses,
+    and optimize token/resource consumption.
+  - SDLC Discipline: Actively participate in peer code reviews,
+    write automated unit and integration tests, maintain CI/CD
+    pipelines, and document integration patterns and data
+    models.
+  - Agile Collaboration: Coordinate with business stakeholders
+    and cross-functional teams in Agile sprints to translate
+    research requirements into deliverable technical stories.
+
+
+
+
+  Basic Qualifications
+
+
+
+  - Bachelor’s degree in Computer Science, Software Engineering,
+    Applied Mathematics, or a related quantitative field.
+  - 3–5 years of hands-on software engineering experience with
+    proficiency in Java or Python, combined with modern full-
+    stack web technologies (e.g., React, TypeScript, FastAPI,
+    Spring Boot).
+  - Practical experience building Gen AI applications using
+    Google ADK, LangGraph, or equivalent agentic frameworks,
+    vector databases, and AWS Bedrock.
+  - Experience implementing evaluation pipelines and prompt
+    testing with Braintrust, AgentCore Eval, equivalent
+    technologies, or custom benchmark harnesses.
+  - Working knowledge of core AWS services, including Lambda,
+    ECS/Fargate, S3, EventBridge, CloudWatch, and API Gateway.
+  - Solid understanding of standard SDLC tooling, automated
+    testing, Git, Docker, and CI/CD automation.
+
+
+
+
+
+
+  Preferred Qualifications
+
+
+
+  - Exposure to financial domain data, investment research
+    workflows, or enterprise content authoring tools.
+  - Practical understanding of token optimization, prompt
+    caching, and latency reduction strategies.
+  - Familiarity with guardrail frameworks defending against
+    prompt injection and unauthorized data access.
+  - Experience building asynchronous or event-driven
+    microservices across polyglot Java and Python stacks.
+
+
+
+
+  Please note we will only respond to applications for which
+  we have an interest.
+
+
+
+
+  Benefits  Goldman Sachs is committed to providing our people
+  with valuable and competitive benefits and wellness
+  offerings, as it is a core part of providing a strong
+  overall employee experience. A summary of these offerings,
+  which are generally available to active, non-temporary,
+  full-time and part-time US employees who work at least 20
+  hours per week, can be found here.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-10-28
+url: "https://builtin.com/job/software-engineer-global-investment-research-agentic-systems-associate/11943708"
+source: Built In

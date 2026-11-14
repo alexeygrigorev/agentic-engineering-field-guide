@@ -1,0 +1,216 @@
+job_id: 10167152
+title: "Software Engineer, Gateway & Networking Infrastructure"
+company: CoreWeave
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,450 Employees
+description: |
+  CoreWeave is The Essential Cloud for AI™. Built for pioneers
+  by pioneers, CoreWeave delivers a platform of technology,
+  tools, and teams that enables innovators to build and scale
+  AI with confidence. Trusted by leading AI labs, startups,
+  and global enterprises, CoreWeave combines superior
+  infrastructure performance with deep technical expertise to
+  accelerate breakthroughs and turn compute into capability.
+  Founded in 2017, CoreWeave became a publicly traded company
+  (Nasdaq: CRWV) in March 2025. Learn more at
+  www.coreweave.com.
+
+  What You'll Do:
+
+  The Cloud Platform API team builds the platform and
+  infrastructure that front CoreWeave's control plane. This
+  role sits with the group that owns the API Gateway (the
+  single secure front door for control-plane traffic) and the
+  Kubernetes Gateway, one secure endpoint into every CoreWeave
+  Kubernetes Service (CKS) cluster control plane, public or
+  private. The team runs the Envoy and Kubernetes Gateway API
+  stack that carries every customer, CLI, console, and
+  Terraform request. This is high-leverage infrastructure at
+  CoreWeave: the gateway is the choke point, and its latency
+  and availability are what customers perceive as the
+  platform's.
+
+  About the Role:
+
+  As a Senior Engineer on the Cloud Platform API team, you'll
+  design and operate the gateways that front the entire
+  control plane. You'll drive large-scale networking
+  migrations, such as moving from NGINX/HAProxy to Envoy
+  across every zone with no customer-visible regression, and
+  own routing, TLS/mTLS, rate limiting, and observability
+  across the stack. You'll set technical direction for how the
+  team runs its infrastructure, anticipate problems before
+  they turn into incidents, and help stand up new customer-
+  facing features for this infra. You'll also mentor other
+  engineers, lead post-mortems, and act as a trusted advisor
+  across teams like CKS, VPC, IAM, Cloud Console, and more.
+  This role sits on a technical-leadership track, and we
+  especially welcome engineers interested in eventually
+  leading or managing a team.
+
+  In this role, you will:
+
+  - Own the API and Kubernetes Gateways API stacks and their
+    CRDs: routing, TLS/mTLS, rate limiting, and observability.
+  - Drive large-scale infrastructure migrations (for example,
+    HAProxy → Envoy) across every zone with one audit-log
+    shape and no customer-visible regression.
+  - Manage networking and traffic at scale: L4/L7 proxying, load
+    balancing, global routing, live failover to healthy
+    backends, encrypted transport, and performance tuning.
+  - Set technical direction across the gateway stack and define
+    the engineering standards the team follows.
+  - Mentor senior and mid-level engineers, lead post-mortems,
+    and act as a bridge across teams and to leadership.
+
+  Who You Are:
+
+  - Production experience writing Go.
+  - Deep experience with networking and traffic infrastructure:
+    L4/L7 load balancing, reverse proxies (Envoy, HAProxy, or
+    NGINX), or API gateways.
+  - Deep Kubernetes experience, ideally with the Gateway API or
+    Ingress, operators and controllers, and running multiple
+    clusters and the applications deployed across them.
+  - A strong grounding in TLS/mTLS and edge and authentication
+    concerns, plus performance tuning of network-facing
+    services.
+  - A track record of setting technical direction and leading
+    initiatives across teams.
+  - Clear communication about your technical contributions and
+    cross-team collaboration.
+  - 7+ years of experience building and operating backend
+    systems
+  - Bachelors degree in Computer Science or equivalent
+    professional experience
+
+  Preferred:
+
+  - Experience leading a large-scale infrastructure migration
+    end to end.
+  - Experience operating a high-traffic edge or gateway as a
+    production choke point: monitoring, runbooks, and incident
+    response.
+  - Experience with certificate issuance and rotation (for
+    example, via Vault) and with multi-zone or federated
+    control planes.
+  - Interest in a technical-leadership or engineering-management
+    path.
+  - 10+ years of experience building and operating backend
+    systems
+
+  Wondering if you're a good fit? We believe in investing in
+  our people, and value candidates who can bring their own
+  diversified experiences to our teams – even if you aren't a
+  100% skill or experience match. Here are a few qualities
+  we've found compatible with our team. If some of this
+  describes you, we'd love to talk.
+
+  - You love owning infrastructure that everything else depends
+    on.
+  - You're curious about how to run a fleet of proxies safely
+    across many clusters and zones.
+  - You have strong instincts for reliability, blast-radius
+    thinking, and operational rigor.
+
+  Why CoreWeave?
+
+  At CoreWeave, we work hard, have fun, and move fast! We're
+  in an exciting stage of hyper-growth that you will not want
+  to miss out on. We're not afraid of a little chaos, and
+  we're constantly learning. Our team cares deeply about how
+  we build our product and how we work together, which is
+  represented through our core values:
+
+  - Be Curious at Your Core
+  - Act Like an Owner
+  - Empower Employees
+  - Deliver Best-in-Class Client Experiences
+  - Achieve More Together
+
+  We support and encourage an entrepreneurial outlook and
+  independent thinking. We foster an environment that
+  encourages collaboration and enables the development of
+  innovative solutions to complex problems. As we get set for
+  takeoff, the organization's growth opportunities are
+  constantly expanding. You will be surrounded by some of the
+  best talent in the industry, who will want to learn from
+  you, too. Come join us!
+
+  The base salary range for this role is $182,000 to $242,000.
+  The starting salary will be determined based on job-related
+  knowledge, skills, experience, and market location. We
+  strive for both market alignment and internal equity when
+  determining compensation. In addition to base salary, our
+  total rewards package includes a discretionary bonus, equity
+  awards, and a comprehensive benefits program (all based on
+  eligibility).
+
+  What We Offer
+
+  In addition to a competitive salary, we offer a variety of
+  benefits to support your needs. The benefits below reflect
+  our US-based offerings for full-time employees; for roles in
+  other locations, benefits vary and are shared during the
+  hiring process. These include:
+
+  - Medical, dental, and vision insurance - 100% paid for by
+    CoreWeave
+  - Company-paid Life Insurance
+  - Voluntary supplemental life insurance
+  - Short and long-term disability insurance
+  - Flexible Spending Account
+  - Health Savings Account
+  - Tuition Reimbursement
+  - Ability to Participate in Employee Stock Purchase Program
+    (ESPP)
+  - Mental Wellness Benefits through Spring Health
+  - Family-Forming support provided by Carrot
+  - Paid Parental Leave
+  - Flexible, full-service childcare support with Kinside
+  - 401(k) with a generous employer match
+  - Flexible PTO
+  - Catered lunch each day in our office and data center
+    locations
+  - A casual work environment
+  - A work culture focused on innovative disruption
+
+  California Applicants
+
+  California Consumer Privacy Act
+
+  Equal Opportunity & Accommodations
+
+  CoreWeave is an equal opportunity employer, committed to
+  fostering an inclusive and supportive workplace. All
+  qualified applicants and candidates will receive
+  consideration for employment without regard to race, color,
+  religion, sex, disability, age, sexual orientation, gender
+  identity, national origin, veteran status, or genetic
+  information.
+
+  As part of this commitment and consistent with the Americans
+  with Disabilities Act (ADA), CoreWeave will ensure that
+  qualified applicants and candidates with disabilities are
+  provided reasonable accommodations for the hiring process,
+  unless such accommodation would cause an undue hardship. If
+  reasonable accommodation is needed, please contact:
+  careers@coreweave.com.
+
+  Export Control Compliance
+
+  This position requires access to technology and/or source
+  code subject to U.S. export control laws. Any such access
+  will be provided only in compliance with applicable U.S.
+  export control requirements. As part of the recruitment
+  process, CoreWeave may request limited information
+  reasonably necessary to assess applicable export-control
+  requirements.
+industries:
+  - Cloud
+  - Information Technology
+  - Machine Learning
+posted_date: 2026-08-08
+url: "https://builtin.com/job/software-engineer-gateway-networking-infrastructure/10167152"
+source: Built In

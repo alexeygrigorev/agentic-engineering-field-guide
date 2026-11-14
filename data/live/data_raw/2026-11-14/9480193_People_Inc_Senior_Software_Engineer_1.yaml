@@ -1,0 +1,233 @@
+job_id: 9480193
+title: Senior Software Engineer, 1
+company: People Inc.
+location: Chicago, USA
+locations:
+  - Chicago, USA
+  - Des Moines, USA
+  - Seattle, USA
+  - New York, USA
+  - Los Angeles, USA
+work_type: FULL_TIME
+company_size: 3,500 Employees
+description: |
+  Job Title
+
+  Senior Software Engineer, 1
+
+  Job Description
+
+  About The Team:
+
+  People Inc. is looking for a Senior Software Engineer 1 to
+  join our AI/ML Engineering Platform team. As part of the
+  AI/ML Engineering Platform team, you'll be working on widely
+  used components that help users find ways to consume content
+  on our sites. This includes using technologies such as
+  Vertex AI pipeline, KServe, Kafka, Elasticsearch and Vector
+  Database to leverage the power of AI and ML use cases and
+  build capabilities to recommend related articles, and much
+  more!
+
+  As a Senior Software Engineer 1, you will collaborate with
+  product owners, Data Science, Platform teams, project
+  managers, and software engineers to create service
+  applications and contribute to the technical roadmap
+
+  Schedule Requirements: Hybrid 3x a week
+
+  In-office Expectations: This position is hybrid in-office in
+  NYC, Des Moines, LA, Seattle, or Chicago, with the ability
+  to work remotely for up to 2 days per week.
+
+  About The Positions  Contributions:
+
+  Accountabilities, Actions and Expected Measurable Results
+  (70%)
+
+  You understand how to design and build scalable distributed
+  systems, backend platforms, compatible with AI/ML
+  infrastructure for search, retrieval, ranking,
+  recommendation, and personalization use cases
+
+
+
+   You will:
+
+  - Design and build systems, manage scalable ML pipelines using
+    Vertex AI Pipelines for training, evaluation and
+    deployment to support ranking, retrieval, and
+    recommendation personalization use cases
+  - Develop and maintain data pipelines that support feature
+    generation, model training, and analytics workflows. Own
+    vector generation via Milvus, storage, and retrieval
+    workflows
+  - Implement model serving solutions using KServe and build
+    APIs using FastAPI for low latency inference
+  - Build observability and monitoring for models and pipelines.
+    Track performance, drift, failures, and data quality
+    issues
+  - Collaborate with data scientists, product managers, and
+    platform teams to define and deliver ML driven features
+  - Investigate production issues across data pipelines, models,
+    and services. Identify bottlenecks and improve reliability
+    and performance
+  - Create and maintain clear documentation for pipelines,
+    models, APIs, and operational processes
+  - Develop internal tools and dashboards to provide visibility
+    into data processing and model behavior for stakeholders
+  - Contribute to engineering standards, code quality, and best
+    practices across Python-based services and ML systems
+  - Stay current with ML infrastructure, MLOps practices, and
+    relevant tools. Bring in improvements where they add clear
+    value
+
+  Collaborate with product, data science, and frontend teams
+  to deliver high quality search and feed experiences (30%)
+
+  - Own production systems. Debug issues across indexing,
+    retrieval, ranking, and serving layers
+  - Create clear documentation for pipelines, models, APIs, and
+    system design
+  - Contribute to best practices for Python based ML systems,
+    API design, and scalable infrastructure
+  - Stay current with advancements in search, ranking, and
+    recommendation systems. Apply them where they make
+    practical impact
+
+  The Role’s Minimum Qualifications and Job Requirements
+
+  Education:
+
+  Bachelor’s degree in Computer Science, Engineering, or a
+  related field
+
+  Experience:
+
+
+
+  You have a strong foundation in modern backend and ML
+  engineering practices and continue to learn and evolve. You
+  bring:
+
+  - 6+ years of experience building scalable backend systems and
+    services
+  - 5+ years of experience developing software using object
+    oriented languages, with strong proficiency in Python,
+    Node.js, and TypeScript
+  - Hands on experience with ES for search, indexing, and
+    relevance tuning
+  - Experience with event driven systems using Apache Kafka for
+    real time data pipelines and processing
+  - Strong understanding of version control systems including
+    Git and platforms like Bitbucket
+  - Experience with observability and monitoring tools such as
+    Grafana, Kibana, and APM
+  - Familiarity with cloud platforms including AWS and GCP,
+    along with containerization using Docker and orchestration
+    with Kubernetes
+  - Comfortable deploying, versioning, and monitoring models in
+    production
+  - Curiosity to learn new technologies, especially in AI, LLMs,
+    and modern search and recommendation systems, with a focus
+    on applying them in real production use cases.
+  - Experience designing and building data pipelines using
+    Apache Beam and Apache Airflow for ingestion,
+    transformation, and feature pipelines
+  - Familiarity with experimentation and analytics tools such as
+    Jupyter Notebook and Apache Spark to track and reproduce
+    experiments
+  - Strong experience designing and consuming RESTful and
+    GraphQL APIs, including versioning, documentation, and
+    security practices like OAuth and JWT
+  - Good understanding of machine learning concepts including
+    supervised learning, unsupervised learning, deep learning,
+    and natural language processing, with practical
+    application in ranking, retrieval, and personalization
+  - Beginner level experience managing ML pipelines using Vertex
+    AI Pipelines for training, evaluation, and deployment
+    workflows
+  - Ability to review code, provide clear feedback, and improve
+    overall engineering quality
+  - Strong communication skills. Able to explain technical
+    concepts clearly to both technical and non technical
+    stakeholders
+  - Solid problem solving skills with a data driven approach
+
+  Specific Knowledge, Skills, Certifications and Abilities:
+
+
+
+  Core Tech Stack
+
+  - Backend and API development using Python, FastAPI, Node.js,
+    and TypeScript
+  - Search and indexing using Elasticsearch for relevance,
+    retrieval, and query optimization
+  - Event driven architecture and streaming using Apache Kafka
+  - Vector search and embeddings infrastructure using vector
+    databases such as Milvus or Pinecone
+  - Cloud and infrastructure using Google Cloud Platform or
+    Amazon Web Services with containerization via Docker and
+    orchestration through Kubernetes
+
+  % Travel Required (Approximate): 0 %
+
+  It is the policy of People Inc. to provide equal employment
+  opportunity (EEO) to all persons regardless of age, color,
+  national origin, citizenship status, physical or mental
+  disability, race, religion, creed, gender, sex, sexual
+  orientation, gender identity and/or expression, genetic
+  information, marital status, status with regard to public
+  assistance, veteran status, or any other characteristic
+  protected by federal, state or local law. In addition, the
+  Company will provide reasonable accommodations for qualified
+  individuals with disabilities. Accommodation requests can be
+  made by emailing hr@people.inc.
+
+  The Company participates in the federal E-Verify program to
+  confirm the identity and employment authorization of all
+  newly hired employees. For further information about the
+  E-Verify program, please click here:
+  https://www.e-verify.gov/employees
+
+  Pay Range
+
+  Salary: Remote: $125,000.00 - $150,000.00
+
+  The pay range above represents the anticipated low and high
+  end of the pay range for this position and may change in the
+  future. Actual pay may vary and may be above or below the
+  range based on various factors including but not limited to
+  work location, experience, and performance. The range listed
+  is just one component of People Inc's total compensation
+  package for employees. Other compensation may include annual
+  bonuses, and short- and long-term incentives. In addition,
+  People Inc. provides to employees (and their eligible family
+  members) a variety of benefits, including medical, dental,
+  vision, prescription drug coverage, unlimited paid time off
+  (PTO), adoption or surrogate assistance, donation matching,
+  tuition reimbursement, basic life insurance, basic
+  accidental death & dismemberment, supplemental life
+  insurance, supplemental accident insurance, commuter
+  benefits, short term and long term disability, health
+  savings and flexible spending accounts, family care
+  benefits, a generous 401K savings plan with a company match
+  program, 10-12 paid holidays annually, and generous paid
+  parental leave (birthing and non-birthing parents), all of
+  which may vary depending on the specific nature of your
+  employment with People Inc. and your work location. We also
+  offer voluntary benefits such as pet insurance, accident,
+  critical and hospital indemnity health insurance coverage,
+  life and disability insurance.
+
+  #NMG#
+industries:
+  - AdTech
+  - Consumer Web
+  - Digital Media
+  - eCommerce
+  - Marketing Tech
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-software-engineer-1/9480193"
+source: Built In

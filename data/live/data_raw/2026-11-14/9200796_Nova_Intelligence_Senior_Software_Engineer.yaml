@@ -1,0 +1,120 @@
+job_id: 9200796
+title: Senior Software Engineer
+company: Nova Intelligence
+location: New York, USA
+work_type: FULL_TIME
+company_size: 16 Employees
+description: |
+  Nova Intelligence is building the most powerful AI platform
+  for SAP teams. SAP is the heart of the enterprise: almost
+  every critical business process at the world's largest
+  companies — finance, supply chain, manufacturing, sales —
+  runs on SAP. Our customers use Nova to 3x the productivity
+  of their SAP teams: modernizing legacy code, redesigning
+  business processes, resolving production issues, and more.
+
+  Nova Intelligence was founded by AI researchers, repeat
+  entrepreneurs, and the co-inventor of SAP HANA, and has
+  raised $40M from SAP's venture arm, Accel, Conviction, and
+  Chemistry.
+
+  Check out the Launch Video
+
+  About this role
+
+  We're hiring software engineers to build the platform that
+  powers Nova. The role spans agent infrastructure,
+  distributed systems, product engineering and more. The
+  common thread is solving hard problems without off-the-shelf
+  solutions. Enterprise systems like SAP weren't built for
+  modern developer tooling, so we're building foundational
+  infrastructure from scratch — the indexing, versioning,
+  authentication, execution, and integration layers that
+  agents need to understand, create, and transform code at
+  scale.
+
+  We hire across senior, staff, and principal levels. We don't
+  use formal levels internally — we look for people who can
+  drive substantial work end-to-end — and we reflect seniority
+  in compensation.
+
+  What you'll do
+
+  Build the core platform. You'll work on the systems that let
+  the agent reliably navigate, understand, and operate on
+  large, interconnected enterprise codebases — code search at
+  scale, authentication, sandboxing, tool calling, and the
+  agent orchestration that ties them together.
+
+  Make the agent reliable. You'll design evaluation frameworks
+  and feedback loops that systematically improve agent
+  performance on real customer workloads. You'll instrument
+  what the agent does, surface failure modes, and turn
+  customer scenarios into reproducible tests that drive
+  measurable improvement.
+
+  Build for enterprise deployment. You'll ship the
+  infrastructure that lets Nova run reliably at Fortune 500
+  scale — automated deployments across many customer AWS
+  accounts, robust RBAC and permissioning for agents, security
+  and compliance (SSO, audit, data residency), and cloud and
+  on-prem environment support.
+
+  Ship product end-to-end. You'll build the things customers
+  see and use daily — backend services, integrations with the
+  rest of the enterprise stack, and the client applications
+  customers live in every day.
+
+  What we're looking for
+
+  - You're a strong software engineer with a track record of
+    shipping production systems end-to-end. We work primarily
+    in Python, JavaScript/React, and Go.
+  - You have strong cloud and infrastructure chops. Familiarity
+    with AWS is a must, and you're comfortable working in
+    infrastructure-as-code (Terraform or similar).
+  - You have informed opinions on agent design and frontier
+    models. You've used Claude Code, Cursor, Cline, or similar
+    enough to know what works and what doesn't, and you've
+    optimized your own workflow to ship faster.
+  - You're comfortable with ambiguity. You can take an ill-
+    defined problem and ship a solution without waiting to be
+    told how.
+  - You communicate clearly across engineering and non-
+    engineering audiences.
+
+  Background we'd love to see
+
+  - 3+ years of experience in backend, infrastructure and
+    distributed systems engineering
+  - 3+ years of experience with cloud platforms (AWS, GCP),
+    Kubernetes, or similar
+  - Production experience with LLMs and AI agents
+  - Time at an early-stage startup
+  - Contributions to open-source projects in AI tooling,
+    developer tools, or adjacent spaces
+
+  Why join
+
+  You'll work alongside top engineers, AI researchers, and SAP
+  experts on technical problems few teams get to touch. What
+  you ship runs inside the world's largest enterprises —
+  applied AI on real, mission-critical systems with measurable
+  economic impact.
+
+  We use Nova to build Nova. You'll be a power user of your
+  own tools, obsessed with iteration speed and shipping fast.
+
+  We're a small, highly talent-dense team. We offer
+  competitive compensation, meaningful equity, and full
+  health, dental, and vision coverage.
+
+  If you read this and recognize the role you want, apply —
+  even if you don't match every line.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-08-10
+url: "https://builtin.com/job/founding-engineer/9200796"
+source: Built In

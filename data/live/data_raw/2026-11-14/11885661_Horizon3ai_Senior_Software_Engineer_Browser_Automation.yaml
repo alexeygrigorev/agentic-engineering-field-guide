@@ -1,0 +1,237 @@
+job_id: 11885661
+title: Senior Software Engineer, Browser Automation
+company: Horizon3.ai
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 107 Employees
+description: |
+  Get to Know Us
+
+  Horizon3 is a fast-growing, remote cybersecurity company
+  dedicated to the mission of enabling organizations to
+  proactively find, fix, and verify exploitable attack vectors
+  before criminals exploit them. Our flagship product, the
+  NodeZero™ platform, delivers production-safe autonomous
+  pentests and other key assessment operations that scale
+  across the largest internal, external, cloud, and hybrid
+  cloud environments. NodeZero has been adopted by
+  organizations of all sizes, from small educational
+  institutions to government agencies and Global 100
+  enterprises. It is used by ITOps/SecOps teams, consulting
+  pentesters, and MSSPs and MSPs.
+
+  We are a fusion of former U.S. Special Operations cyber
+  operators, startup engineers, and formerly frustrated
+  cybersecurity practitioners. We're committed to helping
+  solve our common security problems: ineffective security
+  tools, false positives resulting in alert fatigue, blind
+  spots, "checkbox" security culture, the cybersecurity skills
+  shortage, and the long lead time and expense of hiring
+  outside consultants. Collectively, we are a team of learn-
+  it-alls, committed to a culture of respect, collaboration,
+  ownership, and results.
+
+
+
+  Summary
+
+  We're building an autonomous, black-box web application
+  penetration tester. It crawls and attacks real production
+  websites the way a skilled human pentester would, finding
+  broken access control, injection, XSS, and more, under a
+  strict production-safe, no-false-positives mandate. The
+  hardest part of that job isn't the exploitation. The hardest
+  part is reliably driving a real browser through messy,
+  modern web apps at scale: logging in, navigating SPAs,
+  surviving anti-bot defenses, and mapping every reachable
+  surface without getting stuck or causing harm. That's the
+  engine you'd own.
+
+  Essential Functions
+
+  - Help us grow and harden our browser automation and crawling
+    engine, which is the layer that discovers, navigates, and
+    interacts with target applications before and during an
+    autonomous pentest.
+  - Advance our browser-driven crawler using Playwright and
+    Stagehand.
+  - Tackle the gnarly realities of modern web apps: SPA routing
+    and hydration timing, authenticated sessions, multi-step
+    flows, file uploads, WebSocket/Socket.IO traffic, infinite
+    scroll, and crawler traps.
+  - Extend our agentic login and authentication capabilities,
+    including complex auth flows, MFA/TOTP, and credentialed
+    access reliable enough to run unattended against customer
+    environments.
+  - Improve crawl coverage, determinism, and throughput. This
+    involves endpoint and parameter discovery, dedupe,
+    queueing, and state management, while keeping everything
+    production-safe and side-effect-aware.
+  - Help draw the line between deterministic automation and LLM-
+    driven navigation, applying models surgically rather than
+    as a default, and keeping the system fast, debuggable, and
+    cheap to run.
+  - Collaborate with the attack-team engineers who consume your
+    crawl output, and help shape the graph-backed application
+    map the rest of the pipeline depends on.
+
+
+
+  Competencies/Requirements
+
+  - Experience building production software, with deep, hands-on
+    experience in browser automation (Playwright, Puppeteer,
+    or Selenium) against real, non-trivial web applications.
+  - Strong TypeScript / Node.js skills and comfort living inside
+    the headless-browser stack, including Chromium internals,
+    the Chrome DevTools Protocol, network interception, the
+    DOM, and JS execution contexts.
+  - A track record of taming flaky, stateful, JavaScript-heavy
+    apps. You've fought SPA timing, authentication, and anti-
+    automation defenses and won.
+  - Solid instincts for distributed/concurrent systems: queues,
+    backpressure, retries, idempotency, and running many
+    browser sessions reliably at scale.
+  - A bias toward determinism and debuggability, and the
+    judgment to reach for an LLM only when a deterministic
+    approach genuinely can't do the job.
+  - Ownership mentality: you are comfortable taking a critical
+    subsystem from "works" to "works unattended, at scale,
+    against someone else's production environment."
+
+
+
+  Desired/Nice to Have
+
+  - Experience with agentic browser frameworks (Stagehand,
+    Browser Use, or similar) or building LLM-in-the-loop
+    automation.
+  - Background in web application security or offensive tooling
+    — familiarity with broken access control, IDOR/BOLA, SQLi,
+    XSS, SSRF, or SSTI in the wild.
+  - Familiarity with graph data models (e.g., Neo4j) for
+    representing application structure.
+  - Experience with large-scale crawling, endpoint discovery
+    (e.g., parsing/analyzing client-side JS), or
+    session/credential management for automated access.
+  - Comfort working in an environment where correctness against
+    a live customer system is a hard, non-negotiable
+    constraint.
+
+
+
+  What makes you stand out:
+
+  - You’ve gone beyond using tools like Playwright or Puppeteer
+    to actually hacking on their internals or contributing to
+    the core.
+  - You’ve built browser automation at extreme scale, handling
+    thousands of sessions against hostile, heavily-defended
+    targets. You know exactly how systems break under pressure
+    and have the war stories to prove it.
+  - You’ve successfully outmaneuvered sophisticated WAFs, anti-
+    bot defenses, and fingerprinting mechanisms in production
+    environments.
+  - You have an offensive security mindset: you don’t just
+    navigate a web app; you actively map its attack surface
+    and hunt for unreachable paths.
+  - You have battle-tested experience with LLMs in production.
+    You understand the engineering trade-offs: knowing when AI
+    is an asset and when it introduces unacceptable latency or
+    nondeterminism compared to a deterministic script.
+
+
+
+  Perks of Horizon3
+
+  - Inclusive Team: We value diversity and promote an inclusive
+    culture where everyone can thrive.
+  - Growth Opportunities: Be part of a dynamic and growing team
+    with numerous career development opportunities.
+  - Innovative Culture: Work in a collaborative environment that
+    encourages creativity and out-of-the-box thinking.
+  - Hybrid & Remote Work: We embrace a mix of remote and hybrid
+    work models depending on role and location, including our
+    Chicago office, where some roles require regular in-office
+    presence.
+  - Competitive Compensation: We offer competitive salary,
+    equity and benefits. Our benefits include health, vision &
+    dental insurance for you and your family, a flexible
+    vacation policy, and generous parental leave.
+
+
+
+  Compensation and Values
+
+  At Horizon3, we believe that our people are our greatest
+  asset, and our compensation philosophy reflects this core
+  value. We are committed to fostering an environment where
+  all employees feel valued, respected, and rewarded for their
+  contributions. Our compensation structure is designed to be
+  fair, competitive, and transparent, ensuring that every team
+  member is recognized and compensated equitably across roles,
+  levels, and locations.
+
+  In accordance with various State’s transparency regulations,
+  we provide the following salary range information for this
+  position:
+
+  - Base salary range: $199,000-$235,000 annually. The exact
+    salary will be determined based on the selected
+    candidate’s location, qualifications, experience, and
+    relevant skills.
+  - Additional compensation: All full-time roles are eligible
+    for an equity package in the form of stock options.
+
+
+
+  You Belong Here
+
+  Horizon3 is not just an equal opportunity employer - we are
+  a community that values diversity, equity, and inclusion as
+  fundamental principles of our culture and success. We are
+  dedicated to fostering a workplace where everyone feels
+  welcome and respected, regardless of race, color, religion,
+  sex, national origin, age, disability, veteran status,
+  sexual orientation, gender identity or expression, genetic
+  information, marital status, hair length or any other
+  legally protected status by law.
+
+  Our commitment to diversity and inclusion means we strive to
+  attract, develop, and retain a workforce that reflects the
+  varied communities we serve. We believe that diverse
+  perspectives drive innovation and strengthen our ability to
+  create cutting-edge cybersecurity solutions. At Horizon3,
+  every team member is valued and supported in an environment
+  that encourages personal and professional growth.
+
+  We welcome candidates from all backgrounds and experiences,
+  and we encourage all qualified individuals to apply. Come be
+  a part of Horizon3, where your unique contributions are
+  recognized, and your potential is limitless.
+
+
+
+  Other Duties
+
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties or
+  responsibilities that are required of the employee. Duties,
+  responsibilities, and activities may change at any time with
+  or without notice.
+
+
+
+  Application Note
+
+  In any materials you submit, you may redact or remove age-
+  identifying information such as age, date of birth, or dates
+  of school attendance or graduation. You will not be
+  penalized for redacting or removing this information.
+industries:
+  - Artificial Intelligence
+  - Cybersecurity
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-software-engineer-browser-automation/11885661"
+source: Built In

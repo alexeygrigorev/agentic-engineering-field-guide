@@ -1,0 +1,165 @@
+job_id: 12024528
+title: Senior Product Engineer (Full Stack)
+company: CopilotIQ
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 150 Employees
+description: |
+  At the forefront of health tech innovation,
+  CopilotIQ+Biofourmis is transforming in-home care with the
+  industry's first AI-driven platform that supports
+  individuals through every stage of their health journey-from
+  pre-surgical optimization to acute, post-acute and chronic
+  care. We are helping people live healthier, longer lives by
+  bringing personalized, proactive care directly into their
+  homes. With CopilotIQ's commitment to enhancing the lives of
+  seniors with chronic conditions and Biofourmis' advanced
+  data-driven insights and virtual care solutions, we're
+  setting a new standard in accessible healthcare. If you're
+  passionate about driving real change in healthcare, join the
+  CopilotIQ+Biofourmis Team!
+
+  What is the Senior Product Engineer role?
+
+  You’ll build features end to end for the people who run our
+  care program: enrollment and sales teams, clinicians, and
+  operations. You’ll work closely with Product to shape what
+  we build, then own it through design, delivery and
+  production. Our engineers also integrate with LLM models to
+  lift the clinical and member experience. We treat those like
+  any other feature: start from the user’s problem, ship
+  something reliable, and measure whether it worked.
+
+  What we’re looking for
+
+  - Extensive experience building production software, with real
+    experience on both frontend and backend
+  - A record of shipping user-facing features where you shaped
+    the scope, not just implemented tickets
+  - Clear communication with non-engineers, and comfort working
+    directly with internal teams
+  - Solid system design: data modeling, APIs, failure handling,
+    observability, reliability, security by design
+  - You test and monitor your own work, and you care when
+    numbers are wrong
+  - Regular use of AI coding assistants, and the judgment to
+    know when not to trust them
+
+  Responsibilities
+
+  - Work embedded with our stakeholders, Clinical, Sales and
+    more: shadow their workflows, understand their goals, and
+    identify the highest-impact problems to solve, including
+    ones no one has written a requirement for yet.
+  - Partner with Product to own product outcomes end to end:
+    frame the problem, track success metrics, design the
+    solution, ship it, measure the results, and iterate.
+  - Build across the stack, including intuitive frontend
+    experiences, reliable backend services, event-driven
+    workflows, data flows, and third-party integrations.
+  - Make sound system design decisions for our services and
+    workflows, with clear thinking about data models, failure
+    modes, scalability, and cost, and contribute to broader
+    architectural decisions.
+  - Build with AI coding agents as your primary way of working,
+    and own the quality of what ships: clear specs and
+    acceptance criteria up front, tests the agent’s code must
+    pass, typed contracts, and careful review of every change
+    that touches patient data, clinical logic, or billing.
+  - Build AI-powered product features where they add real value,
+    with structured outputs, evals, and safe fallback
+    behavior.
+  - Treat quality and safety as part of the job: protect patient
+    data, maintain audit trails, ship behind feature flags
+    with progressive rollouts, and verify data accuracy end to
+    end.
+  - Own the production services you build: monitor them, respond
+    to incidents, find root causes, and continuously improve
+    reliability, observability, and performance. Participate
+    in on-call rotations and incident response.
+  - Communicate decisions, tradeoffs, risks, and progress
+    clearly to engineers, stakeholders, and leadership, in
+    writing and in person.
+
+  Qualifications
+
+  - 5+ years of professional software development experience,
+    including significant time building and operating cloud-
+    based production systems end to end.
+  - Demonstrated system design skills: you’ve designed services,
+    APIs, data models, and integrations that held up in
+    production, and you can walk through the tradeoffs you
+    made.
+  - Sustained, hands-on use of AI coding agents on a production
+    codebase, with concrete examples of how you kept quality
+    high (testing strategy, review practices, and guardrails
+    you put in place).
+  - Experience shipping LLM-powered features, using frontier
+    models, to production and operating them reliably, with
+    evals and fallback behavior in place. Built the harness
+    around the model: prompt and context management, versioned
+    prompts, retries, timeouts and fallbacks when the model is
+    slow, wrong or unavailable, and logging that doesn’t leak
+    sensitive data.
+  - Experience handling sensitive data securely, including
+    access controls, encryption, and audit logging.
+  - Experience in a startup or similarly fast-moving environment
+    where engineers take broad ownership.
+  - Bachelor’s degree in Computer Science, a related technical
+    field, or equivalent practical experience.
+
+  Technical Experience
+
+  We expect candidates to be strong across the stack, with
+  deeper expertise in at least one area. Our core stack
+  includes:
+
+  - React, with experience building polished, production-grade
+    web applications.
+  - Go, Java with Spring Boot, or a comparable backend language
+    and framework.
+  - AWS, including services such as Lambda, SQS, DynamoDB, and
+    API Gateway.
+  - MongoDB and Redis, or comparable data stores.
+  - Docker and Kubernetes.
+  - Infrastructure as code, such as Terraform, AWS
+    CloudFormation, or AWS CDK.
+  - Logging, monitoring, alerting, and observability tooling.
+  - LLM provider APIs (such as Anthropic, OpenAI, or AWS
+    Bedrock), including structured outputs, function calling
+    and tool use, streaming, and graceful handling of rate
+    limits, timeouts, and provider errors. Evaluating and
+    monitoring AI features in production, including eval
+    suites, tracing, and tracking output quality, latency, and
+    cost.
+  - AI coding agents such as Claude Code, Cursor, or Codex,
+    along with the tooling that keeps their output safe:
+    automated tests, typed interfaces, static analysis, and CI
+    quality gates.
+
+  Bonus Points For
+
+  - Experience in healthcare, digital health, telehealth, or
+    care delivery.
+  - Working knowledge of HIPAA as it applies to ingesting,
+    processing, storing, and transmitting patient information.
+  - Experience with model routing, cascading, or multi-provider
+    orchestration for LLM workloads.
+  - Experience in healthcare, digital health, telehealth, or
+    care delivery.
+  - Built polished, patient-facing mobile experiences (on React
+    Native) that people use regularly, ideally for older
+    adults or people with limited tech comfort: accessible
+    design (large text, contrast, screen readers), simple
+    onboarding, and engagement features like reminders and
+    progress Experience building products for clinicians, care
+    teams, sales teams, operational users, or older adults.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Software
+  - Telehealth
+posted_date: 2026-11-03
+url: "https://builtin.com/job/senior-product-engineer-full-stack/12024528"
+source: Built In

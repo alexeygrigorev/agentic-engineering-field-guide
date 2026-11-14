@@ -1,0 +1,412 @@
+job_id: 9602140
+title: Staff Software Engineer
+company: Murmuration
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 160 Employees
+description: |
+  Who We Are
+
+  At Murmuration, we believe that America's promise is shaped
+  and reshaped by the best ideas and ideals of its
+  communities, and the dreams of the people who believe in a
+  better life for themselves, their families, and each other.
+
+  We help organizations build power in their communities in
+  four key ways: we organize a network of values-aligned
+  partners; we provide deep, data-driven insights into people,
+  places, and perspectives; we develop tools that make
+  organizing and engagement easy and more effective; and we
+  offer services that strengthen our partners' capacity to
+  lead change in their communities.
+
+  We envision an America where every community has what it
+  needs to help people lead healthy, free, and dignified
+  lives. We work to redesign the systems and structures we all
+  depend on — how we learn, live, govern, and solve problems —
+  so that they are just, equitable, resilient, and rooted in
+  shared responsibility. By strengthening the ties that hold
+  communities together, we aim for civic life defined by
+  collective action and care, with effective leadership that
+  truly represents everyone.
+
+  We are a collaborative, curious, and creative team of
+  organizers, scientists, teachers, technologists, campaign
+  veterans, and more who share the unwavering belief that we
+  can use our gifts in service of transforming America —
+  together.
+
+  We've built our team guided by the belief that the whole is
+  greater than the sum of its parts. And so we support each
+  other relentlessly — rallying together to face challenges
+  the same way we celebrate each other's wins.
+
+  About the Position
+
+  Do you see yourself as a mission-driven engineer who
+  believes that great products emerge from strong teams? Do
+  you thrive in inclusive, thoughtful environments where
+  engineers hold themselves to high standards of technical
+  excellence, ownership, and impact at scale?
+
+  We are seeking a Staff Software Engineer to contribute to
+  one of our most ambitious efforts: building a new product
+  from the ground up while raising the bar for how our entire
+  engineering organization works.
+
+  Murmuration builds technology that helps our partner
+  organizations strengthen civic engagement and organize more
+  effectively in their communities. Our products weave
+  together engagement, outreach, demographic, and voter data
+  with intuitive applications that help partners better
+  understand and act within the communities they serve. Our
+  team is intentionally multidisciplinary and partner-focused.
+  We succeed together by aligning planning, execution, and
+  learning across engineering, product, design, research,
+  data, and partner success. We build complex, data-driven
+  systems that need to work reliably during critical moments,
+  scale as our partners grow, and remain understandable and
+  maintainable as communities and their needs evolve.
+
+  As a Staff Software Engineer, you will join the Explorer
+  Team as we evolve the product into general availability from
+  its pilot implementation. Explorer is a data visualization
+  product that facilitates political data exploration using
+  interactive maps, charts, and exportable tables,
+  supplemented by an NLP-powered search function.
+
+  On this small, close-knit team, you will establish the
+  engineering patterns, operational foundations, and testing
+  strategies needed to evolve Explorer into a secure,
+  reliable, GA-ready platform. You and the team will build
+  Explorer’s core platform and user experience, expanding a
+  near-greenfield code base to design, build, and evolve
+  secure backend services, interactive data visualizations,
+  and responsive user interfaces. You will also produce high-
+  quality documentation that improves knowledge sharing,
+  onboarding, and the long-term maintainability of the
+  product.
+
+  In addition to your Explorer work, you will serve as a
+  senior technical resource across multiple projects, applying
+  your expertise to solving some of the organization’s most
+  complex challenges.
+
+  This role is suited for a deeply experienced individual
+  contributor whose technical judgment and engineering rigor
+  raises the quality of deliverables across the entire
+  organization. You excel in near-greenfield settings where
+  product priorities and direction can shift rapidly. Your
+  commitment to building inclusive, high-trust, high-
+  performing teams is visible across the technology
+  organization. And you believe, like we do, that how we build
+  is just as important as  what we build.
+
+  What You’ll Do
+
+  Drive to General Availability
+
+  - Shape Explorer's technical future: advise on technical
+    priorities, dependencies, and complexity; propose and
+    defend well-reasoned solutions with clear documentation of
+    tradeoffs and alternatives;
+  - Take a pilot implementation from limited release to general
+    availability, including making early architectural
+    decisions, validating technical assumptions, and iterating
+    toward a scalable design;
+  - Harden experimental systems for production readiness,
+    including reliability, performance, observability,
+    testing, and operational excellence;
+  - Architect for the long term: design and build the systems
+    and architectures that will serve Explorer for years, with
+    scale, reliability, security, and maintainability as
+    first-class concerns;
+  - Improve and expand the existing code base: reinforce secure
+    coding practices, identify vulnerabilities early, and
+    treat data privacy and access control as first-class
+    concerns;
+  - Drive test strategy, proactively identify and address
+    technical risks, and drive quality improvements at the
+    team level; and
+  - Reduce technical debt, improve system quality, and
+    contribute to objectives that span the broader
+    organization.
+
+  Elevate the Team
+
+  - Resolve ambiguity, navigate requirements that are actively
+    being shaped, and bring structure and clarity without
+    waiting for perfect specs;
+  - Establish best practices for test strategy, code quality,
+    and system design; raise the technical bar across the
+    organization through documentation, advocacy, and role
+    modeling;
+  - Mentor senior engineers and help emerging technical leads
+    build the judgment, ownership, and skills to grow; lead
+    technical discussions, drive design consensus, and model
+    the standards you expect from others; and
+  - Be like Ted Lasso: believe, build trust, and demonstrate
+    kindness, empathy, optimism, curiosity, and vulnerability.
+
+  Lead Beyond Explorer
+
+  - Set technical direction across teams beyond Explorer; own
+    objectives that span multiple teams and align with
+    division and organizational goals; drive the strategy,
+    planning, decision-making, and execution needed to achieve
+    them;
+  - Lead significant initiatives spanning multiple teams and
+    systems; align technical and non-technical stakeholders,
+    communicate tradeoffs and risks clearly, and represent
+    engineering in cross-organizational discussions and with
+    product and leadership;
+  - Champion secure coding practices at a systemic level,
+    identify vulnerabilities across the product, and treat
+    data privacy and access control as organization-wide
+    concerns; and
+  - Organize and lead incident response, involving the right
+    people and delegating effectively; lead post-incident
+    reviews including root cause analysis and clear prevention
+    action items; follow through until learnings are shared
+    and remediation is complete.
+
+  Note: At the Staff level, this means setting technical
+  direction and leading multi-team initiatives with full
+  organizational accountability.
+
+  Requirements
+
+  Technical Depth and Judgement
+
+  - Deep, hands-on expertise across critical technical domains
+    with the proven ability to lead system design,
+    architectural patterns, and engineering best practices;
+    your sound technical judgment shapes important decisions;
+  - Experience with event-driven and asynchronous processing
+    patterns; solid understanding of the tradeoffs among
+    different event-driven architectures with the ability to
+    defend one choice over the other;
+  - Ability to reason across OLAP and OLTP data architectures
+    and make sound design decisions for the systems that
+    depend on them;
+  - Comfort making sound decisions with imperfect information;
+    able to design long-term architectures with scale,
+    reliability, security, and maintainability as first-class
+    concerns, and to clearly articulate tradeoffs and
+    alternatives explored;
+  - Ability to communicate and defend well-reasoned solutions
+    through written documentation, sharing context, what
+    alternatives were considered, and how conclusions were
+    reached;
+  - Be a proactive steward of technical quality, identifying and
+    prioritizing technical debt, defining test strategy, and
+    evaluating risk from bugs and architectural problems
+    before they become blockers; and
+  - Skill at debugging the most complex problems at any level of
+    the stack; ability to drive effective post-incident
+    reviews with clear timelines, root cause analysis, and
+    actionable prevention plans.
+
+  Scope, Initiative, and Execution
+
+  - Proven ability to lead technical strategy and execution for
+    significant initiatives spanning multiple teams or
+    systems, balancing quality, performance, and cost while
+    keeping stakeholders aligned on tradeoffs and risks;
+  - Proven experience in designing objectives aligned with
+    division and organizational goals, anticipating technical
+    challenges and proposing solutions before they become
+    blockers;
+  - Demonstrated experience in the estimation of large, cross-
+    team projects with significant unknowns, including
+    mitigation plans for resolving those unknowns, breaking
+    work into milestones and iterations to reduce risk and
+    deliver incremental value;
+  - Proven strategies to involve the right people, delegate
+    clearly, communicate consistently, and follow through as
+    an owner until an objective is delivered; and
+  - Ability to multiply team and engineering effectiveness
+    through technical leadership, tooling, infrastructure, and
+    process improvements.
+
+  Organizational Impact
+
+  - A technical leader across multiple teams who can act without
+    direct management responsibilities, influencing outcomes
+    through role modeling, documentation, and advocacy rather
+    than authority;
+  - Demonstrated track record as a mentor to senior engineers
+    with a proven ability to develop future technical leaders,
+    building their judgment, ownership, and skills through 1:1
+    guidance and small-group knowledge sharing;
+  - A driver of standards and best practices that raise the
+    technical bar across the organization, creating processes
+    that instill ownership behavior in others;
+  - Ability to represent engineering effectively in cross-
+    functional discussions, leading alignment across technical
+    and non-technical stakeholders on complex, multi-team
+    initiatives; and
+  - A leader by example, proactively sharing context and
+    learnings, building POCs or prototypes where most cost-
+    effective, and creating the kind of high-trust, high-
+    performing team culture that makes everyone better.
+
+  What You Bring to the Table
+
+  Foundations
+
+  - 10+ years of professional software engineering experience
+    with demonstrated full-stack fluency and a track record of
+    delivering in production across a variety of languages and
+    technology stacks;
+  - Experience taking a product from beta to general
+    availability, navigating the operational, quality, and
+    cross-functional demands of a production launch;
+  - Experience driving secure coding practices, data privacy
+    principles, and access control patterns as applied in
+    production systems;
+  - A test-driven mindset with experience writing, maintaining,
+    and driving test strategy at the team or product level;
+  - A track record of effective collaboration with product, data
+    science, and R&D teams, bridging technical and domain-
+    specific perspectives across disciplines.
+
+  Data
+
+  - Solid foundation in relational databases, including
+    PostgreSQL, writing fluent SQL, designing schemas, and
+    reasoning about migrations and query performance;
+  - Experience with analytical or columnar datastores (e.g.,
+    Apache Pinot, ClickHouse, BigQuery, etc.);
+  - Experience working with modern data warehousing and
+    transformation workflows powered by Snowflake and dbt;
+  - Experience with data pipeline orchestration tools such as
+    Dagster or Airflow with an understanding of scheduling,
+    dependency management, and pipeline reliability;
+  - Working knowledge of time series data modeling and its
+    applications;
+  - Experience with caching layers such as Redis and the ability
+    to drive decisions about caching strategy as part of
+    system design.
+
+  Infrastructure and Observability
+
+  - Deep experience with cloud-native architectures, distributed
+    systems, and production-grade software at scale;
+    production experience with AWS, including services for
+    compute, storage, and observability;
+  - Proficiency with Docker, Make, or similar build tools, as
+    well as environment scripting;
+  - Direct experience with observability tooling: logging,
+    metrics, and tracing using tools such as Datadog, New
+    Relic, Prometheus, or Grafana.
+
+  Security
+
+  - Experience driving secure coding practices, data privacy
+    principles, and access control patterns as applied in
+    production systems.
+
+  Emerging and Specialized
+
+  - Hands-on experience integrating LLM or AI APIs (e.g.,
+    OpenAI) into production applications, including working
+    with embeddings, retrieval, or natural language
+    interfaces;
+  - Experience with geospatial or map-based data visualization
+    and related JavaScript libraries.
+
+  Nice to Haves
+
+  - Familiarity with Voter File Data;
+  - Experience with or interest in political data;
+  - Background in political tech, civic tech, advocacy, or
+    mission-driven organizations; and/or
+  - Experience applying AI/ML techniques to voter or political
+    data.
+
+  Talented Software Engineers come from all walks of life and
+  career. If you are passionate about civic engagement and
+  technology, please apply, even if you do not check every
+  box!
+
+  Benefits
+
+  Location and Compensation
+
+  This is a full-time, salaried position with a comprehensive
+  benefits package, open to candidates anywhere in the United
+  States. Respective starting salaries below:
+
+  Staff Software Engineer (P5): $225,324
+
+  We set compensation using market data and apply it
+  consistently across the organization to ensure fairness and
+  transparency for everyone in similar roles.
+
+  Our Culture of Care
+
+  We work hard to create a culture of care to ensure that our
+  staff are best equipped to lead happy, healthy, and balanced
+  lives. To that end, we offer a comprehensive benefits
+  package which includes:
+
+  - Health, vision, and dental insurance with 100% of premiums
+    covered for you and qualifying family members;
+  - Retirement benefits with a 5% employer match;
+  - A flexible unlimited PTO plan;
+  - Generous paid parental leave;
+  - Pre-tax commuter benefits;
+  - A company laptop;
+  - A flexible remote work environment;
+  - A home office setup stipend for all new employees;
+  - Monthly reimbursement for remote work expenses;
+  - A yearly professional development fund;
+  - Mental health and wellness benefits through Calm and Better
+    Help;
+  - Yearly in-person staff retreats; and
+  - A welcoming culture that celebrates diversity, equity,
+    inclusion, and belonging.
+
+  At Murmuration, we believe a vibrant, representative
+  democracy depends on the inclusion of diverse voices, lived
+  experiences, and perspectives. The best ideas don’t come
+  from a single person or ideology — they emerge at the
+  intersection of different backgrounds, identities, and
+  viewpoints. We are proud of our commitment to building an
+  organization and culture shaped by respect, empathy, and
+  collaboration, where our team’s diversity fuels innovation,
+  civic engagement, and meaningful change. We welcome new
+  colleagues who will help us nurture this collective effort.
+  Join us.
+
+  An Equal-Opportunity Employer with a Commitment to Diversity
+
+  Murmuration is proud to be an equal opportunity employer,
+  and as an organization committed to diversity and the
+  perspective of all voices, we consider applicants equally of
+  race, gender, color, sexual orientation, religion, marital
+  status, disability, political affiliation and national
+  origin. We reasonably accommodate staff members and/or
+  applicants with disabilities, provided they are otherwise
+  able to perform the essential functions of the job.
+
+  Note: Murmuration is two organizations working together to
+  pursue our mission of amplifying the power of civic
+  engagement: Murmuration Research Institute, a 501(c)(3) that
+  conducts research to identify, design, and create the data,
+  tools, and insights that build healthier and more equitable
+  communities; and Murmuration, Inc., a 501(c)(4) that
+  supports organizations working across the country on the
+  nation’s most challenging issues with access to data, tools,
+  and research that build healthier and more equitable
+  communities.
+industries:
+  - Big Data
+  - Machine Learning
+  - Social Impact
+  - Software
+posted_date: 2026-08-22
+url: "https://builtin.com/job/staff-software-engineer/9602140"
+source: Built In

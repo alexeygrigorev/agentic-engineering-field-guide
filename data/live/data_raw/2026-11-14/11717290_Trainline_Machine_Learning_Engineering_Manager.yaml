@@ -1,0 +1,207 @@
+job_id: 11717290
+title: Machine Learning Engineering Manager
+company: Trainline
+location: London, GBR
+work_type: FULL_TIME
+company_size: 1,160 Employees
+description: |
+  About us
+
+  At Trainline, our purpose is to empower greener travel
+  choices, connecting people and places. Trainline enables
+  millions of travellers to find and book the best value
+  tickets across carriers, fares, and journey options through
+  our highly rated mobile app, website, and B2B partner
+  channels.
+
+  Great journeys start with Trainline 🚄
+
+  We’re Europe’s leading independent rail platform, helping
+  millions of travellers find and book the best-value rail and
+  coach journeys across our app, website and partner channels.
+
+  Our job is to make the green travel choice the best choice.
+  By building a better train travel experience, we help more
+  people choose rail - creating a positive impact for
+  customers, our business and the planet.
+
+  We’re a team of more than 1,000 Trainliners from over 50
+  nationalities, working across London, Paris, Barcelona,
+  Milan, Edinburgh and Madrid. Now is a brilliant time to join
+  us and help shape the future of travel.
+
+  Introducing the Trainline Machine Learning and AI Team 👋
+
+  Machine learning is at the heart of Trainline’s mission to
+  help millions of people make sustainable travel choices
+  every day. Our models and AI agents support customers when
+  journeys go wrong, power search and recommendations across
+  our apps and website, find the best fares through pricing
+  and routing optimisation, personalise the experience with
+  generative AI, and make our digital marketing smarter. Our
+  teams own the full lifecycle from idea to production, and
+  work closely with colleagues across the business to grow the
+  impact of ML and AI at Trainline.
+
+  We’re looking for a Machine Learning Engineering Manager to
+  lead a team of 7 ML engineers and data engineers within our
+  Core Experience pillar, which covers Search, Supply and
+  Commerce. Your team’s work sits at the centre of how
+  customers find, compare and buy their tickets. You’ll be
+  accountable for what your team ships and how it ships it:
+  the quality of the systems, the pace of delivery and the
+  growth of the people building them. You’ll work alongside
+  data scientists, software engineers and product managers.
+  You’ll stay close enough to the technical work to make good
+  calls on architecture, trade-offs and risk. What unites us
+  is curiosity, a love of what we do and a desire to make
+  sustainable travel the easy choice.
+
+  In this role, you will... 🚄
+
+  - Lead, coach and grow a team of ML and data engineers. That
+    means setting clear expectations, giving regular feedback,
+    managing performance and building an inclusive team where
+    people do their best work
+
+  - Hire for the team, shaping the roles we need and running a
+    fair, rigorous interview process
+
+  - Own delivery: plan and prioritise with your product partners
+    across Search, Supply and Commerce, unblock the team, and
+    ship ML and AI systems that move measurable customer and
+    business outcomes
+
+  - Set the technical direction for your team’s systems,
+    including architecture, build-versus-buy, and knowing when
+    a simpler approach beats a more sophisticated one
+
+  - Make sure the team builds well across the whole lifecycle:
+    reliable data pipelines, high-quality features, rigorous
+    offline and online evaluation (including A/B testing),
+    reliable deployment, monitoring and ongoing maintenance
+
+  - Lead the team in building production-grade agentic systems,
+    using orchestration harnesses such as LangGraph to design
+    multi-step workflows, tool use and human-in-the-loop
+    controls
+
+  - Make evaluation a first-class engineering discipline for LLM
+    and agent work. That means curated eval sets, LLM-as-judge
+    and human review, tracing, regression testing of prompts
+    and agents, and online monitoring of quality, cost and
+    latency
+
+  - Set the guardrails for responsible use of AI, covering
+    safety, privacy and clear fallbacks when an agent
+    shouldn’t act on its own
+
+  - Raise the bar on engineering practice through code and
+    design reviews, CI/CD, MLOps, observability and on-call
+
+  - Build strong relationships with senior leaders and partner
+    teams, explaining progress, trade-offs and impact in plain
+    language
+
+  - Contribute to our wider AI and ML community and help keep a
+    culture of learning, curiosity and experimentation
+
+  We’d love to hear from you if you have... 🔎
+
+  - Experience line-managing engineers, including hiring,
+    performance management and career development
+
+  - A strong background as an ML engineer, with a track record
+    of taking models into production and keeping them healthy
+    at scale
+
+  - Enough grounding in data engineering (pipelines, data
+    modelling and data quality) to lead data engineers as well
+    as ML engineers
+
+  - Solid Python and software engineering fundamentals, with
+    enough hands-on depth to review code and designs credibly
+
+  - Depth in at least one area such as ranking and
+    recommendation, predictive modelling, optimisation or NLP,
+    backed by a solid grasp of statistics, experimentation and
+    feature engineering
+
+  - Experience with modern ML infrastructure on a major cloud
+    platform, ideally AWS, covering distributed data
+    processing, orchestration, model management and
+    infrastructure as code
+
+  - Hands-on experience shipping agentic or LLM-based systems,
+    including agent orchestration frameworks, tool use, RAG,
+    and fine-tuning where it earns its place
+
+  - A disciplined approach to evaluating LLM and agent systems,
+    using tools such as Braintrust, and a clear view on how to
+    know whether an agent is working well in production
+
+  - Clear communication with technical and non-technical
+    colleagues, and good judgement on priorities when there’s
+    more to do than people to do it
+
+  Our tech stack 💻
+
+  We build mostly in Python on AWS, and choose tools for what
+  they do in production rather than for novelty. You don’t
+  need to know all of it on day one.
+
+  - Data and compute: S3, Athena, Spark on EMR, SQL
+
+  - Orchestration and MLOps: Airflow, MLflow, Docker, ECS,
+    Terraform, GitHub Actions for CI/CD
+
+  - Models: foundation models served through Amazon Bedrock
+
+  - Agents: LangGraph for orchestration, deployed and run on
+    Amazon Bedrock AgentCore, with MCP for tool integration
+
+  - Evaluation: Braintrust for evals, tracing and monitoring
+    agent quality in production
+
+  More information:
+
+  Enjoy fantastic perks like private healthcare & dental
+  insurance, a generous work from abroad policy, 2-for-1 share
+  purchase plans, an EV Scheme to further reduce carbon
+  emissions, extra festive time off, and excellent family-
+  friendly benefits.
+
+  We prioritise career growth with clear career paths,
+  transparent pay bands, personal learning budgets, and
+  regular learning days. Jump on board and supercharge your
+  career from day one!
+
+  We're operating a hybrid model and ask that Trainliners work
+  from the office a minimum of 60% of their time over a
+  12-week period. We also have a 28-day Work from Abroad
+  policy.
+
+  Our values represent the things that matter most to us and
+  what we live and breathe everyday, in everything we do:
+
+  - 💭 Think Big - We're building the future of rail
+  - ✔️ Own It - We focus on every customer, partner and journey
+  - 🤝  Travel Together - We're one team
+  - ♻️ Do Good - We make a positive impact
+
+  We know that having a diverse team makes us better and helps
+  us succeed. And we mean all forms of diversity - gender,
+  ethnicity, sexuality, disability, nationality and diversity
+  of thought. That's why we're committed to creating inclusive
+  places to work, where everyone belongs and differences are
+  valued and celebrated.
+
+  Interested in finding out more about what it's like to work
+  at Trainline? Why not check us out on LinkedIn, Instagram
+  and Glassdoor!
+industries:
+  - Software
+  - Transportation
+posted_date: 2026-10-16
+url: "https://builtin.com/job/machine-learning-engineering-manager/11717290"
+source: Built In

@@ -1,0 +1,221 @@
+job_id: 11756997
+title: "Systems Manager - GCP Data Engineering, Enterprise Data & Analytics"
+company: Consolidated Edison Company Of Ny
+location: New York, USA
+work_type: FULL_TIME
+company_size: 7,742 Employees
+description: |
+  The Systems Manager, GCP Data Engineering, Enterprise Data &
+  Analytics, leads the hands-on technical team responsible for
+  designing, building, and maintaining the enterprise-grade
+  data pipelines that power the Enterprise Data & Analytics
+  Platform (EDAP). This role manages a highly skilled team of
+  engineers who own the core stages of the data lifecycle on
+  Google Cloud Platform (GCP)including data transfer,
+  ingestion, transformation, curation, exposure, and
+  activation.
+
+  In this role, you will lead the strategic build-out of
+  scalable data pipelines to enable reliable downstream data
+  activation for business stakeholders, analytics, and AI/ML
+  model deployment. You will collaborate directly with
+  solution architects, business system owners, and platform
+  partners to deliver high-quality data products while
+  maintaining hands-on depth in SQL, Python, Spark, and GCP-
+  native serverless architecture. The ideal candidate blends
+  outstanding technical, data engineering, and data modeling
+  expertise with a proven track record of people management,
+  fostering a culture of operational excellence, FinOps cost-
+  efficiency, and rigorous data governance implementation.
+
+  This position does not provide employment pursuant to the
+  terms of a STEM OPT Training Plan.
+
+  ResponsibilitiesCore Responsibilities
+
+  - Team Leadership & Development: Lead, mentor, and develop a
+    technical, high-performing team of GCP data engineers,
+    establishing work plans, setting performance metrics, and
+    managing day-to-day agile execution
+  - Hands-on Technical Leadership: Maintain deep technical
+    expertise to guide architecture, review code, and directly
+    assist with prototyping, troubleshooting, and unblocking
+    complex pipeline issues
+  - Data Ingestion & Transfer: Oversee the secure onboarding of
+    diverse batch and streaming datasets from legacy on-
+    premises systems and cloud sources into the landing zone
+    of the platform
+  - Data Transformation & Curation: Drive the design and
+    development of performant, automated data transformations,
+    establishing trusted, clean datasets via a structured
+    medallion architecture (Bronze, Silver, Gold layers) using
+    tools such as SQL, Python, and Dataform
+  - Data Exposure & Activation: Lead the delivery of secure
+    exposure layers (views, authorized datasets, APIs) that
+    surface curated data products to business consumers,
+    dashboard interfaces, and advanced AI systems (Enterprise
+    Gemini/Vertex AI / Model & Agent Garden)
+  - Pipeline Reliability & FinOps: Establish monitoring,
+    alerting, and performance-tuning frameworks to ensure data
+    pipelines are resilient, highly available, and cost-
+    efficient. Coordinate closely with FinOps to identify
+    spend anomalies and optimize GCP query and storage costs
+  - Governance & Compliance Alignment: Implement and
+    operationalize data quality rules, data classification,
+    lineage tracking, and access controls in tight integration
+    with the Data Governance team, ensuring compliance with
+    privacy rules (PII, NERC CIP)
+  - Collaborative Partnering: Act as the key liaison between
+    data engineering, platform operations, legacy migration
+    workstreams, and business stakeholders to align platform
+    capabilities with immediate use cases
+
+  QualificationsRequired Education/Experience
+
+  - Master's Degree and a minimum of 6 years relevant full-time
+    work experience or
+  - Bachelor's Degree and a minimum of 8 years relevant full-
+    time work experience
+
+  Preferred Education/Experience
+
+  - Master's Degree in Computer Science, Engineering, Math,
+    Business, or a technology-centric field and a minimum of 6
+    years of relevant full-time work experience in GCP data
+    engineering building scalable data pipelines, managing
+    skilled teams, and delivering governed, cost-efficient
+    data products for analytics and AI/ML
+
+  Relevant Work Experience
+
+  - Demonstrated experience in hands-on data engineering,
+    pipeline architecture, or data platform operations,
+    including time spent leading and managing technical teams,
+    required
+  - Extensive hands-on experience designing, developing, and
+    operating large-scale data pipelines on Google Cloud
+    Platform, using services like BigQuery, Dataflow,
+    Dataproc, Pub/Sub, Dataplex, and Cloud Storage, required
+  - Proficient in SQL, Python, or Spark for large-scale data
+    processing and data modeling, required
+  - Solid experience with ETL/ELT pipeline design, workflow
+    orchestration (e.g., Composer/Airflow), CI/CD pipelines
+    (Azure DevOps preferred), and Infrastructure-as-Code
+    (Terraform), required
+  - Experience defining and managing operational metrics, SLAs,
+    and KPIs for enterprise-level data integration platforms,
+    required
+  - Familiarity with implementing data governance frameworks,
+    metadata management, and data quality testing tools (e.g.,
+    Great Expectations, Dataplex), preferred
+  - Background in utilities, energy, or other regulated
+    industries with exposure to NERC CIP compliance, security
+    protocols, and data classification, preferred
+  - Experience supporting migration initiatives moving data
+    workloads off legacy ecosystems (such as Azure,
+    Databricks, and C3.ai) onto GCP, preferred
+
+  Skills and Abilities
+
+  - Effective leadership skills
+  - Strong written and verbal communication skills
+  - Possesses flexibility to work in a fast paced, dynamic
+    environment
+  - Demonstrated problem solving skills
+  - Demonstrated time management and priority setting skills
+  - Well organized, detail oriented and flexible to handle
+    multiple assignments
+
+  Licenses and Certifications
+
+  - Driver's License Required
+  - Other: Google Professional Data Engineer Preferred
+  - Accredited Asset Management Specialist (AAMS) Google
+    Professional Cloud Architect Preferred
+  - Accredited Asset Management Specialist (AAMS) Technical
+    certification(s) in IT Preferred
+
+  Physical Demands
+
+  - Sit or stand to use a keyboard, mouse, and computer for the
+    duration of the workday
+
+  Additional Physical Demands
+
+  - The selected candidate will be assigned a System Emergency
+    Assignment (i.e., an emergency response role) and will be
+    expected to work non-business hours during emergencies,
+    which may include nights, weekends, and holidays.
+  - Available to work off hours as operationally required
+
+  About Us
+
+  Mission Statement:
+
+  Consolidated Edison Company of New York, Inc. (Con Edison),
+  Orange & Rockland Utilities (O&R), and Consolidated Edison
+  Transmission (CET) employees are required to follow health,
+  safety, and environmental policies, EEO, Standards of
+  Business Conduct, and all other applicable company policy
+  and procedures. We all share a responsibility to advance the
+  company’s mission by excelling at our three corporate
+  priorities – safety of our people and the public,
+  operational excellence in all that we do, and ensuring the
+  best possible customer experience.
+
+  Benefits:
+
+  We are dedicated to supporting the physical, mental, and
+  financial health of our employees and their families. This
+  commitment extends beyond the workplace to foster personal
+  growth and holistic wellbeing. Our life-changing rewards
+  package includes:
+
+  - Rich medical & pharmacy benefits, including vision benefits
+  - Dental benefits
+  - Health Savings Accounts
+  - Health Care and Dependent Care Flexible Spending Accounts
+  - 401(k) with robust matching
+  - Employer paid Pension Plan
+  - Employee Stock Purchase Plan with a generous matching
+    contribution
+  - State of the art Employee Assistance Program
+  - Paid Parental Leave
+  - Generous paid time off plus paid holidays
+  - Family support: emergency backup child, & elder care
+    assistance
+  - Social responsibility and volunteer opportunities
+  - Employee discount program
+  - Commuter Benefits
+  - Culture of growth and learning: career development; tuition
+    reimbursement; recognition program
+  - Life and Long-Term Disability Benefits
+
+  *Please be aware that some benefits may not apply to
+  provisional or part-time job titles.
+
+  About the Team
+
+  EEO Statement:
+
+  Consolidated Edison Company of New York, Inc. (Con Edison),
+  Orange & Rockland Utilities (O&R), and Consolidated Edison
+  Transmission (CET) are equal opportunity employers. All
+  qualified applicants will receive consideration for
+  employment and will not be discriminated against on the
+  basis of the individual’s actual or perceived disability,
+  protected veteran status, race, color, creed, religion, sex,
+  age, national origin, gender, gender identity, gender
+  expression, genetic information, marital status, sexual
+  orientation, citizenship, domestic violence victim status,
+  or any other actual or perceived status protected by law.
+
+
+
+  Technical Difficulty Statement:
+
+  For technical issues, please contact us at
+  careerconnect@coned.com
+posted_date: 2026-10-19
+url: "https://builtin.com/job/systems-manager-gcp-data-engineering-enterprise-data-analytics/11756997"
+source: Built In

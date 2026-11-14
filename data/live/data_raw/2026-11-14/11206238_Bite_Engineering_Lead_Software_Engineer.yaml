@@ -1,0 +1,204 @@
+job_id: 11206238
+title: Lead Software Engineer
+company: Bite Engineering
+location: London, GBR
+work_type: FULL_TIME
+company_size: 30 Employees
+description: |
+  The role
+
+  We're a well-funded startup using AI to decrease risk and
+  grow margin in the architecture, engineering and
+  construction industry. Our current focus is general
+  contractors. When they bid to build a major project, such as
+  a skyscraper or an airport, they price millions of pounds'
+  worth of project risks, and treatments for them, by hand,
+  and often inaccurately. During delivery, risk treatments
+  that were suboptimal or never applied erode the margin.
+  Despite billions in annual revenue, contractors only keep
+  ~2%. Bite puts contractors' data to work at tender and
+  through delivery, so the bid price rests on evidence and the
+  margin predicted at tender is the margin realised.
+
+
+
+  You'll lead engineering at Bite, setting the technical
+  direction, staying hands-on in the code, and building the
+  team that ships it. You'll work closely with Phil Cowans,
+  our fractional CTO, who co-founded Songkick and Nested as
+  CTO and studied Bayesian machine learning at Cambridge (the
+  maths behind probabilistic risk pricing). The platform is in
+  production on a Python backend and a React/TypeScript
+  frontend on Azure. You don't need experience in construction
+  or in our stack. We hire for engineering judgement, and the
+  team treat specific technologies as tools for tackling
+  problems.
+
+
+
+  Why join Bite
+
+  The problem is genuinely hard. A tender pack is thousands of
+  pages of drawings, specifications, contracts and bills of
+  quantities, with a tight deadline for bids. Turning it into
+  a structured risk register, then into a defensible bid price
+  checked against similar completed internal and external
+  projects, is the core of our product. Every number has to
+  show its working, because contractors won't trust things
+  they can't interrogate and deeply understand.
+
+
+
+  You'll own engineering outright, not a slice of it. There's
+  no engineering organisation to inherit and no layer of
+  management to negotiate with. What exists today is a working
+  platform and a small team; the architecture, standards,
+  hiring bar and the shape of the function as it grows are
+  yours to decide.
+
+
+
+  You'll build it in the room with the customer. We're co-
+  developing the product on real data with some of the world's
+  largest general contractors. You'll hear what works and what
+  doesn't directly from bid and risk teams.
+
+
+
+  What we're building
+
+  Today, contractors set the risk premium on instinct: a
+  top-50 risk register in Excel, scored by hand, with
+  treatments that are often suboptimal and rarely followed
+  through. Decades of completed-project data sit in archives
+  that are never really used, and nine in ten construction
+  projects still run over budget or schedule.
+
+
+
+  Bite ingests the whole tender pack, auto-builds the risk
+  register for the team to review, and prices it with Monte
+  Carlo simulation reconciled against a reference class of
+  similar completed projects. Through delivery, an AI auditor
+  tracks risks and treatments, and every completed project
+  improves the next tender.
+
+
+
+  What you'll do
+
+  - Own the technical direction of the platform, from tender-
+    pack ingestion to the risk engine, and write and review
+    code on the critical path yourself.
+  - Turn messy tender packs and contractors' project archives
+    into structured, citable data the risk model can trust.
+  - Take the risk model from research to production with Phil:
+    reference class forecasting, Monte Carlo pricing, and the
+    evals proving accuracy.
+  - Hire and grow the engineering team, and set the bar every
+    subsequent hire is measured against.
+  - Establish how engineering operates as it scales: standards,
+    code review, release, on-call, and how work gets
+    prioritised.
+
+
+
+  What we need from you
+
+  - A love of learning a new domain, and shipping something
+    quickly that actually fixes what was broken.
+  - A track record of shipping and owning production systems end
+    to end. Years matter less to us than evidence you've done
+    it.
+  - Experience hiring, growing and leading a small engineering
+    team.
+  - Strong backend depth, ideally Python in production, and
+    comfortable working across a React/TypeScript frontend.
+  - Experience owning architecture for data-heavy systems:
+    ingestion pipelines, queues, workers and storage.
+  - Experience putting LLM or ML features into production, and
+    measuring whether they're actually right.
+  - Genuine product sense so you can independently weigh
+    technical trade-offs against customer value.
+  - The instinct to keep things simple under pressure, and the
+    judgement to know when a tactical shortcut is right and
+    when it isn't.
+  - Clear communication across deeply technical, semi-technical
+    and plain-language conversations. Contractors buy outputs
+    they can audit, so explaining the working matters.
+
+
+
+  What will make you stand out
+
+  - Probabilistic modelling or forecasting in production: Monte
+    Carlo simulation, reference class forecasting, regression
+    on messy real-world data.
+  - Structured extraction from long, document-heavy inputs such
+    as contracts, specifications and drawings.
+  - Per-client or on-premise deployment for enterprise customers
+    with sensitive data.
+  - Background in construction, tendering, estimating, cost or
+    risk management, or document-intensive vertical SaaS.
+
+
+
+  Don't rule yourself out over the stack. We're looking for a
+  strong engineer with sound principles. Technologies are
+  tools.
+
+
+
+  What you can expect from us
+
+  - Early-team equity: the numbers on the table at the first
+    conversation.
+  - A seat at the table on product direction: how the risk model
+    works, and what we build next, are still being decided.
+  - A supportive team: founders who want to be argued with and
+    nobody between you and shipping.
+  - A domain you'll learn deeply: how contractors price and
+    manage risk, and how AI and statistical models hold up
+    against real project outcomes.
+  - Direct access to customers: you'll be invited to all product
+    discovery calls.
+  - Tight feedback loops: you'll see how a change performs on
+    real customer data within days.
+  - A clear path to CTO: we'll agree up front what it takes to
+    own the whole domain.
+
+
+
+  How we work
+
+  We believe in thorough automated testing. Not strict TDD,
+  but every PR ships with the appropriate E2E tests, unit
+  tests or eval harnesses, and for the risk model, backtests
+  against completed projects are how we know a change made it
+  better. We own the entire platform including its deployment
+  and reliability, so we control our own CI and CD. We work
+  discovery first, prototype second, on real customer data
+  within days. The team is autonomous, multi-disciplinary and
+  empowered, and works on one focused thing at a time. It's
+  your call if you'd like to change any of this.
+
+
+
+  Inclusion at Bite
+
+  Bite Engineering is an Equal Employment Employer and does
+  not discriminate on the basis of race, colour, religion,
+  sex, sexual orientation, gender identity, national origin,
+  disability, or any other legally protected status. We want
+  people from all walks of life to feel valued for their
+  individuality, thrive in our business and share a sense of
+  belonging. If you have a disability or special need that
+  requires accommodation, let us know.
+industries:
+  - Artificial Intelligence
+  - Software
+  - PropTech
+  - Automation
+posted_date: 2026-09-16
+url: "https://builtin.com/job/lead-engineer/11206238"
+source: Built In

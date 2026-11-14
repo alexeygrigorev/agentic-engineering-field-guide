@@ -1,0 +1,129 @@
+job_id: 10793627
+title: Senior Software Controls Engineer
+company: Humanoid
+location: London, GBR
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  Here at Humanoid, we believe in a future where robots
+  amplify human potential. That’s why we’ve set out on a
+  mission to build the world’s most capable, commercially-
+  scalable, and safe humanoid robots. We’re bringing that
+  mission to life with HMND‑01 - our rapidly developed
+  humanoid platform being deployed in real industrial
+  environments - and we’re growing the team to take it even
+  further.
+
+  About the Role
+
+  We are looking for a Software Engineer to join our Control
+  Team in London.
+
+  You will own how we measure control quality - per robot and
+  across the fleet. Today, judging whether a change made the
+  robot better is still too often an engineer's opinion after
+  a few runs. You will replace that with numbers:
+  reproducible, automated, trusted numbers that say whether a
+  release is better than the last one, whether one robot
+  behaves like another, and whether a fleet is ready for a
+  pilot.
+
+  This is a software engineering role, not a control design
+  role. You do not need to derive a whole-body controller. You
+  do need real robotics experience, strong engineering
+  discipline, and genuine interest in the physics of what you
+  are measuring - the control engineers bring the theory and
+  will rely on you to tell them the truth about their code.
+
+  What You'll Do
+
+  Control Quality Metrics
+
+  - Turn qualitative concerns about control quality -
+    smoothness, latency, tracking error, accuracy, and the
+    like - into precise, computable metrics, and build the
+    pipelines that compute them consistently from recorded
+    robot data, simulation runs and live telemetry.
+  - Own metric definitions and versioning so a number measured
+    today is comparable with the same number measured six
+    months from now.
+
+  Evaluation & Test Infrastructure
+
+  - Develop automated test harnesses that evaluate control
+    releases deterministically - reproducible, run-to-run
+    comparable, free of the hidden state that makes hardware
+    testing unreliable.
+  - Wire control evaluation into CI across simulation and
+    hardware-in-the-loop, with pass/fail thresholds so
+    regressions are caught automatically rather than
+    discovered on a customer site.
+  - Build the tooling that lets engineers compare controller
+    variants and releases side by side.
+
+  Fleet-Level Control Quality
+
+  - Build the per-robot and per-fleet test suites that establish
+    whether each robot meets the expected control performance
+    bar - runnable by other teams without controls support.
+  - Track control quality over time and across units - drift,
+    per-robot variation, degradation - and own the path from
+    robot to metric, including the dashboards that make
+    control health legible.
+
+  What We're Looking For
+
+  - Robotics experience on real systems - you understand robot
+    data, timing and synchronisation, and the many ways
+    hardware experiments go wrong.
+  - Strong Python, plus enough modern C++ to work confidently
+    inside a real-time control codebase and instrument it.
+  - Built test automation, evaluation frameworks or benchmarking
+    infrastructure for complex systems - and got other
+    engineers to actually use them.
+  - Solid measurement and data analysis judgement: sampling,
+    noise, statistical significance, and knowing when a
+    difference between two runs is real.
+  - Experience with robot middleware and data formats (ROS/ROS2,
+    message recording and replay, time sync), CI/CD pipelines
+    and Git-based workflows.
+
+  Nice to have:
+
+  - Familiarity with robot kinematics and dynamics, or prior
+    exposure to control systems — enough to hold an informed
+    conversation about what you are measuring.
+  - Hardware-in-the-loop test rigs and physical regression
+    testing.
+  - Physics simulation environments (MuJoCo, Isaac Sim/Isaac
+    Lab) and sim-to-real validation.
+  - Operating or supporting a fleet of robots or other
+    distributed physical devices.
+  - Data engineering: pipeline orchestration, time-series
+    databases, large-scale log processing.
+  - Release management or quality gates for safety-relevant
+    software.
+
+  What We Offer
+
+  - Competitive equity: stock options with meaningful upside as
+    we scale.
+  - 30+ paid days off, including 23 days of annual leave, all UK
+    bank holidays, and additional company closure days
+    (including Christmas–New Year shutdown).
+  - Private healthcare, including virtual and in-person care.
+  - Pension scheme with 8% total contribution (5% employee, 3%
+    employer) on full earnings.
+  - Free daily breakfast, catered lunch, and snacks in-office.
+  - Work at the frontier - collaborate daily with world-class
+    engineers, researchers, and product experts building the
+    next generation of AI and humanoid robotics.
+  - Real ownership - direct access to founding leadership,
+    meaningful input on product direction, and the ability to
+    drive key initiatives from day one.
+industries:
+  - Artificial Intelligence
+  - Robotics
+posted_date: 2026-08-21
+url: "https://builtin.com/job/senior-software-controls-engineer/10793627"
+source: Built In

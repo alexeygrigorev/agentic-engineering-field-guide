@@ -1,0 +1,221 @@
+job_id: 11918341
+title: Lead Software Engineer
+company: LSEG (London Stock Exchange Group)
+location: London, GBR
+work_type: FULL_TIME
+company_size: 15,967 Employees
+description: |
+  ROLE SUMMARY
+
+  Are you a hands-on engineer who raises the bar for everyone
+  around you?
+
+  Join us at FTSE Russell in London. We’re establishing a team
+  of engineers passionate about software craftsmanship,
+  quality, and meaningful impact. As a Lead Software Engineer,
+  you’ll own the technical direction of software that powers
+  the indices trusted by financial institutions worldwide.
+
+  We build primarily in Python, so that’s our preference — but
+  depth of engineering judgement matters more to us than the
+  language on your CV. If you’ve led the design and delivery
+  of serious production systems in Java, C#, C, C++, Scala,
+  Go, or Rust and you’re motivated to lead in Python, we’d
+  like to talk. At this level, we expect you to become fluent
+  quickly and bring that cross-language engineering
+  perspective with you.
+
+  This is a hands-on Lead Individual Contributor role — not a
+  people management role. You’ll still be designing, writing,
+  and reviewing code every week. What changes at this level is
+  scope: you’ll own architecture and technical direction in a
+  defined area, mentor and grow the engineers around you, and
+  raise engineering quality across the team through good
+  design, reuse, strong standards, and hands-on support.
+
+  The systems we build handle significant volumes of financial
+  data and support products used across global financial
+  markets. There is real depth in the data and distributed
+  systems challenges — but you’re being hired first and
+  foremost as a software engineer who leads through technical
+  judgement and code.
+
+  If you’re excited about building systems that matter,
+  solving difficult engineering problems, and making the
+  engineers around you better, we’d love to meet you.
+
+  WHAT YOU’LL BE DOING
+
+  We’re building the next-generation index data platform at
+  FTSE Russell — and we want you to shape it with us:
+
+  - Staying hands-on — designing, writing, reviewing, and
+    shipping production software, primarily in Python, and
+    setting the standard for what good engineering looks like
+    through the code you deliver
+  - Owning technical direction and architecture for a defined
+    area of the platform, making trade-offs explicit so the
+    team can move quickly and confidently
+  - Leading the design of software systems — services, APIs,
+    shared libraries, and the interfaces between them — with
+    resilience, performance, maintainability, and reusability
+    designed in
+  - Driving engineering quality across the team: raising the bar
+    in code review, reducing duplication through well-designed
+    shared components, and championing testing, refactoring,
+    automation, and secure development practices
+  - Mentoring and coaching engineers through pairing, code
+    reviews, design guidance, and hands-on technical support,
+    helping good engineering practices spread across the team
+  - Digging into technical design and risk trade-offs —
+    including failure modes, operational readiness, security,
+    performance, and cost — and resolving blockers that slow
+    the team down
+  - Designing data-intensive software across relational
+    databases such as Aurora PostgreSQL, object storage, and
+    AWS services, with careful attention to data modelling,
+    performance, and schema evolution at scale
+  - Building software that processes data at scale on AWS using
+    technologies such as Lambda, containerised services, and,
+    where appropriate, Glue, EMR Serverless, and lakehouse
+    table formats such as Apache Iceberg
+  - Embedding observability, automated testing, monitoring, and
+    quality controls so that issues are identified before they
+    affect customers
+  - Taking ownership of production outcomes and helping the team
+    build software that is reliable, supportable, and
+    straightforward to operate
+  - Influencing and collaborating across engineering teams and
+    translating effectively between technical and non-
+    technical audiences
+  - Building deep knowledge of the financial indices domain and
+    using that understanding to guide technical and
+    architectural decisions
+
+  WHAT YOU’LL BRING
+
+  Essential — this is the bar:
+
+  - Python is our preference, but not a hard gate at this level.
+    Either you already lead the development of production
+    systems in Python, or you have equivalent depth in Java,
+    C#, C, C++, Scala, Go, or Rust and are motivated to make
+    Python your primary language here. Engineers who have
+    worked across multiple languages often bring valuable
+    design perspective, and we value that
+  - Depth in software design and architecture — you can
+    decompose complex problems, define appropriate boundaries
+    and interfaces, evaluate alternatives, and clearly explain
+    the reasoning behind your decisions
+  - Strong ownership of technical and production outcomes — you
+    take responsibility for how systems behave in production,
+    not simply for what gets merged
+  - Strong experience with relational databases such as
+    PostgreSQL or Aurora PostgreSQL, including data modelling,
+    query performance, scalability, and schema evolution under
+    real production workloads
+  - Solid AWS experience and strong CI/CD, automation, testing,
+    and software delivery practices
+  - Experience with data-intensive systems, including areas such
+    as batch processing, ETL, schema evolution, data quality,
+    and reasoning about correctness at significant scale
+  - Excellent communication skills — you adapt how you explain
+    technical decisions to different audiences and create
+    shared understanding across engineering, product, and
+    business stakeholders
+  - A collaborative approach to engineering. You value strong
+    teams and shared ownership over individual heroics and
+    thrive in an Agile environment
+
+  NICE TO HAVES
+
+  Beneficial, but not what we’re screening on:
+
+  - Apache Spark / PySpark and experience optimising large-scale
+    distributed processing
+  - Big data experience — designing and operating systems for
+    datasets and workloads well beyond single-machine scale
+  - Apache Iceberg, Delta Lake, or similar open table formats
+    and experience with lakehouse architectures, Databricks,
+    Snowflake, or comparable data platforms
+  - CI/CD tooling such as GitLab CI, Jenkins, or GitHub Actions
+  - Infrastructure as code using technologies such as Terraform
+    or AWS CDK, together with broader platform or DevOps
+    exposures
+  - Experience in financial markets, index data, investment
+    analytics, or other data-intensive financial products
+
+  Join us and be part of a team that values innovation,
+  engineering quality, collaboration, and continuous
+  improvement. If you’re ready to take ownership of
+  significant technical challenges and make a meaningful
+  impact on software used across global financial markets,
+  we’d love to hear from you.
+
+  Career Stage:
+
+  Manager
+
+  London Stock Exchange Group (LSEG) Information:
+
+  Join us and be part of a team that values innovation,
+  quality, and continuous improvement. If you're ready to take
+  your career to the next level and make a significant impact,
+  we'd love to hear from you.
+
+  LSEG is a leading global financial markets infrastructure
+  and data provider. Our purpose is driving financial
+  stability, empowering economies and enabling customers to
+  create sustainable growth.
+
+  Our purpose is the foundation on which our culture is built.
+  Our values of Integrity, Partnership, Excellence and Change
+  underpin our purpose and set the standard for everything we
+  do, every day. They go to the heart of who we are and guide
+  our decision making and everyday actions.
+
+  Working with us means that you will be part of a dynamic
+  organisation of 25,000 people across 65 countries. However,
+  we will value your individuality and enable you to bring
+  your true self to work so you can help enrich our diverse
+  workforce.
+
+  We are proud to be an equal opportunities employer. This
+  means that we do not discriminate on the basis of anyone’s
+  race, religion, colour, national origin, gender, sexual
+  orientation, gender identity, gender expression, age,
+  marital status, veteran status, pregnancy or disability, or
+  any other basis protected under applicable law. Conforming
+  with applicable law, we can reasonably accommodate
+  applicants' and employees' religious practices and beliefs,
+  as well as mental health or physical disability needs.
+
+  You will be part of a collaborative and creative culture
+  where we encourage new ideas. We are committed to
+  sustainability across our global business and we are proud
+  to partner with our customers to help them meet their
+  sustainability objectives. Our charity, the LSEG Foundation
+  provides charitable grants to community groups that help
+  people access economic opportunities and build a secure
+  future with financial independence. Colleagues can get
+  involved through fundraising and volunteering.
+
+  LSEG offers a range of tailored benefits and support,
+  including healthcare, retirement planning, paid volunteering
+  days and wellbeing initiatives.
+
+  Please take a moment to read this privacy notice carefully,
+  as it describes what personal information London Stock
+  Exchange Group (LSEG) (we) may hold about you, what it’s
+  used for, and how it’s obtained, your rights and how to
+  contact us as a data subject.
+
+  If you are submitting as a Recruitment Agency Partner, it is
+  essential and your responsibility to ensure that candidates
+  applying to LSEG are aware of this privacy notice.
+industries:
+  - Fintech
+  - Analytics
+posted_date: 2026-10-27
+url: "https://builtin.com/job/lead-software-engineer/11918341"
+source: Built In

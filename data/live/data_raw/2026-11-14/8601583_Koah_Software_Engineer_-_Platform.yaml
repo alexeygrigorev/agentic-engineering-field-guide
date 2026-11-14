@@ -1,0 +1,61 @@
+job_id: 8601583
+title: Software Engineer - Platform
+company: Koah
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 17 Employees
+description: |
+  Who We Are
+
+  Koah Labs is building the ad network to power the next
+  generation of AI-native products. Our mission is to help
+  publishers monetize and help advertisers reach the right
+  audience — without compromising speed, UX, or privacy.
+
+  We’re a small, tight-knit team in San Francisco with
+  backgrounds at X, Apple, Meta and early-stage startups.
+  We’ve raised from top investors and are growing fast with
+  real traction on both the publisher and advertiser sides of
+  the marketplace.
+
+  Working at Koah means joining at the ground floor: you’ll
+  ship code that shapes the company and the ecosystem we’re
+  building. We move quickly, operate with high trust, and care
+  deeply about craft.
+
+  Our Stack
+
+  - Infra: Terraform, AWS, LGTM (Loki, Grafana, Tempo, Mimir),
+    Tailscale, Cloudflare
+  - Data: PostgreSQL, ClickHouse, Redis, Kafka, Python
+  - Core Application: Ruby on Rails, React, TypeScript
+  - SDKs: Flutter, React Native, Android, iOS
+
+  The Role
+
+  We are looking for strong engineers with experience and
+  interest in designing, building, and maintaining the
+  infrastructure that make up our adtech platform.
+
+  You might be a fit if
+
+  - You have maintained or operated serious systems in
+    production at scale
+  - You are detail-oriented and care about performance
+  - You enjoy diving deep into problems and owning the platform
+    layer that powers our product
+  - You enjoy experimentation, measuring, and creating reliable
+    systems
+  - You want to own a breadth of systems
+industries:
+  - AdTech
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Generative AI
+posted_date: 2026-08-24
+url: "https://builtin.com/job/software-engineer-infrastructure/8601583"
+source: Built In

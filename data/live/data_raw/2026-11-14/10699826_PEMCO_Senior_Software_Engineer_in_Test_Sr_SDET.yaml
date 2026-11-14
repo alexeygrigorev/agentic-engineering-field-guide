@@ -1,0 +1,343 @@
+job_id: 10699826
+title: Senior Software Engineer in Test (Sr. SDET)
+company: PEMCO
+location: USA
+locations:
+  - USA
+  - Seattle, USA
+  - Fort Lauderdale, USA
+remote: true
+work_type: FULL_TIME
+company_size: 751 Employees
+description: |
+  Applicants must be a resident and work from one of the
+  following states: WA, OR, ID, TX, OH, FL, SC, NC, or IL,
+  with occasional travel to our headquarters, located in
+  Seattle, WA.
+
+
+
+  Who We Are:
+
+  At PEMCO, we’re all about people – our customers, our
+  employees, and the community.  We’re a mutual insurance
+  company owned by our Northwest policyholders.  We provide
+  auto, home, renters, and boat coverage. Recognized by Forbes
+  as one of America’s Best Insurance Companies in both Auto
+  and Home for 2026, based on customer survey feedback, and by
+  Newsweek as one of America’s Greatest Midsize Workplaces
+  2025. We are consistently recognized for our outstanding
+  customer service, employee expertise, community
+  partnerships, and social impact programs. All of which makes
+  PEMCO a great place to work!
+
+
+
+  Our social impact programs motivate high achievement by
+  youth in education; build stronger and greener communities;
+  and increase safety at home, on the road, and at play. We’re
+  committed to diversity, equity, inclusion, and belonging,
+  and to fostering an inspiring and inclusive workplace. These
+  efforts create and cultivate an environment that builds
+  fairness and understanding, encourages collaboration and
+  flexibility, and celebrates all the ways in which we’re
+  different and the same – enabling all individuals to achieve
+  their full potential.
+
+
+
+  Why We Need You:
+
+  PEMCO has an opportunity for a Senior Software Engineer in
+  Test (Sr. SDET) to join our community.  This position is
+  responsible for ensuring the quality, reliability,
+  scalability, and performance of PEMCO's enterprise data
+  platforms, data pipelines, and analytics solutions. This
+  role partners closely with Data Engineering, Data
+  Governance, Analytics, AI, Product, and Technology teams to
+  design and implement automated testing solutions across data
+  lakes, data warehouses, cloud data platforms, and reporting
+  environments.
+
+
+  This role goes beyond traditional test execution. The Sr.
+  SDET will apply an engineering-first quality mindset by
+  designing reusable test automation frameworks, developing
+  data validation utilities, integrating testing into CI/CD
+  pipelines, and using white-box testing techniques to
+  validate complex data transformations, business rules, data
+  lineage, integration logic, and performance quality before
+  issues impact production.
+
+  Strong Property & Casualty insurance experience is required.
+  The successful candidate must be able to understand and test
+  insurance data domains such as policy administration,
+  underwriting, claims, billing, customer, actuarial, finance,
+  regulatory reporting, and related operational data flows.
+
+
+
+  What You'll Be Doing:
+
+  - Partner with business and technology teams to understand
+    requirements and contribute to solution design for
+    analytics and AI/ML initiatives.
+  - Design, develop, and execute comprehensive test strategies
+    for enterprise data platforms, data pipelines, analytics
+    solutions, and cloud-based data environments.
+  - Apply white-box testing techniques to validate data
+    transformation logic, orchestration processes, source-to-
+    target mappings, business rules, and integration pathways.
+  - Define test coverage expectations, data quality gates,
+    release readiness criteria, and automated validation
+    standards across the software delivery lifecycle.
+  - Partner with engineering teams to shift quality practices
+    earlier in design, development, code review, and
+    deployment processes.
+  - Develop and maintain traceability between business
+    requirements, insurance data rules, technical design, and
+    automated test coverage.
+  - Build automated validation processes to verify data
+    accuracy, completeness, consistency, timeliness,
+    reconciliation, and integrity across source and target
+    systems.
+  - Validate large-scale datasets and distributed processing
+    jobs across platforms such as Databricks, Snowflake,
+    Spark, Hadoop, Hive, Amazon EMR, BigQuery, or similar
+    technologies.
+  - Develop reusable utilities for data comparison, schema
+    validation, metadata validation, row-count reconciliation,
+    data profiling, and anomaly detection.
+  - Investigate production defects, data anomalies, failed
+    pipelines, and quality exceptions to identify root causes
+    and recommend durable corrective actions.
+  - Partner with Data Governance and business teams to validate
+    data definitions, lineage, standards, and control
+    requirements.
+  - Design, build, and maintain scalable automated testing
+    frameworks for ETL, ELT, API, integration, regression,
+    performance, and end-to-end testing.
+  - Integrate automated tests into CI/CD pipelines using GitHub
+    Actions, Azure DevOps, Jenkins, or comparable tools.
+  - Develop automated quality reporting, test metrics, and
+    dashboards that provide actionable insight into test
+    coverage, defect trends, and platform readiness.
+  - Leverage AI-assisted development and test automation tools
+    responsibly to improve test creation, coverage,
+    maintainability, and delivery velocity.
+  - Continuously improve automation reliability by reducing
+    flaky tests, improving test data management, and
+    strengthening repeatability across environments.
+  - Conduct performance, scalability, and reliability testing
+    for data processing workloads, pipelines, and analytics
+    solutions.
+  - Evaluate system behavior under varying data volumes,
+    schedules, concurrency patterns, and processing windows.
+  - Identify bottlenecks, latency issues, data quality risks,
+    and edge cases that may impact downstream reporting,
+    analytics, operational processes, or customer outcomes.
+  - Collaborate with engineers and architects to improve
+    pipeline reliability, observability, monitoring, and
+    recovery processes.
+  - Validate insurance business processes, calculations, data
+    structures, and data flows supporting policy,
+    underwriting, claims, billing, customer, actuarial,
+    finance, compliance, and regulatory reporting functions.
+  - Translate insurance business requirements and data rules
+    into effective test scenarios, automated validations, and
+    release quality criteria.
+  - Identify risks related to insurance data quality, downstream
+    operational impact, reporting accuracy, auditability, and
+    regulatory obligations.
+  - Partner with business stakeholders and technology teams to
+    ensure testing reflects the realities of property and
+    casualty insurance operations.
+  - Participate in design reviews, architecture discussions,
+    sprint planning, defect triage, release readiness, and
+    post-implementation reviews.
+  - Partner with Data Engineers, Software Engineers, Architects,
+    Product Managers, Business Analysts, and business
+    stakeholders to align quality practices with business
+    priorities.
+  - Mentor team members on SDET practices, data validation
+    approaches, automation design patterns, and quality
+    engineering standards.
+  - Communicate risks, issues, test results, and recommendations
+    clearly to technical and non-technical audiences.
+  - Demonstrate behaviors consistent with PEMCO's policies,
+    values, code of ethics, and business conduct.
+  - Other duties as assigned.
+
+  What You'll Bring:
+
+  - B.A./B.S. degree in Computer Science, Software Engineering,
+    Artificial Intelligence, Machine Learning, Data Science,
+    Data Engineering, or related field or equivalent
+    experience required.
+  - Bachelor’s degree in Computer Science, Information
+    Technology, Software Engineering, Data Engineering, or
+    related field, or equivalent combination of education and
+    experience required.
+  - 5+ years of experience in Quality Engineering, Software
+    Testing, SDET, Test Automation, Data Testing, or related
+    engineering roles required.
+  - 3+ years of hands-on experience testing enterprise data
+    platforms, data warehouses, data lakes, big data
+    platforms, data pipelines, or analytics solutions
+    required.
+  - 3+ years of strong Property & Casualty insurance experience,
+    including practical experience supporting or testing
+    insurance data domains such as policy administration,
+    underwriting, claims, billing, customer, actuarial,
+    finance, compliance, or regulatory reporting required.
+  - Experience designing and implementing automated testing
+    frameworks and reusable data validation utilities
+    required.
+  - Experience with white-box testing, integration testing, data
+    reconciliation, API testing, regression testing,
+    performance testing, and root-cause analysis required.
+  - Experience working in Agile, DevOps, CI/CD, and cloud-based
+    engineering environments required.
+  - Proven 5+ years of experience in testing big data & creating
+    test frameworks & white box testing[NP1] .
+  - Advanced SQL skills, including complex queries, joins,
+    aggregations, reconciliation logic, and data validation
+    patterns.
+  - Programming experience with Python, PySpark, Java, Scala,
+    JavaScript/TypeScript, or comparable languages.
+  - Hands-on experience with modern data platforms such as
+    Databricks, Snowflake, Spark, Hadoop, Hive, Amazon EMR,
+    BigQuery, SQL Server, Delta Lake, or similar technologies.
+  - Experience with CI/CD tools such as GitHub Actions, Azure
+    DevOps, Jenkins, or similar platforms.
+  - Experience with source control, branching strategies, test
+    automation repositories, and code review practices.
+  - Understanding of distributed data processing, data modeling,
+    ETL/ELT patterns, data lineage, metadata, and data quality
+    controls.
+  - Experience with insurance data warehouse modernization,
+    cloud migration, data governance, analytics enablement, or
+    AI/ML data quality initiatives.
+  - Experience creating self-service test data tools, reusable
+    validation libraries, or automated quality dashboards.
+  - Experience with AI-enabled testing, GitHub Copilot, test
+    generation tools, or intelligent automation capabilities.
+  - Certifications or coursework in software testing, quality
+    engineering, cloud data platforms, data engineering, or
+    property and casualty insurance.
+  - Quality Engineering Mindset: Builds quality into solutions
+    through automation, prevention-focused practices, and
+    engineering discipline.
+  - Insurance Business Acumen: Understands property and casualty
+    insurance workflows, data relationships, operational
+    risks, and business impact.
+  - Analytical Problem Solving: Diagnoses complex data issues,
+    identifies root causes, and develops durable solutions.
+  - Collaboration & Communication: Explains technical concepts
+    clearly and partners effectively across technology and
+    business teams.
+  - Continuous Improvement: Identifies opportunities to improve
+    automation, reliability, delivery speed, and quality
+    outcomes.
+  - Responsible AI Enablement: Uses AI-assisted tools in a
+    secure, ethical, and compliant manner consistent with
+    PEMCO standards.
+
+  Compensation:
+
+  The pay range for this role is shown below. Compensation
+  decisions are determined based on an individual’s
+  qualifications, job-related knowledge, skills, and
+  experience.
+
+
+  - Greater Seattle area target pay range: $116,338 - $142,190.
+    The full pay range is $96,948 - $161,580.
+  - Outside Greater Seattle area target pay range: $102,670 -
+    $125,486.  The full pay range is $85,559 - $142,598.
+
+  Greater Seattle Area is defined as working within
+  approximately 100 miles of Seattle.
+
+  Outside Greater Seattle is defined as working approximately
+  100 miles or more from Seattle.
+
+
+
+  Benefits:
+
+  Regular part-time PEMCO employees working at least 24 hours
+  per week and regular full-time PEMCO employees are eligible
+  to elect coverage under medical, dental, and vision plans
+  for themselves and their eligible family members with
+  generous employer premium cost shares. In addition, as a
+  benefits-eligible employee, you are:
+
+  - Covered by employer-paid basic life and accidental death &
+    dismemberment insurance policies as well as long- and
+    short-term disability benefit coverages.
+  - Eligible to participate in PEMCO’s 401(k) plan, which
+    includes a generous employer match (2 for 1 on the first
+    6% employee pre-tax and/or Roth deferral, up to federal
+    maximums).
+
+  PEMCO provides a variety of time off programs including:
+
+  - Vacation and eight (8) paid holidays.
+  - Granted four (4) floating holidays and up to ten (10) days
+    of sick leave immediately upon hire (pro-rated based on
+    hire date and full-time/part-time status).
+  - In addition, PEMCO provides paid time off for bereavement,
+    jury duty, and employee volunteering in the community.
+
+  Other miscellaneous benefit programs offered by PEMCO
+  include:
+
+  - Education Assistance Program after one year of service.
+  - Scholarship program for children of PEMCO employees after
+    one year of service; children’s birthday gift program
+  - Flexible Spending Accounts, Employee Assistance Program, and
+    charitable gift matching
+  - Other compensation, depending on role, contributions, and
+    performance, may include:
+  - Discretionary bonuses.
+  - Tiered sales commissions and/or incentives
+
+
+
+  Equal Employment Opportunity:
+
+  At PEMCO, we celebrate and support our differences. We know
+  employing a team rich in diverse thoughts, experiences, and
+  opinions allows our employees, our products, and our
+  community to flourish. PEMCO is honored to be an equal
+  opportunity workplace. We are dedicated to equal employment
+  opportunities regardless of race, color, ancestry, religion,
+  sex, national orientation, age, citizenship, marital status,
+  disability, gender identity, sexual orientation, or veteran
+  status.
+
+
+
+  Accommodations
+
+  At PEMCO, people are at the heart of our business. We’re
+  committed to providing an inclusive hiring experience for
+  all candidates. If you need reasonable accommodations to
+  apply for a role or participate in an interview, please
+  contact us by email with your name, the job reference
+  number(s), your preferred contact method, and a brief
+  description of the accommodation needed. Requests are
+  considered on a case‑by‑case basis in accordance with
+  applicable disability laws, including the ADAAA.
+
+
+
+  Applicants have rights under Federal Employment Laws:
+
+  - Family and Medical Leave Act (FMLA)
+  - Equal Employment Opportunity (EEO)
+  - Employee Polygraph Protection Act (EPPA)
+posted_date: 2026-08-15
+url: "https://builtin.com/job/senior-software-engineer-test-sr-sdet/10699826"
+source: Built In

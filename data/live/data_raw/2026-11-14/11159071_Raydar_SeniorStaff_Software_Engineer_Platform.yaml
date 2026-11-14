@@ -1,0 +1,128 @@
+job_id: 11159071
+title: Senior/Staff Software Engineer, Platform
+company: Raydar
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 28 Employees
+description: |
+  About the company
+
+  Our client is an AI-native mortgage technology company
+  rebuilding loan origination from the ground up. Its platform
+  already supports more than $85B in home loans, and a top-10
+  U.S. mortgage lender is on track to go live by the end of
+  2026. The company has raised $44M, including a recently
+  closed $30M Series B, has approximately 80 employees, and is
+  positioned to become profitable as its flagship customer
+  launches.
+
+  The role and why it matters
+
+  This is a senior or staff-level platform engineering role
+  for a hands-on software engineer who can treat
+  infrastructure as a product. You will build the self-service
+  systems, TypeScript libraries, deployment automation, and
+  reliability foundations that let product engineers ship
+  quickly and safely as the company scales.
+
+  What you'll do
+
+  • Own and evolve AWS infrastructure using Terraform and
+  Pulumi across compute, networking, storage, security, and
+  data services.
+
+  • Design and maintain internal developer tooling, TypeScript
+  libraries, shared SDKs, code generation, command-line tools,
+  and reusable frameworks.
+
+  • Build and optimize CI/CD pipelines in Buildkite and
+  maintain per-pull-request ephemeral environments.
+
+  • Improve reliability through service-level objectives,
+  error budgets, autoscaling, observability, and incident
+  response.
+
+  • Solve performance and scale challenges across Aurora
+  PostgreSQL, distributed services, and an AI-native mortgage
+  platform.
+
+  • Partner with product engineers to make development,
+  testing, and deployment fast, consistent, and safe.
+
+  • Document complex systems clearly and raise the technical
+  standard across the engineering organization.
+
+  Requirements
+
+  What we're looking for
+
+  • Seven or more years of software engineering experience,
+  including substantial platform, infrastructure, or backend
+  work.
+
+  • Strong experience at a high-growth technology startup.
+
+  • Recent hands-on experience building and maintaining CI/CD
+  pipelines and per-pull-request environments, ideally with
+  Buildkite.
+
+  • Proficiency with TypeScript and Node.js, including the
+  ability to navigate and make meaningful changes to a
+  production codebase.
+
+  • Deep AWS experience across compute, networking, storage,
+  security, and data services.
+
+  • Strong Terraform and/or Pulumi skills, including modules,
+  workspaces, and CI-driven plan and apply workflows.
+
+  • Experience with service-level objectives, error budgets,
+  incident response, and production observability.
+
+  • A track record of shipping production code, not solely
+  administering infrastructure or coordinating other
+  engineers.
+
+  • Strong written communication and the ability to document
+  complex systems.
+
+  Bonus points
+
+  • Hands-on Buildkite optimization experience.
+
+  • Experience building internal platforms, developer tooling,
+  shared SDKs, code generation, or frameworks.
+
+  • Experience with Datadog, CloudWatch, Sentry, distributed
+  tracing, or comparable observability systems.
+
+  Benefits
+
+  Compensation and benefits
+
+  • $150K-$350K base salary, depending on seniority and
+  experience. Senior-level compensation may reach $300K base,
+  while staff-level compensation may reach $350K base.
+
+  • Competitive equity.
+
+  • Medical premiums covered at 100% for employees and their
+  families, plus dental and vision coverage.
+
+  • 401(k), HSA and FSA options, and flexible time off.
+
+  • This role is not open to visa sponsorship or transfers.
+  Candidates must already have unrestricted U.S. work
+  authorization.
+
+  Location and work model
+
+  This is a full-time, remote role based in the United States.
+  The company operates as a remote-first team.
+industries:
+  - Professional Services
+  - Consulting
+posted_date: 2026-09-14
+url: "https://builtin.com/job/senior-staff-software-engineer-platform/11159071"
+source: Built In

@@ -1,0 +1,156 @@
+job_id: 8330766
+title: Senior Software Engineer - Backend (DocV)
+company: Socure
+location: New York, USA
+locations:
+  - New York, USA
+  - Seattle, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 386 Employees
+description: |
+  Why Socure?
+
+  Socure is building the identity trust infrastructure for the
+  digital economy — verifying 100% of good identities in real
+  time and stopping fraud before it starts. The mission is
+  big, the problems are complex, and the impact is felt by
+  businesses, governments, and millions of people every day.
+
+  We hire people who want that level of responsibility. People
+  who move fast, think critically, act like owners, and care
+  deeply about solving customer problems with precision. If
+  you want predictability or narrow scope, this won’t be your
+  place. If you want to help build the future of identity with
+  a team that holds a high bar for itself — keep reading.
+
+  About the Role
+
+  As a Senior Backend Engineer on the Document Verification
+  (DocV) team, you’ll build and refine the critical server-
+  side components that enable identity verification at scale.
+  This includes developing the core microservices and APIs
+  that drive document capture, processing, and verification
+  workflows – including integration with machine learning
+  models for ID authenticity and fraud detection. Your work
+  will ensure millions of users can verify their identities
+  seamlessly on our platform, reinforcing Socure’s reputation
+  for trustworthiness, speed, and security.
+
+  Responsibilities
+
+  - Develop and maintain scalable backend services: Build and
+    maintain robust, scalable, and secure backend services and
+    APIs for identity document processing and verification .
+    Ensure these services are reliable and performant to
+    handle high-volume identity verification requests.
+  - Cross-functional collaboration: Collaborate with Product,
+    Data Science/Machine Learning, and Infrastructure teams to
+    design and implement new document verification features in
+    an agile environment . Work together to translate product
+    requirements and ML model outputs into efficient backend
+    solutions.
+  - Improve code quality and practices: Drive improvements in
+    code quality, testing coverage, performance optimization,
+    security, and CI/CD practices for the DocV backend
+    systems. Champion best practices in coding, code review,
+    and deployment to enhance reliability and maintainability.
+  - Own backend architecture: Own backend architecture decisions
+    and advocate for best practices in API design,
+    microservice architecture, and secure data handling across
+    the team. Ensure the system is designed for scalability,
+    resilience, and ease of integration with other Socure
+    services.
+  - Optimize performance and reliability: Analyze production
+    metrics and real-world usage data to continuously refine
+    system performance, reliability, and scalability.
+    Proactively identify bottlenecks or failure points and
+    drive initiatives to optimize response times and uptime.
+  - Integrate ML/CV capabilities: Contribute to the integration
+    of machine learning and computer vision components into
+    the DocV backend pipeline, ensuring smooth deployment of
+    document verification models and algorithms . Work closely
+    with data scientists to incorporate model outputs (e.g.
+    OCR results, face match scores) into backend decisioning
+    logic.
+  - Collaborate with frontend/mobile teams: Work closely with
+    frontend and mobile engineers to define clear API
+    contracts and ensure a seamless end-to-end user experience
+    across web and mobile SDKs. Provide support and guidance
+    to client-side teams in using backend services effectively
+    and debug integration issues when necessary.
+
+  Qualifications
+
+  - Experience: 5+ years of experience building and shipping
+    modern backend services or distributed systems at scale.
+    Proven track record of delivering production backend
+    software in fast-paced environments.
+  - Programming skills: Advanced proficiency in backend
+    programming languages (e.g.,GoLang, Java, Scala) and
+    frameworks for building APIs and microservices . Hands-on
+    experience with developing gRPC and RESTful APIs and
+    server-side business logic.
+  - Scalable systems expertise: Experience building scalable,
+    high-availability microservices and RESTful APIs that can
+    handle large volumes of transactions . Familiarity with
+    designing for fault tolerance and low latency in a cloud
+    environment.
+  - Performance & security: Solid understanding of performance
+    optimization and backend security best practices,
+    especially when processing sensitive data (PII). Ability
+    to profile services, optimize database queries, and
+    implement measures to secure data in transit and at rest.
+  - Team collaboration: Proven ability to collaborate
+    effectively with cross-functional teams including frontend
+    engineers, data scientists, and product stakeholders.
+    Excellent communication skills to articulate technical
+    concepts and requirements across disciplines.
+
+  Preferred Qualifications
+
+  - Domain knowledge: Experience with identity verification,
+    fraud prevention, or related domains (e.g. Document
+    Verification, Device Risk, Identity Verification) is a
+    strong plus. Familiarity with document verification
+    workflows or fraud risk scoring will help you hit the
+    ground running.
+  - ML/CV integration: Familiarity with computer vision or
+    machine learning techniques in the context of document
+    verification (e.g., OCR, face matching). Experience
+    deploying or integrating ML models into backend services
+    is a plus .
+  - Cloud and data processing: Knowledge of AWS cloud platform
+    (Experience with GCP is a plus) and container
+    orchestration (Docker/Kubernetes) for deploying services.
+    Familiarity with streaming and data processing frameworks
+    (e.g., Kafka, Spark) for building high-volume data
+    pipelines is a plus .
+
+  Continuous improvement: Passion for continuous improvement
+  in backend architecture, code quality, and engineering best
+  practices. Enthusiasm for evaluating new technologies and
+  techniques to enhance the DocV platform’s performance and
+  reliability.
+
+  Socure is an equal opportunity employer that values
+  diversity in all its forms within our company. We do not
+  discriminate based on race, religion, color, national
+  origin, gender, sexual orientation, age, marital status,
+  veteran status, or disability status. If you need an
+  accommodation during any stage of the application or hiring
+  process—including interview or onboarding support—please
+  reach out to your Socure recruiting partner directly.
+
+  Follow Us!
+
+  YouTube | LinkedIn | X (Twitter) | Facebook
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-08-22
+url: "https://builtin.com/job/senior-software-engineer-backend-docv/8330766"
+source: Built In

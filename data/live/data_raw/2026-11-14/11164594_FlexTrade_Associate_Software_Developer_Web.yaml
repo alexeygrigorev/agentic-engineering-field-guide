@@ -1,0 +1,120 @@
+job_id: 11164594
+title: Associate Software Developer (Web)
+company: FlexTrade
+location: London, GBR
+work_type: FULL_TIME
+company_size: 600 Employees
+description: |
+  FlexTrade Systems is a provider of customized multi-asset
+  execution and order management trading solutions for buy-
+  and sell-side financial institutions. Through deep client
+  partnerships with some of the world's largest, most complex
+  and demanding capital markets firms, we develop the flexible
+  tools, technology and innovation that deliver our clients a
+  competitive edge. Our globally distributed engineering teams
+  focus on adaptable technology and open architecture to
+  develop highly sophisticated trading solutions that can
+  automate and scale with your business strategies.
+
+  At FlexTrade, we hold our values close to heart, with pride
+  and gratitude, as they guide us in everything that we do. We
+  are dedicated to giving our clients a competitive edge,
+  taking ownership of our responsibilities, being flexible to
+  adapt to ever changing environment and technology, bringing
+  integrity to every interaction and we continue to improve,
+  grow together and collaborate as one team. All of these
+  while having fun truly makes FlexTrade a wonderful place to
+  work.
+
+  The Team
+
+  We are looking for an amazing developer to join our team
+  building FlexTrade’s OEMS platform, FlexONE, which is our
+  state-of-the-art, fully integrated Order Management System
+  and Execution Management System. This system was built from
+  the ground up starting in 2013 and is written entirely in
+  Scala.
+
+  The FlexONE team is split between our Milwaukee office,
+  where the product was first developed, and our London
+  office, which is now predominantly responsible for
+  development of the UI for the application.
+
+  The London team is an experienced group of Java and Scala
+  developers, with a deep understanding of UI and UX design.
+  We deliver our software using agile methodologies, and we
+  encourage best practices such as TDD, code reviews and pair
+  programming for knowledge sharing and learning. Our team
+  owns all aspects of the features they work on, from
+  designing solutions to meet customer or product
+  requirements, through implementation, QA and delivery. Each
+  team member works on every part of the system.
+
+  About You
+
+  As an Associate Web Developer, you’ll join our FlexONE team
+  and contribute to development across our web and mobile
+  applications. You’ll build your skills across a Scala + Play
+  Framework backend and a React + AG-Grid front-end, while
+  using gRPC to communicate with our core product’s backend
+  systems. Working with guidance from senior engineers, you’ll
+  help build features, fix issues, improve usability, and
+  support the ongoing evolution of our Web and Mobile apps
+  from MVPs toward comprehensive companions to the desktop
+  application.
+
+  Responsibilities
+
+  - Build Features: Implement well-scoped, maintainable features
+    across the stack with support from senior engineers.
+  - Fix Bugs: Help to triage and resolve bugs found by either
+    our customers or our internal QA teams.
+  - Code Quality: Write clean, tested code and respond to review
+    feedback to improve reliability, performance, and
+    maintainability.
+  - Support Mobile Evolution: Assist with maintenance and
+    incremental development of the current mobile app and
+    support future migration work under technical guidance.
+  - Collaboration: Work closely with developers, testers, and
+    product stakeholders to understand requirements, clarify
+    details, and deliver practical solutions.
+
+  Tech Stack
+
+  - Backend: Scala, Play Framework, REST/JSON and gRPC
+  - Frontend: React, TypeScript, AG-Grid
+  - Mobile: Current app in CodenameOne, target migration to
+    React Native (or similar JS-based cross-platform
+    framework)
+  - Tooling: Jenkins, GitLab, SonarQube, IntelliJ IDEA
+
+  - Foundational full stack expertise
+    - Experience building web applications using React and
+      TypeScript
+    - Familiarity with typical software development workflows,
+      including using Git for version control
+    - Familiarity with Scala, Java, or another JVM language, with
+      willingness to learn Scala and Play Framework.
+  - Mobile Interest: Exposure to mobile development and interest
+    in learning cross-platform mobile development with React
+    Native
+  - Architecture & Design: Basic understanding of APIs, web
+    application structure, and user-focused design principles.
+  - Communication: Clear, curious communicator who collaborates
+    well with both engineers and non-engineers.
+
+  FlexTrade Systems, Inc. is an equal opportunity employer and
+  makes employment decisions without regard to race, color,
+  religion, sex, sexual orientation, gender identity, national
+  origin, protected veteran status, disability status, or any
+  other status protected by law.
+
+  FlexTrade UK Ltd. conducts a pre-employment screening which
+  consists of a Criminal History, Background and Credit Check
+  for successful candidates.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-09-14
+url: "https://builtin.com/job/associate-software-developer-web/11164594"
+source: Built In

@@ -1,0 +1,196 @@
+job_id: 11238058
+title: Full-Stack TypeScript Developer
+company: Qatalyst Labs
+location: USA
+locations:
+  - USA
+  - Yerevan, ARM
+remote: true
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  About Us
+
+  We are an AI-native product development company working with
+  serial entrepreneurs, successful business owners, and world-
+  class experts to build innovative products and agentic
+  systems in HR Tech, EdTech, and Health Tech.
+
+  Our Founder: Startup veteran with multiple leadership roles
+  as Head of Product and Engineering (4 exits), and a long-
+  time lecturer at the University of Toronto Department of
+  Computer Science.
+
+  What makes us different:
+
+  - AI-native development approach (Claude Code subscription
+    provided)
+  - Work closely with successful serial entrepreneurs, business
+    owners, or executives
+  - Real production systems serving thousands of business users
+  - Small, high-performing distributed team
+  - Focus on outcomes not hours
+  - Remote-first flexible work environment
+
+  The Role
+
+  Join our core team as a full-stack developer working on one
+  of our client engagements. You'll own features end-to-end
+  and ship high-quality features faster.
+
+  Team Structure (you'll work alongside):
+
+  - 2 Developers
+  - 1 Designer
+  - 1 Product Manager
+  - 1 executive
+
+  Contract: Long-term individual contractor
+
+  Location: Remote (Latin America, Eastern Europe, West Asia,
+  or Canada)
+
+  Timezone: 3-5 hours daily overlap with EST preferred
+
+  English: Advanced in reading and writing and high-
+  intermediate in verbal communication required
+
+  What You'll DoCore Responsibilities
+
+  You are not expected to have all of these and we will
+  support your learning and growth
+
+  - Build and ship complete features independently from product
+    specifications & prototypes
+  - Own end-to-end: API design → database schema → UI
+    implementation → Testing
+  - Write production-ready, reliable code that scales to
+    thousands of users
+  - Work primarily in TypeScript, sometimes in JavaScript, other
+    languages based on need
+    - One of our repos is a medium-sized repo mostly built in JS
+      that we’d like to slowly migrate to TS (~150k LOC)
+  - Leverage AI coding tools (Claude Code) to accelerate
+    development as needed
+  - Integrate third-party services: AWS S3, Stripe, OpenAI,
+    Mailgun
+  - Take initiative on technical improvements and architectural
+    decisions
+  - Maintain and improve production systems with high attention
+    to quality
+
+  Primary Tech Stack (varies by project)
+
+  - Backend: NestJS, TypeORM, PostgreSQL, Node.js (TS/JS)
+  - Frontend: React 18, Next.js, Redux Toolkit, Tailwind CSS,
+    MUI
+  - AI Tools: Cursor IDE, Claude Code (subscriptions provided)
+  - DevOps: GitHub, Slack, Sentry, Jest, Docker, Railway, MS
+    Azure
+  - Workflow: Kanban-based, continuous delivery
+
+  What You Get
+
+  - Competitive pay (1500-3000 USD depending on experience)
+  - Flexible to live and work from anywhere with optional office
+    space in Yerevan with our partner team
+  - Focus on impactful work with minimal politics, meetings,
+    extra work
+  - Opportunity to work at the forefront of latest development
+    best practices
+  - Mentorship and guidance from senior engineering leaders
+
+  What You NeedTechnical Competencies
+
+  You can demonstrate ability to:
+
+  - Build production-ready applications in TypeScript (or JS)
+  - Clarify and scope unclear issues when needed
+  - Design and implement REST APIs with modern frameworks
+  - Work with relational databases (PostgreSQL) and ORMs
+  - Ship complex React applications with Next.js and state
+    management
+  - Write automated tests as part of your standard workflow
+  - Debug production issues independently and ship reliable
+    fixes
+  - Use AI coding tools effectively to accelerate development
+
+  Who You Are
+
+  - Ownership mindset - deliver features you're proud of
+  - Great talent with high potential - eager to grow and develop
+    your skills
+  - Self-directed and proactive - take ownership, minimal hand-
+    holding needed
+  - High attention to detail - clean code, proper error
+    handling, edge cases matter
+  - Strong communicator - clear written updates, proactive about
+    blockers
+  - Driven to learn - stay current with latest technologies and
+    best practices
+
+  Nice-to-Have
+
+  - AI/ML API integration (OpenAI, Claude, Gemini, etc.)
+  - Background in HR Tech, Health Tech, or MarTech products
+  - Docker and AWS deployment experience
+
+  How We Work
+
+  AI-native: Claude Code subscriptions provided - use AI as
+  needed
+
+  Async-first: GitHub for code, Slack for communication,
+  written over meetings
+
+  Self-managed: We don’t manage you. You show initiative,
+  discipline, and organization.
+
+  Kanban flow: Pick up tasks, ship when ready, no sprint
+  ceremonies
+
+  TypeScript-first: Primary language across most projects
+
+  Code quality: Every PR reviewed, tests required, Sentry
+  monitoring
+
+  Direct collaboration: Work with PM, designer, and business
+  owners directly
+
+  Hiring Process
+
+  - Initial screening (30 min) - Technical capabilities, work &
+    expectation alignment
+  - Sample project (3-6 hours) - Take-home realistic scenario to
+    give you a sense of what you'll work on.
+  - (Optional: Meet our office and partner team in Yerevan)
+  - Paid trial project (1 week) - Work on actual feature
+  - Final decision - Offer or feedback
+
+  Timeline: 2-3 weeks start to finish
+
+  To Apply
+
+  Include:
+
+  - Brief intro (5 sentences):
+    - Your relevant experience (You can use your resume to make it
+      simple)
+      - Tech stacks and level of experience
+      - Business production software
+      - AI coding tools (Claude Code, Cursor, Copilot, etc.)
+      - Example of a complex feature/product you built and owned
+        independently
+  - Preferred monthly rate (optional)
+
+  We're looking for: Someone with great talent and potential
+  who wants to grow, can take ownership of features
+  independently, and consistently delivers production-ready,
+  reliable code. If you love TypeScript, embrace AI tools, and
+  thrive with minimal direction, we want to hear from you.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-20
+url: "https://builtin.com/job/full-stack-typescript-developer/11238058"
+source: Built In

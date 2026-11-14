@@ -1,0 +1,265 @@
+job_id: 11031206
+title: Software Engineer (AWS / Python)
+company: Evio
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 42 Employees
+description: |
+  Evio Overview
+
+  Evio is a highly unique pharmacy solutions company that was
+  founded by and works closely with health plans to implement
+  transformative (to cost, quality, access and experience)
+  initiatives primarily focused on specialty and other high-
+  cost medication solutions.
+
+  In 2020, a group of five amazing Blue Cross Blue Shield
+  health plans that in total serve more than 20 million
+  members recognized that the way medications get to patients
+  needs significant reform—rapidly rising costs and massive
+  system complexities are detrimental to patients and the
+  entire industry. In 2025, Wellmark joined as Evio's first
+  non-founding investor and sixth owner health plan. Each
+  company made, and continues to make, significant investments
+  to establish Evio as an independent entity to lead this
+  transformation.
+
+  Evio has advanced analytics and contracting capabilities at
+  scale, and a suite of digital tools, to power our high-cost
+  medication solutions. Our solutions act as a self-
+  reinforcing “flywheel” where each element strengthens and
+  feeds into the next, and support an “Only Evio can do that,”
+  mindset and prioritization.
+
+  Evio is also a company that has invested heavily in and been
+  highly intentional about people, team and culture. We
+  believe we have created a very special place to work and
+  encourage candidates to observe and ask us about our culture
+  and decide for themselves.
+
+  Evio's Values
+
+  - Empathy – The people our business serves always come first.
+    We care for our teammates and put ourselves in the shoes
+    of our health plan customers and the patients and
+    clinicians our solutions benefit.
+  - Diversity – We are committed to fostering a culture where
+    everyone belongs and is valued for their background,
+    experience and insights – one that encourages diversity of
+    ideas, and is a nurturing, trusting, and accepting place
+    for all.
+  - Adventure – We are flexible, thrive in ambiguity, fail fast,
+    and pivot quickly to get to a better answer. We celebrate
+    wins and pivots with equal intensity.
+  - Relentless – Guided by evidence and data, we are creative,
+    curious, and unwavering in our pursuit of challenging the
+    status quo and each other.
+  - Transparency – Just as we seek to bring transparency to the
+    pharmacy supply chain, authenticity and integrity are core
+    to the way we communicate.
+  - Excellence – We strive to raise the bar in all we do by
+    hiring and developing exceptional talent and holding
+    ourselves and our thinking to the highest standard.
+
+  About the Role:
+
+  We’re looking for a Software Engineer experienced in
+  building backend cloud-native applications using Python and
+  AWS services. In this role, you’ll play a critical part in
+  designing and implementing scalable backend systems and data
+  workflows that power our application and analytics
+  platforms. You’ll collaborate closely with product,
+  engineering, and analytics teams to deliver reliable and
+  performance-backed services using AWS Lambda, Redshift, RDS,
+  and more.
+
+  Key Responsibilities:
+
+  Backend Systems Development:
+
+  - Design, develop, support and maintain scalable internal
+    applications using AWS, Python, SQL, Stored Procedures,
+    Step Functions, Lambda, Gateway API, Glue.
+  - Build serverless functions and microservices to support
+    application features and data processing workflows.
+  - Collaborate with data teams to deliver complete, end-to-end
+    solutions.
+
+  Data Processing, Integration, Architecture and Design:
+
+  - Design and develop solutions using scalable data
+    architectures using AWS cloud services, including data
+    lakes, data warehouses, bulk data ingestion, and
+    transaction processing.
+  - Develop and maintain ETL pipelines using AWS Glue and Python
+    to ingest, transform, and enrich data from various
+    internal and external sources.
+  - Integrate APIs, batch jobs, and real-time data streams using
+    services like Amazon Lambda, Glue, Kinesis, Step
+    Functions, and S3.
+
+  Cloud Infrastructure:
+
+  - Leverage AWS services including Lambda, Glue, Step
+    Functions, Redshift, RDS, S3, and Kinesis to build robust
+    and cost-effective backend solutions.
+  - Administer and optimize cloud-native databases including
+    Redshift, PostgreSQL, and MySQL (RDS/Aurora).
+  - Monitor and tune backend applications and data pipelines for
+    optimal performance, scalability, and cost-efficiency.
+  - Implement caching, partitioning, and batching strategies to
+    accelerate processing and reduce latency.
+
+  Security & Compliance:
+
+  - Ensure backend services and data flows adhere to industry
+    standards and regulatory compliance requirements (e.g.,
+    HIPAA).
+  - Implement robust access control and data protection
+    strategies.
+
+  Collaboration & Leadership:
+
+  - Partner with product managers, data analysts, and engineers
+    to translate requirements into efficient backend
+    solutions.
+  - Provide technical guidance and mentorship within the
+    development team.
+  - Contribute to architectural decisions and backend
+    development standards.
+
+  Continuous Improvement:
+
+  - Drive automation and infrastructure-as-code practices to
+    streamline development and deployment.
+  - Implement DevOps CI/CD Pipelines for current and new
+    products
+  - Identify opportunities to optimize code, processes, and
+    systems for greater efficiency and reliability.
+
+  The skills and experience you bring to this role include:
+
+  - Bachelor’s degree in computer science, Informatics,
+    Information Systems, or another quantitative field.
+  - 5+ years of experience in software development or a similar
+    role with demonstrated technical leadership experience.
+  - Strong Software development skills and prior experience
+    using Python, SQL, and Stored Procedures, AWS Lambda, API,
+    Glue.
+  - Advanced working SQL knowledge and experience working with
+    relational databases, query authoring (SQL), writing
+    views, stored procedures and triggers in an AWS Cloud
+    Environment with RedShift, Aurora, PostgreSQL or similar
+    RDBMS.
+  - Experience with healthcare claims data (HL7, Medical Claims,
+    Rx Claims) or similar healthcare data is required.
+  - Excellent communication and organizational skills.
+
+  Salary Considerations:
+
+  Anticipated annual base pay range: $100,000 - $130,000 plus
+  additional variable compensation based on performance.
+
+  At Evio, we’re committed to building a competitive
+  compensation package to honor the value our teammates bring
+  as well as attract and retain top talent that is aligned
+  with our culture, mission and values. Compensation includes
+  base pay (range shown) and could include other variable
+  compensation opportunities depending on job seniority,
+  location, and date of hire. Evio also offers a number of
+  attractive benefits to eligible teammates including health
+  insurance, retirement savings, life and disability
+  insurance, paid and unpaid time off, and other benefits to
+  make sure Evio teammates and families are well supported.
+
+  Please note that the base pay information shown is a general
+  guideline for the job responsibilities and qualifications
+  listed. Salary decisions are based on candidate experience,
+  and market and business considerations.
+
+    Evio Benefits:
+
+  - Great Health InsuranceThe company pays 100% of medical,
+    dental, and vision premiums for teammates, and 50% for
+    dependents.
+  - 401K MatchEvio matches 100% of teammate contribution up to
+    5% of salary, subject to IRS limits.
+  - Time OffWe have a flexible vacation policy for teammates to
+    unplug and recharge when you need it. There is no minimum
+    or maximum amount of vacation allowed per year, and there
+    is no payment in consideration for unused vacation.
+    Vacation is to be used at your discretion, with approval
+    of leadership.
+  - Parental LeaveGenerous paid leave for new parents (includes
+    birth and non-birth parents).
+
+  Evio values a diverse workplace and is committed to
+  supporting and celebrating the diversity that each teammate
+  brings to the table. We are proud to provide equal
+  employment opportunities to all teammates and applicants for
+  employment and prohibit discrimination and harassment of any
+  type without regard to race, color, religion, age, sex,
+  national origin, disability status, medical condition,
+  genetic information, protected veteran status, sexual
+  orientation, gender identity or expression, or any other
+  characteristic protected by federal, state or local laws.
+
+  Fraud Notice
+
+  We’ve recently learned of fraudulent job postings and
+  individuals falsely claiming to represent Evio. Protecting
+  our candidates is incredibly important to us, and we want to
+  share a few reminders:
+
+  - All official communication will come from an email ending in
+    @evio.com.
+  - We will never conduct text-only interviews (Teams, SMS,
+    WhatsApp, Telegram, etc.).
+  - We will never ask for payment, gift cards, fees, or
+    purchases of any kind.
+  - We will never request sensitive financial information during
+    the recruiting process.
+  - Our open roles are posted only on our official website,
+    LinkedIn, and Greenhouse job board.
+
+  If you believe you’ve encountered a scam, you can also
+  report it to the Federal Trade Commission or the Internet
+  Crime Complaint Center. Thank you for your care and
+  vigilance — we’re grateful to everyone who helps keep our
+  community safe.
+
+  Information Disclosure
+
+  We value transparency in our hiring process and want
+  applicants to understand how your information is used.
+
+  We collect and use personal information you provide during
+  the application process such as your resume, employment
+  history, education, interview responses, and other job-
+  related information, to evaluate your qualifications for
+  employment. This may also include limited technical and
+  interaction data, such as IP address and device or browser
+  information.
+
+  We may use automated or AI-assisted tools to help review
+  applications, identify qualified candidates, and detect or
+  investigate potentially fraudulent or deceptive activity.
+  Human reviewers remain involved, and these tools support,
+  not replace, human judgment.
+
+  These measures support a fair and secure hiring process for
+  all candidates. If you require a reasonable accommodation,
+  please inform us when invited to interview.
+
+  California privacy notice Consistent with California law, we
+  use this information for recruiting, hiring, and related
+  business purposes, including evaluating your candidacy and
+  improving our hiring processes.
+industries:
+  - Healthtech
+  - Pharmaceutical
+  - Hospitality
+posted_date: 2026-09-05
+url: "https://builtin.com/job/software-engineer-aws-python/11031206"
+source: Built In

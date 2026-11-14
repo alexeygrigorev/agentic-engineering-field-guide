@@ -1,0 +1,115 @@
+job_id: 10505072
+title: Software Engineer - Infrastructure (Senior+)
+company: Cogent Security
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 165 Employees
+description: |
+  About Cogent
+
+  Cogent is an Applied AI Lab building the next generation of
+  AI agents for cybersecurity. AI has fundamentally changed
+  how attacks happen, allowing malicious actors to operate at
+  unprecedented speed and scale. Cogent's "AI Taskforce"
+  assesses petabytes of enterprise data to remediate these
+  issues before critical breaches occur.
+
+  To stay at the cutting edge, we blend frontier research with
+  real-world execution. Alongside our core product work,
+  Cogent Research serves as our applied AI lab, providing the
+  research horsepower needed to make truly agentic security
+  workflows a reality. We partner with Fortune 500 companies
+  to secure some of the most complex production environments
+  in the world.
+
+  We're backed by Greylock & Bain Capital Ventures, and we've
+  built a team with the best minds in applied AI. Our team is
+  comprised of people from:
+
+  - Top universities like Stanford, Berkeley, Penn, Duke,
+    Carnegie Mellon, Waterloo
+  - Unicorn, high-growth companies like Scale AI, Databricks,
+    Stripe, Tesla, Coinbase
+  - World class cybersecurity experts from Wiz, Abnormal AI,
+    Zscaler
+  - Preeminent research labs like Deepmind and SAIL
+
+  About the Role
+
+  We're hiring a Senior+ Infrastructure Engineer to help build
+  a secure, reliable, cost-effective, and agent-forward
+  foundation for running Cogent's products and services.
+  You'll join a small, fast-growing Core Platform pod (that
+  includes infrastructure, security, and compliance) and work
+  hands-on across our data platform, our security systems, and
+  the platform layer our agents use to build and ship the
+  product. Ultimately you'll help keep the company, our
+  customers, and our employees protected against external and
+  internal threats.
+
+  This is an early-stage, high-ownership role for an engineer
+  who has built core infrastructure at startup scale and can
+  operate across many stakeholders.
+
+  What You'll Do
+
+  - Build and optimize our data platform, with a focus on
+    storage-level optimizations across Clickhouse and Postgres
+  - Make our product deployable on-prem to unlock onboarding for
+    large customers - the last mile needed to land seven-
+    figure accounts
+  - Harden our security systems
+  - Build an agent-first infra and platform layer, since agents
+    will build our product and need a foundation they can rely
+    on
+  - Drive large-scale infrastructure projects end-to-end across
+    a variety of stakeholders
+
+  About you
+
+  - 5-7 years of software engineering experience with deep core
+    infrastructure expertise and strong hands-on coding
+  - Hands-on AWS experience
+  - Experience with Clickhouse Cloud at the serving layer
+  - Real depth in Spark and micro-batching
+  - A track record of driving large-scale projects across
+    multiple stakeholders
+  - Experience building in an AI-forward capacity, with agentic
+    coding fundamentals
+  - Startup or early-stage background (up to ~200 people),
+    ideally blended with large-company experience
+
+  Bonus Points
+
+  - Prior startup founder experience
+  - API gateway auth experience with Envoy or Istio
+  - SRE strength: agent-forward, but able to operationalize,
+    debug, and triage
+  - Familiarity with Hashicorp Vault, MicroVM (Runloop), and
+    SPIFFE / SPIRE for agent identity
+
+  For California Based Applicants
+
+  The standard base salary range for this position is $100,000
+  - $300,000 annually. Compensation offered will be determined
+  by factors such as location, job level, job-related
+  knowledge, skills, and experience. Certain roles may be
+  eligible for variable compensation, equity, and benefits.
+
+
+
+  We are committed to building an inclusive and diverse
+  company. We do not discriminate based on gender, ethnicity,
+  sexual orientation, religion, civil or family status, age,
+  disability, or race.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Cybersecurity
+posted_date: 2026-08-03
+url: "https://builtin.com/job/senior-infrastructure-engineer/10505072"
+source: Built In

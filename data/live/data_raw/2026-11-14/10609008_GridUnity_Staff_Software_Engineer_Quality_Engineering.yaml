@@ -1,0 +1,306 @@
+job_id: 10609008
+title: Staff Software Engineer, Quality Engineering
+company: GridUnity
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 66 Employees
+description: |
+  WHO WE ARE
+
+  GridUnity is the industry leader in interconnection life
+  cycle management, delivering cutting-edge software solutions
+  that eliminate bottlenecks in the interconnection process
+  and accelerate the transition to a more affordable,
+  sustainable, and resilient energy future.
+
+  Our Mission
+
+  We unite all grid interconnection stakeholders on a single
+  platform that converts centralized data into actionable
+  intelligence and accelerates the transition to a reliable,
+  sustainable, and cost-efficient electric grid.
+
+  GridUnity is a trusted partner to leading utilities, grid
+  operators, and policymakers. Our technology solutions tackle
+  the interconnection queue backlog by significantly reducing
+  processing times. Whether cutting transmission
+  interconnection timelines from years to months or enabling
+  distribution applications to be processed within a day, we
+  help accelerate energy projects at every scale.
+
+  Our Vision Energizing the planet with a faster, smarter, and
+  more sustainable grid.
+
+  What you'll do
+
+  GridUnity spends its days removing bottlenecks from the
+  interconnection queue. This role removes our bottlenecks.
+
+  We are not hiring you to test our software. We are hiring
+  you to build the system that makes "is this safe to ship" a
+  fact we already have, not a meeting we still need.
+
+  Being right and being fast pull against each other, and at
+  our scale that tension is an engineering problem rather than
+  a process one.
+
+  As the Staff Software Engineer, Quality Engineering, you
+  will own and lead GridUnity's quality engineering strategy:
+  the technical vision and roadmap for the operating model as
+  it scales, the standards it holds engineering to, and what
+  counts as evidence that something is safe to ship.
+
+  GridUnity engineering runs on an AI-native, artifact-first
+  model. Agents draft tests from specs, run executions, and
+  write automation. Humans arbitrate the evidence, own the
+  release verdict, and continuously calibrate how much of the
+  agents' judgment to trust. Version one of that system is
+  live today on our flagship product line. You will take
+  ownership of it, make it hold under real delivery pressure,
+  and scale it across every product line.
+
+  You will make quality a property of the engineering system
+  itself: honest release gates, a defensible and deliberately
+  shrinking catalog of human-judgment testing, and evaluation
+  mechanisms that tell us exactly where human attention is
+  needed.
+
+  You report to the Director of Engineering Operations and
+  partner closely with Product Engineering, Platform
+  Engineering and DevOps to improve release confidence while
+  accelerating delivery.
+
+  Where we are, and where you come in
+
+  Running now: the quality operating model is documented and
+  live on our flagship product line. An agent-drafting
+  workflow ships review-ready tests against documented why-
+  manual criteria, enforced in the ticket lifecycle. A daily
+  regression cadence runs green, with manual coverage held
+  where human judgment is required. Evidence-backed release
+  gating is live in our test-management system of record. An
+  operations console harvests all of it nightly.
+
+  Yours to build: making all of that hold under real delivery
+  pressure, and taking it from the flagship line to the rest,
+  and to the lines that do not exist yet.
+
+  What you'll own
+
+  - The release verdict, as a mechanism rather than a meeting.
+    Execution records as evidence, exit criteria agreed before
+    the deadline exists, a waiver path that blocks nobody but
+    puts a name on the exception and counts it, and a defined
+    escalation route, on the record, for the rare call those
+    criteria do not cover. The mechanics exist; making them
+    hold by design rather than by willpower is the work.
+  - The agent pipeline. Operate and harden the system where
+    agents generate, maintain, and run coverage across API,
+    UI, integration, contract, performance and end-to-end,
+    directly from specs and scenario contracts. Nothing
+    becomes coverage until a person reviews and activates it,
+    and you own where that bar sits.
+  - The review loop. Drafts arrive continuously from engineers,
+    product, and agents, and the review SLA is a promise to
+    the whole company. Keeping it as agent output grows is a
+    design problem, not a throughput one.
+  - The shrinking catalog. Own the criteria for what stays
+    human-tested, and build the demotion loop that retires
+    manual tests as automation catches up. The first demotion
+    pass is yours.
+  - Calibration from zero. Stand up a corpus of golden human
+    verdicts, score agent verdicts against it continuously,
+    and use escape-rate data to point human attention where it
+    actually pays.
+  - Developer-owned quality. Push automated testing into the
+    development lifecycle and the CI/CD pipelines so coverage
+    runs where the code is written rather than in a lane
+    beside it.
+  - Behavioral validation as an external check. Persona
+    walkthroughs, exploratory charters and judgment-based
+    testing that verify behavior matches intent, not merely
+    that the spec passed. This is the function that asks
+    whether the spec was right.
+  - The tooling call. Evaluate emerging testing technologies,
+    agentic engineering practices and AI-assisted development
+    tools, and decide which of them earn a place in how we
+    work. The bar is whether something moves the evidence, not
+    whether it is new.
+  - The engineers around you. Mentor engineers and QA teammates
+    through code review, pairing and technical design
+    discussion, including the discipline of articulating why
+    something is wrong precisely enough that the articulation
+    becomes agent capability. The QA engineers are
+    experienced, and we expect their technical judgment to be
+    sharper for your being here.
+  - The metrics that matter. Escape rate, verdict calibration,
+    catalog trend, waiver frequency, deployment success,
+    defined by you and used to argue.
+
+  A note on the title
+
+  "Software Engineer" comes first because that is the load-
+  bearing skill. Our platform is largely TypeScript, and most
+  of the code you review will have been written by an agent:
+  fluently, confidently, and sometimes wrongly in ways only a
+  strong engineer catches.
+
+  "Quality Engineering" rather than "QA," because QA names a
+  stage at the end of a process. We are asking you to make
+  quality a property of the process itself: real exit
+  criteria, evidence instead of assurances, and a manual test
+  catalog that gets smaller each quarter.
+
+  Not "SDET," the one we thought hardest about. SDET names a
+  person whose deliverable is test code, and in our model
+  agents write most of it. The scarce skill is no longer
+  producing automation; it is deciding how much to believe
+  what the automation reports, and knowing which tests have
+  stopped earning their keep. If your best story is a
+  framework you built, this probably is not your role. If it
+  is the day you stopped trusting a green suite and could
+  prove why, keep reading.
+
+  What this job is not
+
+  - Not running test execution. Experienced QA engineers own the
+    daily cadence and keep it. You set the technical standard
+    they work to.
+  - Not building a Playwright suite. Framework depth is context
+    for supervising agent output, not the deliverable.
+  - Not release administration. If this role's answer to a risky
+    release is to convene people, we have built the wrong
+    thing.
+  - Not AI research. The agents are already in production. They
+    need to survive a deadline, not a demo.
+
+  You might be the right person if
+
+  - You have had to say a release was not ready when the date
+    could not move. Afterwards you made sure the next call was
+    settled by criteria agreed in advance, not by whoever
+    argued hardest.
+  - You have deleted test coverage on purpose and could defend
+    it with data.
+  - You have built an evaluation system of some kind, whether an
+    eval harness, a labeling pipeline or scoring for model
+    output, and you treat "can this judgment be trusted" as a
+    measurement problem.
+  - You ran automation at scale and concluded the real
+    bottleneck was the operating model, not the coverage.
+  - You get more out of changing how three teams work than out
+    of being the most productive engineer in the room.
+
+  What you'll bringRequired
+
+  - 10+ years across software engineering, quality engineering,
+    or SDET work, including leading quality initiatives across
+    multiple teams.
+  - Real engineering ability: you can read, review, and harden
+    agent-produced code and tests. Our platform is largely
+    TypeScript.
+  - Experience designing automated testing systems for
+    enterprise SaaS, and the judgment to decide which testing
+    belongs to machines and which belongs to people.
+  - Experience with evidence-based release governance: gates,
+    exit criteria, waivers, sign-off accountability, and the
+    willingness to put your name on a verdict.
+  - Experience building something around AI-produced output:
+    agent-generated coverage, computer-use testing, LLM
+    evaluation and calibration, or comparable. The specific
+    shape matters less to us than having actually done it.
+  - Depth in CI/CD, and in designing software that is testable
+    by construction.
+  - A track record of improving engineering organizations
+    through influence rather than authority, including
+    mentoring engineers more junior than you.
+
+  Preferred
+
+  - Built or transformed a quality engineering function at a
+    high-growth SaaS company.
+  - Prior Principal Engineer, Staff Engineer, Quality
+    Engineering Architect, or senior SDET.
+  - Shipped intelligent test generation, autonomous test
+    maintenance, or agent-driven quality workflows to
+    production.
+  - Spec-driven or artifact-first development, where tests
+    derive from executable contracts and scenario-level
+    evidence is the closeout standard.
+  - Test management operated as a system of record, Xray/Jira or
+    comparable, where plans, executions, and traceability are
+    evidence rather than paperwork.
+  - Working knowledge of Playwright, Selenium, REST Assured,
+    JUnit/TestNG, Cypress, or similar, as context for
+    supervising agent-produced automation.
+  - Distributed systems and cloud-native architecture depth:
+    Kubernetes, serverless, microservices testing, and
+    observability platforms used to improve production
+    quality.
+
+  OUR CULTURE
+
+  We are a lean, fast-moving team that values bold thinking,
+  reliability, and continuous learning. We operate with
+  radical transparency, embrace scrappiness, and build
+  solutions that anticipate customer needs. We also believe
+  work should be fun and fulfilling — what we call
+  “funfillment.”
+
+  The right candidate is energized by working in a scaling,
+  mission-driven company where they can shape processes, wear
+  multiple hats, and grow alongside the business.
+
+  BENEFITS/PERKS
+
+  - Competitive compensation packages that recognize your
+    expertise and contributions
+  - Remote-first culture that provides flexibility and balance
+  - Professional development opportunities, including training,
+    mentorship, and career pathing
+  - Comprehensive health, dental, and vision insurance starting
+    day one
+  - Short- and long-term disability and basic life insurance at
+    no cost to you
+  - 401(k) plan with a 4% match to help secure your future
+  - Flexible PTO and a supportive work culture that values
+    balance
+  - Mission-driven work with the opportunity to make a
+    significant impact in the energy sector
+
+  ELIGIBILITY REQUIREMENT
+
+  This position may involve access to data and systems subject
+  to U.S. critical infrastructure protection regulations.
+  Accordingly, this role is restricted to individuals who
+  qualify as “U.S. persons,” defined by federal law as U.S.
+  citizens, lawful permanent residents (green card holders),
+  asylees, or refugees.
+
+  OUR COMMITMENT TO APPLICANTS
+
+  GridUnity is an equal opportunity employer. We consider all
+  qualified applicants without regard to race, color,
+  religion, sex, sexual orientation, gender identity or
+  expression, national origin, age, disability, veteran
+  status, arrest and conviction record, or any other
+  characteristic protected under applicable law.
+
+  We are committed to creating an inclusive workplace where
+  every team member feels valued, supported, and able to bring
+  their authentic self to work.
+
+  If you need a reasonable accommodation during the
+  application or interview process, please email
+  careers@gridunity.com.
+
+  For your security, all official communication from GridUnity
+  will only come from email addresses ending in
+  @gridunity.com.
+industries:
+  - Cloud
+  - Software
+posted_date: 2026-08-10
+url: "https://builtin.com/job/staff-software-engineer-quality-engineering/10609008"
+source: Built In

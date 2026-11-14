@@ -1,0 +1,104 @@
+job_id: 10210847
+title: Software Engineer - XIL Platform
+company: Glydways
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 86 Employees
+description: |
+  Who we are:
+
+  Glydways is reimagining what public transit can be. We
+  believe that mobility is the gateway to
+  opportunity—connecting people to housing, education,
+  employment, commerce, and care. By making transportation
+  more accessible, affordable, and sustainable, we empower
+  communities to thrive and unlock economic and social
+  prosperity.
+
+  Our mission is to revolutionize transit with a solution that
+  delivers high capacity, exceptional user experiences,
+  unmatched affordability, and minimal environmental impact.
+
+  The Glydways system is a groundbreaking network of carbon-
+  neutral, interconnected transit pathways powered by
+  standardized autonomous vehicles on dedicated roadways.
+  Operating 24/7 with on-demand access, it offers personalized
+  and efficient mobility—without the burden of heavy upfront
+  infrastructure costs or ongoing taxpayer subsidies.
+
+  With Glydways, we’re building more than a transportation
+  system; we’re creating a future where everyone, everywhere,
+  has the freedom to move.
+
+  Meet the team:
+
+  The XIL Platform team is the vital bridge between our
+  software and the real-world environment. We are part of the
+  Software Foundations & Architecture organization, and our
+  core mission is to build the Middleware, Testing,
+  Simulation, and Hardware-in-the-Loop (HIL) infrastructure
+  for Glydways. We don't just write test scripts; we build the
+  overarching frameworks that allow those tests to run
+  seamlessly across software, simulation, and physical
+  hardware. We ensure that the software powering our
+  autonomous transit systems is safe, performant, and reliable
+  before a vehicle ever hits the track.
+
+  Roles & Responsibilities:
+
+  As part of this role you’ll be responsible for:
+
+  - Design and architect unified testing frameworks that enable
+    seamless portability of test cases across Software-in-the-
+    Loop (SIL), Hardware-in-the-Loop (HIL), and simulation
+    environments.
+  - Build, configure, and maintain physical HIL benches and
+    associated hardware interfaces (e.g., CAN adapters) to
+    simulate real-world vehicle environments.
+  - Integrate automated HIL testing directly into the Continuous
+    Integration (CI) pipelines, ensuring code stability and
+    preventing regressions prior to merging.
+  - Collaborate closely with software engineering teams to
+    understand their needs, identify and implement
+    improvements in our  Hardware-in-the-Loop (HIL)
+    Infrastructure and Continuous Integration (CI) systems.
+  - Monitor and report on runtime performance, system health,
+    and reliability metrics across all HIL testing platforms.
+
+  Knowledge, Skills and Abilities:
+
+  - Professional C++ experience building and maintaining
+    libraries and test frameworks — not just modifying
+    existing code. Our framework is C++ end to end: test
+    fixtures, simulators, monitors, and every test case. This
+    includes fluency with GoogleTest or an equivalent
+    (fixtures, parameterized tests) and diagnosing flaky,
+    timing-sensitive failures. You will write C++ on day one.
+  - Deep understanding of Hardware-in-the-Loop (HIL), Software-
+    in-the-Loop (SIL), and simulation testing strategies,
+    particularly for safety-critical systems.
+  - Python and Bash for CI tooling, bench automation, and
+    scripting is a plus.
+  - Strong knowledge of CI/CD best practices and principles.
+    Direct experience with Buildkite is a plus.
+  - Hands-on ability to troubleshoot physical test benches,
+    including reading electrical schematics and using lab
+    tools like oscilloscopes, multimeters, and PCAN adapters.
+  - Experience using infrastructure-as-code and environment
+    management tools (specifically Nix, or similar tools like
+    Docker/Ansible) to ensure reproducible test environments.
+
+  Glydways provides equal employment opportunities to all
+  employees and applicants for employment and prohibits
+  discrimination and harassment of any type without regard to
+  race, color, religion, age, sex, national origin, disability
+  status, genetics, protected veteran status, sexual
+  orientation, gender identity or expression, or any other
+  characteristic protected by federal, state or local laws.
+industries:
+  - Greentech
+  - Transportation
+posted_date: 2026-09-22
+url: "https://builtin.com/job/software-engineer-xil-platform/10210847"
+source: Built In

@@ -1,0 +1,407 @@
+job_id: 11965187
+title: Sr. Full Stack Engineer, Unified Ads Platform
+company: Unity
+location: Toronto, CAN
+locations:
+  - Toronto, CAN
+  - Montréal, CAN
+  - New York, USA
+work_type: FULL_TIME
+company_size: 4,500 Employees
+description: |
+  L'opportunité
+
+
+  Chez Unity, nous développons une plateforme publicitaire de
+  calibre mondial qui fonctionne à très grande échelle partout
+  dans le monde. L’équipe Ads conçoit les systèmes qui mettent
+  en relation les annonceur(euse)s, les créateur(rice)s et les
+  joueur(euse)s, favorisant ainsi la performance, la fiabilité
+  et la croissance de notre écosystème.
+
+  À titre de développeur(euse) full-stack principal(e) au sein
+  de l’équipe Unified Ads Platform, vous serez responsable de
+  la couche de services où résident les entités des
+  annonceur(euse)s et des éditeur(rice)s : campagnes et
+  plafonds budgétaires, applications et blocs d’annonces,
+  ensembles de créations et Pipeline de modération connexe,
+  devise de l’Offerwall, tests A/B et intégration de
+  LevelPlay. Ces données sont utilisées par l’ensemble de
+  notre infrastructure publicitaire, et nos API constituent la
+  source de référence pour la diffusion, la facturation et la
+  production de rapports.
+
+  Ce poste ne consiste pas simplement à créer une API avant de
+  passer au prochain projet. Les données que vous modélisez
+  sont utilisées par des systèmes dont vous n’êtes pas
+  responsable, dans des processus où une valeur erronée peut
+  entraîner des pertes financières. Vous concevrez des
+  contrats qui demeurent stables à mesure que le produit
+  évolue, veillerez à la cohérence des états entre les
+  différents services et assumerez la responsabilité de
+  l’exactitude et de la disponibilité de l’ensemble de ces
+  éléments en production.
+
+  Ce poste convient parfaitement à une personne qui maîtrise
+  autant le côté serveur que le côté client, qui accorde une
+  grande importance aux contrats de données et à l’exactitude,
+  et qui souhaite assumer pleinement la responsabilité de
+  systèmes dont dépendent d’autres équipes de développement.
+
+  Ce que vous allez faire
+
+  - Concevoir, développer et exploiter des services dans notre
+    plateforme TypeScript (NestJS) pour un vaste modèle de
+    domaine, tout en étant responsable des API et des contrats
+    de données dont dépendent les systèmes publicitaires en
+    aval.
+  - Modéliser les données d’entité en tenant compte de
+    l’évolutivité et des changements, notamment par la
+    conception de schémas relationnels, les migrations et
+    l’évolution des schémas des tables utilisées pour la
+    diffusion, la facturation et la production de rapports.
+  - Concevoir et développer des intégrations événementielles
+    avec Kafka et Google Cloud Pub/Sub, au moyen de modèles
+    tels que la boîte d’envoi transactionnelle et les
+    consommateurs idempotents, afin de maintenir la cohérence
+    entre les différents services.
+  - Créer les interfaces destinées aux utilisateur(rice)s dans
+    React et TypeScript, en transformant des données complexes
+    sur les entités et la performance en processus auxquels
+    les éditeur(rice)s et les annonceur(euse)s peuvent se
+    fier.
+  - Exploiter les solutions que vous développez sur Kubernetes,
+    où le service déclare sa propre infrastructure
+    infonuagique avec son code, et assumer pleinement la
+    responsabilité de ses objectifs de niveau de service.
+  - Renforcer l’observabilité et la qualité de la plateforme au
+    moyen du traçage distribué, des mesures et des cadres de
+    test.
+  - Établir les normes de développement du service et veiller à
+    leur respect lors des revues de conception et de code,
+    tout en accompagnant les développeur(euse)s.
+
+  Ce que nous recherchons
+
+  - Au moins six ans d’expérience en développement et en
+    exploitation de logiciels en production, avec une
+    expertise approfondie des services côté serveur et des
+    technologies modernes côté client.
+  - Une maîtrise avancée de TypeScript et une expérience avec un
+    cadre modulaire structuré pour Node côté serveur, comme
+    NestJS, ou avec une architecture comparable reposant sur
+    l’injection de dépendances et les modules.
+  - De solides compétences en modélisation de données et en SQL,
+    notamment en conception de schémas, en migrations et en
+    optimisation de la performance à grande échelle, ainsi
+    qu’un bon jugement en matière de gestion des versions
+    d’API. Vous avez déjà dû modifier de façon sécuritaire des
+    données utilisées par d’autres équipes.
+  - Une expérience des systèmes événementiels, comme Kafka,
+    Pub/Sub ou un outil comparable. Vous comprenez les
+    garanties de livraison, l’ordre des événements,
+    l’idempotence et les conséquences d’une divergence entre
+    deux systèmes.
+  - Une maîtrise avancée de React ainsi qu’un excellent jugement
+    en matière de conception de composants, de gestion des
+    états et de performance des interfaces qui traitent un
+    volume important de données.
+  - Une expérience de l’exploitation infonuagique native,
+    notamment des services conteneurisés sur Kubernetes, et
+    une capacité à assumer la responsabilité d’un système en
+    production, y compris son déploiement, sa mise à
+    l’échelle, sa surveillance, l’intervention en cas
+    d’incident et les périodes de disponibilité sur appel.
+  - Un fort sens des responsabilités, axé sur l’exactitude,
+    l’observabilité et la maintenabilité à long terme, soutenu
+    par une discipline rigoureuse en matière de tests, de
+    revues et d’accessibilité.
+
+  Vous avez peut-être également (facultatif)
+
+  - Expérience avec Go.
+  - Expérience dans les systèmes publicitaires, d’attribution,
+    de facturation ou de monétisation.
+  - Expérience de l’infrastructure en tant que code, notamment
+    la gestion des ressources native à Kubernetes, Terraform
+    ou les maillages de services.
+  - Connaissance d’OpenTelemetry et du traçage distribué en
+    production.
+  - Expérience des systèmes de conception ou des cadres
+    d’interface utilisateur pilotés par la configuration.
+  - Expérience de l’harmonisation technique entre les équipes ou
+    d’initiatives de qualité menées par des communautés de
+    pratique.
+
+  The opportunity
+
+  At Unity, we're building a world-class advertising platform
+  that operates at a massive global scale. The Ads team powers
+  the systems that connect advertisers with creators and
+  players, driving performance, reliability, and growth across
+  our ecosystem.
+
+  As a Senior Full-Stack Engineer on the Unified Ads Platform
+  team, you'll own the service layer where advertiser and
+  publisher entities live. Campaigns and budget caps,
+  applications and ad units, creative packs and the moderation
+  pipeline behind them, offerwall currency, A/B tests,
+  LevelPlay integration. These are the records the rest of the
+  ads estate reads from, and our APIs are the source of truth
+  for them across serving, billing, and reporting.
+
+  This role goes beyond building an API and moving on. The
+  data you model is consumed by systems you don't own, in
+  paths where a wrong value costs money. You'll design
+  contracts that stay stable as the product changes, keep
+  state consistent across service boundaries, and own the
+  correctness and availability of all of it in production.
+
+  This role is ideal for someone strong on both sides of the
+  stack who thinks in terms of data contracts and correctness,
+  and who wants real ownership of systems other engineering
+  teams depend on.
+
+  What you'll be doing
+
+  - Design, build, and operate services in our TypeScript
+    platform (NestJS) across a large domain model, owning the
+    APIs and data contracts that downstream ads systems depend
+    on
+  - Model entity data for scale and change — relational schema
+    design, migrations, and schema evolution against tables
+    that serving, billing, and reporting all read from
+  - Design and build event-driven integrations with Kafka and
+    Google Cloud Pub/Sub, using patterns such as transactional
+    outbox and idempotent consumers to maintain consistency
+    across service boundaries.
+  - Deliver the user-facing surfaces on top of the platform in
+    React and TypeScript, turning dense entity and performance
+    data into workflows publishers and advertisers can trust
+  - Operate what you build on Kubernetes, where the service
+    declares its own cloud infrastructure alongside its code,
+    and take real ownership of its SLOs
+  - Drive observability and quality across the platform —
+    distributed tracing, metrics, and testing frameworks
+  - Set the standards for how the service is built and hold the
+    line on them in design and code review, mentoring
+    engineers as you go
+
+  What we're looking for
+
+  - 6+ years building and operating production software, with
+    real depth on both backend services and modern frontend
+  - Advanced TypeScript, and experience with an opinionated,
+    modular Node backend framework — NestJS, or comparable
+    dependency-injection and module architectures
+  - Strong data modelling and SQL — schema design, migrations,
+    and performance at scale, alongside the API versioning
+    judgment that goes with it. You've had to change something
+    other teams read from, safely
+  - Event-driven systems — Kafka, Pub/Sub, or similar. You
+    understand delivery semantics, ordering, and idempotency,
+    and what happens when two systems disagree
+  - Advanced React, with strong judgment around component
+    design, state management, and performance in data-
+    intensive interfaces
+  - Cloud-native operation — containerized services on
+    Kubernetes, and comfort owning the system in production,
+    including deployment, scaling, monitoring, incident
+    response, and on-call
+  - Strong ownership mindset — focused on correctness,
+    observability, and long-term maintainability, backed by
+    real engineering discipline in testing, review, and
+    accessibility
+
+  You might also have
+
+  - Experience with Go
+  - Background in ads, attribution, billing, or monetization
+    systems
+  - Infrastructure-as-code experience — Kubernetes-native
+    resource management, Terraform, or service mesh
+  - Familiarity with OpenTelemetry and distributed tracing in
+    production
+  - Experience with design systems or configuration-driven UI
+    frameworks
+  - Exposure to cross-team technical alignment or guild-style
+    quality initiatives
+
+  Additional Information: Canada: Zone A: $135,400 - $175,900
+
+  Zone B: $125,300 - $162,800 USA: Zone A: $172,400 - $224,100
+
+  Zone B: $153,400 - $199,400
+
+  Zone C: $135,800 - $176,400
+
+  Cette fourchette correspond au salaire de base prévu pour ce
+  poste. En plus du salaire de base, ce poste peut donner
+  droit à des attributions d’actions et à une participation à
+  nos programmes d’incitation de l’entreprise, comme des
+  primes annuelles discrétionnaires ou des commissions de
+  vente. Le montant final de l’offre dépendra de plusieurs
+  facteurs, notamment l’emplacement géographique ainsi que
+  l’expérience pertinente, le parcours professionnel et les
+  compétences du/de la candidat(e).
+
+  This range reflects the anticipated base salary for this
+  position. Beyond base salary, this role may be eligible for
+  equity awards and participation in our company incentive
+  plans (such as annual discretionary bonuses or sales
+  commissions). The final offer amount will depend on several
+  factors, including geographic location and the candidate’s
+  relevant experience, professional background, and skill set.
+
+  Avantages
+
+  Chez Unity, nous voulons que nos membres d’équipe
+  s’épanouissent. Nous offrons un large éventail d’avantages
+  conçus pour soutenir le bien-être et l’équilibre travail-vie
+  personnelle.
+
+  Veuillez noter: L’admissibilité aux avantages, les offres
+  spécifiques et la couverture varient selon le pays et le
+  statut d’emploi.
+
+  Bien que les avantages précis puissent varier, voici
+  certaines des façons dont nous nous efforçons de prendre
+  soin de nos membres d’équipe admissibles à l’échelle
+  mondiale : assurance santé, vie et invalidité complète |
+  Subvention pour les déplacements | Participation des
+  employés à l’actionnariat | Régimes de retraite/pension
+  compétitifs | Vacances et congés personnels généreux |
+  Soutien aux nouveaux parents grâce à des congés et des
+  programmes de soutien aux familles | Collations offertes au
+  bureau | Programmes et soutien en matière de santé mentale
+  et de bien-être | Groupes-ressources pour employés |
+  Programme mondial d’aide aux employés | Programmes de
+  formation et de perfectionnement | Programme de bénévolat et
+  de jumelage de dons
+
+  La vie chez Unity
+
+  Unity [NYSE : U] est le premier moteur de jeu au monde,
+  propulsant les expériences de plus de 3 milliards
+  d’utilisateurs(rices) chaque mois. Les plus grands jeux
+  mobiles, les titres indépendants PC les plus populaires, des
+  jeux console parmi les plus innovants, ainsi que la quasi-
+  totalité des principales expériences XR et jeux Web sont
+  développés, déployés et optimisés avec Unity.
+
+  Unity accompagne également des équipes dans des secteurs
+  tels que l’automobile, l’industrie manufacturière et la
+  santé pour concevoir, simuler et collaborer en 3D - comblant
+  ainsi l’écart entre les idées et la réalité. Pour plus
+  d’informations, veuillez visiter www.unity.com.
+
+  Unity est un employeur fier de garantir l’égalité des
+  chances. Nous nous engageons à favoriser un environnement
+  inclusif et innovateur et à célébrer nos employés à travers
+  l’âge, l’éthinicité, la couleur, l’ascendance, l’origine
+  nationale, la religion, le handicap, le sexe, l’identité ou
+  l’expression de genre, l’orientation sexuelle ou tout autre
+  statut protégé conformément à la loi applicable. Si vous
+  êtes en situation de handicap ou avez des besoins
+  spécifiques nécessitant des aménagements pour que votre
+  entretien se déroule dans les meilleures conditions, nous
+  vous invitons à remplir ce formulaire afin de nous en
+  informer et que nous puissions faire le nécessaire.
+
+  Ce poste exige que son ou sa titulaire possède une
+  connaissance de l’anglais qui soit suffisante pour lui
+  permettre d’avoir des échanges professionnels verbaux et
+  écrits dans cette langue, puisque l’accomplissement des
+  tâches liées à ce poste nécessite des communications
+  fréquentes et régulières avec des collègues et partenaire
+  situés à l’échelle mondiale et dont la langue commune est
+  l’anglais.
+
+  Les chasseurs de têtes et les agences de recrutement ne
+  peuvent pas soumettre résumes/CV par ce site Web ou
+  directement aux superviseurs. Unity n’accepte pas des
+  chasseurs de têtes non sollicités et des résumés (CV)
+  d’agence. Unity ne payera pas d’honoraires à aucune agence
+  tierce ou entreprise qui n’a pas signé d’ententes avec
+  Unity.
+
+  La protection de votre vie privée est importante pour nous.
+  Veuillez prendre un moment pour consulter nos politiques de
+  confidentialité pour les prospects et les candidats. Si vous
+  avez des questions concernant la protection de votre vie
+  privée, veuillez nous contacter à DPO@unity.com.
+
+  Benefits
+
+  At Unity, we want our team members to thrive. We offer a
+  wide range of benefits designed to support well-being and
+  work-life balance.
+
+  Please note: Benefits eligibility, specific offerings, and
+  coverage vary based on the country and employment status.
+
+  While specific benefits vary, here are some of the ways we
+  strive to take care of our eligible team members globally:
+  Comprehensive health, life, and disability insurance |
+  Commute subsidy | Employee stock ownership | Competitive
+  retirement/pension plans | Generous vacation and personal
+  days | Support for new parents through leave and family-care
+  programs | Office food snacks | Mental Health and Wellbeing
+  programs and support | Employee Resource Groups | Global
+  Employee Assistance Program | Training and development
+  programs | Volunteering and donation matching program
+
+  Life at Unity
+
+  Unity [NYSE: U] is the world’s leading game engine, powering
+  play for more than 3 billion consumers each month. The top
+  mobile games in the world, the most played PC indie titles,
+  the most innovative console games, and virtually all of the
+  top XR and Web Games are developed, deployed, and grown in
+  Unity. Unity also enables teams across industries like
+  automotive, manufacturing, and healthcare to design,
+  simulate, and collaborate in 3D — closing the gap between
+  ideas and reality. For more information, please visit
+  www.unity.com.
+
+  Unity is a proud equal opportunity employer. We are
+  committed to fostering an inclusive, innovative environment
+  and celebrate our employees across age, race, color,
+  ancestry, national origin, religion, disability, sex, gender
+  identity or expression, sexual orientation, or any other
+  protected status in accordance with applicable law. Our
+  differences are strengths that enable us to support the
+  growing and evolving needs of our customers, partners, and
+  collaborators. If you have a disability that means there are
+  preparations or accommodations we can make to help ensure
+  you have a comfortable and positive interview experience,
+  please fill out this form to let us know.
+
+  This position requires the incumbent to have a sufficient
+  knowledge of English to have professional verbal and written
+  exchanges in this language since the performance of the
+  duties related to this position requires frequent and
+  regular communication with colleagues and partners located
+  worldwide and whose common language is English.
+
+  Headhunters and recruitment agencies may not submit
+  resumes/CVs through this website or directly to managers.
+  Unity does not accept unsolicited headhunter and agency
+  resumes. Unity will not pay fees to any third-party agency
+  or company that does not have a signed agreement with Unity.
+
+  Your privacy is important to us. Please take a moment to
+  review our Prospect and Applicant Privacy Policies. Should
+  you have any concerns about your privacy, please contact us
+  at DPO@unity.com.
+industries:
+  - AdTech
+  - Artificial Intelligence
+  - Gaming
+  - Machine Learning
+  - Software
+  - Virtual Reality
+  - Metaverse
+posted_date: 2026-10-29
+url: "https://builtin.com/job/sr-full-stack-engineer-unified-ads-platform/11965187"
+source: Built In

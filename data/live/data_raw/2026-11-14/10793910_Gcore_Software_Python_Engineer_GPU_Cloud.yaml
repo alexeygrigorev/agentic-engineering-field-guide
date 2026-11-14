@@ -1,0 +1,135 @@
+job_id: 10793910
+title: Software Python Engineer (GPU Cloud)
+company: Gcore
+location: DEU
+remote: true
+work_type: FULL_TIME
+company_size: 476 Employees
+description: |
+  Company Description
+
+  This position is available only under an employment (labor)
+  agreement.
+
+  The world’s digital experiences run on something invisible:
+  the infrastructure and software that keep them fast,
+  reliable, and secure. At Gcore, you’ll help design and
+  deliver that foundation for an AI-driven world.
+
+  We’re a global provider of infrastructure and software
+  solutions for AI, cloud, network, and security, powering
+  everything from real-time communication and streaming to
+  enterprise AI and secure web applications. With 210+ edge
+  locations, 50+ cloud regions, and thousands of GPUs, your
+  work here can reach users and businesses across the globe.
+
+  You’ll collaborate with leading technology partners such as
+  Intel, NVIDIA, Dell, and Equinix, and work on platforms that
+  power digital products used around the world. Our vision is
+  simple: to connect the world to AI, anywhere, anytime.
+
+  Want to work on technology that goes beyond a single product
+  or industry?  Join a global team of 550+ professionals
+  building infrastructure and software that supports the
+  entire digital ecosystem.
+
+  We are over 550 professionals and currently looking for a
+  Software Python Engineer (GPU Cloud).
+
+  Job Description
+
+  What You’ll Do
+
+  - Build Python services and APIs for the lifecycle of GPU
+    virtual machines and bare-metal servers.
+  - Develop workflows for provisioning, placement, maintenance,
+    quarantine, and recovery.
+  - Improve how capacity is tracked, scheduled, and made
+    available to customers.
+  - Integrate new GPU servers and configurations into OpenStack
+    and connect them with Gcore’s Kubernetes services.
+  - Automate host validation, image preparation, driver
+    installation, and production readiness checks.
+  - Improve testing, observability, deployment safety, and
+    operational tooling.
+  - Investigate production issues across the control plane,
+    hypervisors, networking, storage, and hardware.
+  - Work closely with compute, Kubernetes, networking, SRE,
+    hardware, and product teams.
+  - Own projects from design and implementation through rollout
+    and production operation.
+
+  Qualifications
+
+  What We’re Looking For
+
+  - 5+ years of experience writing reliable, well-tested
+    production code.
+  - Strong Python skills and experience building APIs, backend
+    services, or distributed systems.
+  - Hands-on experience with OpenStack or another cloud control
+    plane.
+  - Good understanding of Linux, networking, and compute
+    virtualization.
+  - Practical experience with Kubernetes and containerized
+    workloads.
+  - Experience owning production services where reliability and
+    scale are important.
+  - Ability to debug complex problems across multiple layers of
+    a system.
+  - Good communication skills and a collaborative approach to
+    engineering.
+
+  Nice to have
+
+  - Experience with KVM, QEMU, libvirt, PCI passthrough, vGPU,
+    or MIG.
+  - Experience with NVIDIA drivers, CUDA, NVML, DCGM, GPU
+    Operator, or Kubernetes device plugins.
+  - Experience with bare-metal provisioning, BMC, Redfish,
+    firmware, or hardware validation.
+  - Experience with Ceph, InfiniBand, RDMA, RoCE, or GPUDirect.
+  - Experience with Terraform, Ansible, Helm, GitOps, or CI/CD
+    tooling.
+  - Experience with Go or another systems programming language.
+  - Contributions to OpenStack, Kubernetes, Linux, or other
+    open-source infrastructure projects.
+
+  Additional Information
+
+  Benefits
+
+  At Gcore, we want you to do your best work and enjoy the
+  journey. Our benefits are designed to support your growth,
+  well-being, and life beyond work:
+
+  - Competitive salary
+  - Flexible working hours
+  - Remote, hybrid, or office work options depending on your
+    role
+  - Work from anywhere in the world for up to 45 days per year
+  - Private medical insurance for you and your family*
+  - 5 additional vacation days*
+  - Additional fully paid sick leave days*
+  - Allowance for significant life events and birthdays
+  - Language classes
+  - Modern office space with free snacks, drink and
+    entertainment options*
+  - Team sports activities*
+
+  *Please be aware that this benefit may vary depending on
+  your country.
+
+  Equal Opportunity Employer
+
+  We provide equal opportunity to all applicants without
+  regard to race, color, religion, sex, sexual orientation,
+  age, gender identity, gender expression, national origin,
+  disability, or any other legally protected characteristics.
+industries:
+  - Cloud
+  - Information Technology
+  - Consulting
+posted_date: 2026-08-21
+url: "https://builtin.com/job/software-python-engineer-gpu-cloud/10793910"
+source: Built In

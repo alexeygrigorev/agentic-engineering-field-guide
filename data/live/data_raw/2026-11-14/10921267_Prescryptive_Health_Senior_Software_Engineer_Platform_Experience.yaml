@@ -1,0 +1,168 @@
+job_id: 10921267
+title: Senior Software Engineer, Platform Experience
+company: Prescryptive Health
+location: USA
+locations:
+  - USA
+  - All, USA
+  - New York, USA
+  - Washington, USA
+remote: true
+work_type: FULL_TIME
+company_size: 85 Employees
+description: |
+  Who is Prescryptive?
+
+  Prescryptive is the healthcare technology company enabling
+  the direct access marketplace for prescription drugs. Our
+  platform aligns incentives so affordability, choice, and
+  patient access become the natural outcome of a functioning
+  system. Learn more about us by following us on LinkedIn or
+  visiting Prescryptive.com.
+
+  About this role
+
+  Axiom is a focused initiative within Prescryptive, with a
+  dedicated team building a new set of applications for our
+  internal teams, customers, and external partners. As the
+  first Software Engineer dedicated to Axiom, you will
+  establish the frontend architecture and engineering patterns
+  for these applications and build the foundation that
+  supports them as the initiative grows.
+
+
+
+  You will work closely with the Axiom team and engineers and
+  technical leaders across Prescryptive to build fast,
+  accessible, well-architected interfaces on top of a governed
+  backend architecture, with visibility into how your work
+  connects to the company’s broader direction. The backend
+  handles authorization and business logic, while you focus on
+  interfaces that capture what a user is trying to do and
+  clearly present the result.
+
+  This is a hands-on role requiring deep frontend expertise,
+  sound technical judgment, and proven ability to work through
+  open design questions. You will build production software,
+  make durable technical decisions, collaborate closely with
+  others, and help establish the standards these applications
+  will build on.
+
+  What you will do
+
+  - Own the frontend architecture for applications serving
+    internal, customer, and partner audiences, each with
+    different needs.
+
+  - Establish how these applications integrate with our backend,
+    including interactions that complete quickly and processes
+    that involve a longer review or approval step.
+
+  - Build a multi-tenant theming and branding architecture that
+    allows different organizations to have a distinct,
+    professional look and feel within a single codebase.
+
+  - Set accessibility, code quality, and documentation standards
+    for the application suite and help establish the
+    engineering patterns that support it as the team grows.
+
+  - Work closely with the Axiom team and engineers and technical
+    leaders across Prescryptive to resolve open design
+    questions as they arise. What you will bring (required
+    skills and experience).
+
+  What you will bring (minimum required skills and experience)
+
+  - 8+ years of professional software engineering experience,
+    with proven success designing, building, and shipping
+    complex production applications.
+
+  - Deep expertise in React and strong proficiency in
+    TypeScript, with demonstrated ownership of frontend
+    architecture and significant technical decisions.
+
+  - Hands-on experience with MUI (Material UI) or a comparable
+    design system, such as Ant Design or Chakra, including
+    building and maintaining a shared component library and
+    theming system, not only using pre-built components.
+
+  - Demonstrated experience establishing a design system or
+    component library from an early, near-zero starting point.
+
+  - Demonstrated experience building multi-tenant or white-label
+    frontend architecture, specifically theming and branding
+    that varies by customer or organization within a single
+    codebase.
+
+  - Demonstrated, hands-on accessibility experience, including
+    ARIA patterns, keyboard navigation, and screen reader
+    testing.
+
+  - Demonstrated, hands-on use of AI-assisted development tools,
+    such as Claude Code or similar tools, as part of a
+    responsible professional engineering workflow.
+
+  - Experience building against well-governed, strongly typed
+    APIs where the frontend calls clearly declared
+    interactions rather than ad hoc endpoints. Candidates from
+    healthcare, fintech, insurance, or other regulated
+    industries often have experience with this pattern.
+
+  - Proven ability to build interfaces around both interactions
+    that complete quickly and processes involving longer
+    review or approval steps, sometimes spanning hours or
+    days. Prior experience with a workflow orchestration or
+    business process engine is a strong plus.
+
+  - A demonstrated track record working with regulated or
+    sensitive data, such as healthcare or financial data, and
+    sound judgment about what should and should not be handled
+    client-side.
+
+  - Strong written communication, with demonstrated ability to
+    clearly document architecture, technical decisions, and
+    the reasoning behind them.
+
+  - Proven ability to independently work through evolving
+    architecture and open design questions, surface ambiguity,
+    help drive decisions, incorporate input from others, and
+    move work forward without waiting for every question to be
+    resolved.
+
+  Ideally you will also have
+
+  - Conceptual familiarity with policy or authorization engines,
+    even without direct hands-on experience with a specific
+    product.
+  - Experience building both an internal tool and an external,
+    customer-facing product.
+
+  What we have to offer
+
+  - The opportunity to grow alongside an early-stage company
+    shaking up a big, old-fashioned industry
+  - Flexible time off, including 12 paid holidays
+  - 401k match plus 100% employer paid medical, dental, and
+    vision premiums
+  - Company contribution to Health Savings Account
+  - Stock options
+
+  Prescryptive is committed to fair pay practices. The
+  projected annual salary for this position is $165,000 to
+  $215,000. When preparing an offer, we consider the
+  candidates resume, experience, interview feedback, internal
+  equity, and location.
+
+  Prescryptive is an Equal Opportunity Employer. Prescryptive
+  does not discriminate on the basis of race, religion, color,
+  sex, gender identity, sexual orientation, age, non-
+  disqualifying physical or mental disability, national
+  origin, veteran status or any other basis covered by
+  appropriate law. All employment is decided on the basis of
+  qualifications, merit, and business need.
+industries:
+  - Healthtech
+  - Information Technology
+posted_date: 2026-08-29
+url: "https://builtin.com/job/senior-software-engineer-platform-experience/10921267"
+source: Built In

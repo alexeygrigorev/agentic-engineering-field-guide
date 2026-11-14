@@ -1,0 +1,170 @@
+job_id: 10099419
+title: Senior Software Engineer, Infrastructure
+company: Courier Health
+location: New York, USA
+work_type: FULL_TIME
+company_size: 40 Employees
+description: |
+  Courier Health is on a mission to solve one of the biggest
+  and most meaningful opportunities in healthcare: reinvent
+  how people living with chronic and rare diseases are
+  supported.
+
+  We are building the future of patient engagement for life
+  sciences companies. Our software is leveraged by biopharma
+  companies to support patients in their complex journey from
+  diagnosis to initiating and remaining on therapy to achieve
+  optimal health outcomes.
+
+  Infra Eng
+
+  Courier Health is a New York City-based technology company
+  on a mission to improve the patient experience for hundreds
+  of millions of people living with a chronic condition or
+  rare disease. The company develops and delivers the fastest-
+  growing patient experience solution for the life sciences
+  industry.
+
+  Companies that choose Courier Health are achieving double-
+  digit improvements to patient starts, time-to-start and
+  ongoing adherence to life-altering therapies. As host of the
+  invite-only Patient Innovators Summit and publisher of The
+  State of Patient-Centricity in Biopharma report, Courier
+  Health is backed by leading investors, including Oak HC/FT,
+  Norwest and Work-Bench.
+
+  Come Build with Us
+
+  We're a NYC-based team that believes culture, craft, and
+  customer obsession go hand in hand. We show up for each
+  other the same way we show up for the people we serve. We’re
+  an office-first company that values in-person collaboration
+  4 days per week because we believe the best work happens
+  when you can collaborate and brainstorm together in the same
+  room. If that sounds like your kind of place, we think
+  you'll love it here.
+
+  The Opportunity
+
+  Courier Health is at an inflection point. We exist to get
+  patients faster, better access to life-saving therapies, and
+  every one of those patients depends on infrastructure that
+  is reliable, secure, and ready to scale. The platform our
+  engineers build on determines how quickly we can ship for
+  our customers and how quickly patients feel it. This role
+  owns that.
+
+  You'll design, deploy, and evolve our serverless-first AWS
+  platform (Lambda, Step Functions, EventBridge, AppSync, and
+  Aurora) along with the multi-account architecture, CI/CD
+  pipelines, and guardrails that let every engineer move fast
+  and ship with confidence. It's a rare combination: deep
+  technical ownership at an early-stage company, in a domain
+  where the stakes are real. If you're motivated by the
+  opportunity to have an outsized impact on not just your
+  company, but the healthcare industry at large, this is the
+  role.
+
+  What You'll Build
+
+  A serverless platform that scales with our growth. Lambda,
+  Step Functions, EventBridge, AppSync, and Aurora are the
+  core of what you'll operate and evolve. You'll keep it fast,
+  reliable, and secure as our customer base and data volumes
+  grow and provide the architectural guidance that helps teams
+  build systems worthy of it.
+
+  Guardrails that make the right thing the easy thing. You'll
+  own our AWS multi-account architecture: account hierarchy,
+  Service Control Policies, and IAM Identity Center. You'll
+  build and maintain the CI/CD pipelines and broader developer
+  platform that make compliant-by-default the path of least
+  resistance for every engineer on the team.
+
+  Observability and security we can stake the mission on. We
+  work in healthcare so system health isn't optional. You'll
+  implement and manage the monitoring and alerting that keep
+  us ahead of problems, and proactively identify and address
+  security vulnerabilities and infrastructure risk with an
+  automation-first mindset that scales hardening without
+  slowing delivery.
+
+  The engineering operations that make the whole team faster.
+  You'll continuously improve our day-to-day engineering
+  operations, select and deploy the tools that keep our
+  roadmap on track, build the integrations that bridge our
+  backend services with our infrastructure layer, and
+  establish the infrastructure standards that will scale with
+  the company while collaborating across teams to unblock
+  technical challenges wherever they show up.
+
+  What Makes You Successful
+
+  - 3–5 years of experience with public cloud infrastructure
+  - Deep expertise in AWS, including hands-on experience with
+    serverless architectures (Lambda, Step Functions,
+    EventBridge) and container orchestration (EKS)
+  - Strong experience with Infrastructure as Code, particularly
+    Terraform
+  - Hands-on experience building and maintaining CI/CD pipelines
+  - Familiarity with AWS Organizations, multi-account
+    governance, and IAM Identity Center
+  - Proven ability to design, deploy, and monitor cloud
+    infrastructure at scale
+  - Proficiency in at least one backend programming language
+  - You debate technical decisions constructively and advocate
+    for the right solutions
+  - You work independently and take ownership without waiting to
+    be asked while supporting engineers across multiple teams
+  - Motivated by our mission to improve healthcare through
+    technology
+  - B.S. in Computer Science or a relevant field, or equivalent
+    industry experience
+
+  Bonus points if you have:
+
+  - TypeScript proficiency
+  - Experience with AI/ML infrastructure or LLM-powered systems
+  - Experience building and supporting CI/CD tools using GitHub
+    Actions, Argo, Semaphore, etc.
+  - Experience with event-driven and service-oriented
+    architectures
+  - Data ingestion pipeline experience
+  - Hands-on experience with Docker and/or Kubernetes
+  - Experience at early-stage software companies
+
+  Benefits
+
+  - 100% paid employee health benefit options (including
+    medical, dental, and vision)
+  - 401(k) with employer funded match
+  - Unlimited Vacation
+  - Commuter Benefits
+  - Paid parental leave
+  - Catered lunch on Fridays
+  - Wellness stipend
+
+  Compensation
+
+  The annual salary range for the target level for this role
+  is $175,000 – $220,000 + equity + benefits, including
+  medical, dental, and vision. Final compensation will be
+  determined based on a variety of factors including relevant
+  experience, interview performance, and internal equity.
+
+  Courier Health is proud to be an Equal Employment
+  Opportunity employer.
+
+  We do not discriminate based upon race, religion, color,
+  national origin, gender (including pregnancy, childbirth, or
+  related medical conditions), sexual orientation, gender
+  identity, gender expression, age, status as a protected
+  veteran, status as an individual with a disability, or other
+  applicable legally protected characteristics.
+industries:
+  - Healthtech
+  - Software
+  - Pharmaceutical
+posted_date: 2026-10-15
+url: "https://builtin.com/job/senior-software-engineer/10099419"
+source: Built In

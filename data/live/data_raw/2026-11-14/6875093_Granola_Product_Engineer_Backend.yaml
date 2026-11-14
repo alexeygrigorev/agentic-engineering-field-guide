@@ -1,0 +1,130 @@
+job_id: 6875093
+title: Product Engineer (Backend)
+company: Granola
+location: London, GBR
+work_type: FULL_TIME
+company_size: 22 Employees
+description: |
+  Hey! We're team Granola 👋
+
+  We're building a category-defining product, backed by a
+  $125M Series C and used daily by teams at companies like
+  Cursor, Vanta, and Linear. We started by making meeting
+  notes better. Now we're turning every conversation a company
+  has into context that people and agents can act on: shared
+  team workspaces, APIs and integrations, and agentic
+  workflows that do something with what was said.
+
+  If you haven't already, you should check out what we're
+  building, and why you should work here.
+
+  The Granola team is kind, curious and design-obsessed. Many
+  of us are former founders, others have built products at
+  Figma, Apple, Google and Meta, and we're all still learning
+  from each other.
+
+  You'll own the systems that make Granola fast, accurate and
+  trustworthy for the next 100x of users, and you'll help
+  decide what's worth building. Our backend engineers talk to
+  users and ship product, not just services.
+
+  What you'll work on
+
+  - The voice pipeline. Scale real-time transcription so notes
+    land accurately in seconds, on every device people use.
+  - New models in production. Evaluate new voice and
+    transcription models as they're released, and get the best
+    ones into users' hands.
+  - The agent harness. Build the harness Granola's agents run
+    in: long-running jobs, tool calls, retries, and retrieving
+    the right context.
+  - APIs and integrations. Extend the APIs and integrations that
+    let people bring Granola context into the AI tools they
+    already use.
+  - Enterprise-grade trust. Build the permissions, data
+    isolation and admin controls that let a company roll
+    Granola out across every team.
+  - Data at scale. Own Postgres performance, observability and
+    alerting as usage grows.
+
+  Who we're looking for
+
+  We don't set a minimum number of years. Some of our
+  strongest engineers graduated two years ago; others have run
+  their own companies. We care about what you've built and how
+  you think about it.
+
+  - You've owned backend systems in production that real users
+    depended on, and you can talk through the trade-offs you
+    made.
+  - You're strong in TypeScript and Node.js.
+  - You know relational databases deeply (we use Postgres):
+    query plans, indexing, and migrations without downtime.
+  - You're comfortable with cloud infrastructure as code (we use
+    AWS, Terraform and a lot of Lambda).
+  - You think about security and failure modes before the happy
+    path.
+  - You have product sense: you can explain why a system matters
+    to the person using it, and you'd rather ship what users
+    need this week than the perfect version next quarter.
+
+  How we work
+
+  - People and product first. We hire people who are kind, down
+    to earth and pragmatic, who care deeply about the product,
+    and who want to stay connected to the customers using it.
+    Product isn't one team's job here; it's everyone's.
+  - High autonomy. Engineers spot opportunities and ship
+    improvements themselves. We’d rather you ship it than
+    write about it.
+  - Everyone talks to users. Every engineer works directly with
+    the people using Granola, and that's where most of our
+    best ideas come from.
+  - A high bar for engineering and product. We expect strong
+    technical ability and strong product sense. Engineers
+    think like PMs: they understand the user's problem and
+    help shape the direction of what they build.
+  - Room to experiment. Every engineer has a budget from day one
+    to use new models, tools and technologies which make them
+    more productive.
+  - Design and quality matter. Thoughtful design, a high quality
+    bar and close collaboration on everything we build.
+  - We work in person, with flexibility. We’re in the office
+    five days a week because we genuinely like building
+    together. It’s relaxed: dress down, bring your dog, and no
+    fixed office hours.
+
+  What that looks like in practice: the version of Granola we
+  use internally goes far beyond the public app. We're
+  building at the frontier of agentic software, and we try
+  every new capability on ourselves first.
+
+  Bonus: experience with speech or audio pipelines, LLM
+  infrastructure, evals, or streaming systems.
+
+  Our stack
+
+  TypeScript, Node.js, Postgres, AWS (with plenty of Lambda),
+  Terraform, plus whichever new models and tools prove
+  themselves. You don't need experience with everything, but
+  you should be excited to work close to the product and at
+  real scale.
+
+  What we offer
+
+  We're living in the most exciting time for tool builders
+  since Engelbart's demo in 1968, and we want to build that
+  future together in London. We pay slightly above market on
+  salary and above market on equity. We work together in
+  person five days a week at our office in Old Street, and we
+  offer relocation support if you're moving to London.
+
+  Great people come from all kinds of backgrounds. If this
+  speaks to you, whether or not you look like a fit on paper,
+  we'd love to hear from you.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-08-22
+url: "https://builtin.com/job/product-engineer-backend/6875093"
+source: Built In

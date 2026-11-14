@@ -1,0 +1,178 @@
+job_id: 7476647
+title: Senior Engineering Manager
+company: Fonoa
+location: HRV
+locations:
+  - HRV
+  - London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 250 Employees
+description: |
+  Fonoa is the Tax Operating System for autonomous tax. AI
+  that tracks every rule, acts on every obligation, and proves
+  every decision, built on modular infrastructure.
+
+  Fonoa’s modules cover the full indirect tax lifecycle: tax
+  ID validation, real-time tax determination, e-invoicing, and
+  returns. All on one shared data model and integration, with
+  one audit trail. Each added capability makes the others
+  stronger.
+
+  Agents monitor obligations, populate returns, catch
+  anomalies and assemble audit packs in seconds. The system
+  does the work. Humans make the calls. That’s autonomous tax.
+
+  We operate across 120+ countries, with clients going live in
+  weeks, if not days.
+
+  Trusted by Canva, Netflix, Spotify, Uber, Zoom and
+  Booking.com. Rated 4.5/5 stars and a High Performer on G2
+  and 4.6/5 stars on Gartner Peer Insights.
+
+  Find out more: www.fonoa.com
+
+  About Engineering at Fonoa
+
+  Engineering is central to how we build the business. We
+  focus on solving real customer problems, not just shipping
+  features. We work in small, high-trust teams, with full
+  ownership across the lifecycle, from design to production
+  and beyond.
+
+  We value:
+
+  - Ownership – engineers own what they build end-to-end
+  - Simplicity – we break down complex problems into clear
+    solutions
+  - Thinking Big - we innovate with modern technologies (LLMs,
+    AI Agents, etc.) to solve meaningful problems
+  - Quality – scalable, maintainable systems are non-negotiable
+  - Speed & iteration – we ship fast, learn, and improve
+    continuously
+  - Collaboration – we win as a team, not as individuals
+
+  Position Overview
+
+  As Fonoa continues to scale globally, we are looking for an
+  Engineering Manager to lead a product engineering team that
+  builds scalable systems and delivers meaningful customer
+  impact.
+
+  This is a leadership role sitting at the intersection of
+  engineering, product, people, and execution. You will work
+  closely with Product Managers, engineers, and leadership to
+  align technical delivery with business priorities, while
+  creating an environment where teams can move quickly, make
+  good decisions, and continuously improve.
+
+  This is not a role focused on process for the sake of
+  process. We are looking for someone who combines strong
+  engineering judgment with pragmatism, product thinking, and
+  a deep focus on people and team health. Someone who enjoys
+  building teams, simplifying execution, and helping engineers
+  grow while delivering high-quality systems at scale.
+
+  You will be responsible for shaping how your team operates
+  day-to-day, from planning and execution to hiring,
+  mentoring, and long-term team development. At the same time,
+  you will contribute to the broader engineering organisation
+  by collaborating with engineering leadership on engineering
+  culture, technical direction, and organisational
+  effectiveness.
+
+  We are looking for someone who thrives in fast-moving
+  environments, is comfortable with ambiguity and change, and
+  is excited about building products and teams in a high-
+  growth company.
+
+  What You Will Do
+
+  - Learn about how painful it is for companies to manually
+    handle the tax lifecycle, and think about how our systems
+    change the status quo.
+  - Run a product engineering team, aligning business objectives
+    with technical delivery.
+  - Partnering with the Product Manager, co-owning the product
+    roadmap
+  - Guiding on day-to-day tactical work, hiring, onboarding,
+    developing and mentoring. Your success is your team’s
+    success.
+  - Contribute to the broader engineering culture and goals by
+    collaborating on high-level strategy with other
+    Engineering Managers and our CTO.
+  - Continuously strive to build the best API product,
+    leveraging the best experience and capabilities.
+
+  What We Are Looking For
+
+  - You are fully proficient in English. Written and spoken, as
+    we are a bunch from around the world, but we work in
+    English.
+  - You optimise for distributed and asynchronous work,
+    favouring documenting and taking notes over having ad-hoc
+    face-to-face meetings that leave no trace and exclude the
+    people who were not around at the right time.
+  - You have a strong sense of ownership, you care about what
+    you build, and you are building the right thing that
+    serves your customers.
+  - You focus on people; you are able to hire the right people,
+    distribute and organise, are able to develop your team
+    through constant feedback, keep them healthy and focus on
+    retention
+  - You like to optimise processes to speed up product
+    development without sacrificing quality.
+  - You’re a builder at heart. You enjoy the opportunity to have
+    extensive exposure, making things work for a company in
+    the long term, and having an entrepreneurial attitude
+    towards anything that comes your way.
+  - You are either eager to learn or comfortable scaling and
+    operating large-scale microservices in high-load and
+    growth environments.
+  - You are knowledgeable in several languages. Most of our
+    current codebase is in Go and Typescript
+  - You enjoy removing unused features more than shipping new
+    things that no one cares about. You run away from the
+    success theatre.
+  - You ship small things fast, continuously, and iteratively,
+    learning on each step.
+  - You like to use data over opinions to make decisions. And
+    are okay with finding the data yourself when it’s missing.
+  - You are comfortable with change, whether it involves
+    adjusting priorities, setting new goals, or meeting
+    deadlines. You see this more as an opportunity than a
+    hurdle. You are also comfortable with challenging the
+    status quo and pushing for change.
+  - You’re looking to make a serious impact and are excited
+    about working in a high-growth startup.
+
+  API Documentation
+
+  For engineers, API design and structure are an important
+  part of evaluating a role. You can explore our API and how
+  we build products here: https://docs.fonoa.com/
+
+  Tech Stack
+
+  We use these technologies today, but we don’t hire for
+  specific tools. We care about engineers who can understand
+  problems, make good technical decisions, and choose the
+  right tools for the job.
+
+  - Backend: Node.js, Go
+  - Frontend: React, TypeScript
+  - Infrastructure: GCP, k8s, Terraform, Postgres
+
+  Note:  If you don’t think you have the full experience we’re
+  looking for, but you could be a fit and are willing to
+  learn, do apply anyway! We are building diverse and
+  inclusive team.
+
+  As part of the recruitment process at Fonoa, we process your
+  personal data in accordance with our Privacy Notice for Job
+  Applicants. This notice explains how and why your data is
+  collected and used, and how you can contact us if you have
+  any concerns.
+posted_date: 2026-08-12
+url: "https://builtin.com/job/engineering-manager/7476647"
+source: Built In

@@ -1,0 +1,191 @@
+job_id: 10485711
+title: Staff Software Engineer
+company: algo1
+location: London, GBR
+work_type: FULL_TIME
+company_size: 903 Employees
+description: |
+  About Us
+
+  At algo1, we are reinventing one of the world’s most
+  familiar experiences: the in-store grocery trip. We are
+  building an AI-native product that understands each shopper,
+  responds to their context in real time and makes an everyday
+  experience less stressful, more personal and more engaging.
+
+  We’re backed by leading investors and founded by two
+  entrepreneurs: one with a track record of building
+  companies, and the other a leader in retail data and shopper
+  analytics. Together, they have brought together frontier AI
+  researchers and engineers, product and strategy leaders, and
+  senior operators from major UK and US grocery businesses.
+
+  The people who join now will have an opportunity to shape
+  the product, the engineering culture, and what algo1
+  becomes.
+
+  The Role
+
+  We are looking for a Staff Engineer to own the full-stack
+  development of algo1’s retailer- and brand-facing product
+  suite.
+
+  You will be the primary engineering partner to our Head of
+  B2B Product, James, turning ambitious and sometimes
+  ambiguous product ideas into software that retailers and
+  consumer brands rely on to create, launch, and measure
+  campaigns.
+
+  This is a product engineering role, not an infrastructure or
+  platform architecture role. You will be responsible for
+  building the core B2B experience that enables retailers and
+  brands to bring their campaigns onto algo1’s in-store
+  product.
+
+  The quality of this software directly impacts the shopper
+  experience. It is the layer through which offers and
+  campaigns move from retailers and brands onto the in-store
+  product. Getting this right means helping shoppers discover
+  more relevant content while giving retailers and brands the
+  tools to understand what works.
+
+  You will own the customer-facing web application and the
+  backend systems that power it, including campaign creation,
+  offer management, retailer onboarding, permissions,
+  reporting, performance measurement, and the integrations
+  that allow promotional and EPOS data to flow into and out of
+  the platform.
+
+  You will work closely with product, design, and platform
+  engineering teams, but you will be accountable for taking
+  the B2B product from early concepts through to customer
+  adoption, continuously improving it as we scale with
+  retailers and brands.
+
+  What You'll Own
+
+  The most important requirement is clear evidence that you
+  have personally built and shipped complex, customer-facing
+  B2B software used by real customers.
+
+  - Own the B2B product area end to end, from early product
+    definition and technical design through implementation,
+    release, and iteration.
+  - Build intuitive retailer- and brand-facing web experiences
+    using React and TypeScript.
+  - Develop the backend services and APIs that power campaign
+    creation, management, reporting, and customer
+    administration.
+  - Act as the senior engineering counterpart to the Head of B2B
+    Product, helping shape scope, resolve ambiguity, set
+    delivery cadence, and make effective product and technical
+    trade-offs.
+  - Integrate with platform services built by our Platform team,
+    extending them where needed rather than duplicating
+    platform capabilities within the B2B product.
+  - Own retailer-facing integration touchpoints, including the
+    flow of promotional and EPOS data into the system and
+    campaign or performance data back out to customers.
+  - Design reliable integrations using APIs, webhooks,
+    authentication, and data synchronisation patterns.
+  - Build responsive product experiences, including asynchronous
+    and bi-directional interactions where they create
+    meaningful customer value.
+  - Establish strong engineering standards within the B2B
+    product area while remaining pragmatic about what needs to
+    be built now and what can evolve over time.
+  - Use modern AI development tools to accelerate prototyping,
+    implementation, testing, and iteration while maintaining
+    strong engineering judgement and quality.
+
+  About You
+
+  Must Have
+
+  - Full stack with backend depth. Professional software
+    engineering experience across the stack, with your
+    strongest work in the backend: Python, Go, Java, or
+    similar, and a portfolio of production systems you've
+    owned end-to-end.
+  - Product mindset. You care about the people using what you
+    build, and you take ownership for what your team puts in
+    front of them, not just the part you wrote.
+  - API design and evolution. You've designed APIs that other
+    teams and clients depend on, and you understand the trade-
+    offs between clean design, backwards compatibility, and
+    speed.
+  - Database and schema fluency. Practical experience with
+    relational databases (PostgreSQL or similar), including
+    schema design, indexing, migrations, and query
+    optimisation. Working knowledge of at least one non-
+    relational store.
+  - Distributed systems experience. You've designed or
+    meaningfully contributed to distributed backend systems,
+    and understand event-driven patterns, asynchronous
+    messaging, and the trade-offs at scale.
+  - Shipping complex, customer-facing products at pace. Evidence
+    that you can move real software into production quickly,
+    making pragmatic decisions without letting perfection
+    become a blocker.
+  - Growth and ambition. A career that has moved fast, where
+    you've taken on more scope sooner than the timeline would
+    suggest.
+  - AI-native engineering. You've shipped production code with
+    frontier AI tools (Cursor, Claude Code, or similar) and
+    push further into agentic workflows rather than push back
+    on them.
+
+  Nice to Have (or We Can Teach)
+
+  - B2B or enterprise product experience. Background building
+    for business or enterprise customers, where reliability,
+    integrations, and data pipelines matter as much as the
+    interface.
+  - Frontend craft. Comfort with a modern frontend framework
+    (React, TypeScript, or similar) and an eye for interfaces
+    that feel considered rather than merely functional.
+  - Cloud infrastructure. Experience deploying and operating
+    distributed services on AWS, GCP, or Azure.
+  - Containers and orchestration. Docker and Kubernetes in
+    production.
+  - Real-time data. Experience processing or analysing real-time
+    data streams at scale.
+  - Retail or personalisation. Familiarity with retail
+    technology, commerce platforms, or customer
+    personalisation systems.
+  - Startup experience. Background working at an early-stage
+    startup.
+
+  How We Work
+
+  We're a startup, so this is a high-intensity environment.
+  The people who thrive here are curious, proactive, and love
+  building. If you're happiest when you're creating,
+  experimenting, and moving fast, you'll love it here.
+
+  We draw our energy from being together, so this is an
+  office-based role. It suits someone who enjoys the quick
+  conversations and shared momentum that comes from building
+  together. Our office is on what we think is the best garden
+  square in London, just a couple of minutes from Tottenham
+  Court Road, so it's easy to get to and a great place to
+  build.
+
+
+
+  What We Offer
+
+  - Direct access to our founders and a real voice in the calls
+    that shape the product and the company.
+  - Competitive salary and meaningful equity.
+  - 25 days' annual leave plus bank holidays.
+  - Team offsites.
+  - Cycle to work scheme
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Retail
+  - Software
+posted_date: 2026-07-31
+url: "https://builtin.com/job/staff-engineer/10485711"
+source: Built In

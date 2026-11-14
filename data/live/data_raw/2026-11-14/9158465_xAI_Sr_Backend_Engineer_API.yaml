@@ -1,0 +1,88 @@
+job_id: 9158465
+title: Sr. Backend Engineer, API
+company: xAI
+location: London, GBR
+work_type: FULL_TIME
+company_size: 96 Employees
+description: |
+  SpaceX was founded under the belief that a future where
+  humanity is out exploring the stars is fundamentally more
+  exciting than one where we are not. Today, SpaceX is
+  actively developing the technologies to make this possible,
+  with the ultimate goal of making life multiplanetary and
+  expanding consciousness to the stars. SpaceXSI is building
+  Super Intelligence to help humanity understand the universe.
+  Our teams are building the full Super Intelligence stack:
+  from our Colossus supercomputers, to Grok models, to our
+  suite of applications, including Grok Bot, Grok Build, Grok
+  Imagine, Grok Voice, and X. We're creating a powerful
+  flywheel where more compute trains better models, better
+  models power more useful products, and what we learn from
+  people using those products shapes what we build next.
+
+  SR. BACKEND ENGINEER, API
+
+  We are looking for Backend Engineers to help build and
+  operate highly scalable, reliable production infrastructure.
+  Most of our backend infrastructure is written in Rust.
+  Experience with a compiled language such as Rust,  C++, or
+  Go is highly beneficial.
+
+  RESPONSIBILITIES:
+
+  - Build and maintain the unified inference stack as the single
+    surface area for all inference needs across the company
+  - Own and evolve the platform services that power Chat API,
+    Imagine API, Voice API, Grok Build, and Grok Bot
+  - Design, build, and maintain Chat API features including
+    batch API, collections API, files API, and related
+    capabilities
+  - Implement and operate chat moderation and abuse protection
+    systems across the API and grok.com
+  - Build and maintain the company-wide logging system for all
+    request types, including enforcement of Zero Data
+    Retention (ZDR) policies
+  - Manage multi-region inference cluster (IC) deployments, data
+    aggregation, data replication, and the distributed
+    authentication system
+  - Participate in follow-the-sun on-call coverage (UK → Japan →
+    US) to ensure continuous reliability of the inference
+    platform
+
+  BASIC QUALIFICATIONS:
+
+  - 5+ years of experience in designing, implementing, and
+    maintaining reliable and horizontally scalable distributed
+    systems
+  - Experience with Rust or C++
+
+  PREFERRED SKILLS AND EXPERIENCE:
+
+  - Experience in operating databases such as PostgreSQL,
+    Clickhouse, and MongoDB
+  - Knowledge of service observability and reliability best
+    practices
+  - Experience with LLM inference engines and serving frameworks
+    (e.g., SGLang, TensorRT, vLLM)
+  - Experience designing or building with agent SDKs and agent
+    orchestration frameworks
+  - Experience with Docker, Kubernetes, and containerized
+    applications
+  - Expert knowledge of gRPC (unary, response streaming, bi-
+    directional streaming, REST mapping)
+
+  COMPENSATION AND BENEFITS:
+
+  £107,000 - £262,000 GBP
+
+  Base salary is just one part of our total rewards package at
+  SpaceXSI, which also includes equity, comprehensive
+  healthcare and dental coverage, cash plan, income
+  protection, life insurance, and various other discounts and
+  perks.
+
+  SpaceXSI is an equal opportunity employer. For details on
+  data processing, view our Recruitment Privacy Notice.
+posted_date: 2026-08-04
+url: "https://builtin.com/job/backend-engineer-api/9158465"
+source: Built In

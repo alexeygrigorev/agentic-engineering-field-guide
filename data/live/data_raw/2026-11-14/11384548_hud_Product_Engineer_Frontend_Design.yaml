@@ -1,0 +1,192 @@
+job_id: 11384548
+title: "Product Engineer, Frontend & Design"
+company: hud
+location: MYS
+locations:
+  - MYS
+  - MDV
+  - Tajikistan, TJK
+  - USA
+  - JPN
+  - IND
+  - TUR
+  - TWN
+  - KHM
+  - PAK
+  - PHL
+  - MNG
+  - THA
+  - Laos, LAO
+  - KOR
+  - Singapore, SGP
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  About HUD
+
+  HUD's mission is to build reliable, fair and open
+  infrastructure for AI data. We want data to be valuable for
+  the people who create it and trustworthy for the labs that
+  train on it. Our team is a quickly growing group of
+  researchers, engineers and operators building the economy
+  that shapes what AI will become. Backed by $16M from top VCs
+  and YC (W25), our marketplace and platform are used by
+  startups, Fortune 500 companies and frontier labs.
+
+  About the role
+
+  HUD has two products. On the HUD Platform, AI teams build
+  environments, run agents on tasks, and review traces with
+  our QA agent. DataVendor is a marketplace where vendors sell
+  training data, mostly codebases, to frontier AI labs. Both
+  are full of interlinked concepts, and the job is to make
+  them clear enough that people can act.
+
+  You'll join our product and design engineering team, working
+  with our product lead, and own features end to end. You'll
+  find the problem in real usage, design the flow directly in
+  code, connect it to our APIs, and ship it. Most near-term
+  work is on DataVendor.
+
+  Problems you'll work on (as an example)
+
+  - Make a long agent trace readable in seconds: turn a stream
+    of tool calls, screenshots and scores into a view where
+    the failing step is obvious.
+  - Compare evaluation runs people actually trust: design the
+    tables and diffs labs rely on when choosing which model to
+    ship.
+  - Shorten the path from sign-up to first successful run: find
+    drop-offs with PostHog replays and funnels, fix them, and
+    measure the result.
+  - Make a two-sided data marketplace feel simple: make listing,
+    estimation, offers and proposals clear for both vendors
+    and buyers.
+  - Grow the design system as you ship: feed every new surface
+    back into shared primitives and patterns so the next one
+    ships faster.
+
+  What you'll do
+
+  - Ship features to production in Next.js 16, React 19,
+    TypeScript, Tailwind v4, Motion, TanStack Query, Zustand,
+    Clerk, Bun, and a Python/FastAPI backend. From interaction
+    design to API integration, covering complex UX flows,
+    empty, loading and error states.
+  - Design in code. Product UI is built and refined in the
+    browser. Our codebase and design-system pages are the
+    source of truth, and Figma is for exploration and brand
+    work.
+  - Learn from real usage: watch PostHog session replays, ship
+    behind feature flags, talk to users and our customer-
+    facing team, then improve what you built.
+  - Work across the API boundary with backend engineers: shape
+    the data a screen needs, and make small changes to our
+    Python services when a feature calls for it, with review.
+  - Extend each product's design system (they are separate on
+    purpose) and keep a high bar for motion, responsiveness,
+    accessibility and copy.
+
+  You may be a good fit if you
+
+  - Have shipped and maintained a product that real people use,
+    and can show what you changed after watching them use it.
+  - Write production React and TypeScript, and can read, debug
+    and review code yourself, including code your AI tools
+    wrote.
+  - Have strong interaction and visual judgment for complex,
+    data-heavy tools.
+  - Are comfortable enough across the stack to integrate REST
+    APIs, reason about data models, and make modest backend
+    changes.
+  - Use AI coding agents (Claude Code, Cursor, Codex) every day.
+  - Explain your decisions clearly to engineers, product owners
+    and founders on fast-paced live calls.
+
+  Strong candidates may also have: built developer tools,
+  marketplaces or data-heavy products; worked with AI agents,
+  evaluations or training data; built component libraries or
+  design systems in code; worked at an early-stage startup.
+
+  How to apply and what to expect
+
+  Send a portfolio or links to shipped work; live products
+  beat Figma screens. In the first call you'll walk through
+  one thing you shipped: what you personally did, how you
+  learned from users, and what happened after launch. Then a
+  founder interview, then a paid three-day remote work trial
+  in our codebase. The role is full-time with an immediate
+  start.
+
+  Team & company details
+
+  - Team Size: ~25 people currently, mostly full-time in-person,
+    but some remote.
+  - Our team: Our team brings together five International
+    Olympiad medalists across IOI, ILO and IPhO, researchers
+    published at NeurIPS and ICLR, and engineers and
+    researchers from Google DeepMind, Amazon, AWS, Meta, Qwen,
+    GLM, and Mercor. It also includes operators from BCG and
+    Uber, the first security hire at one of the largest crypto
+    exchanges, serial AI startup founders, former quant
+    researchers, artists and the former #1 ranked Catan player
+    in the world.
+  - Company stage: We have 8 figures in funding and are scaling
+    profitably and quickly to meet very strong demand.
+
+  Logistics
+
+  - Employment: Full-time.
+  - Location: We have offices in San Francisco or Singapore but
+    are open to remote candidates who can work hours that
+    70-80% overlap with either San Francisco or Singapore time
+    zones.
+  - Visa Sponsorship: We provide support for relocation and
+    visas for strong full-time candidates to the US or
+    Singapore.
+  - Timeline: Applications are rolling. The process is 2
+    technical interviews and a 2-3 day work trial.
+
+  What we offer
+
+  - Competitive compensation
+  - 100% covered top-of-the-line medical, dental, and vision (US
+    and Singapore employees)
+  - Lunch and dinner for in-office employees
+  - Company-wide holiday break (Christmas Eve to New Year’s Day)
+    on top of PTO and paid holidays
+  - 401k with a 4% match
+  - Other perks including an Equinox membership and commuter
+    benefits (US employees) and a health/wellness stipend
+    (Singapore employees)
+  - Unlimited* access to tokens for ChatGPT, Claude Code,
+    Cursor, etc. By unlimited, we mean no one on our token
+    usage leaderboard has ever hit a limit. So we have no idea
+    what the limit is.
+  - Two top-floor offices in San Francisco’s Union Square and
+    Singapore’s Raffles Place
+  - Annual travel budget to visit either office
+
+  Compensation
+
+  Actual offers are adjusted for experience and location, but
+  our base salary bands are
+
+  - San Francisco (and other major US cities): $130,000 -
+    $225,000
+  - Singapore: $100,000 - $170,000
+  - Rest of world: $100,000 - $170,000
+
+  Due to high volume, we may not actively respond to every
+  application, but feel free to contact us at
+  recruiting@hud.so or elsewhere if we missed your
+  application!
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-09-26
+url: "https://builtin.com/job/design-engineer/11384548"
+source: Built In

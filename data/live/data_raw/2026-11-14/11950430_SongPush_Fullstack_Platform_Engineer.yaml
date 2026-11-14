@@ -1,0 +1,96 @@
+job_id: 11950430
+title: Fullstack Platform Engineer
+company: SongPush
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  WePush is a creator marketplace connecting brands with
+  creators at scale. We’re looking for an experienced
+  Fullstack Platform Engineer who enjoys architecture,
+  infrastructure, and running real systems in production end-
+  to-end. This is a hands-on startup role, not a narrow DevOps
+  position. You’ll build backend features, improve our
+  infrastructure, and own what you ship from design to
+  production. Tasks What you’ll do * Build backend services
+  and APIs for campaigns, creator matching, marketplace
+  operations, and payments. * Design clear domain models,
+  database schemas, and service boundaries. * Build reliable
+  background jobs that handle concurrency, retries, and
+  failures correctly. * Contribute to our Web, Android, and
+  iOS frontend when features require end-to-end ownership. *
+  Improve deployments, CI/CD, monitoring, alerting, backups,
+  and recovery. * Debug issues across application code,
+  databases, infrastructure, and third-party APIs. * Make
+  pragmatic architectural decisions while continuing to ship
+  quickly. * Use AI coding agents as a core part of your daily
+  development workflow. Requirements What we’re looking for: *
+  Strong backend engineering experience in production
+  environments. * Excellent knowledge of SQL, relational
+  databases, transactions, locking, and data modelling. *
+  Experience with Docker, Linux, cloud infrastructure, and
+  CI/CD. * A good understanding of queues, scheduled jobs,
+  APIs, networking, security, and observability. * Confidence
+  reasoning about concurrency, idempotency, partial failures,
+  and recovery. * Strong debugging skills across the full
+  system. * Startup experience or a strong bias toward
+  ownership and execution. * Good product judgment and an
+  instinct for avoiding unnecessary complexity. * Experience
+  using AI coding agents to plan, implement, test, review, and
+  document software. * The ability to critically review,
+  iterate on, and improve AI-generated code until it is high-
+  quality and production-ready. Our stack includes TypeScript,
+  Node.js, React, PostgreSQL, MariaDB, Docker, Linux, and
+  Hack. Experience with every technology is not required, we
+  care more about strong fundamentals and the ability to
+  learn. AI-native engineering: Using AI agents is a
+  requirement for this role, not an optional productivity
+  tool. We expect you to use them throughout the development
+  process: exploring unfamiliar code, planning changes,
+  implementing features, writing tests, investigating
+  failures, reviewing work, and maintaining documentation.
+  This does not mean accepting generated code without
+  understanding it. You remain responsible for architecture,
+  security, correctness, and production outcomes. We are
+  looking for someone who knows how to give agents useful
+  context, break work into verifiable steps, review their
+  output critically, and use them to increase both speed and
+  quality. You’ll probably enjoy this role if: * You have
+  worked in an early stage startup/scale-up * You like owning
+  systems after they go live. * You naturally ask what happens
+  when a process crashes halfway through. * You can move
+  between backend code, SQL, infrastructure, and debugging. *
+  You prefer simple, dependable systems over fashionable
+  architecture. * You are excited about developing with AI
+  agents and actively improving how you use them. Benefits
+  This is a rare opportunity to build at the intersection of
+  AI, creator technology, and consumer products. WePush is
+  backed by experienced operators from companies including
+  Spotify, Google and many more. We’re entering our next phase
+  of growth with the ambition, speed, and ownership of a
+  startup, but with a proven product and strong market
+  traction. As an AI Product Engineer, you won’t be sitting on
+  the sidelines. You’ll work closely with the founders and
+  product team to turn new AI capabilities into products used
+  by brands and creators at scale. What we offer: *
+  Competitive salary and meaningful equity package * High
+  ownership from day one with the freedom to ship, experiment,
+  and influence product direction * Direct access to founders
+  and leadership with fast decisions and minimal bureaucracy *
+  A team of builders: Ambitious, pragmatic, and obsessed with
+  moving fast * An in-person culture in our Berlin office,
+  with flexibility for home office days * Public transport
+  pass, gym membership, recurring team lunches, and other
+  perks * A front-row seat to building a category-defining
+  technology company Regardless of who you are, where you come
+  from, how you look, or what music is playing in your
+  headphones, you are welcome. If you are a builder and move
+  fast, this role is for you.
+industries:
+  - Digital Media
+  - Marketing Tech
+  - Music
+  - Social Media
+posted_date: 2026-10-29
+url: "https://builtin.com/job/fullstack-platform-engineer/11950430"
+source: Built In

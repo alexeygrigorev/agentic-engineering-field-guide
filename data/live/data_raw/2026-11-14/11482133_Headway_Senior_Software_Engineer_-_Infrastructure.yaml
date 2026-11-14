@@ -1,0 +1,167 @@
+job_id: 11482133
+title: Senior Software Engineer - Infrastructure
+company: Headway
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 819 Employees
+description: |
+  1 in 4 people in the US have a treatable mental health
+  condition, but most providers don't accept insurance, making
+  therapy too expensive for most people. Headway’s mission is
+  to fix this by building a new mental healthcare system
+  everyone can access. We started by solving the biggest
+  barrier to care: insurance. The admin work - credentialing,
+  claims, payment reconciliation - is a nightmare. We've
+  automated that.
+
+  But we're going further. Over 90,000 providers across all 50
+  states run their practice on our software, serving over 2.6
+  million patients. We are building the best tools for
+  therapists to run their entire practice, reimagining the
+  experience of finding a therapist, and investing in the
+  platform foundations to enable this at scale, and building
+  much of it with AI. We aren't just a billing layer; we are
+  becoming the platform where care actually happens.
+
+  We're a Series D company with $325M+ in funding (a16z,
+  Accel, Spark Capital, etc.), looking for exceptional people
+  to help us achieve this mission. We want your time here to
+  be the most meaningful experience of your career. Join us,
+  and help change mental healthcare for the better.
+
+  The Role
+
+  Architect and own the cloud platform that every engineer at
+  Headway deploys on. Make deploys boring, scaling automatic,
+  infrastructure self-serve, and cost attributable.
+
+  About Infrastructure Engineering at Headway
+
+  Building a new mental healthcare system at Headway is only
+  possible because of the scale and leverage that software can
+  provide. Infrastructure Engineering is one of three teams in
+  Engineering Foundations, alongside Agentic Engineering and
+  Eddy, Headway's internal AI platform. We own the
+  infrastructure Headway runs on, as well as the performance
+  and scalability of Headway's FastAPI/Python monolith, and
+  the AWS infrastructure it runs on. We are the paved road the
+  rest of engineering builds on: databases, deploys,
+  asynchronous platform, observability, autoscaling, and self-
+  serve compute infrastructure.
+
+  As AI dramatically increases code velocity across the org,
+  our mandate is to make every change safe from the start and
+  build systems that get safer as they get faster.
+
+  About This Role
+
+  You will be on the Infrastructure team, which owns the cloud
+  platform Headway runs on. You will be the senior engineer
+  driving work to isolate blast radius, make autoscaling
+  trustworthy, and build a self-serve infrastructure platform
+  so that the Infrastructure Engineering team focuses on the
+  strategic and unusual, not the routine.
+
+  What You'll Own
+
+  - Deployment architecture and blast-radius containment.
+    Redesign deployment so that a mistake in one part of our
+    service cannot block or take down others. Continue to
+    drive our shift toward per-service deploy isolation and
+    functional-area slices that contain failures rather than
+    propagating them across the platform.
+  - Container footprint and networking. Own the ECS and EKS
+    footprint, evaluate broader EKS adoption for AI workloads,
+    and design the next iteration of inter-service network
+    connectivity.
+  - Capacity and scaling. Own capacity for a spiky workload:
+    floors computed ahead of demand rather than chased by
+    reactive scaling, self-deriving from data, with drift
+    caught early.
+  - Self-serve infrastructure platform. Build the Terraform
+    self-serve platform with guardrails so engineering teams
+    own their standard infrastructure changes and Reliability
+    Engineering reviews only the non-standard ones.
+  - Cloud cost attribution and controls. Stand up per-team cost
+    attribution across AWS, Datadog, and LLM spend. Make
+    infrastructure costs visible and attributable so teams can
+    make informed tradeoffs.
+  - Python runtime and dependency health. Own how the monolith
+    behaves under load: garbage collection, event loop
+    contention, and the runtime limits that bite first. Lead
+    the framework and package upgrades most teams defer.
+
+  Who You Are
+
+  A senior engineer who combines deep cloud and infrastructure
+  expertise with the instincts to drive alignment across
+  teams. You thrive in ambiguity, operate with a high degree
+  of ownership, and are as comfortable setting technical
+  direction as you are building. You make other engineers
+  better through architecture reviews, runbooks, and paved-
+  road tooling that raises the baseline for everyone who ships
+  on the platform.
+
+  Experience we're seeking:
+
+  - 5 or more years in platform, infrastructure, or SRE roles at
+    companies running significant production traffic
+  - Deep AWS expertise and production ownership of compute and
+    networking at scale (ECS, EKS, RDS, networking, IAM)
+  - Strong infrastructure-as-code experience, particularly
+    Terraform, including designing self-serve platforms for
+    other engineering teams
+  - Hands-on autoscaling and capacity engineering, and container
+    orchestration with ECS and/or EKS
+  - Track record making deploys safe and self-serve for other
+    teams, not just your own
+
+  Nice to have:
+
+  - FinOps and cloud cost optimization experience
+  - Kubernetes and EKS depth
+  - Observability tooling at scale (Datadog)
+  - Experience in healthcare or other regulated environments
+
+  Comprehensive benefits:
+
+  Medical, dental, vision, HSA/FSA, 401(k) including match for
+  2027!, Carrot Fertility reimbursement, and paid parental,
+  medical and caregiver leave.
+
+  We believe a team's strength is in its people, and we cannot
+  achieve this mission without a team that reflects the
+  diversity of this problem – across race, ethnicity, gender,
+  sexuality, age, national origin, religion, family status,
+  disability, military status, and experience. Headway is
+  committed to the full inclusion of all qualified
+  individuals. As part of this commitment, Headway will ensure
+  that persons with disabilities are provided with reasonable
+  accommodations. If reasonable accommodation is needed to
+  participate in the job application or interview process, to
+  perform essential job functions, and/or receive other
+  benefits and privileges of employment, please inform the
+  recruiter when they contact you to schedule your interview.
+
+  Headway participates in E-Verify. To learn more, click here.
+
+  A notice to Headway applicants: To protect yourself against
+  phishing and recruitment fraud, please note that Headway
+  only accepts applications through our official careers page
+  at https://headway.co/careers. Headway will never refer you
+  to external websites, ask for payment or personal
+  information, or conduct interviews via messaging apps. All
+  official communication will come from a @findheadway.com
+  email address. If you are contacted by someone claiming to
+  be from Headway via an unofficial channel, please do not
+  share any information and report it as spam.
+industries:
+  - Consumer Web
+  - Healthtech
+  - Professional Services
+  - Social Impact
+  - Software
+posted_date: 2026-10-02
+url: "https://builtin.com/job/senior-software-engineer-infrastructure/11482133"
+source: Built In

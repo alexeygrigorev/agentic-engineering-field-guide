@@ -1,0 +1,122 @@
+job_id: 12153437
+title: Senior Software Engineer
+company: FTAI Aviation
+location: New York, USA
+work_type: FULL_TIME
+company_size: 605 Employees
+description: |
+  Senior Software Engineer
+
+  Location: New York, NY
+
+  ABOUT FTAI AVIATION LTD. (NASDAQ: FTAI)
+
+  FTAI Aviation (NASDAQ: FTAI) owns and maintains commercial
+  jet engines, specializing in the maintenance, repair and
+  exchange of CFM56 and V2500 engines. Our Module Factory and
+  PMA parts programs make engine maintenance substantially
+  faster and cheaper than a traditional shop visit. We have
+  offices and maintenance facilities in New York, Miami,
+  Montreal, Rome, Portugal, Singapore, Dubai, the UK and
+  Ireland, and we have grown from around 150 to nearly 1,800
+  employees in the last two years.
+
+  Most of our industry still runs on email and spreadsheets.
+  We are building the software to replace that: tracking every
+  engine, module and part through its life, and using that
+  data to price work, forecast demand and deploy capital.
+
+  JOB OVERVIEW
+
+  We are building our software capability in-house and hiring
+  a Senior Software Engineer to work across the full stack:
+  data pipelines, the ontology that models our business, and
+  the applications on top of it. Most of what you build runs
+  on Palantir Foundry. We model our data in the Foundry
+  ontology, land it through Transforms and streaming
+  pipelines, and ship applications as OSDK React apps in Code
+  Repositories, with Git, code review, CI/CD and versioned
+  releases. Around Foundry there is a substantial systems
+  problem: a heavily customized Oracle MRO ERP, change-data-
+  capture pipelines running across four continents, Azure
+  infrastructure, and acquired businesses whose systems need
+  integrating. The work covers the full path from source
+  system to user interface, and you should be comfortable at
+  every point along it. This role requires onsite attendance 5
+  days a week in our New York, NY office.
+
+  Responsibilities:
+
+  - Build applications the business uses
+    - Own applications from requirements to production, built as
+      OSDK React apps in Foundry Code Repositories
+    - Build data-heavy interfaces covering inventory and parts
+      positions, work scoping, asset status across the fleet,
+      and repair and quote pipelines
+    - Implement write-back so applications update operational
+      systems rather than only reporting on them
+  - Build and own the data layer
+    - Build Transforms and streaming pipelines in Python and
+      PySpark that land ERP, financial and operational data
+      into Foundry
+    - Design and extend the ontology (object types, links,
+      actions) so it models the business in recognizable terms
+      rather than ERP table names
+    - Debug across the full path, from source database to rendered
+      table
+  - Integrate the surrounding systems
+    - Work on change-data-capture from Oracle, Azure services,
+      Microsoft Graph, vendor APIs, and integration work from
+      acquisitions
+    - Build monitoring, alerting and runbooks for the pipelines
+      you own. Operations in five times zones depend on them.
+  - Raise the engineering bar
+    - Set patterns for project structure, testing, code review and
+      documentation; use AI coding tools as part of your
+      normal workflow
+    - Help bring work in-house from Palantir Professional Services
+      and onboard engineers hired after you
+
+  Qualifications:
+
+  Basic:
+
+  - Strong Python — production services and data pipelines, not
+    scripts
+  - Strong TypeScript and React — must have built and maintained
+    production applications
+  - SQL fluency and the judgement to turn a messy source schema
+    into something usable
+  - End-to-end delivery — must have shipped features spanning a
+    database, a service and a UI
+  - Git fluency — branching, pull requests and code review are
+    routine
+  - Comfort working directly with non-technical users — ability
+    to understand needs and build without heavy product
+    management
+  - Able to come into the Meatpacking HQ office 5 days per week
+
+  Preferred:
+
+  - Palantir Foundry experience — Ontology, Transforms, Pipeline
+    Builder, OSDK or AIP (customer-side, forward-deployed,
+    professional services or ex-Palantir all count)
+  - Streaming or change-data-capture experience (Kafka, Debezium
+    or similar)
+  - Cloud infrastructure experience, ideally Azure
+  - Experience in aviation, manufacturing, logistics or another
+    operations-heavy industry
+  - Data visualization libraries (Recharts, ECharts, D3 or
+    similar)
+
+  Equal Opportunity Employment Statement: Our company is an
+  equal opportunity employer. We do not discriminate against
+  any employee or applicant based on race, color, religion,
+  national origin, age, sex (including pregnancy), physical or
+  mental disability, genetic information, sexual orientation,
+  gender identity, marital status, veteran status, or any
+  other characteristic protected by applicable federal, state,
+  or local
+posted_date: 2026-11-10
+url: "https://builtin.com/job/senior-software-engineer/12153437"
+source: Built In

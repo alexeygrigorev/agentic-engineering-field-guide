@@ -1,0 +1,169 @@
+job_id: 11661320
+title: Technical Program Manager (Software Engineer)
+company: Runpod
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 120 Employees
+description: |
+  Runpod is the AI Developer Cloud. More than one million
+  developers, from indie researchers to teams running frontier
+  models in production, use Runpod to experiment, train, fine-
+  tune, deploy, and scale AI on one platform. The platform has
+  processed more than 20 billion inference requests. We closed
+  a $100M Series A in June 2026. We're at an inflection point
+  for AI infrastructure, and we're building the platform the
+  next generation of developers will depend on.
+
+
+
+  We're a small, remote-first team. We take ownership
+  seriously, move fast, and ship work that more than a million
+  developers rely on every day. We're looking for people who
+  care deeply, build with urgency, and want to matter at
+  scale.
+
+
+
+  Learn more in our CEO's funding announcement:
+  https://www.runpod.io/blog/one-million-developers.
+
+  We’re seeking a Technical Program Manager (TPM) who
+  understands how distributed systems are built and why they
+  fail, and pairs that depth with exceptional organizational
+  and communication skills. The ideal candidate is a self-
+  starter who thrives in a fast-paced, dynamic environment and
+  can drive execution through ambiguity with confidence and
+  clarity.
+
+  As a TPM at Runpod, you’ll lead complex, cross-functional
+  programs across product and platform teams, working closely
+  with engineering leads and stakeholders across the company.
+  You’ll help build the core of our cloud platform: the
+  systems that schedule, scale, route, and run customer
+  workloads on GPU infrastructure across regions. You’ll
+  anticipate risks early, keep teams focused on what matters,
+  and deliver high-impact work that creates real value for our
+  customers.
+
+  The ideal candidate is a dynamic problem solver - not a pure
+  process follower.
+
+  Responsibilities:
+
+  - Partner with engineering leads to understand squad
+    architecture, constraints, and technical debt, and build
+    plans that reflect how the systems actually behave.
+  - Own planning and delivery for complex, multi-team programs:
+    scope, sequencing, dependencies, and timelines, with close
+    attention to cross-service and cross-region dependencies.
+  - Identify technical risk early (scaling limits, failure
+    modes, capacity constraints, migration complexity) and
+    drive mitigation before it reaches customers or
+    commitments.
+  - Participate in design and architecture reviews, surfacing
+    gaps in rollout plans, observability, and fault tolerance.
+  - Drive launch readiness and safe rollout of platform changes,
+    including staged releases, rollback plans, load and
+    failure testing, and operational handoff.
+  - Serve as the primary point of contact for stakeholders, with
+    clear, regular status updates and risks escalated early
+    alongside options and recommendations.
+  - Work with Data, Product, and Engineering leads to define and
+    track success metrics for performance, reliability,
+    utilization, and cost, tied to customer outcomes.
+  - Partner with SRE to build visibility into system health, and
+    help leadership balance investment in reliability, scale,
+    and new capabilities.
+  - Coordinate with Supply and Data Center teams on how capacity
+    and infrastructure changes affect platform roadmaps.
+  - Run post-launch and post-incident reviews, and drive the
+    resulting improvements to completion.
+
+  Requirements:
+
+  - 3+ years in technical program management or
+    software/infrastructure engineering, leading complex
+    programs for cloud or infrastructure products.
+  - Hands-on engineering experience on production distributed
+    systems, with deep understanding of consistency and
+    availability tradeoffs, queueing, scheduling, autoscaling,
+    load balancing, failure handling, and performance at
+    scale.
+  - Hands-on familiarity with cloud infrastructure fundamentals:
+    compute, networking, storage, containers and
+    orchestration, and multi-region architectures.
+  - Ability to read architecture docs, review designs, and hold
+    credible technical conversations with senior engineers,
+    including on reliability, latency, and capacity tradeoffs.
+  - Experience with observability and operational practices
+    (metrics, logging, tracing, SLOs, incident response) and
+    using them to drive program decisions.
+  - Proven track record of delivering multiple high-impact
+    programs across 3+ cross-functional teams, from planning
+    through launch.
+  - Strong quantitative skills, with the ability to turn system
+    and cost data into clear recommendations.
+  - Deep understanding of the software development lifecycle and
+    how engineering teams design, build, test, and ship
+    production systems.
+  - Exceptional written and verbal communication, with the
+    ability to align stakeholders across teams and functions.
+  - Ownership mindset: highly organized, proactive, and calm
+    under pressure, favoring clarity and follow-through over
+    rigid process.
+
+  Preferred:
+
+  - Previous experience in AI/ML developer platforms or
+    GPU/cloud infrastructure-focused organizations.
+  - Experience in a fast-paced startup environment.
+  - Technical degree in Computer Science, Engineering, or
+    related field.
+
+  What You’ll Receive:
+
+  - The competitive base pay for this position ranges from
+    ($126,000 - $160,000). This salary range may be inclusive
+    of several career levels at Runpod and will be narrowed
+    during the interview process based on a number of factors,
+    including the candidate’s experience, qualifications, and
+    location
+  - Meaningful equity in a fast-growing company- everyone on the
+    team receives stock options — your impact drives our
+    growth, and you share in the upside.
+  - Generous medical, dental & vision plans
+  - Flexible PTO- take the time you need to recharge
+  - Most roles are remote work first with an inclusive,
+    collaborative teams utilizing slack as the main form of
+    internal communication
+  - Join a passionate team on the cutting edge of AI
+    infrastructure — where culture, learning, and ownership
+    are at the heart of how we scale.
+  - $1,200 Home Office & Equipment Stipend- We set you up for
+    success from day one with gear and support to create your
+    ideal workspace
+
+
+
+  Runpod is committed to maintaining a workplace free from
+  discrimination and upholding the principles of equality and
+  respect for all individuals. We believe that diversity in
+  all its forms enhances our team. As an equal opportunity
+  employer, Runpod is committed to creating an inclusive
+  workforce at every level. We evaluate qualified applicants
+  without regard to race, color, religion, sex, sexual
+  orientation, gender identity, national origin, age, marital
+  status, protected veteran status, disability status, or any
+  other characteristic protected by law. We welcome every
+  qualified candidate eligible to work in the United States;
+  however, we are currently unable to sponsor employment
+  visas.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Software
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-10-13
+url: "https://builtin.com/job/technical-program-manager-software-engineer/11661320"
+source: Built In

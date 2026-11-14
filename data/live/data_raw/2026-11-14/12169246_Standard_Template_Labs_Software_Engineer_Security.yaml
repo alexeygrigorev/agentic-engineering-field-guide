@@ -1,0 +1,85 @@
+job_id: 12169246
+title: Software Engineer, Security
+company: Standard Template Labs
+location: New York, USA
+work_type: FULL_TIME
+company_size: 25 Employees
+description: |
+  STLabs is an AI service management platform that resolves
+  employee requests end-to-end, grounded in a living model of
+  the enterprise. This matters because we're able to resolve
+  requests with full context - the people, systems, services,
+  and policies that define how an organization actually runs.
+  Requests that used to take days of back-and-forth resolve in
+  minutes, right where employees already work.
+
+  About the Role
+
+  Our platform connects to our customers' most sensitive
+  systems and acts on their behalf, so security is core to the
+  product. You'll work alongside our infrastructure and
+  platform team and own how we detect, respond to, and fix
+  security issues across our cloud, our code, and our AI
+  agents.
+
+  We're looking for someone who wants to own:
+
+  - Detection and response across our AWS and Kubernetes
+    infrastructure
+  - Automated vulnerability remediation, from new advisory to
+    tested fix in hours, not weeks
+  - AI agents that triage security alerts and patch
+    vulnerabilities, with engineers making the final call
+  - Secure storage, use, and rotation of the credentials our
+    customers trust us with
+  - Supply chain security across dependencies, container images,
+    and CI/CD
+
+  What We're Looking For
+
+  - Minimum 4 years of experience in security, infrastructure,
+    or software engineering
+  - Deep hands-on experience securing cloud native systems on
+    AWS
+  - You write production code and would rather build a small
+    system that works than buy a large one nobody watches
+
+  What Makes Candidates Stand Out
+
+  - Experience building detection pipelines or leading real
+    incident response
+  - Understanding of the security risks of LLM-powered systems,
+    like prompt injection and over-permissioned agents
+  - Daily use of AI coding agents, and opinions on how to use
+    them safely
+  - Having built a security function from scratch
+
+  What We Offer
+
+  - Build the security foundation of an AI-first enterprise
+    platform
+  - The opportunity to take ownership of critical systems that
+    scale to millions of users
+  - A culture that values craftsmanship, autonomy, and technical
+    excellence
+  - Competitive compensation, equity, and benefits package
+  - Work from our Midtown, Manhattan office, where you'll be
+    side-by-side with the founding team in a supportive,
+    collaborative setting. Our team works on-site five days a
+    week. The location is easy to reach with plenty of public
+    transportation options.
+
+  As an equal opportunity employer, we don't tolerate
+  discrimination or harassment of any kind. Whether that's
+  based on race, ethnicity, age, gender identity, citizenship,
+  religion, sexual orientation, disability, pregnancy, veteran
+  status or any other protected characteristic as outlined by
+  federal, state or local laws. The reasonably estimated
+  yearly salary for this role is: $190,000-$250,000 USD.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-11-10
+url: "https://builtin.com/job/software-engineer-security/12169246"
+source: Built In

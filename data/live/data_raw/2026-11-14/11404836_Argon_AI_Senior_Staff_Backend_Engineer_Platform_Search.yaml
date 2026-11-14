@@ -1,0 +1,84 @@
+job_id: 11404836
+title: "Senior / Staff Backend Engineer, Platform & Search"
+company: Argon AI
+location: New York, USA
+work_type: FULL_TIME
+company_size: 7 Employees
+description: |
+  Argon · New York City · In person
+
+  Argon builds AI software for life-sciences teams doing
+  complex research, analysis, and writing. Our products
+  connect documents, scientific evidence, and company
+  knowledge to help people produce useful, well-supported
+  work.
+
+  We’re hiring an experienced backend engineer to own the
+  platform and search systems behind those products. You’ll
+  work directly with the founders and a small engineering
+  team, make consequential technical decisions, and carry
+  projects from an ambiguous problem through implementation,
+  rollout, and production operation.
+
+  What you’ll do
+
+  - Construct a model of pharma. Make relevant evidence
+    accessible through bespoke ontologies, indexing,
+    filtering, and lexical and semantic search. Measure
+    quality alongside latency and cost.
+  - Deliver backend systems end to end. Translate product and
+    infrastructure needs into practical plans, write
+    production code, and follow through until it works for
+    customers. Break large projects into useful releases.
+  - Own infrastructure and reliability. Build and operate
+    services on AWS and Kubernetes. Improve deployment
+    tooling, observability, recovery, capacity management, and
+    tenant isolation.
+  - Build our next search platform. Lead the search database
+    evaluation and migration, including indexing,
+    synchronization, query APIs, backfills, rollout, and
+    rollback.
+  - Make asynchronous workloads dependable. Build systems that
+    handle retries, duplicate work, rate limits, and partial
+    failure. Extend the platform to support longer-running AI
+    workflows.
+  - Help the team ship faster. Improve service boundaries,
+    shared libraries, tests, error handling, and development
+    tools where they solve concrete problems.
+
+  What you bring
+
+  - A track record of personally delivering substantial search,
+    backend, or infrastructure projects into production. You
+    can explain what you built, how you shipped it, what
+    failed, and what improved.
+  - Strong engineering fundamentals and comfort moving between
+    application code, database queries, and infrastructure.
+  - Experience operating stateful or distributed services,
+    including queues, concurrency, migrations, and recovery.
+  - Production experience with search, indexing, or retrieval
+    systems, including the effects of freshness, filters, and
+    permissions on results.
+  - Practical judgment: you scope work, choose a useful first
+    version, communicate risks early, and finish the rollout.
+  - Clear communication and thoughtful collaboration with
+    engineers, product partners, and domain experts.
+
+  Our backend stack includes TypeScript/Node.js, Python,
+  PostgreSQL, AWS, and Kubernetes. Experience with comparable
+  systems transfers. Hybrid search, relevance evaluation,
+  private customer deployments, and AI workflow infrastructure
+  are useful additional experience.
+
+  You’ll have direct ownership of important systems, work
+  closely with the founders, and see the customer impact of
+  your decisions. We work together in NYC and support
+  relocation.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Business Intelligence
+  - Pharmaceutical
+posted_date: 2026-09-28
+url: "https://builtin.com/job/senior-staff-backend-engineer-platform-search/11404836"
+source: Built In

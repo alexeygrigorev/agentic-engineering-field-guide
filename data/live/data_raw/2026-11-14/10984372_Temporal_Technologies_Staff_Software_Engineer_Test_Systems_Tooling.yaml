@@ -1,0 +1,109 @@
+job_id: 10984372
+title: "Staff Software Engineer, Test Systems & Tooling"
+company: Temporal Technologies
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 501 Employees
+description: |
+  Role Summary
+
+  Temporal’s reliability is foundational to our value
+  proposition, and as more customers run mission-critical
+  workloads on Temporal, we need the ability to validate
+  changes under production-like conditions and realistic
+  failure modes before they reach production.
+
+  As a Staff Software Engineer on the Test Systems & Tooling
+  team, you will lead technical initiatives that make
+  sophisticated system-level testing practical across
+  Engineering—spanning production-representative environments,
+  workload replay/generation, and repeatable failure-mode
+  testing. You’ll build platforms and tooling that enable
+  teams to reproduce and prevent the kinds of issues that only
+  emerge from complex interactions between workload, scale,
+  configuration, and multi-tenant behavior.
+
+  What You'll Do
+
+  - Build production-like test environments: Design and evolve
+    tooling that makes it easy for engineers to spin up test
+    cells that resemble production topology, configuration,
+    and behavior, in partnership with Cloud/Infrastructure.
+  - Enable production-representative workloads: Build
+    capabilities for workload generation, multi-tenant
+    testing, stress/load testing, and (where appropriate)
+    traffic replay or replay-like systems to reproduce
+    production behaviors in controlled environments.
+  - Make failure-mode testing repeatable: Create tooling for
+    injecting and validating failure conditions (latency,
+    dependency faults, resource exhaustion, degraded-state
+    recovery, and region-level failure scenarios) so we test
+    them deliberately—not just learn from production.
+  - Drive system-level test coverage: Identify high-impact
+    system-level scenarios that are currently hard to test,
+    and implement (or partner with the right teams to
+    implement) repeatable coverage that’s incorporated into
+    continuous and/or release validation.
+  - Build shared frameworks and paved paths: Provide opinionated
+    libraries, harnesses, and patterns that make it easier for
+    product teams to write high-quality system and integration
+    tests consistently.
+  - Raise the technical bar through leadership: Mentor engineers
+    and influence testing strategy across the org through
+    design docs, code reviews, and cross-team collaboration.
+  - Partner across Engineering: Work closely with Reliability
+    and Release Engineering to turn incident learnings into
+    durable pre-production test coverage and to integrate
+    validations into the release pipeline.
+
+  What You'll Bring
+
+  - Strong software engineering fundamentals and experience
+    building and operating production-quality systems
+    (platforms, infrastructure, developer tooling, or
+    distributed systems).
+  - Demonstrated technical leadership: leading ambiguous, cross-
+    team initiatives; driving alignment; and delivering
+    durable systems that other teams rely on.
+  - Experience designing for observability, debuggability, and
+    operational readiness (metrics, logs, tracing, safe
+    rollouts, and failure analysis).
+  - Comfort working across organizational
+    boundaries—collaborating with Cloud/Infrastructure,
+    Reliability, Release Engineering, and product teams to
+    land outcomes.
+  - Strong written communication skills (design docs, testing
+    strategy proposals, and documentation that scales
+    adoption).
+
+  Nice to Haves
+
+  - Experience with chaos engineering, fault injection, workload
+    replay/shadowing, performance testing, or multi-tenant
+    test strategy.
+  - Experience building internal platforms used broadly across
+    an engineering org (paved roads, self-serve environments,
+    shared frameworks).
+  - Familiarity with measuring engineering/system outcomes
+    (e.g., signal quality, coverage gaps closed, incident-to-
+    coverage time, adoption).
+
+  Temporal Technologies is an Equal Opportunity Employer.
+  Temporal Technologies does not discriminate on the basis of
+  race, religion, color, sex, gender identity, sexual
+  orientation, age, non-disqualifying physical or mental
+  disability, national origin, veteran status, or any other
+  basis covered by appropriate law. All employment is decided
+  on the basis of qualifications, merit, and business need. We
+  embrace and celebrate differences and diversity.
+
+  Temporal is committed to providing access, equal
+  opportunity, and reasonable accommodation for individuals
+  with disabilities in employment, its services, programs, and
+  activities. If you need to request a reasonable
+  accommodation, please let your Recruiter know so we can
+  assist.
+posted_date: 2026-09-02
+url: "https://builtin.com/job/staff-software-engineer-test-systems-tooling/10984372"
+source: Built In

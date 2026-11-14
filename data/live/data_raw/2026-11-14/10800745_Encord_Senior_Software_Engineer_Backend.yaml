@@ -1,0 +1,180 @@
+job_id: 10800745
+title: Senior Software Engineer, Backend
+company: Encord
+location: London, GBR
+work_type: FULL_TIME
+company_size: 150 Employees
+description: |
+  About us
+
+  We're solving AI's hardest problem: alignment.
+
+
+
+  Encord is the data layer for Physical AI and enterprise,
+  serving as core infrastructure for 300+ of the world's
+  leading AI teams, including Woven by Toyota, Hitachi,
+  Skydio, AbbVie and Dyna, Walden and Agility Robotics. From
+  autonomous vehicles and robotics to sports and healthcare,
+  we're solving AI's hardest problem: turning complex, real-
+  world data into production-ready intelligent systems.
+
+
+
+  We're a team of founders, scientists, quants, researchers,
+  and former Olympians, who’ve helped build some of the most
+  successful companies in Silicon Valley, and alumni of MIT,
+  Stanford, UC Berkeley, Oxford, Cambridge, and Imperial.
+  We’ve raised $110M from legendary technology investors,
+  early backers of companies like Databricks, ElevenLabs and
+  Vercel, and we’re growing at an extraordinary pace.
+
+
+
+  We're looking for exceptional people who want to help build
+  a category-defining company, operating with high urgency and
+  taking real ownership to help shape the future of AI.
+
+  The role
+
+  We're looking for a Senior Engineer to join our Foundations
+  team, the backend backbone that builds the reliable,
+  scalable, fast systems everyone else at Encord builds on top
+  of. The team's core challenges sit deep in distributed and
+  data-intensive systems.
+
+  The product mindset on this team is different from most of
+  the company: short-term product insight matters less, long-
+  term matters a lot. Foundations plans around how the next 6,
+  12, and 24 months will look, with an overarching shape to
+  the problem: handling multiple orders of magnitude the data
+  we handle today.
+
+  Encord is growing rapidly, with our product as the key
+  driver of that growth. A year ago, we were a team of 100;
+  now, we're over 150 and continuing to accelerate. The
+  systems that got us here won't get us to what's next. That's
+  the problem you'll help solve.
+
+  What you'll do
+
+  - Take end-to-end ownership of significant projects within our
+    database and processing systems, from design and
+    architectural decisions all the way to deployment,
+    monitoring, and measuring impact
+  - Build robust distributed systems and reason carefully about
+    how they fail and how they behave under load
+  - Contribute to performant protocols and APIs, such as our
+    label-format API, that customers use directly
+  - Tackle complex domains and immense scale with simple
+    solutions
+  - Raise the bar through code reviews, pairing, and helping
+    engineers around you do their best work
+
+  Who we're looking for
+
+  - You've seen and built a lot. You have personally developed
+    and maintained multiple systems from scratch, and you know
+    what trade-offs are involved in building reliable,
+    performant software at speed
+  - You want your work to have a tangible outcome for people.
+    You're not satisfied with building products that do not
+    see the light of day
+  - You are a builder. You enjoy all aspects of building not
+    only software but a complete product, and are comfortable
+    moving across the stack when necessary
+  - You enjoy problem-solving and thinking from first
+    principles, reach for the simplest solution that works,
+    and know when boring technology wins
+  - You're happy to tackle problems without a predefined, clear
+    definition or obvious solution, and are excited to have
+    autonomy to make decisions as you go
+  - You understand that being a member of a high-performing team
+    requires two things. You contribute your best work and
+    help others contribute their best. You'll always lend a
+    helping hand when needed and level up those around you
+
+  Experience requirements
+
+  - 5+ years building large-scale backend infrastructure
+    applications
+  - Deep fluency in at least one high-level language (we use
+    Python and TypeScript, but we care more about depth than
+    the specific language)
+  - Solid grounding in distributed systems concepts (databases,
+    replication, partitioning, queuing, caching) and how they
+    behave under load
+  - Experience owning services in production and improving
+    quality through code reviews, testing, rollout, and
+    monitoring
+  - Experience with data migrations or re-architecture projects
+    is a plus
+
+  Tech stack
+
+  We are technology-agnostic at Encord and are not looking for
+  experience across all of these. As long as you're open to
+  learning, please apply.
+
+  - Backend: Python
+  - Frontend: TypeScript and React
+  - Deployment: Kubernetes
+  - Infrastructure: GCP
+  - Machine learning: PyTorch, CUDA, Ray
+
+  Why Encord
+
+  - Competitive salary and meaningful equity in a high-growth
+    startup
+  - Clear, accelerated growth opportunities as the company
+    scales rapidly
+  - Strong in-person culture: 4 days/week
+  - Daily team lunches & dinners
+  - Annual learning & development budget
+  - Comprehensive health, dental, and vision coverage
+  - US employees: 18 paid vacation days plus US public holidays
+  - UK employees: 25 paid vacation days plus UK public holidays
+  - Frequent travel opportunities across the U.S., London, and
+    Europe
+  - Bi-annual company offsites & monthly socials
+
+
+
+  Operating principles
+
+
+
+  High agency
+
+  You see something broken, you fix it or find the person who
+  can. We celebrate the people who solve 90% of a problem
+  before anyone asks.
+
+  Build with care & urgency
+
+  We bear-hug the customer. Former founders and people from
+  fast-moving, high-stakes environments thrive here.
+
+  Self-aware & hungry
+
+  We stay warm, self-aware, and genuinely hungry. We elevate
+  our peers, and ego doesn't last long.
+
+  Invent in real time
+
+  We move toward the ambiguity. We’re pragmatic, resourceful,
+  energized by the fact that there's no playbook.
+
+
+
+  If you're looking to do the most meaningful work of your
+  career alongside people who push you to be better, we'd love
+  to meet you.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Machine Learning
+  - Software
+posted_date: 2026-08-22
+url: "https://builtin.com/job/senior-software-engineer-backend/10800745"
+source: Built In

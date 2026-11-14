@@ -1,0 +1,168 @@
+job_id: 10719840
+title: Software Engineer - Backend
+company: Luminary (withluminary.com)
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  About Luminary
+
+  Luminary is the AI-native system of action for wealth
+  transfer services.
+
+  High net worth households controlling more than $90 trillion
+  in assets are meaningfully underserved by technology that
+  was built for the mass market. As private client investment
+  and banking products have commoditized, these clients are
+  looking for more tax and wealth transfer advice, advice that
+  has previously been impossible to deliver at scale.
+
+  Luminary solves this problem by transforming complex estate
+  planning and ownership documents into a structured,
+  proprietary data asset that powers verticalized, agent-
+  driven workflows for tax and wealth transfer services. Our
+  built-in multi-firm collaboration connects a client's full
+  advisor ecosystem, and is the core infrastructure that
+  enables our customers to deliver a highly personalized, end-
+  to-end wealth transfer service offering at scale.
+
+  Our 1,000+ customers are leaders across the private client
+  services ecosystem: wealth managers from exclusive multi-
+  family offices through top private banks and trust
+  companies, national tax advisory practices, and law firms
+  among the AM Law 100. Our focus and proprietary data
+  position us to expand from a wedge in wealth transfer advice
+  into large adjacent markets including trust administration
+  and estate distribution.
+
+  Founded and led by CEO David Barnard, former Head of Wealth
+  Management at AllianceBernstein, Luminary is backed by 8VC,
+  Fin Capital, Rockefeller Capital, Focus Financial Partners,
+  and several family offices.
+
+  How we work
+
+  - Every engineer ships to production multiple times a day. We
+    make small, reviewable changes that go out through CI as
+    soon as they're ready.
+  - Modern tooling. Meticulous, Amp, Honeycomb, Temporal,
+    PostHog, Braintrust. We keep the team small and invest in
+    tooling for leverage.
+  - Engineers own outcomes. You'll talk to customers and feel
+    their wins and pain points, sit with our in-house subject
+    matter experts, and help us build a great business.
+  - We support both remote and in-office preferences. We have an
+    office in NYC near Bryant Park and a lively in-office
+    culture, but if remote works better for you, you'll be in
+    good company.
+
+  The Opportunity
+
+  A family's estate plan structure rarely fits neatly into a
+  schema. A trust may have been amended three times, an LLC
+  might be held by two of the children through a different
+  trust, and a beneficiary is often also a trustee. Provisions
+  frequently depend on conditions that haven't happened yet.
+
+  Modeling that correctly is the first half of the job. The
+  second is computing against it, which is where our tax
+  engine comes in: estate and gift tax, generation-skipping
+  transfers, strategies like GRATs and ILITs and QPRTs, and
+  projections that ask what happens if a business grows
+  sharply in value ten years from now and how that changes a
+  family's charitable and family giving goals. As far as we
+  know, it's the most complete implementation of the US
+  transfer tax code in software anywhere.
+
+  You don't need to have worked on any of this before! None of
+  us had. We're looking for someone who likes modeling
+  complicated real-world systems accurately, and who wants to
+  learn a deep domain from the JDs and CPAs on staff.
+
+  What you'll do
+
+  - Own the modeling engine. Transfer tax computation, waterfall
+    and distribution modeling, and the consolidation work that
+    brings our calculations under one engine.
+  - Model the domain flexibly and thoughtfully. Trusts and
+    estates are complex and have a lot of moving parts. Data
+    modeling is a really important part of this role.
+  - Make correctness checkable. You'll work with our JDs and
+    CPAs to validate against how practitioners compute things.
+    We regularly talk to various state attorneys general to
+    dig into the nitty-gritty of how specific interactions
+    work in their tax code.
+  - Support our agents. Extraction and agentic workflows are
+    only as good as the data model they write into. We don't
+    want agents doing any math, so we expose this
+    deterministic layer (and the ability to do hypothetical
+    modeling) via tools.
+
+  Who you are
+
+  Four or more years of software engineering experience, at
+  companies with strong engineering practices. Beyond that:
+
+  - You prefer domain complexity to infrastructure complexity.
+    The hard part here is modeling an intricate real-world
+    system correctly, not scaling a queue.
+  - Rigorous about correctness. You think in edge cases, and
+    you're uncomfortable shipping logic you can't verify.
+  - Product-minded. You want to know why a calculation matters
+    and who depends on it. You'll be shaping requirements, not
+    receiving them.
+  - Day to day tools
+    - Our backend is Go, Postgres, Temporal, and GraphQL
+    - Our monitoring is mostly in Honeycomb, Braintrust, and
+      PostHog
+  - You communicate well. With half the team remote,
+    overcommunication is the name of the game!
+
+  Why you'll love working here
+
+  - You'll be one of a small, senior team of engineers building
+    a complex and high-value product. You'll get a lot of
+    trust and responsibility early on.
+  - You'll work closely with our CEO, Head of Engineering, and
+    Head of Product.
+  - You'll help build foundational product in a nascent
+    category, with a lot of room to expand into large adjacent
+    markets.
+  - You'll ship constantly and hear fast feedback from
+    customers.
+
+  We earnestly believe that Luminary represents a one-of-a-
+  kind opportunity to have massive impact at profitable scale,
+  and to have a ton of fun along the way.
+
+  Benefits we offer
+
+  We believe firmly that happy, healthy employees do their
+  best work. To that end, we offer:
+
+  - 👩🏻‍⚕️ 100% employee health insurance coverage (plus 50%
+    dependent coverage)
+  - 🧘🏽‍♀️ Monthly wellness, commuter, and educational stipends
+  - 🏖️ 4 weeks PTO, plus holidays
+  - 🏢 NYC office near Bryant Park, for those who want it.
+    Remote-friendly by default.
+  - 💰 401(k) plan
+  - 👶 Parental leave policy
+
+  Compensation
+
+  - Base salary range of $170k–$225k, plus meaningful equity.
+    Actual compensation depends on many factors, including
+    relevant experience and skillset.
+  - At this time, Luminary is unable to sponsor employment visas
+    or provide immigration support.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-08-17
+url: "https://builtin.com/job/software-engineer-backend/10719840"
+source: Built In

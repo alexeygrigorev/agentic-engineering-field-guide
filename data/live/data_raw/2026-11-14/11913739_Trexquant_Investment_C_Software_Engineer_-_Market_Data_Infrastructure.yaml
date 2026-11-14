@@ -1,0 +1,75 @@
+job_id: 11913739
+title: C++ Software Engineer - Market Data Infrastructure (USA)
+company: Trexquant Investment
+location: Stamford, USA
+locations:
+  - Stamford, USA
+  - New York, USA
+work_type: FULL_TIME
+company_size: 67 Employees
+description: |
+  Trexquant is a growing systematic fund at the forefront of
+  quantitative finance, with a core team of highly
+  accomplished researchers and engineers. To keep pace with
+  our expanding global trading operations, we are seeking a
+  C++ Software Engineer to design and build high throughput /
+  low-latency market data infrastructure. This is a high-
+  impact role that sits at the heart of Trexquant's trading
+  platform.
+
+  Responsibilities:
+
+  - Write efficient, scalable and maintainable code with a
+    strong focus on performance, testing and code quality.
+  - Design and build high-performance market data infrastructure
+    in modern C++ for equities, futures and options across
+    global venues.
+  - Build reusable libraries for decoding, normalizing,
+    publishing and consuming market data.
+  - Partner closely with quantitative researchers to understand
+    downstream data requirements.
+  - Troubleshoot production issues and ensure reliable 24/7
+    market data infrastructure.
+
+  Requirements
+
+  - BS/MS/PhD in Computer Science, Electrical Engineering, or
+    related field.
+  - 3+ years of professional C++ (14,17,20) development
+    experience focused on low-latency, high-throughput
+    systems.
+  - Proven track record building or maintaining real-time
+    market-data feed infrastructure.
+  - Strong grasp of concurrency, lock-free algorithms, memory-
+    model semantics, and compiler optimizations.
+  - Familiarity with serialization formats (FAST, SBE, Protocol
+    Buffers) and time-series databases or in-memory caches.
+  - Comfort with scripting in Python for prototyping, testing,
+    and ops automation.
+  - Excellent problem-solving skills, ownership mindset, and
+    ability to thrive in a fast-paced trading environment.
+
+  Benefits
+
+  - Competitive salary, plus bonus based on individual and
+    company performance.
+  - Collaborative, casual, and friendly work environment
+  - PPO Health, dental and vision insurance premiums fully
+    covered for you and your dependents.
+  - Pre-Tax Commuter Benefits
+  - Weekly company meals
+
+  The base salary range is $150,000 - $200,000 depending on
+  the candidate’s educational and professional background.
+  Base salary is one component of Trexquant’s total
+  compensation, which may also include a discretionary,
+  performance-based bonus. This position is classified as
+  overtime-exempt.
+
+  Trexquant is an Equal Opportunity Employer
+industries:
+  - Machine Learning
+  - Business Intelligence
+posted_date: 2026-10-27
+url: "https://builtin.com/job/c-market-data-engineer-usa/11913739"
+source: Built In

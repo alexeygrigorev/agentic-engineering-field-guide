@@ -1,0 +1,156 @@
+job_id: 7151331
+title: "Staff Software Engineer, ML Infra & Distributed Systems"
+company: Tubi
+location: New York, USA
+locations:
+  - New York, USA
+  - Los Angeles, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 504 Employees
+description: |
+  About the Role:
+
+  As a Staff Software Engineer on the ML Infrastructure team,
+  you will collaborate closely with the Machine Learning and
+  Product teams to build world-class machine learning
+  inference platforms. These platforms power essential
+  services like personalized recommendations, search, and
+  content understanding across Tubi.
+
+  A core responsibility of this team is developing and
+  maintaining low-latency ML model serving systems that
+  support Deep Learning, LLM, and Search models. This involves
+  building self-service infrastructure and critical components
+  such as the inference engine, feature store, vector store,
+  and experimentation engine.
+
+  You will improve the way we deploy and operate our services
+  and even contribute to open-source projects. This role
+  grants the architectural freedom to explore new frameworks,
+  lead critical cross-functional projects, and transform the
+  capabilities of our ML and Product teams.
+
+  Responsibilities:
+
+  - Design and build scalable, high throughput, and low latency
+    distributed systems using Scala
+  - Build reusable components and services that serve various ML
+    applications like Personalization, Search, Ads and
+    Exploration
+  - Partner closely with ML engineers to understand their
+    challenges and limitations and develop scalable solutions
+    to address them. Proactively recommend solutions to keep
+    our ML Inference stack state of the art.
+  - Take a data driven approach to identifying & optimizing
+    latency, cost, and efficiency of our infra. Lead large
+    scale cross functional refactorings if necessary
+  - Mentor other engineers on the team on system design,
+    effective incident management, interviewing, leveraging
+    LLMs for work, etc.
+  - Collaborate with ML, Product, and cross functional
+    engineering teams to define the long term vision and
+    architecture for ML Infrastructure at Tubi.
+
+  Your Background:
+
+  - Experience designing and building scalable, distributed
+    systems in any modern backend language (e.g., Scala, Java,
+    Python, Go, C++); experience with Scala or JVM based
+    language is a plus.
+  - Strong experience with AWS or an equivalent cloud platform
+  - Experience building online microservices at scale with low
+    latency serving
+  - Experience with both SQL (e.g. Postgres) and NoSQL databases
+    (e.g. Cassandra), message brokers (e.g. Kafka), and caches
+    (e.g. Redis)
+  - Experience with containerization technologies, such as
+    Docker or Kubernetes
+  - Led the response and resolution efforts for multiple major,
+    large-scale incidents
+
+  Bonus:
+
+  - Familiarity with the machine learning infrastructure like
+    inference engines (e.g. torschserve, triton, vLLM), vector
+    stores (e.g. LanceDB, FAISS), feature stores (e.g. Feast),
+    ElastiCache, model training orchestration, etc.
+  - Understanding of ML model training pipelines and model
+    internals. Experience with Recommender Systems, Search,
+    Autocomplete and Ads ML is a plus
+  - Previous experience with Akka, Erlang, Elixir or Go
+  - Proficient in data-driven analysis of complex A/B testing
+    results
+
+  About Tubi:
+
+  Tubi is a free streaming service that entertains over 100
+  million monthly active users. Tubi offers the world's
+  largest collection of Hollywood movies and TV shows,
+  thousands of creator-led stories and hundreds of Tubi
+  Originals made for the most passionate fans. Headquartered
+  in San Francisco and founded in 2014, Tubi is part of Tubi
+  Media Group, a division of Fox Corporation.
+
+  #LI-Hybrid
+
+  Pursuant to state and local pay disclosure requirements, the
+  pay range for this role, with final offer amount dependent
+  on education, skills, experience, and location is listed
+  annually below. This role is also eligible for an annual
+  discretionary bonus, long-term incentive plan, and various
+  benefits including medical/dental/vision, insurance, a
+  401(k) plan, paid time off and other benefits in accordance
+  with applicable plan documents.
+
+  High cost labor markets such as but not limited to Los
+  Angeles, New York City, and San Francisco
+
+  $227,200—$324,500 USD
+
+  Tubi is a division of Fox Corporation, and the FOX Employee
+  Benefits summarized here, covers the majority of all US
+  employee benefits.  The following distinctions below outline
+  the differences between the Tubi and FOX benefits:
+
+  - For US-based non-exempt Tubi employees, the FOX Employee
+    Benefits summary accurately captures the Vacation and Sick
+    Time.
+  - For all salaried/exempt employees, in lieu of the FOX
+    Vacation policy, Tubi offers a Flexible Time off Policy to
+    manage all personal matters.
+  - For all full-time, regular employees, in lieu of FOX Paid
+    Parental Leave, Tubi offers a generous Parental Leave
+    Program, which allows parents twelve (12) weeks of paid
+    bonding leave within the first year of birth, adoption,
+    surrogacy, or foster placement of a child in addition to
+    applicable government leave program(s) and FOX’s short-
+    term disability policy. This time is 100% paid through a
+    combination of any applicable state, city, and federal
+    leaves and wage-replacement programs in addition to
+    contributions made by Tubi.
+  - For all full-time, regular employees, Tubi offers a monthly
+    wellness reimbursement.
+
+  About Tubi:
+
+  Boldly built for every fandom, Tubi is a free streaming
+  service that entertains over 100 million monthly active
+  users. Tubi offers the world's largest collection of
+  Hollywood movies and TV shows, thousands of creator-led
+  stories and hundreds of Tubi Originals made for the most
+  passionate fans. Headquartered in San Francisco and founded
+  in 2014, Tubi is part of Tubi Media Group, a division of Fox
+  Corporation.
+
+  We are an equal opportunity employer and all qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, national origin,
+  gender identity, disability, protected veteran status, or
+  any other characteristic protected by law. We will consider
+  for employment qualified applicants with criminal histories
+  consistent with applicable law.
+posted_date: 2026-08-02
+url: "https://builtin.com/job/staff-ml-infrastructure-engineer/7151331"
+source: Built In

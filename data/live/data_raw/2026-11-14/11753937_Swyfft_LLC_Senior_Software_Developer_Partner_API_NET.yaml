@@ -1,0 +1,168 @@
+job_id: 11753937
+title: Senior Software Developer, Partner API (.NET)
+company: Swyfft, LLC
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 98 Employees
+description: |
+  Swyfft writes homeowners and commercial package insurance,
+  sold mostly through independent agents. Our platform takes a
+  property address, pulls in data about the building and its
+  risks, and returns a bindable quote in seconds. Behind that
+  is the full policy lifecycle: rating, underwriting rules,
+  policy issuance, endorsements and renewals, and claims.
+
+  The stack is C#/.NET, TypeScript, and SQL Server, running
+  largely on Azure. It’s a real production system with real
+  history: some of it is modern, some of it is the kind of
+  code you inherit when a company has been shipping for years,
+  and part of the job is making it better without breaking
+  things people depend on every day.
+
+  The technology team is about 30 people across development,
+  support, IT, and QA. That’s small enough that your work is
+  visible and you won’t spend months waiting on approvals, and
+  large enough that you’re not the only person who knows how
+  anything works. If you like hard domain problems, working
+  close to the people who use what you build, and seeing your
+  changes in production quickly, we’d like to talk.
+
+  About the Position:
+
+  Swyfft’s Partner API lets our partners create and manage
+  Swyfft insurance quotes directly from their own software.
+  We’re hiring a senior engineer to own it full time and make
+  it a best-in-class developer experience: intuitive,
+  consistent, well documented, and dependable as it evolves.
+  You’ll design clean, stable resources on top of a rich
+  insurance domain and work closely with our partners’
+  engineering teams. You’ll learn our codebase as you go;
+  we’re hiring for your API experience.
+
+  *Please note that we are unable to provide sponsorship of
+  any kind at this time.
+
+  *This position is a 100% U.S. based remote opportunity that
+  can be based in one of the following states AL, AZ, FL, GA,
+  KY, LA, MA, MO, NC, NJ, NY, OH, OR, PA, SC, TX, UT, VA, WA,
+  WI.
+
+  Some travel for team meetings and training may be required.
+
+  Key Responsibilities: (What you’ll be asked to do)
+
+  - Own the Partner API contract end to end: resource design,
+    versioning, deprecation, and backward compatibility across
+    releases.
+  - Design clear, consistent API resources, and build the
+    translation layer that keeps the public contract stable as
+    our internal systems evolve.
+  - Work directly with our partners’ engineering teams to
+    support their integrations, including partner-specific
+    work on our side when an integration calls for it.
+  - Design consistent error responses, idempotency,
+    authentication, and rate limiting, along with the usage
+    metrics that show how partners use the API.
+  - Keep the OpenAPI spec and developer documentation accurate
+    and current, with contract tests that catch breaking
+    changes before partners do.
+  - Write and review production C# code, partner with QA and
+    product, and ship through our release process.
+
+  The Successful Candidate: (what we're looking for)
+
+  - You’ve designed, shipped, and run a REST API used by
+    external developers in production, and kept it backward
+    compatible through versions. A few years on a well-known
+    public API (payments, e-signature, communications) is
+    exactly the kind of background we mean.
+  - You think contract-first: OpenAPI, schema evolution,
+    deprecation policies, and changelogs.
+  - You know API security and multi-tenancy: API keys or OAuth
+    2.0 client credentials, scopes, tenant isolation, and
+    quotas.
+  - You’ve put a clean public contract in front of a complex
+    internal domain and can explain the tradeoffs.
+  - You like working with other companies’ developers, and you
+    write clearly for them in docs and email.
+  - You know how to get the most out of AI coding agents; our
+    team uses them every day.
+
+  Some Requirements:
+
+  - 7+ years of experience as a backend developer, including 3+
+    years building or maintaining a partner-facing or public
+    API.
+
+  Education:
+
+  - A Bachelor’s degree in Computer Science, Computer
+    Engineering, or equivalent work experience is required.
+
+  Computer Skills:
+
+  - Fluent in C#, ASP.NET Core, and SQL Server (MSSQL);
+    experience with Azure.
+  - We’re a MS Office environment.
+  - Experience using video and chat technology (MSTeams &
+    Slack).
+
+  Nice to Have:
+
+  - Insurance or fintech industry experience, including ACORD
+    standards.
+  - API gateway experience (Azure API Management or similar),
+    SDK generation, and webhooks.
+
+  Other:
+
+  - Reliable high-speed internet connectivity required.
+  - Designated quiet work from home space.
+
+  Actual compensation for this position will vary based on
+  skills, qualifications, and experience. The range reflects
+  annual compensation (as applicable) and does not include
+  bonuses or other incentives that the company may choose to
+  pay at its sole discretion.
+
+  In addition to base compensation Swyfft offers a
+  comprehensive benefit package.
+
+  We Have a Great Benefits Package!
+
+  - Medical, Dental, and Vision
+  - Short- and Long-Term Disability (Company Paid)
+  - Voluntary Long-Term Disability
+  - Employee Life & AD&D (Company Paid)
+  - Voluntary Employee, Spouse, and Child Life & AD&D
+  - Healthcare, Dependent Care and Transit FSA, and Healthcare
+    Savings Account (HSA)
+  - 401K with a generous matching contribution and no vesting
+    schedule
+  - 20 days of PTO annually (prorated based on hire date)
+  - Company Paid Holidays and 2 “Choose Your Own Holidays”
+
+  It is the policy of Swyfft to provide equal employment
+  opportunities to all employees and applicants for employment
+  without regard to race, religion, color, ethnic origin,
+  gender, gender identity, age, marital status, veteran
+  status, sexual orientation, disability, or any other basis
+  prohibited by applicable federal, state, or local law.
+  EOE/AA/M/D/V/F.
+
+  If you require accommodations during the application or
+  interview, please contact Human Resources at hr@swyfft.com,
+  and we will make every effort to accommodate your needs.
+
+  Please Note: Swyfft Holdings, LLC does not accept 3rd party
+  agency resumes for this position, please do not forward
+  resumes to our career’s email address or Swyfft Holdings,
+  LLC employees. Swyfft Holdings, LLC will not be responsible
+  for any fees related to unsolicited resumes.
+industries:
+  - Insurance
+  - Analytics
+posted_date: 2026-11-06
+url: "https://builtin.com/job/senior-software-engineer-partner-api-net/11753937"
+source: Built In

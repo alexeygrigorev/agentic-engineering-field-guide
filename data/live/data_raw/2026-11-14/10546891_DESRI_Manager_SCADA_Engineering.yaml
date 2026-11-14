@@ -1,0 +1,152 @@
+job_id: 10546891
+title: Manager, SCADA Engineering
+company: DESRI
+location: Houston, USA
+locations:
+  - Houston, USA
+  - New York, USA
+  - Greenwood Village, USA
+work_type: FULL_TIME
+company_size: 227 Employees
+description: |
+  About DESRI
+
+  DESRI (formerly D. E. Shaw Renewable Investments) is a
+  market-leading owner and operator of renewable energy
+  projects throughout the United States. We have acquired or
+  developed approximately 13 gigawatts of contracted capacity
+  across a portfolio of over 85 renewable energy projects in
+  24 states.
+
+  At DESRI, our culture is grounded in rigorous analytics and
+  thoughtful risk-taking, with a strong emphasis on
+  creativity, intellectual curiosity, and continuous
+  improvement. We operate with lean teams that prioritize
+  efficiency and minimize unnecessary bureaucracy, enabling
+  individuals to take ownership and move quickly. We value
+  open, constructive dialogue and believe it leads to better
+  outcomes. Above all, we are driven to go the extra mile and
+  support one another, fostering a collaborative environment
+  built on accountability, integrity, and care.
+
+  About the role
+
+  DESRI is seeking a senior, hands-on SCADA and plant controls
+  engineer to join its Grid Integration team as Manager, SCADA
+  Engineering – BESS Self-Integration.
+
+  DESRI increasingly acts as the integrator on its battery
+  energy storage (BESS) and hybrid projects, procuring the DC
+  block, PCS, EMS, and PPC separately and owning the controls
+  interfaces between them. This is a hands-on technical
+  leadership role for an engineer who knows plant controls and
+  SCADA from the inside and wants to bring that depth to the
+  owner's side, setting the technical bar across a growing
+  pipeline of storage projects. You will work closely with
+  Asset Management (whose SCADA team owns DESRI's SCADA
+  standards and operating fleet), Engineering, BESS
+  Procurement, Project Delivery, Construction, Market
+  Operations, and external EPC, OEM, and integrator partners.
+  This role can be based remotely anywhere in the U.S.
+
+  What you'll do
+
+  - SCADA, RTU, and network design: Own the architecture,
+    communications, and interfaces between plant controllers,
+    EMS, PCS, BMS, substation, and utility or ISO. Define
+    requirements including points lists, IEC 61850 and DNP3
+    interfaces, Modbus and vendor protocol mapping, update
+    rates and latency, time synchronization, and OT network
+    and cybersecurity design. Build and maintain DESRI's
+    points-list and interface templates.
+  - PPC performance: Working from interconnection, offtake, and
+    grid-code requirements (voltage and reactive power
+    control, frequency response, ramp rates, response times,
+    ride-through, dispatch/AGC tracking), review and challenge
+    vendor gains, filters, and timing, approve final settings,
+    and confirm closed-loop performance in the lab and field.
+    Drive resolution of control interactions between vendors
+    that no single vendor owns.
+  - HIL/CHIL readiness: Ensure SCADA and PPC hardware,
+    communications, and initial settings are ready for
+    testing, and drive resolution of the issues those tests
+    surface.
+  - Contracts and vendor oversight: Write the SCADA,
+    communications, and PPC sections of EMS, PCS, DC block,
+    integrator, and EPC contracts and scopes. Review vendor
+    deliverables (network drawings, points lists, protocol
+    documents, test procedures, settings files) and witness
+    factory and site acceptance testing.
+  - Commissioning: Support DESRI's commissioning lead on
+    communications checkout, utility/ISO telemetry and point-
+    to-point testing, PPC performance testing, and grid-code
+    compliance testing.
+  - Portfolio: Share SCADA design reviews with Asset Management
+    on projects delivered by an EPC or integrator, help extend
+    the DESRI SCADA standard to self-integrated BESS, and turn
+    commissioning lessons into repeatable designs that scale
+    self-integration from a handful of projects to many.
+
+  Qualifications
+
+  - Bachelor’s degree in electrical engineering or a related
+    field. A master’s degree or Professional Engineer (PE)
+    license is a plus.
+  - 6+ years in SCADA, plant controls, or power systems
+    integration for utility-scale generation or storage,
+    including direct technical responsibility for at least one
+    utility-scale BESS or hybrid project through
+    commissioning.
+  - A solid understanding of plant control architecture (roles
+    and interactions of the MPC, PPCs, EMS, PCS, PLCs, RTUs
+    and SCADA platforms on standalone, hybrid, and multi-
+    resource sites), including writing or reviewing controls
+    narratives.
+  - A solid understanding of closed-loop PPC performance,
+    including active and reactive power control, voltage
+    regulation, and frequency response, against
+    interconnection and grid-code requirements, gained through
+    PPC tuning or by leading PPC performance, HIL/CHIL, grid-
+    code compliance, or model verification testing (e.g., NERC
+    MOD-025/026).
+  - Working fluency in DNP3 and Modbus (TCP and RTU), and
+    experience specifying and reviewing plant and substation
+    OT network designs.
+  - Experience leading multiple vendors, integrators, or EPCs
+    toward a shared technical outcome: writing clear
+    requirements, holding vendors to them, and resolving
+    issues between scopes.
+  - Understanding of how technical requirements connect to
+    contract terms (performance guarantees, liquidated
+    damages, change orders, COD milestones).
+  - Ability to work across teams without direct authority and
+    explain controls tradeoffs to non-specialists, with strong
+    documentation and organizational skills to manage multiple
+    projects in parallel.
+  - Hands-on PPC tuning; hands-on IEC 61850 (MMS, GOOSE, SCL)
+    and vendor PCS/BMS protocols and with substation
+    automation controllers such as the SEL RTAC, including IEC
+    61131-3 logic, is strongly preferred.
+  - Familiarity with IEEE 2800, NERC standards for inverter-
+    based resources, ISO/RTO telemetry and dispatch
+    requirements, MESA-ESS, and OT cybersecurity frameworks
+    (NERC CIP, IEC 62443).
+  - Occasional travel to project sites, vendor facilities, and
+    test labs.
+  - At DESRI, we consider a wide range of factors to determine
+    your compensation. We rely on market indicators and
+    consider your specific job family, background, location,
+    skills, and experience. The expected annual base salary
+    for this position is $155,000 – $175,000.
+  - Our compensation and benefits package includes variable
+    compensation in the form of a year-end bonus, guaranteed
+    in the first year of hire, and benefits including medical
+    and prescription drug coverage, 401(k) contribution
+    matching, paid time off, wellness reimbursement, family
+    building benefits, and a charitable gift match program.
+industries:
+  - Energy
+  - Renewable Energy
+posted_date: 2026-08-05
+url: "https://builtin.com/job/manager-scada-engineering/10546891"
+source: Built In

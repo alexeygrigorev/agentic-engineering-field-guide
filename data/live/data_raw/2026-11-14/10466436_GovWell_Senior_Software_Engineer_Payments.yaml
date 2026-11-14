@@ -1,0 +1,173 @@
+job_id: 10466436
+title: Senior Software Engineer, Payments
+company: GovWell
+location: New York, USA
+work_type: FULL_TIME
+company_size: 33 Employees
+description: |
+  🏛️ About GovWell
+
+  We the people — and the taxpayers — deserve good government.
+  Yet today, interacting with government services is often
+  frustrating and inefficient. GovWell is building the AI
+  operating system transforming how governments serve
+  communities, starting with local agencies.
+
+  GovWell replaces legacy software for municipalities and
+  counties, empowering public servants to radically streamline
+  public services and cut internal processing time for permits
+  and licenses by up to 95%.
+
+  Founded in 2023, GovWell powers 5,000+ mission-critical
+  processes for agencies in 35+ states serving millions of
+  residents. The company has raised $35M in funding from
+  Insight Partners, Work-Bench, and Bienville Capital, and the
+  team works in person at GovWell HQ in New York City. Read
+  more about our founding story in TechCrunch.
+
+  🌟 Role overview
+
+  Payments infrastructure for local government is a genuinely
+  hard problem — real money, strict audit requirements, dozens
+  of different fee types and collection methods, all running
+  underneath workflows that can't afford to break. It's also a
+  problem that's specific to how municipalities and counties
+  actually operate, not something you can bolt on from a
+  generic payments product.
+
+  GovWell is hiring a Payments Engineer to own this space and
+  build it into the financial backbone the rest of the
+  platform runs on. This isn't a feature added to an existing
+  system — it's a domain still being defined, which means the
+  person who takes this on will shape the core architecture,
+  not just extend someone else's.
+
+  We have strong opinions about the principles that this
+  deserves — real auditability, precision in how fees are
+  computed, a system finance teams can actually trust — but
+  we're looking for someone who can take that point of view,
+  sharpen it, and build it. Because so much of this is still
+  unwritten, you'll have more autonomy and ownership here than
+  in almost any other role at GovWell.
+
+  We have a hybrid work culture that combines regular in-
+  person collaboration at our New York City office (3+ days
+  per week) with flexibility to work remotely.
+
+  This role reports directly to our CTO and Co-Founder, Ben
+  Cohen.
+
+
+
+  ☀️ Why GovWell?
+
+  - A mission that matters: Building AI-powered products to fix
+    outdated government systems isn’t just a technical
+    challenge—it’s a historic opportunity to improve our
+    foundational relationship with government and ensure
+    trillions of tax dollars result in high quality services.
+    WATCH: Mission & Vision with CEO & Co-Founder Troy LeCaire
+  - Real-world impact: GovWell’s product is the system of record
+    for government services that affect millions of Americans.
+    From streamlining permitting for small businesses to
+    accelerating affordable housing development, your work
+    will make an immediate difference.
+  - Join a startup in hyper-growth: We’ve found product-market
+    fit and are scaling the business very quickly (4X ARR
+    growth in the last year). As an early team member, you’ll
+    learn what it takes to build a successful startup. You’ll
+    work closely with the founders while enjoying exceptional
+    autonomy and ownership over your work.
+
+  💻 What you’ll do
+
+  - Design the financial architecture GovWell runs on — the
+    system of record for every dollar municipalities collect,
+    refund, or hold on someone's behalf.
+  - Build a real ledger from the ground up: one that's fully
+    auditable, mathematically consistent, and trusted by
+    finance teams without a second look.
+  - Turn fee calculation into a system that computes with
+    precision, instead of something staff track by hand or
+    reconstruct after the fact.
+  - Make partial payments, deposits, and refunds first-class
+    citizens of the platform, not workarounds bolted on after
+    the core system was built.
+  - Own the migration from where payments live today to where
+    they need to be — with real customers, real money, and no
+    room for a clean-slate do-over.
+  - Partner directly with the people who depend on this system
+    being right: finance teams, municipal staff, and the
+    engineers building the workflows this ledger will support.
+  - Set the technical standard other engineers build against
+    once this domain exists — you're not implementing someone
+    else's design, you're establishing it.
+
+  🧠 Who you are
+
+  - Experience designing financial or transactional systems
+    where correctness isn't optional — payments, billing,
+    ledgers, or similar domains where an unbalanced number is
+    a real problem, not a bug ticket.
+  - You have real opinions about how a payments system should be
+    architected, and you want a role where you can bring them,
+    not just implement someone else's spec.
+  - Comfortable with ambiguity at the domain-design level: this
+    isn't "build this feature," it's "help decide what the
+    right abstraction is," and you find that exciting rather
+    than uncomfortable.
+  - Experience with idempotency, webhooks, and payment processor
+    integrations (Stripe, Finix, or similar) is a strong plus.
+  - You think in terms of invariants and edge cases — what
+    happens when a webhook fires twice, when a fee schedule
+    changes mid-invoice, when a refund needs to partially
+    reverse a payment that's already been partially paid.
+  - You're excited to work with the latest AI models, both in
+    the product and in your own development workflow.
+  - You've owned a large product area end-to-end and can point
+    to something specific you shipped and stayed accountable
+    for.
+  - Strong product instincts: you ask questions until you
+    actually understand the customer's problem, not just the
+    ticket description.
+  - You align closely with our Core Values.
+
+  🖥️ Our tech stack
+
+  - React
+  - TypeScript
+  - Node.js
+  - GraphQL
+  - PostgreSQL
+  - RedwoodJS
+  - AWS
+  - OpenAI API
+  - Finix (payments processing)
+
+
+
+  💸 Compensation and benefits
+
+  Compensation within the posted salary band will be
+  commensurate with experience. All offers will include:
+
+  - Competitive base salary.
+  - Equity / stock options.
+  - Medical, dental, and vision insurance.
+  - 401(k) program.
+  - Flexible PTO.
+
+
+
+  ➡️ Click here to meet the engineering team
+
+  Below: a picture of the entire GovWell team celebrating our
+  Series A with a boat cruise on the Hudson!
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Productivity
+  - Software
+posted_date: 2026-08-25
+url: "https://builtin.com/job/software-engineer-payments/10466436"
+source: Built In

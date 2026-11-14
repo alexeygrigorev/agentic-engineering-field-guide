@@ -1,0 +1,116 @@
+job_id: 9704918
+title: Senior Embedded Software Engineer
+company: Nebius
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 473 Employees
+description: |
+  About Nebius:
+
+  Nebius is leading a new era in cloud infrastructure for the
+  global AI economy. We are building a full-stack AI cloud
+  platform that supports developers and enterprises from data
+  and model training through to production deployment, without
+  the cost and complexity of building large in-house AI/ML
+  infrastructure.
+
+  Built by engineers, for engineers. From large-scale GPU
+  orchestration to inference optimization, we own the hard
+  problems across compute, storage, networking and applied AI.
+
+  Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we
+  have a global footprint with R&D hubs across Europe, the UK,
+  North America and Israel. Our team of 1,500+ includes
+  hundreds of engineers with deep expertise across hardware,
+  software and AI R&D.
+
+  The role We are looking for an Embedded Software Developer
+  to design and implement the firmware and low-level software
+  that powers our next-generation GPU and HPC platforms. This
+  role will focus on embedded control, board management,
+  telemetry, and hardware-firmware integration, ensuring that
+  our systems operate reliably in high-density, mission-
+  critical environments. Key Responsibilities • Design and
+  implement embedded firmware for server management,
+  telemetry, and control systems. • Maintain and enhance our
+  custom OpenBMC firmware with new features and improvements •
+  Enable real-time monitoring of power, thermal sensors, and
+  hardware health. • Work closely with hardware engineers to
+  validate firmware for existing and future platforms • Debug
+  and optimize low-level drivers and protocols. • Contribute
+  to long-term firmware architecture for GPU cluster
+  reliability. Required Skills & Qualifications: • 5+ years in
+  embedded systems or firmware development. • Proficiency in
+  embedded Linux. • Hands-on experience with BMCs,
+  microcontrollers, or SoC firmware. • Understanding of
+  hardware bring-up and debugging • Languages: C, C++, Bash,
+  Go, YAML • Firmware: OpenBMC, U-Boot, Linux Kernel •
+  Interfaces: I2C, I3C, SPI, eSPI, UART, LPC • Protocols:
+  SMBus, PCIe, PMBus, PECI • Build Systems: Meson, CMake •
+  Descriptors & Formats: FRU, SMBIOS, ACPI, DMI Preferred: •
+  Knowledge of the Yocto Project principles • Knowledge of
+  systems and D-Bus principles • Proficiency in C++ • Good
+  knowledge of C, sufficient for periodic work with Linux
+  drivers and the U-Boot bootloader; • Experience in
+  developing Linux drivers of any kind, especially those
+  implementing sysfs and hwmon interfaces. • Experience with
+  server BMC firmware IPMI, IPMB, KCS, SSIF, Redfish, PLDM •
+  Knowledge of GPU/CPU telemetry frameworks (e.g., NVML, DCGM)
+  • Exposure to firmware security (Secure Boot, signed
+  firmware) • Experience with RAS (Reliability, Availability,
+  Serviceability) • Background in high-performance computing
+  or data center hardware.
+
+  Pay Transparency
+
+  We offer competitive compensation and benefits packages.
+  Actual compensation will be determined based on job-related
+  factors, including experience, skills, qualifications, the
+  level at which the candidate is hired, and geographic
+  location, consistent with applicable law.
+
+  Base Compensation Range
+
+  $179,500—$269,200 USD
+
+  Benefits & Perks:
+
+  - Competitive compensation
+  - Career growth and learning opportunities
+  - Flexibility and ownership
+  - Collaborative and innovative culture
+  - Opportunity to work on impactful AI projects
+  - International environment and talented teams
+
+  What's it like to work at Nebius:
+
+  Fast moving - Bold thinking - Constant growth - Meaningful
+  impact - Trust and real ownership - Opportunity to shape the
+  future of AI
+
+  Equal Opportunity Statement:
+
+  Nebius is an equal opportunity employer. We are committed to
+  fostering an inclusive and diverse workplace and to
+  providing equal employment opportunities in all aspects of
+  employment. We do not discriminate on the basis of race,
+  color, religion, sex (including pregnancy), national origin,
+  ancestry, age, disability, genetic information, marital
+  status, veteran status, sexual orientation, gender identity
+  or expression, or any other characteristic protected by
+  applicable law.
+
+  Applicants must be authorized to work in the country in
+  which they apply and will be required to provide proof of
+  employment eligibility as a condition of hire.
+
+  If you need accommodations during the application process,
+  please let us know.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Consulting
+posted_date: 2026-08-01
+url: "https://builtin.com/job/senior-embedded-software-engineer/9704918"
+source: Built In

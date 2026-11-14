@@ -1,0 +1,126 @@
+job_id: 11725229
+title: Staff Backend Engineer
+company: Polymarket
+location: New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 84 Employees
+description: |
+  About Polymarket
+
+  Polymarket is the world's largest prediction market
+  platform. We enable individuals to express views on real-
+  world events by trading on outcomes across politics,
+  economics, sports, culture, and current affairs. Built as a
+  peer-to-peer marketplace with no centralized "house,"
+  Polymarket aggregates diverse opinions into transparent,
+  market-based probabilities that reflect collective
+  expectations about the future.
+
+  We're growing fast, both in terms of volume ($21B traded in
+  2025) and adoption as an alternative news source. Our
+  ambition is to become a ubiquitous beacon of truth in global
+  media and we need your help adding fuel to the fire.
+
+  About the Role
+
+  When the world's biggest stories break, whether that's an
+  election night, a Fed decision or a championship game,
+  people come to Polymarket to see what's likely to happen
+  next. Millions of trades, price updates and market
+  resolutions flow through our backend as events unfold, and
+  every one of them has to be fast and correct. We're hiring
+  Staff Backend Engineers to own and shape those systems as
+  Polymarket grows into a global source of truth.
+
+  This is an individual contributor role with high autonomy
+  and high ownership. You'll work alongside a small group of
+  senior engineers who care deeply about correctness and
+  performance. There's no heavy process here, no committees,
+  no long approval chains. You'll find the most important
+  problems, propose solutions, and ship them. Depending on
+  your background, you might focus on our exchange and trading
+  systems, the platform behind our consumer apps, the systems
+  that protect our users and markets from fraud and abuse, or
+  new products we're bringing to market.
+
+  If you want your work to matter the moment it ships, and to
+  be part of the team building one of the fastest-growing
+  platforms in finance and media, this is the role.
+
+  What You'll Do
+
+  - Own the design, build, and operation of critical backend
+    systems end to end, from architecture to production
+  - Set technical direction for your area and influence
+    architecture across teams, with careful thought about
+    scale, failure modes, and graceful degradation
+  - Take on the hardest, most open-ended technical problems and
+    turn them into clear plans that ship
+  - Build services and APIs, mainly in Go, that are fast,
+    correct, and easy for other teams to build on
+  - Own production reliability: profile and tune performance,
+    lead incident response, and drive the fixes that prevent
+    repeat issues
+  - Hold a high bar for correctness in systems where bugs cost
+    real money
+  - Partner with Product, Infrastructure, Data, and business
+    stakeholders to turn ambiguous requirements into working
+    systems
+  - Mentor engineers, lead design reviews, and help set
+    engineering standards as the team grows
+
+  What We're Looking For
+
+  - 7+ years of professional backend engineering experience,
+    with strong proficiency in Go, Python, or Java (Go
+    preferred)
+  - Deep knowledge of distributed systems, concurrency, data
+    structures, and algorithms
+  - A track record of designing, shipping, and operating high-
+    scale distributed systems in production
+  - An obsession with correctness and reliability, especially
+    where failures have financial consequences
+  - Proven technical leadership: you've set direction for
+    systems that span teams and helped engineers around you
+    get better
+  - The ability to work independently, handle ambiguity, and
+    drive work forward without waiting for direction
+  - Sound judgment on tradeoffs between speed, quality, and
+    long-term maintainability
+  - (Plus) Deep experience in one or more of: trading or
+    exchange systems, consumer product platforms at scale,
+    risk/fraud/compliance engineering, or derivatives and risk
+    engines
+  - (Plus) Background in latency-critical or financial domains
+    (HFT, fintech, payments, crypto, gaming)
+  - (Plus) Production experience with streaming platforms
+    (Kafka, Pulsar) and RPC frameworks (gRPC/Connect,
+    Protobuf)
+  - (Plus) Experience running services on AWS or GCP with
+    containers and modern deployment tooling
+
+  Benefits
+
+  - Competitive salary and equity
+  - Unlimited PTO
+  - Health, vision, and dental coverage
+  - 401(k) match
+  - Full hardware setup: new MacBook Pro, large display, and
+    accessories
+
+  Pay Transparency
+
+  Base salary range: $250,000 to $400,000 annually, plus
+  equity and benefits.
+
+  This range reflects a good-faith estimate for this position.
+  Experience levels vary widely within a title here, so please
+  reach out even if your expectations fall outside it. We're
+  always happy to chat.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-10-16
+url: "https://builtin.com/job/staff-backend-engineer/11725229"
+source: Built In

@@ -1,0 +1,105 @@
+job_id: 10797097
+title: Senior Software Engineer, Full Stack
+company: Pepper Auditors
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  About Pepper Auditors
+
+  Pepper's mission is to protect the integrity of every
+  American's employee benefit plan. We are a fast-growing team
+  of technologists and CPAs working to build a modern audit
+  firm that can serve as the fulfillment engine for federally
+  mandated compliance work streams.
+
+  About the role
+
+  Pepper is looking for cracked engineers with strong full-
+  stack backgrounds to join us in building the audit firm of
+  the future. You’ll think about our entire product surface,
+  from client proposals to partnership integrations to audit
+  automation. True end-to-end ownership across boring updates
+  to the marketing site to exciting ai-native features; you
+  should be excited to tackle it all. We will lean on you to
+  have deep empathy with for our client experience with a
+  product mindset and the technical chops to improve it.
+
+  You will partner with the founding team, audit staff, other
+  engineers, and external partners to execute on the broader
+  vision of solving employee benefit plan audits for the
+  entire ecosystem. Your efforts will impact millions of
+  Americans who rely on a workplace 401(k) / 403(b) for their
+  financial security.
+
+  What you'll build
+
+  The system of record and the product surfaces for a
+  regulated attest workflow:
+
+  - The engagement command center — the internal tool where
+    auditors drive engagements end to end: status and
+    lifecycle, the review-and-sign-off flow, and an exception-
+    first review surface for our CPAs.
+  - The client and partner portal — document intake, status, and
+    a UHNW-grade experience for plan sponsors, TPAs, and
+    recordkeeper partners.
+  - The data model — engagement → plan → audit year, evidence
+    trails, and reproducibility good enough to survive peer
+    review. Getting this exactly right is the foundation
+    everything else sits on.
+  - Integrations — recordkeeper and payroll file pipelines,
+    programmatic invoicing, scheduling, and the contracts that
+    connect the harness's outputs to the application layer.
+  - Security and data isolation — we hold participant PII,
+    payroll, and plan financials. Correct multi-tenant
+    isolation, auth, audit logging, and evidence integrity
+  - Reliability — observability, CI/CD, and the deploy pipeline
+    that keeps a billable production system healthy
+
+  You're a strong fit if you
+
+  - Are a senior full-stack / product engineer who ships in
+    production and owns systems end to end. You can take a
+    surface from data model to deployed feature without hand-
+    holding.
+  - Are strong in TypeScript/React and Node, and genuinely good
+    at relational data modeling (Postgres/Supabase). You've
+    designed schemas that held up as the product grew, not
+    ones you had to tear out.
+  - Treat security and data isolation as core engineering, not a
+    compliance checkbox — auth, row-level isolation,
+    sensitive-data handling, audit logging.
+  - Have built internal tools or review/approval workflows
+    people actually rely on, and you have real product
+    judgment about what makes a working tool fast instead of
+    just functional.
+  - Are comfortable being an early engineer alongside the
+    founder — high autonomy, broad ownership, and the judgment
+    to know what to build well now versus what to defer.
+
+  Nice to haves
+
+  - Familiarity with accounting, audit, ERISA, 401(k)
+    administration, or financial document processing. You do
+    not need audit experience. Our partner CPAs own the domain
+    end-to-end, and the regulatory logic lives in versioned,
+    deterministic code you'll help build.
+  - Experience with fintech, regulated data, or other domains
+    where data correctness and isolation are non-negotiable.
+
+  Logistics
+
+  - Compensation: Estimated $150,000–$200,000 base + equity
+  - Location: Remote-first (U.S.).¹ Columbus, Ohio is a plus but
+    not required.
+  - Reporting: Directly to the founding team, partnering closely
+    with our partner CPAs on domain and review standards.
+industries:
+  - Artificial Intelligence
+  - Professional Services
+  - Consulting
+posted_date: 2026-08-22
+url: "https://builtin.com/job/senior-software-engineer-full-stack/10797097"
+source: Built In

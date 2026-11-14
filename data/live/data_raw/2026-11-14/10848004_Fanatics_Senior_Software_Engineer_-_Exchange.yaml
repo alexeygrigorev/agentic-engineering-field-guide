@@ -1,0 +1,202 @@
+job_id: 10848004
+title: Senior Software Engineer - Exchange
+company: Fanatics
+location: London, GBR
+work_type: FULL_TIME
+company_size: 7,500 Employees
+description: |
+  About Us
+
+  Fanatics is a leading global sports platform redefining how
+  fans connect with the teams, players and moments they love.
+  Our businesses — Fanatics Commerce, Fanatics Collectibles,
+  Fanatics Betting & Gaming, Fanatics Events, Fanatics
+  Advertising, Fanatics Markets and Fanatics Studios —
+  maximize the presence and reach for hundreds of partners
+  globally and create a one-stop experience that allows fans
+  to buy, bet, collect, and earn, while engaging with sports
+  in deeper, more immersive ways. This includes licensed fan
+  gear and lifestyle products, sportsbook and iGaming,
+  physical and digital trading cards, live events, premium
+  sports entertainment content, credit card offerings and
+  more. Together, they form a powerful, integrated ecosystem —
+  connected by the Fanatics ONE loyalty program and FanCash,
+  the currency of sport — delivering personalized experiences
+  to over 100 million fans worldwide. Fanatics holds
+  partnerships with over 900 sports properties, from
+  professional leagues and players’ associations to teams,
+  colleges and retail partners; over 7,000 athletes and
+  celebrities; and over 2,000 retail locations, including all
+  Lids stores. Backed by a team of more than 22,000 employees,
+  Fanatics is committed to relentlessly enhancing the fan
+  experience.
+
+  About Fanatics Markets:
+
+  Fanatics Markets is the real-money prediction and trading
+  app where you can invest in moments you care about. Built on
+  a secure platform, we let users predict real-world outcomes
+  and trade on events they actually follow - from sports and
+  entertainment to political elections and beyond. Our mission
+  is to redefine how fans engage with the moments and markets
+  that matter most. We're looking for the right people to help
+  us build the future of prediction markets. Overview:
+
+  Fanatics recently acquired a CFTC-registered Designated
+  Contract Market and Derivatives Clearing Organisation,
+  giving Fanatics Markets its own fully regulated exchange and
+  clearinghouse infrastructure. We are now building the
+  engineering team that will run it.
+
+  This Senior Software Engineer (Backend) role sits at the
+  heart of that build. You will have significant ownership
+  over the core exchange platform, working on the systems that
+  power order processing, market data distribution, trade
+  lifecycle management and regulatory reporting for a CFTC-
+  regulated exchange. The engineering challenges are those of
+  any serious regulated trading environment, high-
+  availability, low-latency, mission-critical infrastructure,
+  but built for a consumer audience with the reach and
+  distribution of Fanatics behind it.
+
+  You will be joining a team modernising an existing Java
+  codebase and building new services in Java, working
+  alongside engineers with deep backgrounds in regulated
+  financial infrastructure. You will be joining a team with a
+  clear ambition: to bring this platform to the bleeding edge
+  of financial infrastructure. This is not a clean slate but
+  the technical ambition is real, and engineers who join now
+  will have a level of architectural influence and ownership
+  that is hard to find anywhere else.
+
+  We are pioneering the use of AI as a code collaborator. We
+  need engineers who have gone beyond experimentation and who
+  actively use Claude Code, Codex, GitHub Copilot, or similar
+  tools to ship production code faster while maintaining
+  exceptional quality standards.
+
+  Responsibilities:
+
+  - Lead the design, development, testing, and deployment of
+    high-performance, fault-tolerant distributed backend
+    services supporting the FMX exchange platform.
+  - Own services and features end-to-end: spec writing,
+    implementation, instrumentation, deployment, monitoring,
+    and iteration based on metrics.
+  - Work within and help modernise the existing Java codebase
+    while contributing to new service development in Java and
+    potentially Kotlin.
+  - Contribute to the architecture for order processing, market
+    data distribution, and trade lifecycle management on a
+    CFTC-regulated exchange.
+  - Build and maintain reliable daily reporting pipelines,
+    ensuring data integrity and full audit trails across all
+    trading activity.
+  - Participate in 24/7 on-call rotations, contribute to SLO
+    definition, alerting strategy, and incident response for
+    mission-critical trading infrastructure.
+  - Model and manage data for contracts, orders, positions, and
+    settlements with an emphasis on correctness, integrity,
+    and regulatory auditability.
+  - Collaborate with the DevOps/Platform team to ensure services
+    are observable, scalable, and compliant with MNPI and
+    insider trading restrictions.
+  - Conduct thorough code reviews, raising the bar on code
+    quality, readability, security, and maintainability.
+  - Leverage AI tools to accelerate development velocity while
+    maintaining high standards for security, correctness, and
+    regulatory compliance.
+  - Establish and document team standards for AI usage, prompt
+    patterns, code review checklists, and validation
+    strategies.
+  - Contribute to a fast-paced environment, unblocking others
+    and taking initiative where processes are still being
+    defined.
+
+  Qualifications:
+
+  - 5+ years of experience building highly scalable, high-
+    performance backend applications or distributed systems.
+  - Background in regulated exchange or financial infrastructure
+    strongly preferred, brokerage, futures or derivatives
+    exchanges (e.g. CBOE, CME, ICE), market makers, or hedge
+    funds with relevant trading infrastructure experience, or
+    similar CFTC/SEC-regulated environments.
+  - Strong production experience with Java; Kotlin experience a
+    plus.
+  - Experience with event-driven architectures (Kafka, Kinesis,
+    PubSub, or similar) in a financial or high-throughput
+    context.
+  - Strong understanding of data integrity and transaction
+    management in PostgreSQL or equivalent RDBMS, including
+    financial-grade data modelling.
+  - Solid grasp of software design principles (SOLID, DRY) and
+    testing methodologies (unit, integration, end-to-end).
+  - Familiarity with CFTC compliance requirements, MNPI
+    handling, and audit trail obligations in a regulated
+    trading environment.
+  - Experience with CI/CD pipelines, automated testing, and safe
+    deployment practices for backend services.
+  - Production reliability experience: monitoring, logging,
+    alerting, on-call, and SLO definition.
+  - Demonstrated experience using AI tools (Claude Code, Cursor,
+    Copilot, etc.) to ship production code; able to articulate
+    specific workflow improvements.
+  - Communicates complex technical concepts clearly to
+    engineering, compliance, and business stakeholders.
+  - Thrives in a fast-paced, high-growth environment where
+    priorities evolve and decisions are made quickly.
+
+  Preferred Qualifications:
+
+  - Previous experience at a US-regulated financial exchange or
+    licensed trading platform (e.g. CBOE, CME, or similar).
+  - Familiarity with low-latency trading systems, order book
+    design, or market data infrastructure.
+  - Experience with low-latency in-memory systems and the
+    performance engineering techniques required to operate
+    them at scale.
+  - Experience with Aeron or similar high-performance messaging
+    frameworks used in financial trading environments.
+  - Experience modernising legacy Java codebases in a financial
+    services context.
+  - Previous experience in a high-growth or scale-up
+    environment.
+  - Contributions to open-source projects or the technical
+    community.
+
+  Depending on the role, your interview and onboarding
+  experience may include in-person components, such as onsite
+  interviews or Launching into Better: LIVE, a multi-day
+  cultural immersion in New York City for full-time, non-
+  seasonal hires. These sessions are designed to build
+  connections and bring our culture to life, though specific
+  travel and participation requirements will be confirmed
+  based on your role and location. Your recruiter will provide
+  clear guidance at each stage of the process.
+
+  Ready to build the future of regulated prediction markets?
+  If you possess some of these skills but not all of them, we
+  still encourage you to apply! Please note that visa
+  sponsorship is not available for this position. We are open
+  to fully remote candidates based in the United Kingdom.
+  Remote employees may also be eligible for a home office
+  setup stipend.
+
+  By submitting your application, you agree to our terms of
+  service and acknowledge you have read our Candidate Privacy
+  Policy.
+
+  Fanatics will never ask candidates for money, banking
+  information, or other sensitive personal information as part
+  of the interview process. If you receive a suspicious
+  message claiming to be from Fanatics recruiting, please do
+  not respond and report it here.
+industries:
+  - eCommerce
+  - Retail
+  - Software
+  - Sports
+posted_date: 2026-08-26
+url: "https://builtin.com/job/senior-software-engineer-exchange/10848004"
+source: Built In

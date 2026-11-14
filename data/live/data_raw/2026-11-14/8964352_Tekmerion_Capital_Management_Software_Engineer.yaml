@@ -1,0 +1,86 @@
+job_id: 8964352
+title: Software Engineer
+company: Tekmerion Capital Management
+location: New York, USA
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  Firm Description:
+
+  Tekmerion is a systematic macro hedge fund trading liquid
+  assets across major global economies, combining the
+  fundamental insights of a macro trader with the analytical
+  rigor of a systematic investment manager. We operate in
+  medium- to long-term horizons, using quantitatively
+  generated signals derived from macroeconomic and market
+  data.  Our investment process is systematic, research-
+  driven, and engineered for robustness, scalability, and
+  reproducibility. Role Overview: We're looking to hire
+  Software Engineers to build the core systems that power
+  Tekmerion's research and daily investment infrastructure.
+  This role sits at the intersection of cloud infrastructure
+  engineering, data engineering, and DevOps. You will work
+  closely with macro analysts and data analysts to bring data
+  pipelines and models to production, while also evolving our
+  Python codebase of highly scalable services and AWS
+  infrastructure. We're looking for engineers who understand
+  how to create powerful, efficient, and easy to use software
+  products for our analysts, who are expert users of the
+  systems we build. This role is directly responsible for the
+  health of our investment process, and our small team affords
+  Software Engineers large amounts of responsibility and code-
+  ownership.
+
+  Key Responsibilities:
+
+  - Develop and maintain Tekmerion's Python codebase supporting
+    research, data processing, signal generation, and trade
+    generation
+  - Design, implement, and optimize data pipelines for economic
+    and market datasets
+  - Collaborate with macro and data analysts to translate
+    research ideas into robust, production-ready code
+  - Build and manage cloud infrastructure on AWS, including
+    compute, storage, orchestration, and monitoring
+  - Improve system reliability, performance, and observability
+    across research and production environments
+  - Follow engineering best practices, including testing,
+    documentation, and code review
+
+  Desired Qualifications:
+
+  - Exceptional programming skills
+  - Proficiency building highly scalable services or data-
+    intensive applications, especially in Python
+  - Comfort working with statistic or time-series data
+  - Familiarity with data and numerical libraries (e.g., numpy,
+    pandas, polars)
+  - Experience working with cloud infrastructure, preferably AWS
+    (e.g., ECS, S3, RDS), and terraform
+  - Understanding of user experience, API design, and user
+    interface design, especially when targeting less technical
+    users
+  - Experience building research platforms or backtesting
+    systems
+  - Knowledge of distributed systems, workflow orchestration, or
+    data engineering tools
+  - Knowledge of Typescript (covering some of our user
+    interfaces) is a bonus
+
+  What we Offer:
+
+  - Opportunity to work at the core of a systematic macro
+    investment process
+  - Code-ownership and the ability to architect large pieces of
+    our software
+  - Collaborative, research-driven culture with close
+    interaction between engineers and analysts
+
+  The base salary for this role is anticipated to be
+  $150,000–$250,000, excluding potential bonuses, additional
+  compensation, and benefits. Actual compensation will depend
+  on various factors including skills, experience, and
+  qualifications.
+posted_date: 2026-08-12
+url: "https://builtin.com/job/software-engineer/8964352"
+source: Built In

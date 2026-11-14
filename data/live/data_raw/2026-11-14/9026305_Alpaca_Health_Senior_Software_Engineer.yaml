@@ -1,0 +1,109 @@
+job_id: 9026305
+title: Senior Software Engineer
+company: Alpaca Health
+location: New York, USA
+work_type: FULL_TIME
+company_size: 3 Employees
+description: |
+  📌 About Alpaca Health
+
+  Alpaca Health enables clinicians to become entrepreneurs,
+  starting in autism care.
+
+  We help clinicians launch and scale their own clinics by
+  providing AI-powered software, payer contracting, and full
+  back-office infrastructure. Our goal is simple: shift power
+  in healthcare away from large consolidated entities and back
+  to clinicians.
+
+  We've raised over $14M in funding from early-stage investors
+  like Core Innovation Capital, Adverb Ventures, and South
+  Park Commons, and are building for long-term category
+  leadership. More importantly, we're serving hundreds of
+  patients, while growing 30% MoM.
+
+  This role is full-time. We’re looking for candidates based
+  in NYC or open to relocating who are open to 5 days a week
+  in the office.
+
+  🎯 Role: Senior Software Engineer
+
+  We're a tiny engineering team building something large.
+  You'd be the person who owns the platform foundation — the
+  data models, the money logic, the state machines, the API
+  contracts, the AI infrastructure. Not "owns" in the sense of
+  reviewing PRs. Owns in the sense of: you designed it, you
+  built it, you stand behind it.
+
+  One day you're designing a schema migration strategy. The
+  next you're building an LLM pipeline for clinical
+  documentation. The day after that you're debugging a billing
+  edge case that only appears when Colorado Medicaid is the
+  secondary payer.
+
+  This isn't a job for someone who wants to specialize. It's a
+  job for someone who gets uncomfortable when critical
+  business logic lives in someone's head instead of in code.
+
+  🚧 What You’ll Own
+
+  - The core domain model. Patients, providers, credentials,
+    authorizations, sessions, claims, payments. You design how
+    Alpaca represents these things — and how they evolve
+    without breaking what's already in production.
+  - Money invariants. The rules governing how money moves — rate
+    calculations, payout conditions, payroll logic — live in
+    code, not Notion docs. You make them testable and
+    enforceable.
+  - Lifecycle state machines. Patients, claims, authorizations,
+    credentials — each has explicit states and valid
+    transitions. The system physically cannot enter impossible
+    states.
+  - Schema evolution. Migrations run before features ship.
+    Nothing breaks when the model changes.
+  - AI infrastructure. We're already shipping LLM-powered
+    clinical workflows. You build the foundation that makes
+    them reliable, auditable, and safe in a healthcare
+    context.
+  - Security and HIPAA. Access controls, audit logging,
+    encryption. You own the technical posture for a platform
+    handling PHI.
+  - Production. Deploy it, monitor it, and pick up the phone
+    when it breaks at 2am.
+
+  🧠 Who You Are
+
+  You've spent 4+ years somewhere correctness actually
+  mattered — fintech, insurance, healthcare, logistics. You've
+  felt what it's like when business rules are implicit, when
+  the data model doesn't match reality, when someone hot-
+  patches production because the migration wasn't thought
+  through. You don't want to build that system.
+
+  You think in state machines before you write code. You'd
+  rather ship right than ship fast. You're senior enough to
+  make hard technical calls but you still want to be the one
+  making them in code, not in meetings.
+
+  Bonus if you've shipped LLM features in production (RAG,
+  evals, guardrails), worked with event sourcing or ledger
+  architectures, or have healthcare/EHR experience.
+
+  🚀 Why Join Now
+
+  The decisions made in the next year — how the domain model
+  is structured, how state machines are enforced, how AI
+  workflows are built safely — will define the system for a
+  long time. You'd be joining after product-market fit but
+  before the platform has fully caught up to the business. Not
+  "rescue a failing system." Build the foundation that lets a
+  working, fast-growing system scale correctly.
+
+  Founding engineer autonomy, real ownership, and a company
+  that's clearly on its way somewhere.
+industries:
+  - Healthtech
+  - Software
+posted_date: 2026-08-19
+url: "https://builtin.com/job/senior-software-engineer/9026305"
+source: Built In

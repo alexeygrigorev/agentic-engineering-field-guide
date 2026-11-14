@@ -1,0 +1,137 @@
+job_id: 12138045
+title: Staff Software Engineer, Agents - UK
+company: Nominal
+location: London, GBR
+work_type: FULL_TIME
+company_size: 87 Employees
+description: |
+  About Nominal
+
+  Engineers today are building some of the most ambitious
+  machines humanity has ever seen. They should have AI that’s
+  purpose-built for them.
+
+  Nominal is building the Hardware Intelligence Platform that
+  gives engineers increased visibility into complex physical
+  systems, helps them make better decisions, and ultimately
+  gets their products into the real world faster. It brings
+  together the systems, data, intelligence, and applications
+  hardware engineering requires to meet the AI moment.
+  Hardware engineering teams use Nominal to simulate, test,
+  manufacture, and operate the physical systems that keep the
+  world moving, from spacecraft and autonomous vehicles to
+  next-generation energy systems and robotics.
+
+  Our customers span aerospace, defense, manufacturing,
+  transportation, energy, and robotics. They include Anduril,
+  Shield AI, Wisk Aero, Pratt Miller Motorsports, Antares, and
+  Shinkei Systems, amongst others, alongside programs within
+  the U.S. Air Force and Navy. Our team draws from SpaceX,
+  Palantir, Anduril, Applied Intuition, Tesla, and other
+  leading companies, united by a common mission: giving
+  hardware engineers the tools to build the future with speed,
+  safety, and confidence. We're a fast-moving team that owns
+  problems end-to-end, works across disciplines, and thrives
+  at the intersection of hardware and software.
+
+  Some of the world’s leading technology investors, including
+  Sequoia, Lightspeed, Founders Fund, General Catalyst, Lux
+  Capital, and Insight Partners, are backing Nominal’s
+  ambition to change how machines are built and operated.
+  We’re looking for engineers who want to take on hard
+  problems and help make a new generation of world-changing
+  hardware possible.
+
+  About Hardware Intelligence
+
+  We're the team behind Nominal's agents, AI-native
+  applications, and MCP, and its forward-leaning AI bets. Our
+  mission is to unlock the bottlenecks of the hardware
+  lifecycle with AI. Our agents reason over physical reality,
+  from high-rate telemetry and test campaigns to designs and
+  simulations, where real test results are the ground truth
+  their work is checked against. We believe opinionated AI,
+  built for the real work of hardware programs, will change
+  how the world engineers.
+
+  We're collaborative, iterative, and high-agency, and we're
+  human-centered and customer-focused. We build with the
+  newest AI tools every day, and because those tools keep
+  changing, so do we: we stay curious and keep looking for the
+  better way. Our team spans data science and ML, distributed
+  systems, search, and knowledge systems, and we obsess over
+  how agents can be genuinely useful to the engineers who rely
+  on them.
+
+  The role
+
+  As a Staff Engineer supporting agents, you'll design how
+  Nominal's agents work: you'll architect the one platform our
+  agents, the Nominal MCP, and our internal agent all run on,
+  and set technical direction for the team that builds on it.
+
+  💼 What you'll do
+
+  - Design and build the agent harness: orchestration, planning,
+    tool calling, memory, and background agents that run long
+    investigations on their own.
+  - Own the shared tool layer that our agents and external
+    agents (via MCP) both use, so every capability we build
+    works everywhere.
+  - Build how agents assemble context: retrieval across test
+    data, documents, designs, and simulations, including
+    sensor data far too large to fit in a context window.
+  - Make model choice a decision, not a dependency: routing,
+    cost, latency, and fallbacks across frontier models.
+  - Partner with evals to make quality measurable, and with the
+    platform team on how the context layer grows.
+  - Set the architecture other engineers build on, and raise the
+    bar through design reviews and mentorship.
+
+  🚀 What you'll bring
+
+  - 8+ years building production systems, including real
+    experience shipping LLM or agent systems to users.
+  - Strong distributed-systems and backend fundamentals; you've
+    owned systems where reliability mattered.
+  - Opinions about agent architecture (tool design, context
+    management, autonomy, failure handling) and the judgment
+    to change them when data says so.
+  - A track record of setting technical direction across a team
+    and raising the bar for the engineers around you.
+  - You build with modern AI coding agents (Claude Code, Cursor,
+    Codex) every day, and stay curious and open to better ways
+    of working. The tools keep changing, and so do we.
+
+  ⚡️ Nice to have
+
+  - You've built an agent harness or LLM platform that other
+    engineers or customers build on, at an AI-native company.
+  - You've shipped long-running, autonomous agents to production
+    and know where they break.
+  - You've contributed to MCP, agent frameworks, or open-source
+    LLM infrastructure.
+  - You've built software for physical systems: robots,
+    vehicles, aircraft, or the test stands behind them.
+
+  Benefits/Perks
+
+  - 🏖️ Unlimited PTO and sick leave
+  - 🍽️ Free lunch, snacks, and coffee
+  - 🚀 Professional Development Stipend
+  - ✈️ Annual company retreat
+  - 🛠️ Hardware sensor stipend
+  - 📈 Employee-friendly equity terms
+  - 🏢 In-office 5 days per week
+
+  All qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  sexual orientation, gender identity, or national origin.
+
+  Compensation
+
+  The base pay range for this role is £180,000 – £220,000 per
+  year.
+posted_date: 2026-11-09
+url: "https://builtin.com/job/staff-software-engineer-agents-uk/12138045"
+source: Built In

@@ -1,0 +1,129 @@
+job_id: 8996906
+title: Senior Software Engineer — Real-Time Ad Serving
+company: Zeta Global
+location: London, GBR
+work_type: FULL_TIME
+company_size: 2,429 Employees
+description: |
+  WHO WE ARE
+
+  Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud
+  that leverages advanced artificial intelligence (AI) and
+  trillions of consumer signals to make it easier for
+  marketers to acquire, grow, and retain customers more
+  efficiently. Through the Zeta Marketing Platform (ZMP), our
+  vision is to make sophisticated marketing simple by unifying
+  identity, intelligence, and omnichannel activation into a
+  single platform – powered by one of the industry’s largest
+  proprietary databases and AI. Our enterprise customers
+  across multiple verticals are empowered to personalize
+  experiences with consumers at an individual level across
+  every channel, delivering better results for marketing
+  programs. Zeta was founded in 2007 by David A. Steinberg and
+  John Sculley and is headquartered in New York City with
+  offices around the world. To learn more, go to
+  www.zetaglobal.com.
+
+   THE ROLE
+
+  As a Senior Software Engineer on the LiveIntent Real-Time Ad
+  Serving team, you will design, develop, and own the business
+  logic that powers programmatic advertising at scale — ad
+  selection, targeting, frequency capping, budget pacing, and
+  delivery optimization.
+
+  The real-time platform is built on C++ and Lua: C++ provides
+  the high-performance server framework, while Lua implements
+  the business logic layer. You will work primarily in Lua,
+  developing and evolving the features that directly serve
+  LiveIntent's product — ensuring advertisers get the best
+  outcomes and publishers maximize their revenue. While we're
+  open to candidates with experience in any backend language,
+  a willingness to work with Lua is essential — we provide
+  time and the right environment to get up to speed.
+
+  You will collaborate closely with Product, working on
+  features that directly impact LiveIntent's customers — from
+  ad targeting and delivery to reporting and optimization.
+  This is a hands-on engineering role where your code runs in
+  production handling billions of daily transactions.
+
+  This is a hybrid/remote role based out of our Berlin,
+  Germany or Prague, Czech Republic offices.
+
+  ESSENTIAL RESPONSIBILITIES
+
+  - Develop and optimize business logic in Lua for ad selection,
+    targeting, frequency capping, and budget pacing
+  - Design, build, and maintain real-time services processing
+    200K+ requests per second with strict latency requirements
+  - Work closely with Product to deliver features that meet
+    advertiser and publisher needs
+  - Ensure code quality through code reviews, automated testing,
+    and continuous integration
+  - Participate in architecture discussions and influence the
+    technical roadmap
+  - Participate in on-call rotation to support production
+    systems
+
+  DESIRED CHARACTERISTICS
+
+  - 5+ years of software engineering experience in backend
+    development
+  - Deep understanding of computer science fundamentals: data
+    structures, algorithms, performance optimization
+  - Experience building and operating distributed systems in
+    production
+  - Exposure to the full software development lifecycle — from
+    design to production and monitoring
+  - Strong commitment to code quality, automated testing, and
+    documentation
+  - Proficient English (the interview process will be held in
+    English)
+  - Experience with Lua or willingness to learn (we provide time
+    and the right environment)
+  - Experience in online advertising / ad tech (RTB,
+    programmatic, DSP/SSP) is a plus
+  - Proficiency in a systems-level language (C++, Go, Rust, or
+    Java) is a plus
+  - Experience with MongoDB and real-time data processing is a
+    plus
+  - Experience with cloud infrastructure (AWS) at scale is a
+    plus
+  - Experience with AI-assisted development tools and agentic
+    workflows is a plus
+  - Experience with OpenRTB protocol and ad exchange
+    integrations is a plus
+
+  BENEFITS & PERKS
+
+  - Excellent medical, dental, and vision coverage
+
+  PEOPLE & CULTURE AT ZETA
+
+  Zeta considers applicants for employment without regard to,
+  and does not discriminate on the basis of an individual’s
+  sex, race, color, religion, age, disability, status as a
+  veteran, or national or ethnic origin; nor does Zeta
+  discriminate on the basis of sexual orientation, gender
+  identity or expression.
+
+  We’re committed to building a workplace culture of trust and
+  belonging, so everyone feels invited to bring their whole
+  selves to work. We provide a forum for employees to
+  celebrate, support and advocate for one another. Learn more
+  about our commitment to diversity, equity and inclusion
+  here:  https://zetaglobal.com/blog/a-look-into-zetas-ergs/
+
+  ZETA IN THE NEWS!
+
+  https://zetaglobal.com/press/?cat=press-releases
+industries:
+  - AdTech
+  - Artificial Intelligence
+  - Marketing Tech
+  - Software
+  - Analytics
+posted_date: 2026-08-22
+url: "https://builtin.com/job/copy-senior-software-engineer-real-time-ad-serving-liveintent-3/8996906"
+source: Built In

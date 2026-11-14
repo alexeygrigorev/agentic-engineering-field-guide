@@ -1,0 +1,331 @@
+job_id: 12176081
+title: Research Engineering Manager, STEM
+company: Turing
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,401 Employees
+description: |
+  About Turing
+
+  Turing’s mission is to accelerate superintelligence to drive
+  real economic progress. Headquartered in San Francisco,
+  Turing works with frontier AI labs to generate high-quality
+  datasets, reinforcement learning environments, and frontier
+  research benchmarks that improve model capabilities in
+  software engineering, enterprise knowledge work, and
+  advanced STEM reasoning. In software engineering, Turing is
+  the largest and longest-running data provider in the
+  category. Turing also works with Fortune 500 enterprises
+  across financial services, life sciences, healthcare,
+  retail, automotive, and CPG to build and deploy end-to-end
+  agentic AI systems inside mission-critical workflows. By
+  operating on both sides, Turing closes the loop between
+  frontier research and enterprise deployment, turning real-
+  world deployment signals into better data, evaluations, and
+  more capable models. Learn more at www.turing.com.
+
+
+
+  The Role
+
+  Turing builds large-scale datasets and reinforcement
+  learning (RL) environments that power post-training for the
+  world's leading AI labs and enterprises.
+
+  The STEM Horizontal team produces the high-signal coding and
+  STEM data frontier labs train on. We're looking for a
+  Research Engineering Manager to lead the research
+  engineering behind its next layer: synthetic data that
+  measurably improves models, and new benchmarks that measure
+  what today's evals miss.
+
+  You'll lead a team of research engineers, work side by side
+  with research scientists, and stay close enough to the code
+  to review an eval harness line by line or prototype a
+  generator yourself when the team needs it. You'll also build
+  the team: hiring research engineers is a core part of this
+  role, not a side task. Ideally you've been on the other
+  side, at a frontier lab, and know what makes a lab trust a
+  dataset or a benchmark result.
+
+  - Synthetic data that earns its place. Generation,
+    verification, and filtering pipelines where every sample
+    is checked, and where we can show which properties of the
+    data drive downstream gains, not just how much of it we
+    made.
+  - Benchmarks that stay meaningful. New evaluations for
+    capabilities current benchmarks miss, built with
+    calibrated difficulty, contamination controls, and
+    statistics strong enough that a lab can make a decision on
+    the result.
+
+  Quality failures here are quiet. A subtle bug in a verifier
+  doesn't crash anything; it ships thousands of wrong labels
+  into someone's training run and costs weeks. If you want to
+  build the team and the systems that catch that early, this
+  is the seat.
+
+  What You'll Do1. Build and Lead the Team
+
+  - Build the team: define the profiles you need, run hiring,
+    and grow research engineers selected for research taste as
+    much as engineering rigor.
+  - Run the team's operating rhythm: project selection,
+    planning, experiment reviews, design docs, and clear
+    ownership.
+  - Coach engineers on experimental design, code quality, and
+    presenting results; give direct, regular feedback and run
+    fair performance cycles.
+  - Define the standards the team works to: eval methodology,
+    data quality bars, and reproducibility — every dataset and
+    result can be regenerated from a commit, a config, and a
+    seed.
+
+  2. Partner with Research Scientists
+
+  - Turn hypotheses into experiment plans together: what we're
+    testing, the baseline, the ablations, and the result that
+    would change our minds.
+  - Set the agenda with research scientists. You're expected to
+    bring your own hypotheses, not only implement theirs.
+  - Take research prototypes to production scale without losing
+    the scientific intent.
+
+  3. Build Synthetic Data Systems at Scale
+
+  - Own synthetic data pipelines that generate, verify, filter,
+    deduplicate, and version data, combining programmatic
+    generators, LLM-based generation, automated verifiers, and
+    targeted expert review.
+  - Judge data by its effect on models: ablations and fine-
+    tuning or RL experiments that show which attributes
+    (difficulty, diversity, correctness, coverage) drive
+    gains.
+  - Build quality systems that hold up at volume: gold sets,
+    LLM-judge calibration against expert labels, sampling
+    audits, and agreement metrics.
+
+  4. Create New Benchmarks and Evaluations
+
+  - Find where frontier models fail and where existing
+    benchmarks have saturated, and design evaluations that
+    measure what's missing.
+  - Own benchmark methodology end to end: task taxonomy,
+    difficulty calibration, graders and verifiers,
+    contamination controls, held-out splits, and confidence
+    intervals.
+  - Ship eval harnesses, including agentic and sandboxed-
+    execution evals, that are deterministic, reproducible, and
+    trusted by internal teams and partner labs.
+  - Make the call on whether a result holds up: partner labs and
+    internal teams act on your sign-off.
+  - Publish benchmarks, datasets, and findings with our research
+    scientists at venues such as NeurIPS, ICML, and ICLR.
+
+  5. Stay Hands-On and Work with Frontier Labs
+
+  - Write code every week on the hardest, highest-leverage
+    parts: core verifier logic, eval statistics, the pipeline
+    component everything else depends on. Expect a third or
+    more of your time on direct technical work.
+  - Be the person the team brings its hardest debugging and
+    methodology questions to: why a judge disagrees with
+    experts, why an eval number moved, whether a gain is real
+    or noise.
+  - Act as a technical counterpart to researchers at frontier AI
+    labs: scope requests, set acceptance criteria, and explain
+    results and trade-offs plainly.
+  - Partner with Strategic Project Leads, delivery, and
+    engineering teams so research advances land in client work
+    and in the platforms the team builds.
+
+  Sample Projects
+
+  - Identify a capability gap, design and ship a benchmark for
+    it, and see it adopted by partner labs.
+  - Stand up a synthetic data pipeline for long-horizon coding
+    tasks with execution-based verifiers, and run the
+    ablations that show which task properties drive RL gains.
+  - Calibrate an LLM-judge grading system against expert labels,
+    map where it fails, and decide where humans stay in the
+    loop.
+  - Design the experiment that tells a partner lab whether a
+    two-point gain on their eval is real.
+  - Decide which of three competing synthetic data approaches
+    the team should bet on, and design the experiments that
+    settle it.
+
+  Tech Stack
+
+  - Research: Python · PyTorch or JAX · SFT · DPO · PPO / GRPO ·
+    RL with verifiable rewards
+  - Evals & data: LLM-as-judge · programmatic verifiers ·
+    sandboxed execution · gold sets · contamination checks
+  - Platform: Python services (Django / FastAPI) · PostgreSQL ·
+    Docker · Terraform · AWS or GCP
+
+  What We're Looking For
+
+  - Experience: 8+ years of hands-on ML or research engineering,
+    at least 5 in industry, including 3+ years directly
+    managing research engineers, ML engineers, or researchers
+    (hiring and performance management included).
+  - Synthetic data at scale: you've owned synthetic or curated
+    data pipelines in production whose output drove training
+    decisions, and can show how you measured their quality and
+    downstream impact.
+  - Evaluation rigor: you've designed and shipped LLM evals or
+    benchmarks that others used to make model decisions, and
+    understand contamination, saturation, judge bias, inter-
+    annotator agreement, variance, and confidence intervals.
+  - Experimental judgment: you plan ablations up front, choose
+    baselines honestly, and can tell a real effect from noise.
+  - Technical depth: strong Python; production experience with
+    PyTorch or JAX; working knowledge of the post-training
+    stack (SFT, DPO, PPO/GRPO, RL with verifiable rewards).
+  - Technical direction: a track record of setting direction for
+    a team, not only executing a roadmap handed to you.
+  - Scale: distributed data processing and large evaluation or
+    training jobs (e.g., Ray, Spark, Kubernetes) on AWS or
+    GCP.
+  - Communication: clear written communication for scientists
+    and non-specialists alike; comfortable presenting results
+    to researchers at partner labs.
+  - AI-forward: daily use of LLM coding tools (Claude Code,
+    Cursor, Copilot) as part of how you ship, with the
+    judgment to review their output critically. This is a
+    must-have.
+  - Education: PhD or Master's degree in AI, machine learning,
+    computer science, statistics, or a closely related field;
+    PhD preferred. Exceptional equivalent research experience
+    will also be considered. We weigh industry outcomes most
+    heavily.
+
+  Strongly Preferred
+
+  - Frontier AI lab experience: post-training data, evals, or
+    reward modeling at a frontier lab (e.g., OpenAI,
+    Anthropic, Google DeepMind, Meta, xAI) or a top industry
+    research group.
+  - Built or contributed to a public benchmark or dataset the
+    community uses.
+
+  Nice to Have
+
+  - First-author papers at NeurIPS, ICML, ICLR, ACL, EMNLP, or
+    similar.
+  - RL environment and verifier design for agentic tasks: coding
+    agents, tool use, computer use, long-horizon workflows.
+  - Data valuation or attribution: measuring what each slice of
+    data contributes to a model.
+  - Depth in a STEM domain such as math, physics, chemistry, or
+    biology (not required).
+  - Experience managing tech leads or managers, or running
+    several concurrent programs.
+  - Directing large expert networks through specs, rubrics, and
+    fast feedback loops.
+
+  A note from our CTO, Ece Kamar
+
+  Some of the most important questions in AI can't be answered
+  from inside a single lab: how to evaluate frontier models,
+  how data and RL truly drive capability, and what happens
+  when AI meets the real world. At Turing, we work directly
+  with frontier labs, the academic community, and enterprises
+  deploying AI at scale. That creates a feedback loop where
+  deployment shapes our research and our research shapes the
+  field, and we publish our findings, datasets, and benchmarks
+  openly. Join our talented team at Turing to push the
+  frontier of AI with rigorous science that matters.
+
+  Why Turing
+
+  - Work directly with leading AI labs and enterprises at the
+    frontier of post-training, evaluation, and synthetic data.
+  - Build the datasets and benchmarks that improve and measure
+    the capabilities of advanced AI systems.
+  - Shape how frontier labs measure progress on coding and STEM
+    reasoning.
+  - Operate with high autonomy, rapid iteration, and meaningful
+    commercial impact.
+  - Collaborate with exceptional colleagues from organizations
+    including Google, Meta, Amazon, and other leading
+    technology companies.
+  - Contribute to research that may be shared through technical
+    publications and leading conferences such as ICLR, ICML,
+    and NeurIPS.
+
+  Compensation
+
+  $260,000 to $350,000 + Equity
+
+  Don't meet every single requirement?
+
+  Studies have shown that women and people of color are less
+  likely to apply to jobs unless they meet every single
+  qualification. Turing is proud to be an equal opportunity
+  employer. We do not discriminate on the basis of race,
+  religion, color, national origin, gender, gender identity,
+  sexual orientation, age, marital status, disability,
+  protected veteran status, or any other legally protected
+  characteristics. At Turing we are dedicated to building a
+  diverse, inclusive, and authentic workplace and celebrate
+  authenticity, so if you're excited about this role but your
+  past experience doesn't align perfectly with every
+  qualification in the job description, we encourage you to
+  apply anyways. You may be just the right candidate for this
+  or other roles.
+
+  For applicants from the European Union, please review
+  Turing's GDPR notice here.
+
+  Values
+
+  - We are client first: We put our clients at the center of
+    everything we do, because their success is the ultimate
+    measure of our value.
+  - We work at Start-Up Speed: We move fast, stay agile and
+    favor action because momentum is the foundation of
+    perfection
+  - We are AI forward: We help our clients build the future of
+    Al and implement it in our own roles and workflow to
+    amplify productivity.
+
+  Advantages of joining Turing
+
+  - Work at the frontier of AI, helping the world’s leading AI
+    labs improve their most advanced models by building expert
+    datasets, RL environments, and first-of-a-kind benchmarks.
+  - Contribute to leading-edge AI research and showcase your
+    work at top conferences such as ICLR, ICML, and NeurIPS.
+  - Bring frontier AI innovation to the enterprise, applying
+    lessons learned from leading AI labs to solve real-world
+    business challenges.
+  - Collaborate with and learn from exceptional colleagues with
+    deep AI experience from Google, Meta, Amazon, and other
+    leading technology companies.
+  - Move at the pace of AI innovation, with the speed,
+    ownership, and impact of a startup.
+
+  Turing is proud to be an equal opportunity employer. We do
+  not discriminate on the basis of race, religion, color,
+  national origin, gender, gender identity, sexual
+  orientation, age, marital status, disability, protected
+  veteran status, or any other legally protected
+  characteristics. At Turing we are dedicated to building a
+  diverse, inclusive and authentic workplace  and celebrate
+  authenticity, so if you’re excited about this role but your
+  past experience doesn’t align perfectly with every
+  qualification in the job description, we encourage you to
+  apply anyways. You may be just the right candidate for this
+  or other roles.
+
+  For applicants from the European Union, please review
+  Turing's GDPR notice here.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-11-11
+url: "https://builtin.com/job/research-engineering-manager-stem/12176081"
+source: Built In

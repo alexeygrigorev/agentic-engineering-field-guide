@@ -1,0 +1,153 @@
+job_id: 10101473
+title: Manager, Software Engineering
+company: Runpod
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 120 Employees
+description: |
+  Runpod is pioneering the future of AI and machine learning,
+  offering cutting-edge cloud infrastructure for full-stack AI
+  applications. Founded in 2022, we are a rapidly growing,
+  well-funded company with a remote-first organization spread
+  globally. Our mission is to create a foundational platform
+  for developers to build and run custom AI systems that
+  scale. Join us as we shape the future of AI.
+
+  We’re hiring an Engineering Manager to lead a high-impact
+  product engineering team building customer-facing features
+  across Runpod’s console, APIs, and developer workflows.
+  You’ll take ownership of a roadmap area end-to-end -
+  partnering with Product and Design to shape scope, then
+  guiding your team through architecture, execution, quality,
+  and launch.
+
+  This role is ideal for a leader who’s shipped at millions-
+  of-users scale, thrives in fast-moving environments, and can
+  go deep technically in Linux systems internals and/or cloud
+  systems engineering - you have experience building cloud
+  platforms (control planes, orchestration, networking,
+  storage primitives, kubernetes components), not just
+  applications running on top of them. You’ll help Runpod
+  deliver the fastest, most intuitive path for builders to
+  train and deploy AI in production.
+
+  Responsibilities:
+
+  - Own Feature Delivery for a Product Area: Lead a team of
+    engineers responsible for shipping new functionality and
+    iterating existing product surfaces. Deliver predictable,
+    high-velocity outcomes that improve customer experience
+    and business value.
+  - Plan and Execute Roadmaps: Translate product strategy into
+    clear technical plans, milestones, and success metrics.
+    Identify tradeoffs early and manage scope, risk, and
+    timelines.
+  - Technical Leadership & Architecture: Drive pragmatic system
+    design for product-layer services and workflows, ensuring
+    scalability, performance, and consistency with Runpod’s
+    platform.
+  - Build and Grow a Strong Team: Hire, mentor, and develop
+    engineers; set expectations, provide feedback, and create
+    a culture of ownership, speed, and craft in a remote-first
+    environment.
+  - Quality & Reliability for Product Surfaces: Improve
+    automated testing, release safety, observability for
+    customer-facing systems, and regression prevention. Ensure
+    on-call health for your team’s services.
+  - Cross-Functional Collaboration: Partner tightly with
+    Product, Program management, Support, GTM, and
+    Infrastructure counterparts. Coordinate dependencies
+    cleanly while maintaining clear ownership.
+  - Operational Excellence: Establish team rituals and delivery
+    systems (sprints/kanban, retros, design reviews). Use data
+    to improve cycle time, throughput, and feature adoption.
+  - Customer-Driven Execution: Stay close to user needs by
+    incorporating feedback, analytics, and support signals
+    into prioritization and iteration.
+
+  Requirements:
+
+  - Engineering Management Experience: 2+ years managing a team
+    of high performance software engineers, including
+    ownership of roadmap delivery, hiring/firing, performance,
+    and team culture.
+  - High-Scale Product Delivery: 6+ years as a software engineer
+    building and shipping products used by millions of users,
+    with clear evidence of personal impact.
+  - Systems-Level Technical Depth: Strong experience with Linux
+    systems internals and/or cloud systems engineering -
+    ideally building platform capabilities (orchestration,
+    control planes, distributed services, networking or
+    storage layers).
+  - Backend or Full-Stack Proficiency: Comfortable reviewing and
+    contributing to code in modern stacks; Go, Python, and/or
+    TypeScript experience preferred.
+  - Distributed/Cloud-Native Architecture: Solid understanding
+    of microservices, APIs, eventing, data stores, and
+    service-to-service communication patterns.
+  - Delivery & Metrics Mindset: Experience running execution
+    processes and using metrics like cycle time, throughput,
+    adoption, and escape defects to improve team flow.
+  - Remote-First Leadership: Proven ability to communicate
+    clearly, align stakeholders asynchronously, and sustain
+    momentum across time zones.
+  - Successful completion of a background check.
+
+  Preferred Qualifications:
+
+  - Experience building AI/ML + developer platforms, workflow-
+    heavy products, or infrastructure-adjacent product layers
+    (e.g., job orchestration UX, deployment flows,
+    usage/billing, observability surfaces).
+  - Familiarity with Kubernetes-based platforms, container
+    runtimes, scheduling concepts, or GPU/accelerator
+    workflows.
+  - Track record of scaling teams in high-growth environments
+    while keeping quality high.
+  - Open-source contributions in cloud-native, systems, or ML-
+    adjacent projects.
+
+  What You'll Receive:
+
+  - Competitive base pay ranging from ($110,000 - $220,000).
+    This salary range may encompass multiple career levels at
+    Runpod and will be narrowed during the interview process
+    based on several factors, including the candidate's
+    experience, qualifications, and location.
+  - Meaningful equity in a fast-growing company—everyone on the
+    team receives stock options. Your impact drives our
+    growth, and you share in the upside.
+  - Generous medical, dental, and vision benefits.
+  - Flexible PTO—take the time you need to recharge.
+  - Most roles are remote-first, with inclusive, collaborative
+    teams that use Slack as the primary form of internal
+    communication.
+  - Join a passionate team at the cutting edge of AI
+    infrastructure, where culture, learning, and ownership are
+    at the heart of how we scale.
+  - A $1,200 Home Office & Equipment Stipend to help set you up
+    for success from day one with the gear and support you
+    need to create your ideal workspace.
+
+  Runpod is committed to maintaining a workplace free from
+  discrimination and upholding the principles of equality and
+  respect for all individuals. We believe that diversity in
+  all its forms strengthens our team. As an equal opportunity
+  employer, Runpod is committed to building an inclusive
+  workforce at every level. We evaluate qualified applicants
+  without regard to race, color, religion, sex, sexual
+  orientation, gender identity, national origin, age, marital
+  status, protected veteran status, disability status, or any
+  other characteristic protected by applicable law. We welcome
+  all qualified candidates who are authorized to work in the
+  United States. However, we are currently unable to sponsor
+  employment visas.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Software
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-08-03
+url: "https://builtin.com/job/engineering-manager-product-platform-delivery/10101473"
+source: Built In

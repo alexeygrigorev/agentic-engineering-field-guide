@@ -1,0 +1,219 @@
+job_id: 11820363
+title: Sr Software Engineer, Integration
+company: CARIAD, Inc.
+location: DEU
+remote: true
+work_type: FULL_TIME
+company_size: 171 Employees
+description: |
+  We are CARIAD, an automotive software development team with
+  the Volkswagen Group. Our mission is to make the automotive
+  experience safer, more sustainable, more comfortable, more
+  digital, and more fun. To achieve that we are building the
+  leading tech stack for the automotive industry and creating
+  a unified software platform for over 10 million new vehicles
+  per year. We’re looking for talented, digital minds like you
+  to help us create code that moves the world. Together with
+  you, we’ll build outstanding digital experiences and
+  products for all Volkswagen Group brands that will transform
+  mobility. Join us as we shape the future of the car and
+  everyone around it.
+
+  Role Summary:
+
+  The Sr Software Engineer, Integration integrates production
+  C++ software, embedded middleware, and AI inference
+  components into CARIAD’s autonomous-driving software stack.
+  The role connects application software, inference runtimes,
+  and embedded hardware to deliver reliable, real-time system
+  behavior. Operating as a senior individual contributor, this
+  engineer independently owns assigned complex integration
+  deliverables on platforms such as Qualcomm 8797 and NVIDIA
+  DRIVE Thor. The role develops C++ adapters and glue code,
+  diagnoses issues across system interfaces, and validates
+  integrated software through embedded testing, recompute with
+  bit-identical replay, and HIL testing. The engineer will
+  work closely with machine learning, embedded software,
+  hardware, simulation, and vehicle engineering teams to
+  resolve integration issues and prepare software for
+  deployment.
+
+  Role Responsibilities:
+
+  C++ and Middleware Integration
+
+  - Design, implement, and maintain production-quality C++
+    software that integrates application components with
+    embedded middleware such as Apex.AI, AOS, or ROS.
+  - Develop C++ adapters and glue code for data exchange,
+    interface compatibility, component lifecycle, and runtime
+    coordination.
+  - Integrate and debug software on Qualcomm 8797 and/or NVIDIA
+    DRIVE Thor development kits, resolving issues across
+    software and hardware boundaries.
+  - Independently own assigned integration issues from
+    reproduction and root-cause analysis through corrective
+    implementation and verified resolution, escalating cross-
+    system architectural decisions as appropriate.
+
+  Embedded AI Inference Integration
+
+  - Integrate AI models and inference runtimes into embedded
+    applications, including input and output handling and
+    execution interfaces.
+  - Implement and maintain C++ adapters connecting inference
+    libraries with middleware and application software.
+  - Profile and resolve integration issues affecting inference
+    correctness, latency, memory use, and runtime stability on
+    target hardware.
+  - Collaborate with ML engineers to validate model behavior and
+    runtime compatibility, using QNN or TensorRT where
+    applicable.
+
+  Embedded Testing and Validation
+
+  - Develop and execute embedded integration on development
+    kits, benches, and HIL systems.
+  - Implement and maintain recompute workflows for bit-identical
+    replay under controlled inputs and execution conditions.
+  - Investigate replay mismatches and integration regressions
+    using logs, traces, recorded data, and target-hardware
+    evidence.
+  - Automate regression testing and document functional, timing,
+    and resource-use results to support release
+
+  Technical Collaboration and Documentation
+
+  - Coordinate interface changes and integration dependencies
+    with ML, embedded software, hardware, simulation, and
+    vehicle engineering teams.
+  - Participate in design and code reviews, provide practical
+    technical guidance to engineering peers, and document
+    interfaces, configurations, integration procedures, and
+    validation evidence.
+  - Improve integration tooling and share lessons learned to
+    increase reliability, reproducibility, and development
+    efficiency.
+
+  General Skills:
+
+  - Strong analytical and debugging skills across software,
+    middleware, runtime, and hardware interfaces.
+  - Ability to independently own complex integration work and
+    resolve issues using measurable evidence.
+  - Clear communication and effective collaboration with ML,
+    embedded software, hardware, and vehicle engineering
+    teams.
+  - Strong software engineering practices, including code
+    review, testing, documentation, and reproducible
+    validation.
+
+  Required Specialized Skills:
+
+  - Strong hands-on C++ programming skills are required,
+    including production-quality embedded software development
+    and debugging.
+  - Experience integrating software with embedded middleware
+    solutions such as Apex.AI, AOS, or ROS
+  - Hands-on experience integrating and debugging software on
+    embedded AI compute platforms or development kits (e.g.,
+    Qualcomm 8797 or NVIDIA DRIVE Thor).
+  - Experience integrating AI inference on embedded targets,
+    including C++ adapters and glue code connecting models,
+    inference runtimes, and application interfaces.
+  - Experience with embedded testing, including recompute (bit-
+    identical replay) and hardware-in-the- loop (HIL)
+    validation.
+
+  Desired Skills:
+
+  - Knowledge of QNN and TensorRT libraries for embedded AI
+    inference integration.
+  - Experience integrating or debugging camera, radar, and lidar
+    drivers.
+  - Experience with agentic workflows for implementation,
+    debugging, testing, or documentation, with review and
+    validation of generated output.
+
+  Workplace Flexibility:
+
+  - Hands-on work with embedded development kits, lab systems,
+    HIL environments, and development vehicles may require on-
+    site presence when integration or validation activities
+    cannot be performed remotely.
+  - Collaboration across U.S. and international time zones and
+    occasional travel for integration activities or vehicle
+    testing may be required.
+
+  Years of Relevant Experience:
+
+  - 6+ years of experience in C++ software development, embedded
+    systems, or software integration.
+  - Hands-on experience integrating, debugging, and validating
+    software on embedded target hardware.
+  - Experience independently delivering complex technical work
+    from integration planning through implementation and
+    validation.
+
+  Required Education:
+
+  - Bachelor's Degree in Computer Science, Computer Engineering,
+    Electrical Engineering, or a related technical field, or
+    equivalent practical experience.
+
+  Desired Education:
+
+  - Master's Degree in Computer Science, Computer Engineering,
+    Electrical Engineering, or a related technical field.
+
+  Compensation
+
+  Salary range is dependent on factors such as geographical
+  differentials, credentials or certifications, industry-based
+  experience, qualification and training. The salary range for
+  this position is $128,369 - $185,858.
+
+  By submitting your application, you acknowledge and agree to
+  participate in the export control and sanctions compliance
+  screening process. Your cooperation in this matter is
+  essential to our shared success and the integrity of our
+  operations. Thank you for your understanding and commitment
+  to upholding these important standards.
+
+  CARIAD, Inc. provides performance-based merits and annual
+  bonus along with a competitive benefits package. Benefits
+  include medical, dental, vision, 401k with employer match
+  and defined contribution plan, short- and long-term
+  disability, basic life and AD&D insurance, employee
+  assistance program, tuition reimbursement and student loan
+  repayment plans, maternity and non-primary caregiver leave,
+  adoption assistance, employee referral program and vacation
+  and paid holidays. We also offer a unique vehicle lease
+  program that covers registration and insurance fees.
+
+  CARIAD is an Equal Opportunity Employer.  We welcome and
+  encourage applicants from all backgrounds, and do not
+  discriminate based on race, sex, age, disability, sexual
+  orientation, national origin, religion, color, gender
+  identity/expression, marital status, veteran status, or any
+  other characteristics protected by applicable laws.
+
+  Employment with CARIAD Inc. is subject to export control and
+  sanctions compliance. Some positions may involve access to
+  technology and/or software source code subject to U.S. legal
+  restrictions on release to certain foreign persons based on
+  citizenship or permanent residence. To ensure compliance,
+  applicants will be required to provide information for
+  screening. Employment may be contingent on the outcome,
+  including verification of U.S. citizenship or lawful
+  permanent resident status, or confirmation that a license,
+  exemption, or exception applies. CARIAD retains the
+  discretion to decline to obtain a required license in any
+  case. By applying, you acknowledge and agree to participate
+  in this process.
+industries:
+  - Automotive
+  - Software
+posted_date: 2026-10-22
+url: "https://builtin.com/job/sr-software-engineer-integration/11820363"
+source: Built In

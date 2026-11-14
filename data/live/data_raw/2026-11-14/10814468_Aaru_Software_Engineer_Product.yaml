@@ -1,0 +1,270 @@
+job_id: 10814468
+title: Software Engineer, Product
+company: Aaru
+location: New York, USA
+work_type: FULL_TIME
+company_size: 44 Employees
+description: |
+  About Aaru
+
+  Aaru builds simulations of human behavior. Each simulation
+  contains a population of AI agents, each representing a
+  person who could plausibly exist in the real world and
+  capable of making decisions within a modeled environment.
+  Companies and institutions use these simulations to test
+  consequential choices before committing—from product
+  launches and pricing decisions to strategic communications
+  and policy changes.
+
+  Building a useful simulation requires more than generating
+  plausible text. Populations must represent real people and
+  groups; predictions must be calibrated; simulations must
+  remain coherent as conditions change; and the product must
+  make the resulting evidence legible enough to support real
+  decisions.
+
+  We are a small, in-person team in New York. We work with
+  urgency, high ownership, and intellectual honesty. We expect
+  people to surface inconvenient evidence, change their minds
+  quickly, and carry important work all the way to a result.
+
+  About Product Engineering
+
+  Product Engineering turns Aaru's simulation capabilities
+  into products that customers can use independently and
+  repeatedly. The team builds on Aaru's shared platform and
+  simulation systems to create the workflows, interfaces,
+  integrations, and decision-ready artifacts that make a
+  technically sophisticated system feel clear and dependable.
+
+  The work is organized around durable product domains rather
+  than a queue of isolated features. Those domains may include
+  simulation setup, question and experiment types, follow-up
+  and continuous simulations, analysis and reporting, reusable
+  customer templates, collaboration, and external
+  integrations.
+
+  This is not a thin frontend role. Product Engineers own user
+  outcomes across the stack. A project may begin with
+  observing a customer's decision process, continue through
+  product and systems design, require new backend or
+  orchestration primitives, involve careful evaluation of
+  model behavior, and end with a measured production rollout.
+
+  The role
+
+  As a Product Engineer, you will take ambiguous,
+  consequential user problems from first conversation to
+  reliable product capability. You will work closely with
+  Product, Design, Deployment, Platform Engineering,
+  Simulation Engineering, and Research. You will be expected
+  to understand both the user problem and the system details
+  well enough to make good tradeoffs without handing ownership
+  away at either boundary.
+
+  You will prototype quickly, but you will not confuse a
+  compelling demo with a finished product. The systems you
+  ship must be understandable, observable, secure,
+  maintainable, and robust to the variability of AI-generated
+  behavior. When a shared primitive is missing, you will work
+  through the platform boundary or help create it rather than
+  building a fragile one-off around it.
+
+  What you will do
+
+  - Own product work end to end: understand the problem, define
+    the smallest useful solution, design the system, implement
+    it, roll it out, measure it, and support it in production.
+  - Work directly with users and customer-facing teams to
+    observe real decision workflows, identify recurring needs,
+    and distinguish durable product opportunities from bespoke
+    requests.
+  - Build polished customer-facing experiences across frontend,
+    backend, APIs, data models, workflow orchestration,
+    permissions, integrations, and AI-driven interactions.
+  - Translate capabilities from Population Research, Prediction
+    Research, Evaluation Research, and Simulation Engineering
+    into product experiences that customers can use without
+    expert assistance.
+  - Design product behavior around the uncertainty and
+    variability of AI systems, including clear states, human
+    review points, fallbacks, retries, provenance, and honest
+    communication of confidence.
+  - Define evaluation and launch criteria before shipping model-
+    dependent features. Use offline evaluations, product
+    signals, operational metrics, and qualitative feedback to
+    determine whether a change is actually better.
+  - Turn specific customer evidence into generalizable product
+    primitives, templates, and workflows rather than
+    accumulating one-off branches and configuration.
+  - Work with Platform Engineering through clear interfaces,
+    contribute missing primitives when appropriate, and avoid
+    coupling product delivery to undocumented platform
+    behavior.
+  - Instrument adoption, task completion, quality, latency,
+    cost, reliability, and failure modes so that product
+    decisions are based on evidence rather than anecdotes.
+  - Own the operational quality of what you ship, including
+    production support, debugging, incident follow-up,
+    migrations, and safe rollback paths.
+  - Write clear technical designs, product notes, and launch
+    documentation. Make scope, assumptions, dependencies, and
+    unresolved risks legible to the rest of the company.
+  - Raise the quality bar through thoughtful code review,
+    testing, design critique, and improvements to the tools
+    and patterns used by the broader engineering team.
+
+  Representative problems
+
+  You might work on problems such as:
+
+  - Add a new question or allocation format that requires
+    changes to the product interface, simulation contract,
+    validation logic, analysis layer, and customer-facing
+    output.
+  - Build a continuous simulation product that ingests new
+    information over time, updates relevant assumptions, and
+    shows users what changed and why.
+  - Create a follow-up workflow that lets a user interrogate a
+    completed simulation without losing provenance, population
+    state, or the distinction between observed and generated
+    evidence.
+  - Turn a customer's successful simulation setup into a
+    reusable organization-specific template with sensible
+    defaults, permissions, versioning, and audit history.
+  - Build an agent-assisted setup experience that helps users
+    specify a decision, identify missing context, and
+    construct a valid simulation without hiding important
+    assumptions.
+  - Create decision-ready reports, presentations, or interactive
+    artifacts that preserve uncertainty and trace each
+    conclusion back to the underlying simulation evidence.
+  - Integrate Aaru with a customer's data or operating system
+    while handling authentication, permissions, data mapping,
+    validation, retries, and safe writes.
+  - Diagnose a feature whose demo looks excellent but whose
+    real-world completion rate is poor, determine whether the
+    failure is in the model, workflow, interface, or
+    expectation setting, and ship the right fix.
+
+  How we work
+
+  We begin with the decision the user is trying to make, not
+  with a feature request. We seek direct evidence, reduce the
+  problem to its essential uncertainty, and build the smallest
+  system that can resolve it. We move quickly, but we preserve
+  the foundations required for reuse and long-term ownership.
+
+  For AI-native products, product quality and model quality
+  are inseparable. Latency, interaction design, evaluation,
+  orchestration, permissions, reliability, and the behavior of
+  the underlying models all shape the user experience. Product
+  Engineers are expected to reason across these layers rather
+  than treating model behavior as somebody else's API.
+
+  We prefer clear ownership and small teams. The person
+  closest to a problem should have the context and authority
+  to make decisions, while documenting enough that the rest of
+  the organization can understand and challenge them.
+
+  You might thrive in this role if
+
+  - You have built and operated meaningful user-facing products,
+    ideally from an early or ambiguous starting point.
+  - You combine product judgment with strong software
+    engineering fundamentals and can move comfortably between
+    user workflows and system architecture.
+  - You can work across a modern product stack and are willing
+    to learn whichever layer is necessary to finish the job.
+  - You seek out users, ask precise questions, and can tell the
+    difference between what someone requests and what would
+    actually solve their problem.
+  - You have strong taste for simple workflows, clear
+    interfaces, and the small details that make a product feel
+    fast, trustworthy, and coherent.
+  - You make sensible tradeoffs between iteration speed,
+    quality, scope, maintainability, and technical risk—and
+    can explain those tradeoffs plainly.
+  - You treat instrumentation, evaluation, and production
+    support as part of building the feature rather than work
+    to be added later.
+  - You are comfortable with loosely specified problems,
+    shifting information, and situations where the right
+    answer must be discovered through prototypes and evidence.
+  - You take responsibility for outcomes, including when the
+    problem crosses team boundaries or the first approach
+    fails.
+  - You want to work in person in New York with a team that
+    moves quickly and debates the work directly.
+
+  Strong candidates may also have
+
+  - Experience as a founder, founding engineer, or early product
+    engineer at a fast-growing company.
+  - Experience building AI-native products, agentic workflows,
+    copilots, or products in which model behavior materially
+    shaped the user experience.
+  - Fluency with technologies such as TypeScript, React, Python,
+    APIs, workflow systems, relational data models, and cloud
+    infrastructure—or equivalent depth in a comparable stack.
+  - Experience with B2B or enterprise products involving
+    permissions, auditability, integrations, collaboration, or
+    complex configuration.
+  - Experience with data visualization, analytical products,
+    experiment builders, survey tools, research platforms, or
+    decision-support systems.
+  - A record of turning a customer-specific need into a reusable
+    product capability adopted by many users.
+  - Experience working closely with research or machine-learning
+    teams and translating experimental capabilities into
+    dependable product behavior.
+
+  Candidates need not have
+
+  - Prior experience in simulation, computational social
+    science, or Aaru's exact technical stack.
+  - A conventional computer-science degree or a specific number
+    of years in a particular title.
+  - Every skill listed above. We care most about evidence that
+    you can understand hard user problems, build excellent
+    systems, and learn quickly.
+
+  What success looks like
+
+  - Customers can configure, run, and interpret important
+    simulations with substantially less expert assistance.
+  - New research and simulation capabilities become
+    understandable, reusable product features rather than
+    bespoke demonstrations.
+  - The product team ships quickly without accumulating fragile
+    workflows, hidden assumptions, or avoidable platform debt.
+  - Product quality is measurable: adoption, task success, model
+    behavior, latency, reliability, cost, and failure modes
+    are visible and improve over time.
+  - Specific customer learnings become durable product patterns
+    that compound across accounts and use cases.
+  - The systems you own are reliable in production, easy to
+    debug, and clear enough for other engineers to extend.
+  - Colleagues trust you to take an important, ambiguous product
+    problem and carry it through to a high-quality outcome.
+
+  Location and benefits
+
+  This role is based in New York City. Aaru is an in-person
+  company, working five days a week in the office. Candidates
+  should be located in the New York metropolitan area or open
+  to relocation.
+
+  Aaru offers a competitive base salary, equity participation,
+  comprehensive medical, vision, and dental coverage, visa
+  sponsorship and relocation support, and other benefits and
+  perks. Final compensation depends on level and experience
+  and is set within Aaru's internal bands.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-08-23
+url: "https://builtin.com/job/product-engineer/10814468"
+source: Built In

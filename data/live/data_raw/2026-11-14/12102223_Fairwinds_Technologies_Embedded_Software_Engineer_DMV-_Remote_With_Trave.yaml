@@ -1,0 +1,196 @@
+job_id: 12102223
+title: Embedded Software Engineer (DMV- Remote With Travel)
+company: Fairwinds Technologies
+location: USA
+locations:
+  - USA
+  - Herndon, USA
+  - Germantown, USA
+  - Middletown, USA
+  - Aberdeen Proving Ground, USA
+remote: true
+work_type: FULL_TIME
+company_size: 35 Employees
+description: |
+  Embedded Systems Software Engineer
+
+  Mid to Sr Embedded Software Engineer
+
+  Location: D.C, Maryland, Virginia- Remote with Travel on
+  occasion to Aberdeen, Maryland  Type: Remote (Travel to
+  Aberdeen, Maryland on occasion)
+
+  About Fairwinds Technologies
+
+  Fairwinds Technologies is a U.S.-based engineering firm
+  specializing in Satellite Communications (SATCOM), RF
+  Transmission Systems, Network Design, Systems Integration,
+  and Digital Signal Processing (DSP). We support Command,
+  Control, Communications, and Computer (C4) systems in
+  austere military environments, delivering advanced
+  communications, networking, and IT solutions to defense and
+  civilian agencies worldwide.
+
+  Position Overview
+
+  We are seeking an Embedded Software Engineer with strong
+  experience developing and deploying software on Xilinx
+  UltraScale+ platforms using PetaLinux, with hands-on
+  familiarity working alongside hardware teams on PCB-based
+  embedded systems. The ideal candidate will design,
+  implement, and optimize low-level and Linux-based embedded
+  software for mission-critical communications and signal
+  processing applications.
+
+  This role involves building robust software stacks for
+  FPGA/SoC-based systems, integrating drivers and peripherals,
+  and supporting system bring-up from prototype to fielded
+  platforms. You will work closely with FPGA, DSP, RF, and
+  hardware engineers to deliver high-performance solutions for
+  tactical communications in contested and bandwidth-
+  constrained environments.
+
+  This position reports to the Chief Technology & Strategy
+  Office and involves close collaboration with customers and
+  engineering teams to deliver innovative solutions for RF
+  Tactical & Naval Military Solutions, as well as strategic
+  border protection applications.
+
+  Key Responsibilities
+
+  - Develop embedded Linux software for Xilinx UltraScale+ (Zynq
+    UltraScale+ MPSoC) platforms using PetaLinux (BSP
+    creation, kernel configuration, rootfs customization, and
+    image generation).
+  - Support hardware bring-up and integration on custom PCB
+    designs, including board validation, peripheral checkout,
+    and troubleshooting.
+  - Implement and maintain device drivers and board support
+    components (GPIO, I2C, SPI, UART, PCIe, Ethernet, DMA,
+    etc.).
+  - Integrate FPGA logic with embedded software using AXI
+    interfaces and Linux user-space access methods (UIO, mmap,
+    sysfs, etc.).
+  - Build and optimize performance-critical embedded Linux
+    applications (real-time data movement, streaming
+    interfaces, latency tuning).
+  - Develop test utilities, diagnostics, and automation for lab
+    and field validation.
+  - Participate in system integration and testing in lab and
+    field settings; debug cross-domain issues spanning
+    hardware, FPGA, kernel, and user space.
+  - Author technical documentation, software design
+    descriptions, integration notes, and SBIR deliverables as
+    required.
+
+  Required Qualifications
+
+  - Bachelor’s degree in Computer Engineering, Electrical
+    Engineering, Computer Science, or related field.
+  - Minimum 8+ years of experience in embedded software
+    development for Linux-based systems.
+  - Must have hands-on experience with Xilinx UltraScale+
+    platforms.
+  - Must have hands-on experience with PetaLinux
+    (creating/customizing images, kernel/device tree
+    configuration, rootfs management).
+  - Must have experience working with PCB-based embedded
+    hardware (bring-up support, debug with lab tools, working
+    directly with schematics/board constraints).
+  - Proficiency in C/C++ and scripting (Bash and/or Python) in
+    embedded environments.
+  - Proficiency in SVN, Git or other software configuration
+    management tool.
+  - Experience debugging Linux kernel/user-space interactions
+    and hardware/software integration issues.
+  - Comfortable using standard embedded debug tools (JTAG, UART
+    console, logic analyzer/oscilloscope basics) and Linux
+    tooling (gdb, strace, perf, dmesg).
+  - U.S. Citizenship and an active DoD Secret (or higher)
+    security clearance (or ability to obtain).
+
+  Additional Preferred Qualifications
+
+  - Experience with Xilinx toolchain workflows (Vivado
+    integration context, Vitis/SDK familiarity helpful).
+  - Device tree and kernel driver development experience
+    (platform drivers, char drivers, DMA, interrupt handling).
+  - Familiarity with real-time Linux concepts (PREEMPT_RT, CPU
+    isolation, IRQ affinity, latency profiling).
+  - Experience integrating high-throughput datapaths (10GbE,
+    PCIe, JESD-style streaming, RF front-end control planes).
+  - Understanding of secure boot, image signing, and hardening
+    on embedded Linux platforms.
+  - Experience with Yocto or Buildroot for generating Linux
+    kernel and root filesystems.
+  - Experience with RTOS/Bare metal programming of ARM Cortex
+    microcontrollers.
+  - Experience supporting DoD SBIR projects or similar
+    government-funded R&D efforts.
+
+  Supervisory Responsibility
+
+  This position does not require direct supervisory
+  responsibility; however, the engineer may mentor junior
+  developers and support cross-functional technical
+  leadership.
+
+  Work Environment
+
+  This position is primarily performed in a traditional office
+  environment. Some remote/hybrid work is also possible.
+
+  Physical Demands
+
+  While performing the duties of this job, the employee is
+  occasionally required to stand; walk; sit; use hands to
+  finger, handle, or feel objects, tools or controls; use
+  fingers and hands to type or write; reach with hands and
+  arms; talk or hear. Specific vision abilities required by
+  the job include close vision, distance vision, color vision,
+  peripheral vision, depth perception
+
+  Position Type/Expected Hours of Work
+
+  This is a full-time, exempt position, working Monday through
+  Friday; 40 hours per work week; occasional evening and
+  weekend work may be required as job duties demand. Some
+  flexibility in actual work hours may be offered.
+
+  Travel
+
+  Must be willing to travel 25–30% when required.
+
+  Work Authorization/Security Clearance
+
+  Must be eligible to work in the US and possess or obtain a
+  Secret level clearance.
+
+  Other Duties
+
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties, or
+  responsibilities that are required of the employee for this
+  job. Duties, responsibilities, and activities may change at
+  any time with or without notice.
+
+  AAP/EEO Statement
+
+  Fairwinds Technologies, LLC is an Equal Opportunity Employer
+  – M/F/Veteran/Disability/Sexual Orientation/Gender Identity
+
+  Why Join Us
+
+  Opportunity to work on cutting-edge technologies and
+  innovative projects, including DoD SBIR initiatives.
+  Collaborative and inclusive work environment. Competitive
+  salary and benefits package. Professional development and
+  growth opportunities.
+industries:
+  - Aerospace
+  - Hardware
+  - Information Technology
+  - Defense
+posted_date: 2026-11-06
+url: "https://builtin.com/job/embedded-software-engineer-dmv-remote-travel/12102223"
+source: Built In

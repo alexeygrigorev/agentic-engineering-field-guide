@@ -1,0 +1,102 @@
+job_id: 11594274
+title: Senior Full Stack Engineer
+company: H Company
+location: Paris, FRA
+locations:
+  - Paris, FRA
+  - London, GBR
+work_type: FULL_TIME
+company_size: 196 Employees
+description: |
+  You'll build the interfaces people use to run H's agents:
+  the H Platform, where teams deploy an agent, follow it live
+  and replay what it did step by step, and HoloTab, our Chrome
+  extension that controls the browser on its user's behalf.
+  The work is mostly front end, in React and TypeScript, with
+  changes to the Python APIs behind it when a feature calls
+  for them.
+
+  H builds agents that use a computer the way a person does,
+  in the browser and on the desktop.
+
+  What you'll own
+
+  How people watch, steer and replay an agent while it acts on
+  a computer, which has few established patterns yet. You'll
+  decide how a live run appears and plays back, how live data
+  gets to the screen, how a feature splits between front end
+  and API, and which components become shared standards. We'll
+  judge the work by what ships to users, by front-end quality
+  held in CI, and by whether people can follow and control
+  what an agent did.
+
+  What you'll be doing
+
+  - Building the H Platform web app
+  - Building and improving the HoloTab extension
+  - Designing the live run view and replay
+  - Changing the Python APIs behind a feature
+  - Setting shared component patterns
+  - Making long-running workflows easier for FDEs and customers
+    to deploy and watch
+
+  The first year
+
+  Within three months, a feature you built, API change
+  included, is with users. Within six, one surface is yours,
+  such as live runs and replay or the HoloTab interface, and
+  the team comes to you about it. Within a year, you're
+  working across several of our products, agreeing what to
+  build with their owners and then building it.
+
+  Your team and your users
+
+  The role sits in Product Engineering, with our VP of
+  Engineering as hiring manager. You'll work closely with the
+  owners of the H Platform and HoloTab. Your users are our
+  Forward Deployed Engineers (FDEs), our technical customers
+  and the people who use HoloTab every day.
+
+  What we think it takes
+
+  You're likely a good fit if you:
+
+  - Have shipped a production product in React and TypeScript as
+    a senior engineer
+  - Make the API change a feature needs as well as the UI
+  - Write correct, concurrent code
+  - Handle live, async data in the UI correctly
+  - Enjoy working out what users actually need and designing the
+    interface around it
+  - Have worked with Python
+
+  Stronger still if you have worked with:
+
+  - Chrome extensions or the Chrome DevTools Protocol
+  - Real-time interfaces using streaming, SSE or WebSockets
+  - Design systems or component libraries
+  - FastAPI or a similar Python API framework
+  - Preact and Vite
+
+  You do not need a background in Python backend development.
+  If you match most of this but not every point, apply anyway.
+
+  How we hire
+
+  Four stages: a 30-minute call with our Talent team, a
+  60-minute coding interview, a take-home front-end exercise
+  of about 2 hours with a 45-minute review, and a closing
+  30-minute conversation. The take-home is built around the
+  kind of interface you'll be working on.
+
+  Practicalities
+
+  The role is hybrid, with three days a week in our Paris or
+  London office and a visit to the other office every four to
+  six weeks or so. We offer a competitive package.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-09
+url: "https://builtin.com/job/senior-full-stack-engineer/11594274"
+source: Built In

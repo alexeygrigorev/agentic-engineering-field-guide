@@ -1,0 +1,87 @@
+job_id: 8324512
+title: Engineer - Backend
+company: DiligenceSquared
+location: New York, USA
+work_type: FULL_TIME
+company_size: 8 Employees
+description: |
+  We're looking for a Software Engineer with deep expertise in
+  backend to help develop the next-generation AI platform for
+  market due diligence. You'll architect the AI-powered engine
+  that orchestrates autonomous research agents and voice AI
+  pipelines to create the next-generation of market reports
+  for investment professionals in Private Equity, Hedge Funds,
+  Private Credit, and Corporate M&A.
+
+  About DiligenceSquared
+
+  DiligenceSquared is the AI-native consulting firm. We
+  deliver investment-grade market research and commercial due
+  diligence, powered by AI agents and led by experienced
+  consultants. Our founding team brings deep experience from
+  Blackstone and BCG, and we're backed by Y Combinator and
+  Relentless. Our clients include 5 of the 10 largest private
+  equity firms in the world and represent more than $3T in
+  combined AUM.
+
+  What you will do:
+
+  - Build new product features and experiences end-to-end,
+    everything from database models to API endpoints, and
+    integrating them with UI components for our web and AI
+    Voice Agent Application
+  - Design and build new AI-powered modules from scratch (e.g.,
+    market sizing, competitive analysis) that become core
+    capabilities of our research platform
+  - Build and own product foundations (AI agent orchestration,
+    voice AI pipelines, app and API performance, intelligent
+    automations)
+  - Architect scalable backend services with complex async
+    processing and background task orchestration
+  - Apply learnings from each project into the product, so we're
+    1% better everyday (Law of Compounding is real. After all,
+    we are founded by investment professionals)
+
+  Qualifications:
+
+  - 3+ years of professional Python backend experience
+  - Strong expertise building production APIs (FastAPI, Django,
+    or similar)
+  - Experience building agentic systems with LLM platforms
+    (Anthropic, OpenAI, or similar)
+  - Deep hands-on experience with LLMs in production - building
+    reliable agentic systems, not just API calls
+  - Experience with PostgreSQL and SQL database design
+  - Understanding of async programming, job queues, and
+    distributed systems
+  - Experience with background task orchestration and async
+    processing workflows
+
+  Bonus:
+
+  - Experience with Anthropic Claude API and Agent SDK
+  - Familiarity with agent orchestration frameworks
+  - Background in AI/ML systems or voice AI
+  - Familiarity with vector databases and semantic search
+    (pg_vector, etc.)
+  - Experience with Supabase or similar Backend-as-a-Service
+    platforms
+  - Previous startup experience
+
+  Who you are:
+
+  - Obsess over system design and think deeply about technical
+    trade-offs
+  - Take pride in your code and want to work with others who do
+    the same
+  - Act with Urgency so we can empower you with Agency
+  - Pay high attention to detail and are curious about how great
+    products work
+  - Feel discomfort when things don't move as fast as you feel
+    they should
+industries:
+  - Artificial Intelligence
+  - Marketing Tech
+posted_date: 2026-08-24
+url: "https://builtin.com/job/founding-engineer-backend/8324512"
+source: Built In

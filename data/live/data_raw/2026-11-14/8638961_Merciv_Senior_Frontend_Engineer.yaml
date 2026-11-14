@@ -1,0 +1,435 @@
+job_id: 8638961
+title: Senior Frontend Engineer
+company: Merciv
+location: New York, USA
+work_type: FULL_TIME
+company_size: 7 Employees
+description: |
+  About Merciv
+
+  Merciv is an AI and data analytics startup dedicated to
+  reshaping how businesses approach strategic intelligence.
+  Our mission is to transform how organizations harness data,
+  generate insights, and drive strategic decisions through
+  cutting-edge AI pipelines and dynamic forecasting
+  mechanisms.
+
+  We're building toward a world where every business decision
+  is informed by the right data at the right time, combining
+  AI capability with human judgement. Our technology:
+
+  - Connects disparate data sources into a single, coherent
+    intelligence layer
+  - Augments human decision-making with autonomous AI analysis
+  - Surfaces insights and opportunities that traditional tools
+    miss
+  - Forecasts outcomes and helps teams navigate uncertainty with
+    real clarity
+  - Gives organizations the ability to shape their markets, not
+    just react to them
+
+  We're building solutions that are robust and scalable but
+  also genuinely intuitive, so that teams across an
+  organization can actually use them, not just the data team.
+  We've raised $14M in seed funding, built our team around a
+  strong engineering culture, and are launching publicly after
+  nearly two years in stealth mode. About the Team
+
+  We're building an agentic AI platform that's changing how
+  enterprises work with data. Merciv connects an
+  organization's entire data landscape with external sources -
+  social media trends, industry reports, consumer behavior
+  signals - to surface insights and automate workflows that
+  used to take analysts weeks.
+
+  We care a lot about making powerful tools feel simple. Every
+  feature should be intuitive, every component interactive. We
+  want users to open Merciv and immediately feel like they can
+  do more than they could before.
+
+  Our lean, agile team thrives on innovation and autonomy.
+  We're small enough that everyone has real ownership. We use
+  a DRI (Directly Responsible Individual) model - you'll own
+  major product features from conception to launch, not just
+  contribute to them. You'll wear multiple hats, and that's by
+  design.
+
+  Our work environment thrives on creativity and cutting-edge
+  technology, built for those eager to shape the future of
+  human-AI collaboration. If you’re excited about being a part
+  of a fast-paced, innovative startup culture and making a
+  significant impact on client business, Merciv is the place
+  for you. Join us as we expand the horizons of retail
+  intelligence and deliver unparalleled value to our clients.
+
+  The Role
+
+  Merciv is transforming how brands understand consumers
+  through autonomous AI that doesn’t just analyze data — it
+  proactively surfaces insights that drive million-dollar
+  decisions. Our platform powers some of the largest retail
+  and consumer goods organizations in the world, synthesizing
+  signals from thousands of sources to reveal patterns and
+  opportunities before competitors see them coming.
+
+  As we scale our enterprise platform and launch our self-
+  serve tier, we need a Senior Frontend Engineer who can craft
+  exceptional user experiences that make complex AI-powered
+  insights feel intuitive and actionable. This is your chance
+  to build the interface that puts autonomous consumer
+  intelligence into the hands of brand leaders, researchers,
+  and marketers.
+
+  You’ll own critical parts of our frontend architecture,
+  building the UI that enables users to explore millions of
+  data points, understand nuanced consumer sentiment, and make
+  confident decisions backed by AI reasoning. Working closely
+  with our product, design, and AI teams, you’ll create
+  elegant experiences that transform dense analytical outputs
+  into clear, compelling narratives.
+
+  This is a hands-on role where you’ll build the interactive
+  components that enterprise brands rely on daily to stay
+  ahead of market shifts. In this role, you’ll be the
+  architect of experiences that must be enterprise-grade
+  (fast, accessible, secure) while maintaining startup
+  agility. Your work directly impacts whether a brand leader
+  can understand a critical consumer trend in seconds or gets
+  lost in data — a difference measured in millions of dollars
+  of opportunity.
+
+  What You’ll Do
+
+  Build Exceptional User Experiences: Design and implement
+  elegant, high-performance React components that make complex
+  AI insights feel simple and actionable
+
+  Architect for Scale: Own critical parts of our frontend
+  architecture as we grow from hundreds to thousands of daily
+  active users across Fortune 500 enterprises
+
+  Collaborate Cross-Functionally: Partner with product
+  managers, designers, and AI engineers to translate
+  sophisticated analytical outputs into intuitive
+  visualizations and workflows
+
+  Drive Frontend Excellence: Establish coding standards,
+  conduct rigorous code reviews, and mentor team members on
+  modern frontend best practices
+
+  Optimize Performance: Ensure sub-second load times and
+  smooth interactions even when rendering complex data
+  visualizations and real-time updates
+
+  Champion User-Centric Design: Work closely with UX/UI
+  designers to implement pixel-perfect designs while
+  advocating for usability and accessibility
+
+  Own Feature Development: Take features from concept to
+  production, including requirements gathering, technical
+  design, implementation, testing, and deployment
+
+  Enable AI Interaction: Build innovative interfaces for users
+  to interact with agentic AI systems, including natural
+  language inputs, conversational flows, and transparent
+  reasoning displays
+
+  Ensure Quality & Reliability: Write comprehensive tests,
+  debug across browsers and devices, and maintain high code
+  quality standards for enterprise customers
+
+  Shape Product Direction: Contribute to product strategy
+  discussions, bringing frontend expertise to inform what we
+  build and how we build it
+
+  Core Requirements
+
+  Experience
+
+  - 6-10+ years of professional frontend development experience
+  - 4+ years building complex, production web applications with
+    modern JavaScript frameworks
+  - 2+ years with React in production environments
+  - Experience working in fast-paced startup or high-growth
+    product environments
+  - Track record of owning significant frontend features end-to-
+    end
+
+  Technical Skills
+
+  Frontend Fundamentals
+
+  - Expert-level knowledge of HTML5, CSS3, and modern JavaScript
+    (ES6+)
+  - Deep understanding of TypeScript and type-safe development
+    practices
+  - Strong command of responsive design principles and cross-
+    browser compatibility
+  - Expertise in web performance optimization techniques (lazy
+    loading, code splitting, caching)
+
+  React Ecosystem
+
+  - Advanced React proficiency including hooks, context, and
+    component lifecycle
+  - Experience with state management solutions (Redux, Zustand,
+    or similar)
+  - Knowledge of React ecosystem tools (React Router, React
+    Query, etc.)
+  - Understanding of React performance optimization and
+    rendering patterns
+
+  Modern Development Practices
+
+  - Strong expertise in modern CSS approaches (CSS Modules,
+    Styled Components, Tailwind, or similar)
+  - Proficient with build tools and bundlers (Vite, Webpack, or
+    similar)
+  - Experience with version control (Git) and collaborative
+    development workflows
+  - Familiarity with CI/CD pipelines and automated testing
+    frameworks
+
+  API Integration & Data Handling
+
+  - Experience integrating RESTful APIs and GraphQL endpoints
+  - Understanding of asynchronous JavaScript and promise-based
+    workflows
+  - Ability to handle complex data transformations and state
+    management
+  - Experience with WebSocket or real-time data streaming
+
+  Testing & Quality
+
+  - Proficiency with testing frameworks (Jest, React Testing
+    Library, Cypress, or similar)
+  - Experience writing unit, integration, and end-to-end tests
+  - Understanding of test-driven development practices
+  - Strong debugging skills across browsers and devices
+
+  Data Visualization
+
+  - Experience building interactive data visualizations (D3.js,
+    Recharts, Chart.js, or similar)
+  - Ability to translate complex datasets into clear, compelling
+    visual stories
+  - Understanding of visualization best practices and
+    accessibility
+
+  Professional Qualities
+
+  Ownership Mentality: Track record of taking full ownership
+  of features and seeing them through to successful production
+  deployment
+
+  Product Thinking: Strong product sense with ability to
+  balance technical constraints with user needs and business
+  objectives
+
+  Clear Communicator: Excellent written and verbal
+  communication skills; comfortable explaining technical
+  concepts to non-technical stakeholders
+
+  Collaborative Spirit: Thrives in cross-functional
+  environments, working closely with designers, product
+  managers, and backend engineers
+
+  Detail-Oriented: Obsessive attention to detail in
+  implementation, from pixel-perfect designs to edge case
+  handling
+
+  User Advocate: Passionate about building experiences that
+  users love; consistently thinks from the user’s perspective
+
+  Strategic Thinker: Ability to balance immediate feature
+  delivery with long-term architectural decisions
+
+  Growth Mindset: Continuous learner who stays current with
+  frontend technologies and best practices; eager to
+  experiment with new tools
+
+  Pragmatic Problem Solver: Strong debugging and problem-
+  solving skills; comfortable working through ambiguous
+  requirements
+
+  Quality Champion: Committed to writing clean, maintainable,
+  well-documented code that your teammates will thank you for
+
+  The Frontend Challenge
+
+  At Merciv, you’ll tackle unique challenges at the
+  intersection of AI, data visualization, and enterprise UX:
+
+  Complex Data Visualization: Transform millions of consumer
+  signals into intuitive, interactive visualizations that
+  reveal patterns and insights at a glance
+
+  AI Transparency: Build interfaces that make AI reasoning
+  transparent and trustworthy, showing users exactly how
+  conclusions were reached
+
+  Real-Time Intelligence: Handle streaming updates and real-
+  time data while maintaining smooth, responsive user
+  experiences
+
+  Information Density: Balance information density with
+  clarity — users need comprehensive insights without
+  cognitive overload
+
+  Diverse User Personas: Design for everyone from Fortune 500
+  executives needing high-level summaries to analysts
+  requiring deep-dive capabilities
+
+  Performance at Scale: Ensure instant load times and smooth
+  interactions even with complex datasets and visualizations
+
+  Enterprise Standards: Meet accessibility (WCAG), security,
+  and compliance requirements expected by Fortune 500
+  customers
+
+  Rapid Innovation: Ship new features quickly while
+  maintaining code quality and user experience consistency
+
+  Nice-to-Have Skills
+
+  - Experience building data-intensive or analytics-focused
+    applications
+  - Familiarity with AI/ML user interfaces or conversational UI
+    patterns
+  - Background in design systems and component library
+    development
+  - Experience with Next.js or other React meta-frameworks
+  - Knowledge of backend technologies (Node.js, Python) for
+    better full-stack collaboration
+  - Experience with Figma or other design tools for design-
+    development collaboration
+  - Familiarity with accessibility best practices and ARIA
+    standards
+  - Experience with micro-frontend architectures or module
+    federation
+  - Understanding of WebGL or advanced graphics for data
+    visualization
+  - Background in consumer research, market intelligence, or
+    retail/CPG domains
+  - Experience with A/B testing frameworks and feature flag
+    systems
+  - Knowledge of web analytics and user behavior tracking
+  - Experience scaling frontend applications from early-stage to
+    enterprise
+
+  What We’re Looking For
+
+  Craftsperson Mindset: You take pride in writing beautiful,
+  maintainable code and building polished user experiences
+
+  Initiative & Drive: You don’t wait to be told what to do;
+  you see problems and solve them proactively
+
+  User Empathy: You deeply understand that behind every click
+  is a person trying to accomplish something important
+
+  Technical Curiosity: You stay excited about new frontend
+  technologies and love learning from teammates
+
+  Bias Toward Action: You move quickly, iterate based on
+  feedback, and aren’t afraid to ship and learn
+
+  Humility & Collaboration: You value diverse perspectives,
+  give and receive feedback gracefully, and elevate your
+  teammates
+
+  Business Awareness: You understand how your work connects to
+  business outcomes and customer value
+
+  Adaptability: You thrive in ambiguity and can pivot quickly
+  as priorities evolve in a fast-growing startup
+
+  Systems Thinking: You consider long-term implications of
+  technical decisions while delivering short-term value
+
+  Why Join Us?
+
+  Revolutionary Impact: Build the interface for AI that’s
+  transforming how Fortune 500 brands understand and respond
+  to their consumers
+
+  Cutting-Edge Technology: Work with modern frontend stack,
+  AI-powered features, and complex data visualization
+  challenges
+
+  Enterprise Trust: Your work enables major brands to make
+  million-dollar decisions with confidence
+
+  Rapid Growth: Join us as we scale from startup to category
+  leader, with equity participation in our success
+
+  Product Influence: Directly shape product direction and user
+  experience — your ideas matter from day one
+
+  Technical Excellence: Collaborate with world-class engineers
+  and AI researchers building the future of consumer
+  intelligence
+
+  Ownership & Equity: Significant equity participation in a
+  company transforming a $30 trillion retail industry
+
+  Innovation Freedom: Experiment with new technologies and
+  approaches; we encourage calculated risk-taking
+
+  Customer Impact: See your work directly impact how major
+  brands like Gap, Old Navy, and Athleta serve their customers
+
+  Professional Growth: Budget for conferences, courses, and
+  staying at the forefront of frontend engineering
+
+  Creative Environment: Work in a culture that values both
+  technical excellence and thoughtful design
+
+  Flexible & Autonomous: We trust you to do great work without
+  micromanagement
+
+  Interview Process
+
+  We respect your time and aim to complete our interview
+  process within 2-4 weeks:
+
+  - Initial screening call (30 minutes) - Get to know each other
+    and discuss your background
+  - Technical deep dive (60-90 minutes) - Live coding session
+    and system design discussion focused on frontend
+    architecture
+  - Product & design collaboration (60 minutes) - Work through
+    product scenarios with our product and design teams
+  - Team collaboration session (preferably in-person) - Meet the
+    team, pair program, and see our office
+  - Culture & vision discussion with leadership - Ensure mutual
+    alignment on values and direction
+
+  Merciv is building the future of consumer intelligence.
+  We’re committed to assembling a diverse team of builders who
+  want to revolutionize how brands understand and serve their
+  customers. We are an equal opportunity employer, and we do
+  not discriminate on the basis of race, religion, color,
+  national origin, sex, sexual orientation, age, veteran
+  status, disability, genetic information, or other applicable
+  legally protected characteristic.
+
+  Merciv is building the future of autonomous commerce. We're
+  committed to assembling a diverse team of builders who want
+  to revolutionize how the world does business.
+
+  We are an equal opportunity employer, and we do not
+  discriminate on the basis of race, religion, color, national
+  origin, sex, sexual orientation, age, veteran status,
+  disability, genetic information, or other applicable legally
+  protected characteristic.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Natural Language Processing
+  - Retail
+  - Business Intelligence
+  - Conversational AI
+posted_date: 2026-08-04
+url: "https://builtin.com/job/senior-frontend-engineer/8638961"
+source: Built In

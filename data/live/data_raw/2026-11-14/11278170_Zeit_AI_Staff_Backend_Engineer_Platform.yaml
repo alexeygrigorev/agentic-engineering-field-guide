@@ -1,0 +1,81 @@
+job_id: 11278170
+title: Staff Backend Engineer, Platform
+company: Zeit AI
+location: Munich, DEU
+locations:
+  - Munich, DEU
+  - London, GBR
+work_type: FULL_TIME
+company_size: 7 Employees
+description: |
+  Opportunity
+
+  - ZeitMind is an autonomous data engineer for mid-market
+    businesses. Agents and people work the same company data:
+    ingest, pipeline, clean, analyse, build operational apps
+  - we are growing fast and will be onboarding multiple
+    enterprise customers a week. The backend isn't ready yet,
+    your impact will decide the speed at which we can grow
+  - load growth is compounding: more customers, multiple users
+    per customer, many agent interactions per user and
+    multiple agent artifacts (data pipelines, schedules,
+    analyses) coming out of the interactions
+  - you own the platform
+
+  What you'll do
+
+  - scale a multi-tenant Postgres under unpredictable load:
+    query and I/O optimisation, read/write separation,
+    horizontal scaling
+  - make agent-driven workloads survivable: one user can spin up
+    30 table syncs, some running hours, while others query
+    large sources
+  - manage the sandbox layer: Docker containers where agents run
+    queries and reverse-engineer files, with compute and
+    memory budgets
+  - own connectivity into customer networks: SOCKS5 over
+    WebSockets, authentication, routing
+  - scope the architecture and build it
+
+  What we're looking for
+
+  - staff or principal level, still hands-on, writing production
+    code
+  - built and scaled multi-tenant data platforms in a B2B
+    startup or platform company before
+  - deep Postgres or database knowledge: query plans, locking,
+    I/O, caching, replication, sharding
+  - understands startup pace and ownership without specs
+  - pragmatic over ideal, wants to build foundations right
+    without overengineering
+  - strong TypeScript
+  - English C1, German a plus
+
+  Nice to have
+
+  - experience at a data platform or warehouse company
+    (Snowflake, Databricks, Cloudflare or similar)
+  - networking depth: proxies, VPN, routing
+
+  Location
+
+  - preferred: Munich, on-site. We support relocation within
+    Europe
+  - already in London? We can make that work. We have people
+    here and are opening a small office, and we'd expect
+    regular Munich travel. In-person culture is important to
+    us
+
+  Tech stack
+
+  - TypeScript end to end. Bun, tRPC, Postgres, Supabase. React
+    frontend (Mantine, TanStack Query). Docker, job/process
+    management, VPN/routing, agentic frameworks
+industries:
+  - Artificial Intelligence
+  - Natural Language Processing
+  - Software
+  - Analytics
+posted_date: 2026-09-21
+url: "https://builtin.com/job/staff-backend-engineer-platform/11278170"
+source: Built In

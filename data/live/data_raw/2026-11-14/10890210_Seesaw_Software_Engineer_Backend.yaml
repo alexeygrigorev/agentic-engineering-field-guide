@@ -1,0 +1,186 @@
+job_id: 10890210
+title: Software Engineer, Backend
+company: Seesaw
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 170 Employees
+description: |
+  About Us:
+
+  Trusted and loved by 25 million educators, students, and
+  families worldwide, Seesaw is the world’s leading elementary
+  learning experience company, offering an award-winning
+  platform and a suite of digital curriculum products for
+  teachers to deliver joyful, accessible instruction.  Through
+  interactive lessons, digital portfolios, and two-way
+  communication features, Seesaw keeps everyone in the
+  learning loop by providing continuous visibility into the
+  student's learning experience to support and celebrate their
+  learning.
+
+  Our Mission:
+
+  Seesaw’s mission is to provide every elementary student with
+  joyful and connected learning experiences that lay the
+  foundation for success in life.
+
+  Your Team:
+
+  Seesaw provides a unique opportunity to impact the lives and
+  learning of millions of students, educators, and parents in
+  the US and across the world. The Core Systems team sits at
+  the heart of the technology that powers the millions of
+  interactions with our product every day, ensuring that the
+  platform is reliable, available, performs well, and
+  contributes meaningfully to learning in the classroom. The
+  team is small and covers a broad surface area, so for high-
+  performing and independent developers there is a vast
+  potential for ownership and upward mobility by demonstrating
+  high impact with their efforts. We value impact over effort,
+  and work hard to preserve real work-life balance through our
+  team culture and Seesaw’s unique benefits.
+
+  Your Role:
+
+  A Senior Engineer on the Core Systems team is expected to
+  have a deep understanding of backend development and
+  infrastructure at scale. This means expertise with the
+  implementation of HTTP APIs, interaction of API code with
+  data storage layers, infrastructure provisioning, and a
+  thorough grasp on how software goes from being built by
+  dozens of developers, tested, shipped, and run at scale with
+  rock-solid reliability.
+
+  Your Responsibilities:
+
+  - Modify, diagnose, and change code in our Python HTTP
+    backend, which runs on Tornado and backed by data stored
+    in Dynamo, Elasticsearch, and Redis.
+  - Contribute to our infrastructure-as-code repo, which is
+    responsible for provisioning resources in AWS.
+  - Reason about distributed systems to drive good technical
+    decision-making.
+  - Own technical work from the early stages of inception, to
+    implementation, to production monitoring and alerting.
+  - Export best practices around code authoring, tool usage, and
+    observability to other engineering teams at Seesaw.
+  - Ensure the security and reliability of Seesaw's platform,
+    proactively identifying and addressing potential
+    vulnerabilities and performance bottlenecks.
+  - Optimize cloud infrastructure for cost-effectiveness,
+    leveraging best practices in resource management
+  - Help develop a strong technical roadmap and engineering
+    culture through design proposals, industry engagement, and
+    more
+  - Partner with senior team members, product managers, and
+    other key stakeholders to drive strategic initiatives and
+    align infrastructure development with business objectives.
+
+  Your Requirements:
+
+  - 7+ years experience with backend development - durable
+    systems-level thinking will always trump specific language
+    experience.
+  - Thorough understanding of the mechanics of distributed
+    systems - things like eventual consistency, fan-in fan-out
+    patterns, backpressure, etc.
+  - Familiarity with AWS core services (EC2, Lambda, DynamoDB,
+    S3, ECS/EKS) or similar cloud experience
+  - Proficient with CI/CD pipelines, preferably Github Actions
+  - Self-starter with an ability to execute independently,
+    knowing when to stop and seek more information and when to
+    forge ahead and boldly own your vision.
+  - Proven experience owning and operating the infrastructure
+    that runs software at a high scale (think billions of
+    incoming requests per month)
+
+  Compensation & Benefits:
+
+  Our salary ranges are based on paying competitively for our
+  size and industry. Salary is just one part of our total
+  compensation package that includes perks & benefits, and
+  development opportunities at Seesaw. Individual pay
+  decisions are based on several factors, including
+  qualifications for the role, experience level, skillset,
+  geography, and balancing internal equity relative to other
+  Seesawers. It is our expectation that the majority of
+  candidates who are offered roles at Seesaw will land well
+  within our salary ranges based on these factors.
+
+  The annual hiring base salary for this position is: $172,500
+  - $200,000
+
+  This is an Exempt position.
+
+  Benefits include: Medical/Dental + Orthodontics/Vision
+  Coverage, 401(k) Match, Flexible Paid Time Off, Mindfulness
+  First Fridays, Monthly Technology Stipend, Home Office Setup
+  Stipend, Professional Development Stipend, Paid Parental
+  Leave, Charitable Donation Matching, Volunteer Days.
+
+  Use of AI in Our Interview Process:
+
+  We welcome candidates to use AI tools to research, prepare
+  and practice before an interview. During interviews and live
+  assessments, however, candidates are expected to respond
+  based on their own knowledge and experience and without the
+  use of AI tools. Unless we explicitly authorize AI use for a
+  specific interview or exercise, the use of AI tools during
+  an interview is not permitted. Unauthorized use of AI during
+  an interview may result in disqualification from the hiring
+  process.
+
+  Candidate Identity Verification:
+
+  As part of our hiring process, Seesaw will take reasonable
+  steps to verify a candidate’s identity and confirm that the
+  individual participating in the interview process is the
+  individual who submitted the application. Depending on the
+  role and stage of the process, verification may be completed
+  virtually or in person, by Seesaw directly or through a
+  third-party verification service. Candidates will receive
+  instructions about the process as applicable.  This
+  verification is separate from any employment eligibility
+  verification that may be required after hire.”
+
+  Seesaw cares about building a diverse and inclusive team to
+  better advocate for the needs of our incredibly diverse K-12
+  users.
+
+  We prioritize work-life balance and actually walk the walk —
+  we care a lot about our work, but care more about our
+  employee's well-being. We encourage everyone to work at a
+  sustainable pace and have a flexible vacation policy that
+  people actually use.
+
+  Seesaw provides equal employment opportunities (EEO) to all
+  employees and applicants for employment without regard to
+  race, religious creed, color, sex, sex stereotype, gender,
+  gender identity/gender expression/transgender, national
+  origin, ancestry, physical or mental disability, medical
+  condition, genetic information/characteristics, marital
+  status/registered domestic partner status, age, sexual
+  orientation, or military or veteran status. In addition to
+  federal law requirements, Seesaw complies with applicable
+  state and local laws governing nondiscrimination in
+  employment in every location in which the company has
+  facilities. This policy applies to all terms and conditions
+  of employment, including recruiting, hiring, placement,
+  promotion, termination, layoff, recall, transfer, leaves of
+  absence, compensation, and training.
+
+  Seesaw is committed to protecting your personal data. Learn
+  more about the personal information we collect, how we use
+  it, and how to exercise your rights here: U.S. Privacy
+  Notice.
+
+  Our company participates in E-Verify.
+industries:
+  - Edtech
+  - Kids + Family
+  - Social Impact
+  - Software
+posted_date: 2026-08-27
+url: "https://builtin.com/job/software-engineer-backend/10890210"
+source: Built In

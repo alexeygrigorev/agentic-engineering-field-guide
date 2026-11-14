@@ -1,0 +1,115 @@
+job_id: 11731036
+title: Senior Software Engineer
+company: Berry Street
+location: New York, USA
+work_type: FULL_TIME
+company_size: 94 Employees
+description: |
+  Berry Street is building on the convergence of AI, GLP-1s,
+  and the consumerization of healthcare — while leveraging
+  insurance to make life-changing metabolic care as accessible
+  as possible for all. Our platform connects patients with
+  2,000+ clinicians and AI tools to treat obesity,
+  diabetes/prediabetes, cardiovascular disease, kidney
+  disease, maternal health, and dozens of other chronic and
+  acute conditions, working with major health plans, health
+  systems, and care management companies across all 50 states.
+  We launched in 2023, have served hundreds of thousands of
+  patients, and are Series B — backed by investors like
+  Khosla, Northzone, FJ Labs, and the founders of Revolut,
+  Grow Therapy, and Spring Health.
+
+  The Role
+
+  This is a founding-caliber engineering role. You'll work
+  directly with our founder and leadership team to build the
+  AI-native infrastructure and consumer experiences you’ve
+  always wished existed in healthcare. You'll be one of a
+  small number of engineers shaping how the system scales from
+  hundreds of thousands of patients in the US to millions
+  across the globe.
+
+  We move fast. What you ship today will affect real patients
+  and providers tomorrow. That's the job. AI is at the core of
+  everything we build, both internally and externally.
+
+  What You’ll Work On
+
+  - Architect and ship AI-native systems from the ground up:
+    autonomous clinical agents, LLM-powered workflows that
+    replace manual processes, intelligent tools that make
+    dietitians dramatically more effective and help us
+    prescribe and monitor GLP-1s at scale
+  - Build the infrastructure that makes AI reliable in a
+    clinical setting: evaluation pipelines, guardrails,
+    feedback loops, the unglamorous stuff that makes the
+    difference between a demo and a product
+  - Set technical direction on our platform, making
+    architectural calls that shape how Berry Street scales
+    from tens of thousands of patients to millions
+  - Own features end-to-end across provider- and patient-facing
+    surfaces, from scoping and architecture through to
+    production
+  - Be a force multiplier for the engineering team: raise the
+    bar on code quality, tooling, and practices without
+    slowing anyone down
+  - Work directly with our patients and providers to deeply
+    understand what they actually need and translate that into
+    systems that hold up at scale
+
+  Requirements
+
+  - 5+ years of engineering experience. You've built and
+    maintained production systems at scale. You've made hard
+    architectural calls and lived with the consequences — good
+    and bad.
+  - AI-led, not AI-assisted. We're not looking for someone who
+    uses Cursor / Claude Code / Codex to autocomplete slop
+    faster. We're looking for someone who thinks about how to
+    architect AI-driven architecture from the ground up:
+    autonomous systems that do things that weren't possible
+    two quarters ago. You've shipped something in this space,
+    you have opinions about where it's going, and you're
+    already building for that future.
+  - A product brain. You think about users, not just systems.
+    You push back when a spec doesn't make sense and offer
+    better alternatives. You NEED to understand the ‘why’.
+  - Full-stack, back-end leaning. You're comfortable across the
+    stack but strongest on the platform and API side. You know
+    our stack well: React, Next.js, NestJS, TypeORM,
+    PostgreSQL, AWS. TailwindCSS and TypeScript are not
+    intimidating.
+  - An ownership mindset. You take a project from "vague idea"
+    to "shipped and working" without needing someone to hand-
+    hold you through the middle. You flag problems early,
+    drive decisions, and follow through
+  - A bias for speed. You understand the difference between
+    moving fast and cutting corners, and understand when
+    situations call for one or the other.
+
+  Our Tech Stack
+
+  - React & React Native
+  - TypeScript
+  - Next.js / NestJS
+  - TailwindCSS
+  - TypeORM
+  - PostgreSQL
+  - AWS
+
+  Benefits
+
+  - Competitive base salary
+  - Generous equity package
+  - Comprehensive health, dental, and vision insurance
+  - Unlimited dietitian and GLP-1 care
+  - 401k with match
+  - Generous PTO
+  - In-office, Madison Square Park
+  - Citibike and One Medical memberships
+industries:
+  - Software
+  - Telehealth
+posted_date: 2026-10-16
+url: "https://builtin.com/job/senior-software-engineer/11731036"
+source: Built In

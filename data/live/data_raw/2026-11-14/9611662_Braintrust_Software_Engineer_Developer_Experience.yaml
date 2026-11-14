@@ -1,0 +1,87 @@
+job_id: 9611662
+title: Software Engineer, Developer Experience
+company: Braintrust
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 123 Employees
+description: |
+  About the company
+
+  Braintrust is the agent observability platform. By actively
+  applying intelligence to agent traces and automatically
+  surfacing the most critical patterns, Braintrust gives teams
+  the visibility to understand how agents behave in production
+  and the tools to improve them. Teams at Notion, Stripe, Box,
+  OpenAI, and Cloudflare use Braintrust to trace their agents,
+  find the issues in their observability data, and run evals
+  that tell them how to improve.
+
+  About the role
+
+  We're looking for an Engineer who loves building tools for
+  other engineers. You'll own the systems we touch every day —
+  local dev, CI, and the deploy pipeline — and make shipping
+  to production fast, safe, and reliable. The work compounds
+  across every engineer at the company and is very important
+  to our whole team
+
+  What you'll do
+
+  - Work directly with the engineering team to find friction and
+    remove it — help them be nimble, happy and productive
+  - Drive CI runtime down: parallelization, caching, sharding,
+    test selection, and killing flakes
+  - Own the deploy pipeline: progressive rollouts, fast
+    rollbacks, and clear signals when something is wrong
+  - Own the our build toolchain — bundlers, compilers, monorepo
+    tooling — and keep cold builds and rebuilds fast as the
+    codebase and archictecture grows
+  - Harden our supply chain: SBOMs, signed artifacts, locked-
+    down GitHub Actions, secret hygiene, and provenance for
+    every build
+  - Build CLIs, GitHub Apps, and bots that make the right thing
+    the easy thing
+
+  Ideal candidate credentials
+
+  - 5+ years building developer tools, CI/CD, or platform
+    infrastructure
+  - A track record of taking slow, painful workflows and making
+    them fast and pleasant
+  - Deep GitHub expertise: Actions, Apps, APIs, merge queues,
+    and branch protections
+  - Strong fluency with JavaScript/TypeScript build and bundling
+    tools (esbuild, swc, Vite, Turbopack, tsc, pnpm) and a
+    clear sense of when to reach for which
+  - Comfortable profiling and optimizing across the stack —
+    flamegraphs, tracing, and just plain measurement
+  - Supply chain security experience: SBOMs, Sigstore/cosign,
+    SLSA, GitHub Actions hardening
+  - Strong opinions on safe, reliable production deploys
+
+  Benefits include
+
+  - Medical, dental, and vision insurance
+  - Daily lunch, snacks, and beverages
+  - Flexible time off
+  - Competitive salary and equity
+  - Wifi & cellphone stipend
+
+  Equal opportunity
+
+  Braintrust is an equal opportunity employer. All applicants
+  will be considered for employment without attention to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, veteran or disability status.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Database
+  - Analytics
+posted_date: 2026-08-22
+url: "https://builtin.com/job/software-engineer-developer-experience/9611662"
+source: Built In

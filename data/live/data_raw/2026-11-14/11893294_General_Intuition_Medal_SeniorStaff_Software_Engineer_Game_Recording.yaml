@@ -1,0 +1,76 @@
+job_id: 11893294
+title: Senior/Staff Software Engineer – Game Recording
+company: "General Intuition & Medal"
+location: New York, USA
+work_type: FULL_TIME
+company_size: 41 Employees
+description: |
+  About The Company
+
+  General Intuition is the frontier lab for acting in space
+  and time. We build large action models and world models that
+  can perceive, predict, and act across virtual and physical
+  environments. General Intuition builds on the strength of
+  Medal, the world's largest and fastest-growing platform for
+  gaming clips, where millions of gamers capture, share, and
+  discover new games every year. We've raised over $650M from
+  Khosla, GC, Valor, and Point72 since October 2025, and
+  recently closed our latest round at a $6.2B valuation.
+
+  The Role
+
+  You'll join the Recorder team as a senior engineer and work
+  on the core of Medal: the software that captures, encodes
+  and records gameplay on our users' machines, including game
+  integrations that power features like auto clipping.
+
+  Engineers from other teams (Game Integrations, Front End and
+  interns) regularly contribute to the recorder codebase, so a
+  big part of this role is making that safe and easy. You'll
+  design and architect solutions a team can maintain, set up
+  guardrails and best practices, and help the codebase mature
+  so anyone can make changes cleanly and with confidence.
+
+  This is hands-on work across the recorder stack: capture,
+  hooks, encoding and game integrations. We want someone who
+  likes working across the whole system and sharing what they
+  know, not someone who owns one silo.
+
+  What We're Looking For
+
+  - Confident using C#, .NET Framework, and win32 in
+    performance-critical contexts
+  - Proven software engineering expertise: you've built
+    maintainable, extensible systems
+  - A collaborative, team-first mindset: you share knowledge,
+    pair with others and help the team avoid single points of
+    failure
+  - Result-driven: everything we do is driven by the metrics and
+    performance of the feature, we move fast and ship
+    regularly
+  - Gaming: a passion for games and gaming communities, and a
+    user of Discord and other gaming products
+  - In-person: we're hiring in NYC to work alongside the product
+    team, 5 days a week in the office
+  - Great to have
+    - C/C++
+    - Graphics APIs e.g. DX11, DX12 and Vulkan
+    - Reverse engineering, hooking/injection, modding
+    - Game engines
+
+  Our Stack
+
+  Our team works primarily in C#, .NET Framework, C++, and
+  GitHub actions.
+
+  We collaborate closely with our sister teams: front end
+  (Electron/React), back end (Java), and infrastructure
+  (Terraform).
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Generative AI
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-staff-software-engineer-game-recording/11893294"
+source: Built In

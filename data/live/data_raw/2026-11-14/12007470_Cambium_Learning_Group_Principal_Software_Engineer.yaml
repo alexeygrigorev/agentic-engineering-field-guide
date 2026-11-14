@@ -1,0 +1,341 @@
+job_id: 12007470
+title: Principal Software Engineer
+company: Cambium Learning Group
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,831 Employees
+description: |
+  Job Overview:
+
+  ExploreK12 Literacy is looking for a Principal Software
+  Engineer who combines deep technical expertise, strong
+  engineering judgment, and hands-on execution.
+
+  This role is for an engineer who can get deeply into a
+  complex, mature application, understand how it actually
+  works, and help determine how it should evolve. You will
+  work directly in the code while also helping teams navigate
+  difficult technical decisions, modernization efforts,
+  architectural constraints, and ambiguous engineering
+  problems.
+
+  You will be a senior technical leader within the Literacy
+  product area, partnering closely with engineers, engineering
+  leaders, and architects to help shape technical direction
+  across multiple teams and products. You will help shape
+  technical direction, surface risks and tradeoffs, and turn
+  complex problems into practical paths forward. You will also
+  work across product boundaries where shared capabilities or
+  product convergence require coordination with other
+  engineering teams.
+
+  Modernization is an important part of this role, but it is
+  not the goal by itself. The goal is to enable the future of
+  the product while making the system easier to understand,
+  change, test, deploy, and operate. Sometimes that means
+  modernizing a system. Sometimes it means integrating with
+  it, isolating it, incrementally replacing part of it, or
+  deliberately leaving it alone.
+
+  We are also looking for someone who is fluent in modern AI-
+  assisted software development and interested in applying AI
+  thoughtfully where it can improve engineering effectiveness
+  or create meaningful product value. You do not need to be an
+  AI specialist.
+
+  Job Responsibilities:
+
+  Solve Difficult Technical Problems
+
+  - Get deeply into our applications, codebases, data flows,
+    integrations, dependencies, and operational behavior to
+    understand how the system actually works.
+  - Investigate complex technical problems through multiple
+    layers of the system until the underlying causes and
+    constraints are understood.
+  - Turn ambiguous or complicated engineering problems into
+    clear problem statements, options, tradeoffs, and
+    recommended approaches.
+  - Bring strong technical judgment to decisions involving
+    complexity, risk, customer value, cost, maintainability,
+    team capacity, and future product needs.
+  - Surface significant technical risks early and take clear,
+    well-supported positions when you believe the organization
+    is heading toward a poor technical outcome.
+
+  Remain a Hands-On Engineer
+
+  - Contribute meaningful production code and take direct
+    responsibility for technical work where your involvement
+    can have high impact.
+  - Depending on the needs of the product, own or contribute to
+    projects, features, migrations, prototypes, architectural
+    changes, and difficult engineering investigations.
+  - Work at both the architecture and implementation levels,
+    moving between system-level reasoning and code-level
+    details as the problem requires.
+  - Use hands-on involvement to build firsthand understanding of
+    the system rather than operating primarily through
+    architecture documents and reviews.
+  - Exercise judgment about when personally implementing a
+    solution is the highest-leverage contribution and when
+    enabling another engineer or team will create greater
+    value.
+
+  Help Evolve a Mature Product
+
+  - Partner with architects and product engineering leaders to
+    understand the current application landscape and help
+    craft practical approaches for its evolution.
+  - Identify where architectural constraints and technical debt
+    are materially affecting engineering effectiveness or
+    limiting future product capabilities.
+  - Recommend modernization investments based on evidence,
+    expected value, risk, cost, reversibility, team capacity,
+    and product direction.
+  - Apply approaches such as incremental replacement,
+    modularization, API enablement, migration, strangler
+    patterns, or parallel adoption when they are appropriate
+    to the problem.
+  - Help teams decompose significant technical change into
+    achievable increments that reduce risk and produce useful
+    progress.
+  - Recognize when existing technology is adequate and
+    modernization would create more cost or risk than value.
+  - Help reduce friction in how engineers understand, change,
+    test, deploy, and operate important parts of the product.
+  - Contribute to a credible longer-term path for the product's
+    technical evolution rather than treating modernization as
+    a collection of isolated projects.
+
+  Provide Principal-Level Technical Leadership
+
+  - Be a high-leverage technical partner on important
+    architectural decisions, novel problems, technically risky
+    initiatives, and work with significant cross-product
+    implications.
+  - Identify architectural constraints, technical risks, and
+    systemic issues that span multiple teams, products, or
+    strategic initiatives, and help drive resolution before
+    they become significant delivery, operational, or
+    customer-impacting problems.
+  - Work with Product and Design during solution discovery and
+    implementation planning to translate product needs into
+    sound technical approaches and challenge proposed
+    solutions when technical insight reveals a materially
+    better path.
+  - Partner with architects on broader architectural concerns
+    such as shared capabilities, identity, data, integration
+    patterns, and areas where products increasingly need to
+    work together.
+  - Influence technical direction across the Literacy product
+    area by helping teams align around shared architectural
+    assumptions, integration approaches, technical standards,
+    and long-term evolution paths.
+  - Help teams make stronger technical decisions through
+    architectural guidance, decision frameworks, and shared
+    understanding without becoming an approval gate or
+    centralizing decisions around yourself.
+  - Explain and defend technical recommendations clearly while
+    respecting the accountability of engineering leaders and
+    teams for final decisions and delivery.
+  - When important technical disagreements cannot be resolved
+    within a team, help make tradeoffs explicit and support
+    escalation to the appropriate engineering leader.
+
+  Develop Stronger Technical Leaders
+
+  - Intentionally develop senior engineers and technical leads
+    by involving them in difficult technical problems and
+    helping them strengthen their own judgment.
+  - Coach through design discussions, investigation, pairing,
+    implementation, and code review rather than simply
+    supplying answers.
+  - Give engineers increasing ownership of difficult technical
+    work so that the organization becomes more capable rather
+    than more dependent on the Principal Engineer.
+  - Improve technical practices, design discussions, standards,
+    documentation, or engineering forums when doing so
+    addresses a meaningful recurring problem.
+
+  Apply AI Practically
+
+  - Use modern AI-assisted development tools extensively and
+    thoughtfully as part of your engineering workflow.
+  - Understand the capabilities and limitations of current AI
+    technologies well enough to reason about where they can
+    and cannot add value.
+  - Help identify practical opportunities for AI to improve
+    engineering effectiveness or enable useful product
+    capabilities.
+  - Prototype or contribute to AI-enabled solutions when
+    appropriate, with appropriate attention to privacy,
+    security, quality, cost, and responsible use.
+  - Help the engineering organization learn from practical AI
+    adoption rather than pursuing AI for its own sake.
+
+  Job Requirements:
+
+  - 10+ years of professional software engineering experience,
+    including demonstrated experience operating as a senior
+    technical leader on complex software systems. Previous
+    experience with the title of Principal Engineer is not
+    required.
+  - Demonstrated recent, hands-on experience designing,
+    developing, and supporting production systems using PHP,
+    MySQL, Java, and MS SQL Server at a Principal or Staff
+    Engineer level.
+  - Exceptional ability to investigate complex technical
+    problems and work through abstractions until you
+    understand what is actually happening.
+  - Strong application architecture skills, including the
+    ability to reason about codebases, APIs, data models,
+    integrations, dependencies, failure modes, testing, and
+    operational behavior.
+  - Strong technical judgment and a demonstrated ability to make
+    pragmatic tradeoffs among immediate needs, long-term
+    maintainability, risk, complexity, customer value, cost,
+    and team capacity.
+  - Experience evolving mature software systems and navigating
+    the realities of long-lived codebases, accumulated
+    technical constraints, and incremental change.
+  - Experience with modernization or significant system
+    evolution, including knowing when substantial change is
+    justified and when it is not.
+  - Recent hands-on software engineering experience and the
+    desire to continue contributing meaningful production
+    code.
+  - Ability to turn ambiguous technical situations into clear
+    problems, options, recommendations, and executable paths.
+  - Ability to take strong technical positions, communicate the
+    reasoning behind them, and influence decisions without
+    relying on formal authority.
+  - Experience developing the technical judgment and
+    capabilities of other experienced engineers.
+  - Practical fluency with modern AI-assisted software
+    development and a working understanding of contemporary AI
+    capabilities, limitations, and development patterns.
+  - Ability to quickly build a coherent mental model of a
+    complicated application and communicate that model
+    effectively to engineers and leaders.
+
+  Preferred Experience:
+
+  Experience in any of the following areas can be valuable,
+  but is not required:
+
+  - Complex, long-lived application platforms with significant
+    dependencies, integrations, or accumulated technical
+    constraints.
+  - Incremental modernization, migrations, modularization, or
+    architectural evolution of actively used products.
+  - Integrating products or systems with different
+    architectures, data models, authentication approaches, or
+    technology stacks.
+  - Systems involving sensitive data, identity, authentication,
+    privacy, or security concerns.
+  - Working across product boundaries on shared capabilities or
+    increasingly integrated customer experiences.
+  - Education technology or other domains with complex customer
+    and operational environments.
+  - Building or contributing to AI-enabled product capabilities
+    in production.
+
+  What Success Looks Like:
+
+  Over your first year, success should be visible in both the
+  product and the engineering organization.
+
+  Important parts of the system are becoming easier for
+  engineers to understand, change, test, deploy, or operate.
+  The organization has a clearer, credible path for evolving
+  the product's architecture, and meaningful modernization
+  work is underway where it creates real value. Some of that
+  evolution may also unlock product capabilities that were
+  previously difficult or impractical to deliver.
+
+  Teams are making more consistent technical decisions across
+  product boundaries because shared architectural assumptions,
+  integration approaches, and long-term technical tradeoffs
+  are understood earlier. Cross-team technical risks are
+  surfaced sooner, and the organization has greater confidence
+  in its technical direction beyond any individual application
+  or team.
+
+  Senior engineers and technical leads are taking on
+  increasingly difficult technical problems with stronger
+  judgment and greater independence. Your presence increases
+  the organization's technical capability rather than creating
+  dependency on you.
+
+  AI is becoming a practical part of how engineering works,
+  and useful opportunities for AI in the product are being
+  identified and pursued based on customer and business value
+  rather than novelty.
+
+  Why Work for Us
+
+  When you join ExploreK12™, you become part of a mission to
+  help educators unlock brighter futures for every student.
+
+  As a trusted leader in educational technology, we serve more
+  than 17 million students and educators across 150+ countries
+  with innovative, research-backed learning solutions that
+  truly make a difference. Our flagship products—Gizmos™, Raz-
+  Plus®, and Reflex™—are beloved by educators and students
+  alike for being as practical and effective as they are fun.
+
+  To learn more about our organization and the exciting work
+  we do, visit www.ExploreK12.com.
+
+  Remote First Work Environment
+
+  Our Remote First approach gives employees the flexibility
+  and trust they need to effectively balance work with life.
+  It creates a culture in which all employees are valued and
+  where success is measured in results. It allows us to work
+  collaboratively, inclusively and for greater positive
+  impact, regardless of our individual locations.
+
+  If you will be working remotely, either occasionally or on a
+  permanent basis, you must have a reliable internet
+  connection through a cable or fiber-optic broadband service
+  with minimum speeds of 10 Mbps download and 5 Mbps upload.
+
+  The successful candidate will be expected to actively
+  participate in video-based interviews during the recruiting
+  process and ongoing virtual meetings with their camera on,
+  as part of their role. To maintain confidentiality and
+  ensure a fair evaluation process, the use of note-taking
+  tools, reference materials, or AI-powered tools (including
+  generative AI, language models, or similar technologies)
+  during interviews or other selection activities is
+  prohibited unless prior written approval has been obtained
+  from the People Experience team. If you require an exception
+  for medical, accessibility, or other reasons, please contact
+  your Talent Acquisition team member to discuss
+  accommodations in advance.
+
+  As part of our Remote-First benefits, Cambium offers
+  reimbursement to help cover the cost of setting up your home
+  or remote office.
+
+  An Equal Opportunity Employer
+
+  We are dedicated to fostering a culture that celebrates
+  unique backgrounds, ideas, and experiences. All qualified
+  applicants will receive consideration for employment without
+  discrimination on the basis of race, color, age, religion,
+  sex (including pregnancy, gender, gender
+  identity/expression, or sexual orientation), national
+  origin, protected veteran status, disability, or genetic
+  information (including family medical history).
+
+  We will provide reasonable accommodations for qualified
+  individuals with disabilities.  You may request an
+  accommodation during the recruiting process with your Talent
+  Acquisition team member.
+posted_date: 2026-11-02
+url: "https://builtin.com/job/principal-software-engineer/12007470"
+source: Built In

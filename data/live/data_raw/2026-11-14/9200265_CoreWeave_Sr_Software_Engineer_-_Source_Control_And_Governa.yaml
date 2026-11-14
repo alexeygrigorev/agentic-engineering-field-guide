@@ -1,0 +1,173 @@
+job_id: 9200265
+title: Sr. Software Engineer - Source Control And Governance
+company: CoreWeave
+location: Bellevue, USA
+locations:
+  - Bellevue, USA
+  - New York, USA
+  - Livingston, USA
+  - Sunnyvale, USA
+work_type: FULL_TIME
+company_size: 1,450 Employees
+description: |
+  CoreWeave is The Essential Cloud for AI™. Built for pioneers
+  by pioneers, CoreWeave delivers a platform of technology,
+  tools, and teams that enables innovators to build and scale
+  AI with confidence. Trusted by leading AI labs, startups,
+  and global enterprises, CoreWeave combines superior
+  infrastructure performance with deep technical expertise to
+  accelerate breakthroughs and turn compute into capability.
+  Founded in 2017, CoreWeave became a publicly traded company
+  (Nasdaq: CRWV) in March 2025. Learn more at
+  www.coreweave.com.
+
+  About the Role
+
+  We're looking for a software engineer to join our Source
+  Control and Governance team within our Developer Experience
+  group. In this role, you'll design and build the tooling and
+  automation that keeps our AI compute and bare metal
+  infrastructure platform compliant, secure, and audit-ready.
+
+  You'll work across major compliance frameworks (SOC 2, SOX,
+  ISO 27001), writing policy-as-code, building compliance
+  pipelines, integrating security scanning into CI/CD, and
+  automating evidence collection workflows. This is a
+  collaborative, high-impact team where your engineering work
+  directly supports our ability to serve enterprise customers
+  and meet evolving regulatory requirements.
+
+  What You'll Do
+
+  - Design and build automated compliance pipelines that enforce
+    policies on infrastructure changes and compute
+    provisioning, bringing a CI/CD-driven approach to
+    governance workflows.
+  - Implement policy-as-code using tools like OPA/Rego,
+    Conftest, or InSpec — ensuring compliance rules are
+    version-controlled, peer-reviewed, and enforced
+    automatically across environments.
+  - Automate audit evidence collection for SOC 2, SOX, and ISO
+    27001, replacing manual processes with continuous
+    pipelines that produce timestamped, immutable artifacts.
+  - Build and maintain compliance dashboards and reporting to
+    surface posture scores and framework coverage for internal
+    stakeholders and customers.
+
+  What We're Looking For
+
+  - 7+ years of software engineering experience.
+  - Bachelor's degree in Computer Science or related field.
+  - Demonstrated mastery of Go or Python, including concurrency
+    primitives, memory management, and performance
+    optimization at scale
+  - Experience designing and building CI/CD pipelines using
+    tools like GitHub Actions, GitLab CI, Jenkins, or
+    Buildkite, with a solid understanding of pipeline
+    architecture and design patterns.
+  - Familiarity with Linux systems and networking fundamentals.
+  - A self-directed working style with the ability to take
+    ownership of workstreams on a small, collaborative team.
+
+  Nice to Have
+
+  - Experience with policy-as-code tools (OPA/Rego, Sentinel,
+    Checkov, InSpec).
+  - Familiarity with compliance frameworks such as SOC 2, SOX,
+    ISO 27001, or NIST CSF — you don't need to be an auditor,
+    but an understanding of controls and why they matter goes
+    a long way.
+  - Background in cloud infrastructure, bare metal, or compute
+    platform environments.
+
+  Why This Role
+
+  As an AI compute provider, we operate in a space where the
+  regulatory landscape is actively evolving. That means the
+  work here goes beyond maintaining a static set of controls —
+  you'll be building the systems that define how AI
+  infrastructure compliance works in practice. You'll ship
+  tooling that has a direct line to enterprise customer trust,
+  and you'll help solve problems that don't have established
+  playbooks yet.
+
+  This is a small team with a high degree of autonomy,
+  meaningful greenfield projects, and real opportunity to grow
+  as the space grows around you.
+
+  The base salary range for this role is $165,000 to $242,000.
+  The starting salary will be determined based on job-related
+  knowledge, skills, experience, and market location. We
+  strive for both market alignment and internal equity when
+  determining compensation. In addition to base salary, our
+  total rewards package includes a discretionary bonus, equity
+  awards, and a comprehensive benefits program (all based on
+  eligibility).
+
+  What We Offer
+
+  In addition to a competitive salary, we offer a variety of
+  benefits to support your needs. The benefits below reflect
+  our US-based offerings for full-time employees; for roles in
+  other locations, benefits vary and are shared during the
+  hiring process. These include:
+
+  - Medical, dental, and vision insurance - 100% paid for by
+    CoreWeave
+  - Company-paid Life Insurance
+  - Voluntary supplemental life insurance
+  - Short and long-term disability insurance
+  - Flexible Spending Account
+  - Health Savings Account
+  - Tuition Reimbursement
+  - Ability to Participate in Employee Stock Purchase Program
+    (ESPP)
+  - Mental Wellness Benefits through Spring Health
+  - Family-Forming support provided by Carrot
+  - Paid Parental Leave
+  - Flexible, full-service childcare support with Kinside
+  - 401(k) with a generous employer match
+  - Flexible PTO
+  - Catered lunch each day in our office and data center
+    locations
+  - A casual work environment
+  - A work culture focused on innovative disruption
+
+  California Applicants
+
+  California Consumer Privacy Act
+
+  Equal Opportunity & Accommodations
+
+  CoreWeave is an equal opportunity employer, committed to
+  fostering an inclusive and supportive workplace. All
+  qualified applicants and candidates will receive
+  consideration for employment without regard to race, color,
+  religion, sex, disability, age, sexual orientation, gender
+  identity, national origin, veteran status, or genetic
+  information.
+
+  As part of this commitment and consistent with the Americans
+  with Disabilities Act (ADA), CoreWeave will ensure that
+  qualified applicants and candidates with disabilities are
+  provided reasonable accommodations for the hiring process,
+  unless such accommodation would cause an undue hardship. If
+  reasonable accommodation is needed, please contact:
+  careers@coreweave.com.
+
+  Export Control Compliance
+
+  This position requires access to technology and/or source
+  code subject to U.S. export control laws. Any such access
+  will be provided only in compliance with applicable U.S.
+  export control requirements. As part of the recruitment
+  process, CoreWeave may request limited information
+  reasonably necessary to assess applicable export-control
+  requirements.
+industries:
+  - Cloud
+  - Information Technology
+  - Machine Learning
+posted_date: 2026-08-10
+url: "https://builtin.com/job/sr-software-engineer-source-control-and-governance/9200265"
+source: Built In

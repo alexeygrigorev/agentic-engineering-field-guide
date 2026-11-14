@@ -1,0 +1,124 @@
+job_id: 10574889
+title: Staff Software Engineer
+company: Depot
+location: EUR
+locations:
+  - EUR
+  - USA
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 8 Employees
+description: |
+  Depot helps software teams build faster and spend less time
+  waiting. The platform spans Depot CI, remote container
+  builds, GitHub Actions runners, remote cache, registry,
+  APIs, SDKs, and the CLI. Across all of it, our job is to
+  make hard infrastructure feel fast, dependable, and easy for
+  developers.
+
+  We’re looking for a Staff Engineer who can work across the
+  whole product. You might redesign onboarding, shape an API,
+  change a CLI command, improve logs and errors, simplify
+  billing or permissions, or debug a production issue with
+  support at your side. The common thread is turning messy
+  customer pain into crisp product and technical work.
+
+  This is a high-ownership role on a small team. You’ll help
+  decide what to build, make tradeoffs explicit, write the
+  technical plan, build important pieces yourself, bring
+  teammates along, and measure whether the work made customers
+  faster or less blocked.
+
+  We care as much about how you work as what you know. You
+  should listen well, write clearly, handle disagreement
+  without creating drag, and build trust through judgment and
+  follow-through. Direct experience with our exact stack
+  helps, but it is not the bar. We care more about learning
+  deeply and shipping thoughtful work.
+
+  Please note: Depot is remote-only. For this role we can
+  currently support hiring within North America and Europe.
+
+  What you’ll do
+
+  - Own product work across the web console, APIs, CLI, GitHub
+    integrations, billing and usage, permissions, docs, and
+    internal tools.
+  - Turn ambiguous customer pain into clear product and
+    technical plans, then carry them through design,
+    implementation, rollout, and measurement.
+  - Improve developer-facing workflows for CI, container builds,
+    cache, registry, runners, setup, logs, errors, and
+    integrations.
+  - Design APIs and data models that are consistent,
+    understandable, and safe to evolve.
+  - Debug production issues across services, databases, AWS
+    infrastructure, integrations, and customer environments.
+  - Raise the engineering bar through design docs, code review,
+    mentorship, and calm technical leadership.
+
+  What we’re looking for
+
+  - Staff-level product engineering judgment across backend
+    behavior, API shape, data model, UI flow, and operational
+    reality.
+  - Experience owning meaningful projects from ambiguity to
+    production, including sequencing, tradeoffs, rollout, and
+    follow-through.
+  - Strong technical depth in backend, full-stack, platform,
+    infrastructure, or developer-tooling systems.
+  - Excellent debugging instincts across application code, APIs,
+    databases, background jobs, cloud infrastructure,
+    observability, and third-party integrations.
+  - Developer empathy for clear APIs, intuitive CLIs, useful
+    docs, actionable errors, and workflows that feel fast and
+    trustworthy.
+  - High emotional intelligence: you communicate clearly, handle
+    disagreement constructively, and help a remote team make
+    better decisions.
+
+  Typically this comes from 7+ years of production engineering
+  experience, or equivalent depth in product, platform,
+  infrastructure, or developer tools. Helpful background
+  includes CI systems, GitHub Actions, build tooling,
+  Docker/BuildKit, remote caching, auth/SSO, billing, or
+  observability.
+
+  Direct experience with our specific stack is a bonus, but
+  not required: TypeScript, Go, React, protobuf/gRPC-style
+  APIs, MySQL/PlanetScale, ClickHouse, AWS, and OpenTelemetry.
+
+  How we work
+
+  Depot is fully remote and distributed across the US, Canada,
+  and Europe. We rely on clear writing, async collaboration,
+  and people who can create clarity without waiting for
+  perfect instructions.
+
+  We are a small team trying to do unusually ambitious work.
+  Ownership matters here: you make choices, own outcomes, and
+  share what you learn when those choices work or do not.
+
+  Work is not family. We care about excellent work and meeting
+  commitments, and we also expect people to have real lives
+  outside of Depot.
+
+  We make decisions with customer context and data. Strong
+  opinions are useful; clear evidence and good judgment are
+  better.
+
+  Equal opportunity
+
+  Depot is an equal opportunity employer. We welcome
+  candidates from different backgrounds and encourage you to
+  apply even if your experience does not match every bullet.
+  If you need a reasonable accommodation during the interview
+  process, let us know.
+industries:
+  - Information Technology
+  - Productivity
+  - Software
+posted_date: 2026-08-07
+url: "https://builtin.com/job/staff-software-engineer/10574889"
+source: Built In

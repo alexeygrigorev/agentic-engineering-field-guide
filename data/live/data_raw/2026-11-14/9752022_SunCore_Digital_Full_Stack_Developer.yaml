@@ -1,0 +1,90 @@
+job_id: 9752022
+title: Full Stack Developer
+company: SunCore Digital
+location: London, GBR
+locations:
+  - London, GBR
+  - Scottsdale, USA
+  - Bellevue, USA
+work_type: FULL_TIME
+company_size: 25000 Employees
+description: |
+  Full Stack Developer
+
+  Location: Remote (Global) | HQ: Bellevue WA, Scottsdale AZ,
+  London UK, Hybrid Company: SunCore Digital Employment Type:
+  Full-time, base deferral until 90 days post-launch (4-6
+  weeks out)
+
+  About the Role
+
+  SunCore Digital is seeking a high-performance Team Lead /
+  Full Stack Developer to accelerate our digital
+  infrastructure build-out. This role will lead development
+  efforts, co-manage a lean engineering team, and coordinate
+  directly with marketing, operations, and compliance.
+
+  Key Responsibilities
+
+  - Co-champion development of SunCore’s web and app
+    infrastructure, ensuring scalable, modular architecture
+    using Node.js and Python.
+  - Establish and manage CI/CD pipelines in GitHub.
+  - Migrate infrastructure from SiteGround to Digital Ocean and
+    implement Cloudflare for performance optimization.
+
+  Own CRM migration: Replace Pipedrive with Hubspot CRM via
+  Zapier, enable full web-to-lead flow and integrate
+  scheduling and heatmapping tools (ChiliCal, Mouseflow).
+
+  - Integrate APIs and 3rd-party tools: Binance, WhatToMine,
+    Trulioo, Stripe, BitPay, BambooHR, Docusign, OKTA,
+    Zendesk.
+  - Develop and launch SunCore's secure dashboard and mobile app
+    (Flutter) with biometric/2FA login, real-time mining data,
+    wallet integrations, and statement delivery.
+  - Ensure SOC2-level security, including SHA-256 secure login
+    and third-party audit readiness.
+  - Collaborate with agencies (UI/UX, digital marketing) to
+    integrate design, returns pages, and optimized content.
+  - Oversee KYC-compliant sales flow: Info → Product Overview →
+    KYC → Payment → Contract → Secure Dashboard Access.
+  - Implement team best practices for code reviews,
+    documentation, testing, and security in conjunction with
+    SunCore's Back-End Team Lead.
+
+  Tech Stack
+
+  - Languages: Node.js, Python, JavaScript, Dart (Flutter), Java
+  - Platforms: GitHub, Digital Ocean, Box, Stripe, Hubspot,
+    OKTA, Zendesk
+  - Tools: Zapier, Docusign, Mouseflow, ChiliPiper, Trulioo,
+    BambooHR, Xero
+  - Frameworks: Flutter, Express.js, REST APIs
+
+  Ideal Candidate
+
+  - 5+ years full-stack development (Node.js/Python preferred)
+  - 2+ years leading agile dev teams
+  - Strong background in API integrations, DevOps, and secure
+    app architecture
+  - Experience in fintech, blockchain, or high-compliance
+    environments
+  - Proactive, detail-oriented, and able to manage across time
+    zones and departments
+
+  What We Offer
+
+  - High-impact leadership role in a rapidly scaling digital
+    company
+  - Fully remote team with async flexibility
+  - Competitive compensation with performance upside
+  - Direct collaboration with executive leadership and best-in-
+    class marketing/design partners
+industries:
+  - Blockchain
+  - Energy
+  - Cryptocurrency
+posted_date: 2026-08-24
+url: "https://builtin.com/job/full-stack-developer/9752022"
+source: Built In

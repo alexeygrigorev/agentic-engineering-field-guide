@@ -1,0 +1,163 @@
+job_id: 11898738
+title: Software Engineer
+company: VALIS
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  If you're human and interested in joining the VALIS team,
+  please read this job description in full before applying.
+
+  About VALIS
+
+  We’re a fast-moving, rapidly growing B2B SaaS company
+  focused on bringing modern technology to the metal recycling
+  industry — an essential but underserved market segment. Our
+  technology helps recyclers close more deals, operate more
+  efficiently, and finally ditch the pen-and-paper workflows.
+
+  We’re an early-stage company, backed by leading climate-tech
+  VCs, looking to bring on new team members that can help us
+  build VALIS and transform the industry. We lead with
+  authenticity, boldness, passion, and empathy focused on
+  creating a more sustainable future. A career at VALIS is one
+  where you’ll be empowered to expand your technical and
+  leadership abilities while having a positive impact on the
+  world.
+
+  The role
+
+  As a Software Engineer at VALIS, you'll build and scale our
+  newest product line, taking it from a blank page to the
+  plant floor. You'll spend time with operators and plant
+  managers, design the schema and application, and deliver a
+  product that scrap processors rely on to run their plant.
+  Working directly with our CTO, product team, and end users,
+  you'll make the architecture and design decisions,
+  prioritize what gets built when, and see your work used
+  every shift, every day. We're hiring across mid-senior
+  levels, from a few years experience to senior engineers.
+
+  What you'll do
+
+  - Own the product end-to-end: data model, API, UI, UX,
+    deployment, and iteration.
+  - Design a multi-tenant domain model (materials, loads, runs,
+    equipment, quality) that holds up as each customer's
+    process differs.
+  - Build fast, robust, validated data-entry workflows for the
+    plant floor.
+  - Deliver insights dashboards managers act on each shift.
+  - Meet with operators and facility managers weekly, get on-
+    site, and turn what you see into product decisions.
+  - Integrate new data sources with existing VALIS data and
+    customer systems such as ERP exports, scales, and plant
+    controls.
+  - Build and deploy agentic features to surface trends from
+    production and quality data, flag anomalies, and notify
+    the right people.
+
+  How we work
+
+  - Remote, US-based. Work from anywhere in the US, overlapping
+    with East Coast business hours (roughly 9am to 5pm ET).
+  - Small team, low overhead. You'll work directly with our CTO,
+    along with a product and business team with deep industry
+    experience.
+  - Our stack: React and TypeScript on the frontend; C# and
+    ASP.NET Core with PostgreSQL on the backend; AWS, Docker,
+    and Pulumi for infrastructure.
+  - We use Claude Code heavily and expect you to be highly
+    effective with it. You should own and understand the code
+    you ship; AI speeds up the work but does not replace the
+    thinking.
+  - Travel a few times a year for customer site visits and
+    company get-togethers (on-site at our HQ in Worcester, MA
+    or off-site elsewhere).
+
+  RequirementsWho you are
+
+  We hire for fundamentals & mindset. You:
+
+  - Have 3+ years of professional software engineering
+    experience (for senior candidates, 5+ and have led
+    technical projects).
+  - Think data model first: you can turn a messy real-world
+    process into a clean, normalized schema... and defend the
+    tradeoff decisions.
+  - Use types, clear boundaries, and domain language to make
+    wrong states hard to represent.
+  - Are comfortable owning ambiguous problems end to end,
+    finding solutions without waiting for instruction.
+  - Are solid across databases, backend APIs, and frontend
+    fundamentals.
+  - Are mathematically minded, with strong quantitative and
+    statistical fundamentals, so the numbers we show customers
+    are ones they can trust.
+  - Move fast, cut scope wisely, and don't shy away from talking
+    to customers.
+  - Write and communicate clearly with both technical and non-
+    technical team members (we're a remote team).
+
+  It won't be a good fit if you want a big team to lean on, a
+  slow/low-risk release process, or narrow-scoped work.
+
+  If this role really excites you, but you don't check all the
+  boxes, apply anyway!
+
+  Bonus points
+
+  - Familiarity with our stack (React, TypeScript, C#/.NET,
+    PostgreSQL, AWS).
+  - You've worked in metals or materials recycling (or another
+    heavy industry) and understand the people who run those
+    operations.
+  - You've built ERP, MES, inventory, logistics, or other
+    operations software where data-entry correctness matters.
+  - You've built multi-tenant B2B SaaS where each customer's
+    workflow is a little different.
+  - Experience with plant or device data: scales, PLCs, SCADA,
+    MQTT, or ERP integrations.
+
+  Benefits
+
+  - Base salary: $125,000 to $155,000, depending on experience
+    level
+  - Meaningful equity through our employee stock option plan
+  - 401(k) with employer matc
+  - Medical, dental, and vision insuranc
+  - Unlimited vacation, plus: sick time, guaranteed personal
+    time, and public holiday
+
+  You must be authorized to work in the US full-time. We can't
+  sponsor visas at this time.
+
+  Our hiring processApplication form
+
+  Please note that we will be screening all application
+  question responses for authenticity; any pure AI-generated
+  answers will result in automatic disqualification. Our team
+  members will be personally reviewing each application, and
+  we want to hear your voice & personal experience!
+
+  Say hi to our office dog in your application (include her
+  name). It's on the About Us page of our website.
+
+  Steps
+
+  - Intro call (15-30 min)
+  - Technical deep dive (30-60 min) on something you built from
+    scratch
+  - Live design exercise (60-90 min): e.g., model a real
+    recycling-floor workflow with us
+  - Team and founder conversations
+  - References, background check, and offer
+
+  We aim to move from first call to offer in about 2-3 weeks.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-26
+url: "https://builtin.com/job/software-engineer/11898738"
+source: Built In

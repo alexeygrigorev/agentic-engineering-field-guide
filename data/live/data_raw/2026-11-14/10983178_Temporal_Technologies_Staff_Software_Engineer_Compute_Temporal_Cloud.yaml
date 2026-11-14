@@ -1,0 +1,110 @@
+job_id: 10983178
+title: Staff Software Engineer, Compute (Temporal Cloud)
+company: Temporal Technologies
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 501 Employees
+description: |
+  Role Summary
+
+  Temporal powers durable execution for the world’s most
+  demanding AI and enterprise systems. The Compute team at
+  Temporal makes that durability feel effortless by building
+  the managed compute primitives that run workers and other
+  execution systems across Temporal Cloud.
+
+  We’re solving a hard platform problem: make compute
+  transparent, elastic, safe-by-default, observable, and
+  multi-cloud — without turning customers into infrastructure
+  operators. We build platform primitives that span a variety
+  of execution environments (e.g., serverless-style runtimes,
+  containerized fleets, and customer-controlled deployments).
+  Our work sits at the intersection of control plane + data
+  plane: scaling decisions, isolation boundaries, multi-tenant
+  safety, and production-grade observability. If you’ve built
+  autoscaling systems, multi-tenant platforms, or cloud
+  infrastructure, you’ll find a lot to love here.
+
+  See the "Compute team" link to read more --> Compute team
+
+  What You'll Do
+
+  Invent
+
+  - Create new managed compute primitives that feel first-class
+    in Temporal Cloud: crisp abstractions, clean APIs, and an
+    extension story across compute providers.
+  - Design self-optimizing autoscaling systems (signals,
+    backstops, debouncing, guardrails) that scale worker
+    fleets safely and predictably.
+  - Define the Open Source Server ↔ Cloud boundary for compute
+    capabilities, keeping the architecture cohesive and
+    maintainable.
+
+  Own
+
+  - Architect, build, and operate services on the hot path of
+    task execution where performance and correctness are
+    customer-visible.
+  - Deliver real-world cloud integrations (e.g., customer-
+    account execution): IAM boundaries, secure credentials
+    handling, networking constraints, quotas, and failure
+    modes.
+  - Make operability a feature: SLOs, tracing/metrics, load and
+    failure testing, incident reviews, and continuous
+    hardening.
+  - Ship end-to-end: API design, rollout strategy, backwards
+    compatibility, and long-term maintenance.
+
+  Teach
+
+  - Raise the bar through design docs, strong reviews, pragmatic
+    technical leadership, and mentorship.
+  - Lead through influence across teams (Server, SDKs, Security,
+    Control Plane) to land coherent platform changes.
+
+  What You'll Bring
+
+  - Significant experience building distributed systems or
+    multi-tenant platform services (design, implementation,
+    and production operations).
+  - Strong systems fundamentals: concurrency, performance,
+    reliability, and failure-mode thinking.
+  - A record of shipping platform primitives used by other
+    engineers/customers (APIs, control planes, data planes).
+  - Comfort owning outcomes: SLOs, incident response, and
+    improving on-call quality over time.
+  - Excellent written communication and crisp trade-off
+    thinking. (Go experience is a plus; judgment matters
+    most.)
+
+  Super to Have
+
+  - Experience building cloud compute platforms spanning
+    physical servers, CPU/GPU resources, virtual machines,
+    container orchestration, and networking.
+  - Experience extending Kubernetes through custom controllers
+    and CRDs, and operating heterogeneous Kubernetes worker
+    fleets.
+  - Experience with IAM/security boundaries for cross-account
+    execution models.
+
+  Temporal Technologies is an Equal Opportunity Employer.
+  Temporal Technologies does not discriminate on the basis of
+  race, religion, color, sex, gender identity, sexual
+  orientation, age, non-disqualifying physical or mental
+  disability, national origin, veteran status, or any other
+  basis covered by appropriate law. All employment is decided
+  on the basis of qualifications, merit, and business need. We
+  embrace and celebrate differences and diversity.
+
+  Temporal is committed to providing access, equal
+  opportunity, and reasonable accommodation for individuals
+  with disabilities in employment, its services, programs, and
+  activities. If you need to request a reasonable
+  accommodation, please let your Recruiter know so we can
+  assist.
+posted_date: 2026-11-04
+url: "https://builtin.com/job/staff-software-engineer-compute-temporal-cloud/10983178"
+source: Built In

@@ -1,0 +1,136 @@
+job_id: 11617361
+title: Software Engineer
+company: Empirical Security
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  Our Company
+
+  Empirical Security builds cybersecurity models and software
+  for data-driven decisions and operations. Our platforms
+  empower our customers to make security decisions using the
+  best available data from across the industry, paired with
+  their own data and state of the art machine learning and AI.
+  Our product is a Unified Posture Management Platform that
+  provides visibility of risk across all attack surfaces.
+
+  The Role
+
+  Software Engineers at Empirical Security craft web
+  applications that deliver novel security data, build data
+  pipelines that power machine learning systems and architect
+  software at scale to transform how organizations protect
+  themselves. Our Software Engineers are involved throughout
+  the product lifecycle, from idea generation and design to
+  prototyping, development and production delivery. The ideal
+  candidate will have experience building user facing web
+  applications, designing powerful APIs and scaling systems to
+  handle growing volumes of data.
+
+  You will collaborate closely with technical and non-
+  technical teammates to understand our customers' problems
+  and build products that solve them. We encourage movement
+  across teams to share context, skills, and experience, so
+  you'll learn about many different technologies and aspects
+  of each product. Engineers work autonomously and make
+  decisions independently, within a community that will
+  support and challenge you as you grow and develop, becoming
+  a strong technical contributor and engineering leader.
+
+  Your day-to-day workflow will vary, adapting to the
+  requirements of our users and the technical challenges that
+  arise. One day, you may find yourself collaborating with
+  other engineers to architect a new data pipeline that
+  enables a novel workflow, the next you could be fine-tuning
+  performance.
+
+  Core Responsibilities
+
+  - Architecting and creating software solutions for complex
+    high volume data environments with a strong focus on
+    product quality and data integrity
+  - Maintaining high coding standards through the development of
+    guidelines, active participation in code reviews, and
+    fostering a culture of continuous improvement and
+    knowledge sharing among your team
+  - Designing efficient data structures and algorithms to manage
+    large-scale and high throughput data
+  - Supporting the management and optimization of data storage
+    and warehousing solutions
+  - Building robust APIs for use by front-end developers and
+    interfacing external systems, and collaborating with
+    front-end developers to integrate user-facing elements
+    with server-side logic
+  - Optimizing applications for speed and scalability through
+    performance analysis
+  - Participating in ETL development and data integration
+    efforts, ensuring data quality and accessibility for
+    analytics applications
+
+  Technologies We Use
+
+  - Our modern Ruby on Rails app (Turbo Streams, Phlex, RubyLLM)
+    allows customers to interact with their security data
+  - Our custom data pipelines are built with Python and ingest
+    all manner of security data
+  - We use relational databases (e.g., MySQL, PostgreSQL) and
+    analytical datastores (e.g., Iceberg, S3Tables) to power
+    data exploration
+  - Our software runs atop cloud services (AWS, Azure, Google
+    Cloud) and their data-related offerings
+
+  What We Value
+
+  - A love of problem solving, a transparent and balanced work
+    culture, and a focus on customer outcomes
+  - Strong focus on creating user-oriented workflows and
+    solutions, crossing product boundaries to deliver cohesive
+    and solid user workflows that ensure a seamless and
+    intuitive user experience
+  - A deep understanding of server-side logic, efficient data
+    handling, and distributed systems
+  - Ability to work collaboratively in teams of technical and
+    non-technical individuals and understand how technical
+    decisions impact the people who will use what you're
+    building
+  - Skill and comfort working in a constantly evolving
+    environment with dynamic objectives and iteration with
+    users
+  - Experience building high-quality software in a fast-paced
+    CI/CD development environment
+
+  Benefits
+
+  - Medical, dental, and vision insurance
+  - Paid leave for new parents and emergency back-up care for
+    all parents
+  - Unlimited paid time off
+
+  Salary
+
+  The salary range for this position is estimated to be
+  $155,000 - $225,000/year. Total compensation for this
+  position will also include generous stock options. Further
+  note that total compensation for this position will be
+  determined by each individual’s relevant qualifications,
+  work experience, skills, and other factors.
+
+  A Final Word
+
+  Don't check off every box in the requirements listed above?
+  Please apply anyway! Studies have shown that marginalized
+  communities - such as women, LGBTQ+ and people of color -
+  are less likely to apply to jobs unless they meet every
+  single qualification. Empirical Security is dedicated to
+  building an inclusive, diverse, equitable, and accessible
+  workplace that fosters a sense of belonging – so if you're
+  excited about this role but your past experience doesn't
+  align perfectly with every qualification in the job
+  description, we encourage you to still consider submitting
+  an application. You may be just the right candidate for this
+  role or another one of our openings!
+posted_date: 2026-10-12
+url: "https://builtin.com/job/software-engineer/11617361"
+source: Built In

@@ -1,0 +1,184 @@
+job_id: 11362459
+title: Senior Software Engineer, AWS Cloud Infrastructure
+company: Praxis Precision Medicines, Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 160 Employees
+description: |
+  Location:  This position may be performed remotely, but
+  requires the flexibility and willingness to travel as
+  needed.
+
+  The Opportunity
+
+  You will own and shape how Praxis designs, governs, secures,
+  and operates AWS at scale—from account structure and
+  identity to the platforms and applications that run on them.
+  You will be a hands-on builder, using your depth in cloud
+  infrastructure and software engineering to create secure,
+  reliable systems that enable our teams to move quickly.
+
+  You will work at the intersection of software engineering,
+  cloud infrastructure, security, and operations. You will
+  build and improve the systems that keep our teams moving
+  fast while maintaining high standards for reliability,
+  security, and compliance. You will work primarily in
+  TypeScript and Python, use modern AI tooling as part of your
+  daily engineering workflow, and take direct accountability
+  for production operations, including on-call.
+
+  You will be expected to see problems, take ownership, and
+  drive them through resolution. You will move quickly through
+  incremental, well-controlled changes, question assumptions
+  when there is a better path, and turn operational learnings
+  into durable improvements. Just as importantly, you will
+  raise the bar for the people and systems around you by
+  sharing what you know, communicating clearly, and helping
+  the broader team build and operate better.
+
+  Primary Responsibilities
+
+  - Own and evolve AWS architecture for enterprise workloads,
+    including multi-account foundations, landing zone /
+    Control Tower patterns, networking, security baselines,
+    and shared platforms.
+  - Establish and continuously improve AWS governance, including
+    organizational structure, SCPs, tagging, cost controls,
+    compliance, audit readiness, and durable operational
+    standards.
+  - Design and operate identity and access across AWS, including
+    IAM, IAM Identity Center, and Microsoft Entra ID
+    integrations for SSO, federation, role mapping, access
+    reviews, and least-privilege access.
+  - Build, harden, and operate AWS platforms and full-stack
+    services using TypeScript and Python, including compute,
+    containers, serverless, data stores, messaging, and cloud
+    automation as needed.
+  - Drive operational excellence across AWS platforms and
+    workloads by building effective monitoring, alerting,
+    dashboards, SLOs/SLIs, runbooks, incident response
+    practices, and durable fixes to recurring problems;
+    participate in the on-call rotation and own incidents
+    through resolution and learning.
+  - Automate infrastructure and delivery through Infrastructure
+    as Code—preferably Pulumi and/or SST—and CI/CD using
+    Bitbucket Pipelines and/or GitHub Actions, with an
+    emphasis on safe, incremental delivery and low blast
+    radius.
+  - Partner across engineering and IT to translate needs into
+    secure, maintainable solutions, improve production
+    readiness and operational practices, mentor other
+    engineers, and use sound judgment to move fast without
+    breaking things.
+
+  Qualifications
+
+  - Senior-level software engineering experience, with
+    substantial hands-on experience building and operating
+    production systems on AWS.
+  - Strong full-stack engineering capability in TypeScript and
+    Python, including APIs, services, tooling, and cloud
+    automation.
+  - Deep experience with core AWS services used in enterprise
+    environments, including IAM, Organizations, VPC, EC2,
+    ECS/EKS or Lambda, S3, RDS/DynamoDB, CloudWatch, KMS,
+    Config, and GuardDuty.
+  - Proven ability to design and operate AWS governance at
+    scale, including multi-account strategy, policy
+    guardrails, access control, security standards, and
+    operational controls.
+  - Strong AWS networking fundamentals, including VPNs, peering,
+    Transit Gateway, routing, DNS, and hybrid connectivity.
+  - Experience with enterprise SSO; Microsoft Entra ID (Azure
+    AD) federation into AWS is strongly preferred, including
+    SAML/OIDC, IAM Identity Center, application and role
+    mapping, and access lifecycle practices.
+  - Experience working in regulated or audit-ready environments,
+    with strong habits around change control, evidence and
+    traceability, least privilege, and durable controls.
+  - Demonstrated operational ownership: able to establish
+    meaningful alerts and monitors, reduce noise, improve
+    reliability, respond to incidents, and turn operational
+    learnings into engineering improvements.
+  - Strong Infrastructure as Code experience; Pulumi and/or SST
+    strongly preferred. Terraform or AWS CDK experience is
+    transferable and welcome.
+  - Experience with Bitbucket Pipelines and/or GitHub Actions.
+  - Proficient with modern AI coding and productivity tools,
+    with the judgment to validate outputs, test changes,
+    manage risk, and maintain production quality.
+  - The physical and mental requirements of our roles include
+    but are not limited to regular use of a computer, devices
+    or other office equipment, clear communication, and
+    occasional movement. You'll need comfort with screen work,
+    basic hand coordination, and focus. Reasonable
+    accommodations may be made to enable individuals with
+    disabilities to perform these functions.
+
+  Annualized Base Salary
+
+  $125,000—$150,000 USD
+
+  Compensation & Benefits At Praxis, we believe that taking
+  care of our people (and their people) is important, so we
+  provide a world class benefits package to help you thrive. 
+  This includes 99% of the premium paid for medical, dental
+  and vision plans.  We also provide company-paid life
+  insurance, AD&D, disability benefits, and voluntary plans to
+  personalize your coverage. Thinking about the future?  We
+  match dollar-for-dollar up to 6% on eligible 401(k)
+  contributions and sweeten the deal with long-term stock
+  incentives and ESPP.  We provide a discretionary quarterly
+  bonus, an extremely flexible wellness benefit, generous PTO,
+  paid holidays and company-wide shutdowns.  Not to mention,
+  you'll also be joining a phenomenal crew of colleagues who
+  are smart, engaged and inspiring.  We aim high, collaborate
+  hard, and produce results.  Let’s achieve the impossible
+  together!
+
+  Company Overview
+
+  Praxis Precision Medicines is a clinical-stage
+  biopharmaceutical company translating genetic insights into
+  the development of therapies for central nervous system
+  disorders characterized by neuronal imbalance.  At Praxis we
+  share a common vision of reshaping the human condition into
+  a more freeing and fulfilled existence by developing high
+  impact medicines for patients and families affected by and
+  living with complex brain disorders.  Our core Values of
+  Trust, Ownership, Curiosity and Results are foundational to
+  every aspect of our business and are exemplified by each and
+  every one of our team members. Diversity, Equity & Inclusion
+  Guided by our core values, at Praxis Precision Medicines,
+  Inc. we continue to DARE FOR MORE® to advance, promote, and
+  champion diversity, equity, and inclusion by encouraging
+  individuals to bring their authentic selves and perspectives
+  to work each day. We are an equal opportunity employer and
+  committed to providing opportunities to all qualified
+  applicants without regard to race, religious creed, color,
+  gender identity or expression, age, national origin, sexual
+  orientation, disability, genetics, military service and
+  veteran status, or any other characteristic protected by
+  federal, state, or local laws. Attention: Job Scam Alert
+  Praxis has recently become aware of fraudulent job
+  recruitment postings from individuals claiming to represent
+  Praxis. These postings seek financial information in
+  connection with fraudulent opportunities for employment. If
+  you suspect any fraudulent activity or misrepresentation in
+  connection with a Praxis job opportunity, please report it
+  to careers@praxismedicines.com. Praxis does not accept
+  unsolicited submissions from recruitment agencies for open
+  positions. We ask all recruitment agencies to refrain from
+  contacting any Praxis employee regarding any position. All
+  unsolicited resumes submitted by recruitment agencies to any
+  Praxis employee in any form or method will be deemed to be
+  the property of Praxis, and Praxis explicitly reserves the
+  right to hire those candidate(s) without any financial
+  obligation to the recruitment agency.
+industries:
+  - Healthtech
+  - Biotech
+posted_date: 2026-09-24
+url: "https://builtin.com/job/senior-software-engineer-aws-cloud-infrastructure/11362459"
+source: Built In

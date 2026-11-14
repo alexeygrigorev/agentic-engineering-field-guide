@@ -1,0 +1,204 @@
+job_id: 11257521
+title: Senior Backend Engineer, Payments
+company: Hauler Hero Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 47 Employees
+description: |
+  About Hauler Hero
+
+  Hauler Hero is a modern, multi-tenant SaaS platform built
+  for the waste management industry. We help haulers run
+  smarter operations, from dispatch and routing to driver
+  workflows, billing, and customer payments.
+
+  Hauling companies across North America run on Hauler Hero
+  every day. Our customers bill and collect payments through
+  the platform, so reliability and accuracy matter in
+  everything we build.
+
+  Role Summary
+
+  We are hiring a Senior Backend Engineer to join our payments
+  team. You will share ownership of the platform that moves
+  our customers' money, including card processing, refunds,
+  reconciliation, and the processor integrations behind them.
+
+  This is a 100% hands-on senior IC role. You will design and
+  ship the systems that make payments safe by construction,
+  while refactoring and extending what exists as the platform
+  scales.
+
+  The role requires strong technical judgment, comfort with
+  ambiguity, and clear communication in a remote environment.
+
+  AI-First Backend Engineering
+
+  We are intentionally building an AI-assisted engineering
+  organization. AI tools are part of the daily workflow, not
+  optional.
+
+  What this means in practice:
+
+  - Daily use of tools such as Claude, Claude Code, Cursor, and
+    GitHub Copilot
+  - AI-assisted implementation of Spring Boot services, APIs,
+    database migrations, and business logic
+  - AI-assisted test generation, refactoring suggestions, and
+    code review support
+  - AI-assisted log analysis, debugging, and issue investigation
+
+  You remain accountable for reviewing, validating, and owning
+  everything AI produces. In payments, that bar is higher than
+  anywhere else in the codebase. Speed matters, but a subtle
+  bug moves real money, so correctness matters more.
+
+  This role is not a fit for engineers who are resistant to
+  AI-assisted development or who rely on AI output without
+  understanding the underlying system.
+
+  Key ResponsibilitiesPayments Platform
+
+  - Design, build, and operate the services behind card
+    processing, refunds, and payment reconciliation
+  - Own our processor integrations behind a common connector
+    layer, including onboarding new processors and retiring
+    old ones
+  - Make the payment pipeline safe by construction through
+    idempotent charge paths, processor timeouts and retries
+    outside database transactions, webhook handling, and an
+    automated reconciler that catches stuck or mismatched
+    payments
+  - Build audit trails so every payment and refund is traceable
+  - Be a first responder for payments incidents and drive root
+    cause analysis and structural fixes, not one-off scripts
+  - Partner with Customer Success on the payments support queue
+    and turn recurring tickets into product fixes
+
+  Core Backend Development
+
+  - Write clean, testable, high-performance code in Kotlin and
+    Java using Spring Boot; new backend code is written in
+    Kotlin
+  - Design and implement APIs that scale with real production
+    workloads
+  - Refactor and extend existing services to improve reliability
+    and maintainability
+
+  Data & Performance
+
+  - Design and optimize relational schemas in PostgreSQL
+  - Write and tune performant SQL for large data volumes and
+    validate that access patterns scale under load
+
+  Collaboration & Delivery
+
+  - Work as part of a cross-functional Agile/Scrum team and
+    participate in design reviews, code reviews, and
+    architectural discussions
+  - Collaborate with product, frontend, and Customer Success on
+    billing and payments features
+  - Mentor engineers through code reviews and proactively share
+    context to avoid knowledge silos
+
+  Required QualificationsExperience
+
+  - 5+ years building production backend systems
+  - 2+ years building or operating payment systems in
+    production, including card processing, recurring billing,
+    refunds and reversals, or reconciliation
+  - Direct experience integrating with at least one payment
+    processor or gateway API
+  - Experience designing and operating systems with distributed
+    data and meaningful scale
+  - Experience working in Agile/Scrum environments, with strong
+    Git/GitHub workflow experience
+
+  Core Technologies
+
+  - Strong proficiency with Spring Boot (Java and/or Kotlin) and
+    willingness to write Kotlin as your primary language
+  - Deep experience with relational databases, especially
+    PostgreSQL
+  - Experience building and maintaining production APIs
+
+  Payments
+
+  - Working knowledge of idempotency, at-least-once vs. exactly-
+    once processing, retries, and reconciliation patterns for
+    money movement
+  - Understanding of PCI DSS scope and tokenization; you know
+    what must never touch our servers
+  - Experience with financial edge cases, including partial
+    refunds, voids vs. reversals, chargebacks, declined and
+    stuck transactions, and timezone-sensitive scheduling
+
+  Skills
+
+  - Ability to translate product requirements into technical
+    solutions
+  - Strong problem-decomposition and debugging skills, including
+    production incident work
+  - Solid computer science fundamentals and engineering judgment
+  - Clear written and verbal communication skills
+
+  Nice to Have
+
+  - Integrations with payment processors
+  - Ledger design or double-entry accounting concepts; invoicing
+    and accounts-receivable systems
+  - ACH or bank-payment experience
+  - Event-driven architectures such as Pub/Sub or Kafka
+  - Google Cloud Platform, including GKE, Cloud Run, and Cloud
+    SQL, and Redis
+  - Background in fintech, B2B SaaS, or logistics
+  - Frontend experience with React
+
+  Our Tech Stack
+
+  - Backend: Kotlin, Java, Spring Boot, PostgreSQL
+  - Payments: Multiple card processors behind an in-house
+    connector layer; Redis for idempotency and reconciliation
+  - Cloud: Google Cloud Platform (GKE, Cloud Run, Cloud SQL)
+  - Caching: Redis, Firestore
+  - Frontend: React
+  - CI/CD: Cloud Build, GitHub Actions
+  - Monitoring: New Relic, Google Operations
+
+  What We Look ForOwnership & Judgment
+
+  - You take problems through to resolution
+  - You balance pragmatism with quality, and in payments you
+    know quality wins
+  - You identify and eliminate single points of failure, both in
+    systems and in knowledge
+
+  Communication
+
+  - Clear, proactive written communication
+  - Willingness to surface risks and tradeoffs early
+  - Calm and precise during incidents; you document what
+    happened and what changes
+
+  Mindset
+
+  - Curious, growth-oriented, and adaptable
+  - Comfortable with ambiguity and iteration
+  - Willing to refactor continuously as systems evolve
+
+  Compensation & Benefits
+
+  - Competitive salary + equity
+  - Health, dental, vision insurance
+  - Flexible PTO
+  - Remote-first culture
+  - Modern development tools and AI assistants
+industries:
+  - Artificial Intelligence
+  - Logistics
+  - Software
+  - Transportation
+posted_date: 2026-09-18
+url: "https://builtin.com/job/senior-backend-engineer-payments/11257521"
+source: Built In

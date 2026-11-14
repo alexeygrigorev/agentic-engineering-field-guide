@@ -1,0 +1,154 @@
+job_id: 11781744
+title: Software Engineer, Identity Platform
+company: OpenRouter
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 8 Employees
+description: |
+  About OpenRouter
+
+  OpenRouter is the leading AI routing and infrastructure
+  layer that enterprises use to access, manage, and optimize
+  the best large language models across providers—without
+  lock-in, capacity constraints, or unnecessary cost. We power
+  the most advanced AI teams in the world by giving them the
+  flexibility to move fast, scale confidently, and stay
+  future-proof as models evolve.
+
+  As enterprise adoption of AI accelerates, OpenRouter sits at
+  the center of how organizations operationalize LLMs across
+  research, product, and production workloads.
+
+  About the Role
+
+  Every request that flows through OpenRouter starts with a
+  question: who is this, and what are they allowed to do?
+  Millions of developers, thousands of organizations and a
+  growing fleet of autonomous agents reach us through API
+  keys, browser sessions, OAuth apps, MCP clients and
+  federated cloud workloads. The credential formats differ,
+  but every one of them has to resolve to the same trustworthy
+  answer.
+
+  We're hiring our first Software Engineer, Identity Platform
+  to envision, build and own identity across OpenRouter's
+  inference gateway, marketplace and rapidly growing suite of
+  agentic products. You will define how people, organizations,
+  workspaces, apps and agents authenticate, what they can
+  access, and how that access is delegated, governed and
+  revoked, from a solo developer's first sign-in to a Fortune
+  500 rollout provisioned straight from their identity
+  provider. If you love the intersection of security, systems
+  design and product, this is your chance to build the trust
+  layer that takes OpenRouter into the enterprise.
+
+  What You’ll Do
+
+  - Unify authentication. API keys, management keys, browser
+    sessions, OAuth and OIDC tokens and MCP logins all resolve
+    to a single principal with one authorization model. Own
+    sign-in, MFA, passkeys and enterprise SSO (SAML and OIDC)
+    on top of it, plus the full lifecycle of every credential
+    we issue: scoped, expiring, rotatable and revocable.
+  - Build delegated access for apps and agents. Sign in with
+    OpenRouter, OAuth for MCP clients with dynamic client
+    registration, and consent grants that can be revoked
+    without touching the underlying key. Apps and agents act
+    on a user's behalf without ever handling a secret, and
+    admins can pin that consent to an org or workspace across
+    a managed fleet.
+  - Go secretless with workload identity. CI pipelines and cloud
+    workloads exchange their own identity provider tokens for
+    short-lived OpenRouter credentials under org-defined
+    federation policies, and internal services authenticate to
+    each other the same way. No static secrets to leak or
+    rotate.
+  - Build composable authorization. A single permission model
+    where every route asks "can this caller do this, here?"
+    instead of checking role names. Org and workspace roles,
+    viewer and restricted roles, read-only automation keys
+    and, over time, custom roles. Deny by default, enforced on
+    the server and reflected cleanly in the UI.
+  - Make enterprise provisioning just work. SCIM user and group
+    provisioning, group-to-role mapping, domain verification
+    and self-serve SSO that works first try with Okta, Entra
+    ID, Google Workspace and the long tail of identity
+    providers. Partner platforms can provision accounts and
+    keys for their own customers programmatically. An IT admin
+    should be able to onboard thousands of seats without
+    filing a ticket.
+  - Define the core identity model. Users, organizations,
+    workspaces, memberships, apps and guardrails, and how they
+    compose. Clean boundaries, clear ownership semantics and a
+    data model that supports the next five years of enterprise
+    features without a rewrite.
+  - Protect users and their data. Identity fraud detection, KYC
+    and verification flows, step-up checks on sensitive
+    actions, account-takeover defenses and abuse signals that
+    stop bad actors without adding friction for good ones.
+    Least-privilege access to customer data across every
+    OpenRouter surface.
+  - Treat auditability and correctness as features. The system
+    ensures every credential has a provenance, every access
+    decision is explainable and every privileged change lands
+    in an audit log. Auth stays fast and highly available on
+    the hot path of every inference request, with clear,
+    standards-based failure modes developers can debug on
+    their own. An access grant nobody can explain is a bug.
+  - Work cross-functionally. Partner closely with the Trust &
+    Safety team on fraud and abuse, with the Money team on
+    payment-linked verification and risk, with Product on
+    dashboard and onboarding experiences, and with Sales and
+    CS on enterprise security reviews and SSO rollouts.
+
+  What We’re Looking For
+
+  - 5+ years building production identity, authentication or
+    authorization systems at a SaaS, developer-platform or
+    security company.
+  - Deep fluency in identity standards: OAuth 2.x (PKCE, token
+    exchange, dynamic client registration), OIDC, SAML, SCIM
+    and JWTs, and the ways they break in practice.
+  - Experience designing authorization models (RBAC, ABAC or
+    ReBAC) for multi-tenant B2B products, including migrating
+    a live system from ad-hoc checks to a unified model.
+  - Hands-on experience integrating enterprise identity
+    providers (Okta, Entra ID, Google Workspace) and an auth
+    platform (Clerk, Auth0, WorkOS or similar).
+  - Strong TypeScript and SQL. Comfortable with Postgres and
+    building low-latency, cache-heavy services on a critical
+    request path.
+  - A security mindset. You think in threat models, design for
+    least privilege and can explain your decisions to an
+    enterprise security reviewer.
+  - You work well across teams. You'll partner daily with Trust
+    & Safety, Money, Product, Sales and CS, and turn messy
+    enterprise asks into clean systems.
+  - High agency and AI-forward. You use coding agents daily and
+    like automating away manual security and onboarding work.
+
+  Nice to Haves
+
+  - You've shipped enterprise SSO and SCIM that passed real
+    customer security reviews.
+  - You've built workload identity federation or secretless auth
+    for CI and cloud workloads.
+  - You've built OAuth, consent and delegation for AI agents or
+    MCP clients acting on behalf of users.
+  - Experience with identity verification, KYC or fraud and risk
+    systems (e.g. Stripe Identity, Persona, Sift).
+  - Experience with policy engines or fine-grained authorization
+    (e.g. OpenFGA, Cedar, OPA, Zanzibar-style systems).
+  - You've helped a company achieve SOC 2, ISO 27001 or similar
+    compliance.
+  - You're an existing OpenRouter user, or have built projects
+    in AI tooling.
+
+  If you don’t think you meet all of the criteria below but
+  still are interested in the job, please apply. Nobody checks
+  every box, and we’re looking for someone who is excited to
+  join the team.
+posted_date: 2026-10-21
+url: "https://builtin.com/job/software-engineer-identity-platform/11781744"
+source: Built In

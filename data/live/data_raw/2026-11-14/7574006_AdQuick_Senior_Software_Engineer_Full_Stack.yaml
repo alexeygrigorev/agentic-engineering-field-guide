@@ -1,0 +1,93 @@
+job_id: 7574006
+title: Senior Software Engineer (Full Stack)
+company: AdQuick
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 84 Employees
+description: |
+  Location:
+
+  - Remote from United States or Latin America
+
+  Company Information:
+
+  AdQuick is a leader in out-of-home (OOH) advertising
+  technology and services. Our platform is used by some of the
+  world’s foremost brands and agencies to achieve measurable
+  paid media outcomes that rival the speed and performance of
+  digital channels. We uniquely provide one platform for all
+  things OOH, servicing the entire sector — brands, agencies,
+  and suppliers. We are building the operating system for
+  advertising in the real world. A critical component of this
+  operating system is Analytics: data-driven planning and
+  full-funnel measurement that are completely integrated with
+  out-of-home buying.
+
+  What we're looking for:
+
+  - A full-stack engineer with expertise across frontend,
+    backend, and infrastructure
+  - Someone with 5+ years of production engineering experience
+    building and scaling systems
+  - Startup-minded: comfortable working independently, taking
+    ownership, and driving projects from concept to completion
+  - Pragmatic in your approach—you know when to move fast and
+    ship versus when to invest in scalable, long-term
+    solutions
+  - Technically versatile with experience in our stack (or
+    similar modern technologies)
+  - AI-fluent: you leverage AI coding tools to boost
+    productivity while maintaining code quality and ownership
+  - Product-oriented: you think beyond the code to understand
+    user needs and business impact
+
+  What you'll be doing:
+
+  - Collaborating with stakeholders to shape and define your
+    next project
+  - Breaking projects into small, full-stack deliverables and
+    implementing them end-to-end
+  - Managing and resolving support tickets promptly
+  - Continuously refining our tech stack and developer tools for
+    better efficiency and scalability
+
+  Our tech stack:
+
+  - Ruby
+  - Rails
+  - Postgres
+  - BigQuery
+  - Kotlin & Kafka for high-throughput systems
+  - Stimulus JS / Hotwire (we moved from React towards this)
+  - Recently completed a migration to Google Cloud
+
+  More detailed technical challenges:
+
+  - We want to automate every aspect an out-of-home campaign
+    planning and execution. In this process, we are building a
+    frontend user interface where users are be able to view
+    1M+ markers on a map without their browser crawling to a
+    halt.
+  - We also need to integrate with other partners in the
+    industry, usually using APIs, and often times helping them
+    develop it.
+  - We need to support complex and interesting map
+    visualizations – layering political voting data, census
+    data, AdWords data and more.
+  - We need to support highly efficient search by geography,
+    demographics, unit data, and many other attributes from
+    disparate data sources. This has to scale while keeping
+    search response times low.
+  - We're doing interesting work with data science: we integrate
+    with Google AdWords, Facebook Ads, movement data, and
+    other sources to measure impact of physical advertising on
+    online behavior. ROI data from prior campaigns can help
+    create more effective future campaigns. As our data
+    warehouse grows, crunching this data will be increasingly
+    challenging and more powerful.
+  - We are using AI to solve interesting problems in the OOH
+    Industry
+posted_date: 2026-08-08
+url: "https://builtin.com/job/senior-software-engineer-full-stack/7574006"
+source: Built In

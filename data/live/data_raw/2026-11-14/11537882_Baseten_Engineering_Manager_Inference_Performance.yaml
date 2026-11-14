@@ -1,0 +1,145 @@
+job_id: 11537882
+title: Engineering Manager, Inference Performance
+company: Baseten
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 350 Employees
+description: |
+  ABOUT BASETEN
+
+  Baseten powers mission-critical inference for the world's
+  most dynamic AI companies, like Cursor, Notion,
+  OpenEvidence, Abridge, Clay, Gamma, and Writer. By uniting
+  applied AI research, flexible infrastructure, and seamless
+  developer tooling, we enable companies operating at the
+  frontier of AI to bring cutting-edge models into production.
+  We're growing quickly and recently raised our $1.5B Series
+  F, led by Altimeter Capital, Conviction Partners, and Spark
+  Capital. Join us and help build the platform engineers turn
+  to ship AI products.
+
+  THE ROLE
+
+  We're looking for an Engineering Manager to lead part of our
+  Inference Performance team. This team makes the world's most
+  demanding AI workloads run faster and more efficiently on
+  GPUs. You'll manage and grow a team of inference performance
+  engineers working across the inference engine and runtime:
+  kernels, scheduling, batching, KV-cache management,
+  speculative decoding and prefill/decode disaggregation. This
+  is a hands-on technical leadership role. You'll set
+  direction, unblock hard problems and earn the team's trust
+  by going deep on GPU performance, while also hiring,
+  developing and supporting the people doing the work. Your
+  team's output directly affects how fast our customers'
+  models run and how efficiently we serve them. The team is
+  scaling quickly, so you'll help shape how it is structured
+  as it grows.
+
+  EXAMPLE INITIATIVES
+
+  Your team will work on these types of projects as part of
+  our Inference Runtime team:
+
+  - Agentic inference optimization: 50-90% faster engines
+  - Agentic Kernels in Production
+  - Live draft model training for speculative decoding
+  - The Baseten Inference Stack
+
+  RESPONSIBILITIES
+
+  - Lead, mentor and grow a team of inference performance
+    engineers through regular 1:1s, clear feedback, career
+    development and performance reviews.
+  - Hire top GPU and inference engineering talent, and build a
+    strong, collaborative team culture as the runtime team
+    scales.
+  - Own the technical roadmap and execution for runtime
+    performance work, balancing customer needs, new model
+    launches and long-term platform investments.
+  - Stay close to the technical work. Review designs, guide
+    profiling and optimization efforts, and help the team
+    reason from first principles about where time and memory
+    go.
+  - Drive the productionization of inference techniques such as
+    quantization, speculative decoding, KV-cache reuse,
+    chunked prefill and custom scheduling.
+  - Turn performance wins into measurable outcomes: tokens per
+    GPU-hour, utilization, latency and cost.
+  - Help the team bring up and tune new model architectures on
+    new hardware quickly, often in the same week they're
+    released.
+  - Partner with Infrastructure, Inference Platform, Kernels,
+    Model APIs and customer-facing teams to set priorities,
+    coordinate launches and ship wins.
+  - Set high standards for engineering quality, benchmarking,
+    operational excellence and incident response.
+
+  REQUIREMENTS
+
+  - Bachelor's, Master's, or Ph.D. degree in Computer Science,
+    Engineering, Mathematics, or a related field.
+  - Experience managing engineers, including hiring, mentoring,
+    giving feedback and running performance reviews.
+  - Experience leading or closely supporting GPU optimization
+    teams in training, inference or recommendation systems.
+  - Strong technical depth in GPU workloads, with a solid
+    understanding of GPU architecture and performance
+    tradeoffs.
+  - Familiarity with ML libraries such as PyTorch, TensorRT or
+    TensorRT-LLM.
+  - A track record of driving roadmaps and shipping complex
+    technical projects with a team.
+  - Clear written and verbal communication, including the
+    ability to align stakeholders across teams.
+
+  NICE TO HAVE
+
+  - Familiarity with inference engines such as vLLM, SGLang or
+    TensorRT-LLM.
+  - Experience with LLM optimization techniques (e.g.,
+    quantization, speculative decoding, continuous batching)
+    in production.
+  - Experience with GPU kernels (CUDA, Triton, CUTLASS, or
+    similar).
+  - Experience scaling a team through rapid growth at a startup.
+  - A background as a hands-on performance or systems engineer
+    before moving into management.
+
+  BENEFITS
+
+  - Competitive compensation, including meaningful equity
+  - (U.S. only) 100% coverage of medical, dental, and vision
+    insurance for employee and dependents
+  - Flexible PTO policy including company wide Winter Break (our
+    offices are closed from Christmas Eve to New Year's Day!)
+  - Paid parental leave
+  - Fertility and family-building stipend through Carrot
+  - (U.S. only) Company-facilitated 401(k)
+  - Exposure to a variety of ML startups, offering unparalleled
+    learning and networking opportunities.
+
+  Apply now to embark on a rewarding journey in shaping the
+  future of AI! If you are a motivated individual with a
+  passion for machine learning and a desire to be part of a
+  collaborative and forward-thinking team, we would love to
+  hear from you.
+
+  At Baseten, we are committed to fostering a diverse and
+  inclusive workplace. We provide equal employment
+  opportunities to all employees and applicants without regard
+  to race, color, religion, gender, sexual orientation, gender
+  identity or expression, national origin, age, genetic
+  information, disability, or veteran status.
+
+  We are an Equal Opportunity Employer and will consider
+  qualified applicants with criminal histories in a manner
+  consistent with applicable law (by example, the requirements
+  of the San Francisco Fair Chance Ordinance, where
+  applicable).
+posted_date: 2026-10-07
+url: "https://builtin.com/job/engineering-manager-inference-performance/11537882"
+source: Built In

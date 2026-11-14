@@ -1,0 +1,231 @@
+job_id: 12108888
+title: Staff Software Engineer, Demand Bidder, Ad Serving Platform
+company: Roku
+location: New York, USA
+work_type: FULL_TIME
+company_size: 2,724 Employees
+description: |
+  Teamwork makes the stream work. Roku is changing how the
+  world watches TV
+
+  Roku is the #1 TV streaming platform in the U.S., Canada,
+  and Mexico, and we've set our sights on powering every
+  television in the world. Roku pioneered streaming to the TV.
+  Our mission is to be the TV streaming platform that connects
+  the entire TV ecosystem. We connect consumers to the content
+  they love, enable content publishers to build and monetize
+  large audiences, and provide advertisers unique capabilities
+  to engage consumers.
+
+  From your first day at Roku, you'll make a valuable - and
+  valued - contribution. We're a fast-growing public company
+  where no one is a bystander. We offer you the opportunity to
+  delight millions of TV streamers around the world while
+  gaining meaningful experience across a variety of
+  disciplines.
+
+  About the Team
+
+  Roku's Ad Serving Team builds and operates the real-time
+  advertising platform that powers all of Roku’s ad
+  monetization across video, display, and native ad formats.
+  Within Ad Serving, the Demand Bidder team owns the high
+  throughput and low latency systems responsible for serving
+  relevant ads for tens of thousands of campaigns through
+  targeting, scoring, bidding, auctions, measurement and more.
+  Every millisecond and every decision carries direct,
+  measurable revenue impact, and the team operates with the
+  high engineering rigor that this demands.
+
+  About the Role
+
+  We're hiring a Senior Software Engineer (Staff scope) to
+  help scale and evolve this platform. Demand Bidder is a
+  large, high-throughput system driving our next phase of
+  growth. As we onboard a rapid wave of new businesses, we are
+  actively scaling and advancing our architecture — including
+  state of the art pacing engine, scoring/ML engine,
+  modularizing designed for agentic development. Our
+  reliability bar keeps climbing alongside our business scale.
+  We need someone who can rapidly master this intricate
+  ecosystem and take immediate ownership of key initiatives.
+
+  For New York Only — The estimated annual salary for this
+  position is between $195,000 – $408,000 annually.
+  Compensation packages are based on factors unique to each
+  candidate, including but not limited to skill set,
+  certifications, and specific geographical location. This
+  role is eligible for health insurance, equity awards, life
+  insurance, disability benefits, parental leave, wellness
+  benefits, and paid time off.
+
+  How will I use AI at Roku?
+
+  At Roku, we don’t just use AI, we work with it. AI agents
+  and smart tools help power drafts, analysis, and repetitive
+  workflows, while our people bring direction, judgment, and
+  accountability. We’re looking for curious, adaptable
+  builders who can show how they’ve used AI or automation to
+  move faster, raise the bar, and scale their impact.
+
+  We value your AI skills if you have built fluency across the
+  agentic engineering toolchain — coding harnesses like Claude
+  Code or Cursor, MCP servers, custom skills, or agent
+  frameworks. And you can describe projects where you shipped
+  real work with these tools. You know how to drive an agent,
+  verify its output, and ramp on an unfamiliar codebase with
+  an agent helping you.
+
+  What You'll Be Doing
+
+  - Design, build, and operate core components of a large-scale,
+    real-time distributed decisioning system with strict
+    latency requirements
+  - Take end-to-end ownership of specific subsystems:
+    architecture, implementation, testing, deployment, on-
+    call, and long-term evolution
+  - Build a working mental model of a highly distributed,
+    complex production system, and make high-leverage
+    contributions
+  - Identify opportunities to continuously evolve the system and
+    tooling
+  - Partner with engineers and applied scientists working at the
+    intersection of distributed systems and statistical/ML-
+    driven decision-making
+  - Diagnose and resolve subtle, often timing- or statistics-
+    related issues in a highly concurrent, multi-region
+    distributed system
+  - Mentor other engineers and raise the bar on engineering
+    rigor, testing discipline, and operational excellence
+    across the team
+  - Communicate clearly with both technical and non-technical
+    stakeholders, and drive alignment across engineering,
+    product, and business partners
+
+  We're Excited If You Have
+
+  - 10+ years of experience designing, building, and operating
+    large-scale, low-latency distributed systems — ideally
+    including at least one system you built substantially from
+    the ground up
+  - A demonstrated track record of owning complex systems end-
+    to-end: design, build, operate, on-call, and iterate based
+    on production feedback
+  - Proven ability to ramp quickly on unfamiliar, complex, large
+    codebases and become productive fast — you enjoy the
+    “figure it out” part of the job as much as the “build it”
+    part
+  - Experience evolving and refactoring live, business-critical
+    systems without compromising uptime or correctness
+  - Strong command of Java, with a solid foundation in
+    algorithms, data structures, concurrency/multi-threading,
+    and performance optimization
+  - Practical experience with distributed caching, high-
+    throughput messaging/streaming systems, and SQL/NoSQL
+    datastores
+  - Comfort operating in cloud infrastructure (GCP or AWS) at
+    scale
+  - Exposure to applying statistical, control-theory, or ML-
+    driven techniques within production decision-making
+    systems is a strong plus
+  - Real-time bidding / ad-tech domain experience is a big plus,
+    but deep experience in adjacent high-stakes, low-latency
+    domains (trading systems, large-scale
+    ranking/recommendation, matchmaking, risk/fraud systems)
+    is equally valued
+  - B.S. or M.S. in Computer Science, Engineering, or equivalent
+    practical experience
+  - High ownership, self-motivation, critical thinking, and
+    comfort operating with ambiguity
+  - Low-ego and nonpolitical — you'd rather get to the right
+    answer than be the one who's right, and you take critical
+    feedback in stride rather than personally
+  - Genuinely collaborative and team-oriented, with an open mind
+    toward other people's approaches and the outgoing energy
+    to work well across teams
+  - You've used AI coding assistants (e.g., Claude Code, Cursor,
+    or similar) in real production work to accelerate design,
+    implement, debug, and understand unfamiliar codebases.
+  - You have informed opinions on how best to leverage them
+  - You're curious about applying AI – whether that means using
+    AI to monitor system health, triage issues or develop
+    agentic workflows
+  - You hold yourself to a high bar of correctness and
+    understanding of what you ship, even as these tools
+    accelerate your pace
+  - Deep prior experience isn't required — genuine curiosity and
+    a willingness to help shape how the team uses these tools
+    responsibly are what matters most
+
+  #LI-SSC
+
+  What's Roku's approach to hybrid working?
+
+  Roku fosters an inclusive and collaborative environment
+  where teams generally work in the office Monday through
+  Thursday. Fridays are generally flexible for remote work,
+  except for employees whose specific roles or assigned office
+  location require five days' a week attendance.
+
+  What are some of the benefits?
+
+  Roku is committed to offering a diverse range of benefits as
+  part of our compensation package to support our employees
+  and their families. Our comprehensive benefits include
+  global access to mental health and financial wellness
+  support and resources. Local benefits include statutory and
+  voluntary benefits which may include healthcare (medical,
+  dental, and vision), life, accident, disability, commuter,
+  and retirement options (401(k)/pension). Employees are
+  supported in taking time off, in accordance with local leave
+  policies and other personal needs to support their evolving
+  work and life needs. It's important to note that not every
+  benefit is available in all locations or for every role. For
+  details specific to your location, please consult with your
+  recruiter.
+
+  Accommodations
+
+  Roku welcomes applicants of all backgrounds and provides
+  reasonable accommodations and adjustments in accordance with
+  applicable law. If you require reasonable accommodation at
+  any point in the hiring process, please direct your
+  inquiries to EmployeeRelations@Roku.com.
+
+  What should I know about Roku's culture?
+
+  Roku is a great place for people who want to work in a fast-
+  paced environment where everyone is focused on the company's
+  success rather than their own. We try to surround ourselves
+  with people who are great at their jobs, who are easy to
+  work with, and who keep their egos in check. We appreciate a
+  sense of humor. We believe a fewer number of very talented
+  folks can do more for less cost than a larger number of less
+  talented teams. We're independent thinkers with big ideas
+  who act boldly, move fast and accomplish extraordinary
+  things through collaboration and trust. In short, at Roku
+  you'll be part of a company that's changing how the world
+  watches TV. 
+
+  We have a unique culture that we are proud of. We think of
+  ourselves primarily as problem-solvers, which itself is a
+  two-part idea. We come up with the solution, but the
+  solution isn't real until it is built and delivered to the
+  customer. That penchant for action gives us a pragmatic
+  approach to innovation, one that has served us well since
+  2002. 
+
+  To learn more about Roku, our global footprint, and how
+  we've grown, visit https://www.weareroku.com/factsheet.
+
+  By providing your information, you acknowledge that you want
+  Roku to contact you about job roles, that you have read
+  Roku's Applicant Privacy Notice, and understand that Roku
+  will use your information as described in that notice. If
+  you do not wish to receive any communications from Roku
+  regarding this role or similar roles in the future, you may
+  unsubscribe at any time by emailing
+  WorkforcePrivacy@Roku.com.
+posted_date: 2026-11-06
+url: "https://builtin.com/job/staff-software-engineer-demand-bidder-ad-serving-platform/12108888"
+source: Built In

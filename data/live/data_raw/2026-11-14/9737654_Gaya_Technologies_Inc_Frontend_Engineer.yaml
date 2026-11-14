@@ -1,0 +1,133 @@
+job_id: 9737654
+title: Frontend Engineer
+company: Gaya Technologies Inc
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 11000 Employees
+description: |
+  Role Summary
+
+  We are seeking a Frontend Engineer skilled in React and
+  NextJS with demonstrable experience to develop our web
+  portal and support the development of our browser extension.
+  This role focuses on designing, building, and maintaining
+  user-facing features that enhance user workflows. The ideal
+  candidate will collaborate with cross-functional teams to
+  translate designs into high-quality code, optimize
+  performance, and ensure seamless integration between web
+  applications and Chrome extension components.
+
+  Responsibilities
+
+  - Develop and Maintain Web Interfaces: Build responsive,
+    accessible, and performant UI components using React and
+    NextJS, translating UX/UI designs into production-ready
+    code.
+  - Chrome Extension Development: Design, implement, and
+    maintain Chrome extension features including background
+    scripts, content scripts, popup pages, and options pages.
+    Ensure compatibility with Manifest V3 and adhere to Chrome
+    Extension APIs and security best practices.
+  - Integration with Web Applications: Integrate the extension
+    with backend services and web applications via RESTful
+    APIs or WebSockets, ensuring secure and performant data
+    exchange between the extension and main web app.
+  - Performance Optimization: Profile and optimize both web
+    application and extension to minimize load times, memory
+    usage, and battery impact. Leverage code-splitting, lazy
+    loading, and efficient state management to deliver smooth
+    experiences.
+  - Testing and Quality Assurance: Write unit and integration
+    tests for React components and extension logic. Employ
+    automated testing frameworks and manual testing to verify
+    functionality across different browser versions.
+  - Collaboration and Code Reviews: Participate in design
+    discussions, peer code reviews, and agile ceremonies.
+    Share knowledge of best practices in frontend
+    architecture, React patterns, and extension development.
+  - Monitoring and Troubleshooting: Implement logging and
+    monitoring for extension usage and web app performance.
+    Diagnose and resolve bugs related to UI, extension APIs,
+    browser compatibility, and security issues.
+  - Documentation: Create and maintain clear documentation for
+    extension setup, configuration, and deployment processes,
+    as well as React component libraries and coding
+    conventions.
+  - Stay Updated: Keep abreast of emerging web standards, React
+    ecosystem updates, and browser extension platform changes
+    to proactively improve the product.
+
+  Required Qualifications
+
+  - Experience with React & NextJS: Minimum of 3 years building
+    production-grade web applications using React (hooks,
+    context, router) and TypeScript for type-safe development.
+  - Web Technologies: Strong HTML5, CSS3 (including
+    preprocessors or utility-first frameworks like Tailwind
+    CSS), and JavaScript fundamentals. Familiarity with modern
+    bundlers (Webpack, Vite) and build pipelines.
+  - State Management & Data Fetching: Experience with state
+    management libraries (Redux, MobX, React Query, etc.) and
+    patterns for scalable applications. Comfortable
+    integrating RESTful or GraphQL APIs within React and
+    extensions.
+  - Testing Frameworks: Proficiency in testing tools such as
+    Jest, React Testing Library, or similar, covering both web
+    UI components and extension-specific logic.
+  - Version Control: Strong Git skills, including branching
+    strategies, pull requests, and code review practices.
+  - Security and Privacy Awareness: Understanding of extension
+    security considerations (CSP, permissions minimization),
+    web security (XSS, CSRF), and best practices for handling
+    user data.
+  - Cross-Browser Considerations: While primary focus is Chrome,
+    familiarity with extension differences in other Chromium-
+    based browsers and potential cross-browser packaging.
+  - Communication Skills: Clear verbal and written communication
+    to collaborate with designers, backend engineers, and
+    product stakeholders.
+
+  Preferred Qualifications
+
+  - UI/UX Sensibility: Strong eye for design, accessibility
+    (ARIA standards), and usability to deliver intuitive
+    extension interfaces and web components.
+  - Chrome Extension Experience: Hands-on experience developing
+    Chrome extensions, including proficiency with Manifest V3,
+    extension lifecycle (background, content, popup), and
+    Chrome APIs (runtime, storage, tabs).
+  - Experience with Browser Automation/Parsing: Familiarity with
+    parsing web pages, scraping techniques within extension
+    context, or integrating OCR/document parsing features.
+  - Familiarity with CI/CD: Experience setting up automated
+    build and deployment pipelines for web applications and
+    publishing/updating Chrome extensions via CI.
+  - Performance Profiling Tools: Proficiency using browser
+    devtools and profiling tools to identify bottlenecks in UI
+    rendering and extension execution.
+  - Open-Source Contributions: Contributions to React libraries,
+    extension frameworks, or relevant open-source projects,
+    demonstrating community engagement.
+  - Knowledge of Other Frameworks: Exposure to alternative
+    frontend frameworks (Vue, Angular) or experience with
+    mobile hybrid apps as a bonus.
+
+  Join Us
+
+  As Frontend Engineer at Gaya, you'll craft the user
+  experience that transforms how insurance professionals work.
+  You'll build cutting-edge Chrome extensions and web
+  applications that automate complex workflows, working with a
+  talented team to deliver intuitive, performant solutions. If
+  you're passionate about creating exceptional user interfaces
+  and browser extensions that make a real impact, we'd love to
+  hear from you.
+industries:
+  - Artificial Intelligence
+  - Insurance
+  - Software
+  - Automation
+posted_date: 2026-10-25
+url: "https://builtin.com/job/frontend-engineer/9737654"
+source: Built In

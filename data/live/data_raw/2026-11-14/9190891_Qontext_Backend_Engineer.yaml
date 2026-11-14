@@ -1,0 +1,98 @@
+job_id: 9190891
+title: Backend Engineer
+company: Qontext
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 5 Employees
+description: |
+  We're building the self-maintaining source of truth for the
+  AI-native company, the context repository that keeps company
+  knowledge structured, up-to-date, permission-aware, and
+  ready for every AI agent.
+
+  That takes people who are exceptionally talented, obsessed
+  by the vision, and set on doing the best work of their
+  lives. If that's you, read on.
+
+  The Opportunity
+
+  You'll architect and build the core of the context
+  repository: the database, the versioning, and the retrieval
+  that let AI agents reach correct, permission-aware company
+  knowledge in real time.
+
+  This is deep backend work. You'll own the systems that keep
+  context consistent and trustworthy at scale, from File
+  versions and Change reviews to Automatic Change
+  Reconciliation, and the Sync infrastructure that keeps the
+  context repository up to date.
+
+  We're already live with 15+ design partners and launching v1
+  in Q3 2026. This is the rare moment where the product, the
+  architecture, and the category are still yours to shape. We
+  think of Qontext as a once-in-a-lifetime opportunity, and we
+  hire people who feel the same.
+
+  What You’ll Do
+
+  - Design the data model and database systems at the core of
+    the context repository
+  - Build versioning, change reviews, and automatic change
+    reconciliation that keep context consistent and auditable
+  - Own the sync infrastructure that loads and reconciles data
+    from every data source reliably
+  - Drive down retrieval times for hybrid search and ranking at
+    scale
+  - Build the permission-aware APIs that expose context to
+    Clients, with security as a first principle
+  - Write clean, well-tested code that scales from 15 design
+    partners to thousands of enterprise users
+
+  You’ll Thrive Here If You…
+
+  - Love distributed systems and the hard parts: consistency,
+    concurrency, caching, queues
+  - Are fluent in TypeScript and/or Python, with deep command of
+    asynchronous programming and API design
+  - Know your way around databases, and ideally graph or vector
+    stores, and how they power the modern AI stack
+  - Take pride in reliability and security, and ship features
+    that don't break under load
+  - Thrive in an early-stage, low-ego, high-ownership
+    environment with a direct seat at the product table
+
+  Why Join Us
+
+  - Challenge: A genuinely hard intellectual and systems problem
+  - Cutting edge: Turning the latest research into a product
+    used at scale
+  - Mission: Building the infrastructure for the next generation
+    of work
+  - Impact: Shape the company and architecture from day one
+  - Ownership: Competitive salary plus meaningful early equity
+  - Culture: Deep-tech mindset, transparency, radical candor and
+    fast execution
+
+  Process
+
+  - Get to know each other · 30 min
+  - Chat with co-founder(s) · 30 min
+  - Technical interview · 1h
+  - Take-home case · 3h
+  - Case discussion · 1h
+  - Offer
+
+  Practical Info
+
+  - Location: Berlin
+  - Start date: ASAP
+  - Type: Full-time
+  - Compensation: €80k - €120k + equity package
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Natural Language Processing
+  - Software
+posted_date: 2026-08-10
+url: "https://builtin.com/job/backend-engineer/9190891"
+source: Built In

@@ -1,0 +1,292 @@
+job_id: 12102011
+title: Engineering Manager, Internal Attack
+company: Horizon3.ai
+location: USA
+remote: true
+work_type: INTERN
+company_size: 107 Employees
+description: |
+  Get to Know Us
+
+  Horizon3 is a fast-growing, remote cybersecurity company
+  dedicated to the mission of enabling organizations to
+  proactively find, fix and verify exploitable attack vectors
+  before criminals exploit them. Our flagship product, the
+  NodeZeroTM platform, delivers production-safe autonomous
+  pentests and other key assessment operations that scale
+  across the largest internal, external, cloud, and hybrid
+  cloud environments. NodeZero has been adopted by
+  organizations of all sizes, from small educational
+  institutions to government agencies and Global 100
+  enterprises. It is used by IT Ops/SecOps teams, consulting
+  pentesters, and MSSPs and MSPs.
+
+  We are a fusion of former U.S. Special Operations cyber
+  operators, startup engineers & operators, and formerly
+  frustrated cybersecurity practitioners. We're committed to
+  helping solve our common security problems: ineffective
+  security tools and false positives, resulting in alert
+  fatigue, blind spots, "checkbox” security culture,
+  cybersecurity skills shortage, and the long lead time and
+  expense of hiring outside consultants. Collectively, we are
+  a team of learn it alls, committed to a culture of respect,
+  collaboration, ownership, and results.
+
+  An Overview
+
+  This is the opportunity to lead the team that innovates on
+  and maintains NodeZero's core internal attack capabilities.
+  Internal pentesting is NodeZero's flagship capability and a
+  core part of the growing Horizon3 platform. As Engineering
+  Manager for Internal Attack Engineering, you'll lead an
+  elite group of offensive engineers, with backgrounds in U.S.
+  intelligence, special operations, and top consulting firms,
+  who own that capability end to end: Active Directory, Linux
+  and Unix hosts, databases, network infrastructure, and the
+  other services attackers find inside enterprise networks.
+
+  The team spans career-level engineers through Staff and
+  Principal, and its work is to research modern internal
+  tradecraft and turn it into production-safe attacks that run
+  autonomously across the largest enterprise networks in the
+  world. Your job is to keep NodeZero ahead of hardening
+  customer environments and fast-moving tradecraft by building
+  the team, setting its direction, and making sure what it
+  ships is safe to run in production.
+
+  This is a hands-on technical leadership role. You don't need
+  to be the strongest operator on the team, but you need to be
+  credible in design and code reviews, able to judge whether
+  an attack is safe to run against a customer's production
+  network, and able to explain an attack path to an engineer,
+  a product manager, or a customer.
+
+  This is not consulting or manual pentesting. The team builds
+  software that turns cutting-edge, often manual techniques
+  into safe, reliable, repeatable attacks.
+
+  What You’ll Do
+
+  Leadership & Team Development
+
+  - Lead, coach, and grow a team of Attack Engineers and backend
+    engineers focused on internal network attacks, from Active
+    Directory to Linux hosts, databases, and network
+    infrastructure.
+  - Own hiring for the team: shape the open roles, run interview
+    loops, and close strong offensive and backend engineers in
+    a competitive market.
+  - Set clear expectations by level, give direct and timely
+    feedback, run 1:1s and performance reviews, and build
+    growth plans that move engineers to the next level.
+  - Develop technical leaders on the team, including Staff and
+    Principal engineers, so that domain expertise and review
+    ownership are shared rather than held by one person.
+  - Be accountable for the performance and quality of the team's
+    work and for keeping it aligned with Product and
+    Engineering goals.
+
+  Internal Attack Strategy & Execution
+
+  - Define the team's strategy and roadmap for internal and AD
+    attack coverage, tied to department goals, real customer
+    environments, and emerging tradecraft.
+  - Drive coverage for modern, hardened environments: attacks
+    that still succeed under NTLM deprecation, enforced SMB
+    and LDAP signing, Kerberos-only authentication, Protected
+    Users, and tiered administration.
+  - Guide work across the internal attack chain: credential
+    access, Kerberos and delegation abuse, NTLM coercion and
+    relay, AD Certificate Services, SCCM and other management
+    planes, ACL and GPO abuse, lateral movement, and hybrid
+    identity pivots into Entra ID.
+  - Guide coverage beyond Active Directory: Linux and Unix hosts
+    (SSH, NFS), databases (MSSQL, PostgreSQL, MongoDB, Oracle,
+    Elasticsearch), and network infrastructure and embedded
+    devices (SNMP, Cisco, Juniper, printers, IP cameras).
+  - Own the discovery foundation the rest of the attack chain
+    depends on: host discovery, service and OS fingerprinting,
+    and credential and secrets discovery across hosts and file
+    shares, at the scale of networks with hundreds of
+    thousands of addresses.
+  - Push the team to build AI agents where they make NodeZero
+    better at internal attacks.
+  - Own the team's production-safety standards, including
+    account lockout safety and customer account exclusions,
+    safe handling of fragile network devices and production
+    databases, artifact cleanup, and safe defaults for any
+    action that changes a customer system.
+  - Set engineering standards for code review, testing, lab-
+    based regression testing, and observability so attack
+    content stays reliable as NodeZero scales.
+  - Run execution: break the roadmap into scoped work, balance
+    new coverage against reliability fixes and customer
+    escalations, and deliver on commitments.
+
+  Product & Cross-Functional Partnership
+
+  - Partner with Product to turn customer feedback, field
+    findings, and threat intelligence into prioritized roadmap
+    input, including in areas without a dedicated PM.
+  - Direct the team's backend work on NodeZero's attack-path
+    graph and data model so new identity, privilege-
+    escalation, and lateral-movement paths show up correctly
+    in customer results, and coordinate with Data Platform,
+    Infrastructure, and other engineering teams to land the
+    cross-team changes this depends on.
+  - Partner with peer Attack Engineering teams on shared
+    infrastructure, cross-domain attack paths, and consistent
+    engineering standards.
+
+  Customer & External Impact
+
+  - Own the team's on-call rotation and serve as the escalation
+    point for internal-attack customer issues: drive triage
+    and root cause, turn recurring issues into durable fixes,
+    and communicate exploitability, impact, and remediation
+    clearly.
+  - Support customer briefings, go-to-market enablement, and
+    external research such as blog posts and conference talks.
+
+  What You’ll Bring
+
+  - 2+ years managing engineers on an offensive security, red
+    team, or attack engineering team, including hiring,
+    performance management, and career development.
+  - 8+ years of combined offensive security and software
+    engineering experience, with significant hands-on time
+    attacking Active Directory and internal enterprise
+    networks.
+  - Working command of current AD tradecraft (Kerberos attacks
+    and delegation, NTLM coercion and relay, AD Certificate
+    Services abuse, ACL and GPO abuse, lateral movement) and
+    how it changes in hardened environments.
+  - Hands-on experience with internal attacks beyond Active
+    Directory: Linux and Unix privilege escalation and lateral
+    movement, database exploitation, and attacks on network
+    services and devices.
+  - Software engineering fluency: comfortable reading and
+    reviewing production Python, and working in Git, merge
+    request, CI/CD, and product development workflows.
+  - Experience turning offensive findings or manual techniques
+    into product capabilities, automated tooling, or
+    repeatable services.
+  - Sound judgment about operational safety when running
+    offensive techniques against production customer
+    environments.
+  - A record of building teams people want to join and stay on:
+    clear expectations, direct feedback, and engineers who
+    grew under your leadership.
+  - Strong written and verbal communication with engineers,
+    product partners, executives, and customers.
+  - Comfort setting direction in ambiguous situations without a
+    fully defined roadmap.
+
+  What Sets You Apart
+
+  - Experience leading teams that build autonomous pentesting,
+    breach and attack simulation, or other offensive security
+    products.
+  - Experience with SCCM, Windows Admin Center, and hybrid
+    identity attacks (Entra Connect, primary refresh tokens,
+    seamless SSO).
+  - Experience scaling network discovery and scanning (nmap,
+    masscan, nuclei) across very large enterprise networks.
+  - Experience building LLM-powered agents or applying AI to
+    offensive security or asset discovery workflows.
+  - Familiarity with graph databases (Neo4j) and attack-path
+    analysis.
+  - OSCP, OSEP, CRTO, or equivalent offensive certifications.
+  - Public contributions to the field: open-source tools,
+    technical blog posts, conference talks, or published CVEs.
+  - Experience managing a fully remote engineering team.
+
+  Travel Required
+
+  We are a fully remote company, and this job may require up
+  to 10% of travel to be successful.
+
+  Compensation and Values
+
+  At Horizon3, we believe that our people are our greatest
+  asset, and our compensation philosophy reflects this core
+  value. We are committed to fostering an environment where
+  all employees feel valued, respected, and rewarded for their
+  contributions. Our compensation structure is designed to be
+  fair, competitive, and transparent, ensuring that every team
+  member is recognized and compensated equitably across roles,
+  levels, and locations.
+
+  In accordance with various State’s transparency regulations,
+  we provide the following salary range information for this
+  position:
+
+  - Base salary range: $238,000 - $280,000 annually. The exact
+    salary will be determined based on the selected
+    candidate’s location, qualifications, experience, and
+    relevant skills.
+  - Additional compensation: All full-time roles are eligible
+    for an equity package in the form of stock options.
+
+  Perks of Horizon3
+
+  - Inclusive Team: We value diversity and promote an inclusive
+    culture where everyone can thrive.
+  - Growth Opportunities: Be part of a dynamic and growing team
+    with numerous career development opportunities.
+  - Innovative Culture: Work in a collaborative environment that
+    encourages creativity and out-of-the-box thinking.
+  - Hybrid & Remote Work: We embrace a mix of remote and hybrid
+    work models depending on role and location, including our
+    Chicago office, where some roles require regular in-office
+    presence.
+  - Competitive Compensation: We offer competitive salary,
+    equity and benefits. Our benefits include health, vision &
+    dental insurance for you and your family, a flexible
+    vacation policy, and generous parental leave.
+
+  You Belong Here
+
+  Horizon3 is not just an equal opportunity employer - we are
+  a community that values diversity, equity, and inclusion as
+  fundamental principles of our culture and success. We are
+  dedicated to fostering a workplace where everyone feels
+  welcome and respected, regardless of race, color, religion,
+  sex, national origin, age, disability, veteran status,
+  sexual orientation, gender identity or expression, genetic
+  information, marital status, hair length or any other
+  legally protected status by law.
+
+  Our commitment to diversity and inclusion means we strive to
+  attract, develop, and retain a workforce that reflects the
+  varied communities we serve. We believe that diverse
+  perspectives drive innovation and strengthen our ability to
+  create cutting-edge cybersecurity solutions. At Horizon3,
+  every team member is valued and supported in an environment
+  that encourages personal and professional growth.
+
+  We welcome candidates from all backgrounds and experiences,
+  and we encourage all qualified individuals to apply. Come be
+  a part of Horizon3, where your unique contributions are
+  recognized, and your potential is limitless.
+
+  Other Duties
+
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties or
+  responsibilities that are required of the employee. Duties,
+  responsibilities, and activities may change at any time with
+  or without notice.
+
+  Application Note
+
+  In any materials you submit, you may redact or remove age-
+  identifying information such as age, date of birth, or dates
+  of school attendance or graduation. You will not be
+  penalized for redacting or removing this information.
+industries:
+  - Artificial Intelligence
+  - Cybersecurity
+posted_date: 2026-11-06
+url: "https://builtin.com/job/engineering-manager-internal-attack/12102011"
+source: Built In

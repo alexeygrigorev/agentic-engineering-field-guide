@@ -1,0 +1,157 @@
+job_id: 10046408
+title: Software Engineer, Sportsbook Platform
+company: Penn Interactive
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 441 Employees
+description: |
+  PENN Entertainment, Inc. is North America’s leading provider
+  of integrated entertainment, sports content, and casino
+  gaming experiences. From casinos and racetracks to online
+  gaming, sports betting and entertainment content, we deliver
+  the experiences people want, how and where they want them.
+
+  We’re always on the lookout for those who are passionate
+  about creating and delivering cutting-edge online gaming and
+  sports media products. Whether it’s through Hollywood
+  Casino, theScore Bet Sportsbook, or theScore media app,
+  we’re excited to push the boundaries of what’s possible.
+  These state-of-the-art platforms are powered by proprietary
+  in-house technology, a key component of PENN’s omnichannel
+  gaming and entertainment strategy.
+
+  When you join PENN Entertainment’s digital team, you’ll not
+  only work on these cutting-edge platforms through theScore
+  and PENN Interactive, but you’ll also be part of a company
+  that truly cares about your career growth. We’re committed
+  to supporting you as you expand your skills and explore new
+  opportunities.
+
+  With locations throughout North America, you can build a
+  future at PENN Entertainment wherever you are. If you want
+  to challenge conventions in gaming, media and entertainment,
+  we want to talk to you.
+
+  About the Team   The Sportsbook Platform team owns the
+  backend that powers theScore Bet Sportsbook. We are the team
+  behind the marketplace: the event, market, and page-
+  composition systems that decide how bets are surfaced,
+  organized, and updated for the user. What we own is
+  everything around markets: how markets are modelled, how
+  pages are composed, and how quickly changes propagate to
+  patrons.
+
+  Our stack is primarily Elixir and Phoenix, backed by
+  PostgreSQL, Kafka, and a service mesh of gRPC and GraphQL
+  endpoints running on Kubernetes. We operate at the scale and
+  latency that live sports demand, which means we care deeply
+  about production hygiene: load testing, tracing, structured
+  monitoring, and clear on-call expectations. You will also
+  spend meaningful time reviewing other teams' work in our
+  codebase, defining the shape of upcoming work, and mentoring
+  the engineers around you. We care about the craft as much as
+  the ship. If you like distributed systems, functional
+  programming, live production traffic, and a team that treats
+  software quality as a first-class product concern, you will
+  feel at home here.  About the Work As a key member of the
+  Sportsbook Platform team, you will:
+
+  - Develop, scale, and optimize the GraphQL APIs, gRPC
+    endpoints, and SQL queries that power the marketplace
+  - Own technical problems of the highest scope and complexity,
+    drafting proposals and presenting them to leadership and
+    partner teams for feedback
+  - Design, architect, and deliver new features end-to-end in a
+    collaborative agile/scrum environment
+  - Identify bottlenecks and areas of risk in production, and
+    drive the changes that make the platform more scalable
+  - Take on the Sportsbook Platform Support rotation, which owns
+    release management and deployment management during its
+    window
+  - Set up and refine monitoring and alerting in DataDog for the
+    systems you own
+  - Mentor engineers on the team and across teams that ship into
+    our codebase, through specs, pairing, and code review
+  - Other duties as required.
+
+  About You
+
+  - You possess a minimum of 3 years of experience in Software
+    engineering
+  - A solid foundation in computer science, with strong
+    competencies in data structures, distributed systems,
+    algorithms, and software design
+  - Strong grasp of production systems at scale, and experience
+    identifying areas of improvement in a production
+    environment through load testing and tracing
+  - Experience investigating and remediating production
+    performance regressions, including CPU hotspots and
+    latency regressions in high-throughput services
+  - Experience with on-call rotations for a production service,
+    including owning release cycles end-to-end
+  - Passionate about clean code architecture and software
+    craftsmanship
+  - Excellent written and verbal communication skills, with a
+    track record of authoring tech specs, runbooks, and cross-
+    team design docs that stand up to scrutiny
+  - Experience with modern web frameworks and API development
+    (Phoenix, Ruby on Rails, Fast API, Laravel, Node)
+  - Experience designing and evolving GraphQL schemas for
+    product surfaces used by multiple clients (iOS, Android,
+    Web)
+  - Experience building and integrating multi-client / white-
+    label platforms, including geo-based routing and per-
+    client configuration
+  - A strong grasp of relational databases, including PostgreSQL
+    and MySQL
+  - Experience with Kubernetes and comfort operating services in
+    a containerized environment
+  - Comfortable working in the terminal, with Git and GitHub or
+    similar, and in an editor of your choice
+  - Experience with testing frameworks such as ExUnit, RSpec,
+    Jest, pytest, or equivalent
+  - Experience with background job processing (Oban, Exq,
+    Sidekiq, Celery, Beanstalk)
+  - Experience with asynchronous event handling infrastructure
+    (Apache Kafka, RabbitMQ, AWS SQS/SNS, Google Cloud
+    Pub/Sub)
+  - NICE TO HAVE: building GraphQL APIs with Absinthe, hexagonal
+    architecture, Domain Driven Development, contribution to
+    open source software, experience working at startups,
+    passion for sports and/or esports
+
+  What We Offer
+
+  - Competitive compensation package
+  - Fun, relaxed work environment
+  - Education and conference reimbursements.
+  - Opportunities for career progression and mentoring others
+    #LI-REMOTE
+
+  Salary Range
+
+  $115,000—$145,000 USD
+
+  Penn Interactive is proud to be an equal opportunity
+  workplace. We will consider all qualified applicants for
+  employment without regard to race, color, religion, age,
+  sex, sexual orientation, gender identity, national origin,
+  disability, veteran status, genetic information, or any
+  other basis protected by applicable law.Base pay is one part
+  of the Total Rewards that Penn Interactive provides to
+  compensate and recognize employees for their work. Most
+  sales positions are eligible for a Commission under the
+  terms of an applicable plan, while most non-sales positions
+  are eligible for a Bonus. Additionally, Penn Interactive
+  provides best-in-class benefits to eligible employees. We
+  believe that benefits should connect you to the support you
+  need when it matters most, and should help you care for
+  those who matter most. That’s why we provide an array of
+  options, expert guidance and always-on tools, that are
+  personalized to meet the needs of your reality – to help
+  support you physically, financially and emotionally through
+  the big milestones and in your everyday life.
+posted_date: 2026-08-22
+url: "https://builtin.com/job/software-engineer-sportsbook-platform/10046408"
+source: Built In

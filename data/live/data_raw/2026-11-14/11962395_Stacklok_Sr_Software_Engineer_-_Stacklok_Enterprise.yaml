@@ -1,0 +1,172 @@
+job_id: 11962395
+title: Sr. Software Engineer - Stacklok Enterprise
+company: Stacklok
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  Stacklok is led by CEO Craig McLuckie and CTO Joe Beda, two
+  of the creators of Kubernetes. Kubernetes helped give
+  enterprises more freedom over where and how they run
+  software. Now we're bringing that same open approach to AI
+  agents.
+
+  As AI agents take on more autonomous, long-running work,
+  enterprises need infrastructure to run them securely and
+  reliably at scale, without giving up control of their data,
+  systems, or models. We're building open, Kubernetes-native
+  infrastructure that brings together agent execution, secure
+  access to tools and systems, and centralized controls for
+  identity, permissions, and policy. This is an opportunity to
+  help shape a foundational layer for enterprise AI while the
+  architecture is still being defined.
+
+  We build in the open alongside the community. Our open
+  source projects include ToolHive, an MCP platform that
+  secures more than 20 million tool calls each month, and
+  Mecatl, a cloud-native agent harness. Our commercial
+  offering, Stacklok Enterprise, extends these capabilities
+  with an AI gateway, centralized identity, policy
+  enforcement, and observability.
+
+  Location
+
+  This is a remote role based in North America, with a strong
+  preference for candidates located in the U.S. Eastern Time
+  Zone.
+
+  The Opportunity
+
+  Enterprises are moving AI agents into production, and they
+  want to run them the way they run everything else: on their
+  own Kubernetes clusters, behind their firewall, and
+  connected to the identity systems they already use. Stacklok
+  Enterprise, our commercial platform for running and
+  governing AI agents, is built for that, by a team whose
+  founders co-created Kubernetes.
+
+  As a Senior Engineer on the core platform team, you will
+  design and build major parts of the platform and own them
+  from design through production. That work runs in customers'
+  Kubernetes environments, so your design tradeoffs shape how
+  the product holds up in the field. The areas you own will
+  shift as the product grows, and you will mentor the
+  engineers building alongside you.
+
+  Customers are onboarding now. As one of the key engineers
+  helping them reach production, you will also work with some
+  as design partners on our newest features and products. It
+  is a high-ownership role in an emerging category, with a
+  short path from customer feedback to what ships.
+
+  What Success Looks Like: First 6-12 Months
+
+  - Designed and shipped a complete subsystem end to end that is
+    now running in production for enterprise customers.
+  - Helped take one or more customers from proof-of-concept to
+    production on their own Kubernetes, and turned their
+    feedback into a platform feature.
+  - Raised the team's bar by mentoring engineers and
+    strengthening the product engineering culture.
+  - Improved how the team ships changes to customers, including
+    where AI-assisted workflows helped and where they created
+    rework.
+  - Became the owner and go-to decision maker for one or more
+    platform areas, with the team routing design questions
+    your way.
+
+  In This Role, You Will
+
+  - Own the design and implementation of platform subsystems in
+    Stacklok Enterprise end to end, from technical design
+    through production and ongoing improvement.
+  - Write production Go code for commercial software that runs
+    reliably in customer Kubernetes environments, with
+    observability, testing, and error handling built in.
+  - Make the design tradeoffs for the areas you own with product
+    and engineering leadership, and mentor the engineers
+    building alongside you.
+  - Work with customers to successfully operationalize the
+    Enterprise Platform and turn their feedback into product
+    improvements.
+  - Contribute to the open-source ToolHive codebase and
+    collaborate with community contributors on shared work.
+  - Apply AI-assisted workflows and strengthen reusable tooling
+    and playbooks so each engagement moves faster for the
+    team.
+
+  Desired Skill & Experience
+
+  We do not expect every candidate to meet every point below.
+  If this role excites you and you bring most of it, we
+  encourage you to apply.
+
+  - Proficiency in Go, with a proven track record designing and
+    shipping complete production-grade distributed systems as
+    part of a commercial software product.
+  - Hands-on experience deploying and running applications on
+    Kubernetes in production, ideally across different
+    customer cloud environments, such as AWS, Azure and GCP.
+  - Demonstrated experience mentoring engineers, driving code
+    review, and raising the quality of a team's work.
+  - Experience working directly with customers to onboard them
+    and to debug the product, from diagnosing issues in their
+    environments to driving fixes back into the codebase.
+  - AI-first mindset, with experience integrating AI tools into
+    development practices and turning AI-assisted workflows
+    into repeatable velocity gains for the team.
+  - Excellent written and verbal communication, with the ability
+    to explain complex technical ideas to technical and non-
+    technical audiences.
+  - Startup mentality and intrinsic motivation, including a
+    self-directed, hands-on approach and the ability to thrive
+    in fast-moving, ambiguous environments.
+
+  Compensation: The anticipated base salary range for this
+  position is $189,000 - $231,000. In addition to base salary,
+  this role offers equity and a comprehensive benefits
+  package.
+
+  #LI-Remote
+
+  Why Join Us?
+
+  At Stacklok, we believe great technology is built by teams
+  that support, challenge, and inspire one another. We are AI
+  maximalists, confident in AI’s potential and committed to
+  building technology people can trust. We use AI in our own
+  work and experiment openly.
+
+  You’ll build alongside people with deep experience in open
+  source, cloud-native technologies, security, and developer
+  tools. We stay close to customers, use our own products, and
+  share what we learn to keep improving. You’ll have room to
+  make decisions, support when you need it, and teammates who
+  push themselves to do their best work.
+
+  We offer competitive compensation and equity, comprehensive
+  medical, dental, and vision coverage, and a flexible hybrid
+  or remote work environment. Our benefits include flexible
+  PTO, paid holidays, and paid parental leave, along with team
+  offsites to collaborate and connect in person.
+
+  If you’re excited about what we’re building and want to work
+  with people who care about their craft, community, and each
+  other, we’d love to hear from you.
+
+  --
+
+  Stacklok Inc, is proud to be an equal opportunity employer.
+  We are committed to providing equal employment opportunities
+  for all people and place great value in both diversity and
+  inclusiveness. All qualified applicants will be considered
+  for employment without regard to their, or any other
+  person's, perceived or actual race, color, religion, sex,
+  gender, gender identity, gender expression, sexual
+  orientation, national origin, ancestry, citizenship, age,
+  physical or mental disability, medical condition, family
+  care status, or any other basis protected by law.
+posted_date: 2026-10-29
+url: "https://builtin.com/job/sr-software-engineer-stacklok-enterprise/11962395"
+source: Built In

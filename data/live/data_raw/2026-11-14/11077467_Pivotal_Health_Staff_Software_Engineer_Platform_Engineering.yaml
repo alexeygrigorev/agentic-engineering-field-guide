@@ -1,0 +1,216 @@
+job_id: 11077467
+title: Staff Software Engineer (Platform Engineering)
+company: Pivotal Health
+location: Santa Monica, USA
+locations:
+  - Santa Monica, USA
+  - New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 65 Employees
+description: |
+  About Pivotal Health
+
+  Pivotal Health is the leading technology platform that helps
+  healthcare providers get paid fairly in an increasingly
+  complex reimbursement landscape.
+
+  Today, many providers face persistent underpayment from
+  health insurance companies, despite delivering high-quality
+  care. While processes like IDR (Independent Dispute
+  Resolution) were designed to promote fairness, they’re often
+  administrative-heavy, time-consuming, and difficult to
+  navigate without the right tools.
+
+  Pivotal Health combines software, data, and service into a
+  seamlessly integrated, AI-driven platform that simplifies
+  these complex reimbursement workflows. We help providers
+  efficiently dispute underpaid claims, reduce administrative
+  burden, and recover the reimbursement they’re entitled to;
+  without adding more work to already stretched teams.
+
+  Our full-service IDR solution is just the starting point.
+  We’re building solutions that enable providers to operate
+  with clarity, control, and confidence across the
+  reimbursement journey.
+
+  About the Role
+
+  The product platform is the layer other product teams build
+  on. Today that means identity and access, including customer
+  SSO, invitations, and sessions; the organization and tenancy
+  model; the shared services, APIs, and schemas that carry
+  customer data between products; and the developer
+  experience, including the tooling and agent workflows
+  engineers use to ship. The scope grows whenever product
+  teams need a capability that should be built once. Role-
+  based access control, email infrastructure, the production
+  path for the models our products depend on, and likely data
+  ingress are next in line. When this layer is right, product
+  teams move faster and customers have a better experience.
+
+  This is a high-ownership, high-autonomy role on a team that
+  is still defining itself. You'll have a direct say in how
+  the platform, and the team, approach hard problems. We are
+  still working out architecture, ownership boundaries, and
+  integration patterns, so the right person operates without a
+  playbook and brings strong technical judgment to ambiguous
+  problems. You'll be a hands-on technical leader. You'll
+  write production code, lead design reviews, and set the
+  standards other engineers build to. The systems you own will
+  be ones multiple teams depend on, and the engineers around
+  you will get better and faster because you are there. Expect
+  us to ask about a system you built: who used it, why they
+  cared, and what you would have built differently had you
+  understood that sooner.
+
+  What You'll Do
+
+  - Own the technical direction of the platform: Drive
+    architectural decisions across identity and access,
+    tenancy, shared services, developer experience, and each
+    new platform area the company takes on. Set the standards
+    the rest of the team builds to, and make ownership
+    boundaries explicit where they are still fuzzy.
+  - Stay hands-on: Write production code, lead design reviews,
+    and take end-to-end ownership of the systems you drive,
+    especially the ones multiple teams depend on.
+  - Design for extension and reuse: Build composable
+    abstractions and well-defined interfaces so product teams
+    can extend the platform without forking it or waiting on
+    you.
+  - Design scalable, reliable system interactions: Make the
+    architectural calls on system interactions and data flows
+    that balance scalability, reliability, security, and
+    performance as the platform evolves.
+  - Translate ambiguity into executable plans: Partner with
+    product and engineering leadership to turn loosely defined
+    requirements into clear, well-scoped work with understood
+    trade-offs.
+  - Raise the engineering bar: Establish patterns and practices,
+    through code, reviews, and direct collaboration, that
+    improve quality, reliability, and maintainability across
+    product teams, including how engineers use AI tooling
+    well.
+  - Mentor and grow engineers: Be a technical resource and
+    thought partner for senior and mid-level engineers on the
+    team and on the product teams you work with.
+
+  Who You Are
+
+  - 8+ years of software engineering experience with strong
+    backend depth and the range to work across full-stack
+    product surfaces and across domains, since this platform
+    will span authorization, messaging, model operations, and
+    data ingestion
+  - Track record of owning architectural decisions on complex
+    production systems that multiple teams rely on, especially
+    customer-facing or cross-functional ones
+  - Proficient in Python or able to demonstrate strong backend
+    depth in a Python-based technical interview
+  - Strong hands-on experience designing and operating cloud-
+    native systems; GCP preferred
+  - Experience with relational data modeling and schema
+    evolution in systems where a wrong migration is expensive
+  - Strong product instincts: you judge a system by whether it
+    is useful and correct, and elegance comes second
+  - Able to engage in customer and problem discovery: you bring
+    curiosity and good questions, you carry what you learn
+    into a technical plan, and you hold the team to building
+    what customers actually need over what is most interesting
+    to build
+  - Self-directed and communicative: you surface problems early
+    and drive work forward without waiting for direction
+  - Comfortable in greenfield environments with evolving
+    requirements and ambiguous ownership
+  - You lead by doing the work and making the case, without
+    needing the title to do it
+  - Low-ego and collaborative by default: direct, open to
+    feedback, and more interested in shipping great work than
+    in being right
+
+  Extra Credit Experience
+
+  - Authorization models (RBAC, ABAC, policy engines) that
+    survived contact with real customers, or identity systems
+    at production scale
+  - Building an internal developer platform, shared SDKs, or
+    reusable application scaffolding that multiple teams
+    adopted
+  - Shaping how a team uses AI tooling in its engineering
+    workflow, with judgment about where it helps and where it
+    does not
+  - TypeScript and React, enough to work across the products the
+    platform serves
+  - Startup or early-stage experience where engineers helped
+    decide what to build
+  - FinTech, HealthTech, or other regulated industries
+
+  Why You’ll Love Working Here
+
+  We’re a collaborative, low-ego team on a mission to make
+  healthcare reimbursement fairer for providers. While we
+  primarily hire around our core hubs–Los Angeles and New
+  York–we remain open to exceptional talent outside those
+  regions. Remote and hybrid flexibility varies by role and
+  team, and is outlined in each job description.
+
+  If you’re excited by solving complex problems and making a
+  real-world impact, we’d love to hear from you.
+
+  Benefits Include:
+
+  - Competitive compensation, including equity
+  - Full health, dental, and vision coverage
+  - Retirement savings plan through 401(k)
+  - Flexible time off
+  - Opportunities for company-wide connection and events
+
+  Ready to Make an Impact? We’re building something
+  meaningful; and we want you on the team.
+
+  Bring your ideas, curiosity, and drive, and let’s transform
+  healthcare reimbursement together.
+
+  Employment Information
+
+  Work Authorization
+
+  Candidates must be authorized to work in the United States
+  without current or future employer sponsorship.
+
+  Equal Employment Opportunity
+
+  Pivotal Health is an Equal Opportunity Employer. We
+  celebrate diversity and are committed to creating an
+  inclusive environment for all employees. We do not
+  discriminate on the basis of race, color, religion, sex,
+  gender identity or expression, sexual orientation, national
+  origin, age, disability, veteran status, or any other
+  legally protected status.
+
+  Reasonable Accommodations
+
+  Pivotal Health provides reasonable accommodations for
+  qualified individuals with disabilities in accordance with
+  applicable laws. If you need assistance during the
+  application or interview process, please let us know.
+
+  Background Checks
+
+  Employment is contingent upon successful completion of
+  applicable background checks, where permitted by law.
+
+  At-Will Employment
+
+  Employment with Pivotal Health is at-will and may be
+  terminated by either party at any time, with or without
+  cause or notice, in accordance with applicable law.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Machine Learning
+  - Software
+posted_date: 2026-09-09
+url: "https://builtin.com/job/staff-software-engineer-product-platform-engineering/11077467"
+source: Built In

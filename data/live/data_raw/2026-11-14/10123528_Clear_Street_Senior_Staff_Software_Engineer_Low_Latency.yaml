@@ -1,0 +1,128 @@
+job_id: 10123528
+title: Senior / Staff Software Engineer, Low Latency
+company: Clear Street
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 581 Employees
+description: |
+  Clear Street is modernizing the brokerage ecosystem. Founded
+  in 2018, Clear Street is a diversified financial services
+  firm replacing the legacy infrastructure used across capital
+  markets.
+
+  We started from scratch by building a completely cloud-
+  native clearing and custody system designed for today's
+  complex, global market. Our platform is fully integrated
+  with central clearing houses and exchanges to support
+  billions in trading volume per day. We've agonized about our
+  data model abstractions, created horizontal scalability, and
+  crafted thoughtful APIs. All so we can provide a best-in-
+  class experience for our clients.
+
+  By combining highly-skilled product and engineering talent
+  with seasoned finance professionals, we're building the
+  essentials to compete in today's fast-paced markets.
+
+  The Team: The mission of the Clear Street Active team is to
+  provide best execution for every asset class in every
+  market. Active is currently building a new, state-of-the-
+  art, cloud-based trading platform providing high-performance
+  traders access to liquidity venues across multiple asset
+  classes, cutting-edge charting capabilities, and
+  sophisticated order handling with the flexibility to service
+  both the active trader and institutional workflows.
+
+  The Role:
+
+  - Build and scale mission-critical order and execution
+    management infrastructure in Rust, including order
+    workflows, execution logic, and distributed trading
+    services.
+  - Design systems that balance low-latency execution, fault
+    tolerance, and strict correctness guarantees across
+    distributed trading workflows
+  - Shape the architecture and engineering direction of a
+    rapidly evolving trading platform in a fast-moving,
+    iterative environment.
+  - Develop efficient, audit-ready risk controls and venue-
+    specific trading abstractions with a focus on correctness
+    and performance.
+  - Translate evolving regulatory and market structure
+    requirements (CAT, Reg NMS, MiFID) into reliable, testable
+    platform capabilities.
+
+  What We Value:
+
+  - Engineers who are biased toward action and can make
+    thoughtful trade off decisions with incomplete information
+  - High ownership and accountability across the full software
+    lifecycle
+  - Strong communication and collaboration across engineering,
+    trading, and operations
+  - A willingness to challenge assumptions and continuously
+    improve how we build
+
+  Requirements:
+
+  - 3+ years of experience as a Software Engineer working on low
+    latency systems running in production
+  - Experience with production with C++ and/or Rust
+
+  Nice To Haves:
+
+  - Deep knowledge of order lifecycles and capital‑markets
+    workflows (buy‑side EMS, sell‑side OMS, or exchange
+    matching)
+  - Track record of converting regulatory or compliance
+    requirements into reliable, testable code
+  - Experience with high-performance messaging protocols; e.g.
+    IPC, multicast, Aeron
+  - Knowledge of protocols like FIX, ITCH, or OUCH
+  - Experience with a variety of asset classes, including
+    options, futures, crypto
+  - Familiarity with international markets and global system
+    design
+  - **Active Team Stack:** Rust, Aeron, Kafka, PostgreSQL,
+    Kubernetes, gRPC, Snowflake
+
+  We Offer:
+
+  - The opportunity to join a small and growing team of good
+    people, where you can make a difference.
+  - A new, high-quality code base with little technical debt and
+    room to build new services and features.
+  - A meritocratic philosophy that champions collaboration.
+  - Competitive compensation, benefits, and perks.
+
+  The Base Salary Range for this role is $200,000 - $350,000.
+  This range is representative of the starting base salaries
+  for this role at Clear Street. Where a candidate falls in
+  this range will be based on job related factors such as
+  relevant experience, skills, and location. This range
+  represents Base Salary only, which is just one element of
+  Clear Street's total compensation. The range stated does not
+  include other factors of total compensation such as bonuses
+  or equity.
+
+  At Clear Street, we offer competitive compensation packages,
+  company equity, 401k matching, gender neutral parental
+  leave, and full medical, dental and vision insurance. In-
+  office benefits include lunch stipends, fully stocked
+  kitchens, happy hours, a great location, and amazing views.
+
+  Our top priority is our people. We're continuously investing
+  in a culture that promotes collaboration. We help each other
+  through challenges and celebrate each other's successes. We
+  believe that modern workplaces succeed by virtue of having
+  high-performance workforces that are diverse — in ideas, in
+  cultures, and in experiences. We are proud to be an equal
+  opportunity employer and put in the effort to make such a
+  workplace a daily reality.  #LI-Remote
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-04
+url: "https://builtin.com/job/senior-staff-software-engineer/10123528"
+source: Built In

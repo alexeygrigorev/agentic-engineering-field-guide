@@ -1,0 +1,177 @@
+job_id: 11954477
+title: Principal Engineer  -- Full-Stack TypeScript (Node.js, React, Cloud)
+company: Hook
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 105 Employees
+description: |
+  WHO WE ARE
+
+  We're Hook, an award-winning creative content agency. With a
+  collaborative, maker-centric team, and an emphasis on
+  production-led design, we make ads, campaigns, and
+  experiences that drive growth for the world's most
+  innovative brands.
+
+  Our mission is to integrate creative and production to help
+  grow brands faster. But we believe what's most important are
+  the people who work with us and the experience they have
+  along the way. We want clients to think of us as the best
+  agency they've ever worked with, and we want everyone at
+  Hook to feel like this is the best job they've had yet.
+
+  THE ROLE
+
+  We're looking for a senior full-stack engineer who lives in
+  TypeScript. You write clean, well-typed, well-tested
+  TypeScript on both sides of the stack — React and Next.js on
+  the front end, Node.js services and APIs on the back end —
+  and you deploy and operate what you build on Google Cloud or
+  AWS.
+
+  As a Principal Engineer, you'll own Hook's internal
+  applications and platform end to end: architecture,
+  implementation, testing, deployment, and long-term health.
+  You're self-directed, comfortable owning complex products
+  from first idea through continued development, and you make
+  confident architectural decisions without needing a roadmap
+  handed to you. When a client project needs a strong
+  technical lead, you step in with that same ownership
+  mindset.
+
+  OUR STACK
+
+  - Language: TypeScript, end to end
+  - Front end: React, Next.js
+  - Back end: Node.js, Express (or similar: Fastify, NestJS,
+    Hono), REST and GraphQL APIs
+  - Cloud: Google Cloud Platform and AWS (serverless,
+    containers, managed databases, queues, storage), plus
+    Vercel
+  - Data: PostgreSQL / relational databases and document stores
+    (Firestore, MongoDB, or similar)
+  - Tooling: Docker, CI/CD (GitHub Actions or similar), modern
+    TypeScript tooling (Vite, Vitest/Jest, ESLint, pnpm/npm
+    workspaces)
+  - AI: LLM APIs and AI-assisted development (Claude Code,
+    Cursor, Copilot)
+
+  WHAT YOU'LL DO
+
+  - Architect, build, and ship production full-stack web
+    applications in TypeScript, from React/Next.js front ends
+    to Node.js services and APIs
+  - Design and own back-end services, APIs, and integrations
+    with third-party platforms
+  - Deploy, operate, and monitor applications on Google Cloud or
+    AWS, including infrastructure, CI/CD, task queues,
+    observability, security, and cost
+  - Own product areas end to end: problem discovery, technical
+    design, implementation, testing, deployment, and ongoing
+    improvement
+  - Partner with creative, production, and operations teams to
+    understand their workflows and turn them into reliable,
+    well-designed software
+  - Integrate AI capabilities (LLM APIs, agents, automation)
+    into the applications you build
+  - Set the technical bar: drive code review, testing standards,
+    documentation, and best practices
+  - Serve as technical lead on select client web projects and
+    occasionally direct freelance developers
+  - Evaluate and recommend tools, frameworks, and approaches as
+    Hook's needs evolve
+
+  WHAT YOU'LL NEED
+
+  - 8+ years of professional software engineering experience,
+    with at least 5 years writing production
+    TypeScript/JavaScript as your primary language
+  - Expert-level TypeScript: advanced types and generics,
+    strict-mode codebases, type-safe API contracts, and a
+    strong grasp of the JavaScript runtime (event loop, async
+    patterns, modules, gotchas)
+  - Deep Node.js experience: building and maintaining production
+    HTTP APIs and back-end services with Express or a
+    comparable framework, including auth, validation, error
+    handling, background jobs, and performance
+  - Deep React expertise: component architecture, hooks, state
+    management, data fetching, and performance optimization
+    for complex, highly interactive, multi-user applications,
+    CSS solutions
+  - Production Next.js experience: App Router, server
+    components, server-side rendering, routing, and caching
+  - Strong hands-on Google Cloud Platform or AWS experience —
+    you have personally deployed and operated production
+    applications, not just consumed them. For example:
+  - Containers and delivery: Docker for development and
+    production, CI/CD pipelines, and environment/secrets
+    management
+  - Databases: strong SQL (PostgreSQL or similar) and working
+    knowledge of document databases, including schema design
+    and query performance
+  - Testing discipline: unit, integration, and end-to-end
+    testing (e.g., Vitest/Jest, Playwright) as a normal part
+    of how you ship
+  - Software engineering fundamentals: you write secure,
+    reliable, maintainable code and make well-reasoned
+    architectural trade-offs without over-engineering
+  - AI-assisted development: you use tools like Claude Code,
+    Cursor, or Copilot fluently, while remaining the expert
+    owner of system design and code quality
+  - Clear communication: you can explain architecture to
+    engineers and the same ideas, plainly, to creatives,
+    producers, and clients
+  - Ownership and autonomy: you thrive with ambiguity, set your
+    own direction, and see work through to production and
+    beyond
+
+  NICE TO HAVE
+
+  - Infrastructure as code (Terraform, Pulumi, or AWS CDK)
+  - Experience building internal tools, workflow automation, or
+    developer/creative productivity platforms
+  - Familiarity with plugin or extension development for
+    creative tools (e.g., Figma, Adobe UXP) — in TypeScript
+  - Python or Bash for scripting and automation
+  - Experience with LLM APIs, AI agents, or AI-powered product
+    features
+  - Experience working in an agency, studio, or other creatively
+    driven, fast-paced environment
+  - Open-source contributions
+
+  WHAT ELSE
+
+  Qualified applicants will include a resume, a statement of
+  interest that lets us learn a little more about you, and
+  code samples — a link to your public GitHub or other
+  examples of your work. Please include TypeScript work
+  (React/Next.js and/or Node.js) where possible. Be prepared
+  to discuss your code in depth as part of the interview
+  process.
+
+  At Hook we value what makes everyone different, we look for
+  the best talent no matter the background. We know that great
+  work requires diverse perspectives which is why we strive to
+  create a place of belonging where everyone can express who
+  they are. Come join us!
+
+  Hook believes in compensation transparency and equity. We’ve
+  designed a 10-level advancement framework that’s applied
+  consistently across disciplines and departments and aligns
+  to location-based salary ranges. This role is leveled as L7.
+  During the interview process we’ll review your location,
+  skills, experience, and other relevant factors to determine
+  where you fall within our leveling framework and
+  corresponding salary ranges. Please follow this link to
+  learn more.
+
+  Please review our Transparent Compensation Philosophy. We
+  are not currently considering candidates in the Tier 4
+  market band for this role at this time.
+industries:
+  - Agency
+  - Design
+posted_date: 2026-10-29
+url: "https://builtin.com/job/principal-engineer-full-stack-typescript-node-js-react-cloud/11954477"
+source: Built In

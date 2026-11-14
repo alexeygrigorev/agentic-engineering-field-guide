@@ -1,0 +1,214 @@
+job_id: 11888221
+title: Software Engineer, Mobile (Flutter)
+company: Plane
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 77 Employees
+description: |
+  About Plane
+
+  Plane's mission is to build the infrastructure the world's
+  work runs on. Every organization runs on three things: the
+  projects it's driving, the knowledge it keeps, and the
+  requests it fields. Plane brings all three into one open,
+  adaptable platform: simple enough for any team to adopt,
+  dependable enough for organizations to build on. And we are
+  building it for a future where humans and AI agents do that
+  work together.
+
+  Plane began in public on GitHub at the end of 2022. Since
+  then it has grown into a work management platform used by
+  teams around the world: 55,000+ stars, 5,000+ forks, and a
+  contributor community that reads our code and files our
+  issues. Organizations run Plane as a managed Cloud service,
+  on their own infrastructure, or inside fully isolated
+  environments. Building in the open keeps us close to users
+  and raises the standard for everything we ship.
+
+  Plane is the #1 work infrastructure in aerospace, defense,
+  financial services, and other regulated industries:
+  organizations whose requirements for control, auditability,
+  and data residency rule most software out. When the
+  strictest buyers pick a system of record, that choice means
+  something. Adoption is growing fastest on Plane Cloud and in
+  sovereign clouds, deployments that keep everything inside a
+  country's own borders and rules.
+
+  Plane is backed by top investors and built across San
+  Francisco, London, and Hyderabad. We work in tightly knit
+  teams, stay close to users, and care about the visible
+  product as much as the unglamorous details that make
+  software dependable. People own problems end to end, and we
+  add process only when it helps the work.
+
+
+
+  Humans and agents
+
+  We believe the next decade of work will be done by humans
+  and AI agents together. Not agents replacing people, and not
+  a chat window bolted onto software built for humans clicking
+  around, but both working in one system of action, where an
+  agent's work is as visible and as accountable as a person's.
+
+  Most software treats AI as a feature. We treat agents as a
+  kind of worker, and that changes what the system underneath
+  has to be. Agents are only as good as the context they can
+  see and the state they are allowed to change, so shared
+  context, explicit state, durable history, and accountable
+  action are not items on our roadmap. They are the product.
+  Plane is built so that when an agent acts, the humans
+  responsible can see what happened, why, and on whose
+  authority, and the record survives.
+
+  This is what the infrastructure is for: making the future
+  where humans and agents work together useful, legible, and
+  fully within the organization's control. Every role at Plane
+  is some part of building that.
+
+
+
+  About the role
+
+  Plane's mobile app runs against whichever server the person
+  holding the phone chose, which might be Plane Cloud or a
+  self-hosted instance several releases behind, on a device
+  their IT department has locked down. It carries most of the
+  web product, and it is where the work reaches people:
+  whatever happens to a work item or a page, whether a
+  colleague or an agent did it, shows up in the app and in
+  notifications the moment it happens. You will own feature
+  areas end to end, from the interface down to the native code
+  underneath, and you will hold the architecture that keeps an
+  app this size consistent. You will work with backend,
+  design, product and QA engineers in San Francisco and
+  Hyderabad, alongside the mobile developers who built what
+  you are extending.
+
+  What you'll do
+
+  - Own feature areas end to end, from the interface through the
+    data layer into the native code underneath, starting with
+    scoped ones and taking on larger ones as you learn the
+    app.
+  - Build every feature to the same architecture. It is written
+    down and it is not optional, which is what lets anyone on
+    the team open any part of the app and know where the
+    state, the data and the interface live.
+  - Own the native surface on both platforms: home screen
+    widgets in WidgetKit and Jetpack Glance, quick actions,
+    method channels, and the background work that keeps a
+    widget and the app in agreement without costing the person
+    their session.
+  - Own how the editor feels on a phone. Plane's editor is built
+    by our editor team and renders inside a fork of
+    InAppWebView, so making it behave like part of the app
+    rather than a page inside one is yours, in their codebase
+    as much as ours.
+  - Own how work reaches a phone: push notifications,
+    notifications inside the app, the inbox, catch up, and the
+    activity that people and agents generate on items and
+    pages.
+  - Work daily with backend, design, product and QA across San
+    Francisco and Hyderabad, writing the test scenarios for
+    each platform that QA gates the release on and raising
+    coverage in the code you touch.
+  - Ship against several server versions at once. Working out
+    what a feature does on a self-hosted instance three
+    releases behind is tedious, and it will make you good at
+    designing for software that upgrades on someone else's
+    schedule.
+
+  What you'll bring
+
+  - You have shipped and maintained Flutter apps in production.
+    Not only to launch, but through the releases and
+    regressions that came after.
+  - You architect for whoever arrives after you. Clean
+    architecture and SOLID are already how you work, and you
+    can walk us through a codebase you structured and what you
+    would change now.
+  - You understand state management as a pattern, not a library.
+    Unidirectional flow, how events become state, and where
+    side effects belong. We use Bloc.
+  - Dependency injection is a habit, not a package choice. You
+    can describe your composition root and how you swap
+    implementations in tests.
+  - You write unit and widget tests while you build. Point us at
+    one that caught something real before a user did.
+  - You match the codebase you are in. Our patterns are written
+    down, and we would rather a feature look like the rest of
+    the app than like your preference.
+
+  Nice to haves
+
+  - You have written native code on Android and iOS to make a
+    Flutter feature possible.
+  - You have worked on apps built around webviews and have
+    opinions about bridging JavaScript and Dart.
+  - You have shipped with Bloc, or maintained a Flutter package
+    or fork that other people depend on.
+  - You have built local caching and persistence layers, and
+    arrived at your opinions about invalidation the hard
+    way.You have shipped into self-hosted, regulated or
+    otherwise locked down environments where you control
+    neither the server nor the device.
+
+  Tech
+
+  - Mobile: Flutter, Dart, Bloc, GoRouter
+  - Editor: our own editor, rendered in a fork of InAppWebView
+  - Data and cache: GraphQL, REST over Dio, Isar, ObjectBox
+  - Native: Swift, Kotlin, WidgetKit and SwiftUI, Jetpack
+    Glance, WorkManager, Firebase Cloud Messaging
+  - Secure storage: iOS Keychain, Android Keystore
+  - Build and design system: GitHub Actions, Fastlane, internal
+    Flutter component library
+  - Services you will call: public REST and GraphQL APIs
+  - Observability: Sentry, PostHog
+  - Everyday tools: GitHub, Plane (yes, we run on it), Figma,
+    Slack
+
+  Why Plane?
+
+  Every company says it is different. We will try evidence
+  instead.
+
+  The scope is real. We are a passion team serving companies
+  of every size, including some of the largest in the world.
+  Something you ship this month will run inside a Fortune 500
+  company and a 50-person startup in the same week, and you
+  will hear from both.
+
+  The constraints make you better. Plane runs in our cloud, in
+  customers' clouds, and on machines that will never touch the
+  internet. Much of the work happens in the open, where the
+  issues, the fixes, and the roadmap conversations are public.
+  Building software that survives all of that is harder than
+  building an ordinary SaaS product, and it is a better
+  education than most companies can offer.
+
+  The people-and-agents future is being built here, in
+  production. We think humans and AI agents will share one
+  system of action for work. We are building that system now,
+  for customers who already depend on it, and you will work on
+  that problem directly whatever your role.
+
+  Your name is on the work. The teams are deeply connected
+  enough that credit and responsibility both find you fast.
+  That is some pressure. Mostly it is the fun part.
+
+  If that sounds like your kind of place, we would like to
+  meet you.
+
+
+
+  Plane is an equal opportunity employer. We do not
+  discriminate based on race, color, religion, gender identity
+  or expression, sexual orientation, national origin, age,
+  disability, veteran status, or any other protected
+  characteristic under applicable law.
+posted_date: 2026-10-26
+url: "https://builtin.com/job/software-engineer-mobile-flutter/11888221"
+source: Built In

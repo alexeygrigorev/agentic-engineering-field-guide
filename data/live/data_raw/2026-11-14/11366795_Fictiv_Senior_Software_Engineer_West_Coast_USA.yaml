@@ -1,0 +1,174 @@
+job_id: 11366795
+title: Senior Software Engineer (West Coast USA)
+company: Fictiv
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 228 Employees
+description: |
+  About MISUMI Americas
+
+  MISUMI Americas, a division of MISUMI Group, is a leading
+  provider of standard, configurable, and custom manufacturing
+  solutions. By integrating a vast catalog of components with
+  a world-class digital manufacturing platform, MISUMI
+  Americas empowers engineers and procurement teams to
+  accelerate innovation across the entire product lifecycle.
+  With operations in the San Francisco Bay Area and Chicago,
+  the company serves as a vital partner for the most
+  innovative companies in the Americas.
+
+  Senior Software Engineer
+
+  Location: Remote (West Coast USA)
+
+  Company: MISUMI Americas
+
+  PLEASE NOTE:  Final-round interviews will be conducted in
+  person in either Oakland, California, or Portland, Oregon.
+
+  Build the Future of Manufacturing
+
+  Manufacturing is a $13 trillion industry, and most of it is
+  still held together by spreadsheets, phone calls, and fax
+  machines. MISUMI Americas is rewriting that.
+
+  We've been building a cloud-based, AI-powered digital
+  manufacturing platform that takes companies from prototype
+  to production faster than the industry thought possible. Our
+  platform pairs intelligent software with a global network of
+  vetted manufacturing partners, powering innovation across
+  electric vehicles, robotics, and next-generation consumer
+  products.
+
+  We're scaling fast, and we're looking for engineers who'd
+  rather untangle hard, real-world problems than push pixels
+  on a toy app.
+
+  You'll join the team that owns costing, pricing, lead time,
+  and DFM (design for manufacturability) for our instant
+  quoting platform.  When a customer uploads a part, our
+  systems decide what it costs, when it ships, and whether it
+  can be made.  Accuracy matters; our output directly drives
+  revenue and customer trust.
+
+  We build with AI agents as a core part of how we work.
+  We're looking for strong engineers who use agents to plan,
+  implement, and test faster, and who have the judgment to
+  know when the output is wrong.
+
+  What You'll Do
+
+  As a Senior Backend Engineer, you'll help build and scale
+  the systems running our global manufacturing ecosystem:
+
+  - Design and develop highly available, scalable backend
+    services in AWS
+  - Build and maintain event-driven, asynchronous systems using
+    Node.js
+  - Create robust APIs (REST / GraphQL) powering customer-facing
+    and internal tools
+  - Use AI coding agents to take features from design through
+    implementation and testing, while owning the correctness
+    of every change
+  - Write specs, tests, and repo context that make agent-driven
+    development reliable in a large, established codebase
+  - Partner closely with product, frontend, and infrastructure
+    teams to ship features that actually move the business
+  - Contribute to technical design discussions and drive best
+    practices across the team
+  - Help shape how the team works with AI: sharing patterns,
+    tooling, and lessons learned
+  - Debug production issues and improve system reliability
+  - Continuously improve code quality through testing,
+    observability, and documentation
+
+  What You Bring
+
+  - 5 + years of backend engineering experience
+  - Strong skills in Node.js, JavaScript/TypeScript
+  - Experience building systems on AWS (SQS, Lambda, EC2, RDS,
+    etc.)
+  - Solid understanding of distributed systems and event-driven
+    architectures
+  - Experience designing and maintaining REST or GraphQL APIs
+  - Familiarity with SQL and NoSQL databases
+  - A commitment to writing unit and integration tests
+  - Knowledge of system design, caching, and security best
+    practices (OWASP Top 10)
+  - Hands-on experience shipping production code with AI coding
+    agents (e.g., Claude Code, Cursor, Copilot agent mode),
+    with clear examples of where you had to step in, correct,
+    or override them
+  - Strong code review skills, applied just as rigorously to AI-
+    generated changes
+  - Must be a U.S. citizen or lawful permanent resident (green
+    card holder)
+
+  Nice to have:
+
+  - AWS certification
+  - Experience with high-scale or business-critical systems
+  - Experience with pricing, quoting, or other numerically
+    sensitive business logic
+  - Experience building agent workflows, custom tools, or MCP
+    integrations for your team
+
+  How You Work
+
+  - You take ownership and ship clean, maintainable, production-
+    ready code
+  - You treat AI as a force multiplier, not a substitute for
+    understanding the system
+  - You communicate clearly and collaborate across teams
+  - You solve problems proactively, even outside your immediate
+    scope
+  - You enjoy mentoring others and raising the bar for
+    engineering excellence
+  - You stay curious and keep learning new technologies and
+    patterns
+
+  Why MISUMI Americas?
+
+  - Work on real-world problems impacting global supply chains
+  - Join a fast-growing company at the intersection of AI,
+    software, and manufacturing
+  - Collaborate with teams building products used by top
+    hardware innovators
+  - Competitive compensation and benefits
+  - Flexible, West Coast-friendly work environment
+  - Minimal travel (0–10%)
+
+  Ready to Build Something That Matters?
+
+  If scaling systems, solving hard problems, and shaping the
+  future of manufacturing sounds like your kind of work, we
+  want to hear from you.
+
+  Salary Range: $160,000 – $200,000 per year, depending on
+  experience
+
+  We’re actively seeking teammates who:
+
+  - Bring diverse perspectives and experience to our culture and
+    company.
+  - Excel at being part of a strong, empathetic team.
+  - Thrive in an environment emphasizing respect, honesty,
+    collaboration, and growth.
+  - Have an ‘always learning’ mindset that celebrates learning,
+    not just wins.
+  - Help us continue to build a world-class organization that
+    values the contributions of all of our teammates
+
+  We encourage applications from members of underrepresented
+  groups, including but not limited to women, members of the
+  LGBTQ community, people of color, people with disabilities,
+  and veterans.
+industries:
+  - 3D Printing
+  - Artificial Intelligence
+  - Machine Learning
+  - Other
+posted_date: 2026-09-25
+url: "https://builtin.com/job/senior-software-engineer-west-coast-usa/11366795"
+source: Built In

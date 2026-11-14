@@ -1,0 +1,161 @@
+job_id: 11899666
+title: Software Engineer, Networking
+company: Fluidstack
+location: London, GBR
+work_type: FULL_TIME
+company_size: 30 Employees
+description: |
+  About Fluidstack
+
+  We exist to make humanity more free. For most of human
+  history, you farmed or you starved. Technology gave people
+  more time for the things they wanted to do, instead of
+  things they had to do. Powerful AI will be the biggest lever
+  for human choice we've ever built - but only if models are
+  aligned with what humanity actually wants. There are groups
+  building AI who don't share these goals. Whoever deploys
+  frontier compute infrastructure fastest will decide whether
+  AI expands human freedom or shrinks it.
+
+  We're singularly focused on delivering 10 to 100s of GWs of
+  compute faster than anyone else, rethinking every layer of
+  the stack. We acquire power, design and build data centers,
+  and operate them - with teams spanning hardware and
+  software. Speed and scale are our key differentiators. Come
+  be a part of building civilization-scale infrastructure for
+  AI.
+
+  We hire people who care deeply about this problem space. If
+  that is you, please apply!
+
+  How We Operate
+
+  - Be a barrel. Full autonomy. Own things end to end, take on
+    scope without being asked, no permission required to
+    operate outside your core role.
+  - Insane urgency. We drive everything forward as fast as
+    possible.
+  - Reason from first principles. Challenge every assumption.
+    Zero analogy thinking, no egos, the best idea wins.
+  - Love of the game. The frontier of AI is the most interesting
+    problem of our time. We put in long hours at high
+    intensity to push the frontier forward.
+  - Build something that actually matters. If you're going to
+    spend your time, spend it on something that matters to the
+    world.
+
+  The Production Engineering Team
+
+  Examples of key exciting problems the team is working on
+
+  - Turn every network fault from a mystery into a closed
+    ticket: link diagnostics across router-router and NIC-to-
+    router paths, remote command execution across the fleet,
+    and repair visualization that shows exactly what's broken
+    and why. At this scale, debugging has to be systematic,
+    not artisanal.
+  - Build the network repair pipeline that runs itself: from
+    automated fault detection through RMA initiation, ticket
+    integration, transceiver lifecycle tracking, and return to
+    service, across DC fabric, edge, and host-to-network
+    layers. When a new site comes online every six months,
+    manual repair doesn't keep up.
+  - Build the network monitoring platform for a fleet that never
+    stops growing: define requirements, alerting lifecycle,
+    and health dashboards from scratch, for infrastructure
+    spanning multiple hyperscale sites today and 10s to 100s
+    of GWs ahead. It doesn't exist yet. We're building it.
+
+  Role Scope
+
+  - Own network fleet health end to end. Define the realtime
+    monitoring requirements, build the alerting lifecycle, and
+    ship the dashboards that give every on-call engineer a
+    true picture of network state across all sites.
+  - Build active debugging tooling. Link diagnostics, remote
+    command execution across the fleet, and repair
+    visualization — the tools that turn a network fault from a
+    mystery into a solvable problem, fast.
+  - Turn repair into a pipeline, not a procedure. Build the
+    automation that takes a network failure from detection
+    through parts management and return to service. Ticket
+    integration, repair lifecycle pipelines, transceiver and
+    optics tracking — owned, not improvised.
+  - Own network qualification and validation. Build the
+    frameworks that gate new sites and hardware into
+    production. You define what a healthy network looks like
+    before it carries traffic.
+  - Own end-to-end reliability, scalability, and operation of
+    the network at-scale. Fluidstack is building one of the
+    largest datacenter networks in the world and that can only
+    be accomplished with aggressive automation, tooling, and
+    incident discipline.
+
+  What We're Looking For
+
+  The below is a starting point. We always make space for
+  exceptional people, so if you don't fit this role exactly,
+  tell us where you would.
+
+  - You treat toil as a bug. If diagnosing a link failure
+    requires SSHing into boxes and running commands by hand,
+    you build the tool that does it for you.
+  - You think in systems. You understand how a transceiver
+    fault, a misconfigured route, and a power event each
+    propagate differently — and you build tooling that can
+    tell them apart.
+  - You move toward ambiguity, not away from it. You walk into
+    the fog, build the map, and explain it to everyone else.
+  - You learn at a steep slope. You reach real competence in an
+    unfamiliar domain fast. We value this over existing
+    expertise.
+  - You carry a pager without flinching. You run the incident,
+    write the postmortem, fix the systemic cause, and move on.
+  - You're fluent with AI tooling. LLM APIs, MCP servers, and
+    agentic frameworks, and you drive Claude Code, Cursor, or
+    similar every day.
+  - You've shipped production network tooling or automation that
+    other teams depend on, and you're comfortable in any
+    language using AI coding tools.
+  - You’ve developed automation tools in Go and Python, are
+    experienced in link diagnostics, optical networks, and
+    understanding network monitoring (gNMI, gRPC, NETCONF,
+    SONiC)
+  - Bonus: RMA and repair lifecycle automation. Large-scale
+    datacenter fabric (BGP, ECMP, spine-leaf). Out-of-band
+    network management.
+
+  Salary & Benefits
+
+  - Competitive total compensation package (salary + equity).
+  - Retirement or pension plan, in line with local norms.
+  - Health, dental, and vision insurance.
+  - Generous PTO policy, in line with local norms.
+
+  We are committed to pay equity and transparency.
+
+  Fluidstack is an Equal Employment Opportunity Employer. All
+  qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  national origin, sexual orientation, gender identity,
+  disability and protected veterans’ status, or any other
+  characteristic protected by law. Fluidstack will consider
+  for employment qualified applicants with arrest and
+  conviction records pursuant to applicable law.
+
+  Applicant Privacy Notice AI Screening Notice Ashby Bias
+  Audit
+
+  You will receive a confirmation email once your application
+  has successfully been accepted. If there is an error with
+  your submission and you did not receive a confirmation
+  email, please email careers@fluidstack.io with your
+  resume/CV, the role you've applied for, and the date you
+  submitted your application-- someone from our recruiting
+  team will be in touch.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-26
+url: "https://builtin.com/job/software-engineer-networking/11899666"
+source: Built In

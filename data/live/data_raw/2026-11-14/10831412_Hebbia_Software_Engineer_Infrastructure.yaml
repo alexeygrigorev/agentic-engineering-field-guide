@@ -1,0 +1,150 @@
+job_id: 10831412
+title: Software Engineer, Infrastructure
+company: Hebbia
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 120 Employees
+description: |
+  About Hebbia
+
+  The AI platform for investors and bankers that generates
+  alpha and drives upside.
+
+  Founded in 2020 by George Sivulka and backed by Peter Thiel
+  and Andreessen Horowitz, Hebbia powers investment decisions
+  for 40% of the world’s largest asset managers. Our flagship
+  product, Matrix, delivers industry-leading accuracy, speed,
+  and transparency in AI-driven analysis. It is trusted to
+  help manage over $30 trillion in assets globally.
+
+
+
+  We deliver the intelligence that gives finance professionals
+  a definitive edge. Our AI uncovers signals no human could
+  see, surfaces hidden opportunities, and accelerates
+  decisions with unmatched speed and conviction. We do not
+  just streamline workflows. We transform how capital is
+  deployed, how risk is managed, and how value is created
+  across markets.
+
+  Hebbia is not a tool. Hebbia is the competitive advantage
+  that drives performance, alpha, and market leadership.
+
+  The Role
+
+  We are looking for an infrastructure engineer who treats
+  cloud infrastructure as a software problem. You will own
+  Hebbia's AWS footprint end-to-end — accounts, networking,
+  container orchestration, and everything defined in code —
+  and the developer platform that our engineering teams build
+  on top of it. Infrastructure-as-code is the core craft here:
+  if it is provisioned by hand, it is not done.
+
+  This is a build role, not a support role. You will spend
+  your time designing multi-account architecture, writing the
+  IaC and automation that makes environments reproducible,
+  driving down cloud spend, hardening our infrastructure for
+  enterprise and financial-services scrutiny, and making the
+  path from a developer's laptop to production fast and
+  boring. Your remit is the foundation itself: the
+  infrastructure and platform that every engineer at Hebbia
+  builds, tests, and ships on.
+
+  Responsibilities
+
+  - Own Hebbia's AWS footprint: multi-account architecture,
+    networking, IAM, and the container orchestration layer our
+    services run on
+  - Define all infrastructure as code, with the same review,
+    testing, and versioning standards we hold application code
+    to
+  - Own cloud cost and capacity: model growth, right-size
+    infrastructure, and write the automation that prevents
+    over-provisioning before it shows up on the bill
+  - Build and own the developer platform — build pipelines,
+    ephemeral and preview environments, and development
+    tooling that every engineer at Hebbia depends on
+  - Continuously improve CI/CD so teams ship quickly and safely,
+    and treat build times and pipeline throughput as products
+    with owners and metrics
+  - Harden our infrastructure for the security and compliance
+    bar our financial-services customers hold us to: threat
+    modeling, least-privilege access, secrets management, and
+    automated compliance and audit tooling
+  - Architect for scale readiness — multi-region capability,
+    network and account isolation, and the growth headroom
+    enterprise deployments demand
+  - Partner with product engineering as a peer engineer, co-
+    designing infrastructure alongside the systems that run on
+    it
+  - Evaluate and integrate new infrastructure technology where
+    it measurably improves scalability, security, or
+    engineering velocity
+
+  Who You Are
+
+  - 5+ years building and operating cloud infrastructure at a
+    venture-backed startup or top technology firm
+  - Deep expertise with infrastructure-as-code tooling, and a
+    track record of managing a real production estate entirely
+    in code
+  - Cloud platform fluency, with production depth in AWS (we are
+    an AWS shop) — networking, IAM, and account architecture,
+    not just compute
+  - Strong command of containerization and orchestration
+    technologies
+  - Production-grade proficiency in at least one scripting or
+    backend language for automation and internal tooling:
+    Python, Go, or similar
+  - Strong CI/CD pipeline expertise and a demonstrated record of
+    improving developer velocity without sacrificing safety
+  - Working knowledge of OS-level and networking concepts, and
+    the ability to debug problems that span the boundary
+    between infrastructure and application
+  - Experience instrumenting infrastructure with monitoring and
+    observability tooling, and surfacing the signals
+    engineering teams need to understand platform health and
+    cost
+  - Hands-on experience securing cloud infrastructure to an
+    enterprise compliance bar: least-privilege IAM, secrets
+    management, hardening, and audit readiness
+  - Experience managing cloud cost at scale, or building the
+    tooling and guardrails that keep spend predictable, is a
+    strong plus
+
+  Compensation
+
+  The salary range for this role is $160,000 to $300,000. This
+  range may be inclusive of several career levels at Hebbia
+  and will be narrowed during the interview process based on
+  the candidate's experience and qualifications. Adjustments
+  outside of this range may be considered for candidates whose
+  qualifications significantly differ from those outlined in
+  the job description.
+
+  Life @ Hebbia
+
+  - PTO: Unlimited
+  - Insurance: Medical + Dental + Vision + 401K
+  - Eats: Catered lunch daily + DoorDash dinner credit if you
+    ever need to stay late
+  - Parental leave policy: 3 months non-birthing parent, 4
+    months for birthing parent
+  - Fertility benefits: $15K lifetime benefit
+  - New hire equity grant: competitive equity package with
+    unmatched upside potential
+
+  #LI-Onsite
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Natural Language Processing
+  - Software
+  - Financial Services
+  - Generative AI
+posted_date: 2026-08-25
+url: "https://builtin.com/job/software-engineer-infrastructure/10831412"
+source: Built In

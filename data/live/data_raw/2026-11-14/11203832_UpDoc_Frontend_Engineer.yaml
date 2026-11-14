@@ -1,0 +1,74 @@
+job_id: 11203832
+title: Frontend Engineer
+company: UpDoc
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 18 Employees
+description: |
+  About UpDoc
+
+  At UpDoc, we are building the first clinically validated,
+  physician-supervised AI agent that manages chronic diseases.
+  We are an early-stage startup founded by Stanford
+  physicians.
+
+  We are seeking a talented and motivated frontend engineer to
+  join our team and play a key role in helping build our
+  patient mobile app and physician facing front ends.
+
+  This is a fully remote position.
+
+  Who You Are
+
+  You’re a frontend engineer with strong TypeScript and Svelte
+  experience, comfortable building modern web applications.
+  You know SvelteKit, Tailwind, and the frontend ecosystem
+  well, and you’re eager to bring that expertise to patient
+  and provider apps that span EHR systems and Android/iOS
+  PWAs. Exposure to Capacitor, Kotlin, or Swift is a plus. You
+  care about UX, reliability, and the impact your work can
+  have on healthcare.
+
+  What You'll Do
+
+  - Help build and maintain patient and provider-facing
+    applications using SvelteKit, Tailwind, and TypeScript
+  - Develop progressive web applications that run across Android
+    and iOS
+  - Extend PWAs with Kotlin and Swift native code plugins to
+    access local device APIs
+  - Implement integrations with health data sources, including
+    CGMs and Apple HealthKit
+  - Collaborate with backend engineers to design and consume
+    APIs, ensuring reliable and secure data flows
+  - Work closely with designers to translate prototypes into
+    accessible, performant interfaces
+  - Partner with clinical experts to validate functionality and
+    ensure patient safety
+
+  What You’ll Need
+
+  - 4+ years of experience with Typescript and web development
+  - 4+ years working with Svelte or similar component-based
+    frameworks
+  - Solid proficiency in Svelte and Sveltekit
+  - Strong proficiency in Tailwind CSS
+  - Familiarity with CapacitorJS
+  - Familiarity with Kotlin and Swift
+
+  Highly Desired
+
+  - Past experience with development for EHR systems
+  - Understanding of accessibility standards and best practices
+  - Experience with testing frameworks and methodologies
+  - Familiarity with UX design principles and design thinking
+  - Previous experience in a startup environment
+  - Experience with healthcare industry standards, such as FHIR,
+    and regulations, including HIPAA and SOC 2
+industries:
+  - Healthtech
+  - Telehealth
+posted_date: 2026-09-16
+url: "https://builtin.com/job/frontend-engineer/11203832"
+source: Built In

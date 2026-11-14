@@ -1,0 +1,121 @@
+job_id: 11899312
+title: Software Engineer II, Cloud Applications
+company: Temporal Technologies
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 501 Employees
+description: |
+  Role Summary
+
+  We’re looking for a Software Engineer II to join the Cloud
+  Applications team. This team builds and operates critical
+  parts of the Temporal Cloud customer experience, including
+  Namespaces, Audit Logs, and Export.
+
+  Namespaces are the core unit of isolation within Temporal
+  Cloud, providing security boundaries, workflow management,
+  unique identifiers, and dedicated gRPC endpoints. Audit Logs
+  and Export give customers reliable access to the operational
+  and compliance data they depend on.
+
+  We're looking for an engineer who is excited to learn these
+  systems and contribute to their scalability, reliability,
+  and developer experience. This is a hands-on role where
+  you'll collaborate with experienced engineers, product
+  managers and partner teams to design, build, and operate
+  backend services and data pipelines while growing your
+  distributed-systems expertise.
+
+  What You'll Do
+
+  - Design, implement, test, and ship well-scoped features and
+    improvements for Temporal Cloud with support from
+    teammates.
+  - Build and improve services that support namespace
+    provisioning, configuration, scalability, and reliability.
+  - Develop data pipelines that process high-volume usage and
+    operational data across multiple tenants.
+  - Make thoughtful engineering tradeoffs with guidance,
+    balancing data freshness, query cost, tenant isolation,
+    reliability, and operational complexity.
+  - Improve service operability through tests, instrumentation,
+    dashboards, alerts, runbooks, and documentation.
+  - Participate in code reviews, design discussions, incident
+    response, and production debugging.
+  - Collaborate across engineering, product, and customer-facing
+    teams to understand requirements and deliver scoped
+    projects safely.
+  - Improve developer and customer experience through
+    automation, better tooling, and incremental product
+    improvements.
+
+  What You'll Bring
+
+  - Experience building and operating production backend systems
+    in a cloud environment.
+  - Proficiency in Go or another applicable backend or systems
+    language, with the ability to ramp up in an existing
+    codebase.
+  - Strong computer science fundamentals, including data
+    structures, concurrency basics, testing, and debugging.
+  - Working knowledge of distributed-systems concepts such as
+    reliability, fault tolerance, consistency, scaling, and
+    failure handling.
+  - Experience with databases, data pipelines, messaging
+    systems, or object storage.
+  - The ability to take a scoped problem, break it into smaller
+    tasks, implement a solution end to end, and incorporate
+    feedback.
+  - An operational mindset, including familiarity with logging,
+    metrics, tracing, deployment, and production
+    troubleshooting.
+  - Comfort collaborating across teams and communicating
+    progress, risks, and technical tradeoffs clearly.
+  - A commitment to correctness, maintainability, and leaving
+    systems better than you found them.
+
+  Nice to Have
+
+  - 3+ years of work experience
+  - Experience with Go.
+  - Experience with PostgreSQL, Redshift, Kinesis, Firehose
+  - Experience with S3, Google Cloud Storage, Azure Blob
+    Storage, or other object-storage systems.
+  - Familiarity with Kubernetes and cloud infrastructure.
+  - Experience supporting on-call rotations, investigating
+    incidents, or improving production observability.
+  - Familiarity with Temporal concepts—or a strong interest in
+    learning the platform.
+
+  Technology Stack
+
+  - Primary language: Go
+  - Data storage: PostgreSQL, Redshift, S3,Google Cloud Storage,
+    Azure Blob Storage, ClickHouse
+  - Data processing: Kinesis, Firehose
+  - Infrastructure: Kubernetes
+  - Core framework: Temporal
+
+  You do not need experience with every technology in our
+  stack. We value strong engineering fundamentals and the
+  ability to learn unfamiliar systems.
+
+  Temporal Technologies is an Equal Opportunity Employer.
+  Temporal Technologies does not discriminate on the basis of
+  race, religion, color, sex, gender identity, sexual
+  orientation, age, non-disqualifying physical or mental
+  disability, national origin, veteran status, or any other
+  basis covered by appropriate law. All employment is decided
+  on the basis of qualifications, merit, and business need. We
+  embrace and celebrate differences and diversity.
+
+  Temporal is committed to providing access, equal
+  opportunity, and reasonable accommodation for individuals
+  with disabilities in employment, its services, programs, and
+  activities. If you need to request a reasonable
+  accommodation, please let your Recruiter know so we can
+  assist.
+posted_date: 2026-10-26
+url: "https://builtin.com/job/software-engineer-ii-cloud-applications/11899312"
+source: Built In

@@ -1,0 +1,165 @@
+job_id: 11552298
+title: Staff Software Engineer, Identity and Authorization
+company: Domino Data Lab
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  Who we are
+
+  At Domino, we build solutions that help the largest, highly
+  regulated organizations adopt AI to accelerate mission-
+  critical use cases. Our platform integrates a streamlined
+  model and app development environment, advanced model,
+  agent, and app hosting  capabilities, and novel governance
+  capabilities providing regulator-ready AI at scale. Our
+  customers — like Johnson & Johnson, GSK, Bristol Myers, UBS,
+  FINRA and the US Navy — are using our software to solve some
+  of the most important challenges in the world, such as
+  developing new medicines, securing our financial markets, or
+  protecting our country. Backed by Sequoia Capital, Coatue
+  Management, NVIDIA, Snowflake and other leading investors,
+  we have been in business for over a decade but are still a
+  small team operating with the spirit of a startup. In the
+  world of AI today, we believe that the future is still being
+  invented — and we want to be the ones building it. For more
+  information, visit www.domino.ai
+
+  What we are building
+
+  Domino’s Identity and Access platform (IDSM) is the
+  foundation for how customers in some of the world’s most
+  regulated industries manage who can see and do what. We’re
+  evolving it into a centralized, relationship-based
+  authorization framework built on SpiceDB, and you’d be the
+  technical anchor for its next phase.
+
+  - A unified authorization model. Extend a centralized, fine-
+    grained, relationship-based model across the platform,
+    replacing feature-specific permission checks with
+    consistent, reusable primitives.
+  - Production-grade operations. Harden the authorization layer
+    for the scale, reliability, and security that enterprise
+    and public-sector customers expect.
+  - A thoughtful migration path. Make the sequencing and design
+    calls that let us retire legacy access checks without
+    disrupting customers along the way.
+  - Groups and organizations that mirror real customers. Rethink
+    how we model groups and organizational hierarchies so
+    large enterprises can represent their teams the way they
+    actually work.
+  - Cloud-native identity. Deepen integration with cloud
+    workload identity, starting with AWS IRSA and extending to
+    Azure and GCP equivalents.
+  - Foundations other teams build on. Design core identity and
+    access capabilities, with clean interfaces and flexible
+    abstractions, that engineers across the company can adopt
+    with confidence.
+  - A stronger way of building. Set the patterns for how the
+    team uses AI-assisted development to ship high-quality
+    features faster, without compromising security or code
+    quality.
+
+  What your impact will be
+
+  - Set the architectural direction. Design identity and access
+    solutions that meet customer demands for managing user and
+    group access, and are secure, scalable, and built on
+    primitives teams can reuse.
+  - Bring clarity to complex decisions. Articulate the
+    architecture clearly enough that the rest of Engineering
+    can rally around it.
+  - Be the go-to authority. Engineers and teams building on IDSM
+    will bring their auth questions to you, and your technical
+    judgment will carry real influence.
+  - Raise the engineering bar. Lead design reviews, unblock
+    engineers facing ambiguity, and champion flexible
+    abstractions and well-thought-out interfaces.
+  - Increase velocity and reduce maintenance. Improve our
+    architecture, including removing tech debt, so the team
+    ships faster with less ongoing maintenance.
+  - Shape how we build with AI. Establish patterns for using AI-
+    assisted development to deliver high-quality features
+    faster without compromising security or rigor.
+  - Foster ownership and urgency. Help the team know what to
+    build and value both quality and speed of iteration and
+    contribute to experiences that make identity and user
+    management easier for the enterprises we serve.
+
+  What we look for in this role
+
+  - A track record of evolving an enterprise-grade authorization
+    system under real production traffic, with strong opinions
+    about the architecture of these systems
+  - Experience designing a new auth system and migrating to it
+    from a legacy approach (a plus)
+  - Experience on a platform team supporting other services
+    within a larger engineering organization
+  - A background at a company that builds authentication or
+    authorization products (a plus)
+  - A concrete example of an auth system you helped build that
+    solved a recurring class of customer challenges
+  - A history of helping teams become better engineers by
+    improving designs, velocity, and quality
+  - Authorization systems: Hands-on experience with
+    relationship-based or fine-grained authorization,
+    including schema design (relations, permissions, caveats)
+    and the tradeoffs versus traditional RBAC
+  - Identity protocols: Solid grounding in OIDC and SAML, and
+    ideally experience with an IdP such as Keycloak, Auth0,
+    Okta, or ForgeRock
+  - Cloud identity: Practical experience with workload identity
+    patterns such as AWS IRSA, Azure Workload Identity, or GCP
+    Workload Identity Federation
+  - Secrets management: Familiarity with a credential management
+    system such as Vault
+  - Backend engineering: Strong Go, Java, or a comparable
+    language, comfort running services on Kubernetes, and API
+    design instincts from owning a platform others build on
+  - System architecture: Experience architecting auth frameworks
+    that scale to enterprise customers
+  - AI-assisted development: Considered, real-world experience
+    using AI coding tools while maintaining code quality and
+    security rigor
+
+  What We Value
+
+  - We value a growth mindset. High-performing creative
+    individuals who dig into problems and see the
+    opportunities for success
+  - We believe in individuals who seek truth and speak the truth
+    and can be their whole selves at work
+  - We value all of you that believe improving is always
+    possible At Domino Everything is a work in progress – we
+    can do better at everything
+  - We emphasize an environment of teaching and learning to
+    equip employees with the tools needed to be successful in
+    their function and the company
+  - We strongly believe in the value of growing a diverse team
+    and encourage people of all backgrounds, genders,
+    ethnicities, abilities, and sexual orientations to apply
+
+  #LI-Remote
+
+  The annual US base salary range for this role is listed
+  below. For sales roles, the range provided is the role's On
+  Target Earnings ("OTE") range, meaning that the range
+  includes both the sales commissions/sales bonuses target and
+  annual base salary for the role. This salary range will be
+  narrowed during the interview process based on a number of
+  factors, including the candidate's experience,
+  qualifications, and location. Additional benefits for this
+  role may include: equity, company bonus or sales
+  commissions/bonuses; 401(k) plan; medical, dental, and
+  vision benefits; and wellness stipends.
+
+  Compensation Range
+
+  $250,000—$280,000 USD
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+posted_date: 2026-10-07
+url: "https://builtin.com/job/staff-software-engineer-idsm/11552298"
+source: Built In

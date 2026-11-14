@@ -1,0 +1,71 @@
+job_id: 11788915
+title: "Backend Engineering & Security Intern"
+company: Intelura
+location: USA
+remote: true
+work_type: INTERN
+company_size: 16 Employees
+description: |
+  Team: Backend Engineering · Positions: 1
+
+  Role purpose
+
+  Help maintain and improve Timmy HR's backend, database,
+  APIs, and security as the platform supports live clients and
+  handles sensitive employee and organizational information.
+
+  Key responsibilities
+
+  - Review existing backend code and APIs to identify bugs,
+    weaknesses, and opportunities for improvement.
+  - Help maintain database structure, relationships,
+    constraints, indexes, migrations, and query performance.
+  - Review and improve authentication, authorization, role-based
+    access control, and tenant isolation.
+  - Help ensure each client organization can access only its own
+    authorized data.
+  - Identify potential security vulnerabilities, unsafe database
+    queries, exposed secrets, and insecure API endpoints.
+  - Implement input validation, error handling, and appropriate
+    server-side permission checks.
+  - Assist with database backups, recovery procedures, migration
+    testing, and data-integrity checks.
+  - Monitor backend errors, investigate production issues, and
+    help improve application reliability.
+  - Write and maintain automated tests for critical APIs and
+    access-control rules.
+  - Review dependency vulnerabilities and support secure coding
+    practices.
+  - Document backend architecture, database changes, and
+    security findings.
+  - Work with the engineering team to test fixes before
+    deploying them to production.
+
+  Required skills
+
+  - Knowledge of backend development using the stack selected by
+    Intelura, such as Node.js and TypeScript.
+  - Understanding of SQL and relational databases, preferably
+    PostgreSQL.
+  - Familiarity with REST APIs, authentication, authorization,
+    and Git/GitHub.
+  - Basic knowledge of OWASP security principles and secure
+    coding practices.
+  - A careful, methodical approach to handling production
+    systems and data.
+
+  Expected outcomes
+
+  - Better-tested and more reliable backend services.
+  - Documented database and API improvements.
+  - Identified and addressed security weaknesses.
+  - Improved data integrity, access control, and production
+    stability.
+industries:
+  - Software
+  - Analytics
+  - Business Intelligence
+  - Hospitality
+posted_date: 2026-10-21
+url: "https://builtin.com/job/backend-engineering-security-intern/11788915"
+source: Built In

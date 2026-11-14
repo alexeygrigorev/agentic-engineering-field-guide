@@ -1,0 +1,85 @@
+job_id: 9750062
+title: Backend Engineer (In-Person)
+company: Refine Technology Inc
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1800 Employees
+description: |
+  Senior GoLang Developer - Distributed Systems
+
+  About the Role
+
+  We're seeking a Senior GoLang Developer with expertise in
+  building and maintaining distributed systems. The ideal
+  candidate should have strong experience with gRPC and
+  Protocol Buffers for service-to-service communication,
+  demonstrating a deep understanding of microservices
+  architecture and high-performance inter-process
+  communication patterns. You will be working along MLOps and
+  frontend teams. Great opportunity to help lead large
+  projects and gain equity in a fast scaling startup.
+
+  Key Responsibilities
+
+  - Design, develop, and maintain scalable microservices using
+    GoLang and gRPC
+  - Implement robust API authentication mechanisms and manage
+    third-party service integrations
+  - Build and optimize service-to-service communication using
+    Protocol Buffers
+  - Deploy and manage applications on Google Cloud Platform
+    (GCP)
+  - Collaborate with cross-functional teams to design and
+    implement new features
+  - Participate in code reviews and mentor junior developers
+  - Troubleshoot and resolve production issues
+  - Document technical specifications and API contracts
+
+  Required Qualifications
+
+  - Strong experience with gRPC and Protocol Buffers for
+    microservices communication
+  - Proven track record of building and maintaining production-
+    grade distributed systems
+  - Experience with GCP or services, particularly Compute
+    Engine, Cloud Run, and Cloud Storage, although experience
+    with other cloud providers is acceptable
+  - Strong understanding of API security, OAuth 2.0, and
+    credential management
+  - Experience with containerization technologies (Docker,
+    Kubernetes)
+  - Solid understanding of distributed systems concepts (CAP
+    theorem, eventual consistency, etc.)
+
+  Preferred Qualifications
+
+  - Experience with other cloud platforms (AWS, Azure)
+  - Contribution to open-source projects
+  - Knowledge of monitoring and observability tools (Prometheus,
+    Grafana)
+  - Experience working with GitLab
+  - Experience with CI/CD pipelines
+  - Experience with vector databases like Pinecone
+  - Background in performance optimization and scalability
+
+  About Us
+
+  We're a rapidly growing AI technology company
+  revolutionizing e-commerce search and discovery through
+  advanced multimodal AI and natural language processing. Our
+  platform transforms traditional keyword-based search systems
+  into intelligent discovery experiences by leveraging
+  proprietary machine learning models that understand text,
+  images, and user behavior. By providing seamless API
+  integration, we enable retailers to unlock the full
+  potential of their product data without complex technical
+  implementations, helping brands deliver highly personalized
+  shopping experiences to their customers.
+industries:
+  - Artificial Intelligence
+  - eCommerce
+  - Retail
+  - Software
+posted_date: 2026-10-25
+url: "https://builtin.com/job/backend-engineer-person/9750062"
+source: Built In

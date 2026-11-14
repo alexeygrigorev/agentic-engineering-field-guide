@@ -1,0 +1,65 @@
+job_id: 11626569
+title: Simulation and Software Engineer
+company: Root Access
+location: New York, USA
+work_type: FULL_TIME
+company_size: 8 Employees
+description: |
+  Role Description
+
+  Root Access is hiring a Simulation & Software Engineer to
+  lead the development of scalable simulation infrastructure.
+  You will build software that automates electrical, thermal,
+  and electromagnetic simulations and transforms their outputs
+  into reliable training datasets. Working alongside our
+  Machine Learning Engineer and hardware team, you will own
+  simulation execution, data quality, and the infrastructure
+  needed to expand coverage across electronic designs.
+
+  Responsibilities
+
+  - Build and maintain automated simulation pipelines, including
+    design parameterization, solver integration, and results
+    extraction.
+  - Scale simulation workloads across local and cloud compute
+    through distributed execution, scheduling, and failure
+    recovery.
+  - Develop workflows for parameter sweeps and design-space
+    exploration.
+  - Implement checks for simulation convergence, physical
+    validity, and dataset quality.
+  - Track simulation configurations, data provenance, and
+    dataset versions to ensure reproducibility.
+  - Optimize simulation throughput, compute costs, and pipeline
+    reliability.
+  - Collaborate with the ML team to prioritize simulations that
+    improve model performance.
+  - Work with hardware engineers to validate simulation results
+    against physical measurements.
+
+  Qualifications
+
+  - Strong software engineering skills in Python, with
+    experience building reliable automated systems.
+  - Experience with physics-based simulation tools, numerical
+    solvers, or scientific computing.
+  - Experience with parallel computing, workload orchestration,
+    and cloud or HPC infrastructure.
+  - Familiarity with data pipelines, structured storage,
+    versioning, and reproducible workflows.
+  - Understanding of numerical methods and at least one relevant
+    domain: circuit simulation, electromagnetics, or thermal
+    analysis.
+  - Ability to diagnose solver failures and distinguish software
+    issues from modeling problems.
+  - Degree in engineering, physics, applied mathematics,
+    computer science, or equivalent experience.
+  - Preferred: experience scaling solver-generated data with
+    automation and custom integrations.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Design
+posted_date: 2026-10-13
+url: "https://builtin.com/job/simulation-and-software-engineer/11626569"
+source: Built In

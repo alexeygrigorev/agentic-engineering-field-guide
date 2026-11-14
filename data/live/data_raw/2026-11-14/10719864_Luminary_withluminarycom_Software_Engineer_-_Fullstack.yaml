@@ -1,0 +1,162 @@
+job_id: 10719864
+title: Software Engineer - Fullstack
+company: Luminary (withluminary.com)
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  About Luminary
+
+  Luminary is the AI-native system of action for wealth
+  transfer services.
+
+  High net worth households controlling more than $90 trillion
+  in assets are meaningfully underserved by technology that
+  was built for the mass market. As private client investment
+  and banking products have commoditized, these clients are
+  looking for more tax and wealth transfer advice, advice that
+  has previously been impossible to deliver at scale.
+
+  Luminary solves this problem by transforming complex estate
+  planning and ownership documents into a structured,
+  proprietary data asset that powers verticalized, agent-
+  driven workflows for tax and wealth transfer services. Our
+  built-in multi-firm collaboration connects a client's full
+  advisor ecosystem, and is the core infrastructure that
+  enables our customers to deliver a highly personalized, end-
+  to-end wealth transfer service offering at scale.
+
+  Our 1,000+ customers are leaders across the private client
+  services ecosystem: wealth managers from exclusive multi-
+  family offices through top private banks and trust
+  companies, national tax advisory practices, and law firms
+  among the AM Law 100. Our focus and proprietary data
+  position us to expand from a wedge in wealth transfer advice
+  into large adjacent markets including trust administration
+  and estate distribution.
+
+  Founded and led by CEO David Barnard, former Head of Wealth
+  Management at AllianceBernstein, Luminary is backed by 8VC,
+  Fin Capital, Rockefeller Capital, Focus Financial Partners,
+  and several family offices.
+
+  How we work
+
+  - Every engineer ships to production multiple times a day. We
+    make small, reviewable changes that go out through CI as
+    soon as they're ready.
+  - Modern tooling. Meticulous, Amp, Honeycomb, Temporal,
+    PostHog, Braintrust. We keep the team small and invest in
+    tooling for leverage.
+  - Engineers own outcomes. You'll talk to customers and feel
+    their wins and pain points, sit with our in-house subject
+    matter experts, and help us build a great business.
+  - We support both remote and in-office preferences. We have an
+    office in NYC near Bryant Park and a lively in-office
+    culture, but if remote works better for you, you'll be in
+    good company.
+
+  The Opportunity
+
+  You'll own features end to end. You'll hear an idea from a
+  customer conversation, then craft the data model and build
+  the interface an advisor uses while sitting next to a
+  client. (Then the customer will email support to tell them
+  how valuable it is for them!)
+
+  You'll work on features spanning document ingestion,
+  knowledge graph generation, tax and wealth transfer
+  modeling, multiplayer collaboration tooling, chat agents,
+  complex diagram-based UI, and agentic advisory and trust
+  administration workflows.
+
+  What you'll do
+
+  - Build agents with agents. Most of what we ship now has an
+    agentic surface: a chat affordance, an ambient agent
+    working in the background, a tool a model can call. You'll
+    be designing those, and you'll be using coding agents (we
+    use Amp) heavily to build them.
+  - Use existing patterns, and call out when one has stopped
+    working. We have common conventions for data modeling,
+    GraphQL, and component architecture, and they generally
+    work! But not always, and you'll know when to break out of
+    them.
+  - Learn the domain from people who know it. Estate planning is
+    complicated in ways that aren't obvious from outside. Our
+    wealth strategies team sits with engineers, and advisors,
+    attorneys, and federal and state officials will take your
+    call.
+  - Work closely with design. Experienced product designers,
+    turning tax and legal concepts into something an advisor
+    can use in a live client meeting.
+
+  Who you are
+
+  Four or more years of software engineering experience, at
+  companies with strong engineering practices, and ideally at
+  startups. Beyond that:
+
+  - Comfortable across the stack. You enjoy doing data modeling
+    in Postgres, building product functionality in Go, and
+    building interfaces in React and TypeScript. That said, we
+    know you'll lean one direction! We all do too.
+  - Product-minded. You gather context, watch customers use the
+    app, form opinions about what customers need and share
+    them.
+  - Technically skilled. Familiarity with cloud web applications
+    and complex data models helps, as does familiarity with
+    any of React, TypeScript, GraphQL (Apollo), Playwright,
+    Go, Postgres, and Temporal. We aren't dogmatic about any
+    of it, and curiosity substitutes fine for experience.
+  - You communicate well. With half the team remote,
+    overcommunication is the name of the game!
+
+  Why you'll love working here
+
+  - You'll be one of a small, senior team of engineers building
+    a complex and high-value product. You'll get a lot of
+    trust and responsibility early on.
+  - You'll work closely with our CEO, Head of Engineering, and
+    Head of Product.
+  - You'll help build foundational product in a nascent
+    category, with a lot of room to expand into large adjacent
+    markets.
+  - You'll ship constantly and hear fast feedback from
+    customers.
+
+  We earnestly believe that Luminary represents a one-of-a-
+  kind opportunity to have massive impact at profitable scale,
+  and to have a ton of fun along the way.
+
+  Benefits we offer
+
+  We believe firmly that happy, healthy employees do their
+  best work. To that end, we offer:
+
+  - 👩🏻‍⚕️ 100% employee health insurance coverage (plus 50%
+    dependent coverage)
+  - 🧘🏽‍♀️ Monthly wellness, commuter, and educational stipends
+  - 🏖️ 4 weeks PTO, plus holidays
+  - 🏢 NYC office near Bryant Park, for those who want it.
+    Remote-friendly by default.
+  - 💰 401(k) plan
+  - 👶 Parental leave policy
+
+  Compensation
+
+  - Base salary range of $170k–$225k, plus meaningful equity.
+    Actual compensation depends on many factors, including
+    relevant experience and skillset.
+  - At this time, Luminary is unable to sponsor employment visas
+    or provide immigration support.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-08-17
+url: "https://builtin.com/job/software-engineer-fullstack/10719864"
+source: Built In

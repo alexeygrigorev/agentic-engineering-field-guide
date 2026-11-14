@@ -1,0 +1,152 @@
+job_id: 8496762
+title: Software Engineer - Infrastructure
+company: Modern Treasury
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 165 Employees
+description: |
+  OVERVIEW
+
+  This position can be based out of San Francisco, New York,
+  or remote (we accept candidates from the following states:
+  AZ, CA, CO, CT, FL, GA, HI, IL, MA, MD, MI, MN, MT, NC, NJ,
+  NV, NY, OH, OK, OR, PA, TN, TX, UT, WA, WI).
+
+  Modern Treasury is expanding deeper into money movement.
+  We’re building new products that will let customers move
+  funds across both traditional rails and emerging
+  technologies, including stablecoins. You’ll help design,
+  deploy and operate the infrastructure that makes this
+  possible.
+
+  This is a hands-on devops role with strong ownership over
+  infrastructure architecture and platform automation.
+
+  ABOUT THE ROLE
+
+  This role sits at the intersection of infrastructure,
+  platform engineering and security. You’ll define how Modern
+  Treasury scales and operates our infrastructure, and guide
+  teams toward cohesive architectural patterns.
+
+  You will set direction and build for infrastructure systems
+  that support:
+
+  - Multi-rail money movement
+  - Real-time payment flows
+  - Ledger-backed transaction processing
+  - High-availability payment orchestration
+
+  This is a staff individual contributor role with broad
+  influence across Product, Platform, and Infrastructure
+  teams.
+
+  WHAT YOU’LL DO
+
+  - Lead architecture for AWS infrastructure, container
+    orchestration, and CI/CD to support scalable payment
+    systems
+  - Standardize automation and infrastructure-as-code to
+    provision, scale, and operate high-volume ledger and
+    transaction platforms
+  - Reduce operational overhead through tooling, streamlined
+    workflows, and engineering standards uplift
+  - Optimize performance, reliability, and observability across
+    real-time and rails-specific infrastructure
+  - Define service ownership and operational models, aligning
+    platform and product teams on scalable rail architecture
+  - Contribute to infrastructure and security strategy for new
+    payment rails, including FBO structures, stablecoin
+    integrations, and compliance-focused features
+
+  WHAT YOU SHOULD HAVE
+
+  Required
+
+  - 8+ years in Devops, or infrastructure engineering
+  - Strong track record of setting technical direction without
+    direct authority
+  - Experience building internal platforms that abstract
+    complexity away from product teams
+  - Strong experience with:
+    - Designing and operating distributed systems
+    - AWS infrastructure at scale
+    - Infrastructure as Code (Terraform or similar)
+    - CI/CD systems and automation pipelines
+    - Containerized environments (Docker)
+    - Observability and performance tuning for production systems
+  - Experience with application and product security
+  - Experience scaling systems that process high-volume
+    workloads
+  - Experience defining reliability standards and operational
+    maturity models
+
+  What Sets You Apart
+
+  - Experience architecting infrastructure for multiple payment
+    rails simultaneously
+  - Experience scaling systems that process high-volume
+    financial or transactional workloads
+  - Understanding of payment rail mechanics (ACH, wires, RTP,
+    cards, etc.)
+  - Familiarity with security and risk standards for money
+    movement
+  - Ability to balance immediate delivery needs with long-term
+    infrastructure strategy
+
+  TECHNOLOGIES WE USE
+
+  - Ruby on Rails for our backend
+  - React, GraphQL, and Tailwind CSS on the front end
+  - Postgres for our database
+  - AWS for infrastructure and hosting
+  - Docker for containerization
+  - GitHub for source code management
+  - Buildkite for continuous integration
+
+  ABOUT MODERN TREASURY
+
+  Modern Treasury provides trusted infrastructure for money
+  movement. The company helps teams launch and scale payment
+  experiences in days, not months. With best-in-class
+  developer tools and a single API for fiat and
+  stablecoins—plus built-in compliance, ledgering, and
+  reporting—Modern Treasury enables businesses to move money
+  instantly, reliably, and at scale.
+
+  Modern Treasury is committed to equal employment opportunity
+  and does not discriminate in any employment opportunities or
+  practices based on an individual's race, color, creed,
+  gender (including gender identity and gender expression),
+  religion (all aspects of religious beliefs, observance or
+  practice, including religious dress or grooming practices),
+  marital status, registered domestic partner status, age,
+  national origin or ancestry (including language use
+  restrictions and possession of a driver’s license issued
+  under California Vehicle Code section 12801.9), natural
+  hair, physical or mental disability, political affiliation,
+  medical condition (including cancer or a record or history
+  of cancer, and genetic characteristics), sex (including
+  pregnancy, childbirth, breastfeeding or related medical
+  condition), genetic information, sexual orientation,
+  military and veteran status or any other consideration made
+  unlawful by federal, state, or local laws. It also prohibits
+  unlawful discrimination based on the perception that anyone
+  has any of those characteristics, or is associated with a
+  person who has or is perceived as having any of those
+  characteristics.
+
+  Modern Treasury participates in E-Verify and will provide
+  the federal government with your Form I-9 information to
+  confirm that you are authorized to work in the U.S.
+industries:
+  - Payments
+  - Software
+  - Financial Services
+posted_date: 2026-08-10
+url: "https://builtin.com/job/software-engineer-infrastructure/8496762"
+source: Built In

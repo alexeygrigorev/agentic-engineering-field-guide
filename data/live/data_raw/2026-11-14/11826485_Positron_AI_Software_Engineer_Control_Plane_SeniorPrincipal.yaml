@@ -1,0 +1,276 @@
+job_id: 11826485
+title: Software Engineer, Control Plane (Senior/Principal)
+company: Positron AI
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 42 Employees
+description: |
+  About Positron AI
+
+  Positron AI specializes in developing custom hardware
+  systems to accelerate AI inference. These inference systems
+  offer significant performance and efficiency gains over
+  traditional GPU-based systems, delivering advantages in both
+  performance per dollar and performance per watt. Positron AI
+  exists to create the world's best AI inference systems.
+
+  Role Overview
+
+  We are looking for a Senior or Principal Software Engineer
+  to contribute to control-plane architecture and hands-on
+  development for Positron AI inference systems. You will
+  write software that connects low-level hardware capabilities
+  to system management, diagnostics, security, and firmware
+  updates. Go is our primary implementation language, with C,
+  C++, Python, Bash, and other languages used where they fit
+  the system boundary.
+
+  This role can fit a senior/principal software engineer or
+  systems architect who remains a strong, current coder and
+  wants ownership grounded in production implementation. You
+  will set technical direction, define stable secure
+  interfaces, and write, review, profile, and debug production
+  code alongside the team.
+
+  The scope spans a wide swath of the platform. You will own
+  substantial features end to end, from problem definition and
+  architecture through implementation, integration, testing,
+  and production validation.
+
+  Key Responsibilities
+
+  Platform Architecture and Implementation
+
+  - Contribute to the architecture and evolution of the system
+    management services and APIs that control hardware state,
+    resources, diagnostics, updates, and workloads.
+  - Design, write, and review production Go, reaching for C,
+    C++, Python, or Bash at the boundaries where they are the
+    right tools.
+  - Work across the full stack, from web applications and
+    management APIs through Linux services, hardware
+    interfaces, and low-level protocols.
+  - Refactor critical subsystems to improve modularity,
+    testability, and fault isolation, and to support future
+    hardware generations.
+  - Define stable interfaces and data models for orchestration,
+    diagnostics, management tooling, and customer-facing
+    workflows.
+
+  Hardware and System Integration
+
+  - Partner with internal and external hardware, firmware, and
+    systems engineers to turn low-level capabilities into
+    reliable platform services.
+  - Debug failures at the board and system level across CPU,
+    memory, drives, USB, I2C, SMBus, PCIe, and in-system
+    accelerators, including FPGAs.
+  - Build safe control paths for reboot state, accelerator reset
+    and recovery, hardware health, and resource allocation.
+  - Integrate management-controller capabilities, hardware
+    counters, and telemetry into platform APIs and operational
+    workflows.
+
+  Diagnostics, Observability, and Reliability
+
+  - Expose diagnostics through platform APIs with persistent
+    results, searchable reporting, and periodic archiving.
+  - Build comprehensive metrics, logs, and alerts with
+    configurable sinks, including OpenTelemetry-compatible
+    systems.
+  - Integrate external health probes so failed hardware or
+    workloads can be isolated, rescheduled, and recovered
+    safely.
+  - Profile system behavior, diagnose performance regressions,
+    and drive root causes through to resolution.
+
+  Security and Software Lifecycle
+
+  - Implement certificate management, role-based access control,
+    pluggable authentication, and integrations with HSM-backed
+    secret stores.
+  - Build secure boot, signed-artifact, software and firmware
+    update, and rollback workflows.
+  - Secure model acquisition and sideloading with appropriate
+    authentication, secret management, and status reporting.
+
+  Technical Leadership and Engineering Practices
+
+  - Translate product and hardware roadmaps into software
+    architecture, sequenced execution plans, and clear
+    technical decisions.
+  - Lead design and code reviews across software, firmware,
+    hardware, and security boundaries.
+  - Mentor engineers while remaining directly responsible for
+    critical implementation and debugging work.
+  - Own complex platform features end to end, define what done
+    looks like, and carry them from architecture through
+    implementation, integration, and production validation.
+  - Apply AI-assisted tools to accelerate implementation, test
+    generation, debugging, profiling, code review, and
+    documentation while maintaining engineering rigor.
+
+  Lab Support and Documentation
+
+  - Support system assembly, bring-up, troubleshooting, and
+    racking servers.
+  - Produce architecture documents, test procedures, runbooks,
+    and release notes, and take on related responsibilities as
+    needed to help the team ship and support the product.
+
+  Required Qualifications
+
+  - 5+ years of professional software engineering experience,
+    including technical ownership of production systems
+    software or infrastructure.
+  - A background in Electrical Engineering, Computer
+    Engineering, or Computer Science, through a relevant
+    degree or equivalent practical experience with digital
+    systems and board-level interfaces.
+  - Strong production experience with Go, spanning concurrent
+    services, API design, testing, profiling, and operational
+    debugging.
+  - A current hands-on coding practice, writing and debugging
+    production code rather than operating only at the
+    architecture or review level.
+  - Proficiency in at least one additional language used in
+    systems work, such as C, C++, Python, or Bash.
+  - Broad technical knowledge across web applications,
+    distributed services, Linux systems, device interfaces,
+    and low-level protocols.
+  - Deep Linux systems knowledge, including processes,
+    networking, storage, resource management, services, and
+    system diagnostics.
+  - Hands-on experience building software that interfaces with
+    hardware through drivers, firmware APIs, management
+    controllers, PCIe, I2C, or comparable boundaries.
+  - Demonstrated ability to design reliable distributed systems,
+    control planes, or workload-management services.
+  - Strong debugging and root-cause analysis skills across
+    application, operating system, firmware, and hardware
+    boundaries.
+  - Experience designing security into platform software,
+    including authentication, authorization, certificates,
+    secrets, and update integrity.
+  - A track record of carrying substantial features from
+    architecture through implementation, integration, testing,
+    and production operation.
+  - Demonstrated technical leadership through architecture
+    documents, design reviews, code reviews, mentoring, and
+    cross-functional execution.
+
+  Preferred Qualifications
+
+  - Experience with BMC, IPMI, Redfish, embedded Linux, or
+    comparable hardware management software.
+  - Familiarity with workload orchestration and service
+    discovery systems such as Consul.
+  - Working knowledge of PKI, secure boot, HSMs, artifact
+    signing, and software or firmware update systems.
+  - Exposure to observability systems such as OpenTelemetry,
+    Prometheus, Grafana, or equivalent.
+  - Experience with hardware accelerators, high-performance
+    computing, or large-scale AI infrastructure.
+  - Broad-scope ownership experience outside a traditional
+    engineering role, such as leading a small team end to end,
+    bootstrapping a project, or running non-trivial self-
+    hosted infrastructure.
+
+  Leveling & Scope
+
+  While this role is currently posted at a specific level, we
+  are a growth-oriented organization and are open to hiring at
+  a more senior level for the right candidate. Please note
+  that this job description serves as a focused but
+  generalized overview of the role; specific responsibilities
+  and impact expectations will be tailored to the experience
+  and seniority of the final hire.
+
+  What Success Looks Like
+
+  Within one year, this person will have established a clear
+  and scalable platform architecture, shipped major production
+  Go implementations, improved hardware diagnostics and
+  recovery, and made system security, updates, and fleet
+  operations more predictable.
+
+  Why Join Us?
+
+  - Own the software layer that connects custom AI inference
+    hardware to reliable system operations.
+  - Set architecture and implement critical production code in
+    the same role.
+  - Work across hardware, firmware, systems software,
+    orchestration, and security with direct influence on the
+    product.
+
+  Compensation & Benefits
+
+  The base salary range for this role is Senior: $170,000 –
+  $250,000, Principal: $250,000 - $325,000.
+
+
+
+  Please note that the figures provided represent the base
+  salary range only and do not include other elements of our
+  total compensation package, equity, or comprehensive
+  benefits.
+
+
+
+  At Positron AI, we value the unique expertise each candidate
+  brings. While the range above reflects our typical
+  expectation for the position, we reserve the flexibility to
+  exceed this range for candidates whose specialized skills,
+  significant experience, or unique qualifications fall
+  outside the standard scope of the role. Final offers are
+  determined based on a variety of factors, including internal
+  equity, and individual impact.
+
+  Benefits & Perks
+
+  We want you to do your best work and feel confident that you
+  and your family are taken care of. That means comprehensive
+  coverage, real time to rest, and support for your future.
+
+  Health and wellness
+
+  - Fully company-paid medical, dental, and vision insurance for
+    you and your dependents.
+  - Company-paid life and disability coverage, with voluntary
+    options to add more.
+  - Supplemental hospital, critical illness, and accident
+    coverage available.
+
+  Time off and flexibility
+
+  - Unlimited paid time off, so you can truly unplug and
+    recharge.
+  - 13 paid company holidays.
+  - A company-provided computer.
+
+  Compensation and future
+
+  - Competitive salary and equity.
+  - 401(k) with company matching, eligible from day one.
+
+  Visa Support
+
+  This position is open to candidates currently authorized to
+  work in the U.S. We cannot provide new visa sponsorship for
+  this role but are open to facilitating H-1B visa transfers
+  for eligible candidates.
+
+
+
+  Equal Opportunity Employer. If you're excited about the role
+  but don't meet every bullet, we'd still love to hear from
+  you.
+industries:
+  - Hardware
+  - Information Technology
+  - Software
+posted_date: 2026-10-23
+url: "https://builtin.com/job/software-engineer-control-plane-senior-principal/11826485"
+source: Built In

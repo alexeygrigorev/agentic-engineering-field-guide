@@ -1,0 +1,115 @@
+job_id: 8799958
+title: Rust Software Engineer
+company: Onyx Capital Group
+location: London, GBR
+work_type: FULL_TIME
+company_size: 144 Employees
+description: |
+  About Onyx Capital Group
+
+  Onyx Capital Group is the world’s #1 liquidity provider for
+  energy derivatives, trading over $3.2 trillion in notional
+  value annually. Through Onyx Commodities, the Flux Terminal,
+  and our trading division Axis, we dominate the benchmarks
+  that matter — Dated Brent, S2F contracts, and beyond. We are
+  not a bank. We are not a hedge fund. We are a technology-
+  driven market-making powerhouse at the intersection of
+  global energy markets, data, and engineering — and we are
+  growing fast.
+
+  Engineering at Onyx
+
+  We don’t hire passengers — we hire pilots. Every engineer
+  here takes ownership, pushes back when the design isn’t
+  right, and holds the bar high without being asked. We
+  practise TDD, design for observability from day one, and
+  treat software craftsmanship as a genuine competitive
+  advantage. The team is small, senior, and embedded directly
+  in the trading floor. There are no layers of abstraction
+  between you and the business — your work has immediate,
+  measurable impact from day one.
+
+  The Opportunity
+
+  We are building our Sri Lanka engineering hub and looking
+  for a Rust Software Engineer to join as an early member of
+  that team. Working alongside our global engineering
+  organisation, you will take full ownership of features end-
+  to-end — from design through delivery and into production.
+  Your work will power live trading infrastructure used by
+  some of the world’s most demanding market participants.
+
+  Requirements
+
+  - 2–5+ years in a software engineering role; track record of
+    delivering production-quality features independently
+  - Solid Rust proficiency — confident with the ownership model,
+    lifetimes, traits, and the borrow checker applied to real-
+    world systems; ability and drive to pick up complementary
+    languages as the role demands
+  - Strong systems programming fundamentals — memory management,
+    concurrency, safe and performant code, and software design
+    patterns applied in production environments
+  - Test-Driven Development discipline: unit, integration, and
+    E2E tests written as a standard part of the development
+    loop, not an afterthought
+  - Automation mindset — demonstrated experience identifying and
+    eliminating manual processes through tooling, scripts, and
+    pipelines
+  - REST API experience — designing, building, and consuming
+    APIs with a clear understanding of authentication,
+    versioning, and error handling
+  - Source control and CI/CD: GitHub, Azure DevOps, or GitLab;
+    branching strategies, PR workflows, and pipeline
+    contribution
+  - Experience working in cloud-hosted environments — Azure
+    preferred
+  - Strong sense of personal ownership — takes a feature from
+    ticket to production without hand-holding, and treats
+    issues in systems they’ve built as their own to resolve
+  - Comfortable engaging directly with remote end users and
+    business stakeholders to understand requirements, debug
+    issues, and communicate progress clearly — without needing
+    a middleman
+  - Highly self-motivated with a bias for action — raises
+    problems early, proposes solutions, and follows through to
+    completion
+  - Strong written and spoken English — clear and confident in
+    both written and verbal communication across synchronous
+    and asynchronous settings
+  - Experience working with globally distributed teams is
+    strongly welcomed; comfortable collaborating with
+    colleagues in different time zones and cultures
+
+  Nice to Have
+
+  - Experience with async Rust (Tokio / async-std) and building
+    concurrent, high-throughput services
+  - Familiarity with C, C++, or other systems languages;
+    experience bridging Rust with existing codebases via FFI
+  - Experience with agile delivery practices (sprint planning,
+    retrospectives, stand-ups)
+  - Prior experience in financial services or fintech, or a
+    genuine interest in financial technology and capital
+    markets — not required, but candidates who are curious
+    about the domain tend to thrive here
+  - Exposure to containerised environments (Docker / Kubernetes)
+  - Familiarity with message-based architectures (Kafka, NATS,
+    etc.) or gRPC / protobuf-based APIs
+
+  What We’re Looking For
+
+  You write clean, well-tested code and take pride in it. You
+  don’t wait to be told what needs improving — you spot it,
+  raise it, and fix it. You communicate proactively, work
+  autonomously across time zones, and hold yourself to a
+  standard that makes the people around you better. You want
+  to work on systems that matter and with users who notice
+  when something is even slightly wrong.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-22
+url: "https://builtin.com/job/rust-software-engineer/8799958"
+source: Built In

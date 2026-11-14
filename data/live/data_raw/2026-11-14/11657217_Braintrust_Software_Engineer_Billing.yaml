@@ -1,0 +1,121 @@
+job_id: 11657217
+title: Software Engineer, Billing
+company: Braintrust
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 123 Employees
+description: |
+  About the company
+
+  Braintrust is the agent observability platform. By actively
+  applying intelligence to agent traces and automatically
+  surfacing the most critical patterns, Braintrust gives teams
+  the visibility to understand how agents behave in production
+  and the tools to improve them. Teams at Notion, Stripe, Box,
+  OpenAI, and Cloudflare use Braintrust to trace their agents,
+  find the issues in their observability data, and run evals
+  that tell them how to improve.
+
+  About the role
+
+  We’re looking for a Software Engineer, Billing to build the
+  systems that make Braintrust’s pricing, usage, and payments
+  accurate, scalable, and transparent.
+
+  Braintrust helps teams observe, evaluate, and improve
+  production AI agents. Our customers generate large volumes
+  of traces, run automated and human evaluations, use AI-
+  powered product features, and retain data under different
+  plans and policies. Billing needs to turn those product
+  activities into clear, reliable customer experiences—from
+  usage measurement and plan enforcement to invoices, credits,
+  and account state.
+
+  You’ll work across the billing stack: usage metering,
+  subscriptions and entitlements, payment integrations,
+  invoicing, credits, and the internal systems that reconcile
+  them. This is a deeply technical IC role. It is not a
+  finance-operations role, and it is not a backend generalist
+  role that contributes to billing occasionally.
+
+  You’ll be a technical authority on billing correctness and
+  scale, helping Braintrust launch pricing models that let
+  customers adopt the platform with confidence as their AI
+  workloads grow.
+
+  What you'll do
+
+  Core responsibilities:
+
+  - Own Braintrust billing architecture end-to-end, including
+    metering, plans, subscriptions, entitlements, invoices,
+    credits and payments.
+  - Design our billing architecture to solve immediate needs and
+    simplify billing for new features as they are developed
+    and released.
+  - Ensure Braintrust accurately measures and bills for product
+    usage, including processed data, evaluation scores, model
+    usage, and data retention.
+  - Partner with product, infrastructure, finance, and customer-
+    facing teams to introduce new pricing models and billing
+    workflows with confidence.
+
+  Build the systems that power Braintrust billing, such as:
+
+  - A reliable usage-metering and aggregation pipeline that
+    turns product activity into accurate customer usage.
+  - A subscription, limits, and entitlement system that supports
+    plan allowances, feature access, trials, upgrades, and on-
+    demand usage.
+  - Internal tools and APIs for investigating billing anomalies,
+    issuing credits, and helping customers understand their
+    account state.
+  - Observability across the billing pipeline, including
+    metering lag, event completeness, reconciliation
+    discrepancies, and payment health.
+
+  Ideal candidate credentials
+
+  - Expert-level understanding of TypeScript, Rust, SQL, backend
+    systems, APIs, and distributed data-processing patterns
+  - Experience building and operating production usage-based
+    billing, payments, or subscription systems
+  - Experience with metering, aggregation, idempotency,
+    reconciliation, and event-driven architectures
+  - Experience integrating with Stripe or similar payment
+    infrastructure
+  - Experience building or maintaining financial ledgers,
+    credits, balances, or invoice systems is a plus
+  - Comfortable shipping end-to-end, from backend infrastructure
+    and data systems to internal tools and customer-facing UI
+  - Previous experience founding or working at startups is a
+    plus
+  - Has an appreciation for the tension between moving quickly
+    and preserving customer trust and billing correctness
+
+  Benefits include
+
+  - Medical, dental, and vision insurance
+  - Daily lunch, snacks, and beverages
+  - Flexible time off
+  - Competitive salary and equity
+  - Wifi & cellphone stipend
+
+  Equal opportunity
+
+  Braintrust is an equal opportunity employer. All applicants
+  will be considered for employment without attention to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, veteran or disability status.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Database
+  - Analytics
+posted_date: 2026-10-13
+url: "https://builtin.com/job/software-engineer-billing/11657217"
+source: Built In

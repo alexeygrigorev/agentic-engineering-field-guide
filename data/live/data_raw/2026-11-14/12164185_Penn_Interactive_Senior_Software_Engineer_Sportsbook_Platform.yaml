@@ -1,0 +1,162 @@
+job_id: 12164185
+title: Senior Software Engineer, Sportsbook Platform
+company: Penn Interactive
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 441 Employees
+description: |
+  PENN Entertainment, Inc. is North America’s leading provider
+  of integrated entertainment, sports content, and casino
+  gaming experiences. From casinos and racetracks to online
+  gaming, sports betting and entertainment content, we deliver
+  the experiences people want, how and where they want them.
+
+  We’re always on the lookout for those who are passionate
+  about creating and delivering cutting-edge online gaming and
+  sports media products. Whether it’s through Hollywood
+  Casino, theScore Bet Sportsbook, or theScore media app,
+  we’re excited to push the boundaries of what’s possible.
+  These state-of-the-art platforms are powered by proprietary
+  in-house technology, a key component of PENN’s omnichannel
+  gaming and entertainment strategy.
+
+  When you join PENN Entertainment’s digital team, you’ll not
+  only work on these cutting-edge platforms through theScore
+  and PENN Interactive, but you’ll also be part of a company
+  that truly cares about your career growth. We’re committed
+  to supporting you as you expand your skills and explore new
+  opportunities.
+
+  With locations throughout North America, you can build a
+  future at PENN Entertainment wherever you are. If you want
+  to challenge conventions in gaming, media and entertainment,
+  we want to talk to you.
+
+  About the Team   We build backend services and real-time
+  APIs that power what bettors and players see and do in
+  theScore Bet, Hollywood Casino, and theScore Casino. We
+  support iOS, Android, and web. Our work is moving closer to
+  the apps themselves, and our engineers increasingly pair
+  with the mobile teams.
+
+  We focus on outcomes, not ticket counts. A project starts
+  with a goal we can measure.  You own it until the goal is
+  met.
+
+  About the Work
+
+  - Design, scale, and tune APIs and the real-time delivery
+    behind them.
+  - Treat the API schema as a versioned contract with released
+    mobile apps. Classify breaking changes, plan migrations
+    with the iOS and Android leads, and keep client models in
+    sync.
+  - Build and operate services that stay fast and correct under
+    high throughput, bursty load.
+  - Find bottlenecks and risks in production and drive the
+    changes that make the platform scale.
+  - Set up and refine monitoring, alerting, and tracing in
+    Datadog for the systems you own.
+  - Develop native Android and iOS features in Swift or Kotlin
+    when a feature needs it, alongside the mobile teams.
+  - Write thorough tests for every feature and bug fix.
+  - Own features end to end, from the API to the screen. Pair
+    with iOS, Android, and web engineers, and learn enough of
+    their code to make targeted changes when the feature needs
+    it.
+  - Debug problems that cross the client and server boundary.
+  - Shape APIs from the client's point of view: what the app
+    needs, how it caches, and how it behaves on a weak
+    network.
+  - Use AI coding agents, such as Claude Code, as your main way
+    of building. You plan the work, direct the agent, and
+    review its output to the same standard as any teammate's
+    code.
+  - Draft proposals, tech specs, and runbooks, and present them
+    to leadership and partner teams.
+  - Mentor teammates through code review, pairing, and writing
+    things down.
+  - Other duties as required.
+
+  About You
+
+  - Hands-on, daily experience building software with AI coding
+    agents (Claude Code, Cursor, Copilot agents, or similar).
+    You can describe how you prompt, constrain, test, and
+    review agent output, and where agents fail.
+  - At least 5 years of experience in software engineering, with
+    most of it on backend or API systems.
+  - 2+ years designing and evolving APIs used by multiple
+    clients (iOS, Android, web), including versioning and
+    backward compatibility.
+  - Willing to learn native iOS and Android development in Swift
+    or Kotlin. Prior mobile shipping experience is a plus, not
+    a requirement. You use AI coding agents to close the gap,
+    and you review their mobile output with the mobile leads.
+  - Experience building real-time features, such as
+    subscriptions, streaming, or push-based updates.
+  - A solid foundation in computer science, with strong
+    competencies in data structures, distributed systems,
+    algorithms, and software design.
+  - Experience finding and fixing production performance
+    regressions, including CPU, I/O, memory, and latency
+    problems, through load testing and tracing.
+  - Experience on an on-call rotation for a production service,
+    and owning release cycles end to end.
+  - Experience with a server framework such as Phoenix, Ruby on
+    Rails, FastAPI, Laravel, or Node.
+  - Clear writing. You have authored tech specs, runbooks, and
+    cross-team design docs that stood up to scrutiny.
+  - You care about clean architecture and about code you won't
+    mind reading a year from now.
+  - Comfortable working in the terminal, with Git and GitHub or
+    similar, and in an editor of your choice.
+
+  Nice to have
+
+  - Native mobile experience in Swift or Kotlin. You have
+    shipped, or contributed to, an iOS or Android app, and you
+    are comfortable pairing with mobile engineers.
+  - GraphQL, including federated graphs
+  - Elixir and Absinthe
+  - Strong relational database skills, such as PostgreSQL or
+    MySQL
+  - Kubernetes and operating services in containers
+  - Background job processing (Oban, Exq, Sidekiq, Celery) and
+    event infrastructure (Kafka, RabbitMQ, SQS/SNS, Pub/Sub)
+
+  What We Offer
+
+  - Competitive compensation package
+  - Fun, relaxed work environment
+  - Education and conference reimbursements.
+  - Opportunities for career progression and mentoring others
+    #LI-REMOTE
+
+  Salary Range
+
+  $145,000—$193,000 USD
+
+  Penn Interactive is proud to be an equal opportunity
+  workplace. We will consider all qualified applicants for
+  employment without regard to race, color, religion, age,
+  sex, sexual orientation, gender identity, national origin,
+  disability, veteran status, genetic information, or any
+  other basis protected by applicable law.Base pay is one part
+  of the Total Rewards that Penn Interactive provides to
+  compensate and recognize employees for their work. Most
+  sales positions are eligible for a Commission under the
+  terms of an applicable plan, while most non-sales positions
+  are eligible for a Bonus. Additionally, Penn Interactive
+  provides best-in-class benefits to eligible employees. We
+  believe that benefits should connect you to the support you
+  need when it matters most, and should help you care for
+  those who matter most. That’s why we provide an array of
+  options, expert guidance and always-on tools, that are
+  personalized to meet the needs of your reality – to help
+  support you physically, financially and emotionally through
+  the big milestones and in your everyday life.
+posted_date: 2026-11-10
+url: "https://builtin.com/job/senior-software-engineer-sportsbook-platform/12164185"
+source: Built In

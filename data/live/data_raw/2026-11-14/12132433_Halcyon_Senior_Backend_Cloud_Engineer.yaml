@@ -1,0 +1,162 @@
+job_id: 12132433
+title: Senior Backend Cloud Engineer
+company: Halcyon
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 56 Employees
+description: |
+  What we do: Halcyon is the industry’s first dedicated,
+  adaptive security platform that combines multiple
+  proprietary advanced prevention engines along with AI models
+  focused specifically on stopping ransomware.
+
+  Who we are: Halcyon was formed in 2021 by a team of cyber
+  industry veterans after battling the scourge of ransomware
+  (and advanced threats) for years at some of the largest
+  global security vendors. Comprised of leaders from Cylance
+  (now Blackberry), Accuvant (now Optiv), Fireye and ISS
+  X-Force (now IBM), Halcyon is focused on building products
+  and solutions for mid-market and enterprise customers.
+
+  As a remote-native, completely distributed global team, we
+  recognize great talent can exist anywhere. We invite you to
+  apply to a job you’re interested in and we'll work a plan to
+  meet your needs.
+
+  The Role
+
+
+
+  At Halcyon, we’re building a world-class anti-ransomware
+  platform grounded in innovation and resilience. As part of
+  that vision, we’re looking for a Senior Backend Engineer to
+  join our cloud team. You’ll lead the development and
+  evolution of our data platform and API services, working
+  within a modern tech stack that blends Scala and Rust.
+
+  You’ll join a team focused on building scalable,
+  maintainable backend systems that serve both internal and
+  customer-facing functions. Your primary focus will be on
+  Rust and Scala services, with opportunities to shape our
+  transition to Rust where it makes sense. Python development
+  experience is highly valued, particularly for supporting our
+  security analysis platform which includes malware analysis
+  engines, automated threat detection, and machine learning
+  workflows.
+
+  Responsibilities
+
+  - Lead the design and delivery of features across our data
+    platform and public API services, including ingestion,
+    transformation, and enrichment of security data.
+
+  - Drive system design, architecture, and data flow decisions
+    in partnership with product and platform engineering.
+
+  - Build, deploy, and own Scala-based backend services in
+    production, keeping them reliable, secure, and performant.
+
+  - Help shape and execute our migration of selected APIs from
+    Scala to Rust, ensuring consistency and continuity along
+    the way.
+
+  - Set the bar for code quality, documentation, and operational
+    excellence.
+
+  - Lead design reviews, code reviews and take part in on-call
+    and incident response.
+
+  - Support and enhance our Python-based security analysis
+    platform, including malware analysis engines, automated
+    threat detection, and machine learning model workflows.
+
+  Skills and Qualifications
+
+  - 5+ years of backend engineering experience, with recent
+    experience in a JVM-based codebase.
+
+  - A track record of designing and owning distributed systems
+    from start to finish.
+
+  - Experience with Rust, or a well-formed view of when it’s the
+    right tool, and the ability to help guide a migration.
+
+  - Strong understanding of APIs, messaging systems (Kafka), and
+    modern data stores (Postgres, DynamoDB, OpenSearch).
+
+  - Experience building services in a cloud-native environment,
+    preferably AWS.
+
+  - Working knowledge of containers and Kubernetes.
+
+  - Comfortable working in a remote-first, asynchronous team
+    environment.
+
+  Bonus Skills and Qualifications
+
+  - Familiarity with functional programming patterns and
+    idiomatic Scala.
+
+  - Experience with Databricks and ClickHouse (or similar
+    lakehouse and analytical/OLAP data stores).
+
+  - Experience with Terraform, Helm, and GitHub Actions.
+
+  - Familiarity with observability tools (Prometheus, Grafana,
+    CloudWatch).
+
+  - Prior work on security products, data pipelines, or high-
+    availability systems.
+
+  - Python development experience, particularly with security
+    analysis tools and malware detection frameworks (YARA, PE
+    analysis, binary analysis).
+
+  - Familiarity with machine learning workflows, AutoML, and
+    MLflow for model deployment and management.
+
+  - Experience with binary analysis libraries (LIEF, ssdeep,
+    TLSH) and security tooling integration.
+
+  Benefits:
+
+   Halcyon offers the following benefits to eligible
+  employees:
+
+  - Comprehensive healthcare (medical, dental, and vision) with
+    premiums paid in full for employees and dependents.
+  - 401k plan with a generous employer contribution.
+  - Short and long-term disability coverage, basic life and AD&D
+    insurance plans.
+  - Medical and dependent care FSA options.
+  - Flexible PTO policy.
+  - Parental leave.
+  - Generous equity offering.
+
+  The Company reserves the right to modify or change these
+  benefits programs at any time, with or without notice.
+
+  Base Salary Range: $140,000 - $200,000
+
+  Bonus Target: 10%
+
+  In accordance with applicable state and federal laws, the
+  range provided is Halcyon’s reasonable estimate of the base
+  compensation for this role. The actual amount may differ
+  based on non-discriminatory factors such as experience,
+  knowledge, skills, abilities, and location. Base pay is one
+  part of the total package that is provided to compensate and
+  recognize employees for their work, and this role may be
+  eligible for additional discretionary bonuses/incentives,
+  and equity in the Company.
+
+  We understand it takes a diverse team of highly intelligent,
+  passionate, curious, and creative people to develop the
+  exceptional product we are building. Our dynamic team has
+  incredible perspectives to share, just as we know you do,
+  and we take great pride in being an equal opportunity
+  employer.
+posted_date: 2026-11-07
+url: "https://builtin.com/job/senior-backend-cloud-engineer/12132433"
+source: Built In

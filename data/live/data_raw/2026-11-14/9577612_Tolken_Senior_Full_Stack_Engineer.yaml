@@ -1,0 +1,126 @@
+job_id: 9577612
+title: Senior Full Stack Engineer
+company: Tolken
+location: USA
+locations:
+  - USA
+  - IND
+remote: true
+work_type: FULL_TIME
+company_size: 5 Employees
+description: |
+  The Role
+
+  Tolken is a deeply technical team looking for a builder who
+  craves complexity and ownership. You will work across the
+  stack, from the core ledger to the user interface, ensuring
+  systems are not just functional, but hyper-scalable, secure,
+  and auditable. You will be hands-on in design,
+  implementation, and deployment, collaborating closely with
+  the founders to ship production-grade features in a high-
+  velocity environment.
+
+  Key Responsibilities
+
+  - Design, build, and maintain end-to-end features across
+    backend (ledger, routing services) and frontend (React-
+    based UI).
+  - Implement and evolve production-grade APIs, data models, and
+    integrations for a high-throughput financial system.
+  - Own the full lifecycle of features: design, implementation,
+    testing, deployment, and ongoing reliability in
+    production.
+  - Collaborate closely with the VP of Engineering, founders,
+    and other engineers to translate product requirements into
+    technical designs and delivery plans.
+  - Improve performance, scalability, and observability of the
+    platform through profiling, tuning, and better monitoring.
+  - Contribute to engineering standards, code reviews, and
+    technical decision-making in a fast-paced startup
+    environment
+
+  Stack & Core Requirements
+
+  - 5+ years building high-throughput, distributed backend
+    systems; you understand the difference between “working”
+    and “production-grade.”
+  - Strong backend experience in Python (FastAPI preferred), Go,
+    or Java.
+  - Strong command of modern frontend stacks (e.g., React) and
+    ability to build complex, data-dense interfaces.
+  - Deep understanding of modern database design; depth in
+    Postgres and Redis is a strong plus.
+  - Hands-on experience with cloud-native environments (GCP
+    preferred), containers, and Kubernetes.
+
+  System Architecture & Practices
+
+  - Mastery of distributed systems concepts: microservices,
+    idempotency, retry/backoff strategies, and eventual
+    consistency.
+  - Experience with event-driven architectures and high-volume
+    queues (e.g., Kafka, Redis Streams) and caching layers.
+  - You build with observability in mind: metrics, tracing, and
+    logging, and are comfortable working with modern
+    monitoring stacks.
+
+  RequirementsEssential:
+
+  - 5+ years of experience as a full stack or backend-heavy
+    engineer working on production systems.
+  - Strong proficiency in at least one of: Python (FastAPI
+    preferred), Go, or Java, including building and operating
+    APIs.
+  - Solid experience with modern frontend frameworks (e.g.,
+    React), comfortable building complex, data-dense
+    interfaces.
+  - Strong experience with relational databases and caches;
+    depth in Postgres and Redis is highly valued.
+  - Hands-on experience with cloud-native infrastructure (GCP
+    preferred), Docker, and Kubernetes.
+  - Solid understanding of distributed systems, event-driven
+    architectures, and designing for reliability and
+    scalability.
+  - Comfortable operating in a low-structure, high-ambiguity
+    startup environment with a high degree of ownership.
+
+  Desirable:
+
+  - Web3 & privacy: experience with Ethereum/L2s, smart
+    contracts, and especially zero-knowledge proofs (zkSNARKs)
+    for privacy-preserving audit trails.
+  - AI/ML: experience with graph-based models, fraud detection,
+    or anomaly detection on live transaction streams.
+  - Fintech DNA: background in payments, treasury, or other
+    high-audit, regulated environments.
+  - Prior early-stage startup experience and familiarity with
+    rapid iteration and continuous delivery.
+
+  Who You Are
+
+  - First-Principles Thinker: You don't just use tools; you
+    understand why they work. You can reason from the ground
+    up to solve novel problems in hybrid (Fiat/Crypto)
+    finance.
+  - High Velocity: You move extremely fast and thrive in high-
+    ambiguity environments. You ship to learn.
+  - Low Ego, High Output: You care about the product, not the
+    pedigree. You are comfortable switching contexts
+    rapidly—debugging a race condition one hour and designing
+    a new API the next.
+  - Owner Mindset: You don't wait for a ticket. You see a gap,
+    you step in, and you fix it.
+
+  Equal Opportunities Statement
+
+  Tolken is an equal opportunity employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees.
+industries:
+  - Blockchain
+  - Fintech
+  - Payments
+  - Software
+posted_date: 2026-08-18
+url: "https://builtin.com/job/senior-full-stack-engineer/9577612"
+source: Built In

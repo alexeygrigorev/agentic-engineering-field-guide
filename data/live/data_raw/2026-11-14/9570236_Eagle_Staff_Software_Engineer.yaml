@@ -1,0 +1,107 @@
+job_id: 9570236
+title: Staff Software Engineer
+company: Eagle
+location: New York, USA
+work_type: FULL_TIME
+company_size: 5 Employees
+description: |
+  About Eagle
+
+  Eagle is on a mission to re-energize the engineering
+  profession. Every road, bridge, and building starts at an
+  engineering firm. There are 40K+ of them in the US, and most
+  run on software older than the engineers using it.
+
+  This legacy toolset was designed before the term "user
+  experience" ever existed and it's demotivating, error-prone,
+  and slow. We're building the iron man suit for civil
+  engineers to pull them out of this tedium and get them back
+  to designing the future of our built environment.
+
+  Eagle was founded by Mayank Mardia (CEO), Sohum Daftary
+  (President), and Thomas Shouler, P.E. (CTO), and is backed
+  by Lightspeed Venture Partners.
+
+  The opportunity
+
+  As a Software Engineer, you'll own the platform layer that
+  impacts every single user we engage with. You'll partner
+  directly with the CTO to shape the broader technical
+  strategy that underpins our work. You'll also treat the
+  forward deployed team as a user, synthesizing across their
+  needs to get everyone more leverage at the edge. You get a
+  front-row seat to building a company from zero on a problem
+  domain that's barely been touched by AI.
+
+  What you'll do
+
+  - Own the system architecture that's shared across our forward
+    deployed engineers (data ingestion, API design,
+    authorization, our broader hybrid RAG system)
+  - Own our multi-tenant architecture where each firm is a new
+    tenant, a new identity domain, and a new set of source
+    systems to connect to
+  - Contribute to the delivery path from commit to production:
+    CI/CD, preview environments, test infrastructure, a local
+    setup that works on day one
+  - Shape what "up" means for us, instrument it, and contribute
+    to our observability and incident management practice
+
+  Our Values
+
+  - Ask Why: We have a beginner’s mind, incessantly ask
+    questions, and share our success with others. We always
+    want to know what we can be doing better.
+  - Read the Room: We read the situation and meet people where
+    they are, whether that's a counterparty, a client, or each
+    other. We listen first and understand how our words and
+    actions impact one another.
+  - Get on a Flight: We have dogged persistence. We operate with
+    a sense of urgency with our work and careers, and we want
+    to push and be pushed.
+
+  What we look for
+
+  - You've owned architecture decisions within large distributed
+    systems and have specific opinions about what you'd do
+    differently next time
+  - 5+ years of experience in platform-focused software
+    engineering roles
+  - Experience at a fast growing startup
+
+  Technology
+
+  - Frontend: NextJS on Vercel, Tailwind CSS
+  - Backend: Kotlin for web services, Python for data
+  - Infra: Multitenant shared infra on AWS
+
+  Compensation
+
+  - Competitive cash compensation ($150K–$300K depending on
+    experience)
+  - Founding equity, scaled to scope
+
+
+
+  Benefits
+
+  - Health Insurance: Full healthcare, medical and dental
+  - Retirement: 401(k)
+  - PTO: Flexible time off
+  - Travel: Company-paid
+  - Office: HQ in New York City
+
+
+
+  Process
+
+  Our process takes about 2 weeks: a conversation with Tom or
+  Mayank, a second founder conversation, a 60 minute technical
+  interview, followed by a work trial where you'll get to meet
+  the rest of the team and build with us for a day.
+industries:
+  - Software
+  - Design
+posted_date: 2026-08-23
+url: "https://builtin.com/job/staff-software-engineer/9570236"
+source: Built In

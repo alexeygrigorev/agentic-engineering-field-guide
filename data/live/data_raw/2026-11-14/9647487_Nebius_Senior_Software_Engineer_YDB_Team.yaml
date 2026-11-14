@@ -1,0 +1,158 @@
+job_id: 9647487
+title: Senior Software Engineer (YDB Team)
+company: Nebius
+location: Berlin, DEU
+locations:
+  - Berlin, DEU
+  - Amsterdam, NLD
+  - Tel Aviv-Yafo, ISR
+  - London, GBR
+work_type: FULL_TIME
+company_size: 473 Employees
+description: |
+  About Nebius:
+
+  Nebius is leading a new era in cloud infrastructure for the
+  global AI economy. We are building a full-stack AI cloud
+  platform that supports developers and enterprises from data
+  and model training through to production deployment, without
+  the cost and complexity of building large in-house AI/ML
+  infrastructure.
+
+  Built by engineers, for engineers. From large-scale GPU
+  orchestration to inference optimization, we own the hard
+  problems across compute, storage, networking and applied AI.
+
+  Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we
+  have a global footprint with R&D hubs across Europe, the UK,
+  North America and Israel. Our team of 1,500+ includes
+  hundreds of engineers with deep expertise across hardware,
+  software and AI R&D.
+
+  The role
+
+  The YDB Development Team at Nebius is hiring mid- and
+  senior-level software developers with C++ expertise. YDB is
+  an open-source platform with two roles within Nebius:
+
+  - Providing the binary object storage foundation for S3 Object
+    Storage, Shared Filesystems and Network Block Storage
+  - Serving as a distributed relational database and message
+    broker for services such as IAM, billing, audit trails and
+    logging
+
+  We operate YDB clusters in more than 10 regions using HDD
+  and NVMe storage. Individual clusters span tens of thousands
+  of nodes, manage hundreds of petabytes of data and deliver
+  terabytes per second of throughput. Our infrastructure
+  includes x86 and Arm-based systems, including NVIDIA GB300
+  nodes.
+
+  What you’ll work on
+
+  - Evolve YDB’s architecture for new hardware, redesigning core
+    components when incremental optimization is insufficient:
+    - QLC NVMe drives: increase storage density while controlling
+      RAM/CPU consumption and write amplification
+    - Dual 800 Gb/s network adapters: reduce CPU overhead and
+      memory bandwidth consumption to utilize the available
+      NIC bandwidth
+    - NVIDIA GB300-based systems: ensure efficient operation on
+      Arm-based hosts and offload storage and networking
+      processing to BlueField DPUs
+  - Support high-capacity SMR HDDs by designing data placement,
+    sequential writes, garbage collection and recovery around
+    zoned-write constraints
+  - Develop wide erasure-coding schemes to reduce space
+    aplimfication while maintaining durability and
+    availability
+  - Reduce recovery and rebalancing times after device outages
+    while limiting the impact on foreground workloads
+  - Prevent, detect and recover from silent data corruption
+    across memory, networking and storage
+  - Provide the system capabilities and interfaces required by
+    fleet-wide automation so that hundreds of production
+    clusters can be deployed, configured, upgraded, diagnosed
+    and operated consistently
+
+  We move quickly and focus on delivering practical value.
+  Features and optimizations merged into the production branch
+  are typically deployed within weeks. You’ll see your work
+  solving real problems in live clusters—not waiting years to
+  make an impact.
+
+  Requirements:
+
+  - 5+ years of professional experience developing high-load
+    systems in C or C++. Candidates with 3+ years will also be
+    considered if their experience includes relevant work on
+    distributed storage systems
+  - Experience developing high-performance, low-latency software
+    components
+  - Understanding of core dumps, flame graphs and sanitizer-
+    enabled builds
+  - Understanding of CPU caches, atomic operations and NUMA
+    architectures
+
+  Nice to have:
+
+  - Experience designing and developing production-grade
+    distributed storage systems and/or databases
+  - Experience with on-disk data structures such as LSM trees
+    and B+ trees, and storage algorithms such as erasure
+    coding and checksumming
+  - Understanding of NVMe, conventional HDD and SMR HDD
+    internals
+  - Experience with debugging and profiling tools such as perf,
+    VTune, bpftrace and gdb
+  - Familiarity with the Linux kernel, SPDK/DPDK, libaio and
+    io_uring
+  - Knowledge of IP, TCP, UDP and DNS, and ideally InfiniBand or
+    RoCE/RDMA
+  - Experience with Kubernetes and Grafana
+  - Experience responding to production incidents
+  - Knowledge of availability and durability calculations
+
+  For Senior candidates, we offer hybrid working or the
+  flexibility to work remotely within EU.
+
+  Benefits & Perks:
+
+  - Competitive compensation
+  - Career growth and learning opportunities
+  - Flexibility and ownership
+  - Collaborative and innovative culture
+  - Opportunity to work on impactful AI projects
+  - International environment and talented teams
+
+  What's it like to work at Nebius:
+
+  Fast moving - Bold thinking - Constant growth - Meaningful
+  impact - Trust and real ownership - Opportunity to shape the
+  future of AI
+
+  Equal Opportunity Statement:
+
+  Nebius is an equal opportunity employer. We are committed to
+  fostering an inclusive and diverse workplace and to
+  providing equal employment opportunities in all aspects of
+  employment. We do not discriminate on the basis of race,
+  color, religion, sex (including pregnancy), national origin,
+  ancestry, age, disability, genetic information, marital
+  status, veteran status, sexual orientation, gender identity
+  or expression, or any other characteristic protected by
+  applicable law.
+
+  Applicants must be authorized to work in the country in
+  which they apply and will be required to provide proof of
+  employment eligibility as a condition of hire.
+
+  If you need accommodations during the application process,
+  please let us know.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Consulting
+posted_date: 2026-10-07
+url: "https://builtin.com/job/senior-software-engineer-ydb-team/9647487"
+source: Built In

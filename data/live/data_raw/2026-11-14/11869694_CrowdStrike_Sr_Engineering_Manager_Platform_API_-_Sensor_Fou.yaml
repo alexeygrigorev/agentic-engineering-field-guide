@@ -1,0 +1,326 @@
+job_id: 11869694
+title: Sr. Engineering Manager, Platform API - Sensor Foundations (Hybrid)
+company: CrowdStrike
+location: Austin, USA
+locations:
+  - Austin, USA
+  - Redmond, USA
+  - New York, USA
+  - Sunnyvale, USA
+work_type: FULL_TIME
+company_size: 11,000 Employees
+description: |
+  As a global leader in cybersecurity, CrowdStrike protects
+  the people, processes and technologies that drive modern
+  organizations. Since 2011, our mission hasn’t changed —
+  we’re here to stop breaches, and we’ve redefined modern
+  security with the world’s most advanced AI-native platform.
+  We work on large scale distributed systems, processing
+  almost 3 trillion events per day and this traffic is growing
+  daily. Our customers span all industries, and they count on
+  CrowdStrike to keep their businesses running, their
+  communities safe and their lives moving forward. We're proud
+  to work for a mission-driven company leveraging AI to
+  transform the way we work. CrowdStrikers drive their careers
+  through flexibility and autonomy while also being expected
+  to contribute to a culture of responsible AI adoption,
+  experimentation, and innovation. We use an AI-first mindset
+  as a force multiplier to proactively and continuously
+  accelerate execution, build expertise, uncover insights, and
+  solve complex problems. We’re always looking to add talented
+  CrowdStrikers to the team who have limitless passion, a
+  relentless focus on innovation and a fanatical commitment to
+  our customers, our community and each other. Ready to join a
+  mission that matters? The future of cybersecurity starts
+  with you.
+
+  About the Role:  The Platform API team builds the cross-
+  platform APIs and abstractions that give the CrowdStrike
+  Falcon sensor a consistent programming interface across
+  Windows, Linux, and macOS. The team owns the foundational
+  layer that separates feature development from OS-specific
+  implementation, including threading, file I/O, hashing, work
+  queues, and memory management. Every engineering team that
+  builds sensor capabilities depends on this layer, so its
+  quality and correctness directly shape how quickly and
+  safely CrowdStrike can deliver protection to customers.
+
+  The team's scope is growing. A central focus is building a
+  shared platform for on-sensor machine learning inference
+  runtime: a stable C API, backed by an isolated out-of-
+  process service, that runs models on hardware-accelerated
+  backends on each platform. This runtime will make inference-
+  based threat detection as accessible to engineering teams as
+  rules-based detection is today, and it will enable
+  CrowdStrike to bring the next generation of AI-powered
+  protection to hundreds of millions of endpoints.
+
+  We are looking for a Senior Engineering Manager with deep
+  systems expertise and strong organizational leadership to
+  guide this team. You will own the technical roadmap, lead
+  the inference runtime from early design through production
+  delivery, make key decisions on API design and long-term
+  compatibility, and build the partnerships needed for broad
+  adoption across the sensor organization. You will
+  collaborate closely with Windows, Linux, and macOS
+  engineering teams, platform infrastructure teams, and
+  partners in product and program management.
+
+  What You're Stepping Into
+
+  The Platform API team is at an inflection point. As the
+  Falcon sensor continues to grow in capability and reach, a
+  unified, well-tested platform abstraction layer has become
+  essential to how CrowdStrike builds. Consolidating platform
+  behavior across Windows, Linux, and macOS into a single
+  consistent foundation will improve quality, performance, and
+  delivery speed for every team that builds on the sensor.
+  This is a multi-year effort, and you will own its roadmap,
+  its strategy, and its execution.
+
+  At the same time, the team is building one of the most
+  significant new capabilities in the sensor platform: an on-
+  sensor ML inference runtime designed from the ground up. The
+  API design, execution model, and first production
+  integrations are in active development now. Your leadership
+  will shape how quickly CrowdStrike can deliver AI-powered
+  detections to hundreds of millions of endpoints, and how
+  easily teams across the company can bring new models to the
+  sensor.
+
+  If you are energized by building, this is your opportunity
+  to shape a team's identity, expand its scope, and earn broad
+  organizational trust through technical excellence. Your work
+  will be visible across the entire sensor organization, and
+  you will lead a team whose platform the rest of the company
+  relies on every day.
+
+  Location: This role is hybrid, requiring 2x days per week
+  on-site at one of the posted locations.
+
+  What You'll Do:
+
+  Technical leadership
+
+  - Set architectural direction for cross-platform API
+    components, including threading, file I/O, hashing, work
+    queues, and memory management
+
+  - Lead the architecture and delivery of the centralized
+    platform for on-sensor ML inference runtime, including C
+    API design for ABI stability and cross-language use, the
+    out-of-process execution and sandboxing model, and backend
+    selection and versioning policy across platforms
+  - Make critical design decisions on what is implemented once
+    versus per platform, what runs in-process versus out-of-
+    process, and how kernel-mode and user-mode constraints
+    shape each component
+  - Drive consistent adoption of platform APIs through linting,
+    automated code review, and clear usage guidance, so that
+    standards scale across a large engineering organization
+  - Participate actively in design and code reviews, and develop
+    a deep understanding of the team's API contracts,
+    compatibility constraints, and failure modes
+
+  Team leadership
+
+  - Hire, coach, and grow engineers through honest, frequent
+    feedback and genuine investment in their careers; lead the
+    full recruitment process from initial contact through
+    successful onboarding
+
+  - Build team cohesion, resolve interpersonal friction, and
+    create an environment where engineers can do their best
+    work
+  - Support your team through resourcing decisions, career
+    development, and difficult conversations when they are
+    needed
+
+  Delivery and operations
+
+  - Own project resourcing and workload, including knowing when
+    to say no and when to defer; keep the team on track and
+    adapt as priorities change
+
+  - Own the quality bar for everything the team ships; manage
+    support escalations and build strong working relationships
+    with the platform and partner teams who depend on your
+    components
+  - Drive continuous improvement in end-to-end testing and
+    validation for components with strict correctness and
+    compatibility requirements, including tooling that lets
+    engineers validate against the platform without building
+    the full sensor
+  - Build a data-driven roadmap that uses performance telemetry
+    and defect trends to prioritize work, and communicate
+    investment needs and progress clearly to senior leadership
+
+  Engineering Managers at CrowdStrike are hands-on technical
+  leaders. You will not be expected to write code on the
+  critical path, but you will need a deep understanding of the
+  API contracts, compatibility constraints, and cross-platform
+  systems your team owns. That understanding lets you
+  troubleshoot effectively, give substantive feedback in code
+  reviews, and redirect a design when it is heading the wrong
+  way. It also makes you a trusted advisor to leadership, able
+  to represent your team in cross-functional discussions and
+  turn complex technical tradeoffs into clear recommendations.
+
+  What You'll Need
+
+  - Proven experience managing software engineering teams, built
+    on a strong foundation as a software developer
+
+  - Hands-on background in low-level systems software, with deep
+    expertise in C and/or C++ in both user-mode and kernel-
+    mode environments
+  - Strong grounding in API and interface design, including
+    interface clarity, ABI stability, backward compatibility,
+    and managing the downstream impact of breaking changes
+    across a large codebase
+  - Cross-platform experience across Windows, Linux, and macOS,
+    with the ability to reason about portability, behavioral
+    consistency, and platform-specific constraints
+  - Familiarity with out-of-process architecture patterns,
+    including sandboxed service isolation, inter-process
+    communication (IPC), and the performance tradeoffs of
+    crossing process boundaries
+  - Experience owning production software at scale, with a clear
+    understanding of the cost of correctness regressions on
+    software that runs continuously on customer endpoints
+  - Strong design and problem-solving skills, a genuine passion
+    for engineering excellence, quality, security, and
+    performance, and the ability to raise those standards
+    across a team
+  - Demonstrated success mentoring, coaching, and developing
+    engineers
+  - Experience leading distributed teams while maintaining
+    trust, velocity, and clarity
+  - Strong cross-functional collaboration skills, with a track
+    record of building credibility and influence across
+    engineering, product, and program management
+  - Clear, direct communication at every level, from individual
+    contributors to executive leadership
+  - Intellectual curiosity and a commitment to deeply
+    understanding systems before changing them
+  - Ability and willingness to travel occasionally for team
+    offsites and in-person meetings
+  - Proven experience utilizing AI technologies to enhance
+    decision-making, streamline workflows and processes,
+    improve efficiency and drive business outcomes.
+
+  Bonus Points
+
+  - Background in endpoint security, EDR, kernel-level software,
+    or sensor platform engineering
+
+  - Experience designing or maintaining cross-platform API
+    layers consumed by multiple teams in a large C/C++
+    codebase
+  - Experience building or leading teams that build on-device ML
+    inference infrastructure, including running machine
+    learning models and small language models (SLMs) on
+    resource-constrained endpoints while balancing model size,
+    latency, and resource consumption
+  - Experience with hardware-accelerated inference across GPU,
+    NPU, and Apple Neural Engine (ANE), including hardware
+    capability detection, backend selection, and graceful
+    fallback to CPU
+  - Familiarity with model execution frameworks such as ONNX
+    Runtime, OpenVINO, or Core ML, including runtime
+    versioning and static versus dynamic linking tradeoffs
+  - Experience designing out-of-process inference pipelines,
+    including sandboxed execution for resource isolation and
+    fault containment, low-latency IPC for model input and
+    output, and telemetry for inference performance and
+    hardware utilization
+  - Understanding of the model lifecycle at fleet scale,
+    including staging, versioning, and silent validation
+    before production rollout, particularly for SLM and large
+    language model (LLM) workloads where inference cost and
+    behavioral correctness both matter
+  - Experience designing cross-language integration surfaces,
+    such as C APIs consumed from Rust, Swift, and C++
+  - Experience establishing API governance through tooling, such
+    as lint rules, automated policy checks, and structured
+    feedback loops with consuming teams
+  - Experience leading teams through significant growth or an
+    expanding scope
+  - Prior work in environments where reliability is non-
+    negotiable at massive fleet scale
+
+  #LI-CW1
+
+  Benefits of Working at CrowdStrike:
+
+  - Market leader in compensation and equity awards
+  - Comprehensive physical and mental wellness programs
+  - Competitive vacation and holidays for recharge
+  - Paid parental and adoption leaves
+  - Professional development opportunities for all employees
+    regardless of level or role
+  - Employee Networks, geographic neighborhood groups, and
+    volunteer opportunities to build connections
+  - Vibrant office culture with world class amenities
+  - Great Place to Work Certified™ across the globe
+
+  CrowdStrike is proud to be an equal opportunity employer. We
+  are committed to fostering a culture of belonging where
+  everyone is valued for who they are and empowered to
+  succeed. We support veterans and individuals with
+  disabilities through our affirmative action program.
+
+  CrowdStrike is committed to providing equal employment
+  opportunity for all employees and applicants for employment.
+  The Company does not discriminate in employment
+  opportunities or practices on the basis of race, color,
+  creed, ethnicity, religion, sex (including pregnancy or
+  pregnancy-related medical conditions), sexual orientation,
+  gender identity, marital or family status, veteran status,
+  age, national origin, ancestry, physical disability
+  (including HIV and AIDS), mental disability, medical
+  condition, genetic information, membership or activity in a
+  local human rights commission, status with regard to public
+  assistance, or any other characteristic protected by law. We
+  base all employment decisions--including recruitment,
+  selection, training, compensation, benefits, discipline,
+  promotions, transfers, lay-offs, return from lay-off,
+  terminations and social/recreational programs--on valid job
+  requirements.
+
+  If you need assistance accessing or reviewing the
+  information on this website or need help submitting an
+  application for employment or requesting an accommodation,
+  please contact us at recruiting@crowdstrike.com for further
+  assistance.
+
+  Find out more about your rights as an applicant.
+
+  CrowdStrike participates in the E-Verify program.
+
+  Notice of E-Verify Participation
+
+  Right to Work
+
+  CrowdStrike, Inc. is committed to fair and equitable
+  compensation practices. Placement within the pay range is
+  dependent on a variety of factors including, but not limited
+  to, relevant work experience, skills, certifications, job
+  level, supervisory status, and location. The base salary
+  range for this position for all U.S. candidates is $160,000
+  - $250,000 per year, with eligibility for bonuses, equity
+  grants and a comprehensive benefits package that includes
+  health insurance, 401k and paid time off.
+
+  For detailed information about the U.S. benefits package,
+  please click here.
+industries:
+  - Cloud
+  - Computer Vision
+  - Information Technology
+  - Sales
+  - Security
+  - Cybersecurity
+posted_date: 2026-10-26
+url: "https://builtin.com/job/sr-engineering-manager-platform-api-sensor-foundations-hybrid/11869694"
+source: Built In

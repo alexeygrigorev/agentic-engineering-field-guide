@@ -1,0 +1,82 @@
+job_id: 4470606
+title: Software Engineer, Systems
+company: Braintrust
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 241 Employees
+description: |
+  About the company
+
+  Braintrust is the agent observability platform. By actively
+  applying intelligence to agent traces and automatically
+  surfacing the most critical patterns, Braintrust gives teams
+  the visibility to understand how agents behave in production
+  and the tools to improve them. Teams at Notion, Stripe, Box,
+  OpenAI, and Cloudflare use Braintrust to trace their agents,
+  find the issues in their observability data, and run evals
+  that tell them how to improve.
+
+  About the role
+
+  We're looking for a software engineer who loves to build
+  high performance data processing systems. Our customers are
+  scaled up companies who send complex, semi-structured data
+  which they need to process and analyze in real-time. Our
+  unique architecture allows them to store this data on-prem,
+  while creating complex visualizations that load instantly.
+  Check out our Brainstore blog post.
+
+  If you've worked on database systems, compilers, networks,
+  or storage systems, and want to translate this knowledge to
+  the AI field, this could be the role for you. You will play
+  a significant role in the foundational system architecture,
+  technology choices, and implementation. Our founding team
+  has deep expertise in database and ML systems, and you'll be
+  empowered to both collaborate closely with them and explore
+  your own ideas.
+
+  What you'll do
+
+  As a systems engineer at Braintrust, you’ll help build the
+  core systems powering Braintrust's ability to process and
+  query massive volumes of unstructured data at enterprise
+  scale. Areas of ownership include:
+
+  - Contribute to the storage, indexing, and query execution
+    performance of Brainstore.
+  - Expanding Braintrust's btql query language.
+  - Optimizing query patterns to improve performance across our
+    platform.
+
+  Ideal candidate credentials
+
+  - Expert-level understanding of systems programming (C++ or
+    Rust, concurrency, databases, operating systems)
+  - Previous experience founding or working at startups is a
+    plus
+  - Has written prompts / tinkered with GPT models and apps
+
+  Benefits include
+
+  - Medical, dental, and vision insurance
+  - Daily lunch, snacks, and beverages
+  - Flexible time off
+  - Competitive salary and equity
+  - Wifi & cellphone stipend
+
+  Equal opportunity
+
+  Braintrust is an equal opportunity employer. All applicants
+  will be considered for employment without attention to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, veteran or disability status.
+industries:
+  - Blockchain
+  - Web3
+posted_date: 2026-08-22
+url: "https://builtin.com/job/software-engineer-systems/4470606"
+source: Built In

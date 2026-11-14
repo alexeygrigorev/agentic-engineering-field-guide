@@ -1,0 +1,132 @@
+job_id: 11341989
+title: Senior Backend Engineer
+company: Spherecast
+location: New York, USA
+work_type: FULL_TIME
+company_size: 7 Employees
+description: |
+  Senior Backend Engineer (Infra & Integrations)
+
+  Data is the lifeblood of operating an excellent supply
+  chain. Without clean data, everything crashes: forecasts
+  drift, orders land wrong, and trust evaporates. The
+  Spherecast Platform is the real-time operating system for
+  global consumer-goods supply chains, and Agnes, our AI
+  Supply Chain Manager, runs on top of it. The platform and
+  Agnes are only as good as the data flowing in and the
+  actions flowing back out. That's where you come in.
+
+  You'll own the integration layer end to end: the connective
+  tissue between Spherecast and the (legacy) ERPs like
+  NetSuite, the FTP drops and S3 buckets, the data warehouses
+  like Snowflake, Databricks, and BigQuery, and the custom
+  sheets where supply chains actually live today, plus the
+  write paths that push Agnes's approved decisions back into
+  those systems of record.
+
+  External data infrastructure and systems are quirky. We want
+  you to go deep into the nature of each external API,
+  understand its strengths and weaknesses, and build with them
+  rather than against them. When a connector breaks at 2am on
+  the customer's side, your monitoring tells us before they
+  notice.
+
+  What you'll do
+
+  - Build, extend, maintain, and monitor the integration
+    architecture across diverse data sources: legacy ERPs
+    (like NetSuite), FTP, S3, data warehouses (like Snowflake,
+    Databricks, BigQuery), and custom sheets.
+  - Orchestrate and schedule their execution so syncs run
+    reliably without a human watching.
+  - Build a scalable, near-realtime, robust, and fault-tolerant
+    system that handles millions of records per customer.
+  - Bring the integration layer to the next level: make it more
+    flexible and more seamless to connect new, before-unseen
+    sources, so the next customer's stack is a configuration,
+    not a rebuild.
+  - Write round-trip integration tests ensuring the full read-
+    update-write lifecycle never causes data loss.
+  - Validate, cross-match, and detect likely errors in data
+    early, before they cause business harm.
+
+  What we're looking for
+
+  You are a great fit if you have:
+
+  - Hands-on experience with our backend stack: Python, FastAPI,
+    SQLAlchemy, and Pydantic, with a track record of shipping
+    production data pipelines and integrations.
+  - Deep experience integrating third-party systems: REST, SOAP,
+    and query-language APIs (think NetSuite SuiteQL), OAuth
+    and credential management, rate limits, pagination, and
+    the undocumented quirks every ERP hides. You've built
+    connectors that survived contact with real customer data.
+  - A strong instinct for pipeline design: fetch, validate,
+    normalize, upsert, built idempotent and re-runnable, with
+    clean schema boundaries between the remote system's world
+    and ours.
+  - Proficiency in SQL, writing high-performance queries and
+    bulk upserts despite billions of data points for even a
+    single customer.
+  - Respect for the write path: pushing AI-approved actions into
+    a customer's ERP demands safety rails, dry runs, failure
+    capture, and auditability.
+  - A habit of building for operability: structured logging,
+    sync-run tracking, and alerting (we use PagerDuty) so
+    failures are caught, triaged, and attributed, including
+    telling an external stakeholder when the error is on their
+    side.
+  - Claude Code, Codex, and OpenCode are your best friends. You
+    know how to parallelize instances to make sure we're
+    shipping 24/7, even while you sleep, and you know the ins
+    and outs of each of them at any time.
+  - Excited to work directly with CPG operators and their IT
+    teams, owning integrations end to end, from scoping a
+    customer's ERP setup to shipping and operating the sync
+    that runs their business.
+  - Motivated by the chance to join an exceptionally ambitious,
+    high-ownership team that moves quickly, holds a high bar,
+    and is determined to build a company that makes history.
+  - Bonus: NetSuite experience, background task orchestration
+    (Hatchet, Temporal), unstructured data ingestion and AWS.
+
+  About Spherecast
+
+  Spherecast is building the AI-native Operating System for
+  Consumer Goods Supply Chains.
+
+  The Spherecast Platform brings demand, inventory, materials,
+  capacity, costs, and business rules into one real-time
+  operating context. It gives teams a single place to plan,
+  evaluate tradeoffs, and execute the decisions that move
+  physical goods.
+
+  Agnes, our AI Supply Chain Manager, runs on top of this
+  foundation. It evaluates thousands of feasible options in
+  seconds to decide what to produce, where to make it, and how
+  to move it through factories, warehouses, and channels.
+  Teams set the objectives and guardrails; Agnes turns them
+  into approved actions in the ERP.
+
+  Our ambition is to make the physical flow of goods as
+  programmable as code. When we succeed, every consumer
+  product you touch will run on the Spherecast stack: planned
+  in Spherecast OS, executed through Spherecast Rails, and
+  optimized by the shared Spherecast Network.
+
+  Oracle made business data programmable. Spherecast makes the
+  physical economy programmable.
+
+  Join us in the trenches in New York City to build the AI-
+  native Operation System for Consumer Goods Supply Chains.
+
+  Be part of building the next trillion-dollar company.
+industries:
+  - Artificial Intelligence
+  - eCommerce
+  - Logistics
+  - Software
+posted_date: 2026-09-23
+url: "https://builtin.com/job/senior-integration-engineer/11341989"
+source: Built In

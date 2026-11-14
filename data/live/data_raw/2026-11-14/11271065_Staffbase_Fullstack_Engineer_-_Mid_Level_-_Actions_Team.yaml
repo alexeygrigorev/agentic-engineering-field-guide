@@ -1,0 +1,139 @@
+job_id: 11271065
+title: Fullstack Engineer - Mid Level - Actions Team
+company: Staffbase
+location: Berlin, DEU
+locations:
+  - Berlin, DEU
+  - Dresden, DEU
+  - Chemnitz, DEU
+work_type: FULL_TIME
+company_size: 315 Employees
+description: |
+  About Staffbase
+
+  We inspire people to achieve great things together. Our
+  mission is to help organizations unlock the power of
+  inspirational communication with the first AI-native
+  Employee Experience Platform. Our industry-leading and
+  award-winning agentic AI communications channels - intranet,
+  employee app and email solutions - create engaging
+  experiences that connect and empower employees.
+
+  Headquartered in Chemnitz, Germany and New York City, with
+  offices in Berlin, London, Sydney, Tokyo, Prague, and
+  Minneapolis–St. Paul, our diverse team of 550+ employees
+  supports 1,500+ customers—reaching over 14 million
+  employees—in transforming their employee experience. We are
+  proud to be a Unicorn company—privately valued at over $1
+  billion—demonstrating strong growth, innovation, and lasting
+  impact in our industry. Together, we’re shaping the future
+  of workplace communication.
+
+  We're looking for a Fullstack Engineer to join our Actions
+  team in building the core infrastructure that powers our
+  plugin platform. You'll create the UI components,
+  integration layers, and security mechanisms that enable our
+  customers to extend the platform with custom integrations
+  while maintaining safety and flexibility across our 1,500+
+  customer base. This is essential infrastructure work that
+  shapes how our customers scale their integrations.
+
+  Our environment
+
+  - Working with skilled and like-minded professionals in a team
+    that values diversity and inclusivity
+  - We aim to create a flexible and agile work environment that
+    promotes the well-being and work-life balance of our
+    employees
+  - We believe that team events during working hours play a
+    vital role in building an exceptionally effective team,
+    and we encourage them
+  - We are enthusiastic about technology and committed to using
+    it to improve the world
+  - We follow the “You build it, you run it” approach and take
+    pride in it
+
+  The Team
+
+  The Actions team sits at the heart of Staffbase's AI
+  ambitions. We're the team that gives Navigator — our AI
+  assistant and the main entry point into Staffbase — the
+  ability to actually do things: submit a form, complete a
+  task inside an integration, or take an action on a user's
+  behalf through the agent. If Navigator is the brain, we
+  build the hands.
+
+  That means two big things. First, we enrich what the AI can
+  see and act on, our plugins, our widgets and the wider
+  Staffbase platform so the assistant can do real work, not
+  just talk about it. Second, we build the extensions that
+  connect to the tools people already use, like Workday,
+  Personio, ServiceNow and Microsoft.   We're not just
+  shipping features, though. A core part of our mission is
+  building the extensibility framework that lets others build
+  too.
+
+  What you'll be doing
+
+  - Building a UI component library that generated apps can
+    assemble from, turning components like payslip views and
+    approval flows into maintained, reusable pieces instead of
+    regenerated artifacts
+  - Creating the connection layer between generated apps and
+    customer source systems—HR platforms, time-tracking and
+    scheduling systems, and a long tail of vendors with thin
+    or undocumented APIs
+  - Defining extension points (widgets, menus, sidebars) so
+    plugins declare where they surface and what they connect
+    to in a single, clean configuration
+  - Designing and implementing a cross-integration
+    authentication solution that lets customers run multiple
+    integrations without forcing employees to log in
+    repeatedly
+  - Shipping plugins on the platform yourself, staying a
+    consumer of what we build so we catch gaps early
+
+  What you need to be successful
+
+  - Strong knowledge of React and TypeScript for frontend work,
+    Kotlin or Go and TypeScript experience for backend
+    services
+  - Real experience integrating third-party APIs, especially the
+    challenging ones—inconsistent auth, partial documentation,
+    legacy and on-prem systems
+  - Deep understanding of multi-tenancy security and data
+    isolation; you care about scope checks and preventing
+    cross-tenant leaks
+  - Good judgment about what to standardize and what to leave
+    flexible—drawing that line in the right place is central
+    to this role
+
+  Nice to have experience
+
+  - You are comfortable with edge and serverless runtimes like
+    Cloudflare Workers
+  - You have built a plugin system, SDK, or developer platform
+    before
+  - Developed a design system or component library that other
+    teams depended on
+  - Real-world experience with OAuth and enterprise SSO
+  - Experience treating AI code generation as a product surface,
+    not just a personal tool
+
+  What you'll get
+
+  - Competitive Compensation - we offer attractive salary
+    packages including LTIP (unit-based Long Term Incentive
+    Plan)
+  - Flexibility - we offer flexible working time models and the
+    option of hybrid work, and support this with a yearly flex
+    work allowance of €1560
+  - Recharge - with 31 vacation days annually (incl. one
+    floating holiday), plus pro rata fully paid Fridays off
+    during August
+  - Support - we offer offering a company pension scheme
+  - Volunteers Day - you’ll get one day off per year for
+    supporting a social project
+posted_date: 2026-09-20
+url: "https://builtin.com/job/fullstack-engineer-mid-level-actions-team/11271065"
+source: Built In

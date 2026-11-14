@@ -1,0 +1,88 @@
+job_id: 10176635
+title: Staff Software Engineer, Platform
+company: Zus Health
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 54 Employees
+description: |
+  Who we are
+
+  Zus is a shared health data platform designed to accelerate
+  healthcare data interoperability by providing easy-to-use
+  patient data via API, embedded components, and direct EHR
+  integrations. Founded in 2021 by Jonathan Bush, co-founder
+  and former CEO of athenahealth, Zus partners with HIEs and
+  other data networks to aggregate patient clinical history
+  and then translates that history into user-friendly
+  information at the point of care. Zus's mission is to
+  catalyze healthcare's greatest inventors by maximizing the
+  value of patient insights - so that they can build up, not
+  around.
+
+  What we're looking for...
+
+  We’re looking for an experienced Staff Engineer to join the
+  platform team at Zus which builds our core data services.
+  The ideal candidate will be excited to take on the challenge
+  of processing, storing and delivering the entire health
+  records of millions of patients, providing low latency and
+  high-availability for all operations. You are creative,
+  innovative and think deeply about both the technical
+  problems and business problems our customers are facing.
+
+  The Platform team has needed to rapidly innovate to stay
+  ahead of data volumes that grow at 10x per year and a
+  growing base of data-savvy customers using Zus to improve
+  patient care. The team is also contending with an evolving
+  regulatory landscape in data privacy and security. Expect to
+  learn a lot and be put on mission-critical projects with
+  direct customer impact.
+
+  The Platform team is at the heart of everything at Zus. You
+  will work on data services that operate on large scale data
+  using a variety of AWS services (Fargate, Lambda, DynamoDB,
+  S3, etc) and use data storage technologies such as DynamoDB,
+  postgres, iceberg, elasticsearch and others . You will also
+  work on RESTful and GraphQL APIs that are used both
+  internally and externally. Go is our language of choice and
+  the team is responsible for deploying, maintaining, and
+  operating its pipelines and services.
+
+  As part of our team, you will...
+
+  You're a good fit because you...
+
+  It would be awesome if you were...
+
+  We will offer you…
+
+  • Competitive compensation that reflects the value you bring
+  to the team a combination of cash and equity
+
+  • Robust benefits that include health insurance, wellness
+  benefits, 401k with a match, unlimited PTO
+
+  • Opportunity to work alongside a passionate team that is
+  determined to help change the world (and have fun doing it)
+
+  Please Note: Research shows that candidates from
+  underrepresented backgrounds often don’t apply unless they
+  meet 100% of the job criteria. While we have worked to
+  consolidate the minimum qualifications for each role, we
+  aren’t looking for someone who checks each box on a page;
+  we’re looking for active learners and people who care about
+  disrupting the current healthcare system with their unique
+  experiences.
+
+  We do not conduct interviews by text nor will we send you a
+  job offer unless you've interviewed with multiple people,
+  including the Director of People & Talent, over video
+  interviews. Job scams do exist so please be careful with
+  your personal information.
+industries:
+  - Healthtech
+  - Information Technology
+posted_date: 2026-08-09
+url: "https://builtin.com/job/staff-software-engineer-platform/10176635"
+source: Built In

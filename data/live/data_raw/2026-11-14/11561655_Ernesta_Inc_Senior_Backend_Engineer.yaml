@@ -1,0 +1,123 @@
+job_id: 11561655
+title: Senior Backend Engineer
+company: Ernesta Inc.
+location: New York, USA
+work_type: FULL_TIME
+company_size: 58 Employees
+description: |
+  At Ernesta, our mission is to bring gorgeous, design-focused
+  custom rugs to homes and places of gathering through a
+  frictionless, transparent, and affordable experience. At the
+  same price as a store-bought, standard-sized rug, a custom-
+  cut rug from Ernesta is not only a better fit, but it will
+  be higher quality and a better buying experience.
+
+  We believe that high-quality, custom design shouldn’t be out
+  of reach for consumers, and are working to expand a multi-
+  billion dollar global industry in order to reach this goal.
+
+  Driven by our collective mission, our team is humble, smart,
+  sincere, and scrappy. We’re a strong team of problem
+  solvers, innovators, and executors, relentlessly focused on
+  creating and delivering beautiful and delightfully simple
+  and seamless solutions and experiences for our customers.
+  Together, we are excited by the potential to change the
+  global design landscape as we know it.
+
+  About the Role:
+
+  The Ernesta’s technology team builds the technology
+  solutions that power the end-to-end business operation of an
+  industry-leading custom rug purchasing experience. This
+  includes a custom-built order management system,
+  manufacturing workflow tools, and delivery management
+  systems. These systems work together to power a self-
+  service-first purchasing experience that exceeds customer
+  expectations before and after their rug purchase.
+
+  As a Senior Backend Engineer, you will be a foundational
+  member of the engineering team building Ernesta’s in-house
+  order management system from the ground up. You will own the
+  backend architecture for transactional systems that manage
+  order lifecycles, fulfillment workflows, inventory, and
+  integrations with Shopify, Salesforce, and third-party
+  logistics providers.  You will be designing and building the
+  core systems that run the business.
+
+  What You’ll Do:
+
+  - Design, build, and maintain backend services for Ernesta’s
+    custom order management and fabrication system using
+    Node.js and PostgreSQL
+  - Own the data model and transactional logic for core business
+    entities: orders, line items, fulfillments, inventory,
+    customers, and product SKUs
+  - Build and maintain integrations with external systems
+    including Shopify, Salesforce, and third-party logistics
+    and fulfillment providers
+  - Implement order lifecycle workflows: creation, confirmation,
+    production, fulfillment, shipping, delivery, and returns
+  - Design RESTful APIs and MCP service that serve internal
+    tools and connect to the broader e-commerce ecosystem
+  - Collaborate closely with the Business Systems Product
+    Manager to translate domain model specifications and
+    business rules into reliable, performant backend systems
+  - Translate product specifications — including entity
+    definitions, state machines, and business rules — into
+    physical database schemas, migration strategies, and API
+    contracts
+  - Ensure data integrity across systems, defining source-of-
+    truth sync logic and integration contracts between the ERP
+    and external platforms
+  - Write automated tests and contribute to CI/CD pipelines to
+    maintain code quality and deployment reliability
+
+  Qualifications Include:
+
+  - 5+ years of backend software engineering experience with
+    strong proficiency in Node.js and relational database such
+    as PostgreSQL
+  - Experience designing and building transactional data models
+    for systems that manage orders, inventory, fulfillment, or
+    similar operational workflows
+  - Hands-on experience building and maintaining integrations
+    with external platforms (e.g., external APIs, payment
+    processors)
+  - Strong understanding of relational database design:
+    normalization, indexing, constraints, and migration
+    strategies
+  - Experience with event-driven architecture patterns (message
+    queues, webhooks, pub/sub) for system-to-system
+    communication
+  - Experience building and documenting RESTful APIs
+  - Familiarity with cloud infrastructure (AWS or GCP),
+    containerization (Docker), and CI/CD tooling
+  - Ability to work autonomously in a small team environment
+    where you own significant portions of the system end to
+    end
+  - Domain experience in order management, e-commerce
+    fulfillment, supply chain, or manufacturing systems is
+    strongly preferred
+  - Strong communication skills to collaborate with product,
+    operations, and business stakeholders
+
+  Ernesta is committed to inclusion. We are an equal
+  opportunity employer and do not discriminate based upon
+  race, religion, color, national origin, gender (including
+  pregnancy, childbirth, or related medical conditions),
+  sexual orientation, gender identity, gender expression, age,
+  status as a protected veteran, status as an individual with
+  a disability, or other applicable legally protected
+  characteristics.
+
+  The starting base pay for this role is between $170,000 and
+  $210,000.  The actual base pay is dependent upon many
+  factors, such as: experience, education, and skills. This
+  role may also be eligible for equity, and benefits.
+industries:
+  - eCommerce
+  - Retail
+  - Design
+posted_date: 2026-10-07
+url: "https://builtin.com/job/senior-backend-engineer/11561655"
+source: Built In

@@ -1,0 +1,222 @@
+job_id: 10953565
+title: Machine Learning Engineering Manager
+company: DeepL
+location: Munich, DEU
+locations:
+  - Munich, DEU
+  - Amsterdam, NLD
+  - London, GBR
+work_type: FULL_TIME
+company_size: 1,265 Employees
+description: |
+  Meet DeepL
+
+  DeepL is a global AI product and research company focused on
+  building secure, intelligent solutions to complex business
+  problems. Over 200,000 business customers and millions of
+  individuals across 228 global markets today trust DeepL's
+  Language AI platform for human-like translation, improved
+  writing and real-time voice translation. Founded in 2017 by
+  CEO Jaroslaw “Jarek” Kutylowski, DeepL now has around 1,000
+  passionate employees and is supported by world-renowned
+  investors including Benchmark, IVP, and Index Ventures.
+
+  Our goal is to become the global leader in trusted,
+  intelligent AI technology, building products that drive
+  better communication, foster connections, and create a
+  meaningful impact. To achieve this, we need talented people
+  like you to join our journey. If you’re ready to shape the
+  future of AI and grow your career in a fast-moving, purpose-
+  driven environment, DeepL is your next destination.
+
+  What sets us apart
+
+  What sets us apart is our blend of cutting-edge AI
+  technology, meaningful work, and a culture where people
+  truly thrive. We’re a team of innovators, researchers, and
+  creators driven by a shared purpose to unlock human
+  potential by making work simpler, smarter, and more
+  connected.
+
+  When we share what it’s like to work at DeepL, the reactions
+  are overwhelmingly positive. This might be because of our
+  technology that helps millions of people and businesses
+  communicate and work better every day, or because of the
+  trust, curiosity, and care that shape our culture.
+
+  What we know for sure is this: being part of DeepL means
+  joining a team dedicated to innovation, growth, and well-
+  being. Discover more about life at DeepL
+  onLinkedIn,Instagram, and our Blog.
+
+
+
+  Meet the team behind this journey
+
+  You will lead the Production Inference team — the group
+  responsible for the systems that serve DeepL's language AI
+  models reliably and efficiently at scale. We sit at the
+  intersection of research-grade technical ambition and
+  production-grade operational discipline: our work determines
+  whether DeepL's models reach users with the latency,
+  reliability, and cost profile that makes commercial
+  deployment viable. The team owns the full model serving
+  stack — from GPU-resident inference runtimes and deployment
+  infrastructure through to the developer platform that
+  enables every other research team to bring their models to
+  production. We operate within the Research organisation,
+  with close ties to DeepL's infrastructure and platform
+  functions, and our architectural decisions affect every
+  product DeepL ships. The broader Research organisation
+  publishes regularly at ACL, NeurIPS, and EMNLP, and the
+  Production Inference team brings that same culture of rigour
+  and innovation to the systems layer of AI.
+
+
+
+  Your responsibilities
+
+  As Engineering Manager for the Production Inference team,
+  you will own both people leadership and technical direction
+  for a team of research scientists and ML engineers working
+  on performance-critical model serving systems. While this is
+  not a hands-on coding role, you will be deeply involved in
+  technical reviews, architecture decisions, and research
+  direction for the inference stack.
+
+
+
+  You will:
+
+  - Lead and develop a high-performing team of research
+    scientists and ML engineers, building strong development
+    plans, fostering a candid and non-retaliatory feedback
+    culture, and maintaining high standards of technical
+    rigour and delivery.
+  - Own the team's research and development roadmap for
+    production inference systems, in close collaboration with
+    senior ICs and cross-functional stakeholders, balancing
+    near-term reliability commitments with longer-horizon
+    research bets on inference efficiency and architecture.
+  - Act as the primary technical interface between the
+    Production Inference team and adjacent functions —
+    including foundational models research, voice research,
+    applied research, infrastructure, and product — ensuring
+    research output is well-scoped, well-communicated, and
+    delivered without creating downstream bottlenecks.
+  - Drive the reliability, efficiency, and cost performance of
+    DeepL's model serving stack, including strategic decisions
+    around serving infrastructure evolution (load balancing,
+    autoscaling, runtime selection, and hardware utilisation).
+  - Operate with a high degree of autonomy, defining the team's
+    direction and pushing for results in an environment where
+    requirements from product or commercial stakeholders can
+    be ambiguous or evolving.
+  - Play an active role in identifying, assessing, and
+    recruiting research and engineering talent as the team
+    continues to develop.
+
+
+
+  Qualities we look for
+
+  - You have proven experience leading a team of researchers or
+    ML engineers, with a track record of developing talent,
+    maintaining delivery rigour, and holding the balance
+    between research quality and production reliability.
+  - You have a strong background Computer Science, Mathematics,
+    Physics, or a comparable quantitative discipline, or
+    possess a strong ML/systems background with equivalent
+    research depth.
+  - You have a strong foundation in production ML systems,
+    inference optimisation, or model serving at scale — direct
+    experience with LLM inference, speculative decoding,
+    quantisation, or serving infrastructure is a meaningful
+    differentiator.
+  - You are comfortable operating across the full model
+    lifecycle — from training handoff through to production
+    deployment, monitoring, and efficiency improvement — and
+    understand infrastructure and compute constraints without
+    needing to own them directly.
+  - You have excellent communication skills and the ability to
+    translate complex technical direction into clear goals for
+    both technical and non-technical stakeholders.
+  - You are solution-oriented and decisive, able to define
+    direction and drive outcomes without waiting for direction
+    from above.
+
+
+
+  What we offer
+
+  - Diverse and internationally distributed team: joining our
+    team means becoming part of a large, global community with
+    people of more than 90 nationalities. We're more than just
+    colleagues; we're a group of professionals with a shared
+    mission to connect diverse cultures. Our global presence
+    is growing–we've doubled in size nearly every year, with
+    our employees based in the UK, Germany, the Netherlands,
+    Poland, the US, and Japan, and we continue to expand our
+    network.
+  - Open communication, regular feedback: as a language-focused
+    company, we value the importance of clear, honest
+    communication. We value smooth collaboration, direct and
+    actionable feedback, and believe that leading with empathy
+    and growth mindset makes us better together.
+  - Hybrid work, flexible hours: we offer a hybrid work
+    schedule, with team members coming into the office twice a
+    week. This allows you to engage directly with your team
+    and experience the unique energy of our workspace, while
+    still enjoying the flexibility and comfort of working from
+    home. With flexible working hours and trust in your
+    productivity, we are in sync with your team’s general
+    locations and time zones to foster effective and seamless
+    collaboration.
+  - Virtual Shares - An ownership mindset in every role. We
+    believe everyone should share in our success, and that’s
+    why every employee receives Virtual Shares, linking your
+    contribution directly to DeepL’s growth and rewarding you
+    with a stake in our future.
+  - Regular in-person team events: we bond over vibrant events
+    that are as unique as our team, from local team and
+    business unit gatherings, to new-joiner onboardings, to
+    company-wide events that bring us all together–literally.
+  - Monthly full-day hacking sessions: every month, we have Hack
+    Fridays, where you can spend your time diving into a
+    project you're passionate about and get the opportunity to
+    work with other teams–we value your initiatives, impact,
+    and creativity.
+  - 30 days of annual leave: we value your peace of mind. With
+    30 days off (excluding public holidays) and access to
+    mental health resources, we make sure you're as strong
+    mentally as you are professionally.
+  - Competitive benefits: just as our team spans the globe, so
+    does our benefits package. We've crafted it to reflect the
+    diversity of our team and tailored it to align with your
+    unique location, to ensure you feel supported every step
+    of the way.
+
+
+
+  If this role and our mission resonate with you, but you're
+  hesitant because you don't check all the boxes, don't let
+  that hold you back. At DeepL, it's all about the value you
+  bring and the growth we can foster together. Go ahead,
+  apply—let's discover your potential together. We can't wait
+  to meet you!
+
+  #LI-JB1
+
+  We are an equal opportunity employer
+
+  You are welcome at DeepL for who you are - we appreciate
+  authenticity here. Our product is for everyone, and so is
+  our workplace. The more voices we have represented and
+  amplified in our business, the more we will all succeed,
+  contribute, and think forward! So bring us your personal
+  experience, your perspectives, and your background. It’s in
+  our diversity that we will find the power to break down
+  language barriers in the world.
+posted_date: 2026-10-20
+url: "https://builtin.com/job/research-manager/10953565"
+source: Built In

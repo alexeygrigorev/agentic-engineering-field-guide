@@ -1,0 +1,228 @@
+job_id: 11986180
+title: Platform Engineering Manager
+company: SpotOn
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 2,000 Employees
+description: |
+  About SpotOn
+
+  We’re not just building restaurant tech, we’re giving
+  independent restaurants the tools to compete and win. From
+  our award-winning point-of-sale to AI-powered profit tools,
+  everything we do helps operators boost profit, work smarter,
+  and keep their best people. And every solution is backed by
+  real humans who actually give a sh*t about helping
+  restaurants succeed.
+
+  - Named the #1 Restaurant POS by G2 (Summer 2026), based on
+    ratings from real users
+  - Rated the top-rated point-of-sale (POS) for restaurants,
+    bars, retail, and small businesses by Capterra users
+  - Awarded Great Places to Work and Built In’s Best Workplaces
+    for multiple years running
+
+  We move fast, care hard, and fight for independent
+  restaurant operators to do what they love, and love doing
+  it. If you’re looking to make an impact with heart and
+  hustle, SpotOn is the place for you.
+
+  Engineering Manager, Infrastructure
+
+  Location: United States — US remote, or our Chicago or
+  Detroit offices Reports to: Director of Platform Engineering
+
+  The opportunity
+
+  Every SpotOn engineering team ships code through the
+  delivery platform this team owns, and runs it on the
+  Kubernetes platform it operates. You'll lead the two
+  Infrastructure teams responsible for both: Delivery (CI/CD,
+  GitOps, and the developer platform) and Compute (Kubernetes,
+  EC2).
+
+  The platform is mid-transformation. We're consolidating onto
+  one standard path GitHub Actions, Argo CD, and EKS and
+  retiring legacy clusters and pipelines along the way. We are
+  tightening governance and PCI DSS 4.0.1 compliance and
+  bringing AI into how engineers use the platform. You'll take
+  on a strong, experienced team with staff engineers already
+  leading technical work. What it needs from you is people
+  leadership, a customer-focused mindset, a clear operating
+  model, and someone who keeps the platform moving forward and
+  supporting the business.
+
+  What the teams own
+
+  - CI/CD for all of engineering: GitHub Actions with a self-
+    hosted Actions Runner Controller (ARC) fleet, and AWS-
+    managed Argo CD running a hub per domain and serving about
+    3,700 workloads.
+  - The developer platform: Backstage (catalog, software
+    templates, golden paths), container and artifact
+    registries, secrets delivery, and platform documentation.
+    This includes our platform MCP server and AI skills for
+    engineers.
+  - The EKS fleet: more than 23 GitOps-managed clusters plus the
+    Argo CD hub clusters. That covers capacity and autoscaling
+    with Karpenter, cluster add-ons, Kyverno policy, and a
+    standard Helm chart that defines the contract for every
+    workload.
+  - Cluster lifecycle: EKS upgrades three times a year across
+    about 40 environments in five tiers, coordinated with the
+    teams whose services run on them.
+
+  What you'll do
+
+  - Lead and grow the team. Run 1:1s, set clear expectations,
+    give candid feedback, and own performance and career
+    development.
+  - Free your staff engineers to lead technically. Take on the
+    management and coordination work so they can concentrate
+    on architecture, technical collaboration, and the hardest
+    technical problems.
+  - Collaborate with our other Platform EMs. We may be organized
+    into several teams, but we are one platform domain first.
+    The team boundaries are soft, existing only to help
+    organize expertise.
+  - Help drive operational efficiency. Building and maintaining
+    an efficient and effective platform is a force multiplier
+    for both humans and agents.
+  - Help finish the platform consolidation. Drive the remaining
+    legacy retirement work to completion. That means
+    coordinating with service-owning teams across every R&D
+    domain, keeping risks visible to leadership, and making
+    sure post-migration cleanup has clear owners.
+  - Run the fleet predictably. Make cluster upgrades, capacity
+    work, and partner notifications routine and owned by the
+    team. Balance interrupt-driven work against roadmap
+    commitments.
+  - Treat engineers as customers. Make the golden path the
+    easiest path through good defaults, templates,
+    documentation, and AI-assisted tooling. Use feedback from
+    consuming teams to decide what to build next.
+  - Own reliability and compliance. Lead incident response and
+    learning for delivery and compute, follow through on
+    systemic fixes, and partner with Security on PCI DSS
+    controls for payments workloads.
+
+  What success looks like
+
+  First 90 days: You know the team, the platform, and its
+  customers. Every engineer has regular 1:1s and clear
+  expectations. You’ve got a grasp on how we work, the
+  problems we face, and how we improve our ability to serve
+  the business. You’ve worked with the other Infrastructure
+  leaders on areas of ownership.
+
+  First year: There’s a clear roadmap for your areas of
+  ownership. We’re placing bets and executing on them
+  successfully. Legacy platforms are fully retired, and every
+  cleanup item has an owner and is closed. Maintenance cycles
+  continue to land on schedule without fire drills. Staff
+  engineers spend their time on technical leadership, not
+  coordination. Every engineer has a growth plan, and the
+  team's interrupt load is measured and trending down.
+
+  What we're looking forRequired
+
+  - 3+ years managing engineers on platform, infrastructure, or
+    developer-productivity teams.
+  - Experience leading senior and staff-level engineers. You can
+    set direction without being the deepest expert in the
+    room.
+  - Sound technical judgment in Kubernetes and cloud
+    infrastructure (AWS preferred), and in CI/CD and GitOps
+    delivery. You can assess designs, production risk, and
+    trade-offs, and ask the questions that lead to durable
+    solutions.
+  - A track record of delivering cross-team platform migrations
+    or adoption programs, including managing dependencies
+    across many teams and communicating risk to leadership.
+  - Experience owning production reliability: on-call health,
+    incident response, and systemic follow-through.
+  - Clear, direct communication with engineers, peer leaders,
+    and non-technical stakeholders.
+
+  Helpful, not required
+
+  - Hands-on experience with Argo CD, GitHub Actions, Karpenter,
+    Kyverno, or Backstage.
+  - Experience building internal developer platforms with a
+    product mindset: golden paths, self-service, and developer
+    experience metrics.
+  - Experience in a PCI DSS or similarly regulated environment.
+  - Experience applying AI tools to developer workflows or
+    platform operations.
+  - Experience leading a team distributed across US and European
+    time zones, or a clear plan for doing it well.
+
+  Compensation:
+
+  Our base pay range starts at $180,000 -$215,000/year for
+  this role
+
+  Please note the salary range listed is just one component of
+  a competitive compensation package which includes a company
+  stock plan
+
+  Offers will be reflective of the candidate’s location and
+  experience.
+
+  Benefits:
+
+  At SpotOn, we put people above everything else. We’re known
+  for our innovative software and
+
+  technology solutions, but we stand out because of the hard-
+  working humans behind the tech.
+
+  We can’t take care of our clients without taking care of our
+  employees first, and that’s why we
+
+  invest in you with a competitive benefits package which
+  includes:
+
+  ● Medical, Dental and Vision Insurance
+
+  ● 401k with company match
+
+  ● RSUs
+
+  ● Paid vacation, 10 company holidays, sick time, and
+  volunteer time off
+
+  ● Employee Resource Groups to build community and inclusion
+  at work
+
+  ● Monthly cell phone and internet stipend
+
+  ● Tuition reimbursement for up to $2,000 per calendar year
+  to assist with your professional development
+
+  We will never ask candidates to pay fees, purchase
+  equipment, or share sensitive personal or financial
+  information during the hiring process. All legitimate
+  communication from our recruiting team will come from an
+  official company email address (@spoton.com). If something
+  seems suspicious, please contact us at careers@spoton.com.
+
+  SpotOn is an equal employment opportunity employer.
+  Qualified candidates are considered for employment without
+  regard to race, religion, gender, gender identity, sexual
+  orientation, national origin, age, military or veteran
+  status, disability, or any other characteristic protected by
+  applicable law. For U.S. based roles, work authorization in
+  the U.S. is required. Visa sponsorship is not available for
+  this role.
+
+  SpotOn is an E-Verify company.
+industries:
+  - eCommerce
+  - Fintech
+  - Payments
+  - Software
+posted_date: 2026-10-30
+url: "https://builtin.com/job/platform-engineering-manager/11986180"
+source: Built In

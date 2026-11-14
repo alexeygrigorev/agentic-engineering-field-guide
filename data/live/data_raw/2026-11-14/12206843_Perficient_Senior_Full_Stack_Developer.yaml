@@ -1,0 +1,192 @@
+job_id: 12206843
+title: Senior Full Stack Developer
+company: Perficient
+location: USA
+locations:
+  - USA
+  - Saint Louis, USA
+remote: true
+work_type: FULL_TIME
+company_size: 3,295 Employees
+description: |
+  We’re building a large healthcare portal and the services
+  behind it — a React web application, a suite of embeddable
+  micro-frontend widgets, and a serverless Python API layer on
+  AWS. You’ll own a significant area of this platform end to
+  end: shaping the design, writing the code, securing it,
+  shipping it through CI/CD, and operating it in production.
+
+  This is a true full-stack role — frontend and backend are
+  equally important, and you’re expected to be effective
+  across both. You’ll move comfortably between a React UI, the
+  serverless APIs behind it, and the infrastructure that runs
+  it all.
+
+  This is a senior role for someone who can take an ambiguous
+  problem, drive it to a well-architected solution, and
+  deliver with minimal oversight. You’ll set technical
+  direction in your area, raise the quality bar, and mentor
+  others — not wait to be handed tickets.
+
+  Responsibilities
+
+  - Own a domain end to end across the full stack — from the
+    React UI through the serverless API to the data and
+    infrastructure that backs it.
+  - Build and maintain features in a React single-page
+    application and a family of independently deployable
+    micro-frontend widgets that embed into it.
+  - Design and implement Python serverless APIs (AWS Lambda
+    behind API Gateway), with typed request/response models
+    and an OpenAPI contract as the source of truth.
+  - Build and evolve identity and authorization — OAuth2/OIDC
+    sign-in, MFA, token validation, and fine-grained,
+    entitlement-based access control (including
+    delegated/third-party access scenarios).
+  - Integrate with upstream enterprise APIs: model their
+    contracts defensively, handle partial/missing data
+    gracefully, run calls concurrently, and keep changes
+    backward-compatible.
+  - Design data and caching layers (e.g., DynamoDB), manage
+    secrets, and tune performance and reliability of your
+    services.
+  - Harden everything for a regulated, PII/PHI-sensitive
+    environment — data masking, least-privilege access,
+    secrets management, and secure handling of personal data
+    by default.
+  - Own your CI/CD: automated linting, type-checking, tests,
+    security scans, and infrastructure changes through to
+    production.
+  - Define and evolve infrastructure as code, and participate in
+    operational ownership of your services.
+
+  Qualifications
+
+  - 7+ years of professional software engineering experience,
+    including significant experience delivering modern full-
+    stack web applications in production environments.
+  - Strong hands-on experience building frontend applications
+    with React, TypeScript, and modern single-page application
+    architectures.
+  - Proven experience designing and developing backend services
+    using Python, including RESTful APIs, service integration,
+    and API contract-driven development.
+  - Deep experience with AWS cloud services, including AWS
+    Lambda, API Gateway, DynamoDB, IAM, CloudWatch, and
+    related serverless technologies.
+  - Strong understanding of authentication and authorization
+    technologies, including OAuth 2.0, OpenID Connect (OIDC),
+    MFA, token-based security, and role- or entitlement-based
+    access controls.
+  - Experience implementing secure software solutions in
+    environments containing sensitive customer, healthcare,
+    financial, or regulated data.
+  - Demonstrated expertise with CI/CD pipelines, automated
+    testing, code quality controls, security scanning, and
+    release automation.
+  - Hands-on experience with Infrastructure as Code (IaC) using
+    tools such as Terraform, AWS CDK, CloudFormation, or
+    similar technologies.
+  - Experience designing scalable data solutions using NoSQL
+    and/or relational databases, including performance
+    optimization, caching strategies, and data modeling.
+  - Strong understanding of software engineering best practices,
+    including system design, automated testing, observability,
+    resiliency, and production support.
+  - Proven ability to lead technical initiatives, independently
+    drive ambiguous requirements to implementation, and make
+    architectural decisions with minimal oversight.
+  - Experience mentoring engineers, conducting code reviews, and
+    influencing engineering standards and technical direction
+    across a team.
+  - Excellent written and verbal communication skills, with the
+    ability to collaborate effectively across product,
+    engineering, architecture, security, and business
+    stakeholders.
+
+  WHAT WE BELIEVE
+
+  At Perficient, we promise to challenge, champion, and
+  celebrate our people. You will experience a unique and
+  collaborative culture that values every voice. Join our
+  team, and you’ll become part of something truly special.
+
+  We believe in developing a workforce that is as diverse and
+  inclusive as the clients we work with. We’re committed to
+  actively listening, learning, and acting to further advance
+  our organization, our communities, and our future leaders…
+  and we’re not done yet.
+
+  Perficient, Inc. proudly provides equal employment
+  opportunities (EEO) to all employees and applicants for
+  employment without regard to race, color, religion, gender,
+  sexual orientation, national origin, age, disability,
+  genetic information, marital status, amnesty, or status as a
+  protected veteran in accordance with applicable federal,
+  state and local laws. Perficient, Inc. complies with
+  applicable state and local laws governing non-discrimination
+  in employment in every location in which the company has
+  facilities. This policy applies to all terms and conditions
+  of employment, including, but not limited to, hiring,
+  placement, promotion, termination, layoff, recall, transfer,
+  leaves of absence, compensation, and training. Perficient,
+  Inc. expressly prohibits any form of unlawful employee
+  harassment based on race, color, religion, gender, sexual
+  orientation, national origin, age, genetic information,
+  disability, or covered veterans. Improper interference with
+  the ability of Perficient, Inc. employees to perform their
+  expected job duties is absolutely not tolerated.
+
+  Disability Accommodations:
+
+  Perficient is committed to providing a barrier-free
+  employment process with reasonable accommodations for
+  qualified individuals with disabilities and disabled
+  veterans in our job application procedures. If you need
+  assistance or accommodation due to a disability, please
+  contact us.
+
+  Applications will be accepted until the position is filled
+  or the posting is removed.
+
+  The salary range for this position takes into consideration
+  a variety of factors, including but not limited to skill
+  sets, level of experience, applicable office location,
+  training, licensure and certifications, and other business
+  and organizational needs. The new hire salary range displays
+  the minimum and maximum salary targets for this position
+  across all US locations, and the range has not been adjusted
+  for any specific state differentials. It is not typical for
+  a candidate to be hired at or near the top of the range for
+  their role, and compensation decisions are dependent on the
+  unique facts and circumstances regarding each candidate. A
+  reasonable estimate of the current salary range for this
+  position is $92,700 to $120,500. Please note that the salary
+  range posted reflects the base salary only and does not
+  include benefits or any potential variable compensation
+  programs. Information regarding the benefits available for
+  this position are in our benefits overview.
+
+
+
+  Disclaimer:  The above statements are not intended to be a
+  complete statement of job content, rather to act as a guide
+  to the essential functions performed by the employee
+  assigned to this classification.  Management retains the
+  discretion to add or change the duties of the position at
+  any time.
+
+  About UsPerficient is the global AI and technology
+  consulting firm disrupting the traditional consulting model.
+  Powered by our 7,000+ advisors, engineers, and designers,
+  Perficient implements AI-first solutions that break
+  conventions and deliver outcomes that matter. Proudly
+  serving clients that represent the world’s most innovative
+  brands, and in collaboration with our powerful technology
+  partner ecosystem, we bring deep industry expertise and
+  data-driven design to redefine how businesses run and
+  succeed. Perficient is different. For real. Learn more at
+  perficient.com.
+posted_date: 2026-11-12
+url: "https://builtin.com/job/senior-full-stack-developer/12206843"
+source: Built In

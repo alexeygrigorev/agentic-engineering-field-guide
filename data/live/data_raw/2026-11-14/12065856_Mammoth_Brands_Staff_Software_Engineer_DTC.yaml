@@ -1,0 +1,280 @@
+job_id: 12065856
+title: Staff Software Engineer, DTC
+company: Mammoth Brands
+location: New York, USA
+work_type: FULL_TIME
+company_size: 550 Employees
+description: |
+  About Mammoth Brands
+
+  Mammoth Brands (formerly Harry’s Inc.) is the modern CPG
+  company behind brands Harry’s, Flamingo, Lume, Mando, and
+  Coterie. We’re building a new model—and home—brands,
+  founders, and talent looking to solve unmet needs, improve
+  peoples’ lives, and ultimately challenge the status quo. Our
+  mission is to “Create Things People Like More.” Simply put:
+  everything we do should be better than what already exists.
+  If it’s not, we don’t do it. This guides everything we do,
+  from developing the best product experiences, to making
+  Mammoth Brands a great place to work, to exploring
+  innovative ways to give back to our community.
+
+  We got our start in 2013 when our co-founders created
+  Harry's. They built the brand differently—online first,
+  prioritizing direct relationships with customers—and in the
+  process learned they’d created something bigger: a playbook
+  and platform that could help other brands grow and scale to
+  their full potential, and a vision to reimagine consumer
+  packaged goods. Today, Mammoth Brands is a growing portfolio
+  of brands and the largest CPG company built in the last 20
+  years. Even as we grow, we take extra care to maintain the
+  small, scrappy, entrepreneurial culture that helped to get
+  us where we are today: to create a company that people like
+  more, that better serves its customers, employees, and
+  community. As a company, we’re also committed to making a
+  positive impact and have donated over $20 million through
+  our network of nonprofit partners to date.
+
+  We build brands that move fast and think big — and we hire
+  people who are curious about AI, willing to experiment with
+  it in their day-to-day work, and excited to accelerate
+  what's possible. We prioritize giving our team the tools,
+  training, and space to build real fluency, so you grow
+  alongside the technology and help shape how we use it.
+
+  About the team
+
+  The Lume & Mando technology team builds and runs the digital
+  commerce experience for two of the fastest-growing brands in
+  the Mammoth portfolio. We own the headless Shopify
+  storefronts end to end — the React Router/Hydrogen
+  applications our customers shop on, the subscription and
+  loyalty experiences that keep them coming back, and the edge
+  infrastructure that serves it all.
+
+  We are a small, high-leverage team operating in a long-tail
+  SaaS ecosystem: rather than building everything ourselves,
+  we integrate best-in-class platforms and write the code that
+  makes them work as one coherent experience. That means the
+  engineering here is genuinely full-stack and genuinely
+  commercial — the work you ship shows up in conversion,
+  retention, and revenue within days, not quarters.
+
+  About the role
+
+  We’re looking for a Software Engineer to join the Lume
+  storefront team as a senior member. This is a hands-on,
+  senior individual contributor role for an engineer who is
+  sought out as a domain expert, structures and breaks down
+  project work, and delivers end-to-end solutions on a small
+  team.
+
+  You’ll own moderately complex problem areas across our
+  headless Shopify architecture — storefront performance,
+  subscription flows, loyalty, experimentation, and the
+  integrations that tie them together. You’ll set the
+  technical direction in those areas, raise the quality bar
+  for everyone working in them, and translate business needs
+  into what we build. This role reports to the Lume Head of
+  Technology and partners daily with Product, Growth,
+  Retention, Creative, and Analytics.
+
+  What you will accomplish
+
+  - Lead projects end to end. Structure and break down work on
+    storefront initiatives, define the technical tasks needed
+    to hit team objectives, and deliver solutions.
+  - Own the quality bar. Deliver secure, testable, maintainable,
+    low-defect, efficient work that is well designed and well
+    documented.
+  - Drive technical decisions in a complex domain. Weigh other
+    engineers' points of view against business requirements
+    and synthesize the best solution, not the loudest one.
+  - Build consensus. Harmonize discordant technical views and
+    lead the resolution of contentious issues — across
+    engineering and with cross-functional partners.
+  - Create the things that make others faster. Produce
+    exemplars, frameworks, shared components, runbooks, and
+    technical documentation that raise the ceiling for
+    everyone working in the codebase.
+  - Debug across the stack. Identify and correct defects—not
+    just your own—across multiple technologies, from the Remix
+    application and edge layer through third-party platform
+    integrations.
+  - Communicate to align. Structure technical communication and
+    documentation that achieves alignment on decisions of
+    broad scope across codebases, projects, and business
+    functions.
+  - Map business needs to technology. Influence the business
+    processes and product decisions within the Lume domain,
+    not just the code that implements them.
+  - Grow the people around you. Actively share knowledge, create
+    the structures and processes that make sharing routine,
+    and coach less experienced engineers.
+
+  This should describe you
+
+  Required
+
+  - Substantial professional experience building and operating
+    production e-commerce applications, with a track record of
+    independently delivering projects on time in a live,
+    revenue-generating environment.
+  - Headless Shopify on React Router. Deep, hands-on experience
+    is a must — Storefront API, Remix data loading and routing
+    patterns, caching strategy, and the realities of running a
+    headless storefront at scale. Shopify Hydrogen experience
+    is important.
+  - Strong JavaScript/TypeScript, modern React, and front-end
+    performance fundamentals (Core Web Vitals, rendering
+    strategy, bundle discipline).
+  - Experience integrating third-party SaaS platforms via APIs
+    and webhooks — including the unglamorous parts:
+    idempotency, retries, rate limits, data reconciliation,
+    and graceful degradation when a vendor is down.
+  - Fluency in the practices that keep a storefront stable:
+    testing, code review, observability, incident response,
+    and releasing to production without impacting performance
+    or reliability.
+  - The ability to communicate a clear technical point of view
+    in a group, understand the views of others, and commit to
+    the team’s decision.
+
+  Preferred
+
+  - Custom Shopify Apps: Experience designing, building, and
+    maintaining custom or private Shopify apps — Admin and
+    Storefront GraphQL APIs, OAuth and webhook handling, app
+    extensions, Shopify Functions and checkout extensibility —
+    plus the operational side of keeping an app healthy as
+    Shopify's API versions turn over. Bonus if you've had to
+    decide when a problem warrants a custom app versus an off-
+    the-shelf one.
+  - Recharge for subscriptions — subscription lifecycle, billing
+    cadence, and customer portal experiences.
+  - LoyaltyLion for loyalty programs.
+  - Cloudflare for headless app hosting — Workers, caching and
+    cache invalidation, edge configuration, and WAF.
+  - Google Tag Manager and the broader client-side measurement
+    stack, including consent and data-quality considerations.
+  - Optimizely or comparable experimentation platforms, and
+    comfort designing tests that produce trustworthy results.
+  - Experience in a DTC or subscription business, where
+    storefront changes are measured in conversion and
+    retention.
+  - Experience with AI tooling and a habit of experimenting with
+    it in your day-to-day engineering work.
+
+  How you’ll work here
+
+  Our values describe the “how” of the job, and they matter as
+  much as the technical work. At this level, that looks like:
+
+  - Look Left to Find Right. You’re sought out to help break
+    down ambiguous problems, and you incorporate company
+    direction into your team’s technical work.
+  - Improve Always. You share what you know deliberately, create
+    the structures that let others learn from you, and invest
+    in your own growth.
+  - Embrace the Mammoth. You give clear feedback in every
+    direction — up, down, and sideways — on quality,
+    timeliness, and process, and you set explicit standards
+    for what good looks like.
+  - All In All Together. You set clear priorities, adjust in
+    real time as the business changes, and respect the
+    expertise of cross-functional partners.
+
+  Benefits and perks
+
+  - Medical, dental, and vision coverage
+  - 401k match
+  - Equity in Mammoth Brands
+  - Flexible time off and working hours
+  - L&D stipend
+  - 4 weeks sabbatical after 5 years, 6 weeks after 10 years,
+    and 8 weeks after 15 years
+  - 20 fully paid weeks off for parents who give birth, or 16
+    fully paid weeks off for all other paths to parenthood
+  - Fun IRL and virtual events including happy hours, team
+    building events, and parties on our rooftop
+  - Free products from our family of brands
+
+  The Mammoth Brands' working model is in-office Tuesday,
+  Wednesday, and Thursday. Our beautiful 70,000 square foot
+  SoHo office is decked out with bagels on Wednesdays and
+  lunch on Thursdays, and fully stocked kitchens with snacks,
+  coffee, and drinks everyday.  Can’t forget the free products
+  and the opportunity to have some meetings without Zoom!
+
+  We can’t quantify all of the intangible things we think
+  you’ll love about working at Mammoth Brands, like the
+  exciting challenges we tackle, the smart and humble team
+  you’ll get to work with, and our supportive and inclusive
+  culture. That said, our salary ranges are based on paying
+  competitively for our size and industry, and are one part of
+  our total rewards package, which also includes a
+  comprehensive set of benefits and our equity program. The
+  base salary hiring range for this position is
+  $170,000-$182,500, but the final compensation offer will
+  ultimately be based on the candidate’s location, skill level
+  and experience.
+
+  Mammoth Brands is committed to bringing together individuals
+  from different backgrounds and perspectives. We strive to
+  create an inclusive environment where everyone can thrive,
+  feel a sense of belonging, and do great work together.
+
+  Mammoth Brands is an Equal Opportunity Employer, providing
+  equal employment and advancement opportunities to all
+  individuals. We recruit, hire and promote into all job
+  levels the most qualified applicants without regard to race,
+  color, creed, national origin, religion, sex (including
+  pregnancy, childbirth and related medical conditions),
+  parental status, age, disability, genetic information,
+  citizenship status, veteran status, gender identity or
+  expression, transgender status, sexual orientation, marital,
+  family or partnership status, political affiliation or
+  activities, military service, domestic violence victim
+  status, arrest/conviction record, sexual or reproductive
+  health decisions, caregiver status, credit history
+  immigration status, unemployment status, traits historically
+  associated with race, including but not limited to hair
+  texture and protective hairstyles or any other status
+  protected under applicable federal, state and local laws.
+  Mammoth Brands' commitment to providing equal employment
+  opportunities extends to all aspects of employment,
+  including job assignment, compensation, discipline and
+  access to benefits and training.
+
+  We respect the laws enforced by the EEOC and are dedicated
+  to going above and beyond in fostering diversity across our
+  company.
+
+  If visa sponsorship is required for work authorization,
+  please note that Mammoth Brands in collaboration with
+  immigration counsel will manage and submit all necessary
+  legal filings on behalf of the candidate.
+
+  It is important to us that every candidate has a positive
+  and safe experience with Mammoth Brands. Please be aware of
+  the possibility of fictitious job openings, consulting
+  engagements, and employment offers that are designed to
+  collect personal information or charge fees for recruitment
+  or training services.
+
+  Mammoth Brands will never charge any application,
+  processing, or training fee at any point in our hiring
+  process. Every genuine opportunity we have will be listed on
+  our careers page. If something ever feels off, trust your
+  instincts and don't hesitate to reach out to us directly to
+  verify.
+industries:
+  - Consumer Web
+  - eCommerce
+  - Other
+  - Retail
+  - Social Impact
+  - Manufacturing
+posted_date: 2026-11-04
+url: "https://builtin.com/job/staff-software-engineer-dtc/12065856"
+source: Built In

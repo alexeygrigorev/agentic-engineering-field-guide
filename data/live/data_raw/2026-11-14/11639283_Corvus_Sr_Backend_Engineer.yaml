@@ -1,0 +1,118 @@
+job_id: 11639283
+title: Sr. Backend Engineer
+company: Corvus
+location: New York, USA
+work_type: FULL_TIME
+company_size: 9 Employees
+description: |
+  About Corvus
+
+  We are tackling a surprisingly unsolved yet critical problem
+  for the $1T chemical manufacturing industry: “what products
+  from my portfolio can I sell into this account”?
+
+  A manufacturing salesperson sells hundreds or thousands of
+  SKUs into tens of thousands of manufacturing accounts. To
+  answer the question of what to sell where requires many
+  hours of deep research or in-depth discussion with the
+  customer directly. It also requires either deep chemistry
+  expertise or decades of experience in the space.
+
+  Corvus is solving this: by combining agent-powered research
+  workflows with a proprietary, homegrown dataset of US
+  manufacturers, we give our clients understanding about what
+  each one makes, which chemistries go into making it, and how
+  that maps onto a customer's specific portfolio.
+
+  That visibility unlocks workflows the industry has never
+  had. Reps find cross-sell opportunities inside accounts
+  they've serviced for years. Sales leaders prioritize markets
+  product by product instead of by gut. Companies see their
+  penetration at the SKU level rather than the account level.
+
+  Our confidence in our vision is reflected in our traction:
+  we've 6x'd our revenue, 3x'd our customer count in the last
+  six months, and our initial customers have all renewed and
+  expanded. We work with the largest chemical distributors and
+  manufacturers, and we’re looking to double down for our next
+  phase of growth.
+
+  The role
+
+  You'll be the senior backend engineer at Corvus, working
+  directly with the two cofounders every day. There's no PM
+  layer: you'll hear the customer's problem firsthand, decide
+  what it means for the system, and own the work from design
+  through shipping and watching how it behaves in production.
+
+  Your work will be the foundation of the product. Corvus runs
+  on a growing body of data about manufacturers, facilities,
+  products, and people. Your job is to design the systems and
+  data model around it so that this data stays correct and
+  consistent as it grows, and so that agents and research
+  workflows can build and iterate on top of it. You'll own the
+  architecture decisions that determine what we can build
+  next, and how we scale for our next phase of growth.
+
+  Some exciting technical opportunities you'll face:
+
+  - Build the knowledge graph for an industry. The clean,
+    current map of data points across hundreds of thousands of
+    manufacturers doesn’t exist. You’ll design the data model
+    that turns all of it into one coherent, queryable picture,
+    providing an unprecedented level of insight and
+    actionability for an entire sector of the economy.
+  - Make agents the primary users of our platform. Our agents
+    write most of the data and read most of it. There’s no
+    established playbook for this; we will be living on the
+    frontier and defining what “best-in-class” looks like.
+  - Scale the system while the ground is still moving. We’re
+    going from a handful of customers to many. You’ll make the
+    calls on what to build now and what to defer, at the stage
+    where those decisions compound most.
+
+  Who we're looking for
+
+  - 6–10 years of professional software engineering experience,
+    with deep relational database expertise (preferably
+    Postgres) and strong TypeScript or Python.
+  - You've designed a canonical data model that lived through
+    real change (new data sources, new entity types, merges
+    and splits) and you can talk concretely about what you'd
+    do differently.
+  - You've built or owned entity resolution, deduplication, or
+    reconciliation logic, and you understand the tradeoffs
+    between deterministic rules, probabilistic matching, and
+    human review.
+  - You've built resiliency into systems: queues, retries,
+    idempotency, observability.
+  - You use AI tooling as a core part of how you build, and
+    you're curious about how data should be structured for
+    agents to work with it. You don't need to be an AI
+    engineer, but the stack shouldn't be foreign to you.
+  - You're pragmatic about scale. You know what not to build
+    yet, and you can explain your reasoning in plain terms to
+    people who'll push back.
+  - You want to talk to customers. Our best technical decisions
+    have come from an engineer hearing a customer explain what
+    they'd do next.
+  - You're excited about working in person with the team in NYC,
+    5 days a week.
+
+  Why Corvus
+
+  - Traction. 10x growth over the past year
+  - Architectural ownership. The data layer is the asset the
+    company is being built on, and you'll be the one who
+    designs it.
+  - Lean team, high agency. Small team, high bar we set for
+    ourselves, and systems that go from your branch to
+    production without intermediaries.
+industries:
+  - Artificial Intelligence
+  - Sales
+  - Software
+  - Chemical
+posted_date: 2026-10-26
+url: "https://builtin.com/job/sr-backend-engineer/11639283"
+source: Built In

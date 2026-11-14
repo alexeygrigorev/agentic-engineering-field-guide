@@ -1,0 +1,79 @@
+job_id: 7780485
+title: Fullstack Engineer - Cofounder
+company: The General Intelligence Company of New York
+location: New York, USA
+work_type: FULL_TIME
+company_size: 5 Employees
+description: |
+  About Cofounder
+
+  At General Intelligence, we’re building highly-capable
+  autonomous agents for startups. Our goal is to enable the
+  one-person, one-billion-dollar company.
+
+  Our product, Cofounder, enables entrepreneurs to start and
+  run companies. Using it should feel more like a company-
+  building game where users coordinate agents, unlock roadmap
+  nodes, run missions, build artifacts, grow departments, and
+  make revenue go up.
+
+  What you’ll own
+
+  - End-to-end product work across the agent experience: flows,
+    integrations, and UI/UX
+  - Flows: creation, editing, run criteria, execution
+    reliability, and observability
+  - Integrations: add new integrations and deepen existing ones
+  - UI/UX: work on novel, interesting ways of building
+    human<>agent interactions
+  - Product sense for complex UX: making powerful systems feel
+    simple and reliable
+  - Ship features across the stack with a tight feedback loop
+    from real users (frontend + backend)
+  - Improve performance, reliability, and cost across agent runs
+    and flow execution
+  - Build instrumentation, analytics, and developer tooling to
+    speed up iteration
+  - Maintain a high bar for code quality, tests, observability,
+    and documentation
+
+  Requirements
+
+  - 4+ years building and shipping user-facing products end to
+    end
+  - Frontend: React/Next.js (or equivalent), TypeScript;
+    component-driven development, performance profiling,
+    accessibility, data fetching/state, optimistic UI and
+    cache invalidation
+  - Backend: Python FastAPI, background workers/queues,
+    webhooks, Postgres (or similar) schema design,
+    transactions, migrations
+  - Solid testing and observability habits (unit/integration
+    tests, metrics, traces, structured logs)
+  - Bias to ship: scope thin slices, deliver quickly,
+    instrument, iterate
+
+  Nice to have
+
+  - Event-driven architectures, WebSockets/real-time UIs
+  - LLM/agent experience: tool-use patterns, prompt hygiene,
+    guardrails, evaluation
+  - Infra familiarity (Vercel/AWS/Modal/Supabase/Redis Cloud or
+    equivalent), CI/CD, feature flags
+
+  Why join
+
+  - Ship directly to engaged users; your work is visible and
+    high-impact
+  - Build the core of an autonomous agent platform with real
+    integrations and real workloads
+  - Small, elite team; high ownership; fast decisions; zero
+    bureaucracy
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Automation
+posted_date: 2026-08-18
+url: "https://builtin.com/job/fullstack-engineer-cofounder/7780485"
+source: Built In

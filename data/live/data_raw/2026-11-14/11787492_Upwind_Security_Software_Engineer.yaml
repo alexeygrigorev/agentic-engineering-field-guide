@@ -1,0 +1,65 @@
+job_id: 11787492
+title: Software Engineer
+company: Upwind Security
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 243 Employees
+description: |
+  Description
+
+  WHAT YOU’LL DO
+
+  - Develop dashboards to best aid our incident response
+    capabilities
+  - Develop alerts based on SLOs allowing the team to respond to
+    issues quickly
+  - Review logging setup to ensure that understanding the
+    product flow is easy for engineers
+  - Benchmarking cloud disk performance and understand tradeoffs
+    between filesystems
+  - Reviewing security group and network configurations to
+    ensure the least privilege is being requested
+  - Build features in the development codebase from time to time
+  - Update the application code to review logging, metrics,
+    tracing, auth etc.
+  - Reviewing infrastructure costs and looking for potential
+    savings
+  - Write public-facing Terraform and Cloudformation for AWS,
+    GCP and Azure
+  - Work with product development teams to support their IAM
+    needs
+
+  Requirements
+
+  WHAT YOU’LL BRING
+
+  - 4+ years of experience as an engineer working in a cloud
+    environment.
+  - A curious mindset where you like to be challenged to dive
+    deep when required.
+  - Proven, hands-on experience with infrastructure as code in
+    production environments (Terraform, Terragrunt,
+    Cloudformation, CDK, ARM-BICEP etc..).
+  - Some programming experience (Golang or Java preferred).
+  - Scripting/programming skills with Python/Bash/Csh.
+  - An innovative approach, with the ability to quickly learn
+    technologies, and implement cutting edge technologies.
+  - A strong sense of ownership and accountability .
+
+  Advantages
+
+  - Deep knowledge of snapshotting, volumes and encryption on
+    public clouds.
+  - Deep knowledge of filesystems.
+  - Hands on experience with multiple cloud vendors, including
+    cross account IAM and identity federation schemes
+  - Familiarity with deploying serverless functions with
+    multiple Cloud Vendors
+industries:
+  - Productivity
+  - Software
+  - Cybersecurity
+posted_date: 2026-10-21
+url: "https://builtin.com/job/software-engineer/11787492"
+source: Built In

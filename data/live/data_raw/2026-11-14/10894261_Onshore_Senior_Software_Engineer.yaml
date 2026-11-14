@@ -1,0 +1,141 @@
+job_id: 10894261
+title: Senior Software Engineer
+company: Onshore
+location: New York, USA
+work_type: FULL_TIME
+company_size: 85 Employees
+description: |
+  Senior Software Engineer
+
+  About Onshore
+
+  Onshore is the modern standard for U.S. companies claiming
+  the R&D tax credit. We find, document, and defend the tax
+  credits and deductions that farms, manufacturers,
+  architects, and engineers have earned. Claiming the R&D tax
+  credit has historically been an ordeal full of consultants,
+  spreadsheets, and hidden fees. Now, our software and AI-
+  powered solutions read every line of a client's records
+  against the tax code, produce verified computations, and are
+  reviewed by a credentialed tax professional before filing.
+
+  About the team
+
+  Engineering at Onshore is three teams. Platform & Agents
+  builds the infrastructure everyone else runs on: the agent
+  execution framework behind every study, the evaluation
+  harness that proves agent output is correct before an expert
+  sees it, and the tooling operators use to run engagements.
+  Agriculture turns farm records into defensible R&D credit
+  computations and is expanding into livestock, dairy, and
+  soil fertility deductions. Corporate Tax & Compliance is
+  taking
+
+  Onshore from credit studies to the filing itself, with full
+  corporate returns targeting general availability in early
+  2027. You'll own a major surface on one of these teams,
+  matched during the interview process.
+
+  One thing to know before you apply: we run a technical
+  leadership model, not a management track. Everyone here
+  ships code, permanently, by design. Some seniors lead a pod
+  of one to three engineers, and that leadership is scoped,
+  never a promotion off the tools. If you're looking for a
+  stepping stone into pure people management, we're the wrong
+  company, happily and explicitly.
+
+  What you'll do
+
+  - Own a major product surface on one of our three teams and
+    write the code for the parts that can't be wrong
+  - Set the technical bar through your own PRs, not process
+    documents
+  - Optionally lead a pod of one to three engineers: daily code
+    review, weekly 1:1s, and growth accountability, capped so
+    your IC output stays primary
+  - Make build-versus-buy and architecture calls that stick for
+    years
+  - Own and raise the evaluation bar for your surface; the
+    harness is shared, the standard is yours
+  - Work directly with the founders on roadmap; there is no PM
+    layer between you and the business
+
+  About you
+
+  If you meet the minimum requirements, apply. The preferred
+  qualifications are a bonus, not a gate, and we would rather
+  see your work than a perfectly matched resume.
+
+  Minimum requirements
+
+  - 5+ years designing, shipping, and operating production
+    software, including systems you owned end to end.
+  - Strong proficiency in a typed language. We work in
+    TypeScript; deep experience elsewhere with real interest
+    in switching counts.
+  - A track record of leading technical work: architecture that
+    shipped, systems that lasted, engineers who got better
+    because you were there.
+  - High ownership: comfortable with ambiguity, able to define
+    the problem and the plan rather than execute a predefined
+    spec.
+  - You care about correctness beyond what most product
+    engineering demands. Our output is reviewed by tax
+    professionals and filed with the IRS.
+  - Clear, precise communication on technical topics, in writing
+    and in person.
+  - Able to work in person at our New York City office.
+
+  Preferred qualifications
+
+  - Experience building or operating LLM-powered systems in
+    production: agents, evaluation harnesses, structured
+    extraction, or prompt and skill infrastructure.
+  - Experience building platforms or internal tools where other
+    engineers were your customers, and judgment about when to
+    build a primitive versus ship a one-off.
+  - Depth in AWS or comparable cloud infrastructure, especially
+    workflow orchestration, queueing, and relational data at
+    scale.
+  - Compliance-aware system design: audit trails, data lineage,
+    tenant isolation, or work in regulated domains.
+  - A track record of mentoring engineers through code review
+    and technical direction, and of aligning people without
+    direct authority.
+
+  Pay and benefits
+
+  The annual base salary for this role is $225,000, with a
+  total equity grant valued at $100,000. Equity is ISOs valued
+  at our Series B preferred price, on a standard four-year
+  vest with a one-year cliff and early exercise available.
+  Benefits include health, dental, and vision coverage and
+  unlimited PTO.
+
+  Our interview process
+
+  Three conversations, about two hours of live time, with a
+  decision typically one day after each step.
+
+  - Resume deep dive, 30 minutes. We go through your experience
+    and projects at real depth: what you built, the decisions
+    you made, and what you'd do differently. Bring the work
+    you're proud of.
+  - Take-home assessment, then a one-hour review. You build
+    something on your own time, then walk us through it live:
+    your assumptions, patterns, and tradeoffs. We care as much
+    about how you reason through the decisions as the code
+    itself.
+  - Behavioral interview, 30 minutes. How you work, how you
+    handle ambiguity and disagreement, and whether Onshore is
+    the right place for you, in both directions.No six-round
+    gauntlets, no trick questions, no waiting weeks to hear
+    back.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-27
+url: "https://builtin.com/job/senior-software-engineer/10894261"
+source: Built In

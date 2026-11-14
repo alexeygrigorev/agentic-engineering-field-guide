@@ -1,0 +1,155 @@
+job_id: 11116003
+title: Software Engineer
+company: ComPsych
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 851 Employees
+description: |
+  About ComPsych
+
+  ComPsychⓇ is the worldwide leader in organizational mental
+  health, well-being, and absence management, dedicated to
+  igniting human potential in workplaces across the globe. For
+  over 40 years, we have combined the best in technology with
+  unmatched human expertise to help individuals and their
+  organizations thrive. Our GuidanceResourcesⓇ and
+  AbsenceResourcesⓇ solutions deliver end-to-end mental
+  health, well-being, work-life, health navigation, and
+  absence support to more than 75,000 customers worldwide,
+  touching more than 160 million lives across 200 countries.
+  Visit compsych.com to find out why 40% of the Fortune 500
+  choose ComPsych for their mental health and absence
+  management needs.
+
+  About the Role
+
+  We're modernizing how ComPsych builds technology — new
+  customer-facing web and mobile experiences, a unified design
+  system, and AI-powered capabilities across our products.
+  That means raising the engineering bar for how we design,
+  build, and operate software, with Engineering, Product, and
+  Design working together end to end.
+
+  We're looking for a Software Engineer who has hands-on
+  experience with modern, AI-led development practices and
+  wants to help shape how our engineering organization builds
+  software going forward. This is a high-leverage role: you'll
+  spend more time on system design, task decomposition, and
+  technical direction than on writing code line-by-line.
+  You'll use AI tools to generate code, automated tests, and
+  first-pass reviews, then apply your own judgment to validate
+  and refine that output before it ships.
+
+  What You'll Do
+
+  You own a well-scoped feature or component end to end —
+  design, build, test, and how it behaves in production.
+
+  - Plan and design within your scope. You translate
+    requirements into a clear plan and specs an AI agent can
+    execute against, working with Product and Design to
+    clarify what's ambiguous rather than waiting for someone
+    to resolve it.
+
+  - Direct implementation rather than writing it line by line.
+    Break the work into tasks, write the specs, and let AI
+    agents build — and go hands-on in the code when debugging,
+    unfamiliar territory, or a tricky edge case calls for it.
+
+  - Own testing as a design decision. Decide what needs
+    coverage, direct AI to build the tests, and validate that
+    they actually prove what they claim.
+
+  - Review everything with the same rigor, regardless of author.
+    You catch the assumptions AI won't flag on its own, and
+    you're accountable for what ships.
+
+  - Own your feature in production. You deploy through your
+    team's CI/CD pipeline, partner with DevOps rather than
+    treat deployment as someone else's job, and you're the one
+    who responds — and rolls back — when something breaks.
+
+  What We're Looking For
+
+  - You write production services in a modern language such as
+    Java, Python, C#, Kotlin, or Go, and can pick up ours
+    quickly.
+
+  - You build APIs and data models other code depends on — REST
+    contracts, request and response validation,
+    authentication, schema design, indexes, migrations, and
+    SQL that holds up on real volume.
+  - You must have 2 + years of full stack software development
+    experience.
+
+  - You ship and operate your own code in the cloud (AWS or
+    Azure) — containers and CI/CD you can debug when the build
+    or the deploy is what’s broken, plus on-call experience
+    diagnosing a live issue from logs, metrics, and traces.
+
+  - You write real tests, not coverage — unit and integration,
+    with a view on which belongs where and what a test
+    actually proves.
+
+  - You write secure code by default — authorization checks,
+    input validation, secrets handling, least privilege, and
+    no PHI in logs.
+
+  - You reason well about systems, data, and tradeoffs. You can
+    sketch how what you're building fits together, spot where
+    it's likely to fail, and think about who else is affected
+    if it does.
+
+  - Agentic AI is your primary development surface, and you
+    catch what it gets subtly wrong. Not occasional
+    autocomplete, not a hunch — you've shipped production code
+    this way and can point to what you caught before it
+    shipped.
+
+  Bonus: LLM application engineering (RAG, retrieval quality,
+  evals, LLM observability), or modern TypeScript frontend
+  work against a design system.
+
+  Compensation and Benefits
+
+  - Full benefits package, including Paid Time Off (PTO),
+    medical, dental, vision, 401(k) with match, robust EAP,
+    wellness program, and much more
+  - The salary range for this position is $125,000 - $175,000
+    USD. The base salary range represents the anticipated low
+    end and high end of the range for this position. The
+    actual compensation will be influenced by a wide range of
+    factors including, but not limited to previous experience,
+    education, pay market/geography, and scheduled hours.
+
+  EEO
+
+  ComPsych is an equal opportunity employer.  All applicants
+  will be considered for employment regardless of race, color,
+  age, genetics, religion, gender, sexual orientation, gender
+  identity, national origin, disability or protected veteran
+  status and any other characteristic protected by federal,
+  state or local laws. ComPsych Corporation maintains a drug
+  free workplace.
+
+  ComPsych Corporation and its affiliates is committed to the
+  responsible and transparent handling of your personal data.
+  Information collected during the recruitment process will be
+  used to assess your application and, where applicable, to
+  prepare and administer an offer of employment. Your personal
+  data will be processed in accordance with the privacy laws
+  applicable in your country or jurisdiction of residence,
+  which may include the California Consumer Privacy Act
+  (CCPA), the EU General Data Protection Regulation (GDPR),
+  Canada's Personal Information Protection and Electronic
+  Documents Act (PIPEDA) and applicable provincial privacy
+  legislation, and other applicable national or local privacy
+  laws. For full details on what personal data we collect, how
+  we use it, your rights as an Applicant, and how to contact
+  us with privacy-related questions, please review the
+  relevant Applicant Data Privacy Notices: US Applicant Data
+  Privacy Notice & Canada Data Privacy Notice.
+posted_date: 2026-09-10
+url: "https://builtin.com/job/software-engineer/11116003"
+source: Built In

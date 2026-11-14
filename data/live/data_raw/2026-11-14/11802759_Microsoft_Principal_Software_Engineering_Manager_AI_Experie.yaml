@@ -1,0 +1,234 @@
+job_id: 11802759
+title: Principal Software Engineering Manager, AI Experiences - Monetization
+company: Microsoft
+location: Redmond, USA
+locations:
+  - Redmond, USA
+  - New York, USA
+work_type: FULL_TIME
+company_size: 206,870 Employees
+description: |
+  Overview
+
+  As part of Microsoft AI Experiences, the Monetize Platform
+  powers an open, transparent advertising marketplace,
+  connecting advertisers and publishers across thousands of
+  websites and applications. Its buy-side and sell-side
+  technology enables customers to access and trade premium
+  advertising inventory efficiently and at global scale.
+
+  The Monetize Real-time Platform executes dynamic advertising
+  auctions in less than 100 milliseconds, handles more than 8
+  million queries per second and approximately 100 billion
+  requests per day, and generates more than 150 TB of new data
+  daily. Its distributed systems support auction execution, ad
+  delivery, and marketplace accounting under demanding
+  performance and reliability constraints.
+
+  We are seeking a Principal Software Engineering Manager to
+  lead the Infrastructure, Operations and Shared Tech team.
+  The team’s scope spans foundational infrastructure,
+  production operations, and selected shared software services
+  and libraries that power the real-time platform. These
+  capabilities include distributed caching, model and
+  configuration distribution, low-latency decision-service
+  integration, traffic management, and high-volume logging and
+  streaming pipelines.
+
+  You will combine people leadership with deep technical
+  judgment to advance platform architecture, operational
+  excellence, and engineering productivity across hybrid on-
+  premises and Azure environments. You will guide engineers
+  working on performance-sensitive C/C++ services, shared-
+  runtime modernization, distributed-cache migrations, and the
+  integration of model-backed capabilities into real-time
+  serving.
+
+  This role requires a leader who can connect infrastructure
+  decisions to application behavior and business outcomes. You
+  will own the team’s roadmap and delivery, develop engineers,
+  and partner across platform, product, machine learning, and
+  infrastructure teams to deliver reliable shared capabilities
+  that make the broader engineering organization more
+  effective.
+
+  Microsoft’s mission is to empower every person and every
+  organization on the planet to achieve more. As employees we
+  come together with a growth mindset, innovate to empower
+  others, and collaborate to realize our shared goals. Each
+  day we build on our values of respect, integrity, and
+  accountability to create a culture of inclusion where
+  everyone can thrive at work and beyond.
+
+  AI Experiences employees who live within a 50- mile commute
+  of a designated Microsoft Hub in the U.S. are expected to
+  work from the office at least four days per week. This
+  expectation is subject to local law and may vary by
+  jurisdiction.
+
+  Responsibilities
+
+  - Lead and develop engineers. Hire, coach, and grow a team
+    spanning infrastructure, operations, and shared-platform
+    software. Establish clear expectations, support career
+    development, and foster an inclusive culture of technical
+    excellence and accountability.
+  - Own the team’s roadmap and delivery. Translate platform and
+    product needs into priorities, architectural plans, and
+    measurable outcomes. Balance feature delivery with
+    reliability, security, technical debt, infrastructure
+    cost, and operational sustainability.
+  - Guide shared-platform architecture. Lead the design and
+    evolution of reusable services, libraries, interfaces, and
+    runtime components used across real-time applications.
+    Establish clear ownership boundaries and maintain
+    compatibility as systems evolve.
+  - Advance low-latency software engineering. Guide improvements
+    in concurrency, asynchronous execution, memory safety,
+    data structures, and resource efficiency for high-
+    throughput Linux services. Maintain a high bar for design
+    reviews, code quality, and automated testing.
+  - Modernize distributed caching and state services. Lead
+    client and server integration, migration, capacity
+    planning, replication, failover, and observability for
+    cache-backed serving capabilities. Ensure predictable
+    behavior under timeouts, partial failures, and changing
+    workloads.
+  - Enable model-backed serving and traffic management. Partner
+    with machine learning and auction teams to integrate model
+    scores and decisions into real-time services, including
+    traffic shaping and dynamic pricing capabilities. Preserve
+    latency budgets, decision correctness, fallback behavior,
+    and experimentation controls.
+  - Evolve logging and streaming infrastructure. Improve high-
+    volume data collection, buffering, batching, transport,
+    and downstream integration. Address throughput,
+    backpressure, data integrity, and recovery across
+    distributed pipelines.
+  - Lead safe infrastructure modernization. Deliver
+    infrastructure-as-code and shared-service migrations to
+    Azure through staged validation, controlled cutovers, and
+    practical rollback plans. Coordinate dependencies across
+    networking, storage, and data-platform teams.
+  - Drive operational excellence. Improve service-level
+    objectives, monitoring, alerting, diagnostics, and on-call
+    practices. Guide incident response and blameless
+    postmortems, turning recurring production issues into
+    durable engineering improvements.
+  - Improve developer productivity and secure delivery. Advance
+    build systems, CI/CD, deployment automation, configuration
+    management, and reusable tooling. Embed security and
+    privacy requirements into application and infrastructure
+    design.
+
+  Qualifications
+
+  Required Qualifications:
+
+  - Bachelor's Degree in Computer Science or related technical
+    field AND 6+ years technical engineering experience with
+    coding in languages including, but not limited to, C, C++,
+    C#, Java, JavaScript, or Python
+    - OR equivalent experience.
+
+  Preferred Qualifications:
+
+  - Master's Degree in Computer Science or related technical
+    field AND 8+ years technical engineering experience with
+    coding in languages including, but not limited to, C, C++,
+    C#, Java, JavaScript, or Python
+    - OR Bachelor's Degree in Computer Science or related
+      technical field AND 12+ years technical engineering
+      experience with coding in languages including, but not
+      limited to, C, C++, C#, Java, JavaScript, or Python
+    - OR equivalent experience.
+  - 3+ years of people management experience leading software
+    engineering teams, including coaching, performance
+    management, and career development.
+  - Experience designing, delivering, and operating large-scale
+    distributed systems, including performance-sensitive
+    backend services.
+  - Experience leading cross-team engineering initiatives
+    involving shared platforms, infrastructure, or production-
+    service modernization.
+  - Solid understanding of software architecture and production
+    reliability, including concurrency, resource management,
+    and distributed-system failure modes.
+  - Experience with high-performance C/C++ software on Linux,
+    including multithreading, asynchronous I/O, memory
+    ownership, profiling, and efficient data structures.
+  - Experience building shared libraries or foundational
+    services adopted by multiple engineering teams, including
+    interface evolution and backward compatibility.
+  - Experience with distributed caches or key-value systems such
+    as Aerospike, Garnet, Redis, or comparable technologies,
+    including replication, failover, capacity planning, and
+    client integration.
+  - Experience with Kafka or comparable streaming systems and
+    high-throughput logging or data-distribution pipelines.
+  - Experience integrating machine learning scores or model-
+    backed decisions into latency-sensitive production
+    services; model-training experience is not required.
+  - Experience with traffic shaping, rate limiting, admission
+    control, or other mechanisms for balancing throughput,
+    capacity, and business value.
+  - Experience operating Azure and hybrid infrastructure,
+    including virtual machine scale sets, networking, storage,
+    and infrastructure-as-code technologies such as Terraform
+    or Bicep.
+  - Experience with configuration management tools such as
+    Puppet or comparable systems, CI/CD pipelines, and
+    automated build and test environments.
+  - Experience delivering migrations using feature flags,
+    experimentation, shadow traffic, staged rollouts, and
+    rollback strategies.
+  - Experience with observability technologies such as Grafana
+    or OpenTelemetry and with service-level objectives,
+    incident management, and operational automation.
+  - Experience with advertising auctions, pricing, inventory-
+    quality controls, or other high-volume real-time
+    transaction systems.
+
+  #AIX
+
+
+
+  Software Engineering M5 - The typical base pay range for
+  this role across the U.S. is USD $142,800 - $274,800 per
+  year. There is a different range applicable to specific work
+  locations, within the San Francisco Bay area and New York
+  City metropolitan area, and the base pay range for this role
+  in those locations is USD $188,000 - $304,200 per year.
+
+
+
+  Certain roles may be eligible for benefits and other
+  compensation. Find additional benefits and pay information
+  here: https://careers.microsoft.com/us/en/us-corporate-pay
+
+  This position will be open for a minimum of 5 days, with
+  applications accepted on an ongoing basis until the position
+  is filled.
+
+  Microsoft is an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to age, ancestry, citizenship, color, family or
+  medical care leave, gender identity or expression, genetic
+  information, immigration status, marital status, medical
+  condition, national origin, physical or mental disability,
+  political affiliation, protected veteran or military status,
+  race, ethnicity, religion, sex (including pregnancy), sexual
+  orientation, or any other characteristic protected by
+  applicable local laws, regulations and ordinances. If you
+  need assistance with religious accommodations and/or a
+  reasonable accommodation due to a disability during the
+  application process, read more about requesting
+  accommodations.
+industries:
+  - Software
+  - Quantum Computing
+  - Metaverse
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-11-11
+url: "https://builtin.com/job/principal-software-engineering-manager/11802759"
+source: Built In

@@ -1,0 +1,134 @@
+job_id: 12119542
+title: Product Engineer, Full-Stack
+company: Granted
+location: New York, USA
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  💡 Mission
+
+  The US healthcare system is complex, error-prone, and
+  financially draining. Medical bills and insurance coverage
+  shouldn't be this hard to navigate. At Granted, we're
+  building the one solution every American can turn to for
+  help.
+
+  Thanks to AI and new regulations, Granted can fight claim
+  denials, correct billing errors, negotiate bills, and make
+  coverage easier to understand, saving people time, money,
+  and energy. Our goal is simple: to be the platform that
+  empowers all Americans to take charge of their healthcare.
+
+  🩺 About Us
+
+  Founded by a former Oscar Health leader, we're a seed-stage
+  company with $17M in funding. We're lucky to be backed by
+  the founders and investors at Hugging Face, Rocket Money,
+  Oscar Health, CaseText, Forerunner Ventures, RRE Ventures,
+  and more. We are well-funded and have solid runway.
+
+  Bill lowering is the hook. People come to us when they have
+  a bill they can't afford or don't understand. Granted checks
+  it, catches errors, overcharges and denials, secures
+  financial assistance, and negotiates with providers. That
+  earns us the right to be connected to their insurance and
+  their patient data, and from there Granted runs in the
+  background, proactively monitoring every bill to help
+  patients lower and pay what they owe.
+
+  🔎 About the Role
+
+  Our Growth & Engagement pod builds the experience people
+  have when they first meet Granted and the reasons they keep
+  coming back. We're building a consumer-first product that
+  makes navigating bills and benefits intuitive, transparent,
+  and even delightful.
+
+  As a product engineer on this team, you'll ship across the
+  stack with a lean toward the frontend (roughly 70% frontend,
+  30% backend). You’ll use new AI-native software paradigms,
+  leveraging the frontier of software development tooling to
+  build a world class application. You'll work closely with
+  Product, Design, and senior engineers on the pod, owning
+  features from idea to production, with plenty of room to
+  grow your scope as you ramp.
+
+  📖 Read more about our stack and Eng culture here
+
+  🚀 What You'll Do
+
+  - Build and ship user-facing experiences across web and
+    mobile, from onboarding and activation flows to core
+    engagement loops
+  - Own features end-to-end: shape the UX with Product and
+    Design, build the APIs and data models behind them, and
+    ship to production
+  - Turn AI capabilities into clear, intuitive product surfaces
+    that help users understand and resolve their healthcare
+    bills
+  - Run fast experiments, measure what works, and iterate on
+    what moves activation and retention
+  - Raise the quality bar on our frontend: performance,
+    accessibility, and consistency with our design system
+
+  🧪 What You Might Work On
+
+  - Onboarding and account-linking flows that get users from
+    sign-up to their first savings faster
+  - The in-app AI chat experience, including richer, visual
+    responses and smoother streaming UX
+  - Home and case views that show users exactly where their
+    bills stand and what Granted is doing for them
+  - Re-engagement surfaces and notifications that bring users
+    back when there's something new to act on
+  - Coverage and plan pages that make benefits easier to
+    understand
+
+  🛠 Tech Stack
+
+  - TypeScript frontend & backend
+  - React Native, NextJS, NestJS, GraphQL
+  - Postgres, amplitude, sentry, datadog
+  - Temporal, Pulumi, Docker, AWS
+
+  👩‍💻 You'll Bring
+
+  Must-haves
+
+  - 2+ years of full-stack engineering experience shipping
+    consumer-facing products
+  - Strong TypeScript and React skills, with a real eye for UX
+    and product detail
+  - Solid backend experience: you've built your own APIs and
+    worked with relational databases (we're not fixated on
+    GraphQL or a specific DB)
+  - Product instinct: you think in user journeys, not just
+    tickets, and can push back on requirements when something
+    doesn't make sense
+  - Curiosity about building with AI and LLMs, whether or not
+    you've done it professionally yet
+  - Comfort in fast-paced, high-autonomy environments, with
+    clear communication and a hunger to grow into more scope
+
+  Nice-to-haves
+
+  - React Native or other mobile experience
+  - Experience with NestJS/Node, GraphQL, or NextJS
+  - Experience running growth experiments (A/B tests, funnels,
+    analytics instrumentation)
+  - Exposure to AWS or infrastructure-as-code (e.g. Pulumi)
+  - Background in healthcare, fintech, or other regulated
+    consumer products
+
+  📢 You don't need to check every single box. If you're
+  passionate, driven, and excited about the impact AI can make
+  on the healthcare system, we'd love to hear from you!
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Insurance
+  - Mobile
+  - Financial Services
+posted_date: 2026-11-07
+url: "https://builtin.com/job/product-engineer-full-stack/12119542"
+source: Built In

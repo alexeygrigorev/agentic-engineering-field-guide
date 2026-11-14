@@ -1,0 +1,143 @@
+job_id: 10060943
+title: Software Engineer, Ontology
+company: Fluidstack
+location: Austin, USA
+locations:
+  - Austin, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 30 Employees
+description: |
+  About Fluidstack
+
+  We exist to make humanity more free. For most of human
+  history, you farmed or you starved. Technology gave people
+  more time for the things they wanted to do, instead of
+  things they had to do. Powerful AI will be the biggest lever
+  for human choice we've ever built - but only if models are
+  aligned with what humanity actually wants. There are groups
+  building AI who don't share these goals. Whoever deploys
+  frontier compute infrastructure fastest will decide whether
+  AI expands human freedom or shrinks it.
+
+  We're singularly focused on delivering 10 to 100s of GWs of
+  compute faster than anyone else, rethinking every layer of
+  the stack. We acquire power, design and build data centers,
+  and operate them - with teams spanning hardware and
+  software. Speed and scale are our key differentiators. Come
+  be a part of building civilization-scale infrastructure for
+  AI.
+
+  We hire people who care deeply about this problem space. If
+  that is you, please apply!
+
+  How We Operate
+
+  - Be a barrel. Full autonomy. Own things end to end, take on
+    scope without being asked, no permission required to
+    operate outside your core role.
+  - Insane urgency. We drive everything forward as fast as
+    possible.
+  - Reason from first principles. Challenge every assumption.
+    Zero analogy thinking, no egos, the best idea wins.
+  - Love of the game. The frontier of AI is the most interesting
+    problem of our time. We put in long hours at high
+    intensity to push the frontier forward.
+  - Build something that actually matters. If you're going to
+    spend your time, spend it on something that matters to the
+    world.
+
+  The Ontology Team
+
+  Examples of key problems the team is working on
+
+  - Reduce the latency from something happening to Fluidstack
+    knowing about it. Index operational systems, documents,
+    conversations, and telemetry as they change, so a delayed
+    shipment or a rack coming online becomes usable context
+    while there is still time to act.
+  - Give every entity in Fluidstack's domain a shared identity.
+    Connect a machine’s design, order, delivery, deployment,
+    and incidents even when each system describes it
+    differently.
+  - Turn what Fluidstack knows into business signals. Compare
+    plans with observations across sites, supply chains, and
+    compute operations, and surface the gaps that matter as
+    the company builds at gigawatt scale.
+  - Build a secure platform where agents can be first-class
+    citizens. Give agents access within each user’s
+    permissions, with every answer traceable to its sources,
+    freshness, and gaps in the evidence.
+
+  Role Scope
+
+  - Build the index and graph engine that connect Fluidstack’s
+    operational data, documents, and conversations as new
+    information arrives.
+  - Define the entities, relationships, and identity rules that
+    let teams contribute knowledge about sites, equipment,
+    orders, and incidents.
+  - Detect meaningful changes and publish evidence-backed
+    signals when observed state diverges from plan.
+  - Give engineers and agents fast, authorized ways to query the
+    business, with clear provenance and freshness on every
+    answer.
+  - Measure change-to-knowledge latency, answer quality, and
+    signal quality against real operational questions and
+    events.
+
+  What We're Looking For
+
+  The below is a starting point. We always make space for
+  exceptional people, so if you don't fit this role exactly,
+  tell us where you would.
+
+  - You’ve built and operated a foundational data system that
+    multiple teams relied on to make decisions or run critical
+    workflows.
+  - You’ve made heterogeneous data sources work as one coherent
+    model that people and software can rely on.
+  - You’ve built data platforms with extensible models that let
+    other teams bring new domains and questions into the
+    system.
+  - You’ve built systems that turn a continuous stream of
+    changes into timely, reliable signals for operations.
+  - You’ve worked directly with domain experts to define what
+    their data means and which changes matter.
+  - You’ve made hard calls between correctness, freshness, query
+    speed, and access control, then revised those choices
+    using production evidence.
+  - Bonus: Temporal data models (Datomic, EAVT). Search and
+    retrieval over unstructured data. Database or indexing
+    internals. Formal ontology and semantic web standards
+    (RDF, OWL, SHACL, SPARQL). Physical infrastructure or
+    inventory systems.
+
+  We are committed to pay equity and transparency.
+
+  Fluidstack is an Equal Employment Opportunity Employer. All
+  qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  national origin, sexual orientation, gender identity,
+  disability and protected veterans’ status, or any other
+  characteristic protected by law. Fluidstack will consider
+  for employment qualified applicants with arrest and
+  conviction records pursuant to applicable law.
+
+  Applicant Privacy Notice AI Screening Notice Ashby Bias
+  Audit
+
+  You will receive a confirmation email once your application
+  has successfully been accepted. If there is an error with
+  your submission and you did not receive a confirmation
+  email, please email careers@fluidstack.io with your
+  resume/CV, the role you've applied for, and the date you
+  submitted your application-- someone from our recruiting
+  team will be in touch.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-08-27
+url: "https://builtin.com/job/platform-engineer/10060943"
+source: Built In

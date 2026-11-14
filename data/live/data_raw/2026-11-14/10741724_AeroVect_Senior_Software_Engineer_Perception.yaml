@@ -1,0 +1,57 @@
+job_id: 10741724
+title: Senior Software Engineer, Perception
+company: AeroVect
+location: ITA
+locations:
+  - ITA
+  - POL
+  - Atlanta, USA
+  - Paris, FRA
+  - London, GBR
+  - South San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  Who We Are
+
+  AeroVect is transforming ground handling with autonomy,
+  redefining how airlines and ground service providers around
+  the globe run day-to-day operations. We are a Series A
+  company backed by top-tier venture capital investors in
+  aviation and autonomous driving. Our customers include some
+  of the world’s largest airlines and ground handling
+  providers. For more information, visit www.aerovect.com.
+
+  You will
+
+  - Train, deploy and monitor 2D/3D object detection models
+    (Camera, LiDAR, Radar)
+  - Build and maintain data collection, labeling and evaluation
+    (metrics) pipeline
+  - Maintain proprietary multi-modal dataset for training and
+    evaluation
+  - Architect a deterministic secondary perception system
+  - Mentor junior engineers about best practices
+
+  You have
+
+  - Bachelor’s or Master’s degree in Computer Science, Robotics,
+    Deep Learning, or a related field
+
+  - 3+ years of focused experience in perception (sensing,
+    preprocessing, detection, tracking)
+  - Python, C++ and ROS2 proficiency
+  - The ability to work autonomously
+
+  We Prefer
+
+  - PhD in Computer Science, Robotics, or a related discipline
+  - Previous experience working with autonomous robots
+  - Experience developing CUDA kernels
+industries:
+  - Aerospace
+  - Automation
+posted_date: 2026-08-19
+url: "https://builtin.com/job/senior-software-engineer-perception/10741724"
+source: Built In

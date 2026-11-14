@@ -1,0 +1,178 @@
+job_id: 11668737
+title: Senior Software Engineer II - FX Markets
+company: Wise
+location: London, GBR
+work_type: FULL_TIME
+company_size: 9,000 Employees
+description: |
+  Company Description
+
+  Wise is a global technology company, building the best way
+  to move and manage the world’s money. Min fees. Max ease.
+  Full speed.
+
+  Whether people and businesses are sending money to another
+  country, spending abroad, or making and receiving
+  international payments, Wise is on a mission to make their
+  lives easier and save them money.
+
+  As part of our team, you will be helping us create an
+  entirely new network for the world's money. For everyone,
+  everywhere.
+
+  More about our mission and what we offer.
+
+  Job Description
+
+  We are looking for a Senior Software Engineer II with deep
+  systems thinking, data engineering expertise, and a product-
+  oriented mindset to join our Treasury FX function — spanning
+  both the Market Data and Risk Engineering teams.
+
+  Our team builds the real-time infrastructure that powers
+  Wise's FX pricing, risk management, and trade execution. We
+  aggregate market data from Bloomberg and Reuters, compute
+  live exposure and VaR, execute hedges worth tens to hundreds
+  of millions of pounds daily, and protect the business from
+  adverse currency movements. Our systems are tier- 1 and
+  serve 50+ internal consumers with sub-second freshness
+  across 50+ currency pairs.
+
+  You will be the technical anchor across both engineering
+  teams, owning the architectural direction of 14+ production
+  services, from rate ingestion and distribution, through
+  real-time risk calculation, to automated hedge execution.
+  The primary mission: build Wise's first semi-automated trade
+  and hedge execution platform in close coordination with FX
+  dealers, quantitative researchers, and treasury controllers.
+
+  We operate on a strong belief in automation, programmatic
+  implementation, and reusable design. We're looking for
+  people who can step back and think holistically about the
+  ecosystem, but also follow through and help implement the
+  design; drawing on the resources across the rest of the
+  Finance & Treasury tribe.
+
+  Our stack is polyglot and modern: Java 21 + Spring Boot 4.x,
+  Python 3.12,  Apache Flink  (streaming), Kafka, gRPC +
+  Protobuf, and Bloomberg/Reuters real-time feeds. This isn't
+  typical CRUD — it's real-time financial infrastructure where
+  a 1bps improvement in hedging efficiency saves millions.
+
+  We need a seasoned engineer who can architect streaming data
+  pipelines, collaborate with quants on model
+  productionisation, drive reliability across mission-critical
+  systems, and translate complex business requirements from
+  traders and risk managers into elegant technical solutions.
+
+  What will you be working on?
+
+  You will own the technical direction and architectural
+  evolution of Wise's FX engineering stack, with immediate
+  focus on:
+
+  - Architecting a semi-automated hedge execution platform,
+    from exposure decomposition through model-driven hedge
+    proposals to programmatic trade execution on external
+    partners
+  - Building real-time streaming pipelines with Apache Flink for
+    portfolio-split exposure computation, tenor interpolation,
+    and hedge lifecycle event processing
+  - Evolving our rate infrastructure for 10x throughput with FX
+    Forwards, new corridors, NDFs and work on cross-provider
+    deviation alerting
+  - Building production infrastructure for quant models for VaR,
+    beta-adjusted exposure management, dynamic pricing and FRP
+    cancellations.
+  - Owning Kafka topology design and schema evolution across the
+    full pipeline: rate ingestion → risk calculation → trade
+    execution → analytics
+  - Driving technical roadmap across both teams, mentoring
+    IC2/IC3 engineers, and leading incident response for
+    Tier-1 critical services
+
+
+
+  Qualifications
+
+
+
+  We acknowledge that engineers continuously evolve their
+  skillsets, and we are committed to supporting your growth.
+  However, we are looking for candidates who can bring these
+  core skills to the table:
+
+  - 8+ years of professional software engineering experience,
+    ideally in financial systems, trading, or real-time data
+    infrastructure
+  - Deep expertise in Java (17+) with Spring Boot in high-
+    throughput production environments
+  - Extensive experience with Apache Kafka, topic design, schema
+    evolution, consumer group management at scale
+  - Strong data engineering skills, building real-time streaming
+    pipelines with Apache Flink, Kafka Streams, or equivalent
+  - Proven track record designing and operating distributed
+    systems processing millions of events per day
+  - Demonstrated ability to own system reliability end-to-end:
+    SLOs, alerting, incident response, disaster recovery
+  - Experience leading technical design of complex multi-service
+    architectures and influencing without direct authority
+  - Exceptional product mindset — able to translate business
+    requirements from traders, operations, and quants into
+    technical strategy
+  - Track record of mentoring senior and junior engineers and
+    raising team-wide engineering standards
+
+  The successful candidate will onboard as the technical
+  anchor for both FX engineering teams, bringing architectural
+  leadership and deep systems expertise while contributing to
+  the transformative impact our platform has on Wise's FX
+  operations.
+
+
+
+
+
+  Additional Information
+
+  Interested? Find out more:
+
+  - Wise’s Mission
+  - Wise: Moving money around the world
+  - Our quarterly Mission updates
+  - How We Work and our Values
+  - Building diverse product teams at Wise
+  - Our Engineering career map
+
+  ...or check out our Engineering blog.
+
+  What do we offer:
+
+  - Starting salary: £111,000-£145,000 + RSU
+  - Wise Benefits
+
+  For everyone, everywhere. We're people building money
+  without borders  — without judgement or prejudice, too. We
+  believe teams are strongest when they are diverse, equitable
+  and inclusive.
+
+  We're proud to have a truly international team, and we
+  celebrate our differences. Inclusive teams help us live our
+  values and make sure every Wiser feels respected, empowered
+  to contribute towards our mission and able to progress in
+  their careers.
+
+  If you want to find out more about what it's like to work at
+  Wise visit Wise.Jobs.
+
+  Keep up to date with life at Wise by following us on
+  LinkedIn and Instagram.
+industries:
+  - Fintech
+  - Mobile
+  - Payments
+  - Software
+  - Financial Services
+posted_date: 2026-10-28
+url: "https://builtin.com/job/senior-software-engineer-ii-fx-markets/11668737"
+source: Built In

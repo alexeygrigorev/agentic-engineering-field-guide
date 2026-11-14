@@ -1,0 +1,224 @@
+job_id: 12155453
+title: Engineering Manager (Infrastructure)
+company: Pivotal Health
+location: New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 65 Employees
+description: |
+  About Pivotal Health
+
+  Pivotal Health is the leading technology platform that helps
+  healthcare providers get paid fairly in an increasingly
+  complex reimbursement landscape.
+
+  Today, many providers face persistent underpayment from
+  health insurance companies, despite delivering high-quality
+  care. While processes like IDR (Independent Dispute
+  Resolution) were designed to promote fairness, they’re often
+  administrative-heavy, time-consuming, and difficult to
+  navigate without the right tools.
+
+  Pivotal Health combines software, data, and service into a
+  seamlessly integrated, AI-driven platform that simplifies
+  these complex reimbursement workflows. We help providers
+  efficiently dispute underpaid claims, reduce administrative
+  burden, and recover the reimbursement they’re entitled to;
+  without adding more work to already stretched teams.
+
+  Our full-service IDR solution is just the starting point.
+  We’re building solutions that enable providers to operate
+  with clarity, control, and confidence across the
+  reimbursement journey.
+
+  About the Role
+
+  We're looking for an Engineering Manager to lead our
+  Infrastructure team as we grow. You'll own the
+  infrastructure, deployment pipelines, and reliability behind
+  Pivotal's platform: infrastructure as code, CI/CD (the
+  automated pipelines that test and ship code), uptime,
+  monitoring, alerting, and observability.
+
+  The work runs on two tracks. You'll keep today's systems
+  healthy on GCP with Terraform, GitHub, and serverless Cloud
+  Run, and you'll lead the building of an agentic-first CI/CD
+  workflow, where AI agents carry routine delivery work like
+  speculative deployments and new dev environments. The team's
+  on-call rotation is already in place and mostly runs during
+  working hours.
+
+  This is a high-accountability, player-coach role. Our
+  engineers across the company depend on the platform you run,
+  and the problems are often ambiguous. You'll lead an
+  experienced team working closely with engineering partners
+  across Product Engineering, Data Science, and AI Platform,
+  and stay close enough to the technical work to guide
+  architecture and debug production issues alongside the team.
+  The right person will find that combination energizing.
+
+  This is a small team with real ownership and no bureaucracy,
+  so decisions reach production quickly. You'll thrive here if
+  you use AI every day, debug production issues to root cause,
+  and explain your reasoning clearly.
+
+  What You'll Do Lead the team
+
+  - Lead an experienced engineering team: Set clear priorities,
+    coach engineers, create accountability, and make sound
+    decisions while preserving the rigorous technical debate
+    that makes the team stronger.
+  - Grow and structure the team: Hire additional engineers and
+    establish the roles, ownership boundaries, and operating
+    practices the team needs as its scope expands.
+  - Drive predictable delivery: Turn ambiguous infrastructure
+    and platform problems into clear plans, sequence the work,
+    manage dependencies, and make sure the team ships
+    meaningful improvements consistently.
+  - Balance building and maintaining: Keep the systems we run
+    today stable while the team builds what comes next, and
+    make the tradeoffs between the two explicit.
+
+  Own the platform
+
+  - Own infrastructure as code: Ensure Pivotal's Terraform on
+    GCP keeps every environment reproducible, reviewed, and
+    version controlled.
+  - Own CI/CD: Run the pipelines that take code from GitHub to
+    production on Cloud Run, and keep them fast, reliable, and
+    easy for engineers to use.
+  - Build the agentic-first CI/CD workflow: Lead the design of
+    delivery workflows where AI agents handle routine work,
+    including speculative deployments and spinning up new dev
+    environments.
+  - Drive uptime and reliability: Keep production healthy, drive
+    production issues to root cause, and make sure the
+    underlying cause is fixed so the same problem does not
+    return.
+  - Define monitoring, alerting, and observability: Build the
+    signals that tell us something is wrong before our
+    customers do, and tune alerts so they are worth waking up
+    for.
+  - Run a healthy on-call rotation: Support the team's on-call
+    rotation, participate as needed, and improve it as you
+    learn where it hurts.
+  - Shape the technical direction: Guide architecture and
+    scaling decisions for deployment systems and GCP
+    infrastructure, bringing a clear point of view and
+    partnering with engineers across the company in
+    architecture reviews.
+
+  Use AI to stay close to the work
+
+  - Automate toil with AI: Find manual, repetitive
+    infrastructure work and replace it with AI-driven
+    automation, and use AI-enabled development tools in your
+    own daily work to explore ideas, prototype solutions, and
+    contribute directly when doing so accelerates the team or
+    improves a technical decision.
+
+  Who You Are
+
+  - 8+ years supporting highly available production systems,
+    including debugging production issues under pressure
+  - 1-3 years as a tech lead and/or engineering manager
+  - Hands-on infrastructure experience, including Infrastructure
+    as Code with Terraform, and enough technical depth to
+    guide architecture, evaluate tradeoffs, and earn the trust
+    of experienced engineers
+  - Observability and on-call experience
+  - Working experience with GCP, GitHub, and serverless
+    platforms like Cloud Run
+  - Real day-to-day AI fluency
+  - Experience on a small team where you owned systems end to
+    end rather than one narrow slice of a large organization
+  - Experience leading through ambiguity, forming clear points
+    of view without waiting for every question to be resolved
+  - Experience managing an experienced, opinionated team,
+    creating clarity and making decisions without shutting
+    down productive disagreement
+  - A clear communicator who can explain technical tradeoffs to
+    engineers and non-engineers alike, and create alignment
+    across Engineering, Product, and other partners
+
+  Extra credit if you have:
+
+  - Experience leading architecture and scaling decisions for
+    deployment systems
+  - Experience scaling an early engineering team
+  - A startup or agency background working across many different
+    stacks and problems
+  - Experience building AI-agent-driven or AI-assisted developer
+    workflows
+  - Experience in healthcare, provider reimbursement, revenue-
+    cycle management, claims, or Independent Dispute
+    Resolution
+
+  Why You’ll Love Working Here
+
+  We’re a collaborative, low-ego team on a mission to make
+  healthcare reimbursement fairer for providers. While we
+  primarily hire around our core hubs–Los Angeles and New
+  York–we remain open to exceptional talent outside those
+  regions. Remote and hybrid flexibility varies by role and
+  team, and is outlined in each job description.
+
+  If you’re excited by solving complex problems and making a
+  real-world impact, we’d love to hear from you.
+
+  Benefits Include:
+
+  - Competitive compensation, including equity
+  - Full health, dental, and vision coverage
+  - Retirement savings plan through 401(k)
+  - Flexible time off
+  - Opportunities for company-wide connection and events
+
+  Ready to Make an Impact? We’re building something
+  meaningful; and we want you on the team.
+
+  Bring your ideas, curiosity, and drive, and let’s transform
+  healthcare reimbursement together.
+
+  Employment Information
+
+  Work Authorization
+
+  Candidates must be authorized to work in the United States
+  without current or future employer sponsorship.
+
+  Equal Employment Opportunity
+
+  Pivotal Health is an Equal Opportunity Employer. We
+  celebrate diversity and are committed to creating an
+  inclusive environment for all employees. We do not
+  discriminate on the basis of race, color, religion, sex,
+  gender identity or expression, sexual orientation, national
+  origin, age, disability, veteran status, or any other
+  legally protected status.
+
+  Reasonable Accommodations
+
+  Pivotal Health provides reasonable accommodations for
+  qualified individuals with disabilities in accordance with
+  applicable laws. If you need assistance during the
+  application or interview process, please let us know.
+
+  Background Checks
+
+  Employment is contingent upon successful completion of
+  applicable background checks, where permitted by law.
+
+  At-Will Employment
+
+  Employment with Pivotal Health is at-will and may be
+  terminated by either party at any time, with or without
+  cause or notice, in accordance with applicable law.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Machine Learning
+  - Software
+posted_date: 2026-11-10
+url: "https://builtin.com/job/engineering-manager-infrastructure/12155453"
+source: Built In

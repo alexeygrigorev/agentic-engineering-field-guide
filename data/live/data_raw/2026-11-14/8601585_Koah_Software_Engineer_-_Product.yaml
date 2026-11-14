@@ -1,0 +1,71 @@
+job_id: 8601585
+title: Software Engineer - Product
+company: Koah
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 17 Employees
+description: |
+  Who We Are Koah Labs is building the ad network to power the
+  next generation of AI-native products. Our mission is to
+  help publishers monetize and help advertisers reach the
+  right audience — without compromising speed, UX, or privacy.
+
+  We’re a small, tight-knit team in San Francisco with
+  backgrounds at X, Apple, Meta and early-stage startups.
+  We’ve raised from top investors and are growing fast with
+  real traction on both the publisher and advertiser sides of
+  the marketplace.
+
+  Working at Koah means joining at the ground floor: you’ll
+  ship code that shapes the company and the ecosystem we’re
+  building. We move quickly, operate with high trust, and care
+  deeply about craft.
+
+  Our Stack
+
+  - Infra: Terraform, AWS, LGTM (Loki, Grafana, Tempo, Mimir),
+    Tailscale, Cloudflare
+  - Data: PostgreSQL, ClickHouse, Redis, Kafka, Python
+  - Core Application: Ruby on Rails, React, TypeScript
+  - SDKs: iOS, Android, Web, Flutter, React Native
+
+  In this role, you will:
+
+  - Help shape the foundation of our engineering organization
+
+  - Lead initiatives across the stack, with high agency in
+    product direction and technical design
+  - Dive deeply into technically challenging and rewarding work,
+    whether it is optimizing our matching algorithms or
+    creating world class experiences that reach millions of
+    users
+  - Partner with cross functional stakeholders in data and GTM
+    to drive product direction that our customers need
+  - Embrace an experimentation mindset - we are constantly
+    trying to learn about how users are interacting with AI-
+    native products, and use data from these experiments to
+    drive our work.
+
+  You might thrive in this role if you:
+
+  - Have experience building and scaling production quality
+    systems and experiences
+  - Are comfortable working across the stack, tackling new tasks
+    out of your comfort zone, and can handle ambiguity
+  - Work well in-person and enjoy fast feedback loops
+  - Enjoy breaking down problems and testing your hypotheses
+  - Get excited about end-to-end ownership within high agency
+    environments
+  - Have been a startup founder or an early-stage engineer
+industries:
+  - AdTech
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Generative AI
+posted_date: 2026-08-24
+url: "https://builtin.com/job/software-engineer-product/8601585"
+source: Built In

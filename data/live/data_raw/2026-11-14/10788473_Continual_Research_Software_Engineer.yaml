@@ -1,0 +1,95 @@
+job_id: 10788473
+title: Software Engineer
+company: Continual Research
+location: New York, USA
+work_type: FULL_TIME
+company_size: 5 Employees
+description: |
+  The next quant firm is a learning system. We’re building an
+  investment firm around an AI researcher that tests
+  investment ideas and carries what it learns into the next
+  experiment.
+
+  We’re a team of researchers and engineers in New York, and
+  we work in person. We’re curious about how things work,
+  quick to put ideas to the test, and willing to question our
+  own assumptions. Build the researcher with us.
+
+  The Role
+
+  You will engineer the systems powering the core agentic
+  research layer, the automated trading system, and the
+  world's best data registry for alpha research. We're an AI-
+  native company, so we're interested in people who can design
+  systems at different levels of abstraction. You should be
+  comfortable building both the system and the system that
+  builds the system. You should have a clear view of how the
+  team can keep the system durable when code can be generated
+  without supervision at superhuman speeds (and we'll ask you
+  what it is!).
+
+  As a member of the founding team, you'll directly impact
+  every level of the business, from product strategy to team
+  culture.
+
+  What you'll do
+
+  - Stand up core infrastructure from scratch: experiment
+    execution environments, compute orchestration, storage,
+    observability, and the deployment pipeline that moves
+    research into production
+  - Build the tooling that agents depend on: sandboxed code
+    execution, data access layers, backtest engines, and
+    interfaces that make agents productive rather than
+    dangerous
+  - Own reliability in production. Design the monitoring,
+    alerting, and failure recovery for systems where mistakes
+    cost real money
+  - Make data a first-class product: ingestion from messy vendor
+    feeds, validation, versioning, point-in-time correctness,
+    and fast discovery for both humans and agents
+  - Establish the engineering practices of an AI-native
+    codebase: harnesses, evals, CI, and review processes that
+    let generated code ship fast without rotting the system
+  - Work directly with researchers and quants, shortening the
+    loop from idea to running experiment to deployed strategy
+
+  What we're looking for
+
+  - 2-5 years of experience building and shipping at an early-
+    stage tech startup (ideally in AI or fintech, especially
+    trading or investments) or at a quant fund
+  - Strong track record building production systems: distributed
+    pipelines, data platforms, low-latency services, or
+    infrastructure for ML and agentic workloads
+  - You use AI heavily in your own work and have formed opinions
+    from it. You know where generated code is leverage and
+    where it's liability, and you can articulate how a small
+    team keeps a fast-growing codebase coherent
+  - You default to shipping. Given ambiguity, you produce a
+    working system and iterate, rather than waiting for
+    requirements to firm up
+  - Low ego, high standards, fast execution
+
+  Compensation
+
+  - Salary of $150,000/year to $250,000/year
+  - Generous equity in the company
+  - Company-subsidized health insurance including medical,
+    vision, and dental
+  - HSA, FSA, dependent care FSA, and 401(k) plans provided
+  - Regular wellness, commuter and learning subsidies
+
+  We are a small founding team with unusually deep experience
+  across machine learning, hedge fund technology, and
+  investment management. We recently raised a seed round from
+  Gradient Ventures and other investors. Join our founding
+  team to build the future of investing!
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Machine Learning
+  - Financial Services
+posted_date: 2026-08-21
+url: "https://builtin.com/job/founding-software-engineer/10788473"
+source: Built In

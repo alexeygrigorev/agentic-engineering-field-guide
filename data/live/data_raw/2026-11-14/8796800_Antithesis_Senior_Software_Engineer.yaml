@@ -1,0 +1,80 @@
+job_id: 8796800
+title: Senior Software Engineer
+company: Antithesis
+location: London, GBR
+work_type: FULL_TIME
+company_size: 42 Employees
+description: |
+  About Antithesis
+
+  We've been quietly reinventing how the world thinks about
+  software reliability, and we're just getting started! At
+  Antithesis, we start at the foundations – we run entire
+  software systems inside a deterministic simulation and break
+  them in every way imaginable. Every issue then comes with a
+  perfect reproduction, so you can identify root causes fast
+  instead of spending days trying to recreate what went wrong.
+
+  The rise of AI-generated code has made this work more urgent
+  than ever. Agents can write code faster than any human, but
+  speed doesn't matter much when the output is buggy, stuck in
+  review, or slipping through undetected. The verification
+  bottleneck is real, it's growing, and solving it is one of
+  the most consequential problems in software right now.
+  That's what you'd be working on.
+
+  We're well-funded and deeply technical, the kind of place
+  where the hardest problems get the most attention and the
+  best ideas win regardless of who has them. If you want to do
+  work that actually moves the needle on how reliable software
+  can be, keep reading.
+
+  About the Role
+
+  We're looking for engineers in the Senior to Staff levels to
+  build the future of autonomous testing. No matter your
+  particular field of experience, if you've been ambitiously
+  building complex software and think you could be a fit; drop
+  us a note.
+
+  In this role you will be part of the team that maintains our
+  open-source project Bombadil
+  (https://github.com/antithesishq/bombadil). This includes
+  working with the specification language and verifier,
+  Chromium automation, advanced property-based testing,
+  frontend development, and much more.
+
+  Must have for this role:
+
+  - Proficient in Rust development
+  - Experience with property-based testing or fuzzing
+  - Comfortable with web technology (browsers, HTTP, HTML,
+    Javascript, CSS)
+
+  Experience that would be a plus:
+
+  - Chrome Devtools Protocol, Playwright, Cypress, or Selenium
+  - Formal specification languages (e.g. TLA+ or some LTL)
+  - Implementing parsers, type systems, and interpreters
+
+  About Our Team
+
+  Our team spans CS degrees, philosophy, mathematics, and
+  everything in between, or nothing formal at all. What
+  everyone shares is a high bar for engineering quality. We
+  work in-person because it's how we build trust and tackle
+  hard problems together.
+
+  Location: This position is full time in the office in
+  London, UK.
+
+  Visa Sponsorship: We are unable to provide visa sponsorship
+  or immigration support for this position. Candidates must be
+  authorized to work in the applicable country without current
+  or future sponsorship requirements.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-08-22
+url: "https://builtin.com/job/senior-staff-engineer-bombadil/8796800"
+source: Built In

@@ -1,0 +1,119 @@
+job_id: 8515664
+title: Full Stack Engineer, ML Platform
+company: Prior Labs
+location: Berlin, DEU
+locations:
+  - Berlin, DEU
+  - Freiburg im Breisgau, DEU
+work_type: FULL_TIME
+company_size: 11 Employees
+description: |
+  Who we are
+
+  Foundation models transformed text and images. Structured
+  data - the largest and most consequential data format in the
+  world - stayed untouched, until now. What LLMs did for
+  language, we're doing for tables.
+
+  We pioneered tabular foundation models: TabPFN v2 was a
+  Nature cover story, has passed 3.5M+ downloads and 7,500+
+  GitHub stars, and runs in production from detecting lung
+  disease with Oxford Cancer Analytics to preventing train
+  failures with Hitachi. The hardest problems - millions of
+  rows, real-time inference, entirely new modalities - are
+  still open, and no one else is working on them at this
+  level.
+
+  We're a small, highly selective team of 40+ with backgrounds
+  from Google, DeepMind, Meta, Apple, Amazon, Jane Street, and
+  CERN, led by Frank Hutter, Noah Hollmann, and Sauraj
+  Gambhir, and advised by Bernhard Schölkopf and Turing Award
+  winner Yann LeCun.
+
+  In July 2026, less than 18 months after our €9M pre-seed, we
+  joined SAP as an independent frontier AI lab - same team,
+  mission, and open-weights models, now backed by more than €1
+  billion over four years.
+
+  About the role
+
+  We’re looking for exceptional engineers to help build the ML
+  Platform that powers our tabular foundation model line. This
+  is a unique chance to work at the intersection of data
+  science, agents, UX, and real-world economic impact.
+
+  You'll work on the product end-to-end: frontend, backend,
+  and everything in between.
+
+  What you'll work on:
+
+  - Build the core platform that puts tabular foundation models
+    into users' hands — from data upload and exploration
+    through inference and results
+  - Architect reliable, low-latency backend services that handle
+    real-time model inference at scale
+  - Work directly with the research team to turn new model
+    capabilities into production features
+  - Own the frontend experience for technical users (data
+    scientists, ML engineers) who have high expectations and
+    low tolerance for friction
+
+  You may be a good fit if you have:
+
+  - 3+ years building highly-available, user-facing products
+    across the full stack, with real ownership of what shipped
+  - Experience building data-intensive applications (dashboards,
+    analytics tools, data exploration interfaces, or similar)
+  - Strong JavaScript/TypeScript and Python — you're genuinely
+    good at both, not just passable in one
+  - Good product instincts — you think about what the user
+    actually needs, not just what the ticket says
+  - Comfort working close to ML systems, even if you're not
+    training models yourself — you understand model inputs,
+    outputs, and failure modes well enough to build reliable
+    interfaces around them
+  - Enthusiasm for working in a fast-moving, ambiguous
+    environment where new ideas ship quickly and user impact
+    matters most
+
+  Bonus:
+
+  - Cloud infrastructure experience (GCP preferred)
+  - Background building developer tools, data platforms, or ML-
+    adjacent products
+  - Experience with React, FastAPI, and Postgres (our current
+    stack)
+
+  Life at Prior Labs
+
+  You'll work alongside researchers and builders who hold
+  themselves to a very high bar - in the quality of their work
+  and in how they work with each other. We move fast and still
+  take the time to do things right.
+
+  Our teams are based in Berlin, Freiburg, and New York - when
+  you're working on something as hard as TabPFN, being in the
+  same room matters. But great people come from everywhere,
+  and in exceptional cases we're open to remote, which usually
+  means frequent travel to one of our offices. Wherever you're
+  based, the whole company comes together regularly for
+  offsites to build and celebrate together.
+
+  Our Commitments
+
+  The best products and teams are built by people with a wide
+  range of perspectives and backgrounds. We welcome
+  applications from all identities and walks of life -
+  especially if you've ever felt discouraged by "not checking
+  every box" - and provide equal opportunities regardless of
+  gender, sexual orientation, origin, disability, or any other
+  trait that makes you who you are.
+
+  We care about how your data is handled - see our Recruiting
+  Data Privacy page
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-08-16
+url: "https://builtin.com/job/full-stack-engineer-ml-platform/8515664"
+source: Built In

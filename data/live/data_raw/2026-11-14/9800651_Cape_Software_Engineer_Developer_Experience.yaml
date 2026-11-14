@@ -1,0 +1,231 @@
+job_id: 9800651
+title: Software Engineer, Developer Experience
+company: Cape
+location: New York, USA
+work_type: FULL_TIME
+company_size: 105 Employees
+description: |
+  About Cape
+
+  Cape is America’s privacy-first mobile carrier. Our mission
+  is to be a force for good in global wireless. Cape was
+  founded in 2022 by people who believe privacy is a
+  fundamental right, not a luxury to be traded away. Our
+  journey began when our founder recognized a critical
+  vulnerability in our modern world: everyone relies on the
+  same stagnant cellular infrastructure and legacy systems
+  that track our every movement, monitor and profile our
+  connections, and lose and sell our personal data.
+
+  Instead of accepting the status quo, we decided to fix it.
+  National security professionals, journalists, parents, and
+  everyone in between can stay connected and have privacy.
+
+  We didn’t just build a layer on top of old tech; we built
+  America’s most private and secure mobile carrier from the
+  ground up. By building our own network from scratch, we are
+  able to design and build a suite of privacy and security
+  features that no other carrier on the planet can offer.
+
+  Today, Cape provides our secure network to consumers,
+  businesses, and government agencies alike. We closed our
+  Series C in March 2026, and we are scaling rapidly, with the
+  goal of giving people back control of their most personal
+  information.
+
+  The Team
+
+  At Cape, we are the architects of a privacy-centric movement
+  that is just getting started. We are relentless builders,
+  constantly innovating at the edge of what's possible in
+  telecommunications. We operate on a foundation of high trust
+  and high expectations. Our structure is flat, and
+  collaboration matters more than hierarchy. As a member of
+  our team, you will collaborate with world-class engineers,
+  architects, and visionaries, and work across organizational
+  lines to solve "impossible" problems and deliver mission-
+  critical results for our users every single day.
+
+  The Role
+
+  Cape's engineering team is small by design and ambitious by
+  nature. We build cryptographic primitives, 5G core network
+  functions, zero-trust edge systems, and threat detection
+  pipelines — problems that don't have StackOverflow answers.
+  The people doing that work deserve an environment that gets
+  out of their way.
+
+  As a Developer Experience Engineer, your job is to make
+  Cape's engineers measurably faster, less frustrated, and
+  more confident in what they ship. That means owning the
+  internal platforms, tooling, and workflows that engineering
+  depends on — from CI/CD pipelines and local development
+  environments to AI-assisted development workflows, test
+  infrastructure, and release processes. This is not a support
+  role. It is a product role where the customer is the
+  engineering organization, the product is the development
+  loop, and quality is measured in time-to-merge, build
+  reliability, AI-augmented velocity, and the number of times
+  an engineer has to context-switch to deal with
+  infrastructure instead of product.
+
+  You will work across the full engineering organization —
+  embedded closely with platform, product, and security teams
+  — and report to engineering leadership. Your impact will be
+  felt by every engineer at Cape.
+
+  What You'll Work On
+
+  Developer Tooling and Environments:
+
+  - Build and maintain the internal tooling, scripts, and SDKs
+    that Cape engineers use daily — from project scaffolding
+    and local dev setup to testing utilities and debugging
+    aids
+  - Own the local development environment story: containerized
+    setups, secrets management, service dependencies, and
+    onboarding time for new engineers
+  - Evaluate and introduce new tools thoughtfully — instrument
+    adoption, gather feedback, and deprecate what isn't
+    working
+  - Write the documentation and runbooks that make complex
+    infrastructure accessible to engineers who shouldn't need
+    to become infrastructure experts to use it
+  - Design and implement infrastructure that enables engineers
+    to go from code to deployed artifact quickly and with high
+    confidence, regardless of which product surface they're
+    working on
+  - Drive reliability improvements that eliminate common failure
+    modes: flaky tests, non-reproducible builds, slow
+    pipelines, and environment drift between local and CI
+
+  AI Tooling and AI-Assisted Development:
+
+  - Own Cape’s AI-assisted development strategy — evaluate,
+    integrate, and configure AI coding tools (code completion,
+    automated review, agentic coding assistants) so engineers
+    get high-quality suggestions that respect our security and
+    compliance requirements
+  - Build guardrails and context systems that make AI tools
+    effective in Cape’s codebase — prompt engineering for
+    internal tooling, retrieval-augmented generation over
+    internal docs, and repository-aware configurations that
+    keep AI suggestions relevant and safe
+  - Measure the productivity impact of AI tooling rigorously —
+    track adoption, code acceptance rates, time savings, and
+    quality metrics to separate hype from genuine acceleration
+  - Stay ahead of the rapidly evolving AI development tooling
+    landscape and bring informed recommendations to
+    engineering leadership on what to adopt, what to build
+    internally, and what to avoid
+
+  Engineering Culture and Standards:
+
+  - Identify patterns of friction across the engineering
+    organization through observation, surveys, and direct
+    partnership with teams — then prioritize and eliminate
+    them
+  - Contribute to engineering standards around testing, code
+    review, and deployment practices that help Cape's
+    engineers ship with speed and confidence
+  - Set a high bar for the developer experience through your own
+    work — write code that other engineers will be glad to
+    depend on
+
+  Experience
+
+  - 4+ years of software engineering experience, with meaningful
+    time spent on internal platforms, developer tooling, or
+    infrastructure
+  - A track record of identifying developer friction, building
+    solutions, and measuring the improvement — not just
+    shipping tooling
+  - Fluency in at least one modern backend language — Go is
+    strongly preferred; Python, TypeScript, or Rust also
+    welcome
+  - Hands-on experience improving and optimizing CI/CD systems
+    (GitHub Actions, Buildkite, Bazel, or similar) at
+    engineering-team scale
+  - Strong understanding of containerization and orchestration:
+    Docker, Kubernetes, or other containers.
+  - Strong written and verbal communication skills — you can
+    explain infrastructure tradeoffs to engineers who didn't
+    ask for a lecture and write docs that actually get read
+
+  Nice to Have
+
+  - Experience building developer platforms in security-
+    constrained environments (FedRAMP, DISA STIGs, or
+    government compliance frameworks)
+  - Familiarity with software supply chain security: artifact
+    signing (Sigstore, Cosign), SBOM generation, dependency
+    auditing
+  - Experience at a high-growth startup where the engineering
+    team scaled rapidly and tooling had to keep pace
+  - Background in observability tooling: distributed tracing,
+    metrics pipelines, and making complex systems legible to
+    engineers
+  - Experience integrating AI coding assistants (GitHub Copilot,
+    Claude Code, Cursor, or similar) into engineering
+    workflows, including prompt tuning, context management,
+    and measuring productivity impact
+  - Active U.S. security clearance or eligibility and
+    willingness to obtain one
+
+  Compensation
+
+  We offer competitive compensation that is geo-adjusted based
+  on your location, along with meaningful equity so you share
+  in the value you help create. Salary range for this role in
+  New York, New York is $225,000-$275,000 depending on
+  experience and interview performance.
+
+  Our benefits include:
+
+  - 401(k) match
+  - 100% coverage of medical, dental, and vision premiums for
+    you and your dependents
+  - 12 weeks paid parental leave (for all parents, no waiting
+    period)
+  - Stipends for
+    - Family-forming needs
+    - Gender-affirming care
+  - Unlimited PTO
+
+  Our Culture & Values
+
+  - We hire excellent people, give them outsized responsibility,
+    and trust them to execute. Every person at Cape has a
+    proven track record of tackling hard problems and winning.
+  - We believe that personal privacy and national security are
+    not at odds, and that they can be reconciled through
+    strong technology.
+  - We believe companies exist to build awesome things and take
+    care of the people who build them, so we offer top-tier
+    healthcare, 401(k) matching, and a generous vacation
+    policy that our team actually uses to recharge.
+  - We believe that a stronger company and a better product are
+    built by people from all walks of life. We hire without
+    regard to race, color, ancestry, religion, sex, national
+    origin, sexual orientation, gender identity, age, marital
+    status, disability, or Veteran status. If you are great at
+    what you do, you belong here.
+
+  How to apply
+
+  Click the link below to apply.
+
+  We reserve the right to make use of any unsolicited resumes
+  received from outside recruiting agencies and / or
+  individual recruiters without being responsible for payment
+  of any fees asserted from the use of unsolicited resumes.
+
+  We are an Equal Opportunity Employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, sexual orientation,
+  gender identity, or national origin, and without regard to
+  disability or status as a protected veteran, or any other
+  status protected by law.
+posted_date: 2026-08-08
+url: "https://builtin.com/job/senior-software-engineer-developer-experience/9800651"
+source: Built In

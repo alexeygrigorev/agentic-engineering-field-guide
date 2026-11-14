@@ -1,0 +1,195 @@
+job_id: 10337743
+title: Senior Software Engineer- Billing Product
+company: CoreWeave
+location: Bellevue, USA
+locations:
+  - Bellevue, USA
+  - New York, USA
+work_type: FULL_TIME
+company_size: 1,450 Employees
+description: |
+  CoreWeave is The Essential Cloud for AI™. Built for pioneers
+  by pioneers, CoreWeave delivers a platform of technology,
+  tools, and teams that enables innovators to build and scale
+  AI with confidence. Trusted by leading AI labs, startups,
+  and global enterprises, CoreWeave combines superior
+  infrastructure performance with deep technical expertise to
+  accelerate breakthroughs and turn compute into capability.
+  Founded in 2017, CoreWeave became a publicly traded company
+  (Nasdaq: CRWV) in March 2025. Learn more at
+  www.coreweave.com.
+
+  What You'll Do:
+
+  The Billing team is the steward of CoreWeave's revenue
+  trust. We build services that make billing auditable,
+  accurate, and clear, so CoreWeave can close deals, turn
+  usage into cash, and help customers manage their spend with
+  confidence. This role is on the Billing Product sub-team,
+  which owns customer-facing surfaces, including console
+  dashboards, exports, and APIs, as well as the backend that
+  makes them trustworthy: supply and demand matching, revenue
+  recognition verification, and the metering-to-invoicing
+  pipeline.
+
+  About the Role:
+
+  As a Senior Engineer, you own backend Go services end-to-
+  end. You'll enable CoreWeave to capture every dollar, then
+  make that revenue’s lineage complete, drillable, and SOX-
+  compliant. You'll also be a technical leader, raising the
+  bar for a team of engineers and owning money-critical
+  services: SLAs, production hardening, observability, and on-
+  call. Expect hands-on Go, API, and data-model design, and
+  close work with RevOps, Accounting, Finance, and Product.
+
+  In this role, you will:
+
+  - Own backend Go services end-to-end: demand and capacity
+    matching, fulfillment and delivery verification, the
+    metering-to-invoicing pipeline, and APIs where customers
+    see their usage, costs, and invoices
+  - Ensure audit-grade lineage so every billed dollar traces
+    back to verified usage
+  - Own the design and build of internal services that enable
+    Capacity, Product, and other stakeholder teams to drive
+    efficiency
+  - Raise the reliability bar: set SLAs, harden services, add
+    observability, and mature on-call
+  - Drive technical initiatives and mentor engineers as the team
+    grows its Go and production skills
+
+  Who You Are:
+
+  - You've shipped and scaled business critical, financially
+    compliant services
+  - You have drafted and owned SLAs/SLOs, observability tooling,
+    and sustainable on-call
+  - You have a sharp sense for correctness and prioritize
+    accuracy, completeness, and penny-precision.
+  - You design and evolve APIs and data models–versioning,
+    backwards compatibility, dependent team coordination, etc.
+
+  Preferred:
+
+  - Production engineering: infra, metrics, tracing, and running
+    money-critical services
+  - Data engineering: telemetry ingestion, metering pipelines,
+    warehouse/SQL
+  - Billing, metering, rating/invoicing, and / or FinOps (e.g.,
+    FOCUS exports)
+
+  Wondering if you're a good fit? We believe in investing in
+  our people, and value candidates who can bring their own
+  diversified experiences to our teams – even if you aren't a
+  100% skill or experience match. Here are a few qualities
+  we've found compatible with our team. If some of this
+  describes you, we'd love to talk.
+
+  - You build trustworthy systems, where correctness and clarity
+    come before new features
+  - You've helped a team level up–better reliability, cleaner
+    operations–and you like to mentor
+  - You care about the person spending the money: clear errors,
+    sensible defaults, answers they can find themselves
+
+  Why CoreWeave?
+
+  At CoreWeave, we work hard, have fun, and move fast! We're
+  in an exciting stage of hyper-growth that you will not want
+  to miss out on. We're not afraid of a little chaos, and
+  we're constantly learning. Our team cares deeply about how
+  we build our product and how we work together, which is
+  represented through our core values:
+
+  - Be Curious at Your Core
+  - Act Like an Owner
+  - Empower Employees
+  - Deliver Best-in-Class Client Experiences
+  - Achieve More Together
+
+  We support and encourage an entrepreneurial outlook and
+  independent thinking. We foster an environment that
+  encourages collaboration and enables the development of
+  innovative solutions to complex problems. As we get set for
+  takeoff, the organization's growth opportunities are
+  constantly expanding. You will be surrounded by some of the
+  best talent in the industry, who will want to learn from
+  you, too. Come join us!
+
+  The base salary range for this role is $182,000 to $242,000.
+  The starting salary will be determined based on job-related
+  knowledge, skills, experience, and market location. We
+  strive for both market alignment and internal equity when
+  determining compensation. In addition to base salary, our
+  total rewards package includes a discretionary bonus, equity
+  awards, and a comprehensive benefits program (all based on
+  eligibility).
+
+  What We Offer
+
+  In addition to a competitive salary, we offer a variety of
+  benefits to support your needs. The benefits below reflect
+  our US-based offerings for full-time employees; for roles in
+  other locations, benefits vary and are shared during the
+  hiring process. These include:
+
+  - Medical, dental, and vision insurance - 100% paid for by
+    CoreWeave
+  - Company-paid Life Insurance
+  - Voluntary supplemental life insurance
+  - Short and long-term disability insurance
+  - Flexible Spending Account
+  - Health Savings Account
+  - Tuition Reimbursement
+  - Ability to Participate in Employee Stock Purchase Program
+    (ESPP)
+  - Mental Wellness Benefits through Spring Health
+  - Family-Forming support provided by Carrot
+  - Paid Parental Leave
+  - Flexible, full-service childcare support with Kinside
+  - 401(k) with a generous employer match
+  - Flexible PTO
+  - Catered lunch each day in our office and data center
+    locations
+  - A casual work environment
+  - A work culture focused on innovative disruption
+
+  California Applicants
+
+  California Consumer Privacy Act
+
+  Equal Opportunity & Accommodations
+
+  CoreWeave is an equal opportunity employer, committed to
+  fostering an inclusive and supportive workplace. All
+  qualified applicants and candidates will receive
+  consideration for employment without regard to race, color,
+  religion, sex, disability, age, sexual orientation, gender
+  identity, national origin, veteran status, or genetic
+  information.
+
+  As part of this commitment and consistent with the Americans
+  with Disabilities Act (ADA), CoreWeave will ensure that
+  qualified applicants and candidates with disabilities are
+  provided reasonable accommodations for the hiring process,
+  unless such accommodation would cause an undue hardship. If
+  reasonable accommodation is needed, please contact:
+  careers@coreweave.com.
+
+  Export Control Compliance
+
+  This position requires access to technology and/or source
+  code subject to U.S. export control laws. Any such access
+  will be provided only in compliance with applicable U.S.
+  export control requirements. As part of the recruitment
+  process, CoreWeave may request limited information
+  reasonably necessary to assess applicable export-control
+  requirements.
+industries:
+  - Cloud
+  - Information Technology
+  - Machine Learning
+posted_date: 2026-08-18
+url: "https://builtin.com/job/senior-software-engineer-billing-product/10337743"
+source: Built In

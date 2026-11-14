@@ -1,0 +1,127 @@
+job_id: 9267721
+title: "Staff Backend & Platform Engineer – FinOps, IAM & Blockchain"
+company: Moonshot
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 63 Employees
+description: |
+  Moonshot is the “Robinhood for DeFi”—an iOS and Android app
+  that lets anyone trade cryptocurrencies on-chain through a
+  user-friendly interface.
+
+  Since our launch in July 2024, we’ve attracted 2M+ users.
+
+  Our mission: Make moonshots possible for everyone.
+
+  Our vision: Make a world where life-changing financial
+  outcomes are within everyone's reach.
+
+  Everyone on our team is both a decision-maker and an
+  implementer—united by a sense of urgency and driven by the
+  conviction that our work can transform global finance. If
+  you thrive on curiosity, welcome tough challenges, and
+  aspire to leave a meaningful mark on the world, Moonshot is
+  the place for you. You’ll run toward the hardest problems
+  alongside high-caliber teammates who consistently push each
+  other to excel and who share your dedication to shaping the
+  future of decentralized finance.
+
+  This role is full-time, preferably located in NYC. Open to
+  remote for the right candidate.
+
+  The Opportunity
+
+  As a Staff Backend & Platform Engineer at Moonshot, you’ll
+  own some of the most critical systems in our stack: identity
+  and access, funds movement and ledgering, and the blockchain
+  infrastructure that powers our on-chain trading. This role
+  is similar to staff engineers at leading crypto wallets and
+  exchanges who own authentication stacks, key management, and
+  high-scale financial backends. You’ll design, build, and
+  operate systems that must be both highly reliable and
+  extremely secure, enabling product teams to move quickly on
+  a solid foundation.
+
+  What You’ll Do
+
+  - Design, build, and operate Identity & Access Management
+    services:
+    - Authentication flows, sessions, device trust.
+    - Authorization and entitlements (roles, permissions,
+      policies).
+    - Security controls such as MFA and key management (working
+      with security teams).
+  - Own financial operations systems:
+    - Transfers and payments orchestration.
+    - Ledgering and reconciliation flows.
+    - Limits, risk controls, and transactional correctness.
+  - Build and maintain blockchain infrastructure:
+    - Node and RPC management.
+    - Transaction submission, monitoring, and retry logic.
+    - Indexing and streaming of on-chain data into internal
+      services and data stores.
+  - Define and uphold reliability and observability standards:
+    - SLOs and error budgets for core services.
+    - Dashboards, alerts, runbooks, and incident management
+      practices.
+  - Lead large, cross-functional technical projects from design
+    through rollout, collaborating with Product, Security, and
+    Ops.
+  - Mentor and guide other engineers, contributing to
+    engineering standards, design reviews, and documentation.
+  - Stay close to industry best practices in auth, key
+    management, and secure infrastructure for crypto and
+    trading.
+
+  What We Look For in You
+
+  - 5–12+ years of backend or product or platform engineering,
+    including experience with high-scale, high-availability
+    systems in fintech, crypto, or similar domains.
+  - Deep expertise in at least one of:
+    - Identity & access / security engineering
+    - Financial systems / ledgering / payments
+    - Blockchain infrastructure / on-chain data
+  - Strong experience designing and operating distributed
+    systems (datastores, queues, streaming, background
+    workers).
+  - Track record driving architecture decisions and seeing them
+    through implementation and adoption.
+  - Strong operational mindset: monitoring, on-call, incident
+    response, and postmortems.
+  - Excellent collaboration skills, especially with Product,
+    Security, and Ops.
+
+  Nice to Haves
+
+  - Experience with Flutter, React Native, React, Headless CRMs
+  - Experience with Go, Rust, Solana
+  - Experience with Google Cloud or Amazon Web Services
+  - Experience with crypto wallets, exchanges, or onchain
+    protocols including DeFi, L2s, ZK
+  - Exposure to data warehousing and analytics for financial
+    reporting.
+  - Contributions to open-source projects.
+
+  Location
+
+  - NYC preferred (with periodic in-person sprints).
+  - Remote-friendly within the United States and Canada; travel
+    ~1wk/quarter
+
+  Compensation & Package
+
+  - Competitive salary and meaningful equity.
+  - 5% 401(k) match.
+  - Health benefits with employer-covered premiums, plus life
+    insurance coverage.
+  - One-time office setup stipend.
+  - Flexible PTO.
+industries:
+  - Fintech
+  - Cryptocurrency
+  - Web3
+posted_date: 2026-08-12
+url: "https://builtin.com/job/staff-backend-platform-engineer-finops-iam-blockchain/9267721"
+source: Built In

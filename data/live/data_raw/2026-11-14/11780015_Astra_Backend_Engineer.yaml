@@ -1,0 +1,143 @@
+job_id: 11780015
+title: Backend Engineer
+company: Astra
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 38 Employees
+description: |
+  About Astra
+
+  Astra is building mission-critical infrastructure for moving
+  money at scale. Our platform processes billions in annual
+  transaction volume with 99.9%+ uptime, powering real-time
+  transfers, bank debits, card disbursements, and complex
+  financial compliance systems. We provide APIs and automation
+  tools that enable businesses to move money programmatically
+  while maintaining strict regulatory requirements.
+
+  The Role
+
+  We're looking for a Backend Engineer to build and ship
+  features across the financial systems that move real money
+  every day. You'll join a small team of experienced engineers
+  working on our distributed microservices architecture,
+  taking on features across payments, fraud detection,
+  compliance, and user management from design through
+  production.
+
+  This role is for an engineer who already delivers
+  independently and is ready to take on broader scope. You'll
+  work on larger, cross-domain problems, get real exposure to
+  architecture decisions, and grow quickly in a domain where
+  correctness and reliability matter.
+
+  What You’ll Do
+
+  - Own features end to end: Design, build, test, and deploy
+    backend features and services across payments, fraud,
+    compliance, and user management, then run and monitor what
+    you ship
+  - Integrate with financial partners and APIs: Build and
+    maintain integrations with banks, card networks, and other
+    third-party services, handling the edge cases that money
+    movement demands
+  - Contribute to design: Write and review technical designs for
+    your own work, participate in architecture discussions,
+    and learn how our domain-driven, event-driven approach
+    fits together
+  - Improve performance and reliability: Find and fix
+    bottlenecks and failure modes across our microservices,
+    and help raise the quality of our tests and observability
+  - Collaborate across teams: Work closely with product and
+    compliance to turn business and regulatory requirements
+    into working software
+
+  What We’re Looking For
+
+  Required Experience
+
+  - 3+ years of professional software engineering experience
+    building production backend systems
+  - Track record of delivering features independently, from
+    ambiguous requirements to production, with sound judgment
+    on when to ask for help
+  - Solid foundation in algorithms, data structures, and
+    computer science fundamentals
+  - Working experience with distributed systems, event-driven
+    architectures, or microservices
+  - Ability and willingness to travel up to ~15% annually
+
+  Education
+
+  - Bachelor's degree in Computer Science, Engineering, or a
+    related field, or equivalent practical experience. We care
+    more about demonstrated ability than credentials.
+
+  Technical Skills
+
+  - Backend development: Python 3 and web frameworks and APIs
+    (we use Flask)
+  - Databases: Experience with SQL and NoSQL databases
+  - Cloud infrastructure: Google Cloud Platform, or similar
+    cloud platforms
+  - Architecture patterns: Familiarity with domain-driven
+    design, clean architecture, and CQRS is a plus
+
+  Preferred Experience
+
+  - Financial systems: Payment processing, fraud detection, or
+    compliance systems
+  - Financial regulations: Familiarity with AML, KYC, PCI DSS,
+    or similar regulations
+  - Banking integrations: Experience with financial APIs and
+    money movement systems (ACH, card networks)
+  - Third-party integrations: Experience building and
+    maintaining integrations with external services
+  - Scale and reliability: Experience with systems processing
+    high transaction volumes
+
+  Why This Role Matters
+
+  - Direct impact: You'll be a big part of a small engineering
+    team building systems that power a growing fintech
+    platform
+  - Complex problems: Work on sophisticated challenges that few
+    engineers get to solve
+  - Room to grow: A path to broader scope and, over time,
+    technical leadership as the team scales
+  - Financial innovation: Build systems that enable new
+    financial products and services
+
+  What We Offer
+
+  - Competitive compensation with equity in a growing fintech
+    company.
+  - Remote-first culture with flexible working arrangements
+  - Small team, big impact — your work directly supports Astra’s
+    ability to scale responsibly
+  - Mission-driven — build infrastructure that powers financial
+    innovation while meeting the highest regulatory standards
+
+  Remote Work and Culture
+
+  Astra is a remote-first company hiring only within the U.S.
+  We value thoughtful collaboration, clarity, and initiative.
+  We’re proud to be an equal opportunity employer and are
+  committed to building a diverse and inclusive team.
+
+  How to Apply
+
+  - We're looking for engineers who are excited by complex
+    systems problems and have the educational background and
+    experience to handle sophisticated challenges.
+  - If you're passionate about building mission-critical
+    financial infrastructure and want to have a direct impact
+    on our technical direction, we'd love to hear from you.
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-10-20
+url: "https://builtin.com/job/backend-engineer/11780015"
+source: Built In

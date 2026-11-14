@@ -1,0 +1,167 @@
+job_id: 9379511
+title: Staff Software Development Engineer in Test (SDET)
+company: Assured
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 98 Employees
+description: |
+  Assured is on a mission to modernize insurance. Claims
+  processing (i.e. should we pay this claim?), while often
+  overlooked, is the foundation of the entire industry. It’s
+  currently highly manual, involving phone calls, faxes, and
+  gut instinct, costing tens of billions of dollars a year. We
+  can do better.
+
+  At Assured, we provide large insurers with the software
+  solutions they need to win in a modern, technology-driven
+  world. From self-service claim-filing software to backend
+  fraud detection, we’re the engine that powers claims
+  processing for some of the largest insurers in the world.
+
+  The challenges we face are deep and diverse, from creating
+  digital experiences that provide comfort and clarity to
+  claimants at their most stressed and vulnerable to
+  orchestrating large-scale ML-driven decision-making on
+  billions of dollars of claims payments, life at Assured is
+  dynamic, collaborative, and rewarding.
+
+  As a Staff SDET, you’ll be embedded within a product
+  engineering pod, working day to day alongside its engineers
+  and product partners. You’ll build automated testing and
+  evaluation systems for traditional software and AI-powered
+  products using TypeScript, modern test automation, and
+  emerging AI evaluation techniques.
+
+  Some of the Problems You'll Solve:
+
+  🤖 Evaluate AI systems that don’t produce the same result
+  twice. Build evaluation frameworks for LLM and agentic
+  applications using statistical QA, LLM-as-a-judge
+  techniques, trace evaluations, and human-in-the-loop
+  annotations.
+
+  🧠 Create test suites that become smarter over time. Explore
+  self-healing automation and use LLMs to generate, execute,
+  diagnose, and maintain tests as applications evolve.
+
+  🧱 Build reliable automation across the product. Develop
+  scalable TypeScript frameworks for UI, API, end-to-end, and
+  integration testing.
+
+  ⚙️ Make automated testing a dependable part of delivery.
+  Integrate fast, stable test suites into CI/CD pipelines and
+  give engineers clear feedback before changes reach
+  production.
+
+  🐞 Turn test failures into useful signals. Investigate
+  failures, reduce flaky tests, identify root causes, and
+  distinguish product defects from automation issues.
+
+  How You'll Make an Impact:
+
+  🧪 Build testing systems teams can rely on. Create and
+  maintain automation that improves coverage, catches
+  regressions, and supports faster product development.
+
+  🤖 Expand how we test AI and agentic applications. Introduce
+  practical approaches for evaluating nondeterministic
+  behavior, agent traces, and end-to-end AI workflows.
+
+  🔄 Improve quality throughout the development process. Work
+  with developers to make software more testable and integrate
+  quality practices earlier in the development lifecycle.
+
+  📈 Make automation faster and more reliable. Improve test
+  performance, stability, and maintainability so teams can
+  trust the results they receive.
+
+  🤝 Help teams build quality into their work. Partner with
+  engineering, product, SRE, and data science to define
+  expectations, assess risk, and deliver dependable customer
+  experiences.
+
+  You'll Probably Thrive Here If You:
+
+  💻 Have strong TypeScript fundamentals. You’re comfortable
+  building production-quality automation within the TypeScript
+  and JavaScript ecosystem.
+
+  🧰 Bring experience in test automation. You have worked as an
+  SDET, QA Automation Engineer, or software engineer with
+  significant responsibility for automated testing.
+
+  🛠️ Work with modern testing tools. You have experience with
+  tools such as Playwright, Jest, Axios, and CI/CD platforms
+  like GitLab CI/CD or CircleCI.
+
+  🤖 Are excited about emerging AI evaluation practices. You’re
+  interested in automated statistical QA, LLM-as-a-judge,
+  trace evaluation, human annotations, and testing
+  nondeterministic systems.
+
+  🔬 Enjoy exploring new evaluation tools. Experience with
+  Langfuse, Braintrust, Arize, Inngest, or similar platforms
+  is helpful, but not required.
+
+  🕵️ Approach failures with curiosity. You enjoy investigating
+  unexpected behavior, finding root causes, and improving
+  systems so the same problems don’t happen again.
+
+  💬 Collaborate effectively across teams. You communicate
+  clearly and work well with engineering, product, SRE, and
+  other cross-functional partners.
+
+  Benefits:
+
+  🤑 Competitive Compensation: Competitive salary and equity
+  packages for all employees
+
+  🏥 Healthcare Plan: Platinum medical, dental, and vision
+
+  🛡️ Free life insurance: Including long-term disability &
+  short-term disability
+
+  🏄 Unlimited PTO: Uncapped vacation days & paid holidays
+
+  👶 Family Leave: Maternity & paternity
+
+  📈 401(k) Contribution: Assured contributes 3% of your
+  income, even if you don't contribute
+
+  🏠 WFH Benefits: Lunch on us 2x/week, monthly phone stipend &
+  other home office perks
+
+  👪 Health FSAs & HSAs: Pre-tax accounts for out-of-pocket
+  medical expenses
+
+  🤝 Team events & Offsites: We're remote, but we regularly get
+  together
+
+  **We have been made aware of individuals falsely posing as
+  recruiters from Assured Insurance Technologies Inc. Please
+  note that we only contact candidates from official
+  @assured.claims email addresses and all interviews are
+  conducted through verified company channels. If you are
+  unsure whether a message is legitimate, please contact us
+  directly at recruiting-ops@assured.claims before sharing any
+  personal information**
+
+  Our Commitment: We are an equal opportunity employer and
+  value diversity at our company. We do not discriminate on
+  the basis of race, religion, color, national origin, sex,
+  gender, gender expression, sexual orientation, age, marital
+  status, veteran status, or disability status. We will ensure
+  that individuals with disabilities are provided reasonable
+  accommodation to participate in the job application or
+  interview process, perform essential job functions, and
+  receive other benefits and privileges of employment. Please
+  contact us to request accommodation.
+industries:
+  - Artificial Intelligence
+  - Insurance
+  - Software
+  - Automation
+posted_date: 2026-08-25
+url: "https://builtin.com/job/staff-software-development-engineer-test-sdet/9379511"
+source: Built In

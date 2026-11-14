@@ -1,0 +1,149 @@
+job_id: 12249182
+title: Senior Backend Engineer
+company: MD Integrations
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 52 Employees
+description: |
+  About MD Integrations
+
+  At MD Integrations, we partner with digital health brands to
+  power clinical care at scale. We specialize in men's and
+  women’s health, dermatology, endocrinology, and weight
+  management, offering telehealth solutions that help patients
+  receive expert, personalized care—all from the comfort of
+  their home. Join our team and be part of the movement to
+  make specialty care more accessible and impactful.
+
+  MD Integrations is an equal opportunity employer. We
+  celebrate diversity and are committed to creating an
+  inclusive environment for all employees. We are unable to
+  support US visa sponsorship at this time.
+
+  Backend Engineer (PHP / Laravel)
+
+  The Backend Engineer (PHP / Laravel) designs, develops, and
+  maintains scalable and reliable server-side applications to
+  ensure the highest standard of system performance and
+  stability. As a Backend Engineer, you will take ownership of
+  features and services, troubleshoot complex issues, optimize
+  existing code, and contribute to architectural decisions.
+  You will work closely with cross-functional teams, including
+  front-end dev, product, QA, and DevOps, collaborating both
+  synchronously and asynchronously to deliver high-quality
+  software, efficiently.
+
+  We are looking for a skilled, detail-oriented engineer who
+  is comfortable with full-stack collaboration, enjoys solving
+  challenging problems, and thrives in a remote-first, fast-
+  paced environment.
+
+  Key Responsibilities
+
+  - Design, build, and optimize high-throughput RESTful APIs in
+    PHP using the Laravel framework, writing efficient
+    PostgreSQL queries and schema designs to support data-
+    intensive clinical workflows. Contribute to new feature
+    development and platform improvements within an
+    Agile/Scrum process.
+  - Build and maintain integrations with third-party APIs and
+    internal services, deploying and running services in
+    Docker containers across AWS (or comparable cloud)
+    environments to ensure secure, reliable data exchange.
+  - Write automated tests (unit, integration, and API-level) for
+    PHP/Laravel back-end functionality and critical clinical
+    workflows, and integrate them into CI/CD pipelines using
+    Git/GitHub-based workflows and Docker to enable continuous
+    testing and faster, more reliable releases.
+  - Write and maintain clear technical documentation for
+    troubleshooting guides, fixes, API integrations, and
+    support processes, version-controlled through Git/GitHub
+    for easy team access and updates.
+  - Monitor application health, performance, and error logs
+    using tools such as Rollbar and AWS CloudWatch to
+    proactively identify and address potential issues before
+    they affect patients or providers.
+  - Identify, document, and track software defects, analyzing
+    logs and debugging to pinpoint root causes, and work with
+    the development team within Agile/Scrum sprints to
+    prioritize and ensure timely resolution.
+  - Actively participate in code reviews to uphold coding
+    standards and engineering best practices. Continuously
+    evaluate and improve our development processes, CI/CD
+    pipelines, and tooling (Docker, monitoring/logging
+    systems, cloud infrastructure) to enhance team efficiency,
+    code quality, and release velocity.
+  - Identify opportunities to formalize and document internal
+    processes, workflows, and troubleshooting playbooks,
+    building a knowledge base that supports faster onboarding
+    and more consistent support.
+
+  Your Qualifications
+
+  - 8-10+ years of professional experience with PHP and Laravel
+    framework.
+  - Experience working with AWS services like Lambdas, SES,
+    Workers, etc.
+  - Solid knowledge of RESTful APIs, with ability to write
+    automated API tests.
+  - Degree in Computer Science, Engineering, or equivalent
+    combination of education and experience.
+  - Deep experience with SQL databases (preferably PostgreSQL),
+    including schema design, queries, and performance
+    optimization.
+  - Ability to use AI tools to boost productivity but does not
+    rely on it to be able to perform.
+  - Experience working with version control systems (Git) and
+    collaborative workflows (GitHub), including CI/CD
+    pipelines and ability to integrate automated tests into
+    the deployment process.
+  - Experience with Docker
+  - Knowledge of monitoring tools (e.g., Rollbar, CloudWatch,
+    etc.)
+  - Located in the US and able to work full-time for a US
+    employer without requiring visa sponsorship. E-Verify is
+    used during new hire onboarding to confirm work
+    authorization status.
+
+  Your Work DNA
+
+  - User-Centric:  A genuine passion for helping customers
+    succeed and a commitment to providing exceptional customer
+    service.
+  - Proactive and Solution-Oriented:  A proactive approach to
+    identifying and resolving potential issues before they
+    escalate.
+  - Team Player:  Ability to work effectively as part of a team
+    and collaborate with team members across different
+    departments.
+  - Passion for Learning:  A strong desire to learn and stay up-
+    to-date on the latest trends and developments in
+    telehealth and healthcare technology.
+
+  What We Offer
+
+  - Competitive Salary:  The targeted range for this role is
+    $140,000 to $175,000 per year commensurate with
+    qualifications and experience.
+  - Comprehensive Benefits Package:  Our benefits package
+    includes 75% subsidized health insurance, dental
+    insurance, vision insurance, paid time off, and a 401(k)
+    plan with company match.
+  - Professional Development Opportunities:  We are committed to
+    investing in our employees' professional development and
+    offer a variety of on the job training and development
+    opportunities.
+  - Flexible Work Arrangements:  We are a fully remote team who
+    collaborate both synchronously and asynchronously to
+    achieve the best outcomes.
+  - Collaborative and Supportive Work Environment:  We foster a
+    collaborative and supportive work environment where
+    employees are encouraged to share ideas and contribute to
+    the company's success.
+industries:
+  - Healthtech
+  - Software
+posted_date: 2026-11-13
+url: "https://builtin.com/job/senior-backend-engineer/12249182"
+source: Built In

@@ -1,0 +1,150 @@
+job_id: 10387144
+title: Senior Software Engineer - Platform Engineering
+company: Santé (YC S23)
+location: New York, USA
+work_type: FULL_TIME
+company_size: 33 Employees
+description: |
+  Senior Software Engineer - Platform Engineering About Santé
+
+  Santé is the #1 operating system for local retailers.
+
+  Our platform runs the entire store — point of sale,
+  integrated payments, eCommerce, inventory management,
+  delivery-app integrations, marketing, bookkeeping, and AI
+  Agents — so the owners of liquor, grocery, and convenience
+  stores can compete like the big chains without losing what
+  makes them local.
+
+  We're building a future where the corner liquor store has
+  better technology than the national retailer: one place for
+  selling to customers everywhere with AI agents that spots
+  slow-moving inventory and creates the promotion to move it.
+  Every feature we ship lands in real stores the same week,
+  and the feedback loop is direct — our customers call us by
+  name.
+
+  We move fast and ship daily. AI-assisted engineering isn't a
+  talking point here; agents like Devin, Claude, and Codex are
+  part of how the team works every day, and engineers who
+  master that leverage ship multiples of what they could
+  alone.
+
+  About the Team
+
+  Platform Engineering owns the foundation everything else at
+  Santé is built on: Observability, Architecture, and POS /
+  Checkout.
+
+  When a customer taps a card at a card terminal, this team's
+  code decides whether that moment is instant, correct, and
+  durable — through processor hiccups, database stress, and
+  real-world edge cases. When any other team ships, this
+  team's telemetry is how we know it worked. Platform
+  Engineering is small by design and force-multiplied by
+  tooling: its members carry the deepest context in the
+  company and set the technical standards every other team
+  builds on.
+
+  About the Role
+
+  You'll be a technical owner on the systems where correctness
+  is non-negotiable: the sale write path, the payments
+  integration layer, the database fleet, and the observability
+  stack. This means working from ambiguous production signals
+  ("this store's drawer count is off by $0.47") down to root
+  cause, then designing the fix so the whole class of bug
+  disappears. You'll partner with every other team — Money
+  Movement, Merchant Experience, and Applied AI all build on
+  your primitives — and with real store owners whose
+  businesses run on what you ship. Beyond building, you'll
+  establish the patterns (idempotency, transactional
+  boundaries, caching, instrumentation) that the rest of
+  engineering adopts.
+
+  In this role, you will
+
+  - Own the sale write path — the transactional core that
+    records every sale in every store — including idempotency
+    guarantees, race-condition elimination, split-payment
+    correctness, and graceful degradation under database
+    stress
+  - Drive payments reliability end to end: card terminal
+    terminal integrations, processor routing, preauth
+    recovery, retries and reconciliation when the processor or
+    the network misbehaves
+  - Lead our observability program on Datadog — APM, RUM, and
+    DBM with full log/trace correlation, structured logging
+    with PII redaction, and the monitors and DORA metrics
+    every team runs on
+  - Hunt performance across a busy Postgres fleet: read-replica
+    strategy, query-plan and index work, N+1 elimination, and
+    caching layers (ElastiCache) that hold up on the year's
+    biggest sales days
+  - Establish architectural patterns for multi-location
+    retailers, offline-resilient POS, and high-write
+    transactional workloads — and drive their adoption across
+    teams
+  - Multiply your output with AI agents: direct, review, and
+    productionize agent-written code as a core part of your
+    workflow
+
+  Your background looks something like this
+
+  - 5+ years building production software, with deep experience
+    in TypeScript/Node full-stack systems
+  - Real depth in PostgreSQL: you read query plans for fun, know
+    when an index helps and when it hurts, and have operated
+    replicas under load
+  - Distributed-systems instincts — idempotency keys,
+    transactional boundaries, race conditions, and retry
+    semantics are second nature
+  - Experience owning observability for a production system
+    (Datadog, or equivalent with OpenTelemetry)
+  - A bias for root cause over patch, and a track record of
+    turning one-off incidents into eliminated bug classes
+  - Comfort operating with high ownership in a small team where
+    your decisions become the standard
+
+  Even better
+
+  - Payments experience: EMV terminals, processors (Datacap or
+    similar), preauth/capture flows, or PCI-adjacent systems
+  - Retail or POS domain experience, especially inventory,
+    reconciliation, or multi-location operations
+  - Familiarity with our stack: Next.js, tRPC, Prisma,
+    ElastiCache, Aurora/RDS/RDS Proxy, PostgreSQL / pgvector
+  - Experience directing AI coding agents (Claude Code, Cursor,
+    Codex, Devin) and building the guardrails that make them
+    safe at scale
+  - History of establishing technical standards or architectural
+    principles adopted across teams
+  - Experience building LLM-powered product features (we run
+    OCR/ CV,  recommendation, and agent systems in production)
+
+  Compensation
+
+  $220k – $280k + Meaningful equity
+
+  This range reflects the expected compensation for this role.
+  Compensation within the range is determined based on
+  experience, skills, and scope of responsibilities. In
+  addition to base salary, we offer meaningful early-stage
+  equity — this team's work is the foundation the company
+  compounds on.
+
+  Benefits
+
+  - Fully company-covered medical and dental benefits.
+  - 401(k)
+  - Catered Lunches and Dinners: Santé provides dinner each
+    evening for employees who would like to eat and connect
+    with the team. Lunch is provided on a weekly basis
+industries:
+  - Fintech
+  - Payments
+  - Retail
+  - Software
+posted_date: 2026-07-26
+url: "https://builtin.com/job/platform-engineering/10387144"
+source: Built In

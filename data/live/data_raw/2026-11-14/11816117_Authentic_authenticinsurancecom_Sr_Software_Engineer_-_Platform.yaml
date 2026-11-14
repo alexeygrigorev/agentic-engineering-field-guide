@@ -1,0 +1,146 @@
+job_id: 11816117
+title: Sr. Software Engineer - Platform
+company: Authentic (authenticinsurance.com)
+location: New York, USA
+work_type: FULL_TIME
+company_size: 70 Employees
+description: |
+  Authentic is a tech-enabled MGA (managing general agent). We
+  design and run insurance programs for specific kinds of
+  businesses, like restaurants, gyms, and power producers.
+  Brokers bring us the businesses that need coverage, and
+  carriers back our policies. Every program runs on a platform
+  we built ourselves, and we own every line of code behind it.
+  Engineers and insurance experts build it side by side in New
+  York and Dayton, Ohio. Since our founding in 2022, we’ve
+  grown to 80+ people and been named to the 2026 CB Insights
+  Insurtech 50.
+
+  As a Senior Engineer on the Platform team, you'll shape the
+  core systems every program depends on. You'll make
+  architecture decisions that will matter for years, working
+  side by side with the underwriters and insurance experts who
+  use what you build every day.
+
+  What the Platform team owns
+
+  - Core insurance services: rating, quoting, policy lifecycle,
+    billing, document generation and extraction
+  - The shared framework that lets us launch a new insurance
+    program quickly, by configuration instead of custom code
+  - Integrations with carriers, brokers, and third-party data
+    sources
+  - Infrastructure, deployment, observability, and developer
+    tooling
+
+  What you'll work on
+
+  - Lead large, ambiguous projects from start to finish. You'll
+    define the problem, design the system, and ship it,
+    without needing someone to hand you a spec.
+  - Build for correctness and scale. Insurance systems need to
+    be auditable and exact. You'll design data models and
+    services that handle more programs, more volume, and more
+    complexity as we grow.
+  - Make the whole team faster. Find the bottlenecks in how we
+    build, test, deploy, and operate, and fix them.
+  - Raise the reliability bar across the product,
+    infrastructure, and data layers, without slowing the team
+    down.
+  - Work directly with the business. You'll sit with
+    underwriters and operations teams, understand the real
+    problem, and measure whether what you built actually
+    helped.
+  - Mentor other engineers and help set the technical standards
+    for a growing team.
+
+  Projects you might lead in your first year: Rearchitecting
+  the rating engine to support new lines of business,
+  rebuilding a program-configuration system, event-driven
+  billing and reconciliation.
+
+  Our stack
+
+  Python · AWS ·Terraform· Kubernetes/ECS · Kafka/SQS· Datadog
+  · other tools. We choose tools for long-term simplicity, and
+  you'll have a real say in where the stack goes next.
+
+  The team
+
+  You'll join an engineering team of 8 and report to the head
+  of Engineering. Engineers work in New York and Dayton, Ohio,
+  alongside the insurance experts who use the platform.
+
+  What success looks like
+
+  - First 30 days: Ship to production, learn the insurance
+    domain, and understand how the platform fits together.
+  - First 90 days: Own a meaningful part of the platform and
+    lead your first significant project.
+  - First 6 months: Drive a major architecture improvement and
+    become a go-to technical leader across the team.
+
+  You might be a great fit if you have
+
+  - 5+ years building and running production distributed
+    systems, mostly in Python or Go
+  - Strong API and data-modeling skills, and a sense for systems
+    that need to be correct as well as fast
+  - Hands-on experience with AWS, infrastructure-as-code, and
+    modern deployment practices
+  - Good judgment about when to move fast and when to slow down
+    and get it right
+  - A habit of owning problems end to end: you clarify what
+    "good" looks like, ask sharp questions, and see things
+    through
+
+  Nice to have: experience at a fast-growing startup,
+  especially building something from zero; experience with
+  fintech, payments, insurance, or other regulated or money-
+  moving systems. No insurance background needed. We'll teach
+  you the domain.
+
+  Compensation
+
+  This role pays a base salary of $188,000– $211,000 and
+  includes meaningful equity, so you’ll have real ownership in
+  what we’re building. Your offer will depend on your
+  experience and skills.
+
+  Don't meet every requirement? Apply anyway. We care more
+  about how you think and what you've built than about
+  matching every line.
+
+  Our (FTE) benefits
+
+  - Competitive salary, equity, and role trajectory
+  - Comprehensive health benefits for you and your family
+  - 401(k) plan with company match
+  - Unlimited PTO
+  - Paid parental leave
+
+  About Authentic
+
+  Authentic builds the infrastructure that program insurance
+  runs on. We partner with leading brokerages to design and
+  manage custom insurance programs, backed by A and A- rated
+  carriers operating nationwide. Brokers bring the data and
+  distribution. We bring everything else: the technology, the
+  capacity, and the underwriting expertise to stand up
+  specialized programs at speed and build them to last.  We’re
+  a Series A company backed by top investors, including
+  FirstMark Capital, Zigg Capital, Slow Ventures, Clocktower,
+  Commerce Ventures, and Altai. We’ve grown over 15x in the
+  past year with a massive market opportunity ahead.
+
+  Authentic is committed to building an inclusive working
+  environment regardless of gender, sexual orientation,
+  religion, ethnicity, race, education, age, or other personal
+  characteristics. We believe that people do their best work
+  when they can be themselves, and different perspectives and
+  experiences make us stronger as a team. We’re proud of the
+  supportive and inclusive workplace we're building together
+  and are always working to make it even better.
+posted_date: 2026-10-22
+url: "https://builtin.com/job/sr-software-engineer-platform/11816117"
+source: Built In

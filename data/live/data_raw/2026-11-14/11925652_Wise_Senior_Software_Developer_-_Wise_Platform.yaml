@@ -1,0 +1,213 @@
+job_id: 11925652
+title: Senior Software Developer - Wise Platform
+company: Wise
+location: London, GBR
+work_type: FULL_TIME
+company_size: 9,000 Employees
+description: |
+  Company Description
+
+  Wise is a global technology company, building the best way
+  to move and manage the world’s money. Min fees. Max ease.
+  Full speed.
+
+  Whether people and businesses are sending money to another
+  country, spending abroad, or making and receiving
+  international payments, Wise is on a mission to make their
+  lives easier and save them money.
+
+  As part of our team, you will be helping us create an
+  entirely new network for the world's money. For everyone,
+  everywhere.
+
+  More about our mission and what we offer.
+
+  Job Description
+
+  Wise Platform helps banks, software companies, and large
+  enterprises use Wise's infrastructure to offer their
+  customers cross-border payment products through our API.
+  We're a cross-functional team across sales, implementation,
+  product, engineering, compliance, and analytics, based in
+  New York, London, and Singapore.
+
+  We're looking for a Senior Backend Engineer to join our
+  Partner Experience team in London.
+
+  The Partner Experience team builds and runs the systems that
+  let enterprise partners go live faster and manage their day-
+  to-day operations in one place.
+
+  We own the Partner Portal (used by many big banks to manage
+  transfers, report fraud, handle compliance requests, and
+  manage their teams) and the backend services behind partner
+  onboarding, permissions, and communication. Most of what we
+  build is new. There's no existing playbook for enterprise
+  partner tooling at this scale, so you'll be designing
+  systems from scratch more often than maintaining existing
+  ones.
+
+  How we work:
+
+  We're a small team that ships frequently and iterates on
+  real partner feedback. Engineers own features from technical
+  discovery and design through to production support. We work
+  closely with our PM and designer to understand partner
+  needs, and with adjacent teams (API Experience, Account
+  Discovery, KYC, FinCrime) to pull their capabilities into
+  the portal.
+
+  We investigate before we build. That means managing
+  ambiguity, understanding the existing systems, APIs and
+  dependencies before writing code. We keep process light:
+  quick standups, focused 1:1s, and quarterly planning.
+
+  What will you be working on?:
+
+  • Backend microservices for partner-facing features: fraud
+  reporting, case management, RFI handling, audit logging, and
+  transaction visibility.
+
+  • The permissions and role-based access control system that
+  governs what partners can do in the portal.
+
+  • SSO (SAML 2.0) integration for enterprise partners,
+  including solving identity mapping between partner systems
+  and Wise.
+
+  • The communication layer services between Wise and
+  partners, extending them to handle new case types and
+  workflows.
+
+  • API design for partner-facing endpoints. We care about
+  consistency, documentation, and making them usable without
+  hand-holding.
+
+  • Work with FinCrime, Compliance, and KYC teams to bring
+  sanctions RFI workflows and fraud reporting into the portal.
+
+  • Technical discovery: mapping existing systems, evaluating
+  dependencies, producing design documents that become the
+  team's source of truth.
+
+  • Production support and debugging when live partner issues
+  come up.
+
+  Qualifications
+
+  What do you need:
+
+  • Experience designing, building, and deploying backend
+  microservices in Java and Spring Boot.
+
+  • Familiarity with domain-driven design, event-driven
+  architecture, and microservices patterns. You think in terms
+  of domain boundaries, aggregates, and service
+  responsibilities.
+
+  • Experience designing and maintaining RESTful APIs
+  commercially. Comfort with OpenAPI/Swagger, OAuth2, and
+  versioning strategies.
+
+  • Ability to design and maintain relational databases
+  (MySQL, PostgreSQL), including query performance, indexing,
+  and data modelling.
+
+  • You enjoy mapping complex technical landscapes:
+  understanding existing systems, dependencies, and
+  constraints before proposing solutions. You write clear
+  documentation of what you find.
+
+  • You deliver reliably and manage your own work without
+  needing constant check-ins
+
+  • You work well with adjacent teams, unblock yourself when
+  dependencies come up, and build relationships that go beyond
+  PR reviews.
+
+  • You understand what large enterprise customers need from
+  software: reliability, auditability, compliance, and
+  security as design constraints, not bolt-ons.
+
+  Nice to have:
+
+  • Experience building enterprise portals, partner platforms,
+  or B2B SaaS products.
+
+  • Understanding of payments systems and the complexities of
+  cross-border money movement.
+
+  • Experience with identity and access management (SAML, SSO,
+  SPIFFE, OAuth2).
+
+  • Familiarity with Kafka or other event streaming platforms.
+
+  • Experience in a platform team serving multiple internal or
+  external consumers.
+
+  • Ability to explain technical decisions to non-technical
+  people (product managers, partners, compliance teams).
+
+  • Interest in international finance, foreign exchange, or
+  payments infrastructure.
+
+  Additional Information
+
+  Interested? Find out more:
+
+  - Wise Platform: who we are, what we do
+  - How we work - a practical guide
+  - DEI @ Wise
+  - Wise Tech Stack (2025 update)
+  - See what it’s like to work at Wise London
+  - Our engineering career map
+
+  Wise Engineering – https://medium.com/wise-engineering
+
+  What do we offer:
+
+  - Starting salary: £87,500 - £111,000 + RSUs
+  - Wise Benefits
+
+  For everyone, everywhere. We're people building money
+  without borders  — without judgement or prejudice, too. We
+  believe teams are strongest when they are diverse, equitable
+  and inclusive.
+
+  We're proud to have a truly international team, and we
+  celebrate our differences. Inclusive teams help us live our
+  values and make sure every Wiser feels respected, empowered
+  to contribute towards our mission and able to progress in
+  their careers.
+
+  If you want to find out more about what it's like to work at
+  Wise visit Wise.Jobs.
+
+  Keep up to date with life at Wise by following us on
+  LinkedIn and Instagram.
+
+  For everyone, everywhere. We're people building money
+  without borders  — without judgement or prejudice, too. We
+  believe teams are strongest when they are diverse, equitable
+  and inclusive.
+
+  We're proud to have a truly international team, and we
+  celebrate our differences. Inclusive teams help us live our
+  values and make sure every Wiser feels respected, empowered
+  to contribute towards our mission and able to progress in
+  their careers.
+
+  If you want to find out more about what it's like to work at
+  Wise visit Wise.Jobs.
+
+  Keep up to date with life at Wise by following us on
+  LinkedIn and Instagram.
+industries:
+  - Fintech
+  - Mobile
+  - Payments
+  - Software
+  - Financial Services
+posted_date: 2026-10-27
+url: "https://builtin.com/job/senior-software-developer-wise-platform/11925652"
+source: Built In

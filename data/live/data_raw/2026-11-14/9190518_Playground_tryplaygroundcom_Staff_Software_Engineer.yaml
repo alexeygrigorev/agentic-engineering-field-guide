@@ -1,0 +1,107 @@
+job_id: 9190518
+title: Staff Software Engineer
+company: Playground (tryplayground.com)
+location: New York, USA
+work_type: FULL_TIME
+company_size: 80 Employees
+description: |
+  Company Overview
+
+  Playground is working to make excellent child care
+  accessible to all. Playground has built best in class
+  software to manage all aspects of running a child care
+  business. Playground has raised millions of dollars in
+  funding, has several Statewide contracts, and is working
+  with thousands of schools across the country. Our founders
+  were recently recognized by Forbes as 30 under 30, and our
+  work has been recognized across the country.
+
+  Playground is at an inflection point, growing at a quick
+  pace, and we are looking to expand our engineering team as
+  quickly as possible. Playground is compromised of a team of
+  owners who are not afraid to dive into large, complex
+  projects.
+
+  Job Description
+
+  As part of Playground's engineering team, you will be
+  responsible for building and maintaining critical
+  infrastructure that ensures our platform remains scalable,
+  secure, and high-performing. You will play a crucial role in
+  shaping the future of child care technology by improving
+  system uptime, deployment efficiency, security, and
+  developer tooling. We're looking for self-starters who
+  thrive in taking projects from concept to reality, often
+  working independently with high ownership.
+
+  Responsibilities
+
+  - Collaborate with a cross-functional team to enhance
+    deployment pipelines, security measures, and
+    infrastructure scalability.
+  - Optimize Vite configurations to improve build times, reduce
+    bundle sizes, and enhance the developer experience.
+  - Ensure robust separation between development, staging, and
+    production environments while maintaining the ability to
+    debug critical issues.
+  - Implement and maintain a centralized queryable logging
+    system that allows engineers and support teams to
+    efficiently debug and analyze system behavior.
+  - Improve and maintain real-time service uptime monitoring and
+    alerts using tools such as Google Cloud Monitoring,
+    PostHog, Sentry, or similar platforms.
+  - Maintain and improve internal developer tools to enhance
+    productivity, including CI/CD automation and workflow
+    enhancements.
+  - Ensure compliance with security best practices across
+    deployment and infrastructure processes.
+  - Write and maintain clear, accessible documentation for
+    configurations, processes, and best practices.
+
+  Requirements
+
+  - 5+ years of experience in infrastructure, DevOps, or
+    software engineering focused on frontend systems.
+  - Must be proficient in React
+  - Proficiency with modern deployment tools and CI/CD
+    pipelines.
+  - Strong experience with Vite, monorepos, and optimizing
+    frontend build tools.
+  - Experience working with logging and monitoring solutions
+    such as Sentry, Datadog, or Google Cloud Monitoring.
+  - Deep understanding of security best practices and
+    infrastructure resilience.
+  - Strong problem-solving skills and ability to work in a fast-
+    paced environment.
+  - Excellent communication and collaboration skills.
+
+  Why Join Playground
+
+  - Competitive salary
+  - 3 weeks of PTO
+  - Health, vision, and dental benefits
+  - $1200/year education stipend
+  - Free lunch daily
+  - New MacBook
+  - Collaborative and supportive work culture with a high level
+    of autonomy and room for growth
+  - Help accelerate our mission to make excellent child care
+    accessible to all!
+
+  How to Apply If you're excited to join a mission-driven,
+  early-stage company where ownership, craftsmanship, and
+  empathy are at the center of what we do, apply now. The
+  Playground Team is fully in-office in Union Square, NYC.
+  Please ensure you are open to a fully in-person role before
+  applying.
+
+  Check out our journey to learn more about our co-founders
+  Dan, Josh, and Sasha.
+industries:
+  - Kids + Family
+  - Payments
+  - Social Impact
+  - Software
+posted_date: 2026-08-22
+url: "https://builtin.com/job/staff-software-engineer/9190518"
+source: Built In

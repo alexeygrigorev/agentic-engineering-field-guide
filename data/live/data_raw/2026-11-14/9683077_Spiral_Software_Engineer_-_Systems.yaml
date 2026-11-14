@@ -1,0 +1,44 @@
+job_id: 9683077
+title: Software Engineer - Systems
+company: Spiral
+location: London, GBR
+work_type: FULL_TIME
+company_size: 170000 Employees
+description: |
+  About Spiral
+
+  Spiral builds a fast analytical database for multimodal,
+  multi-rate data streams, on top of the open source Vortex
+  file format. Our users are AI/ML researchers and AI infra
+  engineers developing models in complex domains, such as
+  weather & climate, financial, time-series, genomics, point-
+  clouds, videos, and images. They spend their days waiting on
+  data loaders, writing video or sensor data pipelines, and
+  watching expensive GPUs sit idle on I/O. We make that pain
+  go away.
+
+  What we're looking for:
+
+  We’re looking for exceptional engineers with deep experience
+  in low-level, high-performance software and cloud-scale
+  storage systems.
+
+  - 5+ years of experience writing high-quality production code
+  - Strong foundation in operating systems and systems
+    programming
+  - Proven track record in performance engineering
+  - Familiarity with tools like Apache Arrow, Parquet,
+    DataFusion, Clickhouse, or DuckDB is a plus
+  - Understanding of cutting-edge ML infrastructure stack (e.g.
+    PyTorch, CUDA) is also a plus
+  - Experience with Rust is a bonus
+  - Willingness to work in-person at our NYC, SF, or London
+    office
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Database
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-07-31
+url: "https://builtin.com/job/software-engineer-systems/9683077"
+source: Built In

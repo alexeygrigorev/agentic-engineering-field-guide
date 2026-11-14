@@ -1,0 +1,121 @@
+job_id: 9250653
+title: "Database & Infrastructure Engineer (Full Stack)"
+company: Kled AI
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  ABOUT KLED
+
+  Kled is building the largest opt-in human data network in
+  the world.
+
+  We are not a labeling firm. We are not a task marketplace.
+
+  We are a consumer application where people upload their real
+  photos, videos, and documents and get paid continuously.
+
+  We then filter, standardize, and license that data to
+  frontier AI labs and enterprises that need fresh, rights-
+  aware training data.
+
+  Since launching our mobile app in 2026, we have:
+
+  • Reached #1 on the App Store (Finance) with 0 paid
+  marketing • Scaled to 600,000+ active data contributors •
+  Processed 5M uploads per day • Raised $15M+ from investors
+  behind SpaceX, Airbnb, Coinbase, xAI, OpenAI, Anthropic,
+  Spotify, Lyft, Uber, and more
+
+  Our mission is to let anyone download the app and earn a
+  real living wage from uploading their data.
+
+  ABOUT THE ROLE
+
+  Database & Infrastructure Engineer (Full-Stack Systems)
+
+  We process millions of files per day and store hundreds of
+  millions of media records.
+
+  Your job is to make our data layer world-class.
+
+  You will:
+
+  • Optimize and scale our PostgreSQL (Supabase)
+  infrastructure • Design indexing, partitioning, and query
+  strategies for large-scale media datasets • Improve
+  performance across ingestion, enrichment, and retrieval
+  pipelines • Build internal tools for querying and auditing
+  large datasets • Create customer-ready dataset sample packs
+  • Design and automate dataset exports and delivery pipelines
+  (S3, secure transfers, custom formats) • Work across
+  backend, ML, and product teams to support new features
+
+  This is not just DBA work.
+
+  You’ll help design the systems that move and package the
+  data powering frontier AI labs.
+
+  WE’RE LOOKING FOR
+
+  • Strong PostgreSQL expertise (indexing, partitioning,
+  performance tuning) • Experience working with large datasets
+  (100M+ records preferred) • Deep understanding of storage
+  systems (S3 or similar object storage) • Strong backend
+  experience (TypeScript, Python, or similar) • Comfort
+  building internal tooling and automation scripts • Ability
+  to move between database, backend, and infrastructure work
+
+  Bonus:
+
+  • Experience with data pipelines (ETL, transformation
+  layers) • Experience with vector databases (pgvector, FAISS,
+  Pinecone) • Experience delivering structured datasets to
+  enterprise customers • DevOps experience (CI/CD, infra
+  automation) • Experience working with media-heavy systems
+
+  CURRENT STACK
+
+  Backend • PostgreSQL (Supabase) — 188M+ media files • S3
+  storage • Deno / TypeScript edge functions • Python ML
+  pipelines
+
+  Frontend • SwiftUI (migrating to Flutter)
+
+  COMPENSATION
+
+  • Base salary: $150,000 - $250,000 • $750,000 – $1,500,000
+  equity
+
+  We move fast and work hard.
+
+  If you're excited to build the world’s largest consumer app,
+  let’s talk!
+
+  GROWTH OPPORTUNITY
+
+  You’ll join a team operating at the frontier of applied AI
+  data infrastructure.
+
+  In this role, you’ll have the opportunity to:
+
+  • Own core systems that power one of the largest human data
+  networks in the world • Design infrastructure that directly
+  influences what data trains next-generation AI models •
+  Build at real scale - millions of uploads per day,
+  adversarial environments, global contributors • Ship
+  alongside a team that has built marketplaces, AI systems,
+  and products used by millions
+
+  If you’re excited to move fast, build systems that matter,
+  and help define how human data powers frontier AI, let’s
+  talk.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Consumer Web
+  - Software
+posted_date: 2026-08-16
+url: "https://builtin.com/job/database-infrastructure-engineer-full-stack/9250653"
+source: Built In

@@ -1,0 +1,183 @@
+job_id: 12209893
+title: Sr Software Engineer - ML Infrastructure
+company: Uber
+location: New York, USA
+locations:
+  - New York, USA
+  - Seattle, USA
+  - Sunnyvale, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 21,000 Employees
+description: |
+  Senior Software Engineer - ML Infrastructure, Mobility
+  Simulation and PlanningAbout the role and team
+
+  How can Uber plan pricing and incentives to meet financial
+  goals while keeping its marketplace healthy and growing?
+  That’s the challenge our Mobility Simulation and Planning
+  (MSP) organization tackles within Marketplace.
+
+  MSP builds forecasting, simulation, and optimization
+  products that help Operations teams translate financial
+  targets into pricing and incentive policies across hundreds
+  of cities. Our planning product, Planner, brings these
+  capabilities together to generate actionable price plans.
+  Supporting this work requires scalable model training and
+  simulation, efficient distributed computing, and reliable
+  workflows for generating and deploying plans.
+
+  The MSP Infra team builds the data and computing foundations
+  that make these capabilities possible. We partner with
+  engineers, scientists, and shared-platform teams to turn
+  complex modeling workflows into reliable, scalable, reusable
+  infrastructure.
+
+  We’re looking for a Senior Software Engineer focused on ML
+  infrastructure. You’ll build the frameworks, distributed
+  execution capabilities, and developer tooling that help
+  scientists develop, train, evaluate, and productionize
+  models. Your work will make it easier to move from an
+  experimental model to a dependable production workflow and
+  to run the simulations and backtests needed to evaluate
+  marketplace decisions.
+
+  How do we scale training and simulation across CPUs and
+  GPUs? How do we make experiments reproducible and
+  performance bottlenecks easy to diagnose? How do we support
+  new modeling approaches without creating a separate
+  infrastructure stack for every use case? You’ll solve these
+  problems through hands-on engineering, close collaboration
+  with modeling teams, and end-to-end ownership of production
+  systems.
+
+  What you’ll do
+
+  - Build shared ML frameworks: Design and evolve reusable
+    interfaces and libraries for model development, training,
+    inference, evaluation, and backtesting.
+  - Scale distributed workloads: Build and optimize execution
+    capabilities for training, simulation, and optimization
+    across CPU and GPU infrastructure.
+  - Accelerate experimentation: Develop tooling for
+    hyperparameter tuning, experiment tracking,
+    reproducibility, and performance analysis so scientists
+    can evaluate ideas faster.
+  - Simplify productionization: Create reliable orchestration,
+    configuration, dependency management, and deployment
+    patterns that reduce the gap between experimentation and
+    production.
+  - Improve performance and efficiency: Profile workloads,
+    diagnose compute and memory bottlenecks, and make
+    thoughtful tradeoffs across runtime, resource utilization,
+    reliability, and cost.
+  - Build on shared platforms: Partner with Uber’s ML and
+    compute platform teams to adopt and extend common
+    capabilities rather than maintain isolated infrastructure.
+  - Own systems and raise the engineering bar: Lead projects
+    from design through rollout and operations, participate in
+    on-call and incident response, and mentor engineers
+    through design and code reviews.
+
+  Basic Qualifications
+
+  - 6+ years of professional software engineering experience,
+    including work on ML infrastructure, distributed
+    computing, or production platforms for computationally
+    intensive workloads.
+  - Strong programming skills in Python and experience building
+    maintainable, well-tested software.
+  - Experience designing, building, and operating distributed
+    systems or workflow execution infrastructure.
+  - Experience supporting production ML workflows, such as model
+    training, batch inference, evaluation, or deployment.
+  - Understanding of performance fundamentals, including
+    parallelism, memory management, data movement, and
+    resource utilization.
+  - Experience delivering technical projects from design through
+    production rollout and ongoing operations.
+  - Ability to communicate technical tradeoffs and collaborate
+    across engineering, data science, and platform teams.
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, or equivalent practical experience.
+
+  Preferred Qualifications
+
+  - Experience with Ray or comparable distributed computing
+    frameworks.
+  - Familiarity with ML frameworks such as PyTorch, PyTorch
+    Lightning, or LightGBM.
+  - Experience with distributed training, GPU performance
+    profiling, or CPU/GPU workload optimization.
+  - Experience building hyperparameter tuning, experiment
+    tracking, or model evaluation infrastructure.
+  - Experience supporting large-scale simulation, backtesting,
+    forecasting, or optimization workloads.
+  - Familiarity with workflow orchestration, containerized
+    execution, CI/CD, and build or dependency-management
+    systems.
+  - Experience designing shared frameworks or developer
+    platforms adopted by multiple modeling teams.
+  - A track record of measurable improvements in training or
+    inference performance, infrastructure reliability, compute
+    efficiency, or model-development productivity.
+
+  Responsibilities
+
+  For New York City, NY-based roles: The base salary range for
+  this role is USD $202,000 per year - USD $224,000 per year.
+
+  For San Francisco, CA-based roles: The base salary range for
+  this role is USD $202,000 per year - USD $224,000 per year.
+
+  For Seattle, WA-based roles: The base salary range for this
+  role is USD $202,000 per year - USD $224,000 per year.
+
+  For Sunnyvale, CA-based roles: The base salary range for
+  this role is USD $202,000 per year - USD $224,000 per year.
+
+  For all US locations, you will be eligible to participate in
+  Uber's bonus program, and may be offered an equity award &
+  other types of comp. All full-time employees are eligible to
+  participate in a 401(k) plan. You will also be eligible for
+  various benefits.
+
+  About Us
+
+  Ready to Ride?
+
+
+
+  This isn't the kind of place where you follow a playbook —
+  it's where you help write one. If you're driven by impact,
+  energized by challenge, and ready to shape how the world
+  moves — we'd love to hear from you.
+
+  You may be eligible for bonuses, equity, and other
+  compensation, as well as a range of benefits. Explore our
+  benefits.
+
+  Offices remain key to collaboration and Uber's culture.
+  Unless approved for full remote work, employees must spend
+  at least 50% of their time in-office. Some roles, like those
+  at greenlight hubs, require full-time in-office presence.
+  Ask your Recruiter for details about this role's
+  requirements.
+
+  Uber is proud to be an Equal Opportunity employer. All
+  qualified applicants will receive consideration for
+  employment without regard to sex, gender identity, sexual
+  orientation, race, color, religion, national origin,
+  disability, protected Veteran status, age, or any other
+  characteristic protected by law. We also consider qualified
+  applicants regardless of criminal histories, consistent with
+  legal requirements. If you have a disability or special need
+  that requires accommodation, please let us know by
+  completing this form.
+industries:
+  - Logistics
+  - Transportation
+  - "3PL: Third Party Logistics"
+posted_date: 2026-11-12
+url: "https://builtin.com/job/sr-software-engineer-ml-infrastructure/12209893"
+source: Built In

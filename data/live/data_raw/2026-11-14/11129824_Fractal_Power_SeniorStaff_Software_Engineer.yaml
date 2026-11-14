@@ -1,0 +1,121 @@
+job_id: 11129824
+title: Senior/Staff Software Engineer
+company: Fractal Power
+location: New York, USA
+work_type: FULL_TIME
+company_size: 13 Employees
+description: |
+  About Us
+
+  Fractal Power is a vertically integrated power company built
+  for the modern grid. We own and operate across the entire
+  stack, combining utility-scale energy storage infrastructure
+  with algorithmic trading and dispatch to deliver power
+  precisely where and when it's needed most.
+
+  We are backed by the world's leading infrastructure and
+  deeptech investors, including Riot, Definition, and
+  Worldbuild.
+
+  Why Join Us?
+
+  Demand for power is growing at the fastest rate since WWII
+  yet supply is stranded behind worsening transmission and
+  interconnection bottlenecks. The new economy requires a new
+  model of power delivery, one that's vertically integrated,
+  algorithmically operated, and co-located with demand.
+
+  We solve the last-mile infrastructure problem by vertically
+  integrating across the entire value chain of American power
+  - from greenfield development, to algorithmic optimization,
+  dispatch, and power trading across a fleet of distributed
+  resources - allowing us to deliver power where and when it's
+  needed most on the grid. We have the ambition, the team, and
+  the zeal to create the next great power company and we are
+  looking for fanatical people to join us.
+
+  About the role
+
+  You'll own a core software platform end to end—from the
+  user-facing tools down to the data infrastructure, compute,
+  and services underneath. Depending on your experience and
+  interests, your focus will be our quantitative research
+  platform or our trading operations platform.
+
+  These platforms power how we develop, test, and execute
+  strategies across battery optimization, DART, and FTR
+  trading. You could be helping researchers turn ideas into
+  reproducible experiments, or helping traders operate
+  strategies reliably in live markets. In either area, you'll
+  shape the architecture and drive implementation.
+
+  It's a lean team with a lot of responsibility per person.
+  You'll work directly with quants and traders to understand
+  their workflows, decide what to build, and ship it. There's
+  no separate platform team to hand the infrastructure work
+  to—ownership includes the interface, the underlying systems,
+  and how they behave in production.
+
+  What you'll build
+
+  Your work will focus on one of two areas:
+
+  - Quantitative research platform. Tools for developing
+    strategies and models, running thousands of reproducible
+    backtests and simulations, generating forecasts, and
+    moving tested ideas into production. Fast iteration,
+    point-in-time correctness, and traceability from research
+    results to deployed strategies.
+  - Trading operations platform. Systems for running strategies,
+    submitting bids and dispatch requests, tracking positions
+    and execution, and giving traders visibility and control
+    over live operations. Reliable execution, clear
+    operational state, and tools to detect and recover from
+    failures.
+
+  Across either area, you'll build:
+
+  - Data infrastructure. Pipelines for market, weather,
+    forecast, and asset data—ingested, versioned, backfilled,
+    monitored, and accessible to the people and systems that
+    need it.
+  - User-facing tools. Interfaces that make complex workflows
+    easier to understand and operate, built through direct
+    collaboration with quants and traders.
+  - Reliable production systems. Workflow orchestration,
+    versioning, observability, and CI/CD that make changes
+    routine, traceable, and reversible.
+
+  What we're looking for
+
+  - 5+ years building production systems, including something
+    you took from zero to running.
+  - End-to-end ownership. Comfortable owning a platform from its
+    user-facing workflows through the backend services, data
+    infrastructure, and production operations that support it.
+  - Strong product judgment. You're building for quants and
+    traders with no PM in between. You should be able to
+    observe their workflows, identify what's slowing them down
+    or creating operational risk, and turn that into useful
+    software.
+  - Close collaboration with users. Gather requirements
+    directly, make tradeoffs clear, and iterate quickly based
+    on feedback.
+  - Technical depth and range. Experience designing data-
+    intensive systems, coordinating complex workflows, and
+    making production behavior observable and understandable.
+  - Directness and curiosity. Understanding of quantitative
+    trading, backtesting, or energy markets is a plus, not a
+    requirement—but you'll need to ask good questions and
+    learn quickly.
+  - An appetite for intensity. This is a fast-moving team with
+    substantial responsibility. You should enjoy that pace and
+    the ownership that comes with it.
+industries:
+  - Software
+  - Energy
+  - Utilities
+  - Renewable Energy
+posted_date: 2026-09-11
+url: "https://builtin.com/job/quantitative-software-engineer/11129824"
+source: Built In

@@ -1,0 +1,147 @@
+job_id: 8906688
+title: Senior Backend Engineer
+company: Cytora
+location: IRL
+locations:
+  - IRL
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 133 Employees
+description: |
+  Shape the Industry and Your Career
+
+  At Cytora, now an Applied Systems company, we’re
+  transforming how insurers and brokers connect, operate, and
+  grow. Our AI-powered platform is driving smarter decisions,
+  greater efficiency, and seamless collaboration across the
+  global insurance ecosystem. As we accelerate digital
+  transformation, we’re looking for curious, collaborative
+  minds ready to help shape what’s next. If you’re energized
+  by innovation and inspired by impact, your future starts
+  here.
+
+  Position Overview  As a Senior Backend Engineer at Cytora,
+  you will be joining a backend functional team. As such, the
+  teams are small (maximum 4/5 people) and work independently
+  of each other.
+
+  Each team has a technical lead and a product owner steering
+  the team to make sure we deliver the right features.
+  Regardless of team you join, you will be prototyping,
+  implementing, shipping and supporting features that are
+  changing the insurance industry.
+
+  The core of our product is to digitize risks and to
+  accomplish that we rely heavily on Generative AI. Our
+  engineering and product teams are distributed across Europe.
+
+  Below you can find the required and preferred
+  qualifications.
+
+  We made this list quite extensive so that you also get a
+  taste of our tech stack!
+
+  This role requires experience with:
+
+  - Git
+  - Python (buzzwords: msgspec, httpx, pydantic, fastapi,
+    structlog, sqlalchemy, alembic, jinja2, pytest, ruff,
+    mypy)
+  - Mypy (we use mypy, a lot. We also welcome candidates with
+    experience with other static type checkers!)
+  - Rest APIs (we use openapi spec to document our apis)
+  - Relational Databases (we use Postgres)
+  - Docker (we use Docker to package our code, and docker-
+    compose to run it locally)
+  - AWS Lambda (The vast majority of our backend code is
+    deployed as AWS Lambda functions)
+  - AWS S3
+  - AWS RDS
+  - AWS API Gateway
+  - AWS SQS
+  - AWS SNS
+  - AWS SES
+
+  This role benefits from experience with:
+
+  - Redis
+  - GCP VertexAi (we use gemini a lot)
+  - GCP BigQuery (we use it to power our analytics)
+  - OCR engines (we use AWS Textract, GDocAI, and we have used
+    tesseractOCR in the past)
+  - Prompt Engineering
+  - Kubernetes
+  - CircleCI
+  - DataDog
+  - Auth0
+  - Role Based Access Control
+  - JsonSchema
+  - Pusher (we use it to push notifications to our Frontend Web
+    App)
+  - LocalStack (we use it to mock AWS services locally)
+  - Terraform
+
+  Why Cytora
+
+  We’re building the future of insurance and we’re doing it
+  together. At Cytora, now an Applied Systems company, we’re
+  driven by a shared mission to transform the industry through
+  AI-powered solutions that deliver smarter decisions,
+  stronger connections, and better outcomes.
+
+  We foster a culture that values who you are and recognizes
+  that you’re more than your role: you’re a teammate, and you
+  matter. We thrive on the strength of our diverse experiences
+  and celebrate the uniqueness each person brings to work
+  every day.
+
+  We believe flexibility fuels performance. Whether remote,
+  hybrid, or in-office, we empower our teams to work in ways
+  that work best for them.
+
+  Here’s what you can expect when you join us:
+
+  - Competitive salary
+
+  - Flexible working and remote options
+
+  - Professional development budget & conference access
+
+  - Annual company retreats
+
+  - A mission-driven culture that puts people first
+
+   Location
+
+  Cytora are a remote-first company. For this role you can be
+  based anywhere in the UK or Ireland provided you have fluent
+  spoken and written English, and have the permanent right to
+  work without requiring visa sponsorship.
+
+  AI Utilization
+
+  We leverage AI tools to streamline parts of our recruitment
+  workflow (such as resume parsing and interview scheduling).
+  However, candidate screening, interviews, and final
+  decisions are conducted by real humans.
+
+  EEO Statement
+
+  Applied Systems is proud to be an Equal Employment
+  Opportunity Employer. Diversity and Inclusion is a business
+  imperative and is a part of building our brand and
+  reputation. At Applied, we don’t discriminate, and we are
+  committed to recruit, develop, retain, and promote
+  regardless of race, religion, colour, national origin, sex,
+  sexual orientation, gender identity, disability, age,
+  veteran status, and other protected status as required by
+  applicable law.
+industries:
+  - Artificial Intelligence
+  - Insurance
+  - Software
+  - Business Intelligence
+posted_date: 2026-08-04
+url: "https://builtin.com/job/senior-backend-engineer/8906688"
+source: Built In

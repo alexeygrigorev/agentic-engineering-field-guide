@@ -1,0 +1,98 @@
+job_id: 10627908
+title: Founding Software Engineer
+company: Kintow, Inc.
+location: USA
+locations:
+  - USA
+  - Atlanta, USA
+  - New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 4 Employees
+description: |
+  Why Kintow Exists
+
+  Restaurants survive on razor‐thin margins. Their two largest
+  expenses, staffing and food, are hidden in manual,
+  error‐prone back‐office tasks that drain GMs’ time:
+
+  - Inventory tracking and vendor orders
+  - Manual invoice reviews and cost audits
+  - Staff scheduling and labor variance reconciliation
+  - Disparate spreadsheets and legacy tools
+
+  When a vendor quietly raises prices or staffing overshoots
+  demand, operators often don’t know until it’s too late.
+  Kintow’s mission is to automate those back-office workflows,
+  so GMs can focus on leading teams and delighting guests.
+  We’re already live with top cafes, bakeries, and restaurant
+  groups in the U.S. and are backed by a16z speedrun and Dria
+  Ventures
+
+  About the Role
+
+  As our Founding Software Engineer, you’ll own the technical
+  roadmap from data pipelines to AI‐powered features. You care
+  deeply about crafting clean, reliable systems and intuitive,
+  AI‐first experiences for non‐technical users. You’ll work
+  closely with Ivan and Avi to turn restaurant pain points
+  into scalable solutions—building integrations, automating
+  workflows, and setting engineering standards from day one.
+
+  What You'll Do
+
+  - Design and build AI‐first interfaces and APIs that surface
+    cost anomalies, automate reorder recommendations, and
+    drive dynamic schedule adjustments
+  - Architect and maintain scalable ETL pipelines to ingest
+    invoices, POS data, and labor metrics; build data models
+    that power machine‐learning features
+  - Ship autonomous B2B workflows, auto‐generate POs, sync
+    vendor feeds, and trigger schedule optimizations with
+    minimal intervention
+  - Define and uphold engineering best practices: establish code
+    standards, CI/CD pipelines, deployment strategies, and
+    mentor future hires
+
+  What We’re Looking For
+
+  - 5+ years of experience at a fast‐paced, venture‐backed
+    startup
+  - Full‐stack proficiency: Next.js, Prisma, PostgreSQL, Python,
+    AWS—comfortable prototyping front‐end features and
+    optimizing back‐end data flows
+  - AI‐driven mindset: Experience building ML‐enabled
+    applications; familiarity with OpenAI API, Prophet, or
+    similar libraries is a plus
+  - Product sensibility: You obsess over UX and performance so
+    automated workflows feel seamless to end users
+  - Ownership mentality: You thrive under ambiguity, wear
+    multiple hats, and ship high‐impact features on tight
+    timelines
+  - Long‐term equity upside: You want genuine ownership over
+    your work and our engineering culture
+
+  Why You’ll Love It Here
+
+  - Founding-level impact: Your code and architectural decisions
+    directly shape our product’s reliability and
+    scalability—there’s no red tape, just clear ownership.
+  - Design-first philosophy: We believe every feature should
+    start with user needs. Engineers and designers partner
+    from day one: Iterating prototypes, aligning on goals, and
+    ensuring the final product solves real problems.
+  - Respect for your personal time: We set high standards but
+    trust you to manage your schedule
+  - Transparent, candid culture: Open feedback loops, and
+    quarterly offsites ensure we solve hard problems face-to-
+    face.
+  - Equity & ownership: You’ll have real stake in our success
+    and the chance to define engineering practices, tooling,
+    and culture from day one.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Automation
+posted_date: 2026-10-24
+url: "https://builtin.com/job/founding-software-engineer/10627908"
+source: Built In

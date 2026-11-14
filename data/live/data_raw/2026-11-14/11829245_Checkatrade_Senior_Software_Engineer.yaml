@@ -1,0 +1,126 @@
+job_id: 11829245
+title: Senior Software Engineer
+company: Checkatrade
+location: Barcelona, ESP
+locations:
+  - Barcelona, ESP
+  - London, GBR
+work_type: FULL_TIME
+company_size: 595 Employees
+description: |
+  Powering Great Work
+
+  We started as the place to find a trusted trade. Now, as we
+  shape the future of home improvement, we're building the
+  tech to transform that landscape for everyone - better
+  products, smarter data, AI where it actually helps - so
+  trades can spend less time on admin and consumers can find
+  someone they trust, first time. That's Powering Great Work,
+  and it's why every team here exists:
+
+  🔧 Trades spend less time on admin and more on winning work
+  and growing their business
+
+  🏠 Homeowners get a trusted trade, first time, every time
+
+  🚀 We get to build products that change homes and lives
+  across the country
+
+  As our next Senior Software Engineer in Trust & Safety,
+  you'll own the systems that decide how tradespeople are
+  checked, how reviews are processed and how our marketplace
+  stays honest at scale. You'll work alongside the vetting and
+  reviews teams, who are on the front line of trust, and build
+  the infrastructure that lets them work with confidence. When
+  something breaks in production, you'll lead the response.
+  When something looks brittle at design time, you'll say so.
+
+  The job, unfiltered:
+
+  - Own and evolve the systems behind how tradespeople are
+    verified, how reviews flow through our platform and how
+    content is moderated.
+  - Lead the response when things break: read distributed
+    traces, correlate logs across services and find the cause,
+    not just the symptom.
+  - Design event-driven workflows that are reliable by default:
+    idempotent, retryable, with dead-letter handling that
+    doesn't need a 2am wake-up to unpick.
+  - Work directly with the vetting and reviews teams to
+    understand what trust means day to day, then build systems
+    that hold up to it.
+  - Tighten the operational seams: better monitoring, clearer
+    alerting, locked-down auth and outbox patterns that keep
+    data consistent.
+
+  The fit:
+
+  - Strong TypeScript. You're comfortable owning a service end
+    to end, from schema to deployment.
+  - Fastify or a similar Node.js framework, and enough HTTP
+    know-how that it rarely surprises you.
+  - Event-driven instincts: you know what idempotency means in
+    practice and why the outbox pattern exists.
+  - Full-stack comfort, Next.js included. You ship the frontend
+    as happily as the service behind it.
+  - Datadog fluency (APM traces, log search, metric queries),
+    SQL for diagnostics during an incident, and GCP basics
+    such as Pub/Sub backlogs and DLQs.
+  - Experience leading production incidents, not just being in
+    them. You communicate clearly under pressure and drive to
+    a fix.
+  - An eye for systemic problems at review time, not at post-
+    mortem time, and a habit of making the people around you
+    better.
+  - Regular use of AI tools like Cursor or Claude Code, and a
+    keen interest in helping the team get more out of them.
+
+  You don't need to know our Trust & Safety domain yet (the
+  review lifecycle, vetting disposition logic, publish
+  timing). You'll pick it up. What matters is that you learn
+  fast and take it seriously.
+
+  (Don't self-select out because you don't tick every box.
+  We'd rather meet you.)
+
+  What you get
+
+  💰 Competitive salary, annual bonus & equity scheme
+
+  🩺 Health, wellbeing and learning support
+
+  🚲 Gym membership, Smart Tech Scheme, Cycle Scheme
+
+  🎂 Birthday/special day leave, buy & sell holiday scheme
+
+  ❤️ 1 week's paid charity leave, and more
+
+  How this goes
+
+  - Screening call with one of our Talent Acquisition Partners
+  - Technical interview with members of the team
+  - Final stage with the hiring manager and a senior stakeholder
+
+  At the moment, this role isn’t open to visa sponsorship
+  applications.
+
+  Not this one? Stay close anyway. Join the Talent Community
+  and we'll ping you the second something better fits.
+
+  About us We’re Checkatrade – the UK’s leading platform for
+  finding a tradesperson. With more than 50,000 trades listed
+  and over 6 million reviews, we help homeowners get jobs done
+  right and help tradespeople grow their business.
+
+  We’re growing fast, with big plans to become the go-to brand
+  for home improvements. If you care about great work, take
+  pride in the details, and want to make an impact, you’ll fit
+  right in.
+industries:
+  - Consumer Web
+  - Information Technology
+  - Retail
+  - Software
+posted_date: 2026-10-23
+url: "https://builtin.com/job/senior-software-engineer/11829245"
+source: Built In

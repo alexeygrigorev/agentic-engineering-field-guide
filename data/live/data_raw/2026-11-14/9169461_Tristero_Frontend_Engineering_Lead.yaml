@@ -1,0 +1,121 @@
+job_id: 9169461
+title: Frontend Engineering Lead
+company: Tristero
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  Location: Remote / Americas Preferred
+
+  Compensation: $160k — $240k USD base, 0.4-0.8% equity
+
+  Overview:
+
+  Tristero's mission is to increase individual sovereignty. We
+  are focused on using cryptography to build a Binance-grade
+  exchange platform on-chain with total privacy. Our initial
+  focus is on blockchain interoperability, currently boasting
+  industry-leading pricing and settlement times
+
+  We are hiring a Senior Full-Stack Dapp Developer to be in
+  charge of making our web app (Dapp) best in class. In this
+  role you will work with a designer and 2-3 junior-
+  intermediate React devs to make trading via the front-end as
+  smooth and as fast as possible. We expect you to take
+  responsibility for the performance, stability, and feel of
+  the Dapp.
+
+  Key Responsibilities
+
+  Advanced Trading Infrastructure Engineering
+
+  Lead the development of ultra-low latency trading interfaces
+  capable of handling sub-second quote refreshes across 15+
+  blockchain networks simultaneously. You'll architect and
+  optimize the sophisticated debounced quote engine that
+  currently handles EVM, Solana, Tron, and Bitcoin UTXO
+  transactions, ensuring our trading experience rivals
+  centralized exchanges like Binance while maintaining full
+  decentralization. This includes implementing advanced order
+  routing logic, optimizing WebSocket-based real-time order
+  tracking, and building fail-safe mechanisms for cross-chain
+  transaction monitoring that can handle network instability
+  without degrading user experience.
+
+  Multi-Chain Performance & State Management Optimization
+
+  Drive the evolution of our complex Zustand-based state
+  architecture that currently manages trading operations
+  across vastly different blockchain paradigms—from EVM's
+  account-based model to Bitcoin's UTXO system to Solana's
+  parallel processing. You'll be responsible for eliminating
+  performance bottlenecks in our memoization layer and
+  ensuring seamless state synchronization across our provider
+  hierarchy. The goal is to achieve Hyperliquid-level
+  responsiveness while handling the additional complexity of
+  true cross-chain interoperability.
+
+  Transaction management systems
+
+  Own the implementation of our next-generation protocol for
+  cross-chain transfers between EVM, Solana, Tron, Bitcoin,
+  and Ripple. You'll enhance retry logic, circuit breakers,
+  and fallback mechanisms that ensure bulletproof UX across
+  quote unavailability, blockchain network instability, and
+  complex user behavior.
+
+  Scalable Component Architecture & Performance Engineering
+
+  Lead the development of a highly modular component and state
+  management system that can dynamically adapt to different
+  blockchain environments while maintaining a unified UX.
+  You'll architect reusable trading components that can
+  seamlessly switch between embedded wallets, traditional
+  browser wallets, and mobile wallets across EVM, BTC, Solana,
+  Tron, BSC, etc. —all while maintaining consistent
+  performance metrics. This includes optimizing React render
+  cycles for real-time price updates and building a
+  sophisticated error handling system that gracefully manages
+  the unique failure modes of each blockchain ecosystem.
+
+  Qualifications:
+
+  - 4+ years of experience in software engineering roles, with a
+    proven track record of leadership and technical expertise.
+  - Strong proficiency in React.
+  - Excellent communication and interpersonal skills, with the
+    ability to effectively collaborate with cross-functional
+    teams and influence decision making.
+  - Passion for blockchain technology (Crypto native experience
+    is a plus).
+  - Strong product sense
+
+  Nice-to-Have
+
+  - Experience contributing to or maintaining open-source
+    blockchain projects.
+  - Prior experience shipping DeFi products.
+
+  We’ve got unlimited PTO, a full suite of healthcare options,
+  and some swag with your name on it. We foster a high-trust,
+  high-autonomy culture. If you’re looking for a no-nonsense
+  team to build groundbreaking financial products
+  with—Tristero may be the place for you.
+
+  We're looking forward to hearing from you! If you do not
+  have any direct crypto experience, please
+
+  make sure to include a brief cover letter that explains why
+  you think you can onboard to a new domain smoothly. This can
+  be
+
+  very short - we do read these.
+industries:
+  - Blockchain
+  - Software
+  - Financial Services
+  - Cryptocurrency
+posted_date: 2026-08-08
+url: "https://builtin.com/job/frontend-engineering-lead/9169461"
+source: Built In

@@ -1,0 +1,152 @@
+job_id: 11900089
+title: "Software Engineer - Compute & Isolation"
+company: Baseten
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 350 Employees
+description: |
+  ABOUT BASETEN
+
+  Baseten powers mission-critical inference for the world's
+  most dynamic AI companies, like Cursor, Notion,
+  OpenEvidence, Abridge, Clay, Gamma, and Writer. By uniting
+  applied AI research, flexible infrastructure, and seamless
+  developer tooling, we enable companies operating at the
+  frontier of AI to bring cutting-edge models into production.
+  We're growing quickly and recently raised our $1.5B Series
+  F, led by Altimeter Capital, Conviction Partners, and Spark
+  Capital. Join us and help build the platform engineers turn
+  to ship AI products.
+
+  THE ROLE
+
+  Every agent on Baseten Sandboxes gets its own microVM, where
+  it writes and runs code, calls tools, and keeps state across
+  long tasks. Agents pause and resume constantly, so the
+  machine underneath has to start, stop, snapshot, fork, and
+  resume fast, and keep every tenant isolated while it does.
+  General-purpose virtualization was not built for that
+  workload.
+
+  The Agent Infra team builds that layer. Sandboxes run in
+  microVMs with custom Linux kernels on bare-metal servers we
+  operate. You'll own how sandboxes start, stop, snapshot,
+  fork, and resume, and how they perform on each host's CPU
+  and memory, down to the hardware. You'll also own the guest
+  and host side of each sandbox: its identity, how it attaches
+  to different storage classes for performance or
+  capabilities, and the virtual devices that connect it
+  securely to the network. In September 2026, Baseten acquired
+  Blaxel, whose microVM sandboxes are the foundation for
+  Baseten Sandboxes.
+
+  We are building a cloud, not just using one. That means
+  designing for many tenants from day one and thinking through
+  what each decision means all the way down to the datacenter.
+  The team is small and ownership is big: we ship in weeks and
+  months, not multi-year programs.
+
+  If you've worked deep in KVM and Firecracker, Cloud
+  Hypervisor, or QEMU and want to build the computers AI
+  agents run on, we'd love to talk.
+
+  EXAMPLE INITIATIVES
+
+  - Blaxel is joining Baseten to build the future of agentic
+    infrastructure
+  - Securing the open frontier with NVIDIA OpenShell and Blaxel
+    sandboxes
+  - Baseten Sandboxes documentation
+
+  RESPONSIBILITIES
+
+  - Own the microVM lifecycle for agent sandboxes: start, stop,
+    suspend, resume, snapshot, and fork
+  - Build and tune the custom guest kernels sandboxes run on
+  - Tune host CPU and memory configuration so sandboxes run fast
+    and safely on each type of hardware we operate
+  - Manage host-level resources and sandbox density on each
+    machine
+  - Own startup and resume performance end to end, from VM boot
+    or snapshot restore to the first command
+  - Own the guest and host side of each sandbox: its identity,
+    how it attaches to storage, and the virtual devices that
+    connect it to the network
+  - Design isolation for multi-tenant workloads where the
+    hypervisor is the security boundary
+  - Debug virtualization and isolation issues at scale, from
+    userspace through the kernel to the hardware
+  - Contribute architecture decisions and code back to the open-
+    source projects we build on
+
+  REQUIREMENTS
+
+  - Hands-on experience with KVM, plus Firecracker, Cloud
+    Hypervisor, or QEMU
+  - Deep understanding of Linux internals: namespaces, cgroups,
+    memory management, and the boot path
+  - Experience building cloud infrastructure as the provider
+    (multi-tenant compute that customers run on), not only
+    running workloads on a cloud provider
+  - Experience building multi-tenant infrastructure where
+    isolation is a security boundary
+  - Strong systems programming background in Rust and/or Go;
+    C/C++ also welcome
+  - Experience debugging performance and correctness problems
+    across userspace and kernel boundaries
+  - You move fast and like owning a problem end to end on a
+    small team
+
+  NICE TO HAVE
+
+  - Contributions to KVM, Firecracker, Cloud Hypervisor, QEMU,
+    rust-vmm, or the Linux kernel
+  - Experience with Xen
+  - Working knowledge of container runtimes and sandboxing
+    (containerd, runc, gVisor, Kata Containers)
+  - Experience with VM snapshot and restore, fast VM resume, or
+    building and tuning custom Linux kernels
+  - Experience running virtualization on bare metal and tuning
+    for specific CPU and memory architectures
+  - Experience building a sandbox, serverless, or function
+    runtime product
+  - Familiarity with Linux performance tooling such as eBPF,
+    perf, and ftrace
+
+  BENEFITS
+
+  - Competitive compensation, including meaningful equity
+  - (U.S. only) 100% coverage of medical, dental, and vision
+    insurance for employee and dependents
+  - Flexible PTO policy including company wide Winter Break (our
+    offices are closed from Christmas Eve to New Year's Day!)
+  - Paid parental leave
+  - Fertility and family-building stipend through Carrot
+  - (U.S. only) Company-facilitated 401(k)
+  - Exposure to a variety of ML startups, offering unparalleled
+    learning and networking opportunities.
+
+  Apply now to embark on a rewarding journey in shaping the
+  future of AI! If you are a motivated individual with a
+  passion for machine learning and a desire to be part of a
+  collaborative and forward-thinking team, we would love to
+  hear from you.
+
+  At Baseten, we are committed to fostering a diverse and
+  inclusive workplace. We provide equal employment
+  opportunities to all employees and applicants without regard
+  to race, color, religion, gender, sexual orientation, gender
+  identity or expression, national origin, age, genetic
+  information, disability, or veteran status.
+
+  We are an Equal Opportunity Employer and will consider
+  qualified applicants with criminal histories in a manner
+  consistent with applicable law (by example, the requirements
+  of the San Francisco Fair Chance Ordinance, where
+  applicable).
+posted_date: 2026-10-27
+url: "https://builtin.com/job/software-engineer-compute-and-isolation/11900089"
+source: Built In

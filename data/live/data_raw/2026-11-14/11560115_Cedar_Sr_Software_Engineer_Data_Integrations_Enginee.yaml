@@ -1,0 +1,165 @@
+job_id: 11560115
+title: "Sr. Software Engineer (Data & Integrations Engineering)"
+company: Cedar
+location: New York, USA
+work_type: FULL_TIME
+company_size: 420 Employees
+description: |
+  Our healthcare system is the leading cause of personal
+  bankruptcy in the U.S. Every year, over 50 million Americans
+  suffer adverse financial consequences as a result of seeking
+  care, from lower credit scores to garnished wages. The
+  challenge is only getting worse, as high deductible health
+  plans are the fastest growing plan design in the U.S.
+
+  Cedar’s mission is to leverage data science, smart product
+  design and personalization to make healthcare more
+  affordable and accessible. Today, healthcare providers still
+  engage with its consumers in a “one-size-fits-all” approach;
+  and Cedar is excited to leverage consumer best practices to
+  deliver a superior experience.
+
+  The Role
+
+  We are seeking a seasoned Sr. Software Engineer to join our
+  Data & Integrations Engineering team on the Integrations
+  Engineering squad to integrate with new client systems and
+  enhance the integrations of our live clients.
+
+  This team owns implementations, migration, and live
+  integration support for the flagship Cedar Pay product. You
+  will be partnering closely with Data & Integrations
+  Platform, Product, Delivery, and Support. This is a dynamic
+  role that focuses on both refining and enhancing our
+  critical integrations and on strategic investments in our
+  core data pipelines through data semantics, 835 processing,
+  and data catalog and lineage.
+
+  In this role you will:
+
+  - Lead the design, implementation, and evolution of the
+    interfaces that connect live integration data to the rest
+    of Cedar.
+  - Serve as a product engineer for internal users, driving the
+    roadmap and delivering tools and data abstractions that
+    make messy, customer-sourced data understandable and
+    consumable across the company.
+  - Support our existing live clients by implementing strategic
+    enhancements to their integrations.
+  - Act as a technical mentor for the team, establishing coding
+    standards and best practices for our evolving data
+    platform.
+  - Balance delivery on the needs of today while keeping an eye
+    toward our future North Star Architecture, grounding
+    deliverables in business critical outcomes with strong
+    engineering fundamentals
+  - Collaborate closely with delivery engineering teams on
+    mechanisms to improve the quality, speed and scalability
+    of data integration with healthcare providers.
+  - Continuously drive scalability into data tools, processes
+    and engineering practices in order to reduce
+    implementation and analytic timelines, customer friction
+    points and maintenance costs.
+  - Apply rigorous software engineering practices to the data
+    domain, including version control, automated testing
+    (unit/integration), CI/CD, and structured
+    logging/observability.
+
+  Who You Are:
+
+  - 6+ years of professional software development experience,
+    ideally in data/system integrations roles.
+  - Experienced in designing systems with real-world scale,
+    complexity, and ambiguity.
+  - Strong communicator who collaborates well with cross-
+    functional teams and non-technical stakeholders.
+  - Skilled in mentoring peers and helping others grow through
+    pairing, feedback, and guidance
+  - Comfortable with tradeoffs and pragmatic about architecture
+    decisions.
+  - Passionate about improving the healthcare experience through
+    thoughtful, human-centered software.
+
+  Bonus Points For:
+
+  - Comfort with Python/Django
+  - Experience with Healthcare Interoperability Standards such
+    as HL7/FHIR, X12, etc.
+  - Technical expertise across the data ecosystem: storage,
+    query and ETL orchestration technology; governance and
+    quality; analytics, visualization, and AI/ML pipelines.
+  - Familiar with data engineering paradigms like ETL, ELT,
+    Medallion Architecture, and Data Mesh, and can reason
+    between them.
+  - Strong self-starter with initiative. Cedar is a mature
+    startup, but successful candidates will still need a
+    strong drive to understand the systems and navigate them
+    to deliver successfully.
+  - Familiarity with data engineering tools like dbt, Snowflake,
+    Apache Airflow, Dagster, SQL Alchemy, Fivetran, and Kafka.
+  - Familiarity with Kotlin and Go.
+
+  Compensation Range and Benefits
+
+  - Salary/Hourly Rate Range*: $195,500 - $247,250
+  - This role is also bonus and equity eligible
+  - This role offers a competitive benefits and wellness package
+
+  What do we offer to the ideal candidate?
+
+  - A chance to improve the U.S. healthcare system at a high-
+    growth company! Our leading healthcare financial platform
+    is scaling rapidly, helping millions of patients per year
+  - Unless stated otherwise, most roles have flexibility to work
+    from home or in the office, depending on what works best
+    for you
+  - For exempt employees: Unlimited PTO for vacation, sick and
+    mental health days–we encourage everyone to take at least
+    20 days of vacation per year to ensure dedicated time to
+    spend with loved ones, explore, rest and recharge
+  - 16 weeks paid parental leave with health benefits for all
+    parents, plus flexible re-entry schedules for returning to
+    work
+  - Diversity initiatives that encourage Cedarians to bring
+    their whole selves to work, including three employee
+    resource groups: be@cedar (for BIPOC-identifying Cedarians
+    and their allies), Pridecones (for LGBTQIA+ Cedarians and
+    their allies) and Cedar Women+ (for female-identifying
+    Cedarians)
+  - Competitive pay, equity (for qualifying roles), and health
+    benefits, including fertility & adoption assistance, that
+    start on the first of the month following your start date
+    (or on your start date if your start date coincides with
+    the first of the month)
+  - Cedar matches 100% of your 401(k) contributions, up to 3% of
+    your annual compensation
+  - Access to hands-on mentorship, employee and management
+    coaching, and a team discretionary budget for learning and
+    development resources to help you grow both professionally
+    and personally
+
+  About us
+
+  Cedar was co-founded by Florian Otto and Arel Lidow in 2016
+  after a negative medical billing experience inspired them to
+  help improve our healthcare system. With a commitment to
+  solving billing and patient experience issues, Cedar has
+  become a leading healthcare technology company fueled by
+  remarkable growth. "Over the past several years, we've
+  raised more than $350 million in funding & have the active
+  support of Thrive and Andreessen Horowitz (a16z).
+
+  As of November 2024, Cedar is engaging with 26 million
+  patients annually and is on target to process $3.5 billion
+  in patient payments annually. Cedar partners with more than
+  55 leading healthcare providers and payers including
+  Highmark Inc., Allegheny Health Network, Novant Health,
+  Allina Health and Providence.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Healthtech
+  - Software
+posted_date: 2026-10-07
+url: "https://builtin.com/job/sr-software-engineer-data-integrations-engineering/11560115"
+source: Built In

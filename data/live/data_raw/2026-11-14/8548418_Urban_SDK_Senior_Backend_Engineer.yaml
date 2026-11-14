@@ -1,0 +1,100 @@
+job_id: 8548418
+title: Senior Backend Engineer
+company: Urban SDK
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 21 Employees
+description: |
+  About Urban SDK
+
+  Urban SDK is shaping the Future of Smart Cities. We are
+  pioneers in geospatial AI technology, providing public
+  leaders with insights and automation for mission-critical
+  decisions. We equip critical public services with geospatial
+  AI, enabling precise, data-driven decisions with efficiency
+  and confidence.
+
+  Our Commitment to People
+
+  We are committed to aligning business growth with
+  professional outcomes for every employee. Our commitment has
+  been recognized by Jacksonville Business Journal and Will
+  Reed as a noted Best Places to Work.
+
+  About the role
+
+  We are hiring a Senior Backend Engineer to design and build
+  scalable data-intensive systems using Python and modern big
+  data tooling. You will work on data pipelines, APIs, and
+  backend services that process large datasets using
+  dataframes, Parquet, and Databricks, enabling analytics and
+  visualization products at scale. This role is ideal for
+  someone who enjoys working close to data, cares deeply about
+  performance and reliability, and can own backend systems
+  end-to-end.
+
+  Responsibilities
+
+  - Design, implement, and maintain backend services and data
+    pipelines using Python
+  - Work extensively with dataframes (Pandas, PySpark, or
+    similar) to process large datasets
+  - Build and optimize data pipelines using Parquet and columnar
+    storage formats
+  - Develop and maintain workflows on Databricks
+  - Optimize performance for large-scale, distributed data
+    processing
+  - Design and maintain APIs that support data-heavy
+    applications
+  - Collaborate closely with front-end, data, and product teams
+  - Ensure data quality, reliability, and observability
+  - Participate in architectural decisions and technical
+    planning
+  - Mentor other engineers and lead code reviews
+
+  Required Qualifications
+
+  - 5+ years of backend or data engineering experience
+  - Strong proficiency in Python
+  - Deep experience with dataframes (Pandas, PySpark, Dask, or
+    similar)
+  - Hands-on experience with big data processing and distributed
+    systems
+  - Strong experience working with Parquet and columnar data
+    formats
+  - Experience using Databricks in production environments
+  - Solid understanding of data modeling, performance tuning,
+    and memory optimization
+  - Experience building and maintaining APIs (REST and/or gRPC)
+  - Strong debugging, testing, and problem-solving skills
+
+  Nice to Have
+
+  - Experience deploying and operating systems on AWS
+  - S3, EC2, EKS, Lambda, IAM, etc.
+  - Experience with infrastructure-as-code (Terraform,
+    CloudFormation)
+  - Experience with containerization and deployment (Docker,
+    Kubernetes)
+  - Familiarity with CI/CD pipelines and automated deployments
+  - Experience with streaming systems (Kafka, Kinesis)
+  - Background in analytics, geospatial data, or data platforms
+
+  Compensation
+
+  - Location: Jacksonville, FL (Town Center Area) or Remote
+  - Type:  Full-time
+  - Reports to: Director of Engineering
+  - Salary Based on Experience
+  - Annual Bonus
+  - Medical, Vision, Dental, 401(k)
+  - 21 Days Vacation
+  - Office Lunch provided Daily
+industries:
+  - Software
+  - Transportation
+  - Analytics
+posted_date: 2026-08-22
+url: "https://builtin.com/job/senior-backend-engineer/8548418"
+source: Built In

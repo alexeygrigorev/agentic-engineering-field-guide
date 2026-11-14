@@ -1,0 +1,200 @@
+job_id: 11330964
+title: Staff Frontend Engineer (f/m/d)
+company: bunch (bunch.capital)
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 72 Employees
+description: |
+  bunch is building the backbone of private markets. We are
+  enabling next-gen fund operations with one integrated system
+  that combines secure data infrastructure, AI-powered
+  workflows and expert fund services. If you value ownership,
+  growth through real responsibility, and working with a
+  thoughtful, ambitious team, this role might be for you.
+
+  Your Role
+
+  As a Staff Frontend Engineer at bunch, you will shape the
+  architecture, quality, and developer experience of the
+  product surfaces our customers and internal teams rely on
+  every day. You will work across product teams to make our
+  frontend systems scalable, reliable, accessible, and fast —
+  while helping engineers ship with clarity and confidence.
+
+  This is not only a delivery role. Your decisions will
+  influence how frontend engineering at bunch evolves: the
+  standards we adopt, the patterns we reuse, the quality bar
+  we hold, and the way product, design, and engineering
+  collaborate to build excellent user experiences.
+
+  How the role contributes to our vision
+
+  bunch is building the backbone of private markets, combining
+  exceptional expertise, operational excellence, and
+  frictionless technology. Our platform enables funds and
+  private investors to seamlessly and securely set up and
+  manage their investment entities.
+
+  As a Staff Frontend Engineer, you will play a pivotal role
+  in turning complex workflows into intuitive, robust, and
+  scalable product experiences. You will help ensure our
+  frontend foundation enables rapid delivery across teams
+  while maintaining high standards for usability, performance,
+  accessibility, and maintainability.
+
+  Top priorities
+
+  - Lead our migration from Svelte to React. Hold the
+    architectural picture across both stacks, sequence the
+    work against product delivery, and land it without
+    stalling teams.
+  - Maintain and evolve our design system, together with the
+    frontend guild, so product teams ship consistent,
+    accessible UI faster.
+  - Support and guide frontend initiatives across teams, with
+    the frontend guild — application architecture,
+    performance, testing strategy, developer experience, and
+    technical debt reduction — from diagnosis through
+    measurable delivery.
+  - Be the bar raiser for UX and UI quality, raising the
+    standard through design reviews, reusable patterns,
+    mentoring, and thoughtful technical writing.
+  - Advance how we build with AI — find where agentic tooling
+    genuinely improves engineering practice, and shape the
+    codebase (module boundaries, API contracts, documentation)
+    so it works well for people and agents alike.
+
+  Your first 90 days
+
+  - 30 days: map the frontend architecture, product domains,
+    design system, team workflows, and the main bottlenecks
+    affecting delivery and quality.
+  - 60 days: publish a structured problem analysis and proposal
+    for one cross-team frontend initiative with clear trade-
+    offs, stakeholders, and success measures.
+  - 90 days: lead a systemic improvement from kickoff to
+    measurable progress across teams, while helping Senior
+    Engineers grow through collaboration, reviews, and shared
+    ownership.
+
+  About you
+
+  - Track record — You have already operated at Staff scope,
+    with or without the title, and have shipped systemic
+    frontend or product-engineering improvements across
+    multiple teams. People listen to you because of what you
+    have delivered, how clearly you think, and how effectively
+    you collaborate.
+  - Frontend craft — Deep expertise in modern frontend
+    engineering, with strong command of TypeScript, component
+    architecture, state management, design systems,
+    accessibility, performance, testing, and maintainable
+    application architecture.
+  - AI-native practice — You use AI coding tools daily and have
+    gone past autocomplete into agentic workflows. You have a
+    considered view on where they genuinely help, where they
+    don't, and what a codebase needs to be a good place to
+    work in with agents.
+  - Product judgment — You care about the user experience as
+    much as the technical solution. You can translate
+    ambiguous workflows and business constraints into
+    pragmatic, elegant product experiences.
+  - Systems thinking — You are comfortable reasoning across
+    frontend, backend, APIs, infrastructure, observability,
+    security, and compliance when the problem requires it.
+  - Operating style — You think in quarters and years, not only
+    sprints. You drive cross-team change through credibility,
+    clear writing, architectural reasoning, and strong
+    stakeholder alignment — not through authority.
+  - Collaborative Leadership: A proactive relationship-builder
+    who can set technical direction and influence without
+    formal authority, manage diverse stakeholders and build
+    alignment on difficult technical decisions, while
+    mentoring engineers.
+  - Language — Fluent English, written and spoken. You can make
+    complex technical decisions legible to engineers, product
+    partners, design partners, and leadership alike.
+
+  Our tech stack
+
+  - Frontend: TypeScript, React, Svelte — we are consolidating
+    on React, and this role leads that migration.
+  - Backend: TypeScript, Node.js, Nest.js
+  - Database: MySQL
+  - Infrastructure: Kubernetes on AWS
+  - Source Control & CI/CD: GitHub
+  - Authentication: FusionAuth, Okta
+  - Internal Tools: Retool
+  - Messaging: Twilio, SendGrid
+  - Forms: Tally
+
+  Workplace & Benefits
+
+  - Customizable benefits package covering wellbeing, sport,
+    mobility, food, and more
+  - 28 days of vacation, plus 2 company days and local public
+    holidays
+  - Remote-flexible hybrid setup
+  - Up to 6 remote calendar weeks a year
+  - A great tech and work setup
+  - Work with a diverse team of 130+ bunchies from 40+
+    countries, with leaders who are best-in-class in their
+    domains
+
+  Hiring process
+
+  - Initial screening with Talent Acquisition (30 min): get
+    acquainted with bunch, explore your motivation, and
+    understand whether what we offer matches what you are
+    looking for.
+  - Hiring Manager call — Engineering (60 min): a conversation
+    with Engineering leadership focused on your scope,
+    frontend leadership, product-engineering mindset, and how
+    you diagnose and lead systemic improvements.
+  - Technical Interview (60 min): a hands-on technical
+    conversation focused on frontend engineering craft,
+    TypeScript, component design, maintainability, testing,
+    and pragmatic problem-solving.
+  - Technical Interview — System Design (60 min): a
+    frontend/system design conversation focused on
+    architecture, data flow, performance, accessibility,
+    reliability, and trade-offs in complex product systems.
+  - VP Product conversation (45 min): a cross-functional
+    conversation focused on product thinking, customer
+    empathy, business acumen, and how you partner with Product
+    and Design on ambiguous problems.
+  - Final round (45 min): a closing conversation to align on
+    what we heard across the process, answer remaining
+    questions, and discuss expectations for the role and trial
+    period.
+
+  About bunch
+
+  bunch is building the operating infrastructure for the next
+  generation of private markets. We combine AI-powered
+  automation with deep regulatory expertise to replace
+  fragmented spreadsheets and manual processes with one
+  integrated platform across the fund lifecycle, purpose-built
+  for private markets heading toward $32 trillion in Assets
+  Under Management.
+
+  We've 4x our ARR in 2025, crossed 150 fund managers and
+  12,000 LPs on the platform, and just closed our $35M Series
+  B in May 2026. We're looking for ambitious people who want
+  real ownership of hard problems, and who care about building
+  infrastructure that actually matters to the people using it.
+
+  ____ At bunch, we're committed to an inclusive environment
+  where diversity is valued and celebrated. We provide equal
+  opportunities to all qualified applicants.
+
+  We process personal data in line with applicable laws
+  (including GDPR). See our Privacy Policy for details on your
+  rights and how to reach us.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-09-23
+url: "https://builtin.com/job/staff-frontend-engineer-f-m-d/11330964"
+source: Built In

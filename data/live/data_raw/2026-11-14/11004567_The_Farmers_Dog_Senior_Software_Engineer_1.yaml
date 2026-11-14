@@ -1,0 +1,289 @@
+job_id: 11004567
+title: Senior Software Engineer 1
+company: The Farmer's Dog
+location: New York, USA
+work_type: FULL_TIME
+company_size: 800 Employees
+description: |
+  Who We Are
+
+  The Farmer’s Dog was born from a mission to change the
+  landscape of pet health, providing dogs and their humans
+  with honest, smart, and simple care. We’re starting by
+  radically improving the $90 billion pet food industry,
+  replacing bags of highly-processed pellets with a
+  personalized subscription service that sends complete and
+  balanced, freshly-made dog food directly to customers’
+  doors. Our ultimate goal is to create innovative, delightful
+  and personalized experiences across all aspects of pet care,
+  and we believe our direct-to-consumer business model,
+  holistic approach to growth, and dynamic culture uniquely
+  position us to shepherd this backwards industry into the
+  future. To date, The Farmer’s Dog has delivered over 1
+  billion meals nationwide and raised over $150M in funding to
+  help us build a company as healthy as the dogs who are
+  eating those meals. Join us as we continue to develop ways
+  of bringing peace of mind to customers, health to their
+  companions, and much-needed change to the way people feed
+  and care for their pets.
+
+  #LongLiveDogs
+
+  What We Stand For and Where You’ll Come In
+
+  At The Farmer's Dog, we believe the best customer experience
+  comes from owning the technology that powers it. That's why
+  we design, build, and operate our systems in-house, from
+  subscription and e-commerce to fulfillment and delivery, so
+  that every dog and human gets the right experience, every
+  time.
+
+  Our engineers work on problems that matter and that are
+  hard: evolving systems to support rapid growth, building
+  platforms flexible enough to serve customers with many
+  different needs, and creating product experiences that
+  didn't exist before.
+
+  Short feedback loops are how we get better, in code and in
+  how we work together. We trust people to do good work and
+  want to keep improving, so feedback flows freely. The same
+  instinct shapes how we ship: peer-reviewed code to
+  production in minutes via CI/CD, and A/B experiments,
+  feature flags, shadow deployments and progressive rollouts
+  to release with confidence.
+
+  As a Senior Software Engineer, you'll work on the systems at
+  the core of how The Farmer's Dog operates: subscriptions,
+  pricing, billing, and order generation. Everything depends
+  on these systems, and we're reshaping them for the next
+  phase of growth. You'll own architectural decisions that
+  other engineers will build on for years, partnering closely
+  with other engineering pods, Product, Design, Data
+  Analytics, and Lifecycle Comms.
+
+  We care deeply about building reliable, scalable systems and
+  about working well together, regularly whiteboarding, pair
+  programming, and reviewing architecture with peers who set a
+  high bar. If you want to make an outsized impact on
+  technology, on customers, and on the lives of dogs
+  everywhere, this is the right place for you.
+
+  One Team: We don’t think of ourselves as “Acquisition
+  Marketers”, “Engineers”, “Data Analysts”, or “Product
+  Managers”. Beyond denoting skill sets and areas of
+  expertise, we don’t think departments matter. We’d rather
+  align ourselves to the goals we’re working to achieve and
+  make sure we have necessary subject matter expertise to
+  drive meaningful impact. We strive to orient ourselves
+  around customer problems TOGETHER – getting the right
+  people, with the right context, in the right rooms/Zooms to
+  solve problems holistically.
+
+  We are skeptical about everything and precious about
+  nothing:  Ideas can and should come from anywhere, and we
+  aren’t tied to our own. We proactively source input. We talk
+  to our customers and leads regularly and are quick to change
+  course if we know there’s a better or more impactful way to
+  solve problems.
+
+  We consider the customer journey in all of our decisions:
+  We know that no interaction exists in a silo and therefore
+  understand how important every single one is.  We ensure our
+  strategy sets prospective and new customers up for success
+  and drives long-term retention.  We answer questions and
+  address problems early and proactively.  We understand the
+  value of different channels, initiatives, and messages and
+  know how to articulate impact and advocate for
+  prioritization holistically.
+
+  We Execute For Impact: We don’t subscribe to “best
+  practices” or “industry KPIs”. We’re uninterested in how we
+  compare to “benchmarks”; instead we orient ourselves around
+  being the best we can possibly be. Similarly, we don’t
+  subscribe to rigid or classical expectations of roles – i.e.
+  acquisition is hyper-focused on improving customer retention
+  and experience.
+
+  We Are Focused and Work Without Assumption: We are not
+  beholden to ideas. We have goals and believe everything
+  beyond that is a series of hypotheses to validate. To that
+  end, we seek to work in sequence and not in parallel. We
+  constantly ask ourselves, “what’s the most important
+  hypothesis I should be working on right now? How do I
+  confirm or reject that hypothesis as fast as possible?”. We
+  rarely have timelines/deadlines and are constantly taking in
+  new information and adjusting our priorities accordingly. We
+  don’t expect to be perfect the first time.
+
+  How You'll Make An Impact
+
+  - Lead the end-to-end lifecycle of complex systems and
+    features, from design through long-term operation. You own
+    what you ship in production, not just the merge.
+  - Decompose ambiguous problems into concrete work. Take a
+    customer problem or vague initiative, break it into
+    shippable scope, make judgment calls you can defend and
+    document, then ship the code that delivers against them.
+  - Understand data relationships and how they propagate through
+    the system. Engineers here own the data model end-to-end,
+    from API to database, designing the schemas, migrations,
+    and contracts that hold up as we iterate. Be thoughtful
+    with decisions that help us iterate and hold up as we
+    scale.
+  - Own production operation and monitoring of the systems you
+    build, with awareness of their SLAs. Diagnose root causes
+    and anticipate risk before it becomes an incident. Surface
+    issues with recommendations, not open questions.
+  - Partner cross-functionally with Product, Design, Data
+    Analytics, Lifecycle Comms, and others as the work
+    demands. Bring them in from the start and solve problems
+    together, not in isolation. Write and speak clearly enough
+    that they can engage with your decisions, not just receive
+    them.
+  - Develop the pod and improve the system. Mentor other
+    Engineers through code review, design feedback, and
+    incident retros. Refine the processes, tools, and on-call
+    practices that raise the bar for everyone.
+  - Work in our stack: TypeScript end-to-end, GraphQL, Temporal
+    for durable workflows, Postgres, AWS. Embrace and evaluate
+    new tools as the work requires.
+  - Leverage AI tools to make your work better than it would be
+    without them. Own what you ship: you must be able to
+    explain, debug, and maintain it, regardless of how it was
+    produced.
+
+  We're Excited About You Because
+
+  - You are a strong full stack engineer with 6 - 8+ years of
+    experience who is comfortable working across the frontend
+    and backend, and you enjoy building features end-to-end
+    (experience in our stack is a plus).
+  - You have significant experience building and operating
+    production systems where bugs cost money or break customer
+    trust.
+  - You bring strong written and verbal communication, and you
+    see the value in writing down key decisions, tradeoffs,
+    and practices for the people who'll use them.
+  - You welcome diverse opinions and actively seek input to
+    challenge your assumptions.
+  - You’re an owner, have excellent problem-solving skills and
+    can prioritize tasks effectively, with a strong attention
+    to detail.
+  - You bring pragmatic judgment about when to reach for AI and
+    other new tools and when not to.
+  - You are able to thrive in a fast-paced and ambiguous
+    environment, naturally curious and proactive self-starter,
+    constantly on the lookout for new opportunities and
+    solutions.
+  - You love dogs.
+
+  Office Guidelines
+
+  We are an in-office culture, made of in-office people who
+  thrive on the collaboration and magnetism of working in a
+  shared space. We are seeking individuals who excel in this
+  type of environment, where being present fosters deeper
+  connections and engagement. We ask all team members to be in
+  office 4 - 5 days a week to build a collaborative and
+  invested environment to foster our unique in-person culture
+  we are proud to have. This office policy is subject to
+  change at company discretion.
+
+  Our Belonging Philosophy:
+
+  At TFD, we believe Belonging is a shared commitment to
+  creating a workplace where every person feels respected,
+  valued, and empowered to be themselves. When people feel a
+  true sense of belonging, they do their best work, take smart
+  risks, and bring forward diverse perspectives — leading to
+  stronger decisions and deeper relationships. We anchor this
+  belief in a simple phrase: “Everyone’s welcome at the dog
+  park.” No matter your background, identity, or role, there’s
+  space for you here. There’s no one way to show up at the dog
+  park— just shared space, mutual respect, and the freedom to
+  be yourself. Being included is just the beginning, it’s
+  about contributing your voice, growing through challenges,
+  and building trust through shared goals. This philosophy
+  guides how we lead, how we hire, how we communicate, and how
+  we grow.
+
+  We continuously evaluate to ensure we are creating a
+  consistent experience that cultivates belonging for all
+  employees, from hiring and performance reviews to talent
+  development. We also believe Belonging happens in everyday
+  moments of connection; lunch with a new teammate, a shared
+  laugh, or a quick story about your weekend. Our structure
+  includes biannual employee surveys, manager training, TFD
+  camps, and support from Humans to ensure we’re listening and
+  learning from our Team.
+
+  Together, these efforts reflect what Belonging means at TFD:
+  a culture where everyone can thrive.
+
+  A Few of Our Best Benefits
+
+  - Dog-friendly office in SoHo
+  - Market-competitive compensation and equity packages
+  - Comprehensive Healthcare, Dental, and Vision
+  - Company supported mental health benefits
+  - 12 week paid parental leave
+  - Competitive 401k plan with company match
+  - Flexible PTO
+  - Discounted fresh food for your pup
+  - Your pet interrupting video calls (and in-person meetings)
+    is now a feature, not a bug
+
+  Equal Employment Opportunity Statement
+
+  The Farmer's Dog, Inc. is an equal employment opportunity
+  employer and does not discriminate in hiring on the basis of
+  sex, gender identity, sexual orientation, race, color,
+  religion, creed, national origin, physical or mental
+  disability, protected veteran status or any other legally
+  protected characteristic or status. For more information,
+  please visit Know Your Rights.
+
+  Reasonable Accommodations
+
+  TFD complies with applicable federal, state, and local
+  disability laws and makes reasonable accommodations for
+  applicants and employees with disabilities.  If a reasonable
+  accommodation is needed to participate in the job
+  application or interview process, to perform essential job
+  functions, and/or to receive other benefits and privileges
+  of employment, please contact humansops@thefarmersdog.com.
+
+  We're Here to Help
+
+  We’re happy to answer any questions you may have about the
+  position or our hiring process - please reach out at
+  careers@thefarmersdog.com.
+
+  We commit to building a competitive compensation package and
+  company environment for all individuals to thrive. We
+  believe in competitive base compensation rooted in location
+  specific market data and performance along with equity
+  ownership in the company that allows every team member to
+  build their personal wealth as the company grows, just as
+  much as we believe in fostering a culture that supports our
+  team members personally, professionally, and holistically.
+  For this role the anticipated hiring base compensation range
+  is USD annual and the compensation offered will include a
+  robust market competitive package of base and equity. In
+  addition to your base compensation offer you will also
+  receive equity ownership in the company. More information
+  about the value of this equity will be shared at the time of
+  offer. This range is representative of NYC Market Data if
+  you are applying to this role outside of the NYC area the
+  range may change.
+
+  NYC Pay Range
+
+  $190,000—$200,000 USD
+industries:
+  - eCommerce
+  - Food
+  - Pet
+posted_date: 2026-09-03
+url: "https://builtin.com/job/senior-software-engineer-1/11004567"
+source: Built In

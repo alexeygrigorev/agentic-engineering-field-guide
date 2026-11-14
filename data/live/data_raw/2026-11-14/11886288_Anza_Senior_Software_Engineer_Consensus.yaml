@@ -1,0 +1,135 @@
+job_id: 11886288
+title: Senior Software Engineer, Consensus
+company: Anza
+location: Zürich, CHE
+locations:
+  - Zürich, CHE
+  - New York, USA
+  - San Francisco, USA
+  - London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 22 Employees
+description: |
+  Software Engineer, Consensus - Anza
+
+  Who We Are
+
+  Solana is the leading high-performance network powering
+  internet capital markets, payments, and crypto applications,
+  built to become the capital market for every asset on earth.
+  Anza is the core engineering team behind it. Founded by the
+  engineers who built the original Solana validator client at
+  Solana Labs, we develop Agave, the network’s primary and
+  most widely run validator client, and ship the software that
+  pushes the boundaries of blockchain performance and scale.
+
+  We advance the frontier of Solana’s core protocol. Most
+  recently, Anza built and shipped Alpenglow, the biggest
+  upgrade in Solana’s history, replacing the network’s
+  original consensus protocol and bringing deterministic
+  finality in about 150ms to mainnet-beta. And we’re just
+  getting started, with work underway on faster block
+  propagation, quicker leader handoffs, and the infrastructure
+  that will carry Solana’s next phase of growth.
+
+  The Role
+
+  As a Software Engineer specializing in consensus, you will
+  play a critical role in fortifying Anza's Agave client and
+  the broader Solana network. Your work will directly improve
+  the efficiency and reliability of our blockchain
+  infrastructure, ensuring robust, timely consensus
+  mechanisms. You will focus on optimizing the processes that
+  underpin the agreement on block validity and order, ensuring
+  they are secure, performant, and scalable to support future
+  growth.
+
+  Responsibilities
+
+  - Develop and Optimize Consensus Mechanisms: Design,
+    implement, and optimize the mechanisms for consensus to
+    enhance the throughput and stability of the Solana
+    network.
+  - Efficient Coordination: Develop and refine algorithms to
+    ensure fair and efficient agreement on block production
+    among validators.
+  - Ensure Security and Integrity: Identify and mitigate
+    potential security vulnerabilities within the consensus
+    mechanisms, ensuring robust protection against emerging
+    threats.
+  - Scalability and Performance: Work on improving the
+    scalability of the consensus system to handle increasing
+    transaction volumes and validator participation without
+    compromising on performance.
+  - Testing and Validation: Create and execute comprehensive
+    tests to validate the reliability and efficiency of the
+    consensus mechanisms, including stress tests, fault
+    injection, and performance benchmarking.
+  - Collaboration: Collaborate with cross-functional teams,
+    including core protocol engineers, security experts, and
+    infrastructure teams, to ensure the seamless integration
+    and functioning of the consensus components.
+  - Documentation and Code Review: Maintain thorough
+    documentation of the consensus protocols and conduct peer
+    code reviews to uphold high standards of code quality and
+    consistency.
+
+  RequirementsWhat You'll Bring
+
+  - Experience: A Bachelor's degree in Computer Science,
+    Engineering, or equivalent practical experience and 3+
+    years of hands-on experience with core infrastructure
+    software and distributed systems.
+  - Technical Expertise: Strong proficiency in systems
+    programming languages such as Rust or C++. Experience with
+    consensus algorithms, distributed systems, and blockchain
+    technology is highly desirable.
+  - Problem-Solving Skills: Ability to analyze complex systems,
+    identify potential issues, and develop effective, flexible
+    solutions.
+  - Security Mindset: Knowledge of common security threats and
+    best practices in securing consensus processes.
+  - Growth Mindset: Actively consuming research papers,
+    designing, and investigating new solutions.
+  - Performance Optimization: Experience with performance
+    profiling and optimization techniques.
+  - Collaboration and Communication: Excellent teamwork and
+    communication skills, with the ability to work effectively
+    in a collaborative environment.
+
+  Preferred Qualifications
+
+  - Familiarity with Linux, systems automation tools, and
+    systems architecture.
+  - Understanding of networking, architecture, and principles
+    underlying distributed systems.
+  - A knack for designing secure protocols, software, and
+    algorithms that minimize trust requirements.
+  - Self-driven, research oriented, and the ability to learn
+    independently.
+  - Active participation in Bitcoin/Ethereum/Blockchain projects
+    or the open-source community is highly desirable.
+
+  BenefitsWhy Join Anza?
+
+  We offer a dynamic, fast-paced environment where innovation
+  and problem-solving are at the heart of everything we do.
+  Here, your work will have a direct impact on the security
+  and scalability of blockchain technology, contributing to
+  the foundation of decentralized applications worldwide.
+
+  We're excited to welcome individuals who share our passion
+  for pushing the boundaries of blockchain technology. If
+  you're ready to take on the challenge and contribute to the
+  next generation of blockchain infrastructure, we'd love to
+  hear from you.
+
+  The salary range for US-based candidates will be determined
+  throughout the interview process depending on experience,
+  skill, and location. Candidates should anticipate an annual
+  base salary (not including incentive compensation or other
+  benefits) of $180,000 USD to $300,000 USD.
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-software-engineer-consensus/11886288"
+source: Built In

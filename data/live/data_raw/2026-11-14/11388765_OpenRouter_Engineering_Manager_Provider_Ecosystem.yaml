@@ -1,0 +1,114 @@
+job_id: 11388765
+title: Engineering Manager, Provider Ecosystem
+company: OpenRouter
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 8 Employees
+description: |
+  About OpenRouter
+
+  OpenRouter is the leading AI routing and infrastructure
+  layer that enterprises use to access, manage, and optimize
+  the best large language models across providers—without
+  lock-in, capacity constraints, or unnecessary cost. We power
+  the most advanced AI teams in the world by giving them the
+  flexibility to move fast, scale confidently, and stay
+  future-proof as models evolve.
+
+  As enterprise adoption of AI accelerates, OpenRouter sits at
+  the center of how organizations operationalize LLMs across
+  research, product, and production workloads.
+
+  About the Role
+
+  The Provider Ecosystem team owns the supply side of
+  OpenRouter: every model, endpoint, and provider the router
+  can send a request to. That means hundreds of providers,
+  thousands of endpoints, and millions of requests a day, in a
+  model landscape that changes every week.
+
+  You’ll be at the front of the industry. Labs and inference
+  providers want to reach OpenRouter’s users, so this team
+  gets early access to novel inference offerings, often
+  through exclusive and stealth launches, and gets them live
+  on day zero.
+
+  This is a hands-on leadership role reporting to the VPE.
+  You’ll grow the team, stay deep in the code, and be
+  OpenRouter’s technical face to the labs and providers we
+  partner with.
+
+  What You'll Do
+
+  - Lead the team: hire and grow strong engineers, set the
+    roadmap, stay hands-on in code reviews and incidents, and
+    advocate for the team with leadership.
+  - Core Provider: own provider adapters, the endpoint
+    lifecycle, and routing. Be the technical counterpart for
+    top providers, run day-zero and stealth launches, and work
+    with GTM, BD, and legal to get providers from signed NDA
+    to live in weeks, not months.
+  - Multi-Modal: lead the expansion beyond text into image,
+    video, audio, and embeddings, plus realtime and batch
+    inference.
+  - Benchmarks: own evals and inference quality, and turn that
+    data into routing decisions and direct feedback that makes
+    providers better.
+
+  What We're Looking For
+
+  - 4+ years of engineering management experience, including at
+    least one environment where you built or scaled a team
+    during a period of rapid growth.
+  - Strong technical foundation in distributed systems, API
+    design, and LLM inference. You understand how inference is
+    served (streaming, tool calling, prompt caching,
+    quantization, throughput and latency trade-offs), how
+    provider APIs differ from each other, and what it takes to
+    route millions of requests across hundreds of
+    heterogeneous endpoints.
+  - Hands-on and comfortable staying that way. You write code,
+    use AI-assisted development tools, and lead by example in
+    a team where everyone ships.
+  - Comfortable being externally facing. You can sit across from
+    a model lab’s engineering team, negotiate an integration,
+    and represent OpenRouter’s technical requirements without
+    a PM in the room.
+  - Data-driven about quality. You want benchmarks, evals, and
+    production telemetry deciding which provider gets traffic,
+    not vibes.
+  - Proven ability to recruit and retain strong engineers.
+    Ideally, you’ve built teams people want to join and you
+    bring a network of talent with you.
+  - High agency and clear communication. You don’t wait for
+    direction, you identify what matters, make a plan, and
+    drive it forward. You speak up when you disagree and back
+    it with substance.
+  - Pragmatic about what a lean engineering org actually needs
+    versus what a 500-person org would do. You optimize for
+    speed and clarity, not process.
+
+  Nice to Haves
+
+  - Experience at an inference provider, model lab, or GPU
+    cloud, or building products on top of many LLM APIs at
+    once.
+  - Experience with our stack: TypeScript, Cloudflare Workers,
+    Postgres, ClickHouse, GCP, or Vercel.
+  - Background in evals, benchmarking, or routing and load-
+    balancing systems.
+  - Experience shipping multimodal APIs (image, video, speech,
+    embeddings) or realtime and batch inference.
+  - Experience running vendor security and compliance reviews
+    (NDA, DPA, SOC 2) as part of a partner onboarding process.
+  - Existing user of OpenRouter, or active side projects in AI
+    infrastructure or developer tooling.
+
+  If you don't think you meet all of the criteria below but
+  still are interested in the job, please apply. Nobody checks
+  every box, and we're looking for someone who is excited to
+  join the team.
+posted_date: 2026-09-28
+url: "https://builtin.com/job/engineering-manager-provider-ecosystem/11388765"
+source: Built In

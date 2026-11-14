@@ -1,0 +1,183 @@
+job_id: 10730064
+title: Full-Stack Product Engineer
+company: Sunset
+location: New York, USA
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  About Replay
+
+  We are building the first-ever bank for enterprise data.
+  There are over 35 million businesses in the US alone, many
+  of which are sitting on an asset they don’t know they have.
+  At Replay, we help businesses monetize their historical
+  operating data by licensing it to the frontier AI and data
+  labs for model training. Replay sits at the intersection of
+  advancing the frontier of AI, while helping companies
+  generate millions in growth capital without having to give
+  up equity, take on debt, or lay off employees.
+
+  Why Join Replay Now
+
+  - We have scaled from $0 to a multi-eight-figure run rate in a
+    matter of months
+  - We have raised from top-tier investors, including Floodgate,
+    Afore, Ludlow, and Hustle Fund
+  - We are small enough that you will carry outsized
+    responsibility and grow as quickly as the company does
+  - You will partner with and build for some of the fastest and
+    most important companies in the world
+  - You will help build a massive, category-defining business
+    from the ground floor
+
+  The Role
+
+  We're hiring full-stack product engineers to own hard
+  customer problems from the first product decision through
+  reliable production systems. You will work across UX,
+  frontend, backend, data, testing, observability, and
+  iteration—not simply one layer of the stack.
+
+  We have opportunities across three connected product areas:
+  acquiring internal enterprise work data from the systems
+  where it lives, guiding companies through dissolution, and
+  building the product layer around a de-identification
+  pipeline that makes sensitive data safe and useful. You do
+  not need prior experience in these domains. Each opening is
+  tied to a real area of ownership, and we will be clear early
+  in the process about which current opening appears most
+  relevant to your experience.
+
+  What You'll Do
+
+  - Own ambiguous customer or internal-team problems from
+    discovery through measurable production outcomes
+  - Build coherent vertical slices across frontend, backend,
+    workflow state, data, testing, observability, security,
+    and release
+  - Make complicated processes clear without hiding exceptions,
+    uncertainty, or recovery paths
+  - Diagnose difficult production behavior and remove recurring
+    root causes
+  - Establish useful measurements and improve customer, team,
+    quality, or reliability outcomes
+  - Create reusable product and engineering capabilities that
+    make later work faster and safer
+  - Use AI deeply in development and where it improves the
+    product, with explicit evaluation and verification
+  - Work directly with Product, Design, customers, domain
+    experts, and other engineers
+
+  Problems You Might Own
+
+  The common thread across our product is turning difficult,
+  failure-prone work into software people can understand and
+  trust. These areas share one Full-Stack Product Engineer
+  title and hiring bar, but they represent distinct work and
+  ownership. You do not need to choose one when applying. We
+  will discuss the most relevant current opening early, and
+  the placement-specific portion of the interview will reflect
+  that work.
+
+  Bring fragmented enterprise data into one trustworthy system
+
+  Customers need to bring internal work data out of many SaaS
+  tools, APIs, files, and export processes. Build the product
+  that takes them from “our data lives over there” to a
+  successful, verified transfer. You might design provider-
+  specific export journeys, model long-running transfer state,
+  make failures and recovery understandable, or build
+  contracts, fixtures, and acceptance tests that keep every
+  new source from becoming a one-off. This also means
+  maintaining clear provenance and health across every
+  handoff.
+
+  Help companies navigate dissolution from start to finish
+
+  Build the software that helps a company wind down its
+  operations responsibly. The product spans onboarding, forms,
+  documents, auctions, permissions, government obligations,
+  operational closeout, and the exceptions that appear along
+  the way. You might model durable workflow state, generate or
+  parse documents, reconcile conflicting information, design a
+  safe team intervention, or make a consequential next step
+  clear to a customer. The challenge is keeping the whole
+  journey understandable and recoverable when reality deviates
+  from the expected path.
+
+  Make the de-identification pipeline understandable and
+  trustworthy
+
+  Our pipeline turns sensitive enterprise data into de-
+  identified datasets without losing useful structure and
+  meaning. Build tools that show what ran, surface what was
+  missed or changed incorrectly, and support delivery
+  decisions. You might seed synthetic data with subtle
+  failures, replay past defects, construct golden examples,
+  combine deterministic checks with bounded model-based
+  judges, or design investigation interfaces that reveal what
+  no single metric can. The goal is evidence the team can
+  interrogate and trust.
+
+  What Success Looks Like
+
+  - You ship complete product improvements that customers and
+    the team trust and use
+  - The customer, team, quality, or reliability outcome you set
+    out to improve moves meaningfully from its baseline
+  - Complex system state becomes understandable, failures become
+    recoverable, and recurring problems receive durable fixes
+  - Manual effort, support burden, and repeated work decline as
+    the product improves
+  - What you build creates reusable leverage for later work,
+    including responsible and verified uses of AI
+
+  You Might Thrive Here If
+
+  - You have at least three years of professional software
+    engineering experience
+  - You are a strong full-stack engineer with excellent product
+    and UX judgment
+  - You have worked in a startup and enjoy broad ownership,
+    changing context, and building without fully specified
+    requirements
+  - You have owned ambiguous problems from discovery through
+    implementation, production operation, and iteration
+  - You can make complex workflows clear while reasoning
+    carefully about state, data integrity, testing, security,
+    observability, and recovery
+  - You use evidence to debug systems and measure whether your
+    work improved the outcome
+  - You use modern AI engineering tools fluently, verify their
+    output, and understand how to evaluate AI product behavior
+  - You communicate clearly across technical and customer-facing
+    teams
+
+  This Role May Not Be for You If
+
+  - You want to work exclusively in one layer of the stack
+  - You need a clean handoff between product definition, design,
+    and engineering before you begin
+  - You prefer predictable feature work over ambiguous product
+    and systems problems
+  - You do not want AI tools to be part of your daily
+    engineering workflow
+
+  Bonus
+
+  - Strong TypeScript, React, Node.js, or comparable full-stack
+    experience
+  - Experience with integration-heavy SaaS, APIs, OAuth,
+    uploads, files, or asynchronous workflows
+  - Experience with document workflows, internal tools,
+    evaluation systems, data quality, or production diagnosis
+  - Experience building high-fidelity, resettable simulation or
+    evaluation environments using synthetic data, seeded
+    failure modes, multi-step state, and programmatic
+    verifiers to test data or AI systems
+  - Experience with multi-tenant, compliance-sensitive, or
+    otherwise high-trust products
+  - Experience shipping trustworthy AI-assisted workflows
+posted_date: 2026-08-18
+url: "https://builtin.com/job/full-stack-product-engineer/10730064"
+source: Built In

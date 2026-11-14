@@ -1,0 +1,138 @@
+job_id: 11841548
+title: Software Engineer, Product (Full-Stack)
+company: Lawtrades
+location: New York, USA
+work_type: FULL_TIME
+company_size: 37 Employees
+description: |
+  About Lawtrades AI Lawtrades is redefining how legal work
+  gets done. We pair an AI-native product with a vetted
+  network of independent lawyers so companies can move with
+  software speed while retaining expert judgment. The outcome:
+  faster cycles, tighter risk, and a clearer path from request
+  to result. We build end-to-end, not incremental. Our focus
+  is turning frontier models into dependable, auditable
+  workflows across contracts and marketplace operations.
+  Reliability beats demos. Security and privacy are first-
+  class; usability and measurable business impact decide what
+  ships. We’re a small, product-obsessed team in New York. We
+  work close to customers, move with urgency, and hold a high
+  bar for craft. If you want real ownership and the chance to
+  shape how lawyers collaborate with AI over the next decade,
+  this is the place to do it. We’re profitable and trusted by
+  500+ companies—including Fortune 500 leaders—to power in-
+  house legal work. About The Role As our first NYC-based
+  Product Engineer, you’re the bridge between research,
+  product, and real-world use. You’ll take ambiguous problems,
+  prototype quickly, and harden the right solutions for
+  production—owning the stack from the interface to the data
+  and APIs. You’ll work directly with users, measure what
+  matters, and iterate until the workflow is both fast and
+  trustworthy. Success looks like this: you ship meaningful
+  improvements weekly, raise reliability with instrumentation
+  and tests, simplify complex flows, and leave the system
+  cleaner than you found it. You set patterns the team
+  adopts—on architecture, code quality, and product taste—and
+  you’re comfortable operating from a problem statement, not a
+  ticket queue.
+
+  How We Work
+
+  - High agency, high bar. Extreme ownership of outcomes; direct
+    feedback.
+  - Speed with judgment. Build fast, measure, refactor for
+    durability.
+  - Customer-tight. Sit with users, watch what breaks, fix it
+    quickly.
+  - No ego in the loop. The best idea wins; the work speaks.
+  - Onsite in NYC. Velocity and clarity from working together in
+    person.
+
+  What You’ll Do
+
+  - Turn rough ideas into working software in days, not weeks;
+    take features from prototype to production.
+  - Design clean, scalable web UIs and wire them to well-
+    structured APIs and data models.
+  - Build AI-infused product flows with guardrails and
+    observability so they’re dependable at scale.
+  - Instrument everything (analytics, logs, alerts) and drive
+    reliability, performance, and quality.
+  - Work across design, ops, and marketplace to ship outcomes,
+    not just features.
+  - Talk to customers weekly; run lightweight experiments;
+    double-down on what moves the needle.
+  - Improve the codebase: testing discipline, sensible
+    abstractions, crisp documentation.
+
+  Qualifications
+
+  - 5+ years shipping production web products end-to-end
+    (frontend + backend).
+  - Expert in a modern front-end framework (Vue or React) plus
+    Node and SQL; comfortable across the stack.
+  - Strong product sense: you sweat UX, edge cases, and time-to-
+    value.
+  - Taste for clean architecture, testing, and operational
+    excellence.
+  - Communicates clearly; thrives in ambiguity; moves
+    independently.
+
+  Nice to Have
+
+  - Shipped LLM-powered features (prompt/versioning, retrieval,
+    basic evals).
+  - GraphQL/Swagger, background jobs/queues, eventing,
+    observability.
+  - Experience in marketplaces or other multi-sided products.
+  - Security/privacy-minded development in enterprise contexts.
+
+  Our Stack (current; you don’t need all of it)
+
+  - Vue 3 + TypeScript (Vite, Tailwind, Pinia)
+  - Node (Sails/Express, Sequelize)
+  - MySQL
+  - Redis
+  - WebSockets
+  - Python microservices (Docker)
+  - Heroku + AWS (with Firebase/GCP for specific services)
+  - Git/GitHub.
+
+  Interview Process
+
+  After You Apply (include 1–2 Links To Shipped Work), Our
+  Team Reviews Your Background. If It’s a Fit, You’ll Be
+  Invited To a 15-minute Intro Call. If You Clear The Intro,
+  You’ll Enter The Main Process, Which Consists Of Two
+  Technical Interviews
+
+  - Coding interview (TypeScript): implement a small UI from a
+    screenshot in Vue or React.
+  - Backend/API interview: design a simple data model and build
+    a Node + SQL endpoint.
+
+  A brief founder conversation and references wrap up the
+  process. We aim to complete everything in about a week.
+
+  Annual Salary Range (NYC)
+
+  $190,000 – $240,000 base USD (level-dependent)
+
+  Equity in addition to base; we’re open to a small
+  performance bonus. Benefits Base salary is one part of total
+  compensation at Lawtrades. Our package includes equity,
+  comprehensive medical, dental, and vision coverage, access
+  to a 401(k) plan, short- and long-term disability insurance,
+  life insurance, paid time off, learning/wellness stipends,
+  and a gear budget for the tools you need. Location New York,
+  NY. This role is onsite with our team in NYC.
+
+  How to Apply
+
+  Send 1–2 links to shipped work (what you owned) plus a short
+  note in the application portal (https://app.dover.com/apply/
+  lawtrades/1ef84bc3-d263-456b-822a-7e8fa1bd30ed) . A concise
+  note beats a long résumé.
+posted_date: 2026-10-23
+url: "https://builtin.com/job/software-engineer-product-full-stack/11841548"
+source: Built In

@@ -1,0 +1,164 @@
+job_id: 11874487
+title: "Engineering Manager - Core Platform - Streaming & Storage"
+company: StubHub
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,000 Employees
+description: |
+  StubHub is on a mission to redefine the live event
+  experience on a global scale. Whether someone is looking to
+  attend their first event or their hundredth, we’re here to
+  delight them all the way from the moment they start looking
+  for a ticket until they step through the gate. The same goes
+  for our sellers. From fans selling a single ticket to the
+  promoters of a worldwide stadium tour, we want StubHub to be
+  the safest, most convenient way to offer a ticket to the
+  millions of fans who browse our platform around the world.
+
+  We are seeking an Engineering Manager to lead our Core
+  Platform — Storage & Streaming team. In this role you will
+  lead and grow the team, and own the platform and roadmap for
+  the data infrastructure that P0 workflows across all of
+  StubHub depend on. The team owns three business critical
+  domains:
+
+  - Streaming — StubHub's event streaming and messaging
+    platform, processing 10–30 billion events per day for ~100
+    service teams. The team is at the beginning of a major
+    program to bring streaming home to AWS, consolidating from
+    Azure (EventHub, ServiceBus) onto a modern, Kafka-
+    compatible platform with schema enforcement, self-service
+    SDKs, and direct streaming and querying of event data from
+    S3.
+  - NoSQL / Nonrlational Storage — the platform products for S3,
+    DynamoDB, Redis, MemoryDB, and ElasticSearch, offered as
+    self-service "paved paths" to engineering teams across the
+    company.
+  - Relational Data — the company's relational data estate: SQL
+    Server and PostgreSQL, plus the associated tooling and
+    operations — DB CI/CD, AI-enabled database access, SOX
+    access controls, and database performance support for all
+    of engineering.
+
+  You will lead a team of talented engineers across three
+  critical infrastructure domains, building core platform
+  products used by hundreds of engineers on a daily basis. You
+  will set and execute a multi-year roadmap, own P0 compliance
+  obligations (SOX, GDPR/CCPA), and partner with ~100
+  consuming teams plus stakeholders across Legal, Compliance,
+  Security & Data Governance, and Finance.
+
+  Location: Hybrid (3 days in office/2 days remote) – New
+  York, NY
+
+  What You’ll Do:
+
+  - Lead, grow, and retain a high-performing team of database
+    and platform engineers — hiring, onboarding, mentoring,
+    performance management, and career development.
+  - Own the multi-year roadmap across all three domains: the
+    Azure→AWS streaming migration, the NoSQL paved paths, and
+    relational modernization (PostgreSQL adoption off SQL
+    Server, DB CI/CD, AI-enabled database access, and workload
+    separation).
+  - Set technical direction and drive key architecture and
+    vendor decisions in partnership with your Staff/tech
+    leads, balancing delivery speed against the reliability of
+    P0 infrastructure.
+  - Own operational accountability: governance of 300+ database
+    change requests per month, database performance support
+    for engineering, and incident escalation for P0 systems.
+  - Ensure compliance is designed into the platform — SOX
+    controls, GDPR/CCPA data privacy, data classification, and
+    access governance.
+  - Drive execution excellence: capacity planning, sequencing,
+    and delivery across a 40+ item roadmap; establish clear
+    SLAs and observability for shared platforms.
+  - Partner broadly across ~100 consuming teams,
+    Legal/Compliance, Security & Data Governance, Finance, and
+    engineering leadership.
+  - Shape StubHub's operational data strategy and represent the
+    team in cross-org planning.
+
+  What We’re Looking For:
+
+  - Experience managing engineering teams, including platform or
+    infrastructure teams.
+  - A strong technical foundation in distributed systems or data
+    infrastructure — you can hold your own in architecture and
+    vendor discussions.
+  - Experience owning and delivering multi-quarter, cross-team
+    programs or migrations end-to-end.
+  - A track record of hiring, growing, and retaining senior
+    engineers; comfortable managing Staff-level ICs.
+  - Experience with compliance obligations (SOX, GDPR/CCPA) or a
+    demonstrated ability to operate in a regulated
+    environment.
+  - Familiarity with cloud data platforms — streaming/messaging
+    (Kafka or Kafka-compatible), relational (SQL Server,
+    PostgreSQL), NoSQL (DynamoDB, Redis, S3, ElasticSearch),
+    AWS/Azure, Kubernetes/EKS, and Terraform.
+  - Excellent communication and stakeholder management — able to
+    align leadership, partner teams, and engineers on
+    direction.
+  - Bonus: hands-on and deeply technical, with experience
+    leading Platform teams and streaming, relational, or NoSQL
+    database domains.
+
+  What We Offer:
+
+  - Accelerated Growth Environment: An environment designed for
+    swift skill and knowledge enhancement, where you have the
+    autonomy to lead experiments and tests on a massive scale.
+  - Top Tier Compensation Package: Competitive base, equity, and
+    upside that tracks with your impact.
+  - Flexible Time Off: Embrace a healthy work-life balance with
+    unlimited Flex Time Off, providing you the flexibility to
+    manage your schedule and recharge as needed.
+  - Comprehensive Benefits Package: Prioritize your well-being
+    with a comprehensive benefits package, featuring 401k, and
+    premium Health, Vision, and Dental Insurance options.
+
+  The anticipated gross base pay range is below for this role.
+  Actual compensation will vary depending on factors such as a
+  candidate’s qualifications, skills, experience, and
+  competencies. Base annual salary is one component of
+  StubHub’s total compensation and competitive benefits
+  package, which includes equity, 401(k), paid time off, paid
+  parental leave, and comprehensive health benefits.
+
+  Salary Range
+
+  $300,000—$350,000 USD
+
+  About Us
+
+  StubHub is the world’s leading marketplace to buy and sell
+  tickets to any live event, anywhere. Through StubHub in
+  North America and viagogo, our international platform, we
+  service customers in 195 countries in 33 languages and 49
+  available currencies. With more than 300 million tickets
+  available annually on our platform to events around the
+  world -- from sports to music, comedy to dance, festivals to
+  theater -- StubHub offers the safest, most convenient way to
+  buy or sell tickets to the most memorable live experiences.
+  Come join our team for a front-row seat to the action.
+
+
+
+  For California Residents: California Job Applicant Privacy
+  Notice found here
+
+
+
+  We are an equal opportunity employer and value diversity on
+  our team. We do not discriminate on the basis of race,
+  color, religion, sex, national origin, gender, sexual
+  orientation, age, disability, veteran status, or any other
+  legally protected status.
+industries:
+  - Events
+  - Mobile
+posted_date: 2026-10-26
+url: "https://builtin.com/job/engineering-manager-streaming-storage/11874487"
+source: Built In

@@ -1,0 +1,169 @@
+job_id: 11505083
+title: "Senior Software Engineer II, RPM Growth & Ops"
+company: Tempus AI
+location: New York, USA
+work_type: FULL_TIME
+company_size: 3,775 Employees
+description: |
+  Passionate about precision medicine and advancing the
+  healthcare industry?
+
+  Recent advancements in underlying technology have finally
+  made it possible for AI to impact clinical care in a
+  meaningful way. Tempus' proprietary platform connects an
+  entire ecosystem of real-world evidence to deliver real-
+  time, actionable insights to physicians, providing critical
+  information about the right treatments for the right
+  patients, at the right time.
+
+  About us
+
+  At Center Health, we help people with diabetes feel better
+  every single day.
+
+  You might know us for Aria, our AI coach. Aria chats with
+  patients about their glucose, meals and medications, and
+  people who use it lower their blood sugar twice as well as
+  they do with a human coach.
+
+  Behind Aria is something just as exciting: a remote patient
+  monitoring (RPM) program that's growing fast with clinics
+  all over the US. Clinics enroll their patients, and we
+  connect to their glucose monitors. When someone starts
+  drifting out of range, we let their care team know, instead
+  of three months later at the next appointment. Patients get
+  support between visits, clinicians get a clear view of who
+  needs them most, and practices get a program that pays for
+  itself. Every new clinic means hundreds to thousands more
+  people getting better care, and you'll see that impact week
+  by week.
+
+  We're now part of Tempus, one of the biggest precision
+  medicine platforms in healthcare. Tempus brings deep
+  clinical history on millions of patients. We bring the live,
+  day-to-day picture. Put together, that's a brand new way to
+  care for chronic disease, and diabetes is only the
+  beginning.
+
+  We're a small team, and every one of us has been touched by
+  diabetes, either personally or through someone we love. We
+  started Center to build the thing we wished existed.
+
+  The role
+
+  You'll be the engineer who keeps our RPM engine humming, and
+  makes it better every week.
+
+  Every day, a lot of systems have to work together: patient
+  outreach, device connections, data sync, claims
+  documentation and more. When they all run smoothly, patients
+  get care and clinics thrive. You'll own that machine: the
+  integrations, the monitoring, and a fast, friendly response
+  when something needs attention. And because you'll know the
+  system better than anyone, you'll be the first to spot the
+  growth ideas hiding inside it.
+
+  What you'll do
+
+  - Build and improve the automations behind outreach, data sync
+    and reporting
+  - Bring your own ideas for growing RPM, and ship them
+  - Keep our RPM and EHR integrations healthy, with monitoring
+    that tells us about problems before anyone else notices
+  - Work through our EHR integration pipeline: exports, re-
+    exports, and the reports clinics rely on
+  - Be the quick, reassuring engineering response when clinics,
+    patients and our support team need help
+  - Lead our EHR integrations as we take on larger clients
+
+  How we build
+
+  We build with AI every day, and we've put real care into
+  doing it well. Our repo ships its own set of Claude Code
+  agents that understand our security setup, our monitoring
+  operations and our quality system. Every change moves
+  through a clear loop: plan it, build it, test it, review it.
+  If a change touches regulated code, the process catches it.
+  The result is a small team that moves quickly, ships safely,
+  and spends its energy on the interesting problems.
+
+  Our stack is TypeScript from top to bottom: Svelte on the
+  front end, Node services behind it, MongoDB underneath,
+  Capacitor for mobile, and LangChain with Vertex and OpenAI
+  powering the AI. A lot of our operations run on n8n. Don't
+  worry if some of that is new to you. A couple of us had
+  never written Svelte before joining and were shipping within
+  a day.
+
+  Some of what we build counts as a medical device, and we're
+  a HIPAA business associate, so we take quality and privacy
+  seriously. It adds a little process, and it also means you
+  can be proud of everything that reaches a patient.
+
+  What we're looking for
+
+  - A solid track record of shipping and running production
+    systems, usually 5+ years. We care more about what you've
+    built, and how fast you're growing, than about the number.
+  - You've started something of your own, or been an early
+    engineer somewhere. It's the best sign we know that
+    someone will own a problem end to end.
+  - You love making things reliable. Good monitoring, clean
+    integrations and a calm, methodical approach when
+    something breaks.
+  - You're great with people. You explain technical issues
+    clearly to clinicians and support staff, and you like
+    being the one who gets them unstuck.
+  - You're AI-native. You build with AI tools every day and know
+    how to check their work.
+  - Solid TypeScript, or the ability to pick it up fast.
+  - You've wrangled integrations. APIs, data pipelines, and
+    messy third-party systems that don't always behave.
+
+  Bonus points: EHR or health data standards (HL7, FHIR),
+  workflow automation tools like n8n, healthcare billing, or
+  mobile experience.
+
+  Life at Center
+
+  We're headquartered in San Francisco with a remote
+  engineering team spread across London, Liverpool and Cairo,
+  and we're hiring on the US East Coast so you'll share
+  working hours with the clinics and patients we serve. We're
+  flexible, and we trust you to do your best work on a
+  schedule that suits you. Questions are always welcome and
+  always get a real answer. You'll have regular 1:1s with your
+  manager, focused on where you want to grow. And when
+  something goes wrong, we get curious about why, never about
+  who.
+
+  Sound like you?
+
+  Thousands of times a day, someone opens Center to understand
+  what their blood sugar is doing, and every month more
+  clinics join us. If you want your work to show up in real
+  people's health, we'd love to meet you.
+
+  NYC: $150,000-$210,000
+
+  The expected salary range may vary for other locations.
+  Actual salary may vary based on qualifications and
+  experience. Tempus offers a full range of benefits, which
+  may include incentive compensation, restricted stock units,
+  medical and other benefits depending on the position.
+
+  We are an equal opportunity employer. We do not discriminate
+  on the basis of race, religion, color, national origin,
+  gender, sexual orientation, age, marital status, veteran
+  status, or disability status.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Healthtech
+  - Machine Learning
+  - Analytics
+  - Biotech
+  - Generative AI
+posted_date: 2026-10-05
+url: "https://builtin.com/job/senior-software-engineer-ii-rpm-growth-ops/11505083"
+source: Built In

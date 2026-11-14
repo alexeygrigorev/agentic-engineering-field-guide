@@ -1,0 +1,145 @@
+job_id: 11721197
+title: Staff  Software Engineer (Agentic Search) - Crawler
+company: Nebius
+location: London, GBR
+work_type: FULL_TIME
+company_size: 473 Employees
+description: |
+  About Nebius:
+
+  Nebius is leading a new era in cloud infrastructure for the
+  global AI economy. We are building a full-stack AI cloud
+  platform that supports developers and enterprises from data
+  and model training through to production deployment, without
+  the cost and complexity of building large in-house AI/ML
+  infrastructure.
+
+  Built by engineers, for engineers. From large-scale GPU
+  orchestration to inference optimization, we own the hard
+  problems across compute, storage, networking and applied AI.
+
+  Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we
+  have a global footprint with R&D hubs across Europe, the UK,
+  North America and Israel. Our team of 1,500+ includes
+  hundreds of engineers with deep expertise across hardware,
+  software and AI R&D.
+
+  The Product
+
+  In a rapidly evolving world, trust in AI depends on AI
+  agents being grounded in fresh, verified real-world data.
+  Search is the foundation that makes this possible.
+
+  We are building an agent-native search platform designed
+  specifically for AI systems rather than human users. Our
+  product provides programmatic, low-latency, and observable
+  search APIs that AI agents use to retrieve, filter, and
+  reason over real-world information at scale.
+
+  The Role
+
+  We are looking for a Staff Software Engineer to work on the
+  content acquisition and crawling infrastructure of a novel
+  search engine tailored for agentic AI consumption.
+
+  In this role, you will focus on building systems that
+  discover, fetch, and continuously refresh content from the
+  open web and other large-scale data sources. You will design
+  distributed crawling, scheduling, and ingestion
+  infrastructure capable of operating at internet scale while
+  balancing coverage, freshness, resource efficiency, and
+  reliability. You will work on systems that process billions
+  of URLs, manage high-throughput data flows, and ensure that
+  high-quality content is consistently available to downstream
+  indexing and retrieval systems.
+
+  In this position, your responsibility will be to:
+
+  - Design, implement, and operate web-scale crawling systems
+    for acquiring content from the internet
+  - Build ingestion workflows for internal and external data
+    sources, including crawlers, structured feeds, and partner
+    integrations
+  - Develop crawl scheduling, prioritisation, recrawl policies,
+    and freshness strategies
+  - Build systems for URL discovery, deduplication, content
+    extraction, and crawl orchestration
+  - Ensure reliable operation of crawling infrastructure under
+    high-throughput conditions
+  - Define observability and quality metrics for crawl coverage,
+    freshness, throughput, and content quality
+  - Monitor resource usage, bandwidth consumption, and
+    infrastructure cost
+  - Collaborate with indexing and ML teams to ensure acquired
+    content meets retrieval and ranking requirements
+  - Enable safe experimentation with crawling strategies and
+    content acquisition policies
+
+  You may be a good fit if you:
+
+  - 8+ years of experience building backend or distributed
+    systems
+  - Strong Go or C++ expertise
+  - Experience with large-scale distributed systems (10k+ RPS,
+    billions of URLs, high-throughput pipelines)
+  - Understanding of web protocols (HTTP, DNS, TLS), crawling,
+    scraping, and content extraction
+  - Experience operating production systems and debugging
+    failures in distributed environments
+  - Strong understanding of scalability, fault tolerance, and
+    resource management
+
+  Strong candidates may also have experience with:
+
+  - Web crawling
+  - Building streaming data pipelines and event-driven systems
+  - Kafka, Pulsar, NATS, RabbitMQ, or similar messaging
+    platforms
+  - Designing distributed schedulers, queues, and asynchronous
+    processing systems
+  - Spark, Flink, Beam, or MapReduce
+  - Ad tech, social networks, search engines, or other large-
+    scale content platforms
+
+  We conduct coding interviews as part of the process.
+
+  Benefits & Perks:
+
+  - Competitive compensation
+  - Career growth and learning opportunities
+  - Flexibility and ownership
+  - Collaborative and innovative culture
+  - Opportunity to work on impactful AI projects
+  - International environment and talented teams
+
+  What's it like to work at Nebius:
+
+  Fast moving - Bold thinking - Constant growth - Meaningful
+  impact - Trust and real ownership - Opportunity to shape the
+  future of AI
+
+  Equal Opportunity Statement:
+
+  Nebius is an equal opportunity employer. We are committed to
+  fostering an inclusive and diverse workplace and to
+  providing equal employment opportunities in all aspects of
+  employment. We do not discriminate on the basis of race,
+  color, religion, sex (including pregnancy), national origin,
+  ancestry, age, disability, genetic information, marital
+  status, veteran status, sexual orientation, gender identity
+  or expression, or any other characteristic protected by
+  applicable law.
+
+  Applicants must be authorized to work in the country in
+  which they apply and will be required to provide proof of
+  employment eligibility as a condition of hire.
+
+  If you need accommodations during the application process,
+  please let us know.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Consulting
+posted_date: 2026-10-16
+url: "https://builtin.com/job/staff-software-engineer-agentic-search-crawler/11721197"
+source: Built In

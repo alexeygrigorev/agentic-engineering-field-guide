@@ -1,0 +1,118 @@
+job_id: 10186761
+title: Software Engineer, AI (Level determined by experience)
+company: Synack
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 354 Employees
+description: |
+  NetSPI+Synack is a leader in offensive security, combining
+  elite human expertise with agentic AI to help organizations
+  identify, validate, prioritize, and remediate exploitable
+  risk across their entire attack surface. Its platform
+  delivers expert-validated testing in depth, continuously, or
+  on demand, from pre-production code to live production
+  environments, so security teams can separate vulnerability
+  noise from real risk, including the growing threat of AI-
+  driven attacks. With global reach and more than 13 million
+  hours of real-world offensive testing experience,
+  NetSPI+Synack serves many of the world's largest enterprises
+  and government organizations with one ambition: nothing left
+  to exploit.
+
+  We are looking for individuals with a collaborative,
+  innovative, and customer-first mindset to join our team.
+  Learn more about our award-winning workplace culture and get
+  to know our A-Team at www.netspi.com/careers and
+  www.synack.com/careers.
+
+  We are looking for a Senior Software Engineer (AI), where
+  you'll design and ship AI agents that plan, reason, drive
+  security tooling and surface exploitable vulnerabilities,
+  running autonomously inside sandboxed environments. It's a
+  hands-on senior role spanning applied AI and cybersecurity.
+  You'll own systems end to end and raise the technical bar
+  for the team around you.
+
+  Sounds interesting? Keep reading…
+
+  Please note: This is a remote position based in the UK.  We
+  can only hire citizens of the United Kingdom for this role.
+  Given the nature of the work, the role may be subject to
+  nationality, residency and security-clearance checks.
+
+  Here’s what you'll do
+
+  - Build AI agents that automate penetration testing: planning,
+    tool use, reasoning over findings, and acting safely
+    within scope.
+  - Stand up and run the sandboxed cyber-lab and range
+    infrastructure, containerised on Kubernetes, where these
+    agents execute offensive tooling.
+  - Ship features from ideation through production, including
+    evals, guardrails and monitoring.
+  - Improve how our agents work: prompting, tool orchestration,
+    evaluation, and cost.
+  - Lead code reviews and design sessions, and help the
+    engineers around you grow.
+  - Work closely with our security researchers to translate how
+    they hack into how our agents operate.
+
+  Here’s what you’ll need
+
+  - 4+ years of software engineering experience
+  - Proven ability to build and scale production systems
+  - Strong Python, polyglot codebase
+  - Fluent or willing to learn Go
+  - Hands-on experience building and operating production AI
+    applications using LLMs and agentic frameworks (e.g., RAG,
+    MCP, LangGraph or similar), including tool integration,
+    prompt design, evaluation, guardrails, and token/cost
+    optimization.
+  - Demonstrate ability to create reliable agents (prompting,
+    evaluation, guardrails, understanding of token and cost
+    optimization
+  - Capable leveraging Docker, Kubernetes, isolated sandbox,
+    cloud experience GCP preferred
+  - Brings a disciplined testing approach to microservices gPRC,
+    API design, async messaging (Pub/Sub, Kafka)
+  - Passionate desire to understand how systems get compromised
+  - Clear communication
+  - Collaborative ability to partner across teams
+
+  Nice To Have
+
+  - Offensive security experience: penetration testing, red
+    teaming, CTF, or security tooling.
+  - Experience driving security tools programmatically or
+    automating an attack chain.
+  - Startup experience, where scope is broad and priorities move
+    fast.
+
+  Ready to join us?
+
+  Synack is committed to embracing diversity. Our people are
+  our strength.  Each addition to our team is an opportunity
+  to grow and diversify our ideas, experiences, and
+  viewpoints. We strive to be inclusive of Race, Ethnicity,
+  Religion, Sex, LGBTQ+, Veterans, Disabilities, and Age.
+  Synack welcomes you!
+
+  As a candidate, Synack cares about your privacy. Please view
+  our candidate privacy policy.
+
+  This position has responsibility to ensure Synack’s security
+  and privacy posture is maintained.
+
+  Salary is determined by a combination of factors including
+  location, level, relevant experience, and skills. The
+  compensation package for this position may also include
+  equity, and benefits.  For more details about our benefits,
+  please see our benefits overview. Then for the Employer
+  code, enter: synack
+industries:
+  - Security
+  - Cybersecurity
+posted_date: 2026-08-09
+url: "https://builtin.com/job/senior-software-engineer-ai/10186761"
+source: Built In

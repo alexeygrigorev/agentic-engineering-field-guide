@@ -1,0 +1,175 @@
+job_id: 10419475
+title: Senior Software Developer - Simulation
+company: CoLab Software
+location: CAN
+locations:
+  - CAN
+  - USA
+  - MEX
+remote: true
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  About CoLab
+
+  At CoLab, we help mechanical engineering teams bring life-
+  changing products to market years sooner.
+
+  We build AI for engineers designing cars, medical devices,
+  and jet engines. Products this complex aren't sketched and
+  sent to production. Teams spend months on iterations,
+  reviews, and tests, predicting how every part performs
+  before anything is built. CoLab is where those reviews
+  happen, and we capture the rationale behind every change.
+  Other tools show what changed between versions. Only CoLab
+  knows why. That's how our AI helps manufacturers like
+  Bobcat, Triumph Motorcycles, and GE Appliances make better
+  decisions, eliminate rework cycles, and get to market
+  faster.
+
+  Proudly based in St. John’s, Newfoundland, CoLab started
+  with one customer in 2018. Since then we’ve raised a $72M
+  Series C, been named the 57th fastest growing company in
+  North America by Deloitte (Fast 500™), signed multi-year AI
+  partnerships with companies like Bombardier, and grown to a
+  team of 250+.
+
+  About the Role
+
+  Modern engineering teams invest a significant amount of time
+  and money on simulation. Before anything gets built, teams
+  need confidence that a design is going to work:
+  structurally, thermally, aerodynamically, etc. Simulation is
+  one of the main ways they build that confidence.
+
+  But the way teams share and review simulation results to
+  make decisions is still pretty broken. Engineers are
+  exporting videos, taking screenshots, dropping them into
+  PowerPoint, and then trying to make decisions through email
+  threads, meetings, or disconnected slide decks. The actual
+  decision-making ends up separated from the underlying
+  simulation data, which means context gets lost, feedback is
+  hard to trace, and important engineering knowledge
+  disappears into the workflow.
+
+  CoLab already helps engineering teams review CAD, capture
+  feedback, and make better design decisions in one connected
+  workspace. Now we’re extending that same idea into
+  simulation. The goal is simple: make simulation results
+  collaborative, reviewable, and traceable in the same way
+  CoLab does for CAD today.
+
+  We’re starting a new product team focused on bringing
+  simulation review into CoLab. As one of the first engineers
+  on that team, you’ll help define how simulation data gets
+  ingested, visualized, discussed, and connected back to real
+  engineering decisions. There are a lot of interesting
+  technical problems here: large datasets, high-performance
+  visualization, viewer interactions, data pipelines, and user
+  experiences that need to work for mechanical engineers doing
+  critical product development work.
+
+  The first phase is about learning the product, the
+  customers, and the review workflows we already support
+  today. You’ll spend time embedded with our Engineering
+  Reviews team, learning how engineers collaborate in CoLab,
+  where the current product is strong, and where simulation
+  creates a new set of problems we need to solve. From there,
+  you’ll help build the foundation for a new Simulation team -
+  not just technically, but from a product perspective as
+  well. We want to build something customers actually need and
+  will use in their day-to-day work, and that requires a
+  highly product oriented approach.
+
+  Our Ideal Candidate
+
+  You're the kind of developer who wants to understand why a
+  feature matters before deciding how to build it.
+
+  You enjoy owning complex technical problems, but you also
+  enjoy talking with product managers, designers, and
+  customers to understand what success actually looks like.
+  You make thoughtful technical decisions independently and
+  know when to bring others into the conversation.
+
+  Experience working with simulation software is a significant
+  advantage. Maybe you've worked with FEA, CFD, multiphysics
+  simulations, scientific visualization, or engineering data
+  platforms. You understand the kinds of problems engineers
+  are trying to solve.
+
+  This is a good fit for someone who likes ambiguity, wants to
+  work closely with our product and leadership teams, and
+  cares about the connection between technical decisions and
+  customer value. You’ll have a meaningful role in shaping
+  both the architecture and the user experience for a new
+  capability that we think can become a major part of
+  engineering review in CoLab.
+
+  What You'll Do
+
+  - Help design and build CoLab's next-generation simulation
+    review capabilities.
+  - Build services that ingest and process simulation data from
+    industry-standard engineering software.
+  - Develop high-performance visualization experiences capable
+    of displaying large simulation datasets.
+  - Partner closely with Product, Design, and customers to
+    validate ideas before building them.
+  - Spend time embedded with the Engineering Reviews team to
+    develop deep product and customer understanding before
+    transitioning onto the Simulation team.
+  - Contribute to architectural decisions that will shape this
+    product area for years to come.
+  - Improve performance, scalability, and reliability as
+    simulation capabilities grow.
+  - Collaborate with engineers across the platform to ensure
+    simulation becomes a seamless part of the broader CoLab
+    experience.
+
+  Qualifications
+
+  We're looking for someone with:
+
+  - 8+ years building web based production software in a modern
+    engineering environment.
+  - Strong experience designing scalable backend systems and
+    customer-facing applications.
+  - Experience building complex data visualization or graphics-
+    intensive applications.
+  - The ability to work independently while collaborating
+    closely with teammates.
+  - A product mindset - you think about customer outcomes as
+    much as technical implementation.
+  - Strong communication skills and the ability to explain
+    complex ideas clearly.
+
+  - Experience with Finite Element Analysis (FEA), CFD, or other
+    CAE workflows.
+  - Experience with engineering simulation platforms
+  - Experience with CAD, PLM, or engineering software
+    development.
+  - Large engineering datasets and high-performance rendering.
+
+  The Extra Details
+
+  - Full-time, permanent position with a competitive
+    compensation package, including stock options.
+  - Extended health benefits, unlimited paid vacation, and
+    RRSP/401K matching.
+  - Remote-first across North America
+
+  Equity Note
+
+  Frequently cited statistics show that people who identify
+  with historically marginalized groups are likely to apply to
+  jobs only if they meet 100% of the qualifications. We
+  encourage you to help us break that statistic and apply even
+  if you don't meet every single qualification - your
+  potential is what matters most to us.
+industries:
+  - Software
+  - Web3
+posted_date: 2026-09-23
+url: "https://builtin.com/job/senior-software-developer-simulation/10419475"
+source: Built In

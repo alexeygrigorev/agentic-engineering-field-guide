@@ -1,0 +1,104 @@
+job_id: 10640440
+title: Founding Backend Engineer - Marketplace and Logistics - Remote (USA)
+company: Flocker
+location: New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 8 Employees
+description: |
+  Job Title: Founding Backend Engineer
+
+  Location: Remote
+
+  Company: Flocker https://flocker.ai
+
+  Position Overview:
+
+  We’ve spent two years building Flocker’s strategy, design,
+  and systems, and we’re now looking for one more builder to
+  help complete our final pre-launch phase and ship a public
+  iOS/Android app in the next 4–6 months.
+
+  We’re seeking a highly skilled and motivated Founding
+  Backend Engineer with expertise in marketplace architecture,
+  geospatial matching, and scalable system design. You’ll join
+  a small, collaborative team with experience from Google,
+  Meta, ByteDance, Coinbase and Microsoft Research—bringing
+  together excellence in design, science, and engineering.
+
+  Key Responsibilities:
+
+  - Design, build, and maintain Flocker’s backend services and
+    APIs (FastAPI + PostgreSQL, migrating to DynamoDB over
+    time).
+  - Implement authentication, session management, and secure
+    cookie flows (FastAPI Users + CloudFront).
+  - Develop and scale real-time data pipelines (Kinesis, Lambda,
+    S3) for interaction logging and personalization.
+  - Build and optimize media handling pipelines (image/video
+    upload, compression, CDN delivery via CloudFront).
+  - Architect and tune database schemas (Postgres → DynamoDB
+    single-table design) with focus on cost-efficient scale.
+  - Collaborate with mobile/frontend engineers to deliver
+    seamless, low-latency user experiences.
+  - Engage in the full software development lifecycle: design,
+    coding, testing, deployment.
+  - Work in a fast-moving, agile startup environment — iterating
+    quickly and adjusting priorities based on learning and
+    feedback.
+
+  Requirements
+
+  You’re Right For This If:
+
+  - 5+ years designing, building, and scaling backend systems to
+    millions of users.
+  - Expert in modern backend development (FastAPI, Django,
+    Flask, or similar).
+  - Proven ability to build and launch products (startup, side
+    project, or even a failed venture).
+  - Experience with relational databases (Postgres/MySQL) and
+    exposure to NoSQL systems.
+  - Track record of shipped products or platforms we can see
+    live today.
+  - Leadership ability, self-motivation, and comfort navigating
+    ambiguity.
+  - Ready to operate with founder-level ownership and
+    commitment.
+  - Bonus: Experience with real-time data pipelines, cloud
+    infrastructure (AWS), or consumer apps.
+  - Bonus: Demonstrated experience building or scaling
+    marketplace platforms with integrated logistics flows
+    (matching, routing, ticketing, or fulfillment systems).
+    e.g. Uber, Lyft, Airbnb, or Doordash.
+
+  Benefits
+
+  Compensation:
+
+  - Salary plus equity
+
+  Application Process: If you are passionate about building
+  massively scalable, cost-effective consumer-facing systems
+  and want to be a part of a dynamic startup environment, we
+  would love to hear from you. Please submit your resume,
+  along with your LinkedIn profile link.
+
+  Flocker is an equal opportunity employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees.
+
+  Together, let's make real-world connection effortless and
+  spontaneous.
+
+  We receive a high volume of bot applications. To confirm
+  you're human, here's the secrets: Social Built A Prison &
+  Instant Real Life Connection
+industries:
+  - Consumer Web
+  - Events
+  - Social Media
+  - Social Impact
+posted_date: 2026-08-12
+url: "https://builtin.com/job/founding-backend-engineer-marketplace-and-logistics-remote-usa/10640440"
+source: Built In

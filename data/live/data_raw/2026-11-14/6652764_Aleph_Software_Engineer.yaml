@@ -1,0 +1,115 @@
+job_id: 6652764
+title: Software Engineer
+company: Aleph
+location: CHL
+locations:
+  - CHL
+  - PER
+  - CAN
+  - USA
+  - GUY
+  - BRA
+  - ECU
+  - MEX
+  - URY
+  - COL
+  - SUR
+  - BOL
+  - PRY
+  - ARG
+remote: true
+work_type: FULL_TIME
+company_size: 80 Employees
+description: |
+  About Aleph
+
+  Aleph is an AI-native platform for Financial Planning &
+  Analysis (FP&A), an established software category with a
+  multi-billion market but no clear winner. We’re trying to
+  solve a problem many finance teams are super familiar with:
+  data scattered across a million systems, endless
+  spreadsheets and way too much time spent getting numbers to
+  line up instead of actually using them to make decisions.
+
+  Aleph was founded by Albert Gozzi and Santiago Perez De
+  Rosso, two technical founders with backgrounds from Stanford
+  and MIT and experience working at top-tier companies such as
+  Google, Microsoft and Bain & Company. We’re backed by top
+  VCs (Khosla Ventures, Bain Capital Ventures, YC, Picus
+  Capital), and work with customers like Webflow, Notion,
+  Zapier, Y Combinator and many others.
+
+  We are hiring remotely across the Americas (United States,
+  Canada, LATAM).
+
+  What you'll do
+
+  - Build and scale end-to-end production systems for a complex
+    B2B product
+  - Own features from conception through launch and iteration
+  - Work directly with stakeholders to understand problems and
+    drive solutions
+  - Build shared abstractions and experiences that make complex
+    products intuitive
+  - Raise the engineering bar through excellent code, thoughtful
+    reviews, and clear communication
+
+  The engineering problems we’re solving span everything from
+  building thoughtful, performant UIs to complex data modeling
+  and large-scale integrations. If you’d like to learn more
+  about engineering here, take a look at our engineering
+  careers page.
+
+  What we're looking for
+
+  - Strong fundamentals: You can trace requests from UI to data
+    store and make good technical decisions at every layer
+  - High agency: Background as a founder, engineering lead, or
+    startup builder. You have a builder's mindset and find
+    creative ways to ship
+  - Pragmatism: You choose the fewest and simplest tools that
+    will actually work
+  - Craft: You care deeply about code quality and translate
+    solutions into bug-free, easily understandable code
+  - Communication: Clear, direct, and persuasive across
+    technical and non-technical audiences
+  - Growth trajectory: You're operating above your level and
+    growing fast
+  - Experience: Have built complex B2B products, ideally from
+    scratch
+
+  Tech Stack
+
+  You're familiar with our tech stack or can learn unfamiliar
+  technologies quickly
+
+  - Typescript, Python, React, Node.js
+  - GCP
+  - BigQuery, MongoDB, Postgres
+  - Deployment tools: GitHub Actions + GCP
+  - Observability tools: Datadog
+
+  While this is a remote-first opportunity, we're focusing on
+  candidates within the Americas to better align with our
+  working hours as a team.
+
+  Aleph is an equal opportunity employer that is committed to
+  diversity and inclusion in the workplace. We prohibit
+  discrimination and harassment of any kind based on race,
+  color, sex, religion, sexual orientation, national origin,
+  disability, genetic information, pregnancy, or any other
+  protected characteristic as outlined by federal, state, or
+  local laws.
+
+  This policy applies to all employment practices within our
+  organization, including hiring, recruiting, promotion,
+  termination, layoff, recall, leave of absence, compensation,
+  benefits, training, and apprenticeship. Aleph makes hiring
+  decisions based solely on qualifications, merit, and
+  business needs at the time.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-08-06
+url: "https://builtin.com/job/senior-fullstack-engineer-core/6652764"
+source: Built In

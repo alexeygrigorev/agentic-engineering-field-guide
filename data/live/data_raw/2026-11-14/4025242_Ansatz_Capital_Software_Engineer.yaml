@@ -1,0 +1,70 @@
+job_id: 4025242
+title: Software Engineer
+company: Ansatz Capital
+location: New York, USA
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  We are looking for a software engineer to join a lean and
+  technical quantitative trading startup. You’ll be
+  responsible for developing and maintaining scalable trading
+  applications and infrastructure for many financial markets
+  and assist with developing the full stack of infrastructure
+  to support trading operations.  The role is fast paced, with
+  daily or even more frequent release cycles, and requires a
+  good sense of prioritization between longer and shorter term
+  needs.
+
+  Within our systems, from hardware drivers to TCP/multicast
+  handlers to Python interfaces, each layer requires custom
+  optimization for latency, bandwidth, or both. An
+  understanding of trade-offs in terms of clock cycles and CPU
+  cache effects is a must.  Multi-core/multi-threaded
+  communications using lock-free algorithms will be employed
+  to increase the theoretical computational limit per unit
+  time; consequently, the candidate should have a good grasp
+  of run-time behavior, serialization delays, and asymptotic
+  behavior in this environment. Compensation consists of base
+  salary, discretionary performance bonus, and possible
+  participation in longer-term incentive schemes.
+
+  Skill Requirements
+
+  - C++11 and higher experience
+  - Excellent design and debugging skills
+  - Experience developing for production critical systems
+  - Excellent communication and prioritization skills
+
+  Technical Details About Us
+
+  - Linux shop running modern kernels
+  - C++20 codebase, Python layer on top
+  - Technical expertise throughout (everyone programs)
+  - Cloud-scalable research infrastructure
+
+  Desirable Skills
+
+  - Experience with Python
+  - Experience with x86 hardware
+  - Experience with performance engineering
+  - Understanding of Intel Xeon pipelining and cache behavior
+  - Experience with the TCP networking stack
+  - Experience optimizing Linux kernels / using kernel-bypass
+    networking
+  - Experience leveraging AWS or similar cloud infrastructure
+
+  Benefits
+
+  - Catered meals and bountiful snacks
+  - Generous budget for home office equipment
+  - Health / Dental / Vision / 401k
+  - Fitness and wellness benefits
+  - Base compensation: $150,000-250,000 with additional
+    discretionary annual performance bonus
+industries:
+  - Angel or VC Firm
+  - Software
+  - Financial Services
+posted_date: 2026-08-12
+url: "https://builtin.com/job/software-engineer/4025242"
+source: Built In

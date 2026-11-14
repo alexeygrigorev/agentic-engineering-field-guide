@@ -1,0 +1,156 @@
+job_id: 10970641
+title: Frontend Engineer
+company: Perena
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  Welcome to Perena: Your Risk Layer on Solana
+
+  Perena is a decentralized financial protocol on Solana that
+  offers USD STAR (USD*), a yield-bearing asset. USD* is fully
+  collateralized and earns yield from diversified, real
+  sources such as delta-neutral strategies and secured borrow-
+  lend market positions. Its value grows automatically, making
+  it a simple, secure way to save on-chain.
+
+  USD* is fully collateralized by a diversified portfolio of
+  yield-generating assets and positions, including:
+
+  Delta-neutral hedged positions on centralized and
+  decentralized exchanges (e.g., BTC, ETH, SOL)
+
+  Secured borrow-lend market positions involving on-chain
+  stablecoins
+
+  Real-world assets, such as the reinsurance fund by OnRe
+
+  Perena actively manages asset allocation and diversifies
+  across multiple strategies to reduce single points of
+  failure and optimize for sustainable, consistent yield
+  performance.
+
+  Built on Solana's high-performance blockchain, Perena is
+  creating a liquid, yield-bearing digital dollar that anyone
+  can access with a sustainable, risk-managed approach.
+
+  Looking ahead, Perena is building a full suite of on-chain
+  stablebanking products to expand access to real yield across
+  crypto and traditional finance. The goal is a sustainable
+  financial experience for anyone to transact, save, and
+  invest on-chain.
+
+  Perena is founded by a team of builders from the Solana
+  ecosystem with backgrounds in TradFi and DeFi. We believe
+  deeply in pushing financial architecture forward — and in
+  doing it with transparency, resilience, and speed.
+
+  We're backed by some of the best in the world, including:
+
+  Solana co-founders Anatoly Yakovenko and Raj Gokal
+
+  Investors from Citadel, Jane Street, IMC, and Susquehanna
+
+  Borderless Capital, Binance Labs, Primitive Ventures,
+  Maelstrom, Anagram, Breed, and others
+
+  Perena was a sponsor of the Colosseum Hackathon Stablecoin
+  Track, helping fund the next generation of stablecoin
+  projects on Solana. Our growing community spans over 20,000
+  developers, users, and builders aligned around one goal:
+  reinventing how money works.
+
+  What You'll Do
+
+  - Build and own the frontend applications that bring Perena's
+    financial products to life, from minting and redeeming
+    USD* to portfolio dashboards, yield analytics, and on-
+    chain transaction flows, using Next.js and TypeScript as
+    the core stack
+  - Design and implement a scalable component library and design
+    system that ensures consistency, accessibility, and
+    reusability across all Perena surfaces, including public-
+    facing apps, internal operations tools, and documentation
+  - Integrate directly with on-chain data and wallet
+    infrastructure, building seamless interactions with Solana
+    programs, wallet adapters, and real-time blockchain state
+    to create intuitive user experiences around complex DeFi
+    primitives
+  - Collaborate closely with protocol engineers, designers, and
+    product to translate sophisticated financial concepts
+    (yield strategies, collateral flows, risk metrics) into
+    clear, trustworthy interfaces that inspire user confidence
+  - Own frontend performance, reliability, and observability,
+    including optimizing load times, implementing error
+    boundaries, building monitoring and analytics pipelines,
+    and ensuring the app performs under real-world conditions
+    across devices and regions
+  - Drive data-driven iteration by instrumenting user flows,
+    analyzing engagement and conversion metrics, and shipping
+    improvements that make Perena's products easier and more
+    compelling to use
+
+  What We're Looking For
+
+  - 3+ years of professional frontend engineering experience
+    with a strong emphasis on Next.js (App Router) and
+    TypeScript in production environments
+  - Deep understanding of React patterns, server components,
+    client/server rendering strategies, caching, and data
+    fetching in modern Next.js applications
+  - Experience building and maintaining component libraries or
+    design systems (e.g., using Tailwind CSS, Radix, Shadcn,
+    or similar) with a strong eye for craft and detail
+  - Familiarity with wallet integration and on-chain data in a
+    frontend context (Solana wallet adapters, RPC calls,
+    transaction signing) or clear ability to ramp fast
+  - Track record shipping user-facing products in fast-paced
+    environments where you owned features end-to-end, from
+    design handoff through deployment and iteration
+  - Strong instinct for UX in high-stakes financial contexts:
+    you think about trust, clarity, error states, and edge
+    cases before they become problems
+  - Experience with frontend testing strategies (unit,
+    integration, E2E) and CI/CD pipelines to maintain quality
+    at speed
+  - Comfort working with designers in Figma, translating visual
+    specs into pixel-perfect, responsive, and accessible
+    implementations
+  - Familiarity with DeFi or fintech products is a strong
+    signal, but not required. What matters is you can learn
+    fast and reason about how users interact with money
+
+  Earlier in your career? Apply anyway if you can show real
+  ownership of shipped products, clean code, and a sharp eye
+  for design and usability.
+
+  Why Perena?
+
+  Stablecoins are transforming how the world stores, moves,
+  and grows value — and we're still early. This is a once-in-
+  a-generation shift: from legacy money to programmable,
+  accessible, internet-native finance. Building here isn't
+  just technically interesting — it's globally meaningful.
+
+  We own our future — we trust each other to take initiative.
+  Voices are heard and outcomes matter.
+
+  We treat our work as craft — thoughtful, opinionated, and
+  precise. Many of us come from design, art, or cultural
+  backgrounds.
+
+  We think from first principles — Perena is a reimagining of
+  financial infrastructure. That starts with reimagining how
+  we build.
+
+  We work in public — we value clarity, writing, and sharing
+  progress openly within the team and with our community
+industries:
+  - Blockchain
+  - Fintech
+  - Financial Services
+  - Cryptocurrency
+posted_date: 2026-10-24
+url: "https://builtin.com/job/frontend-engineer/10970641"
+source: Built In

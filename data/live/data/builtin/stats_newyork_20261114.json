@@ -1,0 +1,56 @@
+[
+  {
+    "city": "newyork",
+    "search_role": "Frontend",
+    "site_max_page": 12,
+    "pages_fetched": 12,
+    "raw_cards": 298,
+    "raw_unique_ids": 298,
+    "kept_after_dedup": 275
+  },
+  {
+    "city": "newyork",
+    "search_role": "Engineering Manager",
+    "site_max_page": 27,
+    "pages_fetched": 27,
+    "raw_cards": 669,
+    "raw_unique_ids": 669,
+    "kept_after_dedup": 612
+  },
+  {
+    "city": "newyork",
+    "search_role": "Backend",
+    "site_max_page": 26,
+    "pages_fetched": 26,
+    "raw_cards": 626,
+    "raw_unique_ids": 626,
+    "kept_after_dedup": 563
+  },
+  {
+    "city": "newyork",
+    "search_role": "Full Stack",
+    "site_max_page": 36,
+    "pages_fetched": 36,
+    "raw_cards": 898,
+    "raw_unique_ids": 898,
+    "kept_after_dedup": 742
+  },
+  {
+    "city": "newyork",
+    "search_role": "Software Engineer",
+    "site_max_page": 150,
+    "pages_fetched": 150,
+    "raw_cards": 3740,
+    "raw_unique_ids": 3697,
+    "kept_after_dedup": 2845
+  },
+  {
+    "city": "newyork",
+    "search_role": "Software Developer",
+    "site_max_page": 150,
+    "pages_fetched": 150,
+    "raw_cards": 3736,
+    "raw_unique_ids": 3681,
+    "kept_after_dedup": 32
+  }
+]

@@ -1,0 +1,176 @@
+job_id: 12177802
+title: Engineering Manager
+company: Turing
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,401 Employees
+description: |
+  About Turing
+
+  Turing’s mission is to accelerate superintelligence to drive
+  real economic progress. Headquartered in San Francisco,
+  Turing works with frontier AI labs to generate high-quality
+  datasets, reinforcement learning environments, and frontier
+  research benchmarks that improve model capabilities in
+  software engineering, enterprise knowledge work, and
+  advanced STEM reasoning. In software engineering, Turing is
+  the largest and longest-running data provider in the
+  category. Turing also works with Fortune 500 enterprises
+  across financial services, life sciences, healthcare,
+  retail, automotive, and CPG to build and deploy end-to-end
+  agentic AI systems inside mission-critical workflows. By
+  operating on both sides, Turing closes the loop between
+  frontier research and enterprise deployment, turning real-
+  world deployment signals into better data, evaluations, and
+  more capable models. Learn more at www.turing.com.
+
+
+
+  Engineering ManagerRole Overview
+
+  We are seeking an Engineering Manager to lead the
+  development of internal tooling and quality-control systems
+  that power AI training workflows. This role is ideal for a
+  leader who enjoys working across application development,
+  infrastructure, and applied AI. You will be part of a
+  rapidly growing team solving complex problems in AI systems,
+  working in a startup-paced environment with high
+  expectations and short timelines.
+
+  The ideal candidate is someone who takes ownership beyond
+  what their role technically requires, has a track record of
+  shipping production systems, and is excited by the intensity
+  of a fast-paced, ambiguous environment rather than looking
+  for stable, predictable work.
+
+  Key Responsibilities
+
+  Tooling and Platform Development:
+
+  - Build scalable platforms supporting data creation,
+    annotation, evaluation, review, and delivery.
+  - Design and implement APIs, internal applications, and
+    developer tooling that enable efficient workflows.
+  - Develop maintainable, well-tested code that scales with
+    growing demands.
+
+  Quality and Efficiency:
+
+  - Improve dataset quality, task validation, model evaluation,
+    and production efficiency.
+  - Build and iterate on evaluation frameworks that ensure
+    quality and reliability of AI training outputs.
+  - Collaborate with research and domain experts to translate
+    requirements into practical solutions.
+
+  Architecture and Standards:
+
+  - Own architecture, technical delivery, reliability, security,
+    and engineering standards.
+  - Design and implement data pipelines for dataset creation,
+    annotation, and delivery at scale.
+  - Contribute to technical design and architecture decisions
+    that balance speed, quality, and maintainability.
+
+  Leadership and Mentorship:
+
+  - Mentor engineers and establish strong design, testing, and
+    release practices.
+  - Partner with Operations, Product, and AI specialists to
+    identify bottlenecks and deliver pragmatic solutions.
+  - Lead teams through urgent, high-pressure delivery schedules
+    while maintaining quality and engineering excellence.
+
+  Technical Skills
+
+  Web Development - Node.js, React, NestJS, Next.js, Express
+
+  Python Engineering and Data Science - FastAPI, NumPy,
+  Jupyter notebooks. Proficiency in large-scale data
+  generation and data pipeline orchestration. Frameworks like
+  Spark, Beam, or Dataflow preferred. Statistical analysis,
+  data visualization, and data manipulation.
+
+  Infrastructure - Kubernetes, Docker, Pulumi, Terraform,
+  infrastructure-as-code
+
+  AI Engineering - LangChain, LiteLLM, RL Gyms, LoRA and fine-
+  tuning, AI agents, and Harbor
+
+  Quality Systems - Dataset validation, evaluation frameworks,
+  automated testing, and QC tooling
+
+  Qualifications
+
+  - Strong software engineering fundamentals with a proven track
+    record of shipping production systems.
+  - Experience leading teams effectively in fast-paced,
+    ambiguous environments.
+  - Demonstrated ability to balance speed, quality, scalability,
+    and maintainability in technical decisions.
+  - Strong debugging, problem-solving, and communication skills
+    with cross-functional teams.
+  - Interest in the evolving challenges of training and
+    evaluating AI systems.
+
+  What Success Looks Like
+
+  You lead a team that ships high-quality solutions enabling
+  AI training workflows. You can identify technical
+  bottlenecks, design pragmatic solutions, and guide your team
+  to implement them reliably. You're energized by working
+  across the full stack from infrastructure to application
+  code, and you're excited about the technical challenges of
+  building evaluation and quality-control systems for AI at
+  scale while developing strong engineers.
+
+  Values
+
+  - We are client first: We put our clients at the center of
+    everything we do, because their success is the ultimate
+    measure of our value.
+  - We work at Start-Up Speed: We move fast, stay agile and
+    favor action because momentum is the foundation of
+    perfection
+  - We are AI forward: We help our clients build the future of
+    Al and implement it in our own roles and workflow to
+    amplify productivity.
+
+  Advantages of joining Turing
+
+  - Work at the frontier of AI, helping the world’s leading AI
+    labs improve their most advanced models by building expert
+    datasets, RL environments, and first-of-a-kind benchmarks.
+  - Contribute to leading-edge AI research and showcase your
+    work at top conferences such as ICLR, ICML, and NeurIPS.
+  - Bring frontier AI innovation to the enterprise, applying
+    lessons learned from leading AI labs to solve real-world
+    business challenges.
+  - Collaborate with and learn from exceptional colleagues with
+    deep AI experience from Google, Meta, Amazon, and other
+    leading technology companies.
+  - Move at the pace of AI innovation, with the speed,
+    ownership, and impact of a startup.
+
+  Turing is proud to be an equal opportunity employer. We do
+  not discriminate on the basis of race, religion, color,
+  national origin, gender, gender identity, sexual
+  orientation, age, marital status, disability, protected
+  veteran status, or any other legally protected
+  characteristics. At Turing we are dedicated to building a
+  diverse, inclusive and authentic workplace  and celebrate
+  authenticity, so if you’re excited about this role but your
+  past experience doesn’t align perfectly with every
+  qualification in the job description, we encourage you to
+  apply anyways. You may be just the right candidate for this
+  or other roles.
+
+  For applicants from the European Union, please review
+  Turing's GDPR notice here.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-11-11
+url: "https://builtin.com/job/engineering-manager/12177802"
+source: Built In

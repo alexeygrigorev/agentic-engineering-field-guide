@@ -1,0 +1,110 @@
+job_id: 7828322
+title: Backend Developer
+company: Fogsphere
+location: London, GBR
+work_type: FULL_TIME
+company_size: 31 Employees
+description: |
+  About Fogsphere
+
+  Fogsphere is a London‑based innovator focused on
+  transforming workplace and urban safety through advanced AI,
+  Computer Vision, and Industrial IoT. Built on a principled
+  “Edge‑to‑Fog‑to‑Cloud” architecture, our platform turns
+  passive CCTV cameras and sensors into proactive hazard
+  detectors, capable of identifying threats like missing PPE,
+  fire, smoke, restricted access violations, and more—in real
+  time and at scale. This helps organizations across
+  industries—from manufacturing, construction, oil & gas, and
+  healthcare to smart cities—reduce workplace accidents by up
+  to 90%, ensure regulatory compliance (EHS), and gain
+  powerful operational insights. Fogsphere’s intuitive no‑code
+  visual workflows, hyper‑scalable Kubernetes‑based
+  infrastructure, and commitment to ethical AI and privacy
+  (GDPR compliance) make it a user‑friendly yet
+  enterprise‑grade solution.
+
+  About the Role
+
+  We are looking for a Backend Developer who can independently
+  manage, maintain, and evolve Fogsphere’s microservices
+  codebase and proprietary libraries. You will be responsible
+  for implementing new product features, maintaining and
+  writing database migration scripts, identifying and fixing
+  bugs autonomously, and ensuring high-quality, reliable
+  backend services across our platform.
+
+  This role requires strong ownership, hands-on problem-
+  solving, and the ability to work within a distributed,
+  cloud-native environment.
+
+  Key Responsibilities
+
+  - Develop, maintain, and optimize backend microservices
+    powering the Fogsphere platform
+  - Design and implement new features and integrations in
+    Node.js
+  - Maintain and write SQL database migration scripts for our
+    relational DB ecosystem (primarily PostgreSQL)
+  - Debug issues across services and infrastructure with minimal
+    supervision
+  - Contribute to designing scalable APIs and distributed system
+    components
+  - Collaborate with DevOps and ML/AI teams to ensure seamless
+    platform operation
+  - Ensure code quality, reliability, and security across the
+    backend stack
+  - Participate in architectural discussions related to
+    microservices, performance, and scaling
+
+  Required Skills & Qualifications
+
+  - 3+ years of professional experience programming in
+    JavaScript (Node.js environment) — must be solid
+  - Strong proficiency in Node.js + JavaScript
+  - Solid experience with PostgreSQL and relational databases
+  - Good understanding of the TCP/IP stack
+  - Good knowledge of Linux operating systems and shell
+    workflows
+  - Excellent hands-on knowledge of Docker
+  - Good understanding of Kubernetes (not mandatory, but highly
+    valuable)
+  - Ability to work autonomously and take ownership of complex
+    backend components
+
+  Mandatory Knowledge Before Joining
+
+  - Redis
+  - Distributed systems fundamentals
+
+  Nice to Have
+
+  - Golang
+  - Rust
+  - C
+  - C++
+  - Python
+  - Experience with high-scale, low-latency systems
+  - Experience with IoT, streaming, or event-driven
+    architectures
+
+  What We Offer
+
+  - ZERO micromanagement. At Fogsphere, developers work
+    independently under the Head of Engineering, with a focus
+    on open discussion and professional development, where the
+    best ideas are the ones applied.
+  - Opportunity to work on cutting-edge front-end development
+    challenges in some of the largest deployments in the
+    field.
+  - Collaborative environment with a team of engineers based in
+    multiple countries.
+  - Competitive salary and benefits package.
+  - Career growth and continuous learning opportunities.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-08-12
+url: "https://builtin.com/job/backend-developer/7828322"
+source: Built In

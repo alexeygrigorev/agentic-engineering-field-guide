@@ -1,0 +1,189 @@
+job_id: 9794395
+title: Staff Software Engineer, Internal Tools
+company: Tubi
+location: New York, USA
+work_type: INTERN
+company_size: 504 Employees
+description: |
+  About the Role:
+
+  We are looking for a Staff Engineer to steer the technical
+  evolution of our AI-centric business platforms, which
+  currently prioritize ad revenue operations such as cross-
+  system intelligence, workflow automation, and document
+  understanding. While the domain already supports live
+  production traffic and active users, significant
+  architectural challenges remain: how can non-deterministic
+  AI be effectively integrated into workflows where business
+  outcomes depend on high accuracy? Furthermore, how should
+  system boundaries be structured during this phase of rapid
+  platform integration and development? In this role, you will
+  confront this ambiguity head-on—defining architectural
+  patterns, implementing them in production, and validating
+  their effectiveness.
+
+  About the Team:
+
+  Tubi’s Internal Tools team is at the forefront of AI
+  integration, developing everything from developer resources
+  to production-grade AI for business operations. We are the
+  group responsible for turning AI from an experiment into an
+  operating capability: training, infrastructure, developer
+  agents, and AI-powered business systems. Engineers operate
+  with high ownership and autonomy, collaborating on shared
+  architectural decisions and AI infrastructure.
+
+  What You'll Do:
+
+  - Define and drive the technical architecture of the AI
+    platform — spanning extraction pipelines, confidence
+    scoring, cross-system data aggregation, and user-facing
+    intelligence layers. Ensure systems are modular, testable,
+    and evolvable.
+  - Own the platform's most complex subsystems and hardest
+    design problems: reliability under non-determinism,
+    integration across heterogeneous data sources, and
+    progressive automation with appropriate human-in-loop
+    gates.
+  - Establish clear system boundaries and integration contracts
+    with adjacent platforms. Design interfaces that are
+    resilient to schema evolution and organizational change.
+  - Ship consistently. Turn ambiguous requirements into working
+    software that users see and trust. Bias toward iteration
+    and measurable progress over extended design phases.
+  - Mature the platform's AI systems from early-stage to
+    production-grade: systematic validation, feedback loops
+    that improve accuracy over time, and principled cost
+    management.
+  - Raise the engineering bar through code review, design
+    discussions, and pairing. Provide clear technical analysis
+    when leadership needs to understand trade-offs,
+    feasibility, or risk.
+
+  Your Background:
+
+  Core Qualifications (Must-Haves)
+
+  - 8+ years of software engineering experience, with
+    demonstrated ability to own and deliver complex systems
+    end-to-end — from design through production operation.
+  - Deep expertise in distributed systems design, fault
+    tolerance, and building reliable systems from unreliable
+    components.
+  - Strong full-stack engineering fundamentals. Our stack:
+    Node.js/TypeScript (backend, Express), React/TypeScript
+    (frontend), PostgreSQL with Drizzle ORM, Python for ML
+    pipeline components, OpenAI and Google Gemini APIs.
+  - Demonstrated bias toward shipping. Track record of turning
+    ambiguous problems into working systems on a reasonable
+    timeline — not just designs or proposals.
+  - Good technical judgment under uncertainty. Pragmatic trade-
+    offs, knowing when "good enough" is right, and not over-
+    engineering when the problem doesn't call for it.
+
+  Preferred Qualifications (Nice-to-Haves)
+
+  - Experience designing systems that handle non-deterministic
+    or probabilistic outputs (ML models, LLM pipelines, or
+    similar) with appropriate confidence scoring and fallback
+    strategies.
+  - Familiarity with LLM application patterns: prompt
+    engineering, multi-model orchestration, agentic tool use,
+    and cost optimization for high-volume LLM workloads.
+  - Experience with document AI or structured data extraction
+    from unstructured sources (documents, image, natural
+    language) at scale.
+  - Background in ad tech, revenue operations, or media
+    operations — order management, pricing logic, deal
+    lifecycle.
+  - Experience building over heterogeneous enterprise data
+    sources with varying freshness, schemas, and access
+    patterns.
+
+  The AI Mandate
+
+  Tubi expects engineers at all levels to leverage AI tools
+  (Claude Code, Codex, Cursor, MCP integrations) to accelerate
+  delivery, testing, and documentation. For this role
+  specifically, AI goes further — it is not a feature on this
+  platform but the reason the platform exists. You don't need
+  to arrive as an AI expert, but you need to develop deep
+  fluency quickly and apply it with production-grade
+  discipline:
+
+  - Trust Engineering: Building systems where human operators
+    can progressively delegate to AI — and where the blast
+    radius is contained when AI is wrong.
+  - AI as Leverage: Thinking about AI as a force multiplier for
+    a small team. The systems you build should measurably
+    expand what the team can accomplish.
+  - Cost Discipline: Treating AI spend as an engineering problem
+    — optimizing for accuracy per dollar, not just accuracy
+    alone.
+  - Pragmatic Adoption: Evaluating new capabilities with a
+    builder's eye — what to use now, what's hype, what to wait
+    for.
+
+  #LI-SL4
+
+  #LI-Hybrid
+
+  Pursuant to state and local pay disclosure requirements, the
+  pay range for this role, with final offer amount dependent
+  on education, skills, experience, and location is listed
+  annually below. This role is also eligible for an annual
+  discretionary bonus, long-term incentive plan, and various
+  benefits including medical/dental/vision, insurance, a
+  401(k) plan, paid time off and other benefits in accordance
+  with applicable plan documents.
+
+  High cost labor markets such as but not limited to Los
+  Angeles, New York City, and San Francisco
+
+  $227,200—$324,500 USD
+
+  Tubi is a division of Fox Corporation, and the FOX Employee
+  Benefits summarized here, covers the majority of all US
+  employee benefits.  The following distinctions below outline
+  the differences between the Tubi and FOX benefits:
+
+  - For US-based non-exempt Tubi employees, the FOX Employee
+    Benefits summary accurately captures the Vacation and Sick
+    Time.
+  - For all salaried/exempt employees, in lieu of the FOX
+    Vacation policy, Tubi offers a Flexible Time off Policy to
+    manage all personal matters.
+  - For all full-time, regular employees, in lieu of FOX Paid
+    Parental Leave, Tubi offers a generous Parental Leave
+    Program, which allows parents twelve (12) weeks of paid
+    bonding leave within the first year of birth, adoption,
+    surrogacy, or foster placement of a child in addition to
+    applicable government leave program(s) and FOX’s short-
+    term disability policy. This time is 100% paid through a
+    combination of any applicable state, city, and federal
+    leaves and wage-replacement programs in addition to
+    contributions made by Tubi.
+  - For all full-time, regular employees, Tubi offers a monthly
+    wellness reimbursement.
+
+  About Tubi:
+
+  Boldly built for every fandom, Tubi is a free streaming
+  service that entertains over 100 million monthly active
+  users. Tubi offers the world's largest collection of
+  Hollywood movies and TV shows, thousands of creator-led
+  stories and hundreds of Tubi Originals made for the most
+  passionate fans. Headquartered in San Francisco and founded
+  in 2014, Tubi is part of Tubi Media Group, a division of Fox
+  Corporation.
+
+  We are an equal opportunity employer and all qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, national origin,
+  gender identity, disability, protected veteran status, or
+  any other characteristic protected by law. We will consider
+  for employment qualified applicants with criminal histories
+  consistent with applicable law.
+posted_date: 2026-08-08
+url: "https://builtin.com/job/staff-software-engineer-internal-tools/9794395"
+source: Built In

@@ -1,0 +1,146 @@
+job_id: 11287407
+title: Senior Backend Engineer ((Python / Go)
+company: RapidFort, Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 119 Employees
+description: |
+  Senior Backend Engineer (Python / Go)Overview
+
+  We are seeking a skilled and passionate Senior Backend
+  Engineer to join our team, focusing on the design,
+  development, and maintenance of high-performance, scalable
+  microservices. The ideal candidate will have strong
+  expertise in Go (Golang), and a deep understanding of
+  distributed systems architecture.
+
+  Essential QualificationsTechnical SkillsSkill
+  CategoryRequirementProficiency LevelProgramming
+  LanguagesPython (Deep expertise with frameworks like
+  FastAPI, Flask, or Django)AdvancedProgramming LanguagesGo
+  (Golang) (Experience building robust, high-concurrency
+  microservices)ExpertMicroservices / ArchitectureDesigning,
+  developing, and deploying RESTful
+  APIsExpertSecurityKeycloak, API authentication,
+  JWTAdvancedDatabasesRealtime analytics
+  (Clickhouse)AdvancedDatabasesRelational databases (MySQL)
+  including complex query optimizationAdvancedDatabasesNoSQL
+  databases (Redis)AdvancedContainerization /
+  OrchestrationKubernetes for deployment and
+  scalingAdvancedContainerization / OrchestrationDocker
+  container buildAdvancedTestingWriting comprehensive unit,
+  integration, and end-to-end testsAdvancedCore Experience
+
+  - 7+ years of professional experience in backend software
+    development, with a significant focus on building and
+    operating microservices in a production environment.
+  - Proven ability to work with and contribute to large-scale,
+    distributed systems.
+  - Experience with cloud platforms (AWS, Azure, or GCP) for
+    deployment, monitoring, and scaling.
+
+  Desired QualificationsProcess & Tools
+
+  - CI/CD: Experience setting up and maintaining automated
+    deployment pipelines
+  - Observability: Proficiency with monitoring and logging tools
+  - Source Control: Expertise in Git and collaborative workflows
+
+  Architecture & Design
+
+  - Familiarity with event-driven architectures and streaming
+    data processing
+  - Experience with security best practices in API design (e.g.,
+    OAuth 2.0, JWT, input validation)
+  - Knowledge of performance tuning and optimization techniques
+    for both Python and Go applications
+
+  Key Responsibilities
+
+  - Design, implement, and maintain scalable and reliable
+    backend microservices using Go
+  - Collaborate with product managers and front-end teams to
+    define API specifications and integration points
+  - Ensure services are deployed, monitored, and scaled
+    efficiently in a Kubernetes environment
+  - Participate in code reviews, design discussions, and
+    planning sessions
+  - Troubleshoot and resolve complex production issues, ensuring
+    high availability and performance
+  - Drive continuous improvement in development processes,
+    tooling, and infrastructure
+
+  Must-have skills for a Senior Backend / Microservices
+  Engineer (owner-level)Production microservices ownership
+  (not just “worked on”)
+
+  - Has owned at least 1–2 services end-to-end (design → build →
+    deploy → on-call → incident fixes → scaling)
+  - Comfortable with service boundaries, APIs, versioning,
+    backward compatibility, SLAs/SLOs
+
+  System design & architecture (senior bar)
+
+  - Can design systems with tradeoffs: latency, throughput,
+    cost, reliability
+  - Patterns: idempotency, retries, timeouts, circuit breakers,
+    async workflows, queues, eventual consistency
+  - Data design: relational vs NoSQL, caching, indexing,
+    migrations, multi-tenant considerations (if relevant)
+
+  Strong debugging & problem-solving in real-world scenarios
+
+  - Can take an ambiguous production issue and drive it to
+    resolution
+  - Uses a structured approach: reproduce → isolate → instrument
+    → hypothesis → validate → fix → prevent
+
+  Linux fundamentals (practical, daily-use)
+
+  - Confident with commands/tools like: ps/top/htop, journalctl,
+    systemctl, netstat/ss, lsof, curl, grep/sed/awk, strace
+    (bonus), log parsing
+  - Understands networking basics (DNS, TLS, ports, timeouts)
+
+  Docker + container runtime competence
+
+  - Can explain Dockerfiles, layers, multi-stage builds, image
+    size/security
+  - Debug containers: env vars, volumes, entrypoints,
+    networking, resource limits
+
+  Observability / logging / diagnostics
+
+  - Strong in structured logging, correlation IDs, trace context
+  - Metrics + tracing + logs as a system
+  - Datadog experience is a must-have , or a very credible
+    equivalent (Prometheus/Grafana + OpenTelemetry + ELK) with
+    proof they can ramp fast
+
+  Platform maturity
+
+  - CI/CD, release processes, rollback strategies
+  - Basic security and reliability hygiene (secrets mgmt, least
+    privilege, rate limiting)
+
+  CompensationCompensation & Benefits
+
+  $140,000 – $200,000 USD per year (depending on experience
+  and qualifications)
+
+  Benefits
+
+  - 401(k) retirement plan
+  - Health, dental, and vision insurance
+  - Paid time off (PTO) and company holidays
+  - Flexible work arrangements
+  - Professional development and training support
+  - Performance-based bonuses (if applicable)
+industries:
+  - Cloud
+  - Software
+  - Cybersecurity
+posted_date: 2026-09-21
+url: "https://builtin.com/job/senior-backend-engineer-python-go/11287407"
+source: Built In

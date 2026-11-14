@@ -1,0 +1,187 @@
+job_id: 11887466
+title: Senior Software Development Engineer in Test
+company: Runpod
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 120 Employees
+description: |
+  Runpod is the AI Developer Cloud. More than one million
+  developers, from indie researchers to teams running frontier
+  models in production, use Runpod to experiment, train, fine-
+  tune, deploy, and scale AI on one platform. The platform has
+  processed more than 20 billion inference requests. We closed
+  a $100M Series A in June 2026. We're at an inflection point
+  for AI infrastructure, and we're building the platform the
+  next generation of developers will depend on.
+
+
+
+  We're a small, remote-first team. We take ownership
+  seriously, move fast, and ship work that more than a million
+  developers rely on every day. We're looking for people who
+  care deeply, build with urgency, and want to matter at
+  scale.
+
+
+
+  Learn more in our CEO's funding announcement:
+  https://www.runpod.io/blog/one-million-developers.
+
+  We are seeking a highly skilled and experienced Software
+  Development Engineer in Test (SDET) to join our team. This
+  role is pivotal in ensuring the reliability, scalability,
+  and performance of our large-scale distributed systems. The
+  ideal candidate will have a deep understanding of cloud-
+  native architectures, automation-first testing strategies,
+  and expertise in validating complex, high-performance
+  infrastructure. Key Aspects of Our Testing Approach:
+
+  - Automation-Driven Quality: We prioritize automated testing
+    strategies to validate system performance, scalability,
+    and reliability, reducing manual effort and increasing
+    test coverage.
+  - Resilience Testing at Scale: Our SDETs proactively design
+    tests to assess fault tolerance, high availability, and
+    self-healing capabilities across globally distributed
+    environments.
+  - Performance and Load Testing: We build and execute
+    sophisticated test strategies to ensure our infrastructure
+    scales efficiently under extreme workloads.
+  - Shift-Left Testing: We integrate testing early into the
+    development lifecycle, ensuring quality and reliability
+    from the inception of new features.
+  - Data-Driven Decision Making: We leverage metrics, analytics,
+    and real-world traffic patterns to continuously refine our
+    testing methodologies and improve system reliability.
+
+  As one of the first engineers on Runpod’s QA team, you’ll
+  have a unique opportunity to shape our testing strategy,
+  automation frameworks, and quality standards as we scale.
+  You’ll work across our entire platform, including GPU Pods,
+  Serverless endpoints, batch jobs, Instant Clusters, storage,
+  and billing systems. Our infrastructure spans GraphQL APIs,
+  Go services running on thousands of GPU hosts worldwide, and
+  complex event-driven pipelines.
+
+  Quality is embedded directly into our engineering process,
+  not treated as a final checkpoint. You’ll collaborate
+  closely with Engineering and SRE teams to review code, build
+  integration and end-to-end tests, and identify issues before
+  they reach production. We take a data-driven approach to
+  quality, prioritizing measurable results, actionable
+  insights, and continuous improvement.
+
+  As an SDET, you’ll play a critical role in building scalable
+  testing frameworks, validating complex distributed systems,
+  stress-testing cloud infrastructure, and driving reliable
+  deployments through automation. This is a high-impact
+  opportunity to help establish the foundation of QA at Runpod
+  while directly influencing the reliability, performance, and
+  scalability of our growing platform.
+
+  Responsibilities:
+
+  - Design, develop, and maintain robust test automation
+    frameworks for cloud-scale distributed systems.
+  - Architect performance, load, and stress tests to validate
+    system resilience under high traffic conditions.
+  - Build fault-injection and chaos engineering strategies to
+    assess the reliability of distributed services.
+  - Develop and execute end-to-end integration, API, and system-
+    level tests across microservices-based architectures.
+  - Implement continuous testing pipelines within CI/CD
+    workflows to accelerate deployment cycles.
+  - Collaborate closely with development, SRE, and
+    infrastructure teams to ensure quality best practices are
+    embedded within the SDLC.
+  - Analyze system logs, telemetry data, and observability
+    metrics to identify and mitigate potential failures before
+    they impact production.
+  - Drive automation of security testing, API contract
+    validation, and infrastructure testing.
+  - Participate in on-call rotations to assist in diagnosing
+    critical production issues related to system reliability
+    and performance.
+
+  Requirements:
+
+  - 10+ Years of experience in QA Automation, SDET, Software
+    engineering or a related technical field
+  - Expertise in testing cloud-scale distributed systems with a
+    strong focus on reliability, performance, and scalability.
+  - Strong programming skills in at least one language,
+    preferably Python, Golang, or Typescript.
+  - Hands-on experience in building test automation frameworks
+    for complex microservices architectures.
+  - Deep understanding of CI/CD pipelines, infrastructure as
+    code (IaC), and automated deployment strategies.
+  - Extensive experience with load testing tools (e.g., Locust,
+    k6, JMeter) and observability platforms (e.g., Prometheus,
+    Grafana, OpenTelemetry, Datadog).
+  - Proven experience in testing containerized applications and
+    Kubernetes-based environments.
+  - Strong expertise in chaos engineering and fault injection
+    frameworks (e.g., Chaos Mesh, Gremlin, LitmusChaos).
+  - Knowledge of distributed tracing and debugging in cloud-
+    native environments.
+  - Experience working with message queues, databases, and
+    event-driven
+  - architectures (Kafka, RabbitMQ, Redis, etc.)
+  - Successful completion of a background check
+
+  Preferred:
+
+  - Bachelor's degree in Computer Science, Engineering, or a
+    related field.
+  - Experience with multi-region cloud deployments in AWS, GCP,
+    or Azure.
+  - Familiarity with security testing and compliance frameworks.
+  - Background in managing fleets of GPU/AI compute resources.
+  - Strong analytical and problem-solving skills with a passion
+    for improving system quality at scale.
+
+  What You’ll Receive:
+
+  - The competitive base pay for this position ranges from
+    ($145,000 - $185,000). This salary range may be inclusive
+    of several career levels at Runpod and will be narrowed
+    during the interview process based on a number of factors,
+    including the candidate’s experience, qualifications, and
+    location
+  - Meaningful equity in a fast-growing company- everyone on the
+    team receives stock options — your impact drives our
+    growth, and you share in the upside.
+  - Generous medical, dental & vision plans
+  - Flexible PTO- take the time you need to recharge
+  - Most roles are remote work first with an inclusive,
+    collaborative teams utilizing slack as the main form of
+    internal communication
+  - Join a passionate team on the cutting edge of AI
+    infrastructure — where culture, learning, and ownership
+    are at the heart of how we scale.
+  - $1,200 Home Office & Equipment Stipend- We set you up for
+    success from day one with gear and support to create your
+    ideal workspace
+
+  Runpod is committed to maintaining a workplace free from
+  discrimination and upholding the principles of equality and
+  respect for all individuals. We believe that diversity in
+  all its forms enhances our team. As an equal opportunity
+  employer, Runpod is committed to creating an inclusive
+  workforce at every level. We evaluate qualified applicants
+  without regard to race, color, religion, sex, sexual
+  orientation, gender identity, national origin, age, marital
+  status, protected veteran status, disability status, or any
+  other characteristic protected by law. We welcome every
+  qualified candidate eligible to work in the United States;
+  however, we are currently unable to sponsor employment
+  visas.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Software
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-10-26
+url: "https://builtin.com/job/senior-software-development-engineer-test/11887466"
+source: Built In

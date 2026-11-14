@@ -1,0 +1,110 @@
+job_id: 9913851
+title: Backend Lead- Dallas, TX
+company: Photon
+location: USA
+locations:
+  - USA
+  - Dallas, USA
+remote: true
+work_type: FULL_TIME
+company_size: 5,017 Employees
+description: |
+  We are seeking a versatile Backend Lead to join our
+  engineering team. In this role, you will be responsible for
+  designing, building, and maintaining the server-side logic
+  and infrastructure that powers our applications. You will
+  work across two primary ecosystems: Java for robust,
+  scalable enterprise services and Python for data processing,
+  automation, and agile microservices. You will collaborate
+  closely with frontend developers and DevOps teams to ensure
+  seamless integration and high-system reliability.
+
+  Key Responsibilities
+
+  - System Design & Development: Build and maintain scalable,
+    high-performance backend services using Java (Spring Boot)
+    and Python (Django/FastAPI).
+  - API Management: Design and implement RESTful and GraphQL
+    APIs to support web and mobile frontends.
+  - Database Management: Optimize database schemas and complex
+    queries for both SQL (PostgreSQL, MySQL) and NoSQL
+    (MongoDB, Redis) systems.
+  - Microservices Architecture: Develop and orchestrate
+    microservices, ensuring efficient inter-service
+    communication and data consistency.
+  - Security & Compliance: Implement secure
+    authentication/authorization protocols (OAuth2, JWT) and
+    ensure data protection across all layers.
+  - Testing & Quality: Write comprehensive unit, integration,
+    and end-to-end tests using frameworks like JUnit (Java)
+    and pytest (Python).
+  - Performance Optimization: Identify and resolve bottlenecks
+    in application logic, database access, and network
+    latency.
+  - Collaboration: Participate in Agile ceremonies, perform code
+    reviews, and contribute to technical documentation.
+
+  Technical Skills & Qualifications Core Programming
+
+  - Java: Proficiency in Java 17+ with deep knowledge of the
+    Spring Ecosystem (Spring Boot, Spring Security, Spring
+    Data).
+  - Python: Expert-level Python 3.x skills, with experience in
+    frameworks like FastAPI, Django, or Flask.
+
+  Databases & Storage
+
+  - Experience with relational databases (PostgreSQL, MySQL) and
+    NoSQL solutions (MongoDB, Redis, Cassandra).
+  - Strong understanding of ORM tools like Hibernate (Java) and
+    SQLAlchemy/Django ORM (Python).
+
+  Infrastructure & Tools
+
+  - Containerization: Hands-on experience with Docker and
+    Kubernetes.
+  - Cloud Platforms: Familiarity with AWS, GCP, or Azure
+    services (Lambda, EC2, S3, RDS).
+  - CI/CD: Proficiency with Git and automated deployment
+    pipelines (GitHub Actions, Jenkins, or GitLab CI).
+  - Messaging: Experience with message brokers like Apache Kafka
+    or RabbitMQ for asynchronous processing.
+
+  Soft Skills
+
+  - Strong analytical and problem-solving mindset.
+  - Ability to translate complex business requirements into
+    technical specifications.
+  - Excellent communication skills for cross-functional
+    collaboration.
+
+
+
+
+
+
+
+
+
+
+
+  Compensation, Benefits and Duration
+
+
+
+  Minimum Compensation: USD 46,000 Maximum Compensation: USD
+  162,000 Compensation is based on actual experience and
+  qualifications of the candidate. The above is a reasonable
+  and a good faith estimate for the role. Medical, vision, and
+  dental benefits, 401k retirement plan, variable
+  pay/incentives, paid time off, and paid holidays are
+  available for full time employees. This position is not
+  available for independent contractors No applications will
+  be considered if received more than 120 days after the date
+  of this post
+industries:
+  - Agency
+  - Information Technology
+posted_date: 2026-08-16
+url: "https://builtin.com/job/backend-lead-dallas-tx/9913851"
+source: Built In

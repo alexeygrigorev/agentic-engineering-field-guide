@@ -1,0 +1,98 @@
+job_id: 9076078
+title: Founding Full-Stack Engineer (Backend-leaning)
+company: Solstice Health
+location: New York, USA
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  Why you should join us
+
+  Solstice is redefining how life sciences organizations
+  commercialize their products. We are building a commercial
+  engine that allows pharmaceutical marketers to take control
+  of their content supply chain. Some reasons for why you
+  should join us are:
+
+  - Rapid growth: Over the past year, we have been working with
+    some of the top life sciences manufacturers as well as
+    marketing agencies and are working with over 50+ pharma
+    brands.
+  - Frontiers of technology: We’re building applications and
+    rapidly iterating technical approaches at the frontiers of
+    AI, experimenting with LLMs and new frameworks. We have V2
+    of the platform currently deployed to customers but are
+    incorporating new, advanced frameworks to our solution
+    aggressively.
+  - Top-tier investors: We’ve raised $3.5mm+ from investors like
+    Twelve Below, Virtue and the founders of Datavant,
+    Commure, and Paradigm to supercharge our growth and build
+    an elite team of engineers and operators.
+
+  Building anything great requires commitment and dedication.
+  We’re looking for someone who has the fire to prove others
+  wrong 🚀
+
+  About the role
+
+  We’re building Solstice to automate compliant, reference-
+  backed pharma marketing. As a founding full-stack engineer,
+  you’ll own core parts of the application stack, designing
+  APIs, background workflows, and deployment pipelines, and
+  you’ll be responsible for packaging and shipping LLM
+  “agents” to production. Beyond development, you will be
+  collaborating closely with co-founders Yiwen and Aris on all
+  facets of the startup as we grow Solstice in the coming
+  years as we ship fast, safe, and observable systems. Reach
+  out to aris@solsticehealth.co to learn more.
+
+  What you’ll be working on
+
+  - Backend services & APIs: Build and harden FastAPI services;
+    design clean interfaces for ingestion, retrieval,
+    annotation, and compliance checks.
+  - Workers & queues: Stand up a reliable background job
+    platform with Celery + Redis (scheduling, retries,
+    idempotency, backoff, result stores).
+  - Agent deployment: Package LLM/RAG agents (e.g.,
+    LangGraph/LangChain) into production service.
+  - Cloud & infra: Ship to AWS, manage secrets, networking,
+    autoscaling, and cost controls.
+  - Integrations: Building robust, enterprise integrations with
+    cloud platforms such as Veeva Promomats, Adobe, and Figma.
+  - Pipelines & files: Orchestrate file processing (PDFs,
+    images), OCR, embedding pipelines, and metadata enrichment
+    at scale (S3-first design).
+  - Data layer: Model clean schemas and access patterns for
+    Postgres; use Redis for caching and rate-limiting;
+    integrate vector DBs (Pinecone).
+  - Frontend touchpoints: Contribute to our Next.js frontend
+    where necessary.
+
+  Some ideal traits we’re looking for
+
+  - Engineering chops. Relevant experience building systems &
+    deploying enterprise-grade products
+  - Independent thinking. While we believe specific skills can
+    be taught, we need someone who has the ability to make
+    decisions and drive results on their own.
+  - Strong proficiency in full-stack web development
+    technologies such as Python, FastAPI, Docker, AWS
+  - Experience working with LLMs such as GPT, Claude and Gemini
+    to create LLM-based workflows, RAG Pipelines and agentic
+    solutions. (Either formally or through
+    projects/experimentation)
+  - Superb communication and collaboration skills. We believe in
+    direct communication and willingness to provide as well as
+    accept criticism.
+  - Unreal work ethic. Diamonds were not made overnight.
+
+  Benefits
+
+  - Medical insurance
+  - Relocation support
+  - Opportunity to work at a high-velocity and high-energy
+    startup
+  - Visa sponsorship (O-1) for internationals
+posted_date: 2026-10-12
+url: "https://builtin.com/job/founding-full-stack-engineer-backend-leaning/9076078"
+source: Built In

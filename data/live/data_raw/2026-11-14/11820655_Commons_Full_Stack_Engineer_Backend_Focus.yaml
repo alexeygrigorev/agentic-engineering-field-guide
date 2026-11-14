@@ -1,0 +1,124 @@
+job_id: 11820655
+title: Full Stack Engineer (Backend Focus)
+company: Commons
+location: CAN
+locations:
+  - CAN
+  - MEX
+  - USA
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 33 Employees
+description: |
+  Commons is a platform that helps people use their money to
+  build the life and world they want.
+
+  Through our personal finance app, hundreds of thousands of
+  individuals track, manage, and offset the impact of their
+  dollars, saving $2,000 on average and lowering emissions by
+  10% a year.
+
+  Through our carbon advisory offering, we provide end-to-end
+  carbon diligence and portfolio management services for the
+  world's most impactful individuals and teams. Commons is one
+  of the top 50 buyers of high-integrity carbon credits in the
+  world, offering individuals access to the highest-quality
+  projects typically reserved for top buyers.
+
+  Commons has scaled meaningfully with a scrappy, tenacious,
+  passionate team of 10-15 people. We aren’t afraid to move
+  fast and try new things to meet our customers where they
+  are. We’re looking for one unique engineer to join our
+  ranks.
+
+  The role
+
+  This is a mid-to-senior IC role, building across the whole
+  stack (Node/Express/Postgres/React Native). You'll also play
+  the specific role of leading the backend and platform side
+  of Commons (data models, integrations, infrastructure, and
+  security).
+
+  You’ll solve new problems every day across multiple
+  surfaces, switching from polishing frontend features to
+  architecting databases; alternating between mobile and web
+  development; building building frontend tests for your own
+  code and helping teammates automate their workflows.
+
+  You’ll be responsible for:
+
+  - Building features end to end, from database to UI, and
+    reviewing PRs
+  - Designing and evolving our core data models, and reviewing
+    migrations before they go out
+  - Owning our third-party integrations and making build vs. buy
+    calls
+  - Running CI/CD (GitHub Actions and CircleCI), monitoring (New
+    Relic, Sentry), and infrastructure on Render, Postgres,
+    and Redis
+  - Leading in any outages and escalations, especially anything
+    infrastructure-related
+  - Keeping dependencies up to date, and simplifying the stack
+    where you can
+  - Working with our data team to improve privacy and security
+    practices
+  - Helping build out AI coding tools and workflows team-wide to
+    increase speed and efficacy
+
+  The team
+
+  You'll join a distributed engineering team of three other
+  engineers in the US and Manila, all working across the
+  stack. You’d lead backend architecture and own backend and
+  platform decisions.
+
+  You’ll partner closely with product, design, marketing, and
+  data teammates to make decisions and coordinate on new
+  features and capabilities. Our team is highly collaborative,
+  in touch daily over slack and video. We’re looking for a
+  team member who likes collaborating, explains their thinking
+  in code reviews and design discussions, and wants to build
+  their own skills and help others to do the same.
+
+  What we're looking for
+
+  - 5+ years building production software across the stack, with
+    most of your depth on the backend.
+  - You think in capabilities, not features. You look to build
+    foundations to iterate on, rather than fully-polished
+    final products.
+  - You're used to building and shipping features yourself from
+    end to end.
+  - You’ve built backend systems from the ground up and owned
+    production at a startup. You've set up CI, added
+    monitoring, and been the one who got paged. You’re
+    comfortable being the first port of call in an outage or
+    emergency.
+  - You know Postgres well, have designed schemas from scratch,
+    and have run migrations on systems people were actively
+    using.
+  - You've built and maintained third-party integrations and
+    made build vs. buy decisions you can defend.
+  - You take data security and privacy seriously.
+  - You are deeply embedded in AI and agentic coding tools. You
+    use them to build, refine, and check your work. You’re
+    passionate about helping others improve their workflows.
+  - You can clearly explain technical tradeoffs to people
+    without a technical background.
+  - You love tackling new and different problems.
+  - You aren’t looking to be a manager – or to be managed. You
+    enjoy teams where everyone is building, owning, and co-
+    creating.
+
+  Think you might have what it takes, but not sure you meet
+  every requirement? Research shows that women and
+  marginalized folks tend to only apply when they check every
+  box. If you're passionate about what we're building, please
+  apply. You might be just who we’re looking for.
+industries:
+  - Greentech
+  - Software
+posted_date: 2026-10-22
+url: "https://builtin.com/job/full-stack-engineer-backend-focus/11820655"
+source: Built In

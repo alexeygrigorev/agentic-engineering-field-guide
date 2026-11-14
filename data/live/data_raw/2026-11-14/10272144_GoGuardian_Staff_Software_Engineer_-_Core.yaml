@@ -1,0 +1,227 @@
+job_id: 10272144
+title: Staff Software Engineer - Core
+company: GoGuardian
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 740 Employees
+description: |
+  What We Do
+
+
+
+  At GoGuardian, we’re helping build a future where all
+  learners are ready and inspired to solve the world’s
+  greatest challenges. Our award-winning system of learning
+  solutions is purpose-built for K-12 and trusted by school
+  leaders to promote effective teaching and equitable
+  engagement while helping empower educators to keep students
+  safe.
+
+
+
+  What It’s Like to Work at GoGuardian
+
+  We are an outcomes-focused learning company with a steadfast
+  focus on improving learning environments, one classroom at a
+  time. Working with us means joining a remote team of
+  diverse, committed, mission-driven employees who are
+  inspired by our vision, dedicated to our customers, and
+  ready to roll up their sleeves. Guardians put their heads
+  together to solve problems, learn together from experiments
+  that fail, and stand together by their work with full
+  accountability. We balance our diligence with an inclusive
+  culture that invites everyone to bring their whole self to
+  work. Join us and learn why “I love the people here” is one
+  of the most frequent comments we hear from Guardians.
+
+  The Role
+
+  We’re looking for a Staff Software Engineer to build new and
+  maintain existing products in GoGuardian’s Safety product
+  suite. This position sits on the Core team, which owns the
+  GG App -- the client application that brings GoGuardian’s
+  filtering and safety capabilities to macOS, Windows, and iOS
+  devices. The Core team is responsible for the full lifecycle
+  of the app on customer devices: packaging and code signing,
+  silent and at-scale deployment through the tools school IT
+  departments already use (Intune, GPO, SCCM, PDQ, Jamf, and
+  MDM), auto-update infrastructure, and the health and
+  reporting systems that tell us and our customers that every
+  install is working. In this role, you’ll contribute to the
+  full software development lifecycle -- from conception,
+  research, definition, scoping, planning, implementation, and
+  testing, to documentation, delivery, and maintenance. The
+  ideal candidate is curious, able to manage risk, and driven
+  to deliver quality software that runs reliably on hundreds
+  of thousands of school-managed devices.
+
+  What You Will Do
+
+  - Design, build, and maintain the GG App across Windows,
+    macOS, and iOS, including installers, background services,
+    and update mechanisms.
+  - Own Windows installer engineering: MSI/EXE packages built
+    with the WiX Toolset, silent install and uninstall flows
+    (/quiet, /norestart), upgrade paths, and code signing that
+    keeps us clear of SmartScreen and Defender blocks.
+  - Build and maintain deployment paths for the tools our
+    customers actually use -- Microsoft Intune (Win32 app
+    packaging, assignments, version detection), Active
+    Directory / Group Policy, SCCM, PDQ Deploy, and Apple MDM
+    solutions -- so districts can roll out the app however
+    their environment requires.
+  - Design and operate the auto-update system: a lightweight
+    background updater service, differential/patch-based
+    updates, signed update packages delivered via CDN, and
+    scheduled update checks via Windows services, Task
+    Scheduler, or platform equivalents.
+  - Write PowerShell and platform scripting to automate
+    installation, uninstallation, registry and service
+    management, logging, and diagnostics.
+  - Navigate customer infosec constraints -- UAC and elevation,
+    certificate-based trust, endpoint-protection interactions,
+    restricted-egress and offline environments -- and design
+    the app to work within them.
+  - Build or integrate install/upgrade health reporting so we
+    and our customers can see per-machine install status,
+    surface errors, and collect diagnostic logs; contribute to
+    the backend/API work this requires.
+  - Write IT-friendly documentation, deployment scripts, and
+    onboarding materials covering the deployment profiles our
+    customers use (manual, GPO, Intune, PDQ, MDM).
+  - Lead the application architecture decision-making process
+    for the Core team.
+  - Collaborate with a cross-functional team toward feature
+    delivery, working both independently and in pairs/groups
+    with others of varying skill levels; work closely with
+    Product Management and Support to turn customer deployment
+    pain into product improvements.
+  - Understand, implement, and contribute to GoGuardian’s best
+    practices, including style guides, standards, code
+    reviews, documentation management, and operational
+    workflows.
+  - Champion AI adoption across engineering by defining best
+    practices and driving effective use of AI in development
+    workflows to improve velocity, quality, and customer
+    impact; continuously experiment with and operationalize AI
+    tools, mentor teams on AI usage, and help shape the
+    company’s AI engineering culture and strategy.
+  - Monitor and track performance and reliability of our
+    services and software to meet promised SLAs; participate
+    in an on-call rotation for production application support
+    and be generally available during standard working hours.
+  - Build and operate supporting AWS infrastructure (update
+    delivery, telemetry ingestion, reporting).
+  - Take part in short- and long-term planning, and mentor other
+    developers to increase the overall performance of the
+    team.
+
+  Who You Are
+
+  - 8+ years of experience as a software engineer, with
+    significant time spent on desktop/client applications or
+    endpoint software deployed to customer-managed devices.
+  - Deep Windows platform expertise: installer engineering
+    (MSI/EXE, WiX Toolset, silent install options), Windows
+    services, the registry, UAC/elevation, and code signing
+    and trust chains.
+  - Strong PowerShell and scripting skills for install/uninstall
+    automation, service and registry management, and
+    logging/reporting.
+  - Hands-on experience deploying software at scale through
+    enterprise systems-management tools -- Intune, Group
+    Policy, SCCM, and/or PDQ Deploy -- and familiarity with
+    their packaging, assignment, and version-detection models.
+  - Experience building or integrating auto-update systems:
+    background updaters, differential updates, signed
+    packages, CDN delivery, and scheduled update triggers.
+  - Working knowledge of endpoint security and compliance
+    realities: certificate-based trust, endpoint-protection
+    tool behavior, and customer environments with no outbound
+    connectivity or offline installation requirements.
+  - Familiarity with macOS and iOS deployment (PKG installers,
+    MDM, Jamf, Apple Business Manager) or a demonstrated
+    ability to come up to speed quickly on Apple platforms.
+  - Direct involvement in shipping at least one production
+    application/product to end users.
+  - Competency in one or more languages; experience with Go,
+    C#/.NET, Swift, or C++ preferred, plus enough full-stack
+    fluency (JavaScript/React, MySQL) to contribute to
+    reporting dashboards and backend APIs.
+  - Experience with monitoring, performance optimization,
+    technical documentation, and unit/integration testing.
+  - Have deployed software utilizing AWS, Terraform, Kubernetes,
+    Docker, and/or other similar technology.
+  - Can drive automation adoption and enhancement in areas such
+    as test automation, GitHub runners, CI/CD platforms, and
+    other automation platforms.
+  - Confident in making technical decisions and explaining the
+    reasoning behind them; can drive change beyond the scope
+    of the team.
+  - Writes production-grade code for well-scoped features,
+    integrating feedback from code reviewers; learns quickly
+    and applies existing knowledge to new challenges.
+
+  Nice to Have
+
+  - Experience with Kafka or other event-sourcing systems.
+  - Experience shipping software into K-12 or other highly
+    managed IT environments.
+  - An interest in Machine Learning and AI technology.
+
+   What We Offer
+
+  - Competitive pay, complete health insurance, 401(k) matching,
+    and an employee equity plan.
+  - Flexible time off, paid holidays, paid parental leave, and a
+    paid year-end holiday break.
+  - A robust catalog of benefits that support your professional
+    growth and personal wellbeing, including work from home
+    funds, fertility & adoption reimbursement, and more…
+
+  Plus the intangible
+
+  - A varied and challenging role in an innovative, global
+    company.
+  - Supportive, driven colleagues who have your back and share
+    your passion.
+
+  The typical base salary range for this position is $190,000
+  - $220,000 per year. The range displayed on this job posting
+  reflects the minimum and maximum target for new hire base
+  pay for this position and your pay will be determined by a
+  variety of factors, including your primary work location,
+  skills, qualifications and experience. Additional benefits
+  information is listed on our careers page
+
+  Please share this with your friends or co-workers who may be
+  interested in working at GoGuardian! We have multiple
+  openings and are always looking for talented people.
+
+
+
+  GoGuardian is an equal opportunity employer and makes
+  employment decisions on the basis of merit and business
+  needs. GoGuardian does not discriminate against employees,
+  applicants, interns or volunteers on the basis of race,
+  religion, color, national origin, ancestry, physical
+  disability, mental disability, medical condition, pregnancy,
+  marital status, sex, age, sexual orientation, military and
+  veteran status, registered domestic partner status, genetic
+  information, gender, gender identity, gender expression, or
+  any other characteristic protected by applicable law.
+
+
+
+  GoGuardian's Job Applicant Privacy Policy is located here.
+
+
+
+  #BI-Remote
+industries:
+  - Edtech
+  - Software
+posted_date: 2026-08-15
+url: "https://builtin.com/job/staff-software-engineer-core/10272144"
+source: Built In

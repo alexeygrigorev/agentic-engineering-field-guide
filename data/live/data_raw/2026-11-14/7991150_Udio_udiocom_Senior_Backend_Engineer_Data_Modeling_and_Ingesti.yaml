@@ -1,0 +1,145 @@
+job_id: 7991150
+title: Senior Backend Engineer, Data Modeling and Ingestion Platform
+company: Udio (udio.com)
+location: New York, USA
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  About the Role
+
+  We are looking for a Senior Backend Engineer to lead the
+  unification of large, highly rich, and heterogeneous
+  datasets sourced from a wide range of external providers.
+  These datasets are used to power our generative audio
+  models.
+
+  Your work will create the foundational dataset that powers
+  our research by building robust, scalable systems for
+  linking, deduplicating, reconciling, and enriching data at
+  massive scale. This role centers on high-impact bulk
+  ingestion and advanced data linkage. You will design the
+  logic, algorithms, and strategies that transform many
+  independent datasets into a unified, high-quality canonical
+  asset used throughout the company.
+
+  You will collaborate closely with ML researchers and product
+  teams, working with tools such as BigQuery, Dataflow/Beam,
+  TFRecords, and—where beneficial—distributed systems
+  frameworks like Ray. Familiarity with ML workflows using JAX
+  or multihost training is a plus, as the datasets you produce
+  will directly support that ecosystem.
+
+  What You'll Do
+
+  - Build high-throughput bulk ingestion workflows to integrate
+    datasets from multiple external providers.
+  - Design and implement scalable entity-resolution solutions,
+    including record linking, deduplication, clustering, and
+    conflict arbitration.
+  - Create and refine matching logic, decision rules, and
+    similarity functions to align datasets with high accuracy
+    and strong coverage.
+  - Define and track data quality indicators, such as overlap
+    metrics, match precision/recall, duplicate rates, and
+    completeness.
+  - Prepare training-ready datasets in formats such as
+    TFRecords, and structure data to meet ML research
+    requirements.
+  - Develop processing components using Dataflow (Beam) and
+    manage large analytical workloads in BigQuery.
+  - Leverage frameworks like Ray to accelerate large-scale
+    experiments, feature extraction, and research-oriented
+    data preparation.
+  - Collaborate with ML researchers to anticipate downstream
+    requirements and evolve linkage strategies as new sources
+    and use cases emerge.
+
+  What We're Looking For
+
+  - Experience working with large, heterogeneous datasets from
+    multiple providers or domains.
+  - Strong background in entity resolution, deduplication, data
+    unification, or related large-scale data integration
+    techniques.
+  - Proficiency in Python, with an emphasis on efficient,
+    scalable data processing.
+  - Experience with BigQuery, Google Dataflow/Apache Beam, or
+    similar batch-processing frameworks.
+  - Familiarity with data validation, normalization,
+    reconciliation, and building consistent views across
+    diverse data sources.
+  - Ability to craft well-structured matching and decision
+    strategies that balance accuracy, completeness, and
+    computational efficiency.
+  - Comfortable iterating quickly on pragmatic solutions,
+    balancing correctness with time-to-delivery.
+  - Clear communication skills and the ability to collaborate
+    closely with ML and research teams.
+
+   Nice to Have
+
+  - Knowledge of architecting Google Cloud Platform systems at
+    scale
+  - Experience with distributed compute frameworks such as Ray,
+    Spark, or Flink.
+  - Understanding of JAX-based ML pipelines, multihost training
+    setups, or large-scale data preparation for accelerator-
+    backed workflows.
+  - Familiarity with TFRecords or other high-volume training
+    data formats.
+  - Exposure to ranking, clustering, or statistical similarity
+    modeling.
+  - Experience with Go, NextJS, and/or React Native to
+    contribute to full-stack development
+
+  Why Join Us
+
+  - You will design the core dataset that underpins our
+    research, product development, and generative audio
+    models.
+  - You'll work on large-scale data challenges that require
+    creativity, algorithmic thinking, and engineering
+    excellence.
+  - You'll join a small, fast-moving team where your decisions
+    shape the direction of our data and research capabilities.
+
+  Benefits
+
+  - Highly competitive salary and equity
+  - Quarterly productivity budget
+  - Flexible time off
+  - Fantastic office location in Manhattan
+  - Productivity package, including ChatGPT Plus, Claude Code,
+    and Copilot
+  - Top notch private health, dental, and vision insurance for
+    you and your dependents
+  - 401(k) plan options with employer matching
+  - Concierge medical/primary care through One Medical and
+    Rightway
+  - Mental health support from Spring Health
+  - Personalized life insurance, travel assistance, and many
+    other perks
+
+  Udio’s success hinges on hiring great people and creating an
+  environment where we can be happy, feel challenged, and do
+  our best work.
+
+  Udio provides equal employment opportunities (EEO) to all
+  employees and applicants for employment without regard to
+  race, color, religion, sex, national origin, age,
+  disability, genetics, sexual orientation, gender identity,
+  or gender expression. We are committed to a diverse and
+  inclusive workforce and welcome people from all backgrounds,
+  experiences, perspectives, and abilities.
+
+  This role is eligible for a compensation package of base
+  salary, equity, and benefits. The starting base salary range
+  for this role is $180,000 - $220,000. Actual salary may vary
+  based on level, work experience, performance, and other
+  factors evaluated during the hiring process.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-07-31
+url: "https://builtin.com/job/senior-backend-engineer-data-modeling-and-ingestion-platform/7991150"
+source: Built In

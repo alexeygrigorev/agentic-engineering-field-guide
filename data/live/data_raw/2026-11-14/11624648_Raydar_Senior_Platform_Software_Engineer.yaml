@@ -1,0 +1,98 @@
+job_id: 11624648
+title: Senior Platform Software Engineer
+company: Raydar
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 28 Employees
+description: |
+  About the company
+
+  Our client is a fast-growing software company.
+
+  The role
+
+  Raydar is recruiting for this role on behalf of our client.
+  Shape the shared infrastructure and engineering tooling that
+  helps product developers release work quickly and with
+  confidence. The role covers cloud environments, release
+  automation and uptime practices as the platform grows.
+
+  What you'll do
+
+  - Own and evolve cloud infrastructure defined as code,
+    treating it as an internal service for engineering teams.
+
+  - Create and maintain internal tooling, shared libraries and
+    SDKs that give developers consistent ways to build and
+    release software.
+
+  - Run release automation and short-lived test environments for
+    each code change so deployments are simple and low risk.
+
+  - Improve platform reliability through service level
+    objectives, auto-scaling and incident response.
+
+  - Strengthen monitoring and tracing so teams can see how
+    systems behave in production.
+
+  - Tackle scaling problems in the data layer and compute,
+    including database tuning and capacity automation.
+
+  Requirements
+
+  What we're looking for
+
+  - A solid infrastructure or backend background at a high-
+    growth technology startup; experience only at very large
+    established tech firms is not a fit, though a blend of
+    large company and startup work is acceptable.
+
+  - Working knowledge of TypeScript and Node, enough to navigate
+    an application codebase and make well-judged changes when
+    needed, even if feature work is not your daily focus.
+
+  - Hands-on history setting up release pipelines and on-demand
+    preview environments, ideally using Buildkite.
+
+  - Broad AWS expertise spanning compute, networking, data
+    storage and access control.
+
+  - Background in reliability engineering, including SLOs, error
+    budgets and handling production incidents.
+
+  - Strong command of Terraform and/or Pulumi, including
+    reusable modules and automated change-review and
+    deployment flows.
+
+  - Clear, careful writing for documenting intricate technical
+    systems.
+
+  Bonus points
+
+  - Experience standing up monitoring and tracing setups for
+    live production systems.
+
+  - Experience creating internal developer platforms, such as
+    command-line tools, scaffolding or reusable frameworks
+    that speed up engineering teams.
+
+  Benefits
+
+  Compensation and benefits
+
+  - Base salary: USD 150,000 to 350,000 per year
+
+  - Equity
+
+  Location and work model
+
+  - Remote (US)
+
+  - Full-time
+industries:
+  - Professional Services
+  - Consulting
+posted_date: 2026-10-12
+url: "https://builtin.com/job/senior-platform-software-engineer/11624648"
+source: Built In

@@ -1,0 +1,183 @@
+job_id: 10860786
+title: Staff Software Engineer - Fanatics Markets
+company: Fanatics
+location: New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 7,500 Employees
+description: |
+  About Us
+
+  Fanatics is a leading global sports platform redefining how
+  fans connect with the teams, players and moments they love.
+  Our businesses — Fanatics Commerce, Fanatics Collectibles,
+  Fanatics Betting & Gaming, Fanatics Events, Fanatics
+  Advertising, Fanatics Markets and Fanatics Studios —
+  maximize the presence and reach for hundreds of partners
+  globally and create a one-stop experience that allows fans
+  to buy, bet, collect, and earn, while engaging with sports
+  in deeper, more immersive ways. This includes licensed fan
+  gear and lifestyle products, sportsbook and iGaming,
+  physical and digital trading cards, live events, premium
+  sports entertainment content, credit card offerings and
+  more. Together, they form a powerful, integrated ecosystem —
+  connected by the Fanatics ONE loyalty program and FanCash,
+  the currency of sport — delivering personalized experiences
+  to over 100 million fans worldwide. Fanatics holds
+  partnerships with over 900 sports properties, from
+  professional leagues and players’ associations to teams,
+  colleges and retail partners; over 7,000 athletes and
+  celebrities; and over 2,000 retail locations, including all
+  Lids stores. Backed by a team of more than 22,000 employees,
+  Fanatics is committed to relentlessly enhancing the fan
+  experience.
+
+  About the Team
+
+  Launched in 2021, Fanatics Betting and Gaming is the online
+  and retail sports betting subsidiary of Fanatics, a global
+  digital sports platform. The Fanatics Sportsbook is
+  available to 95% of the addressable online sports bettor
+  market in the U.S. Fanatics Casino is currently available
+  online in Michigan, New Jersey, Pennsylvania and West
+  Virginia. Fanatics Betting and Gaming operates twenty-two
+  retail sports betting locations, including the only
+  sportsbook inside an NFL stadium at Northwest Stadium.
+  Fanatics Betting and Gaming is headquartered in New York
+  with offices in Denver, Leeds and Dublin.
+
+  Fanatics Markets is the real-money prediction and trading
+  app where you can invest in moments you care about. Built on
+  a secure platform, we let users predict real-world outcomes
+  and trade on events they actually follow - from sports and
+  entertainment to political elections and beyond. Our mission
+  is to redefine how fans engage with the moments and markets
+  that matter most. We're looking for the right people to help
+  us build the future of prediction markets.
+
+  The Opportunity
+
+  As a Staff Engineer on our Distributed Systems team, you'll
+  be at the core of what makes Fanatics Markets work — the
+  event-driven infrastructure that powers real-money trading
+  at scale. This is a hands-on, high-ownership role on a
+  sprint-based team, where you'll work alongside our engineer
+  leaders to build the systems that keep our markets liquid
+  and our book healthy at peak volume. Real money is on the
+  line every time our system quotes a price — the work is
+  technically demanding, commercially consequential, and
+  directly visible in daily P&L snapshots the whole team sees.
+
+  You won't be handed a spec. You'll be expected to understand
+  the trading business well enough to write one, and to care
+  about outcomes beyond just shipping the feature.
+
+  Responsibilities
+
+  - Design, build, and scale distributed systems using Kotlin,
+    Java, and Spring Boot, architecting for the traffic spikes
+    and concurrency demands of a live real-money trading
+    platform.
+  - Own the development and optimization of high-throughput
+    event pipelines using Kafka, including partition strategy,
+    consumer group design, and exactly-once processing
+    guarantees.
+  - Design and build systems that process high-throughput, low-
+    latency event streams — ensuring data integrity, cache
+    coherence, and sub-millisecond read paths under peak load.
+  - Partner with product and engineering leadership to align
+    cross-domain technical decisions, contributing domain
+    expertise while preserving architectural integrity
+  - Diagnose and durably fix production issues in a live trading
+    environment, distinguishing pricing latency, strategy
+    misfires, mapping errors, and adverse selection patterns
+  - Proactively identify performance bottlenecks and technical
+    risk before they affect trading operations
+  - Raise engineering standards through design docs,
+    code/architecture reviews, and patterns that scale as
+    product expands
+
+  Qualifications
+
+  - 7+ years building scalable, fault-tolerant distributed
+    systems in production
+  - Expert-level proficiency in Java or Kotlin and Spring Boot,
+    with a strong command of modern API design — REST, gRPC,
+    and Protobuf.
+  - Deep hands-on experience with Kafka (or Redpanda/Pub Sub) —
+    including internal mechanics, partition strategies,
+    consumer group rebalancing, and delivery guarantees.
+  - Deep experience with event-driven architecture and async
+    messaging — consumer group strategies, partition schemes,
+    delivery guarantees under real production load
+  - Demonstrated end-to-end domain ownership — designed, built,
+    operated, and improved systems, not just shipped features
+  - Strong performance instincts — latency, throughput, and data
+    pipeline efficiency, with a track record of measuring what
+    matters
+  - Clear, direct communicator — comfortable writing a design
+    doc, explaining a production failure to a trader, or
+    debating trade-offs with a principal engineer
+  - High tolerance for ambiguity and speed — comfortable
+    deploying daily and making good calls while the spec is
+    still being written.
+
+  Preferred
+
+  - Experience with real-time delivery systems — WebSocket fan-
+    out, server-sent events, or pub/sub at scale.
+  - Familiarity with financial platforms, real-time trading
+    systems, or prediction markets.
+  - Experience in a high-growth startup environment where
+    ownership is broad and the technical landscape evolves
+    quickly.
+  - Familiarity with FIX protocol or exchange connectivity
+    patterns.
+
+  Depending on the role, your interview and onboarding
+  experience may include in-person components, such as onsite
+  interviews or Launching into Better: LIVE—a multi-day
+  cultural immersion in New York City for full-time, non-
+  seasonal hires. These sessions are designed to build
+  connection and bring our culture to life, though specific
+  travel and participation requirements will be confirmed
+  based on your role and location. Your recruiter will provide
+  clear guidance at each stage of the process.
+
+  For information about our benefits, please visit
+  https://benefitsatfanatics.com/
+
+  #LI-Remote
+
+  #LI-AL1
+
+  Ranges will change based on country and state of residence,
+  which are reflected in Geographical Zones defined by
+  Fanatics Betting and Gaming. The range incorporates all of
+  our Geographical Compensation Zones and is subject to change
+  as the Zone associated with the actual offer is confirmed.
+  In addition to the base and bonus, full-time employment, and
+  more. For information about our benefits, please visit
+  https://benefitsatfanatics.com/
+
+  Salary Range
+
+  $180,500—$237,500 USD
+
+  By submitting your application, you agree to our terms of
+  service and acknowledge you have read our Candidate Privacy
+  Policy.
+
+  Fanatics will never ask candidates for money, banking
+  information, or other sensitive personal information as part
+  of the interview process. If you receive a suspicious
+  message claiming to be from Fanatics recruiting, please do
+  not respond and report it here.
+industries:
+  - eCommerce
+  - Retail
+  - Software
+  - Sports
+posted_date: 2026-10-20
+url: "https://builtin.com/job/staff-software-engineer-fanatics-markets/10860786"
+source: Built In

@@ -1,0 +1,295 @@
+job_id: 12250331
+title: Associate Software Engineer
+company: Valiant Solutions
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 142 Employees
+description: |
+  Position Description
+
+  Valiant Solutions is hiring an Associate Software Engineer
+  to build the internal apps, automations, and AI tools that
+  help our staff work faster.
+
+  The Associate Software Engineer will work directly with
+  people across the company to find slow or error-prone work,
+  then design, build, and measure the fix. Much of this work
+  runs through VITALs (Valiant Innovation Team and Lab), our
+  program that turns staff ideas into custom apps and
+  automations. Inside IT and Engineering, you work alongside
+  the Engineering lead and the IT Systems Administrator. The
+  Engineering lead sets technical direction and priorities.
+  The IT Systems Administrator runs daily IT operations, user
+  support, and software licenses. You build the apps,
+  automations, and AI tools that make the team, and the rest
+  of Valiant, more efficient. All three roles share one
+  backlog and review work together, so ideas move quickly from
+  a support ticket or staff interview to a working tool.
+
+  Named one of the Best Places to Work in the Washington DC
+  area for 12 consecutive years, Valiant is proud of our
+  employee-centric culture and commitment to excellence. If
+  you are interested in learning more about Valiant and this
+  opportunity, we invite you to apply now!
+
+  Location: This position allows for 100% remote work. Remote
+  work requires a high level of trust in our employees, and we
+  strictly adhere to the details outlined in our Remote Work
+  Policy below.
+
+  Eligibility: Must be legally authorized to work in the
+  United States
+
+  Required qualifications
+
+  - Bachelor's degree in computer science or a related field or
+    equivalent experience. 0 to 2 years of experience.
+    Internships and substantial projects count.
+  - Working skill in TypeScript, JavaScript, or Python.
+  - An app, tool, or automation you built that other people
+    used.
+  - Working knowledge of RESTAPIs, OAuth 2.0, Git, and the Linux
+    command line. Clear communication with technical and non-
+    technical people, in writing and in conversation.
+  - Ability to learn how a team works, find where it slows down,
+    and plan the fix. Self-direction in a fully remote team.
+
+  Preferred Qualifications:
+
+  - Google Cloud or another major cloud, plus Docker.
+  - Next.js or React.
+  - Workflow automation tools, such as n8n, Make.com, or Google
+    Apps Script. LLM APIs, agents, MCP servers, orAI coding
+    tools such as Claude Code. Google Workspace administration
+    or GAM.
+  - IT support experience.
+  - Experience training users or running user acceptance
+    testing.
+
+  Responsibilities:
+
+  Your core work is building software, automation, and AI
+  tools that give Valiant staff time back. When IT gets busy,
+  you also help the team with escalations.
+
+  Build and ship
+
+  - Develop projects from the VITALs backlog, from project
+    charter and definition of done through sprints, launch,
+    and measurement.
+  - Build and maintain apps on our internal Micro-App Platform
+    for finance, contracts, HR, and other internal teams.
+  - Move workflows out of low-code apps and into custom apps
+    when they outgrow them.
+  - Work with the IT Systems Administrator to further automate
+    IT tasks and management, from account provisioning and
+    offboarding to Google Workspace administration and
+    reporting.
+  - Build and maintain integrations between our business
+    systems.
+  - Run user acceptance testing with each app's users, and
+    confirm every app works on real tasks before launch.
+  - Ship through GitHub with code review, CI, tests, and a
+    runbook for each release.
+
+  AI development and enablement
+
+  - Help set Valiant's AI development strategy: where AI fits,
+    how we evaluate it, and how we deploy it securely.
+  - Build AI features, agents, and automations with LLM APIs and
+    MCP servers, then measure the results against the manual
+    baseline.
+  - Test new AI models and tools as they release, and recommend
+    what Valiant adopts. Advise Valiant on modern AI tools and
+    research, such as Claude Code and ChatGPT, and keep the
+    company current as the field changes. Your recommendations
+    inform adoption and risk decisions by the CTO and
+    Engineering lead.
+  - Train staff to use AI tools well through sessions, written
+    guides, and one-on-one help.
+
+  Discover and plan
+
+  - Meet with staff and department leads to learn how their work
+    gets done. Find the slow, manual, or error-prone steps in
+    their workflows, and turn them into scoped plans with a
+    measured baseline.
+  - Keep exploring new ways technology can improve how Valiant
+    works, and bring forward the ideas worth testing.
+  - Contribute to the project that defines Valiant's future app
+    architecture, including how apps share data, sign users
+    in, and connect to business systems.
+
+  Tools you may work with. These are examples, not
+  requirements. Our tools change as Valiant grows, and you
+  learn most of them on the job.
+
+  - App development: TypeScript, Next.js, React, Node.js, Python
+  - Cloud and hosting: Google Cloud (Cloud Run, Compute Engine,
+    Firestore), Docker, Linux
+  - Automation: n8n, Make.com, Google Apps Script, Bash, GAM
+  - Business systems: Google Workspace, Unanet, Salesforce,
+    GoDaddy, iCIMS, Knack, Notion, Discord, Supernormal
+  - Source control and CI: GitHub, GitHub Actions
+
+  Growth and milestones
+
+  This role is built to grow. The apps you build become yours
+  to own: you set their roadmap, work directly with the people
+  who use them, and decide how they improve. As your track
+  record grows, so does your scope, from single features to
+  whole platforms, and from building tools to shaping how
+  Valiant builds them.
+
+  Day 30: Learn the platform, ship a fix to a live app, and
+  join a VITALs discovery session.
+
+  Day 60: Own one automation from end to end, with tests and a
+  runbook.
+
+  Day 90: Take one VITALs project from intake to production,
+  including user acceptance testing.
+
+  Month 6: Own one or more apps end to end. Hold regular
+  check-ins with their department leads, and take part in
+  architecture discussions.
+
+  Month 12: Act as a trusted technical partner to the
+  department leads you support. Help design Valiant's future
+  app architecture, lead discovery for new VITALs projects,
+  and help set the direction of AI development.
+
+  About Valiant Solutions
+
+  Valiant Solutions delivers cybersecurity and IT services to
+  federal civilian, defense, and national security customers
+  nationwide. We support the full cyber lifecycle, from secure
+  system design and accreditation through AI-enabled
+  operations, threat emulation, and continuous improvement,
+  across classified and unclassified environments. Our work is
+  independently certified for quality and security, including
+  CMMI, CMMC, and ISO certifications.
+
+  Valiant is a multi-year Washington Business Journal Best
+  Places to Work winner, and our growth and cyber leadership
+  have been recognized by Washington Technology, Northern
+  Virginia Technology Council, and the Triangle Business
+  Journal. We offer strong benefits, rewards for earning
+  industry certifications, and room to grow your career as we
+  grow. Headquartered in McLean, Virginia, our distributed
+  workforce supports customers from coast to coast. We go
+  where the stakes are highest, and the margin for error is
+  zero. If you want meaningful work alongside talented
+  professionals, apply today.
+
+  Benefits Snapshot
+
+  Valiant takes care of the people who support our customers,
+  with real choices in coverage and real investment in your
+  career. Eligible full-time employees receive:
+
+  - A choice of medical plans, from an affordable HSA option to
+    a full-featured PPO, with generous company contributions
+  - Dental and vision coverage for you and your family
+  - Company-paid life, short-term disability, and long-term
+    disability insurance
+  - Optional supplemental life, accident, and critical illness
+    coverage to round out your protection
+  - 401(k) retirement plan with company match
+  - Paid time off that grows with your years of service, plus
+    paid federal holidays
+  - Paid certifications, professional development, and the
+    Valiant University training portal
+  - Flexible spending accounts and a wellness and fitness
+    program
+  - Referral bonuses when you help us bring great people to
+    Valiant
+
+  Benefit eligibility and plan details are subject to the
+  terms of each plan and may change from time to time.
+
+  The anticipated salary range for this position is $75,000 to
+  $90,000. This range reflects Valiant Solutions' good-faith
+  estimate of the base salary reasonably expected for this
+  position upon hire, at the time of posting. The range has
+  been established based on the scope of the role, market
+  rates, and internal equity. Where a candidate falls within
+  the posted range will depend on job-related factors,
+  including relevant skills, experience, qualifications,
+  achievements, education, geographic location, applicable
+  security clearance requirements, additional corporate
+  responsibilities, and other legitimate, non-discriminatory
+  business considerations. The posted range does not guarantee
+  an offer at any particular salary. In addition to base
+  salary, this position includes the benefits described above.
+
+  Remote Work Policy (Remote and Hybrid Positions Only)
+
+  Remote work necessitates a high level of trust in our
+  employees. To ensure that employee performance does not
+  suffer in a remote work environment, all employees who
+  telecommute are expected to have a quiet and distraction-
+  free workspace with adequate internet, dedicate their full
+  attention and availability to their job duties during
+  working hours, and maintain a schedule during core business
+  hours that aligns with those of their coworkers and
+  Valiant's clients. In alignment with Valiant's inclusive and
+  engaging environment, cameras are encouraged and can be
+  required to be on during virtual video conferences.
+  Additionally, in alignment with the Office of the Inspector
+  General’s effort to eliminate conflicting employment, all
+  Valiant employees are required to disclose any current or
+  future outside employment engagements. During onboarding and
+  throughout employment, employees must disclose any current
+  activities or intent to engage in outside employment or
+  other professional activities and obtain written approval.
+  Employees may not solicit or conduct any outside business
+  during core business hours for Valiant Solutions and our
+  clients.
+
+  Equal Employment Opportunity
+
+  Valiant Solutions is an Equal Opportunity Employer. All
+  qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex
+  (including pregnancy), national origin, age, disability,
+  genetic information, marital status, protected veteran
+  status, or any other characteristic protected by federal,
+  state, or local law. Valiant Solutions provides reasonable
+  accommodations to qualified individuals with disabilities.
+  If you need an accommodation during the application or
+  hiring process, please contact hr@valiantsolutions.com.
+
+  Physical Demands
+
+  Sitting or standing at a desk for prolonged periods and
+  consistently operating a computer. Frequent communication
+  and exchanging of accurate information via electronic
+  communication, phones, and in person. Occasionally lift
+  and/or move moderate amounts of weight, typically less than
+  20 pounds. Reasonable accommodations may be made to enable
+  individuals with disabilities to perform the essential
+  functions of the job.
+
+  Authorization to Share Resume and Personal Information
+
+  By submitting your resume for this position, you authorize
+  Valiant Solutions to share your resume, as well as personal
+  information included on the resume, with its subsidiaries,
+  affiliates, and teaming partners for the purpose of
+  considering you for this position and other available
+  positions requiring comparable skills, education, and
+  experience. Should Valiant Solutions or its affiliates and
+  teaming partners wish to initiate pre-employment
+  discussions, you will be asked to complete an employment
+  application and related employment documents.
+
+  #LI-LH1
+industries:
+  - Cloud
+  - Information Technology
+  - Cybersecurity
+posted_date: 2026-11-13
+url: "https://builtin.com/job/associate-software-engineer/12250331"
+source: Built In

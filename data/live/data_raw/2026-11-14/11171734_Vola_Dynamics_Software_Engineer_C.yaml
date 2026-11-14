@@ -1,0 +1,96 @@
+job_id: 11171734
+title: Software Engineer (C++)
+company: Vola Dynamics
+location: New York, USA
+work_type: FULL_TIME
+company_size: 15 Employees
+description: |
+  Vola Dynamics is the world's most sophisticated software and
+  research company for advanced options analytics. Our
+  volatility fitter and ultra-fast option pricers are the
+  market standard, powering decisions at the world’s leading
+  hedge funds, proprietary trading firms, market makers, and
+  global banks.
+
+  In this role, you'll work directly with our CTO on the
+  design of our large-scale, high-performance C++ quant
+  library. You'll own performance-critical code, work on high-
+  level library design questions, and be the on-staff C++
+  expert that our team trusts when something needs to be fast
+  and correct. As part of a small, hands-on team, you'll have
+  real ownership from day one and your work will have an
+  immediate and outsized impact. This is a rare position for
+  an engineer who wants to work on genuinely hard problems at
+  the intersection of numerical software, performance
+  optimization, and software architecture.
+
+  We're a hybrid team, in the office on Tuesdays and
+  Thursdays. What You'll Do
+
+  - Core library development: Build and develop our core C++
+    quant library, from interface design through
+    implementation, tests, and documentation.
+  - Library design: You'll help design the internal APIs that
+    our team uses as well as the external APIs that our
+    clients depend on to power their trading.
+  - Performance work: Investigate and profile algorithms,
+    functions, or entire workflows to understand and improve
+    their performance.
+  - Quantitative algorithms in production: Work with our quants
+    to implement pricing and numerical models efficiently and
+    correctly.
+  - Supporting other developers: Review code, answer design
+    questions, and help teammates (who are strong quants or
+    strong engineers but not always C++ specialists) write
+    better C++.
+  - AI tooling: AI development tools (Claude Code, Codex, and
+    similar) are a standard part of how we build software
+    here, and we'll expect you to use them well.
+  - Build systems and developer experience: Cut build times,
+    improve the test and CI setup, and improve the developer
+    experience.
+
+  Who You Are
+
+  - You have a Bachelor's degree or Master's degree in a
+    computer science or another highly technical discipline
+    (physics, engineering, chemistry, etc.)
+  - You have roughly 2 to 6 years of professional C++
+    experience, or comparable depth from academic or open
+    source work.
+  - You've worked substantially in a large C++ codebase, in
+    industry or academia, and you're fluent in modern object-
+    oriented and/or functional programming paradigms.
+  - You are proficient in Python and have used at least one
+    other systems language (Rust, C#, Java, etc.).
+  - You care how your code reads. You write clear, concise,
+    well-organized C++.
+  - You are comfortable with using agent-driven development
+    workflows to generate high-quality code.
+  - You're careful. You test your work to know it's right, and
+    you think through numerical edge cases before a client
+    finds them.
+  - You're rigorous about performance. You measure first, and
+    you understand how the hardware affects the code you
+    write.
+  - You explain your thinking clearly, in code, review comments,
+    design discussions, and writing.
+  - You work well independently, and just as well as part of a
+    small, hybrid team.
+  - You are authorized to work in the US.
+
+  Nice to Have
+
+  - Hardware-aware programming: SIMD, GPUs, cache behavior,
+    concurrency.
+  - Active open-source contributor in the C++ ecosystem.
+  - Experience working on an options market making or
+    derivatives quant library, or other quantitative finance
+    background.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-09-14
+url: "https://builtin.com/job/software-engineer-c/11171734"
+source: Built In

@@ -1,0 +1,170 @@
+job_id: 10735815
+title: Software Engineer (Platform)
+company: algo1
+location: London, GBR
+work_type: FULL_TIME
+company_size: 10000 Employees
+description: |
+  About Us
+
+  At algo1, we are reinventing one of the world’s most
+  familiar experiences: the in-store grocery trip. We are
+  building an AI-native product that understands each shopper,
+  responds to their context in real time and makes an everyday
+  experience less stressful, more personal and more engaging.
+
+  We’re backed by leading investors and founded by two
+  entrepreneurs: one with a track record of building
+  companies, and the other a leader in retail data and shopper
+  analytics. Together, they have brought together frontier AI
+  researchers and engineers, product and strategy leaders, and
+  senior operators from major UK and US grocery businesses.
+
+  The people who join now will have an opportunity to shape
+  the product, the engineering culture, and what algo1
+  becomes.
+
+  The Role
+
+  This role reports to our Head of Platform, Jack. Working
+  with him and the platform engineering pod, you'll accelerate
+  the development of algo1's platform, turning enterprise-
+  grade platform expectations into software that our product
+  pods and customers rely on.
+
+  You'll work primarily in the backend and on the
+  infrastructure that underpins it, but the shopper and
+  retailer experience will never be far from your mind.
+
+  Delivering a great platform means product engineers can ship
+  quality, scalable solutions; product, design, and non-
+  technical colleagues can prototype ideas quickly using our
+  application code and production data as a baseline; shoppers
+  have responsive, personalised in-store experiences; and
+  retailers and brands can configure, monitor, and analyse
+  their campaigns across potentially billions of data points.
+
+  We're agentic-first. Every engineer has access to frontier
+  AI tooling and our own coding harness, and we expect you to
+  use them to move faster, attempt more ambitious work, and
+  stay fully accountable for what you ship.
+
+  We're looking for a Senior Software Engineer, though Staff
+  engineers and ambitious early-career engineers with strong
+  platform instincts will also be considered.
+
+  What You'll Own
+
+  - Product security. Own authentication across algo1, retailer
+    and brand employees, shoppers, devices, agents, and third-
+    party services, alongside authorisation covering RBAC and
+    ReBAC.
+  - Release engineering. Develop and maintain reliable,
+    consistent automated release cycles that get changes to
+    production safely and quickly.
+  - Cloud environments. Manage the environments that support
+    prototyping features across our Android and web
+    applications alongside changes to one or more of our
+    backend microservices.
+  - API and event-driven architecture. Gatekeep the quality of
+    our APIs, webhooks, and event-driven architecture in an
+    open contributor model.
+  - Agentic enablement. Continually improve our internal agentic
+    harnesses (skills, context, and tooling) that allow other
+    engineers and less technical colleagues to develop and
+    prototype on our platform.
+  - Agentic automation. Add agentic automation to all
+    appropriate areas of the platform stack without
+    compromising on quality.
+
+
+
+  About You
+
+  Must Have
+
+  - Distributed systems experience. You've designed or
+    meaningfully contributed to distributed backend systems,
+    and understand event-driven patterns, asynchronous
+    messaging, and the trade-offs at scale.
+  - API design and evolution. You've designed APIs that other
+    teams and clients depend on, and you understand the trade-
+    offs between clean design, backwards compatibility, and
+    speed.
+  - Database and schema fluency. Practical experience with
+    relational databases (PostgreSQL or similar), including
+    schema design, indexing, migrations, and query
+    optimisation. Working knowledge of at least one non-
+    relational store.
+  - Real-time data. Experience processing or analysing real-time
+    data streams at scale.
+  - Cloud infrastructure. Experience deploying and operating
+    distributed services on AWS, GCP, or Azure.
+  - Shipping complex, customer-facing products at pace. Evidence
+    that you can move real software into production quickly,
+    making pragmatic decisions without letting perfection
+    become a blocker.
+  - Growth and ambition. A career that has moved fast, where
+    you've taken on more scope sooner than the timeline would
+    suggest.
+  - AI-native engineering. You've shipped production code with
+    frontier AI tools (Cursor, Claude Code, or similar) and
+    push further into agentic workflows rather than push back
+    on them.
+
+
+
+  Nice to Have (or We Can Teach)
+
+  - Polyglot engineer. Professional software engineering
+    experience across the stack, with your strongest work in
+    the platform, and a portfolio of production systems you've
+    owned end-to-end.
+  - B2B or enterprise product experience. Background building
+    for business or enterprise customers, where reliability,
+    integrations, and data pipelines matter as much as the
+    interface.
+  - Product mindset. You care about the people using what you
+    build, and you take ownership for what your team puts in
+    front of them, not just the part you wrote.
+  - Containers and orchestration. Docker and Kubernetes in
+    production.
+  - Retail or personalisation. Familiarity with retail
+    technology, commerce platforms, or customer
+    personalisation systems.
+  - Startup experience. Background working at an early-stage
+    startup.
+
+
+
+  How We Work
+
+  We're a startup, so this is a high-intensity environment.
+  The people who thrive here are curious, proactive, and love
+  building. If you're happiest when you're creating,
+  experimenting, and moving fast, you'll love it here.
+
+  We draw our energy from being together, so this is an
+  office-based role. It suits someone who enjoys the quick
+  conversations and shared momentum that comes from building
+  together. Our office is on what we think is the best garden
+  square in London, just a couple of minutes from Tottenham
+  Court Road, so it's easy to get to and a great place to
+  build.
+
+  What We Offer
+
+  - Direct access to our founders and a real voice in the calls
+    that shape the product and the company.
+  - Competitive salary and meaningful equity.
+  - 25 days' annual leave plus bank holidays.
+  - Team offsites.
+  - Cycle to work scheme
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Retail
+  - Software
+posted_date: 2026-08-19
+url: "https://builtin.com/job/software-engineer-platform/10735815"
+source: Built In

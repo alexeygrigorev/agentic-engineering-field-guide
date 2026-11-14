@@ -1,0 +1,206 @@
+job_id: 10587487
+title: Senior Software Engineer - Geospatial
+company: Ocient
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 95 Employees
+description: |
+  About Ocient:
+
+  Ocient is building OcientAIQ™ – a complete ecosystem for
+  delivering trusted agentic AI solutions at petabyte scale,
+  for the organizations that can't afford to get AI wrong. Our
+  customers protect networks, secure nations, and power the
+  global economy. The problems we solve are genuinely hard,
+  and the work matters.
+
+
+
+  Founded in 2016 by the team that built Cleversafe (acquired
+  by IBM in 2015), Ocient is headquartered in Chicago with a
+  remote-first global team. We are a carbon-neutral company
+  backed by leading investors including Greycroft, OCA
+  Ventures, In-Q-Tel, and Buoyant Ventures.
+
+  Do not contact Ocient directly to apply for a role. For
+  security purposes, any applications received via email will
+  be deleted.
+
+  Job Title: Senior Software Engineer - Geospatial
+
+  Location: 100% Remote (US Based Only)
+
+  - We cannot sponsor or transfer any visas, of any kind, at
+    this time*
+
+  Hiring Manager: Senior Engineering Manager
+
+  Estimated salary range: $165,000 to $190,000
+
+  - The salary offered for this position will be based on a
+    candidate’s experience and skill demonstrated during
+    interviews and other evaluations
+
+  Job Description:
+
+  Ocient has the deepest native geospatial surface in the
+  analytical database market: 120+ native geospatial
+  functions, all built on non-Euclidean spherical math against
+  the WGS84 model of the earth rather than a flattened 2D
+  projection. We store points, linestrings, and polygons
+  natively as columns in SQL-accessible tables, and we run
+  spatial analysis at trillion-row scale on the full-
+  resolution historical data our customers normally have to
+  downsample or throw away.
+
+
+
+  We are, as far as we know, the only analytical database with
+  native spatiotemporal operators that analyze space and time
+  together directly in SQL rather than forcing two passes over
+  the data. Trajectory and movement analysis that competitors
+  push out to a separate system runs natively here, against
+  data at rest.
+
+
+
+  We are hiring a Senior Software Engineer to extend that
+  surface. This is a hands-on engineering role on a small team
+  with a lot of surface area, and you will own meaningful
+  pieces of the geospatial engine end to end, from spherical-
+  math correctness to query performance at hyperscale.
+
+
+
+  What You’ll Work On:
+
+  - Core spatial engine. Extend and harden the 120+ geospatial
+    function library across accessors, constructors, measures,
+    predicates, spatial operators, spatial relationships,
+    transformations, and parsers/formatters (WKT, WKB, EWKT,
+    GeoHash).
+  - Spherical correctness. Work on the numerical correctness of
+    non-Euclidean computation on both the spherical and
+    spheroid WGS84 models: geodesics, great-circle distance,
+    area on a sphere, antimeridian and pole handling,
+    degenerate and near-degenerate geometries, and precision
+    behavior at very small and very large scales.
+  - Performance and indexing at hyperscale. Make spatial
+    predicates, joins, and range queries fast across trillion-
+    row datasets: spatial indexing, pruning and partitioning
+    strategies, bounding-volume acceleration, vectorized
+    evaluation, and planner integration so spatial filters
+    push down correctly.
+  - Spatiotemporal analytics. Deepen the space-and-time operator
+    set; trajectory reconstruction, interpolation along
+    linestrings over time, and movement and co-location
+    analysis.
+  - Convergence with the rest of the engine. Help connect
+    geospatial to Ocient's other analytical surfaces, spatial
+    clustering, accelerated nearest-neighbor search over
+    geographic data, and in-database ML, so spatial and non-
+    spatial analysis compose in a single query and not
+    separate systems
+  - Customer-driven scope. Geospatial shows up across the
+    industries we target; telco (CDR and cell tower analysis),
+    adtech (geo-targeting), and national security (ISR and
+    movement analysis at scale). You'll work with Product and
+    customer-facing teams to turn those workloads into engine
+    capability.
+  - Collaboration and craft. Write clear design docs, tests, and
+    documentation so spatial behavior is explicit,
+    benchmarked, and protected against regressions.
+
+
+
+  Ideal Qualifications:
+
+  - 5+ years building production software systems, including
+    solid experience in C++ (or comparable systems-level work
+    with a willingness to work primarily in C++).
+  - Solid grasp of computational geometry and, critically,
+    spherical/geodetic geometry – you understand why a great-
+    circle distance is not a Pythagorean one and what breaks
+    when you pretend otherwise.
+  - Exposure to geospatial data, standards, or libraries: WGS84
+    and geodetic datums, OGC/WKT/WKB, GEOS, S2, H3, PostGIS,
+    or equivalent.
+  - Comfort with performance engineering such as profiling,
+    algorithmic optimization, and reasoning about work at
+    scale.
+  - Strong instincts around numerical correctness and edge
+    cases, and the discipline to encode them in tests and
+    documentation.
+  - Ability to work across teams and codebases and turn
+    ambiguous requirements into concrete solutions.
+
+
+
+  An Exceptional Candidate Will Have:
+
+  - Experience implementing spatial indexing or spatial query
+    optimization inside a database or query engine.
+  - Background in trajectory analysis, spatiotemporal data
+    management, or moving-object databases.
+  - Experience with large-scale data systems, analytical
+    databases, query planners, or distributed execution.
+  - Familiarity with in-database ML, or with optimization and
+    spectral methods applied to geographic problems
+  - Domain experience in one of our target verticals such as
+    telco, network analysis, adtech, automotive/mobility,
+    aviation, logistics, or government/geospatial
+    intelligence.
+
+
+
+  What Success Looks Like:
+
+  - Ocient’s spatial function library stays the most complete
+    and most accurate in the market, and our lead widens
+    rather than erodes.
+  - Spatial queries that customers previously had to downsample,
+    pre-aggregate, or move off-platform now run interactively
+    at full resolution.
+  - Spherical-math correctness is provable – validated against
+    reference implementations, with edge cases documented
+    rather than discovered by customers.
+  - Spatiotemporal analysis becomes a capability we lead with in
+    deals, not a feature buried in the docs.
+
+
+
+  Interview Requirements: All interviews are conducted via
+  video and require candidates to have their camera on for the
+  duration of the session. The use of video filters, face-
+  altering effects, or virtual backgrounds is not permitted
+  for security and verification purposes.
+
+  We are not open to using an agency or staffing company at
+  this time. We do not accept unsolicited agency or staffing
+  resumes and we are not responsible for any fees related to
+  unsolicited resumes.
+
+  Ocient is an equal employment opportunity employer. All
+  qualified applicants will receive consideration for
+  employment without regard to race, creed, color, religion,
+  sex (including pregnancy status), sexual orientation, gender
+  identity, national origin or ancestry, ethnicity,
+  citizenship status, age, physical or mental disability,
+  veteran status, marital status, parental status, genetic
+  information, or any other characteristic protected by
+  applicable local laws, regulations and ordinances. If you
+  need assistance with religious accommodations and/or a
+  reasonable accommodation due to a disability during the
+  application process, please contact recruiting@ocient.com
+  for more information.
+
+  All official Ocient job postings and recruiting
+  communications will come directly from our team via our
+  Careers page, LinkedIn, or from an ocient.com email address.
+  If you receive communication about a role from any other
+  source, please treat it with caution and direct questions to
+  recruiting@ocient.com.
+posted_date: 2026-08-07
+url: "https://builtin.com/job/senior-software-engineer-geospatial/10587487"
+source: Built In

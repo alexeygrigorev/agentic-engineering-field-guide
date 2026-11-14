@@ -1,0 +1,77 @@
+job_id: 9149515
+title: Software Engineer, Platform
+company: OpenRouter
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 8 Employees
+description: |
+  About OpenRouter
+
+  OpenRouter is the leading AI routing and infrastructure
+  layer that enterprises use to access, manage, and optimize
+  the best large language models across providers—without
+  lock-in, capacity constraints, or unnecessary cost. We power
+  the most advanced AI teams in the world by giving them the
+  flexibility to move fast, scale confidently, and stay
+  future-proof as models evolve.
+
+  As enterprise adoption of AI accelerates, OpenRouter sits at
+  the center of how organizations operationalize LLMs across
+  research, product, and production workloads.
+
+  About the Role
+
+  We're hiring a Software Engineer on our Platform team to own
+  and scale the systems that route and serve millions of LLM
+  requests every day. The business is growing at an
+  unbelievable pace and we need help to ensure our platform
+  can keep up. You'll work alongside a small team of engineers
+  on owning our infrastructure, datastores, CI/CD pipeline and
+  everything else at OpenRouter is built on. This is a hands-
+  on IC role with broad surface area and little process
+  between you and shipping.
+
+  What You'll Do
+
+  - Own and evolve our edge and cloud infrastructure across
+    Cloudflare, Google Cloud, and Vercel.
+  - Scale and operate our data layer including Spanner,
+    ClickHouse, and Postgres.
+  - Ensure we are optimizing for performance when serving LLM
+    inference as traffic rapidly grows.
+  - Partner with engineering leadership on capacity,
+    reliability, and cost across the routing layer, with
+    ownership of the systems carrying production traffic.
+  - Set the bar and playbook for how we run infrastructure and
+    operations as the team grows — tooling, observability, on-
+    call, and the patterns other engineers build against.
+
+  What We're Looking For
+
+  - 5+ years building and operating production infrastructure at
+    companies where uptime, latency, and cost matter.
+  - Proven experience with cloud platforms (GCP, AWS, Azure) and
+    edge-first serverless platforms (e.g. Cloudflare Workers)
+  - Deep expertise in operating large scale databases (e.g
+    Postgres, Spanner, etc).
+  - A full-stack TypeScript shop won't faze you; you can move
+    across the stack when the platform needs it.
+  - High agency and a bias toward action. You don't wait for
+    tickets — you see the bottleneck and fix it.
+  - AI-forward in your workflow. You use coding agents, MCPs,
+    and LLMs heavily and have opinions about what works.
+  - Pragmatic about tradeoffs between speed and simplicity.
+
+  Nice to Have
+
+  - Existing user of OpenRouter, or active side projects in AI
+    products/infrastructure or developer tooling.
+
+  If you don't think you meet all of the criteria below but
+  still are interested in the job, please apply. Nobody checks
+  every box, and we're looking for someone who is excited to
+  join the team.
+posted_date: 2026-08-04
+url: "https://builtin.com/job/software-engineer-platform/9149515"
+source: Built In

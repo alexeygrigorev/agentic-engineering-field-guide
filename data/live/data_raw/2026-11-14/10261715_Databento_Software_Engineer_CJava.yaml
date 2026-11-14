@@ -1,0 +1,117 @@
+job_id: 10261715
+title: Software Engineer (C++/Java)
+company: Databento
+location: New York, USA
+locations:
+  - New York, USA
+  - Boston, USA
+  - Salt Lake City, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  The financial industry is growing at a record pace, but our
+  data providers are still stuck in the past — with cumbersome
+  onboarding processes, complicated APIs, slow infrastructure,
+  and expensive licensing costs.
+
+  Databento is the market data platform for modern finance.
+  The company provides real-time and historical data across
+  futures, options, and equities through a unified API. By
+  owning the entire market data stack end-to-end, Databento is
+  the first platform of its kind to combine the performance
+  and reliability demanded by the world's leading trading
+  firms with a dramatically simpler developer experience. Our
+  team includes alumni of Two Sigma, Citadel Securities, Flow
+  Traders, IMC, Tower Research, Jump Trading, HRT, Jane
+  Street, and SIG.
+
+  We're looking for a midlevel or senior IC to join our core
+  engineering team. You'll be responsible for implementing and
+  maintaining our Java client library, and also working
+  alongside our core engineering team on the most performance
+  sensitive parts of our codebase.
+
+  Responsibilities
+
+  - Own and maintain our Java client library, ensuring it is
+    robust, well-tested, and easy for external users to
+    integrate with.
+  - Design, develop, and maintain high-performance server
+    applications in C/C++.
+  - Write message parsers and feed handlers for direct market
+    data feeds from trading venues.
+  - Optimize existing codebase for high throughput (millions of
+    messages per second, up to 40+ gigabits) and low latency
+    (measured in nanoseconds).
+  - Implement tools and libraries for petabyte-scale data
+    processing and analysis.
+  - Collaborate with the systems team to implement best
+    practices for build, deployment, CI/CD.
+  - Implement monitoring and improve application uptime.
+  - Ensure smooth feature rollouts and updates.
+
+  Preferred background
+
+  - 5+ years of full-time software engineering experience,
+    preferably at a trading firm, tech company, or high-growth
+    startup.
+  - Strong proficiency in both C/C++ and Java.
+  - Experience with C# is a plus.
+  - Experience designing APIs with a strong focus on intuitive,
+    developer-friendly interfaces.
+  - Familiarity with open source best practices, including
+    release management, versioning, changelogs, issue triage,
+    and backwards compatibility.
+  - Knowledge of systems programming, algorithms, data
+    structures, multithreading, networked I/O, serialization,
+    CPU architecture, kernel, and compilers.
+  - Experience working with multiprocess environments.
+  - Comfortable with lldb/gdb.
+  - Good communication skills and work ethic for a remote
+    workplace.
+  - An interest in low-level optimization and performance
+    engineering.
+  - An interest in financial data or algorithmic trading.
+
+  We offer health, dental, disability, and life insurance
+  benefits, as well as 401(k) matching for full-time
+  employees. We accommodate 100% remote work, with teammates
+  living around the globe and paid in their local currency.
+
+  The base salary range for this role is $150,000–$250,000,
+  benchmarked to Tier 1 locations in each country. Total
+  compensation may also include bonuses, commissions, and
+  equity, depending on the role.
+
+  Notice about phishing scams
+
+  Be cautious of phishing scams impersonating Databento that
+  offer fake job interviews and request purchases. Official
+  emails come only from @databento.com or us.greenhouse-
+  mail.io (our ATS). Any other domains (e.g., databento-
+  careers.com, databento.online) are fraudulent.
+
+  --
+
+  Databento, Inc. provides equal employment opportunities to
+  all employees and applicants regardless of race, color,
+  religion, sex, national origin, age, disability, sexual
+  orientation, gender identity or expression, veteran status,
+  or genetics. We comply with federal, state, and local
+  nondiscrimination laws in every location where we operate.
+  This policy applies to all terms and conditions of
+  employment, including recruiting, hiring, promotion,
+  termination, layoff, recall, transfer, leave, compensation,
+  and training. Pursuant to applicable laws, we consider
+  qualified applicants with arrest or conviction records. If
+  you need an accommodation, please let us know.
+
+  Our recruiting data suggests that underrepresented
+  applicants often downplay their skills. Even if your
+  experience doesn’t exactly match the qualifications listed,
+  we still want to hear from you. Please apply!
+posted_date: 2026-08-15
+url: "https://builtin.com/job/software-engineer-c-java/10261715"
+source: Built In

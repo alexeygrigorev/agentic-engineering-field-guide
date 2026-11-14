@@ -1,0 +1,298 @@
+job_id: 10537719
+title: Engineering Manager
+company: Replicant
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 176 Employees
+description: |
+  About Replicant
+
+  Replicant is building the autonomous contact center: AI that
+  answers every call, decides whether a specific AI or a
+  person is best suited to resolve it, and manages the
+  conversation end to end, getting better with every one. We
+  start with voice, the channel people reach for first and the
+  hardest to automate well, and we have run these agents in
+  production for enterprises since 2020. The bots we deliver
+  are the product, so engineering here sits unusually close to
+  customer outcomes.
+
+  Customer service is a nearly trillion-dollar problem that is
+  barely one percent automated and moving fast: the category
+  of the decade, and the question is who leads it. Winning
+  means executing a company's procedures with near-perfect
+  reliability while knowing exactly when to flex, which is why
+  determinism and testability are how we earn trust in
+  production, not relics. Meeting that bar on a complex, AI-
+  heavy platform takes a team that can move quickly without
+  losing rigor.
+
+  We are lean by design. A small, senior team does the work of
+  a group several times its size, and every engineer owns
+  multiple initiatives. The engineering organization is about
+  50 people today and growing, and we hold a high bar as we
+  scale.
+
+
+
+  The role
+
+  We are hiring an Engineering Manager to lead one of our
+  Product Engineering squads: a team of roughly 8 to 15
+  engineers that takes on a range of projects and products
+  across our platform. You will report directly to the SVP of
+  Engineering, and you will hold full budget and headcount-
+  planning responsibility for your team.
+
+  Your priorities, in order: your people, their growth, the
+  process and norms your team works by, and the delivery that
+  follows from all three. This is a servant-leadership role,
+  not a boss-first one. You are not here to own a team; you
+  are here to unlock one. Replicant has invested in every
+  engineer you will lead, and your job is to help each of them
+  do the best work of their career while making that
+  investment pay off, for them and for the company.
+
+  We expect our managers to be outstanding people managers
+  first. You will carry enough technical competency to
+  establish credibility with your engineers and to reason well
+  about tradeoffs, priorities, and risk, while trusting your
+  senior ICs to own the code. Shape a great process, fit the
+  right people to it, then get out of the way so your team can
+  move.
+
+
+
+  The management team you're joining
+
+  This is the part we care about most, and the thing that
+  makes the role different from most EM jobs. We are not
+  hiring someone to run their own silo. We are hiring a peer
+  for a tight engineering-management team that makes the
+  decisions for the whole engineering department together.
+
+  Concretely, that looks like:
+
+  - A first-team principle: your first team is the other
+    engineering managers, not only your squad. We solve the
+    department's challenges together, and we back each other's
+    teams, covering rituals, 1:1s, and on-call through
+    transitions and leave.
+  - We meet several times a week in short, high-intensity
+    working sessions. Cameras on, fully engaged; this is
+    explicitly not a status meeting or a manager vanity
+    meeting. We bias hard toward decisions and action, and we
+    keep a decision journal so calls stick.
+  - We disagree and commit. High trust, high candor, direct
+    feedback given early rather than left to fester. Once a
+    decision is made, we all carry it.
+
+  As a group we own the things that make engineering work
+  here: the hiring bar and interview process; the career
+  ladder, leveling, and competency framework; how the roadmap
+  originates and gets prioritized; quarterly OKRs; testing and
+  validation standards; platform and agent quality; the bot-
+  building and delivery process; developer experience and AI
+  enablement; org design, on-call, and incident culture; and
+  capacity planning. You will have a real voice in all of it.
+
+
+
+  The technology
+
+  Our platform is broad, and no one person holds all of it. It
+  spans telephony and real-time voice infrastructure; speech
+  recognition and voice models; large language models, model
+  orchestration, and failover across providers; the reasoning
+  runtime that drives each conversation; the bot-building UI,
+  domain language, and conversation-design tooling our teams
+  use to create and tune agents; ML infrastructure and
+  evaluation; and the big-data analytics that tell us how bots
+  perform in production. Expect modern, cloud-native systems
+  and a codebase where AI is part of both the product and how
+  we build it.
+
+
+
+  What you'll do
+
+  - 🪜 Raise the bar and build the team. Hire exceptional
+    engineers, grow the ones you have, and make the hard calls
+    quickly when someone is not the right fit. Be a bar-raiser
+    in every loop you run.
+  - ⚡ Set the pace. Create an environment where great engineers
+    want to dig in, because the mission is exciting and their
+    work visibly moves the needle. Push for speed, and
+    challenge the status quo instead of defending how things
+    have always been done.
+  - 🤖 Make your team AI-native. Turn individual AI
+    experimentation into team-level results: better
+    throughput, better quality, faster paths from idea to
+    production. Model it yourself.
+  - 🎯 Own outcomes, not activity. Drive predictable, high-
+    quality delivery of the work that matters most to
+    customers, and stand behind your team's timelines.
+  - 🧭 Shape the solution, not just the build. Your team owns how
+    the product solves the customer's problem, not only how it
+    is coded. Keep them close to the customer and to the bots
+    you ship.
+  - 🛡️ Invest in engineering excellence. Testing and validation
+    that give real confidence in production, a fast and
+    pleasant developer experience, and quality that customers
+    feel.
+
+
+
+  Who you are
+
+  You will recognize yourself in Replicant's three core
+  values. Here is how they show up in this role:
+
+  Blade Runner: ownership, urgency, and calculated risk. You
+  take responsibility for outcomes and mistakes alike, move
+  before you have perfect clarity, and prefer action over
+  process. You care about the result far more than the ritual,
+  and you escalate early when something is not working.
+
+  Bread Maker: impact over role, humble and team-first. You
+  contribute wherever the mission needs you, work cleanly
+  across Product, Delivery, and your peers, and follow through
+  so others can plan around you. Confidence without arrogance.
+
+  Självdistans (self-distance): ego separated from execution.
+  You give direct, respectful feedback early, and you receive
+  it the same way. You name reality without spin, change your
+  mind when the facts change, and commit once a decision is
+  made.
+
+  We are specifically looking for someone who is:
+
+  - A people manager and servant leader first. You build trust,
+    grow careers, and get the best out of senior engineers by
+    leading through them, not around them.
+  - Genuinely AI-fluent, and able to show it. You have gone deep
+    on modern AI tools and can walk us through something real
+    you built: what models, what worked, what did not. We
+    expect our managers to lead from the front here.
+  - Technically credible. You reason well about system tradeoffs
+    and stay close enough to the work to earn your engineers'
+    respect, while trusting them to own the details.
+  - Customer-obsessed. You keep the team anchored to real
+    customer value and close the loop after shipping.
+
+
+
+  Qualifications
+
+  - 5+ years of experience managing engineers or engineering
+    teams
+  - 10+ years of experience in a technical field, such as
+    software engineering
+  - A track record of hiring, developing, and managing the
+    performance of strong technical talent
+  - Experience owning team budget and headcount planning
+  - Demonstrated, hands-on AI fluency: practical experience
+    using modern AI tools in real work, with something you can
+    show
+  - A history of delivering software predictably with a team
+  - Technical depth in system design and tradeoffs, enough to
+    earn credibility with senior engineers
+  - Experience partnering closely with Product and other cross-
+    functional teams
+
+
+
+  Preferred qualifications
+
+  - Experience in conversational AI, voice or telephony, ML
+    systems, or real-time infrastructure
+  - Built or scaled testing and validation for AI or
+    nondeterministic systems
+  - Comfort in a lean, fast-moving, remote startup where
+    priorities are ambitious and the bar is high
+
+
+
+  Location, remote, and travel
+
+  - We are 100% remote. You must be legally authorized to work
+    in the United States or Canada.
+  - Travel is required for in-person meetings approximately
+    every six weeks.
+
+  For all full-time employees, we offer:
+
+  🌴 In-person connection that counts: company-wide offsites
+  and smaller team gatherings designed to make remote work
+  feel personal
+
+  🖥️ Tech & learning stipend: Conferences, books, courses —
+  interested? We’ll fund them
+
+  📍 Remote by design: We’re distributed — no guilt about life
+  events, we trust you to manage your calendar
+
+  🏋️ Health & wellness: Flexible vacations, paid sabbatical
+  after 5 years, comprehensive benefits, plus a stipend to
+  support your physical and mental well-being
+
+  💸 Compensation that matches your impact: competitive
+  salaries in the company you’re helping to build
+
+  📈 Equity with upside: We believe in shared ownership—You’ll
+  own a real piece of a fast-growing AI company
+
+  Our Values
+
+  Replicant has three core values. It is critical that
+  everyone who joins the team feels excited and moved by these
+  values as every new team member makes an impact on our
+  culture.
+
+  Blade Runners: We take ownership and pride to influence the
+  outcomes of our goals. We are successful, and like a Blade
+  Runner, use the tools at our disposal to reach our
+  objectives. We value open and honest communication and
+  proactively seek feedback along the way. We are a company
+  driven to grow and achieve both individually and as a team.
+
+  Bread Makers: We are humble and strive toward an egalitarian
+  culture. No task is too big or too small. We work together
+  to achieve our goals and develop our company mission. We
+  believe that the whole is greater than the sum of its parts
+  in everything that we do.
+
+  Självdistans (Self-Distance): Självdistans is Swedish for
+  self-distance. It's the ability to critically reflect on
+  oneself and one's relations from an external perspective.
+  With this in mind, we act with objectivity and always
+  remember that we are not our work. There's no perfect
+  science to growing a team or business, but we trust everyone
+  at Replicant to point out our blind spots and humbly admit
+  their own.
+
+  Replicant is proud to be an equal opportunity employer. We
+  are committed to fostering an inclusive, diverse and
+  equitable workplace that is built on trust, support and
+  respect. We welcome all individuals and do not discriminate
+  on the basis of gender identity and expression, race,
+  ethnicity, disability, sexual orientation, colour, religion,
+  creed, gender, national origin, age, marital status,
+  pregnancy, sex, citizenship, education, languages spoken or
+  veteran status. Accommodation is available upon request at
+  any point during our recruitment process. If you require an
+  accommodation, please speak to your talent acquisition
+  partner or email us at talent@replicant.ai and we’ll work to
+  meet your needs.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Conversational AI
+  - Automation
+posted_date: 2026-08-05
+url: "https://builtin.com/job/engineering-manager/10537719"
+source: Built In

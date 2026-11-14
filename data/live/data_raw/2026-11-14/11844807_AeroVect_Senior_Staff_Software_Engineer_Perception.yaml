@@ -1,0 +1,70 @@
+job_id: 11844807
+title: Senior Staff Software Engineer, Perception
+company: AeroVect
+location: ITA
+locations:
+  - ITA
+  - POL
+  - Dublin, IRL
+  - Berlin, DEU
+  - Frankfurt, DEU
+  - Munich, DEU
+  - Stockholm, SWE
+  - Amsterdam, NLD
+  - San Francisco, USA
+  - Paris, FRA
+  - London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  Who We Are
+
+  AeroVect is transforming ground handling with autonomy,
+  redefining how airlines and ground service providers around
+  the globe run day-to-day operations. We are a Series A
+  company backed by top-tier venture capital investors in
+  aviation and autonomous driving. Our customers include some
+  of the world’s largest airlines and ground handling
+  providers. For more information, visit www.aerovect.com.
+
+  You will
+
+  - Architect 3D object detection models, including multi-modal
+    approaches (camera, LiDAR, Radar).
+  - Build and maintain data collection and evaluation (metrics)
+    pipeline.
+  - Develop a proprietary multi-modal dataset for training and
+    evaluation.
+  - Train, deploy and monitor 2D/3D object detection models to
+    production.
+  - Build and execute a roadmap for the perception system
+  - Mentor junior engineers about best practices.
+
+  You have
+
+  - Master’s or PhD in Computer Science, Robotics, Deep
+    Learning, or a related field.
+
+  - 7+ years of focused experience in architecting and deploying
+    2D/3D object detection models.
+  - Worked on entire perception stack (sensing, preprocessing,
+    detection & tracking)
+  - Python proficiency
+  - The ability to identify gaps and lead cross functional
+    projects
+
+  We Prefer
+
+  - PhD in Computer Science, Robotics, or a related discipline
+  - Full stack AV knowledge
+  - Experience in architecting perception systems (detection &
+    tracking)
+  - Publications in major conferences like CVPR, ICRA, NeurIPS,
+    IJCAI, AAAI etc
+industries:
+  - Aerospace
+  - Automation
+posted_date: 2026-10-23
+url: "https://builtin.com/job/senior-staff-software-engineer-perception/11844807"
+source: Built In

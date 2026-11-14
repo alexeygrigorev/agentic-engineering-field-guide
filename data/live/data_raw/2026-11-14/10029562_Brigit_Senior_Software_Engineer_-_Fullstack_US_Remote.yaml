@@ -1,0 +1,243 @@
+job_id: 10029562
+title: Senior Software Engineer - Fullstack, US Remote
+company: Brigit
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 132 Employees
+description: |
+  Hi, we're Brigit! A holistic financial health company
+  helping everyday Americans build a brighter financial
+  future. With a business model that is aligned with our
+  customers, we create transparent, fair, and simple financial
+  products that put money back in the hands of our members,
+  help them spend wisely, avoid unfair fees and build their
+  credit quickly. If autonomy, ownership, and having
+  meaningful input at the company you work for is important to
+  you, come join our growing team!
+
+  Brigit is doing innovative and exciting work, but don’t just
+  take our word for it, our work is being recognized by
+  others:
+
+  - Built In's 2026 Best Midsize Companies to Work For in New
+    York City
+  - Built In's 2025 Best Places to Work For In New York City
+  - Built In’s 2024 & 2025 Best Startups to Work For In the U.S.
+  - Built In’s 2023 - 2025 Best Startups to Work For In New York
+    City
+  - Fast Company’s Most Innovative Companies of 2022
+  - Business Insider’s Most Promising Consumer Startups 2022
+  - Forbes Fintech 50 2022
+
+  Role Overview:
+
+  Brigit is looking for senior fullstack engineers to help us
+  scale our next-generation consumer finance platform to
+  millions of users in the next year. We’ve found tremendous
+  traction helping low income Americans make ends meet; now is
+  the time to scale. We’ve built a mobile/web app on React and
+  React Native with Typescript, and a backend of Java services
+  in Google Cloud. It’s served us well so far, but we need
+  help making it even better.
+
+  Our team has two main goals:
+
+  1) Feature development supporting numerous external and
+  internal applications. The next generation of our product
+  may look nothing like it does today - and we welcome that!
+  The degree to which we implement new user flows, compute our
+  proprietary algorithms, integrate with 3rd party APIs, store
+  data, and serve traffic will make or break our success.
+
+  2) Scalability of our customer-facing applications. Growing
+  from 100k to 10 million users presents unique technical
+  challenges. The efficiency and reliability of both our
+  customer-facing and internal tools needs to improve. We have
+  fun Data Engineering tasks, automation procedures, and
+  availability/monitoring problems to tackle. We also have
+  many user-facing projects, including the creation and upkeep
+  of components and libraries, GraphQL API design, testing and
+  QA processes, and CI/CD enhancements.
+
+  Our team is small and nimble; you'll be given an
+  extraordinary amount of autonomy and ownership. More
+  importantly, you have a large say in the direction of the
+  company -- both in terms of our technology and our product.
+
+  Recent accomplishments of our team are:
+
+  - Building a Payments API platform that moves millions of
+    dollars on a daily basis
+  - Implementing the advanced mathematical processes behind our
+    proprietary risk algorithm
+  - Normalizing relational database schema to optimize for
+    performance for over 1 million users
+  - End to end User notification (via SMS, Email, Push)
+    capabilities
+  - Building internal tools that enable our Customer Support
+    Specialists to help our customers ASAP
+
+  One of our greatest strengths is the speed at which we move.
+  If you want to propose a new way of doing things, we are all
+  ears. If you have an idea for a new feature, we'll be open
+  to it. A new design paradigm? Bring it on.
+
+  At Brigit you can enjoy a mature CI/CD platform with
+  automated deployment processes, an easy-to-use
+  local/staging/production development environment, and
+  teammates willing to fill in the gaps. We automate manual
+  things so we can focus on thinking and building something
+  that helps people.
+
+  As a fullstack engineer we’re looking for someone with
+  experience owning a feature from start to finish on both the
+  frontend and backend. We don’t expect everyone to know
+  everything in our stack, but having one side of overlap
+  (frontend/backend) that you feel very comfortable with will
+  set you up for success here.
+
+  We are ideally looking for NYC-based folks who can join us
+  in the office 2–3 days a week. However, we're open to remote
+  candidates! If you are applying remotely, please note that
+  we are only considering candidates located in the EST or CT
+  time zones who can work East Coast hours.
+
+  What You'll Be Doing:
+
+  - Evolving the APIs supporting User flows to ensure a great
+    user experience
+  - Optimizing queries and relational database schema to ensure
+    speedy response times
+  - Implementing algorithms related to monetary transaction
+    evaluation, risk management, income verification, and
+    other predictive models
+  - Integrating with new 3rd party APIs to serve millions of
+    customers
+  - Decreasing our customer service workload by building
+    improvements to the product or improving our internal
+    automations
+  - Implementing interaction and motion design for more
+    delightful user experiences
+  - Automating visual testing & visual regression detection
+    processes
+  - Creating new mobile & web clients for upcoming products
+  - A/B testing and optimizing features that boost our business’
+    bottom line
+
+  What you have:
+
+  - 6+ years of industry experience as a software engineer
+  - REST based services and API development experience mainly
+    using Java
+  - Experience building UI/UX for new features from end-to-end
+    using React or React Native
+  - GraphQL experience a plus
+  - Up-to-date grasp of the constantly evolving JS language
+    standards, ES6 and beyond (we use Typescript)
+  - Experience with SQL databases, constructing schemas,
+    performing migrations and writing analytical queries
+  - Kubernetes, Docker or other container system experience is a
+    plus
+  - Quantitative skills, knowledge or experience in Finance is a
+    plus
+  - Experience leading teams or mentoring junior engineers is a
+    plus
+  - You are a self-starter, self-motivated, and able to work
+    independently and manage multiple projects under minimal
+    supervision
+
+  The Interview Process
+
+  - Get to Know You - 30 mins - Intro call - Come prepared to
+    answer a few questions relevant to your experience,
+    interests, and the role at Brigit. This helps us get to
+    know you better and go beyond your resume or other
+    application materials.
+  - Technical Interview, Java, Testing and Debugging - 60 mins -
+    Pair program with an engineer using HackerRank. This
+    interview will be in Java and is an exercise meant to show
+    off your fundamental coding skills. In this session,
+    you’ll work with an engineer to test, debug, and fix a
+    faulty data structure implementation.
+  - Team Behavioral + Take Home Project
+    - Team Behavioral - 60 mins - Meet with one of our Engineering
+      Managers to discuss your approach to collaboration,
+      communication, and alignment with our team values and
+      culture.
+    - Take Home Project, React - (2-4 hours total, on your own
+      time) - You will be asked to re-create a simple game of
+      Black Jack. This is an opportunity to showcase your
+      process and approach for creating a working realish-
+      world feature/product in a React environment.
+  - Final Panel Interview
+    - Technical Interview, System Design - 60 mins - Meet with an
+      engineer and work through API-related business problems.
+    - Take Home Follow-Up - 60 mins - In this interview, the team
+      will walk through your initial Blackjack assessment with
+      you. They’ll review the overall structure, discuss any
+      bugs or issues they’ve identified, and work with you to
+      add additional functionality or enhancements to the
+      project.
+    - Technical Interview, Service Architecture - 60 mins - Meet
+      with one last engineer for a conversational interview
+      around your architecture-related experience.
+
+  The anticipated annual base salary for this position is
+  $170,000 - $190,000. This range does not include any other
+  compensation components or other benefits for which an
+  individual may be eligible. The actual base salary offered
+  depends on a variety of factors, which may include as
+  applicable, the qualifications of the individual applicant
+  for the position, years of relevant experience, specific and
+  unique skills, level of education attained, certifications
+  or other professional licenses held, and the location in
+  which the applicant lives and/or from which they will be
+  performing the job.
+
+  Our Benefits & Team
+
+  - Medical, dental, and vision insurance
+  - Annual Employer HSA Contribution
+  - Discretionary Time Off
+  - 401k Matching
+  - Paid Parental Leave
+  - Monthly reimbursement to use against wifi and/or cell phone
+    bill
+  - Annual reimbursement for Learning & Development
+  - High-growth company helping hard working Americans build a
+    brighter financial future
+  - A dynamic, flexible and collaborative start-up work
+    environment with a highly talented team
+
+  Brigit is committed to providing equal employment
+  opportunities for all applicants and employees without
+  regard to race, religion, color, sex, pregnancy (including
+  breast feeding and related medical conditions), national
+  origin, citizenship status, uniform service member status,
+  age, genetic information, disability, or any other protected
+  status in accordance with all applicable federal, state and
+  local laws. We are proud to be an equal opportunity
+  workplace.
+
+  If you require reasonable accommodation in completing an
+  application, interviewing, completing any pre-employment
+  testing, or otherwise participating in the employee
+  selection process, please email
+  accommodations@hellobrigit.com.
+
+  Disclosures:
+
+  - For information on our data privacy policies, see the Brigit
+    California Personnel Privacy Policy.
+  - Brigit uses E-Verify for employment authorization. See the
+    E-Verify and Department of Justice websites for more
+    details.
+industries:
+  - Fintech
+  - Mobile
+  - Social Impact
+  - Financial Services
+posted_date: 2026-08-22
+url: "https://builtin.com/job/senior-software-engineer-fullstack-us-remote/10029562"
+source: Built In

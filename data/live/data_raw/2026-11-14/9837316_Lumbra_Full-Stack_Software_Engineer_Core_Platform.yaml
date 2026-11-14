@@ -1,0 +1,130 @@
+job_id: 9837316
+title: Full-Stack Software Engineer, Core Platform
+company: Lumbra
+location: Arlington, USA
+locations:
+  - Arlington, USA
+  - New York, USA
+work_type: FULL_TIME
+company_size: 17 Employees
+description: |
+  About Lumbra
+
+  Lumbra builds the vendor-neutral operating system for
+  agentic AI in high-consequence environments. In our first
+  ten months we won four U.S. Government prime contracts in
+  open competition, every one deploying into classified
+  spaces, and we are live on JWICS. We were selected from a
+  field of more than 200 companies and won, beat two
+  established defense primes head to head, and earned the
+  follow-on now in execution. Lumbra is a team of engineers
+  and operators from the intelligence community, special
+  operations, and frontier AI research, with degrees from MIT,
+  Carnegie Mellon, and West Point, and careers built at
+  Palantir, Anduril, Northrop Grumman, Onebrief, JSOC, NSA,
+  and CIA. They have lived this problem from the inside.
+
+  About the Role
+
+  Nebula turns days of manual synthesis into minutes of
+  analysis. We want a full-stack engineer to own features end
+  to end across the Python backend and the React frontend,
+  putting real AI tooling directly in analysts' hands.
+
+  What You'll Own
+
+  - Design and build FastAPI endpoints backed by PostgreSQL and
+    SQLAlchemy for agent configuration, workflow
+    orchestration, and evaluation pipelines.
+  - Implement interactive React and TypeScript features:
+    conversation interfaces, workflow visualization, and
+    knowledge-graph exploration.
+  - Build durable workflow orchestration for long-running agent
+    execution, including delegation, monitoring, and timeout
+    propagation.
+  - Own features across the full stack, from database migration
+    through API contract to UI state.
+  - Bring clean abstractions and well-defined interfaces to a
+    fast-moving codebase, writing code that survives constant
+    change and stays easy to understand, refactor, and extend.
+  - Write contract-driven tests across backend and frontend that
+    cover the spec rather than the implementation, working
+    test-first.
+  - Design testing for non-deterministic AI components:
+    metamorphic testing, property-based testing, and
+    regression suites that catch capability loss without
+    overfitting to specific outputs.
+  - Contribute to the Python and TypeScript client SDKs so
+    programmatic consumers get ergonomic, well-typed access.
+  - Own performance across the stack and profile before
+    guessing: API latency, query efficiency, render
+    performance, and end-to-end streaming latency. Treat
+    slowness as a defect.
+  - Debug across service boundaries with local environments and
+    distributed tracing.
+
+  Required Qualifications
+
+  - Ships production Python (async, relational modeling, layered
+    services) and production React and TypeScript
+  - Reasons comfortably about data flow through every layer,
+    from schema to UI state
+  - Writes clean, well-tested code and works test-first
+
+  Preferred Qualifications
+
+  - Agentic AI systems: harness engineering, context
+    engineering, or building on LLM APIs
+  - Distributed task orchestration systems
+  - Graph databases or vector search for knowledge
+    representation and retrieval
+  - Model Context Protocol or similar tool-use frameworks
+  - Identity management (OAuth2/OIDC)
+  - Open-source developer-tooling contributions
+  - Intelligence analysis, OSINT, or analytical workflows that
+    inform product intuition
+  - Cloud infrastructure (GCP or equivalent): managed
+    Kubernetes, managed databases, secrets managementWhat We
+    Offer
+  - Health, dental, and vision insurance. 99% of your premiums
+    covered, and 100% of your dependents' premiums.
+  - Optional HSA plan. Lower premium, HSA eligible, fully
+    portable, self directed or managed.
+  - Health Reimbursement Account for qualified healthcare
+    expenses.
+  - Life insurance of $150,000 plus AD&D, 100% company paid.
+  - 401(k) with a 100% match on the first 6%, immediately
+    vested. No cliff, no waiting period. Yours from day one.
+  - Wellhub Gold. Everything from Gold's Gym to Lifetime, fully
+    covered, plus [solidcore], F45, and hundreds of other
+    studios.
+  - Unlimited PTO. Real time off, not accrual based. Take what
+    you need, no counting required.
+  - Every federal holiday, plus additional paid days off over
+    the winter break.
+  - Supportive leave of absence program, including time off for
+    military service, medical events, and parental leave.
+  - Breakfast, lunch, and endless snacks every day you are in
+    the office.
+  - Pre-tax commuter benefits.
+  - Company phone plan. A new iPhone, fully company paid.
+
+  Compensation
+
+  The base salary range for this role is $120,000 to $300,000,
+  plus equity and benefits. Where an offer lands depends on
+  scope, autonomy, and technical capability, which we assess
+  through the interview process rather than by years or title.
+  Our ranges are a real guide, and we are flexible for the
+  right person: if your experience clearly exceeds this role's
+  scope, we will consider you at a higher level, with that
+  level's range. Base salary is one part of total
+  compensation, alongside equity and benefits.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Defense
+posted_date: 2026-08-10
+url: "https://builtin.com/job/full-stack-software-engineer-core-platform/9837316"
+source: Built In

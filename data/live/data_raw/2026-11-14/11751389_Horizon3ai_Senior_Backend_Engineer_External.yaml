@@ -1,0 +1,241 @@
+job_id: 11751389
+title: Senior Backend Engineer, External
+company: Horizon3.ai
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 107 Employees
+description: |
+  Get to Know Us
+
+  Horizon3 is a fast-growing, remote cybersecurity company
+  dedicated to the mission of enabling organizations to
+  proactively find and fix and verify exploitable attack
+  vectors before criminals exploit them. Our flagship product,
+  the NodeZeroTM platform, delivers production-safe autonomous
+  pentests and other key assessment operations that scale
+  across the largest internal, external, cloud, and hybrid
+  cloud environments. NodeZero has been adopted by
+  organizations of all sizes, from small educational
+  institutions to government agencies and Global 100
+  enterprises. It is used by ITOps/SecOps teams, consulting
+  pentesters, and MSSPs and MSPs.
+
+  We are a fusion of former U.S. Special Operations cyber
+  operators, startup engineers, and formerly frustrated
+  cybersecurity practitioners. We're committed to helping
+  solve our common security problems: ineffective security
+  tools, false positives resulting in alert fatigue, blind
+  spots, "checkbox” security culture, cybersecurity skills
+  shortage, and the long lead time and expense of hiring
+  outside consultants. Collectively, we are a team of learn it
+  alls, committed to a culture of respect, collaboration,
+  ownership, and results.
+
+
+
+  What You’ll Do
+
+  As a Senior Backend Engineer on the External Attack team,
+  you'll contribute to the full set of backend services that
+  power NodeZero's external pentesting capabilities, from
+  architecture and development through deployment and
+  production operations. You'll own parts of our core API,
+  data processing and ETL pipelines, datalake, graph, along
+  with the container orchestration and cloud infrastructure
+  beneath it all. You'll be accountable for the performance,
+  scalability, and uptime of several of these services, and
+  you'll be a key contributor to user-facing product launches
+  and platform stability.
+
+  Responsibilities
+
+  - Design, build, and maintain features in our core Python API,
+    with a focus on performance, correctness, and
+    maintainability.
+  - Design, build, and operate workflow orchestration for large-
+    scale, long-running workloads using tools such as Prefect
+    or Temporal, including scheduling, retries, idempotency,
+    state management, and failure recovery.
+  - Build orchestration that scales reliably across many
+    concurrent workflows, with clear visibility into progress,
+    failures, and throughput.
+  - Comfort reading and untangling unfamiliar, complex SQL, and
+    the judgment to optimize or refactor it safely in
+    production.
+  - Build and operate high-throughput data processing and ETL
+    pipelines that turn large volumes of raw assessment data
+    into reliable, queryable datasets.
+  - Contribute to datalake architecture on AWS, including
+    storage layout, partitioning, schema evolution, and query
+    performance.
+  - Deploy and manage services on Kubernetes, and take part in
+    cluster operations, release management, and capacity
+    planning.
+  - Develop and extend GraphQL and graph-based APIs that let
+    product components and customers explore complex
+    relationships in their data.
+  - Own the observability, uptime, and scalability of the
+    services you build, including metrics, tracing, alerting,
+    and on-call participation.
+  - Partner with frontend engineers, product managers, and
+    designers to turn backend capabilities into a clear,
+    responsive user experience.
+  - Contribute to systems architecture decisions and write
+    design docs that help the team move quickly with shared
+    understanding.
+  - Collaborate with frontend team members to present data in a
+    clear and user-friendly format, enhancing the product's
+    user experience.
+
+  What You’ll Bring
+
+  - The ability to own and manage concurrent initiatives, with
+    sound judgment in prioritization and time management.
+  - A self-driven approach: you can conceive and implement
+    solutions on your own and with a team.
+  - A reliability mindset for distributed work: you design for
+    retries, partial failure, and recovery, and you debug
+    asynchronous systems methodically.
+  - A strong desire to keep learning new technologies in a fast-
+    paced Agile environment.
+  - Excellent analytical and problem-solving skills, clear
+    communication, and attention to detail.
+  - A bias toward operational ownership: you care how your code
+    behaves in production
+  - Strong technical writing for design docs, runbooks, and API
+    documentation.
+  - Effective collaboration with designers, developers, and
+    product managers.
+
+  Required Education / Experience
+
+  - Bachelor's Degree in Computer Science, Computer Engineering
+    or related field.
+  - 7+ yrs professional software engineering experience using
+    modern object-oriented or functional languages (Python,
+    Java, Go, Scala, C++, TypeScript, etc).
+  - Experience building and running workflow orchestration or
+    distributed task-processing systems in production (for
+    example Prefect, Temporal, Airflow, Celery, or similar).
+  - Hands-on experience designing and building high-throughput
+    data processing systems and ETL pipelines.
+  - Experience building applications on cloud computing
+    platforms such as AWS, Azure, GCP, using container
+    technologies such as Docker and Kubernetes.
+
+  What Sets You Apart
+
+  - Deep Kubernetes experience, including managing deployments
+    and clusters and troubleshooting production workloads.
+  - Experience with durable-execution or workflow engines such
+    as Temporal or Prefect, including designing workflows that
+    are resilient, observable, and easy to evolve.
+  - Experience building GraphQL backends and working with graph
+    databases
+  - A track record of owning observability, uptime, and
+    scalability for production systems (for example Datadog,
+    Prometheus, or OpenTelemetry).
+  - Systems engineering and architecture experience with
+    datalakes and the cloud services around them.
+  - Experience building platform capabilities or internal
+    tooling that other engineering teams rely on.
+  - Experience in cybersecurity or with attack surface and
+    vulnerability data.
+
+  Only US persons can interview for this role due to security
+  clearance requirements by our customer(s) and/or vendor(s).
+  Employee must be eligible for and successfully secure a US
+  Federal Security Clearance as a condition of employment.
+
+  Travel Required
+
+  We are a fully remote company, and this job may require up
+  to 5% of travel to be successful.
+
+
+
+  Perks of Horizon3
+
+  - Inclusive Team: We value diversity and promote an inclusive
+    culture where everyone can thrive.
+  - Growth Opportunities: Be part of a dynamic and growing team
+    with numerous career development opportunities.
+  - Innovative Culture: Work in a collaborative environment that
+    encourages creativity and out-of-the-box thinking.
+  - Hybrid & Remote Work: We embrace a mix of remote and hybrid
+    work models depending on role and location, including our
+    Chicago office, where some roles require regular in-office
+    presence.
+  - Competitive Compensation: We offer competitive salary,
+    equity and benefits. Our benefits include health, vision &
+    dental insurance for you and your family, a flexible
+    vacation policy, and generous parental leave.
+
+  Compensation and Values
+
+  At Horizon3, we believe that our people are our greatest
+  asset, and our compensation philosophy reflects this core
+  value. We are committed to fostering an environment where
+  all employees feel valued, respected, and rewarded for their
+  contributions. Our compensation structure is designed to be
+  fair, competitive, and transparent, ensuring that every team
+  member is recognized and compensated equitably across roles,
+  levels, and locations.
+
+  In accordance with various State’s transparency regulations,
+  we provide the following salary range information for this
+  position:
+
+  - Base salary range: $199,750 - $235,000 annually. The exact
+    salary will be determined based on the selected
+    candidate’s location, qualifications, experience, and
+    relevant skills.
+  - Additional compensation: All full-time roles are eligible
+    for an equity package in the form of stock options.
+
+  You Belong Here
+
+  Horizon3 is not just an equal opportunity employer - we are
+  a community that values diversity, equity, and inclusion as
+  fundamental principles of our culture and success. We are
+  dedicated to fostering a workplace where everyone feels
+  welcome and respected, regardless of race, color, religion,
+  sex, national origin, age, disability, veteran status,
+  sexual orientation, gender identity or expression, genetic
+  information, marital status, or any other legally protected
+  status by law.
+
+  Our commitment to diversity and inclusion means we strive to
+  attract, develop, and retain a workforce that reflects the
+  varied communities we serve. We believe that diverse
+  perspectives drive innovation and strengthen our ability to
+  create cutting-edge cybersecurity solutions. At Horizon3,
+  every team member is valued and supported in an environment
+  that encourages personal and professional growth.
+
+  We welcome candidates from all backgrounds and experiences,
+  and we encourage all qualified individuals to apply. Come be
+  a part of Horizon3, where your unique contributions are
+  recognized, and your potential is limitless.
+
+  Other Duties
+
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties or
+  responsibilities that are required of the employee. Duties,
+  responsibilities, and activities may change at any time with
+  or without notice.
+
+  Application Note
+
+  In any materials you submit, you may redact or remove age-
+  identifying information such as age, date of birth, or dates
+  of school attendance or graduation. You will not be
+  penalized for redacting or removing this information.
+industries:
+  - Artificial Intelligence
+  - Cybersecurity
+posted_date: 2026-10-19
+url: "https://builtin.com/job/senior-backend-engineer-external/11751389"
+source: Built In

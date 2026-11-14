@@ -1,0 +1,239 @@
+job_id: 11405485
+title: Manager, Engineering
+company: Twenty
+location: New York, USA
+work_type: FULL_TIME
+company_size: 33 Employees
+description: |
+  About the Company
+
+  America is under sustained cyber attack. Our adversaries
+  infiltrate our networks, steal our IP, and degrade the
+  digital infrastructure that modern life runs on. They’ve
+  learned—correctly—that those attacks rarely produce
+  consequences.
+
+  Twenty was founded to change that, by making our adversaries
+  think twice before they attack us. Our vision is American
+  and allied primacy in cyberspace—a future where they cannot
+  contest us, deterrence is assured, and the free world
+  remains secure.
+
+  Founded in 2024, Twenty Technologies (www.twenty.io)
+  industrializes offensive cyber operations for the U.S. and
+  its allies. Headquartered in Arlington, Virginia, Twenty has
+  raised $168M from Khosla Ventures, Accel, Caffeinated
+  Capital, Friends & Family Capital, Point72 Ventures, General
+  Catalyst, and In-Q-Tel.
+
+
+
+
+
+
+
+
+
+  Mission | On Site | Full Time | U.S. Citizenship Required /
+  No Active Clearance Required
+
+
+
+
+
+
+
+
+
+
+
+  Role Summary
+
+  You will lead the Data Marketplace Team—the engineering
+  group building the signal engine that aligns cyber
+  capability supply with operational demand. Your team will
+  turn target intelligence from an upstream target-
+  intelligence system and operational performance data from an
+  operational performance and feedback system into gap
+  analysis, high-confidence vendor demand signals, automated
+  capability matching, and decision metrics for government
+  buyers.
+
+  This is a data-intensive, marketplace-oriented role with
+  meaningful customer, vendor, privacy, and security
+  considerations. Much of what your team builds connects
+  internal operational systems with buyer- and vendor-facing
+  workflows, making your work a critical dependency across the
+  product ecosystem. You'll own the technical roadmap and
+  partner closely with a Product Manager who owns the product
+  roadmap. Day to day, you'll lead a growing team of engineers
+  across frontend, backend, data, and infrastructure—setting
+  direction, running projects, resolving technical
+  dependencies, and shipping a trustworthy marketplace.
+
+  This is a player-coach role. Your primary function is
+  management and delivery, with occasional hands-on technical
+  contributions when they accelerate the team.
+
+  What You'll Do
+
+  - Lead and develop a cross-disciplinary team of engineers
+    spanning frontend, backend, and infrastructure.
+  - Own the technical roadmap; partner with the Product Manager
+    on the product roadmap.
+  - Run projects and workstreams end-to-end—setting timelines,
+    resolving blockers, and keeping the team moving.
+  - Guide architecture and technical decisions across the
+    platform stack to keep systems coherent, secure, and
+    scalable.
+  - Establish and enforce engineering quality standards: design
+    reviews, testing discipline, documentation, and security
+    practices.
+  - Define and maintain the interfaces and shared capabilities
+    that feature teams consume.
+  - Hire, onboard, and develop engineers; give direct feedback,
+    build growth plans, and cultivate technical leadership
+    within the team.
+  - Run structured hiring end-to-end: define the bar, build the
+    interview process, run rigorous debriefs, and close strong
+    candidates.
+  - Collaborate with feature teams and other internal consumers
+    to ensure platform capabilities meet their needs.
+  - Coordinate cross-team dependencies and communicate clearly
+    on timelines, risks, and tradeoffs.
+  - Occasionally contribute hands-on—code review,
+    implementation, or debugging—when it unblocks the team or
+    accelerates delivery.
+
+
+
+  Who You Are
+
+  - You're equally comfortable in a data-model review, a
+    customer conversation, and a 1:1—you bring the same rigor
+    to each.
+  - You think in systems: data pipelines, marketplace
+    incentives, interfaces, trust boundaries, team structure,
+    and delivery dependencies—not just tickets.
+  - You can turn ambiguous operational needs into clear
+    engineering problems, measurable product outcomes, and
+    executable plans.
+  - You hold a high bar without creating drag—you know when to
+    push and when to get out of the way.
+  - You execute: you drive projects to completion, make
+    decisions under uncertainty, and actively resolve
+    ambiguity before it becomes drift.
+  - You communicate crisply with engineers, product partners,
+    operators, vendors, and leadership without losing
+    technical truth.
+  - You bring calm, structured decision-making to sensitive,
+    fast-moving problem spaces where data quality, privacy,
+    and security matter.
+
+
+
+  Must Have
+
+  - You have 5+ years of professional software engineering
+    experience.
+  - You have 3–5 years of engineering management experience,
+    with a track record of delivering on time at high quality.
+  - You've led teams of mixed discipline (frontend, backend,
+    and/or infrastructure engineers) and managed engineers
+    across seniority levels.
+  - You have strong technical breadth across modern web
+    platforms and backend services: you can read the code,
+    evaluate architecture, and understand interface contracts
+    without being a specialist in every layer.
+  - You've owned a technical roadmap and made sound
+    prioritization calls under real constraints.
+  - You've built and maintained platform or shared-service
+    capabilities consumed by other engineering teams, or are
+    eager to grow into this responsibility.
+  - You have a track record of developing ICs: clear
+    expectations, regular feedback, and coaching that creates
+    growth.
+  - You must be eligible to obtain a U.S. Government security
+    clearance.
+
+
+
+  Nice to Have
+
+  - You have experience in defense, intelligence, national
+    security, or cybersecurity technology environments.
+  - You've built marketplace, matching, recommendation, ranking,
+    forecasting, or decision-support systems.
+  - You've worked with graph databases such as Neo4j or graph-
+    based models for complex analytical problems.
+  - You've built data products using event streams, operational
+    telemetry, probabilistic scoring, or machine learning.
+  - You've designed systems that preserve privacy or operational
+    security through anonymization, aggregation, obfuscation,
+    or fine-grained access controls.
+  - You've built enterprise features such as multi-tenancy,
+    RBAC, audit logging, KYC, or identity verification.
+  - You have experience integrating multiple products or data
+    sources where upstream accuracy materially affects
+    downstream decisions.
+  - You have background in cyber operations, vulnerability
+    intelligence, exploit development, or capability
+    assessment.
+
+
+
+  Tech Environment (You Might Work With)
+
+  - React + TypeScript for buyer-, vendor-, and internal-facing
+    applications
+  - Go and Python for backend services, data processing,
+    scoring, and integrations
+  - Neo4j and graph-based data modeling for technologies,
+    environments, capabilities, vendors, and operational
+    relationships
+  - PostgreSQL and data pipelines for operational and
+    marketplace analytics
+  - Terraform, Ansible, AWS, Docker, Kubernetes, CI/CD, and
+    observability tooling
+
+  Benefits  What's on the table:
+
+  - Health. Medical, dental, and vision plan options. Life /
+    AD&D, disability coverage options.
+  - Family. Paid parental leave for eligible full-time
+    employees. 12 weeks for birthing parents, 4 for non-
+    birthing parents, 6 weeks for adoptive, foster, or
+    intended parents through surrogacy.
+  - Vacation. Paid holidays and flexible PTO. Take what you
+    need.
+  - Retirement. 401(k) with pre-tax and Roth options. HSA/FSA
+    options, dependent care FSA.
+
+  Benefits vary by location, role, and eligibility. Full plan
+  details provided during the interview and offer process.
+
+  If this role sounds like you, apply and share with us your
+  interest
+
+  Due to U.S. government contract and security requirements,
+  this role is limited to U.S. citizens. Some positions may
+  also require eligibility to obtain and maintain a U.S.
+  Government security clearance. Any active clearance
+  requirement will be listed in the role description.
+
+  Twenty is an equal opportunity employer. We consider all
+  qualified applicants without regard to race, color,
+  religion, sex, sexual orientation, gender identity, national
+  origin, age, veteran status, disability, or any other
+  protected status, consistent with applicable law.
+
+  If you need a reasonable accommodation during the hiring
+  process, let us know and we will work with you.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Cybersecurity
+  - Defense
+posted_date: 2026-09-28
+url: "https://builtin.com/job/engineering-manager/11405485"
+source: Built In

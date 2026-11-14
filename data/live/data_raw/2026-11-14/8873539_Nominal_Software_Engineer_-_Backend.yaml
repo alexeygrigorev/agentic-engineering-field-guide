@@ -1,0 +1,150 @@
+job_id: 8873539
+title: Software Engineer - Backend
+company: Nominal
+location: Austin, USA
+locations:
+  - Austin, USA
+  - Seattle, USA
+  - Montréal, CAN
+  - New York, USA
+  - Los Angeles, USA
+work_type: FULL_TIME
+company_size: 87 Employees
+description: |
+  About Nominal
+
+  Engineers today are building some of the most ambitious
+  machines humanity has ever seen. They should have AI that’s
+  purpose-built for them.
+
+  Nominal is building the Hardware Intelligence Platform that
+  gives engineers increased visibility into complex physical
+  systems, helps them make better decisions, and ultimately
+  gets their products into the real world faster. It brings
+  together the systems, data, intelligence, and applications
+  hardware engineering requires to meet the AI moment.
+  Hardware engineering teams use Nominal to simulate, test,
+  manufacture, and operate the physical systems that keep the
+  world moving, from spacecraft and autonomous vehicles to
+  next-generation energy systems and robotics.
+
+  Our customers span aerospace, defense, manufacturing,
+  transportation, energy, and robotics. They include Anduril,
+  Shield AI, Wisk Aero, Pratt Miller Motorsports, Antares, and
+  Shinkei Systems, amongst others, alongside programs within
+  the U.S. Air Force and Navy. Our team draws from SpaceX,
+  Palantir, Anduril, Applied Intuition, Tesla, and other
+  leading companies, united by a common mission: giving
+  hardware engineers the tools to build the future with speed,
+  safety, and confidence. We're a fast-moving team that owns
+  problems end-to-end, works across disciplines, and thrives
+  at the intersection of hardware and software.
+
+  Some of the world’s leading technology investors, including
+  Sequoia, Lightspeed, Founders Fund, General Catalyst, Lux
+  Capital, and Insight Partners, are backing Nominal’s
+  ambition to change how machines are built and operated.
+  We’re looking for engineers who want to take on hard
+  problems and help make a new generation of world-changing
+  hardware possible.
+
+  About the role
+
+  Nominal's backend runs on a set of Platform teams that own
+  everything below the product surface: ingesting and storing
+  the world's hardware data, making it queryable at scale, and
+  keeping the whole system running across cloud, on-prem, and
+  air-gapped environments. As a Backend Software Engineer,
+  you'll join one of these teams and design and build the
+  distributed infrastructure that powers the telemetry and
+  validation platform, systems that ingest multi-modal data
+  (time series, video, point clouds, asset and run catalogs),
+  serve it back at high scale, and hold up under real
+  production load from customers.
+
+  This role is ideal for engineers who enjoy working close to
+  the metal of distributed systems, reasoning about
+  throughput, latency, data models, and failure, and who want
+  to see their work directly enable real-world hardware.
+  You'll own critical backend systems end to end, from
+  ingestion pipelines to storage engines to performance tuning
+  in production.
+
+  🚀 What you'll do
+
+  - Architect and evolve distributed systems that ingest,
+    process, and persist high-frequency telemetry and sensor
+    data.
+  - Design storage and indexing strategies for large, time-
+    series, and event-driven datasets with strict performance
+    and correctness requirements.
+  - Tackle hard problems around scalability, backpressure, fault
+    tolerance, and data consistency in real-time systems.
+  - Optimize hot paths, reduce tail latency, and improve
+    reliability as the system scales with new customers and
+    use cases.
+  - Collaborate closely with product, infrastructure, and
+    customer-facing engineers to solve domain-specific
+    problems for cutting-edge hardware teams.
+  - Influence backend architecture and technical direction,
+    mentor teammates, and raise the bar for system design
+    across the org.
+
+  🔍 We're looking for someone with
+
+  - 3+ years building distributed systems where performance,
+    reliability, and operational simplicity matter.
+  - Strong experience in Go, Rust, or Java, with an emphasis on
+    correctness, clarity, and long-lived systems.
+  - Deep familiarity with cloud infrastructure (AWS, GCP, or
+    Azure) and production tooling like Kubernetes, Docker, and
+    Terraform.
+  - Hands-on experience designing or operating storage systems:
+    time-series databases, columnar formats, or analytics
+    engines (e.g., ClickHouse, TimescaleDB, Druid, InfluxDB,
+    Parquet).
+  - Experience with streaming or data processing technologies
+    such as Kafka, Apache Arrow, Flink, or Spark.
+  - Comfort reasoning about distributed systems tradeoffs:
+    latency vs. throughput, consistency vs. availability,
+    abstraction vs. control.
+  - Clear technical communication and a bias toward ownership:
+    you design it, build it, ship it, and operate it.
+
+  ✨ Benefits/Perks
+
+  - 🏥 100% coverage of medical, dental, and vision insurance
+  - 🏖️ Unlimited PTO and sick leave
+  - 🍽️ Free lunch, snacks, and coffee
+  - 🚀 Professional Development Stipend
+  - 🛠️ In-office hardware lab with a $250 project stipend
+  - ✈️ Annual company retreat
+  - 👶 12 weeks parental leave
+  - 🌱 Fertility and family planning ($15,000 lifetime)
+  - 💪 Wellness stipend ($100/month)
+  - 🛠️ $500/year hardware sensor stipend
+  - 💼 401(k)
+  - 📈 Employee-friendly equity terms
+  - 🏢 In-office 5 days per week
+
+  All qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  sexual orientation, gender identity, or national origin.
+
+  ITAR Requirements
+
+  To conform to U.S. Government export regulations, applicant
+  must be a (i) U.S. citizen or national, (ii) U.S. lawful,
+  permanent resident (aka green card holder), (iii) Refugee
+  under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158,
+  or be eligible to obtain the required authorizations from
+  the U.S. Department of State. Learn more about the ITAR
+  here.
+
+  Compensation
+
+  The base pay range for this role is $179,000 – $250,000 per
+  year.
+posted_date: 2026-07-31
+url: "https://builtin.com/job/software-engineer-backend/8873539"
+source: Built In

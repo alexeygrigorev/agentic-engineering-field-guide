@@ -1,0 +1,126 @@
+job_id: 10160582
+title: Senior / Staff Software Engineer
+company: Axella Biosciences
+location: USA
+locations:
+  - USA
+  - Boston, USA
+remote: true
+work_type: FULL_TIME
+company_size: 14 Employees
+description: |
+  Why this role matters
+
+  Biomanufacturing is one of the most complex and failure-
+  prone systems in the world. Every year, billions of dollars
+  and critical therapies are delayed or lost — not because the
+  science fails, but because process understanding and
+  manufacturing execution break down somewhere along the way.
+  It’s a systems problem more than a software or biology
+  problem, and we’re building the AI platform to solve it.
+
+  What we’re building
+
+  Axella Biosciences is a stealth mode company developing an
+  AI-driven CMC and biomanufacturing execution platform that
+  designs manufacturing processes in silico, reduces
+  deviations and failures during development and GMP
+  production, and helps diagnose and resolve issues in real
+  time. We’re already in production with early customers, and
+  now we’re scaling into regulated environments (GxP, 21 CFR
+  Part 11), across more of the biomanufacturing lifecycle, and
+  toward autonomous, agent-driven execution.
+
+  We’re backed by top VCs such as General Catalyst, Sequoia,
+  and Hitachi Ventures, among others.
+
+  The role
+
+  We’re hiring a foundational technical leader to own
+  engineering execution end-to-end — architecture, AI systems
+  design, infrastructure, and the engineering standards and
+  culture we build from here. You’ll work closely with domain
+  experts across biomanufacturing and AI.
+
+  What you’ll work on
+
+  AI systems and agents. You’ll build and deploy agentic
+  systems based on frontier models (Claude, Open AI) for real
+  manufacturing workflows, design tool-augmented agents using
+  MCP and structured data access, improve our RAG systems
+  (retrieval quality, grounding, citations, reasoning), and
+  develop evaluation frameworks — gold sets, regression
+  testing, live metrics.
+
+  Core platform. Full-stack development across React, Node.js,
+  and MongoDB. Building document intelligence pipelines for
+  batch records, PDFs, Excel files, and images, and turning
+  unstructured manufacturing data into structured, usable
+  knowledge.
+
+  Infrastructure and scale. Evolving our AWS architecture from
+  early-stage to production-grade, implementing observability,
+  reliability, and CI/CD, and designing systems that hold up
+  in regulated environments (GxP, Part 11, SOC 2).
+
+  Customer deployment. Getting systems into real manufacturing
+  environments, integrating with LIMS, ERP, and QMS, and
+  working directly with customers and partners to validate how
+  these systems perform in the wild.
+
+  What we’re looking for
+
+  The core: 7+ years of software engineering experience with a
+  proven track record of delivering production systems end-to-
+  end in startup environments — including problem scoping,
+  requirements gathering, product planning, architecture,
+  modern web backend and frontend development, infrastructure,
+  and maintenance. You're comfortable identifying which
+  problems are worth solving, not just executing on well-
+  defined ones, and you can drive technical direction
+  independently in ambiguous environments.
+
+  Candidates must have strong production experience owning
+  LLM-powered systems (RAG, agents, tool use) — including the
+  reliability, evaluation, and iteration strategy that keeps
+  them working as they scale. You should be comfortable
+  operating production systems in cloud environments.
+  Experience with infrastructure as code tools such as
+  Terraform is a plus, as is experience with AWS, Typescript,
+  React, Node.js and GitHub Actions.
+
+  We're looking for a bar raiser who works independently and
+  can build cross-functional alignment around the technical
+  practices that matter — things like code coverage,
+  evaluation infrastructure, and observability — and drive
+  them to adoption without heavy process.
+
+  Things that stand out: experience with agent frameworks or
+  MCP-style architectures, building evaluation systems for LLM
+  reliability, document parsing and structured extraction
+  pipelines, work in regulated or high-reliability
+  environments, and any exposure to biotech, pharma, or
+  complex industrial systems.
+
+  What makes this role unique
+
+  The work has real-world impact — your systems shape how
+  drugs are manufactured. The problems are genuinely hard:
+  reasoning over messy, high-stakes data in regulated
+  environments. You’ll have high autonomy and own major
+  technical decisions, and as a foundational hire, the
+  engineering culture and architecture will reflect the
+  choices you make. The system also gets better with every
+  deployment, which is a fun place to be.
+
+  Compensation
+
+  Competitive salary plus meaningful early-stage equity.
+industries:
+  - Artificial Intelligence
+  - Biotech
+  - Pharmaceutical
+  - Manufacturing
+posted_date: 2026-10-23
+url: "https://builtin.com/job/senior-staff-software-engineer/10160582"
+source: Built In

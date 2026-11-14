@@ -1,0 +1,103 @@
+job_id: 12218664
+title: Senior Software Engineer
+company: Podium Automation
+location: New York, USA
+work_type: FULL_TIME
+company_size: 9 Employees
+description: |
+  Podium Automation is reimagining industrial control panel
+  manufacturing through software-enabled design and automated
+  fabrication. We're building technology to create a new
+  industrial supply chain - reducing lead times for critical
+  electrical equipment from months to days. We've raised over
+  $23M from top-tier investors including Construct Capital,
+  Andreessen Horowitz, Transition Ventures, Sunflower Capital,
+  Banter Capital, and SV Angel.
+
+  We are seeking a Senior Software Engineer who is excited to
+  invent new technology in the built world. You will own and
+  lead development of our customer portal, Glass, which
+  provides transparency into the state of customer projects
+  and builds a bridge between Podium engineering and
+  stakeholders.
+
+  The Problem You'll Solve
+
+  Podium strives to streamline the process by which a panel is
+  designed and built. But building physical things is hard:
+  requirements change and priorities shift as new information
+  becomes available. Key to reducing the end-to-end ship time
+  is tightening the loop between Podium and our customers.
+
+  We’re building, and you will own, a customer-first
+  application that:
+
+  - Onboards new customers to Podium
+  - Houses schematic drawings and collects engineering feedback
+  - Exposes the state of a build on the floor and enables
+    factory acceptance testing
+  - Notifies users, both internal and external, when action is
+    needed
+
+  Underlying the portal is accurate tracking of material,
+  orders, and customer requirements. Odoo, our ERP solution,
+  is the source truth. Odoo is open source and designed to be
+  extended. You will be our Odoo development expert,
+  supporting the Glass portal and the many other initiatives
+  that rely on our ERP.
+
+  Our Stack: We use TypeScript, Postgres, SQL Server, HTMX,
+  Docker, Terraform, and AWS. As the owner of this domain, you
+  have the latitude to adopt whatever tools, frameworks,
+  models, or services best fit the problem.
+
+  What You'll Do
+
+  - Platform Ownership: Own the technical roadmap and expansion
+    of Glass.
+  - Odoo Development: Build upon Odoo to add data, expose new
+    endpoints, and refine Odoo internals to better align with
+    our business.
+  - Cross-Functional Leadership: Collaborate closely with
+    electrical engineers, sales, and our procurement team.
+    Serve as the technical leader for this domain and a mentor
+    for other engineers.
+  - Strategic Growth: Proactively identify and pursue new
+    opportunities to improve the business through the
+    application of technology. We are a software-enabled
+    hardware company, and when an unexpected opportunity
+    presents itself we take it.
+
+  Who You Are
+
+  There are 4 values that all Podium employees are expected to
+  demonstrate (albeit imperfectly):
+
+  - Win for the customer. We sit on the same side of the table
+    as our customers - their wins are our wins. We’re building
+    the vendor we always wished we had.
+  - Default to transparency. We believe in honesty,
+    transparency, and kindness. It’s about how you get things
+    done and not just what gets done.
+  - Speed is a feature. We move fast and take ownership. Don’t
+    let perfect be the enemy of good.
+  - Win and lose as a team. Individuals drive inputs, teams
+    drive outputs. We celebrate success together but aren’t
+    afraid to fail and iterate. We own outcomes together and
+    don’t deflect blame. What We’re Looking For
+    - 5+ years of software engineering experience
+    - 1+ years experience developing on Odoo
+    - Fluency in TypeScript
+    - Commitment to a highly collaborative work environment full
+      of people who like to roll up their sleeves, want a
+      voice, want to build rather than inherit, and share in
+      the results.on-site work environment
+    - Available to work in-person in Brooklyn, NY (in person, 5
+      days/week)
+industries:
+  - Software
+  - Industrial
+  - Automation
+posted_date: 2026-11-13
+url: "https://builtin.com/job/senior-software-engineer/12218664"
+source: Built In

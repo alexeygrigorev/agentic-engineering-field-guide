@@ -1,0 +1,152 @@
+job_id: 10757332
+title: Senior Software Engineer, Clinical
+company: ECP
+location: Denver, USA
+locations:
+  - Denver, USA
+  - Chicago, USA
+  - New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 63 Employees
+description: |
+  About ECP
+
+  ECP is a market-leading SaaS solution that enables senior
+  living communities to better care for their residents. ECP
+  is used in over 8,000 communities. We're looking to further
+  expand by increasing the number of customers that use our
+  software and increasing the scope of how we serve our
+  customers by developing and releasing new products.
+
+  Senior living is deeply under-penetrated with software and
+  ECP is one of the largest and fastest-growing software
+  companies in the industry. We recently raised a growth round
+  of equity to reinvest in our product, technology, and go-to-
+  market. Our mission is to build world-class software that
+  improves the quality of life for seniors and improves
+  clinical, business, compliance, and operational performance
+  for our customers.
+
+  The Role
+
+  The clinical product is ECP's flagship, and caregivers are
+  in it every shift. When a nurse documents a medication
+  administration or a care aide records an overnight
+  observation, that's our software.
+
+  The team you'd join builds the next generation of it. The
+  new platform is live and customers are using it, but most
+  clinical functionality still sits in ColdFusion and
+  AngularJS. We move customers a function at a time, so a
+  caregiver can be in the new platform for one task and in
+  ColdFusion for the next. Finishing that migration is the
+  near-term work, and we're doing it with AI. The hard part is
+  proving a migrated workflow still does what it did before.
+
+  You'd report to the Senior Engineering Manager for Clinical,
+  on a team of four engineers with a tech lead and a dedicated
+  product manager. You'd own clinical domains end to end,
+  moving them onto the new platform for most of your first
+  year and building new capability on them after that.
+
+  The stack: The new code is Node, React, and TypeScript on
+  AWS, with domain-driven design and an event bus between the
+  products. Data is SQL Server on a single-tenant database
+  model, one per community. You won't write much ColdFusion,
+  but you'll read plenty of it.
+
+  What You'll Build
+
+  The migration. You'll take a workflow that lives in
+  ColdFusion today, work out what it does including the parts
+  nobody wrote down, and rebuild it. You own that domain
+  through to production, and you write the tests that prove it
+  works. Not all of it carries over unchanged. The medication
+  administration workflow is already redesigned and waiting,
+  and you'll settle with product up front which differences
+  are deliberate, so nobody reads one as a regression later.
+
+  New clinical capability. Once a domain lands on the new
+  platform, the team builds on it. You'll work with the
+  product manager on scope and sequencing, and we expect you
+  to push back when there's a cheaper way to get a caregiver
+  the same outcome.
+
+  The quality bar. The team is moving toward engineer-owned
+  automated coverage in Playwright, and we want it to go
+  further. You carry the pager for the domains you build.
+
+  What Success Looks Like
+
+  At six months the migration is well underway, and several of
+  the domains that moved are yours. Caregivers are using them.
+  The team has taken its cues from you on what AI-generated
+  work is fit to merge, and review isn't where the migration
+  slows down.
+
+  Past the migration, this job is new clinical capability, and
+  the measure is how quickly a caregiver gets something they
+  asked for.
+
+  Requirements
+
+  Required
+
+  - Depth in TypeScript on both sides of the stack, Node on the
+    server and React in the browser. Tell us about a feature
+    you took from the data model to the interface, and what
+    you'd model differently now.
+
+  - AI-assisted development is how you work, daily, on
+    production code, and you know where you stopped trusting
+    it.
+
+  - You've pointed AI at a large codebase you didn't write and
+    gotten useful work out of it. The part we want to hear
+    about is what you did when the first answer was
+    confidently wrong because the model couldn't see enough of
+    the system.
+
+  - You've moved other engineers along in how they use AI.
+
+  - Domain-driven design in a complex domain. The version that
+    matters here is drawing a boundary against a system you
+    can't change, so tell us about one you drew and what it
+    cost you when it landed in the wrong place.
+
+  - You've built software where a defect has consequences past a
+    bad user experience, and it changed how you test and how
+    you ship. You were on call for it.
+
+  - Data modeling and query performance where the tenant model
+    is the data model. You've found and fixed a query that was
+    fine in development and fell over on your largest
+    customer.
+
+  - You work with product instead of waiting on it. You've
+    changed what got built by understanding the business
+    problem behind a story.
+
+  Preferred
+
+  - A legacy-to-next-generation migration you saw through,
+    particularly one where both systems ran in production at
+    the same time
+
+  - ColdFusion, or another language you inherited rather than
+    chose
+
+  - HIPAA, PHI, or another regulated data environment
+
+  - SQL Server, AWS, event-driven architecture in production
+
+  - Offline-first or progressive web applications
+
+  - Playwright or comparable browser automation you owned
+    yourself
+
+  - Healthcare, or time spent watching clinical staff work
+posted_date: 2026-08-20
+url: "https://builtin.com/job/senior-software-engineer-clinical/10757332"
+source: Built In

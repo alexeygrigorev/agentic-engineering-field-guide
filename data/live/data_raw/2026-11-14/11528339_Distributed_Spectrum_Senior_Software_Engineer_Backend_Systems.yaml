@@ -1,0 +1,140 @@
+job_id: 11528339
+title: Senior Software Engineer, Backend Systems
+company: Distributed Spectrum
+location: New York, USA
+work_type: FULL_TIME
+company_size: 33 Employees
+description: |
+  DS creates systems that power the next generation of radio
+  spectrum intelligence. We collect radio data from all over
+  the world, train neural networks to decipher it, and run
+  them on the smallest chips we can. We’re solving a new,
+  technically hard problem where nothing from other fields
+  works out of the box, and along the way, we’ve built our own
+  stack from scratch, including entirely new embedding model
+  architectures, custom GPU kernels, and much more.
+
+  Joining DS means owning major parts of a fast-growing AI
+  research organization, joining a collaborative, talent-dense
+  team with decades of experience in probabilistic ML,
+  accelerated computing, embedded systems, and signal theory,
+  and growing your career in the areas that interest you.
+  You’ll fit in if you want to come to work for the problem
+  itself and don’t want to choose between technical rigor,
+  business value, and real-world impact.
+
+  We work with high ownership and trust.
+
+  The Role
+
+  We're hiring a Senior Backend Engineer to design and build
+  the services that sit at the heart of the Distributed
+  Spectrum platform: the systems that ingest spectrum data,
+  orchestrate ML inference, and increasingly, power autonomous
+  agents that reason over what our sensors see. You'll define
+  how our backend evolves from a set of services into an
+  agent-native system — one where models, tools, and workflows
+  are first-class citizens of the architecture rather than
+  bolted-on integrations.
+
+  This is a high-ownership role. You'll set technical
+  direction, make architecture decisions that stick for years,
+  and mentor engineers around you.
+
+  What you'll do
+
+  - Design, build, and operate backend services that are
+    reliable, observable, and built to scale with our sensor
+    fleet and customer base.
+  - Architect the agent layer of our platform: tool-calling
+    interfaces, orchestration, state management, memory, and
+    evaluation harnesses for LLM- and model-driven agents.
+  - Own the ML inference architecture — model serving, batching,
+    GPU/CPU scheduling, latency and cost optimization, and the
+    APIs that expose inference to the rest of the system.
+  - Define service boundaries, data contracts, and API standards
+    across the backend.
+  - Build for production: instrumentation, alerting, graceful
+    degradation, and clear runbooks.
+  - Partner closely with ML researchers to move models from
+    experiment to production quickly and safely.
+  - Lead design reviews, mentor engineers, and raise the bar on
+    code quality and engineering practice.
+
+  What we're looking for
+
+  - 4–6+ years of professional software engineering experience,
+    with significant time spent building and running backend /
+    distributed systems in production.
+  - Strong proficiency in at least one of Python, Go, Rust, or a
+    similar systems-capable language; comfort moving between
+    languages.
+  - Hands-on experience with AWS or another major cloud provider
+    (GCP, Azure) — compute, networking, storage, IAM, and
+    managed data services.
+  - Experience building or integrating LLM / agent systems: tool
+    use, orchestration frameworks, RAG, evaluation, or
+    comparable work.
+  - Experience serving ML models in production (e.g., Triton,
+    TorchServe, vLLM, custom serving) and reasoning about
+    throughput, latency, and cost.
+  - Deep understanding of APIs (REST / gRPC), async processing,
+    message queues / streaming (Kafka, SQS, Kinesis, etc.),
+    and data consistency trade-offs.
+  - Track record of owning systems end to end and making
+    architecture decisions with long-lived consequences.
+
+  Nice to have
+
+  - Experience with containers and orchestration (Docker,
+    Kubernetes, ECS).
+  - Background in signal processing, RF, geospatial, or other
+    high-volume time-series domains.
+  - Experience with GPU programming or accelerated computing.
+  - Familiarity with regulated or defense-adjacent environments
+    and their security expectations.
+
+  Who Thrives at Distributed Spectrum
+
+  - Fast learners over specific backgrounds – We care more about
+    how quickly you can pick up new skills than where you’ve
+    worked before.
+  - Intellectual honesty – The right answer matters more than
+    being right. You challenge assumptions, test ideas, and
+    pivot when needed.
+  - Adaptability – We’re organized, but sometimes things change
+    quickly. You find a way to make it work and balance short-
+    term deliverables with long-term goals.
+  - Ownership of outcomes – You optimize your own time, focus on
+    what matters to deliver quickly, and cut out
+    inefficiencies.
+  - Not building in a vacuum – You stay connected to the rest of
+    our teams and our customers to make sure all the pieces
+    fit together.
+
+  What We Offer
+
+  - Above-market salary, equity, and benefits package.
+  - Early Series A Equity
+  - Excellent health, dental, and vision coverage
+  - 401(k) match - up to 4% of your salary
+  - Flexible PTO
+  - Daily office lunches in NYC
+
+  ITAR Requirements
+
+  To conform to U.S. Government technology export regulations,
+  including the International Traffic in Arms Regulations
+  (ITAR) you must be a U.S. citizen, lawful permanent resident
+  of the U.S., protected individual as defined by 8 U.S.C.
+  1324b(a)(3), or eligible to obtain the required
+  authorizations from the U.S. Department of State. Learn more
+  about the ITAR here.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Defense
+posted_date: 2026-10-06
+url: "https://builtin.com/job/senior-software-engineer-backend-systems/11528339"
+source: Built In

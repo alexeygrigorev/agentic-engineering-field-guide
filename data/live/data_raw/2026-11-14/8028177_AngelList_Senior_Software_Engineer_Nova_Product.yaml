@@ -1,0 +1,143 @@
+job_id: 8028177
+title: Senior Software Engineer, Nova Product
+company: AngelList
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 518 Employees
+description: |
+  About AngelList
+
+  Private markets are the new public markets. The most
+  important companies of this era are private, and almost no
+  one can own them. What's missing is the financial system
+  public markets spent a century building: exchanges,
+  custodians, brokers, and ways for ordinary people to buy in.
+  Private markets, now $28T, never had the equivalent.
+  AngelList is building it.
+
+  The last decade of structural innovation in venture happened
+  here: syndicates, SPVs at scale, Rolling Funds, scout
+  programs. Today we have $200B+ in assets and 30,000+
+  startups funded on our platform. The rest of private markets
+  is next. Funds is the software and services behind private
+  funds, Nova is the banking network, Meridian is the wealth
+  platform for accredited investors, and USVC is the brand
+  behind a registered fund that lets anyone invest in venture.
+
+  Working here means an unusual amount of agency on a problem
+  that matters. Titles are closer to suggestions, and there
+  are about 200 of us building what private markets never had.
+  Come build it with us.
+
+  About the Role:
+
+  Nova is building the banking and payments network for
+  private markets. Fund managers, fund administrators, and
+  investors use our software to manage subscriptions, capital
+  calls, and distributions. Nova currently supports $1.2B+ in
+  deposits, $100M+ in weekly transfers across six bank
+  integrations, and ~150k verified investors. These
+  transactions are among the highest-stakes moments in private
+  markets. Customers move real money and expect every detail
+  to be correct. Consistent accuracy is how Nova earns and
+  keeps the trust of GPs and LPs.
+
+  If you're a Senior Software Engineer who wants direct
+  product impact, Nova Product gives you the opportunity to
+  own high-stakes customer workflows end to end. The team
+  builds domain-specific workflows on top of our money-
+  movement and identity systems, including distributions,
+  capital calls, digital subscriptions, data rooms, and the
+  emerging LP wallet and investor portal. You'll take
+  difficult workflows from an ambiguous problem through launch
+  and operation. The team will rely on you to get the details
+  right because one incorrect number or failed payment can
+  erode customer trust.
+
+  What You'll Do
+
+  - Design, build, and ship complex workflows for distributions
+    and capital calls, subscriptions, data rooms, and the LP
+    wallet and portal. You'll own meaningful parts of this
+    work end to end.
+  - Take difficult problems from design through release and
+    operation. You'll handle the edge cases and the long tail,
+    not just the initial launch.
+  - Build for correctness, resilience, and strong UX where real
+    money and investor trust are at stake. Help catch
+    predictable failures before they reach customers.
+  - Model complex business domains and build maintainable
+    systems and abstractions that your teammates can extend.
+  - Improve the team's work through thoughtful code reviews and
+    design feedback, and mentor other engineers.
+  - Work with Product/Design and the Foundations teams to
+    integrate product features cleanly with their money-
+    movement and identity systems.
+
+  What We're Looking For
+
+  - 3+ years building backend or full-stack web applications,
+    including meaningful experience with complex, quality-
+    critical products where correctness matters to users.
+  - Senior-level impact. You've owned significant features or
+    systems from an ambiguous problem through launch and
+    operation, and your team relies on you to get difficult
+    work right in your area.
+  - A record of shipping sophisticated product surfaces and
+    improving their reliability and quality.
+  - Strong architecture and data-modeling skills. You can model
+    complex, evolving business domains and keep systems
+    maintainable as they grow.
+  - Fluency in a modern TypeScript stack, or clear evidence that
+    you'll ramp quickly. You're comfortable with a GraphQL
+    API, PostgreSQL, and workflow orchestration with Temporal.
+  - Comfort working in a startup environment. You can handle
+    ambiguity and maintain quality while keeping pace with a
+    lean team that ships quickly.
+
+  Nice to Have
+
+  How Success Will Be Measured
+
+  Working Here
+
+  If you don’t meet every requirement above, we still
+  encourage you to apply. We value complementary strengths and
+  operators who learn by doing.
+
+  AngelList has offices in a few cities, with our engineering
+  hub in San Francisco. We’re building our engineering and
+  product teams around this hub to make the most of in-person
+  collaboration. We have a hybrid in-office model: teammates
+  come in at least 2 days per week (Tuesdays and either
+  Wednesday or Thursday).
+
+  Compensation:  The compensation for this role consists of a
+  competitive base salary, benefits, and equity package. The
+  base salary for this role is $200,000+ annually but actual
+  will vary based on a number of factors including a
+  candidate’s professional background, experience, and
+  location. Additional details about our Total Rewards package
+  will be provided during the recruitment process.
+
+  Benefits: We support your life both in and outside of work.
+  Explore our benefits Learn about Funders & Founders
+
+  What Guides Us: At AngelList, we are united in our purpose
+  to accelerate innovation and build the future of private
+  markets. Our beliefs and values shape what we work on and
+  how we create impact. If the below resonate, we'd love to
+  have you with us. Our beliefs Our values & leadership
+  expectations
+
+  AngelList is an equal opportunity employer and we value
+  diversity at our company. We do not discriminate on the
+  basis of race, religion, color, national origin, gender,
+  sexual orientation, age, marital status, veteran status, or
+  disability status.
+posted_date: 2026-08-06
+url: "https://builtin.com/job/senior-product-engineer/8028177"
+source: Built In

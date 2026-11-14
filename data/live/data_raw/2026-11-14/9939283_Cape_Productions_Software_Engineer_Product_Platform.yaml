@@ -1,0 +1,194 @@
+job_id: 9939283
+title: Software Engineer, Product Platform
+company: Cape Productions
+location: New York, USA
+locations:
+  - New York, USA
+  - Arlington, USA
+work_type: FULL_TIME
+company_size: 92 Employees
+description: |
+  About Cape
+
+  Cape is America’s privacy-first mobile carrier. Our mission
+  is to be a force for good in global wireless. Cape was
+  founded in 2022 by people who believe privacy is a
+  fundamental right, not a luxury to be traded away. Our
+  journey began when our founder recognized a critical
+  vulnerability in our modern world: everyone relies on the
+  same stagnant cellular infrastructure and legacy systems
+  that track our every movement, monitor and profile our
+  connections, and lose and sell our personal data.
+
+  Instead of accepting the status quo, we decided to fix it.
+  National security professionals, journalists, parents, and
+  everyone in between can stay connected and have privacy.
+
+  We didn’t just build a layer on top of old tech; we built
+  America’s most private and secure mobile carrier from the
+  ground up. By building our own network from scratch, we are
+  able to design and build a suite of privacy and security
+  features that no other carrier on the planet can offer.
+
+  Today, Cape provides our secure network to consumers,
+  businesses, and government agencies alike. We closed our
+  Series C in March 2026, and we are scaling rapidly, with the
+  goal of giving people back control of their most personal
+  information.
+
+  The Team
+
+  At Cape, we are the architects of a privacy-centric movement
+  that is just getting started. We are relentless builders,
+  constantly innovating at the edge of what's possible in
+  telecommunications. We operate on a foundation of high trust
+  and high expectations. Our structure is flat, and
+  collaboration matters more than hierarchy. As a member of
+  our team, you will collaborate with world-class engineers,
+  architects, and visionaries, and work across organizational
+  lines to solve "impossible" problems and deliver mission-
+  critical results for our users every single day.
+
+  The Role
+
+  The Product Platform team owns the foundational services
+  that power Cape: Identity & Access, Subscriber Lifecycle,
+  Provisioning, Billing, Reporting, Spam Protection, and
+  Voicemail. You will work closely with Product, Mobile, and
+  SRE teams to enable new features, and you will own features
+  that span multiple foundational components end to end.
+
+  We’re hiring engineers who are passionate about solving
+  real-world problems, personal privacy, and empowering peers
+  to be autonomous. Our team needs experienced engineers who
+  have strong distributed systems backgrounds to help us re-
+  architect these systems as we scale into our next phase.
+  This includes re-organizing services for maintainability and
+  extensibility as we grow in features and people, and
+  adopting the right service infrastructure (workflow
+  orchestration, service tooling, CI/CD) and data
+  infrastructure (Postgres, Redis, streaming materialized
+  views, data lake). Your day-to-day will constantly change
+  and be filled with ambiguity, but everything you work on has
+  a high impact.
+
+  What You'll Work On
+
+  - Enable Scale: Build reliable, extensible systems that let us
+    grow in features, users, and engineers including re-
+    architecting existing services and migrating live flows
+    onto new systems safely.
+  - Own the Lifecycle: Take full ownership of features that span
+    multiple foundational components from problem discovery
+    through design, deployment, and operations.
+  - Raise the Bar: Make safe change the default - end-to-end
+    testing, continuous deployment, zero-downtime migrations,
+    and hold a high standard through design and code review.
+  - Collaborate: Work closely with Product, Mobile, SRE, and
+    Design to shape features and the infrastructure they run
+    on, bringing stakeholders along through clear written
+    proposals.
+  - Mentor: Grow the engineers around you through pairing,
+    review, and written designs, transferring ownership of
+    what you build.
+
+  What We Value
+
+  - Autonomy: A proven ability to learn continuously, work
+    independently, and make decisions with minimal
+    supervision.
+  - Partnership: Experience brainstorming and iterating
+    alongside product managers and designers.
+  - Pragmatism: The ability to move quickly while building for
+    the long term. You take a thoughtful, practical approach
+    to solving complex problems, considering tradeoffs and
+    avoiding over-engineering.
+  - Adaptability: Comfort working in a constantly evolving
+    environment with dynamic objectives and direct user
+    iteration.
+  - Communication: The ability to work collaboratively with both
+    technical and non-technical teammates, understanding how
+    technical decisions impact the end user.
+  - Mission-Driven: A deep-seated belief in the importance of
+    digital privacy and security. You understand that the code
+    we ship has real-world consequences and are driven to
+    build systems that protect and empower users.
+
+  Experience
+
+  - 7+ years of experience building and operating scalable
+    backend systems in one or more modern languages (we're
+    primarily a Go shop).
+  - A strong foundation in Computer Science - algorithms, data
+    structures, and distributed systems demonstrated through
+    the systems you've built.
+  - Hands-on distributed systems experience: you've designed and
+    operated services that communicate through queues and
+    async workflows, and you know idempotency, retries, and
+    schema migrations from production experience.
+  - Experience leading a significant re-architecture or
+    migration on a live system, end to end.
+  - Strong written and verbal communication skills - you work
+    through designs and decisions in writing and bring others
+    along.
+
+  Compensation
+
+  We offer competitive compensation that is geo-adjusted based
+  on your location, along with meaningful equity so you share
+  in the value you help create. Salary range for this role in
+  NYC is $175K- 225K depending on level, experience, and
+  interview performance.
+
+  Our benefits include:
+
+  - 401(k) match
+  - 100% coverage of medical, dental, and vision premiums for
+    you and your dependents
+  - 12 weeks paid parental leave (for all parents, no waiting
+    period)
+  - Stipends for
+    - Family-forming needs
+    - Gender-affirming care
+  - Unlimited PTO
+
+  Our Culture & Values
+
+  - We hire excellent people, give them outsized responsibility,
+    and trust them to execute. Every person at Cape has a
+    proven track record of tackling hard problems and winning.
+  - We believe that personal privacy and national security are
+    not at odds, and that they can be reconciled through
+    strong technology.
+  - We believe companies exist to build awesome things and take
+    care of the people who build them, so we offer top-tier
+    healthcare, 401(k) matching, and a generous vacation
+    policy that our team actually uses to recharge.
+  - We believe that a stronger company and a better product are
+    built by people from all walks of life. We hire without
+    regard to race, color, ancestry, religion, sex, national
+    origin, sexual orientation, gender identity, age, marital
+    status, disability, or Veteran status. If you are great at
+    what you do, you belong here.
+
+  How to apply
+
+  Click the link below to apply.
+
+  We reserve the right to make use of any unsolicited resumes
+  received from outside recruiting agencies and / or
+  individual recruiters without being responsible for payment
+  of any fees asserted from the use of unsolicited resumes.
+
+  We are an Equal Opportunity Employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, sexual orientation,
+  gender identity, or national origin, and without regard to
+  disability or status as a protected veteran, or any other
+  status protected by law.
+industries:
+  - Aerospace
+  - Software
+posted_date: 2026-08-16
+url: "https://builtin.com/job/software-engineer/9939283"
+source: Built In

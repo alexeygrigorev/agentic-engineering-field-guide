@@ -1,0 +1,210 @@
+job_id: 11248636
+title: Senior Backend Engineer, Managed Services
+company: Lightning AI
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Who We Are
+
+  Lightning AI is the company behind PyTorch Lightning.
+  Founded in 2019, we build an end-to-end platform for
+  developing, training, and deploying AI systems—designed to
+  take ideas from research to production with less friction.
+
+  Through our merger with Voltage Park, a neocloud and AI
+  Factory, Lightning AI combines developer-first software with
+  cost-efficient, large-scale compute. Teams get the tools
+  they need for experimentation, training, and production
+  inference, with security, observability, and control built
+  in.
+
+  We serve solo researchers, startups, and large enterprises.
+  Lightning AI operates globally with offices in New York
+  City, San Francisco, Seattle, and London, and is backed by
+  Coatue, Index Ventures, Bain Capital Ventures, and
+  Firstminute.
+
+  The Way We Work
+
+  The people who thrive here are builders who move fast,
+  communicate openly, take ownership, and continuously improve
+  themselves, their teams, and our company. Here's what that
+  looks like in practice:
+
+  - Move with Urgency: We move quickly, make thoughtful
+    decisions, and keep momentum. We value action over
+    perfection and learn by shipping.
+  - Take Ownership: We own outcomes, not just our individual
+    work. We make decisions that move the company forward and
+    follow through.
+  - Communicate Openly: We communicate directly, seek to
+    understand, and create clarity for others. Honest
+    conversations help us move faster together.
+  - Build Great Teams: We lead by example, empower others, and
+    create healthy teams where people can do their best work.
+  - Raise the Bar: We're always improving ourselves. We learn
+    from feedback, consistently challenge ourselves to grow,
+    and focus on the work that matters most.
+  - Think Long-Term: We design for what's next. We create
+    scalable systems, simplify complexity, and use AI and
+    automation to amplify our impact.
+
+
+
+  What We're Looking For
+
+  Lightning AI runs one of the largest AI-native clouds, with
+  25,000+ H100, B200, and GB300 GPUs powering organizations
+  building, training, and deploying AI at scale. To deliver
+  that experience, our Managed Services team builds the
+  systems that make complex GPU infrastructure simple,
+  reliable, and easy for customers to use without managing the
+  underlying infrastructure themselves.
+
+  As a Senior Backend Engineer on the Managed Services team,
+  you'll build the control planes, backend services, and
+  automation that provision, operate, and scale Kubernetes and
+  Slurm clusters across our GPU fleet. Your work will turn raw
+  GPU capacity into production-ready environments where
+  customers can seamlessly train models, run inference, and
+  deploy AI workloads.
+
+  This isn't a traditional SaaS backend role. You'll solve
+  challenging distributed systems and cloud infrastructure
+  problems, building the automation and platform capabilities
+  that keep large-scale Kubernetes and Slurm environments
+  scalable, observable, and resilient.
+
+  This role is based in one of our U.S. office hubs (San
+  Francisco, NYC, or Seattle, with SF and NYC preferred), with
+  a minimum of 2 in-office days per week and occasional team
+  and company offsites. We are not able to provide visa
+  sponsorship for this position at this time.
+
+  What You’ll Do
+
+  - Design, build, and operate backend services in Go or Python
+    that power Lightning AI's managed infrastructure platform.
+  - Develop control plane services that provision, orchestrate,
+    and manage Kubernetes and Slurm clusters across large-
+    scale GPU infrastructure.
+  - Build distributed systems that automate cluster lifecycle
+    management, workload scheduling, infrastructure
+    provisioning, and platform operations..
+  - Develop platform capabilities using Kubernetes APIs,
+    controllers, operators, and other cloud-native
+    technologies.
+  - Improve the reliability, scalability, security, and
+    observability of our managed platform through automation
+    and operational excellence.
+  - Diagnose and resolve complex production issues across
+    Kubernetes, distributed systems, networking, and cloud
+    infrastructure.
+  - Collaborate with infrastructure, AI, and platform
+    engineering teams to shape the future of our cloud
+    platform.
+  - Contribute to technical design, architecture, mentoring,
+    engineering best practices, and on-call operations.
+
+  What You’ll Need
+
+  Required Qualifications
+
+  - Significant professional experience designing, building, and
+    operating production backend systems using Go or Python.
+  - Deep hands-on experience with Kubernetes or Slurm, including
+    operating large-scale production environments.
+  - Strong understanding of distributed systems, cloud-native
+    architectures, and production infrastructure.
+  - Experience designing and building scalable backend services,
+    APIs, and automation for infrastructure or platform
+    operations.
+  - Strong understanding of networking, storage, and cloud
+    infrastructure fundamentals.
+  - Familiarity with observability, CI/CD, testing, production
+    operations, and incident response.
+  - Ability to own complex technical projects while
+    collaborating effectively across engineering teams.
+
+  Ideal Experience
+
+  Experience with one or more of the following:
+
+  - Kubernetes platform development, including operators,
+    controllers, CRDs, or control plane components
+  - Slurm administration, scheduling, or HPC environments
+  - Infrastructure-as-Code or GitOps tooling such as Terraform,
+    Crossplane, Helm, Argo CD, Flux, or Kustomize
+  - GPU infrastructure, AI platforms, or large-scale compute
+    environments
+  - Kubernetes networking, storage, or multi-tenant platform
+    architecture
+  - Event-driven systems, gRPC, or distributed messaging
+  - Building CI/CD systems for production environments
+  - Contributions to cloud-native or open source infrastructure
+    projects
+
+  Compensation
+
+  We are committed to offering competitive compensation that
+  reflects the value each team member brings to our mission.
+  Final offers are based on factors such as experience,
+  skills, geographic location, and role expectations. In
+  addition to base salary, our total rewards package for
+  eligible roles includes a discretionary bonus, a meaningful
+  equity component, and comprehensive benefits.
+
+  The anticipated annual base salary range for this role is:
+
+  $180,000—$250,000 USD
+
+  Benefits and Perks
+
+  We offer a comprehensive and competitive benefits package
+  designed to support our employees’ health, well-being, and
+  long-term success:
+
+  - Comprehensive Health Coverage: Medical, dental, and vision
+    coverage for employees and eligible dependents.
+  - Meaningful Equity: RSUs that give employees a stake in the
+    company's long-term success.
+  - Retirement Savings: 401(k) matching (U.S.) and pension
+    contributions (U.K.).
+  - Flexible Time Off: Unlimited PTO, company holidays, and
+    floating holidays to support work-life balance.
+  - Paid Parental & Family Leave: Paid leave to support you and
+    your family through life's important moments.
+  - Professional Development: Annual learning and development
+    allowance to support your professional growth.
+  - Wellness Benefits: Wellness and work-from-home stipends to
+    support your physical and mental well-being.
+  - Sabbatical Program: Four weeks of paid sabbatical leave
+    after four years of service.
+  - Flexible Work: Flexible schedules and a hybrid work model
+    for our office-based teams.
+  - In-Office Meals: Complimentary meals at our office hubs.
+
+  Benefits may vary by location, team, and role.
+
+  At Lightning AI, we are committed to fostering an inclusive
+  and diverse workplace. We believe that diverse teams drive
+  innovation and create better products. We provide equal
+  employment opportunities to all employees and applicants
+  without regard to race, color, religion, gender, sexual
+  orientation, gender identity, national origin, age,
+  disability, veteran status, or any other protected
+  characteristic. We are dedicated to building a culture where
+  everyone can thrive and contribute to their fullest
+  potential.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+posted_date: 2026-09-18
+url: "https://builtin.com/job/senior-backend-engineer-managed-services/11248636"
+source: Built In

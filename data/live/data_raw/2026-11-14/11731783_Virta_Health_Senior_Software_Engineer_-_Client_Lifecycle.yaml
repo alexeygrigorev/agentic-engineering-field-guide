@@ -1,0 +1,160 @@
+job_id: 11731783
+title: Senior Software Engineer - Client Lifecycle
+company: Virta Health
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 340 Employees
+description: |
+  Virta Health is on a mission to reverse metabolic disease in
+  one billion people. Current treatment approaches aren’t
+  working—over half of US adults have either type 2 diabetes
+  or prediabetes, and obesity rates are at an all-time high.
+  Virta is changing this by helping people reverse their
+  metabolic condition through innovations in technology,
+  personalized nutrition, and virtual care delivery reinvented
+  from the ground up. We have raised over $350 million from
+  top-tier investors, and partner with the largest health
+  plans, employers, and government organizations to help their
+  employees and members restore their health and take back
+  their lives. Join us on our mission to reverse metabolic
+  disease in one billion people.
+
+  As a Senior Software Engineer on ReCon (Revenue &
+  Contracts), you'll build the systems that turn care
+  delivered into revenue recognized. ReCon owns Virta's quote-
+  to-cash path end to end: how customer contracts and pricing
+  are configured, how clinical events become billable episodes
+  of care, how subscriptions and invoices are generated, how
+  claims reach payors, and how we prove all of it reconciles
+  across commercial, billing, and our clinical data. National
+  health plans, PBMs, and large employers depend on the data
+  we produce not just to pay us, but to bill their own clients
+  — so correctness here is a customer-facing product, not
+  back-office plumbing.
+
+  Responsibilities
+
+  - Lead projects end to end: take an ambiguous problem from a
+    finance, RCM, or client-facing stakeholder, shape it into
+    a design, drive it through review, and own it in
+    production.
+  - Build and extend the Go services behind Virta's quote-to-
+    cash path — contract and pricing configuration, billable
+    event generation, subscription and invoice management, and
+    claims submission.
+  - Make billing correctness provable. Expand the assertion and
+    reconciliation framework that catches discrepancies across
+    Salesforce, Zuora, and our clinical data before they ever
+    reach a customer invoice.
+  - Improve the reconciliation and billing data our health plan
+    and employer partners depend on — not just to pay us, but
+    to bill their own clients.
+  - Design self-service tools so finance, RCM, and client
+    operations can configure contracts, correct data, and run
+    bulk changes without an engineer in the loop.
+  - Apply AI where it earns its place.
+  - Raise the bar around you through design and code review, and
+    mentor engineers on the team.
+
+  90 Day Plan
+
+  Within your first 90 days at Virta, we expect you will do
+  the following:
+
+  - First 30 days: Production PR merged and deployed; can
+    whiteboard the money path unprompted; has independently
+    found at least one thing that's wrong.
+  - 60 days: A TDD survived architecture review; Stakeholders
+    start to recognize you and work on building a future-
+    looking feature/project with you.
+  - 90 days: Owns an ambiguous problem and proceeds towards
+    completion with a product mindset; another engineer’s
+    design got better because of your review.
+
+  Must-Haves
+
+  - 5+ years building and operating backend services in
+    production, in Go or another statically typed language
+  - Experience with event-driven architectures and the failure
+    modes that come with them — eventual consistency,
+    ordering, idempotency, and systems that disagree with each
+    other
+  - Strong SQL, and comfort working across both application code
+    and the analytics layer
+  - You've owned a system where correctness had consequences
+    outside the company — billing, payments, claims, ledgers,
+    or regulated reporting
+  - A track record of working directly with non-engineering
+    stakeholders: turning a finance or operations problem into
+    a design, and explaining the tradeoffs back
+  - Experience with a major cloud platform (we use GCP)
+  - Working with AI to accelerate development workflows and
+    enhance the SDLC
+  - Experience in frontend development with React and
+    Typescript.
+
+  Values-driven culture
+
+  Virta’s company values drive our culture, so you’ll do well
+  if:
+
+  - You put people first and take care of yourself, your peers,
+    and our patients equally
+  - You have a strong sense of ownership and take initiative
+    while empowering others to do the same
+  - You prioritize positive impact over busy work
+  - You have no ego and understand that everyone has something
+    to bring to the table regardless of experience
+  - You appreciate transparency and promote trust and
+    empowerment through open access of information
+  - You are evidence-based and prioritize data and science over
+    seniority or dogma
+  - You take risks and rapidly iterate
+
+  Is this role not quite what you're looking for? Join our
+  Talent Community and follow us on Linkedin to stay
+  connected!
+
+  Virta has a location based compensation structure. Starting
+  pay will be based on a number of factors and commensurate
+  with qualifications & experience. For this role, the
+  compensation range is 161,500 - 232,500. Information about
+  Virta’s benefits is on our Careers page at:
+  https://www.virtahealth.com/careers.
+
+  As part of your duties at Virta, you may come in contact
+  with sensitive patient information that is governed by
+  HIPAA. Throughout your career at Virta, you will be expected
+  to follow Virta's security and privacy procedures to ensure
+  our patients' information remains strictly confidential.
+  Security and privacy training will be provided.
+
+  As a remote-first company, our team is spread across various
+  locations with office hubs in Denver and San Francisco.
+
+  Clinical roles: We currently do not hire in the following
+  states: AK, HI, RI
+
+  Corporate roles: We currently do not hire in the following
+  states: AK, DE, HI, ME, MS, OK, SD, VT.
+
+  Virta uses Ashby as its applicant tracking system, which
+  incorporates AI-powered tools (provided by OpenAI, AWS, and
+  Google Gemini) in certain aspects of the recruiting process,
+  including application review, candidate screening, and
+  interview note taking; your data is not used to train AI
+  models, and all final hiring decisions are made by Virta
+  Health personnel. For more information, see Virta’s AI
+  Interview Resources page.
+  https://www.virtahealth.com/careers/ai-interview-resources
+industries:
+  - Healthtech
+  - Social Impact
+posted_date: 2026-10-16
+url: "https://builtin.com/job/senior-software-engineer-client-lifecycle/11731783"
+source: Built In

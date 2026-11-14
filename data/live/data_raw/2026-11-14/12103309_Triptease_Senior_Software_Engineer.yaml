@@ -1,0 +1,216 @@
+job_id: 12103309
+title: Senior Software Engineer
+company: Triptease
+location: ESP
+locations:
+  - ESP
+  - PRT
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 110 Employees
+description: |
+  About our company
+
+  Triptease. We are a disruptive force in the tech space for
+  online travel. Never one to shy from big challenges, we
+  built our reputation on empowering hotels to stand up to the
+  might of Online Travel Agents.
+
+  We are uniquely positioned to help hotels in their greatest
+  time of need. The world class data set we've been building,
+  combined with a new set of digital marketing tools, has
+  positioned us to accelerate our impact to hoteliers.
+
+  With offices in London, NYC, Barcelona and Singapore, we
+  drive over £1bn in revenue for hoteliers around the globe.
+  As we gear up for our next stage of growth, now is an ideal
+  time to join our fast-growing and well funded technology
+  business.
+
+  Inclusion is how we unleash the power of diversity. It is
+  how we build our teams, cultivate our leaders and ensure
+  Triptease is the right fit for every person. Come join us on
+  our journey and be comfortable bringing your authentic self
+  to work. Be you!
+
+  The Team
+
+  - You will be working in a small squad of between 2 and 6
+    people responsible for building, growing and maintaining
+    different parts of the Triptease stack.
+  - We have both frontend and backend components, with a lean
+    towards backend.
+  - All our teams are small, empowered and autonomous: we own
+    the strategy and actions we need to take to be successful.
+  - We embrace honest and open discussion. We truly value
+    collaboration and are invested in maintaining a team that
+    encourages everyone to contribute.
+  - We run daily standups, weekly planning and frequent retros
+    and feedback sessions.
+  - We embrace pair programming the vast majority of the time.
+  - We practise trunk-based development and continuous delivery.
+  - At the end of each week, we join the rest of the company to
+    showcase what we've accomplished and share our pride in
+    the work we have done with our colleagues.
+
+  The Tech Stack
+
+  TypeScript, Node.js, React, PostgreSQL, Redis, Mongo, Google
+  Cloud Run / Kubernetes, BigQuery, Pub/Sub. We build with
+  coding agents as part of everyday work. All squads use a
+  similar stack, which is great for building up expertise and
+  having other engineers to support you.
+
+  Requirements
+
+  We're looking for
+
+  - You build with coding agents in your day-to-day work and can
+    explain how: what you hand to the agent, what you keep,
+    and how you check the output.
+  - You verify by system, not trust. Tests come first, you
+    review by risk, and you catch output that looks right but
+    isn't. When something slips through, you fix the spec,
+    tests or rules so it's caught next time.
+  - You've led substantial pieces of work end to end, more than
+    once, and they were plainly yours.
+  - You lead technical decisions: you propose the approach, set
+    out the trade-offs and bring the team with you.
+  - You've shared a way of working with agents that your team
+    now uses, such as skills, guardrails or specs.
+  - You're collaborative, open-minded and comfortable pairing
+    all day.
+  - Experience building distributed, high availability, high
+    throughput systems that keep data consistent.
+  - You're proud of the code you ship and leave it better than
+    you found it, whoever wrote the first draft.
+  - Tests are integral to how you build, and you use them to
+    drive design.
+  - You're comfortable from client side to server side, with a
+    lean towards back end.
+  - You love shipping and seeing how it performs in production:
+    delivery pipelines, A/B testing and monitoring.
+  - You're customer-centric, work well with product managers,
+    and spot the product decisions an agent would otherwise
+    make by default.
+
+  Bonus points
+
+  - Public Git repos that show how you build with agents, such
+    as agent rules, skills, specs or the harness you work in.
+  - You've thought about building for agentic clients, such as
+    MCP servers and APIs.
+  - You have an entrepreneurial streak, with some great examples
+    of how you saw an opportunity and made it happen.
+  - You have experience in several programming languages and
+    value bringing ideas from other ecosystems into your
+    current environment.
+
+  Location: remote, based in the UK, Spain or Portugal.
+
+  Benefits
+
+  Why join us?
+
+  - Be part of a fast-paced, dynamic team at the forefront of
+    travel technology innovation.
+  - Enjoy a collaborative and fun working environment with
+    opportunities for personal and professional growth.
+  - Competitive salary package and rewards for high performance.
+
+  Our start-up culture means everybody's contribution matters
+  and is celebrated. We set ourselves ambitious goals and are
+  proud of our ability to deliver those through smart working.
+  We're growing: get on board fast, be part of the journey,
+  and have a real impact on an award-winning, fast-growing
+  company.
+
+  Benefits will vary depending on location
+
+  - Paid vacation days
+  - Working abroad for 4 weeks a year (within a +/- 3 hour time
+    zone)
+  - Enhanced maternity and paternity leave
+  - Monthly health and wellbeing allowance: use it for gym
+    membership, private healthcare, massages, therapy, cinema
+    and more
+  - Yearly learning allowance*
+  - Life Event leave (marriage, divorce, moving house, child's
+    first day at school, ceremony or graduation)
+  - Make a Difference (volunteering) day
+  - Plus much more!
+
+  *Subject to passing probation
+
+  We also offer:
+
+  - Quarterly review socials
+  - Hybrid or remote working
+  - Refer a Friend policy
+  - Flexibility with childcare
+  - Sabbaticals (from year three onwards)
+
+  We do not require external agency support for the
+  recruitment of this role. Thank you.
+
+  #LI-Remote
+
+  Our Operating Model and Culture
+
+  - In Product-Engineering, we hire people we trust, and then
+    trust them to make their own choices on how they want to
+    work and how they want to reach a goal. This sounds simple
+    but it requires a lot of investment in the right company
+    culture. Our team is made up of autonomous squads who
+    decide what they work on, how they work, and within them
+    have all the skills they need to complete their mission.
+    That means we have no centralised teams (Ops, QA etc).
+  - We think we are doing a good thing for hotels and guests and
+    believe in our mission. We are working on a highly scaled
+    platform that hotels use to build direct relationships
+    with their customers and cut out middlemen. Our software
+    operates on around 10k hotels and collects ~30M guest
+    events a day, and growing. That's a big opportunity to
+    positively impact a lot of people.
+  - We engage with our customers to validate assumptions and
+    test new features. We like to go deep on the problem.
+    'Start with the problem' is one of our three core
+    principles. Beyond tools like FullStory, Intercom and
+    Analytics that help us learn about users, each squad has
+    friends in CS and Sales, and even hoteliers themselves, to
+    help build that knowledge. Hotel visits and travel
+    research budgets are also a big plus.
+  - We care deeply about diversity and inclusion. Within Prod-
+    Eng we have a dedicated D&I squad who meet regularly to
+    propose actions to improve D&I within the team and the
+    wider business. Outside of hiring, we work hard to foster
+    psychological safety. We truly value collaboration and are
+    invested in maintaining a team that encourages everyone to
+    contribute.
+  - We optimise for learning. We regularly give each other
+    feedback and reflect on the ways we work. We use Notion to
+    bring efficient transparency and create a home for
+    everything we do. Initiatives like Discovery Days, Field
+    Trips and Coding Dojos bring new people together and
+    create more learning and development opportunities.
+  - We celebrate our progress. At the end of each week, we join
+    the rest of the company to showcase what we've
+    accomplished and share our pride in the work we have done
+    with our colleagues.
+
+  Triptease is proud to be an equal opportunity employer with
+  an active cross-functional diversity squad devoted to
+  addressing diversity challenges in the company and industry.
+  We welcome applications from diverse and non-traditional
+  backgrounds. Applicants will not be discriminated against on
+  the basis of any protected characteristic(s) in terms of the
+  Equality Act (2010).
+
+  #LI-Remote
+industries:
+  - Software
+  - Hospitality
+posted_date: 2026-11-06
+url: "https://builtin.com/job/senior-software-engineer/12103309"
+source: Built In

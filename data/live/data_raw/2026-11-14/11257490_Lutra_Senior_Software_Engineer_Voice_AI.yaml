@@ -1,0 +1,233 @@
+job_id: 11257490
+title: Senior Software Engineer, Voice AI
+company: Lutra
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  Your opportunity
+
+  Our client is a small, talent-dense AI product team building
+  conversational, agentic systems for emergency response. The
+  team began as a seed-stage startup focused specifically on
+  public-safety communications and was acquired in 2026 by a
+  global public-safety technology company, where it now
+  operates as a specialized division within its broader AI
+  organization.
+
+  Their initial wedge is deceptively simple: public-safety
+  answering points are chronically understaffed, yet highly
+  trained 911 telecommunicators spend meaningful amounts of
+  time handling calls that are not emergencies. The platform
+  uses voice AI to autonomously handle designated non-
+  emergency interactions, gather information, answer
+  questions, route callers and escalate appropriately,
+  allowing human operators to concentrate on situations where
+  their judgment matters most.
+
+  The startup proved that use case independently. The
+  acquisition gives the team something much harder for an
+  early-stage company to manufacture: distribution into
+  established emergency-response infrastructure and the
+  opportunity to integrate its technology across a much
+  broader suite of command-centre products. The group is now a
+  strategically important part of a larger effort to introduce
+  useful, human-centred AI throughout emergency response (from
+  the initial call through dispatch and field operations).
+
+  The engineering environment has retained much of its startup
+  character. The team remains relatively small, engineers have
+  substantial ownership, and the company is growing the group
+  materially following the acquisition. This role sits in a
+  division focused on the systems that make the voice agent
+  itself work rather than primarily building downstream
+  customer integrations.
+
+  The team actively prototypes with emerging technologies
+  (voice-to-voice models) and new inference architectures, but
+  a compelling demo is not sufficient reason to rebuild a
+  mission-critical system. Public-safety customers need
+  reliability, auditability and the ability to understand why
+  a system behaved the way it did. Today, the platform
+  deliberately separates speech-to-text, reasoning and text-
+  to-speech into modular components, allowing individual
+  providers to be changed or failed over independently rather
+  than making the entire product dependent on a single
+  inference provider.
+
+  That means some of the most interesting engineering work
+  lives in the space between the models: orchestrating real-
+  time conversations, managing latency and interruption,
+  integrating deterministic software with probabilistic
+  systems, designing graceful failover, tracing model
+  behaviour and maintaining a product that still works when an
+  upstream AI provider does not.
+
+  As a Senior Software Engineer, you’ll help set technical
+  direction for this platform and own difficult problems
+  across real-time AI pipelines, backend systems, telephony
+  and production infrastructure. You’ll also join a team that
+  encourages engineers to use AI agents in their development
+  workflows wherein humans remain accountable for quality,
+  judgment and the software operating in production.
+
+  Key responsibilities
+
+  - Voice AI platform engineering: Design, build and operate the
+    real-time systems that power conversational AI experiences
+  - Software architecture: Set technical direction across
+    complex backend and distributed systems, making considered
+    trade-offs across latency, reliability, maintainability,
+    security and performance
+  - Real-time systems: Solve difficult problems involving
+    streaming audio, concurrency, interruption handling,
+    asynchronous workflows and low-latency communication
+  - Agentic AI: Build and evolve production systems that combine
+    LLMs, deterministic software, tool calling and human-in-
+    the-loop/HITL workflows
+  - Reliability & resilience: Design systems that tolerate
+    failures across external inference providers,
+    infrastructure and network dependencies without turning
+    every upstream outage into a customer outage
+  - Evals & observability: Improve the testing, evaluation,
+    tracing and monitoring systems used to understand both
+    conventional software behaviour and the less deterministic
+    behaviour of AI components
+  - Infrastructure & operations: Contribute across cloud
+    architecture, deployment, observability, incident
+    response, performance optimization and the operational
+    practices required for mission-critical software
+  - AI-augmented engineering: Deploy contemporary coding agents
+    and AI development tools to increase development velocity
+    while maintaining a high bar for testing, review,
+    maintainability and human judgment
+  - Technical leadership & mentoring: Guide architecture and
+    design decisions, conduct thoughtful reviews and help less
+    experienced engineers develop stronger technical judgment
+  - Cross-functional problem solving: Work closely with product,
+    operations and engineering leadership to translate messy
+    customer and operational requirements into durable
+    technical systems
+  - Technical credibility: Participate in conversations with
+    customers, partners and stakeholders when a problem
+    requires someone who understands the underlying systems
+    deeply
+
+  Technical ecosystem
+
+  The platform combines conventional distributed software,
+  real-time communications infrastructure and a modular voice-
+  AI pipeline. The technologies below represent the broader
+  system engineers are building within rather than a checklist
+  of tools every engineer is expected to use day to day.
+
+  - Voice & AI inference: Deepgram (speech-to-text), OpenAI
+    (LLMs), ElevenLabs (text-to-speech)
+  - Real-time AI orchestration: LiveKit
+  - Application & systems engineering: Elixir, Go, Python, Rust
+  - Real-time communications: WebRTC, WebSockets, RTP/SRTP,
+    media streaming and low-latency audio transport
+  - Telephony & voice infrastructure: PSTN, SIP trunking, PBX
+    systems, call routing
+  - Database: PostgreSQL
+  - Cloud & deployment: Azure, with AWS/GCP experience also
+    relevant; containerized application environments
+  - Observability & AI tracing: Datadog, Langfuse
+  - Incident management: incident.io
+
+  The stack is intentionally modular. Individual speech,
+  inference and voice providers can be substituted or failed
+  over independently, and the team expects its technology
+  choices to continue evolving as the underlying capabilities
+  improve. They’re well aware of the frontier capabilities
+  (such as GPT-Live) and are constantly evaluating them
+  against their use case.
+
+  Your know-how
+
+  - You have 7+ years of production software engineering
+    experience and a track record of taking ownership beyond
+    the boundaries of individual tickets or features
+  - You have designed, shipped and operated complex backend,
+    distributed or real-time systems where reliability and
+    performance genuinely matter
+  - You have experience integrating LLMs, agentic systems or
+    other AI capabilities into production software (and
+    understand the gap between making an AI feature work in a
+    prototype and making it trustworthy in production)
+  - You can reason comfortably about concurrency, asynchronous
+    systems, latency, failure modes and the behaviour of
+    systems composed of multiple external dependencies
+  - You have strong software engineering fundamentals and care
+    about tests, observability, clean abstractions, security
+    and maintainability even when development velocity is high
+  - You use AI development tools in your own work and understand
+    how to delegate aggressively to agents without delegating
+    engineering judgment
+  - You can move between architecture and implementation detail,
+    contributing directly to difficult code while also helping
+    the broader team make better technical decisions
+  - You are comfortable working with ambiguous product and
+    operational problems where the technical requirements need
+    to be discovered rather than simply implemented
+  - You communicate effectively with other engineers, product
+    and operational stakeholders and have a talent for
+    explaining the behaviour of complicated systems
+  - You mentor effectively and raise the quality of the
+    engineers and systems around you
+  - You are motivated by building AI systems whose value extends
+    meaningfully beyond a demo or novelty use case
+
+  It’s a bonus if
+
+  - You have built or operated production voice-AI systems
+    (particularly using LiveKit, Pipecat or an equivalent
+    real-time communications framework)
+  - You have experience with speech-to-text/STT, text-to-
+    speech/TTS, voice-activity detection, endpointing,
+    interruption handling, diarization, noise filtering or
+    real-time audio streaming
+  - You have experience with telephony infrastructure including
+    PSTN, SIP trunking, PBX systems or call routing
+  - You have worked with WebRTC, WebSockets, RTP/SRTP or other
+    real-time media and communication protocols under
+    production load
+  - You have designed highly concurrent or fault-tolerant
+    services using Elixir, Erlang, Go, Rust or another
+    language well suited to those problems
+  - You have implemented evaluation frameworks, prompt test
+    harnesses or production observability for LLM or agentic
+    systems
+  - You have designed systems that gracefully fail over between
+    multiple infrastructure or AI providers
+  - You have worked in public safety, healthcare, defence,
+    financial infrastructure or another domain where
+    reliability, security, auditability and human judgment
+    carry unusually high stakes
+
+  Interested in learning more?
+
+  Please upload your resume or a PDF export of your LinkedIn
+  profile to talent@lutrapartners.com with “Senior Software
+  Engineer, Voice AI” as the subject line. One of our partners
+  will be in contact shortly.
+
+  Compensation
+
+  The base pay range for this role in Canada is CA$130,000 –
+  CA$220,000 per year.
+
+  The base pay range for this role in the United States is
+  $110,000 – $200,000 per year.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Professional Services
+  - Software
+posted_date: 2026-09-18
+url: "https://builtin.com/job/senior-software-engineer-voice-ai/11257490"
+source: Built In

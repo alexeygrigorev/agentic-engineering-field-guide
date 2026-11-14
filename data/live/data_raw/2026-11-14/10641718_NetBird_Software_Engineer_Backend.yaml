@@ -1,0 +1,90 @@
+job_id: 10641718
+title: Software Engineer (Backend)
+company: NetBird
+location: Berlin, DEU
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  As a Senior Software Engineer Backend at NetBird, you will
+  play a key role in building and scaling the backend of our
+  open source, peer-to-peer networking platform. You'll work
+  on high-throughput distributed systems that power secure
+  connectivity for users and organizations around the world.
+
+  This role sits at the core of our engineering team. You'll
+  collaborate closely with other engineers to design robust
+  backend services, optimize data systems, and shape the
+  reliability and scalability of NetBird's platform.
+
+  What you will do
+
+  - Design, build, and scale high-throughput backend services
+    and APIs in Go that power NetBird's globally distributed
+    networking platform.
+  - Own data modeling and database performance optimization —
+    design schemas, optimize queries, and ensure our systems
+    scale under load.
+  - Implement observability best practices (metrics, logs,
+    tracing) and contribute to incident response and
+    postmortems.
+  - Take end-to-end ownership of features: from design and
+    implementation to deployment, monitoring, and iteration.
+  - Collaborate with networking and platform engineers on
+    routing, connectivity, and overall system performance.
+  - Engage with the open source community — debug user-reported
+    issues, participate in GitHub discussions, and care about
+    the quality of your work.
+
+  What we are looking for
+
+  - 5+ years of professional experience building backend systems
+    in Go or similar systems languages.
+  - Proven experience building and operating high-scale
+    distributed systems (e.g. high-throughput APIs, real-time
+    platforms, or infrastructure tools).
+  - Strong in data modeling and database performance
+    optimization: schema design, indexing, query tuning,
+    scaling databases under load.
+  - Solid understanding of networking concepts (IP, routing,
+    auth protocols like OAuth2/OIDC).
+  - End-to-end ownership mindset: design, implement, deploy,
+    monitor, iterate.
+  - Thrives in high-autonomy, fast-paced environments.
+    Comfortable working independently and proactively solving
+    problems.
+  - Experience in startup or scale-up environments where speed,
+    ownership, and collaboration are key.
+
+  Nice-to-Haves
+
+  - Experience with WireGuard, VPNs, or peer-to-peer networking
+    technologies (STUN, TURN, ICE, NAT traversal).
+  - Background in security-focused systems or networking
+    products.
+  - Experience with gRPC and REST-based APIs.
+  - Familiarity with cloud infrastructure and Kubernetes.
+  - Open source contributions, especially in Go or
+    networking/infrastructure projects.
+
+  What we offer
+
+  - Comprehensive compensation package including a competitive
+    salary and equity incentives.
+  - Exceptional growth opportunity as a part of a rapidly
+    growing company at the forefront of the Zero Trust
+    security revolution.
+  - Meaningful ownership & space to build an extraordinary
+    product.
+  - Intense and energizing atmosphere in our Berlin office (4
+    days office / 1 day flexible).
+  - An outstanding team that has the ambition and drive to build
+    an excellent product and company.
+industries:
+  - Information Technology
+  - Security
+  - Software
+  - Cybersecurity
+posted_date: 2026-08-12
+url: "https://builtin.com/job/software-engineer-backend/10641718"
+source: Built In

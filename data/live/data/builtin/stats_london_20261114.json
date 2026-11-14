@@ -1,0 +1,56 @@
+[
+  {
+    "city": "london",
+    "search_role": "Frontend",
+    "site_max_page": 4,
+    "pages_fetched": 4,
+    "raw_cards": 95,
+    "raw_unique_ids": 94,
+    "kept_after_dedup": 91
+  },
+  {
+    "city": "london",
+    "search_role": "Backend",
+    "site_max_page": 10,
+    "pages_fetched": 10,
+    "raw_cards": 226,
+    "raw_unique_ids": 226,
+    "kept_after_dedup": 210
+  },
+  {
+    "city": "london",
+    "search_role": "Full Stack",
+    "site_max_page": 10,
+    "pages_fetched": 10,
+    "raw_cards": 240,
+    "raw_unique_ids": 240,
+    "kept_after_dedup": 214
+  },
+  {
+    "city": "london",
+    "search_role": "Engineering Manager",
+    "site_max_page": 10,
+    "pages_fetched": 10,
+    "raw_cards": 226,
+    "raw_unique_ids": 226,
+    "kept_after_dedup": 208
+  },
+  {
+    "city": "london",
+    "search_role": "Software Engineer",
+    "site_max_page": 43,
+    "pages_fetched": 43,
+    "raw_cards": 1066,
+    "raw_unique_ids": 1066,
+    "kept_after_dedup": 879
+  },
+  {
+    "city": "london",
+    "search_role": "Software Developer",
+    "site_max_page": 43,
+    "pages_fetched": 43,
+    "raw_cards": 1065,
+    "raw_unique_ids": 1063,
+    "kept_after_dedup": 0
+  }
+]

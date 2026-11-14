@@ -1,0 +1,209 @@
+job_id: 11386732
+title: Principal Software Engineer - LLM Optimization
+company: JPMorganChase
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - Palo Alto, USA
+  - Jersey City, USA
+work_type: FULL_TIME
+company_size: 289,097 Employees
+description: |
+  At JPMorganChase, we are building the infrastructure that
+  powers the next generation of enterprise AI — and we need
+  the best minds in LLM inference to help us do it. This is
+  your opportunity to work at the intersection of cutting-edge
+  machine learning and large-scale production systems,
+  directly influencing how one of the world's largest
+  financial institutions deploys and optimizes AI at scale.
+
+  As a Principal Software Engineer at JPMorganChase within the
+  AI/ML Data Platform team, you will serve as the firm's
+  deepest technical voice on LLM inference performance —
+  owning optimization strategy, benchmarking rigor, and
+  efficiency at scale. You will work directly with senior
+  engineering leadership to shape how our platform evolves,
+  ensuring every model we serve is fast, cost-efficient, and
+  production-ready. This is a high-visibility individual
+  contributor role where your technical decisions will have
+  direct, measurable impact on the firm's AI capabilities
+
+
+
+  Job Responsibilities
+
+
+
+  - Own systematic benchmarking and performance characterization
+    across all production LLM workloads. Establish
+    reproducible baselines, catch regressions early, and
+    quantify the impact of every configuration change before
+    it touches production
+  - Design and execute quantization experiments — FP8, INT8/INT4
+    (GPTQ/AWQ), next-generation precision formats on current
+    hardware — measuring accuracy delta, throughput
+    improvement, memory reduction, and cost-per-token impact
+  - Drive speculative decoding strategy across the model
+    portfolio: draft model, n-gram, and multi-token prediction
+    approaches. Own acceptance rate measurement and per-
+    workload configuration recommendations
+  - Build and maintain a GPU efficiency scorecard: utilization,
+    memory headroom, cost per 1K tokens, and waste identified
+    — giving leadership a data-driven view of platform
+    efficiency at all times
+  - Benchmark our platform against external providers and
+    published industry numbers — know what good looks like,
+    and close the gap
+  - Lead inference engine upgrade evaluations: new scheduler
+    architectures, async tensor parallelism, disaggregated
+    prefill/decode, advanced speculative decoding — systematic
+    validation before production promotion
+  - Collaborate with the EKS and disaggregated serving teams on
+    KV-cache optimization, prefix caching strategies, and
+    multi-node serving architecture
+  - Design and run GPU chaos engineering: induced failure
+    scenarios, hardware diagnostic monitoring, detection and
+    recovery measurement
+  - Architect and govern agentic AI-enabled engineering
+    workflows (using enterprise-authorized tools within the
+    work environment) to improve delivery speed, code quality,
+    and operational outcomes at scale (e.g., AI-driven PR
+    review assistance, test generation/maintenance, release
+    readiness checks, incident triage and root-cause
+    acceleration), while defining guardrails for validation,
+    security, resiliency, and reuse across teams.
+  - Apply knowledge of tools within the Software Development
+    Life Cycle toolchain, including enterprise-authorized AI-
+    assisted development and automation capabilities, to
+    improve the value realized by automation at scale.
+
+
+
+  Required qualifications, capabilities, and skills
+
+
+
+  - Formal training or certification on software engineering
+    concepts and 7+ years applied experience
+  - Deep, hands-on experience with LLM inference systems — vLLM,
+    TensorRT-LLM, SGLang, LLM-D or equivalent production
+    serving engines
+  - Strong grasp of GPU memory architecture: KV cache sizing and
+    dynamics, memory-bandwidth vs compute bottlenecks, the
+    practical implications of quantization at inference time
+  - Experience with quantization techniques and their real-world
+    tradeoffs at scale
+  - Familiarity with speculative decoding and the variables that
+    drive acceptance rates in production workloads
+  - Rigorous benchmarking instincts — GuideLLM, custom
+    harnesses, or equivalent. Every claim has a number behind
+    it
+  - Comfort operating in cloud GPU infrastructure at scale (AWS;
+    EKS, managed inference services)
+  - Demonstrated awareness of the LLM inference competitive
+    landscape, with a track record of applying industry
+    benchmarks to drive platform improvements communicate
+    technical trade-offs clearly to senior engineering and
+    business stakeholders — this role presents upward
+    regularly
+  - Demonstrated experience designing and leading adoption of
+    agentic AI-enabled development practices (using
+    enterprise-authorized tools within the work environment)
+    across teams, including setting standards for human-in-
+    the-loop validation, auditability/traceability of changes,
+    and secure handling of sensitive data.
+  - Strong understanding of responsible AI use and control
+    expectations in engineering workflows, including
+    security/resiliency implications, data sensitivity, and
+    risk-based governance; ability to influence senior
+    technical leaders on safe scaling patterns and reuse.
+
+
+
+   Preferred qualifications, capabilities, and skills
+
+
+
+  - Experience with disaggregated prefill/decode serving
+    architectures, GPU hardware diagnostics (DCGM/NVML/XID
+    event tracking), ML observability and production
+    monitoring
+
+
+
+  FEDERAL DEPOSIT INSURANCE ACT: This position is subject to
+  Section 19 of the Federal Deposit Insurance Act. As such, an
+  employment offer for this position is contingent on
+  JPMorganChase’s review of criminal conviction history,
+  including pretrial diversions or program entries.
+
+  About Us
+
+
+
+    JPMorganChase, one of the oldest financial institutions,
+  offers innovative financial solutions to millions of
+  consumers, small businesses and many of the world’s most
+  prominent corporate, institutional and government clients
+  under the J.P. Morgan and Chase brands. Our history spans
+  over 200 years and today we are a leader in investment
+  banking, consumer and small business banking, commercial
+  banking, financial transaction processing and asset
+  management.
+
+
+
+
+  We offer a competitive total rewards package including base
+  salary determined based on the role, experience, skill set
+  and location. Those in eligible roles may receive
+  commission-based pay and/or discretionary incentive
+  compensation, paid in the form of cash and/or forfeitable
+  equity, awarded in recognition of individual achievements
+  and contributions. We also offer a range of benefits and
+  programs to meet employee needs, based on eligibility. These
+  benefits include comprehensive health care coverage, on-site
+  health and wellness centers, a retirement savings plan,
+  backup childcare, tuition reimbursement, mental health
+  support, financial coaching and more. Additional details
+  about total compensation and benefits will be provided
+  during the hiring process.
+
+
+
+
+
+  We recognize that our people are our strength and the
+  diverse talents they bring to our global workforce are
+  directly linked to our success. We are an equal opportunity
+  employer and place a high value on diversity and inclusion
+  at our company. We do not discriminate on the basis of any
+  protected attribute, including race, religion, color,
+  national origin, gender, sexual orientation, gender
+  identity, gender expression, age, marital or veteran status,
+  pregnancy or disability, or any other basis protected under
+  applicable law. We also make reasonable accommodations for
+  applicants’ and employees’ religious practices and beliefs,
+  as well as mental health or physical disability needs. Visit
+  our FAQs for more information about requesting an
+  accommodation.
+
+
+
+  JPMorgan Chase & Co. is an Equal Opportunity Employer,
+  including Disability/Veterans
+
+
+
+
+
+  About the TeamOur professionals in our Corporate Functions
+  cover a diverse range of areas from finance and risk to
+  human resources and marketing. Our corporate teams are an
+  essential part of our company, ensuring that we’re setting
+  our businesses, clients, customers and employees up for
+  success.
+posted_date: 2026-09-28
+url: "https://builtin.com/job/principal-software-engineer-llm-optimization/11386732"
+source: Built In

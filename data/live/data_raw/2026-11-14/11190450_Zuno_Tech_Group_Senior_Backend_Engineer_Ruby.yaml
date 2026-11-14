@@ -1,0 +1,146 @@
+job_id: 11190450
+title: Senior Backend Engineer (Ruby)
+company: Zuno Tech Group
+location: London, GBR
+work_type: FULL_TIME
+company_size: 280 Employees
+description: |
+  Senior Backend Engineer (Ruby)
+
+  London | Hybrid
+
+  Who are Zuno? Zuno is a global technology platform
+  transforming how home energy installations happen. We
+  provide the tech backbone for partners like BOXT and E.ON
+  Next, connecting leading energy brands with a network of
+  skilled engineers. From boilers and solar panels to EV
+  chargers and battery, our platform makes installing products
+  in your home simpler than ever.
+
+  As the energy industry evolves, Zuno is at the heart of it,
+  combining technology, people and innovation to transform how
+  we power our homes. We’re backed by Brookfield and growing
+  fast as more UK homes move to cleaner energy. There’s a lot
+  still to build. The role
+
+  As a Senior Backend Engineer, you will be acting as a
+  technical anchor within the team, defining the architectural
+  direction of our server-side logic and ensuring the
+  scalability of our data models. You will partner with
+  Product Managers to shape the roadmap and ensure technical
+  feasibility from the outset. In this role, you will be
+  responsible for designing and optimising high-performance
+  APIs and complex business logic using Ruby on Rails. While
+  your focus is backend, you will work closely with frontend
+  engineers to define API contracts and ensure seamless
+  integration with our Next.js frontend.  You'll also
+  contribute to keeping the quality of the code top-notch by
+  reviewing your teammates' code and mentoring junior
+  engineers.
+
+  Key responsibilities
+
+  - Core Backend Architecture: Design, build, and maintain
+    robust, scalable, and secure backend features using Ruby
+    on Rails, ensuring business logic is encapsulated and
+    efficient
+  - API Strategy: Architect and document performant RESTful
+    APIs, acting as the bridge between server-side logic and
+    the React/Next.js frontend teams
+  - Technical Leadership: Lead technical discussions on system
+    design, database schema planning, and the decoupling of
+    monolithic services where necessary
+  - Performance & Scalability: Proactively identify and resolve
+    performance bottlenecks, focusing on SQL query
+    optimisation, caching strategies (Redis), and background
+    job management (Sidekiq/Solid Queue)
+  - High-Quality Engineering: Write clean, maintainable, and
+    efficient code that adheres to best practices (including
+    Test-Driven Development and Continuous Delivery)
+  - Feature Ownership: Take ownership of complex backend
+    features from concept to deployment; assisting the Product
+    Team in scoping requirements and managing technical debt
+  - Driving Engineering Culture: Act as a catalyst for technical
+    excellence by evolving our backend engineering standards
+    (OOAD, SOLID principles) and internal processes. You will
+    proactively identify and resolve bottlenecks, whether in
+    code, deployment, or communication, advocating for the
+    changes needed to make the backend team faster, safer, and
+    more efficient.
+  - Mentorship: Actively mentor junior and mid-level engineers,
+    fostering a culture of continuous learning and technical
+    excellence
+  - System Reliability: Debug and resolve complex issues in
+    production, ensuring high availability and data integrity
+    for our installer and customer platforms
+  - Continuous Improvement: Stay up-to-date with the Ruby on
+    Rails ecosystem and emerging backend technologies,
+    bringing fresh ideas to the team to improve our
+    infrastructure
+
+  Skills
+
+  - 5+ years of professional experience in backend development
+  - Deep expertise in Ruby and the Ruby on Rails framework,
+    including a strong understanding of metaprogramming and
+    the Rails internal architecture
+  - Proven ability to design complex, normalised database
+    schemas and write performant SQL (PostgreSQL focus), with
+    a keen eye for avoiding and resolving N+1 queries and lock
+    contention
+  - A firm grasp of Object-Oriented Analysis and Design (OOAD),
+    design patterns, and software engineering best practices
+  - Experience designing and maintaining versioned, documented
+    RESTful APIs
+  - Experience writing comprehensive automated tests using
+    RSpec, including integration and request specs
+  - Experience working within Agile development methodologies
+  - Proficiency with version control systems, particularly Git,
+    and modern workflows (Pull Requests, Code Reviews)
+  - Strong problem-solving skills, with a focus on writing
+    simple, clean, and efficient code
+  - Natural tendency to identify internal pain points and the
+    initiative to propose and implement technical or
+    procedural improvements
+  - Excellent communication skills, with the ability to explain
+    complex backend concepts to frontend developers and non-
+    technical stakeholders
+
+  Beneficial skills/interests but not essential
+
+  - Advanced DevOps experience (Infrastructure as Code, AWS,
+    Kubernetes, Docker)
+  - Experience with React and Next.js (ability to read frontend
+    code to understand how it consumes your APIs)
+  - Experience with TypeScript
+  - Knowledge of Site Reliability Engineering (SRE) practices
+    and monitoring tools (New Relic)
+  - Experience scaling applications using background processing
+    tools (Sidekiq)
+
+  Benefits
+
+  - 30 days annual leave + bank holidays!
+  - Private medical cover with Aviva*
+  - 4 x salary Death in Service cover with Zurich*
+  - Paid 6 months maternity pay after a year of service
+  - Paid paternity pay after a year of service
+  - £1000 annual training budget*
+  - Salary sacrifice pension matched up to 6%
+  - Flexible working times and location
+  - Company MacBook Pro & accessories
+  - Team lunches, team events
+
+  *After probationary period
+
+  Please note: We’re unable to offer visa sponsorship for this
+  role, so candidates must already have the right to work in
+  the UK.
+industries:
+  - Information Technology
+  - Logistics
+  - Software
+  - Energy
+posted_date: 2026-09-15
+url: "https://builtin.com/job/senior-backend-engineer-ruby/11190450"
+source: Built In

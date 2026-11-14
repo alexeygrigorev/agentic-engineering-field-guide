@@ -1,0 +1,131 @@
+job_id: 12022396
+title: Software Engineer, Federal
+company: Factory
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 125 Employees
+description: |
+  About Factory
+
+  Our mission is to create a world where software builds and
+  improves itself. We build the platform for self-improving
+  software development, helping the world's largest enterprise
+  engineering teams turn their organizations into autonomous
+  software factories. Customers including Nvidia, Blackstone,
+  Royal Bank of Canada (RBC), Palo Alto Networks, Adobe, and
+  T-Mobile run Factory to ship code, review PRs, run tests,
+  and deploy continuously - getting smarter with every cycle.
+  In 2026, we raised $200M at a $5B valuation, bringing our
+  total funding to over $400M. We are backed by world-class
+  investors and operators including Khosla Ventures, Sequoia,
+  Blackstone, Ali Ghodsi (CEO of Databricks), and Frank
+  Slootman (Former CEO of Snowflake).
+
+  About the Role
+
+  Factory is looking for innovative Software Engineers to join
+  our founding Federal team. You will build and evolve
+  cutting-edge AI systems that transform how government
+  software organizations accelerate their productivity and
+  innovation. You will work directly with the Department of
+  War, the Intelligence Community, and federal civilian
+  agencies to bring Factory to secure, classified, and air-
+  gapped environments, helping the nation's most critical
+  software teams operate as autonomous software factories.
+
+  What you will do and achieve
+
+  - Innovate at the forefront of AI by designing, developing,
+    and deploying AI-driven agentic systems that enhance
+    Factory's core AI capabilities for federal missions
+  - Deploy and harden the Factory Platform in secure government
+    environments, including GovCloud, on-premises, classified,
+    and fully air-gapped networks, so it runs with limited or
+    no internet connectivity and with self-hosted or
+    government-approved models
+  - Build security and compliance into everything you ship,
+    partnering with Security and Infrastructure to achieve and
+    maintain authorizations such as FedRAMP High and DoD
+    Impact Levels (IL5/IL6), including access controls, audit
+    logging, and continuous monitoring
+  - Build multi-layered guardrails, observability, and
+    explainability into our agents so government users can
+    trust, audit, and understand how an agent reached its
+    output
+  - Engage directly with federal customers, on-site when needed,
+    to understand their missions and workflows, define
+    requirements with stakeholders, and own delivery from
+    first prototype to accepted production deployment
+  - Integrate Factory with the tools government engineering
+    teams already rely on, including on-premises source
+    control, CI/CD pipelines, ticketing systems, and DoD
+    software factories
+  - Work with product, engineering, and Federal go-to-market
+    teams to integrate emerging AI research findings into
+    practical, mission-focused solutions
+  - Engage in iterative development processes, rapidly
+    prototyping and refining AI functionalities based on real-
+    world feedback to meet the evolving needs of government
+    developers and program offices
+  - Take the initiative in identifying and addressing product
+    stability and scalability challenges, ensuring the Factory
+    Platform reliably supports large-scale operational demands
+    in high-consequence and resource-constrained environments
+  - Lead the exploration and integration of large-scale data
+    processing techniques to improve the reliability and
+    effectiveness of our AI systems
+  - Serve as the voice of the federal customer, bringing field
+    insights back into Factory's core platform so that
+    capabilities built for one mission become reusable across
+    the public sector
+  - Help build our Federal team from the ground up, partnering
+    with leadership on technical proposals, capture strategy,
+    and the product roadmap for our public sector business
+
+  Qualifications
+
+  - 2+ years of hands-on experience in software engineering
+    roles post-acquisition of a Bachelor's or Master's degree
+    in Computer Science, Engineering, AI, or a related
+    technical field.
+  - Demonstrated proficiency with LLMs and a track record of
+    applying AI/ML techniques to solve complex, unstructured
+    problems, ideally within the domain of software
+    engineering or related areas.
+  - Self-motivated and autonomous, with a proven ability to
+    navigate ambiguous projects from conception to impactful
+    deployment, ideally as part of a founding team, a new
+    initiative, or a forward-deployed engineering group.
+  - Strong communication skills that enable you to articulate
+    technical concepts and strategies clearly at all levels,
+    including to non-technical government stakeholders,
+    coupled with a strategic mindset oriented towards
+    innovation.
+  - Comfort working directly with customers, including time on-
+    site at customer locations.
+  - A passion for public sector work and a belief in the
+    potential of government institutions to deliver better
+    outcomes through technology.
+  - Experience deploying software in regulated or secure
+    environments (e.g., AWS GovCloud, Azure Government,
+    FedRAMP, DoD Impact Levels, or classified and air-gapped
+    networks) is highly desirable, though not mandatory.
+  - Familiarity with government work and its complexities,
+    including procurement, compliance, and the accreditation
+    (ATO) process, is a plus.
+  - Experience with data-intensive applications and familiarity
+    with the software development lifecycle are highly
+    desirable, though not mandatory.
+
+  Location:
+
+  We offer location flexibility for this role, with a
+  preference for candidates based in our San Francisco, CA
+  (HQ) or Washington, D.C. (remote).
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-11-03
+url: "https://builtin.com/job/software-engineer-federal/12022396"
+source: Built In

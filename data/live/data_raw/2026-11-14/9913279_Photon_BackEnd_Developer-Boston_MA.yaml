@@ -1,0 +1,100 @@
+job_id: 9913279
+title: BackEnd Developer-Boston, MA
+company: Photon
+location: USA
+locations:
+  - USA
+  - Dallas, USA
+remote: true
+work_type: FULL_TIME
+company_size: 5,017 Employees
+description: |
+  We are looking for a versatile Backend Developer to join our
+  engineering team. In this role, you will be responsible for
+  the end-to-end lifecycle of feature development, from
+  initial design and API integration to automated testing and
+  cloud deployment. You will work across a modern stack,
+  leveraging Java-based microservices and serverless functions
+  to build scalable, high-availability systems.
+
+
+
+  Key Responsibilities
+
+
+
+  - Feature Development: Lead the design and implementation of
+    new functional modules using Java and Spring Boot,
+    ensuring high performance and responsiveness to requests
+    from the front-end.
+  - Full-Stack Integration: Collaborate on the integration of
+    user-facing elements developed in Vue.js with server-side
+    logic, maintaining a seamless flow of data across the
+    stack.
+  - Unit Testing & Quality: Write comprehensive, automated unit
+    tests (using JUnit/Mockito) for every feature to ensure
+    code reliability, maintainability, and a high level of
+    test coverage.
+  - Cloud-Native Deployment: Manage and deploy containerized
+    applications within AWS EKS (Elastic Kubernetes Service)
+    and develop serverless logic using AWS Lambda.
+  - CI/CD Pipeline Management: Maintain and optimize CI/CD
+    pipelines to automate builds, testing, and deployment
+    processes, ensuring a robust and rapid release cycle.
+  - API Design: Develop and maintain secure, scalable RESTful
+    APIs that serve as the backbone for various internal and
+    external service integrations.
+
+
+
+  Required Technical Skills
+
+
+
+  - Backend: Strong proficiency in Java and the Spring Boot
+    framework (Web, Security, Data).
+  - Frontend Integration: Practical experience with JavaScript,
+    specifically the Vue.js framework, for full-stack
+    coordination.
+  - Cloud Infrastructure: Hands-on experience with AWS,
+    including EKS for orchestration and Lambda for serverless
+    computing.
+  - DevOps: Solid understanding of CI/CD concepts and tools
+    (e.g., Jenkins, GitLab CI, or GitHub Actions).
+  - Testing: Expertise in writing unit tests and familiarity
+    with Test-Driven Development (TDD) practices.
+  - Version Control: Expert knowledge of Git for branching,
+    merging, and pull request workflows.
+
+
+
+  Preferred Qualifications
+
+
+
+  - Experience with SQL/NoSQL databases (e.g., PostgreSQL,
+    DynamoDB).
+  - Understanding of containerization principles using Docker.
+  - Knowledge of monitoring and logging tools within an EKS
+    environment.
+  - Excellent problem-solving skills and the ability to work in
+    an agile, fast-paced environment.
+
+
+
+  Minimum Compensation: USD 39,000 Maximum Compensation: USD
+  137,000 Compensation is based on actual experience and
+  qualifications of the candidate. The above is a reasonable
+  and a good faith estimate for the role. Medical, vision, and
+  dental benefits, 401k retirement plan, variable
+  pay/incentives, paid time off, and paid holidays are
+  available for full time employees. This position is not
+  available for independent contractors No applications will
+  be considered if received more than 120 days after the date
+  of this post
+industries:
+  - Agency
+  - Information Technology
+posted_date: 2026-08-16
+url: "https://builtin.com/job/backend-developer-boston-ma/9913279"
+source: Built In

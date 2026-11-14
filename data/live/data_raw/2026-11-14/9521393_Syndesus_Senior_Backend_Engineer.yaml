@@ -1,0 +1,205 @@
+job_id: 9521393
+title: Senior Backend Engineer
+company: Syndesus
+location: New York, USA
+work_type: FULL_TIME
+company_size: 63 Employees
+description: |
+  About Our Client
+
+  Our client is an applied AI and data analytics company
+  building the intelligence layer for enterprise decision-
+  making. Their platform unifies an organization’s full data
+  landscape — internal systems, social media signals, industry
+  reports, and consumer behavior data — into a single coherent
+  intelligence layer that surfaces insights and automates
+  workflows that previously took analysts weeks to complete.
+
+  The core thesis: research and data today are stuck in an
+  outdated state — very little of it is connected, and
+  enormous value is lost in that dark data. Our client is
+  turning sentiment from a lagging indicator into a leading
+  one, allowing brands to make decisions months earlier than
+  legacy research tools allow. The platform is being built
+  toward a consumer ontology (comparable in spirit to
+  Palantir’s ontology, but for consumer intelligence), powered
+  by a production graph RAG system that connects signals
+  across temporal and sentiment data at a scale that hasn’t
+  been attempted before.
+
+  The platform is driving 8-figure gross-margin improvements
+  for Fortune 500 retailers. The go-to-market is a classic
+  land-and-expand: starting in insights and research, then
+  expanding into innovation, marketing, and eventually supply
+  chain and manufacturing.
+
+  Founded by a technical team with deep backgrounds in
+  innovation and graph databases. $14M raised in seed funding.
+  The company is launching publicly after nearly two years in
+  stealth. Zero attrition to date — no one has left. The
+  culture is strong: weekly team activities (ping pong
+  tournaments, Yankees games, happy hours, game nights), with
+  plus-ones welcome at events.
+
+  This is a ground-floor opportunity — engineers joining at
+  this stage will have outsized influence on architecture,
+  product direction, and culture.
+
+  About the Role
+
+  This is our client’s highest-priority hire. A staff backend
+  engineer is currently working across large portions of the
+  platform, and the goal is to add additional senior backend
+  capacity. The focus is on two things:
+
+  1. Architecture and scale — ensuring the platform can
+  sustain significantly higher usage as enterprise onboarding
+  ramps up.
+
+  2. Building innovative new features on the roadmap with
+  architecturally sound decisions that hold up for years, not
+  just months.
+
+  In practice, this means working across the graph database
+  layer, API infrastructure, data pipelines with concurrency
+  at scale, and net-new feature development. This is a DRI
+  (Directly Responsible Individual) role — a hands-on senior
+  IC who can own systems end-to-end.
+
+  The sweet spot: someone senior enough to think about
+  architecture at a high level, but who still has boundless
+  energy and excitement for actual implementation. Not someone
+  who has moved past hands-on work.
+
+  Key Responsibilities
+
+  ⦁ Design, build, and scale backend services in Go and Python
+  that power autonomous intelligence for enterprise clients.
+
+  ⦁ Architect data ingestion and processing pipelines that
+  handle millions of data points across internal and external
+  sources.
+
+  ⦁ Build and maintain APIs that power the agentic AI
+  platform, supporting real-time decision-making at enterprise
+  scale.
+
+  ⦁ Work on the graph database layer and production graph RAG
+  system — a core technical differentiator.
+
+  ⦁ Partner with ML/AI engineers to integrate predictive and
+  prescriptive models into production workflows.
+
+  ⦁ Own system reliability — design for fault tolerance,
+  observability, and performance under high-throughput
+  conditions.
+
+  ⦁ Contribute to architectural decisions that shape the long-
+  term trajectory of the platform.
+
+  ⦁ Mentor engineers and help establish backend engineering
+  best practices as the team scales.
+
+  Requirements
+
+  ⦁ 5+ years of professional backend engineering experience,
+  with meaningful time spent building systems at scale.
+
+  ⦁ Strong Python proficiency is required — with the
+  confidence that picking up Go would be a non-issue (Go
+  experience is a plus but not required).
+
+  ⦁ Experience with distributed systems and microservices
+  architecture.
+
+  ⦁ Experience with both SQL and NoSQL databases; comfortable
+  handling data processing at scale.
+
+  ⦁ Startup or small-team experience strongly preferred —
+  candidates who have operated with real ownership and built
+  new systems, rather than only maintained existing ones.
+
+  Bonus Skills
+
+  ⦁ Experience with graph databases (major plus — core to our
+  client’s stack).
+
+  ⦁ Experience with Go.
+
+  ⦁ Familiarity with RAG architectures and the broader GenAI
+  landscape.
+
+  ⦁ Experience with real-time data processing, streaming
+  technologies, and concurrency at scale.
+
+  ⦁ Understanding of ML/AI concepts, particularly in
+  forecasting and NLP.
+
+  ⦁ Kubernetes and container orchestration experience.
+
+  Logistics
+
+  Location
+
+  New York City — 4 days/week in office, with engineering
+  typically taking Fridays flexible/remote. Additional case-
+  by-case flexibility is available; it’s an in-person culture
+  with understanding, not a strict 5-day rule.
+
+  Compensation
+
+  $160,000 – $240,000 base + equity (~25% of salary per year,
+  vesting) + bonus.
+
+  Openings
+
+  Up to 2 — likely 1 senior plus 1 mid-to-senior. Strong
+  candidates who are not fully senior may be considered at a
+  slightly lower level or routed to a full-stack role.
+
+  Benefits / Other
+
+  ⦁ Health, dental, vision, and 401(k).
+
+  ⦁ Home office stipend and flexible PTO.
+
+  ⦁ Ground-floor equity at a well-funded seed-stage company.
+
+  ⦁ Strong team culture: weekly activities, team events, and
+  zero attrition to date.
+
+  Interview Process
+
+  1. Recruiter screen.
+
+  2. Intro call with the team (culture and background fit).
+
+  3. Technical screen (45–60 min) with a senior engineer —
+  architecturally focused, probing into background. Not a pure
+  coding interview, but designed to evaluate whether the
+  candidate can speak credibly to items on their resume and
+  reason architecturally. (The team is considering adding more
+  hands-on coding probes to this stage based on recent
+  candidate quality.)
+
+  4. On-site (4 hours) — Coding interview, system design
+  interview, product sense (30 min), AI sense (30 min), and a
+  meeting with the co-founder and another leader. Note:
+  decisions are often made after the first two on-site
+  interviews (~1 hour), as many candidates have not made it
+  through the full day.
+
+  5. Offer.
+
+  Compensation
+
+  The base pay range for this role is $160,000 – $240,000 per
+  year.
+industries:
+  - Artificial Intelligence
+  - HR Tech
+  - Information Technology
+  - Professional Services
+posted_date: 2026-08-12
+url: "https://builtin.com/job/senior-backend-engineer/9521393"
+source: Built In

@@ -1,0 +1,108 @@
+job_id: 10454846
+title: "Software Engineer - Workflow Authoring & Deployment"
+company: Humanoid
+location: London, GBR
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  Here at Humanoid, we believe in a future where robots
+  amplify human potential. That’s why we’ve set out on a
+  mission to build the world’s most capable, commercially-
+  scalable, and safe humanoid robots. We’re bringing that
+  mission to life with HMND‑01 - our rapidly developed
+  humanoid platform being deployed in real industrial
+  environments - and we’re growing the team to take it even
+  further.
+
+  About the role:
+
+  We are looking for a Software Engineer to work on the
+  systems that let operators author, deploy, and manage robot
+  workflows at scale. This sits at the intersection of backend
+  infrastructure and product - you'll build the services that
+  coordinate fleets of robots, the tooling that lets operators
+  express what they want robots to do, and the interfaces that
+  give visibility into what's actually happening on the floor.
+
+  This is a full-stack role with a strong backend lean. You'll
+  work closely with the robotics, AI, and product teams to
+  build systems that are real-time, multi-tenant, and mission-
+  critical.
+
+  What You’ll Do
+
+  - Build and maintain backend services that coordinate robot
+    fleets at runtime: workflow state management, event
+    logging, and the APIs that robots, operators, and third-
+    party systems use to interact with the platform
+  - Develop and evolve the workflow authoring experience -
+    tooling that lets operators define, deploy, and
+    incrementally refine robot workflows in natural language,
+    without needing to understand the underlying
+    representation
+  - Build on-robot services that enable remote control, workflow
+    execution, state reporting, and diagnostics
+  - Own the data infrastructure that tracks workflow execution:
+    event logs, conformance metrics, and the audit trails that
+    let operators understand what robots are doing and why
+  - Build and maintain reliable, secure cloud infrastructure for
+    running these services, including deployment pipelines,
+    observability, and alerting
+  - Implement testing and validation pipelines to catch
+    regressions across the UI, backend, and on-robot services
+    - including simulation-based workflow validation before
+    changes hit production
+
+  What We’re Looking For
+
+  - Strong backend engineering skills in Python, Go, or similar
+  - Solid understanding of API design, data modelling, and the
+    tradeoffs in distributed systems (consistency,
+    concurrency, fault tolerance)
+  - Experience with cloud infrastructure and deployment:
+    containerisation, CI/CD, infrastructure-as-code
+  - Comfort working across the stack from frontend to backend
+  - Experience with observability and alerting in systems where
+    failures have real operational consequences
+  - Good instincts for where complexity should live and how to
+    keep systems debuggable and understandable as they grow
+
+  Nice To Have
+
+  - Familiarity with workflow engines, state machines, or
+    coordination systems — ideally in a multi-agent or fleet
+    context
+  - Experience building operator-facing tooling: dashboards,
+    authoring UIs, or systems that translate human intent into
+    structured actions
+  - Exposure to LLM-based agentic systems, particularly using AI
+    to generate or modify structured representations from
+    natural language
+  - Experience integrating with third-party enterprise systems
+    (WMS, ERP, or similar)
+  - Background in robotics or real-time systems where execution
+    state and side-effects need to be managed carefully
+
+  What We Offer
+
+  - Competitive equity: stock options with meaningful upside as
+    we scale.
+  - 30+ paid days off, including 23 days of annual leave, all UK
+    bank holidays, and additional company closure days
+    (including Christmas–New Year shutdown).
+  - Private healthcare, including virtual and in-person care.
+  - Pension scheme with 8% total contribution (5% employee, 3%
+    employer) on full earnings.
+  - Free daily breakfast, catered lunch, and snacks in-office.
+  - Work at the frontier - collaborate daily with world-class
+    engineers, researchers, and product experts building the
+    next generation of AI and humanoid robotics.
+  - Real ownership - direct access to founding leadership,
+    meaningful input on product direction, and the ability to
+    drive key initiatives from day one.
+industries:
+  - Artificial Intelligence
+  - Robotics
+posted_date: 2026-08-25
+url: "https://builtin.com/job/software-engineer-workflow-authoring-deployment/10454846"
+source: Built In

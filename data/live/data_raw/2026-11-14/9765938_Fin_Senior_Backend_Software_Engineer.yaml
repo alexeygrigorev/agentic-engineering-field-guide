@@ -1,0 +1,97 @@
+job_id: 9765938
+title: Senior Backend Software Engineer
+company: Fin
+location: New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,400 Employees
+description: |
+  About Fin
+
+  Fin is a next-generation payments platform built for high-
+  value, global, and instant transactions. We are a Series
+  A-stage company backed by Sequoia, Circle, and other notable
+  investors. Powered by stablecoins, Fin enables users and
+  businesses to move millions of dollars in seconds - whether
+  to other Fin users, directly into bank accounts, or across
+  crypto rails. By combining the speed of crypto with the
+  reliability and trust of traditional finance, Fin reimagines
+  how money moves worldwide. If banks and payment products
+  were reinvented today, they would look like Fin.
+
+  About the role
+
+  We are looking for a Senior Backend Engineer to own the core
+  systems that make this work. You will design and build the
+  services that move real money, integrate with payment
+  partners and banks, and ensure the platform is secure,
+  observable, and ready to scale to millions of transactions.
+
+  You will work closely with the CEO, CTO, and a small senior
+  team, making foundational architectural decisions and
+  shipping production systems quickly. This role is a fit if
+  you enjoy wresting simplicity out of complex problems and
+  care deeply about reliability and correctness in financial
+  systems. We value your time: our process focuses on
+  practical system design and architectural discussions, not
+  LeetCode grinding or unpaid take-home assignments.
+
+  What you will do
+
+  - Design, build, and maintain core backend services that power
+    global payments and account experiences.
+  - Own key systems end to end, from data models and APIs to
+    deployment and ongoing operations.
+  - Integrate with payment processors, on and off ramps, banks,
+    and compliance and identity providers.
+  - Monitor, tune, and scale backend services while maintaining
+    high availability and strong performance.
+  - Define and champion backend engineering best practices,
+    coding standards, and architectural patterns.
+  - Build internal tools and automation that improve developer
+    productivity and system reliability.
+  - Set and guide technical direction for backend architecture
+    with a clear view of business impact and scalability.
+  - Review code, share knowledge, and help raise the bar for the
+    rest of the engineering team.
+  - Own our cloud infrastructure setup and deployment workflows
+    in partnership with the rest of the team.
+
+  What you need to be successful
+
+  - Deep experience with TypeScript and Node.js. We are mostly a
+    TS shop with some pockets of Rust.
+  - Strong experience designing and building scalable
+    distributed backend systems.
+  - Track record of owning critical backend infrastructure and
+    making impactful architectural decisions.
+  - Deep familiarity with cloud infrastructure,
+    containerization, and infrastructure as code.
+  - Experience building highly available systems with robust
+    monitoring, logging, and alerting.
+  - History of creating clean, well documented APIs and
+    integrating complex external systems.
+  - Ability to collaborate in a small, fast moving team while
+    mentoring others.
+  - Clear communication skills and comfort working with both
+    technical and non technical partners.
+
+  Bonus points
+
+  - Experience at early stage startups where you owned large
+    parts of the backend.
+  - Hands on experience with our stack or similar: Node.js and
+    Typescript, AWS, Terraform, Kubernetes, Temporal
+    (https://temporal.io) .
+  - Background leading technical strategy for a growing product
+    or platform.
+  - Experience in payments, fintech, or cryptocurrency,
+    especially working with stablecoins or settlement systems.
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+  - Cryptocurrency
+posted_date: 2026-08-06
+url: "https://builtin.com/job/senior-backend-software-engineer/9765938"
+source: Built In

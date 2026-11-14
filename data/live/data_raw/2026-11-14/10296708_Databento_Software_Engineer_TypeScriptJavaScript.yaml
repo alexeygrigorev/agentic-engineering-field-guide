@@ -1,0 +1,115 @@
+job_id: 10296708
+title: Software Engineer (TypeScript/JavaScript)
+company: Databento
+location: New York, USA
+locations:
+  - New York, USA
+  - Boston, USA
+  - Salt Lake City, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  The financial industry is growing at a record pace, but our
+  data providers are still stuck in the past — with cumbersome
+  onboarding processes, complicated APIs, slow infrastructure,
+  and expensive licensing costs.
+
+  Databento is the market data platform for modern finance.
+  The company provides real-time and historical data across
+  futures, options, and equities through a unified API. By
+  owning the entire market data stack end-to-end, Databento is
+  the first platform of its kind to combine the performance
+  and reliability demanded by the world's leading trading
+  firms with a dramatically simpler developer experience. Our
+  team includes alumni of Two Sigma, Citadel Securities, Flow
+  Traders, IMC, Tower Research, Jump Trading, HRT, Jane
+  Street, and SIG.
+
+  We're looking for a midlevel or senior IC to join our
+  Platform/API engineering team. You'll be responsible for
+  building, maintaining, and promoting our JavaScript client
+  library, working closely with our design team to bring
+  production-ready interfaces to life. This role is primarily
+  focused on TypeScript/JavaScript, with some full-
+  stack/Python work as well.
+
+  Responsibilities
+
+  - Own, build, and maintain our JavaScript client library,
+    ensuring it is robust, well-tested, and easy for external
+    users to integrate with.
+  - Integrate native libraries into JavaScript/TypeScript code
+    using tools like N-API, node-addon-api, or Wasm.
+  - Build responsive, performant front-end applications using
+    React, Redux, Vite, Web Workers, and WebSockets.
+  - Contribute to full-stack projects, including backend work in
+    Python (or Rust), REST API design, and database/migration
+    work.
+  - Work between design and engineering teams to translate
+    designs (e.g. Figma handoffs) into production-ready
+    components and design systems.
+  - Set up and maintain CI/CD pipelines, including publishing to
+    npm.
+  - Document components using Storybook or similar tooling.
+  - Collaborate cross-functionally to ensure smooth feature
+    rollouts and updates.
+
+  Preferred background
+
+  - Experience working between high-performing design and
+    engineering teams, including production-ready design
+    systems and tools (e.g. Figma handoffs).
+  - Proficiency with React, Redux, Vite, Web Workers, and
+    WebSockets.
+  - Background in trading, market data, or quantitative finance.
+  - Hands-on backend experience building APIs, working with
+    databases, and migrations.
+  - Full-stack experience with backends in Python or Rust,
+    including REST API design.
+  - Familiarity with Storybook or similar component
+    documentation tooling.
+  - Good communication skills and work ethic for a remote
+    workplace.
+
+  We offer health, dental, disability, and life insurance
+  benefits, as well as 401(k) matching for full-time
+  employees. We accommodate 100% remote work, with teammates
+  living around the globe and paid in their local currency.
+
+  The base salary range for this role is $130,000–$215,000,
+  benchmarked to Tier 1 locations in each country. Total
+  compensation may also include bonuses, commissions, and
+  equity, depending on the role.
+
+  Notice about phishing scams
+
+  Be cautious of phishing scams impersonating Databento that
+  offer fake job interviews and request purchases. Official
+  emails come only from @databento.com or us.greenhouse-
+  mail.io (our ATS). Any other domains (e.g., databento-
+  careers.com, databento.online) are fraudulent.
+
+  --
+
+  Databento, Inc. provides equal employment opportunities to
+  all employees and applicants regardless of race, color,
+  religion, sex, national origin, age, disability, sexual
+  orientation, gender identity or expression, veteran status,
+  or genetics. We comply with federal, state, and local
+  nondiscrimination laws in every location where we operate.
+  This policy applies to all terms and conditions of
+  employment, including recruiting, hiring, promotion,
+  termination, layoff, recall, transfer, leave, compensation,
+  and training. Pursuant to applicable laws, we consider
+  qualified applicants with arrest or conviction records. If
+  you need an accommodation, please let us know.
+
+  Our recruiting data suggests that underrepresented
+  applicants often downplay their skills. Even if your
+  experience doesn’t exactly match the qualifications listed,
+  we still want to hear from you. Please apply!
+posted_date: 2026-08-16
+url: "https://builtin.com/job/software-engineer-typescript-javascript/10296708"
+source: Built In

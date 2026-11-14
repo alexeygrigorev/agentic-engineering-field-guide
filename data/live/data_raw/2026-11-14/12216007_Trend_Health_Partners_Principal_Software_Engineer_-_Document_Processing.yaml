@@ -1,0 +1,139 @@
+job_id: 12216007
+title: Principal Software Engineer - Document Processing
+company: Trend Health Partners
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 208 Employees
+description: |
+  TREND Health Partners is a tech-enabled payment integrity
+  company. Our mission is to facilitate collaboration between
+  payers and providers for mutual benefit and waste reduction,
+  ultimately improving access to healthcare. We achieve this
+  by aligning the common goals of payers and providers and
+  fostering collaboration through a shared technology platform
+  and seamless workflows.
+
+  Joining TREND Health Partners means becoming part of a
+  dynamic, growing organization that promotes a collaborative
+  and innovative work environment. Our comprehensive
+  compensation package includes competitive salaries, highly
+  valued health insurance, a 401(k) plan with employer match,
+  paid parental leave, and more.
+
+
+
+  The Principal Software Engineer will lead the development of
+  innovative, scalable software solutions that support complex
+  document review workflows for healthcare payers and
+  providers. This role requires a deep understanding of modern
+  web application architecture and cloud-native backend
+  systems. The engineer will collaborate closely with
+  architects, product, QA, and cloud teams to drive system-
+  wide design decisions, optimize platform performance, and
+  deliver new capabilities to our customers.
+
+
+
+  The ideal candidate will possess strong technical
+  leadership, a hands-on approach to coding, and the ability
+  to mentor other engineers while ensuring alignment with
+  architectural standards and business goals.
+
+  Role and Responsibilities
+
+  Qualifications
+
+  - Documented professional software engineering experience,
+    with a track record of shipping and operating production
+    systems — we're looking at what you've built and owned,
+    not just tenure.
+  - A habit of taking ownership of the problem space, driving
+    the solution, and standing behind your decisions. We don't
+    do blame here — when something goes wrong, we own it,
+    learn, and move forward.
+  - Strong Go experience, particularly for backend/service work.
+  - Hands-on experience with document processing at scale — you
+    understand PDF structure and edge cases well enough to
+    reason about performance, reliability, and failure modes
+    across variable real-world input.
+  - Experience designing and implementing metrics and
+    observability for production systems — deciding what
+    should be measured and building it, not just consuming
+    dashboards someone else built.
+  - Comfort with AWS serverless patterns: Lambda, Step
+    Functions, ECS, and event-driven architecture generally.
+  - Solid database fundamentals — schema design, query
+    optimization, troubleshooting performance issues.
+  - A track record of driving something from an ambiguous
+    starting point to a finished product.
+  - Ability to work independently and make sound calls without a
+    lot of oversight.
+  - Strong communication — you'll need to explain tradeoffs to
+    engineers and non-engineers alike.
+  - Experience mentoring engineers day to day — not just leaving
+    comments in code review, but actively growing the people
+    around you.
+  - Comfort handling sensitive data (PHI) responsibly and in
+    line with HIPAA requirements.
+
+  Preferred Skills
+
+  - Proficiency in C++ — not required, but a plus given some of
+    our high-performance pipeline segments are written in it.
+  - Interest or experience in Rust — not currently in use, but
+    on the table for future performance-critical pipeline
+    work.
+  - Hands-on OpenSearch (or Lucene-based search) experience.
+    This space doesn't have a dedicated owner today — if it's
+    a strength of yours, there's a real opportunity to take
+    charge of it.
+  - Experience with document-centric pipelines (OCR,
+    classification, extraction, or similar).
+  - Healthcare or payment-integrity industry background.
+  - Comfort using agentic coding tools as part of a modern dev
+    workflow.A Note on CultureWe're a laid-back team — plenty
+    of memes, self-managed accountability, low ceremony. We
+    care more about whether the work is good and the pipeline
+    is reliable than about how you got there. We're Mac-shop,
+    and we lean on modern tooling (including AI-assisted
+    coding) without letting it replace engineering judgment.
+
+  Mental and Physical Demands
+
+  - This position will be exposed mainly to an indoor office
+    environment and will be expected to work in or around
+    computers and printers.
+  - The nature of the work is sedentary, and the employee will
+    be sitting most of the time.
+  - Essential physical functions of the job include typing and
+    the repetitive motion to utilize computer software and
+    hardware continuously throughout the day.
+  - Essential mental functions of this position include
+    concentrating on analytical tasks, reading information,
+    and verbal/written communication to others continuously
+    throughout the day.
+
+  Related Duties As Assigned
+
+  - This job description documents the general nature and level
+    of work but is not intended to be a comprehensive list of
+    activities, duties, or responsibilities required for this
+    position.  Consequently, employee’s may be asked to
+    perform other duties as required.
+  - Employees may also be asked to complete certain compliance
+    requirements set forth by our Business Partners in the
+    performance of their jobs including but not limited to
+    requests for background and drug screenings and
+    disclosures of personal health information or personally
+    identifiable information. Exemptions as provided under the
+    ADA and TITLE VII of the Civil Rights Act will be observed
+    and followed.
+  - Reasonable accommodations may be made to enable individuals
+    with disabilities to perform the functions outlined above.
+industries:
+  - Healthtech
+  - Financial Services
+posted_date: 2026-11-13
+url: "https://builtin.com/job/principal-software-engineer-document-processing/12216007"
+source: Built In

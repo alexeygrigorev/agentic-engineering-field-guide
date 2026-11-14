@@ -1,0 +1,154 @@
+job_id: 7991151
+title: Senior Backend Engineer, Product and Infra
+company: Udio (udio.com)
+location: New York, USA
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  About the Role
+
+  We're looking for a Senior Backend Engineer to build the
+  systems and services that power our product experience.
+  You'll own the backend infrastructure that makes our content
+  discoverable, our features responsive, and our platform
+  reliable at scale.
+
+  Your work will directly shape what users experience:
+  designing APIs that serve rich content, building services
+  that handle real-time interactions, implementing content-
+  matching systems for rights and safety, and ensuring our
+  platform performs under load. You'll architect systems that
+  are fast, correct, and maintainable.
+
+  You'll collaborate closely with Product, ML Research, and
+  Mobile/Web teams to ship features that matter. We use
+  Python, Go, BigQuery, Pub/Sub, and a microservices
+  architecture—but we care more about good judgment than
+  specific tool experience.
+
+
+
+  What You’ll Do
+
+  - Design and maintain application-level data models that
+    organize rich content into canonical structures optimized
+    for product features, search, and retrieval.
+  - Build high-reliability ETLs and streaming pipelines to
+    process usage events, analytics data, behavioral signals,
+    and application logs.
+  - Develop data services that expose unified content to the
+    application, such as metadata access APIs, indexing
+    workflows, and retrieval-ready representations.
+  - Implement and refine fingerprinting pipelines used for
+    deduplication, rights attribution, safety checks, and
+    provenance validation.
+  - Own data consistency between ingestion systems, application
+    surfaces, metadata storage, and downstream reporting
+    environments.
+  - Define and track key operational metrics, including latency,
+    completeness, accuracy, and event health.
+  - Collaborate with Product teams to ensure content structures
+    and APIs support evolving features and high-quality user
+    experiences.
+  - Partner with Analytics and Research teams to deliver clean
+    usage datasets for experimentation, model evaluation,
+    reporting, and internal insights.
+  - Operate large analytical workloads in BigQuery and build
+    reusable Dataflow/Beam components for structured
+    processing.
+  - Improve reliability and scale by designing robust schema
+    evolution strategies, idempotent pipelines, and well-
+    instrumented operational flows.
+
+  What We’re Looking For
+
+  - Experience building production backend services and APIs at
+    scale
+  - Experience building ETL/ELT pipelines, event processing
+    systems, and structured data models for applications or
+    analytics.
+  - Strong background in data modeling, metadata systems,
+    indexing, or building canonical representations for
+    heterogeneous content.
+  - Proficiency in Python, Go, SQL, and scalable data-processing
+    frameworks (Dataflow/Beam, Spark, or similar).
+  - Familiarity with BigQuery or other analytical data
+    warehouses and strong comfort optimizing large queries and
+    schemas.
+  - Experience with event-driven architectures, Pub/Sub, or
+    Kafka-like systems.
+  - Strong understanding of data quality, schema evolution,
+    lineage, and operational reliability.
+  - Ability to design pipelines that balance cost, latency,
+    correctness, and scale.
+  - Clear communication skills and an ability to collaborate
+    closely with Product, Research, and Analytics
+    stakeholders.
+
+  Nice to Have
+
+  - Experience building application-facing APIs or microservices
+    that expose structured content.
+  - Background in information retrieval, indexing systems, or
+    search infrastructure.
+  - Experience with fingerprinting, perceptual hashing, audio
+    similarity metrics, or content-matching algorithms.
+  - Familiarity with ML workflows and how downstream analytics
+    and usage data feed back into research pipelines.
+  - Understanding of batch + streaming architectures and how to
+    blend them effectively.
+  - Experience with Go, Next.js, or React Native for occasional
+    full-stack contributions.
+
+  Why Join Us
+
+  - You will design the core data services and pipelines that
+    power our product experience, analytics, and business
+    operations.
+  - You’ll work on high-impact data challenges involving real-
+    time signals, large-scale metadata systems, and cross-
+    platform consistency.
+  - You’ll join a small, fast-moving team where you’ll shape the
+    structure, reliability, and intelligence of our downstream
+    data ecosystem.
+
+  Benefits
+
+  - Highly competitive salary and equity
+  - Quarterly productivity budget
+  - Flexible time off
+  - Fantastic office location in Manhattan
+  - Productivity package, including ChatGPT Plus, Claude Code,
+    and Copilot
+  - Top notch private health, dental, and vision insurance for
+    you and your dependents
+  - 401(k) plan options with employer matching
+  - Concierge medical/primary care through One Medical and
+    Rightway
+  - Mental health support from Spring Health
+  - Personalized life insurance, travel assistance, and many
+    other perks
+
+  Udio’s success hinges on hiring great people and creating an
+  environment where we can be happy, feel challenged, and do
+  our best work.
+
+  Udio provides equal employment opportunities (EEO) to all
+  employees and applicants for employment without regard to
+  race, color, religion, sex, national origin, age,
+  disability, genetics, sexual orientation, gender identity,
+  or gender expression. We are committed to a diverse and
+  inclusive workforce and welcome people from all backgrounds,
+  experiences, perspectives, and abilities.
+
+  This role is eligible for a compensation package of base
+  salary, equity, and benefits. The starting base salary range
+  for this role is $180,000 - $220,000. Actual salary may vary
+  based on level, work experience, performance, and other
+  factors evaluated during the hiring process.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-07-31
+url: "https://builtin.com/job/senior-backend-engineer-data-pipelines-and-integrations/7991151"
+source: Built In

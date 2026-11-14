@@ -1,0 +1,133 @@
+job_id: 11578218
+title: Senior Backend Engineer, Core Trading Systems
+company: Novig
+location: New York, USA
+work_type: FULL_TIME
+company_size: 76 Employees
+description: |
+  Senior Backend Engineer, Core Trading Systems
+
+  $200k – $260k • meaningful equity
+
+  About MAG
+
+  MAG is the market-making arm of Novig. We provide liquidity
+  across sportsrelated event-contract and prediction-market
+  venues. We operate lean by design. A small, senior team with
+  direct exposure to trading, capital, and counterparty work,
+  supported by Novig's broader platform.
+
+  With Novig recently becoming a CFTC-designated market — the
+  fastest designation of its kind in US history— we're
+  bringing the prediction market built for sports fans
+  nationwide.
+
+  We're backed by some of Silicon Valley's top investors —
+  Pantera, Forerunner, Lux, NFX, Paul Graham, and Joe Montana
+  — who have collectively invested over $100M behind this
+  vision."
+
+  About the Role
+
+  As a Senior Backend Engineer at MAG, you’ll build the core
+  trading engine that powers our market-making across multiple
+  prediction-market and event-contract venues. You’ll own the
+  infrastructure that connects to each venue, normalizes real-
+  time market data, manages orders and positions, and enforces
+  risk controls, all with the reliability that live sports
+  demand. You’ll work directly with our traders, turning their
+  feedback into faster execution, better tooling, and new
+  strategy capabilities, with results you’ll see in PnL within
+  days. Because our markets run on the sports calendar, you’ll
+  share on-call duty and cover one weekend roughly every six
+  weeks. This is a high-ownership role on a small team where
+  your architectural decisions will shape how the entire
+  trading operation scales.
+
+  Who you are and why this role will excite you
+
+  - Excited to architect and build MAG’s core systems, including
+    the trading engine, market-data pipelines, risk controls,
+    and real-time state machines, shaping the platform at a
+    foundational level
+  - Design and implement deterministic, event-driven systems for
+    matching, settlement, and market-making flows, with strong
+    ordering and idempotency guarantees
+  - Build high-throughput, low-latency infrastructure for data
+    ingestion, distribution, replay, order gateways, session
+    management, and pre-/at-trade risk checks
+  - Develop developer-first APIs for algorithmic trading
+    integrations and high-reliability endpoints for
+    programmatic and UI clients
+  - Collaborate closely with frontend, trading, product, and SRE
+    teams to maintain a seamless, reliable user experience,
+    including recovery, failover, observability, and
+    performance optimization
+  - Expand product surface via modular backend services,
+    contribute to architecture discussions, operational
+    readiness, and production debugging
+  - Optimize system hot paths using profiling, tracing, and
+    performance tools; improve architecture for modularity,
+    stability, and future regulatory compliance
+  - Bring 4+ years of backend engineering experience, ideally in
+    distributed or real-time systems, with proficiency in Go,
+    Rust, or C++ and knowledge of concurrent programming,
+    event-driven architectures, and relational databases
+    (PostgreSQL preferred)
+  - Understand CAP tradeoffs, ordering semantics, and
+    consistency/availability considerations; navigate
+    ambiguity and take ownership across large technical
+    surfaces
+  - Communicate clearly, solve complex problems, and collaborate
+    effectively across teams
+
+  Bonus:
+
+  - Experience with matching engines, market-making systems,
+    order books, HFT infrastructure, Kafka, Redis, real-time
+    streaming systems, or financial exchanges
+  - Passion for sports, betting, and market microstructure, with
+    curiosity about building highly reliable trading systems
+
+  Why work here, in the words of the people who do
+
+  “I work with extremely stellar people, I own real systems,
+  and decisions happen fast. No politics, no waiting for
+  needless red tape. If something's broken, I fix it. If I
+  build something good, it ships.”
+
+  “The people! So smart, thoughtful, fun to work with,
+  passionate about their craft, etc”
+
+  “I'm having the most fun I've had in my entire career.”
+
+  If you want responsibility, trust, and the chance to help
+  build the future of sports prediction markets - take your
+  shot, we’d love to connect.
+
+  Not for everyone
+
+  - Our work is tied to live sports - that means potential
+    nights, weekends, and pressure included.
+  - If you need clear swim lanes, a heavy process, or someone to
+    tell you what to do, this won’t be the right environment.
+
+  Compensation & benefits
+
+  - $200k – $260k base, benchmarked at top-tier tech companies
+  - Meaningful equity for every employee, regardless of role
+
+  - 100% health premiums covered
+  - 99% dental & vision covered
+  - 401(k) with 4% company match
+  - HSA + $1,080 annual company contribution
+  - $27/day lunch stipend when working from our NYC office
+  - $35/day dinner stipend when working from the NYC office
+    after 6:30pm
+
+  Homebase
+
+  Union Square, NYC
+posted_date: 2026-10-08
+url: "https://builtin.com/job/senior-backend-engineer-core-trading-systems/11578218"
+source: Built In

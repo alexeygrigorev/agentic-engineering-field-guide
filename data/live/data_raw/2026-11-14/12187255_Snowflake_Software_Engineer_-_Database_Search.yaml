@@ -1,0 +1,115 @@
+job_id: 12187255
+title: Software Engineer - Database Search
+company: Snowflake
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 9,023 Employees
+description: |
+  At Snowflake, we are powering the era of the agentic
+  enterprise. To usher in this new era, we seek AI-native
+  thinkers across every function who are energized by the
+  opportunity to reinvent how they work. You don’t just use
+  tools; you possess an innate curiosity, treating AI as a
+  high-trust collaborator that is core to how you solve
+  problems and accelerate your impact. We look for low-ego
+  individuals who thrive in dynamic and fast-moving
+  environments and move with an experimental mindset — who
+  rapidly test emerging capabilities to discover simpler, more
+  powerful ways to deliver results. At Snowflake, your role
+  isn't just to execute a function, but to help redefine the
+  future of how work gets done.
+
+  About Database Search
+
+  Within this broader Berlin engineering team, Database Search
+  focuses on workload optimization: building core database-
+  engine capabilities that help customer queries run faster by
+  finding and processing data efficiently. The team works on
+  indexing methods, index selection and maintenance, data
+  pruning and skipping, and query optimization for selective
+  SQL queries and other workloads. This work also contributes
+  to Snowflake Optima, which automatically identifies
+  optimization opportunities in customer workloads and
+  seamlessly integrates them so queries get faster over time
+  with minimal user input.
+
+  The role
+
+  As a Software Engineer, you’ll take on challenging problems
+  inside the database engine, designing, implementing, and
+  improving components across indexing, query optimization,
+  and execution. You’ll drive work from investigation through
+  tested implementation and collaborate with teammates to
+  deliver robust solutions for demanding customer workloads.
+
+  What you’ll do
+
+  - Implement, test, and improve database-engine features across
+    indexing, data pruning and skipping, query optimization,
+    and execution.
+  - Investigate performance and scalability bottlenecks using
+    debugging, instrumentation, and measurement, then drive
+    fixes through validation.
+  - Write maintainable, reliable code and tests in C++ and/or
+    Java.
+  - Build and improve components in a highly parallel database
+    engine, reasoning about how changes affect query execution
+    end to end.
+  - Work with teammates and partner engineering groups to refine
+    designs, deliver changes, and share results.
+  - Evaluate changes against customer workloads and system
+    behavior, and measure their performance impact.
+
+  What you’ll bring
+
+  - Experience building software through professional work,
+    internships, research, or substantial personal or open-
+    source projects.
+  - Proficiency in C++ and/or Java, with an interest in writing
+    efficient, reliable systems software.
+  - Foundational knowledge of data structures, algorithms, and
+    software design.
+  - Familiarity with SQL and core database concepts, or a strong
+    interest in developing that knowledge.
+  - Foundational understanding of concurrency and
+    multithreading.
+  - A proactive, self-motivated approach to hard problems: you
+    take initiative, pursue issues to root cause, and work
+    through ambiguity while communicating progress and
+    incorporating feedback.
+  - Professional proficiency in English.
+  - A degree in Computer Science or a related field, or
+    equivalent practical experience.
+
+  Helpful experience
+
+  - Exposure to database internals, query engines, storage
+    engines, indexing, or query execution.
+  - Experience analyzing performance in concurrent,
+    multithreaded, or otherwise performance-sensitive systems
+    software.
+  - Familiarity with SQL workloads or columnar data formats such
+    as ORC or Parquet.
+
+  Snowflake is growing fast, and we’re scaling our team to
+  help enable and accelerate our growth. We are looking for
+  people who share our values, challenge ordinary thinking,
+  and push the pace of innovation while building a future for
+  themselves and Snowflake.
+
+  How do you want to make your impact?
+
+  For jobs located in the United States, please visit the job
+  posting on the Snowflake Careers Site for salary and
+  benefits information: careers.snowflake.com
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Cloud
+  - Machine Learning
+  - Software
+  - Database
+  - Analytics
+posted_date: 2026-11-12
+url: "https://builtin.com/job/software-engineer-database-search/12187255"
+source: Built In

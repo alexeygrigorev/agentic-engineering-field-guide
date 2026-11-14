@@ -1,0 +1,95 @@
+job_id: 11747005
+title: Software Engineer, Robotics
+company: CircuitHub
+location: London, GBR
+locations:
+  - London, GBR
+  - Cambridge, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 42 Employees
+description: |
+  About CircuitHub
+
+  CircuitHub is reshaping electronics manufacturing with The
+  Grid, a factory-scale robotics platform that makes small-
+  batch, high-mix electronics assembly radically more
+  efficient. Think semiconductor-fab precision applied to the
+  chaotic world of prototyping and low-volume production: a
+  10x throughput improvement in one of the world's most
+  foundational industries.
+
+  We've raised $45M from top-tier investors including Plural,
+  Y Combinator and Google Ventures, and we're already
+  profitable. Our customers include a major EV maker, a top AI
+  lab and many of the worlds largest companies.
+
+  The Grid isn't a prototype. It's live, scaling fast and
+  delivering real revenue, and we're building the team that
+  will scale it further.
+
+  What you'll do
+
+  - Architect the robot operating system. Design the core
+    abstractions: how robots, cameras, tools and jobs are
+    modelled, how work is planned and dispatched, how state is
+    shared and how failures are handled. Decide what belongs
+    in Python and what needs Rust.
+  - Bring in new vision. Integrate novel computer vision
+    algorithms into the control loop, from finding and
+    centring parts to checking every pick and placement, and
+    make them fast and reliable enough for production.
+  - Build agentic robotics. Put large models to work in the
+    robots themselves: programming a new part from its
+    datasheet, judging a pick from a camera image, diagnosing
+    a fault and recovering from it, with evals that prove it
+    works before it runs alone.
+  - Move a fleet. Route dozens of movers at once without
+    collisions or deadlocks, and coordinate gantries, printers
+    and ovens around them.
+  - Bridge to real time. Design clean interfaces between high-
+    level planning and the real-time controllers driving the
+    motors.
+  - Make it observable. Simulation, tracing and replay, so every
+    change is proven before it reaches the factory and every
+    failure can be explained.
+
+  What we look for
+
+  - You've worked on, and ideally architected, a large-scale
+    robot code base that ran on real hardware in production.
+  - Strong software engineering in Python and Rust (or C++ and a
+    willingness to move to Rust). You care about types,
+    testing, concurrency and clear architecture.
+  - Experience with some of: motion or path planning, multi-
+    robot coordination, controls, perception, scheduling.
+  - Hands-on experience applying large models (LLMs or vision-
+    language models) to robotics, or a strong drive to.
+  - You use coding agents to move faster and take full ownership
+    of what they produce.
+  - You're happy to visit our factories in the US and UK to see
+    your code run.
+
+  Stack
+
+  - Robot software: Python and Rust
+  - Vision and models: OpenCV, PyTorch, ONNX Runtime, Claude and
+    OpenAI APIs
+  - Planning: multi-agent path-finding, OR-Tools
+  - Data and observability: PostgreSQL, OpenTelemetry,
+    ClickHouse
+  - Agents: Claude Code and Codex throughout
+
+  Pay
+
+  UK £80k–£125k · US $125k–$250k, depending on experience,
+  plus equity.
+industries:
+  - Hardware
+  - Internet of Things
+  - On-Demand
+  - Appliances
+  - Manufacturing
+posted_date: 2026-10-19
+url: "https://builtin.com/job/software-engineer-robotics/11747005"
+source: Built In

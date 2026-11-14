@@ -1,0 +1,166 @@
+job_id: 11284906
+title: "Senior Software Engineer - Go & Rust, Blockchain Infrastructure"
+company: Quicknode
+location: PRT
+locations:
+  - PRT
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 111 Employees
+description: |
+  Quicknode is a cloud-based infrastructure company that
+  powers the blockchain ecosystem.
+
+  Our mission is to be the indispensable utility that empowers
+  companies and innovators globally to build next-generation,
+  Web3 enabled businesses & applications using blockchain
+  technology. Quicknode is backed by some of the world's best
+  investors including Tiger Global, Y Combinator, SoftBank,
+  and the Seven Seven Six Fund. The Quicknode team has over
+  110 people maintaining high performance global data
+  infrastructure for amazing customers serving billions of
+  requests daily.
+
+  We are a global remote company with offices in Fort
+  Lauderdale, FL and Lisbon, Portugal.
+
+  The Role
+
+  Quicknode deploys institutional-grade infrastructure - Core
+  RPC API, Streams, Webhooks, Clusters, and developer tooling
+  - across 80+ blockchain networks for teams building onchain.
+  The Engineering team behind this infrastructure needs a
+  senior individual contributor who can design, build, and
+  improve the distributed systems that ingest, process, and
+  serve blockchain data at scale, working across both Go and
+  Rust.
+
+  This is a hands-on engineering and technical-leadership role
+  for someone who moves comfortably between high-throughput Go
+  services and performance- and security-critical Rust
+  components. You will own complex systems from design through
+  production and raise the engineering bar on reliability,
+  performance, security, and operational quality.
+
+  This role reports into Engineering leadership for the
+  Blockchain Infrastructure team and carries no direct reports
+  at this level. As scope grows, you will take on larger
+  system ownership, mentor other engineers, and help set
+  engineering standards adopted across teams - a natural path
+  toward Staff or Principal Engineer.
+
+  What You'll Do
+
+  - Design, build, and optimize high-throughput, low-latency
+    backend services, APIs, and data-processing systems in
+    both Go and Rust for production blockchain infrastructure.
+  - Own production Go services and Rust components, including
+    their architecture, interfaces, concurrency models, memory
+    and resource efficiency, testing, observability,
+    deployment, and operation.
+  - Architect distributed systems that ingest, process,
+    validate, and serve blockchain data with strong guarantees
+    around consistency, fault tolerance, scalability, and
+    availability.
+  - Own technical work end to end, including requirements,
+    architecture, implementation, testing, deployment,
+    observability, incident response, and continuous
+    improvement.
+  - Profile and benchmark production systems, identify
+    bottlenecks, and improve throughput, latency, resource
+    efficiency, resilience, and correctness under load.
+  - Assess security risks in blockchain and distributed-system
+    components and design or review controls that protect
+    transactions, data, credentials, and system integrity.
+  - Debug complex failures across services, databases, streaming
+    systems, networks, and blockchain nodes, then drive
+    durable root-cause fixes.
+  - Partner with Product, Infrastructure, Security, and
+    Developer Experience teams to translate customer and
+    protocol requirements into maintainable systems.
+  - Lead design and code reviews, mentor engineers, document
+    important decisions, and establish engineering standards
+    that improve quality across teams.
+
+  What You'll Bring
+
+  Minimum Qualifications:
+
+  - 8+ years of professional software engineering experience,
+    including substantial experience building and operating
+    backend or distributed systems in high-scale production
+    environments.
+  - Advanced professional proficiency in both Go and Rust, with
+    demonstrated experience shipping and operating production
+    software in each language. Go and Rust are both core
+    requirements for this role, not interchangeable
+    alternatives.
+  - Deep knowledge of distributed systems, algorithms and data
+    structures, concurrency, memory safety and ownership,
+    databases, networking, operating systems, and production
+    software architecture.
+  - A record of delivering reliable, scalable systems with
+    measurable improvements in performance, availability,
+    correctness, or developer experience.
+  - Experience with blockchain infrastructure, high-throughput
+    APIs, node or RPC infrastructure, data-streaming
+    pipelines, or similarly demanding distributed platforms.
+  - Experience applying secure-design principles, threat
+    modeling, and disciplined testing to systems where
+    correctness and availability are critical.
+  - Strong written and verbal communication, sound technical
+    judgment, and the ability to lead ambiguous, cross-team
+    projects without constant direction.
+
+  Preferred Qualifications:
+
+  - Experience with Ethereum, Solana, or other major blockchain
+    protocols and their node, RPC, indexing, or transaction-
+    processing architecture.
+  - Experience designing clean interfaces between Go services
+    and Rust systems, libraries, or performance-sensitive
+    components.
+  - Experience designing or reviewing cryptographic, wallet,
+    signing, custody, or other security-sensitive systems.
+  - Experience with streaming and data infrastructure such as
+    Kafka, queues, event-driven services, distributed
+    databases, or large-scale observability systems.
+  - Demonstrated technical leadership through architecture
+    ownership, mentorship, incident leadership, or engineering
+    standards adopted by multiple teams.
+
+  The Quicknode compensation philosophy includes pillars to
+  ensure fair and unbiased compensation for all employees. To
+  design and deliver total reward offerings that are employee-
+  centric. To offer a competitive benefit package in all
+  locations where we operate. To prioritize attracting and
+  retaining the best talent globally. To maintain a high-
+  performing and flexible way of working.
+
+  During the hiring process, we are committed to discussing
+  compensation openly and honestly. We encourage candidates to
+  share their salary expectations and requirements early,
+  allowing for an individualized discussion. We know that our
+  total rewards practices impact the lives and wellbeing of
+  our employees. Therefore, we will never stop learning about
+  the market, our business, your needs, and how best to
+  achieve our goals through thoughtful and data-driven
+  practices. If you have any questions or require further
+  information about the compensation for this position, please
+  don't hesitate to reach out to your Recruiter.
+
+  We at Quicknode are an equal opportunity employer and all
+  qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  sexual orientation, gender identity or expression,
+  pregnancy, age, national origin, disability status, genetic
+  information, protected veteran status, or any other
+  characteristic protected by law.
+industries:
+  - Blockchain
+  - Software
+  - Web3
+posted_date: 2026-09-21
+url: "https://builtin.com/job/senior-software-engineer-go-rust-blockchain-infrastructure/11284906"
+source: Built In

@@ -1,0 +1,147 @@
+job_id: 11997515
+title: Software Engineer - Database
+company: MotherDuck
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 83 Employees
+description: |
+  About MotherDuck
+
+  Don’t let the quirky name fool you: At MotherDuck, we’re on
+  a mission to make data warehousing fun, frictionless, and
+  ducking awesome for developers and data practitioners
+  building blazing fast internal and customer-facing analytics
+  experiences. We're building a cloud-hosted version of
+  DuckDB, working hand-in-hand with the creators of the
+  fastest-growing and fastest-improving query engine on the
+  planet. Unlike other databases, MotherDuck was architected
+  to unify local development with cloud operations to bridge
+  the gap between software and data engineering workflows. Our
+  team is a mix of thoughtful, passionate, and empathetic data
+  industry veterans.
+
+  What you will do
+
+  The Database team is the bridge between DuckDB and the
+  cloud. We own the core server and client extension logic
+  that lets DuckDB run seamlessly, whether it's local or in
+  the cloud, and we work in C++ right alongside the DuckDB
+  codebase itself. Our mission is to push the boundaries of
+  embedded database performance, distributed execution, and
+  user experience, all while staying closely connected to
+  DuckDB Labs (the team behind DuckDB) to align on APIs and
+  shape what's next.
+
+  Day to day, we drive major projects in dual execution,
+  resource assignment, and system reliability, while also
+  handling incoming issues and lending our DuckDB expertise to
+  other teams. We collaborate closely across MotherDuck and
+  with the wider DuckDB community, making sure people get the
+  best of both local and cloud worlds. It's a small, high-
+  agency team with big ambitions... the kind of place where
+  engineers own impactful projects, share what they learn, and
+  help shape how modern analytics gets built.
+
+  This role is ideally based in Amsterdam or Berlin, but we
+  are also open to great candidates remotely in Europe.
+
+  Key Responsibilities:
+
+  - Own major projects in our dual execution stack, so DuckDB
+    can process queries seamlessly whether they're running
+    locally or in the cloud.
+  - Help build a cloud platform that dynamically assigns
+    resources, so DuckDB stays efficient whether someone's
+    running a tiny workload or pushing our biggest, highest-
+    memory instances.
+  - Lead cross-functional work with our frontend, platform, and
+    infrastructure teams to keep the user experience coherent
+    end to end.
+  - Push the state of the art in embedded database performance,
+    distributed execution, and DuckDB internals.
+  - Deepen your DuckDB expertise and share it with the rest of
+    the company through mentorship and documentation.
+  - Work directly with our support team to debug issues, learn
+    from real usage patterns, and prioritize the improvements
+    that matter most.
+  - Improve systems holistically... spotting architectural
+    challenges early and clearing bottlenecks before they
+    become problems.
+  - Mentor teammates and help raise the bar for engineering
+    practices across the team.
+  - Work closely with DuckDB Labs (which grew out of the
+    Database Architectures group at CWI, where vectorized
+    execution and DuckDB were born) to help align on APIs and
+    shape where DuckDB goes next.
+
+  What you bring
+
+  - You've built and shipped complex backend systems, and you
+    know what great looks like.
+  - You're fluent in a backend language like C++, Rust, Java, or
+    similar systems languages, and you're comfortable working
+    close to the metal. (C++ and Rust are the biggest plus
+    here, and we love a great Java engineer too.)
+  - A good foundation in query engines, execution plans,
+    indexing, and performance optimization techniques.
+  - Hands-on experience with DuckDB is a huge plus, no matter
+    what level you're coming in at.
+  - You've worked with cloud infrastructure, networking, and
+    building low-latency distributed systems.
+  - You can scope and lead projects that span multiple
+    collaborators and cross-functional dependencies.
+  - You take pride in clear thinking, careful design, and
+    thoughtful tradeoffs.
+  - You're comfortable mentoring peers and helping build a
+    collaborative, high-agency environment.
+  - You enjoy engaging with the wider community, whether that's
+    open-source conversations or working directly with DuckDB
+    Labs.
+
+  What we provide
+
+  - The opportunity to participate and contribute to DuckDB, one
+    of most popular modern open source analytical databases.
+  - Competitive salary and stock options so you have a stake in
+    our flock’s success.
+  - Flexible time off – take the time you need to recharge,
+    explore, or just have a lazy day by the pond.
+  - A good pension plan
+  - Legendary company events – we bring the whole flock together
+    once a year for unforgettable team gatherings a year to
+    keep our bonds strong.
+  - Hybrid work environment – Spend three days a week in the
+    office collaborating with the flock, and work from
+    wherever you’re most productive the rest of the
+    time—whether that’s your home office, a coffee shop, or a
+    peaceful lakeside retreat. We have to warn you though,
+    most of us like the office so much we come anyway. It’s on
+    the river Ij, with a great lunch every day.
+
+  Please Apply
+
+  Does this role sound appealing to you, but you’re missing
+  some of the requirements or don’t quite think you’re
+  qualified?  Please apply anyway. Research has shown that
+  underrepresented groups in technology often shy away from
+  roles which aren’t a 100% match. We aim to build a diverse
+  team and will strongly consider applicants who bring many of
+  the requirements plus have other experiences which round out
+  their qualifications.
+
+  MotherDuck is proud to be an Equal Employment Opportunity
+  and Affirmative Action employer. We do not discriminate
+  based on race, religion, color, national origin, gender
+  (including pregnancy, childbirth, or related medical
+  conditions), sexual orientation, gender identity, gender
+  expression, age, status as a protected veteran, status as an
+  individual with a disability, or other applicable legally
+  protected characteristics. MotherDuck is committed to
+  working with and providing reasonable accommodations to
+  applicants with physical and mental disabilities.
+industries:
+  - Database
+  - Analytics
+posted_date: 2026-10-30
+url: "https://builtin.com/job/software-engineer-database/11997515"
+source: Built In

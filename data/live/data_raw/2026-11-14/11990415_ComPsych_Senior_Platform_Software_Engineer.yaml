@@ -1,0 +1,155 @@
+job_id: 11990415
+title: Senior Platform Software Engineer
+company: ComPsych
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 851 Employees
+description: |
+  About ComPsych
+
+  ComPsychⓇ is the worldwide leader in organizational mental
+  health, well-being, and absence management, dedicated to
+  igniting human potential in workplaces across the globe. For
+  over 40 years, we have combined the best in technology with
+  unmatched human expertise to help individuals and their
+  organizations thrive. Our GuidanceResourcesⓇ and
+  AbsenceResourcesⓇ solutions deliver end-to-end mental
+  health, well-being, work-life, health navigation, and
+  absence support to more than 75,000 customers worldwide,
+  touching more than 160 million lives across 200 countries.
+  Visit compsych.com to find out why 40% of the Fortune 500
+  choose ComPsych for their mental health and absence
+  management needs.
+
+  About the Role
+
+  We're modernizing the software foundations behind ComPsych's
+  products — building shared backend capabilities, cloud-
+  native services, and AWS infrastructure that application
+  teams can rely on. Our goal is to make secure, reliable,
+  high-quality software easier to build and operate at scale,
+  without each team having to solve the same engineering
+  problems independently.
+
+  AI isn't a productivity add-on here — it's how we build. Our
+  engineers use agentic development as standard equipment,
+  moving from problem to production-ready code faster than
+  traditional development allows, while keeping the work
+  reviewable and maintainable. Our platform carries behavioral
+  health data for millions of members, so reliability and
+  correctness are non-negotiable — not a tax on velocity.
+
+  What You'll Do
+
+  AI changes what your time goes toward. You're still
+  accountable for the full lifecycle — planning, design, code,
+  tests, review, production — but your hands-on role in each
+  shifts:
+
+  - Design and build shared platform capabilities. Own the
+    architecture and delivery of reusable backend services,
+    libraries, frameworks, and integrations that application
+    teams depend on — with clear interfaces, failure modes,
+    and operational contracts.
+  - Make AWS infrastructure usable through software. Build the
+    application-level abstractions, automation, and
+    integration patterns that let teams use cloud services
+    securely and reliably without solving the same
+    infrastructure problems repeatedly.
+  - Direct implementation rather than writing it line by line.
+    Decompose platform work, write specifications and
+    contracts, and delegate implementation to AI agents —
+    stepping into code when complexity, debugging, or
+    technical judgment demands it.
+  - Engineer for reuse, compatibility, and testability. Design
+    for multiple consumers, backward compatibility, safe
+    migrations, and verifiable behavior. Own the testing
+    strategy and validate that generated tests provide
+    meaningful evidence.
+  - Build reliability, security, and observability into the
+    platform. Establish defaults for authentication,
+    authorization, failure handling, telemetry, and deployment
+    safety that improve every service built on the platform.
+  - Own production outcomes and platform adoption. Review agent
+    and human work with the same rigor, respond to incidents,
+    and work with consuming teams to make shared capabilities
+    practical to adopt and operate.
+
+  What We're Looking For
+
+  - Deep server-side engineering experience in Java, Python, C#,
+    Kotlin, or Go. You've designed and operated backend
+    systems and built reusable components that other engineers
+    depend on.
+  - Strong distributed systems fundamentals — API and event
+    contracts, asynchronous messaging, concurrency,
+    idempotency, consistency, failure handling, and versioning
+    across independently deployed services.
+  - Hands-on AWS experience designing and operating production
+    workloads — including compute, networking, storage,
+    databases, messaging, IAM, and the tradeoffs among managed
+    services. Comfortable with containers, infrastructure as
+    code, and CI/CD.
+  - Experience building shared backend foundations — service
+    frameworks, common libraries, authentication and
+    authorization, integration layers, or similar capabilities
+    — with deliberate attention to compatibility,
+    configuration, documentation, and adoption.
+  - Reliability and security engineering experience in
+    production — observability, SLOs, incident response,
+    resilient architectures, and secure handling of sensitive
+    or regulated data.
+  - A testing strategy appropriate for shared platform software
+    — unit, integration, contract, and compatibility testing,
+    with reliable CI feedback and confidence that changes
+    won't break downstream consumers.
+  - Agentic AI is your primary development surface. You can
+    specify complex platform work, direct agents to implement
+    it, and verify correctness across integrations, edge
+    cases, and operational behavior. You've shipped production
+    software this way and can identify where human judgment is
+    essential.
+
+  Compensation and Benefits
+
+  - Full benefits package, including Paid Time Off (PTO),
+    medical, dental, vision, 401(k) with match, robust EAP,
+    wellness program, and much more
+  - The salary range for this position is $150,000 - $200,000
+    (USD). The base salary range represents the anticipated
+    low end and high end of the range for this position. The
+    actual compensation will be influenced by a wide range of
+    factors including, but not limited to previous experience,
+    education, pay market/geography, and scheduled hours.
+
+  EEO
+
+  ComPsych is an equal opportunity employer.  All applicants
+  will be considered for employment regardless of race, color,
+  age, genetics, religion, gender, sexual orientation, gender
+  identity, national origin, disability or protected veteran
+  status and any other characteristic protected by federal,
+  state or local laws. ComPsych Corporation maintains a drug
+  free workplace.
+
+  ComPsych Corporation and its affiliates is committed to the
+  responsible and transparent handling of your personal data.
+  Information collected during the recruitment process will be
+  used to assess your application and, where applicable, to
+  prepare and administer an offer of employment. Your personal
+  data will be processed in accordance with the privacy laws
+  applicable in your country or jurisdiction of residence,
+  which may include the California Consumer Privacy Act
+  (CCPA), the EU General Data Protection Regulation (GDPR),
+  Canada's Personal Information Protection and Electronic
+  Documents Act (PIPEDA) and applicable provincial privacy
+  legislation, and other applicable national or local privacy
+  laws. For full details on what personal data we collect, how
+  we use it, your rights as an Applicant, and how to contact
+  us with privacy-related questions, please review the
+  relevant Applicant Data Privacy Notices: US Applicant Data
+  Privacy Notice & Canada Data Privacy Notice.
+posted_date: 2026-10-30
+url: "https://builtin.com/job/senior-platform-software-engineer/11990415"
+source: Built In

@@ -1,0 +1,118 @@
+job_id: 10454834
+title: "Software Engineer - Data & Sensors"
+company: Humanoid
+location: London, GBR
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  Here at Humanoid, we believe in a future where robots
+  amplify human potential. That’s why we’ve set out on a
+  mission to build the world’s most capable, commercially-
+  scalable, and safe humanoid robots. We’re bringing that
+  mission to life with HMND‑01 - our rapidly developed
+  humanoid platform being deployed in real industrial
+  environments - and we’re growing the team to take it even
+  further.
+
+  About the Role:
+
+  We are looking for a Software Engineer to own the device
+  software and data pipeline for our UMI data collection
+  devices - handheld gripper systems used by human operators
+  to demonstrate manipulation tasks. The data they produce is
+  used to train our robots, so the quality of what you ship
+  determines the quality of robots we deploy.
+
+  This is a deeply technical, hands-on role. You will write
+  production-grade device software, build reliable sensor
+  fusion and recording pipelines, and own the validation
+  tooling that keeps our training datasets clean. You will
+  work closely with hardware, AI, and data collection teams.
+
+  What You’ll Do:
+
+  - Develop and maintain device software across the full episode
+    lifecycle: session initialisation, per-sensor stream
+    management, episode recording, and graceful shutdown
+  - Integrate and synchronise sensor streams - wrist and head
+    cameras, 6-DOF pose trackers, gripper aperture encoders,
+    and optionally force/torque sensors - into temporally-
+    aligned, policy-consumable trajectories
+  - Define and maintain the data contract between UMI devices
+    and the AI team: stream formats, episode packaging,
+    metadata schemas, and the interface between raw recordings
+    and training pipelines
+  - Build and maintain data validation tooling that detects
+    dropped frames, timing jitter, pose tracking loss, image
+    quality degradation, and sensor faults before corrupt
+    episodes enter the training dataset
+  - Own operator-facing device software: status indication,
+    start/stop/cancel episode controls, and clear feedback
+    when a session needs to be retried
+  - Support field data collection sessions - deploying devices
+    to operators, validating data quality in situ, and
+    iterating quickly when issues surface during collection
+  - Debug integration failures on device hardware: camera driver
+    issues, bus bandwidth saturation, tracker calibration
+    drift, compute thermal throttling, and storage write
+    failures mid-episode
+
+  We’re Looking For:
+
+  - Experience in embedded or device-level software in a
+    robotics or sensing context - writing code that runs on
+    the device, not just talking to it
+  - Proficiency in C++ and/or Python for real-time sensor
+    drivers, inter-process communication, and data recording
+    pipelines
+  - Solid understanding of multi-modal sensor synchronisation -
+    timestamps, hardware triggers, clock drift - and the
+    practical consequences of getting it wrong for downstream
+    ML
+  - Familiarity with camera pipelines and the difference between
+    what a sensor reports and what actually lands on disk with
+    correct timing
+  - Strong instincts around data quality and dataset hygiene -
+    you are uncomfortable shipping episodes with frame drops,
+    tracking loss, or misaligned streams
+  - Proven ability to debug on real hardware: you read logs,
+    attach profilers, and can diagnose whether a problem is a
+    driver, a bus, or a timing issue
+
+  Nice to have:
+
+  - Experience with 6-DOF pose tracking systems (VIO, optical
+    trackers, or similar) and their common failure modes
+  - Familiarity with ML training data formats and what an AI
+    team actually needs from a recorded episode -
+    understanding the consumer of the data you produce
+  - Exposure to operator-facing tooling for data collection:
+    session management, per-episode quality summaries,
+    rejection and retry workflows
+  - Experience scaling device software from a small number of
+    prototype units to many devices operated by non-engineers
+    in the field
+
+  What We Offer
+
+  - Competitive equity: stock options with meaningful upside as
+    we scale.
+  - 30+ paid days off, including 23 days of annual leave, all UK
+    bank holidays, and additional company closure days
+    (including Christmas–New Year shutdown).
+  - Private healthcare, including virtual and in-person care.
+  - Pension scheme with 8% total contribution (5% employee, 3%
+    employer) on full earnings.
+  - Free daily breakfast, catered lunch, and snacks in-office.
+  - Work at the frontier - collaborate daily with world-class
+    engineers, researchers, and product experts building the
+    next generation of AI and humanoid robotics.
+  - Real ownership - direct access to founding leadership,
+    meaningful input on product direction, and the ability to
+    drive key initiatives from day one.
+industries:
+  - Artificial Intelligence
+  - Robotics
+posted_date: 2026-08-25
+url: "https://builtin.com/job/software-engineer-data-sensors/10454834"
+source: Built In

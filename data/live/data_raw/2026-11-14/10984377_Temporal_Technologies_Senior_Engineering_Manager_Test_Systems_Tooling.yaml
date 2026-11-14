@@ -1,0 +1,108 @@
+job_id: 10984377
+title: "Senior Engineering Manager, Test Systems & Tooling"
+company: Temporal Technologies
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 501 Employees
+description: |
+  Role Summary
+
+  Temporal’s reliability is fundamental to why customers
+  choose us—and as our customers run increasingly critical
+  workloads on the platform, our ability to confidently test
+  changes must scale with that responsibility.
+
+  As a Senior Engineering Manager on the Test Systems &
+  Tooling team, you will lead a team responsible for building
+  the shared systems, environments, and tooling that enable
+  Temporal engineers to validate the platform under
+  production-like and adverse conditions. You’ll help ensure
+  system-level testing gaps don’t fall through organizational
+  boundaries by driving cross-team alignment, clear ownership,
+  and measurable improvements in pre-production confidence.
+
+  What You'll Do
+
+  - Lead and grow the Test Systems & Tooling team: Hire, coach,
+    and develop engineers building shared testing capabilities
+    used across Engineering.
+  - Make production-like testing practical: Improve the ability
+    for engineers to create test environments that resemble
+    production topology, configuration, scale, and behavior—so
+    reproducing issues and validating changes is faster and
+    more reliable.
+  - Enable production-representative workload testing: Build or
+    evolve capabilities such as workload replay, realistic
+    workload generation, multi-tenant testing, load testing,
+    and stress testing to surface behaviors that only emerge
+    at scale.
+  - Drive failure-mode validation: Establish repeatable ways to
+    test Temporal through real failure conditions (e.g.,
+    dependency failures, latency injection, resource
+    exhaustion, degraded-state recovery, and regional failure
+    scenarios).
+  - Create shared frameworks and guidance: Provide opinionated
+    testing frameworks, patterns, and tooling that make it
+    easier for product teams to write high-quality tests
+    consistently, with visibility into test health and
+    systemic gaps.
+  - Own system-level coverage outcomes: Identify critical
+    system-level scenarios that need explicit coverage, drive
+    them to completion (often through partner teams), and
+    ensure they’re integrated into continuous and/or release
+    validation.
+  - Collaborate across org boundaries: Partner closely with
+    Cloud/Infrastructure, Reliability, Release Engineering,
+    and product teams to turn production learnings into
+    stronger pre-production detection.
+
+  What You'll Bring
+
+  - Experience managing and developing a high-performing
+    engineering team (including direct reports), with strong
+    coaching, feedback, and performance management skills.
+  - Strong technical background building or operating reliable
+    distributed systems (or adjacent platform infrastructure)
+    and the judgment to prioritize the failure modes that
+    matter most.
+  - Track record delivering internal platforms/tooling adopted
+    by many teams—balancing ergonomics, speed, and long-term
+    maintainability.
+  - Comfort operating in ambiguous problem spaces where success
+    depends on aligning stakeholders, clarifying ownership,
+    and driving execution across multiple teams.
+  - Ability to define and drive measurable outcomes (adoption,
+    confidence signals, reduced escaped issues, faster
+    incident-to-coverage time), not just ship tooling.
+
+  Nice to Have
+
+  - Experience with large-scale testing practices: chaos
+    engineering, fault injection, workload replay/shadowing,
+    performance testing, or multi-tenant test strategy.
+  - Experience partnering with Release Engineering or CI/CD
+    platform teams to institutionalize validations in
+    pipelines.
+  - Familiarity with observability and incident response
+    practices, and translating incident learnings into
+    preventative test coverage.
+
+  Temporal Technologies is an Equal Opportunity Employer.
+  Temporal Technologies does not discriminate on the basis of
+  race, religion, color, sex, gender identity, sexual
+  orientation, age, non-disqualifying physical or mental
+  disability, national origin, veteran status, or any other
+  basis covered by appropriate law. All employment is decided
+  on the basis of qualifications, merit, and business need. We
+  embrace and celebrate differences and diversity.
+
+  Temporal is committed to providing access, equal
+  opportunity, and reasonable accommodation for individuals
+  with disabilities in employment, its services, programs, and
+  activities. If you need to request a reasonable
+  accommodation, please let your Recruiter know so we can
+  assist.
+posted_date: 2026-09-02
+url: "https://builtin.com/job/senior-engineering-manager-test-systems-tooling/10984377"
+source: Built In

@@ -1,0 +1,98 @@
+job_id: 10019381
+title: Software Engineer, Growth Data Platform
+company: Omni (omni.co)
+location: USA
+locations:
+  - USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 641 Employees
+description: |
+  About Omni
+
+  Omni is the AI analytics platform that turns company data
+  into a trusted source of truth for AI. Built on a semantic
+  model, Omni gives teams a governed context graph, so
+  everyone gets the same trusted answer. Ask in plain English,
+  refine in workbooks, or bring your data into tools like
+  Claude, ChatGPT, Cursor, and Slack. Our team has spent
+  decades building data platforms, and we started Omni to fix
+  problems we saw firsthand. Today, we help customers like
+  Condé Nast, BambooHR, and Synthesia get better answers from
+  their data. We're headquartered in San Francisco and have
+  raised $217M from top investors including ICONIQ, Theory
+  Ventures, and Redpoint Ventures. Our latest $120M Series C
+  valued us at $1.5B. If you like helping people get more from
+  their data, come build with us. We’d love to hear from you.
+
+  Responsibilities
+
+  - Build and scale the data platform that turns messy GTM
+    signals into reliable, auditable workflows
+  - Design queues, and workers for enrichment, routing,
+    assignment, and activation
+  - Integrate external data sources and APIs across CRM, sales
+    engagement, ads, first and third party intent, and
+    enrichment vendors
+  - Work directly with various GTM teams to turn one-off
+    experiments into reusable platform primitives
+  - Debug production issues across Snowflake, dbt, Dagster, AWS,
+    vendor APIs, webhooks, and downstream business systems
+
+  About You
+
+  - 2+ years of experience building data platforms, backend
+    systems, workflow engines, or data / ML infrastructure
+  - Deep experience with analytical data systems such as
+    Snowflake, Databricks, BigQuery, dbt, Spark, Airflow,
+    Dagster, or similar tools
+  - Track record of owning complex, end-to-end systems that
+    serve real users or business-critical workflows
+  - Clear judgment about data modeling, schema evolution,
+    contracts, lineage, and long-term maintainability
+  - You care whether the workflow actually works, whether
+    customers trust it, and whether downstream teams can
+    explain the output
+  - Strong debugging instincts
+
+  Tech Stack
+
+  You are not expected to have experience with every tool
+  listed below, but you should be excited to work across data
+  infrastructure, backend services, and orchestration.
+
+  - Snowflake as the warehouse and operational data store for
+    modeled data, queues, workflow state, and activation
+    outputs
+  - dbt for transformation, data models, and tests
+  - Dagster for orchestration of scheduled jobs, dependency-
+    aware workflows, and operational retries
+  - AWS Batch and Lambda for custom workers, vendor enrichment
+    jobs, webhook handling, and stateful background processing
+  - Fivetran
+  - Python and SQL
+  - Terraform and GitHub Actions
+  - Soda
+  - Omni
+
+  Location
+
+  This role allows for a hybrid schedule in our SF
+  headquarters. If you are based anywhere else in the US, the
+  role is remote.
+
+  Omni is an equal opportunity employer. We value diversity
+  and encourage you to apply even if you don’t check every
+  single box. Please, let us know if you need any reasonable
+  accommodations during the interview process.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Database
+  - Analytics
+  - Business Intelligence
+posted_date: 2026-08-22
+url: "https://builtin.com/job/software-engineer-growth-data-platform/10019381"
+source: Built In

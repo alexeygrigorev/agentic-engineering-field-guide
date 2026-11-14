@@ -1,0 +1,169 @@
+job_id: 11005604
+title: Software Engineer - Wallets
+company: Rain
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 100 Employees
+description: |
+  About the Company
+
+  Rain is the global stablecoin payments platform for
+  enterprises, neobanks, platforms, developers, and AI agents.
+  Our technology allows partners to move, store, and use
+  stablecoins instantly and compliantly through global payment
+  cards, rewards, on/offramps, wallets, and cross-border
+  rails. As both a Visa and Mastercard Principal Member, Rain
+  issues cards that work at more than 175 million merchant
+  locations in over 220 countries and territories. Built
+  natively for stablecoins and trusted by more than 100
+  organizations worldwide, Rain delivers secure, scalable
+  infrastructure that makes money move freely and instantly
+  around the world.
+
+  You will have the opportunity to deliver massive impact at a
+  hypergrowth company backed by some of the top investors in
+  fintech, crypto, and SaaS. In January 2026, we closed a
+  $250M Series C led by ICONIQ, valuing Rain at $1.95B, with
+  Sapphire Ventures, Dragonfly, Bessemer Venture Partners,
+  Galaxy Ventures, FirstMark, Lightspeed, Norwest, and
+  Endeavor Catalyst also participating. If you're curious,
+  bold, and excited to help shape a borderless financial
+  future, we'd love to talk.
+
+  Our Ethos
+
+  We believe in an open and flat structure. You will be able
+  to grow into the role that most aligns with your goals. Our
+  team members at all levels have the freedom to explore ideas
+  and impact the roadmap and vision of our company.
+
+  About the Team
+
+  We’re building the next generation of wallet infrastructure
+  at Rain, supporting both custodial and non-custodial
+  architectures. Our team is tackling foundational problems
+  across cryptography, key management, secure computing, and
+  blockchain wallet infrastructure—not simply integrating
+  existing wallet SDKs. We’re looking for exceptional
+  engineering leaders and senior individual contributors who
+  can architect these systems from the ground up, bring deep
+  expertise in one or more areas of wallet security and
+  infrastructure, and have the technical breadth to work
+  across multiple wallet architectures. Most importantly, we
+  want engineers who are excited to push the technical
+  frontier and define what modern wallet infrastructure should
+  look like, rather than reproduce the standard stack that
+  exists today.
+
+  What You'll Do
+
+  - Own the architecture of Rain’s wallet infrastructure,
+    designing secure, scalable systems for custody, key
+    management, transaction signing, authorization, and
+    recovery.
+  - Design flexible signing infrastructure that can support MPC,
+    HSMs, secure enclaves, TEEs, and emerging cryptographic
+    approaches without creating fragmented systems.
+  - Build and evolve wallet systems across multiple account
+    models, including EOAs, smart contract wallets, account
+    abstraction, ERC-4337, embedded wallets, and multichain
+    infrastructure.
+  - Define the boundaries between cryptography and wallet
+    orchestration, including how keys, signing authority,
+    transaction policies, permissions, and authorization
+    interact across the platform.
+  - Architect security-critical key management systems covering
+    key generation, distributed key generation, storage,
+    rotation, backup, recovery, and hardware-backed isolation.
+  - Build highly available signing and transaction
+    infrastructure capable of securely controlling high-value
+    customer assets while maintaining reliable, developer-
+    friendly APIs.
+  - Set the technical direction for wallet security, including
+    threat modeling, policy engines, secrets management,
+    account recovery, authentication, and programmable
+    authorization.
+  - Make foundational build-vs.-buy decisions across
+    cryptography, custody, wallet, and security infrastructure
+    while ensuring the architecture can evolve alongside new
+    blockchain standards and cryptographic techniques.
+
+  What We're Looking For
+
+  - Deep expertise in one or more areas of wallet, custody,
+    cryptography, or security infrastructure, combined with
+    strong distributed systems and architecture fundamentals.
+  - Experience designing or building production wallet, custody,
+    signing, or key management systems, particularly
+    infrastructure responsible for securing high-value assets.
+  - Strong knowledge of applied cryptography, such as MPC,
+    threshold cryptography, threshold signatures, distributed
+    key generation, ECDSA, EdDSA, or secure multiparty
+    computation.
+  - Experience with HSMs, secure enclaves, TEEs, confidential
+    computing, hardware-backed key isolation, or other
+    security-critical infrastructure.
+  - Strong understanding of modern wallet and blockchain account
+    architecture, including EOAs, smart contract wallets,
+    account abstraction, ERC-4337, transaction orchestration,
+    and multichain systems.
+  - Experience designing authentication, authorization, policy,
+    permissions, recovery, or secrets-management systems where
+    security and correctness are critical.
+  - A track record of making high-leverage architectural
+    decisions in complex distributed systems, including
+    evaluating tradeoffs across security, reliability,
+    developer experience, and extensibility.
+  - The ability to form strong technical opinions, communicate
+    tradeoffs clearly, and own architecture from first
+    principles through production, rather than simply
+    integrating existing wallet or custody providers.
+
+  Things that enable a fulfilling, healthy and happy
+  experience at Rain:
+
+  Unlimited time off 🌴 Unlimited vacation can be daunting, so
+  we require Rainmakers to take 10 days minimum for
+  themselves.
+
+  Flexible working ☕ We support a flexible workplace – work
+  from home, come into an office, or both. We want everyone to
+  work in an environment where they're their most confident
+  and productive selves. New Rainmakers receive a stipend to
+  set up a comfortable home workspace.
+
+  Easy to access benefits 🧠 For US Rainmakers, we cover 95% of
+  your health, dental, and vision plan costs and 90% for your
+  dependents, plus a 100% company-subsidized life insurance
+  plan.
+
+  Retirement goals💡 Plan for the future with confidence. We
+  offer a 401(k) with a 4% company match.
+
+  Equity plan 📦 Every Rainmaker gets an equity option plan so
+  we all benefit from our success.
+
+  Health and Wellness 📚 High performance begins from within.
+  Rainmakers receive a monthly stipend to be used for eligible
+  health and wellness spending like gym memberships/fitness
+  classes, massages, acupuncture - whatever recharges you!
+
+  In-office meals 🍜 Rainmakers working from the office enjoy
+  lunch and dinner on us, covered with a DoorDash credit.
+
+  Team summits ✨ Summits play an important role at Rain. Time
+  together helps us build relationships and a common destiny.
+  Expect team and company offsites, both domestic and
+  international.
+industries:
+  - Blockchain
+  - Fintech
+  - Payments
+  - Financial Services
+  - Cryptocurrency
+  - Web3
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-09-03
+url: "https://builtin.com/job/software-engineer-wallets/11005604"
+source: Built In

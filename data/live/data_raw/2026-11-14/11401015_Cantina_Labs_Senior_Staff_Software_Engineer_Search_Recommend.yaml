@@ -1,0 +1,134 @@
+job_id: 11401015
+title: "Senior Staff Software Engineer, Search & Recommendation"
+company: Cantina Labs
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 364 Employees
+description: |
+  About Cantina:
+
+  Cantina Labs is a social AI company, developing a suite of
+  advanced real-time models that push the boundaries of
+  expression, personality, and realism. We bring characters to
+  life, transforming how people tell stories, connect, and
+  create. We build and power ecosystems. Cantina, our flagship
+  social AI platform, is just the beginning.
+
+  If you're excited about the potential AI has to shape human
+  creativity and social interactions, join us in building the
+  future!
+
+  About the Role:
+
+  Cantina is a place where people create AI characters and the
+  videos those characters star in, and the catalog grows far
+  faster than anyone can browse. Search and recommendations
+  are what turn that catalog into a product: they decide which
+  characters a new user meets in their first minute, which
+  creators get discovered, and what appears in every feed,
+  leaderboard, and discovery surface we ship. We are hiring a
+  Senior Staff Software Engineer to own that area end to end —
+  retrieval, ranking, relevance quality, and the roadmap for
+  all three. This is the first dedicated hire for search and
+  recommendations, so you will inherit a real production
+  system serving live traffic along with a large amount of
+  unclaimed ground, and you will set the technical direction
+  rather than execute someone else’s.
+
+  What you'll do:
+
+  - Own the architecture and roadmap for search and
+    recommendations end to end — query understanding,
+    retrieval, ranking, and the surfaces they feed: search,
+    discovery, the home feed, and our trending and creator
+    leaderboards.
+  - Make relevance a measured discipline rather than an opinion:
+    define the quality metrics per surface, build the offline
+    evaluation and golden-set tooling, and run the online
+    experiments that decide whether a ranking change ships.
+  - Design and evolve the ranking stack — engagement signal
+    pipelines, decay and freshness models, and the pattern we
+    use to combine pre-computed index-time signals with live
+    re-ranking at query time.
+  - Own OpenSearch in production: index and mapping design,
+    reindex and cutover safety, query performance, cost, and
+    the operational headroom of the clusters behind every
+    discovery surface.
+  - Build candidate generation and personalization for
+    recommendation surfaces, and partner with data and ML on
+    the feature pipelines and models behind them.
+  - Work directly with Product and Trust & Safety on what “good”
+    means for each surface — quality gates, cold-start
+    behavior for brand-new creators and characters, and what
+    must never be recommended.
+  - Set the engineering standard for the area: instrumentation,
+    flag-gated rollouts, and runbooks that let other teams
+    change ranking behavior without breaking it.
+  - Act as the technical point of contact for discovery across
+    backend teams, and mentor the engineers whose work touches
+    it.
+
+  What you'll bring:
+
+  - 10+ years building production software, with substantial
+    depth in search, ranking, recommendations, or ML-driven
+    relevance on a consumer-scale product.
+  - Hands-on expertise with a production search engine —
+    OpenSearch, Elasticsearch, Lucene, Vespa, or similar —
+    covering index and analyzer design, relevance tuning, and
+    operating the cluster, not only querying it.
+  - A rigorous approach to relevance measurement: you have owned
+    offline evaluation, golden sets, and A/B or interleaving
+    frameworks, and you can explain what moved a metric and
+    why.
+  - Fluency across the recommender stack — candidate generation,
+    feature pipelines, embedding retrieval, re-ranking — and a
+    working understanding of the serving constraints that make
+    an offline win fail online.
+  - Strong distributed systems and backend fundamentals, with
+    production experience in Go or a comparable systems
+    language, and comfort in the data layer behind it (SQL
+    warehouses, streaming and batch pipelines).
+  - Demonstrated ownership of an ambiguous area: you have picked
+    up something with no dedicated owner, decided what
+    mattered, and can show the result.
+  - Clear written communication and the judgment to work with
+    Product on real tradeoffs between relevance, freshness,
+    safety, and latency.
+  - Preferred: experience with AI-generated or rapidly growing
+    content catalogs, severe cold-start conditions, or ranking
+    under trust-and-safety constraints.
+
+  Compensation:
+
+  The anticipated annual base salary range for this role is
+  between $250,000 - $320,000 (USD). When determining
+  compensation, a number of factors will be considered,
+  including skills, experience, job scope, location, and
+  competitive compensation market data.
+
+
+
+  Benefits:
+
+  - Competitive salary and generous company equity
+  - Medical, dental, and vision insurance – 99.99% of premiums
+    covered by Cantina
+  - 42 days of paid time off, including:
+    - 15 PTO days
+    - 10 sick days
+    - 15 company holidays
+    - 2 floating holidays
+  - Generous parental leave & fertility support
+  - 401(k) retirement savings plan
+  - Lifestyle spending account – $500/month to use however you’d
+    like
+  - Complimentary lunch and snacks for in-office employees
+  - One Medical membership, and more!
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-09-28
+url: "https://builtin.com/job/senior-staff-software-engineer-search-recommendation/11401015"
+source: Built In

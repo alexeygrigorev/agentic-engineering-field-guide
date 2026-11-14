@@ -1,0 +1,193 @@
+job_id: 12209885
+title: Senior Software Engineer
+company: Anaconda
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 450 Employees
+description: |
+  About AnacondaBe at the center of AI
+
+  Anaconda is built to advance AI with open source at scale,
+  giving builders and organizations the confidence to increase
+  productivity, and save time, spend and risk associated with
+  open source. 95% of the Fortune 500 including Panasonic,
+  AmTrust, Booz Allen Hamilton and over 50 million users rely
+  on the value The Anaconda AI Platform delivers through a
+  centralized approach to sourcing, securing, building, and
+  deploying AI. With 21 billion downloads and growing,
+  Anaconda has established itself as the gold standard for
+  Python, data science, and AI and the enterprise-ready
+  solution of choice for AI innovation. Anaconda is backed by
+  world-class investors including Insight Partners. Learn more
+  at https://www.anaconda.com.
+
+  Summary:
+
+  We're building the Enkrypt Platform (guardrails, red
+  teaming, and policy enforcement for AI applications) and
+  integrating it into Anaconda's broader AI enablement
+  platform. Our development and research team is based in
+  India, and we need our first US based senior engineer to
+  bridge time zones, lead customer issue response during US
+  business hours, and turn cutting edge research capabilities
+  into reliable, enterprise grade product features. You'll own
+  full stack delivery, shape architecture, and build the
+  engineering foundations that scale our platform for
+  Anaconda's growing customer base.
+
+  What You'll Do:
+
+  - Design and ship full stack features across our
+    Next.js/React/TypeScript dashboard and Python/FastAPI
+    backend services.
+  - Build secure, versioned APIs and extend our Kong API gateway
+    with custom plugins for authorization (OpenFGA, OAuth 2.x)
+    and rate limiting
+  - Develop async workloads on Argo Workflows and NATS
+    JetStream, owning GitOps deployments through ArgoCD, Helm,
+    and Kubernetes
+  - Improve reliability, latency, and observability for
+    production services using OpenTelemetry, Prometheus, and
+    Grafana, joining the on call rotation to support
+    enterprise customers
+  - Productionize research team capabilities (guardrails and red
+    teaming features built on LiteLLM and vLLM) into backward
+    compatible, testable product code
+  - Use AI coding agents daily (Kilo) to design, build, and
+    review faster, and help the team adopt effective AI
+    assisted workflows
+  - Strengthen CI/CD pipelines, increase test coverage, and
+    improve supply chain security with image signing, SBOMs,
+    and vulnerability scanning
+  - Lead US business hours customer issue response, writing
+    clear handoffs to the India team and collaborating with
+    product, customer success, and platform teams across
+    Anaconda
+
+  Your impact will be measured through:
+
+  - Platform uptime, error rates, and guardrail response times
+    improve, demonstrating increased reliability and
+    performance for enterprise customers
+  - Lead time to production decreases and change failure rate
+    drops as CI/CD maturity and test coverage increase
+  - Time to resolve customer issues during US business hours
+    decreases, reducing overnight wait times and improving
+    customer satisfaction
+  - Adoption of Enkrypt capabilities across Anaconda's customer
+    base grows as research features become production ready
+    and integrated into the broader platform
+
+  What You Need:
+
+  - 5+ years of software engineering experience with
+    demonstrated full stack ownership (frontend and backend)
+    in production environments
+  - Experience owning production services end to end, including
+    responding to incidents, maintaining backward
+    compatibility, and improving reliability over time
+  - Proficiency building and deploying web applications and APIs
+    using modern frameworks (React, Next.js, FastAPI, or
+    similar)
+  - Ability to make autonomous technical decisions, write clear
+    documentation and handoffs, and operate as the senior
+    engineer online during US hours
+  - Willingness to travel for department meetings 2 to 3 times
+    per year and to India 1 to 2 times per year, and to
+    participate in an on call rotation
+
+  What Will Make You Stand Out:
+
+  - You've worked at a fast paced startup where you wore
+    multiple hats, built foundations from scratch, and shipped
+    features under ambiguity
+  - You have experience at an open source, AI, or data science
+    company and understand the unique demands of supporting
+    developer facing enterprise platforms
+  - You're fluent with Kubernetes, GitOps tooling (ArgoCD,
+    Helm), infrastructure as code (Terraform), and cloud
+    platforms (AWS, EKS), and you've built or extended API
+    gateways
+  - You've productionized machine learning or AI research,
+    turning experimental code into reliable, testable services
+    that enterprise customers depend on
+  - You're an effective communicator across time zones and
+    cultures, experienced collaborating with geographically
+    distributed teams and writing handoffs that reduce
+    friction
+  - You embody our values: 'Curious by Default', 'Build
+    Together', 'Own It', and 'Lead with Guts and Heart', and
+    our behaviors: Clarity, Care and Candor
+  - You care deeply about fostering an environment where people
+    of all backgrounds and experiences can flourish
+
+  Why You'll Like Working Here:
+
+  - You'll thrive in a high-performance environment where
+    results are recognized and rewarded
+  - Your work directly contributes to shaping the future of data
+    science, machine learning, and AI in the enterprise.
+  - You'll work alongside a collaborative team that values
+    diverse, thoughtful discussion, clarity and candor.
+  - You'll be supported by a culture that puts employees first -
+    with flexible hours, a fully remote setup, and a genuine
+    commitment to your wellbeing and growth.
+
+  The application deadline for this role is 01/12/2027;
+  applicants will be reviewed on an ongoing basis until the
+  role is filled.
+
+  The base salary range for this role is $141,500 - $190,500,
+  along with annual bonus potential, equity participation, and
+  benefits.
+
+  Our salary ranges are determined by role, level, and
+  location. Within the range, individual compensation is
+  determined by various factors, including work location, job-
+  related skills, experience, and relevant education or
+  training. Your recruiter will provide more specific details
+  on the salary range for your preferred location during the
+  hiring process.
+
+  In addition to base salary, we offer a comprehensive
+  benefits package that includes:
+
+  - Flexible Vacation Policy
+  - Medical, Dental, and Vision Insurance
+  - Short Term and Long Term Disability
+  - Paid Parental Leave
+  - Monthly Wellness Stipend
+  - Employee Assistance Program and Mental Health Resources
+
+  An Equal Opportunity Employer. All qualified applicants will
+  receive consideration for employment without regard to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, or protected veteran status and will not be
+  discriminated against on the basis of disability.
+
+  Anaconda, Inc. (“We”, “Us”) are committed to protecting and
+  respecting your privacy. This Privacy Notice sets out the
+  basis on which the personal data collected from you, or that
+  you provide to Us, will be processed by Us in connection
+  with Our recruitment processes.
+
+  By clicking “Submit Application”, you acknowledge you have
+  read our Privacy Policy and that Anaconda can retain your
+  application data for up to 1-year, unless otherwise stated.
+  For the purpose of the General Data Protection Regulation
+  (“GDPR”) ”) and the version of the GDPR retained in UK law
+  (the “UK GDPR”) the Data Controller is Vanessa Macilwaine.
+
+  Anaconda is an EEO/AA employer M/F/V/D.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Machine Learning
+  - Security
+  - Software
+  - Cybersecurity
+  - Big Data Analytics
+posted_date: 2026-11-12
+url: "https://builtin.com/job/senior-software-engineer/12209885"
+source: Built In

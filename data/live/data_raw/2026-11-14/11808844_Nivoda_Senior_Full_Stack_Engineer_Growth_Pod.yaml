@@ -1,0 +1,218 @@
+job_id: 11808844
+title: Senior Full Stack Engineer – Growth Pod
+company: Nivoda
+location: New York, USA
+work_type: FULL_TIME
+company_size: 450 Employees
+description: |
+  About Nivoda
+
+  Nivoda is the operating system for the global jewellery
+  industry. We connect diamond and gemstone suppliers directly
+  with jewellery retailers across more than 70 countries,
+  replacing a slow, offline, relationship-gated way of trading
+  with a single digital marketplace. We're already powering
+  over $300M in annual transactions, inside an industry worth
+  more than $350B globally and we're still early. Jewellery is
+  one of the last major global industries to go digital, and
+  we're the ones building the rails it will run on.
+
+  Our Mission
+
+  Diamond and gemstone trading has run for decades on
+  fragmented networks, manual processes, and who-you-know
+  relationships which locks smaller and newer businesses out,
+  and leaves even the biggest players losing time and margin
+  to inefficiency. We started Nivoda to fix that: to give any
+  jewellery business, wherever it is and whatever size it is,
+  the same access, pricing transparency, and ease of trading
+  as an industry giant. Our mission is to make buying and
+  selling diamonds and gemstones radically simpler, everywhere
+  in the world.
+
+  The Growth Pod
+
+  You'd be joining the Growth Pod, the team responsible for
+  everything that happens between a business discovering
+  Nivoda and becoming one of our most valuable customers:
+  sign-up, onboarding, verification, activation, and the
+  ongoing work of keeping accounts engaged instead of letting
+  them slip away. We're a small, high-ownership team inside an
+  engineering org that moves fast and expects you to bring
+  judgement, not just code. You'll work closely with Product,
+  Data, and Risk, and you'll have a real say in how we solve
+  problems that don't yet have a playbook.
+
+  About the Role
+
+  We’re hiring a Senior Engineer for the Growth Pod to own
+  both the backend systems and the front-end experiences that
+  turn a new sign-up into an active, paying customer — the
+  services and screens that decide whether a business converts
+  or falls out of the funnel. The problems worth solving here
+  span Sign-up/Onboarding, Discovery, and Checkout: you’ll
+  build the sign-up, onboarding, verification and checkout
+  experiences that decide whether a business converts, and the
+  services behind them that keep each account moving from
+  activation to repeat purchase. You’ll own a flow end to end,
+  from the screen a new jeweller sees to the data that tells
+  us whether it worked.
+
+  Our tech Stack
+
+  - Frontend: React / Next.js
+  - Backend: TypeScript/Node.js, GraphQL API gateway, Nx
+    monorepo + PNPM
+  - Platform & Data: OpenSearch fed via CDC from PostgreSQL plus
+    Spark/EMR/Glue ingestion jobs. PostgreSQL (OLTP) →
+    Snowflake (dbt-modeled, medallion raw/curated/presentation
+    layers). Jenkins (“Nivoda Build”) + GitOps for deploys.
+    AWS (EMR, Glue, DMS, Kubernetes-based deploys)
+  - Analytics: Segment/Mixpanel
+  - Auth: Keycloak · SSO: Okta
+  - Observability: Grafana for logs/traces.
+
+  What would you be doing?
+
+  Customer Facing Experience
+
+  - Build and ship React/Next.js interfaces for sign-up,
+    onboarding, verification, discovery and checkout.
+  - Partner with Design and Product to turn funnel insights into
+    UI changes, and test them.
+  - Own front-end performance, accessibility and analytics
+    instrumentation for the funnel.
+  - Build reusable components in our design system (MUI) that
+    represent the Nivoda brand.
+
+  Core Funnel & Lifecycle Systems
+
+  - Own and evolve the backend services behind onboarding,
+    verification, activation, and the broader sign-up-to-
+    purchase funnel, most likely in TypeScript/Node.js given
+    our stack
+  - Design and build event-driven, workflow-orchestrated systems
+    that evaluate account state continuously — activation,
+    slipping, winback, lapsed, churned — and trigger the right
+    action automatically, rather than relying on batch scripts
+
+  Identity, Risk & Trust
+
+  - Integrate with third-party identity verification, KYB/KYC,
+    and fraud/risk providers, and make sure those integrations
+    are resilient, well-monitored, and fail safely
+  - Handle credit and payment data responsibly as part of
+    personalization and reactivation logic, with full
+    awareness of what’s at stake if that logic is subtly wrong
+
+  Experimentation & Analysis
+
+  - Design and run experiments properly — including defining
+    guardrail metrics and knowing when a result is real versus
+    noise — for things like referral incentives, reactivation
+    offers, and onboarding changes
+  - Write your own SQL and work directly in the warehouse
+    (Snowflake or similar) to run cohort analysis, diagnose
+    time-to-activation and time-to-churn, and get to the
+    bottom of funnel problems without waiting on a data team
+  - Take on problems that don’t have an established playbook —
+    like a credit utilization gap or a signup-to-purchase
+    conversion decline — and help define the problem, not just
+    solve a given brief
+
+  Building with AI
+
+  - Use AI agents to accelerate building and testing funnel and
+    lifecycle services, with extra care reviewing anything
+    that touches credit, payment, or verification logic
+  - Use AI to help draft and sanity-check your own analytical
+    queries, while owning full responsibility for verifying
+    results before they inform a real decision
+  - Evaluate AI-generated output - personalized messaging,
+    reactivation copy, churn-cause suggestions — critically,
+    rather than shipping whatever the model produces
+    uncritically
+
+  What do we need from you?
+
+  - Years of Experience: 4 - 7 years
+  - Strong full stack product engineering experience, with real
+    ownership of customer-facing, production features, from UI
+    to service
+  - Deep experience with React/TypeScript and modern front-end
+    practices (state management, performance, accessibility,
+    testing)
+  - Genuine experimentation rigor: you've designed experiments
+    properly, you understand guardrail metrics, and you know
+    when a result is real versus noise
+  - Experience with, or appetite for, and workflow orchestration
+    — workflow engines or event pipelines that evaluate state
+    continuously and trigger actions automatically
+  - Strong SQL and warehouse fluency (Snowflake or similar), and
+    the confidence to do your own cohort and funnel analysis
+    rather than waiting on a data team
+  - Comfort using AI agents to build and test software and to
+    draft and sanity-check analytical work, paired with the
+    judgement to catch the subtle errors a reasonable-looking
+    AI output can hide
+  - High tolerance for ambiguity you're energised by problems
+    that don't have an established playbook, not just ones
+    with a clear spec
+  - Practical fluency evaluating AI-generated output for fitness
+    before it ships, whether that's copy, messaging, or a
+    suggested root cause
+
+  Nice to have
+
+  - Direct experience integrating with identity verification,
+    KYB/KYC, or fraud and risk providers
+  - Fintech-adjacent experience handling credit, payment, or
+    other sensitive financial data responsibly
+  - Experience in a high-growth marketplace or fintech
+    environment with similar account lifecycle complexity
+  - Familiarity with workflow/orchestration tooling such as
+    Temporal, AWS Step Functions, or event-streaming platforms
+    like Kafka
+
+  Our culture and what we offer
+
+  We're a collaborative, high-growth team that believes in
+  empowerment over hierarchy. You'll have real ownership from
+  day one, the chance to work on problems most companies don't
+  even know they have yet, and a culture that takes learning
+  and growth seriously — because we're scaling fast, and we
+  need you to grow with us.
+
+  Our current benefits
+
+  - 🏡 Flexible working hours and a remote-first culture
+  - 📈 Real opportunities for growth and learning
+  - 🌴 Unlimited holiday allowance
+  - 🚀 The chance to join during an exponential expansion phase
+
+   Equal Opportunity
+
+  Nivoda is an equal opportunity employer. We're committed to
+  building a diverse and inclusive team, and we welcome
+  applications from people of all backgrounds, regardless of
+  race, gender, age, religion, sexual orientation, disability,
+  or any other characteristic protected by law. Even if it
+  seems you don't meet 100% of our musts, don't let that stop
+  you from applying — we'd still love to hear from you.
+
+  Please submit your CV in English.
+
+  Not quite the right role?
+
+  Join the Nivoda Talent Pool and we'll reach out when
+  something that's a better fit comes up.
+industries:
+  - eCommerce
+  - Fintech
+  - Logistics
+  - Other
+  - Retail
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-10-22
+url: "https://builtin.com/job/senior-full-stack-engineer-growth-pod/11808844"
+source: Built In

@@ -1,0 +1,104 @@
+job_id: 11442369
+title: Software Engineer
+company: White Swan Data
+location: London, GBR
+work_type: FULL_TIME
+company_size: 85422 Employees
+description: |
+  We are looking for a Developer to join our small, dynamic
+  team building cutting-edge football trading systems. You'll
+  work on low-latency market-making infrastructure across a
+  range of prediction markets and trading venues, alongside
+  the real-time data pipelines that feed our models, including
+  LLM-driven systems that turn social media and other
+  unstructured sources into structured data. This is an
+  opportunity to work on challenging technical problems in a
+  collaborative environment where your contributions directly
+  impact our platform's success.
+
+  Key Responsibilities
+
+  - Collaborate closely with our traders, quants and football
+    analysts to ensure data utility and accuracy
+  - Design, develop, and maintain data acquisition systems
+    taking inputs from social media and other unstructured
+    online sources, which produce timely structured data for
+    internal use in models and trading systems
+  - Implement and maintain relational database schemas and API
+    integrations which interface the above with internal
+    modeling and trading systems
+  - Enhance and refactor existing systems for scale and
+    performance
+  - Monitor and optimize system performance to maintain and
+    improve low-latency pipelines
+  - Collaborate closely with football analyst team to ensure
+    data utility and accuracy
+
+  Skills, Knowledge and Expertise
+
+  - Postgres: Familiarity with Postgres and/or other traditional
+    RDBMS.
+  - Programming Proficiency: Strong skills in Java (Spring),
+    experience in Python, and working knowledge of R
+  - Cloud & Infrastructure: Hands-on experience with Google
+    Cloud Platform (GCP) and Docker containerization
+  - API Development: Experience building and integrating with
+    RESTful APIs, particularly for real-time applications
+  - AI/LLM integration: Experience with design and delivery of
+    analytics pipelines which include LLM elements for
+    conversion of unstructured to structured data: familiarity
+    with prompt engineering in this domain with OpenAIand/ or
+    other frontier model APIs
+  - Version Control & CI/CD: Proficiency with Git and modern
+    deployment practices
+
+  Benefits
+
+  - Salary depending on experience.
+  - Annual discretionary performance bonus.
+  - 25 days holiday per annum, plus UK bank holidays.
+  - Private health & dental insurance.
+  - Optical cover through Aviva.
+  - Pension plan.
+  - Gympass membership to over 1900 gyms and wellness
+    businesses.
+  - Breakfast bought in everyday and lunch bought in twice a
+    week
+  - Free coffee & snacks at the office.
+  - Regular team events & socials.
+
+  About Technology is at the heart of our business and has
+  produced consistent and significant results. We are a small
+  but rapidly growing team of mathematicians, data scientists
+  and software engineers constantly striving to refine our
+  world class statistical models while also researching and
+  deploying new ones.Our work bridges three domains, each
+  challenging in its own right - iGaming, quantitative
+  research and software development. This convergence demands
+  a rare blend of skills and creativity to identify and
+  capitalise on inefficiencies across the iGaming landscape.
+  The opportunities are vast, but we are only as good as the
+  people we bring on board.As a startup, we offer a dynamic
+  and entrepreneurial environment where you’ll work on
+  impactful projects and have the autonomy to explore new
+  ideas. In-person collaboration and innovation are at the
+  heart of what we do, and we are always looking for
+  individuals who can contribute their unique perspectives and
+  talents to help us stay ahead in a constantly evolving
+  industry.At White Swan Data, we recognise that building a
+  diverse and inclusive workforce within a highly technical
+  field presents both opportunities and challenges. We
+  recognise the value that a variety of perspectives can bring
+  to innovation, problem-solving, and business success. A team
+  composed of individuals from different backgrounds,
+  experiences, and ways of thinking fosters creativity,
+  enhances decision-making, and ultimately strengthens our
+  ability to tackle complex challenges.
+industries:
+  - Big Data
+  - Information Technology
+  - Software
+  - Analytics
+posted_date: 2026-09-30
+url: "https://builtin.com/job/software-engineer/11442369"
+source: Built In

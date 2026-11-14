@@ -1,0 +1,79 @@
+job_id: 9750055
+title: Senior Software Engineer
+company: Midpage
+location: New York, USA
+work_type: FULL_TIME
+company_size: 7 Employees
+description: |
+  Midpage is the legal search engine quietly powering the
+  largest AI and legal technology companies in the world. More
+  than 300 law firms use our products, 200k people read cases
+  on Midpage each month, and 5 multibillion-dollar
+  organizations including Perplexity trust us as their legal
+  data supplier. Our ARR has 10x’d to $3M in the past few
+  months.
+
+
+
+  We're hiring a senior software engineer to help build the
+  largest case law dataset. Our data coverage includes US laws
+  and court decisions and powers our lawyer-facing AI platform
+  and B2B data services.
+
+  Responsibilities include:
+
+  - Building pipelines that augment documents with metadata,
+    e.g., which decisions overrule another decision, which
+    decisions are an appeal/remand/consolidation of another
+    decision, etc. Our competitors still label these by humans
+    making $300+/hr.
+  - Building systems to ensure the reliability and accuracy of
+    hundreds of web scrapers.
+  - Optimizing and evaluating our core utils, which do things
+    like extracting and resolving citations, determining which
+    courts are able to overrule which other courts, etc.
+  - Exposing core services on our data via APIs, MCPs,
+    websockets.
+  - Benchmarking and evaluation of core tasks (human and
+    synthetic).
+
+  We believe in skipping what can be skipped and appreciate
+  simple solutions to complex problems.
+
+  Good candidates for this role should be (1) technical
+  generalists, definitely across the backend (bonus for
+  fullstack), and (2) comfortable working with data pipelines,
+  including basic to intermediate infra/devops.
+
+  Interest/experience with stats/ML/AI is a bonus, but not
+  critical. You should be cautiously AI-pilled.
+
+  Tech stack isn't critical, Python and SQL are core.
+  Definitely be able to stand up your own projects on your
+  preferred infra end-to-end.
+
+  Role is in-person at our office in SoHo, NYC.
+
+  Compensation and benefits
+
+  - Base salary: $220,000–$280,000 per year
+  - Equity: up to 0.4%
+  - 401(k): 50% match on contributions up to 5% of salary
+  - Health insurance
+  - Lunch at office, dinner when staying late
+  - Unlimited PTO
+
+  Estimated total compensation: $319,000–$381,000
+
+  Skills: Python, PostgreSQL, ElasticSearch, Playwright, GCP,
+  Pinecone, Prefect, NeonDB.
+
+  Visa sponsorship available; relocation not available.
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Software
+  - Generative AI
+posted_date: 2026-08-12
+url: "https://builtin.com/job/senior-software-engineer/9750055"
+source: Built In

@@ -1,0 +1,160 @@
+job_id: 9172506
+title: Staff Software Engineer, Core Infrastructure
+company: Harvey
+location: New York, USA
+work_type: FULL_TIME
+company_size: 373 Employees
+description: |
+  Why Harvey
+
+  At Harvey, we’re transforming how legal and professional
+  services operate. By combining frontier agentic AI, an
+  enterprise-grade platform, and deep domain expertise, we’re
+  reshaping how critical knowledge work gets done for decades
+  to come.
+
+  This is a rare chance to help build a generational company
+  at a true inflection point. We have strong product-market
+  fit and world-class investor support. We’re scaling fast and
+  defining a new category in real time. The work is ambitious,
+  the bar is high, and the opportunity for growth — personal,
+  professional, and financial — is unmatched.
+
+  Our team moves fast, takes ownership, and is deeply
+  committed to the mission — operating with intensity, staying
+  close to our customers, and pushing each other for
+  excellence. We live by three values: Decisiveness,
+  Simplicity, and Job's Not Finished. We act quickly on clear
+  judgment over perfect information, we believe simplicity is
+  what scales, and we're never satisfied with where we are. If
+  you want to do the best work of your career alongside people
+  who share that drive, we'd love to build with you.
+
+  At Harvey, the future of professional services is being
+  written today — and we’re just getting started.
+
+  Role Overview
+
+  As a Staff Software Engineer on the Core Infrastructure team
+  at Harvey, you'll play a critical role in designing and
+  building new infrastructure systems while equally scaling
+  and strengthening our existing infrastructure. Our
+  infrastructure is the foundation that powers every user
+  interaction with Harvey — processing billions of prompt
+  tokens and millions of daily requests across our global
+  legal AI platform.
+
+  You'll work in an environment balanced between innovation —
+  building new systems — and operational excellence, ensuring
+  that Harvey remains resilient and efficient as it scales
+  products, regions, customers, and usage. Your contributions
+  will directly impact the reliability, scalability, and
+  security of our platform as we serve the world's leading law
+  firms and professional service providers.
+
+  This role is based in New York City, New York. We use an in-
+  person work model and offer relocation assistance to new
+  employees.
+
+  What You’ll Do
+
+  - Design and build scalable, fault-tolerant infrastructure
+    systems that power Harvey's AI platform across multiple
+    cloud regions
+  - Own and evolve our multi-cloud infrastructure (Azure, GCP),
+    including Kubernetes orchestration, networking, and
+    container management
+  - Lead technical initiatives around observability, incident
+    response, and operational excellence — building systems
+    that enable rapid detection and resolution of issues
+  - Architect and optimize our distributed systems for
+    reliability, including load balancing, quota management,
+    and failover mechanisms
+  - Partner with Product Engineering and Security teams to
+    ensure our infrastructure is an accelerant, not a
+    constraint
+  - Drive infrastructure-as-code practices using tools like
+    Terraform and Pulumi to enable reproducible, auditable
+    deployments
+  - Mentor engineers and raise the technical bar across the
+    organization through code reviews, design reviews, and
+    technical leadership
+
+  Representative Projects
+
+  - Design and implement a next-generation model proxy
+    architecture that routes millions of daily inference
+    requests while maintaining model API compatibility and
+    enabling seamless model integration
+  - Build distributed rate limiting and quota management systems
+    using Redis-backed algorithms to handle bursty traffic
+    patterns without degrading user experience
+  - Architect multi-region deployment strategies that meet
+    strict data residency requirements for global enterprise
+    customers
+  - Develop comprehensive observability infrastructure with
+    granular SLA monitoring, burn rate alerts, and detailed
+    token attribution for cost tracking
+  - Lead the evolution of our CI/CD pipelines to improve
+    developer velocity while maintaining production stability
+
+  What You Have
+
+  - 10+ years of experience in Infrastructure Engineering or
+    Platform Engineering in a production environment
+
+  - Long track record building and scaling complex, large-scale
+    distributed systems
+  - Deep proficiency with cloud infrastructure platforms (Azure
+    preferred; GCP or AWS experience transfers well)
+  - Strong fluency in Infrastructure as Code (IaC) tools —
+    Terraform, Pulumi, or CloudFormation
+  - Solid understanding of Kubernetes, container orchestration,
+    networking, and cloud security at scale
+  - Experience with observability tools (Datadog, Sentry) and
+    incident response practices (PagerDuty, Incident.io)
+  - Strong programming skills in Python, Go, or similar
+    languages
+  - Excellent problem-solving skills, a "spidey sense" of where
+    things could go wrong, and a commitment to operational
+    excellence
+
+  Nice to Have
+
+  - Experience building infrastructure for AI/ML workloads or
+    high-throughput inference systems
+  - Background with distributed rate limiting, load balancing,
+    or quota management systems
+  - Experience operating multi-tenant platforms with strict
+    security and compliance requirements
+  - Track record of leading complex cross-functional projects
+    and delivering measurable impact
+
+  Compensation Range
+
+  $201,000 - $264,000 USD
+
+  Depending on your location, an Applicant Privacy Notice may
+  apply to you. You can find all of our Applicant Privacy
+  Notices here.
+
+  #LI-AN2
+
+  Harvey is an equal opportunity employer and does not
+  discriminate on the basis of race, gender, sexual
+  orientation, gender identity/expression, national origin,
+  disability, age, genetic information, veteran status,
+  marital status, pregnancy or related condition, or any other
+  basis protected by law.
+
+  We are committed to providing reasonable accommodations to
+  applicants with disabilities, and requests can be made by
+  emailing accommodations@harvey.ai
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Professional Services
+  - Software
+posted_date: 2026-08-08
+url: "https://builtin.com/job/staff-software-engineer-core-infrastructure/9172506"
+source: Built In

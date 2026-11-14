@@ -1,0 +1,203 @@
+job_id: 12075995
+title: Senior Software Engineer, Tooling (West Coast Preferred)
+company: Docker, Inc
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 498 Employees
+description: |
+  About Docker
+
+  Docker has been one of the most loved brands in developer
+  tooling, trusted by more than 20 million monthly users and
+  over 20 billion container image pulls. From solo founders to
+  the world's largest companies, developers rely on Docker to
+  build, share, and run their applications across our suite of
+  products including Docker Desktop, Docker Hub, and Docker
+  Scout. We are a globally distributed, remote-first team
+  building the tools that define how software gets built and
+  delivered. As AI agents redefine software development,
+  Docker is at the center of that shift, providing the
+  sandboxed environments, verified images, and secure
+  infrastructure that make autonomous workflows trustworthy by
+  default.
+
+  ____________________________________________________________
+  ___________
+
+  The Role
+
+  Docker's Platform Engineering team builds and operates the
+  cloud-native platform behind Docker's products. Inside the
+  company, teams across Engineering and the business rely on a
+  growing set of internal applications, and each one is built,
+  deployed, and run a little differently.
+
+  We're looking for a Senior Engineer to give those
+  applications a common foundation and then build the custom
+  tools the business needs on top of it. You'll create a
+  framework that makes it easy to build and deploy internal
+  tools, including slack bots, web apps, workflows, etc, with
+  authentication, hosting, observability, and alerting in
+  place. You'll use it to build internally-facing tools to
+  support cross-org efforts: roadmapping, headcount
+  management, business reporting, etc. You'll decide when to
+  build, when to buy, and when to integrate an existing
+  product. You'll help shape how internal systems fit together
+  across the company.
+
+  This is a hands-on role. You'll own projects from scoping
+  through rollout and adoption, working with platform leads,
+  engineering teams, and business teams such as HR, Finance,
+  Marketing, and Customer Support.
+
+  ____________________________________________________________
+  ___________
+
+  What You'll DoInternal app framework
+
+  - Build and maintain a framework that makes it fast to create
+    and deploy internal applications and services, with
+    defaults for authentication, hosting, CI/CD, logging,
+    observability, and alerting
+  - Provide templates, documentation, and examples so teams can
+    ship their own tools without starting from scratch
+  - Set the standards for how internal apps are built, secured,
+    and run, and make the standard path the easiest one
+  - Leverage existing systems and sources of truth to build
+    cross-connects where they don’t exist
+
+  Custom business tooling
+
+  - Work across teams and organizations to understand where
+    tools, processes, or systems are falling short, and turn
+    those gaps into proposals that platform leads can
+    prioritize
+  - Scope and deliver apps and tooling to address identified
+    gaps
+  - Ship early versions quickly, learn from how people use them,
+    and improve them over time
+  - Own the tools you build through rollout, adoption, and
+    ongoing support
+
+  Build, buy, or integrate
+
+  - Evaluate whether a need is best met by building, buying, or
+    integrating an existing product, and recommend one with
+    the tradeoffs
+  - Connect tools to the systems the company already uses, such
+    as identity, data sources, and Slack, so they work
+    together
+  - Help shape the architecture of internal systems, so they
+    stay consistent and maintainable as the company grows
+
+  Reliability and AI
+
+  - Build operational basics into the framework, so every
+    internal app gets incident management, SLO, and alerting
+    defaults automatically
+  - Use AI tooling to speed up delivery and to automate
+    workflows where it adds value
+
+  ____________________________________________________________
+  ___________
+
+  What We're Looking ForRequired
+
+  - 6+ years of software engineering, including building and
+    shipping internal tools or full-stack web applications
+  - Strong full-stack skills: a backend language such as Go,
+    Python, or TypeScript, and a modern frontend framework
+  - Experience designing reusable frameworks, templates, or
+    platforms that other engineers build on
+  - Experience deploying to the cloud (AWS, GCP, or Azure) with
+    containers and CI/CD, and working knowledge of Kubernetes
+  - Sound judgment on build, buy, and integrate decisions, and
+    experience integrating third-party SaaS products and APIs
+  - Experience working directly with non-engineering
+    stakeholders to turn a need into a working tool
+  - Experience with AI-assisted development or LLM-powered
+    automation
+  - Clear written communication and comfort working
+    asynchronously on a remote team
+  - Bachelor's degree in Computer Science, Engineering, or a
+    related field, or equivalent practical experience
+  - Take part in the paid on-call rotation; respond to
+    incidents, debug production issues, and drive systemic
+    improvements in reliability.
+
+  Nice to Have
+
+  - Cross-functional experience in program management
+  - Experience with internal tool or developer portal platforms
+  - Web design experience
+  - Familiarity with observability and incident tooling
+    (incident.io, Grafana, Prometheus, or similar)
+  - Experience at a developer tooling or SaaS company at scale,
+    and familiarity with compliance and security standards
+
+  Visa sponsorship: Docker considers visa sponsorship on a
+  case-by-case basis based on business needs.
+
+  ____________________________________________________________
+  ___________
+
+  Compensation & Equity
+
+  All full-time roles include equity. Final compensation is
+  determined on factors including but not limited to
+  experience, skills, qualifications, and location.
+
+
+
+  United States: $160,900 – $260,700 base
+
+  ____________________________________________________________
+  __________
+
+  Posting Information
+
+  - Open vacancy: This posting is for an existing open role.
+  - AI in hiring: Docker may use AI-assisted tools during our
+    recruiting process.
+  - Interview recordings: Candidates will be invited to opt in
+    to interview recordings to support interviewer calibration
+    and consistent evaluations. Recordings are optional and
+    require explicit consent.
+
+  ____________________________________________________________
+  __________
+
+  Perks & Benefits
+
+  - Remote-first by design – Work from your home, with offices
+    in Seattle and Paris for connection and collaboration.
+  - Flexibility that fits your life – We trust you to manage
+    your schedule while delivering great work.
+  - Time to recharge – Generous PTO, designated quarterly
+    Whaleness Days, and a designated end-of-year Whaleness
+    break.
+  - Home office support – Set up your workspace for comfort and
+    success.
+  - Technology stipend – Equivalent to US$100 net per month to
+    help support your work.
+  - Learning & development – Annual stipend for conferences,
+    courses, certifications, and continued learning.
+  - Parental leave – 16 weeks of paid parental leave after six
+    months of employment.
+  - Equity for all full-time employees – Share in Docker's long-
+    term success as we continue to grow.
+  - Comprehensive benefits – Medical, retirement, and paid
+    holidays vary by country.
+  - Docker swag – Because representing the whale never gets old.
+
+  Docker is proud to be an equal opportunity employer. We are
+  committed to building a team that reflects a broad range of
+  backgrounds, experiences, and perspectives. We believe
+  diverse teams build better products, make better decisions,
+  and better serve our global community.
+
+  #LI-REMOTE
+posted_date: 2026-11-04
+url: "https://builtin.com/job/senior-software-engineer-tooling/12075995"
+source: Built In

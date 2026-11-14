@@ -1,0 +1,132 @@
+job_id: 9989981
+title: Sr. Go Software Engineer - Remote
+company: Yum! Brands
+location: USA
+locations:
+  - USA
+  - Plano, USA
+remote: true
+work_type: FULL_TIME
+company_size: 6,056 Employees
+description: |
+  As the Sr. Software Engineer II (Technical Lead) for Byte
+  Edge, you will own the technical direction and hands-on
+  implementation of our edge computing platform that powers
+  restaurant operations across thousands of locations. You
+  will act as a senior individual contributor and technical
+  leader, setting architectural direction while remaining
+  deeply involved in building core systems. Byte Edge enables
+  quick-service restaurants to operate autonomously at the
+  store level, sustaining 24+ hours of offline operation while
+  processing thousands of daily orders with reliable
+  synchronization to POS systems, kitchen displays, and
+  management dashboards.
+
+  You will design and build distributed systems that run on
+  in-store hardware, balancing performance, reliability, and
+  operational simplicity in environments with intermittent or
+  unreliable connectivity.
+
+
+  Responsibilities
+
+  - Lead the architecture and implementation of edge services in
+    Go, including the cloud-to-edge synchronization bridge and
+    authentication gateway
+  - Design and optimize messaging patterns for high-throughput,
+    low-latency event streaming across unreliable networks
+  - Own the technical strategy for offline-first architecture,
+    ensuring durability and eventual consistency during
+    extended network outages
+  - Build and maintain Kubernetes deployments via Helm charts
+    for edge clusters managed through Spectro Cloud Palette
+  - Optimize services for memory, CPU, and disk constrained
+    environments typical of in-store hardware
+  - Collaborate with cloud platform teams to design seamless
+    cloud-to-edge data flows using MQTT-based bridging
+  - Provide technical leadership through architecture reviews,
+    code reviews, and mentorship of engineers
+  - Partner with Product and DevOps to plan phased rollouts and
+    gradual migrations from legacy systems
+
+  Qualifications
+
+  - Bachelor’s degree in Computer Science, Information Systems,
+    or equivalent practical experience
+  - 7+ years of professional software engineering experience,
+    including experience operating production distributed
+    systems
+  - Experience acting as a technical lead, owning system design
+    and guiding engineering decisions
+  - Technical proficiency in
+  - Go (1.21+) for high-performance, low-memory service
+  - Distributed messaging systems such as NATS JetStream, Kafka,
+    or similar
+  - Kubernetes and Helm for container orchestration
+  - Authentication and authorization using OAuth2 and JWT
+
+  Strong experience with
+
+  - Event-driven and streaming architectures
+  - CI/CD pipelines such as GitLab CI or GitHub Actions
+  - Docker and containerized service development
+  - Designing systems for resource-constrained or embedded
+    environments
+
+  Additional Qualifications
+
+  - Experience with MQTT and cloud-to-edge messaging bridges
+  - Experience with edge Kubernetes management platforms such as
+    Spectro Cloud Palette
+  - Knowledge of high-availability patterns including multi-node
+    clustering and fast failover
+  - Background in restaurant technology, point-of-sale systems,
+    or retail operations
+  - Experience with GraphQL federation or domain graph services
+
+  Why this role matters
+
+  This role will directly shape how Byte delivers reliable,
+  offline-capable technology to thousands of restaurants
+  globally. The systems you design will be foundational to in-
+  store resiliency, developer velocity, and operational
+  excellence across the Byte platform.
+
+  Salary Range: $131,100-$164,300 annually + bonus
+  eligibility. This is the expected salary range for this
+  position. Ultimately, in determining pay, we'll consider the
+  successful candidate’s location, experience, and other job-
+  related factors.
+
+  Benefits: Employees (and their eligible family members) may
+  enroll in the following types of insurance coverage:
+  medical, dental, vision, legal, and accidental death and
+  dismemberment, as well as FSA/HSA (depending on enrolled
+  medical plan). Yum! also provides short-term disability,
+  long-term disability, and life insurance. Employees may
+  enroll in our 401(k) plan. Yum! provides 4 weeks of
+  vacation, paid sick leave, 10 paid holidays, a floating day
+  off and 2 paid days for volunteer time each calendar year.
+  To learn more about working at Yum! -Click here.
+
+  At Yum!, one of our core values is to Believe in ALL People.
+  This means seeing the value in everyone and unlocking their
+  full potential to be their best self. YUM! Brands, Inc.
+  (including its subsidiaries Yum Restaurant Services Group,
+  LLC (“YRSG”) and Yum Connect, LLC (“Yum Digital and
+  Technology”)(collectively, “Yum”) is proud to be an equal
+  opportunity employer and is committed to equity, inclusion,
+  and belonging for all dimensions of diversity.  We do not
+  discriminate based on race, color, religion, sex, sexual
+  orientation, gender identity, national origin, veteran
+  status, disability status, age, or any other protected
+  characteristic. Yum! is committed to working with and
+  providing reasonable accommodation to applicants with
+  disabilities or special needs.
+
+  US Job Seekers/Employees - Click here to view the “Know Your
+  Rights” poster and supplement and the Pay Transparency
+  Policy Statement.
+posted_date: 2026-08-01
+url: "https://builtin.com/job/sr-go-software-engineer-remote/9989981"
+source: Built In

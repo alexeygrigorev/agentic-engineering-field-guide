@@ -1,0 +1,343 @@
+job_id: 9966863
+title: Principal Software Engineer, Developer Tools (US West Coast)
+company: Docker, Inc
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 498 Employees
+description: |
+  About Docker
+
+  Docker has been one of the most loved brands in developer
+  tooling, trusted by more than 20 million monthly users and
+  over 20 billion container image pulls. From solo founders to
+  the world's largest companies, developers rely on Docker to
+  build, share, and run their applications across our suite of
+  products including Docker Desktop, Docker Hub, and Docker
+  Scout. We are a globally distributed, remote-first team
+  building the tools that define how software gets built and
+  delivered. As AI agents redefine software development,
+  Docker is at the center of that shift, providing the
+  sandboxed environments, verified images, and secure
+  infrastructure that make autonomous workflows trustworthy by
+  default.
+
+  ____________________________________________________________
+  ___________
+
+  The Role
+
+  Docker seeks a Principal Software Engineer to define the
+  technical vision and architecture for our internal Developer
+  Tools team. This is a rare opportunity to establish how
+  software is designed, built, shipped, and operated at
+  Docker. With the addition of AI we are modernizing our SDLC
+  and building the mechanisms that make the right way the easy
+  way for every engineer.
+
+  You'll own the technical strategy across four interconnected
+  pillars:
+
+  - Platform Engineering & Self-Service: Design and build the
+    internal developer platform that empowers teams across
+    Docker to unblock themselves, rapidly scaffolding,
+    prototyping, deploying, and operating their own services
+    and tools.
+  - CI/CD & Build Systems: Define Docker's technical approach to
+    continuous integration, delivery, and build
+    infrastructure. Establish architectural standards for
+    pipeline tooling, GitOps deployment patterns, build
+    substrate, and release engineering.
+
+  As Principal Software Engineer, you'll partner with
+  engineering leadership across Docker, principal engineers,
+  Security, Infrastructure, and the service teams to author
+  the SDLC tenets that underpin all of this work, and build
+  the mechanisms those tenets run through.
+
+  Reporting to the Sr Manager of Developer Tools, you'll
+  collaborate closely with engineering leadership across
+  Docker, product engineering teams, platform teams, and
+  ultimately customers as internal tools evolve into product
+  offerings.
+
+  ____________________________________________________________
+  ___________
+
+  What Would Make Someone Successful in This Role
+
+  You're a technical leader who excels at the intersection of
+  developer experience, platform engineering, and systems
+  design. You think in platforms and golden paths, building
+  once and enabling dozens of teams to move faster. You have
+  strong opinions on what makes developer tools great:
+  invisible by default, indispensable once adopted, and
+  measurable in the workflows engineers already use.
+
+  You have deep experience across the breadth of the developer
+  tooling stack, CI/CD, build systems, observability
+  infrastructure, and developer platforms, and working
+  knowledge of LLM integration and AI agent development. You
+  understand the nuances of internal platforms: designing for
+  adoption, not mandate; plugging into existing workflows
+  before standing up new ones; and earning trust through data
+  before expanding scope.
+
+  You have exceptional judgment on when to build custom
+  solutions versus integrate existing tools, and you're
+  comfortable navigating a rapidly evolving landscape across
+  both AI and developer infrastructure. You balance technical
+  excellence with pragmatism, shipping iteratively while
+  maintaining high quality bars. Most importantly, you lead
+  through influence and mentorship, elevating the entire
+  engineering organization's technical capabilities.
+
+  ____________________________________________________________
+  ___________
+
+  Responsibilities
+
+  Technical Leadership & Architecture
+
+  - Define the long-term technical vision and architecture for
+    Docker's developer tooling platform spanning platform
+    engineering, CI/CD, and AI-powered tools
+  - Lead authoring of SDLC tenets in partnership with other
+    principal engineers, Security, and Infrastructure and
+    build the mechanisms those tenets bind to (design gates,
+    code review gates, pipeline standards, visibility)
+  - Establish architectural patterns, technical standards, and
+    best practices across the developer tooling stack
+  - Design highly available, scalable infrastructure for hosting
+    developer tools, agents, and platform services
+  - Drive technical decisions on tooling choices, provider
+    strategies, build/deploy substrate, and agent
+    orchestration frameworks
+  - Partner with Senior Manager and product leadership to align
+    technical architecture with business objectives and
+    productization opportunities
+
+  Systems Design & Implementation
+
+  - Architect and build Docker's internal developer platform,
+    the self-service substrate enabling teams to scaffold,
+    deploy, and operate services with minimal friction
+  - Design and implement CI/CD and build infrastructure that
+    supports Docker's SDLC tenets and GitOps deployment
+    patterns
+  - Establish reliability, security, and performance standards
+    across developer tooling including SLOs, monitoring,
+    incident response, and cost management
+  - Design integration points between developer tools and
+    existing infrastructure (CI/CD pipelines, observability
+    platforms, deployment systems)
+
+  Strategic Impact & Innovation
+
+  - Evaluate emerging technologies across developer tooling,
+    platform engineering, AI/LLM, and agent frameworks to
+    inform Docker's technical strategy
+  - Define and enforce the golden path, the concrete, left-to-
+    right walkthrough of how Docker builds software, and
+    identify where tooling closes gaps vs. where human process
+    does
+  - Drive technical standards for measuring developer tool
+    effectiveness: adoption metrics, productivity gains,
+    pipeline performance, and developer satisfaction
+  - Lead cross-functional technical discussions influencing
+    company-wide developer tooling architecture
+  - Define technical approach for productizing successful
+    internal developer tools into customer-facing offerings
+
+  Leadership & Mentorship
+
+  - Mentor senior and staff engineers on platform engineering,
+    CI/CD patterns, design, and AI/LLM integration
+  - Lead design reviews and technical decision-making across all
+    developer tooling work
+  - Foster culture of technical excellence, experimentation, and
+    rapid prototyping within the Developer Tools team
+  - Serve as primary technical contact and thought leader for
+    developer tooling across Docker's engineering organization
+  - Collaborate with platform teams (Infrastructure, Security,
+    Agentic Platform, Supply Chain Security) to establish
+    shared technical standards and integration patterns
+  - This role may require participation in an on-call rotation
+    to provide support outside of standard business hours,
+    including evenings, weekends, and holidays, as needed.
+
+  ____________________________________________________________
+  ___________
+
+  QualificationsRequired
+
+  - 10+ years software engineering experience with 3+ years in
+    Staff or Principal Engineer roles
+  - Bachelor’s degree in Computer Science, Engineering, or a
+    related field, or equivalent practical experience.
+  - Proven track record architecting and operating developer-
+    facing platforms, internal tools, or developer
+    productivity systems at scale
+  - Deep expertise in CI/CD systems, build infrastructure, and
+    GitOps deployment patterns
+  - Production experience with cloud-native infrastructure
+    including Kubernetes, observability systems (Prometheus,
+    Grafana, Loki), and deployment tooling
+  - Experience designing self-service platforms, developer
+    portals, or golden path tooling that enable other teams to
+    move faster
+  - Working knowledge of AI/ML technologies and hands-on
+    experience with LLM APIs or AI agent development
+  - Proficiency in Go (preferred), Rust, Java, or Python with
+    strong software engineering fundamentals
+  - Exceptional product and platform mindset considering
+    developer experience, business outcomes, and
+    technical/security trade-offs
+  - Strong communication skills with ability to influence
+    technical and non-technical stakeholders
+  - Track record of technical mentorship and elevating
+    engineering teams' capabilities
+  - Ownership mentality with bias for action and iterative
+    delivery in ambiguous, fast-moving environments
+  - Comfortable with autonomous work in distributed, remote-
+    first teams across multiple time zones
+
+  Preferred
+
+  - Experience with MCP (Model Context Protocol) or similar AI
+    agent integration standards
+  - Background in DevOps, SRE, or platform engineering domains
+  - Contributions to open source developer tooling, platform
+    engineering, or observability projects
+  - Experience productizing internal platforms into commercial
+    offerings
+  - Deep knowledge of security, compliance, and operational best
+    practices for production systems
+  - Experience with infrastructure-as-code frameworks
+    (Terraform, Pulumi) and multi-cloud platforms (AWS, GCP,
+    Azure)
+  - Track record driving org-wide adoption of developer tooling
+    and engineering standards
+
+  ____________________________________________________________
+  ___________
+
+  What to ExpectFirst 30 Days
+
+  - Understand Docker's current developer tooling landscape: AI
+    tools, CI/CD state, platform engineering gaps, and the
+    foundational SDLC gap
+  - Meet with engineering leadership, principal engineers, and
+    key technical stakeholders across product engineering,
+    Security, Infrastructure, and Agentic Platform
+  - Conduct deep technical assessment of current developer
+    tooling infrastructure to identify opportunities and
+    constraints across all four pillars
+  - Review existing tools in production and understand what's
+    working, what isn't, and the technical lessons learned
+  - Partner with Senior Manager to define initial technical
+    priorities and 90-day technical roadmap across pillars
+
+  First 90 Days
+
+  - Define and document technical architecture for the Developer
+    Tools platform across: system design, technology choices,
+    integration patterns, and operational model
+  - Ship first production deliverable, either an extension of
+    existing tooling or a net-new tool with architectural
+    patterns and standards that scale to future work
+  - Establish technical foundations for the self-service
+    platform: deployment pipeline, security controls, and cost
+    management
+  - Lead or contribute to the SDLC tenets working session with
+    principal engineers, Security, and Infrastructure
+  - Define success metrics and instrumentation strategy for
+    measuring developer tool adoption, effectiveness, and
+    productivity impact
+  - Create architectural decision records and best practices
+    guides for teams building on the platform
+
+  First Year Outlook
+
+  - Establish mature technical architecture for the Developer
+    Tools platform with multiple production tools
+    demonstrating value
+  - Build production-ready self-service platform enabling
+    multiple teams to build, deploy, and operate their own
+    tools with minimal friction
+  - Define and implement technical standards for measuring
+    developer productivity improvement: design quality, commit
+    frequency, PR velocity, deployment reliability, and
+    incident response times
+  - Lead technical strategy for productizing successful internal
+    tools into customer-facing offerings
+  - Position Developer Tools as Docker's technical center of
+    excellence for developer productivity, with regular
+    technical talks, demos, and knowledge sharing
+  - Define multi-year technical roadmap including advanced
+    platform capabilities, expanded AI tooling, and emerging
+    technology adoption
+
+  Visa sponsorship: Docker considers visa sponsorship on a
+  case-by-case basis based on business needs.
+
+  ____________________________________________________________
+  ___________
+
+  Compensation & Equity
+
+  All full-time roles include equity. Final compensation is
+  determined on factors including but not limited to
+  experience, skills, qualifications, and location.
+
+  United States: $198K – $319K base
+
+  ____________________________________________________________
+  __________
+
+  Posting Information
+
+  - Open vacancy: This posting is for an existing open role.
+  - AI in hiring: Docker may use AI-assisted tools during our
+    recruiting process.
+  - Interview recordings: Candidates will be invited to opt in
+    to interview recordings to support interviewer calibration
+    and consistent evaluations. Recordings are optional and
+    require explicit consent.
+
+  ____________________________________________________________
+  __________
+
+  Perks & Benefits
+
+  - Remote-first by design – Work from your home, with offices
+    in Seattle and Paris for connection and collaboration.
+  - Flexibility that fits your life – We trust you to manage
+    your schedule while delivering great work.
+  - Time to recharge – Generous PTO, designated quarterly
+    Whaleness Days, and a designated end-of-year Whaleness
+    break.
+  - Home office support – Set up your workspace for comfort and
+    success.
+  - Technology stipend – Equivalent to US$100 net per month to
+    help support your work.
+  - Learning & development – Annual stipend for conferences,
+    courses, certifications, and continued learning.
+  - Parental leave – 16 weeks of paid parental leave after six
+    months of employment.
+  - Equity for all full-time employees – Share in Docker's long-
+    term success as we continue to grow.
+  - Comprehensive benefits – Medical, retirement, and paid
+    holidays vary by country.
+  - Docker swag – Because representing the whale never gets old.
+
+  Docker is proud to be an equal opportunity employer. We are
+  committed to building a team that reflects a broad range of
+  backgrounds, experiences, and perspectives. We believe
+  diverse teams build better products, make better decisions,
+  and better serve our global community.
+
+  #LI-REMOTE
+posted_date: 2026-08-16
+url: "https://builtin.com/job/principal-software-engineer-developer-tools-us-west-coast/9966863"
+source: Built In

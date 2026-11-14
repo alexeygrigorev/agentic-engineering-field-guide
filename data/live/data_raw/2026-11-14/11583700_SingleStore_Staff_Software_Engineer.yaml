@@ -1,0 +1,223 @@
+job_id: 11583700
+title: Staff Software Engineer
+company: SingleStore
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 400 Employees
+description: |
+  About SingleStore
+
+  SingleStore delivers a real-time, distributed SQL database
+  that unifies transactional and analytical workloads. Our
+  engineers build cloud-native software for some of the
+  world’s most demanding data-intensive applications, working
+  in a fast-moving environment where teams own their work end
+  to end and partner closely across Product and customer-
+  facing organizations.
+
+  About the Flow team
+
+  SingleStore Flow is an enterprise data migration and
+  integration product that helps customers move data into
+  SingleStore reliably and at scale. The team builds the
+  systems that support schema transfer, bulk data loading,
+  real-time Change Data Capture (CDC), large-table migrations,
+  and a native experience in SingleStore Helios.
+
+  Flow spans Java-based engines, source and destination
+  connectors, database internals, performance and memory
+  management, Helios services and APIs, observability, test
+  automation, Flow AI Agent and signed production release
+  delivery. The product works across heterogeneous database
+  environments, including MySQL, PostgreSQL, Oracle, SQL
+  Server, MongoDB, SAP HANA, Snowflake, Salesforce, and
+  SingleStore-as-a-source.
+
+  Position Overview
+
+  We are looking for a Staff Engineer to provide technical
+  leadership for Flow’s end-to-end data path from source
+  systems and CDC through migration engines, APIs, Helios, and
+  the customer experience.
+
+  This is a hands-on individual contributor role with broad
+  technical influence. You will own major architectural
+  decisions, lead strategically important and release-defining
+  initiatives, solve complex reliability and data-consistency
+  problems, and help the team build durable systems that
+  customers can trust with their most important migrations.
+  You will remain close to the code while raising the
+  technical bar for design, testing, observability,
+  operational excellence, and AI-assisted engineering.
+
+  The ideal candidate is a systems-minded engineer who enjoys
+  working across product boundaries, can move comfortably
+  between architecture and implementation, and knows how to
+  turn difficult customer problems into scalable product
+  improvements.
+
+  What you’ll do
+
+  - Set technical direction for significant areas of Flow,
+    including the migration engines, CDC pipeline, schema
+    evolution, large-table migration, source-to-target data
+    correctness, Flow APIs, Helios integration, and agent-
+    assisted migration workflows.
+  - Lead the design and delivery of large, complex, release-
+    defining projects from problem definition through
+    production rollout.
+  - Make pragmatic architecture and build-versus-defer decisions
+    that balance customer value, reliability, performance,
+    maintainability, and delivery speed.
+  - Design and implement production-quality software while
+    remaining hands-on in the codebase.
+  - Solve difficult, ambiguous problems involving data
+    consistency, replication, schema drift, throughput, memory
+    use, concurrency, failure recovery, and backward
+    compatibility.
+  - Establish a high bar for technical design, code quality,
+    testing, observability, security, and operational
+    readiness.
+  - Drive root-cause analysis for customer-impacting issues and
+    ensure that incidents result in durable fixes, better
+    tests, improved diagnostics, or clearer operational
+    safeguards.
+  - Improve the team’s ability to operate Flow in production
+    through runbooks, dashboards, release discipline, incident
+    response, and shared ownership of service health.
+  - Partner closely with Product Management, Engineering,
+    Support, Solutions, and customers to translate real-world
+    migration requirements into robust technical solutions.
+  - Mentor engineers, lead design and code reviews, distribute
+    technical context, and help develop the next generation of
+    technical leaders.
+  - Create clear technical documentation that makes
+    architecture, APIs, customer journeys, trade-offs, and
+    operational procedures understandable to the broader
+    engineering organization.
+  - Advance AI-native development practices and agentic
+    capabilities that improve engineering productivity and
+    make customer migrations more self-serve.
+
+  Required skills and experience
+
+  - Significant professional experience building and operating
+    production software, typically 10+ years, or equivalent
+    depth of experience and impact.
+  - Expert-level experience with Java including the ability to
+    debug and improve complex, long-lived enterprise-grade
+    codebases.
+  - Experience using JDBC with one or more databases, including
+    working with SQL metadata, SQL datatypes, schema
+    information, database-specific behavior, connection
+    pooling, SQL execution, Apache Avro, Protocol Buffers, or
+    similar serialization and integration technologies.
+  - Strong understanding of databases and data-intensive
+    systems, including transactions, replication, indexing,
+    connection management, and data consistency.
+  - Deep experience with MySQL and PostgreSQL
+  - Experience with Java performance engineering, including
+    concurrency, thread pools, garbage collection, memory
+    pressure, or back-pressure
+  - Hands-on experience with Change Data Capture or comparable
+    streaming and replication technologies, such as database
+    logs, logical replication, change tracking, checkpoints,
+    or offsets.
+  - Demonstrated experience designing reliable, scalable
+    distributed systems where correctness, performance, and
+    availability matter.
+  - Experience with cloud-native services and container
+    orchestration, preferably Kubernetes.
+  - Track record of leading large technical initiatives and
+    making architecture decisions across team or functional-
+    area boundaries.
+  - Strong testing discipline, including unit, integration, end-
+    to-end, regression, performance, and failure-mode testing.
+  - Experience investigating production issues, writing root-
+    cause analyses, and converting operational learnings into
+    engineering improvements.
+  - Experience with observability, profiling, metrics,
+    distributed tracing, and production dashboards.
+  - Excellent written and verbal communication, with the ability
+    to explain complex technical decisions to engineers,
+    product partners, and customer-facing teams.
+  - Demonstrated ability to mentor engineers and influence
+    outcomes without relying on formal authority.
+  - Bachelor’s or Master’s (preferred) degree in Computer
+    Science or a related field, or equivalent practical
+    experience.
+
+  Preferred qualifications
+
+  - Additional experience with one or more of Oracle, SQL
+    Server, MongoDB, SAP HANA, Snowflake, Salesforce, or
+    SingleStore.
+  - Experience with schema evolution, schema-drift detection,
+    datatype mapping, large-table migration, table slicing,
+    throughput tuning, or zero-downtime data movement.
+  - Experience building APIs or full-stack product surfaces
+    using Go, TypeScript, React, GraphQL, gRPC, or Kubernetes-
+    native services.
+  - Experience building agentic applications, AI-assisted
+    developer workflows, or systems that use LLMs to plan,
+    diagnose, or automate operational tasks.
+  - Experience working directly with enterprise customers or
+    customer-facing engineering teams on complex data or
+    infrastructure problems.
+
+  SingleStore delivers our cloud-native database with the
+  speed and scale to power the world’s data-intensive
+  applications. With a distributed SQL database that
+  introduces simplicity to your data architecture by unifying
+  transactions and analytics, SingleStore empowers digital
+  leaders to deliver exceptional, real-time data experiences
+  to their customers. SingleStore is venture-backed and
+  headquartered in San Francisco with offices in Sunnyvale,
+  Raleigh, Seattle, Boston, London, Lisbon, Bangalore, Dublin
+  and Kyiv.
+
+  Consistent with our commitment to diversity & inclusion, we
+  value individuals with the ability to work on diverse teams
+  and with a diverse range of people.
+
+  To all recruitment agencies: SingleStore does not accept
+  agency resumes. Please do not forward resumes to SingleStore
+  employees. SingleStore is not responsible for any fees
+  related to unsolicited resumes and will not pay fees to any
+  third-party agency or company that does not have a signed
+  agreement with the Company.
+
+  SingleStore values individuals for their unique skills and
+  experiences, and we’re proud to offer roles in a variety of
+  locations across the United States. Salary is based on
+  permissible, non-discriminatory factors such as skills,
+  experience, and geographic location, and is just one part of
+  our total compensation and benefits package. Certain roles
+  are also eligible for additional rewards, including merit
+  increases and annual bonuses.
+
+  Our benefits package for this role includes: stock options,
+  flexible paid time off, monthly three-day weekends, 14 weeks
+  of fully-paid gender-neutral parental leave, fertility and
+  adoption assistance, mental health counseling, 401(k)
+  retirement plan, and rich health insurance
+  offerings—including medical, dental, vision and life and
+  disability insurance.
+
+  SingleStore’s base salary range for this position is:
+  $160,000 - $210,000 USD.
+
+  For candidates residing in California, please see our
+  California Recruitment Privacy Notice. For candidates
+  residing in the EEA, UK, and Switzerland, please see our
+  EEA, UK, and Swiss Recruitment Privacy Notice.
+
+  ENG000526
+industries:
+  - Cloud
+  - Software
+  - Database
+posted_date: 2026-10-08
+url: "https://builtin.com/job/staff-software-engineer/11583700"
+source: Built In

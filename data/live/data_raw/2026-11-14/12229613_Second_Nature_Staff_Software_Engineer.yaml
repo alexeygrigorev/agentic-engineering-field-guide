@@ -1,0 +1,337 @@
+job_id: 12229613
+title: Staff Software Engineer
+company: Second Nature
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 220 Employees
+description: |
+  At Second Nature, our people are our greatest
+  differentiator. To build an industry-changing business, we
+  don’t just need talent; we need an environment where high
+  standards, continuous improvement, and customer obsession
+  are the default.
+
+  Excellence is not a destination — it is how we show up every
+  day. In twenty years time, we want every single employee to
+  look back to their time at Second Nature and say: This is
+  where I did my very best work. Where I grew the most. Where
+  I pushed myself beyond what was comfortable. ✨
+
+  About Us
+
+  Today, we live in a world where everything has become
+  convenient. Now you can get a ride anywhere, buy anything,
+  and get an answer to your question with just a couple clicks
+  on your phone. Convenience isn’t a luxury, it’s an
+  expectation.
+
+  So why not renting? It's still a chore to get utilities set
+  up, buy renters insurance, get air filters changed, handle
+  pest control and more. That’s why we’ve built the world’s
+  first Resident Experience Platform that makes resident
+  onboarding, resident services, and ancillary revenue
+  effortless for property managers. We’re passionate about
+  turning friction into triple win experiences for residents,
+  investors, and managers. That way renting can be easy and
+  rewarding for everyone. And now you can join us. Apply today
+  to join 300+ passionate, creative people who strive to make
+  a difference each day so residents, property managers, and
+  investors all win, creating the ultimate Triple Win!
+
+
+
+  About the Role
+
+  Second Nature is looking for a highly experienced Staff
+  Software Engineer to help lead the technical development of
+  our GRI Internet product.
+
+  You'll be a technical leader within the pod, partnering
+  closely with product managers, designers, and engineers to
+  translate business opportunities into scalable, maintainable
+  software solutions.
+
+  You'll take ownership of critical backend architecture and
+  systems, establish engineering standards, and help the team
+  deliver reliable software with speed and confidence.
+
+  While the role is primarily backend-focused, you'll
+  collaborate across the stack when needed and help ensure the
+  entire product experience is cohesive, performant, and
+  reliable.
+
+  We're looking for someone who combines strong technical
+  judgment with a bias toward action: someone who can navigate
+  ambiguity, simplify complex systems, and take ownership from
+  initial design through production operations.
+
+  About the GRI Internet Pod
+
+  The Group Rate Internet (GRI) product is transforming how
+  single-family rental property managers and their residents
+  access high-speed internet.
+
+  Internet is an essential service that nearly every resident
+  needs, yet getting connected can still involve confusing
+  provider options, coverage uncertainty, installation delays,
+  complicated billing, and frustrating customer support
+  experiences.
+
+  We're changing that.
+
+  Through partnerships with multiple major internet service
+  providers (ISPs), Second Nature offers property managers a
+  fully managed internet program that delivers competitive
+  group rates, simplifies resident enrollment, and creates new
+  ancillary revenue opportunities.
+
+  Our platform coordinates the internet lifecycle: identifying
+  service availability across property portfolios, connecting
+  residents with the right ISP, managing enrollment and
+  billing workflows, supporting residents throughout their
+  tenancy, and simplifying the transition when they move out.
+
+  As a Staff Software Engineer on the GRI Internet pod, you'll
+  help build and evolve the backend systems that make this
+  experience possible. You'll work on complex integrations,
+  business-critical workflows, and scalable services that
+  connect property managers, residents, ISPs, and Second
+  Nature's internal platform.
+
+  This is a primarily backend engineering role for someone who
+  enjoys solving complex distributed systems problems,
+  designing reliable integrations, and building software that
+  supports real-world business operations at scale.
+
+  Key ResponsibilitiesBackend Architecture & Technical
+  Leadership
+
+  - Lead the architecture, design, and implementation of
+    scalable backend services and APIs that power the GRI
+    Internet product.
+  - Establish and evolve architectural patterns that support
+    extensibility, maintainability, and reliability as the
+    product and its integrations grow.
+  - Design robust distributed systems and asynchronous workflows
+    to coordinate complex business processes across internal
+    services and external providers.
+  - Drive technical decisions around service boundaries, data
+    modeling, API contracts, event-driven architecture, and
+    system integration.
+  - Identify architectural bottlenecks and proactively improve
+    system performance, resilience, and scalability.
+
+  ISP Integrations & Business-Critical Workflows
+
+  - Design and build reliable integrations with multiple
+    internet service providers, accounting platforms, and
+    other external systems.
+  - Develop resilient integration patterns that handle
+    inconsistent third-party APIs, failures, retries,
+    idempotency, rate limits, and data synchronization.
+  - Build backend workflows that support the full resident
+    internet lifecycle, including:
+    - Property coverage validation: Determine ISP availability and
+      service options across large portfolios of single-family
+      rental properties.
+    - Resident enrollment: Support seamless enrollment and
+      provisioning workflows triggered by lease and addendum
+      events.
+    - Internet setup: Coordinate resident onboarding and service
+      activation with external ISPs.
+    - Billing and payments: Support accurate, reliable billing
+      workflows and synchronization with rent and property
+      management systems.
+    - Resident support: Enable internal teams and ISP partners to
+      access accurate service, enrollment, and account
+      information.
+    - Resident offboarding: Automate service transitions, move-out
+      workflows, and account lifecycle changes.
+  - Ensure integrations are observable, fault-tolerant, and
+    maintainable as the number of providers, properties, and
+    residents increases.
+
+  Engineering Excellence & Production Ownership
+
+  - Write, test, and maintain clean, high-quality code with a
+    strong emphasis on automated testing and long-term
+    maintainability.
+  - Own the reliability and performance of services in
+    production, using monitoring, logging, tracing, and
+    alerting to identify and resolve issues proactively.
+  - Improve CI/CD pipelines and deployment practices to enable
+    continuous delivery and confident releases.
+  - Drive a culture of operational excellence, ensuring
+    production issues are understood, addressed, and prevented
+    from recurring.
+  - Identify opportunities to simplify existing systems, reduce
+    technical debt, and improve developer productivity.
+
+  Cross-Functional Collaboration & Mentorship
+
+  - Partner with product managers and designers to shape
+    technical solutions early in the product development
+    process.
+  - Proactively raise risks, tradeoffs, and concerns early, and
+    drive technical discussions to a decision rather than
+    waiting to be asked.
+  - Translate ambiguous business requirements into clear
+    technical designs, implementation plans, and incremental
+    delivery strategies.
+  - Mentor engineers through technical guidance, thoughtful code
+    reviews, and architectural collaboration.
+  - Communicate complex technical concepts and tradeoffs clearly
+    to both technical and non-technical stakeholders.
+  - Stay current with emerging technologies, particularly AI-
+    assisted development and agentic engineering workflows,
+    and identify practical opportunities to improve how we
+    build software.
+
+  Key Outcomes Success in this role means:
+
+  - Reliable integrations: ISP and third-party integrations are
+    resilient, observable, and capable of handling real-world
+    failures without compromising the resident or property
+    manager experience.
+  - End-to-end lifecycle automation: Property coverage, resident
+    enrollment, internet setup, billing, support, and
+    offboarding workflows operate reliably with minimal manual
+    intervention.
+  - Scalable backend architecture: Services and data models can
+    support significant growth in properties, residents,
+    transactions, and ISP partnerships without requiring
+    constant architectural rework.
+  - Production excellence: Backend services and APIs ship on
+    schedule, perform reliably in production, and catch
+    defects in automated tests or code review rather than
+    through customer-reported issues.
+  - Maintainable codebase: Engineers can confidently understand,
+    extend, and build on existing systems without unnecessary
+    complexity or a translation layer.
+  - Confident continuous delivery: Healthy CI/CD pipelines,
+    automated testing, and production monitoring support
+    trunk-based development and frequent, low-risk
+    deployments.
+  - Strong technical partnership: Product and design partners
+    see engineering as an early thought partner in defining
+    solutions, not simply a downstream implementation
+    function.
+  - Elevated engineering standards: The team becomes more
+    effective through better architectural decisions, improved
+    development practices, and meaningful technical
+    mentorship.
+
+  - Best Practices: Establish best practices for API design,
+    database performance, code organization, testing, and code
+    reviews.
+  - Major technical Contributions: Contribute to the broader
+    engineering organization's technical strategy and help
+    raise the engineering bar across teams.
+
+
+
+  Preferred Qualifications
+
+  - 5+ years of professional software engineering experience,
+    with demonstrated ownership of complex backend systems and
+    software architecture.
+  - Strong proficiency in TypeScript and Node.js, including
+    designing and building production-grade APIs and backend
+    services.
+  - Experience designing and operating distributed systems,
+    asynchronous processing, event-driven architectures, and
+    complex integration workflows.
+  - Experience with AWS and cloud-native application
+    development.
+  - Strong experience with PostgreSQL and SQL, including
+    relational data modeling, query optimization, indexing,
+    and transaction management.
+  - Experience integrating with external APIs and third-party
+    platforms, particularly systems with complex business
+    workflows and inconsistent integration requirements.
+  - Deep understanding of software architecture patterns and
+    design principles, including microservices, domain-driven
+    design, hexagonal architecture, and distributed systems.
+  - Experience building reliable, observable production systems,
+    including monitoring, logging, tracing, automated testing,
+    and incident response.
+  - Experience with CI/CD, trunk-based development, and modern
+    software delivery practices.
+  - Strong problem-solving skills and the ability to make sound
+    technical decisions in ambiguous environments.
+  - Experience mentoring engineers and influencing technical
+    direction beyond your immediate area of ownership.
+  - Experience using AI coding tools such as Claude Code, GitHub
+    Copilot, Cursor, or similar tools in your daily workflow,
+    with genuine excitement about the future of agentic AI in
+    software development.
+
+  We get it. Requirements can sometimes hold people back from
+  applying to a job, but don’t let that be the case here. If
+  you believe you have the skills it takes to elevate this
+  role, team, and company, we encourage you to apply for this
+  role.
+
+  Our Core Values
+
+  🏴‍☠️ Pirate Ship; not a cruise ship. Bias towards action.
+
+  💪 Massive Growth takes massive growth. We embrace challenges
+  to increase our impact.
+
+  🥧 Grow the Pie. We focus on results so our customers & their
+  customers win. Triple Win!
+
+  💜 Purple Heart. We put the team before ourselves.
+
+  🤝 Extreme Ownership. See something? Say something; right the
+  ship to get us on course.
+
+  🙌 Be a moment maker. We aim to shatter the status quo.
+
+  Remote Work Statement
+
+  This position is a remote-first, work from home position.
+  Second Nature is committed to creating a culture and
+  workplace where remote work fosters collaboration and
+  connections and is a key part of our company story and
+  success. To be successful in a remote work role at Second
+  Nature you must:
+
+  - Be available during your scheduled working hours and give
+    your full attention to the completion of your Second
+    Nature job duties
+  - Have a quiet, professional, distraction-free environment in
+    which to complete your work
+  - Have access to your own reliable high-speed internet
+    connection
+  - Attend our bi-annual in-person company meetings (Second
+    Nature will reimburse the cost of your business travel per
+    company guidelines)
+
+  Why Second Nature?
+
+  Health First: Medical, Dental, Vision, & Life Insurance;
+  401K Plan Location: Work Remotely from anywhere in the US
+  Flexibility: Open PTO and sick days The Product: Beyond the
+  awards and 5-star reviews… our clients and customers love
+  what they can do with a fully managed RBP Diverse, Inclusive
+  Culture: We embrace employees from all backgrounds with
+  openness and respect Training: A supportive team to help you
+  grow your career and unlock your full potential Growth: The
+  opportunity to get in on the ground floor of a fast-growing
+  startup that’s designing and developing an exciting category
+
+  Second Nature is an Equal Opportunity Employer and prohibits
+  discrimination and harassment of any kind. We take action to
+  ensure equal employment opportunities for all candidates and
+  employees and to provide employees with a workplace free of
+  discrimination and harassment. Our hiring decisions are
+  based on business needs, job requirements and individual
+  qualifications, without regard to race, color, religion or
+  belief, family or parental status, or any other status
+  protected by federal and/or state law.
+posted_date: 2026-11-13
+url: "https://builtin.com/job/staff-software-engineer/12229613"
+source: Built In

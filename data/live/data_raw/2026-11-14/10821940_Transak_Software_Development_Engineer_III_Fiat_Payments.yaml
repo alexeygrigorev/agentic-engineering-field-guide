@@ -1,0 +1,145 @@
+job_id: 10821940
+title: Software Development Engineer III, Fiat Payments (Backend)
+company: Transak
+location: London, GBR
+work_type: FULL_TIME
+company_size: 90 Employees
+description: |
+  About the company
+
+  Our mission is that “Any financial application can onboard
+  any user, anywhere in the world, in 1 click.”
+
+  Transak provides onboarding to financial applications
+  through authentication, KYC, risk checks, and fiat on/off
+  ramps. This is a next generation of infrastructure for the
+  next generation of financial applications that are built on
+  blockchain and stablecoin rails. Our API and widget-based
+  solutions are used by top partners like MetaMask, Coinbase,
+  Ledger, and Trust Wallet to enable seamless onboarding of
+  over 10 million users across over 450 active applications.
+
+  We have raised over $37M from top-tier investors including
+  Consensys, Tether, and Animoca Brands
+
+  About the role
+
+  Transak's Fiat/Payments team builds and operates the rails
+  that move money between traditional banking systems and
+  crypto — ACH, SEPA, Faster Payments, wires, virtual
+  accounts, and card rails. As an SDE 3, you will own
+  critical, high-throughput payment microservices end-to-end:
+  design, build, scale, and operate systems that move real
+  money for users across multiple currencies and
+  jurisdictions, with US,UK/EU regulatory and global banking-
+  partner requirements as a core part of the job.
+
+  This is a senior individual-contributor role calibrated
+  against SDE 3 / Senior Engineer, driving architecture
+  decisions, mentoring engineers, and being the go-to owner
+  for a payments domain, while staying hands-on in code daily.
+
+  Key Responsibilities
+
+  - Payment Systems Ownership & Architecture
+    - Own payment microservices end-to-end — design, build,
+      deploy, and operate Node.js services (orders, payment,
+      reconciliation, virtual accounts, payout orchestration)
+      handling real-time financial transactions at scale.
+    - Design for correctness and failure: idempotent, retry-safe,
+      reconciliable systems where every transaction is
+      traceable, auditable, and recoverable (partial failures,
+      webhook replays, duplicate detection, distributed state
+      machines).
+    - Architect for scale and resilience across a distributed
+      microservices architecture; make service-boundary and
+      build-vs-buy decisions; address root causes rather than
+      symptoms.
+  - Banking & Partner Integrations
+    - Drive integrations with banking and payment partners (e.g.
+      banking and card providers / risk providers) — API
+      contracts, webhook handling, sandbox-to-production
+      rollout, and reconciliation logic across multiple rails
+      (ACH, SEPA, Faster Payments, wires).
+    - Work with Risk, Compliance on KYC, AML, and fraud-control
+      touchpoints in the payment flow.
+  - Infrastructure, CI/CD & Operations
+    - Build and maintain CI/CD pipelines (Jenkins) — automated
+      testing, blue/green or canary deployments, and rollback
+      strategies for services that cannot tolerate downtime or
+      data loss.
+    - Operate infrastructure on AWS (ECS/EKS, Lambda, SQS/SNS,
+      RDS, CloudWatch); contribute to infra-as-code,
+      monitoring, alerting, and on-call runbooks for payment-
+      critical systems.
+    - Optimize the data layer: schema design and query performance
+      in MongoDB, caching and rate-limiting strategies with
+      Redis, and safe migration patterns for high-volume
+      transactional collections.
+    - Participate in on-call for payment-critical services,
+      including incident response and postmortems.
+  - Technical Leadership & Collaboration
+    - Lead technical roadmaps — break down large, ambiguous
+      payments initiatives into shippable milestones; write
+      design docs/RFCs; drive consensus across Engineering,
+      Product, Risk, and Operations.
+    - Mentor and raise the bar — review code and designs, coach
+      mid-level engineers, and help hire and grow the team.
+    - Uphold security and compliance best practices for handling
+      PII/financial data in a regulated, PCI-DSS-adjacent
+      environment.
+
+  What We're Looking For
+
+  - 6+ years of professional software engineering experience,
+    with a significant portion building backend/distributed
+    systems; prior experience in fintech, payments, on-and-
+    offramp provider, or banking infrastructure strongly
+    preferred.
+  - Strong hands-on expertise in Node.js (TypeScript preferred)
+    for performant, production-grade backend services.
+  - Deep experience with MongoDB — schema design, aggregation
+    pipelines, indexing strategy, and performance tuning at
+    scale.
+  - Proficiency with Redis — caching, distributed locks, rate
+    limiting, and pub/sub patterns.
+  - Proven experience designing and operating microservices
+    architectures, including inter-service communication
+    (REST/gRPC/event-driven via SQS/Kafka,ELK,New relic,
+    Mixpanel), service discovery, and API contract design.
+  - Solid understanding of CI/CD pipelines, with hands-on
+    experience using Jenkins (pipeline-as-code, multi-stage
+    builds, automated test gates).
+  - Working knowledge of AWS infrastructure — ECS/EKS/Lambda,
+    VPC networking basics, IAM, S3, RDS, CloudWatch; infra-as-
+    code (Terraform/CloudFormation) is a plus.
+  - Strong grasp of distributed systems fundamentals:
+    idempotency, eventual consistency, retries/backoff,
+    circuit breaking, and failure isolation.
+  - Track record of owning a service or domain end-to-end in
+    production, including on-call responsibility.
+  - Excellent written communication — comfortable authoring
+    design docs/RFCs and explaining trade-offs to engineers
+    and non-technical stakeholders (Risk, Ops, external
+    partners).
+
+  Nice-To-Haves
+
+  - Experience with payment rails (ACH, SEPA, Faster Payments,
+    SWIFT/wires) or card processing.
+  - Familiarity with banking partner integrations, webhook-
+    driven reconciliation, or ledger/double-entry accounting
+    systems.
+  - Exposure to KYC/AML/fraud tooling.
+  - Experience at a fintech/crypto-native company, payments
+    processor, or Big Tech payments org.
+  - Prior experience operating in a regulated environment (FCA,
+    EMI/PI licensing context), given the UK/EU banking scope
+    of this role.
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-08-24
+url: "https://builtin.com/job/software-development-engineer-iii-fiat-payments-backend/10821940"
+source: Built In

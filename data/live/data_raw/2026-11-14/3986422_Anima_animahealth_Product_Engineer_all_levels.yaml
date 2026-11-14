@@ -1,0 +1,152 @@
+job_id: 3986422
+title: Product Engineer (all levels)
+company: Anima (animahealth)
+location: London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 60 Employees
+description: |
+  I quit medicine because I kept watching patients die
+  needlessly, for avoidable reasons. In almost every case, the
+  medical knowledge and clinicians were there. It was the
+  system that failed: the way information moved, decisions got
+  routed, and fragmented teams and data turned solvable
+  problems into tragedy.
+
+  I started Anima to change that.
+
+  Our mission is human wellbeing, and we believe personalised
+  medicine will transform it. Our founding insight is that
+  getting there requires a system that learns continuously
+  from care and its outcomes, optimising for human wellbeing.
+  Building that learning engine is the opportunity at the
+  heart of Anima.
+
+  We're now in 1,000+ clinics across 5 product lines, serving
+  more than 25% of the UK population. We are cash flow
+  positive, growing fast, and have a tight crew of ~45 people
+  who care deeply for each other and the mission. Everyone has
+  real ownership and a voice in decisions.
+
+  Multiple trillion-dollar companies will be built in
+  healthcare over the next two decades. We intend to be one of
+  them.
+
+  If you want to work on problems where the stakes are high,
+  you belong at Anima. Your work here will save lives.
+
+  -- Shun
+
+  Long before the "vertical AI" craze, we were obsessed with
+  active reinforcement learning—a niche field in 2021 that the
+  world, pre-ChatGPT, largely ignored.
+
+  Our trajectory has been unwavering since our YC application:
+  achieving the "holy grail" of personalized medicine and deep
+  phenotyping. This is powered by our proprietary active
+  learning architecture - a system we codified in a 2021
+  patent that anticipated the Sparse Mixture of Experts (MoE)
+  and active learning loops now foundational to modern LLMs.
+
+  While others are just arriving at the party, we’ve spent
+  years executing a plan to build what is now one of the
+  world’s largest, highest-quality labeled datasets.
+
+  We’re looking for someone who
+
+  - Has a track record of relentless shipping.
+  - Has proven ability to navigate ambiguity and tackle novel
+    technical challenges from conception to production.
+  - Has strong CS Fundamentals. A deep understanding of data
+    structures, algorithms (e.g., breadth-first search), and
+    first-principles thinking to solve complex product
+    problems.
+  - Is expert-level in TypeScript (TS). Proficiency in building
+    type-safe, scalable applications. You are a full-stack
+    expert in the JavaScript/Node.js ecosystem with a
+    pragmatic approach to tech debt and tool selection.
+  - Has hands-on expertise with React, Angular, or Node.js, with
+    the ability to move between frontend and backend as
+    needed.
+  - Has experience architecting on AWS (specifically Lambda,
+    DynamoDB, SQS, and CloudFormation) or a proven "hungry to
+    learn" mindset regarding serverless infrastructure.
+  - Is disciplined towards best practice version control, CI/CD
+    and code extensibility. Values interface safety through
+    dimensionality reduction at interfaces.
+  - Is obsessive about UX and optimises for this over arbitrary
+    technical goals.
+  - Is driven, impatient to grow and wants their shot to change
+    the world.
+
+  We hire at all levels: our team has new grads and product
+  leaders with 20 years experience.
+
+  What to expect in the role
+
+  - You’ll work with an incredibly smart team. Like Michael who
+    built a working CPU from logic dates at age 16 and co-
+    founded YC-backed Embark Trucks, the first self-driving
+    vehicle on Canadian roads. Or Souradip, who built an
+    acoustic fall detector using on-device deep learning; he’s
+    also an MB/PhD from Cambridge who’s published in top
+    medical journals.
+  - You’ll own your projects end to end and ship fast. Like Alex
+    who built ‘Slack for medical teams’ supporting 1000s of
+    channels per organisation and a real time single source of
+    truth for patient data in 4 weeks. Or Dennis who built and
+    shipped a lightning fast cloud document library for
+    clinics in a few days with <100ms traversals through
+    preloading.
+  - You’ll work on a well-established stack that’s already
+    highly scalable, cost effective, secure and performant
+    with minimal to zero ops.
+  - You’ll learn new technologies; whatever is needed to solve
+    the problem. We are tech agonistic, and collectively
+    choose the best tools for the job. We’re constantly
+    looking to maximise our productivity and minimise what we
+    call “discounted dev time cost” for shipping features.
+
+  Our current stack
+
+  We have 2 separate fully functional web apps in prod: one
+  for clinical users and one for patients. Angular, React and
+  Electron, Mixpanel/Posthog for analytics, a fully serverless
+  backend in AWS (Cognito, Appsync GraphQL, Lambda, DynamoDB).
+  We have good functional & unit test coverage and CI/CD.
+
+  What we offer
+
+  Anima should be where you do your life’s best work. We
+  support that with:
+
+  - Time off: 25 days’ annual leave plus 8 UK public holidays,
+    with flexible additional time off.
+  - Health cover: private medical, dental, vision and mental
+    health insurance.
+  - Parental leave: 12 weeks’ maternity leave at full pay,
+    rising to 24 weeks after two years; 4 weeks’ paternity
+    leave at full pay.
+  - Pension: 4% employer contributions, with salary sacrifice
+    and 100% of the employer National Insurance savings passed
+    on to you.
+  - Learning: £1,000 annual budget for your development.
+  - Fitness: gym subscription matching up to £50 per month.
+  - Equipment: a high-spec MacBook and a home office budget.
+  - Time together: two full-team off-sites each year, previous
+    destinations include Mykonos and Mexico.
+  - Farringdon office: a beautiful new London HQ, with most of
+    the team together at least twice a week.
+
+  Everyone is welcome at Anima. We strongly believe in
+  building a diverse and inclusive team. If you’re excited by
+  our mission and believe you could do this work well, we’d
+  love to hear from you, even if your experience doesn’t match
+  every point above. If adjustments would help you participate
+  fully in the interview process, please let us know.
+industries:
+  - Healthtech
+  - Software
+posted_date: 2026-08-20
+url: "https://builtin.com/job/software-engineer-seniorleadership/3986422"
+source: Built In

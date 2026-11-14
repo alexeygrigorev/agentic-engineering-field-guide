@@ -1,0 +1,76 @@
+job_id: 11747011
+title: "Software Engineer, Front End & Design"
+company: CircuitHub
+location: London, GBR
+locations:
+  - London, GBR
+  - Cambridge, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 42 Employees
+description: |
+  About CircuitHub
+
+  CircuitHub is reshaping electronics manufacturing with The
+  Grid, a factory-scale robotics platform that makes small-
+  batch, high-mix electronics assembly radically more
+  efficient. Think semiconductor-fab precision applied to the
+  chaotic world of prototyping and low-volume production: a
+  10x throughput improvement in one of the world's most
+  foundational industries.
+
+  We've raised $45M from top-tier investors including Plural,
+  Y Combinator and Google Ventures, and we're already
+  profitable. Our customers include a major EV maker, a top AI
+  lab and many of the worlds largest companies.
+
+  The Grid isn't a prototype. It's live, scaling fast and
+  delivering real revenue, and we're building the team that
+  will scale it further.
+
+  What you'll do
+
+  - Shape the customer experience. Upload, quoting, ordering and
+    our board viewer on circuithub.com.
+  - Make internal tools a pleasure. Our admin dashboard runs
+    purchasing, planning, recruiting and the AI agents that do
+    more and more of the work. Make dense, data-heavy screens
+    clear and fast.
+  - Design for the factory floor. Screens operators read at a
+    glance while robots move around them.
+  - Own the design system. Bring our brand, components and
+    patterns together across web apps and machine screens.
+  - Design for agents. Work out how people should review, steer
+    and trust the work of AI agents.
+
+  What we look for
+
+  - You've shipped full-featured web apps in TypeScript and
+    React, and you can show us.
+  - A real eye for design, both UI and UX. A portfolio we can
+    look at matters more than a job title.
+  - You enjoy owning a product end to end, from talking to users
+    to deploying.
+  - You use coding agents to move faster and take full ownership
+    of what they produce.
+  - Bonus: data visualisation, Elm or other functional
+    languages, industrial or operator interfaces.
+
+  Stack
+
+  - Web: TypeScript, React, TanStack (Start, Router, Query,
+    Table), Tailwind, Radix, Bun
+
+  Pay
+
+  UK £80k–£125k · US $125k–$250k, depending on experience,
+  plus equity.
+industries:
+  - Hardware
+  - Internet of Things
+  - On-Demand
+  - Appliances
+  - Manufacturing
+posted_date: 2026-10-19
+url: "https://builtin.com/job/software-engineer-front-end-design/11747011"
+source: Built In

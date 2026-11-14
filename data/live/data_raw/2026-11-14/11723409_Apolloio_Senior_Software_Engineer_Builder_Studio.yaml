@@ -1,0 +1,250 @@
+job_id: 11723409
+title: Senior Software Engineer, Builder Studio
+company: Apollo.io
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 850 Employees
+description: |
+  Apollo.io is the leading go-to-market solution for revenue
+  teams, trusted by over 500,000 companies and millions of
+  users globally, from rapidly growing startups to some of the
+  world's largest enterprises. Founded in 2015, the company is
+  one of the fastest growing companies in SaaS, raising
+  approximately $250 million to date and valued at $1.6
+  billion. Apollo.io provides sales and marketing teams with
+  easy access to verified contact data for over 210 million
+  B2B contacts and 35 million companies worldwide, along with
+  tools to engage and convert these contacts in one unified
+  platform. By helping revenue professionals find the most
+  accurate contact information and automating the outreach
+  process, Apollo.io turns prospects into customers. Apollo
+  raised a series D in 2023 and is backed by top-tier
+  investors, including Sequoia Capital, Bain Capital Ventures,
+  and more, and counts the former President and COO of
+  Hubspot, JD Sherman, among its board members.
+
+  About Apollo
+
+  Apollo is the AI-powered go-to-market platform that helps
+  revenue teams find, engage, and convert their best
+  customers. We combine a database of more than 210 million
+  contacts and 35 million companies with an agentic end-to-end
+  GTM platform, and more than 500,000 companies rely on us to
+  run their go-to-market motion. We are profitable, growing
+  fast, and rebuilding the product around AI and agents.
+
+  About Builder Studio
+
+  Builder Studio is Apollo's new product for building custom
+  GTM software in plain English. A RevOps lead, GTM engineer,
+  or founder describes the tool they need, and Builder Studio
+  plans it, generates real code, and turns it into a working
+  app they can preview, refine through conversation, publish,
+  and share with their team.
+
+  Every app is made of four building blocks: Pages for the
+  interface, Databases for structured records, Workflows for
+  visible backend logic and scheduled jobs, and Agents that
+  reason over Apollo context and take action. What makes it
+  different from a generic app builder is that Apollo's data,
+  enrichment, sequences, deliverability, and CRM sync are
+  native building blocks, not bolted-on third-party
+  integrations.
+
+  It is one of Apollo's flagship AI bets. The product is in
+  the hands of early design partners now and is heading toward
+  broad launch, which means the next year is about taking a
+  working product and making it reliable, secure, and loved at
+  scale.
+
+  Your role and mission
+
+  You will own major slices of Builder Studio end to end,
+  across the builder experience customers see and the systems
+  that make generated apps actually run. You will work on
+  problems most engineers have never touched: an agent that
+  writes and edits software on a customer's behalf, a runtime
+  that safely executes that code with the user's own Apollo
+  permissions, and an interface that makes all of it
+  understandable to someone who has never read a line of code.
+
+  What you will do
+
+  - Build the core Studio experience: the chat-driven build
+    loop, live preview, canvas, and the publish and share
+    flow, so a non-technical user can go from an idea to a
+    working tool in minutes
+  - Shape how the agent turns a natural-language goal into a
+    plan, a set of pages, databases, and workflows, and then
+    safely applies follow-up edits without breaking what
+    already works
+  - Design the runtime and workflow layer for generated apps,
+    including triggers, scheduled jobs, retries, logging, and
+    the line between deterministic steps and agentic steps
+  - Own delegated identity, permissions, secrets, and isolation
+    so generated apps act with exactly the access the user
+    has, and nothing more
+  - Expand "connect once, use anywhere" integrations across
+    Apollo data (contacts, companies, lists) and external
+    systems like Google Sheets, Google Drive, CRMs, and MCP-
+    based connectors
+  - Make the relationships between pages, data, workflows, and
+    agents legible in the UI, so customers trust what their
+    app is doing
+  - Work directly with design partners and customers, turn their
+    feedback into shipped improvements quickly, and help
+    define what the product becomes
+  - Raise the quality bar on a fast-moving 0 to 1 team: set
+    patterns, write the tests and evals that matter, and own
+    reliability, performance, and cost of what you ship
+
+  How we work: AI-native by default
+
+  You treat AI-assisted development as a core part of how you
+  work. You use agents to move faster on design,
+  investigation, and implementation, with clear judgment about
+  where to review closely, and you look for ways AI raises the
+  leverage of the whole team. On Builder Studio this is doubly
+  true: you are building an AI that writes software, so your
+  own instincts for where AI-generated code succeeds and fails
+  directly shape the product.
+
+  What we are looking for
+
+  - 5+ years building and shipping production software, with
+    real depth on both the frontend and backend of the same
+    product
+  - Strong TypeScript and React skills, including complex,
+    stateful UIs such as editors, canvases, builders, or real-
+    time collaborative surfaces
+  - Solid backend and API design experience, ideally including
+    event-driven or workflow systems where retries,
+    idempotency, and observability matter
+  - Hands-on experience building with LLMs in production: agent
+    loops, tool calling, context management, code generation,
+    or evals. You know where models break and how to design
+    around it
+  - Comfort making sound security calls on systems that run
+    untrusted or generated code: sandboxing, delegated auth,
+    scoped tokens, and secrets handling
+  - A track record of taking an ambiguous 0 to 1 product from
+    rough prototype to something customers rely on, and making
+    the scope-versus-quality calls that requires
+  - Product instinct and empathy for non-technical users. You
+    care whether a RevOps lead can understand what their app
+    is doing, not just whether the code is correct
+  - Genuine, current fluency with AI-assisted development and a
+    high bar for quality and ownership
+
+  Nice to have
+
+  - Experience building low-code, no-code, or AI app-builder
+    products, or developer tools
+  - Experience with edge or serverless runtimes such as
+    Cloudflare Workers and Durable Objects
+  - Experience with Ruby on Rails at scale
+  - Background in GTM, sales, or marketing tech, or experience
+    working closely with RevOps teams
+
+  Our tech stack
+
+  TypeScript and React on the front end; Ruby on Rails and
+  Node.js on the backend; Cloudflare Workers and Durable
+  Objects for the Builder Studio runtime; Python, MongoDB, and
+  Elasticsearch across the wider platform; Kubernetes, Docker,
+  and Terraform in infrastructure; GCP for cloud.
+
+  What you will love about Apollo
+
+  You will help build a brand new product from the ground up
+  at a company with the data, distribution, and customer base
+  to make it matter on day one. You will work with a small,
+  high-bar team, own real scope, and have the AI tooling and
+  budget to work at the top of your leverage.
+
+  Compensation and benefits
+
+  The listed Pay Range reflects the annual base salary for
+  this role. This salary range may be inclusive of several
+  career levels at Apollo and will be narrowed during the
+  interview process based on a number of factors, including
+  the candidate's experience, qualifications, and location.
+
+  Additional benefits for this role may include: equity;
+  company bonus; paid holidays, flex PTO, and parental leave;
+  employee assistance program and wellbeing benefits; global
+  travel coverage; life and disability insurance; and extended
+  health, dental, and vision benefits.
+
+  We are AI Native
+
+  Apollo.io is an AI-native company built on a culture of
+  continuous improvement. We're on the front lines of driving
+  productivity for our customers, and we expect the same
+  mindset from our team. If you're energized by finding
+  smarter, faster ways to get things done using AI and
+  automation, you'll thrive here.
+
+  Why You'll Love Working at Apollo
+
+  At Apollo, we're driven by a shared mission: to help our
+  customers unlock their full revenue potential. That's why we
+  take extreme ownership of our work, move with focus and
+  urgency, and learn voraciously to stay ahead.
+
+  We invest deeply in your growth, ensuring you have the
+  resources, support, and autonomy to own your role and make a
+  real impact. Collaboration is at our core. We're all for
+  one, meaning you'll have a team across departments ready to
+  help you succeed. We encourage bold ideas and courageous
+  action, giving you the freedom to experiment, take smart
+  risks, and drive big wins.
+
+  If you're looking for a place where your work matters, where
+  you can push boundaries, and where your career can thrive,
+  Apollo is the place for you.
+
+  We are AI Native
+
+  Apollo.io is an AI-native company built on a culture of
+  continuous improvement. We’re on the front lines of driving
+  productivity for our customers—and we expect the same
+  mindset from our team. If you're energized by finding
+  smarter, faster ways to get things done using AI and
+  automation, you'll thrive here.
+
+  Why You’ll Love Working at Apollo
+
+  At Apollo, we’re driven by a shared mission: to help our
+  customers unlock their full revenue potential. That’s why we
+  take extreme ownership of our work, move with focus and
+  urgency, and learn voraciously to stay ahead.
+
+  We invest deeply in your growth, ensuring you have the
+  resources, support, and autonomy to own your role and make a
+  real impact. Collaboration is at our core—we’re all for one,
+  meaning you’ll have a team across departments ready to help
+  you succeed. We encourage bold ideas and courageous action,
+  giving you the freedom to experiment, take smart risks, and
+  drive big wins.
+
+  If you’re looking for a place where your work matters, where
+  you can push boundaries, and where your career can
+  thrive—Apollo is the place for you.
+
+  Learn more here!
+industries:
+  - Artificial Intelligence
+  - Enterprise Web
+  - Information Technology
+  - Productivity
+  - Sales
+  - Software
+  - Database
+posted_date: 2026-10-16
+url: "https://builtin.com/job/senior-software-engineer-fullstack-builder-studio/11723409"
+source: Built In

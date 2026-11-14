@@ -1,0 +1,100 @@
+job_id: 9488394
+title: Embedded Software Engineer
+company: Fuse Energy
+location: London, GBR
+work_type: FULL_TIME
+company_size: 97 Employees
+description: |
+  Fuse Energy is an energy startup on a mission to make energy
+  abundant and affordable, fast. We combine first-principles
+  thinking with cutting-edge technology to build a radically
+  better energy system.
+
+  We've raised over $200M from top-tier investors including
+  Balderton, Lakestar, Accel, Creandum, Lowercarbon, Ribbit,
+  20VC, Hummingbird and Collaborative Fund, alongside
+  strategic angels including Nico Rosberg and GPs behind Meta,
+  Revolut, Spotify and Uber.
+
+  We're building a fully integrated energy company: developing
+  our own solar, batteries and other generation projects,
+  building our own hardware, improving and developing grid
+  infrastructure, trading power in real time, using AI across
+  the business, and installing distributed energy in homes. By
+  selling directly to consumers we cut out the middleman,
+  lower costs and pass the savings on to our customers.
+
+  We're looking for an Embedded Software Engineer to help
+  design, build and scale the connected hardware behind our
+  fleet of distributed energy devices. This is a hands-on role
+  spanning embedded systems, networking, device security and
+  fleet connectivity, from prototype through to deployment.
+  You'll help build resilient connectivity, secure
+  provisioning and robust telemetry, working closely with
+  firmware, hardware and backend teams to deliver production-
+  ready systems.
+
+  Responsibilities
+
+  - Develop and maintain connectivity across Ethernet, Wi-Fi,
+    Thread, Zigbee and BLE; build secure, reliable device
+    messaging using MQTT, CoAP, HTTP or WebSockets; support
+    device time synchronisation using NTP or PTP.
+  - Develop low-level firmware and drivers for microcontrollers
+    and embedded peripherals.
+  - Integrate devices with cloud IoT platforms and backend
+    services; improve telemetry, health monitoring and
+    observability; support reliable field operation and debug
+    fleet issues.
+  - Work closely with our test team to build the firmware and
+    software that runs our automated test suite.
+  - Work closely with hardware, power electronics, mechanical
+    and software teams; contribute to design reviews,
+    technical documentation and interface specifications.
+
+  Requirements
+
+  - Bachelor's degree in Electrical Engineering, Computer
+    Engineering, Computer Science or equivalent practical
+    experience.
+  - 2+ years of experience building connected embedded products,
+    or strong relevant industry/project experience.
+  - Proficiency with C/C++ for embedded systems, with experience
+    of RTOS environments such as Zephyr or FreeRTOS.
+  - Strong proficiency with Python for testing, tooling or
+    automation.
+  - Experience building automated test harnesses using test
+    equipment such as programmable power supplies, loads,
+    logic analysers, communications interfaces and more.
+  - Solid understanding of device connectivity and networking
+    fundamentals, including IP networking and common
+    transport/application protocols.
+  - Experience implementing or supporting secure device
+    communications using TLS, certificates or device
+    provisioning workflows.
+  - Familiarity with firmware update systems, bootloaders or
+    CI/CD workflows for embedded software.
+  - Excellent practical debugging experience using lab and
+    software tools such as logic analysers, protocol
+    analysers, network sniffers or observability platforms.
+  - Strong problem-solving skills and the ability to work across
+    hardware and software boundaries.
+  - Bonus: low-power wireless (Thread, Zigbee, BLE); cloud IoT
+    services on AWS, Azure or GCP; secure boot, TPMs, secure
+    elements or hardware attestation; EMC/RF testing, antenna
+    bring-up or factory test; awareness of standards such as
+    IEC 62443, ETSI EN 303 645, ISO 27001 or GDPR; industrial,
+    energy or distributed device deployments.
+
+  Benefits
+
+  - Competitive salary and eligibility for equity
+  - Biannual bonus scheme
+  - Fully expensed tech to match your needs
+  - Private health insurance
+  - Breakfast and dinner allowance for office-based employees
+
+  As we hire globally, benefits vary by location.
+posted_date: 2026-08-08
+url: "https://builtin.com/job/senior-iot-engineer/9488394"
+source: Built In

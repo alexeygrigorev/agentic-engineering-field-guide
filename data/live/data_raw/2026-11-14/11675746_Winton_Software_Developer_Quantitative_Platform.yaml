@@ -1,0 +1,114 @@
+job_id: 11675746
+title: Software Developer, Quantitative Platform
+company: Winton
+location: London, GBR
+work_type: FULL_TIME
+company_size: 184 Employees
+description: |
+  About Winton
+
+  Winton is a research-based investment management company
+  with a specialist focus on statistical and mathematical
+  inference in financial markets. The firm researches and
+  trades quantitative investment strategies, which are
+  implemented systematically via thousands of securities,
+  spanning the world's major liquid asset classes. Founded in
+  1997 by David Harding, Winton today manages assets for some
+  of the world’s largest institutional investors.
+
+  We employ ambitious professionals who want to work
+  collaboratively at the leading edge of investment
+  management.
+
+
+
+  We seek a highly skilled developer with strong computer
+  science fundamentals to join our Quantitative Platform team.
+  This team is responsible for developing the core platforms
+  that underpin and provide data to the research and trading
+  of our quantitative investment strategies, alongside tools,
+  APIs, libraries, and user interfaces to support this.
+
+  In this role you will work closely with our research and
+  other technology teams to deliver high impact projects that
+  improve our ability to predict and trade movements in global
+  financial markets.
+
+  Our Technology
+
+  Operating in a cloud-first environment, we predominantly
+  write our backend systems in C# but otherwise make pragmatic
+  choices for each scenario. This often means Python with C++
+  employed in performance-sensitive cases.
+
+  Our applications are written with containerisation in mind
+  from the outset and deployed as a Docker image into
+  Kubernetes on AWS where we can scale on-demand to satisfy
+  burstable workloads. We make extensive use of Kafka for low-
+  latency communication across applications and use a mixture
+  of different technologies for storage, from S3 to relational
+  databases. We utilise GitHub for source control and Jenkins
+  for CI, though with an increasing interest in GitHub
+  Actions.
+
+  We constantly evaluate our stack to ensure we’re using the
+  most appropriate technologies for the needs of our business
+  and the efficient delivery of those requirements.
+
+  Your responsibilities will include:
+
+  - Build and maintain a world-class platform that enables
+    storage, transformation, and testing of data at scale by
+    leveraging the latest open-source software, cloud, and
+    distributed computing technologies.
+  - Gain a deep understanding of the requirements of our
+    research teams to deliver business-critical functionality
+    in a timely-manner.
+  - Collaborate with the team through active contribution in
+    code reviews, knowledge-sharing, and design discussions.
+  - Write and maintain good quality, well-tested code across
+    services, data storage and UI layers.
+
+  What we're Looking For:
+
+  - A Bachelors or Masters degree in Computer Science,
+    Mathematics, Statistics, Physics or equivalent technical
+    field.
+  - 2+ years of professional software development experience,
+    including C#, Python or C++
+  - Comfortable using agentic AI coding tools such as Claude
+    Code and are genuinely keen to use them as a natural part
+    of daily work
+  - Collaborative nature and ability to work in a team e.g.,
+    partnering with portfolio managers, quantitative
+    researchers, and other technologists.
+  - Strong interest in keeping abreast of latest technologies
+    and a measured approach for adopting them.
+  - Comfortable with problem solving across multiple
+    technologies and business domains.
+
+  What would Be Useful:
+
+  - Experience engineering systems for the cloud-based storage
+    and processing of large datasets or using frameworks such
+    as Spark and open standards like Parquet and Arrow.
+  - Experience working with other cloud and related
+    technologies, such as Docker and Kubernetes.
+  - Experience working as a software developer in the
+    quantitative hedge fund space.
+  - Experience building web applications using front-end
+    frameworks such as Angular.
+
+
+
+  Equal Opportunity Workplace
+
+  We are proud to be an equal opportunity workplace. We do not
+  discriminate based upon race, religion, color, national
+  origin, sex, sexual orientation, gender identity/expression,
+  age, status as a protected veteran, status as an individual
+  with a disability, or any other applicable legally protected
+  characteristics.
+posted_date: 2026-10-14
+url: "https://builtin.com/job/software-developer-quantitative-platform/11675746"
+source: Built In

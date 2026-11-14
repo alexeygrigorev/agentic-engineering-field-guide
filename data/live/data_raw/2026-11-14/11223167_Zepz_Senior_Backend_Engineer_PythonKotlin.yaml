@@ -1,0 +1,195 @@
+job_id: 11223167
+title: Senior Backend Engineer (Python/Kotlin)
+company: Zepz
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 800 Employees
+description: |
+  Join Zepz: Breaking Down Borders, Together Our Meaningful
+  Mission At Zepz, we're all about breaking down barriers for
+  our customers and our teammates. Our purpose is deeply
+  personal — we provide a lifeline and deliver opportunities
+  to cross-border communities that need it most through
+  cutting edge finance and tech. Zepz is the power behind
+  WorldRemit and Sendwave, driven by the mission to celebrate
+  the incredible impact migrants have, both at home and
+  abroad. We're not just moving money; we're building a world
+  that truly recognizes and supports global connections. Who
+  You'll Be Joining We look for mission-driven builders who
+  thrive in a fast-paced environment connected to a true
+  purpose. We're an always-developing team of experts that
+  enjoy problem solving and bring clarity to tough challenges.
+  At Zepz, we are Relentless Learners, always seeking
+  feedback, and Responsible Owners, treating company resources
+  like your own. We depend on Transparent Communicators who
+  keep the team aligned through open, honest talk — this
+  matters even more on a fully remote team, where clear
+  written updates carry the weight that hallway conversations
+  would elsewhere. Our Core Commitments — What We Live By Our
+  vibrant and truly diverse culture is built on three core
+  commitments that guide how we work and interact:
+
+  - Integrity: We always do the right thing. It's simple, but
+    it's the foundation of everything we build for our
+    customers and each other.
+  - Outcomes: We work for our customers. Their success and
+    prosperity are the results we focus on delivering.
+  - Velocity: We are fast! We maintain high energy levels and
+    make smart decisions quickly, keeping us nimble and ahead
+    of the curve.
+
+  Perks of Joining Our Team We believe in empowering
+  colleagues because we genuinely trust our team. Our culture
+  is founded on this high trust, which naturally encourages
+  the high ownership that drives us to meet our shared high
+  expectations and deliver high performance. While we have all
+  the tools to work remotely, we value the purpose and
+  benefits of in-person connections so we expect our teams to
+  come to the office on a regular basis, and therefore be
+  within a comfortable commutable distance from our London
+  office. Alongside a great office environment, think
+  unlimited annual leave , great healthcare benefits, and
+  employee discounts. We want you to thrive and focus entirely
+  on making your biggest impact! In turn, we expect you to
+  bring high ownership and commitment to your work. This is a
+  place where we value trust and high performance, and we'll
+  provide the environment and support needed for you to excel.
+  About the Role At Zepz, our engineers are passionate about
+  delivering a solid customer experience and are eager to
+  contribute to the product, regardless of their tech stack.
+  We are seeking engaged and customer-focused engineers who
+  are committed to writing quality code and dedicated to their
+  contributions at Zepz. As a Senior Backend Engineer on
+  RemittancePlus, you'll work within a cross-functional
+  feature team building and operating Universal Wallet — the
+  multi-currency, crypto-capable wallet powering deposits,
+  withdrawals, and balances for millions of customers across
+  Sendwave. This spans fiat and stablecoin flows, on/off-ramp
+  integrations, and settlement — high-traffic, money-movement
+  systems where correctness and reliability directly determine
+  whether a customer's funds move when and where they expect.
+  You will have the autonomy to make platform decisions and
+  provide insights to the rest of the team. You'll collaborate
+  closely with engineers of varying experience levels and
+  interests, helping to improve our services, build pipeline,
+  and tooling across a mixed stack — Python services in sw-
+  backend, and Kotlin/Java services underpinning Universal
+  Wallet. You'll be committing, reviewing, and shipping code
+  early on, with the support and time to ramp up properly —
+  there's a lot to learn across our diverse systems.
+  Reliability is core to the role: the team owns its services
+  in production, and you'll take part in the on-call rotation
+  — responding to incidents, supporting production, and
+  driving remediation and long-term fixes. What You Bring to
+  the Table Technical Skills
+
+  - 5 years of experience building backend services at scale.
+  - Strong proficiency in Python and Kotlin/Java (Spring Boot)
+    is expected, as Universal Wallet spans both stacks.
+  - Experience designing and operating REST/gRPC APIs, event-
+    driven systems, and relational databases (e.g.,
+    PostgreSQL).
+  - Ability to work with AI in a safe, structured environment.
+  - Ability to work with tools like Grafana and Loki for
+    debugging and fault-finding.
+  - Some understanding of Kubernetes, ArgoCD, and AWS cloud is
+    advantageous, as well as technologies like Terraform.
+
+  Technical Execution
+
+  - You take pride in writing readable, well-designed, and well-
+    tested software.
+  - You will improve code structure and have an impact on
+    architecture.
+  - You will actively review tech designs and code from others.
+  - You'll improve monitoring and the health of your team's
+    systems.
+  - You'll participate in on-call and production support —
+    triaging incidents, restoring service, and following
+    through on remediation so issues don't recur.
+
+  Collaboration & Async Communication
+
+  - You write clear, self-contained updates (Slack, Jira, PRs,
+    design docs) that don't require a live conversation to
+    understand.
+  - You default to documenting decisions and context rather than
+    relying on verbal handoffs.
+  - You build relationships with other engineering teams and
+    identify collaboration opportunities, even without in-
+    person contact.
+  - You own larger pieces of work, assist with design and
+    technical/implementation choices, and influence the
+    roadmap within your team.
+  - You communicate easily with non-technical team members and
+    can translate their feedback into code.
+  - You adjust quickly and effectively to shifting priorities
+    and complexity.
+
+  Customer Obsession
+
+  - Care about users, and want to give them an improved, simpler
+    experience.
+  - Are more of a "get it done" than a "perfectionist" type
+    person — you value getting features into the hands of our
+    users.
+  - Aren't afraid to throw away code you wrote — because after
+    testing, a flow you built doesn't work as well as a
+    different one.
+
+  Bonus Points If You Have
+
+  - Experience with Rust, particularly for Solana or other
+    blockchain/crypto integrations — a strong plus given
+    Universal Wallet's stablecoin and on-chain settlement
+    work.
+  - Experience with wallet, ledger, or payment systems
+    (balances, reconciliation, settlement).
+  - Familiarity with KYC/AML regulatory requirements in
+    international payments.
+  - Experience in fintech or other regulated, high-availability
+    environments.
+  - Familiarity with any of the communities we serve.
+
+  AI Literacy & Tools As Zepz continues to build AI into how
+  we work, we expect everyone to engage with it as a core part
+  of their role. For this position we are looking for:
+
+  - A genuine curiosity about AI and how it can be applied in
+    your area of work, from accelerating analysis and insight
+    generation, to improving how we design and deliver
+    processes and communications.
+  - Practical experience using AI tools in a professional
+    context, whether to connect information, draft content,
+    build frameworks, or create insights from data. We want
+    people who actively use AI to increase productivity, not
+    those who are waiting to be told to.
+  - Strong AI literacy. An understanding of what AI assistants
+    can and cannot do, how to prompt effectively, and how to
+    critically evaluate AI-generated output before using it.
+  - Awareness of the ethical considerations and responsible use
+    of AI in the workplace, particularly in the context of
+    sensitive data, customer experience, and compliance.
+  - Prior experience using Claude (Anthropic) is a nice-to-have
+    but not essential — what matters most is that you are
+    genuinely engaged with AI as a tool, comfortable
+    experimenting, and eager to share what works with your
+    wider team.
+
+  If you want to join us in our journey to help break barriers
+  in financial access and improve lives globally, there's no
+  better place or time to join. Our global team of 800+ people
+  is spread across six continents. We aspire to hire the best
+  mix of people from former Olympians to YouTube influencers
+  and we speak over twenty languages. This incredible
+  diversity isn't a bonus; it's the engine that lets us serve
+  the world. Ready to Apply? Let's Go.
+industries:
+  - Fintech
+  - Mobile
+  - Payments
+  - Financial Services
+posted_date: 2026-09-25
+url: "https://builtin.com/job/senior-backend-engineer-python-kotlin/11223167"
+source: Built In

@@ -1,0 +1,116 @@
+job_id: 12175444
+title: "Senior Software Engineer | Aura Platform"
+company: SingleStore
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 400 Employees
+description: |
+  Position Overview
+
+  We are looking for a Senior Software Engineer to join the
+  Aura AI Platform team. You will design, build, and operate
+  the infrastructure that runs customer workloads (Notebooks,
+  Jobs, Apps, AI Agents, and Model-serving) on top of
+  SingleStore, across multiple regions and clouds.
+
+  You will work on services that manage container pools,
+  resource scaling, routing, RBAC, Billing, Observability and
+  secure network access between clusters. This role is ideal
+  for engineers who enjoy building distributed platforms,
+  owning production systems, and enabling real-time AI and
+  data applications at scale.
+
+  What you'll do:
+
+  - Design, build and maintain the platform that powers internal
+    and customer‑facing intelligent services on SingleStore
+  - Lead complex, cross-functional technical initiatives from
+    conception to deployment, mentoring other engineers along
+    the way
+  - Work closely with product managers, designers, customers,
+    and other engineers to ensure we deliver a high-quality
+    experience
+  - Drive the team's engineering standards, championing best
+    practices in system design, code quality, testing,
+    observability, and CI/CD pipelines to ensure we scale
+    reliably.
+  - Share on-call responsibilities and proactively improve the
+    reliability, security, and cost-efficiency of our cloud
+    infrastructure.
+
+  Your Experience:
+
+  - Experience with working on distributed systems, ideally in
+    programming languages such as Golang, Python or Rust
+  - Experience working with Kubernetes and/or containerized
+    services
+  - Intellectual curiosity about investigating issues that
+    impact business metrics
+  - Passion for building high-quality products that are robust
+    and easy to maintain in a fast-paced, team-oriented
+    environment
+  - Strong communication skills with a passion for mentoring
+    peers, fostering a collaborative team culture, and
+    executing efficiently in a fast-paced environment.
+  - Bachelor’s degree in Computer Science or equivalent
+    practical experience.
+
+  Preferred Qualifications:
+
+  - Experience with cloud infrastructure across AWS, Azure, or
+    GCP.
+  - Experience building developer platforms, compute platforms,
+    ML platforms, or serverless/container execution
+    environments.
+  - Experience working with frontend web frameworks like React.
+  - Prior experience mentoring engineers or leading technical
+    projects.
+
+  About us: SingleStore delivers the cloud-native database
+  with the speed and scale to power the world’s data-intensive
+  applications. With a distributed SQL database that
+  introduces simplicity to your data architecture by unifying
+  transactions and analytics, SingleStore empowers digital
+  leaders to deliver exceptional, real-time data experiences
+  to their customers. SingleStore is venture-backed and
+  headquartered in San Francisco with offices in Sunnyvale,
+  Raleigh, Seattle, Boston, London, Lisbon, Bangalore, Dublin
+  and Kyiv.
+
+  Consistent with our commitment to diversity & inclusion, we
+  value individuals with the ability to work on diverse teams
+  and with a diverse range of people.
+
+  To all recruitment agencies: SingleStore does not accept
+  agency resumes. Please do not forward resumes to SingleStore
+  employees. SingleStore is not responsible for any fees
+  related to unsolicited resumes and will not pay fees to any
+  third-party agency or company that does not have a signed
+  agreement with the Company.
+
+  SingleStore values individuals for their unique skills and
+  experiences, and we’re proud to offer roles in a variety of
+  locations across the United States. Salary is based on
+  permissible, non-discriminatory factors such as skills,
+  experience, and geographic location, and is just one part of
+  our total compensation and benefits package. Certain roles
+  are also eligible for additional rewards, including merit
+  increases and annual bonuses.
+
+  SingleStore’s base salary range for this role is $140,000 -
+  $160,000 USD per year
+
+  For candidates residing in California, please see our
+  California Recruitment Privacy Notice. For candidates
+  residing in the EEA, UK, and Switzerland, please see our
+  EEA, UK, and Swiss Recruitment Privacy Notice.
+
+  Req ID: ENG00490
+industries:
+  - Cloud
+  - Software
+  - Database
+posted_date: 2026-11-11
+url: "https://builtin.com/job/senior-software-engineer-aura-platform/12175444"
+source: Built In

@@ -1,0 +1,83 @@
+job_id: 4470605
+title: Software Engineer, Product
+company: Braintrust
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 241 Employees
+description: |
+  About the company
+
+  Braintrust is the agent observability platform. By actively
+  applying intelligence to agent traces and automatically
+  surfacing the most critical patterns, Braintrust gives teams
+  the visibility to understand how agents behave in production
+  and the tools to improve them. Teams at Notion, Stripe, Box,
+  OpenAI, and Cloudflare use Braintrust to trace their agents,
+  find the issues in their observability data, and run evals
+  that tell them how to improve.
+
+  About the role
+
+  We're looking for a product engineer who is passionate about
+  building tools that users love and use every day. You'll
+  work on the core product, hang out with users (developers,
+  product managers, and designers working in AI), and play a
+  key role in shaping the roadmap.
+
+  Under the hood, Braintrust is a high performance, local-
+  first, visualization-heavy UI built with modern Typescript
+  and React. Our users work at some of the world's best
+  technology companies and expect our product to be lightning
+  fast, reliable, and intuitive.
+
+  What you'll do
+
+  Core responsibilities:
+
+  - Ensuring our customers always have a frictionless experience
+    for enabling AI observability in their systems.
+  - Contribute to foundation UI architecture that focuses on
+    performance and efficient data loading patterns.
+
+  Build the user-facing pieces of Braintrust, such as:
+
+  - A first-class prompt playground experience supporting
+    multiple models across thousands of user inputs.
+  - A system for prompt management, configuration, and versioned
+    comparisons.
+  - A fully multiplayer, scalable human review system.
+  - LLM output analysis and comparison across arbitrarily large
+    datasets.
+
+  Ideal candidate credentials
+
+  - Expert-level understanding of Typescript, React, HTML, CSS,
+    SQL, NextJS
+  - Previous experience founding or working at startups is a
+    plus
+  - Has written prompts / tinkered with GPT models and apps
+
+  Benefits include
+
+  - Medical, dental, and vision insurance
+  - Daily lunch, snacks, and beverages
+  - Flexible time off
+  - Competitive salary and equity
+  - Wifi & cellphone stipend
+
+  Equal opportunity
+
+  Braintrust is an equal opportunity employer. All applicants
+  will be considered for employment without attention to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, veteran or disability status.
+industries:
+  - Blockchain
+  - Web3
+posted_date: 2026-08-10
+url: "https://builtin.com/job/software-engineer-product/4470605"
+source: Built In

@@ -1,0 +1,99 @@
+job_id: 10411493
+title: Senior Backend Engineer
+company: Gener8
+location: London, GBR
+work_type: FULL_TIME
+company_size: 31 Employees
+description: |
+  We’re looking for an experienced backend engineer, working
+  on the core technology that powers our platform.
+
+  About us
+
+  Since its launch in 2018, Gener8 has been at the forefront
+  of the “open data” movement: the belief that people should
+  be able to control and be rewarded from their own data.
+  Gener8’s consumer products include IOS and Android apps, a
+  web browser and a browser extension. Our products enable
+  people to transparently share their data with Gener8, whilst
+  preserving their privacy, and to earn rewards in return for
+  doing this.
+
+  On the B2B side, the data products that Gener8 creates
+  enables businesses to make faster, smarter decisions. Our
+  customers include some of the world’s largest Big Tech
+  companies, leading AI companies and prominent organisations
+  in finance and AdTech.
+
+  About the role
+
+  A few of the things in our backlog that you could be working
+  on:
+
+  - Extending, improving and optimising our data APIs that
+    ingest well over 100 million events a month.
+  - Creating new data feeds for our commercial partners that
+    deliver valuable data to drive business decisions.
+  - Creating brand new APIs and endpoints to support our mobile
+    apps.
+  - Improving, upgrading & refining our entire cloud based
+    infrastructure
+
+  You’ll be working closely with our existing product and
+  engineering team, including Staff backend engineer and Head
+  of Engineering.
+
+  On the backend we use Go, PostgreSQL and Redis to serve
+  RESTful and gRPC APIs running on Kubernetes, all hosted on
+  GCP. We use GitHub for version control and CI, Jira for
+  tracking tasks and Slack for sending silly GIFs.
+
+  Responsibilities
+
+  - Building new features, modifying existing ones and fixing
+    bugs as they arise
+  - Writing automated tests to keep the quality of our products
+    high
+  - Ensuring the smooth operation of our infrastructure through
+    automated monitoring and alerting
+  - Planning and executing upgrades of key pieces of
+    infrastructure
+  - Working closely with the product team to refine new features
+    and requirements
+
+  Requirements
+
+  This is the right opportunity for you if you have:
+
+  - 5+ years commercial experience building systems with Go
+  - Experience writing RESTful APIs in production environments
+  - Experience using some flavour of SQL for data persistence
+  - Experience documenting APIs with Swagger / Open API
+  - Experience working with event driven systems
+  - Experience building cloud native solutions
+  - Familiarity with Docker and Kubernetes
+  - Excellent verbal and written English communication skills
+
+  Benefits
+
+  🚀 Part of a fast growing company where you will have real
+  responsibility and autonomy
+
+  📈 Competitive Salary + share options, so that you have a
+  slice of the company and share in our success
+
+  🏡 WFH 3 days per week
+
+  🏝️ 32 days of holiday
+
+  💻 Your choice of computer hardware
+
+  💰 Annual training and conference budget
+
+  ⛳️ Regular team days out
+industries:
+  - Software
+  - Analytics
+posted_date: 2026-08-23
+url: "https://builtin.com/job/senior-backend-engineer/10411493"
+source: Built In

@@ -1,0 +1,138 @@
+job_id: 11974758
+title: Full Stack Product Engineer
+company: Santé (YC S23)
+location: New York, USA
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  Full Stack Product Engineer
+
+  Santé • Platform Engineering • Flatiron, NYC
+
+  In office, full time • $220k–$280k base salary + meaningful
+  equity
+
+  About Santé
+
+  Santé is building the AI operating system for local
+  retailers. Our platform brings point of sale, integrated
+  payments, eCommerce, inventory, delivery integrations,
+  marketing, bookkeeping, and AI agents into one system so
+  independent liquor, grocery, and convenience stores can
+  compete with national chains and build lasting value in
+  their businesses.
+
+  We're building a future where the corner store has better
+  technology than the national retailer. Your work reaches
+  real stores quickly, and feedback comes directly from the
+  owners running them. We ship daily, use AI coding agents
+  throughout development, and build together in person in NYC.
+
+  About the Team
+
+  Platform Engineering owns POS and checkout, architecture,
+  and observability. This small team builds the foundations
+  that Money Movement, Merchant Experience, and Applied AI
+  depend on. You'll ship merchant-facing product across the
+  stack and establish technical patterns other teams adopt.
+  Our core stack is TypeScript, React, Next.js, tRPC, Prisma,
+  and PostgreSQL.
+
+  About the Role
+
+  We're looking for an engineer who can make a complex system
+  feel simple to the person using it. You'll own features from
+  product decisions through production: making checkout feel
+  effortless during a rush, tracing latency into PostgreSQL,
+  or designing retries that cannot charge a customer twice.
+  Your decisions will shape both the product merchants use and
+  the foundations other engineers build on. You will identify
+  meaningful problems with merchants and teammates, make
+  product and technical tradeoffs, and improve what you ship
+  based on how it performs in real stores.
+
+  In this role you will
+
+  - Design and ship full-stack features, from intuitive React
+    interfaces to reliable APIs and data models.
+  - Own projects from problem definition and technical design
+    through testing, launch, and iteration, working closely
+    with Product and store owners.
+  - Strengthen checkout and payments, making sales correct and
+    recoverable through concurrent writes, network failures,
+    and retries.
+  - Build shared components, internal tools, and development
+    workflows that make the whole engineering team more
+    effective.
+  - Operate what you ship. Trace slow interactions from the
+    browser to PostgreSQL, improve observability, and
+    eliminate recurring causes of production incidents.
+  - Direct AI coding agents as part of your daily workflow,
+    reviewing their work and validating behavior before it
+    reaches merchants.
+  - Raise engineering standards through thoughtful design
+    reviews, clear code, and mentoring that improves how
+    teammates solve problems.
+
+  Your background looks something like this
+
+  - A record of owning substantial full-stack products in
+    production. You can explain the decisions you made, the
+    tradeoffs, and what improved for users.
+  - Strong programming fundamentals and depth in modern frontend
+    development, including interaction details, state
+    management, accessibility, and performance.
+  - Depth in backend design and relational databases, especially
+    PostgreSQL, including API boundaries, data modeling,
+    transactions, query plans, and indexes.
+  - Practical understanding of distributed systems. You reason
+    clearly about concurrency, idempotency, retries, and
+    partial failure.
+  - Experience diagnosing production problems with logs, traces,
+    and metrics, then fixing the underlying cause.
+  - Product judgment: you turn an ambiguous merchant problem
+    into a focused solution and know when a simpler design is
+    the better one.
+  - The autonomy to take an open-ended problem from first
+    principles to a working product, and the communication
+    skills to bring teammates with you.
+
+  Even better
+
+  - Payments or retail experience, including card terminals,
+    preauthorization and capture, multi-location operations,
+    or offline-resilient POS.
+  - Experience with our core stack, or operating Aurora/RDS,
+    ElastiCache, and production observability tools such as
+    Datadog and OpenTelemetry.
+  - Experience establishing shared architecture or developer
+    tools adopted across teams.
+  - Experience building LLM-powered products or improving how
+    teams use AI coding agents.
+
+  We value demonstrated engineering judgment and impact. If
+  you bring that depth and can learn quickly, we welcome your
+  application even if you haven't used every tool in our
+  stack.
+
+  Compensation
+
+  $220k–$280k base salary plus meaningful equity.
+
+  Compensation within the range depends on experience, skills,
+  and scope of responsibility.
+
+  Benefits
+
+  - Fully company-covered medical and dental benefits.
+  - 401(k)
+  - Weekly catered lunch, and dinner provided each evening for
+    employees who would like to eat with the team.
+industries:
+  - Fintech
+  - Payments
+  - Retail
+  - Software
+posted_date: 2026-10-29
+url: "https://builtin.com/job/full-stack-platform-engineer/11974758"
+source: Built In

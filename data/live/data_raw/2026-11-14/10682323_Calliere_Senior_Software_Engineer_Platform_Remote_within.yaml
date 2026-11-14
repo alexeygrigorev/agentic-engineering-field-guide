@@ -1,0 +1,169 @@
+job_id: 10682323
+title: Senior Software Engineer, Platform (Remote within Canada)
+company: Calliere
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 3 Employees
+description: |
+  This is a remote position.
+
+   The Role
+
+
+
+  Our products increasingly depend on data-intensive APIs that
+  power not just a reporting platform, but also dedicated,
+  per-customer environments where AI agents execute tasks,
+  maintain customer-specific state, and run proactive
+  analyses. Today, these environments run as containerized
+  workloads on a major cloud provider, with a growing layer of
+  application code responsible for everything from core
+  functionality to routine lifecycle operations.
+
+
+
+
+  We’re looking for a senior engineer who thrives at the
+  intersection of product engineering and infrastructure. This
+  is not a traditional DevOps or SRE position. The majority of
+  your time will be spent writing application code that
+  controls infrastructure primitives: messaging and queue
+  abstractions, compute lifecycle management, data persistence
+  and migration, container orchestration and updates, zero-
+  downtime deployments, bootstrap and provisioning logic,
+  permissions models, observability hooks, and security
+  boundaries.
+
+
+
+
+  The ideal candidate is comfortable diving deep into Linux
+  internals, container runtimes, networking, and storage—but
+  approaches problems with a product engineer’s mindset:
+  shipping reliable, maintainable systems, choosing pragmatic
+  abstractions, and making complex runtime behavior feel
+  routine to internal and external consumers alike.
+
+
+
+
+  Technology environment: Modern JavaScript/TypeScript
+  runtime, React, document and search databases, major cloud
+  platform (Azure), and infrastructure-as-code via Pulumi.
+
+
+   What You’ll Do
+
+
+
+  - Build and evolve the systems that provision, update, secure,
+    and observe isolated agent execution environments.
+  - Design reusable abstractions around queues, locks,
+    background job processing, and service-bus mechanics so
+    product engineers can build on solid primitives.
+  - Extend and refine the infrastructure-as-code foundation
+    (Pulumi), establishing patterns other teams adopt.
+  - Work directly with Linux systems, persistent storage, OS-
+    level disks, container boundaries, permission models,
+    logging pipelines, and runtime debugging.
+  - Operate within a small, high-ownership, cross-functional
+    team running weekly delivery cycles.
+
+
+
+
+
+
+
+    Requirements Ideal Background
+
+
+
+  - 6+ years of software engineering experience, with meaningful
+    time spent deep in infrastructure, platform, or systems
+    engineering.
+  - Strong production backend experience. TypeScript/Node.js is
+    a plus, but engineering judgment and ability to ramp on
+    the stack quickly matter more.
+  - Deep, hands-on cloud experience. Our primary environment is
+    Azure, but strong fundamentals on AWS or GCP transfer
+    readily.
+  - Fluency with infrastructure-as-code. Pulumi is our tool;
+    Terraform, CDK, or similar experience is fully applicable.
+  - Hands-on container and runtime expertise. Docker is
+    essential; exposure to Kubernetes, Nomad, ECS, Docker
+    Swarm, or comparable orchestration systems is helpful but
+    not required.
+  - Experience designing reliable systems around background
+    jobs, queues, locks, service buses, migrations, retries,
+    and failure recovery.
+  - Strong security instincts applied to application runtime
+    environments.
+
+   You’ll Thrive Here If…
+
+
+
+  - You’re genuinely excited by infrastructure problems. When
+    something breaks, you want to understand the system
+    mechanics, not just restart and scale.
+  - You have a strong ownership bias: you make decisions, stand
+    behind them, and move fast to fix things when they go
+    wrong.
+  - You’re pragmatic—you can ship the simple solution when speed
+    matters, while flagging what needs to evolve later.
+  - You’re comfortable in a fast-moving, ambiguous environment
+    where the “right way” isn’t handed to you; you help define
+    it.
+  - You enjoy being a strong individual contributor and a
+    supportive teammate. Engineering is a team sport.
+
+
+
+  - Traditional office access, plus structured team gatherings
+    every two months and an annual company-wide retreat.
+
+
+
+
+
+
+
+    Benefits What We Offer
+
+
+
+  - Competitive compensation with equity for all employees,
+    comprehensive health benefits from day one, a monthly
+    wellness/lifestyle stipend, 20 days of PTO, and a $1,500
+    home-office stipend.
+  - Remote-first across Canada, the U.S., and beyond, with
+    optional access to physical hub offices in four major
+    cities.
+  - Strong product-market fit, rapid growth, experienced
+    founders with prior successful exits, and significant
+    Series B funding backing the roadmap.
+  - High-impact role where early team members directly shape
+    product direction, technical architecture, and company
+    trajectory.
+  - Collaborative, low-ego culture recognized as a top Canadian
+    software employer.
+
+   Team Connection
+
+
+
+  - Virtual day-to-day: An AI-enhanced virtual workspace that
+    enables spontaneous collaboration, quick syncs, and a
+    “live” digital HQ feel.
+  - In-person: Optional office access, plus structured team
+    gatherings every two months and an annual company-wide
+    retreat.
+industries:
+  - Agency
+  - Information Technology
+  - Professional Services
+posted_date: 2026-08-14
+url: "https://builtin.com/job/senior-software-engineer-platform-remote-within-canada/10682323"
+source: Built In

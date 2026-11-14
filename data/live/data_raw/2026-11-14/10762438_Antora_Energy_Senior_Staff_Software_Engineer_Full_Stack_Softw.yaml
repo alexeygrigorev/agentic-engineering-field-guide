@@ -1,0 +1,202 @@
+job_id: 10762438
+title: Senior / Staff Software Engineer, Full Stack Software Products
+company: Antora Energy
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  Antora Energy delivers affordable, reliable energy to
+  industry, data centers, and the grid. Our thermal batteries
+  turn low-cost electricity into always-on heat and power,
+  without supply-constrained critical minerals or multi-year
+  construction timelines.
+
+  We are growing our company with people who put team and
+  mission first, value connection through laughter and joy,
+  and work with humility and openness. We are committed to
+  building a diverse, passionate, and creative team dedicated
+  to a future powered by abundant, clean, low-cost energy.
+
+    About The Role
+
+  Antora Energy is looking for a full-stack product engineer
+  to build the software products that power our business -
+  from external customer experiences to internal tools used by
+  teams across Business Development, Operations, and R&D.
+
+  In this role, you’ll help shape product vision, design the
+  underlying data models, and connect AI systems with the
+  business logic that makes them useful. You’ll own products
+  end to end, working directly with users to understand their
+  workflows, translate ambiguous needs into practical
+  solutions, and ship software that performs reliably in
+  production.
+
+  You’ll also help build Antora’s long-term software
+  capabilities. That means creating systems, standards, and
+  guardrails that allow partner teams to safely modify
+  existing tools and build new ones within our ecosystem -
+  without engineering becoming a bottleneck.
+
+  This is a highly autonomous role with direct influence over
+  how software is designed and built at Antora. We’re looking
+  for deep expertise in one or more core areas - such as
+  software engineering, data modeling, AI integration, or
+  product development - along with the curiosity and practical
+  judgment to work across the full stack.
+
+  What You'll Do Build Full-Stack Products
+
+  Design, build, deploy, and maintain internal and external
+  software products across the frontend, backend, data, and AI
+  layers. Own the complete product lifecycle, including
+  architecture, observability, reliability, and ongoing
+  maintenance.
+
+  Enable Self-Service
+
+  Put workflow creation directly into users’ hands. Build
+  systems that allow analysts, operators, and other domain
+  experts to adapt their own tools without filing a ticket and
+  waiting for engineering support.
+
+  Co-Create with Users
+
+  Work alongside the people doing the work. Learn their
+  processes, build solutions with them, and give them the
+  tools and confidence to continue improving those solutions
+  independently.
+
+  When users contribute their own code or workflows, you’ll
+  make those contributions safe to run, easy to review, and
+  straightforward to maintain.
+
+  Establish a Unified Data Model
+
+  Design the data foundation that powers Antora’s products.
+  Connect business systems, operational data, and plant
+  telemetry through tested transformation pipelines and a
+  governed semantic layer.
+
+  You’ll help ensure that critical concepts—such as revenue,
+  availability, and delivered steam—have consistent
+  definitions across dashboards, AI assistants, applications,
+  and autonomous agents.
+
+  Design for Data Security
+
+  Build and enforce strong access controls for sensitive,
+  proprietary, and counterparty-restricted data. Ensure every
+  product, workflow, and AI interface consistently respects
+  authorization boundaries.
+
+  At Antora, an AI system that answers an unauthorized
+  question is not a clever feature—it is a business risk.
+
+  Build Proactive AI Guardrails
+
+  Make evaluation a core part of product development rather
+  than a final checkpoint. Create systems that identify task
+  failures, tool-calling errors, grounding gaps, security
+  issues, and regressions before they reach users.
+
+  Where AI systems influence financial decisions, operational
+  dispatch, or customer commitments, you’ll build safeguards
+  that are rigorous, reliable, and easy for teams to use.
+
+  Set Engineering Standards
+
+  Help define architectural patterns, development practices,
+  and technical guardrails across Antora’s software ecosystem.
+  Distinguish between controls that prevent real failures and
+  processes that create unnecessary friction.
+
+   What We're Looking For
+
+  - Strong product judgment. You can turn vague, shifting
+    requests into a clear product direction, write an
+    effective specification, and ship a solution. You know how
+    to challenge a feature request that misses the underlying
+    problem while maintaining stakeholder trust.
+  - Production software engineering experience. You have strong
+    Python and TypeScript skills and are comfortable working
+    across frontend and backend systems. You have owned
+    applications end to end, including deployment,
+    observability, reliability, and maintenance.
+  - Experience shipping AI-powered products. You have built and
+    deployed LLM-powered systems used by real users - and have
+    learned from the unexpected ways those systems failed in
+    production.
+  - Strong data fundamentals. You are comfortable with SQL,
+    warehouse modeling, and tools such as dbt or equivalent
+    transformation frameworks. You have shipped data changes
+    through CI and think proactively about data quality,
+    freshness, lineage, and testing.
+  - A collaborative approach to building. You have a track
+    record of building with non-engineers, not simply building
+    for them. You’re comfortable pairing, teaching, reviewing
+    someone’s first pull request, and helping users become
+    increasingly self-sufficient.
+  - Clear cross-functional communication. You can connect
+    product, data, AI, and software engineering considerations
+    - and communicate technical decisions in a way that allows
+    everyone in the room to contribute.
+  - Practical risk judgment. You can distinguish between
+    controls that prevent meaningful failures and ceremony
+    that slows teams down. You know where users can safely
+    make changes independently and where review or stronger
+    governance is required.
+  - A growth mindset. We do not expect one person to be an
+    expert in every discipline. We value deep expertise,
+    intellectual curiosity, sound judgment, and a willingness
+    to learn across the stack.
+
+   Bonus Qualifications
+
+  - Experience building or maintaining semantic layers using
+    tools such as dbt or Cube
+  - Familiarity with ClickHouse, time-series data, or IoT
+    systems
+  - Experience with agent protocols such as MCP or with plugin
+    and tool APIs
+  - Background in energy, industrial technology, or
+    manufacturing
+  - Experience managing AI model usage, performance, and cost
+    governance
+
+
+
+  Work Location: Remote / US based
+
+  Salary Range: $183-240k USD
+
+  Salary Basis:
+
+  Please note that the salary range listed above reflects
+  Antora Energy's estimated pay for this position. The actual
+  salary offered will be within the posted range and
+  determined based on several factors including but not
+  limited to a candidate's experiences, credentials and
+  expertise, as they pertain to the position's requirements.
+
+  In addition to a competitive base salary, Antora Energy’s
+  Total Rewards program includes equity compensation in the
+  form of stock options, a premium health benefits package
+  with life and disability insurance, a 401K plan with
+  employer contributions, flexible spending accounts, and an
+  industry leading paid-time-off policy that features flexible
+  and inclusive holiday observance, as well as paid volunteer
+  time off.
+
+      When it comes to stopping climate change, we need
+  everyone. We believe that having a diversity of backgrounds
+  and experiences strengthens all of us, and we strive to
+  create an environment where every one of us is empowered to
+  create meaningful change.
+industries:
+  - Energy
+  - Appliances
+posted_date: 2026-08-20
+url: "https://builtin.com/job/senior-staff-software-engineer-full-stack-software-products/10762438"
+source: Built In

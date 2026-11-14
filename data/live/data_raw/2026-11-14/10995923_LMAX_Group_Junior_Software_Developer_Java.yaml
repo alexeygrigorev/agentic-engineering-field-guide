@@ -1,0 +1,116 @@
+job_id: 10995923
+title: Junior Software Developer (Java)
+company: LMAX Group
+location: London, GBR
+work_type: FULL_TIME
+company_size: 259 Employees
+description: |
+  LMAX is renowned for its high-performance, ultra-low latency
+  (we measure in microseconds) exchange written in core Java.
+  We constantly push technology further than most, especially
+  in our greenfield projects, driving the financial industry
+  in new directions.
+
+  Developers are encouraged to constantly develop and learn
+  new skills. Pair programming supports continual growth of
+  knowledge and sharing of expertise, alongside regular team
+  rotations ensuring everyone gains first-hand knowledge on
+  all areas of our codebase. Friday afternoons are set aside
+  as personal development time where you can explore a
+  different coding language, research bleeding edge
+  technologies, or play around with one of our environments.
+  There is also regularly scheduled time to improve developer
+  experience and reduce technical debt – directed by
+  developers.
+
+  Our continuous integration and testing culture allows us to
+  have confidence in our builds and develop quickly. We have
+  over 30,000 acceptance tests running every 25 mins in our
+  CI, alongside extensive test suites (performance,
+  compatibility, migration, resilience). Continuous Delivery
+  was pioneered at LMAX one of the authors worked here while
+  writing the book). Due to pair programming and testing we
+  don’t do pull requests, we push directly to our monorepo
+  with a “revert first, ask questions later” attitude.
+
+  If you want to work with great developer practices like fast
+  feedback across all aspects of your work, a cooperative
+  culture, and only shipping things when they’re ready, while
+  being at the heart of a thriving exchange with opportunities
+  to learn about the finance industry, then LMAX is for you!
+
+  What you should expect:
+
+  •Collaborative office environment with constant pairing and
+  plenty of social activities
+
+  •Work across the stack to solve a problem – You might be
+  working with a performance critical component, integrating a
+  new blockchain, or designing a greenfield cloud based system
+
+  •Regular opportunities to learn and develop yourself with
+  internal tech talks, ability to travel to conferences, and
+  dedicated time for your personal development
+
+  What you’ll be working with:
+
+  •Backend: Distributed, event-driven core Java (90% of the
+  code-base), MySQL, Kafka
+
+  •Frontend: Javascript, Vue.js
+
+  •Deployment: Kubernetes, Nomad
+
+  •Data analytics: Python & Jupyter notebooks, Parquet, Docker
+
+  •Testing: JUnit, JMH, JCStress, Jenkins, Selenium, many in-
+  house tools...
+
+  •OS: Linux (Fedora for development, Rocky in production)
+
+  The LMAX way is to use the right tool for the job so this is
+  just a flavour of what you’ll be working with, and isn’t a
+  list of requirements!
+
+  Requirements
+
+  •Be passionate about software development. Bad code offends
+  you! 😱
+
+  •Work in a dynamic environment enabled by fast feedback; the
+  heart of our ethos
+
+  •Pair programming in small teams of developers and testers
+  (who also write code)
+
+  •Share knowledge and learn from like-minded peers
+
+  •Work across a variety of teams covering a wide range of
+  technologies
+
+  •Write performant, reliable, and well tested code – shipping
+  only when it’s ready
+
+  Benefits
+
+  - 25 days of holiday
+  - Bonus
+  - Pension contribution
+
+  - Private medical, dental, and vision coverage
+  - Life assurance
+  - Critical illness cover
+  - Wellness contribution program with access to ClassPass
+  - Plumm Platform
+  - Five volunteering days
+  - Give as You Earn initiative
+  - Learning and development programs
+  - Electric Vehicle Scheme
+  - Cycle to Work Scheme
+  - Season Ticket Loan
+industries:
+  - Financial Services
+  - Cryptocurrency
+posted_date: 2026-09-03
+url: "https://builtin.com/job/junior-software-developer-java/10995923"
+source: Built In

@@ -1,0 +1,247 @@
+job_id: 10888964
+title: Frontend Engineering Lead
+company: Omnea
+location: London, GBR
+work_type: FULL_TIME
+company_size: 150 Employees
+description: |
+  Our Mission:
+
+  Omnea is the agentic operating system for procurement.
+
+  Procurement touches every pound a business spends, yet
+  requests still stall for weeks and approvals get lost in
+  inboxes. Our AI-first platform changes that: our agents
+  capture requests, route approvals, onboard suppliers, flag
+  risk and track every renewal, while anyone in the business
+  can ask a question and get an answer grounded in their own
+  company’s data. Buying becomes painless for everyone,
+  procurement gets a seat at the table, and our customers have
+  saved more than 100,000 hours of manual work so far.
+
+  Companies like Spotify, PayPal, T. Rowe Price, JustEat,
+  Adyen and S&P Global run procurement on Omnea. We’re backed
+  by $75M from Khosla Ventures, Insight Partners and Accel,
+  and we’ve been named the UK’s number one startup in the
+  Startups 100, ranked 11th on Sifted’s 2026 list of Europe’s
+  fastest-growing companies, and recognised as one of Fast
+  Company’s Most Innovative Companies.
+
+  Talent density matters more to us than almost anything else.
+  We keep the bar high in every team, so everyone here has
+  real ownership and real impact. Our team is full of former
+  founders and operators who’ve scaled unicorns, and we’re
+  looking for people who want to do the best work of their
+  careers alongside them.
+
+  Find out more about the team and life at Omnea here.
+
+  What We're Looking For
+
+  We're looking for a Frontend Lead Engineer to own the front
+  end at Omnea.
+
+  Our design system is growing fast, our front-end
+  architecture is becoming more complex, and right now
+  ownership of these things is distributed. You'd be the
+  person who takes this to the next level.
+
+  You'll work across every product team. You'll own the design
+  system, own the front-end architecture, and set the standard
+  for how we build interfaces. We're a tight-knit group of
+  ambitious builders who hold the bar high. It took over
+  10,000 interviews to hire our first 50 Omneans. Over the
+  next year, our engineering team will double in size, our
+  enterprise customer base will grow from ~180 to 300+, and
+  revenue will triple. The front end has to scale with it.
+
+  This is a craft role with real leverage. Almost every
+  engineer at Omnea ships front end. What you build determines
+  how well they do it.
+
+  Procurement is a harder interface problem than it sounds.
+  Approval workflows that branch and re-route, dense tables
+  people live in all day, intake forms that adapt to what
+  someone is buying. Getting this right is the difference
+  between software people tolerate and software people
+  actually like using.
+
+  What Can You Expect On Our Engineering Team?
+
+  - Join a Skilled Team. Become part of one of Europe's fastest-
+    growing software companies, working alongside experienced
+    full-stack product engineers and product designers from
+    top technology businesses and startups.
+  - Own the Design System. You'll own our design system
+    outright: components, patterns, tokens, documentation, and
+    adoption. You'll partner closely with Design to turn
+    intent into reusable, high-quality primitives.
+  - Own the Front-End Architecture. Deployment strategy,
+    performance, build tooling, and the conventions everyone
+    else follows. You'll set the direction rather than inherit
+    it, working alongside the engineers and designers closest
+    to each surface rather than owning it in isolation.
+  - Leverage Across Every Team. You'll work with all of our
+    engineering teams on their most front-end-heavy projects.
+    The work you do multiplies across the whole org.
+  - A Real Design Partnership. Every cross-functional team at
+    Omnea has a dedicated Product Manager and Product
+    Designer. You'll be the connective tissue between design
+    intent and what actually ships, and the person designers
+    come to when they want to know what's possible.
+  - Work with Modern Technology. TypeScript everywhere, React
+    and Next.js on the front end, and Meticulous for automated
+    visual regression testing, so you can refactor the design
+    system without fear. Behind it sits Postgres and AWS
+    serverless infrastructure (Lambda, DynamoDB, and
+    EventBridge), managed through Pulumi and deployed via
+    GitHub Actions, with Datadog for observability.
+  - AI-Native Development. AI is core to how we build. Engineers
+    use Claude Code and agentic workflows every day to write,
+    review, and ship code faster, and our product is itself
+    built on AI agents that automate complex procurement
+    workflows.
+  - Continuous Delivery. We deploy small, incremental changes to
+    production multiple times per day, enabling rapid
+    iteration and fast customer feedback loops.
+  - Collaboration and Autonomy. We operate as a high-trust team
+    where individuals are expected to take ownership while
+    collaborating closely to solve difficult problems.
+  - Customers at the Center. We regularly engage directly with
+    customers to understand their problems, gather feedback,
+    and ensure we're building products that create genuine
+    value.
+
+  About You
+
+  - You're deep in React. You've built complex, production React
+    applications and you understand the framework properly,
+    not just the API surface. Rendering behaviour, state,
+    performance, and where things break at scale.
+  - You've owned front-end infrastructure. Rendering strategies,
+    build tooling, bundle performance, and the architectural
+    decisions underneath a large application.
+  - You've built or owned a design system. Not just consumed
+    one. You've made the calls on component APIs, driven
+    adoption across teams, and dealt with the messy reality of
+    migration and versioning.
+  - You have taste. You care how things look and feel, you
+    notice when something is only 90% right, and you can hold
+    a genuine conversation with designers rather than just
+    implementing tickets.
+  - You know CSS deeply. Layout, styling architecture, and
+    building interfaces that hold up across breakpoints,
+    themes, and edge cases. You treat accessibility and motion
+    as part of the craft rather than a checklist at the end.
+  - You're a strong engineer first. Your depth and your interest
+    sit in the front end, and that's the point of this role.
+    But you're fluent in TypeScript generally and comfortable
+    working beyond the browser when a problem calls for it.
+  - You're motivated by impact. You care about what your work
+    actually achieves, not just how it's built. You thrive
+    with the autonomy to make meaningful decisions and take
+    real ownership of outcomes.
+  - You're a team builder. You're excited by maximising team
+    performance, whether that means learning from others or
+    taking the time to explain, give feedback, and level up
+    those around you.
+  - You're comfortable with ambiguity. This role is new. Its
+    shape will be partly yours to define, and you're happy
+    tackling problems without a predefined solution, backed by
+    an experienced team.
+
+  Nice-to-Haves
+
+  - You've worked at design-led companies or somewhere with a
+    genuinely high bar for interface quality.
+  - You've performed exceptionally at something else, be it
+    academics, sport, or work. You've gone above and beyond
+    the norm.
+  - You love engineering. It's more than a job. You've
+    contributed to open source or worked on side projects just
+    because you enjoy it.
+
+  Interview Process
+
+  Before applying, we strongly encourage you to spend a few
+  minutes in our R&D Candidate Hub. It covers our engineering
+  culture, ways of working, interview process, tech
+  environment, and what it's like to build at Omnea.
+
+  >> R&D Candidate Hub: https://omnea.notion.site/R-D-
+  Candidate-Hub-2f688cce658780f1b942c81cd3a032d4
+
+  While this is a front-end specialist role, we expect a core
+  level understanding of TypeScript beyond the browser, so you
+  should be comfortable writing general TypeScript in an
+  exercise that will feel more full-stack than front-end. We
+  assess this as part of our pair programming stage, which is
+  the same standard exercise we run for every engineer. Beyond
+  that baseline, we're looking for genuine depth in React,
+  front-end architecture, and design systems.
+
+  The process varies slightly by level but generally includes:
+
+  - Initial screening call with our Talent team (30 mins,
+    remote)
+  - AI Product Eng Challenge, language-agnostic (1 hour, remote)
+  - Onsite interviews at our Victoria office (~3 hours)
+    - Engineering Culture interview with an Engineering Manager or
+      Team Lead (45 mins)
+    - FE System Design interview with a Senior Engineer (60 mins)
+    - Engineering Leadership interview with our CTO (45 mins)
+    - Office tour (15 mins)
+
+  We'll asses level throughout and align interview stages
+  accordingly.  We're proud to support visa sponsorship for
+  candidates who need it.
+
+  At Omnea, we embrace diversity. To build a product that's
+  loved by everyone, we're best served by a team with all
+  sorts of backgrounds, experiences, and perspectives. We
+  encourage you to apply even if your experience doesn't quite
+  match the full job spec! And regardless of your race,
+  religion, colour, gender, or anything else! If you think you
+  could be a good fit for Omnea, please reach out.
+
+  A few things to note:
+
+  - We offer competitive geo-localised benefits, and you can
+    check out our UK Benefits Package here and our US Benefits
+    Package here.
+  - We work Tuesdays, Wednesdays & Thursdays in-person at our
+    offices. At this early stage of our company life-cycle
+    it's important to us that we get this together-time, and
+    you can read more about why we believe this is a winning
+    move here
+  - We're commercial, ambitious and we don't pretend otherwise!
+    We're actively seeking folks looking to make the most of a
+    career-defining opportunity, with the hunger to be part of
+    building something really impressive. You can see our
+    values here and our Omnea Future Founder's fund here!
+  - We sometimes use AI note-takers to help us transcribe
+    interview notes, so we can be more present in your
+    interview. If you'd like to opt out of us using automatic
+    transcribers, please note this in the free text field in
+    your application, otherwise we'll take your application as
+    confirmation that you're happy for us to use notetakers
+    (whether added to video calls or in the background).
+
+  We are proud to be recognised for both our culture and
+  product, and we are just getting started. Join us as we
+  grow!
+
+  Legal note: if you are viewing this posting outside of the
+  Omnea careers' page, this may be an auto-generated
+  advertisement and may lack the full range of advertised
+  information - please click through to the posting at
+  https://jobs.ashbyhq.com/omnea to view additional advertised
+  information on this posting.  Additionally, where roles have
+  hard-specified requirements (e.g. [x] days in office, unable
+  to provide visas, etc), if in your application you provide
+  deterministic check-box confirmation that you do not meet
+  the hard-specified requirements, deterministic (not AI or
+  subjective) automatic rejection criteria are in place.
+posted_date: 2026-08-27
+url: "https://builtin.com/job/frontend-engineer/10888964"
+source: Built In

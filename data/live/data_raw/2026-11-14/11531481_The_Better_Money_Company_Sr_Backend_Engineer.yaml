@@ -1,0 +1,140 @@
+job_id: 11531481
+title: Sr Backend Engineer
+company: The Better Money Company
+location: New York, USA
+work_type: FULL_TIME
+company_size: 5 Employees
+description: |
+  TL;DR
+
+  The next wave of stablecoin adoption is payments. We are
+  building a stablecoin clearinghouse to make stablecoins move
+  like money, not a trading asset. We need a backend engineer
+  who can own the systems that move real value: mint and burn
+  flows, reserve accounting, reconciliation, settlement,
+  integrations, and the APIs built on top of all of it.
+
+  About Us
+
+  We believe stablecoins are better money and will be the
+  backbone of better payments. We see key structural problems
+  hindering stablecoin adoption, and we're going to fix them,
+  starting with building a clearinghouse. We're a small,
+  scrappy team (~10 people) based in NYC, we've raised $10M
+  from a16z crypto and other excellent partners, and we're
+  going to bring better money to the world.
+
+  What You’ll Do
+
+  - Design, build, and operate core backend services behind
+    mint/burn flows, reserve accounting, reconciliation, and
+    settlement pipelines.
+  - Integrate with banks, custody providers, stablecoin issuers,
+    blockchains, and partner APIs, and make those dependencies
+    safe enough for money movement.
+  - Build durable reconciliation and audit trails so the team
+    always knows where money is, what happened, and whether
+    state matches reality.
+  - Design secure API surfaces and own monitoring, alerting,
+    runbooks, and incident response for services that move
+    real value.
+  - Contribute to the payments API and internal/admin surfaces
+    where backend ownership meets customer or operations
+    workflows.
+  - Identify and pursue improvements that make the core product
+    more robust, without waiting for a fully specified ticket.
+
+  What We’re Looking For
+
+  - 5-12 years of production backend engineering experience,
+    with services you have designed, shipped, and operated in
+    production. Our stack is TypeScript on Node.js,
+    PostgreSQL, and GCP.
+  - Experience with high-value transactional systems: payments,
+    banking integrations, fintech infrastructure, trading or
+    exchange infrastructure, ledgering, or stablecoin/crypto
+    infrastructure.
+  - A working command of distributed systems fundamentals:
+    consistency, eventing, idempotency, retries, durable
+    reconciliation, ordering, partial failure, and
+    observability.
+  - Judgment for integrating with unreliable external systems:
+    banks, payment rails, custody providers, issuers, or
+    similar partner APIs.
+  - Experience designing secure APIs, handling secrets and
+    access control, instrumenting services, and writing
+    runbooks for infrastructure that moves real value.
+  - Comfort translating ambiguous business and compliance
+    requirements into technical systems, and explaining the
+    tradeoffs to stakeholders across the company.
+  - Willingness and ability to work in person in New York City
+    five days a week. Relocation support is available.
+
+  Nice to have:
+
+  - Direct stablecoin or crypto infrastructure experience: on-
+    chain/off-chain reconciliation, wallet or custody flows,
+    mint/burn, chain finality, or reserve flows.
+  - Background at a payments or fintech company such as Stripe,
+    Plaid, Circle, Paxos, Coinbase, Modern Treasury, or
+    Bridge.
+  - Compliance-adjacent engineering experience: KYC/KYB, AML,
+    sanctions, audit evidence, or reserve attestations.
+  - Ability to build or contribute to admin dashboards, API
+    docs, or partner-facing workflows when needed.
+  - Experience with Temporal or TigerBeetle.
+  - Experience with Rust or Python.
+  - Enthusiasm for building and running core infrastructure with
+    AI coding agents, and helping shape our AI-first
+    engineering culture.
+
+  Our Values
+
+  - Be offended by the status quo. A payment taking 3 days and
+    costing 3% is offensive. Every day that people interact
+    with legacy financial infrastructure costs humanity time
+    and money. Bring the future forward with righteous
+    indignation.
+  - Be all over it. Operate with extreme urgency and
+    accountability. Know the numbers, meet the right people,
+    answer every email, go the extra mile. Ask yourself: can
+    it be done today?
+  - We sell trust. Trust is easy to lose. Security and integrity
+    are our foundation. Use every interaction and every
+    product as an opportunity to build trust. This is non-
+    negotiable.
+  - Do the dishes. We are all owners. Put ego aside and get
+    things done.
+  - Be the glue. Pick each other up and make each other better.
+    Be direct, be helpful, and assume positive intent. Win as
+    a team.
+  - We enjoy the crucible. We are on a mission to change money.
+    It takes a lot of optimism to attack such an ambitious
+    goal. Our opportunity is a privilege and we don't forget
+    that, especially when the journey is hard.
+
+  If these values speak to you, come talk to us!
+
+  Benefits
+
+  We're playing the long game. We think you should too. This
+  means investing in our employees. We offer comprehensive
+  (and growing) benefits, including:
+
+  - Competitive salary and equity
+  - Comprehensive insurance (medical, dental, vision)
+  - Unlimited vacation: take time when you need it
+  - Periodic off-sites
+  - Daily lunch provided
+
+  Equal Opportunity Employment
+
+  The Better Money Company is an equal opportunity employer.
+  We are looking for the best!
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Cryptocurrency
+posted_date: 2026-10-06
+url: "https://builtin.com/job/sr-backend-engineer/11531481"
+source: Built In

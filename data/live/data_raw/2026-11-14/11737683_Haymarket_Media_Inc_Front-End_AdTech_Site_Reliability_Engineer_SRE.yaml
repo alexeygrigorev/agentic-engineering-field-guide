@@ -1,0 +1,150 @@
+job_id: 11737683
+title: "Front-End & AdTech Site Reliability Engineer (SRE)"
+company: Haymarket Media, Inc
+location: New York, USA
+work_type: FULL_TIME
+company_size: 244 Employees
+description: |
+  Front-End & AdTech Site Reliability Engineer (SRE)
+
+  Haymarket Media, Inc. is seeking a Front-End & AdTech Site
+  Reliability Engineer (SRE) to join the Engineering team.
+  This position is located in our New York, NY office; three
+  (3) days in office depending on business needs.
+
+  Job Overview:
+
+  A Haymarket Front-End & AdTech Site Reliability Engineer
+  (SRE) is a specialized engineer who bridges the gap between
+  high-performance client-side code and modern cloud
+  infrastructure. In this role, you will own the reliability
+  and performance of our user-facing Vue 3 applications,
+  headless WordPress architectures, and complex AdStack,
+  balancing programmatic monetization via Prebid.js against
+  Core Web Vitals. In this hands-on role you will ensure our
+  web ecosystem is fast, resilient, and optimized at the edge.
+
+  Responsibilities:
+
+  Lead development team initiatives to:
+
+  - Architect and maintain Cloudflare CDN capabilities (Cache
+    Rules, WAF, Page Rules) to maximize cache-hit ratios.
+  - Build and deploy serverless solutions using Cloudflare
+    Workers for edge routing and asset optimization.
+  - Own zero-downtime CI/CD pipelines (e.g., GitHub Actions,
+    GitLab CI) for Vue 3 applications and WordPress.
+  - Manage GCP infrastructure (Cloud Run, GKE) to ensure
+    scalability and cost-efficiency.
+  - Optimize client-side monetization architecture (Prebid.js)
+    to minimize bundle size and auction latency.
+  - Implement OpenTelemetry (OTel) for end-to-end tracing and
+    monitoring of core performance metrics (LCP, INP, CLS).
+  - Lead blameless post-mortems for performance degradations and
+    outage incidents.
+
+  Skills and Requirements:
+
+  Qualifications include:
+
+  - Minimum of 3+ years, but ideally 6+ years of experience in
+    SRE, DevOps, or Performance-focused Engineering.
+  - Proficiency in Vue 3 (Composition API) and build tools like
+    Vite.
+  - Deep understanding of WordPress architecture and the WP REST
+    API/GraphQL.
+  - Hands-on experience managing Cloudflare (including Workers
+    for senior roles).
+  - Comfort with GCP (Cloud Run, Storage, GKE) and Terraform.
+  - Practical experience with Prebid.js and Google Ad Manager
+    (GAM).
+  - Familiarity with OpenTelemetry for distributed tracing.
+  - Bachelor’s degree in a related field
+
+  Nice To Have Skills
+
+  - Experience with hybrid bidding strategies or Prebid Server
+    migration.
+  - Advanced Linux system administration.
+  - Experience mentoring teams on performance culture.
+
+  Special Instructions:
+
+  - A cover letter and code samples are required
+
+  What We Offer:
+
+  - A competitive compensation package
+  - The salary range for this position is $150,000 to $160,000.
+    Compensation will be commensurate with experience, skill
+    level, functional and/or industry knowledge, education
+    level, certifications, as well as other qualifications.
+  - Paid annual vacation, holiday and sick time off
+  - Comprehensive health plans including medical, dental and
+    vision
+  - Competitive 401(k) investment options and generous company
+    matching program
+  - Life insurance
+  - Commuter benefits
+  - Employee referral awards
+  - Tuition reimbursement
+  - Training opportunities through industry-recognized programs
+  - A creative and passionate workplace and a fun, collaborative
+    team environment
+  - Three Week “Work from Anywhere” benefit, to ensure work life
+    balance
+
+  About Haymarket: Haymarket has its heart and soul in
+  publishing and media. Since the company was founded half a
+  century ago, Haymarket has always prided itself on being a
+  highly creative business, with an unrelenting focus on the
+  quality of the products and the people. The philosophy has
+  always been quite simple: only by having the highest quality
+  individuals can you produce the highest quality products,
+  combining the best in content, design, production and
+  customer services. Globalization is opening up the world
+  further and provides many opportunities for growth.
+  Haymarket has offices around the world and many of the
+  titles are now truly global brands. Haymarket serves a broad
+  spread of business markets, from marketing to medicine to
+  technology along with exhibitions and live events.
+  Predicting the shape of the business in 3, 5, or 10 years is
+  almost impossible; and the unpredictability is part of the
+  appeal. Haymarket aims to be the perfect company to work
+  with or for – we have the processes and attitude that ensure
+  quality and consistency, and an entrepreneurial spirit that
+  makes every day rewarding. As a Certified B Corporation,
+  we’re proud to be part of a community of companies working
+  together for change, and taking part in collective action to
+  advocate for a shared goal of a global economy that benefits
+  people and the planet.
+
+  An equal opportunity employer, Haymarket Media does not
+  discriminate in hiring or terms and conditions of employment
+  because of an individual's race, color, religion, gender,
+  gender identity, national origin, citizenship, age,
+  disability, sexual orientation, marital status, or any other
+  protected category recognized by state, federal, or local
+  laws.
+
+  Beware of fraudulent activity where individuals are
+  contacting job seekers claiming to represent Haymarket
+  Media. Please note that only emails from @haymarketmedia.com
+  are legitimate.
+
+  When applying for roles with Haymarket Media, you will
+  receive an email directly from a member of the Talent
+  Acquisition team or communication through Linkedin.
+
+  You can view our open positions on our website US careers
+  section: www.Haymarket.com
+
+  California Applicants may view Haymarket Media, Inc.'s
+  Privacy Statement for California Residents here.
+industries:
+  - AdTech
+  - Digital Media
+  - Marketing Tech
+posted_date: 2026-10-17
+url: "https://builtin.com/job/front-end-adtech-site-reliability-engineer-sre/11737683"
+source: Built In

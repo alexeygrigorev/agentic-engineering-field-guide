@@ -1,0 +1,152 @@
+job_id: 12251102
+title: Senior Software Engineer, Cloud Platform (EMEA)
+company: Qdrant
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 100 Employees
+description: |
+  Qdrant is an open-source vector search engine powering the
+  next generation of AI applications, from semantic search and
+  retrieval-augmented generation (RAG) to AI agents and real-
+  time recommendations.
+
+  Trusted by global leaders like Canva, HubSpot, Tripadvisor,
+  Bosch, and Deutsche Telekom, we’re building the retrieval
+  infrastructure layer for modern AI. Recently raising $50M in
+  Series B funding, we are growing rapidly and committed to
+  transforming how AI understands and interacts with data.
+
+  As a remote-first company, we believe diverse backgrounds,
+  perspectives, and experiences fuel innovation. Here, you’ll
+  own meaningful work, tackle challenges, and grow alongside
+  passionate individuals dedicated to shaping the future of
+  AI.
+
+  The Team and Your Impact
+
+  As a Senior Software Engineer on the Qdrant Cloud Platform
+  team, you will build the shared foundations that every other
+  Cloud team builds on: core control-plane services,
+  authentication, security, developer tooling and the paths
+  into Qdrant Cloud for both people and AI agents.
+
+  Qdrant Cloud is growing fast. More customers, more regions
+  and more teams shipping features puts more weight on the
+  platform underneath. The role is a mix of running and
+  hardening existing services and building new ones.
+
+  This role is for engineers who like building for other
+  engineers, care about security and good defaults, and want
+  to see their work speed up a whole engineering org.
+
+  What You Will Own
+
+  - Design, build and operate core control-plane services in Go.
+  - Work on platform-wide concerns other teams depend on:
+    security, audit, and the authentication and authorization
+    plumbing.
+  - Build how people and AI agents sign in to and access Qdrant
+    Cloud (API, CLI, MCP), including OAuth flows.
+  - Improve developer experience and delivery: CI/CD, testing,
+    and safety checks on pull requests, including for AI-
+    written code.
+  - Strengthen observability of the platform through monitoring,
+    logging, alerting and metrics.
+  - Reduce operational load through engineering, so the team
+    spends less time firefighting and more time building.
+  - Take part in on-call for platform services, including
+    incident response and root cause analysis.
+  - Work closely with the Cluster Lifecycle, Operations, and
+    Billing & IAM teams, who depend on the platform every day.
+
+  Who You Are
+
+  - 5+ years of software engineering experience, with a good
+    part of it on platform, backend or infrastructure.
+  - Strong proficiency in Go.
+  - Experience designing and running APIs and backend services
+    in production (gRPC or REST).
+  - Solid experience running services on Kubernetes in
+    production.
+  - Good working knowledge of authentication and authorization
+    (OAuth2/OIDC, tokens, API keys) and secure-by-default
+    design.
+  - Hands-on experience with at least one major cloud provider
+    (AWS, GCP or Azure).
+  - Experience with CI/CD and automated testing.
+  - Comfortable participating in on-call rotations and handling
+    production incidents.
+  - Ownership mindset and clear communication skills.
+
+  Nice to have
+
+  - Experience building internal platforms or developer tooling
+    used by other engineering teams.
+  - Experience with infrastructure-as-code (Terraform or
+    similar).
+  - Background in SaaS, database or systems-level product
+    companies.
+  - Experience with Prometheus, Grafana, OpenTelemetry or
+    similar tooling.
+
+  Why join us
+
+  - A remote-first, international team working on cutting-edge
+    AI infrastructure.
+  - A competitive salary with additional perks.
+  - Flexible working hours and async-friendly culture.
+  - High ownership and real impact.
+  - Open-source, engineering-driven culture.
+  - Choose your own laptop equipment.
+
+  For US-based full-time employees, we also offer a
+  comprehensive benefits package including 401k match, health,
+  dental, and vision insurance, plus flexible PTO policy.
+
+  Qdrant is an equal-opportunity employer. We believe the best
+  ideas come from diverse teams, and we actively welcome
+  applicants from all backgrounds. If this role excites you
+  but you don't check every single box, we'd still love to
+  hear from you! We don't want to miss out on great people
+  because of a checklist.
+
+  Come build with us!
+
+  For information on how we handle your personal data, please
+  refer to our Recruitment Privacy Policy #LI-REMOTE
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Database
+posted_date: 2026-11-13
+url: "https://builtin.com/job/senior-software-engineer-cloud-platform-emea/12251102"
+source: Built In

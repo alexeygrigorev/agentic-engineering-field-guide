@@ -1,0 +1,163 @@
+job_id: 12015284
+title: Backend Engineer, Cloud
+company: Zed Industries
+location: CHL
+locations:
+  - CHL
+  - PER
+  - CAN
+  - USA
+  - GUY
+  - BRA
+  - ECU
+  - MEX
+  - URY
+  - COL
+  - SUR
+  - BOL
+  - PRY
+  - ARG
+remote: true
+work_type: FULL_TIME
+company_size: 25 Employees
+description: |
+  Zed is building tools for people who care deeply about
+  making software. We’re looking for an experienced backend
+  engineer to help build the cloud services behind Zed and
+  Delta.
+
+  The server-side infrastructure powers many of Zed's core
+  features: all AI connections go through this system, as do
+  the collaboration primitives, in addition to cross-cutting
+  concerns like auth, billing and telemetry. We are currently
+  rebuilding our backend from a single stateful server to a
+  fully distributed system, and looking for someone to help
+  lead this effort.
+
+  Our cloud capabilities are growing faster than the team’s
+  capacity to build them. We need someone who can become a
+  trusted technical partner to the engineers already doing
+  this work: shaping projects, writing code, making sound
+  decisions, and sharing responsibility for the system in
+  production.
+
+  This is primarily a software engineering role. Most of your
+  time will go toward building backend software, but you’ll
+  also need to understand and help own the infrastructure it
+  runs on.
+
+  ## What you’ll work on
+
+  The cloud team owns work spanning APIs, application logic,
+  storage, asynchronous processing, deployment, and
+  operations. Projects may include:
+
+  - Building Cloud Runners that provide ephemeral compute for
+    development work.
+
+  - Evolving billing to support new products, pricing, and
+    packaging.
+
+  - Integrating with identity providers and developing
+    authorization capabilities.
+
+  - Building integrations that connect Zed and Delta to
+    developers’ existing workflows.
+
+  Some projects involve unfamiliar technical challenges.
+  Others are straightforward capabilities that customers and
+  the business need. We’re looking for someone who takes care
+  with both and enjoys moving between different kinds of work
+  as priorities evolve.
+
+  Our cloud backend is built in Rust, including services
+  compiled to WebAssembly and running on Cloudflare Workers.
+  We use managed infrastructure to reduce operational work and
+  invest in tests that exercise complete workflows across
+  clients and services. [Read more about how we’re building
+  Zed Cloud](https://maxdeviant.com/posts/2025/head-in-the-
+  zed-cloud/).
+
+  ## What you’ll do
+
+  - Turn emerging needs into shipped capabilities. Work with
+    engineering and product partners to clarify problems,
+    choose a practical scope, and carry projects through
+    implementation, rollout, and operation.
+
+  - Share technical stewardship of the cloud system. Develop the
+    context and judgment to make consequential decisions,
+    guide work, and become someone teammates can turn to
+    without routing every question through the same person.
+
+  - Stay hands-on. Write and review code, investigate difficult
+    bugs, and work through the details that make a service
+    correct, maintainable, and reliable.
+
+  - Make deliberate trade-offs. Recognize when a focused
+    solution is enough, when an investment will make future
+    work easier, and when to leave something alone.
+
+  - Help others work independently. Share context, give useful
+    feedback, and improve the tests, interfaces, and
+    documentation that support the team’s work.
+
+  - Own production behavior. Participate in on-call, respond to
+    incidents, and address recurring problems in the software
+    and infrastructure.
+
+  As you become familiar with the system, you should be able
+  to take on significant cloud work independently while
+  keeping the right people involved. Success means both
+  delivering your own projects and helping the team make good
+  decisions without depending on any one engineer.
+
+  ## What you’ll bring
+
+  - You’ve owned backend services from design through production
+    and continued development. You’ve made API and data-model
+    decisions, shipped changes to systems with active users,
+    and handled failures and operational issues after
+    launch—not just implemented isolated features.
+
+  - You’ve built and operated the cloud infrastructure behind
+    your software. Your work has included provisioning
+    resources, configuring deployments and monitoring, and
+    diagnosing production problems across application code and
+    infrastructure.
+
+  - You’ve led projects that other engineers contributed to
+    while writing code yourself. You’ve clarified
+    requirements, worked through design decisions and
+    dependencies, and followed through on delivery. Teammates
+    have trusted you to guide work without escalating every
+    decision.
+
+  - You’ve worked across different kinds of backend problems.
+    You can point to times you took responsibility outside
+    your usual area, learned what you needed, and delivered.
+    You’re comfortable moving between new capabilities,
+    integrations, and operational improvements as priorities
+    change.
+
+  - You make technical decisions with the people affected by
+    them. You’ve worked with engineers and product partners to
+    compare approaches, choose what to build now, and decide
+    what to defer. You can explain the trade-offs and how
+    other people’s input changed the outcome.
+
+  - You’re ready to build in Rust. Production Rust experience is
+    a strong advantage, but it isn’t required. If Rust is new
+    to you, you should be able to describe how you’ve learned
+    an unfamiliar language or codebase and shipped production
+    work in it.
+
+  Your career should be centered on building software. You
+  might have owned both the backend and infrastructure at a
+  small SaaS company, or combined application engineering with
+  time in platform, DevOps, or reliability roles. We care more
+  about what you’ve built and owned than your previous titles
+  or experience with a particular cloud provider.
+posted_date: 2026-11-02
+url: "https://builtin.com/job/backend-engineer-cloud/12015284"
+source: Built In

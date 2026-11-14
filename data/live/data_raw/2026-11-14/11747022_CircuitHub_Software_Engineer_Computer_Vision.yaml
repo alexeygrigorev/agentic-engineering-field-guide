@@ -1,0 +1,85 @@
+job_id: 11747022
+title: Software Engineer, Computer Vision
+company: CircuitHub
+location: London, GBR
+locations:
+  - London, GBR
+  - Cambridge, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 42 Employees
+description: |
+  About CircuitHub
+
+  CircuitHub is reshaping electronics manufacturing with The
+  Grid, a factory-scale robotics platform that makes small-
+  batch, high-mix electronics assembly radically more
+  efficient. Think semiconductor-fab precision applied to the
+  chaotic world of prototyping and low-volume production: a
+  10x throughput improvement in one of the world's most
+  foundational industries.
+
+  We've raised $45M from top-tier investors including Plural,
+  Y Combinator and Google Ventures, and we're already
+  profitable. Our customers include a major EV maker, a top AI
+  lab and many of the worlds largest companies.
+
+  The Grid isn't a prototype. It's live, scaling fast and
+  delivering real revenue, and we're building the team that
+  will scale it further.
+
+  What you'll do
+
+  - Inspect boards. Improve automated optical inspection that
+    finds missing, rotated and wrongly placed parts and bad
+    solder, working alongside our AI agents.
+  - Pick reliably. Train and deploy the models that find parts
+    in bins and trays, centre them on the nozzle and catch a
+    clumped or dropped pick.
+  - Align precisely. Fiducial detection, calibration and image
+    alignment for placements measured in fractions of a
+    millimetre.
+  - Build the data loop. Decide what to capture, build labelling
+    tools, and turn operator verdicts into training data.
+  - Go fast. Work with our high-speed cameras and GPU capture
+    pipeline to move vision closer to real time.
+  - Measure it. Track accuracy in production, find where errors
+    come from, and prove every change against past results.
+
+  What we look for
+
+  - You've shipped computer vision into production, beyond a
+    notebook.
+  - Strong software engineering in Python, C++ or a comparable
+    language.
+  - A mix of classical vision (geometry, calibration, template
+    matching) and deep learning; you know when each is the
+    right tool.
+  - Experience with industrial or machine-vision cameras is a
+    bonus.
+  - You use coding agents to move faster and take full ownership
+    of what they produce.
+  - You like the physical world: lighting, lenses and parts
+    rotated by 90°.
+
+  Stack
+
+  - Vision: OpenCV, PyTorch and Lightning, ONNX Runtime on GPU,
+    libtorch from Haskell
+  - Cameras: Basler GigE cameras via pylon, high-speed cameras
+    with GPUDirect capture
+  - Services: Python and Haskell, PostgreSQL, Nix and NixOS
+
+  Pay
+
+  UK £80k–£125k · US $125k–$250k, depending on experience,
+  plus equity.
+industries:
+  - Hardware
+  - Internet of Things
+  - On-Demand
+  - Appliances
+  - Manufacturing
+posted_date: 2026-10-19
+url: "https://builtin.com/job/software-engineer-computer-vision/11747022"
+source: Built In

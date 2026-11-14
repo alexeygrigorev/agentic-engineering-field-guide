@@ -1,0 +1,192 @@
+job_id: 8461281
+title: Senior Software Engineer, Developer Platform
+company: Decagon
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 49 Employees
+description: |
+  About Decagon
+
+  Decagon is the leading conversational AI platform empowering
+  every brand to deliver concierge customer experiences.
+
+  Our technology enables industry-defining enterprises like
+  Avis Budget Group, Block’s Cash App and Square, Chime, Oura
+  Health, and Hunter Douglas to deploy AI agents that power
+  personalized, deeply satisfying interactions across voice,
+  chat, email, SMS, and every other channel.
+
+  We’re building a future where customer experiences are being
+  redefined from support tickets and hold music to faster
+  resolutions, richer conversations, and deeper relationships.
+  We’re proud to be backed by world-class investors who share
+  that vision, including a16z, Accel, Bain Capital Ventures,
+  Coatue, and Index Ventures, along with many others.
+
+  We’re an in-office company, driven by a shared commitment to
+  excellence and velocity. Our values — Just Get It Done,
+  Invent What Customers Want, Winner’s Mindset, and The
+  Polymath Principle — shape how we work and grow as a team.
+
+  About the Team
+
+  The Developer Platform team owns how Decagon builds and
+  ships software: from the time an engineer/coding agent
+  starts with an idea/spec/problem to the time the we have a
+  released product in our customer’s hands. That covers dev
+  environments, CI, the merge queue, build and test
+  infrastructure, release and deploy, and the tooling and
+  context that make coding agents useful in our codebase.
+
+  We're part of Infrastructure. Our users are the entire
+  engineering team who ship to one shared monorepo every day,
+  and a fast-growing number of coding agents working alongside
+  them. Agents already open PRs, fix CI, and verify changes in
+  cloud environments, using the same pipelines as everyone
+  else. We measure success by how fast and how safely changes
+  reach customers, whoever wrote them.
+
+  About the Role
+
+  We're hiring an experienced engineer to own and grow the
+  foundations of our developer platform. The team works on
+  both traditional developer experience and AI leverage. This
+  role leans toward the foundations: fast and reliable CI,
+  reproducible environments, safe deploys, and clear tooling.
+
+  Those foundations decide how much leverage we get from AI.
+  An agent is only as effective as its feedback loop: how
+  quickly it can get a working environment, run the right
+  tests, trust the result, and ship safely. Every improvement
+  you make for engineers also helps agents, and you'll design
+  with both kinds of users in mind.
+
+  You'll find where development slows down (slow or flaky CI,
+  merge-queue churn, hard-to-reproduce environments, manual
+  release steps), fix the system behind it, and get the fix
+  adopted across the company.
+
+  What you'll work on
+
+  - CI and the merge queue: make CI faster, cheaper, and more
+    reliable. That means test selection, caching, runner
+    autoscaling and capacity, flaky-test detection and
+    quarantine, and merge-queue throughput. With more agent-
+    written PRs, merge-queue throughput and CI signal quality
+    become even more important.
+  - Release and deploy: improve the path from merge to
+    production. That includes promotion between environments,
+    canary and rollback safety, deploy gates, and release
+    tooling that removes manual steps without removing
+    control.
+  - Agentic development tooling: Support various agents
+    (Devin/Claude Code/Codex), their setup, the surrounding
+    infra (eg Runlayer), and review agents like Greptile.
+  - Tools and context: Give agents secure, observable access to
+    codebases, tests, documentation, internal systems, and the
+    tools needed to complete real engineering work.
+  - Infrastructure as Code: We use OpenTofu for most of our IaC
+    and use Spacelift to deploy them
+  - Internal builder platforms: Create reusable frameworks that
+    let teams quickly build their own internal tools,
+    dashboards, automations, and agents.
+  - Developer productivity observability and evals: instrument
+    the whole development lifecycle for both human and agent
+    work, and use that to guide project selection and agent
+    evals
+
+  What you'll do
+
+  - Design, build, and operate the systems that every Decagon
+    engineer and coding agent uses to build, test, and ship
+    code.
+  - Lead ambitious platform projects from an ambiguous problem
+    through technical design, implementation, rollout, and
+    long-term evolution.
+  - Partner closely with engineers across the company to
+    understand bottlenecks, prototype solutions, and drive
+    adoption.
+  - Improve the speed and quality of software development
+    through better agent tooling, testing, review, and
+    automation.
+  - Own the reliability, observability, security, performance,
+    and cost of the systems you build.
+
+  You might be a great fit if you
+
+  - Have 4+ years of experience building production software,
+    particularly in backend, infrastructure, platform, or
+    developer tooling.
+  - Are a strong programmer in Python, TypeScript, or another
+    systems-oriented language.
+  - Have designed and operated APIs, services, or platforms that
+    other engineers depend on.
+  - Understand distributed systems, cloud infrastructure,
+    containers, and production reliability.
+  - Have taken technically complex projects from ambiguous
+    problem statements to widely adopted production systems.
+  - Care deeply about developer experience and know how to turn
+    complicated infrastructure into simple, useful
+    abstractions.
+  - Move quickly while maintaining a high bar for correctness,
+    security, and operational quality.
+  - Communicate clearly and enjoy working directly with the
+    engineers who use what you build.
+
+  Even better if you have
+
+  - Experience building coding agents, tool-use systems, agent
+    harnesses, or sandboxed execution environments.
+  - Experience with CI/CD systems, build infrastructure,
+    monorepos, or large-scale test automation.
+  - Built evaluation, testing, or review systems for AI-
+    generated code.
+  - Experience with Kubernetes, infrastructure as code, secrets
+    management, or identity and access systems.
+  - Built an internal developer platform or shared tooling that
+    achieved meaningful adoption across an engineering
+    organization.
+  - Applied AI to materially improve engineering velocity,
+    reliability, or software quality.
+
+  Compensation
+
+  $200K – $400K + Offers Equity This range reflects the
+  expected compensation for this role. Compensation within the
+  range is determined based on experience, skills, and the
+  scope of responsibilities, with flexibility for candidates
+  who demonstrate exceptional impact. In addition to base
+  salary, we offer competitive equity. Final compensation may
+  vary based on location within the United States.
+
+  Benefits
+
+  We proudly offer the following benefits for our full-time
+  employees:
+
+  - Medical, Dental, and Vision benefits for you and your family
+  - Life Insurance and Disability Benefits
+  - Retirement Plan (e.g., 401K, pension)
+  - Parental Leave
+  - Fertility and family building benefits through Carrot
+  - Monthly stipend to support your wellness, lifestyle, and
+    work-life balance
+  - Daily lunches and snacks in the office to keep you at your
+    best
+  - Take what you need vacation policy (subject to local
+    requirements; UK employees receive 25 days of statutory
+    leave)
+
+  Decagon offers a competitive benefits package that varies by
+  country and complements local statutory benefits. Details
+  for this location will be provided during the recruitment
+  process.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-08-08
+url: "https://builtin.com/job/senior-software-engineer-developer-platform/8461281"
+source: Built In

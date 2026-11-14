@@ -1,0 +1,119 @@
+job_id: 11069829
+title: Staff / Senior Software Engineer
+company: Mandrel
+location: New York, USA
+work_type: FULL_TIME
+company_size: 4 Employees
+description: |
+  Job Title: Senior Software Engineer (NYC)
+
+  About Mandrel
+
+  Mandrel is building the AI-native ERP for physical goods.
+  Today, our wedge is simple and painful: true, auditable
+  gross margin by SKU and channel, tied to real supply-chain
+  source of truth documents.
+
+  Founded in 2023, Mandrel has raised over $12M top-tier
+  investors like Lux Capital, Construct Capital, Zigg Capital,
+  Asymmetric Capital Partners, WndrCo, and Clocktower
+  Ventures. The team is headquartered in New York and brings
+  deep expertise in finance and AI.
+
+  About this role
+
+  We’re hiring a highly motivated Staff / Senior Software
+  Engineer to join our team in New York. and collaborate
+  across engineering, product, and customer teams to scale our
+  core platform. You will own critical architecture decisions,
+  drive technical standards, and ship high-impact systems end-
+  to-end—from initial concept and prototypes to reliable,
+  production-ready features. This is a deeply autonomous role
+  where you will shape both the product and the underlying
+  engineering foundation.
+
+  You will:
+
+  - Design, develop, test and deploy systems that automate key
+    finance workflows and transform data into real-time
+    financial insights for our brands.
+  - Define and contribute to the technical roadmap, working with
+    customers and the internal team translate requirements
+    into scalable architectures and identify opportunities for
+    improvement
+  - Develop and refine AI-powered data pipelines for extracting,
+    classifying, and linking unstructured data from a variety
+    of operations and finance data sources, including supply
+    chain documentation
+  - Architect and implement real-time data synchronization
+    systems using GraphQL subscriptions, WebSockets, and
+    PubSub to keep data instantly updated across all users
+  - Design multi-tenant enterprise features for procurement,
+    inventory, and accounting automation with organization-
+    level data isolation
+  - Build sophisticated integration layers connecting ecommerce
+    platforms (Shopify, Amazon), warehouse platforms,
+    financial software (Bill, QuickBooks), logistics
+    providers, and email inboxes
+  - Optimize background processing systems for document
+    analysis, data aggregation, and automated financial
+    reconciliation workflows
+  - Influence engineering standards and mentor teammates,
+    helping establish best practices for system design, code
+    quality, testing, and operations
+
+  You're a good fit if you:
+
+  - Have 5+ years of full-stack industry experience building
+    complex, data-intensive applications
+  - Are proficient in our core stack: TypeScript, NestJS,
+    GraphQL, Next.js, PostgreSQL, and Redis
+  - Have experience architecting systems from scratch -- ideally
+    in finance, accounting, supply chain, or other B2B domains
+  - Have built real-time systems (WebSockets, subscriptions,
+    event-driven architectures)
+  - Have worked with AI/ML integrations (agentic workflows,
+    document processing, content extraction)
+  - Understand multi-tenant architecture patterns and enterprise
+    security requirements
+  - Have experience with cloud platforms (AWS, Heroku) and
+    containerization (Docker)
+  - Are comfortable working with complex domains and translating
+    requirements into technical solutions
+  - Are self-driven, product-oriented, and motivated by building
+    software that material improves business operations.
+  - Bonus: experience with inventory management, document
+    processing, financial, or general ledger systems
+
+  Benefits & perks
+
+  - Competitive salary & equity package
+  - Unlimited vacation (with 15 days encouraged)
+  - Comprehensive medical, dental, and vision insurance
+  - Relocation assistance to NYC
+
+  Why work with us
+
+  At Mandrel, we believe in fostering a culture where hard
+  work is rewarded and personal growth is prioritized. Working
+  with us means you’ll have:
+
+  - Play a key role as an early team member at a growing startup
+    with a high level of ownership
+  - Work directly with the founding team and customers
+  - Be a part of a fast-paced team that works together in person
+    in NY
+  - Opportunities for mentorship and professional development
+  - Solve real problems that impact the bottom line of your
+    favorite consumer brands
+industries:
+  - eCommerce
+  - Fintech
+  - Payments
+  - Software
+  - Analytics
+  - Business Intelligence
+  - "3PL: Third Party Logistics"
+posted_date: 2026-10-18
+url: "https://builtin.com/job/staff-senior-software-engineer/11069829"
+source: Built In

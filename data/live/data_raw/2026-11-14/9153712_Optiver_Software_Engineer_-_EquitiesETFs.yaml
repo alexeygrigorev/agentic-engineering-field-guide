@@ -1,0 +1,143 @@
+job_id: 9153712
+title: Software Engineer - Equities/ETFs
+company: Optiver
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,600 Employees
+description: |
+  Optiver is seeking Software Engineers specializing in the US
+  cash equities and US ETF markets to help lead our continued
+  rapid growth across cash equities. Our Software Engineers
+  lead large technical projects, help set the direction for
+  our trading infrastructure, and leverage technology to
+  enable business success.
+
+  Our cash equities engineering team is building out systems
+  that must ingest and react to market data feeds from major
+  US exchanges in microseconds or less, efficiently price and
+  hedge positions of single stocks and ETFs and execute orders
+  with extremely low error tolerance. We continually refine,
+  store, and analyze terabytes of data produced by market
+  activity and our trading systems. Our user interfaces must
+  present coherent, responsive real-time visualizations of
+  market activity and system performance while providing
+  intuitive control of a highly complex system. Our core
+  systems must provide a stable, performant, and trusted
+  foundation on which our systems are built.
+
+  What you’ll do:
+
+  In this role you will be building out functionality across
+  simulation, research, and production systems. Specifically,
+  you will:
+
+  - Help establish the vision and technical direction for major
+    cash equities trading initiatives
+  - Design, develop, support, and maintain large portions of our
+    low-latency equities trading infrastructure, including
+    order management systems (OMS) and execution management
+    systems (EMS)
+  - Contribute to our pricing, research and trading models that
+    power our market-making and proprietary trading strategies
+    in US equities and US ETFs
+  - Develop a deep understanding of exchange-specific protocols,
+    order book dynamics and exchanges connectivity
+  - Optimize data processing pipelines to handle market data
+    from multiple exchanges at scale while continuously
+    improving execution speed and system performance
+  - Work closely with FPGA engineers to leverage hardware
+    acceleration for ultra-low-latency execution and explore
+    novel ways to integrate FPGAs with software-driven trading
+    infrastructure
+  - Collaborate deeply with traders, engineers, and researchers
+    to help us evolve our execution logic and market impact
+    models
+
+  Technology at Optiver:
+
+  At Optiver we pride ourselves on being real engineers, not
+  just coders. Our engineers work closely with traders to
+  identify the business problems we face and determine how
+  they should be solved. We apply a disciplined and scientific
+  approach. We engineer simple, well-architected solutions
+  that meet the dynamic needs of our traders. Our passion is
+  to solve problems which really matter to the business, and
+  we take pride in the quality of our solutions.
+
+  What you’ll get:
+
+  You’ll join a culture of collaboration and excellence, where
+  you’ll be surrounded by curious thinkers and creative
+  problem solvers. Motivated by a passion for continuous
+  improvement, you’ll thrive in a supportive, high-performing
+  environment alongside talented colleagues, working
+  collectively to tackle the toughest problems in the
+  financial markets.
+
+  In addition, you’ll receive:
+
+  - The opportunity to work alongside best-in-class
+    professionals from over 40 different countries
+  - Ownership over initiatives that directly solve business
+    problems
+  - 401(k) match up to 50% and fully paid health insurance
+  - 25 paid vacation days alongside market holidays
+  - Extensive office perks, including breakfast, lunch and
+    snacks, regular social events, clubs, sporting leagues and
+    more
+
+  Who you are:
+
+  - Familiarity with the market microstructure of the US
+    Equities and/or US ETF markets
+  - Strong engineering instincts and a deep understanding of
+    computer science fundamentals
+  - Programming experience across C++ or C with other object-
+    orientated languages also considered
+  - Experience building low-latency trading systems on a large
+    scale including across market data ingestion, order
+    routing and execution performance
+  - Experience with exchange connectivity, order matching, and
+    execution logic for major venues
+  - Experience optimizing high-throughput systems that must
+    process and react in real-time to streams of market data
+  - Familiarity with building and integrating FPGA-assisted
+    trading systems
+  - Innovative, big-picture thinking grounded in real-world
+    pragmatism
+  - Readiness to set technical direction, promote strong
+    engineering principles and continuously seek ways to
+    refine and optimize systems in a fast-moving, ever
+    evolving environment
+  - You can spot opportunities to enhance performance,
+    efficiency, and maintainability
+
+  Who we are:
+
+  At Optiver, our mission is to improve the market by
+  injecting liquidity, providing accurate pricing, increasing
+  transparency and stabilizing the market no matter the
+  conditions. With a focus on continuous improvement, we
+  prioritize safeguarding the health and efficiency of the
+  markets for all participants. As one of the largest market
+  making institutions, we are a respected partner on 100+
+  exchanges across the globe.
+
+  Our differences are our edge. Optiver does not discriminate
+  on the basis of race, religion, color, sex, gender identity,
+  sexual orientation, age, physical or mental disability, or
+  other legally protected characteristics.
+
+  Below is the expected base salary for this position. This
+  position will also be eligible for a discretionary bonus and
+  Optiver’s benefits package with the benefits listed above.
+
+  Base Salary Range
+
+  $200,000—$200,000 USD
+industries:
+  - Fintech
+  - Quantitative Trading
+posted_date: 2026-08-04
+url: "https://builtin.com/job/software-engineer-equities-etfs/9153712"
+source: Built In

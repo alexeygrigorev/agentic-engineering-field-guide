@@ -1,0 +1,280 @@
+job_id: 10965044
+title: "Engineering Manager - Identity, Compliance & Risk (NYC / MIA)"
+company: Crossmint
+location: Miami, USA
+locations:
+  - Miami, USA
+  - New York, USA
+work_type: FULL_TIME
+company_size: 75 Employees
+description: |
+  About Crossmint
+
+  Global financial rails are undergoing a once-in-a-generation
+  transformation. Instant settlement. Programmable. Agent-
+  first. Crossmint is the infrastructure helping companies
+  build for that future. We are the leading all-in-one
+  stablecoin and wallet infrastructure platform, enabling
+  fintechs, enterprises, and agentic platforms to integrate
+  stablecoin rails with speed, compliance, and scale.
+  Crossmint provides everything enterprises need to ship smart
+  financial rails, including smart wallets, cross-chain
+  stablecoin orchestration, on/offramps, token checkout, and
+  more, all through a single developer-friendly API. Trusted
+  by more than 40,000 clients including global leaders like
+  MoneyGram, Western Union, and Paga to nation states like the
+  Marshall Islands, Crossmint powers stablecoin flows that
+  move billions from cross-border remittances, global payroll,
+  to the world's first digital UBI program. MiCA-authorized,
+  PSD2-licensed, and SOC2 Type II certified, Crossmint serves
+  150+ countries globally across 50+ blockchains. Backed by
+  Ribbit Capital, Franklin Templeton, NYCA, First Round, and
+  Lightspeed Faction. We're building the infrastructure for
+  the era of programmable finance. Join us!
+
+  Location
+
+  NYC or Miami. Hybrid office setting.
+
+  Type of employment
+
+  Full-time
+
+  Seniority
+
+  8+ years building production systems, with 2+ years managing
+  engineers.
+
+  Compensation
+
+  Base salary range: $250,000 - $280,000
+
+  Note: This range reflects base salary only. Final level,
+  team assignment, and compensation are determined during the
+  interview process based on experience and fit.
+
+  - Stock options are part of every full-time offer, granted on
+    top of the base salary range above. We want everyone here
+    to be a genuine stakeholder in what we're building.
+  - We conduct two performance reviews annually. The first
+    addresses performance ratings, bonuses, and promotions.
+    The second encompasses these elements along with salary
+    adjustments reflecting inflation and market conditions.
+
+  About The Role
+
+  We are hiring a senior Engineering Manager to own identity,
+  compliance and risk as a single engineering horizontal.
+
+  Every Crossmint product depends on the same set of
+  questions. Who is this user or business, and what have we
+  proven about them? What is this client allowed to do, in
+  this market, under this licence? Is this transaction one we
+  should accept? Today those answers are built into each
+  product. This role brings them together into shared services
+  that every team builds on.
+
+  This is a player-coach role. You will lead a team and own
+  the roadmap, and you will stay close enough to the systems
+  to review a domain model, challenge an architecture
+  decision, and read the code. No delegation without
+  comprehension.
+
+  The work is regulated. Crossmint operates under MiCA, DORA,
+  and SOC 2, and our licences depend on the systems your team
+  owns. Compliance here is a design constraint on the product,
+  not a policy document. We are looking for someone who treats
+  it that way.
+
+  You will report to the CTO and work closely with Product,
+  Compliance, Legal, Security and Risk Operations.
+
+  Responsibilities
+
+  Own the horizontal (from an engineering standpoint)
+
+  - Own the engineering roadmap for identity, compliance and
+    risk, and align it with the product and compliance
+    roadmaps.
+  - Define the shared services other teams build on: identity
+    and account models, verification and onboarding,
+    authentication and authorization, screening and
+    monitoring, and risk decisioning.
+  - Set the domain models that hold across clients, projects,
+    jurisdictions, and regulatory regimes. This is the central
+    technical problem of the role.
+  - Decide what we build, what we buy, and what we retire, and
+    defend those decisions with evidence.
+
+  Lead the team
+
+  - Manage, grow, and develop a team of engineers. Run
+    performance reviews, career development, and mentorship.
+  - Forecast hiring needs, write the roles, and run the hiring
+    process. Raise the technical bar with every hire.
+  - Set the standards your team works to: design review,
+    testing, on-call, and incident response.
+  - Participate in the on-call rotation.
+  - Plan for the team's capacity honestly, including PTO and
+    handoffs.
+
+  Stay technical
+
+  - Review architecture and design documents before they ship,
+    and write your own when the problem warrants it.
+  - Lead threat modelling and failure-mode analysis for the
+    systems your team owns.
+  - Step in hands-on during incidents and high-stakes reviews.
+  - Keep current on identity standards, fraud and AML tooling,
+    and the AI-native workflows we use across engineering.
+
+  Work across functions
+
+  - Partner with Compliance and Legal to turn regulatory
+    obligations into product requirements, and to tell them
+    early when a requirement is not buildable as written.
+  - Support audit and supervisory review with evidence the
+    systems produce automatically, rather than evidence
+    assembled by hand before each audit.
+  - Work with the Head of Security on the boundary between
+    security controls and risk controls.
+  - Represent Crossmint to enterprise clients and their
+    compliance teams when the deal needs it.
+
+  About You
+
+  Must-haves
+
+  - 8+ years building production systems, with 2+ years managing
+    engineers.
+  - A track record shipping in a regulated environment:
+    payments, banking, lending, crypto, or similar, where a
+    failure has licensing consequences.
+  - Hands-on depth in at least one of: identity and
+    authentication, KYC/KYB and onboarding, fraud and risk
+    decisioning, or AML screening and transaction monitoring.
+  - Strong programming skills in at least one modern language.
+    TypeScript is ideal.
+  - Experience designing data and domain models that survive
+    multiple clients, markets, and regulatory regimes.
+  - The judgment to tell a real regulatory constraint apart from
+    an internal habit, and to say which is which in a room.
+  - Deep familiarity with current AI and agentic tools, and a
+    view on how they change engineering work.
+  - Bachelor's degree in Computer Science or equivalent
+    professional experience.
+
+  Strong plus if you have
+
+  - Direct experience with MiCA, DORA, SOC 2, PSD2/SCA,
+    BSA/OFAC, or equivalent frameworks.
+  - Experience with stablecoins, wallet infrastructure, or
+    blockchain payment rails.
+  - Experience with card rails: issuing, processing,
+    tokenization, or scheme fraud programs.
+  - Experience building a compliance or risk function's
+    engineering side from an early stage.
+  - Prior work at a crypto-native, fintech, or payments
+    engineering team.
+
+  How to succeed in this role
+
+  A successful Engineering Manager for this horizontal will:
+
+  - Move from a regulatory gap analysis in the morning to a
+    domain model review in the afternoon without losing
+    altitude on either.
+  - Build services other teams choose to adopt, rather than
+    controls other teams route around.
+  - Give Compliance and Legal a straight answer on what is
+    possible, and give Engineering a straight answer on what
+    is required.
+  - Make the team's work legible: clear designs, clear
+    decisions, clear status.
+  - Hire well, and develop the people already here.
+
+  This role is not a fit for someone who:
+
+  - Treats compliance as paperwork that happens after the
+    product is built.
+  - Manages from a distance and loses technical depth.
+  - Needs a large team before they are effective. This role
+    starts lean and grows.
+
+  Benefits
+
+  - Extensive access to leading AI tools and subscriptions, with
+    AI actively encouraged and integrated into daily
+    workflows.
+  - Unlimited, flexible PTO.
+  - Parental Leave program.
+  - Flexible work schedule.
+  - Company laptop and allowance for any necessary home
+    equipment.
+  - Daily stipend for commuting to the office and/or meals.
+  - Three company-paid off-sites per year.
+  - Health, dental, vision, life, short-term disability (STD),
+    and long-term disability (LTD) insurances.
+  - 401(k) Plan.
+
+  Our Principles
+
+  - Results and delivery: Ship high quality work fast.
+  - Build for the long term: Build scalable, secure, and
+    reliable solutions. Use AI.
+  - Extreme Ownership: Be an effective Directly Responsible
+    Individual (DRI). Be proactive.
+  - Be a team player: Be an effective and kind colleague
+    providing credible challenge. Be present and reliable.
+
+  Talent research indicates that women are often less inclined
+  than men to apply for a role unless they have experience in
+  100% of the listed skills. However, this list is only a
+  guide. We welcome your application even if you feel you meet
+  around 75% of the requirements. At Crossmint, we believe
+  skills can be learned, and diversity makes us stronger.
+
+  We work to foster a respectful environment where each person
+  can be their authentic self, free from harassment, racism,
+  and any form of discrimination. We proudly uphold our
+  commitment to diversity and inclusion as an equal
+  opportunity employer, and this policy applies to all
+  employment practices within our organization.
+
+  Please note that Crossmint never conducts AI-based
+  interviews, and all of our processes include an initial
+  video call with a team member. Crossmint will not request
+  your personal identification documents or any payment at any
+  point during your interview process. Please stay vigilant
+  about potential fraud. If you receive an email that claims
+  to be from Crossmint but ends with any domain other than
+  @crossmint.com, @crossmint.io or @paella.dev, it is not from
+  us. We own these three domains listed before, and they are
+  the only legitimate ones.
+
+  Please let our Talent Team know if you need any assistance
+  completing any forms, or participating in the process.
+
+  Who will be in contact with you
+
+  Our People Ops team will be joining you throughout the
+  entirety of the interview and onboarding processes. Feel
+  free to reach out if you need anything!
+
+  - Adolfo Fernández - Head of People Ops
+  - Gloria Alogo - People Ops, Onboarding & Benefits
+
+  ⚠️ Please note that these are the only members of our People
+  Ops team. Please remain vigilant and watch out for
+  impersonators.
+
+  Follow us on Linkedin and X to keep updated with our latest
+  activity! 👣
+industries:
+  - Blockchain
+  - Fintech
+  - Payments
+  - Software
+posted_date: 2026-09-01
+url: "https://builtin.com/job/engineering-manager-identity-compliance-risk-nyc-mia/10965044"
+source: Built In

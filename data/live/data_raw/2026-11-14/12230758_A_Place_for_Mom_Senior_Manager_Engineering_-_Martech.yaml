@@ -1,0 +1,157 @@
+job_id: 12230758
+title: Senior Manager, Engineering - Martech
+company: A Place for Mom
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,704 Employees
+description: |
+  About the role A Place for Mom's Martech stack is how we
+  understand, reach and respect the families we help. Today
+  it's spread across tools and teams: Segment for event
+  collection, Customer.io for messaging, PostHog, Amplitude
+  and Optimizely for analytics and experimentation, Marketo
+  for marketing automation, and our cookie and consent layer.
+  You'll be the bridge between Engineering and Marketing.
+  You'll own the Martech architecture and roadmap and lead the
+  consolidation into one well-architected platform: one clean
+  event stream, one view of consent and Do Not Contact (DNC)
+  status, and fewer overlapping tools. This role has no direct
+  reports. You'll lead through influence, working with
+  engineering teams who build the work and with Marketing,
+  Product, Data and Legal who depend on it. What you’ll do
+
+  - Set the target architecture for Martech and drive the
+    consolidation plan: which tools stay, which retire, and in
+    what order
+  - Act as the single point of contact between Marketing and
+    Engineering: turn marketing needs into clear technical
+    requirements, and explain engineering trade-offs in
+    business terms
+  - Serve as the administrator for the Martech platforms
+    (Segment, Customer.io, PostHog, Amplitude, Optimizely,
+    Marketo and the consent platform): user access and roles,
+    workspace and project setup, API keys and integrations,
+    SSO, configuration changes, and audit trails
+  - Own Segment as the event backbone: tracking plan, schemas,
+    data quality, and clean routing to Customer.io, PostHog,
+    Amplitude, Optimizely, Marketo and Databricks
+  - Lead the Customer.io and Marketo strategy, including
+    consolidating overlapping journeys, audiences and
+    integrations, and migrating off duplicate tools where it
+    makes sense
+  - Rationalize analytics and experimentation across PostHog,
+    Amplitude and Optimizely: decide which tool owns which
+    job, align event definitions and identity, and retire
+    overlap
+  - Own cookie and consent management end to end: the consent
+    banner, tag governance, consent and DNC events across
+    systems, and compliance with CCPA/CPRA, TCPA and state
+    privacy laws
+  - Unify customer identity across tools so a family is one
+    person, not five records
+  - Work with engineering managers and their teams to plan,
+    prioritize and deliver Martech work, and hold a high bar
+    for quality through design and code reviews
+  - Track and reduce Martech vendor spend, and manage licenses,
+    vendor relationships and renewals
+  - Build monitoring for silent failures, such as dropped
+    events, broken syncs and consent mismatches
+
+  Must have
+
+  - 8+ years in software engineering or Martech engineering,
+    with a track record of leading cross-team technical work
+    without direct authority
+  - Experience working directly with marketing teams, and the
+    ability to speak both marketing and engineering
+  - Hands-on admin experience with Martech platforms, including
+    user and role management, SSO, integrations and access
+    controls
+  - Hands-on experience with a customer data platform (Segment
+    or similar), including tracking plans, identity resolution
+    and downstream destinations
+  - Experience running marketing automation and messaging
+    platforms such as Customer.io, Marketo, Braze or Iterable
+  - Experience with product analytics and experimentation tools
+    such as PostHog, Amplitude and Optimizely
+  - Working knowledge of cookie and consent management
+    (OneTrust, Ketch, Osano or similar) and of privacy rules
+    such as CCPA/CPRA, TCPA and GDPR
+  - A track record of consolidating or migrating tools with
+    little disruption to the business
+  - Strong system design skills across APIs, event-driven
+    integrations and cloud platforms (AWS preferred)
+  - Clear written communication, and comfort working with
+    marketers, product managers and lawyers as well as
+    engineers
+
+  Nice to have
+
+  - Experience in healthcare, senior care or another regulated
+    consumer business
+  - Experience feeding Martech data into a warehouse or
+    lakehouse (Databricks, Snowflake)
+  - Experience with server-side tagging and first-party data
+    collection
+
+  About A Place for Mom
+
+  A Place for Mom is the leading platform guiding families
+  through every stage of the aging journey. Together, we
+  simplify the senior care search with free, personalized
+  support — connecting caregivers and their loved ones to
+  vetted providers from our network of 15,000+ senior living
+  communities and home care agencies.
+
+  Since 2000, our teams have helped millions of families find
+  care that fits their needs. Behind every referral and
+  resource is a shared goal: to help families focus on what
+  matters most — their love for each other.
+
+  We’re proud to be a mission-driven company where every role
+  contributes to improving lives. Caring isn’t just a core
+  value — it’s who we are. Whether you’re supporting families
+  directly or driving innovation behind the scenes, your work
+  at A Place for Mom makes a real difference.
+
+  Our employees live the company values every day:
+
+  - Mission Over Me: We find purpose in helping caregivers and
+    their senior loved ones while approaching our work with
+    empathy.
+  - Do Hard Things: We are energized by solving challenging
+    problems and see it as an opportunity to grow.
+  - Drive Outcomes as a Team: We each own the outcome but can
+    only achieve it as a team.
+  - Win The Right Way: We see organizational integrity as the
+    foundation for how we operate.
+  - Embrace Change: We innovate and constantly evolve.
+
+  Additional Information:
+
+  A Place for Mom has recently become aware of the fraudulent
+  use of our name on job postings and via recruiting emails
+  that are illegitimate and not in any way associated with us.
+  APFM will never ask you to provide sensitive personal
+  information as part of the recruiting process, such as your
+  social security number; send you any unsolicited job offers
+  or employment contracts; require any fees, payments, or
+  access to financial accounts; and/or extend an offer without
+  conducting an interview.
+
+  If you suspect you are being scammed or have been scammed
+  online, you may report the crime to the Federal Bureau of
+  Investigation and obtain more information regarding online
+  scams at the Federal Trade Commission.
+
+  All your information will be kept confidential according to
+  EEO guidelines.
+
+  A Place for Mom uses E-Verify to confirm the employment
+  eligibility of all newly hired employees. To learn more
+  about E-Verify, including your rights and responsibilities,
+  please visit www.dhs.gov/E-Verify.
+posted_date: 2026-11-13
+url: "https://builtin.com/job/senior-manager-engineering-martech/12230758"
+source: Built In

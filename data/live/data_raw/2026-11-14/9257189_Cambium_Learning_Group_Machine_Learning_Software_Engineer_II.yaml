@@ -1,0 +1,164 @@
+job_id: 9257189
+title: Machine Learning Software Engineer II
+company: Cambium Learning Group
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,831 Employees
+description: |
+  Job Overview:
+
+  We are seeking a talented Machine Learning Engineer II to
+  join our CAI machine learning and scoring development team.
+  In this role, you will be the crucial bridge between applied
+  research and production systems. Working alongside a
+  cross‑functional group of mathematicians, computer
+  scientists, psychometricians, and statisticians, you will
+  design and deploy custom machine learning solutions for our
+  clients and internal platforms.
+
+  The ideal candidate is a full‑stack ML practitioner who is
+  equally comfortable discussing algorithmic design with
+  researchers and architecting scalable, low‑latency
+  production systems. You will own the full software
+  development lifecycle—transforming research prototypes into
+  optimized, production‑ready solutions using modern AWS
+  infrastructure such as SageMaker, ECS, and Lambda, with an
+  emphasis on high‑throughput inference and PyTorch‑to‑ONNX
+  model optimization.
+
+  Job Responsibilities:
+
+  - Full-Lifecycle ML Development: Lead the transition of
+    machine learning models from theoretical prototypes into
+    scalable, high-performance production systems.
+  - AWS Cloud Architecture & Deployment: Architect and deploy ML
+    solutions utilizing AWS ECS (Elastic Container Service)
+    for containerized workloads and AWS Lambda for serverless,
+    event-driven inference pipelines.
+  - Model & Inference Optimization: Optimize PyTorch models for
+    production deployment by converting them to ONNX formats.
+    Apply advanced inference optimization techniques
+    (quantization, pruning, ONNX Runtime) and memory-efficient
+    attention mechanisms like Flash Attention to minimize
+    latency and maximize throughput.
+  - Infrastructure & Engineering Best Practices: Champion
+    infrastructure best practices for machine learning
+    systems, establishing reliable CI/CD pipelines, and
+    ensuring robust, secure, and reproducible deployments
+    across the AWS ecosystem.
+  - Algorithm Engineering: Design, develop, and evaluate
+    algorithms that generate descriptive, diagnostic,
+    predictive, and prescriptive insights from both structured
+    and unstructured data.
+  - Robust Software Engineering: Write clean, efficient, and
+    well-tested code. Complete rigorous testing, debugging,
+    and documentation to ensure seamless installation and
+    long-term maintenance.
+  - Cross-Functional Collaboration: Actively participate in
+    research discussions, requirements gathering, and system
+    design alongside domain experts to build tailored scoring
+    and ML solutions.
+
+  Job Requirements:
+
+  - Experience: 2–5 years of industry experience in Machine
+    Learning Engineering, Software Engineering, or Data
+    Science, with a proven track record of architecting and
+    deploying models to production.
+  - Cloud & MLOps Infrastructure: Deep, hands-on experience with
+    the AWS ecosystem, specifically AWS ECS and Lambda. Solid
+    understanding of containerization (Docker) and event-
+    driven architectures.
+  - Programming Proficiency: Strong proficiency in modern
+    programming languages used in ML (e.g., Python, C++, Java)
+    and familiarity with industry-standard coding practices.
+  - ML Frameworks & Advanced Optimization: Hands-on experience
+    with PyTorch and other machine learning libraries (e.g.,
+    Scikit-Learn, TensorFlow). Deep understanding of model
+    optimization pipelines, including PyTorch to ONNX
+    conversions, ONNX Runtime, and scaling attention
+    mechanisms (e.g., Flash Attention).
+  - Data Systems: Experience working with large-scale computing
+    frameworks, data analysis systems, and relational/non-
+    relational databases.
+
+  Nice to Have's:
+
+  - AWS SageMaker: Experience utilizing AWS SageMaker for
+    managed model training and hosting.
+  - Advanced LLMOps & Fine-Tuning: Hands-on experience applying
+    modern parameter-efficient fine-tuning methods (such as
+    LoRA and qLoRA) to large language models.
+  - AI Agents: Experience building, integrating, and deploying
+    autonomous or semi-autonomous AI agents to automate
+    complex workflows and connect ML models with external
+    tools/APIs.
+  - NLP Expertise: Proven experience and familiarity with deep
+    learning technologies applied specifically to Natural
+    Language Processing (NLP) and complex text-based modeling.
+  - Cross-Disciplinary Collaboration: Experience collaborating
+    with specialized researchers (e.g., psychometricians,
+    statisticians) to operationalize complex mathematical
+    concepts.
+  - Infrastructure as Code: Experience implementing IaC using
+    tools like Terraform or AWS CloudFormation.
+  - Model Monitoring: Experience setting up comprehensive model
+    monitoring systems to detect data drift, concept drift,
+    and model degradation in production AWS environments.
+
+  .
+
+  To learn more about our organization and the exciting work
+  we do, visit https://www.cambiumassessment.com/
+
+  Remote First Work Environment
+
+  Our Remote First approach gives employees the flexibility
+  and trust they need to effectively balance work with life.
+  It creates a culture in which all employees are valued and
+  where success is measured in results. It allows us to work
+  collaboratively, inclusively and for greater positive
+  impact, regardless of our individual locations.
+
+  If you will be working remotely, either occasionally or on a
+  permanent basis, you must have a reliable internet
+  connection through a cable or fiber-optic broadband service
+  with minimum speeds of 10 Mbps download and 5 Mbps upload.
+
+  The successful candidate will be expected to actively
+  participate in video-based interviews during the recruiting
+  process and ongoing virtual meetings with their camera on,
+  as part of their role. To maintain confidentiality and
+  ensure a fair evaluation process, the use of note-taking
+  tools, reference materials, or AI-powered tools (including
+  generative AI, language models, or similar technologies)
+  during interviews or other selection activities is
+  prohibited unless prior written approval has been obtained
+  from the People Experience team. If you require an exception
+  for medical, accessibility, or other reasons, please contact
+  your Talent Acquisition team member to discuss
+  accommodations in advance.
+
+  As part of our Remote-First benefits, Cambium offers
+  reimbursement to help cover the cost of setting up your home
+  or remote office.
+
+  An Equal Opportunity Employer
+
+  We are dedicated to fostering a culture that celebrates
+  unique backgrounds, ideas, and experiences. All qualified
+  applicants will receive consideration for employment without
+  discrimination on the basis of race, color, age, religion,
+  sex (including pregnancy, gender, gender
+  identity/expression, or sexual orientation), national
+  origin, protected veteran status, disability, or genetic
+  information (including family medical history).
+
+  We will provide reasonable accommodations for qualified
+  individuals with disabilities.  You may request an
+  accommodation during the recruiting process with your Talent
+  Acquisition team member.
+posted_date: 2026-08-15
+url: "https://builtin.com/job/machine-learning-software-engineer-ii/9257189"
+source: Built In

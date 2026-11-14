@@ -1,0 +1,160 @@
+job_id: 11093167
+title: Principal Backend Engineer, Push
+company: Aave Labs
+location: Dublin, IRL
+locations:
+  - Dublin, IRL
+  - London, GBR
+work_type: FULL_TIME
+company_size: 129 Employees
+description: |
+  About us
+
+
+
+  Aave Labs began with a simple question: how do we make
+  financial services like borrowing, saving, and earning more
+  accessible globally?
+
+
+
+  We built the Aave Protocol, now the world’s largest and most
+  trusted onchain lending market, connecting decentralized
+  finance with individuals, traditional finance, and fintech.
+
+
+
+  Today, we build trusted, high-quality products that expand
+  access to lending, credit, and savings globally
+
+
+
+  Our culture
+
+
+
+  We build trusted products that help people access and
+  discover economic opportunities.
+
+
+
+  We hold a high bar for quality and craftsmanship. No detail
+  is too small. Trust depends on it.
+
+
+
+  We’re a global team building products people can actually
+  use, turning complex technology into something simple and
+  reliable.
+
+
+
+  We stay aligned, move quickly, and think long term, while
+  keeping teams lean and focused on impact.
+
+
+
+  About the Role
+
+  We're hiring a Principal Backend Engineer to lead the
+  engineering team behind Push, Aave Labs' regulated, non-
+  custodial on-ramp and off-ramp.
+
+  This is a hands-on technical leadership role spanning the
+  systems that connect banking and open-banking partners,
+  identity and compliance controls, payment processing,
+  blockchain settlement, customer wallets, and the
+  applications through which customers access Push.
+
+  You'll set the technical direction for a high-stakes
+  financial product where correctness, security, auditability,
+  and operational resilience directly affect customer funds
+  and regulatory obligations. Alongside designing and building
+  critical systems, you'll provide day-to-day leadership to
+  the engineering team, create clarity from product and
+  regulatory requirements, and ensure the team can deliver
+  safely at pace.
+
+  How you can make an impact:
+
+  - Own the technical direction and architecture for Push across
+    backend services, external integrations, data flows, and
+    onchain settlement
+  - Translate product, regulatory, and operational requirements
+    into a clear engineering roadmap, well-scoped projects,
+    and sound technical decisions
+  - Design and build resilient services for on-ramp and off-ramp
+    transaction lifecycles, including payment initiation,
+    status tracking, settlement, exception handling, and
+    customer notifications
+  - Lead integrations with open-banking, payments, identity,
+    compliance, and blockchain infrastructure providers
+  - Define secure boundaries between fiat systems, non-custodial
+    wallets, and onchain execution, ensuring sensitive data,
+    permissions, and signing-related flows are handled
+    appropriately
+  - Set and uphold standards for secure development,
+    architecture review, testing, observability, incident
+    response, deployment, and sustainable on-call ownership
+  - Partner closely with Product, Compliance, Legal, Security,
+    Operations, Finance, and application engineers
+  - Remain hands-on in the codebase, particularly for complex
+    architecture, high-risk changes, and critical production
+    issues
+
+  Let's connect if you have:
+
+  - 8+ years of backend engineering experience, including senior
+    technical leadership of production systems and teams
+  - Experience designing distributed, event-driven systems that
+    move or account for real money, with a strong
+    understanding of failure modes and operational risk
+  - Experience with regulated financial products and
+    understanding how to balance compliance and regulatory
+    requirements with product features and goals
+  - Strong backend programming skills. Production experience
+    with Rust is highly desirable; deep experience with Go,
+    Java, C++ can substitute
+  - Strong knowledge of API design, PostgreSQL or another
+    relational database, messaging systems, and service-to-
+    service integration patterns
+  - Experience in regulated fintech, payments, banking, digital
+    assets, or another environment requiring auditability,
+    controls, and high availability
+  - Excellent system-design judgement, including migration
+    strategy, build-versus-buy decisions, security boundaries,
+    and the long-term operational cost of architecture choices
+  - A track record of leading engineers through ambiguous, high-
+    impact work while remaining close to implementation and
+    production operations
+
+  Haven’t quite met all the criteria? Let’s not miss out on
+  the chance to speak. Whilst you might not meet every single
+  requirement, you might bring other, more exciting skills to
+  the companies!
+
+
+
+  Equal opportunities statement:
+
+
+
+  Aave Labs celebrates diversity and views each and every team
+  member as a separate individual with their own unique
+  identity. No matter your race, religion, gender, ethnicity,
+  age, disability, sexual orientation or even the wallet you
+  use, we welcome you at Aave Labs. As an equal opportunities
+  employer, we take accountability and believe in everyone's
+  potential to build, create and inspire changes. With a
+  mission to build a diverse workforce, we are proud to foster
+  a working environment in which everyone can feel safe and
+  valued for who they are.
+industries:
+  - Blockchain
+  - Fintech
+  - Information Technology
+  - Software
+  - Financial Services
+posted_date: 2026-09-09
+url: "https://builtin.com/job/principal-backend-engineer-push/11093167"
+source: Built In

@@ -1,0 +1,204 @@
+job_id: 10039779
+title: Senior Software Engineer
+company: NICE
+location: London, GBR
+locations:
+  - London, GBR
+  - Southampton, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 10,130 Employees
+description: |
+  At NiCE, we don’t limit our challenges. We challenge our
+  limits. Always. We’re ambitious. We’re game changers. And we
+  play to win. We set the highest standards and execute beyond
+  them. And if you’re like us, we can offer you the ultimate
+  career opportunity that will light a fire within you.
+
+  So, what’s the role all about?
+
+   We are looking for a Senior  software engineer who is
+  passionate about solving infrastructure challenges through
+  software engineering and automation. In this role, you will
+  design, develop, and maintain scalable automation frameworks
+  that streamline cloud infrastructure provisioning,
+  configuration management, and operational processes.
+
+  You will build programmatic infrastructure solutions using
+  Python, Jinja2, and Terraform, generating and managing
+  Infrastructure as Code (IaC) at scale. You will also
+  leverage Puppet for configuration management and develop
+  PowerShell-based automation to support and optimize Windows
+  environments.
+
+  This is a highly technical, coding-focused position. The
+  ideal candidate is a software-minded engineer who writes
+  clean, maintainable, and testable code every day—not just ad
+  hoc scripts. You should be comfortable designing reusable
+  automation components, applying software development best
+  practices, and driving operational excellence through
+  automation across complex cloud and hybrid environments.
+
+  How Will You Make an Impact?
+
+  - Drive infrastructure standardization and operational
+    excellence by designing and developing scalable automation
+    frameworks in Python that enable consistent and repeatable
+    deployments across cloud and on-premises environments.
+  - Accelerate infrastructure provisioning by building and
+    enhancing Terraform code-generation platforms using Python
+    and Jinja2, enabling teams to produce validated,
+    environment-specific infrastructure code from reusable
+    templates.
+  - Improve system reliability and compliance by developing and
+    maintaining Puppet modules, manifests, and Hiera
+    configurations that manage Linux and Windows environments
+    at scale.
+  - Increase operational efficiency across Windows platforms by
+    creating robust PowerShell automation solutions for server
+    management, Active Directory administration, and hybrid
+    cloud integrations.
+  - Simplify complex infrastructure workflows by developing
+    internal automation tools, command-line utilities, and
+    APIs that empower engineering teams to self-service common
+    operational tasks.
+  - Enhance the speed and safety of infrastructure delivery by
+    integrating automation frameworks with CI/CD pipelines,
+    enabling automated validation, testing, and deployment of
+    infrastructure changes.
+  - Improve software quality and reduce deployment risk by
+    implementing comprehensive testing strategies for
+    infrastructure code, including unit testing, linting, and
+    integration testing.
+  - Partner closely with cloud, platform, and application teams
+    to identify manual processes, eliminate operational toil,
+    and drive automation-first solutions across the
+    organization.
+  - Enable long-term scalability and maintainability by creating
+    clear documentation, standards, and runbooks for
+    automation frameworks and infrastructure templates.
+  - Contribute to a strong engineering culture by participating
+    in code reviews, sharing best practices, and continuously
+    improving the quality, security, and maintainability of
+    automation solutions.
+
+  Have you got what it takes?
+
+  Python & Automation Development
+
+  - 5+ years of Python development experience — not scripting,
+    but structured, testable application code
+  - Strong understanding of Python packaging, virtual
+    environments, dependency management (pip, Poetry), and
+    code quality tooling (pylint, black, mypy)
+  - Experience building CLI tools and automation frameworks
+    using Python (Click, Typer, or similar)
+  - Hands-on experience with Jinja2 templating — building
+    reusable, parameterised templates for configuration and
+    infrastructure code generation
+  - Experience with pytest for unit and integration testing of
+    automation code
+
+  Terraform & IaC Code Generation
+
+  - Strong Terraform proficiency: module design, state
+    management, remote backends, workspaces, and dependency
+    graphs
+  - Proven experience generating Terraform HCL programmatically
+    using Python and Jinja2 — building template-driven
+    pipelines that produce valid, linted, plan-ready
+    infrastructure code
+  - Familiarity with Terraform tooling: tflint, tfsec,
+    terraform-docs, Terragrunt, or Atlantis
+  - Understanding of Terraform provider internals and resource
+    lifecycle management
+
+  Puppet & Configuration Management
+
+  - Hands-on Puppet experience: writing manifests and modules,
+    Hiera data hierarchies, node classification, and r10k /
+    Code Manager workflows
+  - Experience managing mixed Linux and Windows environments
+    with Puppet at scale
+  - Familiarity with puppet-lint, rspec-puppet, and automated
+    Puppet module testing pipelines
+  - Understanding of Puppet Enterprise or open-source Puppet
+    Server administration
+
+  PowerShell Scripting
+
+  - Proficient PowerShell scripting for Windows Server
+    administration, task automation, and hybrid cloud
+    integrations (AWS Tools for PowerShell, Azure PowerShell)
+  - Experience writing reusable PowerShell modules, functions,
+    and error-handling patterns
+  - Familiarity with Pester for PowerShell unit testing
+  - Experience automating Active Directory, Group Policy, or
+    Windows networking tasks via PowerShell
+
+  Cloud & Infrastructure
+
+  - Solid AWS experience: EC2, EKS/ECS, Lambda, S3, RDS, VPC,
+    IAM, and CloudWatch — understanding of services as
+    automation targets
+  - Familiarity with CI/CD platforms and integrating
+    infrastructure code pipelines (GitHub Actions, Jenkins,
+    GitLab CI)
+  - Comfortable working with Linux  and Windows Server in
+    production environments
+
+  What’s in it for you?
+
+  Join an ever-growing, market disrupting, global company
+  where the teams – comprised of the best of the best – work
+  in a fast-paced, collaborative, and creative environment! As
+  the market leader, every day at NICE is a chance to learn
+  and grow, and there are endless internal career
+  opportunities across multiple roles, disciplines, domains,
+  and locations. If you are passionate, innovative, and
+  excited to constantly raise the bar, you may just be our
+  next NICEr!
+
+   Enjoy NICE-FLEX!
+
+  At NICE, we work according to the NICE-FLEX hybrid model,
+  which enables maximum flexibility: 2 days working from the
+  office and 3 days of remote work, each week. Naturally,
+  office days focus on face-to-face meetings, where teamwork
+  and collaborative thinking generate innovation, new ideas,
+  and a vibrant, interactive atmosphere.
+
+  Requisition ID: 11294 Reporting into: Director, Cloud
+  Operations CXone, EMEA
+
+  Role Type: Individual Contributor
+
+  About NiCE
+
+  NICE Ltd. (NASDAQ: NICE) software products are used by
+  25,000+ global businesses, including 85 of the Fortune 100
+  corporations, to deliver extraordinary customer
+  experiences, fight financial crime and ensure public
+  safety. Every day, NiCE software manages more than 120
+  million customer interactions and monitors 3+ billion
+  financial transactions.
+
+  Known as an innovation powerhouse that excels in AI, cloud
+  and digital, NiCE is consistently recognized as the market
+  leader in its domains, with over 8,500 employees across 30+
+  countries.
+
+  NiCE is proud to be an equal opportunity employer. All
+  qualified applicants will receive consideration for
+  employment without regard to race, color, religion, national
+  origin, age, sex, marital status, ancestry, neurotype,
+  physical or mental disability, veteran status, gender
+  identity, sexual orientation or any other category protected
+  by law.
+industries:
+  - Cloud
+  - Software
+  - Analytics
+posted_date: 2026-08-22
+url: "https://builtin.com/job/devops-engineer/10039779"
+source: Built In

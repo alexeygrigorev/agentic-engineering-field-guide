@@ -1,0 +1,299 @@
+job_id: 12217251
+title: Sr. Software Engineer, Platform Modernization
+company: iA
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 665 Employees
+description: |
+  Join iA – Transforming Pharmacy Fulfillment with Innovation
+  and Care
+
+  Are you ready to revolutionize pharmacy with cutting-edge
+  automation technology? At iA® (Innovation Associates®), we
+  are at the forefront of transforming how pharmacies manage
+  prescription fulfillment. With over 30 years of experience
+  and innovation, iA is advancing pharmacy automation with
+  solutions such as the NEXiA® Enterprise Software Suite,
+  enabling pharmacists to focus more on patient care while
+  improving operational efficiency. Whether it's in commercial
+  retail, health systems, or government pharmacy settings, we
+  empower our partners to do more with less. We’re looking for
+  passionate and driven individuals like YOU to help shape the
+  future of healthcare. Join us and be part of a team that's
+  changing the way pharmacy works—for the better.
+
+
+
+  Your Role & Its Purpose:
+
+
+
+  NEXiA runs inside customer pharmacies and carries years of
+  hard-won pharmacy logic. You’ll help modernize it
+  incrementally using the strangler fig approach: take one
+  capability at a time out of the legacy system, rebuild it as
+  a well-defined bounded context, and route traffic to the new
+  implementation with a clear path back if something goes
+  wrong. Pharmacists and operators keep working the way they
+  always have while the system underneath changes.
+
+  This is not a greenfield role, and the interesting problems
+  are at the boundary: anti-corruption layers that keep legacy
+  coupling out of new code, backward compatibility across the
+  customer versions in the field, and [legacy stack / key
+  constraint]. We’re looking for someone who starts from how a
+  pharmacy actually works (filling, verifying, dispensing,
+  stocking) and builds the model from there, and who’s
+  comfortable working directly with pharmacists and support
+  staff to get it right.
+
+
+
+  How You’ll Contribute:
+
+
+
+  Domain-Driven Modernization
+
+  - Decompose legacy NEXiA capabilities into bounded contexts
+    modeled on real pharmacy workflows (fulfillment,
+    dispensing, inventory, patient safety)
+  - Design and implement anti-corruption layers and facade
+    patterns that isolate new modules from legacy coupling
+  - Execute strangler fig migrations — incrementally routing
+    traffic from legacy paths to new implementations with
+    rollback capability
+  - Maintain seamless end-user experience throughout
+    transitions; the pharmacist should be oblivious to what's
+    changing underneath
+  - Collaborate with domain experts (pharmacists, operators,
+    support) to validate that domain models reflect real-world
+    activities, not inherited technical artifacts
+
+  Systems Design & Architecture
+
+  - Reason about system behavior across module boundaries —
+    trace failure modes, data consistency, and latency
+    implications before they become production incidents
+  - Design for the constraints of on-prem, customer-deployed
+    environments: upgrade paths, backward compatibility, long-
+    lived versions
+  - Make deliberate architectural trade-offs between isolation
+    and pragmatism; not every boundary needs a message bus
+  - Own technical design within bounded contexts; propose
+    decomposition strategies and defend them in design reviews
+
+  Engineering Craft
+
+  - Build full-stack applications using .NET Core / ASP.NET Core
+    and modern front-end frameworks
+  - Write meaningful tests — integration tests that validate
+    domain behavior across the old/new boundary, not just unit
+    test coverage metrics
+  - Apply DDD patterns (aggregates, domain events, context
+    mapping) as tools for clarity, not ceremony
+  - Contribute to CI/CD pipelines, containerized deployments,
+    and observability — especially at the seams between legacy
+    and modern components
+
+  AI Tooling & Evolving Practice
+
+  - Actively adopt AI-assisted development tools (code
+    generation, automated refactoring, test generation) to
+    accelerate modernization work
+  - Evaluate and integrate AI tooling into daily workflows — not
+    as novelty but as a force multiplier for understanding
+    legacy code, generating migration scaffolding, and
+    validating domain models
+  - Demonstrate willingness to evolve how you work as tooling
+    capabilities change; the best tools in 12 months won't be
+    the same as today
+
+  Collaboration
+
+  - Work across engineering, product, QA, and customer-facing
+    teams to ensure modernization priorities align with
+    customer impact
+  - Participate in design discussions with intellectual honesty
+    — challenge assumptions, surface risks, and propose
+    alternatives
+  - Mentor team members on DDD, migration patterns, and systems
+    thinking
+
+  What You Bring to the Table:
+
+  - 6+ years of software development experience, with meaningful
+    time spent modernizing or migrating existing systems (not
+    exclusively greenfield)
+  - Demonstrated ability to model software around business
+    domains rather than technical layers — evidence of DDD,
+    bounded context identification, or equivalent domain
+    modeling discipline
+  - Experience working at the boundary between legacy and modern
+    systems: anti-corruption layers, facade patterns,
+    incremental migration, feature flags for gradual cutover
+  - Strong proficiency in a statically-typed OO language
+    (C#/.NET strongly preferred; Java or similar accepted with
+    willingness to ramp)
+  - Experience with modern front-end frameworks (Angular, React,
+    Blazor, or equivalent)
+  - Understanding of on-prem deployment constraints: customer-
+    specific configurations, upgrade compatibility, long-lived
+    versions
+  - Systems thinking — ability to reason about how changes
+    propagate across module and service boundaries
+
+  Even Better If You Bring:
+
+  - Healthcare, pharmacy automation, or regulated-environment
+    experience
+  - Experience with event-driven architectures and domain event
+    patterns
+  - Familiarity with Azure cloud services and hybrid cloud/on-
+    prem models
+  - Active use of AI-assisted development tools with concrete
+    examples of productivity impact — hands-on experience with
+    Claude Code, Opus, or Sonnet is a significant plus
+  - Experience with container orchestration (Kubernetes,
+    OpenShift) in on-prem environments
+
+  Applicants must be authorized to work for ANY employer in
+  the U.S. Employer will not sponsor applicants for work
+  visas.
+
+
+
+  Compensation Details:
+
+
+
+  The estimated base annual salary range for this position is
+  $116,000 to $185,000, though a candidate’s base annual
+  salary shall be determined on a range of factors, including,
+  but not limited to, qualifications and experience. This
+  position may additionally be eligible for an annual
+  discretionary bonus.
+
+
+
+  Environmental Conditions:
+
+  iA follows a comprehensive Job Safety Assessment (JSA) to
+  ensure software and IT environments comply with OSHA
+  standards. This includes prioritizing ergonomics, proper
+  lighting, and safe workspaces to minimize potential hazards.
+  For remote employees, iA supports appropriate home office
+  setups that align with OSHA guidelines for a safe and
+  productive environment.
+
+
+
+  Safety Protocols:
+
+
+
+  Safety protocols include ensuring workstations are
+  ergonomically designed to prevent repetitive strain
+  injuries, encouraging regular breaks to reduce eye strain,
+  implementing robust cybersecurity measures to protect data,
+  and providing regular training on ergonomic practices and
+  cybersecurity.
+
+
+
+  Who We Are:
+
+
+
+  iA is not just a technology company – we're a pharmacy
+  fulfillment partner that provides software-enabled solutions
+  and modular hardware to improve operational efficiency,
+  reduce costs, and enhance the patient-pharmacist
+  relationship. Our products and solutions streamline the
+  prescription process from start to finish, allowing
+  pharmacists to focus on what matters most: their patients.
+
+
+
+  What excites many people about iA is that we're doing more
+  than responding to changes in the industry. We're helping
+  drive them. Our solutions support pharmacies of all types,
+  and our vision is centered on making pharmacy more
+  efficient, effective, and accessible for everyone it
+  touches.
+
+
+
+  What Drives Us:
+
+  - Customer Centric – Be bold with calculated decisions to
+    drive value for our partners.
+  - Champion Diversity – Seek diversity within our team, our
+    partners, and our community to strengthen who we are and
+    what we will accomplish, together.
+  - Empower Ownership – Take ownership at every level and within
+    every action to achieve excellence.
+  - Solutions Driven – Understand the problem and anticipate
+    challenges, with a resolve to provide innovative solutions
+    for our partners.
+  - Trust Daringly – Operate with trust of our team, our
+    partners, and our strategy from day one.
+
+  Benefits that Matter:
+
+  - Work-Life Balance – Generous time-off, paid volunteer days,
+    and wellness programs to support your well-being.
+  - Comprehensive Benefits – Medical, dental, vision insurance,
+    401(k) with match, up to 12 weeks of 100% paid parental
+    leave, pet insurance, and more.
+  - Career Growth – Invest in your future through iA University,
+    tuition reimbursement for eligible degree programs and
+    certifications, professional development funding, and
+    ongoing opportunities to learn and grow.
+  - Culture of Ownership – At iA, we empower our employees to
+    take charge and drive change.
+  - Impactful Work – Be part of a team that is transforming the
+    pharmacy industry and improving patient care every day.
+  - Collaborative Environment – Work alongside passionate, like-
+    minded individuals in a company that values teamwork and
+    creativity.
+
+  Not the right fit? Explore other opportunities at
+  https://iarx.com/careers
+
+
+
+  Want to learn more about iA's innovative products, talented
+  people, and culture? Visit us at iARx.com or connect with us
+  on LinkedIn, Facebook, or YouTube. We’d love to share our
+  story with you!
+
+
+
+  iA provides equal employment opportunities to all employees
+  and applicants for employment and prohibits discrimination
+  and harassment of any type without regard to race, color,
+  religion, age, sex, national origin, disability status,
+  genetics, protected veteran status, sexual orientation,
+  gender identity or expression, or any other characteristic
+  protected by federal, state or local laws.
+
+
+
+  This policy applies to all terms and conditions of
+  employment, including recruiting, hiring, placement,
+  promotion, termination, layoff, recall, transfer, leaves of
+  absence, compensation and training.
+
+
+
+  iA is committed to providing reasonable accommodation for
+  individuals with disabilities throughout the job application
+  process. If you require assistance or accommodation due to a
+  disability, please reach out to us at iatalent@iarx.com .
+
+  #LI-DNI
+posted_date: 2026-11-13
+url: "https://builtin.com/job/sr-software-engineer-platform-modernization/12217251"
+source: Built In

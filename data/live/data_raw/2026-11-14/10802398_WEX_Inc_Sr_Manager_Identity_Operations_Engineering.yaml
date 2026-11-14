@@ -1,0 +1,211 @@
+job_id: 10802398
+title: "Sr Manager, Identity Operations & Engineering"
+company: WEX Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 4,900 Employees
+description: |
+  About the Team & Role We are seeking a critical thinker with
+  a strategic mindset to serve as the enterprise "Process
+  Owner" for WEX’s identity lifecycle. Currently, WEX is
+  undertaking a strategic modernization effort to automate
+  identity lifecycles, eliminate manual ticket-driven
+  provisioning, and migrate to a cloud-native identity
+  governance architecture centered on SailPoint Identity
+  Security Cloud (ISC).
+
+  As the Process Owner, you will define the strategy,
+  prioritization, and technical readiness of our Identity and
+  Access Management (IAM) initiatives. You must have a
+  demonstrated history of success in managing complex identity
+  programs and translating technical IAM concepts into
+  tangible business value. A critical component of this
+  position involves heavy partnership with WEX Application
+  Owners to ensure their systems' identity management payloads
+  are standardized, sanitized, and ready for integration. Your
+  operations and engineering teams will prioritize, build, and
+  test these integrations, working in lockstep with the
+  Information Security SailPoint Administration/Configuration
+  team. While your team engineers the data and tests the
+  payloads, you will rely on your strong partnership with the
+  Information Security team to execute the final platform
+  configurations and deployments based on your prioritized
+  backlog.
+
+  How you’ll make an impact
+
+  Process Ownership & Identity Governance
+
+  - Act as the primary Process Owner and single accountable
+    leader for WEX’s Joiner, Mover, and Leaver (JML) identity
+    lifecycle outcomes.
+  - Co-host WEX's IAM Governance Council alongside a designated
+    leader from Information Security to drive policy reviews,
+    prioritize the enterprise IAM backlog, and align on risk
+    reduction.
+  - Define the business and technical requirements for automated
+    lifecycle workflows, such as establishing "Birthright"
+    access tied to Workday attributes and event-triggered
+    Mover processes.
+  - Act as the primary Process Owner and single accountable
+    leader for WEX’s IAM engineering and provisioning
+    outcomes, breaking down silos between Security
+    Engineering, Tech Operations, and Infrastructure.
+  - Operationalize WEX's IAM Governance Council to drive policy
+    reviews, continuous improvement cycles, and establish
+    measurable KPIs/KRIs (e.g., provisioning SLAs, MTTR for
+    terminations, automated coverage).
+
+  IAM Engineering & Operations Management
+
+  - Lead and develop a blended group consisting of an IAM
+    Operations team and an IAM Engineering team (including
+    Active Directory engineers).
+  - Establish a seamless, continuous partnership with the
+    Information Security SailPoint
+    Administration/Configuration team, handing off fully
+    tested integration data and guiding their platform
+    configurations to meet your team's operational
+    requirements.
+  - Support the architectural migration from legacy on-premise
+    SailPoint IdentityIQ (IIQ) to the SailPoint Identity
+    Security Cloud (ISC) SaaS platform.
+  - Centralize all access requests natively within SailPoint
+    ISC, decommissioning the legacy Employee Service Portal
+    (ESP/JSM) for IAM requests and eliminating manual
+    fulfillment routing.
+  - Transition WEX from delayed termination batch-syncs to
+    event-driven termination processing, ensuring immediate,
+    end-to-end access revocation across all target systems
+    upon employee separation.
+  - Ensure all engineering, integration, and operational work
+    fully adheres to established ITSM/ITIL standards.
+  - Foster a culture of continuous improvement, automation, and
+    toil reduction across all identity processes, leveraging
+    metrics to optimize system performance and reduce manual
+    administrative overhead.
+  - Oversee the health, security, and lifecycle management of
+    enterprise directory services, ensuring high availability
+    and robust integration with SailPoint for unified identity
+    governance.
+  - Define architectural standards for directory services,
+    focusing on modernizing infrastructure, optimizing group
+    policy management, and streamlining authentication
+    protocols to support a zero-trust environment.
+
+  Application Owner Partnership & Integration Testing
+
+  - Serve as the primary technical liaison to Application
+    Owners, driving the campaign to onboard hundreds of
+    disconnected WEX applications into the SailPoint ISC
+    ecosystem.
+  - Define the application onboarding framework, establishing a
+    tiered, risk-based prioritization backlog.
+  - Partner with application teams to design, extract, and
+    standardize identity data payloads, ensuring identities
+    correlate accurately to Global Workday IDs (WIDs).
+  - Oversee the "connector factory" preparation process: Your
+    engineering team will build integration data maps, perform
+    payload sanitization, and conduct pre-production testing
+    before formally passing the validated package to InfoSec
+    for configuration.
+
+  Identity Operations & Provisioning Automation (UAP)
+
+  - Transform daily identity operations by centralizing all
+    access requests natively within SailPoint, decommissioning
+    legacy manual routing, and transitioning WEX from delayed
+    batch-syncs to event-driven termination processing.
+  - Drive continuous toil reduction by replacing the high volume
+    of manual service desk tickets with automated, API-driven
+    provisioning workflows.
+  - 5. Strategic ABAC/RBAC Prioritization & Preventative
+    Security
+  - Experience designing and implementing access control
+    frameworks (RBAC, ABAC, or hybrid models) to support
+    least-privilege security architectures.
+  - Make ABAC/RBAC a top organizational priority by partnering
+    with business leaders to develop a mature, scalable role
+    model.
+  - Drive a massive entitlement rationalization exercise across
+    WEX's ~10,600 entitlements to establish a clean, business-
+    friendly self-service request catalog.
+  - Design roles that enforce Segregation of Duties (SoD)
+    boundaries so toxic combinations cannot exist within a
+    single role definition, utilizing critical thinking to
+    balance security with operational efficiency.
+  - Decommission external spreadsheet-based role tracking by
+    consolidating all role definitions and ownership
+    assignments directly into SailPoint.
+
+  Strategic ABAC/RBAC Prioritization & Preventative Security
+
+  - Experience designing and implementing access control
+    frameworks (RBAC, ABAC, or hybrid models) to support
+    least-privilege security architectures.
+  - Make ABAC/RBAC a top organizational priority by partnering
+    with business leaders to develop a mature, scalable role
+    model.
+  - Drive a massive entitlement rationalization exercise across
+    WEX's ~10,600 entitlements to establish a clean, business-
+    friendly self-service request catalog.
+  - Design roles that enforce Segregation of Duties (SoD)
+    boundaries so toxic combinations cannot exist within a
+    single role definition, utilizing critical thinking to
+    balance security with operational efficiency.
+  - Decommission external spreadsheet-based role tracking by
+    consolidating all role definitions and ownership
+    assignments directly into SailPoint.
+
+  Experience you'll bring
+
+  - Experience: 7+ years of technical leadership experience in
+    Identity and Access Management, specifically operating as
+    a Product Owner, Solutions Architect, or
+    Operations/Engineering Manager. Demonstrated history of
+    success in executing enterprise-level IAM transformations.
+  - Technical Expertise: Strong architectural understanding of
+    SailPoint Identity Security Cloud (ISC) data models,
+    API/SCIM integrations, Active Directory (AD), Workday (as
+    an authoritative HR source), and enterprise ITSM
+    platforms.
+  - Training & Certifications: Relevant industry certifications
+    are required to demonstrate a formal understanding of
+    identity frameworks and IT service management (e.g.,
+    Certified Identity and Access Manager (CIAM), CISSP, CISM,
+    ITIL v4 Foundation/Strategic Leader, or SailPoint-specific
+    certifications).
+  - ITSM/ITIL & Continuous Improvement: Deep understanding of
+    ITSM/ITIL frameworks with a proven track record of
+    applying observability and toil reduction principles to
+    operational workflows.
+  - Stakeholder Management: Exceptional strategic mindset with
+    the ability to co-lead governance committees, partner with
+    decentralized application owners, and effectively
+    collaborate with Information Security administration teams
+    to execute shared goals.
+
+  The base pay range represents the anticipated low and high
+  end of the pay range for this position. Actual pay rates
+  will vary and will be based on various factors, such as your
+  qualifications, skills, competencies, and proficiency for
+  the role. Base pay is one component of WEX's total
+  compensation package. Most sales positions are eligible for
+  commission under the terms of an applicable plan. Non-sales
+  roles are typically eligible for a quarterly or annual bonus
+  based on their role and applicable plan. WEX's comprehensive
+  and market competitive benefits are designed to support your
+  personal and professional well-being. Benefits include
+  health, dental and vision insurances, retirement savings
+  plan, paid time off, health savings account, flexible
+  spending accounts, life insurance, disability insurance,
+  tuition reimbursement, and more. For more information, check
+  out the "About Us" section.Pay Range: $152,400.00 -
+  $173,300.00
+industries:
+  - Fintech
+  - Payments
+posted_date: 2026-10-22
+url: "https://builtin.com/job/iam-sr-manager/10802398"
+source: Built In

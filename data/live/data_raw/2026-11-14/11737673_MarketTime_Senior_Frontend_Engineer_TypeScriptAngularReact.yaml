@@ -1,0 +1,160 @@
+job_id: 11737673
+title: Senior Frontend Engineer (TypeScript/Angular/React -REMOTE U.S.)
+company: MarketTime
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 747 Employees
+description: |
+  Remote Position
+
+  About Us
+
+  We are a growing B2B ecommerce SaaS company helping
+  businesses sell smarter and faster. Our multi-tenant
+  platform powers enterprise customers across multiple
+  industries, processing sensitive financial data—including
+  credit card payments—while maintaining rigorous PCI DSS
+  compliance.
+
+  Our customers—brands, sales reps, and retail buyers—rely on
+  our web applications every day to browse catalogs, build
+  orders, and manage their business, at the office and on the
+  road.
+
+  We're a fully distributed engineering team that values
+  ownership, collaboration, continuous improvement, and
+  building software the right way.
+
+  About the Role
+
+  We're looking for a Senior Frontend Engineer
+  (TypeScript/Angular/React) to help build and evolve the
+  user-facing side of our ecommerce platform. You'll work on
+  our existing Angular applications today while playing a key
+  role in shaping our next-generation frontend: a single
+  platform, potentially React-based, designed to deliver a
+  fast, consistent experience across desktop, tablet, and
+  mobile, including offline-capable and installable
+  experiences.
+
+  You'll work closely with Product, Design, and backend
+  engineers to turn complex B2B workflows into intuitive,
+  performant interfaces. Beyond writing code, you'll mentor
+  other engineers, help define frontend architecture and
+  standards, and drive engineering best practices across the
+  team.
+
+  Tech Stack
+
+  TypeScript • Angular • React • PWA • React Native / Expo •
+  REST APIs • GraphQL • GitHub Actions • Datadog RUM
+
+  Responsibilities
+
+  - Design, develop, and maintain customer-facing web
+    applications for buyers, sales reps, and brands.
+  - Help define the architecture of our next-generation frontend
+    platform, including component design, state management,
+    routing, data fetching, and build tooling.
+  - Evaluate and implement cross-platform approaches
+    (Progressive Web Apps, React Native/Expo) to deliver a
+    great experience across desktop, tablet, and mobile.
+  - Build offline-capable, resilient experiences for users
+    working with intermittent connectivity.
+  - Build and maintain a reusable, accessible component library
+    and design system.
+  - Maintain our existing Angular applications and help lead a
+    possible migration to new technology, such as React.
+  - Collaborate with backend engineers to design REST and
+    GraphQL APIs that are intuitive, efficient, and well-
+    suited to frontend needs.
+  - Ensure frontend code meets PCI DSS and security
+    requirements.
+  - Own frontend performance: bundle size, rendering
+    performance, Core Web Vitals, and perceived responsiveness
+    on real-world devices and networks.
+  - Champion engineering best practices including code reviews,
+    automated testing, CI/CD, observability, and
+    documentation.
+  - Use AI-assisted development tools (e.g., Claude Code,
+    Cursor, GitHub Copilot) to accelerate delivery, while
+    owning the correctness, security, and maintainability of
+    everything you ship.
+  - Take ownership of features from design through production,
+    including monitoring and operational support.
+  - Work in small, incremental pull requests with a strong
+    emphasis on code reviews, automated testing, and
+    continuous delivery.
+  - Mentor and support engineers through technical leadership,
+    design reviews, and pair programming.
+  - Troubleshoot production issues and participate in an on-call
+    rotation as needed.
+
+  Required Qualifications
+
+  - Operated as a senior engineer or technical lead on
+    production frontend applications.
+  - Strong expertise with React and its modern ecosystem (hooks,
+    functional components, context, and current state
+    management and data-fetching patterns).
+  - Strong proficiency with TypeScript, including idiomatic use
+    of its type system.
+  - Working knowledge of Angular, or the ability to quickly
+    become productive in an existing Angular codebase.
+  - Deep understanding of HTML, CSS, browser APIs, and the
+    browser rendering model.
+  - Experience building responsive interfaces that work well
+    across desktop, tablet, and mobile devices.
+  - Experience consuming and helping shape REST and/or GraphQL
+    APIs.
+  - Experience with modern frontend testing tools (e.g., Vitest
+    or Jest, React Testing Library, Playwright).
+  - Hands-on experience using AI coding tools in professional
+    work, with sound judgment about when to trust, verify, or
+    discard their output, and a clear understanding of what
+    data must never be shared with them.
+  - Experience with modern build tooling (e.g., Vite, webpack)
+    and CI/CD platforms such as GitHub Actions.
+  - Solid understanding of web security fundamentals (XSS, CSRF,
+    CSP, secure token handling).
+  - Excellent communication, collaboration, and problem-solving
+    skills.
+  - A track record of mentoring engineers and leading technical
+    initiatives.
+  - Self-motivated and effective working in a remote-first
+    environment.
+
+  Preferred Qualifications
+
+  - Experience building Progressive Web Apps, including service
+    workers, offline storage (IndexedDB), and background sync.
+  - Experience with React Native and/or Expo, including shipping
+    apps to the App Store or Google Play.
+  - Experience testing React Native apps (Jest, React Native
+    Testing Library, Detox or Maestro).
+  - Experience sharing code and components between web and
+    native applications.
+  - Experience leading or contributing to a large-scale frontend
+    framework migration.
+  - Experience building and maintaining design systems or
+    component libraries.
+  - Experience building multi-tenant or white-labeled SaaS
+    applications.
+  - Experience with frontend observability tools such as Datadog
+    RUM or Sentry.
+  - Understanding of payment processing systems, PCI DSS, and
+    secure checkout flows.
+  - Background in ecommerce, B2B wholesale, or field sales
+    applications.
+  - Familiarity with API security concepts including OAuth 2.0,
+    JWT, authentication, and authorization.
+  - Experience establishing team practices for AI-assisted
+    development (e.g., shared context and conventions files,
+    review standards for AI-generated code, guardrails for
+    sensitive data).
+  - Working knowledge of Java/Spring Boot or other backend
+    technologies.
+posted_date: 2026-10-17
+url: "https://builtin.com/job/senior-backend-engineer-java-spring-remote-u-s/11737673"
+source: Built In

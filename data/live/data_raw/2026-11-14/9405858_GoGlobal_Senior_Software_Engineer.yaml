@@ -1,0 +1,148 @@
+job_id: 9405858
+title: Senior Software Engineer
+company: GoGlobal
+location: ZAF
+locations:
+  - ZAF
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 211 Employees
+description: |
+  Senior Software Engineer — TypeScript Platform
+
+  Location: Fully remote · GMT to GMT+3 Team: Product
+  Engineering Type: Full-time · Individual contributor Salary:
+  €/£80,000–110,000 per year (flexible depending on location
+  and experience)
+
+  About GoGlobal
+
+  GoGlobal is a privately-owned global workforce solutions
+  company operating across 180+ countries. We help
+  organisations hire, pay, manage, and remain compliant
+  wherever their people are — spanning Employer of Record,
+  multi-country payroll, HR services, global recruitment, and
+  international expansion consulting.
+
+  The engineering problems we face are genuinely hard: multi-
+  jurisdiction payroll rules, real-time compliance
+  enforcement, HRIS integrations at scale, FX handling across
+  dozens of currencies. The work matters. Your code affects
+  how people get hired and paid across the world.
+
+  What this role can offer you
+
+  - High-ownership work from day one. A focused team, a serious
+    roadmap, and the expectation that you influence technical
+    direction — not just execute tickets.
+  - A modern, opinionated stack. TypeScript end-to-end, with
+    Effect for the service layer. We take type safety and
+    composability seriously. If you've been waiting for a
+    production codebase that actually uses functional
+    patterns, this is it.
+  - A technically interesting immediate focus. You'll be leading
+    work on a large API-first platform revamp — a greenfield
+    opportunity within a live product.
+  - AI is a first-class part of how we work. We use AI to extend
+    engineering capacity, and we hire engineers who use it
+    daily and use it well. Our hiring process even includes a
+    live AI-assisted coding interview — we want to see how you
+    think with these tools, not whether you can memorise
+    algorithms without them.
+  - Competitive salary. €/£80,000–110,000 per year, flexible
+    depending on location and experience. No degree required —
+    experience is what matters.
+
+  The role
+
+  We're hiring a Senior Software Engineer to join the Product
+  Engineering team. This is an individual contributor role —
+  no people management. You'll design, architect, and ship.
+  You'll influence technical direction, raise the bar through
+  code review and mentorship, and own complex features end-to-
+  end.
+
+  The immediate focus is a large API-first platform revamp.
+  You'll have a say in how it's shaped.
+
+  What you'll work on
+
+  - Architect and deliver the API-first platform revamp —
+    defining service boundaries, API contracts, and data
+    models
+  - Drive technical design reviews and establish engineering
+    best practices
+  - Own end-to-end delivery of complex features across payroll,
+    compliance, and HR product surfaces
+  - Improve CI/CD pipelines (GitHub Actions, ArgoCD), testing
+    strategies, and deployment processes
+  - Mentor engineers through code reviews and pair programming
+  - Contribute to the technical roadmap and product strategy
+  - Build and iterate on AI-assisted workflows as agentic
+    tooling becomes part of how we ship
+
+  Our stack
+
+  - Language: TypeScript (functional style, frontend and
+    backend)
+  - Frontend: React, Next.js
+  - Backend: Fastify, Drizzle, Effect
+  - Database: PostgreSQL, Redis
+  - Infrastructure: Kubernetes
+  - CI/CD: GitHub Actions, ArgoCD
+  - Observability: Grafana, Prometheus, Tempo, Loki
+
+  How we work
+
+  - 2-week sprints
+  - Fully remote, GMT to GMT+3
+  - Sync communication on Discord
+  - Small, senior-leaning team where your opinions shape how we
+    build
+
+  Interview process
+
+  Four stages, no surprises:
+
+  - Recruiter call — Get to know each other, clarify the
+    process. If it's a mutual fit, you'll receive an interview
+    guide to prepare.
+  - Hiring manager interview — Meet your potential leader,
+    discuss your experience and approach.
+  - System design interview — We observe how you think
+    architecturally. No trick questions — we want to see your
+    reasoning.
+  - Coding with AI interview — You'll work in an environment
+    with Claude Code. No prior Claude experience needed. We
+    would like to see how you use AI as a thinking and
+    delivery tool — not test your ability to code in a vacuum.
+
+  Requirements
+
+  Required:
+
+  - Based between GMT and GMT+3
+  - 5+ years of experience at Senior level or above
+  - Expert-level TypeScript — large-scale production
+    applications, not just familiarity
+  - Strong software architecture fundamentals — patterns, trade-
+    offs, and the judgement to apply them
+  - Deep understanding of API design and best practices
+  - Production experience with PostgreSQL, Kubernetes, and Redis
+  - Experience in a mid-to-large engineering organisation (50+
+    developers)
+  - Active daily use of AI coding tools — this is a hard
+    requirement, not a nice-to-have
+
+  Nice to have:
+
+  - Experience with Effect-ts or similar functional libraries
+  - Fastify
+  - Next.js
+  - Grafana stack (Prometheus, Tempo, Loki)
+  - Domain experience in HR tech, payroll, compliance, or
+    regulated industries
+posted_date: 2026-08-02
+url: "https://builtin.com/job/senior-software-engineer/9405858"
+source: Built In

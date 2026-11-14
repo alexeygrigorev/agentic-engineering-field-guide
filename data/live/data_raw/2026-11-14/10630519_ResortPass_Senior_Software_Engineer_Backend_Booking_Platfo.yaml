@@ -1,0 +1,182 @@
+job_id: 10630519
+title: "Senior Software Engineer, Backend — Booking Platform & APIs"
+company: ResortPass
+location: New York, USA
+work_type: FULL_TIME
+company_size: 94 Employees
+description: |
+  About ResortPass
+
+  ResortPass is redefining what it means to be a hotel guest.
+  We give people daytime access to pools, beaches, spas,
+  cabanas, and other hotel experiences without an overnight
+  stay.
+
+  We work with more than 2,700 hotel partners across 30
+  countries. We have served more than 7 million guests and
+  generated hundreds of millions of dollars for our hotel
+  partners. Marriott has signed a global agreement with
+  ResortPass, and Hilton has expanded its partnership with us.
+
+  We have proven the demand. Now we are building the booking
+  and distribution platform that can bring hotel experiences
+  to many more guests, categories, and channels.
+
+  Why this role matters
+
+  Most travel platforms are built around overnight rooms.
+  ResortPass is building the platform for everything else a
+  hotel can offer.
+
+  A day pass is sold by capacity. A cabana is reserved as a
+  unit. A massage needs a time slot, provider, or room. Events
+  have tickets. Food and beverage may be a product, an add-on,
+  or part of a bundle. Each category has different rules for
+  pricing, inventory, fulfillment, and cancellation.
+
+  We need one clear booking domain that supports these
+  differences without creating a separate system for every
+  category. That same inventory must be available through
+  ResortPass, hotel systems, distribution partners, and
+  authorized booking agents.
+
+  We are hiring a Senior Software Engineer to lead the
+  technical work and be the primary hands-on builder for the
+  ResortPass API. In your first year, multiple distribution
+  partners and an authorized AI agent should complete real
+  bookings through the same versioned API.
+
+  You will evolve a production Rails and Postgres booking
+  system used by millions of guests. The hard work is keeping
+  prices and inventory correct, preventing overselling,
+  surviving retries and partial failures, and reconciling
+  systems when they disagree.
+
+  Your ownership and team
+
+  You will own the API’s day-to-day technical roadmap and
+  design decisions. In this hands-on individual contributor
+  role, you will write production code, lead focused designs,
+  guide migrations, and operate what you build. You will
+  partner with our Staff Engineer on foundational domain and
+  architecture choices.
+
+  You will be the primary builder, but you will not work
+  alone. Other backend engineers will contribute and build
+  supply, PMS, and POS connectors using the patterns you
+  establish. Product, Partnerships, and hotel operations will
+  work with you from requirements through production launch.
+
+  This is one of our highest-impact technical bets. What you
+  build will determine how quickly ResortPass can enter new
+  booking channels and categories.
+
+  This role works from our NYC headquarters four days per
+  week. The base salary range is $190,000–$210,000, plus
+  equity, based on experience.
+
+  What you’ll do
+
+  - Build and launch the external ResortPass API. Define stable,
+    versioned contracts for live pricing, availability, holds,
+    booking creation, changes, and cancellations.
+  - Make booking operations safe under real failures. Design
+    idempotency, recovery, webhooks, and reconciliation for
+    retries, timeouts, duplicates, and partial success.
+  - Evolve the core booking domain. Create clear models and
+    invariants for products, schedules, prices, inventory,
+    holds, carts, and bookings.
+  - Make the platform extensible. Prove that a new category such
+    as events or food and beverage can use the shared booking
+    model instead of requiring a separate system.
+  - Own the architecture for supply, PMS, and POS integrations.
+    Create reusable connector patterns so other engineers can
+    add partners without reinventing failure handling and
+    reconciliation.
+  - Define the data contracts that keep inventory discoverable
+    through OpenSearch. Search is supporting technology for
+    this role, not its primary ownership area.
+  - Operate what you build. Set reliability and latency targets,
+    and add the tests, metrics, dashboards, alerts, tracing,
+    and runbooks needed for a critical booking path.
+  - Turn partner needs into durable platform capabilities,
+    explain tradeoffs clearly, and raise the engineering bar
+    through practical reviews and mentoring.
+
+  How we ship
+
+  We move quickly by building quality from the start. A change
+  is done when it is tested, deployed, observable, and safe to
+  roll back. We use AI tools aggressively, but engineers
+  remain accountable for architecture, correctness, and
+  production outcomes.
+
+  Explore engineering at ResortPass, including why we work and
+  what we are building next.
+
+  Tech stack
+
+  - Backend: Ruby on Rails, Node.js
+  - Data: Postgres, MongoDB
+  - Search: OpenSearch
+  - APIs and integrations: REST, OpenAPI, webhooks
+  - Infrastructure and observability: AWS, Datadog
+  - Testing: RSpec, Playwright
+
+  Who you are
+
+  We encourage candidates to apply even if they do not match
+  every line below.
+
+  - You have 6+ years of software engineering experience, or a
+    track record of equivalent impact.
+  - You have designed transactional systems, built external APIs
+    or integration platforms, and safely evolved data models
+    in production.
+  - You understand relational modeling, concurrency,
+    consistency, asynchronous workflows, and distributed
+    failures.
+  - You turn complex business rules into clear boundaries,
+    lifecycle states, contracts, and invariants.
+  - You can lead an important system as its primary builder
+    while collaborating on foundational decisions.
+  - You care about correctness, testing, observability, and safe
+    rollouts.
+  - You communicate directly, listen well, and improve the work
+    of engineers around you.
+
+  Ruby on Rails experience is useful, but not required.
+  Experience with marketplaces, reservations, inventory-
+  constrained commerce, public APIs, or third-party booking
+  systems is also helpful. We care most about your backend
+  judgment, track record, and ability to learn.
+
+  What success looks like in 6–12 months
+
+  - Multiple distribution partners and an authorized AI agent
+    complete real bookings through one reusable API.
+  - The full booking lifecycle meets agreed targets for
+    correctness, success rate, latency, overselling, recovery,
+    and reconciliation.
+  - Reusable contracts and connector patterns materially reduce
+    the work required to onboard the next partner.
+  - The shared booking model supports at least one new category
+    without a separate booking system.
+
+  As the API becomes a company-wide platform, this role can
+  grow toward Staff through demonstrated impact across the
+  booking domain, integrations, and distribution.
+
+  Benefits
+
+  - Health, dental, and vision coverage, with ResortPass
+    contributing to monthly premiums
+  - Stock options
+  - 401(k) plan
+  - Unlimited paid time off
+  - Paid parental leave
+  - Annual ResortPass credit for pools, beaches, spas, and other
+    experiences
+posted_date: 2026-08-11
+url: "https://builtin.com/job/senior-software-engineer-backend-booking-platform-apis/10630519"
+source: Built In

@@ -1,0 +1,175 @@
+job_id: 10580336
+title: Staff Software Engineer - Insurance
+company: Headway
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 819 Employees
+description: |
+  1 in 4 people in the US have a treatable mental health
+  condition, but most providers don't accept insurance, making
+  therapy too expensive for most people. Headway’s mission is
+  to fix this by building a new mental healthcare system
+  everyone can access. We started by solving the biggest
+  barrier to care: insurance. The admin work - credentialing,
+  claims, payment reconciliation - is a nightmare. We've
+  automated that.
+
+  But we're going further. Over 90,000 providers across all 50
+  states run their practice on our software, serving over 2.6
+  million patients. We are building the best tools for
+  therapists to run their entire practice, reimagining the
+  experience of finding a therapist, and investing in the
+  platform foundations to enable this at scale, and building
+  much of it with AI. We aren't just a billing layer; we are
+  becoming the platform where care actually happens.
+
+  We're a Series D company with $325M+ in funding (a16z,
+  Accel, Spark Capital, etc.), looking for exceptional people
+  to help us achieve this mission. We want your time here to
+  be the most meaningful experience of your career. Join us,
+  and help change mental healthcare for the better.
+
+  Staff Software Engineer (Insurance)
+
+  The Work
+
+  The Insurance team is the backbone of Headway's business. We
+  deliver the two core promises of the platform: affordable
+  therapy covered by insurance for patients, and a simple way
+  to run a therapy practice for providers. Every appointment
+  on Headway flows through systems our team owns — from
+  identifying whether a patient is eligible, to estimating
+  their cost, to matching them with a provider, to submitting
+  a clean claim.
+
+  This is a deep and wide problem. We operate across all 50
+  states, 1,000+ payers, and millions of appointments every
+  month. There's a lot of data to make sense of and signal to
+  find in the noise. As Headway's network grows — more
+  patients, more providers, more payers — the accuracy,
+  reliability, and automation of these systems become the
+  difference between a business that scales and one that
+  doesn't.
+
+  As a staff engineer in the group, you will lead design and
+  implementation of the systems that power Headway's insurance
+  operations — patient identification, pricing estimates,
+  provider matching, and claims. Build data-intensive, ML-
+  powered platforms that serve patients and providers and
+  learn from every visit, mentor engineers, and write high-
+  impact code at the intersection of healthcare data and payer
+  operations.
+
+  Some examples of what that work looks like in practice:
+
+  - Building a new ML model that lifted price estimate accuracy
+    by 10+ percentage points, getting tens of thousands of
+    patients a better estimate ahead of their first session
+  - An OCR pipeline to read patient insurance cards, automate
+    eligibility checks, and run ML models to detect complex
+    insurance arrangements — improving onboarding and first-
+    claim success rates
+  - A claims AI agent that reviews denied claims, identifies
+    root causes, and resubmits autonomously — recovering
+    hundreds of thousands of dollars and proving we can build
+    self-healing systems at scale
+  - A human-in-the-loop automation that transformed a 20-step
+    manual credentialing process in Google Sheets into an
+    average of 2 days and 1 task — with a record of 6 seconds
+    start to finish — enabling providers to onboard faster and
+    expand their reach to new patients
+
+  Our Stack
+
+  - Languages: TypeScript, Python 3
+  - Frontend: React, Remix, Next.js
+  - Backend & Storage: FastAPI, SQLAlchemy, Postgres, Redis,
+    Snowflake
+  - Infrastructure: AWS, Temporal, Kafka
+  - Ops: Datadog, Sentry, PagerDuty
+  - AI Tools: Cursor, Claude, Gemini, Eddy (our in-house cloud
+    agent harness)
+
+  Who You Are
+
+  - A platform thinker. You build for the teams behind you, not
+    just the immediate use case. You create abstractions that
+    let others move faster and more safely.
+  - Drawn to signal in messy data. Payer rules vary by state,
+    plan, and policy. You find the structure in the noise and
+    build systems that reason about it reliably.
+  - Hands-on. You write code where leverage is highest and hold
+    yourself to the same bar you hold others.
+  - Own outcomes, not tasks. You've been handed ambiguous
+    problems and turned them into shipped software. You know
+    how to define the solution, pull in the right people
+    across teams, and keep things moving when priorities
+    shift.
+  - Communicate with precision. Whether it's a design doc, a
+    Slack thread, or a cross-team meeting — you bring people
+    along.
+
+  Our Interview Process
+
+  - Initial screen: You'll connect with someone in recruiting to
+    learn more about the team, Headway's mission, and our
+    growth — and we'll get a better sense of your background.
+  - Tech & Team Fit round: AI Coding and Hiring Manager Chat.
+  - Final rounds: You'll meet several team members for technical
+    and non-technical interviews and leave with a fuller
+    picture of what it's like to work at Headway.
+  - References and the offer: Our favorite part of the process.
+    We'll send over all the details, including specifics on
+    employee equity, and congratulatory messages from excited
+    future teammates.
+
+  Compensation
+
+  The expected base pay range for this position is
+  $224,000-$336,000 based on a variety of factors including
+  qualifications, experience, and geographic location. In
+  addition to base salary, this role may be eligible for an
+  equity grant, depending on the position and level.
+
+  Comprehensive benefits:
+
+  Medical, dental, vision, HSA/FSA, 401(k) including match for
+  2027!, Carrot Fertility reimbursement, and paid parental,
+  medical and caregiver leave.
+
+  We believe a team's strength is in its people, and we cannot
+  achieve this mission without a team that reflects the
+  diversity of this problem – across race, ethnicity, gender,
+  sexuality, age, national origin, religion, family status,
+  disability, military status, and experience. Headway is
+  committed to the full inclusion of all qualified
+  individuals. As part of this commitment, Headway will ensure
+  that persons with disabilities are provided with reasonable
+  accommodations. If reasonable accommodation is needed to
+  participate in the job application or interview process, to
+  perform essential job functions, and/or receive other
+  benefits and privileges of employment, please inform the
+  recruiter when they contact you to schedule your interview.
+
+  Headway participates in E-Verify. To learn more, click here.
+
+  A notice to Headway applicants: To protect yourself against
+  phishing and recruitment fraud, please note that Headway
+  only accepts applications through our official careers page
+  at https://headway.co/careers. Headway will never refer you
+  to external websites, ask for payment or personal
+  information, or conduct interviews via messaging apps. All
+  official communication will come from a @findheadway.com
+  email address. If you are contacted by someone claiming to
+  be from Headway via an unofficial channel, please do not
+  share any information and report it as spam.
+industries:
+  - Consumer Web
+  - Healthtech
+  - Professional Services
+  - Social Impact
+  - Software
+posted_date: 2026-08-07
+url: "https://builtin.com/job/staff-software-engineer-insurance/10580336"
+source: Built In

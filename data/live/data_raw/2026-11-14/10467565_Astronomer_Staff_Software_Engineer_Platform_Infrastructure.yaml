@@ -1,0 +1,165 @@
+job_id: 10467565
+title: Staff Software Engineer, Platform Infrastructure
+company: Astronomer
+location: New York, USA
+work_type: FULL_TIME
+company_size: 344 Employees
+description: |
+  Astronomer empowers data teams to bring mission-critical
+  software, analytics, and AI to life and is the company
+  behind Astro, the industry-leading unified DataOps platform
+  powered by Apache Airflow®. Astro accelerates building
+  reliable data products that unlock insights, unleash AI
+  value, and power data-driven applications. Trusted by more
+  than 900 of the world’s leading enterprises, including
+  Datadog, American Express, Expedia, Adobe, Autodesk,
+  Together AI, and more, Astronomer lets businesses do more
+  with their data. To learn more, visit www.astronomer.io.
+
+  About this role
+
+  Astronomer’s products run on a complex, multi-cloud platform
+  — and the scalability, and operational maturity of that
+  platform is what we’re actively investing in. The work ahead
+  on our Platform team isn’t about managing data or curating
+  pipelines; it’s about building the foundational systems that
+  everything else runs on — the kind of systems where the
+  failure modes matter, the latency budgets are real, and
+  getting it wrong has visible consequences for hundreds of
+  enterprise customers.
+
+  We’re looking for a Staff-level engineer who has built
+  production platform systems at scale before — not just
+  consumed them. You’ve designed systems under load, reasoned
+  carefully about failure, and made your colleagues’ lives
+  better by giving them something solid and well-understood to
+  build on top of. You write strategy documents and then write
+  the code that proves them out. You’ve driven a decision
+  through, and lived with the consequences.
+
+  This is a foundational role at a consequential moment: your
+  work will directly shape what Astronomer’s products — Astro,
+  Observe, and our IDE — are capable of over the next several
+  years.
+
+  What you get to do
+
+  Astronomer has a healthy and complex infrastructure estate
+  spanning multiple cloud providers, a mix of managed and
+  self-hosted systems, and an increasingly ambitious set of
+  requirements as our products evolve. We have a clear sense
+  of where we need to go; we need the right person to figure
+  out how to get there and then go build it.
+
+  This is a deeply technical role with a high bar for code, so
+  you’re an experienced developer, ideally in Go. A
+  substantial part of your impact also comes from setting
+  direction: design docs, proposals, and bringing along teams
+  you don’t manage. Prefer heads-down coding most of the week?
+  This role may not be the best fit.
+
+  - Blaze a Trail: Own and develop our platform infrastructure
+    strategy, with the sponsorship and responsibility to
+    match. Map out what we need, build the case, bring the
+    affected teams along, and own the outcomes.
+  - Be an Owner: Be directly involved in deciding what we work
+    on and how we work on it. Make promises, and keep them.
+  - Do Sensible Things: Make principled build vs. buy
+    assessments and advocate for the right tools for the right
+    job — not the fashionable ones, not the ones already in
+    the estate just because they’re there.
+  - Garage Door Open: Create and maintain comprehensive internal
+    documentation and decision records for systems and
+    processes. Participate in architectural forums and make
+    principled, open decisions that the rest of the
+    organization can learn from and hold us to.
+
+  Is this role for you?
+
+  - A small, senior team. No direct reports; you lead through
+    influence, not management.
+  - Broad scope. Our control plane, CI/CD, builds and releases,
+    observability, secrets and networking, with internal teams
+    as your customers.
+  - Buy-in, not authority. You’ll often need agreement from
+    teams you don’t manage.
+
+  What you bring to the role
+
+  - Distributed systems depth, grounded in practice. You have a
+    solid working model of how production systems fail —
+    consistency and availability tradeoffs, failure cascades,
+    backpressure, graceful degradation. You can draw the
+    diagram, explain the failure modes at each node, and make
+    a reasoned argument for which ones actually matter in a
+    given context. NALSD thinking is how you naturally
+    approach a new system design.
+  - Kubernetes at operator depth. You know what happens inside
+    the scheduler and the control loop when things go wrong,
+    because you’ve been there. You’ve operated clusters under
+    real load, not just deployed workloads onto them.
+  - Strong Go proficiency. The platform team writes production
+    Go. You should be fluent: you’ve built and shipped systems
+    in it, and you have opinions about what good Go looks
+    like.
+  - Multi-cloud experience, not just multi-cloud exposure.
+    You’ve made considered architectural decisions across AWS,
+    GCP, and/or Azure — not just consumed managed services,
+    but evaluated tradeoffs between them and lived with those
+    decisions in production.
+  - A track record of influence without authority. You’ve taken
+    a proposal to teams you don’t manage, handled real
+    pushback, changed minds with evidence, and known when and
+    how to escalate. You can tell us specific stories about
+    it.
+  - Generalist platform breadth. You’ve worked hands-on across
+    several of: Kubernetes, CI/CD, builds and releases,
+    observability, networking and secrets management, rather
+    than going deep in just one.
+  - Strong written and verbal communication. You can write a
+    design doc that changes minds, and a postmortem that makes
+    the organization smarter. You’ve worked effectively in a
+    globally-distributed team.
+
+  Bonus points if you have
+
+  - Experience with storage primitives at the system level —
+    you’ve reasoned about when to reach for a relational store
+    vs. an object store vs. something else, and you have real
+    opinions informed by real failures.
+  - Experience working on a SaaS/PaaS product across multiple
+    cloud providers.
+  - Familiarity with Apache Airflow or workflow orchestration
+    systems.
+
+  A note on level: titles vary a lot between companies, and we
+  level on scope of influence, not title.
+
+  The estimated total compensation for this role ranges from
+  $215,000 - $315,000, along with an equity component and a
+  comprehensive benefits package. This range is merely an
+  estimate, and the width of the range reflects willingness to
+  consider candidates with broad prior seniority. Actual
+  compensation may deviate from this range based on skills,
+  experience, and qualifications.
+
+  #LI-Fulltime
+
+  #LI-Hybrid
+
+  At Astronomer, we value diversity. We are an equal
+  opportunity employer: we do not discriminate on the basis of
+  race, religion, color, national origin, gender, sexual
+  orientation, age, marital status, veteran status, or
+  disability status.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Cloud
+  - Software
+  - Analytics
+  - Infrastructure as a Service (IaaS)
+  - Big Data Analytics
+posted_date: 2026-08-25
+url: "https://builtin.com/job/staff-software-engineer-platform-infrastructure/10467565"
+source: Built In

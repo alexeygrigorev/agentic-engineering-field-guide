@@ -1,0 +1,115 @@
+job_id: 12153171
+title: Software Engineer
+company: GovEagle
+location: New York, USA
+work_type: FULL_TIME
+company_size: 14 Employees
+description: |
+  Why We Need You
+
+  Over the past year, GovEagle has built strong product-market
+  fit (5x revenue) and a customer base that uses us every day
+  (10x DAU). Defense primes and top federal integrators run
+  their RFP lifecycle on GovEagle inside FedRAMP and AWS
+  GovCloud environments, working from our web app, Microsoft
+  Word, and SharePoint. Every new enterprise rollout brings
+  more users, more documents, and more integrations, and the
+  platform has to scale with them.
+
+  We are hiring an engineer to own real parts of that platform
+  end to end: the features customers ask for, the integrations
+  that connect GovEagle to their systems, and the reliability
+  work that keeps it fast. You will work directly with the CTO
+  on a small team that builds with AI every day.
+
+  What You'll Do
+
+  - Ship product end to end. Take features from a customer
+    conversation to production across our Python backend and
+    React frontend, then see them through adoption.
+  - Own customer integrations. Build and harden the connections
+    to SharePoint, Microsoft 365, Salesforce, and SSO that
+    enterprise customers run on.
+  - Scale the AI platform. Profile and speed up long-running LLM
+    pipelines, background workflows, and the data layer as
+    usage grows.
+  - Make production boring. Take your turn on call, improve
+    observability and alerting, and fix root causes so the
+    same incident never happens twice.
+  - Build with AI, carefully. Use AI coding tools to ship fast,
+    review teammates' code, and write short design docs before
+    big changes.
+
+  What We're Looking For
+
+  - 3+ years building production software that real customers
+    use; startup experience strongly preferred.
+  - Strong Python (FastAPI, async) and comfortable across the
+    stack in TypeScript and React.
+  - Hands-on with cloud infrastructure: AWS, Kubernetes,
+    Terraform.
+  - You have debugged real production problems and can talk
+    concretely about what broke and how you fixed it.
+  - AI-native: Claude Code, Cursor, or similar are part of how
+    you build, and you know where not to trust them.
+  - Ownership: you see a gap, propose a fix, and ship it. You
+    like talking to customers.
+  - U.S. citizen (required): you will work in FedRAMP and AWS
+    GovCloud environments subject to export controls.
+  - Able to work in person in New York City four days a week.
+
+  Nice to have: AWS GovCloud or FedRAMP; Microsoft Graph and
+  SharePoint APIs; Temporal; LLM or RAG systems in production.
+
+  Our Stack
+
+  FastAPI and Python, Temporal, DocumentDB and Postgres,
+  SpiceDB, Redis, Next.js and React with TypeScript, Microsoft
+  Office add-ins, Kubernetes, Terraform and Helm, Grafana, AWS
+  GovCloud, and models from Anthropic, Google, and OpenAI.
+
+  What success looks like in your first 90 days
+
+  - 30 days: Shipped your first customer-facing fix; on the on-
+    call rotation; know how every customer integration works.
+  - 60 days: Own one major area end to end (for example
+    SharePoint sync or document ingestion); written your first
+    design doc.
+  - 90 days: Shipped a feature customers asked for, from spec to
+    adoption, plus a measurable reliability or performance
+    win.
+
+  About GovEagle
+
+  GovEagle's AI platform helps government contractors win more
+  work. Our AI agents dramatically reduce RFP response times
+  by helping teams shred requirements, build compliance
+  matrices, deliver exhaustive outlines, and draft compelling
+  narratives. We're well capitalized ($10M from Y Combinator,
+  Strategic Cyber Ventures, Sorenson Capital, and others) and
+  based in NYC. Benefits: medical, dental, and vision
+  insurance; 401(k); generous PTO.
+
+  How we hire: a founder conversation, a 60-minute technical
+  session in a small repo (bring your AI tools), and a half-
+  day onsite with the team. About two weeks start to finish.
+  Don't meet every qualification? Apply anyway; we value high-
+  agency self-starters who love to learn.
+
+  Why Join Us
+
+  - High ownership: we hire smart people and get out of the way.
+  - AI-native: get deep on the frontier of AI agents, in the
+    product and in how we work.
+  - Customer love: work directly with customers who are getting
+    real value.
+  - Team: we're in person in NYC. Here we are at the holiday
+    party.
+industries:
+  - Artificial Intelligence
+  - Professional Services
+  - Software
+  - Generative AI
+posted_date: 2026-11-10
+url: "https://builtin.com/job/software-engineer/12153171"
+source: Built In

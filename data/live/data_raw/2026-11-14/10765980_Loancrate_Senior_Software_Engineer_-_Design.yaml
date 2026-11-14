@@ -1,0 +1,176 @@
+job_id: 10765980
+title: Senior Software Engineer - Design
+company: Loancrate
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 35 Employees
+description: |
+  What is Loancrate?
+
+  We started Loancrate to make home-buying simpler and less
+  expensive for lenders and borrowers (us!). Today, mortgage
+  lenders are stuck running their companies on software
+  products built 20 years ago. These products are slow,
+  unstable, and don't lead to material improvements in
+  efficiency. When using these systems, the average human cost
+  to originate a loan is still over $11,000.
+
+  Loancrate builds AI-native tooling to automate mortgage
+  workflows. Our ultimate goal is fully automated origination,
+  which has the potential to save lenders over $16B in
+  operating expense per year.
+
+  Since starting in 2020, our remote team has enabled our
+  customers to power >$85 billion in new home loans. We are a
+  group of people excited to tackle the complexity of the
+  home-lending industry. We care about collaboration, very
+  open communication covering the good & the bad so that we
+  learn from our decisions quickly, and ultimately having fun
+  while we're building. You'll fit in well if you like diving
+  deep quickly!
+
+  The Opportunity
+
+  Our dreams are big and we have much to build! We're looking
+  for someone who is equal parts engineer and artist - someone
+  who obsesses over the details that most people wouldn't
+  notice, and loses sleep over a transition that's two
+  milliseconds off. You'll be the person who makes Loancrate
+  feel as good as it works - owning the quality of our UI from
+  pixel to production in collaboration with Design and
+  Product. Our product handles some of the most complex, high-
+  stakes workflows in financial services, and great design is
+  how we make that feel approachable and trustworthy for our
+  customers.
+
+  If you're the type who notices micro-interactions before
+  anyone asks, who treats delight as a requirement rather than
+  a nice-to-have, and who brings genuine craft to every
+  component you ship - you'll fit right in here. If pixel-
+  perfect isn't your thing, this probably isn't the right
+  role.
+
+  What To Expect
+
+  In this role at Loancrate, you'll own design quality end-to-
+  end - from early wireframes to shipped, production-quality
+  UI. A quick note before diving in: we're building an AI-
+  native product, and we rely on AI heavily in our own
+  internal workflows too. If that excites you, you'll thrive
+  here - if it gives you pause, this probably isn't the right
+  fit. Within your first month, you'll be contributing to work
+  such as...
+
+  - Designing and building core UI components for our AI-powered
+    mortgage workflow tools, balancing information density
+    with usability for power users.
+  - Establishing and maintaining a component library and design
+    system that gives our engineering team a coherent visual
+    language to build on.
+  - Partnering with product and engineering to translate complex
+    workflow requirements into intuitive, elegant user
+    experiences.
+  - Writing production-quality React components in TypeScript
+    that bring your designs to life - you don't hand off, you
+    ship.
+  - Defining design standards, patterns, and guidelines that
+    scale as the team grows.
+
+  Core Responsibilities
+
+  - Own the end-to-end design process for features - from
+    discovery and wireframing through high-fidelity Figma
+    design and final implementation in React/TypeScript.
+  - Build and maintain a design system and component library,
+    using shadcn/ui variants and a dedicated component package
+    with documented permutation coverage.
+  - Write accessible, production-quality React components,
+    ensuring correct ARIA, keyboard, and focus management.
+  - Collaborate with PMs and engineers during discovery to
+    ensure designs are user-centered and technically feasible.
+  - Define and enforce visual and interaction design standards;
+    audit and drive consistency across the product.
+  - Maintain Figma libraries, component documentation, and
+    design-to-code handoff tooling.
+  - Partner with engineering to ensure design system components
+    are implemented correctly and consistently across the
+    codebase.
+  - Design for accessibility (WCAG compliance) and advocate for
+    inclusive design practices.
+  - Develop and document UX patterns for complex interaction
+    paradigms (multi-step workflows, AI-generated content,
+    data-dense tables).
+  - Contribute to product strategy discussions and
+    motion/microinteraction guidelines.
+  - Audit existing UI for consistency and drive improvements.
+  - Scope design work and make pragmatic tradeoffs between
+    design quality and delivery velocity.
+  - Help establish and document our design principles and visual
+    identity.
+  - Mentor team members on design thinking, UI best practices,
+    and frontend implementation.
+
+  Tech Stack
+
+  - React + TypeScript, Vite
+  - Styling: Tailwind CSS, shadcn/ui, class-variance-authority
+    for variants
+  - API: GraphQL/Apollo Client; types generated and shared via
+    monorepo
+  - Monorepo: Turborepo + PNPM; workspace packages for schema,
+    shared types, and UI primitives
+  - Testing: React Testing Library + MSW; snapshot testing
+    consolidated per component story
+  - Accessibility: Focus/keyboard support and ARIA semantics in
+    shared components
+
+  Preferred Skills and Background
+
+  (It's okay not to have all of these things - these are just
+  some skills we are excited about!)
+
+  - 🖼 Portfolio showing high-craft visual/interaction design in
+    complex B2B/SaaS, with dense layouts and strong
+    keyboard/focus patterns.
+  - ⚛️ Production React + TypeScript proficiency; comfortable
+    shipping components for broad consumption.
+  - 🧩 Experience building design systems with component
+    libraries, variant APIs, and documented stories.
+  - 🎨 Deep Figma skills: variables, auto-layout, variants,
+    prototyping, library hygiene.
+  - ♿ Accessibility proficiency: WCAG, ARIA, color/contrast,
+    motion sensitivity.
+  - 🤖 Comfort designing AI UX: uncertainty, intervention
+    affordances, streaming content, error states.
+  - 📊 Facility with data-dense UIs: tables, filtering/sorting,
+    bulk actions.
+  - 🔬 User research skills for fast iteration: task-based tests,
+    heuristic reviews, telemetry-informed iteration.
+  - 🚀 Product mindset; crisp written communication and
+    rationale; bias to ship without compromising correctness.
+
+  Perks & Benefits
+
+  - Robust medical coverage (100% of employee + family premiums
+    covered)
+  - Vision & dental coverage
+  - 401(k)
+  - HSA / FSA
+  - Access to lender partner’s employee loan program
+  - Remote-first culture - work from wherever you do your best
+    work
+  - Flexible time off - we trust you to manage your time
+
+  Loancrate is an equal opportunity employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees. We do not discriminate on the
+  basis of race, color, religion, sex, sexual orientation,
+  gender identity, national origin, age, disability, veteran
+  status, or any other legally protected characteristic.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-08-20
+url: "https://builtin.com/job/senior-software-engineer-design/10765980"
+source: Built In

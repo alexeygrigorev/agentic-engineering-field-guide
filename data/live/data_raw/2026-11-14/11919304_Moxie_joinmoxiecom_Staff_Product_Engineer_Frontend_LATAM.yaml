@@ -1,0 +1,140 @@
+job_id: 11919304
+title: Staff Product Engineer, Frontend (LATAM)
+company: Moxie (joinmoxie.com)
+location: CAN
+locations:
+  - CAN
+  - IND
+  - AUS
+  - IRL
+  - GBR
+  - Singapore, SGP
+remote: true
+work_type: FULL_TIME
+company_size: 83 Employees
+description: |
+  At Moxie, we empower ambitious aesthetic entrepreneurs to
+  build profitable, independent practices—without burnout,
+  overwhelm, or guesswork. In just a few years, we've grown
+  from an idea to a global, remote-first team now supporting
+  700+ practices nationwide.
+
+  Our purpose is simple: to unlock sustainable success for
+  aesthetic entrepreneurs, at every stage of their journey.
+
+  Staff Product Engineer (Frontend)
+
+  We're looking for a Staff Product Engineer to be one of
+  Moxie's leading frontend individual contributors, driving
+  the highest-leverage frontend initiatives across the org in
+  Q4 2026 and Q1 2027. The center of gravity here is
+  horizontal: how every Moxie team builds, ships, and
+  maintains UI. You'll be a leading contributor to our Design
+  System and the entire frontend toolchain and CI. You’ll also
+  play a key role as we rethink and redesign our architecture,
+  tooling, and SDLC for the agentic eraYou'll most likely sit
+  on the Financial Operations (FinOps) team and stay hands-on
+  in product delivery there, so your standards stay grounded
+  in real feature work. Day to day, you'll partner with
+  Design, Product, engineering managers of UI-heavy domains,
+  and other staff engineers across our frontend stack
+  (Next.js, MUI, Apollo, GraphQL, Storybook, and more). stack
+  of Next.js, MUI, Apollo, GraphQL codegen, and Storybook.
+  Our Objectives for the Role
+
+  - Ramp through real product work. Within three months you're
+    shipping FinOps UI improvements that raise performance,
+    consistency, or developer experience, such as
+    consolidating a repeatedly forked pattern (such as confirm
+    dialogs) or perhaps refactoring un-performant queries on a
+    slow page.
+  - Shape architecture across the company. Within three months
+    you're ramped up to Moxie's system design and
+    architecture, and opinionated on what we can do better,
+    and what we should build next. You're comfortable
+    developing technical proposals, and taking them from draft
+    to review, approval, and final implementation.
+  - Own non-project technical initiatives and engineering
+    culture. Start owning at least one org-level initiative in
+    your first three months (for example redesigning our
+    frontend development SDLC for the agentic era), and by
+    month nine own one or two initiatives with measurable
+    gains in quality or velocity, while shipping v1 of one or
+    more key initiatives.
+
+  We're Looking For
+
+  - Design system or frontend platform experience. You've built
+    a design system or led a large React and GraphQL
+    migration, including design tokens, theming, component API
+    design, and a promotion path for canonical components, and
+    you've seen it adopted rather than decay.
+  - Data layer depth. You know GraphQL client caching and
+    fragment colocation well enough to move a complex route to
+    one primary query with component-owned fragments, and to
+    make that the default pattern.
+  - A record of leading adoption without formal authority. You
+    ship in slices, pilots, and migration guides instead of
+    big-bang rewrites, and you earn adoption through clear
+    docs and by making the right path the easy path for teams
+    that don't report to you.
+  - Hands-on product delivery. You stay in feature work, ramp
+    quickly in a large codebase you didn't design, and can
+    tell canonical patterns from forks.
+  - Toolchain and performance sense. You've improved CI time,
+    type-checking, or page performance with measurable
+    results, and you can reason about where install, caching,
+    and build time go.
+  - Fluency with AI tooling in daily work. You use AI tools in
+    how you build and have a point of view on how AI can
+    improve the software development lifecycle. Bonus points
+    if you’re opinionated about harnesses, tooling (Ghosty,
+    Herdr, Pi, Plannotator, etc), and multi-agent workflows
+    and processes.
+  - Technical leadership and influence. You partner with Design,
+    Product, and engineering managers, communicate tradeoffs
+    and status clearly, and level up other engineers through
+    reviews and pairing.
+
+  This is not a role for someone who wants to work only on
+  horizontal initiatives and step away from shipping product
+  UI.
+
+  Why Join Us?
+
+  - Own frontend architecture for a real, multi-domain product,
+    while also helping shape and guide Moxie’s architecture
+    and system design..
+  - High-leverage horizontal work (design system, data
+    architecture, tooling) while staying hands-on in product
+    delivery.
+  - Build the core that people and agents both use. You'll shape
+    an AI-native frontend where generation in Figma and in
+    code reuses canonical components.
+  - Clear accountability at Staff level for decisions that
+    materially affect the company, without needing Principal
+    or org-design scope.
+  - Above all, we're in this to empower small business owners to
+    own and grow their businesses. If you succeed, Med Spas
+    will remain the opportunity for independent owner-
+    operators instead of being dominated by a small number of
+    large chains. If that speaks to you, speak to us.
+  - Competitive salary and a fully remote setup.
+
+  At Moxie, we believe in creating a workplace where everyone
+  feels valued, trusted, and included. Our team lives by our
+  values: act as owners, give more than we take, move with
+  speed and care, and simplify and learn every day.
+
+  We welcome people of all backgrounds, experiences, and
+  perspectives to apply. If you require any accommodations to
+  fully participate in the interview process, please let us
+  know, we’re happy to assist.
+industries:
+  - Healthtech
+  - Retail
+  - Pharmaceutical
+  - Telehealth
+posted_date: 2026-10-27
+url: "https://builtin.com/job/staff-product-engineer-frontend/11919304"
+source: Built In

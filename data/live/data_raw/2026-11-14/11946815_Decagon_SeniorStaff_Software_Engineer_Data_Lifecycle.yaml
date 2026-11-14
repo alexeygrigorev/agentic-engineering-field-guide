@@ -1,0 +1,182 @@
+job_id: 11946815
+title: Senior/Staff Software Engineer, Data Lifecycle
+company: Decagon
+location: New York, USA
+work_type: FULL_TIME
+company_size: 49 Employees
+description: |
+  About Decagon
+
+  Decagon is the leading conversational AI platform empowering
+  every brand to deliver concierge customer experiences.
+
+  Our technology enables industry-defining enterprises like
+  Avis Budget Group, Block’s Cash App and Square, Chime, Oura
+  Health, and Hunter Douglas to deploy AI agents that power
+  personalized, deeply satisfying interactions across voice,
+  chat, email, SMS, and every other channel.
+
+  We’re building a future where customer experiences are being
+  redefined from support tickets and hold music to faster
+  resolutions, richer conversations, and deeper relationships.
+  We’re proud to be backed by world-class investors who share
+  that vision, including a16z, Accel, Bain Capital Ventures,
+  Coatue, and Index Ventures, along with many others.
+
+  We’re an in-office company, driven by a shared commitment to
+  excellence and velocity. Our values — Just Get It Done,
+  Invent What Customers Want, Winner’s Mindset, and The
+  Polymath Principle — shape how we work and grow as a team.
+
+  About the Team
+
+  Data Lifecycle at Decagon builds the systems that govern how
+  sensitive customer data is handled throughout its lifetime:
+  what we store, who can access it, how we redact it, and when
+  we delete it. We turn complex privacy requirements into
+  reliable infrastructure and product that customers can
+  configure and trust.
+
+  This team is core to how Decagon scales. Our AI agents work
+  with sensitive information across conversations, tool calls,
+  and customer systems. The frameworks we build need to
+  protect that data consistently across the platform, while
+  preserving the context customers need to operate and improve
+  their agents. A failure mode we debug in production becomes
+  a guardrail, a test, or a piece of tooling that catches it
+  everywhere.
+
+  Our systems run for companies like Hertz, American Airlines,
+  and Notion across chat, voice, email, and SMS.
+
+  About the Role
+
+  You’ll design and build the platform infrastructure that let
+  customers control how their data is collected, retained,
+  redacted, and deleted. That means strong engineering
+  underneath, and clear abstractions on top that hold up
+  across different enterprise requirements without forking per
+  customer.
+
+  You’ll work day to day with product management, governance,
+  and security: understanding customer requirements, defining
+  data handling guarantees, reviewing designs, and iterating
+  through launch. You’ll stay close enough to customers to
+  understand their privacy and operational needs in depth and
+  to ensure what you’re building is actually right for them.
+
+  Engineers here own features end to end, from technical
+  architecture through deployment and the iteration after it.
+  On this team, that includes verifying that sensitive data is
+  protected and the action actually completes. An
+  understanding of durable and fault-tolerant systems is key.
+
+  In this role, you will
+
+  - Build PII handling and redaction systems that identify and
+    protect sensitive information across conversations, agent
+    traces, and other customer data
+  - Design configuration abstractions for redaction and
+    retention policies that balance enterprise flexibility
+    with clear, safe defaults
+  - Build reliable data deletion workflows that propagate across
+    storage systems and derived data, with retries,
+    verification, and visibility into failures
+  - Build self-serve tools and APIs that let customers
+    configure, test, and understand their data lifecycle
+    policies without relying on an engineer
+  - Build LLM-backed systems that scan and detect data anomalies
+    and violations
+  - Train and/or tune models for detecting data of various forms
+    (including PII and PHI)
+  - Extend redaction and identification to multimodal agents,
+    including images, attachments, voice notes, and documents.
+  - Build monitoring and auditability that make it clear what
+    data was processed, what remains, and where a policy has
+    failed—without exposing sensitive information in the
+    process
+  - Handle data lifecycle systems at scale, including backfills,
+    partial failures, and safe rollouts; your work will touch
+    critical flows for Fortune 100 companies
+
+  Your background and skillset look something like this
+
+  - 4+ years building software products, with strong product
+    thinking
+  - Proficient in Python, comfortable working across the entire
+    stack
+  - Experience designing reliable backend systems and data
+    pipelines, including asynchronous processing, retries, and
+    failure recovery
+  - Understanding of what operational maturity looks like for
+    critical systems, including observability and monitoring
+  - Complex systems instincts: you can reason about where data
+    flows, where copies persist, and what happens when one
+    part of a workflow fails
+  - A high degree of comfort debugging system failures in deep
+    technology stacks, using whatever tool gets you to the
+    answer
+  - Judgment about when to ship fast and when correctness,
+    privacy, and irreversible operations require slowing down
+
+  Even better
+
+  - Experience with PII detection, redaction, tokenization, or
+    secure handling of sensitive data
+  - Experience building data retention, deletion, or privacy
+    request workflows across multiple storage systems
+  - Experience building security-sensitive product systems, such
+    as authentication, authorization, and data access controls
+  - Familiarity with privacy and compliance requirements such as
+    GDPR, CCPA, or PCI, and translating them into engineering
+    controls
+  - Background with LLMs, evals, or AI agent systems, especially
+    handling sensitive data in model inputs, outputs, and
+    traces
+  - Experience with observability, audit trails, or operational
+    tooling for large-scale data systems
+  - Work with sensitive data in voice, images, or other non-text
+    formats
+
+  Compensation
+
+  $200K – $400K + Offers Equity
+
+  This range reflects the expected compensation for this role.
+  Compensation within the range is determined based on
+  experience, skills, and the scope of responsibilities, with
+  flexibility for candidates who demonstrate exceptional
+  impact.
+
+  In addition to base salary, we offer competitive equity.
+  Final compensation may vary based on location within the
+  United States.
+
+  Benefits
+
+  We proudly offer the following benefits for our full-time
+  employees:
+
+  - Medical, Dental, and Vision benefits for you and your family
+  - Life Insurance and Disability Benefits
+  - Retirement Plan (e.g., 401K, pension)
+  - Parental Leave
+  - Fertility and family building benefits through Carrot
+  - Monthly stipend to support your wellness, lifestyle, and
+    work-life balance
+  - Daily lunches and snacks in the office to keep you at your
+    best
+  - Take what you need vacation policy (subject to local
+    requirements; UK employees receive 25 days of statutory
+    leave)
+
+  Decagon offers a competitive benefits package that varies by
+  country and complements local statutory benefits. Details
+  for this location will be provided during the recruitment
+  process.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-28
+url: "https://builtin.com/job/senior-staff-software-engineer-data-lifecycle/11946815"
+source: Built In

@@ -1,0 +1,175 @@
+job_id: 11975158
+title: Senior Full Stack Engineer
+company: Knit
+location: New York, USA
+work_type: FULL_TIME
+company_size: 75 Employees
+description: |
+  A little about us…
+
+  Knit is the AI-native research agency. We help the world's
+  most iconic brands make confident decisions through deep
+  customer understanding. Knit pairs our AI-native tooling
+  with world-class researchers to run quant and qual at scale
+  - delivering executive, decision-ready insights to inform
+  billion dollar decisions. Teams at Amazon, Mars, T-Mobile,
+  Paramount, McCormick, Nestle, Medtronic and 100+ others
+  trust Knit to bring real customer voices into their biggest
+  decisions.
+
+  Knit recently closed its Series B, raising $60M+ to date.
+  Our team of ~80 is US remote friendly, with headquarters in
+  our NYC midtown office. Our team is built with operating
+  talent from Kantar, Ipsos, Doordash, Square, Hatch, and
+  unicorn startups.
+
+  Come build with us!
+
+  Overview
+
+  We’re continuing to build out our NYC engineering team and
+  are looking for exceptional builders who are resourceful,
+  deeply technical, and thrive in high-ownership environments.
+
+  As an early member of the team, you’ll play a key role in
+  shaping the core of our platform and contributing to a team
+  that will scale to 20+ engineers over the next 18 months.
+  You’ll build and orchestrate AI agents, explore new UX
+  paradigms, and work on some of the hardest problems in
+  applied AI with meaningful ownership across the stack.
+
+  Responsibilities | What you will own...
+
+  Primary responsibilities of this role:
+
+  - Own 0→1 and 1→N features across the stack, from design docs
+    to building high-throughput data pipelines and scalable
+    FastAPI services.
+  - Architect and own the core agent orchestration engine,
+    designing complex, multi‑agent LLM workflows (routing,
+    tool‑use, memory, evaluation) with deterministic
+    fallbacks, guardrails, and auditable actions required by
+    enterprise users.
+  - Build AI‑native, human‑in‑the‑loop UIs. Craft React/Next.js
+    interfaces that let users collaborate safely with agents,
+    with transparency and explainability by design.
+  - Develop the "factory for the factory". Build our
+    experimentation platform: CI/CD for prompts and agents,
+    offline/online evals, drift detection, safety layers, and
+    rollout controls.
+  - Ship fast, safely. You’ll instrument everything for
+    reliability, write concise design docs, add robust tests,
+    and build dashboards and alerts for features you launch.
+  - Partner cross‑functionally with Product, AI, Design, CS;
+    talk to customers and SMEs, and turn ambiguous problems
+    into shipped product.
+  - Obsess over performance, optimizing for latency across the
+    system: caching, model selection, distillation, batching,
+    vector search, and infrastructure efficiency (GPU/CPU).
+  - Operate what you build. This includes on‑call ownership,
+    leading incident response, and driving learning through
+    blameless postmortems.
+
+  This role is for you if...
+
+  - You’re a 0 → 1 builder who thrives in ambiguity and has
+    shipped products from scratch at a startup or in a hyper-
+    growth phase. You've seen both - early-stage hustle and
+    later-stage scale and know how to build for it.
+  - You’re a systems thinker with deep technical chops: you
+    design clear architectures and write clean, tested Python
+    and TypeScript.
+  - You think like an owner: you spot problems, propose
+    solutions, and build them without waiting for perfect
+    specs. Your impact is measured in business outcomes.
+  - You use AI as leverage. Tools like Cursor, Copilot, or
+    Claude Code are integral to your workflow, helping you
+    ship faster while maintaining a high standard for
+    correctness.
+  - You believe speed and quality aren’t opposites and can
+    articulate the tradeoffs you make.
+  - You communicate crisply. You share your ideas effectively
+    and thrive in tight feedback loops with product, design,
+    and customers.
+  - You’ve got grit: hard problems energize you, context
+    switching doesn’t scare you, and you’re comfortable
+    deleting code.
+
+  Our Stack
+
+  - Frontend: React, TypeScript, Tailwind, Tiptap/Yjs (real-time
+    collaboration)
+  - Backend: Python, FastAPI, Node.js
+  - AI: LangGraph, LiteLLM (Anthropic, OpenAI, Gemini),
+    CopilotKit, Langfuse
+  - Data: Postgres (Supabase), pgvector, S3
+  - Infra: Fly.io, AWS (CloudFront, Lambda), Docker; CI/CD with
+    GitHub Actions
+  - Workflows: Temporal; event-driven pipelines
+
+  Required Skills & Experiences
+
+  The successful candidate will be a high-ownership, product-
+  minded engineer who combines strong full-stack fundamentals
+  with experience building AI-native systems, capable of
+  turning ambiguous problems into scalable, reliable features
+  that drive real business impact.
+
+  Required:
+
+  - Experience with LLM/agent systems, evals, and prompt
+    tooling; RAG, embeddings, vector dbs.
+  - Deep knowledge of event‑driven systems, streaming, and
+    workflow engines.
+  - Expertise in observability
+    (OpenTelemetry/Prometheus/Datadog), feature flagging, or
+    A/B platforms.
+  - Background in enterprise security and compliance (SOC 2,
+    GDPR)
+  - Bias to action: short specs, small PRs, daily deploys.
+  - In-person collaboration: we’re building the NYC hub
+    together; whiteboards > long threads.
+  - High ownership: you’ll touch product, talk to customers, and
+    influence the roadmap.
+
+  Benefits
+
+  Upon joining the Knit team, you will receive a competitive
+  salary + commission plan if applicable to role, Equity
+  Options, Healthcare (medical, dental, and vision), and
+  Additional Coverage, a company laptop and one-time,
+  onboarding Technology Stipend, a 401(k) with company match,
+  flexible time-off, hybrid working, and more!
+
+  Salary
+
+  In accordance with New York pay transparency requirements,
+  the salary range for this role is $200,000 - $275,000. Final
+  compensation will be determined based on the candidate’s
+  level, experience, and qualifications upon joining Knit.
+
+  Our Company Values
+
+  We are the Championship Team. This means we:
+
+  - Are 1% better every day: We approach situations with a
+    growth mindset and ask, “How can we make the business
+    better?” and “What would it take?”
+  - Play to win: We set audacious goals and push ourselves to
+    achieve them with a bias towards action  (When we see a
+    need, we take initiative, and hold ourselves accountable
+    to seeing it through).
+  - Keep the main thing the main thing: Identify what has the
+    biggest impact and prioritize to focus on it.
+
+  Knit Privacy Policy here.
+
+  CCPA disclosure here.
+industries:
+  - Artificial Intelligence
+  - Marketing Tech
+  - Software
+  - Analytics
+posted_date: 2026-10-29
+url: "https://builtin.com/job/senior-full-stack-engineer/11975158"
+source: Built In

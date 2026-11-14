@@ -1,0 +1,104 @@
+job_id: 12148254
+title: Founding Robotics Software Engineer
+company: Momentum Research Labs, Inc.
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 5 Employees
+description: |
+  Robotics is finally leaving the lab. At Momentum Research
+  Labs, we are building the systems that turn promising models
+  into capable machines in the real world. Our first product
+  is a world-model based simulator for training and evaluating
+  robot policies.
+
+  As a Founding Robotics Software Engineer, you will own the
+  entire robotics software stack: controls, the robots we
+  test, teleoperation, data collection, and the systems that
+  connect learned policies to real hardware. You will build
+  the infrastructure and tools that let us move quickly from
+  an idea to a robot doing useful work.
+
+  This is an unusually broad, high-impact technical role for
+  someone who wants to build, ship, and learn quickly at the
+  frontier of physical AI. You will move fluidly between
+  software, hardware deployment and testing, training and
+  modeling infrastructure, and customer collaboration. If you
+  are energized by hard technical problems, high ownership,
+  and seeing your work operate beyond a screen, we would love
+  to talk.
+
+  What You Will Do
+
+  • Own the robotics software stack end to end, from controls
+  and hardware interfaces to teleoperation, robot testing, and
+  deployment tooling.
+
+  • Build the systems that connect learned policies to real
+  robots, and make them reliable enough to use in the physical
+  world.
+
+  • Design and operate the teleoperation and data-collection
+  workflows that produce the demonstrations our world models
+  learn from.
+
+  • Build and evolve the data pipelines that power ingestion,
+  training, and inference—from raw robot data to models
+  running in the loop.
+
+  • Design and execute hardware evaluations that measure our
+  world models where they matter: on real robots.
+
+  • Work directly with customers to deploy, understand, and
+  scale their robots in the real world.
+
+  • Help define the technical foundation of a founding team
+  working across robotics, machine learning, and production
+  systems.
+
+  Who You Are
+
+  You have built and shipped in at least several of the
+  following areas:
+
+  • End-to-end robotics software, including controls, hardware
+  integration, or systems that operate real robots.
+
+  • Large-scale model training and serving infrastructure.
+
+  • Training & integration of learned policies with real
+  hardware, including VLAs, diffusion policies, or world
+  models.
+
+  • Teleoperation or demonstration-data collection systems.
+
+  • Robots deployed outside the lab and into the real world.
+
+  You are comfortable taking ambiguous, cross-functional
+  problems from first principles to reliable systems. You care
+  about the details, work well across software and hardware,
+  and want your technical decisions to show up in a robot’s
+  behavior—not just a benchmark. You thrive with a broad
+  mandate, move quickly without being micromanaged, and are
+  excited to have an outsized impact early.
+
+  About Us
+
+  Our north star is simple: more robots deployed in the real
+  world. We are assembling a small, exceptional team to solve
+  the unglamorous, difficult, and deeply consequential work
+  required to get there. If you want to help build the bridge
+  between breakthrough models and useful robots, join us.
+
+  Compensation
+
+  The base pay range for this role is $175,000 – $250,000 per
+  year.
+industries:
+  - Industrial
+  - Manufacturing
+posted_date: 2026-11-10
+url: "https://builtin.com/job/founding-robotics-software-engineer/12148254"
+source: Built In

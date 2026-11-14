@@ -1,0 +1,138 @@
+job_id: 9386891
+title: Staff Software Engineer - Data Infrastructure
+company: Praia Health
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 29 Employees
+description: |
+  Praia Health is a trailblazer in the health platform sector,
+  committed to transforming the consumer health experience.
+  Our mission is to revolutionize the way individuals engage
+  with their health and well-being through cutting-edge
+  technologies and user-centric digital solutions. By unifying
+  disjointed touchpoints into an intuitive channel, we create
+  trust and loyalty through digital engagement and believe
+  that consumers and patients will more actively participate
+  in their health outcomes.
+
+
+
+  At Praia Health, you will join a team of seasoned
+  professionals and technology enthusiasts dedicated to
+  reshaping healthcare. Our dynamic includes:
+
+  - Leadership with a rich background in technology and
+    healthcare innovation.
+  - Small and nimble teams that deliver real world benefits to
+    our clients at scale.
+  - A culture that values bold ideas, user-centric design, and
+    the power of technology to improve lives.
+
+
+
+  As we continue to grow and capture the market with our
+  cutting-edge platform, we are expanding our team across
+  various departments, including engineering, to further our
+  mission and impact.
+
+  Job Overview
+
+  Praia is seeking a Staff Software Engineer to serve as a
+  technical anchor and architect for our core consumer
+  experience platform. In this role, you will establish deep,
+  end-to-end architectural ownership of our platform, spanning
+  high-performance Java services, Databricks ETL pipelines,
+  and enterprise grade healthcare integrations.
+
+  This is a staff level scope where you will partner closely
+  with engineering leadership to advocate for industry best
+  practices, mentor engineering teams, and ensure the delivery
+  of secure, well-documented APIs used by internal teams and
+  external health system partners. If you thrive on bridging
+  complex data engineering workloads with secure, scalable
+  interoperability, in a dynamic environment, we want to hear
+  from you.
+
+  Key Responsibilities
+
+  - Architecture & System Design: Build and scale foundational
+    platform services powering Praia’s consumer experience
+    products. Lead code and design reviews, establishing
+    technical direction and mentoring other engineers.
+  - Healthcare Interoperability: Build and operate enterprise
+    integration services for EMRs (Epic/MyChart and others)
+    using HL7 FHIR APIs and related modern integration
+    patterns.
+  - Data Engineering Workloads: Utilize Databricks and Apache
+    Spark for complex data engineering workloads (pipelines,
+    workflows, notebooks) to support product and integration
+    use cases.
+  - Security & API Excellence: Develop and own secure APIs with
+    strong authentication/authorization, auditing, and least
+    privilege principles. Produce and maintain high quality
+    developer documentation (integration guides, runbooks).
+  - DevOps & Operational Readiness: Build with a modern DevOps
+    mindset, owning CI/CD pipelines, automated testing
+    (unit/integration), infrastructure-as-code,
+    monitoring/logging, and data-driven incident response.
+  - Cross-Functional Collaboration: Partner directly with
+    Product, Design, and Customer-facing teams to translate
+    complex business requirements into highly reliable
+    technical solutions.
+
+  Qualifications
+
+  - Experience: 8+ years of experience building and operating
+    production software, with demonstrated staff- or senior-
+    level scope and clear ownership of complex, distributed
+    systems.
+  - Core Tech Stack: Strong programming skills in Java, Python,
+    and Spark. Hands-on experience with Databricks (jobs,
+    Delta Lake) and comfort partnering closely with data
+    teams.
+  - Healthcare Domain: Direct experience integrating with
+    EMR/EHR systems and healthcare interoperability standards;
+    practical experience with FHIR APIs is required.
+  - Cloud & Infrastructure: Experience designing and delivering
+    cloud-native services (AWS/Azure/GCP), including
+    Kubernetes and Terraform-based deployments. Comfortable
+    owning release and operational processes via CI/CD.
+  - Security First: Deep knowledge of OAuth2/OIDC and API
+    security patterns (mTLS, JWT, secrets management, least
+    privilege) alongside secure SDLC practices.
+  - Observability: Experience with modern observability tools
+    (logging, metrics, tracing, APM) and a disciplined
+    approach to incident response.
+  - Communication: Exceptional written and verbal communication
+    skills; proven ability to write clear technical design
+    documents and present architecture to senior stakeholders.
+  - Education: Bachelor’s degree in CS/Engineering, or
+    equivalent practical experience.
+
+  Location & Work Authorization Requirements
+
+  - Geographic Restriction: Candidates must permanently reside
+    in either the United States or Canada; no other locations
+    will be considered at this time.
+  - Work Authorization: Applicants must be currently authorized
+    to work in the United States or Canada on a full-time
+    basis. The company does not sponsor applicants for work
+    visas (e.g., H-1B, TN, etc.) at this time.
+
+  Benefits
+
+  - Competitive salary and performance-based bonuses.
+  - Full medical, dental, and vision benefits.
+  - Company paid life insurance, company paid short-term & long-
+    term disability.
+  - 401K or RRSP savings plans with company matching.
+  - A supportive and inclusive work environment.
+  - Employee wellness programs and resources.
+  - Flexible PTO.
+posted_date: 2026-06-10
+url: "https://builtin.com/job/staff-software-engineer-data-infrastructure/9386891"
+source: Built In

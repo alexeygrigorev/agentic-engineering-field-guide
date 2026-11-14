@@ -1,0 +1,153 @@
+job_id: 9945758
+title: "Senior Software Engineer, Ontology & Reasoning Systems (819)"
+company: Protegrity
+location: New York, USA
+work_type: FULL_TIME
+company_size: 372 Employees
+description: |
+  At Protegrity, we lead innovation by using AI and quantum-
+  resistant cryptography to transform data protection across
+  cloud-native, hybrid, on-premises, and open source
+  environments. We leverage advanced cryptographic methods
+  such as tokenization, format-preserving encryption, and
+  quantum-resilient techniques to protect sensitive data. As a
+  global leader in data security, our mission is to ensure
+  that data isn’t just valuable but also usable, trusted, and
+  safe.
+
+  Protegrity offers the opportunity to work at the
+  intersection of innovation and collaboration, with the
+  ability to make a meaningful impact on the industry while
+  working alongside some of the brightest minds. Together, we
+  are redefining how the world safeguards data, enabling
+  organizations to thrive in a GenAI era where data is the
+  ultimate currency. If you're ready to shape the future of
+  data security, Protegrity is the place for you.
+
+  Role Overview
+
+  Protegrity is seeking a Senior Software Engineer, Ontology &
+  Reasoning Systems to design and build the ontology and
+  reasoning layer that connects structured sources, semi-
+  structured metadata, and unstructured documents into a model
+  that supports deterministic machine reasoning.
+
+  In this role, you will formalize complex domains into
+  entities, relationships, constraints, and rules that allow
+  the system to derive conclusions from underlying facts. A
+  key focus will be making those conclusions explainable and
+  traceable, with clear derivation paths back to the source
+  data and logic that produced them.
+
+  LLMs play an important role at the ingestion boundary,
+  supporting extraction, normalization, and categorization of
+  information from unstructured or ambiguous inputs. The
+  reasoning layer itself must remain deterministic, auditable,
+  and explainable, with appropriate checks on model-generated
+  outputs before they are used as trusted facts.
+
+  You will work closely with product and research teams to
+  define formal models, improve reasoning quality, and build
+  systems that support accurate, reviewable outputs. This role
+  is well suited for someone with a strong foundation in
+  logic, graph-based systems, formal modeling, and production-
+  grade software engineering.
+
+  What You’ll Do
+
+  - Own the ontology and rule layer that unifies structured,
+    semi-structured, and unstructured enterprise data into a
+    single reasoning model.
+  - Model entities, relationships, events, and constraints
+    across heterogeneous sources, and develop rules that
+    derive conclusions from combinations of facts.
+  - Use LLMs at the ingestion boundary for extraction,
+    normalization, and categorization, with appropriate
+    validation of model-generated outputs.
+  - Make system findings traceable by connecting each conclusion
+    to the source facts and rules that produced it.
+  - Build retrieval capabilities, including vector search,
+    keyword search, and graph traversal, to support reasoning
+    workflows.
+  - Improve quality through entity resolution, constraint
+    modeling, and structured handling of conflicting or
+    overlapping sources.
+  - Ship production services and research prototypes with a
+    focus on correctness, reliability, and maintainability.
+
+  What You’ll Need
+
+  - 5+ years of experience building backend systems in a modern
+    language such as Python, Go, Java, Scala, Rust, or
+    similar, or equivalent practical experience.
+  - A strong formal and mathematical foundation, including
+    discrete mathematics, logic, and graph theory.
+  - The ability to reason about soundness, completeness, and
+    tractability, and to express complex domains as formal
+    rules and constraints.
+  - Hands-on experience with declarative, logic-based, or rule-
+    based reasoning systems such as Datalog, Answer Set
+    Programming, constraint logic programming, Prolog,
+    production rule engines, SMT solvers, or similar.
+  - Practical experience building LLM-powered systems, including
+    structured extraction, RAG, or classification pipelines,
+    with sound judgment about where model outputs require
+    validation.
+  - Deep experience with knowledge graphs and graph data,
+    including RDF, SPARQL, property graphs, or graph databases
+    such as Neo4j.
+  - Experience designing systems whose outputs trace back to
+    their inputs, including provenance, derivation chains, or
+    evidence trails.
+  - Strong debugging, testing, and validation practices, with
+    attention to correctness.
+
+  Nice to have
+
+  - Experience with constraint satisfaction or deductive
+    reasoning, including CSP, unification, fixpoint or closure
+    computation, or constraint propagation.
+  - Experience with formal ontology and semantics, including
+    OWL, SHACL, description logics, or reasoners.
+  - Experience with LLM evaluation, entity resolution, citation
+    validation, or hallucination reduction.
+  - Experience with symbolic computation, theorem proving, model
+    checking, or formal verification.
+
+  Should you accept this position, you will be required to
+  consent to and successfully complete a background
+  investigation. This may include, subject to local laws,
+  verification of extended education and additional criminal
+  and civil checks.
+
+
+
+  We offer a competitive salary and comprehensive benefits
+  with generous vacation and holiday time off. All employees
+  are also provided access to ongoing learning & development.
+
+
+
+  Ensuring a diverse and inclusive workplace is our priority.
+  We are committed to an environment of acceptance where you
+  are free to bring your full self to work. All qualified
+  applicants and current employees will not be discriminated
+  against on the basis of race, color, religion, sex, sexual
+  orientation, gender identity, age, national origin,
+  disability or veteran status.
+
+
+
+  Please reference Section 12: Supplemental Notice for Job
+  Applicants in our Privacy Policy to inform you of the
+  categories of personal information that we collect from
+  individuals who inquire about and/or apply to work for
+  Protegrity USA, Inc., or its parent company, subsidiaries or
+  affiliates, and the purposes for which we use such personal
+  information.
+industries:
+  - Information Technology
+  - Security
+posted_date: 2026-10-14
+url: "https://builtin.com/job/senior-software-engineer-ontology-reasoning-systems-819/9945758"
+source: Built In

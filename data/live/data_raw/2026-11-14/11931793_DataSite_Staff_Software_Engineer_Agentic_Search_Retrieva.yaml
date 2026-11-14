@@ -1,0 +1,133 @@
+job_id: 11931793
+title: "Staff Software Engineer, Agentic Search & Retrieval"
+company: DataSite
+location: Grata, ITA
+locations:
+  - Grata, ITA
+  - New York, USA
+  - Minneapolis, USA
+work_type: FULL_TIME
+company_size: 821 Employees
+description: |
+  About us
+
+  Datasite is the essential infrastructure for M&A. Also
+  comprising Grata, Blueflame AI, and Sherpany, we help
+  dealbreakers find opportunities, manage transactions, and
+  make key decisions.
+
+  Whatever your talents, you can find a place for them here.
+  Get involved in some of the biggest business ventures today.
+  Work with other gifted people around the world. Follow your
+  ambitions, or discover a whole new path.
+
+
+
+  Can you help us simplify the complex, create great
+  experiences, and deliver better outcomes? Then let's talk.
+
+  Job Description:
+
+  Why Engineering at Datasite
+
+
+
+  Datasite's engineering organization builds the software the
+  world's dealmakers depend on to find, evaluate, negotiate,
+  and close transactions: secure virtual data rooms, AI-
+  assisted diligence, deal sourcing, and private-company
+  intelligence.
+
+  We’re looking for hands-on Staff Software Engineer to own
+  the context AI agents use on live deals. A wrong passage, a
+  stale document, or a missed permission becomes a wrong
+  answer in a high-stakes workflow. You will build the
+  retrieval layer that makes agent answers grounded, current,
+  and secure. You will work in Python and partner closely with
+  Product and Data Science. You will stay hands-on on the
+  decisions that change what an agent can know.
+
+  Location: We are hiring in New York City and Minneapolis.
+  Datasite is a hybrid company, with in-office collaboration
+  on Mondays, Tuesdays, and Thursdays.
+
+  What You Will Do
+
+  - Own retrieval for agents that work on live deals. Ground
+    each answer in the right documents and data, and set the
+    balance of quality, speed, and cost.
+  - Scale how the platform processes large documents and data
+    tables, so an agent can still find and reason over content
+    that does not fit in one pass.
+  - Shape the context agents depend on and evolve it as deal
+    workflows get longer and more complex.
+  - Build the search tools agents call. Cover content that is
+    indexed and content that is not indexed yet. Return the
+    snippet, citation, and location a dealmaker can trust.
+  - Keep agent context aligned with the data room and with
+    whoever may see each item. An agent must not read content
+    the user cannot read.
+  - Decide when a model may answer from retrieved context and
+    when the product must check the result.
+  - Mentor engineers and set technical direction for retrieval
+    across teams.
+
+
+
+  What You Bring
+
+  - 6+ years of building and operating production software, with
+    a record of leading complex technical work across teams.
+  - Strong hands-on Python, with experience in backend services,
+    APIs, and large-scale data pipelines.
+  - Experience with production LLM applications that depend on
+    retrieval: tool calling, RAG, embeddings, vector search,
+    or context management.
+  - Strong foundations in permissions, multi-tenant data, and
+    access control on what an agent can retrieve.
+  - Clear product and technical judgment. You can balance answer
+    quality, latency, and cost, and explain the tradeoffs to
+    engineering and product leaders.
+
+
+
+  Nice to Have
+
+  - Long-running agent workflows that search or read documents.
+  - A vector store at production scale.
+  - Processing of large confidential documents and data tables.
+  - Hybrid search, citations, and evaluation of retrieval
+    quality.
+  - Virtual data rooms, M&A documents, or similar document-heavy
+    work.
+  - Tool interfaces that expose search to an agent.
+
+  The base salary range represents the estimated low and high
+  end for this position based on a good faith assessment of
+  the role and market data at the time of posting. Consistent
+  with applicable law, each candidate’s compensation offer may
+  vary and will be determined based on but not limited to,
+  your geographic region, skills, qualifications, and
+  experience along with the requirements of the position. This
+  position may be eligible for bonuses, commissions, or
+  overtime if applicable. Benefits include health insurance
+  (medical, dental, vision), a retirement savings plan, paid
+  time off, and other employee benefits. Specific details will
+  be provided during the interview process. Datasite reserves
+  the right to modify this pay range at any time.
+
+  $170,000.00 - $297,200.00
+
+  Our company is committed to fostering a diverse and
+  inclusive workforce where all individuals are respected and
+  valued. We are an equal opportunity employer and make all
+  employment decisions without regard to race, color,
+  religion, sex, gender identity, sexual orientation, age,
+  national origin, disability, protected veteran status, or
+  any other protected characteristic. We encourage
+  applications from candidates of all backgrounds and are
+  dedicated to building teams that reflect the diversity of
+  our communities.
+posted_date: 2026-10-28
+url: "https://builtin.com/job/staff-software-engineer-agentic-search-retrieval/11931793"
+source: Built In

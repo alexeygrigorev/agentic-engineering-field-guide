@@ -1,0 +1,156 @@
+job_id: 11029602
+title: Backend Engineer — Data Pipeline
+company: Sunset
+location: New York, USA
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  About Replay
+
+  We are building the first-ever bank for enterprise data.
+  There are over 35 million businesses in the US alone, many
+  of which are sitting on an asset they don’t know they have.
+  At Replay, we help businesses monetize their historical
+  operating data by licensing it to the frontier AI and data
+  labs for model training. Replay sits at the intersection of
+  advancing the frontier of AI, while helping companies
+  generate millions in growth capital without having to give
+  up equity, take on debt, or lay off employees.
+
+  Why Join Replay Now
+
+  - We have scaled from $0 to a multi-eight-figure run rate in a
+    matter of months
+  - We have raised from top-tier investors, including Floodgate,
+    Afore, Ludlow, and Hustle Fund
+  - We are small enough that you will carry outsized
+    responsibility and grow as quickly as the company does
+  - You will partner with and build for some of the fastest and
+    most important companies in the world
+  - You will help build a massive, category-defining business
+    from the ground floor
+
+  The Role
+
+  We're hiring a backend engineer to make the pipeline that
+  de-identifies sensitive enterprise data correct, replayable,
+  operable, and safe to change.
+
+  This is not a conventional data-platform role where a
+  successful job is enough. A pipeline can finish while
+  silently dropping records, duplicating output, applying
+  stale policy, losing lineage, or producing evidence that
+  cannot establish whether a dataset is safe to release. You
+  will own the backend systems and contracts that make those
+  failure modes visible, preventable, and recoverable.
+
+  You will work across asynchronous orchestration, batch
+  workers, queues, object storage, databases, many file
+  formats, model-backed stages, deterministic verification,
+  and human review. The role is backend-focused, but the
+  outcome is a product and delivery promise: the team must
+  know what ran, what changed, what remains uncertain, and
+  what can safely happen next.
+
+  What You'll Own
+
+  - Design and ship backend systems for multi-stage, high-volume
+    data processing
+  - Define authoritative, versioned contracts for manifests,
+    artifacts, lineage, and state transitions
+  - Make retries, checkpoints, partial failures, replay,
+    backfills, migrations, and rollbacks safe and
+    understandable
+  - Build independent reconciliation and verification instead of
+    treating job success as proof of correct output
+  - Turn escaped and recurring failures into fixtures,
+    regression coverage, release gates, and durable recovery
+    paths
+  - Expose trustworthy run state and safe controls to the
+    products people use to investigate and release data
+  - Diagnose production behavior across code, queues, stores,
+    artifacts, data formats, and deployed versions
+  - Improve correctness, throughput, and operating leverage
+    without weakening privacy, security, or release confidence
+  - Use AI deeply in development and in bounded verification
+    systems, with explicit evaluation and independent checks
+  - Partner with machine learning, applied science, full-stack
+    product, platform, security, and data engineering
+    teammates
+
+  What Success Looks Like
+
+  - A high-risk pipeline boundary has an explicit contract,
+    independent reconciliation, replayable coverage, and safe
+    recovery
+  - Missing, duplicated, stale, or incompatible work is detected
+    before it becomes a customer delivery
+  - Material pipeline state and release decisions are backed by
+    queryable provenance and audit evidence
+  - Recurring reruns, manual interventions, and diagnosis or
+    recovery time decline
+  - Adjacent engineers can add stages and checks through
+    supported patterns instead of one-off scripts and implicit
+    storage conventions
+  - Pipeline changes can be rolled out, backfilled, quarantined,
+    or reversed without delivery heroics
+
+  You Might Thrive Here If
+
+  - You have at least three years of professional software
+    engineering experience, including personal ownership of
+    production backend systems
+  - You are strong in asynchronous or distributed systems and
+    can reason precisely about queues, concurrency, state,
+    storage, idempotency, partial failure, and recovery
+  - You have worked on systems where output could be materially
+    wrong even when every service looked healthy
+  - You define invariants and use reconciliation, control
+    totals, diffs, replay, goldens, shadow paths, or
+    independent sources to verify correctness
+  - You can design versioned data and artifact contracts and
+    migrate them safely in a live system
+  - You debug from evidence across system boundaries and turn
+    incidents into durable system improvements
+  - You choose technical work based on operator and customer
+    consequences, not architecture in isolation
+  - You use modern AI engineering tools fluently, verify their
+    output, and know when model-backed checks need
+    deterministic guardrails and human review
+  - You communicate clearly across product, ML, data, platform,
+    security, and customer-facing teams
+
+  This Role May Not Be for You If
+
+  - You want to focus primarily on frontend product development
+    or visual craft
+  - You treat pipeline success, uptime, latency, or a green
+    dashboard as sufficient evidence that the output is
+    correct
+  - You prefer isolated infrastructure work without
+    responsibility for data and delivery consequences
+  - You solve partial failure primarily with retries and manual
+    runbooks
+  - You do not want AI tools to be part of your daily
+    engineering workflow
+
+  Bonus
+
+  - Experience with large-scale batch processing, workflow
+    orchestration, event-driven systems, or data movement
+  - Experience with schema evolution, manifests, lineage, CDC,
+    migrations, reindexing, or backfills
+  - Experience in payments, ledgers, reconciliation, claims,
+    fraud, identity, search quality, observability, or another
+    domain with delayed or weak ground truth
+  - Experience with sensitive or multi-tenant data, least-
+    privilege systems, auditability, quarantine, and fail-
+    closed release paths
+  - Experience combining deterministic checks, synthetic
+    fixtures, offline replay, model-based judges, and human
+    review
+  - Experience with Python, AWS, Airflow, Batch, SQS, S3,
+    DynamoDB, PostgreSQL, or comparable systems
+posted_date: 2026-09-04
+url: "https://builtin.com/job/backend-engineer-data-pipeline/11029602"
+source: Built In

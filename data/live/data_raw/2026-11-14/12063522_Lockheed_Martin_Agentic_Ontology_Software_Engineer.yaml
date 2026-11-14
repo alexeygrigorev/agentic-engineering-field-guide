@@ -1,0 +1,242 @@
+job_id: 12063522
+title: Agentic Ontology Software Engineer
+company: Lockheed Martin
+location: VAT
+locations:
+  - VAT
+  - MAC
+  - USA
+  - Eliot, USA
+  - Bryan, USA
+  - Omaha, USA
+  - Cicero, USA
+  - Sandusky, USA
+  - Joes, USA
+  - Denver, USA
+  - Pueblo, USA
+  - Wichita, USA
+  - Orlando, USA
+  - Lebanon, USA
+  - Roseburg, USA
+  - Four Mile, USA
+  - Fresno, USA
+  - Golden, USA
+  - Newport, USA
+  - Three Oaks, USA
+  - Viola, USA
+  - Detroit, USA
+  - Syracuse, USA
+  - Township 3, USA
+  - Los Angeles, USA
+  - Key West, USA
+  - Valdosta, USA
+  - Chongqing, CHN
+  - Hamburg, USA
+  - New York, USA
+  - Threeway, USA
+  - Arlington, USA
+  - Maysville, USA
+  - St. Joseph, USA
+  - Three Creek, USA
+  - Nashville, USA
+  - Vancouver, USA
+  - Two Rivers, USA
+  - Two Buttes, USA
+  - One Suerte, USA
+  - Lawrenceville, USA
+  - Germantown, USA
+  - Baton Rouge, USA
+  - Presque Isle, USA
+  - Four Corners, USA
+  - Sierra Vista, USA
+  - Worcester, USA
+  - Old Harbor, USA
+  - Pittsfield, USA
+  - Charleston, USA
+  - New Orleans, USA
+  - Sioux Falls, USA
+  - Grand Rapids, USA
+  - San Francisco, USA
+  - Fredericksburg, USA
+  - 1 MD, IND
+  - Three Rivers, USA
+  - 3 A, IND
+  - Three-Way Corner, USA
+  - Four Mile Prairie, USA
+  - MEX
+  - Four County Farm, USA
+  - ‘Alae Three-Four, USA
+  - Murray, USA
+  - Washington, USA
+  - Peace River, CAN
+  - 2 H I, IND
+  - Onema, COD
+  - Nagar, IND
+  - Two Bridges, DEU
+remote: true
+work_type: FULL_TIME
+company_size: 108,588 Employees
+description: |
+  Standard Job Description
+
+  Join our team as a Senior AI Engineer focused on ontologies,
+  knowledge graphs, and production AI systems.
+
+  You will turn complex enterprise data into trusted knowledge
+  that AI applications can understand and use. You will work
+  directly with users, domain experts, data owners, and
+  platform teams.
+
+  This role uses a forward-deployed engineering model. You
+  will identify user problems, build solutions, deploy them,
+  and improve them through direct feedback.
+
+  You will own work from early discovery through production
+  support. You must be comfortable with unclear requirements,
+  unfamiliar data, and complex system constraints.
+
+  Responsibilities include:
+
+  - Work with users and domain experts to define problems,
+    outcomes, and technical requirements.
+  - Convert enterprise concepts and source metadata into clear
+    ontologies and semantic models.
+  - Design knowledge graphs that connect business meaning to
+    source data.
+  - Build AI agent workflows that create, evaluate, and improve
+    ontology artifacts.
+  - Develop evaluation methods for AI quality, source
+    traceability, query accuracy, and human review.
+  - Integrate relational databases, APIs, files, cloud
+    platforms, and enterprise data systems.
+  - Build production software across services, APIs, background
+    jobs, web applications, and graph query systems.
+  - Create tests and controls for AI output, ontology quality,
+    data mappings, and production behavior.
+  - Deploy software through automated pipelines, containers, and
+    cloud platforms.
+  - Observe production systems and resolve failures across
+    application, AI, data, and infrastructure components.
+  - Make clear tradeoffs among user value, technical quality,
+    security, schedule, and long-term support.
+  - Present technical decisions to engineering teams, domain
+    experts, and business leaders.
+  - Review designs and code, mentor other engineers, and improve
+    team engineering practices.
+  - Apply lessons from each user engagement to reusable platform
+    capabilities.
+
+  This position is for a senior individual contributor. The
+  engineer will lead technical work without requiring formal
+  personnel authority.
+
+  Basic Qualifications
+
+  - A bachelor’s degree in Computer Science, Engineering, Data
+    Science, Applied Mathematics, or a related STEM field,
+    with five years of relevant experience.
+  - A master’s degree with three years of relevant experience
+    can satisfy the education and experience requirement.
+  - Experience developing production software in Python,
+    including services, APIs, data pipelines, or distributed
+    applications.
+  - Experience building and deploying AI, machine learning, LLM,
+    or agent-based systems beyond an initial prototype.
+  - Experience designing ontologies or knowledge graphs with
+    RDF, OWL, and SPARQL.
+  - Experience working directly with users or domain experts to
+    convert unclear needs into deployed software.
+
+  Desired Skills
+
+  - Experience with SHACL, R2RML, ontology reasoning, ontology
+    governance, or competency-question evaluation.
+  - Experience with graph databases or virtual knowledge graph
+    platforms, such as Amazon Neptune or Ontop.
+  - Experience with AI agent frameworks and model platforms,
+    such as Strands Agents, AWS Bedrock, or Azure OpenAI.
+  - Experience evaluating LLM systems for accuracy,
+    traceability, safety, reliability, cost, and latency.
+  - Experience with Django, REST APIs, asynchronous Python,
+    Celery, PostgreSQL, or Redis.
+  - Experience with React, TypeScript, or full-stack application
+    development.
+  - Experience connecting SQL databases, REST APIs, OpenAPI
+    specifications, files, or Databricks.
+  - Experience with Docker, Kubernetes, OpenShift, Helm, and
+    CI/CD pipelines.
+  - Experience with production observability, structured logs,
+    metrics, tracing, and incident resolution.
+  - Experience applying security and access controls to
+    enterprise AI or data systems.
+  - Experience with ontology editors, semantic modeling tools,
+    or graph visualization tools.
+  - Experience mentoring engineers or leading technical work
+    across multiple teams.
+  - Experience delivering software in a customer environment
+    with changing requirements and limited information.
+
+  Pay Information
+
+  GeoZone Definition: GeoZones are geographic groupings
+  created by Lockheed Martin to align compensation ranges with
+  regional labor markets and cost-of-labor differences across
+  the United States. Locations are assigned a Geo Zone based
+  on the primary work location of the role.
+
+  - Full-time salary range (GEOZONE 1): $122600.00 - $227600.00
+    - Includes metropolitan areas such as Sunnyvale CA; Pal Alto,
+      CA; New York City metropolitan area; Newark, New Jersey;
+      etc.
+  - Full-time salary range (GEOZONE 2): $110300.00 - $204900.00
+    - Includes metropolitan areas such as Denver, CO; King of
+      Prussia, PA; Stratford, CT; Moorestown, NJ; etc.
+  - Full-time salary range (GEOZONE 3): $98100.00 - $182100.00
+    - Includes metropolitan areas such as Dallas–Fort Worth, TX;
+      Orlando, FL; Grand Prairie, TX; Marietta, GA; etc.
+  - Full-time salary range (GEOZONE 4): $88300.00 - $163900.00
+    - Includes metropolitan areas such as Camden, AR; Lexington,
+      KY; Lufkin, TX; etc.
+
+  At Lockheed Martin, we know mission success starts with
+  taking care of our people. Our Total Rewards program is
+  designed to attract top talent, support your well-being, and
+  help you grow—both professionally and personally.
+
+  The salary range for this position is as listed on the
+  requisition. Please note that the salary information listed
+  is a general guideline only.  Lockheed Martin considers
+  factors such as (but not limited to) scope and
+  responsibilities of the position, candidate's work
+  experience, education/ training, key skills as well as
+  market(work location) and business considerations when
+  extending an offer.
+
+  Benefits offered: Medical, Dental, Vision, Flexible work
+  arrangements and schedules (e.g., 4x10), 401(k) match, Paid
+  time off, Holidays, Parental Leave, EAP, Flexible Spending
+  Accounts, Education Assistance, Life Insurance, Short-Term
+  Disability, and Long-Term Disability.
+
+  - Annual short-term and/or long-term incentive compensation
+    programs may be offered depending on the position.
+    Payments under these annual programs are not guaranteed
+    and can vary from year to year and are tied to a range of
+    performance metrics.
+  - For (Washington state applicants only) Non-represented full-
+    time employees: accrue at least 10 hours per month of Paid
+    Time Off (PTO) to be used for incidental absences and
+    other reasons; receive at least 90 hours for holidays.
+    Represented full time employees accrue 6.67 hours of
+    Vacation per month; accrue up to 52 hours of sick leave
+    annually; receive at least 96 hours for holidays. PTO,
+    Vacation, sick leave, and holiday hours are prorated based
+    on start date during the calendar year.
+industries:
+  - Aerospace
+  - Security
+  - Cybersecurity
+  - Industrial
+posted_date: 2026-11-04
+url: "https://builtin.com/job/agentic-ontology-software-engineer/12063522"
+source: Built In

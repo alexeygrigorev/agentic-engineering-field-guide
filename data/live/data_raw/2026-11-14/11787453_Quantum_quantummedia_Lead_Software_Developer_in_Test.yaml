@@ -1,0 +1,140 @@
+job_id: 11787453
+title: Lead Software Developer in Test
+company: Quantum (quantum.media)
+location: London, GBR
+work_type: FULL_TIME
+company_size: 81 Employees
+description: |
+  Our Company At Quantum, we connect global brands with high-
+  intent consumers. We turn intent into action and complexity
+  into clarity.
+
+  Our Mission is clear, to help smarter, faster buying
+  decisions. Our vision, to be the world’s most used digital
+  comparison service, delivering value and simplicity to
+  millions.
+
+  We drive growth through data-driven affiliate marketing
+  built for performance from day one. Every campaign is
+  measurable, optimised in real time, and designed to scale.
+
+  With in-house tech, full-stack analytics, and a compliance-
+  first mindset, we give our partners an edge. We drive
+  confident decisions and growth in regulated and high-growth
+  sectors. We’ve helped ambitious brands grow faster, smarter,
+  and globally.
+
+  The role
+
+  Our in-house engineering team builds and runs every product
+  we operate. We work in two product teams, iGaming and
+  Rewards, supported by platform and infrastructure engineers.
+  We are partway through building a new version of our
+  platform, which makes this the right moment to put quality
+  engineering at the heart of how we deliver.
+
+  You will lead quality engineering across both product teams.
+  You will guide how we test, build the frameworks and
+  pipelines that make testing fast, and help every engineer
+  take ownership of the quality of their own work.
+
+  This is a hands-on technical role. Early on you will write a
+  lot of the framework code yourself. Over time your influence
+  will come through the tooling you build and the engineers
+  you coach.
+
+  What you'll do
+
+  - Define our test strategy: what we test at unit, integration,
+    contract and end-to-end level, so every team knows where a
+    given test belongs and why.
+  - Build and own our automation framework in Playwright and
+    TypeScript, covering web front ends and APIs across both
+    product teams.
+  - Make CI feedback fast and trustworthy.
+  - Bring our existing end-to-end suite to a healthy state and
+    keep it there as the new platform grows.
+  - Coach developers to write and own tests for their own code,
+    through pairing, code review and clear examples.
+  - Set up test data and environments that let teams test
+    realistically and safely.
+  - Introduce performance and load testing for our core
+    applications.
+  - Work with product managers so acceptance criteria are
+    testable before build starts, and so testing time is part
+    of every estimate.
+  - Track a small set of quality measures, such as escaped
+    defects, change failure rate, suite run time and flake
+    rate, and use them to decide where to invest next.
+
+  About you
+
+  - Strong coding skills in TypeScript or JavaScript, with test
+    code written to the same standard as production code.
+  - Deep experience with a modern browser automation framework.
+    Playwright is ideal; Cypress experience transfers well
+    (we’re in the process of migrating from Cypress to
+    Playwright).
+  - A track record of designing test strategy across the full
+    testing pyramid for web products and APIs, including
+    judging where automation earns its keep.
+  - Experience running automated tests in CI (GitHub Actions
+    ideally) with Docker, and fixing pipelines that are slow
+    or unreliable.
+  - Evidence of raising quality through other people, whether by
+    coaching developers, setting standards or leading a
+    quality practice.
+
+  Nice to have
+
+  - Contract testing in a service-based architecture, for
+    example with Pact.
+  - Performance and load testing with k6, Artillery or similar.
+  - Using AI coding assistants to speed up writing and
+    maintaining tests, with the judgement to review what they
+    produce.
+  - Using observability data and production signals to decide
+    what to test.
+  - Visual regression or accessibility testing.
+  - Experience in a regulated industry such as iGaming, fintech
+    or health.
+
+  How you work
+
+  - You explain quality trade-offs to product managers and
+    business stakeholders in plain terms.
+  - You will hold a release back when the evidence says it is
+    not ready, and then help the team find a safe way to ship.
+  - You write things down: strategies, decisions and guides
+    other engineers can pick up and follow.
+  - You are comfortable shaping a practice from an early stage,
+    where you will need to decide what matters most first.
+
+  What You’ll Get
+
+  - Private Health Care (Vitality)
+  - Hybrid Working (3 days in office)
+  - Travel Insurance
+  - Competitive Base Salary
+  - Company Bonus Scheme
+  - Paid for AI Subscription (Claude / ChatGPT / Gemini)
+  - Market-Leading Training Programme
+  - Recognition & Reward Scheme
+  - Annual Company Conference
+  - Regular Happy Hours & Team Lunches
+  - Free Coffee, Drinks & Snacks
+
+  What’s the next step? Our hiring process ensures we're
+  recruiting the right people for the role. We ensure that
+  people are as suitable for us as we are for them. If you
+  like the sound of what we're all about at Quantum and want
+  to join a team where you can make an impact, please apply or
+  contact us at careers@quantum.media.
+industries:
+  - AdTech
+  - Digital Media
+  - Marketing Tech
+  - Software
+posted_date: 2026-10-27
+url: "https://builtin.com/job/lead-software-developer-test/11787453"
+source: Built In

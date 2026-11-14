@@ -1,0 +1,82 @@
+job_id: 11750557
+title: Software Engineer, Backend
+company: Adaptyv
+location: London, GBR
+work_type: FULL_TIME
+company_size: 22 Employees
+description: |
+  Adaptyv is building an automated lab that lets AI agents run
+  biology experiments.
+
+  We're entering the era of agentic science where AI models
+  can now design novel proteins, propose hypotheses, and
+  iterate on experimental results. But they can't run the
+  experiments themselves - that's still a manual, months-long
+  process. We're building the infrastructure that gives AI
+  agents access to the physical world.
+
+  We are one of the fastest growing biotech companies, trusted
+  by leading biopharmas, frontier AI labs, and the techbio
+  companies pushing the field forward. This is a rare chance
+  to help advance some of the most important work happening in
+  biotech today.
+
+  Our automated lab is powered by a deep software + hardware
+  stack: lab instruments worth millions of USD reverse-
+  engineered into API-controllable hardware, dozens of devices
+  orchestrated through complex workflows, full observability
+  on everything that happens in the lab, processing pipelines
+  for messy physical-world data, and AI systems that
+  troubleshoot production results and accelerate assay
+  development.
+
+  We’re growing rapidly and are hiring for talented people to
+  scale and support the massive demand for AI-driven wet lab
+  experimentation.
+
+  About the role
+
+  You’ll build backend systems that make our lab programmable.
+  You'll architect data pipelines that process large-scale
+  protein characterization data, build APIs that integrate
+  laboratory instruments and robotics into our software stack,
+  and work closely with scientists and automation engineers to
+  translate complex molecular biology workflows into reliable,
+  scalable software. This is not SaaS slop, you're making
+  physical machines do precise biology with minimal human
+  intervention.
+
+  What we're looking for
+
+  - Strong experience designing and building production backend
+    systems. We use Python and TypeScript on the backend with
+    Postgres, but what matters is that you can architect
+    systems that are reliable and maintainable.
+  - Experience building data pipelines and processing
+    infrastructure. You'll be handling large volumes of
+    heterogeneous data from physical instruments such as
+    binding kinetics data, enzyme activity measurements,
+    chromatography readings, and turning them into clean,
+    structured datasets.
+  - Comfortable with API design and systems integration. A big
+    part of this role is making hardware talk to software:
+    connecting instruments, robotics, and scheduling systems
+    into a coherent whole.
+  - A genuine interest in biology. No background required, but
+    our product is running biology experiments in the physical
+    world and that should excite you.
+  - High-autonomy, founder mindset. We share context and vision
+    openly. You figure out what matters most and go work on
+    it.
+  - Pragmatism. You care about solving the problem well, not
+    about the stack or the tools.
+  - You write code primarily with AI, but you have enough
+    experience writing software without it to know what good
+    code and good architecture look like.
+
+  Application deadline
+
+  We are reviewing applicants on a rolling basis.
+posted_date: 2026-10-19
+url: "https://builtin.com/job/software-engineer-backend/11750557"
+source: Built In

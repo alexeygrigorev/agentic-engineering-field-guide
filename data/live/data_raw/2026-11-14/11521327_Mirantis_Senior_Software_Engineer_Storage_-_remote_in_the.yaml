@@ -1,0 +1,150 @@
+job_id: 11521327
+title: Senior Software Engineer (Storage) - remote in the US
+company: Mirantis
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 729 Employees
+description: |
+  Company Description
+
+  About Mirantis
+
+  Mirantis, an IREN company, is the Kubernetes-native AI
+  infrastructure company, enabling organizations to build and
+  operate scalable, secure, and sovereign infrastructure for
+  modern AI, machine learning, and data-intensive
+  applications. By combining open source innovation with deep
+  expertise in Kubernetes orchestration, Mirantis empowers
+  platform engineering teams to deliver composable,
+  production-ready developer platforms across any
+  environment—on-premises, in the cloud, at the edge, or in
+  sovereign data centers. As enterprises navigate the growing
+  complexity of AI-driven workloads, Mirantis delivers the
+  automation, GPU orchestration, and policy-driven control
+  needed to manage infrastructure with confidence and agility.
+  Committed to open standards and freedom from lock-in,
+  Mirantis ensures that customers retain full control of their
+  infrastructure strategy.  https://www.mirantis.com/
+
+  Job Description
+
+  Role Overview
+
+  Design and build the software that provisions, integrates,
+  and operates high-performance storage for GPU-accelerated
+  compute and AI platforms. You will develop the control-plane
+  services, drivers, and tooling that connect enterprise and
+  scale-out storage systems to Kubernetes-based workloads
+  across hybrid, edge, and air-gapped deployments built on the
+  Mirantis K0rdent stack.
+
+  About the Role
+
+  We are looking for a software engineer who thinks in systems
+  and data paths — someone who can reason about throughput,
+  latency, consistency, and failure across a storage stack,
+  then express that understanding as clean, testable Go. The
+  right candidate has built production software against real
+  storage systems (whether enterprise NAS, scale-out, or
+  object), understands what makes storage fast and reliable at
+  scale, and prefers declarative automation over manual
+  operations. You should be self-directed, comfortable owning
+  ambiguous problems end to end, and effective communicating
+  technical decisions across teams.
+
+  Responsibilities
+
+  1. Storage Software & Integration
+
+  - Design and build control-plane services, drivers (e.g.,
+    CSI), and tooling that provision, configure, and operate
+    storage for Kubernetes-based AI/compute workloads.
+  - Integrate high-performance storage platforms — Dell
+    PowerScale, VAST, and comparable systems — into automated,
+    declarative provisioning workflows.
+  - Build data-path, telemetry, and observability tooling to
+    diagnose and resolve performance, reliability, and scaling
+    issues.
+
+  2. Software & Automation
+
+  - Write production-quality software — primarily in Go — with
+    strong testing, code review, and operational rigor.
+  - Deliver infrastructure-as-code (Terraform/OpenTofu) and
+    GitOps-driven pipelines (ArgoCD or Flux) for storage
+    configuration and lifecycle.
+  - Support bare-metal and hybrid provisioning where storage
+    intersects host and cluster bring-up.
+
+  3. Platform & Hybrid Delivery
+
+  - Deliver storage integration for k0s-based Kubernetes via
+    Cluster API (CAPI) and K0rdent management/child cluster
+    topologies.
+  - Architect storage software for fully disconnected (air-
+    gapped) environments, including local artifact/mirror
+    connectivity (Harbor) and PKI/TLS considerations.
+
+  Qualifications
+
+  Required Qualifications
+
+  - 5+ years of software development, including production
+    systems, with Go as a primary language.
+  - 5+ years building or integrating storage systems
+    (distributed, scale-out, NAS, or object) at scale.
+  - Hands-on experience with high-performance storage platforms
+    such as Dell PowerScale, VAST, or comparable technologies.
+  - Solid understanding of storage fundamentals:
+    file/block/object models, throughput and latency behavior,
+    caching, consistency, and failure modes.
+  - Experience with Kubernetes storage (CSI, persistent volumes,
+    storage classes) and infrastructure-as-code.
+  - Strong written and verbal communication with technical
+    audiences.
+
+  Preferred
+
+  - Proficiency in Python and/or Rust in addition to Go.
+  - Experience with the Mirantis K0rdent stack (K0rdent
+    Enterprise, K0rdent AI, k0s, MKE) and Cluster API.
+  - Experience developing storage for GPU/AI workloads (high-
+    throughput data pipelines, GPUDirect Storage).
+  - Proven experience in sovereign or high-security air-gapped
+    environments.
+
+  Additional Information
+
+  Why you’ll love Mirantis
+
+  - Build the observability foundation for the AI cloud era,
+    working directly with leading GPU cloud operators,
+    NeoClouds, sovereign clouds, and AI-first enterprises
+  - Collaborate with a world-class, distributed team committed
+    to openness and technical excellence
+  - Shape the product narrative and influence go-to-market
+    success
+
+
+
+  It is understood that Mirantis, Inc. may use automated
+  decision-making technology (ADMT) for specific employment-
+  related decisions. Opting out of ADMT use is requested for
+  decisions about evaluation and review connected with the
+  specific employment decision for the position applied for.
+  You also have the right to appeal any decisions made by ADMT
+  by sending your request to isamoylova@mirantis.com
+
+  By submitting your resume, you consent to the processing and
+  storage of your personal data in accordance with applicable
+  data protection laws, for the purposes of considering your
+  application for current and future job opportunities.
+
+  #remote
+
+  We are a Leader for Container Management in G2 (#2 after
+  AWS)!
+posted_date: 2026-10-06
+url: "https://builtin.com/job/senior-software-engineer-storage-remote-us/11521327"
+source: Built In

@@ -1,0 +1,187 @@
+job_id: 10786462
+title: Senior / Staff Software Engineer — Platform
+company: Snorkel AI
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 581 Employees
+description: |
+  About Snorkel
+
+  Snorkel AI is the frontier AI data lab, helping teams build
+  the data and environments behind high-performing frontier
+  and agentic AI. We combine technology with research-driven
+  AI data development to create datasets, benchmarks, evals,
+  and custom solutions for real-world AI systems. Founded out
+  of the Stanford AI Lab in 2019, Snorkel works with leading
+  AI labs and enterprises to move from better data to better
+  outcomes.  Excited to help us redefine how AI is built?
+  Apply to be the newest Snorkeler!
+
+  About the Team
+
+  Snorkel's Platform organization owns the infrastructure and
+  services that power everything at Snorkel — the pipelines,
+  evals, access layers, event systems, governance, compute,
+  and agent infrastructure that every product team and
+  customer deployment depends on. We're a small team with a
+  large surface area, and we're in the middle of a
+  foundational architecture shift: moving from a single-
+  database data path to a multi-source, event-driven agent
+  first platform. The decisions being made now will define how
+  our platform scales for years. You will be making them.
+
+  About the Role
+
+  We're looking for Platform Engineers who combine strong
+  infrastructure chops with real backend engineering depth.
+  You'll build and operate the systems, services, and agent
+  infrastructure that let product teams move fast and reliably
+  — from data access layers and event-driven pipelines to the
+  agent first architecture that will transform our ability to
+  scale. Your work will directly allow us to scale the amount
+  of high quality data we are able to deliver to our
+  customers.
+
+  We are looking to grow our team of Platform Engineers, and
+  are hiring at multiple levels.
+
+  What You'll Do
+
+  - Design and build agent infrastructure that allows us to
+    safely and reliably speed up workflows from engineering
+    and operation teams
+  - Design and implement event-driven data flows using event
+    brokers, CDC connectors, schema registries, event routing,
+    and dead letter queues — ensuring events flow reliably and
+    failures are visible and recoverable
+  - Build the systems that track how data moves through the
+    platform (lineage), enforce who can access what
+    (governance and RBAC), and log what happened (auditing),
+    including PII handling, retention policy enforcement, and
+    audit infrastructure for enterprise and regulatory
+    compliance
+  - Set strategy and architecture for build systems, testing
+    frameworks, and CI/CD pipelines, and drive the transition
+    toward robust, automated continuous deployment
+  - Instrument services with OpenTelemetry, define and monitor
+    SLOs (query latency, pipeline success rates, service
+    reliability), and build alerting that catches issues
+    before they become incidents — you will be on-call for the
+    systems you build
+  - Contribute to infrastructure cost visibility and
+    optimization — query cost estimation, workload right-
+    sizing, and routing data to the most cost-effective
+    storage tier for its access pattern
+  - Collaborate with engineers, product managers, and designers
+    to bring consistency and high standards to codebases,
+    infrastructure, and processes
+
+  What You'll Bring
+
+  - 5+ years building platform infrastructure, backend services,
+    or data systems in production — you have built and
+    operated pipelines, data access layers, distributed
+    services, or ETL/ELT systems at scale
+  - Strong proficiency in Python, and experience designing REST
+    APIs for internal services and developers
+  - Strong background in distributed systems and cloud platforms
+    (AWS preferred) — hands-on experience with services like
+    S3, RDS, EKS, EventBridge, and IAM, and comfort working in
+    a Terraform-managed environment
+  - Familiarity with data orchestration tools (Prefect, Airflow,
+    or Dagster) and transformation frameworks (dbt)
+  - Understanding of data governance concepts — RBAC, PII
+    handling, audit logging, data lineage
+  - Track record of leading complex engineering initiatives,
+    influencing stakeholders, and delivering measurable impact
+  - Ability to work in a fast-paced environment with strong
+    technical communication skills
+  - Fluency with modern developer tooling and a willingness to
+    adopt new tools quickly — the team evaluates and
+    integrates new tooling regularly to improve velocity and
+    reliability
+
+  Nice to Have
+
+  - Experience building shared libraries or SDKs consumed by
+    multiple teams — versioning, backwards compatibility,
+    migration support
+  - Experience with event-driven architectures — CDC, event
+    buses, schema registries, at-least-once delivery semantics
+  - Experience with OpenTelemetry, ClickHouse, or similar
+    observability infrastructure
+  - Prior work in regulated environments (SOC 2, FedRAMP, HIPAA)
+    where compliance requirements shaped system design
+  - Experience with Ray or similar frameworks for distributed
+    compute workloads
+  - Experience in hyper-growth startup environments or scaling
+    engineering orgs
+  - Prior experience as a Tech Lead, Team Lead, or hands-on
+    Engineering Manager
+
+  Why This Role
+
+  You'll have meaningful ownership over the infrastructure and
+  services that every product team and customer deployment
+  depends on. This isn't a maintenance role — you'll be making
+  foundational architecture decisions that shape how the
+  company scales, with a team that cares deeply about
+  reliability, craft, and moving fast without breaking things.
+
+  Snorkel is proud to be an Equal Employment Opportunity
+  employer and is committed to building a team that represents
+  a variety of backgrounds, perspectives, and skills. Snorkel
+  embraces diversity and provides equal employment
+  opportunities to all employees and applicants for
+  employment.
+
+  Actual compensation will be determined based on factors
+  including skills, qualifications, experience, and geographic
+  location.
+
+  Salary range(s) for this role
+
+  $220,000—$300,000 USD
+
+  Be Your Best at Snorkel
+
+  Joining Snorkel AI means becoming part of a company that has
+  market proven solutions, robust funding, and is scaling
+  rapidly—offering a unique combination of stability and the
+  excitement of high growth. As a member of our team, you’ll
+  have meaningful opportunities to shape priorities and
+  initiatives, influence key strategic decisions, and directly
+  impact our ongoing success. Whether you’re looking to deepen
+  your technical expertise, explore leadership opportunities,
+  or learn new skills across multiple functions, you’re fully
+  supported in building your career in an environment designed
+  for growth, learning, and shared success.
+
+  Snorkel AI is proud to be an Equal Employment Opportunity
+  employer and is committed to building a team that represents
+  a variety of backgrounds, perspectives, and skills. Snorkel
+  AI embraces diversity and provides equal employment
+  opportunities to all employees and applicants for
+  employment. Snorkel AI prohibits discrimination and
+  harassment of any type on the basis of race, color,
+  religion, age, sex, national origin, disability status,
+  genetics, protected veteran status, sexual orientation,
+  gender identity or expression, or any other characteristic
+  protected by federal, state, or local law. All employment is
+  decided on the basis of qualifications, performance, merit,
+  and business need.
+
+  We will ensure that individuals with disabilities are
+  provided reasonable accommodation to participate in the job
+  application or interview process, to perform essential job
+  functions, and to receive other benefits and privileges of
+  employment. Please contact us to request accommodation.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+posted_date: 2026-08-21
+url: "https://builtin.com/job/software-engineer-platform/10786462"
+source: Built In

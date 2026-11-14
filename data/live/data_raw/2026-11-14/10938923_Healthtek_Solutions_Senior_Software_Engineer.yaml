@@ -1,0 +1,104 @@
+job_id: 10938923
+title: Senior Software Engineer
+company: Healthtek Solutions
+location: New York, USA
+work_type: FULL_TIME
+company_size: 28 Employees
+description: |
+  About the Role
+
+  Healthtek Solutions is expanding its technology organization
+  to support a rapidly growing portfolio of software platforms
+  across multiple business lines. We are seeking a Senior
+  Software Engineer to take a leading role in building
+  scalable, mission‑critical applications across our .NET, SQL
+  Server, and Angular ecosystem, with heavy use of Azure
+  Functions for ETL, automation, and data workflows.
+
+  You will work closely with product, data, and RPA teams to
+  deliver systems that directly support healthcare businesses
+  dealing with claims processing, RCM operations,
+  transportation services, provider analytics, and automation
+  across the enterprise.
+
+  This role is ideal for someone who thrives in a fast-moving
+  environment, values ownership, and enjoys working across the
+  full stack.
+
+  What You’ll DoApplication & Platform Development
+
+  - Design, implement, and maintain backend services using C#
+    (.NET) and SQL Server.
+  - Build intuitive, high‑performance UIs using Angular and
+    modern front‑end tooling.
+  - Work on distributed systems deployed on Azure, with emphasis
+    on serverless architectures.
+
+  Azure & ETL Engineering
+
+  - Develop and maintain data ingestion and transformation
+    pipelines using Azure Functions, Queue Storage, Service
+    Bus, and Event Grid.
+  - Design reliable, observable ETLs supporting both operational
+    systems and analytics workflows.
+
+  Architecture & Scalability
+
+  - Lead architecture discussions across multiple
+    business‑critical platforms.
+  - Design systems that scale across multiple companies and
+    business lines.
+  - Drive high‑quality engineering practices (testing, CI/CD,
+    observability, infrastructure-as-code).
+
+  Cross‑Functional Collaboration
+
+  - Partner with product managers, data scientists, RPA
+    engineers, and business stakeholders.
+  - Provide guidance and mentorship to junior developers.
+
+  Operational Excellence
+
+  - Participate in code reviews, technical design sessions, and
+    incident response rotations.
+  - Ensure systems meet high standards of reliability, security,
+    and performance.
+
+  What You BringRequired Skills
+
+  - 7+ years of experience.
+  - Expertise with C#, Typescript, SQL Server, Angular.
+  - Strong Azure experience (Azure Functions, API Management,
+    Queue Storage / Service Bus, Azure SQL Database, Entra).
+  - Experience with ETL or event-driven workflows.
+  - Ability to design scalable architectures.
+  - Strong debugging skills.
+
+  Preferred Skills
+
+  - Healthcare experience.
+  - Terraform/Bicep.
+  - CI/CD tools.
+  - Monitoring/observability tools.
+  - Data engineering familiarity.
+
+  Who You Are
+
+  - A proactive technical leader.
+  - Excellent communicator.
+  - Passionate about building reliable systems.
+  - Eager to mentor others.
+
+  Why Join Us
+
+  - Build platforms that directly support healthcare operations.
+  - Solve high‑impact operational problems.
+  - Work closely with engineering and product leadership.
+  - Influence architecture and team culture.
+industries:
+  - Healthtech
+  - Social Impact
+  - Software
+posted_date: 2026-11-09
+url: "https://builtin.com/job/senior-software-engineer/10938923"
+source: Built In

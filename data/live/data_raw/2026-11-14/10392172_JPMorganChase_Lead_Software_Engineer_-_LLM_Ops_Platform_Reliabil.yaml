@@ -1,0 +1,175 @@
+job_id: 10392172
+title: Lead Software Engineer - LLM Ops Platform Reliability
+company: JPMorganChase
+location: Glasgow, GBR
+locations:
+  - Glasgow, GBR
+  - London, GBR
+  - Bournemouth, GBR
+work_type: FULL_TIME
+company_size: 289,097 Employees
+description: |
+  Help shape how AI systems run reliably in production at
+  scale. In this role, you'll build and operate large language
+  model serving infrastructure, bringing strong engineering
+  fundamentals and site reliability practices to cutting-edge
+  AI platforms. You'll work hands-on with cloud and
+  Kubernetes-based deployments, deep observability, and cost-
+  aware performance tuning. If you enjoy solving hard
+  production problems and making platforms measurably better,
+  you'll find meaningful impact and growth here.
+
+  As a Senior Lead Software Engineer at JPMorganChase within
+  the AI and Machine Learning Platform team, you will build
+  and scale AI infrastructure that modernizes traditional
+  infrastructure management and site reliability engineering
+  through applied AI. You will own the reliability,
+  performance, and cost-efficiency of the large language model
+  inference platform end to end. You will operate large
+  language model serving stacks in production at scale, with
+  deep instrumentation and strong operational rigor. You will
+  partner across engineering to deliver secure software,
+  improve stability, and lead incident response and continuous
+  improvement.
+
+
+
+  Job responsibilities
+
+  - Design, develop, troubleshoot, and deliver secure, high-
+    quality production software and services for AI
+    infrastructure
+  - Build backend services and APIs that enable reliable
+    operation of AI infrastructure in production environments
+  - Operate and scale large language model serving
+    infrastructure, including model hosting, request routing,
+    continuous batching, and cache optimization
+  - Deploy, host, and lifecycle-manage open-source and
+    proprietary large language models on cloud-based container
+    orchestration platforms and on-premises GPU clusters using
+    reproducible infrastructure as code and continuous
+    delivery pipelines
+  - Implement observability across logs, metrics, and traces
+    with dashboards and actionable alerting for large language
+    model and GPU workloads
+  - Tune GPU and accelerator capacity, autoscaling, and cost
+    efficiency for large language model inference workloads
+    using performance optimization techniques such as
+    quantization, parallelism, and speculative decoding
+  - Lead reliability engineering for large language model
+    endpoints through capacity planning, load and soak
+    testing, safe rollouts, failover, and incident response
+    for outages and model-quality regressions
+  - Participate in on-call rotations, lead incident triage and
+    mitigation, and produce clear post-incident root-cause
+    analyses and follow-up actions
+  - Identify recurring operational issues and automate
+    remediation to improve platform stability and developer
+    experience
+  - Build and maintain multi-agent systems with strong
+    orchestration, including planning, coordination, tool-
+    calling, state and memory management, and workflow control
+    where appropriate
+  - Drives team adoption of enterprise-authorized AI-assisted
+    engineering practices within the work environment to
+    improve code quality, delivery speed, and operational
+    outcomes (e.g., AI-assisted code review/refactoring, test
+    strategy acceleration, incident/root-cause analysis
+    support), while establishing consistent validation
+    standards (secure coding, peer review, automated testing)
+    and promoting reuse of effective patterns across the team.
+
+  Required qualifications, capabilities, and skills
+
+  - Hands-on experience with system design, application
+    development, testing, and operational stability in
+    production environments
+  - Advanced proficiency in Python for building production-grade
+    services and tooling
+  - Proficiency with automation and continuous delivery methods
+  - Hands-on experience with cloud infrastructure platforms and
+    infrastructure-as-code tooling for delivery and lifecycle
+    management
+  - Strong understanding of site reliability engineering
+    practices, including incident management, root-cause
+    analysis, runbooks, and reliability patterns
+  - Practical knowledge of observability and instrumentation
+    across metrics, logs, and traces
+  - Hands-on experience with Kubernetes and container-based
+    orchestration platforms, including managed cloud variants
+  - Experience hosting and serving large language models on
+    cloud-based infrastructure and local GPU environments
+  - Knowledge of large language model reliability and risk
+    considerations, including latency and throughput trade-
+    offs, model versioning, prompt and response logging, and
+    safe rollout patterns
+  - Hands-on experience using enterprise-authorized AI-assisted
+    software development tools within the work environment
+    (e.g., for coding, test creation, troubleshooting, or
+    documentation) with demonstrated ability to critically
+    evaluate, validate, and refine AI-generated outputs for
+    correctness, performance, and security
+  - Understanding of responsible AI use in engineering
+    workflows, including data sensitivity considerations,
+    secure handling of inputs/outputs, and adherence to
+    resiliency and security expectations; ability to guide
+    peers on safe and effective usage within team practices
+
+  Preferred qualifications, capabilities, and skills
+
+  - Experience operating large language model inference servers
+    such as vLLM and llm-d (or directly equivalent model
+    serving stacks) in production
+  - Experience developing generative AI applications, AI agents,
+    vector search, and retrieval-augmented generation patterns
+  - Experience building AI agents using orchestration frameworks
+    such as LangChain, LangGraph, CrewAI, or similar platforms
+  - Experience operating or integrating model serving platforms
+    such as KServe, Ray Serve, or NVIDIA Triton Inference
+    Server alongside other large language model serving stacks
+  - Familiarity with Amazon SageMaker JumpStart, SageMaker
+    Endpoints, and Amazon Bedrock for managed model hosting
+  - Experience with online large language model quality
+    monitoring, including hallucination detection, toxicity
+    filtering, and drift detection using open telemetry
+    conventions
+  - Contributions to open-source large language model serving or
+    inference projects, (vLLM, llm-d, Ray, KServe, Triton)
+
+  About UsJ.P. Morgan is a global leader in financial
+  services, providing strategic advice and products to the
+  world’s most prominent corporations, governments, wealthy
+  individuals and institutional investors. Our first-class
+  business in a first-class way approach to serving clients
+  drives everything we do. We strive to build trusted, long-
+  term partnerships to help our clients achieve their business
+  objectives.
+
+
+
+
+    We recognize that our people are our strength and the
+  diverse talents they bring to our global workforce are
+  directly linked to our success. We are an equal opportunity
+  employer and place a high value on diversity and inclusion
+  at our company. We do not discriminate on the basis of any
+  protected attribute, including race, religion, color,
+  national origin, gender, sexual orientation, gender
+  identity, gender expression, age, marital or veteran status,
+  pregnancy or disability, or any other basis protected under
+  applicable law. We also make reasonable accommodations for
+  applicants’ and employees’ religious practices and beliefs,
+  as well as mental health or physical disability needs. Visit
+  our FAQs for more information about requesting an
+  accommodation.
+
+
+  About the TeamOur professionals in our Corporate Functions
+  cover a diverse range of areas from finance and risk to
+  human resources and marketing. Our corporate teams are an
+  essential part of our company, ensuring that we’re setting
+  our businesses, clients, customers and employees up for
+  success.
+posted_date: 2026-09-28
+url: "https://builtin.com/job/senior-lead-software-engineer-llm-ops-platform-reliability/10392172"
+source: Built In

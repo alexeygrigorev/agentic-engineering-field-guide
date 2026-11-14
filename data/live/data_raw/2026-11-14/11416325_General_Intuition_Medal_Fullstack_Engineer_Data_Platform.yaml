@@ -1,0 +1,92 @@
+job_id: 11416325
+title: Fullstack Engineer – Data Platform
+company: "General Intuition & Medal"
+location: New York, USA
+work_type: FULL_TIME
+company_size: 41 Employees
+description: |
+  About The Company
+
+  General Intuition is the frontier lab for acting in space
+  and time. We build large action models and world models that
+  can perceive, predict, and act across virtual and physical
+  environments. General Intuition builds on the strength of
+  Medal, the world's largest and fastest-growing platform for
+  gaming clips, where millions of gamers capture, share, and
+  discover new games every year. We've raised over $650M from
+  Khosla, GC, Valor, and Point72 since October 2025, and
+  recently closed our latest round at a $6.2B valuation.
+
+  The Role
+
+  Billions of gameplay clips a year come in on one side. Large
+  action models and world models train and serve on the other.
+  Everything in between - the pipelines that turn raw footage
+  into training data, the clusters that consume it, the
+  storage and I/O that keeps them fed, the runtime that serves
+  the results - is infrastructure, and it is what you own.
+
+  This is deliberately not a narrow role. We are not hiring a
+  Kubernetes specialist, or a data engineer, or an inference
+  person. We're hiring someone who can move from cluster
+  scheduling to disk throughput to a preprocessing pipeline to
+  inference latency in the same week, and who becomes the
+  technical reference other engineers bring their system
+  designs to, across both GI and Medal.
+
+  We weigh two routes in the same. Either you spent years deep
+  in infrastructure at a large tech company or a serious lab,
+  then left to build your own thing as founder, co-founder, or
+  founding engineer, and you've been at it for at least a
+  year. Or you've spent five or six years going deep on hard
+  infrastructure inside a big company or lab, you own a system
+  people have heard of, and you're ready for a place where you
+  decide what gets built. Either way, you're still writing
+  code today and you want to keep writing it.
+
+  You'll work directly with the founding team, at a company
+  small enough that the decisions are yours to make.
+
+  What We're Looking For
+
+  - You own orchestration and GPU clusters - scheduling,
+    utilization, capacity. Expensive hardware sitting idle is
+    your problem, and so is a training run blocked behind the
+    scheduler.
+  - You build the preprocessing pipelines that turn a very large
+    corpus of raw gameplay video into training-ready data, at
+    a throughput that keeps training from waiting on data.
+  - You treat disk and network I/O as a first-class constraint
+    rather than an afterthought. At our data volumes it is
+    frequently the bottleneck, and you know how to find out
+    whether it is.
+  - You optimize inference in production - batching,
+    quantization, KV cache, serving runtimes - and you own the
+    latency and cost numbers rather than reporting them.
+  - You are at ease across cloud providers and comfortable
+    owning infrastructure as code, multi-region deployment,
+    and the reliability of everything above.
+  - You can draw a circle around something substantial and say:
+    this was mine. You decided how it was built, you chose the
+    technologies, and you carried it to production. Not
+    "contributed to a team that" - you made the calls, and you
+    have several examples.
+
+  Our Stack
+
+  Kubernetes, multi-region. GPUs across cloud providers.
+  Python and Go, with Rust and C++ where performance demands
+  it. Terraform. In-house frontier models: action models,
+  world models, video understanding.
+
+  We are not dogmatic about any of this. If you think we've
+  made the wrong call somewhere, that's a conversation we want
+  to have in the interview.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Generative AI
+posted_date: 2026-09-29
+url: "https://builtin.com/job/fullstack-engineer-data-platform/11416325"
+source: Built In

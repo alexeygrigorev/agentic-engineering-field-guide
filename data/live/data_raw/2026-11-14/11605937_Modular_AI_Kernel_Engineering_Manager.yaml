@@ -1,0 +1,173 @@
+job_id: 11605937
+title: AI Kernel Engineering Manager
+company: Modular
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 187 Employees
+description: |
+  About Modular
+
+  At Modular, a Qualcomm company, we’re on a mission to
+  revolutionize AI infrastructure by systematically rebuilding
+  the AI software stack from the ground up. Our team, made up
+  of industry leaders and experts, is building cutting-edge,
+  modular infrastructure that simplifies AI development and
+  deployment. By rethinking the complexities of AI systems,
+  we’re empowering everyone to unlock AI’s full potential and
+  tackle some of the world’s most pressing challenges.
+
+  If you’re passionate about shaping the future of AI and
+  creating tools that make a real difference in people’s
+  lives, we want you on our team. You can read about our
+  culture and careers to understand how we work and what we
+  value.
+
+  About the role:
+
+  MAX is Modular's inference tech stack, built to run GenAI
+  models fast across NVIDIA, AMD, Qualcomm, Trainium, TPU and
+  more. The MAX Kernel team is the performance foundation of
+  that stack, developing kernels using Mojo, GEMM, attention
+  (MHA/MLA/MSA), MoE routing and grouped matmul, and the
+  portable tile abstractions that let one kernel lower to many
+  targets.
+
+  As the Engineering Manager of the MAX Kernel team, you will
+  lead a team of kernel engineers, own the kernel roadmap and
+  the per-model × per-hardware performance optimization to the
+  best vendor and open-source stacks. You will partner closely
+  with the Framework, Serve, Compiler/Runtime and Hardware
+  Enablement teams, and help grow a kernel engineering
+  community that spans Modular and Qualcomm.
+
+  LOCATION: Candidates based in the United States are welcome
+  to apply. You can work in our office in Los Altos, CA or
+  remotely from home. Onboarding for new hires is conducted
+  in-person in our Los Altos, CA office.
+
+  What you will do:
+
+  - Lead, hire, coach and grow a team of ~12 kernel engineers
+    across NVIDIA, AMD and ASIC hardwares; own career
+    development, performance management and team health.
+  - Own the MAX kernel roadmap and delivery: match or beat the
+    performance of other open-source kernel libraries on each
+    business essential model × hardware target.
+  - Support portable kernel architecture (TileTensor /
+    TensorEngine / TileIO, reusable building blocks such as
+    MegaFFN and the attention family) together with tech
+    leads.
+  - Partner cross-functionally with Framework, Serve,
+    Compiler/Runtime, Hardware Enablement and Qualcomm kernel
+    teams on priorities, interfaces and escalations.
+  - Advance AI-assisted kernel development (kernel agents, fuzz
+    verification, playbooks) and the kernel engineering
+    community across org boundaries.
+
+  What you bring to the table:
+
+
+
+  - 3+ years as an engineering manager leading GPU kernel,
+    compiler, HPC, or ML performance engineering teams.
+    (minimum requirement)
+  - Strong cross-functional communication; able to drive
+    technical decisions with tech leads and communicate
+    status, risks and tradeoffs to engineering leadership and
+    customers.
+  - Track record of hiring, retaining and growing senior kernel
+    or performance engineers.
+  - Working knowledge of writing and optimizing GPU/accelerator
+    kernels (CUDA, HIP/ROCm, Triton, CUTLASS/CuTe or similar).
+  - Deep understanding of profiling, benchmarking, and roofline
+    analysis
+
+  Minimum Qualifications:
+
+  - Bachelor's degree in Engineering, Information Systems,
+    Computer Engineering, Electrical Engineering, Computer
+    Science, or related field and 8+ years of Software
+    Engineering or related work experience.
+
+                            OR
+
+  - Master's degree in Engineering, Information Systems,
+    Computer Engineering, Electrical Engineering, Computer
+    Science, or related field and 7+ years of Software
+    Engineering or related work experience.
+
+                            OR
+
+  - PhD in Engineering, Information Systems, Computer
+    Engineering, Electrical Engineering, Computer Science, or
+    related field and 6+ years of Software Engineering or
+    related work experience.
+
+   AND
+
+  - 4+ years of work experience with Programming Language such
+    as Python, Mojo, Rust, C++, etc.
+
+  Helpful, but not required:
+
+
+
+  - Experience with Mojo or other kernel and tile-level
+    programming models (Triton, TileLang, CuTe)
+  - Multi-target experience beyond NVIDIA: AMD, NPUs/ASICs or
+    edge/on-device.
+  - Experience with AI-assisted or agentic kernel development.
+  - Open-source contributions to kernel libraries or inference
+    engines.
+
+  What Modular brings to the table:
+
+  - Amazing Team. We are a progressive and agile team with some
+    of the industry’s best engineering and product leaders.
+  - World-class Benefits. In order to attract the best, we need
+    to offer the best. Your benefits package may include
+    comprehensive healthcare coverage, retirement and savings
+    programs, employee stock purchase opportunities, paid time
+    off, wellbeing resources, family support programs, and
+    learning and development opportunities. Please note that
+    specific benefit packages may vary based on your location,
+    you can read more about benefits offered by Qualcomm here.
+  - Competitive Compensation. We offer very strong compensation
+    packages, including RSU grants. We want people to be
+    focused on their best work and believe in tailoring
+    compensation plans to meet the needs of our workforce.
+  - Team Building Events. We organize regular team onsites and
+    local meetups in Los Altos, CA as well as different
+    cities. Traveling 2-4 times a year is expected for all
+    roles.
+
+  Working at Modular will enable you to grow quickly as you
+  work alongside incredibly motivated and talented people who
+  have high standards, possess a growth mindset, and a purpose
+  to truly change the world.
+
+
+
+  The estimated base salary range for this role to be
+  performed in the US is $255,400.00 - $383,200.00 USD.
+
+  The salary for the successful applicant will depend on a
+  variety of permissible, non-discriminatory job-related
+  factors, which include but are not limited to education,
+  training, work experience, business needs, or market
+  demands. This range may be modified in the future. The total
+  compensation for a candidate will also include annual target
+  bonus, equity, and benefits, with equity making up a
+  significant portion of your total compensation.
+
+  For candidates who fall outside of the listed requirements,
+  we nevertheless encourage you to apply as we may have
+  upcoming openings that are lower/higher level than the ones
+  advertised.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-10
+url: "https://builtin.com/job/max-kernel-engineering-manager/11605937"
+source: Built In

@@ -1,0 +1,146 @@
+job_id: 11847707
+title: Backend Engineer, Data
+company: Minerva Group, LLC
+location: New York, USA
+work_type: FULL_TIME
+company_size: 5 Employees
+description: |
+  ABOUT MINERVA
+
+  Minerva builds AI for marketing leaders. We work together
+  with marketers to automate and accelerate their workflows
+  with AI agents. Our agents augment the end-to-end workflow
+  of the marketer by automating analysis, campaign planning,
+  activation, measurement and reporting.
+
+  Customers like the NBA, Ramp, Wander, Hard Rock Stadium
+  Group and Luxury Presence use Minerva to develop a better
+  understanding of their customers and introduce AI
+  specifically built to understand the customer into their
+  commercial organizations. Our campaigns outperform other
+  tools because we built the entire stack: from identity to
+  enrichment to data integration as well as agents to action
+  and report on the analysis.
+
+  We've raised $20M from The General Partnership, 8VC,
+  Lingotto, NBA Investments, Topology Ventures, Future
+  Positive, Background Capital and many others. Our team
+  brings together operators and investors from Citadel,
+  Dentsu, Bridgewater, Meta Superintelligence, Growthloop,
+  Amazon and Lazard, alongside engineers and researchers from
+  Berkeley, MIT, Stanford and Cambridge.
+
+  THE ROLE
+
+  A warehouse full of consumer data does nothing for a
+  marketer until they can sort, filter and chart it in the
+  time it takes to ask the question.
+
+  Our data team builds the consumer graph and each brand's
+  first-party models, and our data scientists train scores on
+  top. This seat makes all of it usable in the product: first-
+  party fields that respond instantly, scores on the pages
+  marketers already use, segments that stay current, and an
+  agent that turns a plain-English question into the right
+  query against a brand's own data.
+
+  This is an IC or senior IC seat on product engineering,
+  working day to day with data engineering and data science.
+  Your counterpart on the warehouse side is our Staff Data
+  Engineer, who owns the golden model and publishes the
+  semantic views you build on.
+
+  WHAT YOU'LL DO
+
+  - Own how first-party data performs in the app. Any field a
+    brand connects can be sorted, filtered and charted without
+    a live warehouse query. You decide what gets precomputed,
+    where it lives and how it stays fresh.
+  - Own how our models reach marketers. Propensity, LTV, churn
+    and product-fit scores on the person, segment and product
+    pages, with full distributions instead of a single number.
+  - Own dynamic segments. Segments that update as new data
+    lands, with stats ready for activation.
+  - Own the in-app agent's query tool, built on the semantic
+    views our data platform team publishes. You own the path
+    from a marketer's question to the right rows.
+  - Own the product side of the sync. What gets precomputed, and
+    the path from Postgres to the synced client. Each hop
+    costs money and time, and you choose on purpose.
+  - Extend the pipelines. You mostly build on what the data team
+    produces. When a feature needs a table that doesn't exist,
+    you write the model or pipeline step yourself.
+  - Ship end to end. One feature can mean a Python Lambda, a
+    Zero schema change and a TanStack Start page. You ship all
+    three.
+
+  OUR STACK
+
+  - App: TypeScript, TanStack Start, React 19, Tailwind and Base
+    UI, on Vite and Bun.
+  - Sync: Zero on Postgres, schema in Drizzle. The app reads
+    from a live-synced local copy of the data instead of
+    request-response endpoints.
+  - AI: Mastra for agents, Temporal for long-running work.
+  - Backend: Python on AWS Lambda.
+  - Data: Snowflake, including semantic views and Cortex.
+
+  WHAT YOU HAVE
+
+  - Production experience with a cloud data warehouse. Snowflake
+    preferred.
+  - Production TypeScript, and backend services shipped on AWS:
+    Lambda or similar.
+  - You're current. You know what shipped in AI tooling this
+    month and what changed in the latest release of the
+    packages you depend on.
+  - You build things on your own time, and you can show us.
+  - You're in New York City or willing to relocate.
+
+  YOU MIGHT BE A FIT IF YOU ARE…
+
+  - A full-stack engineer at a data-heavy SaaS company who ended
+    up owning the warehouse because someone had to, and liked
+    it.
+  - A product engineer at a warehouse-native analytics or
+    activation company who has spent years making Snowflake
+    feel fast inside an app.
+  - A backend engineer who has shipped on a sync engine like
+    Zero, Replicache or ElectricSQL, and wants a dataset big
+    enough to stress it. We'd be especially impressed by this
+    one.
+  - A data engineer tired of handing tables to other teams who
+    wants to own the feature the table ends up in.
+  - Or you don't fit any of these neatly, but you built
+    something this year that changed how you think data should
+    reach a user. Apply.
+
+  WHAT SUCCESS LOOKS LIKE
+
+  - First 90 days: new scores and first-party tables reach the
+    app through a repeatable system you built.
+  - First 6 months: any first-party field can be sorted,
+    filtered and charted without a live warehouse query, and
+    the in-app agent's query tool runs on your layer.
+  - No single number. When product engineering has a data
+    question, it comes to you.
+
+  COMPENSATION
+
+  $170,000–$236,000 base salary, depending on level.
+  Meaningful equity. Medical, dental and vision.
+
+  HOW TO APPLY
+
+  Skip the cover letter. The application asks for a demo of
+  something you built that's relevant to what we do at
+  Minerva: a link, a repo or a two-minute video. Applications
+  without a demo won't be reviewed.
+
+  WHERE WE WORK
+
+  We work in person from our office at 300 Kent Avenue in
+  Williamsburg, Brooklyn.
+posted_date: 2026-10-23
+url: "https://builtin.com/job/backend-engineer-data/11847707"
+source: Built In

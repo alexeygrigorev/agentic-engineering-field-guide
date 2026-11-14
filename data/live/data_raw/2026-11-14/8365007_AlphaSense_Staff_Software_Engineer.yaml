@@ -1,0 +1,193 @@
+job_id: 8365007
+title: Staff Software Engineer
+company: AlphaSense
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 2,000 Employees
+description: |
+  About AlphaSense:
+
+  AlphaSense is the AI platform redefining market intelligence
+  and workflow orchestration, trusted by thousands of leading
+  organizations to drive faster, more confident decisions in
+  business and finance. The platform combines domain-specific
+  AI with a vast content universe of over 500 million premium
+  business documents — including equity research, earnings
+  calls, expert interviews, filings, news, and internal
+  proprietary content. Purpose-built for speed, accuracy, and
+  enterprise-grade security, AlphaSense helps teams extract
+  critical insights, uncover market-moving trends, and
+  automate complex workflows with high-quality outputs. With
+  AI solutions like Generative Search, Generative Grid, and
+  Deep Research, AlphaSense delivers the clarity and depth
+  professionals need to navigate complexity and obtain
+  accurate, real-time information quickly. For more
+  information, visit www.alpha-sense.com. Come join us.
+
+  About the Team:
+
+  Our diverse Product & Engineering team values innovation,
+  collaboration, and the continuous improvement of our
+  platform. We offer a dynamic work environment where
+  employees can grow and thrive while working on cutting-edge
+  technology that shapes the future of AI and search.
+
+  At AlphaSense, we believe that diverse experiences and
+  perspectives are critical to our success. We are committed
+  to creating an inclusive workplace where all employees feel
+  valued and empowered to be their authentic selves.
+
+  About the Role:
+
+  We are seeking a Staff Software Engineer to lead the design,
+  evolution, and reliability of our global financial data
+  extraction and normalization platform. This system ingests
+  filings across formats (HTML, PDF, APIs, spreadsheets),
+  extracts and standardizes financial data using a combination
+  of AI and deterministic systems, and delivers trusted,
+  traceable outputs at scale to downstream financial services
+  teams and customers.
+
+  This role owns the self-sourcing and extraction foundation
+  used by multiple teams across the organization. Today, human
+  validation is used as a safety net. Your mission is to
+  systematically reduce human dependency by increasing system
+  correctness, confidence, and trust, without sacrificing
+  speed or scalability.
+
+  You will operate at the intersection of distributed systems,
+  AI-driven extraction, data quality, and platform
+  architecture, raising the technical bar and reshaping how we
+  build reliable systems.
+
+  Who You Are:
+
+  - 10+ years of experience building and operating large-scale
+    production systems
+  - Proven experience designing data ingestion, extraction, or
+    processing systems at scale
+  - Deep expertise in one or more of:
+    - Distributed systems
+    - Data platforms and pipelines
+    - AI/ML-powered extraction or classification systems
+    - Platform or infrastructure engineering
+  - Demonstrated ability to design trustworthy systems that
+    combine probabilistic (AI) and deterministic approaches
+  - Strong understanding of system reliability, observability,
+    failure modes, and iterative hardening
+  - Experience reducing operational or human overhead through
+    better system design
+  - Track record of technical leadership across teams without
+    formal people management
+  - Comfortable operating in ambiguity and driving clarity where
+    none exists
+  - Passion for using AI responsibly and effectively to deliver
+    scalable, high-confidence systems
+
+  Nice to Have
+
+    - Experience with document understanding, NLP, or financial
+      data extraction
+    - Experience building provenance, lineage, or confidence-
+      scoring systems
+    - Familiarity with cloud-native architectures and modern data
+      stacks
+    - Experience shaping or owning internal platforms used by
+      multiple teams
+
+  What You’ll Do:
+
+  - Own the architecture and evolution of our large-scale data
+    extraction and normalization platform
+  - Design systems that process hundreds of thousands of records
+    across heterogeneous sources (PDF, HTML, APIs, XLS) with
+    high reliability
+  - Define and implement strategies to minimize human-in-the-
+    loop validation through AI-based validation, confidence
+    scoring, provenance tracking, and deterministic safeguards
+  - Establish clear system contracts for correctness,
+    traceability, and confidence (e.g., “where did this number
+    come from?”)
+  - Balance AI-driven approaches with procedural and rules-based
+    systems where they improve reliability and
+    explainabilityIdentify and remediate architectural and
+    operational bottlenecks impacting scale, accuracy, and
+    developer velocity
+  - Act as the technical authority to block poor designs,
+    redesign critical systems, and introduce new platforms or
+    tooling when necessary
+  - Partner with product and downstream consumers to define
+    quality bars, SLAs, and success metrics
+  - Serve as a technical escalation point for production issues,
+    reliability failures, and systemic risks
+  - Mentor senior engineers, shape technical culture, and raise
+    expectations for system design and execution
+  - Contribute to long-term technical strategy while remaining
+    hands-on with critical implementations
+
+  For base compensation, we set standard ranges for all roles
+  based on function and level benchmarked against similar
+  stage growth companies and internal comparables. In order to
+  be compliant with local legislation, as well as to provide
+  greater transparency to candidates, we share salary ranges
+  on all job postings regardless of desired hiring location.
+  Final offer amounts are determined by multiple factors
+  including candidate experience/expertise and may vary from
+  the amounts listed below.
+
+  You may also be offered equity, and a generous benefits
+  program.
+
+  Compensation Range
+
+  $176,000—$242,000 USD
+
+  AlphaSense is an equal-opportunity employer. We are
+  committed to a work environment that supports, inspires, and
+  respects all individuals. All employees share in the
+  responsibility for fulfilling AlphaSense’s commitment to
+  equal employment opportunity. AlphaSense does not
+  discriminate against any employee or applicant on the basis
+  of race, color, sex (including pregnancy), national origin,
+  age, religion, marital status, sexual orientation, gender
+  identity, gender expression, military or veteran status,
+  disability, or any other non-merit factor. This policy
+  applies to every aspect of employment at AlphaSense,
+  including recruitment, hiring, training, advancement, and
+  termination.
+
+  In addition, it is the policy of AlphaSense to provide
+  reasonable accommodation to qualified employees who have
+  protected disabilities to the extent required by applicable
+  laws, regulations, and ordinances where a particular
+  employee works.
+
+  Recruiting Scams and Fraud
+
+  We at AlphaSense have been made aware of fraudulent job
+  postings and individuals impersonating AlphaSense
+  recruiters. These scams may involve fake job offers,
+  requests for sensitive personal information, or demands for
+  payment. Please note:
+
+  - AlphaSense never asks candidates to pay for job
+    applications, equipment, or training.
+  - All official communications will come from an @alpha-
+    sense.com email address.
+  - If you’re unsure about a job posting or recruiter, verify it
+    on our Careers page.
+
+  If you believe you’ve been targeted by a scam or have any
+  doubts regarding the authenticity of any job listing
+  purportedly from or on behalf of AlphaSense please contact
+  us. Your security and trust matter to us.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Machine Learning
+  - Natural Language Processing
+  - Business Intelligence
+posted_date: 2026-08-24
+url: "https://builtin.com/job/staff-software-engineer/8365007"
+source: Built In

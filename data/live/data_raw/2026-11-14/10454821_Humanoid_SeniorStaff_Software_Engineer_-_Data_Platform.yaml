@@ -1,0 +1,138 @@
+job_id: 10454821
+title: Senior/Staff Software Engineer - Data Platform
+company: Humanoid
+location: London, GBR
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  Here at Humanoid, we believe in a future where robots
+  amplify human potential. That’s why we’ve set out on a
+  mission to build the world’s most capable, commercially-
+  scalable, and safe humanoid robots. We’re bringing that
+  mission to life with HMND‑01 - our rapidly developed
+  humanoid platform being deployed in real industrial
+  environments - and we’re growing the team to take it even
+  further.
+
+  About the Role
+
+  We're hiring a Senior or Staff Software Engineer to join our
+  Data Engineering team based in London.
+
+  As the Data Platform Team, we strive to create the world’s
+  leading, commercially scalable, safe, and advanced humanoid
+  robots that seamlessly integrate into daily life and amplify
+  human capacity.
+
+  We’re looking for experienced Engineers to help build our
+  data platform from the ground up. You’ll have the
+  opportunity to define its architecture, make key decisions,
+  and shape how we handle and process petabyte-scale data in
+  the near future.
+
+  What You'll Do
+
+  - Build the Capability Factory - an internal platform designed
+    for everyone from software engineers to non-technical
+    operators, enabling the entire organization to teach HMND
+    robots new skills at scale, from raw data all the way to
+    deployed capabilities.
+  - Curate, preprocess, and manage large-scale datasets for
+    humanoid robot training - a corpus of robot telemetry
+    growing toward petabyte scale.
+  - Design and operate highly scalable data pipelines and the
+    compute infrastructure that powers them, ensuring
+    reliability and throughput as data volume and team demands
+    grow.
+  - Ensure the quality, accuracy, and consistency of training
+    data across multiple concurrent projects and robot
+    platforms.
+  - Collaborate with machine learning teams to shape the
+    Capability Factory, streamline MLOps, and build the
+    evaluation workflows that close the loop between training
+    runs and real-world robot performance.
+  - Build data warehouse solutions and BI dashboards that give
+    stakeholders across the organization clear visibility into
+    data collection, model progress, and operational health.
+  - Establish and uphold best practices for data management -
+    versioning, access control, security, and compliance.
+
+  What We're Looking For
+
+  - 5+ years of software engineering experience, with a track
+    record of owning and delivering complex systems end-to-
+    end, not just contributing to them.
+  - Strong backend engineering - designing and operating
+    production-grade APIs and services: clean data modeling,
+    reliable error handling, performance under load.
+  - Data engineering at PB+ scale - building and maintaining
+    pipelines that move, transform, and validate large volumes
+    of data reliably; understanding of batch and streaming
+    processing patterns, data quality, and schema evolution.
+  - Workflow orchestration at scale - designing and operating
+    multi-step automated pipelines with retries,
+    observability, and graceful failure handling.
+  - Distributed systems fundamentals - you understand how things
+    break at scale: eventual consistency, idempotency,
+    backpressure, job scheduling, and failure modes in
+    distributed compute and storage.
+  - Cloud infrastructure fluency - you have shipped and operated
+    real systems on a major cloud provider; you think about
+    cost, reliability, and security as first-class concerns,
+    not afterthoughts.
+  - Container orchestration - deploying and operating workloads
+    on Kubernetes at a level where you can debug scheduling
+    issues, design resource allocation, and reason about
+    cluster health without guidance.
+  - Full-stack range - comfortable building both the backend and
+    the frontend of an internal product; you can own a feature
+    from database schema to UI without handing off.
+  - Production ownership mindset - you've been on-call, triaged
+    incidents under pressure, and improved systems after
+    postmortems. You take reliability personally.
+
+  Nice to Have
+
+  - ML infrastructure or MLOps experience - understanding of how
+    training jobs run, how model artifacts are managed, and
+    what makes an evaluation pipeline trustworthy; you've
+    worked alongside or directly supported ML researchers.
+  - Distributed compute frameworks - experience with large-scale
+    parallel data processing, whether for data transformation,
+    model training, or evaluation.
+  - Domain knowledge in robotics or embodied AI - familiarity
+    with robot data formats, sensor telemetry, or the sim-to-
+    real evaluation loop is a significant head start.
+  - BI and data warehouse experience - building data models and
+    dashboards that translate raw operational data into
+    decisions for non-technical stakeholders.
+  - Dual-cloud or multi-cloud storage - experience reasoning
+    about cost, latency, and consistency tradeoffs across
+    storage providers.
+  - Frontend product sense - beyond just shipping features, you
+    have opinions about what makes an internal tool actually
+    usable by non-engineers.
+
+  What We Offer
+
+  - Competitive equity: stock options with meaningful upside as
+    we scale.
+  - 30+ paid days off, including 23 days of annual leave, all UK
+    bank holidays, and additional company closure days
+    (including Christmas–New Year shutdown).
+  - Private healthcare, including virtual and in-person care.
+  - Pension scheme with 8% total contribution (5% employee, 3%
+    employer) on full earnings.
+  - Free daily breakfast, catered lunch, and snacks in-office.
+  - Work at the frontier - collaborate daily with world-class
+    engineers, researchers, and product experts building the
+    next generation of AI and humanoid robotics.
+  - Real ownership - direct access to founding leadership,
+    meaningful input on product direction, and the ability to
+    drive key initiatives from day one.
+industries:
+  - Artificial Intelligence
+  - Robotics
+posted_date: 2026-08-25
+url: "https://builtin.com/job/senior-staff-software-engineer-data-platform/10454821"
+source: Built In

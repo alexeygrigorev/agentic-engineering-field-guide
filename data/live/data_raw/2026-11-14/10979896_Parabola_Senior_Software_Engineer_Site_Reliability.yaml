@@ -1,0 +1,123 @@
+job_id: 10979896
+title: Senior Software Engineer, Site Reliability
+company: Parabola
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 45 Employees
+description: |
+  About Us:
+
+  Parabola is a workflow builder that makes it easy to
+  organize and transform messy data from anywhere—even PDFs,
+  emails, and spreadsheets—so that forward-thinking teams can
+  automate the work they thought would always be manual.
+
+  Teams at fast-moving companies like Brooklinen, On Running,
+  and Flexport use Parabola to save hundreds of hours and
+  finally take on the projects that used to feel out of reach.
+  Whether it’s reconciling inventory across multiple 3PLs,
+  auditing invoices, or manually exporting the same report
+  every Monday, Parabola gives teams the power to automate
+  it—all without needing engineering support.
+
+  Parabola is backed by OpenView Partners, Matrix Partners,
+  Thrive Capital and more.
+
+  About the role:
+
+  As a Senior Site Reliability Engineer on our rapidly growing
+  team, you’ll measure how well our software is working, and
+  from that baseline propel us towards high impact
+  improvements that our customers value. Given our small team,
+  your work might span performance, developer experience,
+  security & compliance, and foundational architecture work.
+  You’ll also be on-call and will improve our technical
+  operations, learning as we go.
+
+  What you'll be doing:
+
+  - Monitoring our core business-logic software, both via on-
+    call and in non-urgent situations: describing its existing
+    behavior and defining SLOs or SLAs that get us (you and
+    we) to respond.
+  - Extending and monitoring our infrastructure stack. Because
+    we are B2B, we have fewer raw users, but their usage is
+    often business-critical and we need the infrastructure for
+    that.
+  - Maintaining both a mental and a reified model of our
+    systems: from this model, estimating risk, planning
+    projects, and debugging efficiently.
+  - Collaborating with our engineering team and company
+    leadership from your unique lens on site reliability —
+    being vocal and clear in your expertise in this
+    specialization
+  - Working on our core orchestration logic that determines how
+    to efficiently run tens of thousands of workflows at the
+    same time - we recently rebuilt our orchestrator on top of
+    Temporal and we love it!
+  - Advising many parallel major backend engineering projects,
+    both early in planning and through release. Join such
+    projects for building from time-to-time.
+  - Optimizing our services for scalability, stability, and
+    observability as our customer base grows and our product
+    becomes more sophisticated.
+  - Improving our developer experience in tactical ways, and
+    improving our overall engineering processes and practices
+    more broadly, especially given the opportunities &
+    pressures of LLM coding agents.
+
+  What (we think) you'll need to do it:
+
+  - 5+ years of SRE, DevOps, or Platform engineering experience
+  - A proven record of building efficient, performant, and easy
+    to extend systems.
+  - Has maintained quantitative metrics of site reliability,
+    while also demonstrating judgment about appropriate
+    strictness for SLOs & SLAs. Given our team size, the
+    expectations are somewhat less formal and mature than many
+    SRE teams have; you will both strengthen our approach, but
+    also navigate tradeoffs.
+  - Familiarity with containerization and orchestration tools
+    (e.g., Docker, Kubernetes) and how they interact with
+    backend services, and with Linux
+  - Experience implementing and managing AWS infrastructure
+  - You’re not afraid to ask for help, and you’re happy to give
+    it, too.
+  - You’re an enthusiastic communicator and you like working
+    with a team that provides both mutual support and
+    thoughtful critique.
+  - You're excited to join a hybrid team and work out of our NYC
+    or SF office ~3 days a week.
+
+  Nice to haves:
+
+  - Experience with Temporal.
+  - Experience building AI platforms, or the tooling and systems
+    behind AI products.
+  - Familiarity with Kubernetes/Helm (we use Amazon EKS).
+  - Experience implementing and deploying infrastructure-as-a-
+    service (IaaS) tools to manage production cloud
+    environments
+  - Experience managing CI/CD pipeline for multiple
+    environments, and developer experience more broadly
+  - Experience building cloud storage or data modeling products.
+  - Experience working at early stage startups.
+
+  Salary Range: $180,000 - $200,000
+
+  This salary range represents the minimum and maximum for
+  this role based in San Francisco and New York. The salary
+  given for this position is dependent on multiple factors,
+  including years of experience, interview performance and
+  anticipated responsibilities of the role. Our base salary is
+  one component of Parabola’s competitive total package, which
+  also includes equity and premium health and wellness
+  benefits.
+
+  #prowork
+posted_date: 2026-09-09
+url: "https://builtin.com/job/senior-software-engineer-site-reliability/10979896"
+source: Built In

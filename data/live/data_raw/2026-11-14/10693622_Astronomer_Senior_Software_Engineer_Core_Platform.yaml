@@ -1,0 +1,104 @@
+job_id: 10693622
+title: Senior Software Engineer, Core Platform
+company: Astronomer
+location: New York, USA
+work_type: FULL_TIME
+company_size: 344 Employees
+description: |
+  Astronomer empowers data teams to bring mission-critical
+  software, analytics, and AI to life and is the company
+  behind Astro, the industry-leading unified DataOps platform
+  powered by Apache Airflow®. Astro accelerates building
+  reliable data products that unlock insights, unleash AI
+  value, and power data-driven applications. Trusted by more
+  than 900 of the world’s leading enterprises, including
+  Datadog, American Express, Expedia, Adobe, Autodesk,
+  Together AI, and more, Astronomer lets businesses do more
+  with their data. To learn more, visit www.astronomer.io.
+
+  About this role
+
+  At Astronomer, we’re on a mission to make Apache Airflow the
+  go-to standard for data orchestration, and our R&D team is
+  at the heart of it. We’re looking for a Software Engineer to
+  our Core Platform team, where you’ll work on core systems
+  that power Astro’s Public API, authentication, billing,
+  alerting frameworks, and ensure the platform is reliable,
+  scalable, and maintainable.
+
+  This is a chance to build real-world production systems,
+  collaborate with brilliant engineers, and directly impact
+  how companies around the world manage their data. You’ll
+  grow your skills fast, tackle challenging technical
+  problems, and be part of a team that’s shaping the future of
+  data infrastructure. Astro’s Core Platform exists at the
+  heart of all our products; you get to touch all aspects of
+  product, backend and our engineering practice.
+
+  What you get to do:
+
+  - Contribute to the development of Astro Platform's
+    architecture and components, through implementation and
+    architectural participation.
+  - Collaborate with cross-functional teams to understand user
+    requirements, implement and iterate on features used in
+    our product and by the engineering org as a whole.
+  - Work with front end developers, product management and
+    customers to deliver customer facing features such as
+    public facing APIs and the technology behind Astro’s own
+    infrastructure.
+  - Contribute to the overall platform usability, reliability,
+    and scalability.
+
+  What you bring to the role:
+
+  - A track record in building performant, scalable, and
+    reliable backend systems.
+  - Strong written and verbal communication skills, with a
+    collaborative mindset.
+  - Experience in developing services with Go, interacting with
+    dependencies and service orchestration on Kubernetes.
+  - Familiarity with SQL databases (Postgres, with Spanner
+    experience also a plus)
+  - Advanced understanding of distributed systems concepts and
+    NALSD.
+  - Experience rationally leveraging AI coding assistants and
+    LLMs (e.g., Claude, Cursor, Gemini) to accelerate
+    development — from prototyping and automated testing to
+    code refactoring and documentation.
+
+  Bonus points if you have:
+
+  - Contributions to open source projects.
+  - Experience with Apache Airflow or related workflow
+    orchestrators.
+  - Experience with critical business functions such as billing,
+    authentication, and systems and practices around this
+    area.
+
+  The estimated total compensation for this role ranges from
+  $210,000 - $250,000, along with an equity component and a
+  comprehensive benefits package. This range is merely an
+  estimate, and the width of the range reflects willingness to
+  consider candidates with broad prior seniority. Actual
+  compensation may deviate from this range based on skills,
+  experience, and qualifications.
+
+  #LI-Fulltime #LI-Hybrid
+
+  At Astronomer, we value diversity. We are an equal
+  opportunity employer: we do not discriminate on the basis of
+  race, religion, color, national origin, gender, sexual
+  orientation, age, marital status, veteran status, or
+  disability status.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Cloud
+  - Software
+  - Analytics
+  - Infrastructure as a Service (IaaS)
+  - Big Data Analytics
+posted_date: 2026-10-06
+url: "https://builtin.com/job/senior-software-engineer-core-platform/10693622"
+source: Built In

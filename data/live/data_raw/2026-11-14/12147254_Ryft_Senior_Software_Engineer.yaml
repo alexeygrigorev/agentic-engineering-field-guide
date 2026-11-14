@@ -1,0 +1,177 @@
+job_id: 12147254
+title: Senior Software Engineer
+company: Ryft
+location: London, GBR
+locations:
+  - London, GBR
+  - Manchester, GBR
+work_type: FULL_TIME
+company_size: 18 Employees
+description: |
+  About Ryft
+
+
+
+  Ryft is a regulated payment facilitator and authorised
+  payment institution building the infrastructure layer for
+  modern commerce platforms.
+
+  We enable marketplaces, SaaS platforms and multi-party
+  ecosystems to embed and monetise payments natively. Our
+  technology handles onboarding, compliance, orchestration,
+  split payments and revenue sharing, allowing our partners to
+  focus on growth while we manage complexity.
+
+
+
+  We are now entering the next phase of scale, expanding into
+  new verticals and building a category-defining embedded
+  payments platform.
+
+
+
+  About the Job
+
+  Are you a senior backend engineer who wants to own the
+  systems that move real money, on a platform still young
+  enough to shape?
+
+
+
+  We are looking for a Senior Backend Engineer to join one of
+  our core payments squads. You'll work in C#/.NET on AWS,
+  building the event-driven services behind everything Ryft
+  does: taking payments, splitting them between marketplaces
+  and their sellers, moving money out, and keeping all of it
+  correct under load and under regulation.
+
+
+
+  This is a hands-on senior engineering role. You'll be in the
+  conversation from design through to production, shaping the
+  architecture, writing the code, reviewing your squad's, and
+  owning what you ship once it's live. Our platform is a few
+  years old, not a few decades: there's genuine greenfield
+  alongside services you'll inherit and improve, and the
+  decisions you make this year will still be load-bearing in
+  three.
+
+
+
+  What You'll Work On
+
+  - Payment integrations: building and extending our
+    integrations with acquirers, processors, and alternative
+    payment methods. Each one is a different set of rules,
+    webhooks, and failure modes to model properly.
+  - Marketplace money movement: splits, balances, fees, payouts,
+    and settlement. This is the part of the platform where
+    being nearly right isn't a category that exists.
+  - Merchant accounts and onboarding: the services behind
+    automated onboarding, underwriting, and the account
+    lifecycle.
+  - In-person payments: our card-present estate, terminals, and
+    the flows that connect physical checkouts to the same
+    platform.
+  - Post-transaction flows: refunds, disputes and chargebacks,
+    reconciliation, and reporting the unglamorous surfaces
+    that merchants judge us on.
+  - European expansion: new markets, new payment methods, and
+    the platform work that comes with operating in more
+    places.
+  - The platform itself: our event-driven service estate on AWS,
+    our infrastructure-as-code, our observability, and the
+    tooling that keeps a small team shipping fast.
+
+
+
+  Responsibilities
+
+  - Build and ship: Deliver backend features end-to-end, from
+    design through to production, to a consistently high
+    standard.
+  - Design for correctness: Write services that behave under
+    retries, partial failure, and concurrency. Idempotency,
+    consistency, and accurate money maths are the job, not
+    edge cases.
+  - Own it in production: Take real ownership of what you ship
+    instrumentation, alerting, on-call, and incident response
+    in a regulated payments environment.
+  - Harness AI, stay in control: Use AI-assisted workflows to
+    multiply your output (we invest heavily in them) while
+    remaining in full command of every line you ship.
+  - Raise the bar: Improve the codebase with every feature.
+    Review well, set conventions, and push our standards
+    forward.
+  - Contribute to technical direction: Bring your judgement to
+    architectural decisions across the platform, not just
+    inside your own tickets.
+  - Collaborate: Work day-to-day with your engineering manager,
+    Product, and the other squads to ship secure, scalable
+    payments features.
+
+
+
+  Experience & Skills Required
+
+  - Strong backend engineering: Significant commercial
+    experience building and running production backend
+    services. We work in C#/.NET, so depth there is ideal but
+    if you're excellent in another modern typed language and
+    will get fluent fast, we want to hear from you.
+  - AWS in production: Hands-on experience running services on
+    AWS containers and serverless alike (ECS/Fargate, Lambda,
+    SNS/SQS, DynamoDB or similar NoSQL) and the operational
+    reality that comes with them.
+  - Distributed systems judgement: Comfortable reasoning about
+    service boundaries, asynchronous messaging, eventual
+    consistency, and what happens when a downstream provider
+    stops answering.
+  - Quality instincts: You care about testable design,
+    meaningful test coverage, and API design, and you know
+    when good enough really is good enough.
+  - AI-augmented, engineer-first: You use AI coding tools
+    effectively to move faster, but you review, understand,
+    and take full ownership of the output. We are not looking
+    for someone who ships code they can't explain.
+  - Fast, self-directed learner: A track record of getting
+    productive quickly in unfamiliar domains and codebases.
+    Enthusiasm to learn matters more to us than payments
+    knowledge on day one.
+  - Small-team fit: Comfortable with the flexibility of a
+    scaling team, happy to own problems end-to-end, and ready
+    to turn your hand to whatever gets the product shipped.
+
+
+
+  Nice to Have
+
+  - Payments or fintech experience: Familiarity with the payment
+    value chain, scheme rules, PCI-conscious development, or
+    building in a regulated financial environment.
+  - Infrastructure ownership: Infrastructure-as-code
+    (CloudFormation, CDK, or Terraform), CI/CD pipelines
+    (GitHub Actions), and containerisation
+    (Docker/Kubernetes).
+  - Observability: Experience with metrics, tracing, and
+    alerting — Prometheus, Grafana, CloudWatch, or similar.
+  - Breadth beyond the backend: Exposure to React or React
+    Native, or experience maintaining published SDKs with
+    external consumers.
+
+
+
+  Why Ryft?
+
+  If you want to build the systems that move money in a fast-
+  paced, collaborative environment, we'd love to hear from
+  you. We value engineers who care about the craft, speak up
+  with their ideas, and take pride in what they ship. You'll
+  join a team where your voice is heard, your work matters,
+  and there's plenty of room to grow.
+industries:
+  - Mobile
+  - Payments
+posted_date: 2026-11-09
+url: "https://builtin.com/job/senior-software-engineer/12147254"
+source: Built In

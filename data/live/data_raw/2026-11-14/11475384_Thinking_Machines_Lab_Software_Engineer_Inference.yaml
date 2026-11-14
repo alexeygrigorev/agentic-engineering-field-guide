@@ -1,0 +1,100 @@
+job_id: 11475384
+title: Software Engineer, Inference
+company: Thinking Machines Lab
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 91 Employees
+description: |
+  About Thinking Machines
+
+  The mission of Thinking Machines is to build AI that extends
+  human will and judgment. We are training frontier models
+  with Inkling, developing Tinker to let people make models
+  their own, and crafting interfaces that broaden human-AI
+  communication. We believe the future worth building is
+  human, and we're hiring people who want to build it.
+
+  About the Role
+
+  We're hiring a Software Engineer, Inference to own the
+  reliability, scale, and efficiency of the systems that serve
+  our models to real users. Our research and inference teams
+  push the limits of model performance and serving efficiency;
+  this role makes sure those gains reach production safely and
+  stay up — powering Tinker's live, multi-tenant serving and
+  the products built on top of our models.
+
+  This is a production-facing systems role at the center of
+  the company. You'll be the bridge between cutting-edge
+  inference techniques and the day-to-day reality of serving
+  real traffic: rollouts, capacity, incidents, and everything
+  that keeps a fast-growing platform online.
+
+  What You'll Do
+
+  - Operate and scale the production inference systems that
+    serve live traffic, including Tinker's multi-tenant
+    serving platform
+  - Own the rollout process for new models, model versions, and
+    inference optimizations, ensuring safe, incremental
+    deployment to production
+  - Build and improve observability, alerting, and capacity
+    planning so the team can detect, diagnose, and resolve
+    production issues quickly
+  - Partner with inference and research teams to productionize
+    new serving techniques without compromising reliability
+  - Lead incident response for production inference issues,
+    driving root cause analysis and durable fixes
+  - Design for graceful degradation, failover, and redundancy so
+    that serving stays resilient as usage grows
+  - Manage capacity and cost tradeoffs for serving
+    infrastructure as traffic and model sizes scale
+
+  Skills & QualificationsMinimum Qualifications
+
+  - Experience operating large-scale, latency-sensitive
+    production systems
+  - Proficiency in Python and Go or another systems language
+  - Experience with observability, monitoring, and incident
+    response for production services
+  - Strong understanding of distributed systems and how they
+    fail at scale
+
+  Preferred Qualifications
+
+  - Experience running production inference for large language
+    models or other large-scale ML systems
+  - Experience with deployment and rollout systems, such as
+    canarying, blue/green deploys, or feature flags
+  - Experience with capacity planning and cost optimization for
+    GPU or TPU infrastructure
+  - Familiarity with inference-specific techniques, such as
+    batching, caching, or quantization, and their operational
+    implications
+  - Comfortable being on-call and leading incident response for
+    critical production systems
+  - Comfortable working with high autonomy in a fast-changing,
+    early-stage environment
+
+  Logistics
+
+  - Location: This role is based in San Francisco, CA.
+  - Compensation: Depending on background, skills and
+    experience, the expected annual salary range for this
+    position is $300,000 - $400,000 USD.
+  - Visa sponsorship: We sponsor visas. While we can't guarantee
+    success for every candidate or role, if you're the right
+    fit, we're committed to working through the visa process
+    together.
+  - Benefits: Thinking Machines offers generous health, dental,
+    and vision benefits, unlimited PTO, paid parental leave,
+    and relocation support as needed.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-10-02
+url: "https://builtin.com/job/software-engineer-inference/11475384"
+source: Built In

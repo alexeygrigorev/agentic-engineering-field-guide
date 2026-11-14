@@ -1,0 +1,169 @@
+job_id: 12127405
+title: Senior Bioinformatics Software Engineer
+company: Baylor Genetics
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 202 Employees
+description: |
+  JOB SUMMARY
+
+  The Senior Bioinformatics (BI) Software Engineer holds a
+  critical technical role, responsible for designing,
+  developing, and maintaining scalable and efficient software
+  solutions for Baylor Genetics’ bioinformatic pipelines. This
+  role involves collaborating with and supporting cross-
+  functional teams to deliver data-driven software solutions
+  aligning with business needs.
+
+  KEY RESPONSIBILITIES
+
+  - BI Development:Design, develop, and maintain robust software
+    solutions using various tools, databases, and technologies
+    to meet business requirements.
+  - Data Modeling:Create and optimize data models, ensuring the
+    accuracy, integrity, and performance of the underling
+    computational algorithms, especially as pertains to
+    assembly, mapping, variant calling and variant annotation.
+  - ETL Processes:Develop and optimize ETL (Extract, Transform,
+    Load) processes to efficiently extract data from various
+    sources, transform it, and load it into the BI system,
+    with an emphasis on utilizing APIs
+  - Query Optimization:Analyze and optimize SQL queries and
+    database performance to enhance data retrieval and
+    reporting speed. Contribute to schema design and review
+    sessions to ensure high performance and maintainable
+    databases.
+  - Dashboard & Report Creation:Develop interactive dashboards
+    and automated reports using BI tools (e.g., Azure
+    Pipelines, Teams Power Automate, email, Nextflow) to
+    provide actionable insights for stakeholders.
+  - Collaboration:Work and align closely with stakeholders,
+    including data analysts, business users, clinical
+    reviewers, laboratory personnel and software developers,
+    to scope their requirements and deliver timely
+    integrations of new software.
+  - Data Integration:Integrate disparate data sources and ensure
+    consistency, accuracy, and reliability of data across the
+    BI system, with a focus on devising systems that have
+    minimal to no code debt and are highly maintainable and
+    flexible.
+  - Quality Assurance:Conduct rigorous testing of BI solutions
+    to ensure data accuracy, system stability, and optimal
+    performance, with the ability to automate testing suites
+    using packages (e.g. pytest, doctest, Azure Pipelines)
+  - Documentation & Maintenance:Create comprehensive
+    documentation for developed solutions and provide support
+    and maintenance as necessary. This generally includes: (1)
+    detailed in-line commenting noting Jira ticket request
+    numbers, genomic diagrams, reasoning and personal
+    thoughts, TODO comments, docstrings, BG headers, etc.; (2)
+    wikis and README files instructing users on how to install
+    and implement the software along with trace mappings
+    detailing how the software is generally organized.
+
+  QUALIFICATIONS
+
+  Required
+
+  - Education:Bachelor’s degree in Computer Science, Software
+    Engineering, Bioinformatics or a related field; Master’s
+    degree preferred.
+  - Experience:Minimum of 5 years of experience in software
+    development, with a proven track record of designing and
+    implementing scalable software solutions based on diverse
+    user feature needs. Must have a proven track record of
+    implementing production ready software solutions from
+    scratch. Prior experience or domain knowledge from
+    collaborating with laboratory scientists, computational
+    biologists, or clinical reviewers is a nice-to-have.
+
+  COMPETENCIES
+
+  Technical Skills:
+
+  - Deep knowledge and expertise in at least two programming
+    languages (Python, Perl, R, or Bash, will also consider
+    Java, C++, and Groovy).
+  - Proficient in a range of database technologies, including
+    SQL Server, NoSQL, MongoDB, MySQL, and ElasticSearch,
+    demonstrating comprehensive skills in database management,
+    optimization, and query development.
+  - Proficiency in working in an Agile framework and
+    implementing CI/CD practices using Git. Knowledge of Azure
+    is a bonus.Implementation of object orientated programming
+    (OOP) is second nature, which includes building intuitive
+    classes relevant to the science, system, or service.
+  - Standard software design practices relevant to that language
+    is intuitive to you. Demonstrated ability to build entire
+    software packages from scratch that are performant and
+    highly maintainable, ensuring they are tested and are
+    production ready. Solid understanding and habitual
+    practice of unit and integration testing of software.
+  - High regard for documentation and object/variable naming
+    that is explicit, with the ability to relay or distill
+    scientific concepts within supplemental documentation or
+    inline code itself.
+  - Proficiency in designing and building APIs and microservices
+    from scratch.
+  - Familiarity with Linux OS and HPC clusters (SLURM,
+    Kubernetes, GCP, Azure, etc.) is a plus, but not
+    essential.
+  - Solid understanding of package management practices (PIP,
+    Conda, etc.) and containerization (Docker, Singularity,
+    etc.).
+  - Proficiency or knowledge of workflow management or
+    orchestration tools (Nextflow, Airflow, Snakemake, etc.)
+    is a plus, but not essential.
+
+  Analytical Thinking: Strong analytical and problem-solving
+  skills with the ability to translate complex business needs
+  into technical solutions and work independently to solve
+  problems. Also requires good communication skills and
+  flexibility to reach out to stakeholders and SMEs as
+  necessary
+
+  - Team Collaboration:Excellent interpersonal and communication
+    skills to collaborate effectively with multidisciplinary
+    teams. Should be open and willing to receive and give
+    criticism and feedback in a measured manner, focused on
+    solving the problem at hand.
+  - Adaptability:Ability to adapt to evolving technologies,
+    learn new tools, and implement best practices in BI
+    software engineering and development. Should be able to
+    assess situations when a drop-in solution would be
+    preferable to a custom software implementation and run
+    proof-of-concepts as needed. Should be highly familiar
+    with best practices in software development and an
+    advocate of best practices, even under pressure.
+  - Project Management:Experience in managing individual
+    projects and adhering to timelines while delivering high-
+    quality solutions, ensuring good communication in
+    situations where project scopes may fluctuate
+  - Performs other advanced job-related duties as assigned.
+
+  PHYSICAL DEMANDS AND WORK ENVIRONMENT
+
+  - Frequently required to sit.
+  - Frequently required to stand.
+  - Frequently required to utilize hand and finger dexterity.
+  - Frequently required to talk or hear.
+
+  EEO STATEMENT
+
+  Baylor Genetics is proud to be an equal opportunity employer
+  dedicated to building an inclusive and diverse workforce. We
+  do not discriminate based on race, religion, color, national
+  origin, sex, sexual orientation, age, gender identity,
+  veteran status, disability, genetic information, pregnancy,
+  childbirth, or related medical conditions, or any other
+  status protected under applicable federal, state, or local
+  law.
+
+  Equal Opportunity Employer This employer is required to
+  notify all applicants of their rights pursuant to federal
+  employment laws. For further information, please review the
+  Know Your Rights notice from the Department of Labor.
+posted_date: 2026-11-07
+url: "https://builtin.com/job/senior-bioinformatics-software-engineer/12127405"
+source: Built In

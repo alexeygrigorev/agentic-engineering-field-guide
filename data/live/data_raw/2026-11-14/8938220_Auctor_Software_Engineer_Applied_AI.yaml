@@ -1,0 +1,76 @@
+job_id: 8938220
+title: Software Engineer, Applied AI
+company: Auctor
+location: New York, USA
+work_type: FULL_TIME
+company_size: 21 Employees
+description: |
+  Why Auctor
+
+  Auctor is building the AI layer for professional services
+  and software implementation. Think of us as the brain behind
+  the best solution engineers, forward-deployed engineers, and
+  onboarding teams—automating the documentation, the
+  discovery, and the decision-making that powers $400B+ in
+  services work. We're going after one of the biggest software
+  categories of the decade.
+
+  The Opportunity
+
+  As a Software Engineer, Applied AI at Auctor, you will
+  design, build, and improve the core systems behind our
+  agents in production.
+
+  This role sits at the boundary of engineering and empirical
+  research. You will work across retrieval, document
+  understanding, tool use, context management, prompting, and
+  orchestration. Some weeks you will be shipping new
+  capabilities. Some weeks you will be mining production
+  traces, designing evals, and figuring out which part of the
+  system is actually failing.
+
+  We are not looking for someone to glue an API onto a product
+  and call it AI. We are looking for someone who wants to
+  build real agent systems, understand how they behave in the
+  wild, and use that understanding to make bold product and
+  architecture decisions.
+
+  This role is based in New York, NY, in person 5 days per
+  week.
+
+  What You'll Build
+
+  - Build and improve the core systems behind our agents across
+    retrieval, tool use, document understanding, memory, and
+    orchestration
+  - Design evals and experiments that help us understand agent
+    quality in production
+  - Turn traces, failures, and user behavior into concrete
+    product and architecture decisions
+  - Work closely with operations, GTM, and deployed teams to
+    understand real workflows and where agents break down
+  - Evaluate models, prompts, and system designs across real
+    enterprise tasks
+  - Own the loop from idea -> implementation -> measurement ->
+    iteration
+
+  What You Bring
+
+  - Strong engineering fundamentals and the ability to ship
+    production systems
+  - Fluency in Python
+  - Experience building or working on LLM-powered products,
+    agent systems, or adjacent applied AI systems
+  - An empirical mindset — you reach for logs, traces,
+    experiments, and real usage before guessing
+  - Strong systems taste — you understand that retrieval,
+    prompting, memory, tools, and UX interact
+  - High ownership and comfort working in ambiguity
+  - Strong opinions about what makes agent systems actually work
+industries:
+  - Information Technology
+  - Professional Services
+  - Software
+posted_date: 2026-08-08
+url: "https://builtin.com/job/software-engineer-applied-ai/8938220"
+source: Built In

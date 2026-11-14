@@ -1,0 +1,293 @@
+job_id: 10631817
+title: "Senior Software Engineer, Identity & Access Discovery"
+company: Keeper Security, Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 350 Employees
+description: |
+  Description
+
+  Keeper Security is hiring an experienced Senior Software
+  Engineer to join our Privileged Access Management team and
+  lead backend development for Discovery capabilities within
+  KeeperPAM. This is a 100% remote position, with an
+  opportunity to work a hybrid schedule for candidates based
+  in the Chicago, IL or El Dorado Hills, CA metro areas.
+
+  Keeper’s cybersecurity software is trusted by millions of
+  people and thousands of organizations globally. Join one of
+  the fastest-growing cybersecurity companies and help build
+  the systems that discover and secure privileged identities
+  and infrastructure across complex enterprise environments.
+
+  About Keeper
+
+  Keeper Security is one of the fastest-growing cybersecurity
+  software companies that protects thousands of organizations
+  and millions of people in over 150 countries. Keeper is a
+  pioneer of zero-knowledge and zero-trust security built for
+  any IT environment. Its core offering, KeeperPAM®, is an AI-
+  enabled, cloud-native platform that protects all users,
+  devices and infrastructure from cyber attacks. Recognized
+  for its innovation in the Gartner Magic Quadrant for
+  Privileged Access Management (PAM), Keeper secures passwords
+  and passkeys, infrastructure secrets, remote connections and
+  endpoints with role-based enforcement policies, least
+  privilege and just-in-time access. Learn why Keeper is
+  trusted by leading organizations to defend against modern
+  adversaries at KeeperSecurity.com.
+
+  About the Job
+
+  As a Senior Software Engineer on Keeper's PAM Discovery
+  team, you will be a primary developer for the backend
+  discovery service that identifies privileged accounts,
+  service accounts, keys and machines across Active Directory,
+  cloud IAM, databases and endpoints so they can be brought
+  under secure management and rotation. This is primarily a
+  backend engineering role, most of your time will be spent
+  building services, data pipelines and integrations in
+  Python, with some Java/Kotlin work on our cloud services and
+  occasional changes to our TypeScript/React administrative
+  interface.
+
+  What makes this problem interesting: Discovery runs on
+  gateways deployed inside customer environments that Keeper
+  cannot access directly, so the system has to be resilient,
+  self-diagnosing and safe even when debugging access is
+  limited and deployed versions vary. And Keeper's zero-
+  knowledge architecture requires discovered data to be
+  encrypted before it leaves the customer environment, which
+  rules out most of the conventional answers for how that data
+  can be processed, indexed and presented.
+
+  Responsibilities
+
+  - Design and develop the Python discovery engine that runs on
+    customer-deployed gateways, and the Java/Kotlin cloud
+    services that store and serve discovered data
+  - Build systems that discover privileged accounts, service
+    accounts, keys, machines and related identity data across
+    Active Directory, cloud IAM, databases and endpoints
+  - Solve identity correlation and reconciliation challenges,
+    including determining when accounts discovered across
+    multiple systems represent the same principal
+  - Build incremental re-scan and state-reconciliation
+    capabilities that maintain an accurate view of customer
+    environments without accumulating duplicate or stale data
+  - Build the test coverage and diagnostic tooling that let us
+    trust code we can't debug in the field: unit, integration
+    and automated tests, plus logging and error reporting good
+    enough to root-cause an issue from a customer's logs alone
+  - Design discovery workflows that operate safely inside
+    customer production networks, respecting API limits,
+    limiting blast radius and remaining resilient to partial
+    failures across large environments
+  - Develop secure data-processing workflows that operate within
+    Keeper’s zero-knowledge architecture and protect
+    discovered data throughout collection, transmission and
+    storage
+  - Collaborate with Product, QA and other PAM engineers on
+    technical design, testing, troubleshooting and delivery of
+    Discovery features
+  - Use AI-assisted tools such as Claude, ChatGPT, GitHub
+    Copilot or similar platforms to support development,
+    debugging, research and documentation
+
+  Requirements
+
+  - 8+ years of professional software development experience,
+    with a strong focus on backend systems
+  - Strong Python experience with Python is the primary language
+    of Keeper's Discovery engine
+  - Working proficiency in Java or Kotlin for backend services,
+    plus enough comfort in TypeScript/React to make changes in
+    our administrative interface when needed
+  - Strong experience with distributed systems, APIs and data-
+    processing pipelines, including systems that must run
+    reliably in environments you don't control
+  - Hands-on experience with Active Directory and/or LDAP
+  - Working knowledge of at least one major cloud IAM model,
+    such as AWS IAM and Organizations, Microsoft Entra ID or
+    GCP IAM
+  - Strong knowledge of secure software development practices,
+    authentication, authorization and encryption
+  - Bachelor's degree in Computer Science, Engineering or a
+    related field, or equivalent practical experience
+  - Strong data modeling instincts, ideally including graph or
+    relationship-oriented models
+  - Due to this role's involvement in GovCloud and FedRAMP
+    environments, qualified candidates must be a U.S. Person,
+    defined as a U.S. citizen or lawful permanent resident
+
+  Preferred Qualifications
+
+  - Experience developing Privileged Access Management, identity
+    security or cybersecurity products
+  - Experience with identity discovery, account discovery, asset
+    inventory or similar infrastructure discovery systems
+  - Experience with containerized or cloud-native applications
+  - Experience developing high-scale enterprise SaaS products
+
+  Benefits
+
+  - Medical, Dental & Vision (inclusive of domestic
+    partnerships)
+  - Employer Paid Life Insurance & Employee/Spouse/Child
+    Supplemental Life
+  - Voluntary Short/Long Term Disability Insurance
+  - 401K (Roth/Traditional)
+  - A generous PTO plan that celebrates your commitment and
+    seniority (including paid Bereavement/Jury Duty, etc.)
+  - Above-market annual bonuses
+
+  Keeper Security, Inc. is an equal opportunity employer and
+  participant in the U.S. Federal E-Verify program. We
+  celebrate diversity and are committed to creating an
+  inclusive environment for all employees.
+
+  Classification: Exempt
+
+  Keeper Candidate Privacy Notice
+
+  This notice explains how Keeper Security processes your
+  personal data during recruitment. Depending on the role and
+  location, the Controller of personal data (the organization
+  responsible for determining why and how personal data is
+  processed) will be Keeper Security Inc. (US), Keeper
+  Security EMEA Ltd. (Ireland), or Keeper Security APAC K.K
+  (Japan).
+
+   1. Data We Collect
+
+  Information You provide:
+
+  - Contact details, CV/resume, cover letter
+  - Employment history, qualifications, work eligibility
+  - Application responses and uploaded documents
+
+  Information We generate:
+
+  - Interview notes, assessments, communications
+  - Scheduling information
+
+  Information From Others:
+
+  - Recruiter/referral information who submit your profile
+  - References (with your consent, before final offer)
+  - Public professional profiles
+  - Background verification (post offer)
+
+   Voluntary Diversity and Equal Opportunity Information
+
+  - We may ask you to voluntarily provide diversity information
+    including race/ethnicity, gender, disability status and
+    veteran status (US). Providing this information is
+    optional and Keeper collects this data in order to comply
+    with EEOC and similar requirements
+
+   2. How We Use Your Data
+
+  - Assess your application and suitability
+  - Manage interviews and recruitment workflow
+  - Consider you for other/future roles (we may seek your
+    consent to keep your information on our systems beyond the
+    retention period specified)
+  - Comply with employment law obligations
+
+   3. Legal Basis
+
+  - Legitimate Interests (recruitment management, security and
+    integrity of the hiring process)
+  - Contracting steps (for progressed candidates)
+  - Legal and regulatory compliance obligations; explicit
+    consent where required
+
+   4. Who We Share Information With
+
+  Internal:
+
+  - HR, hiring managers, interviewers*, IT support for system
+    administration
+
+  *Note - diversity and equal opportunity data is not shared
+  with hiring managers.
+
+  Third Parties:
+
+  Service providers who assist with:
+
+  - Applicant tracking, recruitment systems and assessment
+    providers
+  - Background verification vendors (post offer)
+  - Recruitment agencies (where applicable)
+  - Tools to support communication, collaboration and to
+    securely store your data
+
+  Keeper ensures that all our third parties are contractually
+  bound to protect your personal data with adequate safeguards
+  in place.
+
+   5. International Transfers
+
+  Your data may be accessed by Keeper entities globally as
+  needed for the purposes of hiring and decision making. We
+  protect any such data transfer between Keeper entities using
+  appropriate safeguards under applicable data protection
+  laws.
+
+  6. Security
+
+  We implement appropriate technical and organizational
+  measures to protect your data, consistent with our industry
+  leading security standards.
+
+  7. Retention
+
+  We keep your data for 24 months from your last application
+  activity, then delete or anonymize it.
+
+  Exceptions:
+
+  - You opt into our talent database for further retention by
+    providing consent (extended retention)
+  - You're hired (transfers to employee records)
+
+   8. Your Rights
+
+  You have the following rights and can contact us at the
+  email below to exercise them:
+
+  - Access, correct, or delete your data, subject to applicable
+    law and retention requirements
+  - Object to or restrict processing
+  - Withdraw consent (where applicable)
+  - Request data portability
+  - Lodge a complaint with your data protection authority
+
+  If you become an employee, your rights regarding your
+  employee record are governed by our internal Employee
+  Privacy Notice and certain data will be retained as required
+  under relevant laws such as employment or tax law.
+
+  When you request access to your personal data, some
+  information may be redacted if it includes the personal data
+  of other individuals or information that we must protect in
+  order to preserve their privacy rights.
+
+   9. Automated Decisions
+
+  Keeper does not make hiring decisions using solely automated
+  processing.
+
+  10. Contact - Candidates can send privacy questions to:
+  privacy@keepersecurity.com
+industries:
+  - Mobile
+  - Security
+  - Software
+  - Cybersecurity
+posted_date: 2026-08-11
+url: "https://builtin.com/job/senior-software-engineer-identity-access-discovery/10631817"
+source: Built In

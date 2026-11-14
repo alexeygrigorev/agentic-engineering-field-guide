@@ -1,0 +1,145 @@
+job_id: 12086191
+title: Principal Software Engineer, Platform
+company: PermitFlow
+location: New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 160 Employees
+description: |
+  PermitFlow is redefining how America builds. We’re an
+  applied AI company serving the nation’s builders, tackling
+  one of the largest information challenges in the economy:
+  understanding what can be built, where, and how. Our AI
+  agent workforce helps the fastest-growing construction
+  companies navigate everything from permitting and licensing
+  to inspections and project closeouts – accelerating housing,
+  clean-energy, and infrastructure development across the
+  country.
+
+  Despite being a $1.6T industry, construction still suffers
+  from massive delays, wasted capital, and lost opportunity.
+  PermitFlow has already delivered unprecedented speed,
+  accuracy, and visibility to over $20B in development,
+  helping contractors reduce compliance time, de-risk
+  projects, and scale with confidence.
+
+  As the U.S. enters a new capex supercycle across data
+  centers, factories, housing, and renewables, joining
+  PermitFlow means building the AI infrastructure at the core
+  of every construction project driving the next wave of
+  reindustrialization.
+
+  We’ve raised over $90M, most recently completing our Series
+  B, from top-tier investors including Accel, Kleiner Perkins,
+  Initialized, Y Combinator, Felicis, and Altos Ventures, with
+  backing from leaders at OpenAI, Google, Procore,
+  ServiceTitan, Zillow, PlanGrid, and Uber.
+
+
+
+  Our HQ is in New York City with a hybrid schedule (3 in-
+  office days per week). We prefer NYC-based candidates or
+  those open to relocation.
+
+
+
+  Role Overview
+
+  We’re hiring a Principal Engineer to own the evolution of
+  our architecture and platform so it works for agents as well
+  as people. Our goal is simple: double the output of our
+  entire organization while raising the quality bar. The scope
+  is the whole platform. You’ll work across infrastructure,
+  shared services, and product code, and step in as a product
+  engineer anywhere in the stack when that is the fastest way
+  to move.
+
+  The ideal candidate is deep in code architecture and
+  platform engineering, already works agent-first, and has
+  built foundations that other teams adopted because they were
+  better. This role reports directly to our VP of Engineering.
+
+
+
+  What You'll Do
+
+  - Own the architecture of our codebase. Set the patterns,
+    module boundaries, and domain abstractions across our
+    monorepo, and lead the refactors and migrations that get
+    us there.
+  - Design the monorepo for agents. Structure packages,
+    ownership, the build graph, and conventions so an agent
+    can find the right context, make a scoped change, and
+    verify it without reading the whole repo.
+  - Build the platform substrate. Own the shared services,
+    infrastructure, and paved paths (data access, background
+    jobs, environments, observability) that product teams
+    build on and agents can use safely.
+  - Own the agentic SDLC. Define how work moves from ticket to
+    production when agents do much of the writing, testing,
+    and reviewing. Set the defaults every team builds on, and
+    change them as models and tools improve.
+  - Scale verification with volume. Build AI-assisted code
+    review, test generation, and CI gates so confidence to
+    merge keeps pace as PR volume doubles. Decide where human
+    review is required and where it is not.
+  - Put agents to work in the background. Stand up agents that
+    pick up well-scoped tickets, triage flaky tests, run
+    dependency upgrades and large migrations, and draft fixes
+    from incidents and error reports.
+
+
+
+  What We're Looking For
+
+  - You've owned the architecture of a large, multi-team
+    codebase. You've set the module boundaries and patterns
+    others build within, run monorepo tooling (Nx, Turborepo,
+    Bazel, or similar), and led migrations that changed how a
+    whole org works.
+  - Strong platform and infrastructure depth: cloud
+    infrastructure, infrastructure as code, CI/CD,
+    observability, and services you've run in production
+    through real incidents.
+  - You can work across the stack as a product engineer, from
+    data model to UI, and you're happy to do it.
+  - You work agent-first today. A large share of the code you
+    ship comes from AI coding agents, and you have specific,
+    earned opinions on where they break and how codebase
+    structure fixes that.
+  - Current knowledge of the agentic stack as it applies to
+    software engineering: context engineering, agent
+    instructions and skills, MCP, sandboxed execution, and how
+    to evaluate a coding agent's output.
+  - You operate with earned authority. You influence through
+    demonstrated judgment, working code, and clear writing
+    rather than title or mandate.
+  - 15+ years of software engineering experience, including time
+    setting technical direction across multiple teams.
+
+  What We Offer
+
+  - Competitive salary and meaningful equity in a high-growth
+    company
+  - 100% company-paid base medical, dental, and vision coverage
+    for employees + healthcare FSA
+  - 401(k) savings plan
+  - Unlimited PTO and paid family leave
+  - Home office & equipment stipend
+  - Daily in-office lunch and dinner provided
+  - Commuter benefits (pre-tax transit and parking)
+
+  PermitFlow provides equal employment opportunities (EEO) to
+  all employees and applicants for employment without regard
+  to race, color, religion, sex, national origin, age,
+  disability, genetics, sexual orientation, gender identity,
+  gender expression, or family status, as protected by
+  applicable law.
+
+  We are committed to a diverse and inclusive workforce and
+  welcome people from all backgrounds, experiences,
+  perspectives, and abilities. All employment decisions are
+  based on merit, qualifications, and business needs.
+posted_date: 2026-11-05
+url: "https://builtin.com/job/principal-software-engineer-platform/12086191"
+source: Built In

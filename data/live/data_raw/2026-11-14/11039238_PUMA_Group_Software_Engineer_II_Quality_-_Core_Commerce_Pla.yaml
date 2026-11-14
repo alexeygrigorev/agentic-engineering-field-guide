@@ -1,0 +1,156 @@
+job_id: 11039238
+title: Software Engineer II (Quality) - Core Commerce Platform
+company: PUMA Group
+location: CAN
+locations:
+  - CAN
+  - IND
+  - AUS
+  - IRL
+  - GBR
+  - Local, USA
+  - Singapore, SGP
+remote: true
+work_type: FULL_TIME
+company_size: 14,000 Employees
+description: |
+  SPEED & SPIRIT is what we look for in our candidates,
+  defined by some simple values that inspire us to BE DRIVEN
+  in our performance, BE VIBRANT in our sporting legacy, BE
+  TOGETHER in our team spirit, and to let our individual
+  talent and experience shine. Applying for a job at PUMA is
+  easy.
+
+  Simply click APPLY ONLINE and follow the steps to upload
+  your application.
+
+  YOUR MISSION
+
+  About the Organisation & Role:  You will be part of the Core
+  Commerce Platform organisation responsible for delivering
+  the omnichannel commerce capabilities that power the
+  purchase journey, inventory availability, delivery promise,
+  order processing & fulfilment and post-purchase experiences
+  across channels. The organisation plays a critical role in
+  ensuring products are available to buy, orders can be
+  fulfilled reliably, and commitments made to consumers are
+  delivered consistently. Through a portfolio of commerce
+  platform capabilities, the organisation enables seamless
+  omnichannel experiences while supporting efficient,
+  scalable, and resilient commerce operations across the
+  global digital ecosystem.
+
+  As a Quality Engineer, you will design, automate and execute
+  tests for Inventory, Promise and Order Fulfilment
+  capabilities. Working closely with the Lead Engineer,
+  Product Owner, Software Engineers and Engineering Manager,
+  you will validate functional and non-functional
+  requirements, contribute to CI/CD quality gates, and help
+  deliver reliable consumer experiences.
+
+  What you will do:
+
+  - · Develop and execute comprehensive test plans and scenarios
+    to validate inventory availability, order promising,
+    sourcing, and fulfilment capabilities across distributed
+    commerce platforms.
+  - · Develop automated and high-concurrency test scenarios to
+    ensure oversell prevention mechanisms correctly reserve
+    and allocate inventory when multiple orders compete for
+    limited stock.
+  - · Identify, document and track defects, perform initial
+    failure analysis, verify fixes and maintain appropriate
+    regression coverage.
+  - · Validate sourcing and fulfilment optimization logic,
+    ensuring routing decisions appropriately balance cost,
+    delivery speed, inventory utilization, node capacity, and
+    markdown-avoidance objectives.
+  - · Validate cache refresh and invalidation mechanisms
+    triggered by inventory-changing events to prevent stale
+    availability data and reduce overselling risk.
+  - · Integrate automated tests into CI/CD pipelines and
+    contribute to quality gates and release-readiness
+    evidence.
+  - · Apply risk-based testing to prioritise validation
+    according to consumer impact, transaction risk and change
+    complexity.
+  - · Build and maintain API, integration, and contract testing
+    suites for OMS integrations with WMS, ERP, POS, payment
+    providers, and 3PL/carrier systems.
+  - · Collaborate with the Product Owner, Lead Engineer and
+    Software Engineers to understand requirements, identify
+    test scenarios and execute the agreed testing approach.
+
+  YOUR TALENT
+
+  - · 4+ years of experience in Quality Engineering, test
+    automation or software quality assurance, preferably
+    within commerce, order management, inventory or supply-
+    chain platforms.
+  - · Hands-on experience building and maintaining automated
+    tests for APIs, microservices and event-driven systems.
+  - · Experience with Java and relevant automation frameworks
+    such as JUnit, TestNG, REST Assured, Selenium, Playwright
+    or equivalent.
+  - · Experience with API, integration, contract and regression
+    testing.
+  - · Understanding of inventory concepts such as availability,
+    reservations, allocation, ATP or ATS.
+  - · Experience validating business-rule-driven workflows such
+    as order promising, sourcing or fulfilment will be an
+    advantage.
+  - · Understanding of concurrency and data-consistency risks,
+    with experience testing transactional or high-volume
+    systems.
+  - · Experience integrating automated tests into CI/CD
+    pipelines and contributing to quality gates.
+  - · Experience with test-data management, defect investigation
+    and failure analysis.
+  - · Understanding of reliability, scalability, resilience and
+    performance testing considerations for distributed
+    systems.
+  - · Familiarity with AI-assisted test generation, intelligent
+    regression testing or AI-native quality engineering
+    practices.
+  - · Experience with cross-browser or cross-device testing
+    tools such as BrowserStack or equivalent will be an
+    advantage
+
+  PUMA provides equal opportunities for all job applicants,
+  regardless of race, color, religion, national origin, sex,
+
+  gender identity or expression, sexual orientation, age, or
+  disability. Equality for all is one of the core principles
+  at
+
+  PUMA and we do not tolerate any form of harassment or
+  discrimination.
+
+  At PUMA, every application is reviewed by real people who
+  are committed to fairness, transparency, and equal
+
+  opportunity - no matter your background, identity, or
+  experience.To ensure our process stays true to these values,
+  no automated systems or AI tools are used to make hiring
+  decisions. Every decision is made by real people -with real
+  judgment and accountability. We may use functions supported
+  by Artificial Intelligence (AI) to carry out isolated
+  organizational steps, such as scheduling interviews. These
+  functions have no influence on decisions in the application
+  process. We believe in creating spaces where everyone is
+  welcome, celebrated, and empowered to contribute
+  authentically. Because at PUMA, whoever wants to play, can
+  play.
+
+  PUMA is a global sports brand creating footwear, apparel,
+  and accessories that inspire athletes and everyday movers.
+  The PUMA Group owns PUMA, Cobra Golf, and stichd, operates
+  in 120+ countries, and has around 22,000
+
+  employees worldwide.
+industries:
+  - Retail
+  - Sports
+posted_date: 2026-09-07
+url: "https://builtin.com/job/software-engineer-ii-quality-core-commerce-platform/11039238"
+source: Built In

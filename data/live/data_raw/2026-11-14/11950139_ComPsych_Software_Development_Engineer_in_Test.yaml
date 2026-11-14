@@ -1,0 +1,182 @@
+job_id: 11950139
+title: Software Development Engineer in Test
+company: ComPsych
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 851 Employees
+description: |
+  About ComPsych
+
+  ComPsychⓇ is the worldwide leader in organizational mental
+  health, well-being, and absence management, dedicated to
+  igniting human potential in workplaces across the globe. For
+  over 40 years, we have combined the best in technology with
+  unmatched human expertise to help individuals and their
+  organizations thrive. Our GuidanceResourcesⓇ and
+  AbsenceResourcesⓇ solutions deliver end-to-end mental
+  health, well-being, work-life, health navigation, and
+  absence support to more than 75,000 customers worldwide,
+  touching more than 160 million lives across 200 countries.
+  Visit compsych.com to find out why 40% of the Fortune 500
+  choose ComPsych for their mental health and absence
+  management needs.
+
+  About the Role
+
+  We're modernizing how ComPsych builds technology — new
+  customer-facing web and mobile experiences, a unified design
+  system, and AI-powered capabilities across our products.
+  That means raising the engineering bar for how we design,
+  build, and operate software, with Engineering, Product, and
+  Design working together end to end.
+
+  AI isn't a productivity add-on here — it's how we build. Our
+  team uses agentic development as standard equipment, moving
+  from problem to production-ready code faster than
+  traditional development allows, while keeping the work
+  reviewable and maintainable. We're looking for a Senior SDET
+  who already works this way. Quality here is an engineering
+  discipline, not a phase, and there is no manual QA layer
+  beneath our SDETs: you own the strategy, automation, and
+  signal quality for your team, with exploratory testing as
+  deliberate work alongside maintainable automation. Agents
+  help turn requirements into scenarios, generate automation,
+  and diagnose failures; you own the judgment on whether the
+  evidence is trustworthy. As a healthcare company, PHI never
+  enters non-production environments. Platform owns
+  environments and pipelines, and you own what runs on them:
+  test configuration, data, and signal quality.
+
+  This role is for an SDET who has verified AI-powered
+  products whose outputs are non-deterministic. You'll define
+  how ComPsych decides that an AI feature is good enough to
+  ship, and how we know when it stops being so.
+
+  What You'll Do
+
+  AI changes what your time goes toward. You're still
+  accountable for the quality of what ships — strategy,
+  automation, feedback, and data — but your hands-on role in
+  each shifts:
+
+  - Define how we verify AI-powered features. Set evaluation
+    methods, thresholds, and release criteria for products
+    whose outputs vary from run to run, and distinguish a real
+    regression from acceptable variation.
+  - Own the team's quality strategy. Define the verification
+    strategy for a system based on risk, decide what evidence
+    each layer needs, direct exploratory effort at unfamiliar
+    failure modes, and state what is deliberately not tested
+    and why.
+  - Build the automation and evaluation tooling the team runs
+    on. Design eval harnesses, fixtures, and shared patterns
+    for reliable, repeatable execution across model, prompt,
+    and retrieval changes, accounting for concurrency,
+    asynchronous behavior, and eventual consistency.
+  - Make test feedback actionable. Own execution speed, gating,
+    failure classification, and flake discipline so developers
+    can self-resolve failures, including telling a flaky test
+    from genuine output variance.
+  - Own synthetic data and PHI guardrails. Define the synthetic-
+    data strategy, isolation patterns, and CI protections that
+    keep PHI out of non-production, including the evaluation
+    data AI features need, while giving engineers
+    deterministic test state.
+  - Set testability and non-functional quality where risk
+    warrants. Define environment, observability, and data
+    needs with Platform rather than building a parallel one,
+    and set the depth of safety, security, performance, and
+    resilience verification, including hallucination, unsafe
+    output, and sensitive-data leakage.
+  - Direct AI-first quality practice, and keep judgment human.
+    Author agent conventions as versioned, reviewable
+    artifacts, set boundaries for what agents may do without
+    review, and treat a generated test that passed once as a
+    draft, not a test.
+
+  What We're Looking For
+
+  Everyone in this role brings the foundations below, plus the
+  role-specific depth that follows.
+
+  Foundations
+
+  - You're strong in a modern programming language and can
+    reason about concurrency, asynchronous workflows, and
+    failure propagation across services.
+  - You can trace a failing test across services using logs,
+    traces, and deployment context, and tell whether the root
+    cause is product, automation, data, or environment.
+  - You communicate residual risk clearly to Engineering and
+    Product, including when shipping with a known gap is the
+    right call, without becoming the release bottleneck.
+  - You have real depth in at least one non-functional area —
+    performance, resilience, security, or accessibility — and
+    know when to bring in specialists.
+  - You already work AI-first. You've set conventions other
+    engineers actually followed and can explain where you draw
+    the line on what an agent may change without human review.
+
+  AI and non-deterministic product tester (required)
+
+  - You've verified products built on LLMs or other non-
+    deterministic systems, where the same input can produce
+    different valid outputs.
+  - You've designed evaluation approaches such as curated eval
+    sets, rubrics, statistical pass thresholds, and human- or
+    model-assisted grading, and can explain how you decide a
+    result is trustworthy.
+  - You've caught regressions across model, prompt, or retrieval
+    changes, and tested for failure modes like hallucination,
+    unsafe output, and sensitive-data leakage.
+
+  Bonus: experience building shared testing frameworks and
+  standards that multiple teams adopted; synthetic-data
+  strategy and deterministic isolation for sensitive data;
+  failure injection or recovery testing in production-like
+  environments; or working in healthcare, another regulated
+  domain, or systems that handle sensitive customer data.
+
+  Compensation and Benefits
+
+  - Full benefits package, including Paid Time Off (PTO),
+    medical, dental, vision, 401(k) with match, robust EAP,
+    wellness program, and much more
+  - The salary range for this position is $135,000 - $165,000
+    (USD). The base salary range represents the anticipated
+    low end and high end of the range for this position. The
+    actual compensation will be influenced by a wide range of
+    factors including, but not limited to previous experience,
+    education, pay market/geography, and scheduled hours.
+
+  EEO
+
+  ComPsych is an equal opportunity employer.  All applicants
+  will be considered for employment regardless of race, color,
+  age, genetics, religion, gender, sexual orientation, gender
+  identity, national origin, disability or protected veteran
+  status and any other characteristic protected by federal,
+  state or local laws. ComPsych Corporation maintains a drug
+  free workplace.
+
+  ComPsych Corporation and its affiliates is committed to the
+  responsible and transparent handling of your personal data.
+  Information collected during the recruitment process will be
+  used to assess your application and, where applicable, to
+  prepare and administer an offer of employment. Your personal
+  data will be processed in accordance with the privacy laws
+  applicable in your country or jurisdiction of residence,
+  which may include the California Consumer Privacy Act
+  (CCPA), the EU General Data Protection Regulation (GDPR),
+  Canada's Personal Information Protection and Electronic
+  Documents Act (PIPEDA) and applicable provincial privacy
+  legislation, and other applicable national or local privacy
+  laws. For full details on what personal data we collect, how
+  we use it, your rights as an Applicant, and how to contact
+  us with privacy-related questions, please review the
+  relevant Applicant Data Privacy Notices: US Applicant Data
+  Privacy Notice & Canada Data Privacy Notice.
+posted_date: 2026-10-29
+url: "https://builtin.com/job/software-development-engineer-test/11950139"
+source: Built In

@@ -1,0 +1,200 @@
+job_id: 10782809
+title: Engineering Manager, Fleet Engineering
+company: CoreWeave
+location: Bellevue, USA
+locations:
+  - Bellevue, USA
+  - New York, USA
+  - Livingston, USA
+  - Sunnyvale, USA
+work_type: FULL_TIME
+company_size: 1,450 Employees
+description: |
+  CoreWeave is The Essential Cloud for AI™. Built for pioneers
+  by pioneers, CoreWeave delivers a platform of technology,
+  tools, and teams that enables innovators to build and scale
+  AI with confidence. Trusted by leading AI labs, startups,
+  and global enterprises, CoreWeave combines superior
+  infrastructure performance with deep technical expertise to
+  accelerate breakthroughs and turn compute into capability.
+  Founded in 2017, CoreWeave became a publicly traded company
+  (Nasdaq: CRWV) in March 2025. Learn more at
+  www.coreweave.com.
+
+  What You'll Do
+
+  CoreWeave's Fleet Engineering organization owns the
+  lifecycle of every server in our cloud, including
+  provisioning, health, availability, and repair across every
+  cluster and region. To scale, we automate, automate,
+  automate. But physical infrastructure exists in the real
+  world, and some obstacles can only be overcome with hands-on
+  work. You and your team will design, build, and own the
+  tooling for every human interaction with the fleet, with the
+  goal of making each action as clear, simple, and friction-
+  free as possible while seamlessly collecting fault metrics
+  that drive continuous improvement across the cloud stack.
+
+  About the Role
+
+  We're seeking an Engineering Manager to lead a full-stack
+  team building Go backend services and React/TypeScript
+  frontends for workflow-heavy, data-dense products with real
+  users you can talk to: hardware ticketing automation, guided
+  repair procedures for technicians on the data center floor,
+  and the services that move hardware and inventory data
+  across the fleet. Your users are the data center
+  technicians, operations engineers, technical program
+  managers, and inventory specialists who run CoreWeave's
+  global footprint. You own delivery, including scope, release
+  cadence, quality, and responsiveness to users. You’ll lead
+  design reviews, pressure-test architecture, and help your
+  team make sound tradeoffs.
+
+  In this role, you will:
+
+  - Lead and grow the team through hiring, onboarding, career
+    development, and performance management, and set the tone
+    for how the team operates and enables the rest of
+    CoreWeave.
+  - Own delivery end to end: gather and refine requirements,
+    define scope, and set predictable, clearly communicated
+    release cadences.
+  - Drive reliability and performance under real operational
+    load through observability, on-call operations, incident
+    response, runbook development, and automated remediation.
+  - Lead maintenance and enhancement of existing products,
+    soliciting user feedback and prioritizing fixes to stay
+    responsive to users.
+  - Scope and lead new product development that increases the
+    efficiency and scale at which CoreWeave manages its fleet.
+  - Set technical direction through design and architecture
+    reviews, holding the bar on API contracts, data modeling,
+    and frontend architecture.
+  - Partner with peer Fleet Engineering teams and operations
+    leadership on shared APIs, sources of truth, and cross-
+    team dependencies.
+
+  Who You Are
+
+  - 8+ years of professional software engineering experience,
+    including 4+ years managing full-stack teams that ship and
+    operate production web applications across a frontend
+    layer (TypeScript/React or comparable) and backend
+    services (Go, or another compiled service language).
+  - Demonstrated track record delivering software products to
+    defined stakeholders and users: requirements gathering,
+    scoping, prioritization, release planning, and predictable
+    delivery cadences.
+  - Experience owning production web services end to end,
+    including performance under load, availability targets,
+    on-call rotations, and incident response.
+  - Technical depth sufficient to lead design and architecture
+    reviews and evaluate system design tradeoffs across API
+    contracts, data modeling, state management, horizontal
+    scaling, security, and audit trails.
+  - Experience hiring, mentoring, and managing engineer
+    performance, including growing engineers into senior and
+    lead roles.
+  - Strong process-oriented mindset and the ability to document,
+    scale, and optimize complex workflows.
+  - Excellent cross-functional communicator, comfortable
+    extending your influence to non-engineering stakeholders,
+    partner teams, and senior leadership.
+  - Bachelor's or Master's degree in Computer Science,
+    Engineering, or equivalent practical experience.
+
+  Preferred
+
+  - Experience delivering internal tools, workflow products, or
+    field-service platforms used daily by operational teams,
+    with strong product sense for translating user workflows
+    into interfaces.
+  - Experience with third-party and vendor API integrations,
+    including ticketing systems such as Jira and vendor
+    support portals.
+  - Familiarity with data center operations, hardware lifecycle
+    management, or asset tracking and DCIM tools.
+  - Experience with mobile-friendly or device-integrated web
+    applications, for example barcode or serial number
+    scanning.
+  - Familiarity with observability platforms (Prometheus,
+    Grafana, VictoriaMetrics, alerting systems), Kubernetes,
+    and modern CI/CD practices.
+
+  The base salary range for this role is $165,000 to $242,000.
+  The starting salary will be determined based on job-related
+  knowledge, skills, experience, and market location. We
+  strive for both market alignment and internal equity when
+  determining compensation. In addition to base salary, our
+  total rewards package includes a discretionary bonus, equity
+  awards, and a comprehensive benefits program (all based on
+  eligibility).
+
+  What We Offer
+
+  In addition to a competitive salary, we offer a variety of
+  benefits to support your needs. The benefits below reflect
+  our US-based offerings for full-time employees; for roles in
+  other locations, benefits vary and are shared during the
+  hiring process. These include:
+
+  - Medical, dental, and vision insurance - 100% paid for by
+    CoreWeave
+  - Company-paid Life Insurance
+  - Voluntary supplemental life insurance
+  - Short and long-term disability insurance
+  - Flexible Spending Account
+  - Health Savings Account
+  - Tuition Reimbursement
+  - Ability to Participate in Employee Stock Purchase Program
+    (ESPP)
+  - Mental Wellness Benefits through Spring Health
+  - Family-Forming support provided by Carrot
+  - Paid Parental Leave
+  - Flexible, full-service childcare support with Kinside
+  - 401(k) with a generous employer match
+  - Flexible PTO
+  - Catered lunch each day in our office and data center
+    locations
+  - A casual work environment
+  - A work culture focused on innovative disruption
+
+  California Applicants
+
+  California Consumer Privacy Act
+
+  Equal Opportunity & Accommodations
+
+  CoreWeave is an equal opportunity employer, committed to
+  fostering an inclusive and supportive workplace. All
+  qualified applicants and candidates will receive
+  consideration for employment without regard to race, color,
+  religion, sex, disability, age, sexual orientation, gender
+  identity, national origin, veteran status, or genetic
+  information.
+
+  As part of this commitment and consistent with the Americans
+  with Disabilities Act (ADA), CoreWeave will ensure that
+  qualified applicants and candidates with disabilities are
+  provided reasonable accommodations for the hiring process,
+  unless such accommodation would cause an undue hardship. If
+  reasonable accommodation is needed, please contact:
+  careers@coreweave.com.
+
+  Export Control Compliance
+
+  This position requires access to technology and/or source
+  code subject to U.S. export control laws. Any such access
+  will be provided only in compliance with applicable U.S.
+  export control requirements. As part of the recruitment
+  process, CoreWeave may request limited information
+  reasonably necessary to assess applicable export-control
+  requirements.
+industries:
+  - Cloud
+  - Information Technology
+  - Machine Learning
+posted_date: 2026-08-20
+url: "https://builtin.com/job/engineering-manager-fleet-engineering/10782809"
+source: Built In

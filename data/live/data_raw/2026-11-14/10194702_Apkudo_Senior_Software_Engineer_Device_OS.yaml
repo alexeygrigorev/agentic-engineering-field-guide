@@ -1,0 +1,111 @@
+job_id: 10194702
+title: Senior Software Engineer, Device OS
+company: Apkudo
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 120 Employees
+description: |
+  Senior Software Engineer, Device OS
+
+  About the Role
+
+  Apkudo's Device OS team is the engineering backbone that
+  makes our custom hardware appliances and software platforms
+  work reliably at scale from Outpost integrations at partner
+  sites to storage cell orchestration and SLA reporting for
+  field-deployed units. We are looking for a Senior Software
+  Engineer who is equally comfortable writing elegant Python,
+  wiring up a hardware prototype, and designing robust state
+  machines that keep complex workflows predictable under
+  pressure. You will own technically demanding problems end-
+  to-end, mentor engineers on your team, and help set the
+  architectural direction for the systems that power Apkudo's
+  device lifecycle platform.
+
+  What You Own
+
+  We are agile, and so our days and duties can vary. In this
+  role you own and are responsible for delivering to your
+  colleagues:
+
+  - Design, build, and maintain Python-based software systems
+    that interface directly with custom hardware platforms and
+    third-party devices.
+  - Author and own hardware drivers and communication layers
+    across a range of protocols (serial, USB, Ethernet, GPIO,
+    and others as needed).
+  - Architect and implement comprehensive, maintainable state
+    machines that govern device workflows, ensuring
+    correctness, observability, and graceful failure handling.
+  - Write asynchronous, event-driven code that keeps hardware
+    interactions responsive and non-blocking across concurrent
+    device pipelines.
+  - Build and maintain RESTful APIs that expose device data and
+    control surfaces to internal services and partner
+    integrations.
+  - Work with SQL databases to persist device state, telemetry,
+    and operational metrics reliably.
+  - Contribute computer vision capabilities where they intersect
+    with device inspection, identification, or automation
+    workflows.
+  - Collaborate cross-functionally with hardware engineers,
+    firmware teams, product managers, and field operations to
+    deliver complete, field-ready features.
+  - Conduct thorough code reviews, write technical design
+    documents, and raise the engineering bar across the team.
+
+  What You Bring
+
+  We know there are many paths to performing well. We will
+  expect you to come up to speed fast and deliver great work.
+  We think it would be hard to do that in this job without the
+  following specialized education or proven experience:
+
+  - Fluency in software engineering fundamentals — clean code,
+    testability, version control, and code review —
+    demonstrated through a track record of shipping production
+    systems.
+  - Strong, hands-on Python experience (5+ years) as a primary
+    production language.
+  - Proven experience writing hardware drivers and interfacing
+    over communication protocols (e.g., serial/UART, USB, I2C,
+    SPI, Modbus, or similar).
+  - Demonstrable ability to design and implement maintainable,
+    comprehensive state machines for complex device or
+    workflow control.
+  - Solid familiarity with async programming patterns (asyncio,
+    event loops, coroutines) in Python or equivalent
+    environments.
+  - Backend/RESTful API design and implementation experience —
+    you have built APIs others depend on.
+  - Working knowledge of SQL; the ability to design sensible
+    schemas, write efficient queries, and reason about data
+    integrity.
+  - Some exposure to computer vision — whether through OpenCV,
+    ML-based pipelines, or image processing workflows.
+  - A demonstrable appetite for working with hardware: hands-on
+    electronics or embedded experience, a relevant university
+    project, or equivalent self-directed work that shows you
+    understand the basics of electronics, signal flow, and
+    hardware constraints.
+  - BS in Computer Science, Electrical Engineering, or a related
+    field — relevant experience may substitute for or augment
+    formal education.
+  - Strong technical communication skills and the ability to
+    translate between hardware realities and software
+    abstractions.
+
+  Nice to Have
+
+  - Experience with warehouse or logistics automation
+    environments.
+  - Familiarity with Linux system administration, systemd
+    services, or embedded Linux.
+  - Exposure to AWS IoT, Greengrass, or similar edge-cloud
+    frameworks.
+  - Prior experience contributing to a platform product serving
+    multiple enterprise customers.
+posted_date: 2026-08-10
+url: "https://builtin.com/job/senior-software-engineer-device-os/10194702"
+source: Built In

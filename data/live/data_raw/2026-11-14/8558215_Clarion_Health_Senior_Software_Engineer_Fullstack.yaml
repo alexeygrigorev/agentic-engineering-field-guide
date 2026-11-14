@@ -1,0 +1,113 @@
+job_id: 8558215
+title: Senior Software Engineer (Fullstack)
+company: Clarion Health
+location: New York, USA
+work_type: FULL_TIME
+company_size: 18 Employees
+description: |
+  About Clarion
+
+  At Clarion, we’re rebuilding how healthcare communicates in
+  the age of AI.
+
+  Today, clinics miss 30–40% of patient calls, while staff are
+  overwhelmed by administrative work. We believe AI agents
+  should handle these workflows—scheduling, billing,
+  prescription refills, and follow-ups—so healthcare teams can
+  focus on actual patient care.
+
+  We’re building the communication infrastructure modern
+  healthcare needs. Our AI agents don’t just answer calls—they
+  complete workflows end-to-end, ensuring patients never go
+  unheard. To date, we’ve handled hundreds of thousands of
+  patient interactions across virtual care companies, health
+  systems, and a $5B health insurance company.
+
+  Clarion was founded by a Stanford/Harvard-trained physician
+  (founding team at Two Chairs and Ophelia) and an ex-Amazon
+  Alexa engineer who led AI/ML teams at Salesforce. We’ve
+  raised $10M from Accel, Y Combinator, Sequoia (Scout), and
+  leading healthcare founders. We’re an in-person team in New
+  York, moving fast to solve one of healthcare’s most critical
+  problems.
+
+  Why This Role Is Special
+
+  - Real traction, early-stage impact: Dozens of paying
+    customers, rapidly growing revenue, and the chance to
+    shape core systems at an inflection point.
+  - Mission-critical problem: Healthcare communication failures
+    affect millions daily—your work directly improves patient
+    access and outcomes.
+  - Elite technical context: Work closely with founders who
+    deeply understand both healthcare operations and advanced
+    AI systems, enabling fast decisions and real ownership.
+
+  What You’ll Own
+
+  - Lead the deployment, performance, and reliability of AI
+    agents operating in live, high-stakes healthcare
+    environments.
+  - Architect and scale full-stack systems integrating with
+    EHRs, legacy healthcare platforms, and real-time voice
+    infrastructure.
+  - Drive technical strategy for customer-facing solutions,
+    collaborating with product and engineering to translate
+    client needs into scalable architecture.
+  - Mentor engineers and set standards for code quality,
+    testing, security, and HIPAA-compliant development.
+  - Shape product roadmap by identifying systemic challenges in
+    customer workflows and proposing high-leverage technical
+    solutions.
+
+  Interesting Technical Challenges
+
+  - Generative AI at Scale: Design and operate production
+    systems using LLMs with rigorous safety, alignment, and
+    real-time monitoring at enterprise scale.
+  - Real-time voice infrastructure: Build ultra-low-latency
+    systems supporting thousands of concurrent calls with
+    99.99% uptime.
+  - Fragmented healthcare systems: Design resilient abstraction
+    layers across modern APIs and legacy platforms while
+    maintaining security and compliance.
+  - Highly Personalized Experiences: Develop adaptive AI that
+    retains patient context across sessions, personalizes tone
+    and flow, and delivers conversations indistinguishable
+    from human care.
+
+  What We’re Looking For
+
+  - 5+ years of experience designing, building, and scaling
+    production systems in high-reliability environments.
+  - Strong full-stack expertise with Node.js, TypeScript, React,
+    and PostgreSQL, plus solid system design instincts.
+  - High ownership and agency—you thrive in ambiguity and take
+    responsibility for outcomes.
+  - Proven ability to mentor engineers, lead cross-functional
+    efforts, and communicate technical trade-offs clearly.
+
+  You’ll be a great fit if you enjoy owning complex systems
+  end-to-end, solving hard problems under real-world
+  constraints, and working closely with customers and
+  teammates to deliver mission-critical software.
+
+  Interview Process
+
+  We move quickly and communicate clearly at every stage:
+
+  - Intro Chat (30 min, Virtual): Background, role context, and
+    leadership philosophy.
+  - Technical Deep Dive (1 hr, Virtual): System design and
+    architecture with the CTO and a senior engineer.
+  - Onsite Team Day (Half Day, NYC): Collaborate on real
+    problems, present a past project, meet the team, and
+    assess mutual fit.
+
+  Decisions are typically made within 24 hours of each stage.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+posted_date: 2026-08-22
+url: "https://builtin.com/job/senior-software-engineer-fullstack/8558215"
+source: Built In

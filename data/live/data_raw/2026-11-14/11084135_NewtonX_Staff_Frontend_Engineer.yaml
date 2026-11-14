@@ -1,0 +1,138 @@
+job_id: 11084135
+title: Staff Frontend Engineer
+company: NewtonX
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 2200 Employees
+description: |
+  NewtonX (600+ clients like TikTok, Microsoft, Salesforce,
+  Bain, Figma and many more) is a research intelligence
+  company helping organizations make better business decisions
+  and train better AI models through verified human
+  intelligence.
+
+  We turn specialized human expertise into reliable business
+  decisions (e.g., product launches, marketing strategy, brand
+  reputation tracking, M&A due diligence) and AI training data
+  (frontier model improvements and evals).
+
+  We have several million domain experts that we have sourced
+  over the last few years (150+ industries including finance,
+  legal, coding, tax & accounting, healthcare, semiconductors,
+  cybersecurity, STEM and more).
+
+  We have worked with AI Labs and Enterprises on topics
+  ranging from sourcing senior electrical and SW engineers for
+  a chip design benchmark to pediatricians and psychiatrists
+  for clinical data to ML engineers and PhD-level
+  statisticians proficient in 3D modeling.
+
+  About The Role
+
+  We are looking for a Staff Frontend Engineer with deep
+  expertise in React and TypeScript. You’ll own the frontend
+  architecture behind the data-dense applications our clients
+  and research teams use every day, where performance,
+  accessibility, and interaction quality are the product. This
+  is a hands-on role: you’ll write production code, but your
+  leverage comes from the systems and standards you leave
+  behind.
+
+  What We’re Looking For
+
+  - 6+ years engineering experience, mostly frontend, including
+    3+ at a senior level owning projects end-to-end
+  - Deep React expertise — hooks, composition patterns, and the
+    ability to reason about rendering behavior rather than
+    guess at it
+  - Strong TypeScript — typing that catches real bugs instead of
+    decorating the code
+  - Expert JavaScript (ES6+), HTML, and CSS/SCSS, including the
+    modern layout model
+  - Proven ownership of frontend architecture at scale: module
+    boundaries, shared component libraries, and state
+    management strategy
+  - Web performance as a discipline — Core Web Vitals, bundle
+    analysis, code splitting, virtualization, and profiling
+    with real tooling
+  - Accessibility fluency — WCAG 2.1 AA, semantic HTML, keyboard
+    and focus management, screen reader testing
+  - Design system experience: reusable, themeable, documented
+    components built in partnership with Design
+  - Testing depth — Jest and React Testing Library, plus end-to-
+    end coverage (Playwright or Cypress) people actually trust
+  - Fluency consuming APIs: REST and/or GraphQL, data-fetching
+    and caching patterns (React Query, SWR, Apollo), and error
+    states that hold up in production
+  - Working knowledge of Python/Django — enough to read backend
+    code, shape endpoints with backend engineers, and ship a
+    small change yourself
+  - Ability to mentor, review code with judgment, and raise the
+    bar without becoming a bottleneck
+
+  Bonus Skills (Nice-to-Haves)
+
+  - Server-side rendering (Next.js, Remix) and hydration
+    tradeoffs
+  - Frontend observability and performance budgets enforced in
+    CI (Sentry, Datadog RUM)
+  - Data visualization at scale (D3, Recharts, Visx,
+    canvas/WebGL)
+  - Real-time UI: WebSockets, polling strategies, streaming or
+    collaborative interfaces
+  - Styling systems (Material-UI, Tailwind) and state management
+    (Redux, Zustand)
+  - Build and monorepo tooling ownership (Vite, Webpack, CI
+    pipelines)
+  - Cloud and infra exposure: GCP, Kubernetes, Docker, Terraform
+  - Internationalization, or SOLID design principles applied
+    with judgment
+
+  What You’ll Do
+
+  - Own the architecture of our React/TypeScript applications
+    and the patterns the team builds on
+  - Lead development of performant, accessible UIs for complex
+    research and analytics workflows
+  - Set and defend frontend standards — performance budgets,
+    accessibility, testing, and quality gates in CI
+  - Build and evolve our shared component library and design
+    system with Design
+  - Drive measurable performance work: profile, fix the real
+    bottleneck, instrument it so it stays fixed
+  - Partner with backend engineers on API contracts that make
+    the frontend simpler, not harder
+  - Pay down frontend technical debt deliberately, and
+    contribute to Python/Django services where it speeds
+    delivery
+  - Mentor engineers and own department-wide technical
+    initiatives from proposal through adoption
+
+  What We Offer
+
+  - Competitive compensation with a total compensation range of
+    $180k-$240k and equity. (Please note that salary and
+    compensation may vary based on skills, experience,
+    performance, and location.)
+  - Excellent medical, dental, and vision insurance.
+  - 401k match with immediate vesting.
+  - Generous Paid time off: vacation, holidays, sick, and
+    parental leave.
+  - A diverse, collaborative, and positive culture where we
+    invest in and celebrate each other’s success.
+
+  NewtonX is proud to be an equal opportunity workplace. We do
+  not discriminate based upon race, religion, color, national
+  origin, sex, sexual orientation, gender identity/expression,
+  age, status as a protected veteran, status as an individual
+  with a disability, or any other applicable legally protected
+  characteristics.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Professional Services
+  - Software
+posted_date: 2026-09-09
+url: "https://builtin.com/job/staff-frontend-engineer/11084135"
+source: Built In

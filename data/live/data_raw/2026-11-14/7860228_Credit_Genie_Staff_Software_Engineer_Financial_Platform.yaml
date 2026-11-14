@@ -1,0 +1,198 @@
+job_id: 7860228
+title: Staff Software Engineer, Financial Platform
+company: Credit Genie
+location: Toronto, CAN
+locations:
+  - Toronto, CAN
+  - New York, USA
+  - Pittsburgh, USA
+  - Philadelphia, USA
+  - Plymouth Meeting, USA
+work_type: FULL_TIME
+company_size: 38 Employees
+description: |
+  Company
+
+  Credit Genie is a mobile-first financial wellness platform
+  designed to help individuals take control of their financial
+  future. We leverage artificial intelligence to provide
+  personalized insights and are building a financial ecosystem
+  by offering tools and services that provide instant access
+  to cash, and building credit. Our goal is to empower every
+  customer to achieve long-term financial stability.
+
+  Founded in 2019 by Ed Harycki, former Swift Capital Founder
+  (acquired by PayPal in 2017). Backed by Khosla Ventures and
+  led by industry pioneers from companies such as; PayPal,
+  Square, and Cash App, we are well positioned to build the
+  future of inclusive finance through cutting-edge technology
+  and customer-centric solutions.
+
+  Overview
+
+  The Financial Platform team owns the systems that move money
+  at Credit Genie and the connections that make it possible:
+  cash advances, repayments, refunds, bank account linking,
+  debit card management, and the ledgering and reconciliation
+  that keep every dollar accounted for. When these systems are
+  wrong, customers lose money and trust; when they are right,
+  nobody notices. That is the bar.
+
+  As the Staff Engineer on this team, you will set the
+  technical direction for our money movement platform and
+  raise the engineering bar for the team around you. You will
+  own the hardest correctness and scale problems we have, make
+  the foundational architecture decisions that the platform
+  will live with for years, and be the engineer the rest of
+  the team looks to for how quality work gets done. This is a
+  rare chance to join a fast-growing fintech startup where
+  your work directly protects and improves the financial well-
+  being of our users.
+
+
+
+  What You'll Do
+
+  - Set the Technical Direction: Own the architecture and long-
+    term technical roadmap for our money movement systems.
+    Drive the decisions on how we structure payment
+    orchestration, ledgering, and reconciliation as
+    transaction volume grows, and see those decisions through
+    to production.
+  - Build Financial Systems That Are Provably Correct: Design
+    for the properties money movement demands: idempotent
+    operations, exactly-once semantics, auditable state
+    transitions, automated reconciliation, and invariant
+    monitoring that catches discrepancies before customers do.
+  - Design, Build, and Scale: Own backend systems end-to-end,
+    from architecture through deployment and production
+    operation, ensuring high performance, security, and
+    scalability as our financial products grow.
+  - Raise the Bar for the Team: Set the standard for engineering
+    quality across the Financial Platform team. Lead design
+    reviews, mentor senior and mid-level engineers, and
+    establish practices for testing, observability, and
+    operational excellence that outlast any single project.
+  - Own the Bank and Card Integrations: Own the platform's
+    connections to the outside financial world: bank account
+    linking through data aggregators, debit card lifecycle
+    management, and processor integrations. Build abstractions
+    that keep these third-party dependencies reliable,
+    observable, and swappable.
+  - Own Production: Treat reliability of money movement as a
+    first-class engineering problem. Lead incident response
+    for the platform, drive post-incident hardening, and build
+    the monitoring and safeguards that make failures rare and
+    recoverable.
+  - Cross-Functional Collaboration: Partner with product,
+    compliance, risk, data science, and our banking and
+    processor partners to ship features that balance speed to
+    market with the rigor regulated money movement requires.
+
+  Requirements
+
+  - 8+ years of experience designing, building, and scaling
+    high-performance backend systems in a fast-paced, high-
+    growth environment.
+  - Direct experience building and operating financial platform
+    systems at scale: payments, money movement, lending,
+    ledgering, billing, or banking infrastructure handling
+    high volumes of real customer funds.
+  - Deep fluency in the correctness patterns financial software
+    demands: idempotency, distributed transactions, double-
+    entry accounting, reconciliation, retry safety, and
+    auditability.
+  - A track record of setting technical direction for a team:
+    you have owned the architecture of a significant system,
+    driven the roadmap to evolve it, and brought other
+    engineers along through design reviews and mentorship.
+  - High ownership as a default. You treat the systems you build
+    as yours end-to-end, from design through incident
+    response, and you raise problems and fix them without
+    waiting to be asked.
+  - Expertise in architecting and productionizing large-scale
+    distributed systems.
+  - Strong understanding of data privacy, compliance, and secure
+    coding practices, with experience designing resilient,
+    reliable systems that meet high security and regulatory
+    standards.
+  - Structured thinking and analytical rigor. You break down
+    intricate systems, identify flaws, and implement scalable,
+    secure, and maintainable solutions.
+
+  Nice to Have
+
+  - Hands-on experience with payment rails and partners: ACH,
+    RTP, card networks, push-to-debit, or direct processor and
+    bank integrations.
+  - Experience with bank data aggregators (Plaid, MX, Finicity)
+    or card issuing and debit card management platforms.
+  - Experience in regulated consumer fintech (lending, credit,
+    or banking products).
+  - Experience with event-driven architectures and
+    TypeScript/Node.js services.
+  - Experience leading incident response and building invariant
+    or anomaly monitoring for financial data.
+  - Experience using AI-assisted development tools to raise the
+    quality and velocity of a team, not just your own output.
+
+  Benefits and Perks
+
+  Our goal is to provide a comprehensive offering of benefits
+  and perks that promote better financial, mental, and
+  physical wellness.
+
+  We believe working alongside each other in person is the
+  best way to build a great product and foster a strong
+  company culture. Our expectation is that employees are in
+  the office five days a week, allowing for optimal
+  collaboration, inclusivity, and productivity. At the same
+  time, we understand that life happens and recognize the
+  importance of flexibility. We are committed to supporting
+  our employees when circumstances arise that require remote
+  work or adjusted schedules. Our goal is to ensure everyone
+  can effectively balance personal and professional
+  responsibilities while maintaining our collaborative and
+  productive environment.
+
+  Here are some highlights of our benefits and perks
+  offerings, feel free to ask your recruiting partner for more
+  details on our comprehensive offering for employees.
+
+  - 100% company-paid medical, dental, and vision coverage for
+    you and your dependents on your first day of employment.
+  - Receive up to $100 per month in fitness reimbursement or
+    enjoy a complimentary full membership to LifeTime Fitness
+    or Equinox.
+  - 401(k) with a 3.5% match and immediate vesting
+  - Meal program available for both lunch and dinner
+  - Pre-tax benefits, including a $1,000 HSA match
+  - Life and accidental insurance
+  - Flexible PTO
+
+  Your actual level and base salary will be determined on a
+  case-by-case basis and may vary based on the following
+  considerations: job-related knowledge and skills, education,
+  and experience. Base salary is just one part of your total
+  compensation and rewards package at Credit Genie. You may
+  also be eligible to participate in the bonus and equity
+  programs. You will also have access to comprehensive
+  medical, vision, and dental coverage, a 401(k) retirement
+  plan with company match, short & long term disability
+  insurance, life insurance, and flexible PTO along with many
+  other benefits and perks.
+
+  Credit Genie is a proud Equal Opportunity Employer where we
+  welcome and celebrate differences. We are committed to
+  providing a workspace that is safe and inclusive, where
+  everyone feels supported, connected, and inspired to do
+  their best work. If you require any accommodations to
+  participate in our recruitment process, please inform us of
+  your needs when we contact you to schedule an interview.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-22
+url: "https://builtin.com/job/staff-software-engineer-backend/7860228"
+source: Built In

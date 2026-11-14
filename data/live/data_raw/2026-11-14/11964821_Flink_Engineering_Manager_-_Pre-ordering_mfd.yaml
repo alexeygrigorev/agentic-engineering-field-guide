@@ -1,0 +1,196 @@
+job_id: 11964821
+title: Engineering Manager - Pre-ordering (m/f/d)
+company: Flink
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 2,451 Employees
+description: |
+  Company Description
+
+  Flink is the leading quick commerce player in Europe. We are
+  on a mission to give people back time: You can order your
+  groceries through our app and we deliver to your doorstep in
+  minutes. We carry 3,000 products with a focus on the leading
+  brands in each category. We aim for sustainability by making
+  deliveries on electric bikes and utilizing recyclable
+  packaging.
+
+  Flink launched in February 2021 and already operates in more
+  than 90 cities in Germany, and the Netherlands. The business
+  generated more than EUR 400m in revenues in 2024 and is
+  operationally profitable. Flink is backed by the world’s
+  most renowned tech investors, including Prosus, Mubadala,
+  and Bond, and strategic investors like Doordash and REWE. We
+  take great pride in being an inclusive employer that offers
+  equal opportunities, and we celebrate the diversity and
+  multiculturalism of our team. We're growing fast and always
+  pushing ourselves to do better - we play for #1.
+
+  The Pre-Ordering team is the front door of Flink: the first
+  thing millions of customers see and touch. Every visit
+  starts in the screens and services this team builds, from
+  signing up and logging in to the home screen, search,
+  categories and deals. We are looking for an experienced and
+  passionate Engineering Manager (m/f/d) to lead this team and
+  help customers quickly find what they came for, discover new
+  favourites, and keep coming back.
+
+  Job Description
+
+  As the Engineering Manager for Pre-Ordering, you'll play a
+  vital role in Flink's success. You'll lead a cross-
+  functional team that delivers end-to-end across backend,
+  web, iOS and Android, working closely with Design and
+  Analytics. We believe in full cross-functional teams with
+  complete service ownership: your team owns the problem, the
+  solution and the outcome.
+
+  Your scope covers everything a customer does before
+  checkout: onboarding new customers, login and
+  authentication, the user profile, Flink Prime (our
+  subscription programme), the Explore page, search, category
+  navigation, deals, our in-house recommender, and
+  integrations with third-party systems. Your decisions
+  directly affect how easily millions of customers find their
+  groceries, how often they come back, and how well we can
+  offer retail media to brands, an important part of Flink's
+  revenue.
+
+  - Lead & Grow Engineers: Build a high-trust environment where
+    engineers thrive and take ownership. You own end-to-end
+    hiring, onboarding, and performance management,
+    accountable for building and continuously improving how we
+    attract talent. Ensure every team member has a clear
+    career path and receives regular, actionable feedback.
+    Help your team get 1% better every day.
+  - Drive Product & Business Impact: Partner with Product,
+    Design, and Analytics to shape initiatives that directly
+    impact Flink's revenue and customer experience. You'll
+    work on challenges like improving search relevance,
+    personalising the Explore page, making sign-up and login
+    effortless across devices, making Flink Prime more
+    valuable to subscribers, and creating new retail media
+    placements without hurting the shopping experience.
+  - Own Critical Systems: Your team owns the systems that
+    present our catalog to customers: the services behind the
+    home screen, search, categories and product pages, our
+    recommender, customer accounts and authentication, Prime
+    subscriptions, and integrations with third-party systems.
+    The Pricing team sets prices and promotions; your team
+    decides how customers see them. Every session in our apps
+    runs through these systems.
+  - Guide Technical Direction: Shape the technology strategy for
+    Pre-Ordering, including how we grow server-driven UI so
+    changes reach iOS, Android and web without waiting for an
+    app release. Ensure your team makes the right technical
+    decisions to deliver high-quality solutions reliably and
+    repeatedly. You'll be included in architectural
+    discussions, RFCs, and trade-off decisions, championing
+    reliability, observability, and pragmatic engineering.
+  - Champion Operational Excellence: Set the bar for how your
+    systems run in production. Your team owns SLIs/SLOs,
+    monitoring, alerting and incident response for login,
+    home, search and product pages. You'll lead blameless
+    postmortems that drive continuous improvement.
+  - Reduce Toil & Accelerate Delivery: You'll have the space and
+    support to invest in what matters: automating tests,
+    reducing operational overhead, simplifying system
+    complexity, and building self-service capabilities. We
+    believe sustainable velocity comes from investing in
+    engineering health, not just shipping features.
+  - Work in Focused Builds: We work in short, focused builds
+    with clear scope and a fixed time box, in a setup similar
+    to Shape Up. Our process is still young, and you'll help
+    us shape how it works.
+  - Embrace Agentic Development: We work with coding agents such
+    as Claude Code every day, for writing, testing, reviewing
+    and porting code between platforms. You'll help your team
+    use them well and keep improving the agent instructions
+    and skills in our repositories.
+  - Foster a Strong Engineering Culture: Create an environment
+    where the best idea wins, encouraging constructive debate
+    followed by committed execution. Embody "never let another
+    Flinker fail" by supporting your team and celebrating wins
+    together.
+  - Make Security Part of the Work: Security is not an
+    afterthought. We take it seriously, and you'll help your
+    team make the right trade-offs between shipping product
+    and keeping quality high.
+  - Partner Across Flink: We believe in close collaboration with
+    our stakeholders. You'll work closely with peer
+    Engineering Managers and with teams such as Retail Media,
+    Commercial, Marketing and Operations, translating
+    technical constraints into clear business context.
+
+  Qualifications
+
+  We're looking for a leader who is passionate about building
+  robust systems and even stronger teams. You thrive in a
+  fast-paced environment and are excited by the challenge of
+  solving complex problems at scale.
+
+  - People leadership experience: Demonstrated experience
+    building psychological safety, coaching engineers, and
+    providing direct, compassionate feedback. You have a track
+    record of hiring, developing, and retaining high-
+    performing engineering teams.
+  - Strong technical foundation: Solid knowledge of backend
+    systems, microservices, and how they serve mobile and web
+    clients. You can engage meaningfully in architectural
+    discussions and guide your team toward good trade-offs.
+  - Reliability mindset: Experience running high-reliability
+    services with SLIs/SLOs, observability, and incident
+    management practices.
+  - Communication skills: Ability to translate complex technical
+    challenges into clear business impact for diverse
+    stakeholders.
+
+  Nice to Have
+
+  - Experience with consumer e-commerce products such as home
+    screens, search, onboarding or subscriptions, using
+    experiments and data to decide what to build
+  - Experience with agentic development: using coding agents
+    such as Claude Code, Cursor or Codex, and helping a team
+    adopt them
+  - Search, recommendation or personalisation systems, including
+    working with Data Science
+  - Retail media or ad tech
+  - Identity and authentication, and handling personal data
+    under GDPR
+  - Building agentic customer experiences, such as AI assistants
+    or MCP. This is an area we expect to grow into.
+  - Familiarity with marketplaces or quick commerce
+
+  Additional Information
+
+  - Remote-friendly culture with at least 1 day per week in our
+    Berlin HQ
+  - €1000 annual L&D budget as well as individual coaching
+    options to ensure you have plenty of opportunities to
+    learn, grow and achieve your goals
+  - 26 days of vacation, +1 day every year up to a maximum of 30
+    days
+  - Mobility budget of 35 EUR per month for Deutschland Ticket
+    subsidy
+  - Discount on your Urban Sports Club membership
+  - Attractive company pension options
+  - Unlimited access to an e-learning and development platform,
+    MyAcademy, including online German courses
+  - Online discounts with Corporate Benefits and Future Bens
+  - Cool discount off your personal Flink orders; be the first
+    to test out new products!
+  - Modern and dog-friendly office in the heart of Berlin - lots
+    of delicious lunch spots available within short walking
+    distance
+
+  It is our commitment that every applicant will be evaluated
+  according to their skills regardless of age, gender
+  identity, ethnicity, sexual orientation, disability status,
+  or religion.
+industries:
+  - eCommerce
+  - Information Technology
+posted_date: 2026-10-29
+url: "https://builtin.com/job/engineering-manager-pre-ordering-m-f-d/11964821"
+source: Built In

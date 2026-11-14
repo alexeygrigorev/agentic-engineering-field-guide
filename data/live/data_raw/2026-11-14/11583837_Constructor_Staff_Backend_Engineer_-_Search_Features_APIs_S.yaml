@@ -1,0 +1,188 @@
+job_id: 11583837
+title: "Staff Backend Engineer - Search Features & APIs (SABR)"
+company: Constructor
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 160 Employees
+description: |
+  About us
+
+  Launched in 2019, Constructor is an AI-first e-commerce
+  search and discovery platform that helps shoppers find the
+  right products at the right time and enables leading global
+  e-commerce brands to drive meaningful revenue and conversion
+  gains.
+
+  About the team
+
+  The SABR team owns the top layer of request processing for
+  product discovery. We own the service that first receives
+  product discovery requests (autocomplete, search, browse &
+  recommendations) & executes the entire business logic that
+  drives product discovery. That service also functions as a
+  gateway to parse incoming user requests, orchestrate calls
+  across the internal services that do the ranking and
+  retrieval, interpret their responses, and assemble the final
+  response the customer sees. We also own the public
+  configuration APIs customers use to control how discovery
+  behaves, and the MCP layer that exposes all of it to AI
+  agents.
+
+  Our team owns both platform & product components: Because of
+  the positioning of our services, we take part in every
+  architectural decision of our core product offering. At the
+  same time, our goals are heavily influenced by direct
+  customer feedback, because all product discovery-related
+  features are either implemented in or integrated with our
+  services.
+
+  All of our services are public APIs, so interface design and
+  backward compatibility are a constant part of the job. But
+  most of our attention goes to keeping them fast and up: we
+  serve up to 15k RPS, fan out to many internal services on
+  every request, and are expected to stay available and
+  degrade gracefully when any of them fails or slows down.
+
+  The work is distributed systems in practice rather than in
+  theory: request orchestration, failure isolation, caching,
+  latency budgets, capacity planning, and the observability to
+  know what is actually happening in production. The team is
+  small enough that engineers own problems end to end, from
+  design through on-call.
+
+  About you
+
+  You're a staff-level engineer who wants to own systems, not
+  tickets. You've built high-traffic, low-latency Python
+  services and carried the pager for them. You think in trade-
+  offs: latency versus cost, flexibility versus a public API
+  that customers can't afford to see break, the fix that ships
+  this week versus the architecture that has to last two
+  years. You can lead work that spans several engineers and
+  several quarters, you enjoy mentoring others, and you're
+  fine when a problem shows up half-defined. You don't mind
+  being the one who reads the spec for some unfamiliar
+  protocol, works out how it fits, and designs an integration
+  that holds up at scale. You change your mind when someone
+  has a better argument, you make the people around you
+  better, and you still care about your code long after it
+  merges.
+
+  What you will do
+
+  - Own the technical direction of one or more of our services -
+    architecture, performance, and reliability.
+  - Lead design of new systems and public APIs, and the
+    evolution of existing ones as traffic and feature scope
+    grow.
+  - Raise the engineering bar through design and code review,
+    and mentor mid and senior engineers into owning bigger
+    scopes.
+  - Partner with product, other engineering teams, and
+    solutions/support to shape what we build and to represent
+    search constraints and trade-offs honestly.
+  - Take part in on-call for the systems you own, and lead
+    incident response and follow-through when things break.
+
+  What we are looking forTechnical
+
+  - Substantial experience building and operating high-traffic,
+    low-latency backend services in production.
+  - Extensive Python knowledge (our primary language).
+  - Experience with observability and performance work in live
+    systems.
+  - Experience designing and evolving public APIs that external
+    customers depend on.
+  - Experience designing & implementing scalable service-
+    oriented architectures.
+
+    Beyond the code
+
+  - Track record of leading projects that span multiple
+    engineers and quarters.
+  - Influence without authority, and willingness to change your
+    position when someone has a better argument.
+  - Clear written communication - design docs, RFCs,
+    postmortems.
+  - Good judgment about trade-offs and scope.
+  - Comfort with ambiguity and loosely defined problems.
+  - Ownership that extends past merge, to how the system behaves
+    in production.
+
+    Nice to have
+
+  - Experience with AWS
+  - Background in search, ranking, information retrieval, or
+    e-commerce product discovery.
+  - Exposure to AI/LLM-facing infrastructure (MCP, agent
+    tooling, or similar).
+
+  Benefits
+
+  🏝️ Unlimited vacation time - we strongly encourage all of
+  our employees take at least 3 weeks per year
+
+  🌎 Fully remote team - choose where you live
+
+  🛋️ Work from home stipend! We want you to have the resources
+  you need to set up your home office
+
+  💻 Apple laptops provided for new employees
+
+  🧑‍🎓 Training and development budget for every employee,
+  refreshed each year
+
+  👪 Maternity & Paternity leave for qualified employees
+
+  🧠 Work with smart people who will help you grow and make a
+  meaningful impact
+
+  💵 Base salary: $110k–$130k USD, depending on knowledge,
+  skills, experience, and interview results
+
+  📈 Stock options - offered in addition to the base salary
+
+  🎉 Regular team offsites to connect and collaborate
+
+  Diversity, Equity, and Inclusion at Constructor
+
+  At Constructor.io we are committed to cultivating a work
+  environment that is diverse, equitable, and inclusive. As an
+  equal opportunity employer, we welcome individuals of all
+  backgrounds and provide equal opportunities to all
+  applicants regardless of their education, diversity of
+  opinion, race, color, religion, gender, gender expression,
+  sexual orientation, national origin, genetics, disability,
+  age, veteran status or affiliation in any other protected
+  group.
+
+  Studies have shown that women and people of color may be
+  less likely to apply for jobs unless they meet every one of
+  the qualifications listed. Our primary interest is in
+  finding the best candidate for the job. We encourage you to
+  apply even if you don’t meet all of our listed
+  qualifications.
+
+  How we handle your data. By submitting this application, you
+  acknowledge that Constructor will collect and process the
+  personal data you provide for the purpose of evaluating your
+  candidacy for this role. If you are not selected, we will
+  retain your data for a limited period as described in our
+  Recruitment Privacy Notice. After that period your data will
+  be deleted or anonymized.
+
+  How we handle your data. By submitting this application, you
+  acknowledge that Constructor will collect and process the
+  personal data you provide for the purpose of evaluating your
+  candidacy for this role. If you are not selected, we will
+  retain your data for a limited period as described in our
+  Recruitment Privacy Notice. After that period your data will
+  be deleted or anonymized.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Generative AI
+posted_date: 2026-10-08
+url: "https://builtin.com/job/staff-backend-engineer-search-features-apis-sabr/11583837"
+source: Built In

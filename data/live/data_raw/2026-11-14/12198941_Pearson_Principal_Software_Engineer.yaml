@@ -1,0 +1,214 @@
+job_id: 12198941
+title: Principal Software Engineer
+company: Pearson
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 29,811 Employees
+description: |
+  Role Overview
+
+  Pearson Virtual Schools is transforming how learners
+  experience education online. As our technology and programs
+  evolve, so does how we design, build, and deliver them.
+
+  Individuals in the Software Engineer roles design, develop,
+  test, and maintain software applications aligned with the
+  company’s technical and functional architecture. They
+  translate complex business requirements into scalable
+  technical solutions, grounded in a deep understanding of the
+  business, its drivers, and industry trends. They are
+  responsible for software quality through thorough testing
+  and lifecycle management. They collaborate with cross-
+  functional teams to align on strategic objectives and
+  deliver value through continuous improvement.
+
+  Principal Software Engineers are relied upon to
+  independently lead the delivery of technically challenging
+  solutions within major product lines or back-end systems
+  that support business revenue, regulatory needs, or
+  operational continuity. At this tier, individuals solve
+  intricate problems, advise on architecture choices for high-
+  profile features, and frequently act as technical point of
+  contact during escalated incidents with measurable business
+  impact. They coordinate evaluation of new frameworks and
+  tools, pilot advanced coding practices, and review the work
+  of less experienced engineers for critical projects. The
+  engineer’s influence regularly extends to cross-team
+  collaborations, with their contributions making the
+  difference in project timelines, technical debt, and system
+  performance. Risk exposure involves safeguarding the
+  stability and security of mid- to large-size applications
+  and averting delivery or operational failures.
+
+  This role sits where three Pearson Virtual Schools programs
+  meet: Content Foundations, Data Foundations and Adaptive
+  Learning. You will own the technical architecture that
+  connects AI-ready learning content and trusted learner data
+  to adaptive, AI-powered learning experiences for K-12
+  students.
+
+  - Key Responsibilities
+  - Cross-Program Technical Leadership
+  - Own the end-to-end technical design where three programs
+    meet: structured learning content, learner and performance
+    data, and adaptive learning experiences
+  - Define the shared contracts between content, data and
+    adaptive services so each program can move independently
+    without breaking the others
+  - Advise on architecture choices for high-profile adaptive
+    features, and make the tradeoffs between speed, quality
+    and long-term platform health explicit
+  - Act as the technical point of contact for escalations that
+    span more than one program, and drive them to resolution
+
+  AI-Powered Adaptive Learning
+
+  - Design and build LLM- and agent-driven capabilities that
+    personalize the learning path based on what a student
+    knows, where they struggle and how they learn
+  - Establish evaluation suites and quality gates for AI-
+    generated content and recommendations, covering accuracy,
+    pedagogy, safety and bias
+  - Lead the evaluation of new models, frameworks and tools, and
+    pilot advanced practices such as retrieval, tool-using
+    agents and MCP servers before scaling them
+  - Partner with curriculum and learning design experts so that
+    adaptive behavior reflects sound learning science, not
+    just technical possibility
+
+
+
+  Execution & Delivery
+
+  - Build working prototypes quickly to test ideas with real
+    learners and educators, then harden the ones that prove
+    out into production-grade services
+  - Reduce systemic risk through refactoring, hardening and
+    observability across the content, data and adaptive
+    services you touch
+  - Safeguard the security and privacy of student data in every
+    design, meeting the standards expected of a K-12 education
+    provider
+  - Mentorship & Influence
+  - Model AI-first engineering, using agents throughout design,
+    build, test and review, and help teams across the three
+    programs do the same
+  - Review critical designs and code from engineers across
+    teams, and raise the bar through example rather than
+    mandate
+  - Facilitate knowledge transfer between teams so that patterns
+    proven in one program are reused in the others
+
+
+
+  Domain Depth for This Posting
+
+  Adaptive learning:
+
+  - Model each student’s current state: mastery, gaps and
+    engagement
+  - Suggest the next best activity for every learner
+  - Generate interactives across modalities: text, visual,
+    audio, practice and simulation
+  - Adapt the full course path: remediate, re-sequence or
+    accelerate
+  - Give teachers insight into strengths, weaknesses and where
+    to intervene
+
+  Content foundations:
+
+  - Structured, AI-ready curriculum content that can be
+    authored, tagged, assembled and generated
+  - A learning object repository to find, reuse and fill gaps in
+    existing resources
+  - Data foundations: a large-scale student, curriculum and
+    assessment data platform that supplies trusted learner
+    signals to adaptive experiences
+  - Systems you will shape:
+  - Learner model service
+  - Recommendation and course adaptation engine
+  - Multimodal interactive generation services
+  - Teacher insights and intervention tools
+  - Learning object repository, content authoring and publishing
+    services
+  - Learner data pipelines, APIs and the AI services that
+    connect them
+  - Partner functions you cannot deliver without: Product
+    Management, Learning Science, Design & Curriculum, Data
+    Science & Data Engineering, Solution & Enterprise
+    Architecture, Platform and Security Engineering
+
+
+
+  Preferred Qualifications
+
+  - 8-12 years of software engineering experience, including
+    technical leadership of complex, cross-team initiatives
+  - Hands-on experience building production applications with
+    large language models and AI agents, including prompt and
+    retrieval design, tool use and evaluation
+  - Experience designing data models and pipelines that turn
+    learner or user behavior into signals a product can act on
+  - Experience with structured content models, content authoring
+    tools or content delivery platforms
+  - Strong cloud-native engineering background (AWS preferred),
+    with API-first and event-driven design
+  - Background in education, teaching, learning design or ed-
+    tech is a strong plus
+  - Track record of turning a rough proof of concept into a
+    durable platform that others build on
+  - Relevant degree in Computer Science or equivalent practical
+    experience
+
+  Skills and Experience
+
+  The skills and experience this role are assessed against.
+
+  - Adaptability
+  - Artificial Intelligence
+  - Learning to Learn
+  - Engineering fundamentals
+  - Collaboration
+  - Information Security
+  - Innovation
+  - Problem Solving
+  - Technical Acumen
+  - Role-specific skills
+  - API Management
+  - Cloud Computing
+  - Data Security
+  - DevOps
+  - Ethical Responsibility
+  - Resilience Planning
+  - Software Design
+  - Emerging skills
+  - AI Agents
+  - Automated Artificial Intelligence (AutoAI)
+  - Specialist depth for this role
+  - Adaptive learning design, including learner mastery modeling
+    and personalized sequencing
+  - Evaluating AI-generated learning content and recommendations
+    for accuracy, pedagogy and safety
+  - Modeling structured curriculum content so it can be reused,
+    assembled and generated
+
+
+
+  Compensation at Pearson is influenced by factors including
+  skill set, experience, and location.
+
+  The full-time salary range for this role is $155,000 –
+  $175,000. This position is eligible to participate in an
+  annual incentive program. Information on benefits can be
+  found here.
+
+  Applications will be accepted through 16th November 2026.
+  This window may be extended depending on business needs.
+
+  Apply today and imagine the impact you can make.  #LI-P1
+
+  #LI-Remote
+posted_date: 2026-11-12
+url: "https://builtin.com/job/principal-software-engineer/12198941"
+source: Built In

@@ -1,0 +1,97 @@
+job_id: 10245437
+title: Software Engineer
+company: Garda Capital Partners
+location: New York, USA
+work_type: FULL_TIME
+company_size: 115 Employees
+description: |
+  Garda Capital Partners (Garda) is a multi-billion dollar
+  alternative investment firm with over 22 years of experience
+  deploying relative value strategies across fixed income
+  markets for institutional investors. We hire, grow, and
+  mentor great talent and remain steadfast in our commitment
+  to building a culture that helps them succeed. Garda is more
+  than a workplace. We are built on trust, integrity, and a
+  shared vision for how we work together, the enduring
+  relationships we build, and the consistency of our results.
+  Garda's primary offices are located in Wayzata, New York
+  City, West Palm Beach, Geneva, Zug, Copenhagen, Singapore,
+  and Scottsdale.
+
+  Garda is seeking a Software Engineer in its Research and
+  Technology (R&T) group to join the Risk team, based out of
+  our New York office. The R&T group is responsible for all of
+  the firm's applications & infrastructure, including
+  analytics, portfolio, and risk management. The selected
+  candidate will join the team responsible for designing and
+  building systems that support our risk managers, including
+  risk analytics, exposure monitoring, and reporting
+  infrastructure for fixed-income and interest-rate derivative
+  portfolios. The ideal candidate will have demonstrated
+  proficiency and practical experience in software development
+  using C# and Python. Previous experience in risk management
+  or capital markets is highly desirable.
+
+  Position Responsibilities
+
+  - Help design and develop risk management systems and
+    analytics tools used directly by risk managers to monitor
+    exposure, P&L, and portfolio risk
+  - Help build and maintain services in C# and Python across the
+    application stack, from data pipelines to front-end
+    tooling
+  - Use gRPC microservices as part of our core service layer
+  - Leverage the Python scientific stack (NumPy, pandas, duckdb,
+    etc.) to develop and productionize quantitative risk
+    models and analytics
+  - Work with Parquet files for efficient data manipulation and
+    analysis
+  - Familiarity with relational database schemas and queries
+    (Oracle / Postgres) supporting risk data and reporting
+  - Containerize and deploy services using Docker and/or
+    Kubernetes
+  - Provide support for in-house and 3rd party risk and
+    analytics applications
+  - Diagnose and fix issues with trading desk and risk systems
+    (in-house analytics, vendor, and proprietary systems)
+
+  Qualifications & Desired Skills
+
+  - Bachelor's Degree in Computer Science, Engineering,
+    Mathematics, or Finance
+  - 4+ years of object-oriented development using C# and Python
+  - 4+ years of relational database, SQL, and ORM experience
+    (Oracle / Postgres preferred)
+  - Experience with the Python scientific stack (NumPy, pandas,
+    SciPy, Polars, DuckDB, etc.)
+  - Familiarity with using Parquet files for data manipulation
+  - Experience with Docker and/or Kubernetes
+  - Familiarity with risk analytics and fixed income
+    instruments, including bonds and interest rate derivatives
+    a plus
+  - Must be comfortable with development across the application
+    stack
+  - Ability to complete complex projects independently
+  - Detail-oriented with strong verbal and written communication
+    skills
+  - Ability to work effectively in a high-energy, time-sensitive
+    team environment
+  - Familiarity with designing and/or using gRPC services in a
+    microservices architecture
+  - JavaScript / React experience is a plus
+
+  Candidate Privacy Notice
+
+  This role is also eligible for other forms of compensation
+  and benefits, such as a discretionary bonus, healthcare
+  plan, 401(k) matching program, etc. Within the range,
+  individual pay is determined by work location and additional
+  factors, such as job-related skills, experience, and
+  relevant education.
+
+  Base Salary for this role is expected to be between:
+
+  $150,000—$175,000 USD
+posted_date: 2026-08-12
+url: "https://builtin.com/job/software-engineer/10245437"
+source: Built In

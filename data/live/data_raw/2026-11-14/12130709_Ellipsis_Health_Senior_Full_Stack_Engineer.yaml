@@ -1,0 +1,121 @@
+job_id: 12130709
+title: Senior Full Stack Engineer
+company: Ellipsis Health
+location: New York, USA
+work_type: FULL_TIME
+company_size: 45 Employees
+description: |
+  Ellipsis Health builds AI products that take on healthcare's
+  staffing shortages and administrative burden, pairing
+  conversational AI with our patented voice biomarker
+  technology to help deliver better healthcare for everyone.
+  Our voice agents talk with patients every day: booking and
+  rescheduling appointments, answering billing questions,
+  handling medication refills, and checking in after a
+  hospital visit.
+
+  This role sits on our provider engineering team, building
+  the platform that connects our agents to the EHRs,
+  scheduling systems, and phone systems inside health systems,
+  provider groups, and FQHCs. You'll work across the provider
+  teams within Ellipsis, partnering with AI engineering,
+  product, deployment, and customer teams to make every new
+  health system go-live faster and more reliable than the
+  last.
+
+  We're seeking a Senior Full Stack Engineer to build the
+  backbone our AI agents rely on. An agent is only as good as
+  the systems it can act on, and in this role you'll design
+  the APIs, integrations, data model, and durable workflows
+  that connect our agents to EHRs, scheduling systems, and
+  phone systems inside some of the largest health systems in
+  the country. The role leans backend and API, but it's full
+  stack and AI is part of the job: you'll design the tools LLM
+  agents call, ship UI when a feature needs it, and work side
+  by side with our AI engineers. In your first three months,
+  you'll ship at least one major EHR or health system
+  integration from spec to go-live, own a core platform
+  service in production, and build reusable integration
+  tooling that makes each new go-live faster than the last.
+
+  You'll work directly with our SVP of Engineering and
+  engineering leads on a small team where your decisions shape
+  the platform for years. The ideal candidate is a hands-on
+  builder who takes ownership in ambiguous situations, holds a
+  high bar for reliability and observability, and is motivated
+  by making healthcare work better for patients.
+
+  Responsibilities
+
+  - Design, build, and operate backend services and APIs
+    (TypeScript/Node.js and Python) that power our AI agents
+    and the applications around them.
+  - Build integrations with EHR and health system platforms
+    using FHIR, HL7, and vendor APIs, so messy systems look
+    simple to the rest of the platform.
+  - Build the agent tools: the APIs and functions LLM agents
+    call to look up patients, book appointments, and process
+    refills, with the reliability, idempotency, and
+    observability that requires.
+  - Build and scale durable workflows and job pipelines (e.g.,
+    Temporal, queues) for outbound campaigns, scheduling, and
+    reconciliation.
+  - Evolve and scale our application architecture, data model,
+    and persistence layer as we onboard more health systems.
+  - Ship complete features across the stack, including
+    React/TypeScript UI when needed.
+  - Own production, including CI/CD, monitoring, alerting,
+    incident response, runbooks, and HIPAA-grade security and
+    audit logging.
+
+  Qualifications
+
+  - 5+ years of experience building production backend systems
+    in TypeScript/Node.js and/or Python.
+  - Strong API design skills (REST, webhooks, async processing),
+    along with relational databases (PostgreSQL) and
+    distributed systems fundamentals.
+  - Experience integrating third-party systems and handling rate
+    limits, retries, and partial failures gracefully.
+  - Experience with cloud and containers (GCP preferred; Docker;
+    Cloud Run or Kubernetes).
+  - Comfort shipping frontend work when a feature calls for it.
+  - Curiosity about LLMs and agents. Experience building with
+    them is a plus, and you'll get plenty of it here.
+
+  Preferred
+
+  - Healthcare interoperability experience, including FHIR,
+    HL7v2, and EHR vendor APIs.
+  - Experience with Temporal or similar workflow orchestration.
+  - Telephony or CPaaS experience (Twilio, SIP).
+  - Experience building tools or MCP servers for LLM agents.
+  - Security and compliance experience (HIPAA, SOC 2).
+
+  Salary and Benefits
+
+  We offer a competitive salary and meaningful equity, along
+  with comprehensive health, dental, and vision insurance, a
+  401(k) plan, and [learning budget / conferences / additional
+  benefits].
+
+  The typical salary range for this role is $160,000 to
+  $210,000 USD, depending on skills, qualifications, and
+  relevant experience.
+
+  Background Checks
+
+  As a healthcare technology company, Ellipsis Health may
+  conduct background checks on candidates who receive an
+  offer, in accordance with applicable law. We evaluate every
+  candidate holistically and comply with all applicable "ban
+  the box" regulations.
+
+  Assistance
+
+  If you have a disability or need an accommodation during the
+  application or recruitment process, please contact
+  careers@ellipsishealth.com.
+posted_date: 2026-11-07
+url: "https://builtin.com/job/senior-full-stack-engineer/12130709"
+source: Built In

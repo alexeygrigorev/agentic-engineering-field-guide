@@ -1,0 +1,96 @@
+job_id: 11486698
+title: Senior/Staff Software Engineer
+company: The Public Interest Company
+location: USA
+locations:
+  - USA
+  - Boca Raton, USA
+  - New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 25 Employees
+description: |
+  Senior/Staff Software Engineer
+
+  Proposed start date: 1/1/2026
+
+  Reporting to: VP, Engineering
+
+  Work location: Remote/WFH; New York, NY; South Florida
+
+  Employment type: Full-time employee
+
+  About the Company
+
+  The Public Interest Company is a comprehensive solution for
+  identifying and recovering third party liability for health
+  plans, risk-bearing provider groups, and self-funded
+  employers. We combine AI and a legal tech platform to
+  identify and recover claims that should have been paid by
+  third party payers. We handle the entire recovery process,
+  all while protecting members and streamlining operations. We
+  empower healthcare organizations to maximize their financial
+  performance, and recoup dollars towards care delivery,
+  without adding administrative burden.
+
+  Role Overview
+
+  The Senior/Staff Software Engineer will design, build, and
+  scale the core systems that power our claims identification,
+  case management, and recovery workflows. This is a high-
+  ownership role focused on solving complex engineering
+  problems in a data-heavy, highly regulated environment.
+
+  You will architect and maintain production systems,
+  integrate AI and workflow automation, and collaborate across
+  product, engineering, and data science to deliver secure,
+  resilient, and efficient platforms.
+
+  Responsibilities
+
+  - Design and implement backend services, APIs, and
+    orchestration workflows that support claim identification,
+    case routing, and operational processes.
+  - Build scalable systems that interface with AI/ML models,
+    legal datasets, and large volumes of transactional and
+    healthcare data.
+  - Develop durable, fault-tolerant workflows using Temporal and
+    related tooling.
+  - Create clean, maintainable, and high-performance code using
+    Python (FastAPI) and TypeScript (Next.js).
+  - Maintain and optimize cloud infrastructure in AWS,
+    leveraging ECS, RDS (Postgres), Redis, and secure
+    deployment pipelines.
+  - Collaborate with product and business stakeholders to
+    translate operational needs into engineering solutions.
+  - Uphold engineering best practices, including testing,
+    documentation, version control, and code review.
+  - Explore and evaluate new technologies that improve
+    reliability or efficiency while maintaining simplicity and
+    alignment with core engineering principles.
+
+  Qualifications
+
+  - 5+ years of experience in software engineering, ideally in
+    backend or full-stack roles (title level flexible based on
+    experience).
+  - Strong proficiency in Python and experience with modern web
+    frameworks (FastAPI, Django, Flask, etc.).
+  - Experience building and maintaining production systems in
+    cloud environments (AWS preferred).
+  - Familiarity with distributed systems, workflow
+    orchestration, and event-driven architectures.
+  - Ability to design and implement reliable, maintainable, and
+    secure systems in a fast-paced startup environment.
+  - Strong communication and collaboration skills, with comfort
+    interacting directly with product and business teams.
+  - Preference for practical problem-solving and simple, elegant
+    technical solutions.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Insurance
+  - Legal Tech
+posted_date: 2026-10-02
+url: "https://builtin.com/job/senior-staff-software-engineer/11486698"
+source: Built In

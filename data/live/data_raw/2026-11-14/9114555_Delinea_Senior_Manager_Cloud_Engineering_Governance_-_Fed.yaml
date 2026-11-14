@@ -1,0 +1,223 @@
+job_id: 9114555
+title: Senior Manager, Cloud Engineering Governance - FedRAMP
+company: Delinea
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 794 Employees
+description: |
+  About Delinea: Delinea is the identity security platform
+  that continuously controls what AI agents, humans and
+  machines can do and for how long. It extends privileged
+  access management from the point of access to the moment of
+  action, using just-in-time authorization to reduce standing
+  privilege across on-premises, multi-cloud and short-lived
+  infrastructure, without adding friction for legitimate
+  users. Delinea provides visibility across every identity
+  type, scores the risk each one carries, and preserves the
+  context behind access decisions, making them auditable and
+  defensible. It supports both static and ephemeral access,
+  letting teams apply Zero Standing Privilege where risk
+  demands it without replacing existing infrastructure.
+
+  Summary:
+
+  We are seeking an experienced Manager of Cloud Governance to
+  lead a team of cloud engineers responsible for governing,
+  securing, and optimizing our multi-cloud, multi-tenant
+  environment. This role combines people management with
+  hands-on technical leadership across multiple Microsoft
+  Entra tenants, our AWS Organization, cloud policy
+  enforcement, cost optimization, and vendor relationships.
+  The ideal candidate will own day-to-day team operations,
+  backlog execution, and cross-functional coordination,
+  enabling the Director to focus on strategy and stakeholder
+  engagement.
+
+  What You'll Do:
+
+  • Directly manage a small team of cloud engineers; handle
+  hiring, coaching, performance reviews, career development,
+  and administrative tasks (time-off, expense approvals)
+
+  • Facilitate team stand-ups, planning, and backlog
+  refinement; break down Director-defined initiatives into
+  well-scoped, actionable work items with the team
+
+  • Produce weekly status reports for leadership covering
+  progress, blockers, and upcoming priorities
+
+  • Serve as primary point of contact for cloud governance
+  requests, escalations, and issues from Engineering and other
+  departments; collect requirements and feedback when
+  implementing new systems, guardrails, or CSP configurations;
+  communicate policy changes and best practices to development
+  teams
+
+  • Develop, implement, and enforce cloud governance
+  frameworks and policies across Azure, AWS, and SaaS
+  platforms to meet regulatory and industry requirements
+
+  • Define and manage RBAC, tagging, and naming standards
+  across cloud service providers
+
+  • Create and enforce policies using IaC and policy-as-code
+  tooling (e.g., Azure Policy, AWS SCPs, Cloud Custodian,
+  Terraform); design break-glass access and JIT privilege
+  elevation workflows
+
+  • Oversee multiple Microsoft Entra tenants used by
+  Engineering and other departments, including cross-tenant
+  synchronization, identity lifecycle management
+  (provisioning, deprovisioning, attribute-based scoping), and
+  SAML/OIDC authentication for SaaS applications and CSPs
+
+  • Oversee hardware security key (YubiKey) lifecycle
+  management - procurement, provisioning, and phishing-
+  resistant authentication policies - for the FedRAMP
+  environment
+
+  • Conduct security assessments and audits; perform root
+  cause analysis on governance-related incidents; support
+  compliance initiatives in regulated and compliance-heavy
+  environments, including audit readiness and evidence
+  collection
+
+  • Manage vendor relationships for cloud service providers
+  and SaaS platforms within a shared responsibility model -
+  including billing, contract negotiation, authentication
+  configuration, and delegation to end users
+
+  • Monitor cloud usage and spending; identify and implement
+  cost optimization strategies; evaluate licensing models and
+  SKU options; provide regular reports on cloud costs and
+  usage trends to senior leadership and Finance
+
+  • Contribute hands-on work as needed - writing Terraform,
+  PowerShell, or Python for policy enforcement, automation,
+  and infrastructure management; review infrastructure-as-code
+  pull requests from the team; develop CI/CD pipelines for
+  cloud policy and governance tooling deployment
+
+  What You'll Bring:
+
+  • 7+ years in cloud engineering, operations, or governance
+  with a strong focus on Azure and AWS
+
+  • 3+ years of direct people management experience leading
+  technical teams
+
+  • Expert-level Microsoft Entra knowledge across Entra ID,
+  Conditional Access, Identity Protection, Privileged Identity
+  Management (PIM), Identity Governance, and multi-tenant /
+  cross-tenant architectures
+
+  • Strong IAM fundamentals: SAML, OIDC, RBAC, and JIT
+  privilege elevation
+
+  • Proficiency with infrastructure-as-code (Terraform
+  preferred) and scripting (PowerShell, Python, Bash)
+
+  • Experience with cloud policy frameworks (Azure Policy, AWS
+  SCPs, Cloud Custodian) and tagging/naming governance
+
+  • Experience with cloud cost optimization and financial
+  reporting, plus vendor management for CSPs and SaaS
+  (contracts, billing)
+
+  • Familiarity with Agile methodologies and experience with
+  Azure DevOps; excellent written and verbal communication
+  with the ability to translate complex technical concepts for
+  non-technical stakeholders
+
+  We'd Love to See:
+
+  • Experience in regulated or compliance-heavy environments
+  (e.g., FedRAMP, SOC 2, NIST 800-53)
+
+  • Experience with Microsoft Government Cloud (GCC High,
+  Azure Government)
+
+  • Experience with AWS Organizations, consolidated billing,
+  and multi-account governance
+
+  • Familiarity with Zero Trust security frameworks and Azure
+  Virtual Desktop or Windows 365 deployments
+
+  • Familiarity with Jira Service Management (JSM) for
+  ticketing and request workflows
+
+  • Relevant certifications such as Microsoft Certified:
+  Identity and Access Administrator, Azure Solutions Architect
+  Expert, or AWS Certified Solutions Architect
+
+  • Experience with KQL, Azure Resource Graph, or similar
+  query and reporting tools
+
+  For this Job, Delinea is not considering candidates that
+  need any type of US work authorization now or in the future.
+  This includes, but is not limited to: F1-OPT, F1-CPT, H-1B,
+  TN, L-1, J1, etc.
+
+  #LI-MF1
+
+  Why work at Delinea?
+
+  - We're passionate problem-solvers helping the world's largest
+    organizations protect what matters most: their human and
+    machine identities.
+
+  - We invest in people who are smart, self-motivated, and
+    collaborative.
+
+  - What we offer in return is meaningful work, a culture of
+    innovation and great career progression.
+
+  At Delinea, our core values are STRONG and guide our
+  behaviors and success:
+
+  - Spirited - We bring energy and passion to everything we do
+
+  - Trust - We act with integrity and deliver on our commitments
+
+  - Respect - We listen, value different perspectives, and work
+    as one team
+
+  - Ownership - We take initiative and follow through
+
+  - Nimble - We adapt quickly in a fast-changing environment
+
+  - Global - We embrace diverse people and ideas to drive better
+    outcomes
+
+  We believe weaving these core values into our day-to-day
+  actions, and our process for hiring, evaluating, and
+  promoting employees, helps us cultivate a work environment
+  that embraces collaboration and camaraderie.
+
+  We take care of our employees. We offer competitive
+  salaries, a meaningful bonus program, and excellent
+  benefits, including healthcare insurance, as well as
+  pension/retirement matching, comprehensive life insurance,
+  an employee assistance program, time off plans, and paid
+  company holidays.
+
+  Delinea is an Equal Opportunity and Affirmative Action
+  employer and prohibits discrimination and harassment of any
+  type with regard to race, color, religion, age, sex,
+  national origin, disability status, genetics, protected
+  veteran status, sexual orientation, gender identity or
+  expression, or any other characteristic protected by
+  federal, state or local laws.
+
+  Upon conditional offer of employment, candidates are
+  required to complete comprehensive criminal background
+  check, verification of education, and verification of
+  employment, per employment policy. In addition, all publicly
+  posted social media sites may be reviewed.
+industries:
+  - Cloud
+  - Security
+posted_date: 2026-08-02
+url: "https://builtin.com/job/manager-cloud-engineering-governance-fedramp/9114555"
+source: Built In

@@ -1,0 +1,96 @@
+job_id: 12083936
+title: Senior Software Engineer
+company: LanceDB
+location: CHL
+locations:
+  - CHL
+  - PER
+  - CAN
+  - USA
+  - JPN
+  - AUS
+  - GUY
+  - BRA
+  - ECU
+  - MEX
+  - URY
+  - COL
+  - SUR
+  - BOL
+  - PRY
+  - ARG
+  - NZL
+remote: true
+work_type: FULL_TIME
+company_size: 29 Employees
+description: |
+  About LanceDB
+
+  AI advances at the speed of its research, and research moves
+  at the speed of its data. LanceDB is the AI-native
+  Multimodal Lakehouse: one system where a researcher curates
+  petabytes of video, audio, and every signal derived from
+  them with a few lines of Python, and the next training run
+  starts as fast as the next idea. Customers like Runway,
+  Midjourney, and Netflix build the future of AI on LanceDB,
+  from frontier and world models to robots and autonomous
+  vehicles.
+
+  About the Role
+
+  We're looking for a Senior Software Engineer to help expand
+  the reach of Lance and LanceDB within the broader data
+  infrastructure ecosystem. You'll work at the intersection of
+  high-performance computing, big data, and open-source
+  systems. You will contribute scale and performance
+  improvements, integrations with the wider data and AI
+  ecosystem, simplifying distributed operations, and usability
+  and maintainability enhancements.
+
+  What You'll Do
+
+  - Designing and maintaining efficient distributed Lance
+    dataset operations
+  - Building efficient indices to enable predicate pushdown and
+    accelerate queries in Spark, Ray, or Trino
+  - Working on table formats, data encodings, and various
+    aspects of the Lance format in Rust
+  - Driving open-source community efforts to integrate the Lance
+    format with Spark, Hive Metastore, Presto, Trino, Ray, and
+    other data infrastructure systems
+  - Operating and improving internal data processing
+    infrastructure
+  - Promoting the Lance format in open-source communities and at
+    Big Data conferences
+
+  What We're Looking For
+
+  - 10+ years of experience building high-performance databases,
+    big data systems, or large-scale data services
+  - Deep understanding of internals of open-source Big Data or
+    AI training systems (e.g., Hadoop, Spark, Flink, Ray,
+    Iceberg, Delta Lake, Hudi, ClickHouse, Trino, Presto,
+    PyTorch, or JAX)
+  - Strong experience with high-performance computing in C++,
+    Java, and/or Scala
+  - Experience with Rust (or willingness to learn it)
+  - Proven ability to move fast, work independently, and
+    collaborate with a high-caliber team
+
+  Nice to Have
+
+  - Contributor, committer, or PMC member in Apache or other
+    large open-source projects
+  - Experience with Apache Arrow, DataFusion, Parquet, Iceberg,
+    or Delta Lake
+  - Track record of driving large features or integrations in
+    distributed systems
+  - Strong community presence and passion for open-source
+    collaboration
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-11-04
+url: "https://builtin.com/job/senior-software-engineer/12083936"
+source: Built In

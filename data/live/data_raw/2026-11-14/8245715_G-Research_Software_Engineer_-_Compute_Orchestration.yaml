@@ -1,0 +1,161 @@
+job_id: 8245715
+title: Software Engineer - Compute Orchestration
+company: G-Research
+location: London, GBR
+work_type: FULL_TIME
+company_size: 1,039 Employees
+description: |
+  We tackle the most complex problems in quantitative finance,
+  by bringing scientific clarity to financial complexity.
+
+  From our London HQ, we unite world-class researchers and
+  engineers in an environment that values deep exploration and
+  methodical execution - because the best ideas take time to
+  evolve. Together we’re building a world-class platform to
+  amplify our teams’ most powerful ideas.
+
+  As part of our engineering team, you’ll shape the platforms
+  and tools that drive high-impact research - designing
+  systems that scale, accelerate discovery and support
+  innovation across the firm.
+
+  Take the next step in your career.
+
+  The role
+
+  We build the workflow orchestrator at the heart of
+  G-Research's compute. A single DAG can contain millions of
+  jobs and hundreds of users run workflows concurrently across
+  our large, multi-site compute farm. Researchers describe
+  what they need, and we handle the underlying infrastructure
+  and complexity at scale. This makes our work critical to
+  enabling quant research.
+
+  At this scale, even simple tasks become complex. The
+  challenge lies in maintaining orchestration performance as
+  DAGs grow, ensuring service resilience and giving users
+  real-time visibility of their progress.
+
+  What you'll work on:
+
+  - Platform scaling as workflows grow towards billions of jobs
+  - The libraries and APIs that quants use every day
+  - The real-time UI and its backend service
+  - Observability: metrics and alerting
+  - We share a weekly support rota, and out-of-hours pages are
+    very rare
+
+  How we build it:
+
+  A strongly typed domain model is central to everything we
+  build. A surprising amount of our software is really an
+  interpreter for a small DSL: describe what you want as data,
+  then interpret it.
+
+  Data is easy to test, so we lean heavily on property-based
+  and model-based testing. We use AI coding agents
+  extensively, and types and tests are how we check their
+  work.
+
+  What matters most is how you think about correctness,
+  failure and design. Functional programming experience is a
+  bonus, and if you know why the difference between an
+  applicative and a monad matters when orchestrating a DAG,
+  we'd especially like to talk.
+
+  How we work:
+
+  - We are a co-located and growing team and our users are just
+    down the hall. We work with them every day, so you'll see
+    the impact of what you build almost immediately.
+  - We agree goals with our users and decide how to meet them.
+    Process is light, infrastructure is self-service and you
+    own what you ship.
+
+  Our stack:
+
+  - F# for the core services
+  - Python and .NET SDKs for users
+  - A TypeScript/React UI
+  - Postgres, moving to CockroachDB
+  - On-prem Kubernetes for hosting services
+
+  Who are we looking for?
+
+  The ideal candidate will have the following skills and
+  experience:
+
+  - You enjoy hard, open-ended problems and see them through to
+    a solution you'd stand behind
+  - While you care about users and convenience, you design APIs
+    to be hard to misuse first
+  - You think about what a system guarantees when things fail
+    and you'd rather it stopped than carried on giving wrong
+    results
+  - When something breaks, you dig until you understand why
+  - You've built production systems at scale and know what it
+    takes to keep them reliable and performant as they grow
+  - You measure before you optimise and build systems that tell
+    you when they're unhealthy
+  - You support design arguments with a prototype or a benchmark
+  - You can explain a hard trade-off to a quant, an
+    infrastructure engineer and someone less close to the
+    detail, at the right level for each
+  - You've written serious code in a functional language (F#,
+    OCaml, Haskell, Erlang, Elixir, Scala, Rust or similar),
+    or you're keen to
+
+  We’re hiring across all experience levels and value your
+  approach to problem-solving over familiarity with a specific
+  programming language.
+
+  Why should you apply?
+
+  - Highly competitive compensation plus annual discretionary
+    bonus
+  - Lunch provided (via Just Eat for Business) and dedicated
+    barista bar
+  - 35 days' annual leave
+  - 9% company pension contributions
+  - Informal dress code and excellent work/life balance
+  - Comprehensive healthcare and life assurance
+  - Cycle-to-work scheme
+  - Monthly company events
+  - Experience days: all-expenses-paid, bucket-list outings with
+    colleagues, from Michelin-star tasting menus to European
+    day trips.
+
+  Relocation Support
+
+  If you're relocating from within the UK or internationally
+  to join us in London, we offer a comprehensive range of
+  support services to assist you all the way. All costs
+  associated with your relocation and immigration are covered
+  by G-Research.
+
+  - Concierge service: Your personal consultant will arrange
+    travel, help find your new home and manage your move.
+    They're also on hand to help with more bespoke requests
+    too.
+  - Immigration support: We'll partner you with an expert
+    consultant who will guide you through the full immigration
+    process.
+
+  G-Research is committed to cultivating and preserving an
+  inclusive work environment. We are an ideas-driven business
+  and we place great value on diversity of experience and
+  opinions.
+
+  We want to ensure that applicants receive a recruitment
+  experience that enables them to perform at their best. If
+  you have a disability or special need that requires
+  accommodation please let us know in the relevant section
+industries:
+  - Big Data
+  - Fintech
+  - Information Technology
+  - Machine Learning
+  - Financial Services
+posted_date: 2026-08-14
+url: "https://builtin.com/job/software-engineer-realtime-quant-frameworks/8245715"
+source: Built In

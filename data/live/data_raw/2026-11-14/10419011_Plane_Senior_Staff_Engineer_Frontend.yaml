@@ -1,0 +1,213 @@
+job_id: 10419011
+title: Senior Staff Engineer, Frontend
+company: Plane
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 77 Employees
+description: |
+  About Plane
+
+  Plane's mission is to build the infrastructure the world's
+  work runs on. Every organization runs on three things: the
+  projects it's driving, the knowledge it keeps, and the
+  requests it fields. Plane brings all three into one open,
+  adaptable platform: simple enough for any team to adopt,
+  dependable enough for organizations to build on. And we are
+  building it for a future where humans and AI agents do that
+  work together.
+
+  Plane began in public on GitHub at the end of 2022. Since
+  then it has grown into a work management platform used by
+  teams around the world: 55,000+ stars, 5,000+ forks, and a
+  contributor community that reads our code and files our
+  issues. Organizations run Plane as a managed Cloud service,
+  on their own infrastructure, or inside fully isolated
+  environments. Building in the open keeps us close to users
+  and raises the standard for everything we ship.
+
+  Plane is the #1 work infrastructure in aerospace, defense,
+  financial services, and other regulated industries:
+  organizations whose requirements for control, auditability,
+  and data residency rule most software out. When the
+  strictest buyers pick a system of record, that choice means
+  something. Adoption is growing fastest on Plane Cloud and in
+  sovereign clouds, deployments that keep everything inside a
+  country's own borders and rules.
+
+  Plane is backed by top investors and built across San
+  Francisco, London, and Hyderabad. We work in tightly knit
+  teams, stay close to users, and care about the visible
+  product as much as the unglamorous details that make
+  software dependable. People own problems end to end, and we
+  add process only when it helps the work.
+
+
+
+  Humans and agents
+
+  We believe the next decade of work will be done by humans
+  and AI agents together. Not agents replacing people, and not
+  a chat window bolted onto software built for humans clicking
+  around, but both working in one system of action, where an
+  agent's work is as visible and as accountable as a person's.
+
+  Most software treats AI as a feature. We treat agents as a
+  kind of worker, and that changes what the system underneath
+  has to be. Agents are only as good as the context they can
+  see and the state they are allowed to change, so shared
+  context, explicit state, durable history, and accountable
+  action are not items on our roadmap. They are the product.
+  Plane is built so that when an agent acts, the humans
+  responsible can see what happened, why, and on whose
+  authority, and the record survives.
+
+  This is what the infrastructure is for: making the future
+  where humans and agents work together useful, legible, and
+  fully within the organization's control. Every role at Plane
+  is some part of building that.
+
+
+
+  About the role
+
+  Plane's client is local-first and collaborative, which means
+  state lives in the browser, moves over WebSockets to an
+  Elixir sync service, survives the network going away, and
+  has to resolve what happens when two people edit the same
+  document at once. Agents now edit alongside those people, so
+  the same client has to make a machine's change as legible
+  and as attributable as a colleague's. This is an individual
+  contributor role that owns that architecture: where the sync
+  boundary sits, what the design system guarantees to every
+  team building on it, and what the performance and
+  accessibility bar is for views holding tens of thousands of
+  issues. You will work with the Elixir and Django teams, with
+  design, and with the frontend engineers in San Francisco and
+  Hyderabad whose work you will review and whose standards you
+  will help write. All of it happens in a public repository,
+  so your architectural decisions get read, questioned, and
+  depended on by people outside the company.
+
+
+
+  What you'll do
+
+  - Own the architecture of Plane's frontend: how state moves
+    through the client, where the boundary with the Elixir
+    sync service sits, and what the shared component library
+    guarantees to every team building on it.
+  - Own real-time collaborative editing end to end, including
+    transport, offline behavior, serialization, and what the
+    interface does when two edits cannot both be right.
+  - Set the performance and accessibility bar for dense views
+    and hold the product to it. Rendering paths, memory, and
+    bundle size in workspaces holding tens of thousands of
+    issues.
+  - Decide how agent activity appears in the interface, so that
+    a change made by a machine carries its authority and its
+    history as visibly as one made by a person.
+  - Raise the level of the frontend engineers around you in San
+    Francisco and Hyderabad, through design review, code
+    review, and standards that hold after you stop pushing
+    them.
+  - Carry migrations through a public codebase, where community
+    contributors and self-hosted customers running months-old
+    versions all feel the change, and some of them will tell
+    you so in an issue thread.
+
+
+
+  What you'll bring
+
+  - You have eight or more years building web applications, and
+    you owned the architecture of the recent ones. Not eight
+    years of shipping features inside someone else's design.
+  - You are expert in TypeScript and React. You can take a
+    rendering problem down to the browser: reconciliation,
+    memory, and paint, with measurements rather than instinct.
+  - You have owned a design system other teams depended on.
+    Versioning, deprecation, and what happens when a component
+    is used in ways you did not plan for.
+  - You have shipped real-time collaborative editing to
+    production. CRDTs, operational transformation, or a
+    comparable approach, including the conflict cases that
+    arrive afterwards.
+  - You have raised the level of engineers around you.
+    Mentoring, review, and standards that outlasted your
+    attention.
+
+
+
+  Nice to haves
+
+  - You have worked inside a rich-text editor framework
+    (ProseMirror, Tiptap, Lexical) rather than only on top of
+    one.
+  - You read Elixir, Go, or Python well enough to follow a bug
+    across the boundary instead of handing it off.
+  - You have built and shipped an Electron desktop application,
+    including packaging and updates.
+  - You have maintained an open project with outside
+    contributors, where the review queue and the roadmap were
+    both public.
+
+
+
+  Tech
+
+  - Frontend: React, TypeScript, Tailwind CSS, MobX
+  - Editing and collaboration: ProseMirror based editor,
+    WebSocket sync engine backed by Elixir, offline support
+  - Desktop: Electron
+  - Build and design system: Vite, Rolldown, shared React
+    component library used across the product
+  - Services you will call: Python/Django, Golang, Elixir,
+    Postgres, Redis, public REST and GraphQL APIs
+  - Infrastructure: AWS, Kubernetes, Rancher
+  - Observability: Datadog, Sentry
+  - Everyday tools: GitHub, Plane (yes, we run on it), Figma,
+    Slack
+
+
+
+  Why Plane?
+
+  Every company says it is different. We will try evidence
+  instead.
+
+  The scope is real. We are a passion team serving companies
+  of every size, including some of the largest in the world.
+  Something you ship this month will run inside a Fortune 500
+  company and a 50-person startup in the same week, and you
+  will hear from both.
+
+  The constraints make you better. Plane runs in our cloud, in
+  customers' clouds, and on machines that will never touch the
+  internet. Much of the work happens in the open, where the
+  issues, the fixes, and the roadmap conversations are public.
+  Building software that survives all of that is harder than
+  building an ordinary SaaS product, and it is a better
+  education than most companies can offer.
+
+  The people-and-agents future is being built here, in
+  production. We think humans and AI agents will share one
+  system of action for work. We are building that system now,
+  for customers who already depend on it, and you will work on
+  that problem directly whatever your role.
+
+  Your name is on the work. The teams are deeply connected
+  enough that credit and responsibility both find you fast.
+  That is some pressure. Mostly it is the fun part.
+
+  If that sounds like your kind of place, we would like to
+  meet you.
+
+  Plane is an equal opportunity employer. We do not
+  discriminate based on race, color, religion, gender identity
+  or expression, sexual orientation, national origin, age,
+  disability, veteran status, or any other protected
+  characteristic under applicable law.
+posted_date: 2026-08-14
+url: "https://builtin.com/job/senior-staff-engineer-frontend/10419011"
+source: Built In

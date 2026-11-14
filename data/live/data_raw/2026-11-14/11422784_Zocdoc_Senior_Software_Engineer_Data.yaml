@@ -1,0 +1,191 @@
+job_id: 11422784
+title: Senior Software Engineer, Data
+company: Zocdoc
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,100 Employees
+description: |
+  Our Mission
+
+  You call. You wait. You call again. In every other part of
+  your life, you book in seconds. In healthcare, you’re
+  blocked.
+
+  We’re here to give power to the patient.
+
+  For nearly 20 years, we’ve built the leading healthcare
+  marketplace - helping tens of millions of people find and
+  book the care they need. Now, we’re going further: building
+  our infrastructure beyond Zocdoc’s marketplace to power
+  access to care wherever patients search, from provider
+  websites and insurance directories to search engines, AI
+  platforms, and more.
+
+  Healthcare still lacks something every other major consumer
+  industry takes for granted: a seamless way to go from
+  seeking to getting. We don’t want to own the front door to
+  care; there isn't one. We want to make sure all of those
+  doors open when patients are knocking.
+
+  Fixing healthcare starts with fixing access to it. And we're
+  still just getting started.
+
+  Your Impact on our Mission:
+
+  Zocdoc is hiring a Senior Software Engineer to build the
+  data platform that connects our products with analytics,
+  machine learning, and operational systems. This role sits on
+  the Data Engineering team at the boundary of backend
+  engineering and data infrastructure. You will build APIs,
+  libraries, schemas, services, and supported workflows that
+  help engineers publish and use data safely.
+
+  Your work will cover the path from source-defined contracts
+  and validation through reliable event and batch delivery to
+  data activation in products and business systems. You will
+  help make quality, ownership, observability, and privacy
+  part of the platform, while giving teams a clearer path to
+  ship without depending on Data Engineering for every
+  integration.
+
+  You’ll enjoy this role if you are…
+
+  - Excited to build platform products for other engineers,
+    turning ambiguous problems into practical APIs, SDKs,
+    shared libraries, command-line tools, and services that
+    you also help operate.
+  - Interested in the full lifecycle of data, including how it
+    is defined at the source, evolves safely, reaches
+    consumers, and is adopted without disruptive migrations.
+  - Motivated to build privacy, access control, and auditability
+    into everyday engineering workflows rather than rely on
+    manual review.
+  - Effective at working across product engineering, analytics
+    engineering, data science, security, compliance, and
+    infrastructure to agree on contracts and deliver shared
+    solutions.
+  - Thoughtful about using AI-assisted development tools and
+    rigorous about reviewing, testing, and maintaining the
+    work they help produce.
+
+  Your day to day is…
+
+  - Design, build, and operate services and developer tooling
+    that help engineering teams publish and consume trusted
+    data, including contract workflows, APIs, SDKs, generated
+    types, and validation tools.
+  - Improve event-driven data paths built on Kafka, Avro, and
+    schema registries, with clear delivery semantics,
+    compatibility rules, and safe schema evolution.
+  - Create reliable ways to move curated data from the warehouse
+    or lakehouse into products and operational systems, with
+    monitoring, lineage, and clear ownership.
+  - Design and operate reverse ETL and data activation paths
+    that move curated warehouse or lakehouse data into
+    products and operational systems, with monitoring,
+    lineage, and clear ownership.
+  - Build compliance capabilities into the platform, including
+    data classification, deletion and masking workflows,
+    access controls, audit trails, and policy enforcement.
+  - Write infrastructure as code, operate platform services in
+    AWS, and improve service-level indicators, alerts,
+    dashboards, runbooks, and on-call response.
+  - Partner with internal users, document supported workflows,
+    review designs and code, and help teammates build systems
+    that other teams can adopt.
+
+  You’ll be successful in this role if you have…
+
+  - 5+ years of professional software engineering experience,
+    including meaningful work on backend, platform, developer
+    infrastructure, or data-intensive systems.
+  - Strong programming skills in Python, practical experience
+    with SQL, and experience with at least one statically
+    typed language such as C#, Java, Kotlin, or TypeScript.
+  - A record of building APIs, SDKs, shared libraries, data
+    contract systems, or event publishing frameworks used
+    outside your team, with a solid understanding of schema
+    design, versioning, validation, code generation, and
+    migrations.
+  - Experience with distributed or event-driven systems,
+    including delivery guarantees, idempotency, retries,
+    ordering, dead-letter handling, and operational failure
+    modes, plus hands-on work with Kafka or a comparable
+    platform and a schema technology such as Avro, Protobuf,
+    JSON Schema, or OpenAPI.
+  - Experience operating cloud services with automated testing,
+    continuous delivery, observability, infrastructure as
+    code, and incident response, plus familiarity with
+    warehouse or lakehouse platforms such as Snowflake,
+    Databricks, or Iceberg.
+  - Bonus points if you have built software in a regulated
+    environment and understand practical controls for PHI or
+    PII, including access, deletion, de-identification,
+    lineage, and auditing.
+
+  Benefits:
+
+  - Flexible work environment
+  - Unlimited Vacation
+  - 100% paid employee health benefit options (including
+    medical, dental, and vision)
+  - 401(k) with employer funded match
+  - Corporate wellness programs with Headspace and Peloton
+  - Sabbatical leave (for employees with 5+ years of service)
+  - Competitive paid parental leave and fertility/family
+    planning reimbursement
+  - Cell phone reimbursement
+  - Employee Resource Groups and ZocClubs to promote shared
+    community and belonging
+  - Great Place to Work Certified
+
+  Zocdoc is committed to fair and equitable compensation
+  practices. Salary ranges are determined through alignment
+  with market data. Base salary offered is determined by a
+  number of factors including the candidate’s experience,
+  qualifications, and skills. Certain positions are also
+  eligible for variable pay and/or equity; your recruiter will
+  discuss the full compensation package details.
+
+  NYC Base Salary Range
+
+  $174,000—$220,000 USD
+
+  About us Zocdoc is the country’s leading digital health
+  marketplace that helps patients easily find and book the
+  care they need. Each month, millions of patients use our
+  free service to find nearby, in-network providers, compare
+  choices based on verified patient reviews, and instantly
+  book in-person or video visits online. Providers participate
+  in Zocdoc’s Marketplace to reach new patients to grow their
+  practice, fill their last-minute openings, and deliver a
+  better healthcare experience. Founded in 2007 with a mission
+  to give power to the patient, our work each day in pursuit
+  of that mission is guided by our six core values. Zocdoc is
+  a private company backed by some of the world’s leading
+  investors, and we believe we’re still only scratching the
+  surface of what we plan to accomplish.
+
+  Zocdoc is a mission-driven organization dedicated to
+  building teams as diverse as the patients and providers we
+  aim to serve. In the spirit of one of our core values -
+  Together, Not Alone, we are a company that prides itself on
+  being highly collaborative, and we believe that diverse
+  perspectives, experiences and contributors make our
+  community and our platform better.  We’re an equal
+  opportunity employer committed to providing employees with a
+  work environment free of discrimination and harassment.
+  Applicants are considered for employment regardless of race,
+  color, ethnicity, ancestry, religion, national origin,
+  gender, sex, gender identity, gender expression, sexual
+  orientation, age, citizenship, marital or parental status,
+  disability, veteran status, or any other class protected by
+  applicable laws. Job Applicant Privacy Notice
+industries:
+  - Healthtech
+  - Information Technology
+  - Software
+  - Telehealth
+posted_date: 2026-09-29
+url: "https://builtin.com/job/senior-software-engineer-data/11422784"
+source: Built In

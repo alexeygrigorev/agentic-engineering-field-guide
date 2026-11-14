@@ -1,0 +1,106 @@
+job_id: 11359294
+title: "Principal Backend / Fullstack Engineer (E-commerce & Platform Integrations)"
+company: Noble Panacea
+location: New York, USA
+locations:
+  - New York, USA
+  - London, GBR
+work_type: FULL_TIME
+company_size: 94 Employees
+description: |
+  Noble Panacea is a new revolutionary skincare brand founded
+  by Nobel Laureate Sir Fraser Stoddart and launched in
+  October 2019. The ground-breaking OSMV™ Technology at the
+  core of the brand enables transformational efficacy and
+  precision. We create deep respect & intention by adhering to
+  the global principles of green chemistry. We take our
+  commitment to nature and sustainability to all stages of
+  product development, from R&D to packaging. Ultimately, we
+  strive to promote absolute skin health by empowering all who
+  seek authentic, natural, and ageless beauty.
+
+  We are seeking a Principal Backend (or Full-Stack) Engineer
+  to lead the architecture, development, and evolution of the
+  backend and API platforms that power our ecommerce, loyalty,
+  and clienteling experiences. You will design scalable,
+  secure services and build the integration layer that
+  connects our digital products to CRM, SCV, and downstream
+  data systems to enable personalisation, analytics, and
+  Customer 360 capabilities.
+
+  This is a hands-on technical leadership role for an engineer
+  who thrives on shaping platform strategy while executing on
+  high-impact delivery. You will help define technical
+  standards, elevate engineering quality, and guide the growth
+  of our internal capabilities as we scale and partner with
+  external vendors.
+
+  Responsibilities:
+
+  - Own the backend and API architecture for our ecommerce,
+    loyalty, and clienteling platforms, ensuring scalability,
+    availability, security, and operational excellence.
+  - Design, build, and evolve backend services using Node.js,
+    TypeScript, and modern frameworks, emphasising
+    maintainability, observability, and performance.
+  - Lead integrations for global commerce, including payment
+    processors, cross-border capabilities, fulfillment
+    networks, and logistics partners, ensuring reliability and
+    fault tolerance.
+  - Architect and maintain scalable APIs and middleware
+    connecting CMS, DAM, analytics platforms, and other
+    digital experience systems.
+  - Develop and own API governance, authentication,
+    authorisation, and rate-limiting strategies to support
+    Customer 360 and broader platform interoperability.
+  - Define and implement observability standards, including
+    logging, metrics, distributed tracing, and alerting across
+    tools such as New Relic, Datadog, or CloudWatch.
+  - Collaborate closely with frontend, product, and data teams
+    to deliver seamless, performant, and secure end-to-end
+    user experiences.
+  - Drive DevOps and platform automation, improving CI/CD
+    pipelines, deployment workflows, and cloud environment
+    consistency.
+  - Mentor engineers and contribute to engineering best
+    practices, including code quality, design reviews,
+    documentation, and long-term technical roadmap
+    development.
+
+  Requirements
+
+  - 8+ years of backend or full-stack engineering experience,
+    with demonstrated ownership of complex systems.
+  - Strong proficiency in Node.js, TypeScript, REST/GraphQL API
+    development, and distributed systems patterns.
+  - Experience integrating third-party ecommerce, marketing, or
+    digital experience platforms (e.g., loyalty,
+    merchandising, A/B testing).
+  - Proven ability to design, deploy, and operate microservices
+    architectures.
+  - Hands-on experience with AWS or GCP, including serverless,
+    container orchestration, pub/sub systems, and managed
+    compute services.
+  - Familiarity with data integration, event-driven
+    architectures, and streaming platforms (Kafka, Pub/Sub, or
+    equivalents).
+  - Strong foundation in authentication, security, scalability,
+    caching, and performance tuning.
+  - Proficiency with CI/CD tooling, Terraform or other IaC, and
+    containerisation technologies such as Docker.
+  - Solid understanding of observability practices and platform
+    health KPIs.
+
+  Nice to Have:
+
+  - Background in ecommerce or digital experience platforms
+    (BigCommerce, Shopify, Salesforce Commerce, or similar).
+  - Interest in mentoring and helping shape engineering culture
+    in a scaling, product-focused organisation.
+industries:
+  - Beauty
+  - Fashion
+  - Retail
+posted_date: 2026-09-24
+url: "https://builtin.com/job/principal-backend-fullstack-engineer-e-commerce-platform-integrations/11359294"
+source: Built In

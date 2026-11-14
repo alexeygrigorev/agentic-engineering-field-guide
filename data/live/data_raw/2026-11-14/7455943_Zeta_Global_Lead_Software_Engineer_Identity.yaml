@@ -1,0 +1,132 @@
+job_id: 7455943
+title: Lead Software Engineer, Identity
+company: Zeta Global
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 2,429 Employees
+description: |
+  WHO WE ARE
+
+  Zeta Global (NYSE: ZETA) is the AI-Powered Marketing Cloud
+  that leverages advanced artificial intelligence (AI) and
+  trillions of consumer signals to make it easier for
+  marketers to acquire, grow, and retain customers more
+  efficiently. Through the Zeta Marketing Platform (ZMP), our
+  vision is to make sophisticated marketing simple by unifying
+  identity, intelligence, and omnichannel activation into a
+  single platform – powered by one of the industry’s largest
+  proprietary databases and AI. Our enterprise customers
+  across multiple verticals are empowered to personalize
+  experiences with consumers at an individual level across
+  every channel, delivering better results for marketing
+  programs. Zeta was founded in 2007 by David A. Steinberg and
+  John Sculley and is headquartered in New York City with
+  offices around the world. To learn more, go to
+  www.zetaglobal.com.
+
+  The Opportunity
+
+  At Zeta Global, identity is at the core of our marketing
+  cloud. The Identity team builds and operates backend
+  services that power the Zeta Identity Graph - collecting,
+  resolving, and maintaining billions of behavioral,
+  demographic, and transactional signals. These services
+  enable people-based marketing at scale, ensure trust and
+  transparency in how identity data is managed, and provide
+  critical APIs and event streams consumed across Zeta’s
+  platform. Our systems support more than 235 million consumer
+  profiles and process billions of events monthly, requiring
+  services that are highly available, low-latency, and built
+  to scale
+
+  We are looking for a Lead Software Engineer who brings
+  strength in both backend distributed systems and data
+  engineering. In this role, you’ll design APIs and event-
+  driven services, scale our systems to handle rapidly growing
+  data volumes, and modernize our platform for resilience,
+  transparency, and performance.
+
+  You Will:
+
+  - Design and build backend services and APIs for identity
+    resolution, graph transparency, and integrations.
+  - Develop and optimize event-driven pipelines and workflows
+    processing billions of signals.
+  - Deploy and operate cloud-native services on EKS/Kubernetes,
+    leveraging Helm for repeatable deployments.
+  - Ensure reliability, observability, and scalability across
+    services and data pipelines.
+  - Collaborate across engineering, product, and data teams to
+    deliver end-to-end identity solutions.
+  - Mentor engineers and influence architecture and roadmap
+
+  You Have:
+
+  - 5+ years of experience in backend and/or data engineering at
+    scale.
+  - Strong skills in Python, Java, or Scala, with expertise in
+    APIs, distributed systems, and event-driven design.
+  - Hands-on experience with Kafka (or similar),
+    Spark/Hive/Flink, and workflow schedulers (Airflow/Luigi).
+  - Proficiency with Kubernetes (EKS preferred) and deployment
+    practices (Helm, service meshes).
+  - Solid knowledge of SQL, data modelling, and cloud platforms
+    (AWS).
+  - Familiarity with columnar / NoSQL databases (Aerospike,
+    Snowflake, HBase, Scylla, Couchbase).
+  - Strong communication skills and a track record of driving
+    technical direction and mentoring teams.
+
+  Bonus Skills:
+
+  - Experience with large-scale or multi-tenant distributed
+    systems.
+  - Exposure to real-time streaming frameworks (Flink, Storm).
+  - Knowledge of open table formats (Iceberg, Hudi, Delta Lake).
+  - Background in security, compliance, or privacy related to
+    identity systems.
+
+  BENEFITS & PERKS
+
+  - Unlimited PTO
+  - Excellent medical, dental, and vision coverage
+  - Employee Equity
+  - Employee Discounts, Virtual Wellness Classes, and Pet
+    Insurance And more!!
+
+  SALARY RANGE
+
+  The salary range for this role is $150,000 - $200,000,
+  depending on location and experience.
+
+  PEOPLE & CULTURE AT ZETA
+
+  Zeta considers applicants for employment without regard to,
+  and does not discriminate on the basis of an individual’s
+  sex, race, color, religion, age, disability, status as a
+  veteran, or national or ethnic origin; nor does Zeta
+  discriminate on the basis of sexual orientation, gender
+  identity or expression.
+
+  We’re committed to building a workplace culture of trust and
+  belonging, so everyone feels invited to bring their whole
+  selves to work. We provide a forum for employees to
+  celebrate, support and advocate for one another. Learn more
+  about our commitment to diversity, equity and inclusion
+  here:  https://zetaglobal.com/blog/a-look-into-zetas-ergs/
+
+  ZETA IN THE NEWS!
+
+  https://zetaglobal.com/press/?cat=press-releases
+
+  #LI-DD1
+industries:
+  - AdTech
+  - Artificial Intelligence
+  - Marketing Tech
+  - Software
+  - Analytics
+posted_date: 2026-08-16
+url: "https://builtin.com/job/lead-software-engineer-identity/7455943"
+source: Built In

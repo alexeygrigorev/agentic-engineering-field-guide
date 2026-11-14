@@ -1,0 +1,114 @@
+job_id: 10895568
+title: Senior Software Engineer
+company: Tagup, Inc
+location: USA
+locations:
+  - USA
+  - New York, USA
+  - Boston, USA
+remote: true
+work_type: FULL_TIME
+company_size: 19 Employees
+description: |
+  Tagup is a Series A defense technology company, founded at
+  MIT, that is delivering logistics decision advantage with
+  next-generation AI. It all started on a balcony at MIT, with
+  an idea about monitoring asset data via the cloud using
+  passive RFID tags (TAG) - sent up (UP) to the cloud.
+
+
+
+  Our product Manifest— is the operating system for the
+  physical world. We’re a team of engineers and data
+  scientists driven by our mission to use reinforcement
+  learning and probabilistic modeling to optimize military
+  logistics and critical infrastructure, ensuring our
+  customers get the best performance they can out of the
+  resources.
+
+
+
+  You make a real world impact where your code won't just
+  optimize a shopping cart or a compute primitive. It will
+  optimize supply chains for the U.S. military and prevent
+  catastrophic failures in critical infrastructure. We do not
+  use proprietary tooling or build systems and deployment
+  pipelines. We build on modern, open standards you can apply
+  in any space. You won't just own a slice of a service. You
+  will own entire architectural domains—from API design and
+  data modeling to deployment and monitoring strategies.
+  You’ll work directly with PhD-level data scientists and
+  former special operators. We value high-velocity decision-
+  making over "approval chains."
+
+  The Role
+
+
+
+  You know how to operate at scale. You live by ownership and
+  bias for action. But working within the confines of a
+  massive company or cloud provider, your scope is often
+  limited to a single service, proprietary internal tooling,
+  and endless operational reviews.
+
+
+
+  This is a "0 to 1" role. We don't need you to maintain a
+  legacy service with 10 years of tech debt. We need you to
+  architect the core platform that ingests, processes, and
+  acts on billions of data points from the physical world.
+  It's an opportunity to escape the service team grind.
+
+  What You’ll Build
+
+  - Tagup AI Agent: Optimize complex NL queries and time-series
+    data storage to ensure sub-second latency for our AI
+    models.
+  - Core Architecture: Design and implement high-performance
+    REST APIs and microservices that power the Manifest
+    platform.
+  - Data Ingestion at Scale: Build the "nervous system" of our
+    platform—robust ETL pipelines that ingest high-frequency
+    sensor data from diverse industrial assets.
+  - Operational Excellence: Bring your "Bar Raiser" mentality to
+    our infrastructure. Implement sophisticated monitoring,
+    alarming, and automated CI/CD pipelines to ensure 99.99%
+    availability without the bureaucracy.
+
+  Required Skills
+
+  - You treat architecture as an evolving being that morphs as
+    customers scale and storage/compute/security needs change.
+  - You understand "Scale" vs. "Complexity": You know that scale
+    isn't just about TPS; it's about handling complex data
+    relationships.
+  - You want to mentor: You are ready to take the "Tech Lead"
+    mantle, mentoring junior engineers and setting the
+    standard for code quality and design patterns.
+
+  The Tech Stack
+
+  - AI: pyro, torch, MCP, Langchain using Claude.
+  - Languages: Python (FastAPI, SQLAlchemy, Pandas) – We value
+    your software engineering fundamentals and ability to
+    learn over which specific languages you have experience
+    in.
+  - Data: PostgreSQL, Redis.
+  - Infra: AWS (EC2, RDS, EKS), Kubernetes, Terraform.
+
+  Tagup is an equal opportunity employer and individuals
+  seeking employment with us are considered without regard to
+  race, color, religion, national origin, age, sex, marital
+  status, physical or mental disability, veteran status,
+  gender identity, sexual orientation, or any other
+  characteristic protected by law.
+
+
+
+  Citizenship: Due to the nature of our work with the U.S.
+  Department of Defense, applicants must be authorized to work
+  for any employer in the U.S. We are unable to sponsor visas
+  at this time.
+posted_date: 2026-08-27
+url: "https://builtin.com/job/senior-software-engineer/10895568"
+source: Built In

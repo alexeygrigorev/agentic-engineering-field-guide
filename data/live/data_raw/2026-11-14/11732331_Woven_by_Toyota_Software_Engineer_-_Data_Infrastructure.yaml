@@ -1,0 +1,94 @@
+job_id: 11732331
+title: Software Engineer - Data Infrastructure
+company: Woven by Toyota
+location: London, GBR
+work_type: FULL_TIME
+company_size: 1,679 Employees
+description: |
+  Woven by Toyota is enabling Toyota’s once-in-a-century
+  transformation into a mobility company. Inspired by a legacy
+  of innovating for the benefit of others, our mission is to
+  challenge the current state of mobility through human-
+  centric innovation — expanding what “mobility” means and how
+  it serves society.
+
+  Our work centers on four pillars: AD/ADAS, our autonomous
+  driving and advanced driver assist technologies; Arene, our
+  software development platform for software-defined vehicles;
+  Woven City, a test course for mobility; and Cloud & AI, the
+  digital infrastructure powering our collaborative
+  foundation. Business-critical functions empower these teams
+  to execute, and together, we’re working toward one bold
+  goal: a world with zero accidents and enhanced well-being
+  for all.
+
+  Team
+
+  Our data platform team is working on accelerating autonomous
+  driving by providing access to petabytes of data collected
+  by our fleet of autonomous and non-autonomous vehicles.
+  Efficient, fast and cost-effective access to data at large
+  scale is key to tackle the hardest problems in AD/ADAS, from
+  developing the Machine Learning (ML) models for perception
+  and prediction of human driving patterns, to increasing the
+  sophistication of our validation and simulation by
+  identifying rare and interesting real-world driving
+  situations. The data ecosystem developed by the London team
+  is a key building block for developing and testing modern
+  AD/ADAS products that will impact millions of customers.
+
+  Our ML and Data pipelines are built on-top of the open-
+  source Flyte orchestration framework and are deployed to
+  AWS. Pipeline code is written in Python. We use SQS and
+  Kafka to automate data connections and leverage BigQuery and
+  ElasticSearch for data storage. We believe strongly in
+  automation and testing to ensure delivery of robust and
+  correct systems.  We are a distributed team, working in the
+  UK and US.
+
+  Who are we looking for?
+
+  The London Data Infrastructure team is looking for engineers
+  who are passionate about and enable the next generation of
+  automotive software development. The right candidate will
+  have excellent communication skills, solid coding skills,
+  broad knowledge of software development across areas such as
+  Data Infrastructure and Warehouses, Data Ingestion, Compute
+  Frameworks, Observability and Build Infra.
+
+  Responsibilities:
+
+  Minimum Qualifications:
+
+  Preferred Qualifications:
+
+  WHAT WE OFFER
+
+  We are committed to creating a modern work environment that
+  supports our employees and their loved ones. We offer many
+  options of the best programs to allow you to do your most
+  meaningful work and to help you shape the future of
+  mobility.
+
+  ・Excellent health, wellness, dental and vision coverage
+
+  ・A rewarding pension
+
+  ・Flexible vacation policy
+
+  ・Family planning and care benefits
+
+  Our Commitment
+
+  ・We are an equal opportunity employer and value diversity.
+
+  ・Any information we receive from you will be used only in
+  the hiring and onboarding process. Please see our privacy
+  notice for more details.
+industries:
+  - Automotive
+  - Software
+  - Automation
+posted_date: 2026-10-16
+url: "https://builtin.com/job/software-engineer-data-infrastructure/11732331"
+source: Built In

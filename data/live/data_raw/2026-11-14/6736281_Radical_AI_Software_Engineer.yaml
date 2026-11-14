@@ -1,0 +1,101 @@
+job_id: 6736281
+title: Software Engineer
+company: Radical AI
+location: New York, USA
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Radical AI is replacing an R&D process that currently takes
+  10+ years and $100 million to produce a single discovery.
+  Our self-driving lab platform combines AI with autonomous
+  robotics to run experiments, analyze results, and
+  iterate—continuously, without human bottlenecks. For
+  industries like aerospace, automotive, defense, energy,
+  manufacturing, semiconductors, and space, that means
+  breakthroughs in weeks instead of years.
+
+  The Role
+
+  This is a generalist software engineering role on the team
+  building the core platform that powers our autonomous lab.
+  Depending on where you plug in, you might own backend
+  services, agent tooling, data and orchestration pipelines,
+  internal platforms, or the infrastructure that keeps our
+  systems observable and reliable in production.
+
+
+
+  What's non-negotiable: strong systems thinking, production
+  instincts, and the ability to contribute across the stack.
+  We're building software that controls and monitors physical
+  systems in the real world — the bar for correctness and
+  reliability is high.
+
+
+
+  We work across a deeply cross-disciplinary domain (robotics,
+  ML, experimental automation), and one near-term priority
+  involves hybrid cloud/on-prem deployments in customer
+  environments. Engineers who've navigated those constraints
+  will hit the ground running.
+
+  What You'll Work On
+
+  What We're Looking For
+
+  - 5–6+ years of production software engineering experience;
+    strong enough to design, build, and ship end-to-end
+  - Fluency in Go and/or Python; additional stack experience
+    (TypeScript, Rust) is welcome
+  - Deep comfort with distributed systems: timeouts, retries,
+    idempotency, partial failure, dead-letter queues, safe
+    rollback
+  - Experience with concurrent and asynchronous programming —
+    event loops, cancellation semantics, bounded queues, task
+    orchestration under failure
+  - Solid networking fundamentals (especially important for
+    potential on-prem deployment contexts)
+  - Containerization and cloud deployment experience
+    (Kubernetes, AWS); comfort debugging Linux systems
+  - High ownership: you find problems before they find users and
+    raise the bar for quality
+
+  Nice to have
+
+  Work Arrangement
+
+  This role is based in our New York City lab, and we are in
+  person 5 days per week.
+
+
+
+  What We Offer
+
+  A competitive compensation package also includes the best in
+  benefits:
+
+  - Medical, dental, and vision insurance for you and your
+    family, covered at 100%
+  - Mental health and wellness support
+  - Unlimited PTO and 14+ company holidays per year
+  - Company-wide end-of-year shutdown, including two weeks of
+    paid time off
+  - 401K
+  - Equity
+
+
+
+  Disclosure
+
+
+
+  Radical AI is committed to equal employment opportunity
+  regardless of race, color, ancestry, national origin,
+  religion, sex, age, sexual orientation, gender identity and
+  expression, marital status, disability, or veteran status.
+industries:
+  - Artificial Intelligence
+  - Chemical
+posted_date: 2026-08-12
+url: "https://builtin.com/job/systems-software/6736281"
+source: Built In

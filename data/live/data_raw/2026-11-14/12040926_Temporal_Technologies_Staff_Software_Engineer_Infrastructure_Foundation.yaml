@@ -1,0 +1,195 @@
+job_id: 12040926
+title: Staff Software Engineer, Infrastructure Foundations
+company: Temporal Technologies
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 501 Employees
+description: |
+  Summary
+
+
+
+  Infrastructure Foundations builds and operates the multi-
+  cloud platform underneath Temporal Cloud, turning the
+  complexity of AWS, Google Cloud (GCP), and Azure into one
+  cohesive platform the rest of Temporal builds on. Every cell
+  we run is provisioned, managed, and safely changed by
+  systems this team owns. When a customer's workflow runs, it
+  runs on our work. We are heading into the next stage:
+  Kubernetes-based infrastructure platforms built for the next
+  orders of magnitude of growth.
+
+
+
+  We are looking for a Staff Software Engineer to design and
+  build the next version of that platform. You will own a
+  significant multi-component system, from the APIs other
+  teams build on to how infrastructure state is modeled,
+  changed, and recovered, and coordinate the engineers
+  building its parts. You will stay close enough to the code
+  to prove decisions out, build the capability roadmap for
+  this area with the engineering manager, and lead through
+  design reviews and the hardest incidents.
+
+
+
+  What makes this team different
+
+  - Real multi-cloud, not multi-cloud on a slide. We run across
+    AWS, GCP, and Azure and keep extending the platform to new
+    providers. The abstractions you design are the ones every
+    new cloud plugs into.
+  - We build Temporal Cloud with Temporal. Cell creation,
+    component deployment, and cloud provisioning run as
+    Temporal workflows. You will shape how Temporal runs its
+    own infrastructure on Temporal.
+  - A platform transformation, not maintenance. HA/DR for our
+    control infrastructure, a declarative model for the whole
+    platform, and a deployment control plane, all designed
+    while a live platform keeps running.
+  - Everything sits on top of it. Nearly every team at Temporal
+    depends on what we build, so the standards you set for
+    this platform shape how those teams ship.
+
+
+
+  Responsibilities
+
+
+
+  - Multi-cloud architecture: Design the abstraction model that
+    makes AWS, GCP, and Azure read as one platform. Decide
+    where provider differences in IAM, networking, quotas, and
+    failure modes get absorbed, and how new regions and
+    providers plug in.
+  - Own a significant system: Design and build the multi-
+    component platform end to end, and coordinate the
+    engineers working on its parts. Make the system-level
+    tradeoffs between conflicting requirements, and make them
+    explicit.
+  - Declarative infrastructure model: Define how components are
+    described, versioned, and reconciled across Kubernetes
+    workloads and supporting cloud resources. Set the approach
+    for reproducible environments, drift visibility, and safe
+    reconciliation.
+  - Deployment control plane: Design the shared inventory,
+    dependency awareness, rollout sequencing, and approvals
+    that let many teams change production safely. Keep
+    orchestration and safety policy cohesive while integrating
+    with the frameworks that execute deployments.
+  - Reliability by design: Spot architectural flaws before they
+    cost us performance or reliability. Make bounded blast
+    radius, progressive rollouts, observability, load and
+    failure testing, and recovery part of every design. Stay
+    cool in the hardest incidents, then bring what we learn
+    back into the platform.
+  - Roadmap and judgment: Build the capability roadmap for this
+    area with the engineering manager. Scope big ideas down
+    into well-understood pieces, evaluate the viability of
+    requests from other teams, and weigh technical and
+    business risk when the path isn't clear.
+  - Raise the bar: Define the team's development process and
+    operational best practices. Coach Senior engineers and
+    invest in their growth, lead design reviews, and catch the
+    critical PRs, as a keeper of standards who is seen as a
+    value-add, not a blocker. Help hire the engineers who will
+    build this with you.
+  - Cross-team collaboration: Work with Traffic, Control Plane,
+    Developer Productivity, Security, and service owners.
+    Communicate complex designs clearly, influence toward the
+    right course of action, and earn adoption through useful
+    abstractions and dependable operations. Own compatibility
+    and migration as the platform evolves.
+
+
+
+  Qualifications
+
+  - 10+ years building software, including significant time
+    designing and operating distributed infrastructure in
+    production.
+  - Production infrastructure experience on at least two of AWS,
+    GCP, and Azure, including building, operationalizing, and
+    scaling Kubernetes-based platforms across them.
+  - Deep Kubernetes knowledge: scheduling, controllers and
+    reconciliation, resource management, isolation, and
+    upgrade safety.
+  - A record of designing and building a significant multi-
+    component system and coordinating other engineers to
+    deliver it, ideally through a substantial infrastructure
+    transition while production kept running.
+  - Proficiency across a diverse set of technologies, with
+    strong coding skills in Go or another systems language.
+    You still write meaningful code.
+  - Excellent written and verbal communication. You can explain
+    complex systems, make tradeoffs explicit, and drive
+    alignment with engineering and leadership.
+  - Bachelor's degree in Computer Science or a related field, or
+    equivalent practical experience.
+
+
+
+  Required Skills
+
+  - Multi-cloud platform thinking: reusable abstractions that
+    account for provider differences and stay secure,
+    observable, and maintainable.
+  - Kubernetes architecture and operations judgment, especially
+    recovery under failure.
+  - System-level tradeoffs and good judgment in ambiguous
+    situations, balancing foundational work, customer needs,
+    and unplanned operational demands.
+  - Raising the bar through design reviews, code reviews,
+    coaching, and clear technical writing.
+
+
+
+  Preferred Experience
+
+
+
+  - All three providers. Building and operating infrastructure
+    across AWS, GCP, and Azure, especially bringing a new
+    provider onto an existing platform.
+  - Building Kubernetes controllers and operators, including
+    cloud resource controllers like Crossplane or AWS
+    Controllers for Kubernetes (ACK).
+  - Upstream open source contributions or maintainer experience
+    in Kubernetes, CNCF, or similar infrastructure projects
+    (conference talks are a bonus).
+  - Deployment control planes, progressive delivery, dependency-
+    aware rollouts, and safe migrations of production
+    infrastructure.
+  - Automating lifecycle management, such as patching and
+    upgrades, for cloud native software across a large fleet.
+  - Infrastructure services in Go and durable workflow
+    orchestration using Temporal.
+
+
+
+  Tech you'll work with
+
+  - Languages: Go (primary)
+  - Infrastructure: Kubernetes (EKS, GKE, AKS), Karpenter, Helm,
+    Terraform, and Temporal (we dogfood extensively)
+  - Cloud providers: AWS, GCP, Azure
+
+  Temporal Technologies is an Equal Opportunity Employer.
+  Temporal Technologies does not discriminate on the basis of
+  race, religion, color, sex, gender identity, sexual
+  orientation, age, non-disqualifying physical or mental
+  disability, national origin, veteran status, or any other
+  basis covered by appropriate law. All employment is decided
+  on the basis of qualifications, merit, and business need. We
+  embrace and celebrate differences and diversity.
+
+  Temporal is committed to providing access, equal
+  opportunity, and reasonable accommodation for individuals
+  with disabilities in employment, its services, programs, and
+  activities. If you need to request a reasonable
+  accommodation, please let your Recruiter know so we can
+  assist.
+posted_date: 2026-11-03
+url: "https://builtin.com/job/staff-software-engineer-infrastructure-foundations/12040926"
+source: Built In

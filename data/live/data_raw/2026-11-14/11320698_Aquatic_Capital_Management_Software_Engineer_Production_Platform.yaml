@@ -1,0 +1,137 @@
+job_id: 11320698
+title: Software Engineer, Production Platform
+company: Aquatic Capital Management
+location: London, GBR
+work_type: FULL_TIME
+company_size: 51 Employees
+description: |
+  Aquatic was founded with a shared passion for tackling some
+  of the most complex challenges in one of the world’s most
+  competitive arenas—global financial markets. From the very
+  beginning, we have been driven by a deep commitment to
+  applying cutting-edge scientific research and technological
+  innovation to deliver unparalleled performance. Our journey
+  is one of continuous growth and exploration, marked by a
+  spirit of curiosity and relentless drive for excellence.
+
+  At Aquatic, we are actively recruiting for a Software
+  Engineer to join our Engineering team in Chicago. We are
+  investing in the production platform that carries our
+  research and trading systems into live markets, and we are
+  doing it while the firm expands globally. This role sits at
+  the center of that effort: building the deployment, build,
+  and observability systems the rest of the firm runs on, and
+  owning how well they behave in production.
+
+  You will collaborate with researchers and engineers across
+  Research, Execution, and Trading Operations. The work is
+  hands-on, high-leverage, and visible: when the platform is
+  good, everyone at the firm ships faster and sleeps better.
+
+  Role Details
+
+  - Ownership of the platform that moves code, models, and data
+    from development into global live trading, with automated
+    dependency resolution and safe, repeatable deployments.
+  - Own build and release tooling, including build pinning and
+    approval, promotion workflows, and rollback paths that let
+    engineers ship into production with confidence.
+  - Extend deployment orchestration and scheduling
+    infrastructure across regions as we enter  new markets,
+    with regional parity as the default rather than the
+    exception.
+  - Build observability into deployments and production services
+    so engineers, researchers, and operations can see what is
+    running, what changed, and what broke.
+  - Partner with Research and Trading Operations to replace
+    manual operational processes with automation, eliminating
+    toil at the source.
+  - Improve the reliability and operability of production
+    systems: alerting, failure handling, fallback, and
+    recovery.
+  - Set and hold engineering standards for the platform. Clean,
+    maintainable Python, tested and documented, built to be
+    supported by people who did not write it.
+
+  Technical Experience
+
+  - BS/MS in Computer Science, Engineering, or a related
+    technical field, or equivalent practical experience.
+  - 4+ years of professional software development experience. We
+    are open to a range of experience levels for the right
+    engineer.
+  - Strong python and familiarity with Java and C++ and a track
+    record of building production-grade systems.
+  - Experience building and operating distributed systems,
+    deployment pipelines, or internal developer platforms.
+  - Familiarity with CI/CD, configuration generation and
+    management, workload orchestration (Nomad, Kubernetes, or
+    similar), and production debugging.
+  - Comfortable operating in production environments where
+    uptime, latency, and correctness are of highest
+    importance.
+  - Helpful but not required: exposure to trading systems,
+    market data, or model lifecycle management in production.
+
+  Candidate Qualities
+
+  - Strong bias for action
+  - Driven by accountability and internal urgency
+  - A builder's instinct for automation and toil elimination
+  - Desire to independently seek best solutions
+  - Preference for working in a team that focuses on delivering
+    results aligned with Research and Development goals
+  - Comfortable providing and receiving actionable feedback in a
+    collaborative team setting
+  - Motivated by an ambitious environment and driven colleagues
+
+  Compensation
+
+  The base salary for this role is anticipated to be between
+  $150,000 and $300,000, which is based on information at the
+  time of posting. This position may also be eligible for
+  additional forms of compensation, such as a discretionary
+  bonus, and benefits. Discretionary bonus can be a
+  significant portion of total compensation. Actual
+  compensation for successful candidates will be carefully
+  determined based on a number of factors, including their
+  unique skills, qualifications and relevant experience.
+
+  Benefits:
+
+  - Benefits: For full-time employees, fully paid medical,
+    dental, and vision for employees and dependents,
+    competitive 401k plan, employer-paid life & disability
+    insurance
+  - Perks: Wellness programs, casual dress, snacks, lunch, game
+    room, team and company events
+  - Development: Open environment to maximize learning and
+    knowledge sharing
+  - Time: Generous PTO, paid holidays, competitive paid
+    caregiver leaves
+
+  Aquatic Capital
+
+  This role represents a unique opportunity to join a
+  quantitative investment manager in its early stage of
+  growth. The firm’s culture will be shaped by collaboration,
+  meritocracy, ambition, and calm determination.
+
+  Aquatic is a proud equal opportunity workplace. We do not
+  discriminate based upon race, religion, color, national
+  origin, sex, sexual orientation, gender identity/expression,
+  age, status as a protected veteran, status as an individual
+  with a disability, or any other applicable legally protected
+  characteristics.
+
+  Artificial Intelligence in Recruitment Aquatic may use
+  artificial intelligence and other automated tools to support
+  certain aspects of our recruitment process. These tools may
+  assist in reviewing application materials, analyzing
+  candidate-provided information, and evaluating
+  qualifications relevant to open positions. Information you
+  submit during the application and interview process may be
+  processed using these technologies.
+posted_date: 2026-09-22
+url: "https://builtin.com/job/software-engineer-production-platform/11320698"
+source: Built In

@@ -1,0 +1,117 @@
+job_id: 11408994
+title: Software Engineer - Delta Platform
+company: blp
+location: GBR
+locations:
+  - GBR
+  - ESP
+  - POL
+  - IRL
+  - Zürich, CHE
+  - Barcelona, ESP
+remote: true
+work_type: FULL_TIME
+company_size: 74 Employees
+description: |
+  Join BLP and help make the world’s business processes
+  autonomous!
+
+  Our agentic platform helps finance and operations teams
+  worldwide remove manual work from their core business
+  processes, so work runs end-to-end with greater control and
+  significant productivity gains.
+
+  Today, over 550 enterprise customers use BLP across 1,300+
+  deployed projects. In the processes we automate, customers
+  achieve productivity improvements of 5 to 10 times.
+
+  To date, BLP remains majority employee-owned, with Goldman
+  Sachs holding a minority stake as a growth investor. Our
+  success is driven by deep expertise in technology and
+  business processes, a superior product with strong product-
+  market fit, reflected in an expanding customer base that
+  includes Fortune 500 companies.
+
+  BLP is one of Switzerland's fastest-growing SaaS scale-ups;
+  we are now entering our next phase of growth. From our
+  headquarters on Zürich's Bahnhofstrasse, we're expanding
+  globally, with a growing presence across Europe and North
+  America.
+
+  Join us and help make autonomous operations the new
+  standard.
+
+  About the role
+
+  Delta builds BLP’s core software: the technical foundation
+  that everything else at the company runs on.
+
+  Who we're looking for
+
+  Modelling logic and correctness by construction is paramount
+  to us. We aim to express what must be true, prevent invalid
+  states, and keep systems pristine even as they grow. Thus,
+  we’re looking for highly ambitious engineers who can tackle
+  difficult problems and think precisely. You must be able to
+  make assumptions explicit and use formal, structured
+  reasoning to reach a solution, and explain why it is
+  correct. Typically, strong background in mathematics is a
+  key foundation for this kind of work. We also place a high
+  value on thoroughness and perfectionism. Tooling wise, we
+  rely heavily on type systems & functional programming.
+
+
+
+  What you'll do
+
+  Our work spans four areas, you will usually work on a given
+  project within one of:
+
+  - Infrastructure: Build and operate the cloud infrastructure
+    BLP depends on, covering security, observability and
+    CI/CD.
+  - Backend: Develop a large codebase, tackling performance,
+    concurrency and the challenges of distributed systems.
+  - ML: Apply the latest AI technology to complex, real-world
+    business problems and turn it into reliable production
+    software.
+  - Unbound: Build our product extension platform, enabling BLP
+    to automate arbitrary customer business processes as we
+    scale.
+
+
+
+  What you'll bring
+
+  We do not require experience with any particular technology
+  or even industry software development experience. You
+  should, however, provide clear evidence of the abilities
+  we’re looking for. That evidence could include:
+
+  - strong academic backgrounds (math PhD/MSc or significant
+    olympiad achievements)
+  - startup experience (early employee, built productive systems
+    yourself & know what it takes to maintain them)
+  - FP experience (have deep understanding of programming
+    languages and are able to discern the various tradeoffs of
+    different paradigms)
+
+
+
+  Flexibility. Work on-site in Zurich or remotely within
+  Europe.
+
+
+
+
+
+  Learn more about blp and our values at
+  blp.digital/company/careers.
+industries:
+  - Artificial Intelligence
+  - Logistics
+  - Software
+  - Automation
+posted_date: 2026-09-28
+url: "https://builtin.com/job/software-engineer-delta-platform/11408994"
+source: Built In

@@ -1,0 +1,120 @@
+job_id: 11135921
+title: Senior Full Stack Engineer
+company: TechStars
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 2,467 Employees
+description: |
+  Techstars is building an operating system that centralizes
+  how we run accelerator programs, support founders, engage
+  the network, and drive investment decisions. As a Senior
+  Full Stack Engineer you'll own features end to end — from
+  the data behind them to the React UI in front of them, from
+  design to go-live. That includes the AI-native parts of the
+  product: search that spans the network, retrieval over
+  founder and portfolio data, and assistive workflows that put
+  the right context in front of the right person.
+
+  You'll also lead the wind-down of our legacy founder tools,
+  consolidating what matters into OS and retiring the rest
+  cleanly.
+
+  This is a small, high-trust team. We move fast, ship real
+  things, and expect everyone to be able to hold a thread all
+  the way through.
+
+  What you will do
+
+  - Own features on Techstars OS end to end — design, build,
+    test, and ship, from data ingestion and API layers through
+    to the web app
+  - Build AI-native features into the product: semantic and
+    federated search across the network, retrieval over
+    portfolio and founder data, and assistive workflows that
+    surface the right context at the right moment
+  - Lead the migration and shutdown of legacy founder tools —
+    including Techstars Universe and our application
+    management system — consolidating functionality into OS or
+    retiring it cleanly
+  - Work across our Enterprise Data Platform and OS to build the
+    pipelines that feed real-time features, search, and AI use
+    cases
+  - Raise the floor on reliability and velocity: tests, code
+    review, and CI/CD practices that hold up as the team grows
+    — including how we fold AI coding tools into that loop
+  - Act as a technical resource for the team — unblock others,
+    weigh in on architecture, and keep context moving across
+    time zones
+
+  What you bring
+
+  - Strong TypeScript and Python, and the judgment to know when
+    to reach for each
+  - Solid React experience — you can build clean, functional UIs
+    without a dedicated frontend team carrying you
+  - Proficiency with relational databases: data modeling,
+    migrations, and query performance under real load. We use
+    PostgreSQL
+  - Experience building data pipelines end to end — ingestion,
+    transformation, and delivery to downstream consumers. We
+    use event streaming, but experience with any comparable
+    system transfers
+  - Experience shipping LLM-backed features to production:
+    retrieval, embeddings, and the evaluation loop that keeps
+    quality honest. You understand the hard part is
+    uncertainty, evidence, and recovery — not the API call
+  - Comfortable operating containerized services in a major
+    cloud with infrastructure defined as code. We run on GCP
+    and AWS
+  - A track record of owning features from zero to production,
+    and of retiring old systems without breaking things
+    downstream
+  - Strong written communication and a high tolerance for
+    autonomy — remote-first means writing well and staying
+    aligned without being chased
+
+  Nice to have
+
+  - Event-driven architectures and Kafka-based data platforms
+  - Evaluation and observability for LLM features — you've had
+    to answer "is this actually working?" with data
+  - MCP or other tool surfaces that let agents act on production
+    systems safely
+  - Identity and auth systems (Keycloak or similar)
+  - Search infrastructure (OpenSearch or similar)
+  - Next.js and Material UI
+  - Financial or investment data — venture capital, startup
+    portfolio management
+  - Prior work at an accelerator, investment firm, or high-
+    growth startup
+
+  Compensation & Benefits Salary Range: $120,000 - $150,000
+  Benefits: Techstars offers a comprehensive benefits package
+  that includes medical, dental, and vision insurance, a
+  401(k) retirement plan, and paid time off. About Techstars
+  Since 2006, Techstars has been investing in the world’s most
+  ambitious founders. We find great founders early, through a
+  global network two decades in the making, and back them with
+  capital, mentorship, and the connections they need to grow.
+  www.techstars.com Techstars is an affirmative action, equal
+  opportunity employer and does not discriminate on the basis
+  of race, sex, age, national origin, religion, physical or
+  mental handicaps or disabilities, marital status, Veteran
+  status, sexual orientation, gender identity nor any other
+  basis prohibited by law. Techstars uses E-Verify to check
+  the work authorization of all new hires. For more
+  information about E-Verify, please see the following:
+  E-Verify Participation Poster (English and Spanish) Right To
+  Work Poster (English and Spanish) Colorado Residents: In any
+  materials you submit, you may redact or remove age-
+  identifying information such as age, date of birth, or dates
+  of school attendance or graduation. You will not be
+  penalized for redacting or removing this information.
+industries:
+  - Fintech
+  - Other
+  - Consulting
+posted_date: 2026-10-20
+url: "https://builtin.com/job/senior-full-stack-engineer/11135921"
+source: Built In

@@ -1,0 +1,247 @@
+job_id: 11799714
+title: Senior Software Engineer
+company: IG Group
+location: City of London, GBR
+work_type: FULL_TIME
+company_size: 2,748 Employees
+description: |
+  Job Title
+
+  Senior Software Engineer
+
+  Job Description
+
+  Senior Software Engineer — Java
+
+  Order Management System (OMS) — Trading Platform
+
+  So, who are we?
+
+  IG Group is a FTSE 100 fintech operating across five
+  continents, serving over 1.4m customers and handling
+  billions of dollars in transactions – built on scale, trust,
+  and proof. We didn't pivot to innovation; it's how we've
+  always operated. What that means for the people who work
+  here is real: genuinely complex problems to solve, the
+  technology and resources to tackle them properly, and the
+  kind of scope that's rare in established businesses.
+
+
+
+  The bar is high – bring a curious and forward-thinking
+  mindset and we'll give you the platform to define what comes
+  next.
+
+
+
+  Join us at IG – the future gets built here.
+
+
+
+  The Team:
+
+  We are a small, cross-functional team that owns its services
+  end to end, in production. We work closely with product and
+  the business — close enough that “what should this order do
+  next?” is a conversation, not a ticket.
+
+  Much of the interesting work lives at the OMS boundary.
+  Because the order flow runs through this service, the OMS
+  describes the business process directly — and that is
+  exactly what makes the role a demanding one, and an
+  unusually influential one.
+
+  Your role in the team’s success:
+
+  This team owns the Order Management System (OMS), a central
+  part of our trading platform. The OMS controls the order
+  flow for incoming orders: it is where an order’s path
+  through the platform is decided, tracked and recorded.
+
+  You will join as a senior engineer on that service:
+  designing and building Java services where correctness is
+  not negotiable and latency is measured rather than guessed.
+  When something goes wrong here, the teams who trade and
+  support our clients feel it straight away.
+
+  We are looking for an engineer who wants the domain as much
+  as the engineering. You do not need to arrive as a trading
+  expert, but you do need to want to become one.
+
+  What you’ll do:
+
+  • Take ownership of work from elaboration through to
+  delivery and support: shaping requirements with
+  stakeholders, designing the solution, building it, testing
+  it, shipping it and running it.
+
+  • Design and build low-latency, high-throughput Java
+  services that accept, route and manage orders across the
+  full order lifecycle.
+
+  • Build and maintain market connectivity: FIX sessions and
+  venue-specific protocols, including certification and
+  conformance testing with counterparties.
+
+  • Model and evolve order and execution state: order types,
+  time-in-force, partial fills, amends, cancels, rejects, drop
+  copies, reconciliation and end-of-day processing.
+
+  • Treat correctness as a first-class concern: idempotency,
+  ordering guarantees, deterministic replay, and a complete,
+  auditable trail of every order state transition.
+
+  • Support the platform in production during market hours,
+  including participation in the team’s on-call rotation and
+  incident response.
+
+  • Raise the bar around you: design and code review, pairing,
+  mentoring, and steady improvement of the team’s testing,
+  tooling and observability.
+
+  • Translate between trading language and system behaviour —
+  in both directions — when working with traders, dealers,
+  quants and business stakeholders.
+
+  Building software with AI:
+
+  AI-assisted development is part of how this team works, not
+  an experiment running alongside it. We expect engineers to
+  be fluent with the tooling and equally clear about its
+  limits.
+
+  • Use AI coding assistants as part of your everyday toolkit
+  — scaffolding, refactoring, test generation, and finding
+  your way around unfamiliar code.
+
+  • Apply the same rigour to AI-generated code as to human-
+  written code. You remain accountable for everything that
+  reaches production; in a trading system that accountability
+  is absolute.
+
+  • Know when the assistant helps and when it gets in the way
+  and be able to explain and defend every design decision you
+  ship regardless of how the first draft was produced.
+
+  • Help the team build good practice: prompting and context
+  patterns, project rules and guardrails, evaluating output,
+  and reviewing critically.
+
+  • Contribute to developer experience and automation more
+  broadly — AI-assisted testing, documentation, migrations and
+  support tooling.
+
+  What you’ll need:
+
+  Essential
+
+  • Strong commercial experience building and running
+  production backend systems in Java. This is a Java role on a
+  Java platform; comfort with a recent LTS release (17 / 21 or
+  later) and modern language features is expected.
+
+  • Real depth on the JVM: concurrency and the memory model,
+  collections, allocation and garbage collection behaviour,
+  and the ability to profile and measure latency and
+  throughput rather than reason about them by feel.
+
+  • Distributed systems fundamentals — messaging, delivery
+  semantics, idempotency, ordering, backpressure, partial
+  failure and recovery — and sound judgement about which
+  guarantees a given problem actually requires.
+
+  • Testing you would stake a release on: unit, integration
+  and end-to-end, with an appetite for deterministic or
+  property-based approaches where the domain warrants them.
+
+  • Solid SQL and relational data modelling, including schema
+  evolution in a system that cannot lose or misstate an order.
+
+  • Comfort with CI/CD, containers, infrastructure as code,
+  and operating what you build: metrics, tracing, structured
+  logging, alerting.
+
+  • Clear communication with technical and non-technical
+  audiences alike — you can run a design discussion with
+  dealers in the room.
+
+  • Ownership: you take a problem from a vague requirement to
+  monitored, documented, running software.
+
+  Strongly preferred — trading domain experience here is what
+  distinguishes a strong candidate for this role from a strong
+  general backend engineer.
+
+  • Hands-on experience with an OMS, EMS, PMS or comparable
+  trading system, buy-side or sell-side.
+
+  • FIX protocol in production: FIX 4.2 / 4.4 / 5.0 (FIXT),
+  the distinction between session and application layers,
+  custom tags and counterparty dialects, QuickFIX/J or an
+  equivalent (including in-house) engine, and certification
+  with venues, brokers or liquidity providers.
+
+  • Other market connectivity: native or binary exchange APIs
+  (ITCH / OUCH and similar), broker and LP APIs, market data
+  feeds, direct market access and order routing.
+
+  • Trading domain knowledge: the order lifecycle end to end,
+  order types and time-in-force, execution algorithms,
+  allocations, clearing and settlement, corporate actions,
+  margin and risk, and multi-asset instrument and reference
+  data — equities, futures, options, FX, CFDs.
+
+  • Regulatory context and why it shapes design: MiFID II and
+  best execution, transaction and trade reporting, audit
+  trails, surveillance touchpoints.
+
+  Strongly preferred — engineering
+
+  • Event sourcing and CQRS — having designed, built or run a
+  system along these lines is a real advantage in a service
+  where every state transition matters.
+
+  • Other JVM languages — Kotlin, Scala, Clojure — as evidence
+  that you know the platform beyond a single language.
+
+  • Low-latency techniques and tooling: lock-free data
+  structures, off-heap or allocation-free design, and
+  libraries such as Aeron, Chronicle or the LMAX Disruptor.
+
+  • Event streaming (Kafka or similar), Kubernetes, and public
+  cloud (AWS / GCP / Azure).
+
+  Welcome, but not required
+
+  Experience with Python, or with lower-level languages such
+  as C++ or Rust, is an advantage — particularly if you have
+  used them in a trading environment. To be unambiguous,
+  though: the language you will write day to day is Java, and
+  we are not asking you to bring another one.
+
+  The Perks:
+
+  - Competitive salary
+  - Flexible Benefits Package on top of your salary (12%)
+  - Private medical cover for you and your family
+  - Life insurance
+  - Contribution to gym memberships
+  - 25 Days holiday, with 1 additional day off to celebrate your
+    Birthday & 2 additional days off a year for voluntary work
+    (28 in total)
+  - The option to buy or sell holiday days
+  - A comprehensive global and local onboarding process
+  - Enhanced primary (maternity), secondary (paternity), and
+    shared parental pay and leave, as well as a range of
+    support and benefits for parents
+
+  Number of openings
+
+  1
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-10-21
+url: "https://builtin.com/job/senior-software-engineer/11799714"
+source: Built In

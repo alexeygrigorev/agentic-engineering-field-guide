@@ -1,0 +1,187 @@
+job_id: 10570382
+title: Senior Software Engineer, Agents
+company: Replicant
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 176 Employees
+description: |
+  At Replicant, we believe AI should work for people, starting
+  with customer service. That's why we built a platform that
+  helps contact centers resolve more requests, proactively
+  identify issues, and improve agent performance with AI-
+  powered conversation intelligence and AI agents that act
+  like your best reps.
+
+  Our AI agents handle millions of calls every month for
+  Fortune 500 companies and high-growth innovators. From
+  processing payments to booking appointments and
+  authenticating users, they help customers get what they need
+  instantly, 24/7. Meanwhile, our real-time conversation
+  insights help contact center leaders coach better and
+  improve every interaction.
+
+  We are leading the shift from legacy systems to AI-first
+  service, powered by large language models (LLMs) and
+  designed for enterprise scale, security, and empathy. If
+  you're excited by the potential of LLMs, voice AI, and
+  building category-defining technology with a kind, ambitious
+  team, you'll love it here.
+
+  Our customers don't buy software. They buy a working AI
+  agent that answers their calls, resolves their customers'
+  problems, and holds up in production. As a Senior Software
+  Engineer, Agents on our Delivery team, you make that happen
+  for specific customers: you sit with them to understand
+  their workflows, design and write the agent's instructions
+  and conversation behavior, build the integrations the agent
+  calls as tools, and own the agent end to end from blank
+  prompt to production. This is a customer-embedded
+  engineering role, equal parts trusted advisor, integration
+  builder, and prompt engineer, and you are measured on
+  customer outcomes, not features shipped. It's also one of
+  the most in-demand emerging skill sets in the market, and
+  you'll build it on real production traffic, not demos, with
+  real autonomy on a team small enough that your work is
+  visible to customers and leadership alike.
+
+  What You'll Do
+
+  - Own AI agents for your assigned customers across the full
+    lifecycle: discovery, design, build, evaluation, launch,
+    and live operation.
+  - Sit with customers, map their workflows, and translate
+    ambiguous business goals into a concrete agent scope: what
+    the agent handles, what it escalates, and what success
+    looks like. Uncover the customer's real business rules,
+    including the unwritten ones, and pin them down so the
+    agent enforces that business logic strictly.
+  - Design and write the agent's prompts, instructions, and
+    conversation flows, and iterate against evals, real
+    transcripts, and your own product taste for what a good
+    conversation sounds like.
+  - Wire the agent into customer systems (CRMs, ticketing,
+    internal services): call their APIs as tools, shape inputs
+    and outputs so tool calls are reliable, and handle auth,
+    errors, and edge cases. You won't build the customer's
+    APIs, but you will tell them what the agent needs from an
+    API, then test and validate what they deliver.
+  - Build test sets from real cases covering not just the happy
+    path but unhappy paths, edge cases, and hallucination
+    risks; measure agent quality and harden agents for
+    production: guardrails, failure modes, latency, and cost.
+  - Monitor live conversations and tool-call health, debug from
+    logs and transcripts, and ship fixes under pressure.
+  - Feed recurring patterns and missing capabilities back to
+    Product so each agent makes the next one faster to build.
+
+  What You'll Bring
+
+  - Customer-facing strength. You can sit across from a
+    customer, converse credibly, and earn trust quickly,
+    including with skeptical stakeholders. You decompose
+    ambiguous, sometimes politically loaded business problems
+    into a concrete plan, communicate clearly with both
+    technical and non-technical audiences, and push back when
+    a request is feasible but wrong.
+  - Integration fluency. You understand and can shape
+    integration patterns: how to connect an agent to a
+    customer's APIs, endpoints, and protocols, design clean
+    tool schemas, and handle auth, errors, and edge cases so
+    tool calls are reliable. You validate bespoke, sometimes
+    under-documented customer APIs before an agent depends on
+    them, and you're comfortable with external and third-party
+    systems beyond the customer's own stack.
+  - Prompt and instruction craft. You can shape LLM behaviour
+    through structure, instructions, and examples, you write
+    instructions that are unambiguous and easy to follow, and
+    you know why a prompt fails. You work eval-first, and you
+    bring product taste: a feel for what a good conversation
+    sounds like, not just what passes the tests.
+  - Nice to have: general-purpose coding experience (TypeScript,
+    Python, SQL); prior forward-deployed, solutions
+    engineering, or customer-embedded work; conversational AI,
+    voice, or contact center domain experience; experience
+    with LLM evaluation tooling and observability.
+
+  A computer science degree or a software engineering title is
+  not required. If your background is systems administration,
+  integration engineering, technical support, or anywhere else
+  you learned how systems talk to each other by taking them
+  apart, we want to hear from you.
+
+  For all full-time employees, we offer:
+
+  🌴 In-person connection that counts: company-wide offsites
+  and smaller team gatherings designed to make remote work
+  feel personal
+
+  🖥️ Tech & learning stipend: Conferences, books, courses —
+  interested? We’ll fund them
+
+  📍 Remote by design: We’re distributed — no guilt about life
+  events, we trust you to manage your calendar
+
+  🏋️ Health & wellness: Flexible vacations, paid sabbatical
+  after 5 years, comprehensive benefits, plus a stipend to
+  support your physical and mental well-being
+
+  💸 Compensation that matches your impact: competitive
+  salaries in the company you’re helping to build
+
+  📈 Equity with upside: We believe in shared ownership—You’ll
+  own a real piece of a fast-growing AI company
+
+  Our Values
+
+  Replicant has three core values. It is critical that
+  everyone who joins the team feels excited and moved by these
+  values as every new team member makes an impact on our
+  culture.
+
+  Blade Runners: We take ownership and pride to influence the
+  outcomes of our goals. We are successful, and like a Blade
+  Runner, use the tools at our disposal to reach our
+  objectives. We value open and honest communication and
+  proactively seek feedback along the way. We are a company
+  driven to grow and achieve both individually and as a team.
+
+  Bread Makers: We are humble and strive toward an egalitarian
+  culture. No task is too big or too small. We work together
+  to achieve our goals and develop our company mission. We
+  believe that the whole is greater than the sum of its parts
+  in everything that we do.
+
+  Självdistans (Self-Distance): Självdistans is Swedish for
+  self-distance. It's the ability to critically reflect on
+  oneself and one's relations from an external perspective.
+  With this in mind, we act with objectivity and always
+  remember that we are not our work. There's no perfect
+  science to growing a team or business, but we trust everyone
+  at Replicant to point out our blind spots and humbly admit
+  their own.
+
+  Replicant is proud to be an equal opportunity employer. We
+  are committed to fostering an inclusive, diverse and
+  equitable workplace that is built on trust, support and
+  respect. We welcome all individuals and do not discriminate
+  on the basis of gender identity and expression, race,
+  ethnicity, disability, sexual orientation, colour, religion,
+  creed, gender, national origin, age, marital status,
+  pregnancy, sex, citizenship, education, languages spoken or
+  veteran status. Accommodation is available upon request at
+  any point during our recruitment process. If you require an
+  accommodation, please speak to your talent acquisition
+  partner or email us at talent@replicant.ai and we’ll work to
+  meet your needs.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Conversational AI
+  - Automation
+posted_date: 2026-08-06
+url: "https://builtin.com/job/senior-software-engineer-agents/10570382"
+source: Built In

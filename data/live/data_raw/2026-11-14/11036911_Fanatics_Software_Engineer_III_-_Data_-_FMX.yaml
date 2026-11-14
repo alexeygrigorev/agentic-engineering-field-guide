@@ -1,0 +1,172 @@
+job_id: 11036911
+title: Software Engineer III - Data - FMX
+company: Fanatics
+location: London, GBR
+work_type: FULL_TIME
+company_size: 7,500 Employees
+description: |
+  About Us
+
+  Fanatics is a leading global sports platform redefining how
+  fans connect with the teams, players and moments they love.
+  Our businesses — Fanatics Commerce, Fanatics Collectibles,
+  Fanatics Betting & Gaming, Fanatics Events, Fanatics
+  Advertising, Fanatics Markets and Fanatics Studios —
+  maximize the presence and reach for hundreds of partners
+  globally and create a one-stop experience that allows fans
+  to buy, bet, collect, and earn, while engaging with sports
+  in deeper, more immersive ways. This includes licensed fan
+  gear and lifestyle products, sportsbook and iGaming,
+  physical and digital trading cards, live events, premium
+  sports entertainment content, credit card offerings and
+  more. Together, they form a powerful, integrated ecosystem —
+  connected by the Fanatics ONE loyalty program and FanCash,
+  the currency of sport — delivering personalized experiences
+  to over 100 million fans worldwide. Fanatics holds
+  partnerships with over 900 sports properties, from
+  professional leagues and players’ associations to teams,
+  colleges and retail partners; over 7,000 athletes and
+  celebrities; and over 2,000 retail locations, including all
+  Lids stores. Backed by a team of more than 22,000 employees,
+  Fanatics is committed to relentlessly enhancing the fan
+  experience.
+
+  Software Engineer III - Data - FMX
+
+  United Kingdom
+
+  About Us
+
+  Fanatics is building a leading global digital sports
+  platform. We ignite the passions of global sports fans and
+  maximize the presence and reach for our hundreds of sports
+  partners globally by offering products and services across
+  Fanatics Commerce, Fanatics Collectibles, and Fanatics
+  Betting & Gaming, allowing sports fans to Buy, Collect, and
+  Bet. Through the Fanatics platform, sports fans can buy
+  licensed fan gear, jerseys, lifestyle and streetwear
+  products, headwear, and hardgoods; collect physical and
+  digital trading cards, sports memorabilia, and other digital
+  assets; and bet as the company builds its Sportsbook and
+  iGaming platform. Fanatics has an established database of
+  over 100 million global sports fans; a global partner
+  network with approximately 900 sports properties, including
+  major national and international professional sports
+  leagues, players associations, teams, colleges, college
+  conferences and retail partners, 2,500 athletes and
+  celebrities, and 200 exclusive athletes; and over 2,000
+  retail locations, including its Lids retail stores. Our more
+  than 22,000 employees are committed to relentlessly
+  enhancing the fan experience and delighting sports fans
+  globally.
+
+  Data Engineer III About the Role We're looking for a Data
+  Engineer III to join our Data Engineering team, which builds
+  and governs the data foundation that powers the business.
+  You'll work within our stack — Python ingestion pipelines,
+  Airflow orchestration, and Snowflake/Databricks — helping
+  move data reliably and securely from source to decision-
+  ready output. You'll implement features and fixes against a
+  given design, handle known classes of pipeline issues on
+  your own, and escalate genuinely novel problems with clear
+  context rather than working them in isolation. You're also
+  expected to start contributing meaningfully in code review —
+  catching real bugs, not just style nits. What You'll Do
+
+  - Implement new ingestion sources end-to-end against a senior
+    engineer's design — connector code, DAG, schema,
+    monitoring, and catalog registration — extending the
+    team's existing framework where a new source needs a
+    pattern it doesn't yet support
+  - Investigate pipeline failures independently, recognize known
+    classes of issues, and ship the documented fix without
+    needing to escalate
+  - Before shipping a new pipeline, identify downstream
+    consumers and what would break if data were late or wrong,
+    and flag gaps like this during spec review — before
+    writing code
+  - Write clear handovers when escalating a genuinely unresolved
+    issue — what you tried, what you ruled out, and where
+    things diverge — so a senior can pick up without re-
+    discovery
+  - Review peers' pipeline PRs and catch non-obvious issues
+    (e.g., missing idempotency checks, race conditions) that
+    could cause incorrect downstream data
+  - Turn ambiguous "why is this data wrong?" questions into
+    structured investigations — tracing data lineage from
+    source to warehouse and communicating back what you found
+  - Surface concerns in spec review as specific, well-reasoned
+    questions rather than staying silent or blocking progress
+  - Support data security and governance work (e.g., PII
+    masking, access controls) and contribute to data delivery
+    work, including reverse ETL integrations
+  - Build strong working relationships with internal
+    stakeholders and help scope and clarify requirements for
+    new work
+  - Mentor DE2s on their first significant projects — pairing on
+    tricky decisions and helping them apply team conventions
+
+  What We're Looking For
+
+  - 3–5 years of professional software or data engineering
+    experience
+  - Strong SQL and Python skills, with solid experience building
+    and operating production data pipelines
+  - Comfort investigating and root-causing pipeline issues
+    independently before escalating
+  - Experience with workflow orchestration tools (Airflow or
+    similar) and a cloud data warehouse/lakehouse (Snowflake,
+    Databricks, or similar)
+  - Solid understanding of data pipeline concepts: idempotency,
+    schema evolution, backfills, and data quality/testing
+  - Experience giving substantive code review feedback, not just
+    style or formatting comments
+  - Strong communication skills — can write a clear technical
+    handover, ask sharp questions in spec review, and explain
+    a data lineage investigation to a non-technical
+    stakeholder
+  - A track record of taking ownership of known-class problems
+    end-to-end rather than needing step-by-step direction
+
+  Nice to Have
+
+  - Experience extending or building reusable pipeline
+    frameworks/templates
+  - Exposure to reverse ETL tools or patterns, PII masking, or
+    data access governance (RBAC)
+  - Exposure to observability/monitoring tooling (e.g., Datadog)
+    for pipeline health and alerting
+  - Some experience mentoring or informally supporting more
+    junior engineers
+  - Background in gaming, betting, e-commerce, or another
+    regulated/high-compliance industry
+
+  Why Join Us
+
+  - Real ownership over known-class problems, with senior/staff
+    support available for the genuinely novel ones
+  - Work on high-visibility, high-trust systems that the
+    business depends on
+  - A culture built around clear tenets: standardize before you
+    scale, own the outcome (not just the ticket), and clarity
+    over complexity
+  - Clear growth path into Senior Data Engineer, with room to
+    start mentoring and shaping team practices along the way
+
+  By submitting your application, you agree to our terms of
+  service and acknowledge you have read our Candidate Privacy
+  Policy.
+
+  Fanatics will never ask candidates for money, banking
+  information, or other sensitive personal information as part
+  of the interview process. If you receive a suspicious
+  message claiming to be from Fanatics recruiting, please do
+  not respond and report it here.
+industries:
+  - eCommerce
+  - Retail
+  - Software
+  - Sports
+posted_date: 2026-09-07
+url: "https://builtin.com/job/software-engineer-iii-data-fmx/11036911"
+source: Built In

@@ -1,0 +1,167 @@
+job_id: 10507225
+title: Staff Software Engineer
+company: Flip (flipcx.com)
+location: New York, USA
+work_type: FULL_TIME
+company_size: 70 Employees
+description: |
+  TITLE: Staff Software Engineer
+
+  REPORTING TO: CTO
+
+  LOCATION: Marina del Rey, CA – OR – Williamsburg, NY (onsite
+  M - F)
+
+  Who Is Flip?
+
+  Flip builds AI voice agents that handle millions of real
+  customer conversations for some of the biggest brands,
+  healthcare providers, and transportation companies in the
+  world. When you call a company and the AI actually solves
+  your problem — tracks the order, processes the return,
+  refills the prescription — that’s us.
+
+  We’re a low-ego team. We don’t need the limelight or the
+  stardom — we care about solving really hard problems, fast.
+  And here’s the part worth stopping on: outside the frontier
+  labs, almost nobody is running AI in production at this
+  scale. We are — millions and millions of live phone calls,
+  handled by an engineering team a fraction of the size you’d
+  expect. Very few teams our size serve this volume, and the
+  reason is simple: we hold a very high bar for development.
+
+  How we think
+
+  From day one, we’ve operated on first principles, and the
+  first principle is the customer. If you have strong
+  conviction that something delivers real business value for
+  your customer, it shouldn’t die in red tape or committee.
+  You ship it — fast and often — because the customer is what
+  actually matters. That’s why there’s a direct line from your
+  keyboard to production here. We didn’t remove the committee
+  to move fast for its own sake; we removed it because
+  conviction plus customer obsession doesn’t need a permission
+  slip.
+
+  Agentic development has changed the way we work — we’re not
+  shy about that. What it hasn’t changed is the necessity of
+  experience, especially at the production level. You can ship
+  faster than ever now; that doesn’t negate experience. Speed
+  without judgment is how you break things millions of people
+  depend on. That’s why this posting asks for senior and staff
+  engineers: we’re hiring builders whose experience makes the
+  new speed safe.
+
+  Our view is simple: let builders build. We care a lot less
+  about stack experience or corporate pedigree than most
+  companies — and a lot more about whether you’ve looked past
+  the noise and want to build product you’re genuinely proud
+  of. Tools change monthly now. The instinct to build doesn’t.
+
+  We keep the team lean on purpose — a high bar, real support,
+  real resources — because that’s where builders truly express
+  themselves. The most common thing we hear from engineers
+  after joining Flip is some version of “I could never have
+  done this at my last company”.
+
+  Deep industry expertise matched with ruthless execution
+  creates wonderful work. That’s the whole formula.
+
+  What you’ll build
+
+  We’re serving an orchestrated system of agents answering
+  millions of contacts daily and now also expanding into other
+  modalities like chat. Pulling that off requires elite
+  engineering paired with incredible DevOps — voice is
+  unforgiving: it’s real-time, there are no retries or page
+  refreshes, and the customer is literally on the line.
+
+  The work breaks into three lanes:
+
+  - Vertical engineering — building the agents themselves:
+    complex multi-step customer workflows and deep
+    integrations into the contact center and the industries we
+    serve — order systems, healthcare workflows, logistics.
+    This is where “mostly works” isn’t shippable.
+  - Platform engineering — the orchestration layer every agent
+    runs on: routing, state, tool use, and the primitives that
+    let vertical teams ship fast without reinventing the
+    engine.
+  - Inference & DevOps — we host our own models; low-latency
+    serving at production scale is a core competency here, not
+    a vendor line item. Plus the telephony, observability, and
+    deployment infrastructure that keeps millions of live
+    calls healthy.
+
+  And the range here is real. Our engineers do everything from
+  sitting face-to-face with customers to going deep on complex
+  backend systems — you really get to pick where you fit. We
+  don’t slot you into one of these on day one. There’s
+  probably a place for you — we’ll find it together, and it’ll
+  probably change as we grow.
+
+  What we look for
+
+  We intentionally wrote this as one role for senior and staff
+  engineers, because we believe builders love to build — and
+  how they build varies. Some want the flexibility of working
+  alone and joining forces when it counts; some do their best
+  work in a small pod. We don’t prescribe it. What we do hold
+  as a core principle: we are always raising the bar on each
+  other. As we grow, our best builders often end up with two
+  or three engineers building behind them — if that’s a
+  direction you want, it’s here. And if you’d rather stay a
+  pure builder, that raises the bar too.
+
+    - Real production experience. You’ve built and owned systems
+      where failure had consequences. We don’t count years —
+      we look at what you’ve shipped and what you learned
+      shipping it.
+    - Judgment that survives contact with production. Agentic
+      development is how we work — but what we’re actually
+      hiring is your experience: knowing what to ship, what to
+      slow down on, and what never to ship at all.
+    - Low ego, high execution. You own outcomes, not tickets.
+      You’d rather ship the thing than present the plan for
+      the thing.
+    - Customer obsession. You want to be close to the problem —
+      sometimes literally in the room — and you measure
+      yourself by what the customer got.
+
+  More About Us
+
+  - We're international, spanning the US, UK, and Canada.
+  - We’ve raised +$30M to date including our recent $20M Series
+    A - backed by Ridge, Next Coast, ScOp, Bullpen Capital,
+    Data Point and Forum Ventures, as well as founders &
+    executives from Amazon Alexa, Ada, Attentive and Simon
+    Data.
+  - Our tech stack includes Python, MongoDB, AWS, Twilio,
+    Datadog, Snowflake, and Omni.
+  - Comprehensive healthcare and unlimited vacation, including a
+    mandatory half week for everyone over July 4, and a full
+    week off at the end of the year.
+  - In the office 5 days/week, we collaborate in real time on
+    the desk.
+
+  Final compensation may vary based on location, experience,
+  and qualifications. This role is also eligible for equity,
+  in accordance with company policy, and subject to board
+  approval.
+
+  Compensation Range:
+
+  $200,000—$400,000 USD
+
+  Our customers span the globe, and so do our offices. Flip is
+  committed to providing equal employment opportunities for
+  all employees, applicants, and covered individuals
+  regardless of protected characteristics. We want our company
+  to be as diverse and inclusive as our customers.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Automation
+posted_date: 2026-08-03
+url: "https://builtin.com/job/senior-staff-software-engineer/10507225"
+source: Built In

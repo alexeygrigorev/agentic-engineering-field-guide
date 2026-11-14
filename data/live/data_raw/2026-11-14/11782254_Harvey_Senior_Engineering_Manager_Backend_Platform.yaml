@@ -1,0 +1,184 @@
+job_id: 11782254
+title: Senior Engineering Manager, Backend Platform
+company: Harvey
+location: New York, USA
+work_type: FULL_TIME
+company_size: 373 Employees
+description: |
+  Why Harvey
+
+  At Harvey, we’re transforming how legal and professional
+  services operate. By combining frontier agentic AI, an
+  enterprise-grade platform, and deep domain expertise, we’re
+  reshaping how critical knowledge work gets done for decades
+  to come.
+
+  This is a rare chance to help build a generational company
+  at a true inflection point. We have strong product-market
+  fit and world-class investor support. We’re scaling fast and
+  defining a new category in real time. The work is ambitious,
+  the bar is high, and the opportunity for growth — personal,
+  professional, and financial — is unmatched.
+
+  Our team moves fast, takes ownership, and is deeply
+  committed to the mission — operating with intensity, staying
+  close to our customers, and pushing each other for
+  excellence. We live by three values: Decisiveness,
+  Simplicity, and Job's Not Finished. We act quickly on clear
+  judgment over perfect information, we believe simplicity is
+  what scales, and we're never satisfied with where we are. If
+  you want to do the best work of your career alongside people
+  who share that drive, we'd love to build with you.
+
+  At Harvey, the future of professional services is being
+  written today — and we’re just getting started.
+
+  Role Overview
+
+  Harvey is transforming how legal and professional services
+  work gets done. As AI moves from answering questions to
+  carrying out complex workflows, the engineering challenge
+  expands: every interaction depends on systems that can
+  handle sensitive data, stream results, coordinate work, and
+  stay fast and reliable under growing demand. Backend
+  Platform builds the shared foundations that make this
+  possible.
+
+  We’re looking for an Engineering Manager to lead the team
+  shaping how backend software is built at Harvey. Your team
+  owns the frameworks, libraries, and core abstractions that
+  product engineers use every day—from database access and
+  caching to request handling, observability, and safe context
+  propagation. A better abstraction here can accelerate every
+  product team. A stronger default can prevent an entire class
+  of production failures. The impact of your decisions
+  compounds across the engineering organization.
+
+  The next chapter is especially compelling. As both engineers
+  and coding agents contribute more software, we need a
+  platform that makes the right patterns easy to use and the
+  wrong ones difficult to introduce. You’ll help define that
+  foundation: clear architectural boundaries, reusable
+  building blocks, and automated safeguards that let teams
+  ship with confidence. You’ll tackle deep systems problems
+  while building an engineering experience people love.
+
+  This is a technical leadership role with room to shape both
+  the platform and the team. You’ll hire and develop
+  exceptional engineers, set the technical direction, and stay
+  close to architecture and code. If you enjoy turning hard,
+  recurring problems into simple tools that make everyone
+  around you more effective, this is an opportunity to do it
+  at the center of Harvey’s growth.
+
+  What You'll Do
+
+  - Lead and grow the Backend Platform team. Hire, coach, and
+    retain exceptional engineers, giving them clear ownership,
+    meaningful technical challenges, and room to grow.
+  - Define the platform’s technical vision and roadmap. Partner
+    with product engineering teams to understand their hardest
+    problems, identify the investments with the broadest
+    impact, and deliver improvements they can feel in their
+    daily work.
+  - Build the next generation of Harvey’s backend foundations.
+    Guide the design of shared frameworks for database access,
+    session management, caching, request handling, and
+    streaming—with clear interfaces and strong defaults.
+  - Help Harvey scale through better architecture. Work with
+    Infrastructure to evolve how applications use databases,
+    replicas, and new storage systems, making those
+    capabilities accessible without requiring every product
+    team to solve the same problems.
+  - Scale the data layer. Build a data access layer so an entity
+    can move to a new store (KV, NoSQL) without product
+    changes. Make read replicas usable and move high-volume
+    data off the primary.
+  - Make failure boring. Load test until “what happens at 3x?”
+    has a real answer. Add circuit breakers, a standard
+    outbound client with timeouts, retries and idempotency,
+    and noisy-neighbor isolation, so one workspace or one slow
+    vendor can’t take down the platform.
+  - Make security and reliability properties of the platform.
+    Partner with Security and product teams on safe handling
+    of customer data, workspace isolation, and safeguards that
+    prevent recurring failure patterns before code reaches
+    production.
+  - Shape a codebase that humans and AI can build in
+    confidently. Establish modular boundaries, enforceable
+    contracts, and automated checks that make changes easier
+    to reason about, review, and ship.
+  - Turn platform improvements into customer impact. Reduce
+    latency, improve observability, and make production issues
+    easier to diagnose. Measure success through adoption,
+    developer productivity, and the performance and
+    reliability of the products built on your work.
+  - Stay close to the engineering. Lead architecture
+    discussions, review critical code, prototype when useful,
+    and help engineers navigate difficult tradeoffs. Partner
+    closely with Infrastructure, Developer Platform, Model
+    Infrastructure, Security, and product engineering leaders
+    to carry changes through to adoption.
+
+  What You Have
+
+  - 6+ years of software engineering experience and 3+ years of
+    engineering management experience, with a track record of
+    building strong teams and delivering complex backend or
+    platform systems.
+  - Deep technical judgment in backend architecture and
+    distributed systems, including database access patterns,
+    concurrency, caching, API design, and performance.
+  - Experience building shared libraries, frameworks, or
+    internal platforms adopted by multiple engineering teams.
+    You know how to balance a useful abstraction with the
+    flexibility its users need.
+  - The technical depth to engage directly in design and code
+    reviews, investigate difficult systems problems, and guide
+    migrations across a large, evolving codebase. Experience
+    with Python and frameworks such as Flask or FastAPI is
+    valuable.
+  - A track record of hiring, coaching, and developing
+    engineers, setting clear expectations, and creating a
+    culture of ownership and thoughtful execution.
+  - Strong product instincts for developer tools. You listen
+    closely to engineers, understand where they lose time, and
+    turn that feedback into simpler, more effective ways to
+    build.
+  - Experience embedding reliability, observability, and
+    security into shared systems, with measurable improvements
+    in production.
+  - Clear communication and the ability to lead across team
+    boundaries, align people on technical tradeoffs, and drive
+    changes from design through rollout.
+  - Serious, hands-on use of AI coding agents, and opinions on
+    what makes a codebase safe for them to work in.
+
+  Compensation
+
+  $272,000 - $355,000 USD
+
+  Depending on your location, an Applicant Privacy Notice may
+  apply to you. You can find all of our Applicant Privacy
+  Notices here.
+
+  #LI-AN2
+
+  Harvey is an equal opportunity employer and does not
+  discriminate on the basis of race, gender, sexual
+  orientation, gender identity/expression, national origin,
+  disability, age, genetic information, veteran status,
+  marital status, pregnancy or related condition, or any other
+  basis protected by law.
+
+  We are committed to providing reasonable accommodations to
+  applicants with disabilities, and requests can be made by
+  emailing accommodations@harvey.ai
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Professional Services
+  - Software
+posted_date: 2026-10-21
+url: "https://builtin.com/job/senior-engineering-manager/11782254"
+source: Built In

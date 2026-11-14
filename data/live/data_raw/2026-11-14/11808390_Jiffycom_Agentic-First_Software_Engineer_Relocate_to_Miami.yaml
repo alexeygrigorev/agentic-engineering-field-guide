@@ -1,0 +1,178 @@
+job_id: 11808390
+title: Agentic-First Software Engineer (Relocate to Miami)
+company: Jiffy.com
+location: New York, USA
+work_type: FULL_TIME
+company_size: 100 Employees
+description: |
+  Jiffy.com is seeking Agentic-First Software Engineers
+  (Snr/Staff/Principal) with deep hands-on experience
+  orchestrating AI coding agents to ship production software
+  at pace. Reporting directly to an Engineering Manager and
+  working closely with Product, GM's and other cross
+  functional teams, you will lead the charge on delivering
+  end-to-end features across our e-commerce platform from
+  storefront and checkout to internal tools and platform
+  services while running multiple AI-driven work streams in
+  parallel.  At Jiffy, engineers no longer write code by hand:
+  every line that reaches production is produced, tested,
+  reviewed, and deployed by coding agents (Claude Code, Codex,
+  Cursor) under the direction of a human orchestrator. This
+  role is perfect for an individual contributor who has
+  already internalized the shift from “typing code” to
+  “directing agents,” has strong architectural taste and
+  review instincts, and wants to help define what an AI-native
+  engineering org looks like. You will thrive here if you are
+  a systems thinker, a builder by nature, and someone who gets
+  more done by managing five parallel agents well than by
+  writing a single function perfectly. At this time, Jiffy is
+  not able to sponsor or take over sponsorship of an
+  employment visa (e.g., H-1B) for this position. Applicants
+  must be legally authorized to work in the United States
+  without employer sponsorship, now or in the future.
+
+  Key Responsibilities
+
+  - Orchestrate AI coding agents (Claude Code, Codex, Cursor)
+    across 3–6 concurrent work streams spanning features,
+    refactors, bug fixes, and investigations using worktrees,
+    sub-agents, and background tasks to maximize parallel
+    throughput.
+  - Own features end-to-end: translate product intent into clear
+    specifications, decompose work into agent-executable
+    plans, drive agents through implementation, review every
+    diff critically, run QA, land PRs, and verify production
+    health.
+  - Design and architect scalable, reliable systems across our
+    stack  Rails 8 / Solidus e-commerce, GraphQL APIs, React
+    19 front end, Kubernetes infrastructure  holding the
+    architectural and judgment calls that agents cannot make.
+  - Raise the quality bar on AI-generated code by catching
+    hallucinated APIs, enforcing secure and idiomatic
+    patterns, and pushing back on output that is technically
+    working but structurally wrong.
+  - Build and evolve Jiffy’s internal AI tooling: author skills,
+    rules, prompts, MCP integrations, and evaluation harnesses
+    that make the whole engineering org faster. Contribute to
+    our shared .ai/ skills and rules library.
+  - Operate with production rigor: drive agents to produce
+    meaningful test coverage (RSpec, Vitest, Playwright),
+    monitor deploys, respond to incidents, and fully own the
+    services you ship.
+  - Partner cross-functionally with Product, Design, Ops, and
+    peer engineering teams to define and ship features;
+    participate in architecture and code reviews; mentor
+    engineers on AI-native workflows and orchestration
+    patterns.
+  - Continuously identify where remaining manual work (QA, ops
+    runbooks, data investigations, migrations) can be replaced
+    by agents, and automate it.
+
+  RequirementsBasic Qualifications
+
+  - Bachelor’s degree in Computer Science, Engineering, or a
+    related field.
+  - 5+ years of professional software engineering experience
+    shipping production systems at scale.
+  - Hands-on experience using AI coding agents (Claude Code,
+    Codex, Cursor, or equivalent) as a primary development
+    tool. This is mandatory. You must be able to walk through
+    real features, refactors, or investigations delivered
+    through agent orchestration — not occasional autocomplete
+    usage.
+  - Proven ability to run multiple agents in parallel and manage
+    concurrent work streams without losing quality, context,
+    or accountability.
+  - Strong software design fundamentals: OO design, API design,
+    data modeling, distributed-system reliability, and
+    performance.
+  - Proficiency in at least one server-side language (Ruby,
+    Python, Go, Java, or equivalent) and one modern front-end
+    stack (React / TypeScript or equivalent), with the
+    expectation that agents produce the code while you direct,
+    review, and validate it.
+  - Experience with relational databases (Postgres / MySQL),
+    SQL, and building or consuming REST or GraphQL APIs.
+  - Elite code-review skills: the ability to read, critique, and
+    correct diffs at speed is the core competency of an AI-
+    first engineer.
+  - Strong written communication — clear intent, clear PR
+    descriptions, clear prompts. In an AI-first org, writing
+    is the programming interface.
+  - A high level of integrity, accountability, and ownership,
+    with a commitment to excellence across every deliverable.
+  - Desire to work in a fast-paced, ambiguous, high-autonomy
+    environment.
+
+  Preferred Qualifications
+
+  - AI Tooling Builder: Experience authoring or extending AI
+    developer tooling — custom skills, slash commands, MCP
+    servers, sub-agents, evaluation harnesses, or prompt
+    libraries used by a team.
+  - E-commerce Depth: Experience with Ruby on Rails and Solidus
+    / Spree, or other large-scale e-commerce platforms.
+  - Modern Front End: Experience with React 19, TypeScript,
+    GraphQL (Apollo), Tailwind, and modern state management
+    (React Query, XState, Jotai).
+  - Cloud Native Operations: Experience operating services on
+    Kubernetes (Istio, KEDA, Flagger) and modern observability
+    stacks
+  - Automated QA at Scale: Experience driving agents to maintain
+    and extend test suites with Playwright, Vitest, and RSpec.
+  - AI-Native Leadership: Track record of mentoring engineers on
+    AI-native workflows, publishing internal patterns, or
+    leading an organization through the shift away from manual
+    coding.
+  - Measurable Throughput Gains: Documented improvements in
+    features-per-week, cycle time, or review time directly
+    attributable to AI adoption.
+  - High-Growth Environment: Experience shipping in a fast-
+    paced, agile environment at a high-growth startup or tech
+    company.
+
+  Benefits
+
+  What We Offer
+
+  The base compensation for this role is expected to range
+  from $150,000 - $265,000 per year. Actual compensation will
+  be based on a variety of factors, including skills,
+  experience, qualifications, and overall fit for the role.
+  Total compensation may include base salary, performance-
+  based bonuses, equity, and benefits. Final offers are
+  tailored to each candidate and take into consideration their
+  background and years of experience.
+
+  - Comprehensive Benefits: Full medical, dental, and vision
+    coverage, with a portion of premiums paid by Jiffy.
+  - Retirement Planning: 401(k)
+  - Wellness Support: Annual wellness benefits to help you stay
+    healthy and balanced.
+  - Tools for Success: Choice of MacBook or PC laptop, plus
+    equipment for your home office setup.
+  - Perks & Extras: Annual credit of $200 to use on our website
+    plus more team merch drops than you will know what to do
+    with!
+  - Professional Development: Annual stipend to support your
+    learning and career growth.
+
+  EEO
+
+  Jiffy is proud to be an equal opportunity employer. We do
+  not discriminate in hiring or any employment decision based
+  on race, color, religion, national origin, age, sex
+  (including pregnancy, childbirth, or related medical
+  conditions), marital status, ancestry, physical or mental
+  disability, genetic information, veteran status, gender
+  identity or expression, sexual orientation, or other
+  applicable legally protected characteristics. Jiffy
+  considers qualified applicants with criminal histories,
+  consistent with applicable federal, state and local law.
+industries:
+  - eCommerce
+  - Fashion
+  - Retail
+posted_date: 2026-10-22
+url: "https://builtin.com/job/agentic-first-software-engineer-relocate-miami/11808390"
+source: Built In

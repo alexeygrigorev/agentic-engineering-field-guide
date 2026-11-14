@@ -1,0 +1,172 @@
+job_id: 12099794
+title: Scientific Software Engineer (Lab Integration)
+company: CuspAI
+location: Berlin, DEU
+locations:
+  - Berlin, DEU
+  - Amsterdam, NLD
+  - London, GBR
+  - Cambridge, GBR
+work_type: FULL_TIME
+company_size: 59 Employees
+description: |
+  About CuspAI
+
+  CuspAI is the frontier AI company on a mission to solve the
+  breakthrough materials needed to power human progress. While
+  nature took billions of years to perfect molecules, we are
+  harnessing AI to unlock trillion-dollar materials
+  breakthroughs in months, not millennia. Our founding team is
+  the most cited in the world, comprised of world-class
+  researchers in AI, chemistry and engineering. We are working
+  on some of the hardest and most important challenges
+  including energy, clean water, the future of compute, and
+  carbon capture, and this is just the start of what our
+  'search engine' for next-generation materials will unlock.
+  We invite you to be part of a diverse, innovative team at
+  the intersection of AI and materials science, working to
+  create impactful partnerships that drive innovation,
+  scalability, and industry collaboration. This work matters.
+  Your work matters. We’re on the cusp of the on-demand
+  materials era. Join us.
+
+  The Role
+
+  We are seeking a Scientific Software Engineer to build and
+  run the systems that connect our AI platform to physical
+  laboratories around the world. Together with the team, you
+  will shape the software layer of our closed-loop discovery
+  workflow: our agents propose experiments, partner labs
+  execute them, and the results feed back into our models to
+  guide the next set of experiments.
+
+  This role sits between lab automation and production
+  engineering. You will bring hands-on experience with
+  scientific or lab automation, and the engineering discipline
+  to make those integrations secure, reliable and scalable
+  across many partners.
+
+  You will be part of a small team of materials scientists, ML
+  engineers and software engineers, working closely with each
+  other and with our partner labs. You will help define how
+  our AI platform connects to the physical world and shape the
+  tools and practices that link external partner labs to our
+  platform. You will thrive here if you enjoy collaborating
+  across disciplines and learning from people whose expertise
+  differs from your own.
+
+  Your Impact
+
+  You will turn experimental labs into first-class,
+  programmable parts of the CuspAI platform. Every partner you
+  onboard, and every integration you harden, shortens the loop
+  between an AI-generated hypothesis and a validated material.
+
+  What You Will Do
+
+  - Help shape how we connect to partner labs around the world,
+    accounting for different levels of automation and AI-
+    readiness, then design, build and operate the services
+    that send experiment requests from our AI agents and
+    reliably bring results back.
+  - Build APIs and data models (e.g. FastAPI, Pydantic) for
+    bidirectional lab-to-cloud data exchange.
+  - Integrate with lab instruments, robotic platforms, LIMS/ELN
+    systems and scheduling software, translating between
+    disparate formats and CuspAI's data platform.
+  - Make integrations reliable at scale: idempotency, retries,
+    queueing, monitoring and alerting across many partners and
+    time zones.
+  - Assist with the technical onboarding of new lab partners,
+    assessing their systems and setting up integrations
+    quickly and repeatedly.
+  - Collaborate day to day with experimental materials
+    scientists, optimisation experts and engineers on the
+    team, co-designing workflows and feeding lab realities
+    back into platform design.
+  - Deploy and run containerised services on cloud
+    infrastructure, with testing and CI/CD as standard.
+
+  Must Have Skills and Qualifications
+
+  - Hands-on experience with lab automation, self-driving labs
+    or other scientific discovery workflows, e.g. instrument
+    control, robotic platforms, or high-throughput
+    experimentation data pipelines.
+  - Strong software engineering background, with production
+    experience building and operating backend services.
+  - Deep fluency in Python, including typed, well-tested code
+    and API design.
+  - Experience designing distributed systems that integrate with
+    external parties: APIs, message queues or event-driven
+    architectures, and data contracts.
+  - Solid understanding of security practices for externally
+    facing systems.
+  - A collaborative mindset: you enjoy working in a small,
+    multidisciplinary team, and can communicate clearly with
+    experimental scientists, optimisation experts and
+    engineers alike.
+
+  Bonus Points
+
+  - Experimental lab experience in materials science, chemistry
+    or chemical engineering.
+  - Experience with workflow orchestration (e.g. Dagster, Flyte,
+    Prefect) or active learning loops.
+  - Experience with infrastructure as code (e.g. Terraform) and
+    observability tooling.
+  - Security or compliance experience or handling partner IP and
+    confidential data.
+  - Experience working across distributed teams and multiple
+    time zones.
+
+  What We Offer
+
+  - A competitive salary: We value and reward impact and growth
+  - Equity in CuspAI: You have a stake in the success of the
+    company
+  - Time off to stay fresh: 28 days holiday (DE, NL, UK) or 21
+    days holiday (JP, SG, US), in addition to local public
+    holidays
+  - ‘Gold Standard’ parental leave: 26 weeks (primary caregiver)
+    and 12 weeks (secondary caregiver) at full pay - we look
+    after you and your family while we work on the most
+    important materials discovery problems together
+  - Professional development budget: We invest in your career
+    development so you can stay up to date with the latest
+    industry knowledge or add to your skills to increase
+    impact and growth
+  - Solve meaningful problems: See how your work has a direct
+    impact on advancing materials science and solving
+    sustainability and climate-related problems through the
+    creation and application of bleeding-edge SOTA technology
+    and revolutionary techniques
+  - True interdisciplinary teamwork: Be part of a deeply
+    collaborative environment bridging AI research,
+    computational chemistry, and experimental science - work
+    with world-class researchers and engineers who enjoy
+    sharing knowledge and supporting each other
+
+  Join us in shaping the future of materials with AI.
+  Together, we can create groundbreaking solutions for a more
+  sustainable world. CuspAI is an equal opportunities employer
+  committed to building a diverse and inclusive workplace. We
+  do not discriminate on the basis of sex, race, religion or
+  belief, ethnic or national origin, disability, age,
+  citizenship, marital, domestic or civil partnership status,
+  sexual orientation, gender identity, pregnancy or related
+  condition (including breastfeeding), veteran status, or any
+  other basis protected by applicable law. We actively
+  encourage applications from all backgrounds and value the
+  unique perspectives and contributions that diversity brings
+  to our team. Please let us know if you require any specific
+  adjustments during or after the interview process. We will
+  do everything we can within reason to accommodate.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Industrial
+  - Generative AI
+posted_date: 2026-11-05
+url: "https://builtin.com/job/scientific-software-engineer-lab-integration/12099794"
+source: Built In

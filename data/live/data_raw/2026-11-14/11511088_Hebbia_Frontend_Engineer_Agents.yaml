@@ -1,0 +1,170 @@
+job_id: 11511088
+title: Frontend Engineer, Agents
+company: Hebbia
+location: New York, USA
+work_type: FULL_TIME
+company_size: 120 Employees
+description: |
+  Front-end Engineer, Agents
+
+  About Hebbia
+
+  The user interface for universal knowledge capture. We want
+  every atom of information that our users need to be at their
+  fingertips.
+
+  Designed to be generally capable– it can tackle even the
+  most complex tasks, citing answers over any amount of
+  sources. By showing its work, Hebbia empowers users to
+  collaborate with AI on each step and validate responses
+  instead of blindly trusting them. Our mission is to put
+  capable AI in the hands of 1 billion people by 2030.
+
+  The Team
+
+  Hebbia enables leading finance and legal firms with advanced
+  reasoning, copiloting and retrieval capabilities - unlocking
+  meaningful insights for meaningful use cases. The Agents
+  team builds everything from core document understanding
+  capabilities to co-piloting experiences for matrix and deep,
+  multi-source research. We’ve built our own agentic
+  frameworks powered by distributed systems built for scale.
+
+  We don’t build for one-off success. We build steerable,
+  reliable and explainable agentic systems. And we build these
+  systems for the scale of data our customers bring to the
+  table. Our goal is to unlock the unknowable unknown for
+  customers all over the world.
+
+  We want to build a product that becomes indisposable to our
+  customers and as delightful as your favorite consumer
+  product. We move fast and build first of their kind systems.
+
+  Our team works in person 5 days a week at our SoHo office in
+  NYC.
+
+  What we’ve built:
+
+  - A custom multi-agent framework powering everything from deep
+    research capabilities to copiloting interfaces paired with
+    distributed systems infrastructure for long running
+    agentic tasks.
+  - The world’s most powerful and scalable LLM inference engine
+    - a distributed, asynchronous DAG orchestrator capable of
+    incorporating live graph mutations, cooperating in tandem
+    with our LLM throughput management capabilities.
+  - Elastically scaling data representation and metadata
+    generation → powering the most effective private data
+    retrieval systems.
+  - Industry leading agents solving problems from buy side
+    company diligence to multi billion dollar M&A.
+
+  The Role
+
+  As a Front-End Engineer on Agents, you will not only own the
+  interfaces bankers, investors, and lawyers use to work with
+  Max and Matrix, but the user experience overall. You will be
+  responsible for simple, delightful experiences for users to
+  direct long-running agents, review citations, and iterate on
+  key deliverables. You will turn new agentic capabilities
+  from our research team into fast, polished interfaces on the
+  web and on iOS. Engineers at Hebbia are given agency to own
+  features end-to-end, so when a feature needs a new endpoint,
+  streaming API, or Hebbia MCP tool, you will build it too.
+
+  This role requires deep expertise in modern web front-end
+  engineering (TypeScript, React), strong product sense, and
+  comfort working in the backend when needed. iOS experience
+  is highly valued: we are bringing Max and more to mobile,
+  and you would help build it. You will work directly with
+  applied researchers and infrastructure engineers, so you
+  should be comfortable understanding the full system, from
+  model call to UI.
+
+  Our team works in person 5 days a week at our SoHo office in
+  NYC.
+
+  Responsibilities
+
+  - Design and build the agent-facing UI for Hebbia: streaming
+    agent output, real-time progress over long-running tasks,
+    citation and provenance views, checkpoint and approval
+    flows.
+  - Own front-end architecture for data-dense, real-time
+    surfaces — hundreds of companies × thousands of documents
+    — with rendering performance and state management that
+    hold up at that scale.
+  - Contribute to making mobile, a high-value surface for
+    finance professionals, an excellent surface to talk to Max
+    on the go.
+  - Build the backend surface those UIs depend on: streaming and
+    real-time endpoints, agent state and session APIs, Hebbia
+    MCP tools, and the glue to new data integrations.
+  - Partner with applied researchers to get new agentic
+    capabilities in front of users quickly, then iterate using
+    insights from eval frameworks.
+  - Own quality end to end: accessibility, telemetry, testing,
+    performance budgets, and a design system that scales
+    across web and mobile.
+
+  Who You Are
+
+  - Bachelor's degree in Computer Science, Engineering, or
+    related field, or equivalent experience
+  - 4+ years building production front-ends at a venture-backed
+    startup or top technology firm
+  - Expert in TypeScript and React, with a deep understanding of
+    rendering performance, state management, data fetching,
+    and real-time patterns.
+  - Comfortable across the stack — designing APIs, working with
+    async services, and debugging the systems behind your UI
+  - Strong product sense and design taste; comfortable working
+    closely with designers and product managers.
+  - Frequent user of AI products, especially during the
+    development lifecycle (i.e. Cursor, Claude Code, etc.)
+  - Excellent problem-solving, communication, and teamwork
+    abilities
+  - Bonuses:
+    - You've shipped native mobile apps and understand the App
+      Store release cycle end to end
+    - Experience building LLM- or agent-facing products
+
+  Compensation
+
+  The salary range for this role is $160,000 to $300,000,
+  covering levels from junior to principal. Final leveling is
+  determined through our assessment process, and exceptions to
+  this range may be made for candidates with qualifications
+  that fall outside our standard framework.
+
+  Life @ Hebbia
+
+  PTO: Unlimited
+
+  Insurance: Medical + Dental + Vision + 401K
+
+  Eats: Catered lunch daily + doordash dinner credit
+
+  Parental leave policy: 3 months non-birthing parent, 4
+  months for birthing parent
+
+  Fertility benefits: $15k lifetime benefit
+
+  New hire equity grant: competitive equity package with
+  unmatched upside potential
+
+
+
+
+
+  #LI-Onsite
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Natural Language Processing
+  - Software
+  - Financial Services
+  - Generative AI
+posted_date: 2026-10-05
+url: "https://builtin.com/job/frontend-engineer-agents/11511088"
+source: Built In

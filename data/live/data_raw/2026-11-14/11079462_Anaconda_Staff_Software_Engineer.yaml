@@ -1,0 +1,171 @@
+job_id: 11079462
+title: Staff Software Engineer
+company: Anaconda
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 450 Employees
+description: |
+  About AnacondaBe at the center of AI
+
+  Anaconda is built to advance AI with open source at scale,
+  giving builders and organizations the confidence to increase
+  productivity, and save time, spend and risk associated with
+  open source. 95% of the Fortune 500 including Panasonic,
+  AmTrust, Booz Allen Hamilton and over 50 million users rely
+  on the value The Anaconda AI Platform delivers through a
+  centralized approach to sourcing, securing, building, and
+  deploying AI. With 21 billion downloads and growing,
+  Anaconda has established itself as the gold standard for
+  Python, data science, and AI and the enterprise-ready
+  solution of choice for AI innovation. Anaconda is backed by
+  world-class investors including Insight Partners. Learn more
+  at https://www.anaconda.com.
+
+  Summary:
+
+  Anaconda has always built and shipped conda packages. Now
+  we're expanding into wheels, the format used across the
+  wider Python ecosystem, so builders who would otherwise go
+  to PyPI or conda-forge for a package can find it with us
+  instead. That shift has already taken our catalog from
+  around 2,000 packages to more than 6,000, and wheels.
+
+  You'll join a small, focused team building the toolchain
+  that compiles these packages from source. As our Staff
+  Software Engineer, you'll help carry that work from
+  prototype to production: shaping technical strategy,
+  building out the tooling, and working closely with our pure
+  Python wheels and distribution teams as the effort scales.
+
+  What You'll Do:
+
+  - Build and evolve the toolchain that compiles complex
+    packages like NumPy, SciPy and PyTorch from source, moving
+    the effort from research into production.
+  - Create, review, and evolve conda recipes, build tooling, and
+    release processes that keep compiled packages reliable at
+    scale.
+  - Partner with our pure Python wheels and distribution teams
+    so both efforts stay in step as automation and
+    infrastructure needs grow.
+  - Mentor engineers on architecture, debugging, and packaging
+    practices, sharing context as you go.
+  - Lead postmortems, capacity planning, and incident response
+    for build and distribution infrastructure.
+  - Advise technical leadership on project scoping and delivery
+    trade offs, bringing full context before recommending a
+    path.
+  - Comfortable engaging with AI assisted development tools,
+    such as Claude Code, as appropriate, including reviewing
+    and validating AI generated code before it ships.
+
+  Your impact will be measured through:
+
+  - Growth of Anaconda's compiled package catalog and
+    reliability of the build and release pipeline.
+  - Reduction in manual, repetitive engineering work through
+    automation.
+  - Cross team adoption of packaging standards and reusable
+    components.
+  - Time to resolution for build and distribution incidents.
+
+  What You Need:
+
+  - 10+ years of professional software development experience,
+    including driving technical strategy, system design, and
+    architecture evolution.
+  - Hands on experience in C/C++, comfortable debugging and
+    fixing issues at the compilation and linking level across
+    large codebases.
+  - Deep, hands-on experience maintaining a Linux distribution
+    or package management system at production scale.
+  - Experience building or maintaining production software
+    across multiple operating systems, such as Linux, macOS,
+    and Windows.
+  - Experience using AI assisted development tools, such as
+    Claude Code, as part of a professional workflow, including
+    reviewing and validating AI generated code before it
+    ships.
+  - Experience with Git or another version control system.
+
+  What Will Make You Stand Out:
+
+  - Active contributor to a mainstream toolchain such as GCC or
+    LLVM, a dynamic linker, or direct experience developing
+    compilers or linkers.
+  - Working knowledge of libc++/libstdc++/STL and glibc, macOS
+    SDKs, or UCRT/vcruntime on Windows.
+  - Proficiency with build tools such as CMake, Bazel, Make, or
+    Automake, and working knowledge of the Python packaging
+    ecosystem, including manylinux.
+  - Experience with GPU build tooling and runtime environments
+    (e.g., CUDA, cuDNN).
+  - Active involvement in the conda-forge or wider Python
+    packaging community, ideally gained in a fast paced, open
+    source driven environment, with public projects you can
+    walk us through.
+  - Programming experience in Python, particularly for build
+    automation or infrastructure tooling.
+  - You embody our values: “Curious by Default”, “Build
+    Together”, “Own It”, and “Lead with Guts and Heart”, and
+    our behaviors: Clarity, Care and Candor.
+  - You care deeply about fostering an environment where people
+    of all backgrounds and experiences can flourish.
+
+  Why You'll Like Working Here:
+
+  - You'll thrive in a high-performance environment where
+    results are recognized and rewarded
+  - Your work directly contributes to shaping the future of data
+    science, machine learning, and AI in the enterprise.
+  - You'll work alongside a collaborative team that values
+    diverse, thoughtful discussion, clarity and candor.
+  - You'll be supported by a culture that puts employees first -
+    with flexible hours, a fully remote setup, and a genuine
+    commitment to your wellbeing and growth.
+
+  Applicants will be reviewed on an ongoing basis until the
+  role is filled.
+
+  In addition to base salary, we offer a comprehensive
+  benefits package that includes:
+
+  - Flexible Vacation Policy
+  - Medical, Dental, and Vision Insurance
+  - Income Protection Insurance
+  - Paid Parental Leave
+  - Monthly Wellness Stipend
+  - Mental Health Resources
+
+  An Equal Opportunity Employer. All qualified applicants will
+  receive consideration for employment without regard to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, or protected veteran status and will not be
+  discriminated against on the basis of disability.
+
+  Anaconda, Inc. (“We”, “Us”) are committed to protecting and
+  respecting your privacy. This Privacy Notice sets out the
+  basis on which the personal data collected from you, or that
+  you provide to Us, will be processed by Us in connection
+  with Our recruitment processes.
+
+  By clicking “Submit Application”, you acknowledge you have
+  read our Privacy Policy and that Anaconda can retain your
+  application data for up to 1-year, unless otherwise stated.
+  For the purpose of the General Data Protection Regulation
+  (“GDPR”) ”) and the version of the GDPR retained in UK law
+  (the “UK GDPR”) the Data Controller is Vanessa Macilwaine.
+
+  Anaconda is an EEO/AA employer M/F/V/D.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Machine Learning
+  - Security
+  - Software
+  - Cybersecurity
+  - Big Data Analytics
+posted_date: 2026-09-09
+url: "https://builtin.com/job/staff-software-engineer/11079462"
+source: Built In

@@ -1,0 +1,107 @@
+job_id: 11568194
+title: Staff Software Engineer, Data Infrastructure
+company: Lovable
+location: Stockholm, SWE
+locations:
+  - Stockholm, SWE
+  - London, GBR
+work_type: FULL_TIME
+company_size: 351 Employees
+description: |
+  TL;DR: Build the data infrastructure the Lovable agent runs
+  on: ingestion, storage and query for millions of small
+  tenants instead of one large one. You'll join the Data
+  Platform team, and your work decides whether the apps people
+  build on Lovable can rely on their data.
+
+  Why Lovable?
+
+  Lovable is the software creation platform that gives people
+  the power to act on the problems closest to them. For
+  decades, turning an idea into software required so much
+  capital, technical fluency, and time that many ideas never
+  came to life. Lovable is the counterargument: a platform for
+  all people with ideas, ambition, and problems worth solving.
+  From solopreneurs to small business owners to teams at
+  companies like Adidas and Zendesk, people have built over 60
+  million projects on Lovable since its launch in November
+  2024. And we’re just getting started.
+
+  We’re building a generational company from Stockholm, with
+  growing teams in London, Boston, New York, and San
+  Francisco. Our team is small, talent-dense, and moving
+  quickly, with a culture rooted in extreme ownership, high
+  velocity, and low-ego collaboration. We look for people who
+  care deeply, ship fast, and are eager to make a dent in the
+  world.
+
+  Lovable is one of TIME’s 100 Most Influential Companies and
+  has been recognized on the Forbes AI 50 and CNBC Disruptor
+  50, reflecting our momentum as one of Europe’s fastest-
+  growing AI companies and one of the most ambitious places to
+  build in this next era of software.
+
+  What we’re looking for
+
+  - An infrastructure engineer who has built and run data
+    systems in production at scale, and wants the harder
+    version of the problem: millions of tiny tenants on shared
+    infrastructure.
+  - Deep experience in at least one layer (ingestion, storage
+    formats and table layout, query execution, or
+    orchestration), and the range to work across the others.
+  - Experience with multi-tenant or untrusted workloads:
+    isolation, noisy neighbours, and keeping cost per tenant
+    low.
+  - Good judgment on calls no one can check for you: the right
+    abstraction, the tradeoff between cost and latency,
+    whether a design holds at 10x.
+  - You work with AI agents end to end. Your output is the
+    systems you build, not the code you type by hand.
+  - You ship, and you own what you ship in production.
+
+  What you’ll do
+
+  - Build ingestion that accepts events from millions of Lovable
+    apps, treats every producer as untrusted, and keeps one
+    tenant's bad traffic from slowing or corrupting another's
+    data.
+  - Build managed analytical storage for every user, including
+    schema management, partitioning, and compaction of a
+    constant stream of small writes.
+  - Make queries fast when you can't keep compute warm for every
+    tenant.
+  - Build the runtime for agent-written connectors: isolated
+    execution, credentials, scheduling, retries and state.
+  - Make cost per tenant measurable, then drive it down, through
+    metering, limits and workload isolation.
+  - Expose data, metadata and tools to the Lovable agent so it
+    can build software on customers' data.
+  - Run what you build, including observability, freshness and
+    recovery.
+
+  The tech stack
+
+  We're building with tools that both humans and AI love:
+
+  - Languages: Go, Rust, Python, SQL
+  - Data: ClickHouse, BigQuery, Parquet on object storage
+  - Streaming & orchestration: Pub/Sub, Temporal
+  - Cloud: GCP, Cloudflare, AWS
+  - DevOps & tooling: GitHub Actions, Grafana, OTEL, Terraform
+
+  And always on the lookout for what's next.
+
+  About your application
+
+  Please submit your application in English. It’s our company
+  language, so you’ll be speaking lots of it if you join.
+
+  We treat all candidates equally - if you’re interested,
+  please apply through our careers portal.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-08
+url: "https://builtin.com/job/data-infrastructure-engineer/11568194"
+source: Built In

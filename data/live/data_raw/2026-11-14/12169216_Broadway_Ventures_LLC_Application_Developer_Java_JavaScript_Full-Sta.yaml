@@ -1,0 +1,219 @@
+job_id: 12169216
+title: Application Developer (Java, JavaScript) (Full-Stack)
+company: Broadway Ventures, LLC
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  At Broadway Ventures, we transform challenges into
+  opportunities with expert program management, cutting-edge
+  technology, and innovative consulting solutions. As an 8(a),
+  HUBZone, and Service-Disabled Veteran-Owned Small Business
+  (SDVOSB), we empower government and private sector clients
+  by delivering tailored solutions that drive operational
+  success, sustainability, and growth. Built on integrity,
+  collaboration, and excellence, we’re more than a service
+  provider—we’re your trusted partner in innovation.
+
+  Position Summary
+
+  The Application Developer builds the Java services that
+  ingest public health IT data, observe deployed FHIR
+  endpoints, validate what they find, and assemble
+  reproducible evidence cases for Project Argos. You write the
+  deterministic validators that make pass/fail determinations,
+  plus the retry, rate-limiting, and instrumentation logic
+  that keeps monitoring safe and repeatable. Agentic
+  components may summarize and draft, but they do not make
+  final compliance calls, and your code enforces that
+  boundary. Type:
+
+  - The position is open to both W2 and 1099
+  - Part-time, variable hours, 10 - 29 hours a week
+  - 1 year contract
+
+  Pay:
+
+  - W2: pay rate of $55 - $60/hr
+  - 1099: $65 - $70/hr
+
+  Works with: Technical Lead, AI/Engineering Lead, Senior
+  Systems Engineer, and Project Manager.
+
+  About Broadway Ventures and Project Argos
+
+  Broadway Ventures, LLC is a Service-Disabled Veteran-Owned
+  Small Business (SDVOSB) and HUBZone federal contractor
+  headquartered in Vicksburg, Mississippi, with operations in
+  the Madison/Huntsville, Alabama area.
+
+  Project Argos is an agentic AI proof of concept for the
+  Office of the National Coordinator for Health IT (ONC).
+  Broadway is the prime contractor, with Audacious Inquiry as
+  subcontractor. The pipeline pulls published API endpoint
+  data for roughly 290 certified health IT products from the
+  Certified Health IT Product List (CHPL), tests those
+  endpoints on a repeatable schedule, and builds reproducible
+  evidence cases for compliance gaps under 45 CFR Part 170. It
+  runs in a contractor-hosted AWS GovCloud environment, and a
+  qualified human reviews every finding before it becomes a
+  confirmed issue.
+
+  Key Responsibilities
+
+  - Build ingestion connectors for CHPL, Service Base URL Lists,
+    developer-published FHIR Bundles, Lantern, and other
+    approved public sources. Preserve raw artifacts,
+    timestamps, request metadata, response headers, and
+    hashes.
+  - Normalize developer, product, version, criterion, CHPL ID,
+    endpoint, organization, and validation records into the
+    project's common data model in DynamoDB, with lineage and
+    source-of-truth precedence rules.
+  - Implement publication checks that fetch endpoint lists and
+    classify availability failures: URL not found, timeouts,
+    obscuring redirects, malformed responses, and non-machine-
+    readable content.
+  - Build safe, non-authenticated endpoint observation for
+    metadata and CapabilityStatement retrieval, and detect
+    drift as endpoints are added, removed, moved, or changed.
+  - Run FHIR R4 validation against Endpoint, Organization, and
+    Bundle resources, preserving both raw and normalized
+    results.
+  - Build the evidence case package with source metadata,
+    request and response logs, validation outputs, severity,
+    and rule traceability. Support deduplication, clustering,
+    and export to Government-designated systems.
+  - Design scheduling, retry and backoff, rate limiting, error
+    handling, and audit logging for pipeline and agentic
+    components.
+  - Make test runs replayable so a reviewer can re-run a test
+    for any evidence case.
+  - Write unit and integration tests, including stub and mock
+    endpoints for failure scenarios. Participate in code
+    review and keep technical documentation current.
+  - Keep the code from requesting, collecting, or storing
+    patient data, PHI, credentials, or tokens unless the
+    Government authorizes it in writing.
+
+  Required Qualifications
+
+  - 5+ years of Java (17+) development, including concurrency
+    and networked services
+  - 3+ years of Spring Boot or an equivalent framework
+  - 2+ years of JavaScript/Node for tooling and front-end
+    development
+  - 4+ years building REST APIs and working with JSON
+  - 3+ years of working knowledge of HTTP and TLS fundamentals
+  - 3+ years with the AWS SDK, DynamoDB data modeling, and S3
+  - 2+ years building and running containerized services
+  - 4+ years of automated testing (JUnit, integration tests)
+  - 3+ years of code review and technical documentation
+  - 1+ year building with LLM APIs or using AI coding assistants
+    in development, including testing and validating AI-
+    generated output
+  - Authorized to work in the United States
+
+  PreferredQualifications
+
+  - HAPI FHIR or other FHIR R4 validation experience (US Core,
+    CapabilityStatements)
+  - HTTP client internals, including timing and connection
+    instrumentation
+  - Scheduling, retry and backoff, and rate-limiting design
+  - Testcontainers or stub and mock services for failure testing
+  - SMART on FHIR, Inferno, or ONC certification testing
+  - Health IT or federal program experience
+
+  What to Expect Next:
+
+  After submitting your application, our recruiting team will
+  review your qualifications. This may include a brief
+  telephone interview or email communication to verify resume
+  details and discuss compensation expectations. Interviews
+  will be conducted with the most qualified candidates.
+  Broadway Ventures conducts background checks and drug
+  testing prior to the start of employment. Some positions may
+  also require fingerprinting.
+
+  Broadway Ventures is an equal opportunity employer and a
+  VEVRAA federal contractor. We do not discriminate against
+  applicants or employees on the basis of race, color,
+  religion, sex, national origin, age, disability, protected
+  veteran status, or any other status protected by applicable
+  law.
+
+  Reasonable accommodations are available for applicants with
+  disabilities. Broadway Ventures utilizes the OFCCP-approved
+  Voluntary Self-Identification of Disability Form (CC-305).
+
+  The pay range shown is a good-faith estimate of the
+  compensation Broadway Ventures reasonably expects to pay for
+  this position at the time of posting. It is not a guarantee
+  of any particular wage, salary, or total compensation.
+  Actual pay offered depends on job-related factors, which may
+  include skills, experience, education, certifications and
+  licensure, geographic work location, contract funding and
+  budget. For positions covered by the Service Contract Act,
+  pay is also governed by the applicable Department of Labor
+  wage determination, which the government may revise.
+  Location Eligibility: Broadway Ventures cannot consider
+  applicants who live in, or would work from, any of the
+  following locations: California, Colorado, Connecticut, the
+  District of Columbia, Hawaii, Illinois, Maryland,
+  Massachusetts, New Jersey, New York, North Dakota, Ohio,
+  Oregon, Rhode Island, Washington State, and Wyoming.
+  Candidates must live in and work from an eligible U.S. state
+  when they are hired and for as long as they are employed.
+  Applications from residents of the locations listed above
+  will not be considered.
+
+  Notice: Use of Artificial Intelligence in Our Hiring Process
+
+  Broadway Ventures uses an artificial intelligence (AI) tool
+  to help review applications for this position.
+
+  - Who built it: Broadway Ventures developed the tool in-house.
+  - What it does: It compares your resume to the requirements in
+    this job posting and gives a score from 0 to 100 showing
+    how closely your qualifications match.
+  - What information it uses: The text of your resume, your
+    name, your current or most recent job title, your
+    location, and this job posting.
+  - What it cannot see: Your answers to voluntary demographic or
+    equal employment opportunity questions, interview
+    feedback, or offer information.
+  - How it is used: The score is one factor in our initial
+    review of applications. The tool does not reject anyone. A
+    member of our recruiting team reviews every application
+    before any decision is made.
+  - Your options: If you would like your application reviewed
+    without the AI tool, or you need a reasonable
+    accommodation at any point in the hiring process, contact
+    us at recruiting@broadwayventures.net. Making a request
+    will not affect whether you are considered for this
+    position.
+
+  Some positions are posted in support of a contract proposal
+  that has not yet been awarded. Where that is the case, the
+  position and its final compensation are contingent upon
+  award of the contract to Broadway Ventures and on the terms
+  of the awarded contract, including any government-approved
+  labor rates and the applicable wage determination.
+
+  Broadway Ventures offers a comprehensive benefits package. A
+  general description of benefits is below.
+
+  - 401(k) and company match
+  - PTO that grows the longer you stay
+  - Health, Vision, Dental
+  - Company provided Life Insurance and Voluntary Life Insurance
+  - Short Term Disability and Long Term Disability
+industries:
+  - Information Technology
+  - Consulting
+  - Cybersecurity
+posted_date: 2026-11-10
+url: "https://builtin.com/job/application-developer-java-javascript-full-stack/12169216"
+source: Built In

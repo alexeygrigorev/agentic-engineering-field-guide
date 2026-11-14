@@ -1,0 +1,239 @@
+job_id: 11594778
+title: Senior Engineering Manager (Data Platform)
+company: Preply
+location: London, GBR
+work_type: FULL_TIME
+company_size: 700 Employees
+description: |
+  We power people’s progress.
+
+  At Preply, we’re all about creating life-changing learning
+  experiences. We help people discover the magic of the
+  perfect tutor, craft a personalised learning journey, and
+  stay motivated to keep growing. Our approach is human-led,
+  tech-enabled - and it’s creating real impact.
+
+  We’ve just reached unicorn status with a $150M Series D,
+  accelerating our vision to transform education through
+  human-led, AI-enhanced learning. Today, 100,000+ tutors
+  teach 90+ languages to learners in 180 countries - and we’re
+  only getting started. As a category-defining company, we’re
+  shaping what the future of learning looks like at global
+  scale.
+
+  Every Preply lesson sparks change, fuels ambition, and
+  drives progress that matters. Joining Preply means helping
+  define the future of education at global scale, and building
+  something that truly matters for millions of people, every
+  day.
+
+  Meet the team!
+
+  At Preply, the Data Platform team provides a single,
+  trusted, and scalable data foundation for the whole company.
+  The team ensures that all analytics, machine learning, and
+  product features are built on unified, governed, and
+  production-grade data assets in Preply's Lakehouse —
+  including the extraction, normalization, and generation of
+  structured data from Preply's unstructured assets, forming a
+  durable data moat for AI-driven products.
+
+  The team owns end-to-end batch and streaming ingestion
+  pipelines, data contracts and quality checks, enrichment and
+  modeling across domains, and the self-service tooling that
+  lets other teams onboard new data sources within clear
+  guardrails. It works closely with ML Platform, Applied and
+  Data Scientists, Analytics Engineering, Backend, and Product
+  squads, so that datasets, features, and pipelines are
+  production-ready, observable, and reusable across Preply.
+
+  As the Senior Engineering Manager for Data Platform, you'll
+  own the engineering strategy, execution, and organizational
+  health of the team that every analytics, ML, and AI
+  initiative at Preply depends on. This is a leadership role
+  for a manager with strong technical judgment. You'll go deep
+  on data architecture, reliability, and platform
+  abstractions, coach senior engineers, set operational
+  standards, and partner with Data, ML, Product, Security, and
+  Engineering leaders across the company.
+
+  We've reached 90%+ adoption of AI coding tools across
+  engineering, and are now moving towards more autonomous, AI-
+  augmented development at scale. As an Engineering Manager,
+  you’ll help your team adopt these ways of working while
+  setting the right standards and guardrails.
+
+  Learn more about how we build on our Engineering Blog, Tech
+  Radar, and YouTube channel!
+
+
+
+  What you'll be doing:
+
+  - Lead and grow a high-performing data engineering team,
+    fostering a culture of ownership, continuous improvement,
+    and technical excellence.
+  - Coach and develop engineers, support them through regular
+    feedback, mentorship, and career development, while
+    creating an inclusive and collaborative team environment.
+  - Define and drive the long-term vision for Preply's data
+    foundation — the Lakehouse, ingestion layers, data
+    contracts, enrichment , and governance — ensuring
+    alignment with company objectives and the needs of
+    analytics, ML, and product teams.
+  - Identify and prioritize high-impact opportunities, partner
+    closely with Analytics, ML Platform, Data Science, and
+    Product to ensure the team focuses on the datasets,
+    pipelines, and tooling that deliver the greatest customer
+    and business value.
+  - Own execution and delivery. Translate strategy into
+    realistic plans, balancing foundational platform
+    investment with near-term needs of consuming teams while
+    surfacing trade-offs and maintaining speed, quality, cost
+    efficiency, and predictability.
+  - Provide technical leadership, guide architecture across
+    batch and streaming ingestion, data modeling, quality, and
+    governance; help the team navigate trade-offs and remove
+    technical obstacles.
+  - Own data reliability and trust. Establish SLOs,
+    observability, and incident response for data pipelines,
+    moving the platform from reactive firefighting to
+    proactive reliability management.
+  - Champion engineering best practices. Drive continuous
+    improvements in code quality, operational excellence,
+    development processes, and technology evolution.
+  - Collaborate cross-functionally, work with stakeholders
+    across the broader business to maximize impact and align
+    on priorities, data ownership, standards, and outcomes.
+  - Own hiring quality, team composition, and operating model,
+    evolving team boundaries as the platform and company needs
+    change.
+
+  What you need to succeed
+
+  - 8+ years of software or data engineering experience,
+    including 5+ years in engineering management, with
+    experience leading data or platform engineering teams.
+  - People-centric approach and team-building skills: a passion
+    for building high-performing teams and helping people
+    grow. You know how to create alignment, foster
+    psychological safety, provide actionable feedback, and
+    develop engineers through coaching and mentorship.
+  - Strong technical judgment and systems thinking. You are
+    comfortable driving architectural discussions, evaluating
+    technical trade-offs, championing engineering best
+    practices, and partnering with senior engineers on
+    technical strategy.
+  - A track record of hiring, coaching, and retaining high-
+    performing teams, including senior engineers.
+  - Product & Business Partnership: You're comfortable working
+    closely with Analytics, Data Science, ML, and Product
+    partners to identify opportunities, prioritize
+    investments, and drive measurable outcomes. You naturally
+    connect data platform decisions to downstream user
+    experience, business metrics, and company strategy.
+  - Clear communication and stakeholder leadership, with the
+    ability to align teams with different incentives, make
+    sound decisions with incomplete information, and revisit
+    assumptions as the data ecosystem changes.
+  - Results-Oriented: A track record of driving performance. You
+    know how to motivate teams to set and achieve ambitious,
+    business-focused, and measurable goals.
+  - Ethical Leadership: You lead by example, serving as the
+    team's moral compass by demonstrating empathy,
+    transparency, accountability, and a strong sense of
+    ownership. You value honesty and fairness, creating a
+    culture where people feel safe to challenge ideas, learn,
+    and grow.
+
+  Nice to have
+
+  - Hands-on familiarity with the modern data stack — for
+    example, Spark, Flink, Kafka, Debezium, Airflow, dbt, or
+    similar — and with cloud platforms (AWS/GCP or equivalent)
+    and modern DevOps practices.
+  - Experience leading teams that built data platforms used by
+    multiple teams in fast-growing companies.
+  - Experience running a data platform as a product: data
+    contracts, self-service onboarding, discoverability, and
+    measuring success through adoption and consumer outcomes.
+  - Experience with data governance, privacy, and compliance at
+    ingestion time (classification, access control, masking,
+    auditability).
+  - Familiarity with feature stores, ML data pipelines, or
+    preparing data for GenAI / RAG use cases.
+  - AI Expertise: You use Agentic AI beyond code generation to
+    support architecture, planning, and decision-making, while
+    retaining human judgment for architecture, people
+    decisions, business logic, and security, and establishing
+    quality gates and safety nets for team workflows.
+
+  Why you’ll love it at Preply:
+
+  - An open, collaborative, dynamic, and diverse culture;
+  - A generous monthly allowance for lessons on Preply.com,
+    Learning & Development budget, and time off for your self-
+    development;
+  - A competitive financial package with equity, leave allowance
+    and health insurance;
+  - Access to free mental health support platforms;
+  - Access to Gympass-partnered wellness and gym centers
+    throughout London to promote and support well-being and
+    physical health;
+  - The opportunity to unlock the potential of learners and
+    tutors through language learning and teaching in 175
+    countries (and counting!).
+
+  Our Principles
+
+  - Care to change the world - We are passionate about our work
+    and care deeply about its impact to be life changing.
+  - We do it for learners - For both Preply and tutors, learners
+    are why we do what we do. Every day we focus on empowering
+    tutors to deliver an exceptional learning experience.
+  - Keep perfecting - To create an outstanding customer
+    experience, we focus on simplicity, smoothness, and
+    enjoyment, continually perfecting it as every detail
+    matters.
+  - Now is the time - In a fast-paced world, it matters how
+    quickly we act. Now is the time to make great things
+    happen.
+  - Disciplined execution - What makes us disciplined is the
+    excellence in our execution. We set clear goals, focus on
+    what matters, and utilize our resources efficiently.
+  - Dive deep - We leverage business acumen and curiosity to
+    investigate disparities between numbers and stories,
+    unlocking meaningful insights to guide our decisions.
+  - Growth mindset - We proactively seek growth opportunities
+    and believe today's best performance becomes tomorrow's
+    starting point. We humbly embrace feedback and learn from
+    setbacks.
+  - Raise the bar - We raise our performance standards
+    continuously, alongside each new hire and promotion. We
+    build diverse and high-performing teams that can make a
+    real difference.
+  - Challenge, disagree and commit - We value open and candid
+    communication, even when we don’t fully agree. We speak
+    our minds, challenge when necessary, and fully commit to
+    decisions once made.
+  - One Preply - We prioritize collaboration, inclusion, and the
+    success of our team over personal ambitions. Together, we
+    support and celebrate each other's progress.
+
+  Diversity, Equity, and Inclusion
+
+  Preply.com is committed to creating an inclusive environment
+  where people of diverse backgrounds can thrive. We believe
+  that the presence of different opinions and viewpoints is a
+  key ingredient for our success as a multicultural Ed-Tech
+  company. That means that Preply will consider all
+  applications for employment without regard to race, color,
+  religion, gender identity or expression, sexual orientation,
+  national origin, disability, age or veteran status.
+industries:
+  - Edtech
+  - Information Technology
+  - Software
+posted_date: 2026-10-09
+url: "https://builtin.com/job/senior-engineering-manager-data-platform/11594778"
+source: Built In

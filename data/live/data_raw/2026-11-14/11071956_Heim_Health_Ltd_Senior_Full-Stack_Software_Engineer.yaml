@@ -1,0 +1,170 @@
+job_id: 11071956
+title: Senior Full-Stack Software Engineer
+company: Heim Health Ltd
+location: London, GBR
+work_type: FULL_TIME
+company_size: 42 Employees
+description: |
+  ABOUT US
+
+  At Heim, we are reinventing how healthcare is delivered.
+
+  We believe that healthcare is best delivered in the home of
+  patients, and that we are at the cusp of a systemic shift
+  away from hospital based care. Our mission is to expand
+  access to in-person clinical care at home by empowering
+  community nurses with technology that makes care delivery
+  more efficient.
+
+  We have created an AI native ecosystem that optimises the
+  complex scheduling involved in delivering community based
+  care, and are on track to automate every non clinical
+  touchpoint for nurses.
+
+  To date, our technology has powered our network of 400+
+  practitioners to deliver c. 30K appointments, and we have
+  shown that our algorithms bring down the cost of at-home
+  visits by c.35% whilst freeing up valuable time for care in
+  doing so. We are growing fast and our ambitions are big –
+  with new international markets on the roadmap, and strong
+  investor backing.
+
+  Our aim is to create the most productive, AI-enabled
+  distributed clinical workforce working at the intersection
+  of public and private health.By joining Heim, you will play
+  a pivotal role in building the infrastructure that puts
+  clinical care in the home.
+
+  WHAT IT'S LIKE TO WORK AT HEIM
+
+  We are reinventing how healthcare is delivered. Here are the
+  things that shape your day-to-day:
+
+  - Meaningful problems – we build systems that improve how
+    organisations understand and care for people. The work is
+    complex, applied, and grounded in real-world patient
+    impact
+  - High standards, low ego – you’ll work alongside thoughtful
+    engineers, clinicians, and operators who care about
+    clarity and good judgement
+  - Speed with intent – we move quickly but deliberately. Clear
+    ownership, evidence-based decisions, outcomes over output
+  - Simple, elegant solutions – we have a strong bias towards
+    code that is easy to reason about, hard to break, and
+    built to outlast the sprint it was born in
+  - Direct access to founders – you’ll have visibility into and
+    input on the direction of the company
+
+  WHAT MAKES THIS ROLE DIFFERENT
+
+  This is a full-stack TypeScript role in the truest sense –
+  you will own problems across the entire system, from UI to
+  infrastructure. AI isn’t a feature here; it’s a first
+  principle. We expect you to use agentic coding tools
+  fluently (e.g. Claude Code, Cursor) and to be building your
+  own views on where agentic workflows can meaningfully
+  improve what we ship.
+
+  You’ll be working on systems where the stakes are real:
+  scheduling errors affect patient care, data quality issues
+  affect clinical decisions, and downtime has consequences.
+  That context sharpens every technical choice you make.
+
+  WHAT YOU'LL DO
+
+  Design and build product features end-to-end across the Heim
+  tech stack – owning them from first principles to production
+
+  - Architect and implement AI-powered workflows: scheduling
+    optimisation, practitioner dispatch, clinical data
+    enrichment, and agentic referral automations that reduce
+    manual touchpoints for nurses
+  - Own the full lifecycle of features – from TypeScript
+    frontend through to backend services, infrastructure,
+    deployment pipelines, and testing – without relying on
+    separate DevOps or QA teams to close the loop
+  - Build and maintain the APIs, services, and data models that
+    underpin clinical operations – with the reliability and
+    auditability a regulated environment demands
+  - Collaborate with our product and clinical ops teams to
+    translate ambiguous real-world problems into working
+    software
+  - Make pragmatic trade-offs between speed and quality, and
+    advocate clearly when the trade-off isn’t acceptable
+  - Contribute to the architecture and infrastructure decisions
+    that will shape the platform as we scale to NHS Trusts
+    across the UK and into new markets
+  - Leave the codebase better than you found it – improving
+    performance, clarity, and resilience as part of everyday
+    delivery
+
+  You won’t get perfectly specified tickets. You’ll be trusted
+  to think, decide, and ship.
+
+  HOW WE WORK
+
+  - Small team, fast loops, few layers – your decisions land
+    fast and the feedback is real
+  - We operate a hybrid team set up, and value high quality in
+    person time so you must be able to commute to our central
+    London office
+  - Technical judgement is respected and expected – you’ll have
+    a real voice in architectural decisions
+  - Disagreement is normal. Good ideas win, not hierarchical
+    ones
+  - Strong bias toward execution: fewer meetings, clear
+    ownership, and decisions grounded in evidence
+
+  WHO THIS IS FOR
+
+  You’re a senior full-stack engineer who acts like a founder.
+  You take responsibility for outcomes, not just tasks. You’re
+  comfortable roaming an unfamiliar part of the codebase when
+  something needs fixing, and you’ll ask sharp clarifying
+  questions before committing to an approach.
+
+  You probably have:
+
+  - 6+ years building and owning production software in fast-
+    moving environments
+  - Genuine full-stack capability – you’re not “mostly frontend”
+    or “mostly backend”; you care about and can own the whole
+    system
+  - Proven ability to own the full delivery lifecycle: frontend,
+    backend, infrastructure, CI/CD pipelines, deployment, and
+    testing – without handing off to separate DevOps or QA
+    teams
+  - Active, fluent use of AI coding tools – Claude Code, Cursor,
+    Copilot – not as novelty, but as default workflow
+  - Experience making data-sensitive engineering decisions: you
+    instinctively ask about PII classification, schema
+    flexibility, and audit requirements before you build
+  - A track record of shipping under ambiguity – you’ve taken a
+    vague ask, formed a point of view, and delivered something
+    that worked
+  - The judgement to know when to move fast and when to slow
+    down
+
+  Bonus if you have:
+
+  - Experience in regulated environments (healthcare, fintech,
+    legal) and an understanding of what “good enough” looks
+    like when data sensitivity is high
+  - Background building agentic or multi-step AI workflows in
+    production
+  - A side project or personal tool built with AI – something
+    that shows you’ve been hands-on with Cursor, Claude Code,
+    or AI integrations outside of work
+  - Familiarity with NHS data standards, FHIR, or community care
+    systems
+
+  Infrastructure and cloud experience (GCP or equivalent)
+  beyond the basics
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Logistics
+  - Software
+posted_date: 2026-09-09
+url: "https://builtin.com/job/senior-full-stack-software-engineer/11071956"
+source: Built In

@@ -1,0 +1,151 @@
+job_id: 11566560
+title: "Staff Software Engineer - Core Platform - Streaming & Storage"
+company: StubHub
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,000 Employees
+description: |
+  StubHub is on a mission to redefine the live event
+  experience on a global scale. Whether someone is looking to
+  attend their first event or their hundredth, we’re here to
+  delight them all the way from the moment they start looking
+  for a ticket until they step through the gate. The same goes
+  for our sellers. From fans selling a single ticket to the
+  promoters of a worldwide stadium tour, we want StubHub to be
+  the safest, most convenient way to offer a ticket to the
+  millions of fans who browse our platform around the world.
+
+  We are seeking a Staff Software Engineer to join our Core
+  Platform - Streaming & Storage team. In this role, you will
+  lead the architecture and delivery of foundational
+  streaming, messaging, and storage platforms that power P0
+  workflows across StubHub. The team provides core engineering
+  products used broadly across the company, including message
+  queues, DLQ and retry infrastructure, messaging control
+  planes, and storage platforms such as key-value databases,
+  distributed caches, blob storage, and search/indexing
+  systems. These platforms enable teams to build reliable,
+  scalable, and event-driven services. Today these platforms
+  process 10–30 billion events per day for roughly 100 service
+  teams. The team is at the beginning of a major program to
+  bring StubHub's streaming home to AWS — consolidating from
+  Azure services (EventHub, ServiceBus) onto a modern, Kafka-
+  compatible platform with schema enforcement, self-service
+  SDKs, and direct streaming and querying of event data from
+  S3. As a Staff Software Engineer, you will be the technical
+  owner across our Streaming and Nonrelational Storage
+  domains: setting technical direction, driving the key
+  architecture and vendor decisions, ensuring operational
+  excellence for P0 infrastructure, and mentoring the
+  engineers who build and run it.
+
+  Location: Onsite (3 days in office/2 days remote) – New
+  York, NY, or Aliso Viejo, CA
+
+  What You'll Do:
+
+  - Own the technical strategy and architecture for StubHub's
+    streaming platform and NoSQL/storage offerings
+  - Lead the migration of streaming from Azure to an AWS-native,
+    Kafka-compatible platform — vendor selection and
+    benchmarking, broker deployment, schema registry, and
+    producer/consumer SDKs
+  - Design and operate high-throughput infrastructure processing
+    billions of events per day, with reliability and
+    performance appropriate to its company-wide blast radius
+  - Drive engineering excellence: architecture and design
+    reviews, observability, operational readiness, and
+    incident response for P0 systems
+  - Partner with ~100 service teams on adoption — migration
+    guides, tooling, sign-off processes, and developer
+    experience
+  - Ensure compliance and governance (SOX, GDPR/CCPA) are
+    designed into the platform, including PII handling,
+    retention, and data access controls
+  - Mentor and grow a team of 3–5 engineers, raising the
+    technical bar through design review and coaching
+  - Shape the team's multi-year roadmap in partnership with
+    engineering
+
+  What You've Done:
+
+  - 8+ years of software engineering experience, including
+    several years acting as a technical lead for large-scale
+    distributed systems
+  - Deep expertise in event streaming and messaging — Kafka or
+    Kafka-compatible brokers (e.g., MSK, Confluent, Redpanda,
+    AutoMQ, WarpStream)
+  - Proven experience operating production infrastructure at
+    scale: high availability, incident response, performance
+    tuning, and cost management
+  - Experience with cloud data storage and NoSQL systems (object
+    storage, key-value stores, distributed caches,
+    search/indexing)
+  - Track record of leading multi-quarter, cross-team platform
+    migrations or programs end-to-end
+  - Excellent communication skills — able to align leadership,
+    partner teams, and engineers on technical direction
+  - Bonus points: schema registry and compatibility tooling,
+    lakehouse formats (Iceberg), CDC pipelines, .NET/C# and
+    Python, Kubernetes/EKS, Terraform, OpenTelemetry
+  - Experience mentoring junior engineers
+
+
+
+  What We Offer:
+
+  - Accelerated Growth Environment: An environment designed for
+    swift skill and knowledge enhancement, where you have the
+    autonomy to lead experiments and tests on a massive scale.
+  - Top Tier Compensation Package: Competitive base, equity, and
+    upside that tracks with your impact.
+  - Flexible Time Off: Embrace a healthy work-life balance with
+    unlimited Flex Time Off, providing you the flexibility to
+    manage your schedule and recharge as needed.
+  - Comprehensive Benefits Package: Prioritize your well-being
+    with a comprehensive benefits package, featuring 401k, and
+    premium Health, Vision, and Dental Insurance options.
+
+  The anticipated gross base pay range is below for this role.
+  Actual compensation will vary depending on factors such as a
+  candidate’s qualifications, skills, experience, and
+  competencies. Base annual salary is one component of
+  StubHub’s total compensation and competitive benefits
+  package, which includes equity, 401(k), paid time off, paid
+  parental leave, and comprehensive health benefits.
+
+  Salary Range
+
+  $300,000—$350,000 USD
+
+  About Us
+
+  StubHub is the world’s leading marketplace to buy and sell
+  tickets to any live event, anywhere. Through StubHub in
+  North America and viagogo, our international platform, we
+  service customers in 195 countries in 33 languages and 49
+  available currencies. With more than 300 million tickets
+  available annually on our platform to events around the
+  world -- from sports to music, comedy to dance, festivals to
+  theater -- StubHub offers the safest, most convenient way to
+  buy or sell tickets to the most memorable live experiences.
+  Come join our team for a front-row seat to the action.
+
+
+
+  For California Residents: California Job Applicant Privacy
+  Notice found here
+
+
+
+  We are an equal opportunity employer and value diversity on
+  our team. We do not discriminate on the basis of race,
+  color, religion, sex, national origin, gender, sexual
+  orientation, age, disability, veteran status, or any other
+  legally protected status.
+industries:
+  - Events
+  - Mobile
+posted_date: 2026-10-08
+url: "https://builtin.com/job/staff-software-engineer-core-platform/11566560"
+source: Built In

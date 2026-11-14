@@ -1,0 +1,109 @@
+job_id: 11554421
+title: Hardware, Mobile Software Engineer
+company: Mecka AI
+location: Toronto, CAN
+locations:
+  - Toronto, CAN
+  - New York, USA
+work_type: FULL_TIME
+company_size: 58 Employees
+description: |
+  About Mecka AI
+
+  Mecka AI is building the data infrastructure layer for
+  robotics and embodied AI. We design and operate global
+  systems for data capture, data labeling, and hardware-
+  enabled workflows used by leading AI labs and robotics
+  companies to train and validate humanoid and embodied AI
+  systems. We work closely with frontier robotics teams to
+  bridge real-world data, simulation, learning-based systems,
+  and deployed hardware.
+
+  About the Role
+
+  You will build the mobile experience on iOS and Android that
+  lets people turn everyday activity into valuable robot-
+  learning data. As Mecka's capture network grows, your
+  software will help more people record reliably, understand
+  their devices, and complete successful captures in real-
+  world conditions.
+
+  You will own the application experience from connecting
+  hardware to recording and transferring data. Bring strong
+  native mobile development skills and attention to usability,
+  performance, and recovery. Your work will make sophisticated
+  capture systems straightforward to use, even when
+  connections drop, permissions change, or recording sessions
+  are interrupted.
+
+  What You'll Do
+
+  - Integrate device interfaces and media capabilities into iOS
+    and Android applications.
+  - Design status displays and recovery flows so users stay on
+    track through disconnections, permission changes and
+    interrupted transfers.
+  - Improve responsiveness, video performance, memory use and
+    battery consumption across supported phones.
+  - Add diagnostics, and work with firmware engineers to
+    reproduce issues and test complete user workflows.
+
+  What You BringMust-have:
+
+  - 3–4 years of experience building and debugging native mobile
+    applications with connected hardware or media features on
+    real devices, with strong Swift skills for iOS or
+    Kotlin/Java skills for Android.
+  - A solid understanding of application lifecycle, concurrency,
+    permissions, background execution and networking on iOS or
+    Android.
+  - The ability to design reliable app state that preserves user
+    progress when connections or processes are interrupted.
+  - Hands-on experience profiling and debugging performance,
+    memory and connectivity on real iOS or Android devices.
+  - The ability to build clear user interfaces and automated
+    tests for important app workflows.
+
+  Nice-to-have:
+
+  - Experience with AVFoundation, Core Bluetooth,
+    Camera2/CameraX, MediaCodec, device connectivity APIs, or
+    native C++ integration.
+  - Experience with both iOS and Android, device provisioning,
+    recording apps, or large file transfers.
+
+  About You
+
+  - You are ambitious about what you build. You can point to
+    results you personally delivered.
+  - You care deeply about your craft, pursue difficult
+    questions, and learn quickly.
+  - You take initiative and own problems through to results. You
+    work independently, make decisions, and bring others in
+    when needed.
+  - You communicate honestly. You own mistakes, share credit,
+    and help the people around you succeed.
+
+  If you don't check every box above but believe you can do
+  the job, we encourage you to apply — we're looking for
+  capability and trajectory, not a perfect checklist match.
+
+  We strive to create an inclusive work environment for all;
+  we welcome applicants from all backgrounds and are committed
+  to providing equal opportunities. Should you require any
+  accommodations during the recruitment process, we will
+  partner with you to meet your needs.
+
+  We may use AI-assisted tools to help evaluate applications
+  against the requirements of this role. These tools support
+  our recruiting team in identifying qualified candidates but
+  do not replace human judgment or limit which applications
+  may be reviewed or considered.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Machine Learning
+  - Robotics
+posted_date: 2026-10-07
+url: "https://builtin.com/job/software-engineer-android/11554421"
+source: Built In

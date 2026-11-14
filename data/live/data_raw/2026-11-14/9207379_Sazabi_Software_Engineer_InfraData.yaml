@@ -1,0 +1,145 @@
+job_id: 9207379
+title: Software Engineer, Infra/Data
+company: Sazabi
+location: USA
+locations:
+  - USA
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  What we're building
+
+  In 2026, we're on the verge of an "infinite software
+  crisis." How will we support, maintain, and operate the
+  explosion in application development?
+
+  Our answer is Sazabi: the AI-native observability platform
+  for fast-moving engineering teams.
+
+  Sazabi gives teams a single place to ask questions about
+  their production systems in plain language, automatically
+  visualize what's happening, and get to the root cause 10x
+  faster. No tedious instrumentation. No dashboard
+  configuration. No alert tuning. Just answers.
+
+  We're backed by tastemakers from the world's top AI
+  companies: Vercel, Graphite, Daytona, Browserbase,
+  LangChain, Mastra, Replit, and more.
+
+  What you’ll do
+
+  - Build and scale our log ingestion and processing pipeline
+  - Design systems for high-throughput, low-latency data
+    processing
+  - Own storage, indexing, and query systems for logs
+  - Ensure reliability, scalability, and cost-efficiency of our
+    backend systems
+  - Work on distributed systems that power real-time
+    observability
+  - Debug and optimize performance at every layer of the stack
+
+  What we're looking for
+
+  - Strong experience with distributed systems and data
+    infrastructure
+  - Familiarity with streaming systems, databases, and large-
+    scale data pipelines
+  - Deep understanding of performance tradeoffs (latency,
+    throughput, cost)
+  - Ability to design systems from scratch, not just maintain
+    them
+  - Comfort working close to the metal when needed
+  - Bonus: experience with observability platforms, logging
+    systems, or time-series data
+
+  Our tech
+
+  Our stack is TypeScript end-to-end. We use PostgreSQL for
+  relational data, Temporal for durable execution, and the
+  Vercel AI SDK to orchestrate our AI agents against the
+  latest models. At the infrastructure layer, we use
+  Terraform, Kubernetes, and AWS.
+
+  Some of the most interesting engineering problems we grapple
+  with are:
+
+  - AI agents at production scale
+  - Log processing at scale
+  - Multi-region data architecture
+  - Real-time streaming infrastructure
+  - Evals and reinforcement learning
+  - Zero-downtime deployments and fast rollbacks
+
+  What we offer
+
+  - Competitive salary and equity
+  - Free lunches (in-office only)
+  - Health, dental, and vision insurance
+  - Unlimited paid time off
+  - Paid parental leave
+
+  Learn how we think and work
+
+  Our team comes from Brex, Y Combinator, Rootly, Google,
+  Doppel, and other top tech companies. We move fast and hold
+  a high bar for both the product and each other.
+
+  We operate according to six values:
+
+  - Integrity. We say what we mean, do what we say, and own our
+    mistakes.
+  - Urgency. We treat every week like it matters, because it
+    does.
+  - Craftsmanship. We care deeply about the quality of our work.
+  - Service. We're here to make developers’ and our teammates’
+    lives easier.
+  - Kindness. We're direct, and we move fast, but we treat each
+    other well.
+  - Fun. We genuinely enjoy working together. If you don't love
+    what you're building and who you’re building it with,
+    what's the point?
+
+  You can find out more about us here:
+
+  - Watch our launch video
+  - Read the manifesto
+  - Follow us on X and LinkedIn
+
+  The Sazabi philosophy
+
+  Sazabi is more than just a tool. It’s also a philosophy.
+  We're taking a radically different approach to
+  observability, centered on three big ideas:
+
+  - Less is more. Most observability platforms drown you in
+    dashboards and modules that you don’t need. We believe
+    observability needs less UI, not more. Sazabi surfaces
+    exactly the information you need in a simple, beautiful
+    chat interface.
+  - Logs are all you need. The “three pillars of observability”
+    idea is outdated. Sazabi accepts only one kind of
+    telemetry: logs. This simplifies the instrumentation and
+    product experience dramatically.
+  - Monitoring is dead. Creating and maintaining static alerts
+    for a fast-evolving system is a fool’s errand. The future
+    is agentic anomaly detection: AI agents that automatically
+    check your app for issues 24-7.
+
+  We came to these beliefs the hard way — after years of
+  building infrastructure and responding to incidents with
+  tools that offered plenty of bells and whistles, but no
+  clear answers when it counted most.
+
+  If this way of thinking resonates with you, come build with
+  us.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Software
+  - Analytics
+posted_date: 2026-08-10
+url: "https://builtin.com/job/software-engineer-infra-data/9207379"
+source: Built In

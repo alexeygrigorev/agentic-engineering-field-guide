@@ -1,0 +1,113 @@
+job_id: 9913882
+title: Front End Engineer - Angular- Dallas, TX
+company: Photon
+location: USA
+locations:
+  - USA
+  - Dallas, USA
+remote: true
+work_type: FULL_TIME
+company_size: 5,017 Employees
+description: |
+  We are seeking a highly skilled Angular Developer to build
+  the next generation of AI-driven user interfaces. You will
+  be responsible for creating a seamless, high-performance
+  frontend that allows users to collaborate with autonomous
+  agents.
+
+
+
+  Your work will focus on visualizing complex agentic
+  workflows—such as the agent’s reasoning steps, tool-usage,
+  and long-running autonomous tasks—using modern Angular
+  features like Signals and RxJS to ensure a responsive,
+  "live" experience.
+
+
+
+  Key Responsibilities
+
+
+
+  - Real-time Streaming Interfaces: Implement robust handling
+    for Server-Sent Events (SSE) and WebSockets to display
+    real-time "token streaming" and agent status updates as
+    they happen.
+  - Complex State Management: Utilize Angular Signals or NgRx to
+    manage the highly dynamic states of an AI agent (e.g.,
+    Idle, Planning, Fetching Data, Executing Code, Awaiting
+    Approval).
+  - AI Observability UI: Build intuitive dashboards that
+    visualize "Chain-of-Thought" reasoning, allowing users to
+    see the references, citations, and logic used by the agent
+    to reach a conclusion.
+  - Human-in-the-Loop (HITL) Components: Develop specialized UI
+    components that allow users to pause, edit, or approve an
+    agent's proposed plan before it executes.
+  - Performance Optimization: Ensure the UI remains performant
+    even when handling large volumes of streaming data and
+    complex visualizations.
+  - Collaboration with AI Engineers: Work closely with Backend
+    and AI engineers to define JSON schemas and API contracts
+    that support the unique needs of agentic interaction.
+
+
+
+  Technical Requirements
+
+
+
+  - Angular Expertise: 8+years of experience with Angular
+    (v16/17+ preferred). Strong mastery of Standalone
+    Components, Signals, and the
+    provideRouter/provideHttpClient patterns.
+  - RxJS Mastery: Deep understanding of reactive programming to
+    handle complex asynchronous data streams and event
+    orchestration.
+  - Modern CSS/Styling: Proficiency in Tailwind CSS or SCSS to
+    build "Generative UI" components that can adapt their
+    layout based on the agent's output.
+  - State Management: Proven experience with NgRx, Akita, or
+    Signal-based state management in enterprise-scale
+    applications.
+  - API Integration: Experience working with RESTful APIs and
+    real-time streaming protocols. Familiarity with OpenAI
+    /Anthropic API structures is a plus.
+  - Testing: Commitment to quality through unit testing and E2E
+    testing (Cypress )
+
+
+
+  Preferred Qualifications
+
+
+
+  - Experience with Canvas or SVG-based visualizations to show
+    agent decision trees or multi-agent handoffs.
+  - Familiarity with Web Workers for handling heavy client-side
+    processing without blocking the UI thread.
+  - A portfolio showcasing AI-integrated products or highly
+    interactive real-time dashboards.
+
+
+
+
+
+  Compensation, Benefits and Duration
+
+  Minimum Compensation: USD 39,000 Maximum Compensation: USD
+  137,000 Compensation is based on actual experience and
+  qualifications of the candidate. The above is a reasonable
+  and a good faith estimate for the role. Medical, vision, and
+  dental benefits, 401k retirement plan, variable
+  pay/incentives, paid time off, and paid holidays are
+  available for full time employees. This position is not
+  available for independent contractors No applications will
+  be considered if received more than 120 days after the date
+  of this post
+industries:
+  - Agency
+  - Information Technology
+posted_date: 2026-08-16
+url: "https://builtin.com/job/front-end-engineer-angular-dallas-tx/9913882"
+source: Built In

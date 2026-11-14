@@ -1,0 +1,190 @@
+job_id: 8931752
+title: Senior Software Engineer, Streaming
+company: Attentive
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,000 Employees
+description: |
+  Attentive® is the AI marketing platform for 1:1
+  personalization redefining the way brands and people
+  connect. We’re the only marketing platform that combines
+  powerful technology with human expertise to build authentic
+  customer relationships. By unifying SMS, RCS, email, and
+  push notifications, our AI-powered personalization engine
+  delivers bespoke experiences that drive performance,
+  revenue, and loyalty through real-time behavioral insights.
+
+
+
+  Recognized as the #1 provider in SMS Marketing by G2,
+  Attentive partners with more than 8,000 customers across 70+
+  industries. Leading global brands like Crate and Barrel,
+  Urban Outfitters, and Carter’s work with us to enable
+  billions of interactions that power tens of billions in
+  revenue for our customers.
+
+
+
+  With a distributed global workforce and employee hubs in New
+  York City, San Francisco, London, and Sydney, Attentive’s
+  team has been consistently recognized for its performance
+  and culture. We’re proud to be included in Deloitte’s Fast
+  500 (four years running!), LinkedIn’s Top Startups, Forbes’
+  Cloud 100 (five years running!), Inc.’s Best Workplaces, and
+  the Human Rights Campaign Foundation's Corporate Equality
+  Index!
+
+  About the Role
+
+  We’re looking for a highly driven Senior Software Engineer
+  to join our Streaming team, which powers the backbone of
+  Attentive’s messaging and personalization platform. Our
+  event streaming systems handle over 2 million messages per
+  second and sit at the heart of how product and data
+  engineering teams build real-time, customer-facing
+  experiences.
+
+  In this role, you’ll help shape the future of our streaming
+  architecture, moving us to modern platforms, and unlocking
+  new capabilities for debugging, load testing, and
+  observability. Your work won’t just keep the pipes flowing
+  it will directly influence how quickly we can experiment,
+  personalize, and scale across millions of devices and
+  billions of events.
+
+
+
+  This hybrid role is based in our New York office, with in-
+  office collaboration Tuesday through Thursday each week.
+
+  What You’ll Accomplish
+
+  - Architect and evolve Attentive’s next-generation event
+    streaming platform: Design high-throughput, low-latency
+    solutions that power mission-critical messaging,
+    personalization, and data integration use cases across
+    Attentive’s ecosystem
+  - Enhance self-service for product engineering and data teams:
+    Build and refine self-serve tools for event observability,
+    debugging, load testing, and system configuration,
+    empowering teams to experiment and ship quickly
+  - Simplify and modernize streaming architecture: Remove
+    unnecessary abstraction layers, enable direct access for
+    power users, and ensure the platform is flexible for both
+    “paved path” and advanced use cases
+  - Solve complex distributed systems challenges: Improve event
+    delivery reliability, cost efficiency, and system
+    integration for real-time and batch workloads
+  - Champion best practices and technology selection: Stay ahead
+    of industry advancements in event streaming, advocating
+    for tools and approaches that balance innovation with
+    long-term reliability
+  - Collaborate across engineering: Partner with product, data,
+    and infrastructure teams to launch new customer-facing
+    features, integrations, and scalable solutions built on
+    streaming infrastructure
+
+  Your Expertise
+
+  - 5+ years experience architecting and supporting high-
+    throughput, distributed systems at scale—especially those
+    involving event streaming or messaging platforms
+  - Deep understanding of the internals of distributed streaming
+    frameworks such as Kafka, Flink, Pulsar, and/or Spark
+  - Proficient in Java (Spring Boot) and familiar with modern
+    development practices, including object-oriented design,
+    data structures, and algorithms
+  - Able to debug issues across the stack—from message
+    serialization and event schemas to network and JVM
+    tuning—and communicate tradeoffs clearly
+  - Familiar with resource scheduling, data locality, and how
+    infrastructure choices impact cost and system behavior
+  - Experience with observability and developer tooling for
+    streaming (e.g., tracing, metrics, replay).Infrastructure-
+    as-code expertise (Terraform, Helm), comfortable with
+    Kubernetes (EKS) and cloud-native environments
+  - Track record of modernizing platforms: sunsetting legacy
+    systems, moving to managed services, or implementing self-
+    service capabilities
+  - Excited by new technologies, but pragmatic about introducing
+    them—focused on solving real business problems
+
+  What We Use
+
+  - Our infrastructure runs primarily in Kubernetes hosted in
+    AWS’s EKS
+  - Infrastructure tooling includes Istio, Datadog, Terraform,
+    CloudFlare, and Helm
+  - Our backend is Java / Spring Boot microservices, built with
+    Gradle, coupled with things like DynamoDB, AirFlow,
+    Postgres, and Redis, hosted via AWS
+  - Our frontend is built with React and TypeScript, and uses
+    best practices like GraphQL, Storybook, Radix UI, Vite,
+    esbuild, and Playwright
+  - Our automation is driven by custom and open source machine
+    learning models, lots of data and built with Python,
+    Metaflow, HuggingFace 🤗, PyTorch, TensorFlow, and Pandas
+
+  You'll get competitive perks and benefits, from health &
+  wellness to equity, to help you bring your best self to
+  work.
+
+  For US based applicants:
+
+  - The US base salary range for this full-time position is
+    $178,400-$267,600 annually + equity + benefits
+  - Our salary ranges are determined by role, level and location
+
+  #LI-DH1
+
+  By applying for this position, your data will be processed
+  as per Attentive's Privacy Policy.
+
+  Attentive Company Values
+
+  Default to Action - Move swiftly and with purpose
+
+  Be One Unstoppable Team - Rally as each other’s champions
+
+  Champion the Customer - Our success is defined by our
+  customers' success
+
+  Act Like an Owner - Take responsibility for Attentive’s
+  success
+
+
+
+  Learn more about AWAKE, Attentive’s collective of employee
+  resource groups.
+
+
+
+  If you do not meet all the requirements listed here, we
+  still encourage you to apply! No job description is perfect,
+  and we may also have another opportunity that closely
+  matches your skills and experience.
+
+
+
+  At Attentive, we know that our Company's strength lies in
+  the diversity of our employees. Attentive is an Equal
+  Opportunity Employer and we welcome applicants from all
+  backgrounds. Our policy is to provide equal employment
+  opportunities for all employees, applicants and covered
+  individuals regardless of protected characteristics. We
+  prioritize and maintain a fair, inclusive and equitable
+  workplace free from discrimination, harassment, and
+  retaliation. Attentive is also committed to providing
+  reasonable accommodations for candidates with disabilities.
+  If you need any assistance or reasonable accommodations,
+  please let your recruiter know.
+industries:
+  - Artificial Intelligence
+  - eCommerce
+  - Marketing Tech
+  - Mobile
+  - Software
+  - Conversational AI
+posted_date: 2026-08-01
+url: "https://builtin.com/job/senior-software-engineer-streaming/8931752"
+source: Built In

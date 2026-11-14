@@ -1,0 +1,235 @@
+job_id: 11958147
+title: Sr. Backend Engineer
+company: Memory Bridge
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 2 Employees
+description: |
+  ما به سراغ یکی از چالش‌برانگیزترین مسائل هوش مصنوعی
+  رفته‌ایم: اینکه چطور می‌توان با کمترین خدشه‌ به حریم خصوصی
+  کاربران، حافظه‌ای بی‌نقص برای مدل‌های زبانی بزرگ فراهم کرد.
+
+  اگر شما توسعه‌دهنده‌ی بک‌اندی هستید که عاشق طراحی سیستم‌های
+  ماژولار، سریع، و قابل‌اعتمادید، و دلتان می‌خواهد کدی بنویسید
+  که در دل یک محصول واقعی زندگی می‌کند، ما مشتاق آشنایی با شما
+  هستیم. ما به‌دنبال کسی هستیم که هم از معماری داده لذت ببرد،
+  هم بتواند با تیم ماشین لرنینگ همکاری نزدیک داشته باشد، و هم
+  وقتی لازم است خودش تصمیم بگیرد و جلو برود.
+
+  At Memory Bridge, we're tackling one of the hardest problems
+  in AI: giving large language models perfect memory while
+  preserving user privacy.
+
+  We're looking for an exceptional Backend Developer who
+  understands that building a real-time memory layer for AI
+  isn't just about connecting APIs—it's about architecting
+  systems that can handle personal memories with low latency
+  while maintaining bulletproof privacy guarantees. You'll
+  design and build the infrastructure that powers our multi-
+  tier memory system, privacy enforcement layer, and cross-
+  platform integrations.
+
+  This is a rare opportunity to join our team as the founding
+  backend engineer, where your architectural decisions will
+  directly shape how AI systems store, protect, and retrieve
+  human memories. If you're a systems thinker who gets excited
+  about distributed storage, real-time data pipelines, and
+  privacy-first architecture, we should talk.
+
+  About You
+
+  - The ideal candidate has built production backend systems
+    that handle sensitive user data, understanding the
+    delicate balance between performance and privacy. You've
+    architected APIs that serve real-time requests, designed
+    data models that scale, and implemented security measures
+    that protect user information by default.
+  - You're comfortable working across the stack when needed—from
+    optimizing database queries to configuring deployment
+    pipelines. You understand that in a startup, backend
+    engineering means owning the full lifecycle of your
+    services.
+  - You thrive in collaborative environments and can work
+    effectively with ML engineers to ensure smooth integration
+    between backend services and ML pipelines.
+  - You understand when to introduce complexity and when to keep
+    things lean
+  - You like working in small teams where decisions move fast
+    and ownership is shared.
+  - You love building resilient APIs with proper retries,
+    circuit breakers, and fallback strategies.
+
+  Key Responsibilities
+
+  - Design and implement the core backend architecture
+    supporting multi-tier memory storage (working, episodic,
+    semantic), with appropriate data models and access
+    patterns for each tier
+  - Build the privacy enforcement layer that ensures memory
+    filtering happens before retrieval, implementing user-
+    defined trust tiers and data sensitivity classifications
+    with practical security measures
+  - Develop high-performance APIs that handle real-time prompt
+    augmentation, including intelligent caching strategies and
+    query optimization
+  - Architect secure multi-tenant data isolation ensuring one
+    user's memories never leak to another, using proven
+    patterns and appropriate encryption
+  - Implement robust integration pipelines for LLM providers
+    (OpenAI, Anthropic, etc.) with proper error handling,
+    retry logic, and graceful degradation
+  - Collaborate closely with the ML engineer on the hybrid
+    retrieval system, providing backend support for vector
+    search, keyword search, and graph queries
+  - Design the cross-platform synchronization system that keeps
+    memory consistent across browser extensions and desktop
+    applications
+  - Set up monitoring, logging, and alerting systems to ensure
+    production reliability—you'll own what you build
+  - Work with PM to translate product requirements into
+    technical architecture that balances features with system
+    constraints
+  - Own deployment pipeline and basic infrastructure
+
+  Requirements (Must-haves)
+
+  - 4–6+ years of experience building robust backend systems
+  - Expert-level Python development with strong architectural
+    pattern
+  - Deep understanding of asynchronous programming patterns and
+    event-driven architectures
+  - Proven ability to design and operate scalable RESTful APIs
+    with proper versioning and documentation
+  - Advanced PostgreSQL skills (query optimization, indexing
+    strategies, understanding of ACID properties)
+  - Experience with MongoDB or similar document stores for
+    flexible data structures
+  - Practical security knowledge: implementing authentication
+    (JWT/OAuth), encryption at rest and in transit, and secure
+    coding practices
+  - Experience with Redis or similar caching solutions for
+    performance optimization
+  - Solid understanding of message queues for async processing
+  - Strong testing practices across unit, integration, and end-
+    to-end testing
+  - Proficiency with Docker for containerized development and
+    deployment
+  - Experience with CI/CD pipelines and automated deployment
+    processes
+  - Comfort with owning production systems and debugging complex
+    issues
+  - Experience with Infrastructure as Code (Terraform)
+
+  Nice-to-Have Skills
+
+  - Direct experience with LLM provider APIs and their quirks
+  - Background in building memory systems, caching layers, or
+    real-time data pipelines
+  - Experience with observability platforms (Datadog,
+    Prometheus/Grafana)
+  - Knowledge of event streaming architectures
+  - Experience with GitHub Actions for CI/CD automation
+  - Basic understanding of ML concepts to better collaborate
+    with ML engineers
+  - Experience with browser extension backends
+
+  Tech Stack & Tools
+
+  Core
+
+  - Python – Primary backend language for agentic services
+  - FastAPI – Our choice for HTTP server
+  - Git/GitHub – Version control and collaboration
+  - GitHub Actions – CI/CD automation and deployment pipelines
+
+  Databases & Caching
+
+  - PostgreSQL – Primary database for user data and relational
+    queries
+  - MongoDB – Document store for flexible memory structures
+  - Redis – Caching layer and session management
+  - Vector database integration – Supporting infrastructure for
+    ML features
+
+  Messaging & Integration
+
+  - RabbitMQ or Kafka – For async processing and event-driven
+    architecture
+  - REST APIs – Primary integration pattern
+
+  Infrastructure & DevOps
+
+  - Docker & Docker Compose – Containerization and local
+    development
+  - Basic cloud deployment – Scripted deployments, not over-
+    engineered
+  - Monitoring basics – Logging, metrics, and alerting (specific
+    tools flexible)
+
+  Security & Integration
+
+  - Authentication – JWT and OAuth 2.0 basics
+  - HTTPS/TLS – Standard encryption in transit
+  - Environment-based secrets management – Not necessarily a
+    complex vault system
+  - Rate limiting – Basic protection against abuse
+
+  How To Apply
+
+  At Memory Bridge, we believe that diverse perspectives and
+  experiences make us better, which is why we have a non-
+  standard application process designed to promote inclusion
+  and equity. We're looking for the best fit for each of our
+  roles, regardless of the type of companies in your
+  background, so we encourage you to apply even if your skills
+  and experiences don't exactly match the job description. All
+  we ask is that you answer a few in-depth questions in our
+  application that would typically be asked at the start of an
+  interview process. This helps speed things up by letting us
+  get to know you and your skillset a bit better right out of
+  the gate. Please be sure to answer each question; the
+  updated resume is essential.
+
+  Education is not a requirement for our roles; however, if
+  you receive an offer, you will need to include your most
+  recent educational experience as part of our background
+  check process.
+
+  Memory Bridge is an equal-opportunity employer and we're
+  excited to work with talented and empathetic people of all
+  identities. Memory Bridge does not discriminate based on
+  someone's identity in any aspect of hiring or employment, as
+  required by law and in line with our commitment to
+  Diversity, Inclusion, Belonging, and Equity. Our code of
+  conduct provides a beacon for the kind of company we strive
+  to be, and we celebrate our differences because those
+  differences are what allow us to make a product that serves
+  a global user base. Memory Bridge will consider all
+  qualified applicants, including those with criminal
+  histories, consistent with applicable laws.
+
+  The anticipated application window is 30 days from the date
+  the job is posted, unless the number of applicants requires
+  it to close sooner or later, or if the position is filled.
+
+  How We Work
+
+  We are a remote-native company, intentionally designed for
+  deep work and focused execution. We hire the best minds,
+  wherever they are, and empower them to solve some of the
+  hardest problems in AI. Our culture thrives on asynchronous
+  communication, radical transparency, and a commitment to
+  sustainable performance—not burnout.
+
+  If you're obsessed with building the infrastructure layer
+  that will power the future of personalized AI and want to
+  solve hard problems at the intersection of performance,
+  privacy, and scale, we want to hear from you.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-10-29
+url: "https://builtin.com/job/sr-backend-engineer/11958147"
+source: Built In

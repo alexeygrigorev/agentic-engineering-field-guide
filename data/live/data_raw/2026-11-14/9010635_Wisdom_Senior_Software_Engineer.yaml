@@ -1,0 +1,121 @@
+job_id: 9010635
+title: Senior Software Engineer
+company: Wisdom
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 43 Employees
+description: |
+  About Wisdom
+
+  Wisdom blends industry expertise with advanced technology to
+  make dental practices work better for everyone involved. We
+  believe dentistry is about people, and we exist to make the
+  future of dentistry stronger and more sustainable for
+  dentists, their teams, and the patients they serve. We match
+  administrative teams with expert billers and custom-built
+  technology to take on the heavy lifting of dental billing
+  while maximizing dentists’ time in-office, and their bottom
+  line.
+
+  Coming from a fresh $21M Series A round of funding we are
+  looking for exceptional candidates to help us build a
+  category-defining company. Wisdom has employees across the
+  US.
+
+  About The Role
+
+  The roadmap isn't handed to you here. You'll help write it.
+
+  As a Senior Software Engineer at Wisdom, you'll own hard
+  problems end-to-end — from schema design to agentic billing
+  pipelines to the React surfaces that billers and practice
+  operators rely on every day. You'll work on a small, high-
+  trust team where your technical decisions have real
+  consequences, the feedback loop with users is short, and
+  your fingerprints are on the product.
+
+  Wisdom's stack is TypeScript, Node.js, React, Postgres, and
+  AWS. The problems we're solving — reliable integrations with
+  inconsistent insurance systems, AI-driven billing decisions
+  that have to be right, HIPAA-compliant infrastructure that
+  can't fail — are legitimately hard. We'd rather have someone
+  energized by that than simply tolerant of it.
+
+  In your first year, you'll have shipped core pieces of our
+  agentic billing infrastructure, established deep ownership
+  over at least one major product surface, and helped raise
+  the bar for how this team builds. This is a fully remote
+  role reporting directly to the Head of Engineering.
+
+  What You'll Own
+
+  - Design and ship production-grade features across the full
+    stack — backend services, cloud infrastructure, and user-
+    facing React interfaces
+  - Build and evolve AI-powered agentic workflows that automate
+    complex, high-stakes billing decisions at scale — not
+    prototypes, production systems
+  - Architect resilient integrations with dental insurance
+    carriers and practice management systems (Dentrix,
+    Eaglesoft) — poorly documented, inconsistent, and
+    absolutely critical to get right
+  - Work directly with dental billers and practice operators to
+    understand problems at ground level, then translate that
+    into software decisions
+  - Hold a high bar for code quality, reliability, and
+    operational health across the codebase — including code
+    review and technical documentation that actually gets used
+  - Take on ambiguous, undefined problems and drive them to
+    resolution without waiting for permission or a perfect
+    brief
+
+  Who You Are
+
+  - 5+ years shipping production software in environments where
+    reliability and quality had real consequences — not just
+    feature velocity
+  - You've built systems under pressure: integrations that had
+    to stay up, services that had to scale, and code that had
+    to be owned and maintained beyond your tenure
+  - Hands-on production experience with at least one major LLM
+    API — OpenAI, Anthropic (Claude), or Google Vertex AI —
+    including tool use, prompt architecture, structured
+    outputs, and handling model behavior in live systems
+  - Strong command of TypeScript/JavaScript; familiarity with
+    Python or C# is a plus
+  - Deep experience with relational databases — schema design,
+    query optimization, and reasoning about data integrity
+    under load
+  - Cloud infrastructure experience in AWS or GCP, including
+    deploying and operating services at production scale
+  - You default to ownership and move toward hard problems
+    rather than away from them
+  - You're direct, intellectually honest, and collaborative —
+    you surface bad news early, change your mind when the
+    evidence warrants it, and make the people around you
+    sharper
+
+  You'll Stand Out If You Have
+
+  - Experience with the Mastra agent framework or comparable
+    orchestration tools (LangChain, LlamaIndex, CrewAI)
+  - Working knowledge of HIPAA compliance and what it means to
+    build software responsibly in a healthcare context
+  - Experience at a Series A or early-stage startup where high
+    autonomy and undefined problems were the norm, not the
+    exception
+
+  Wisdom is an equal opportunity employer. We provide
+  employment opportunities without regard to age, race, color,
+  ancestry, national origin, religion, disability, sex, gender
+  identity or expression, sexual orientation, veteran status,
+  or any other protected status in accordance with applicable
+  law.
+industries:
+  - Healthtech
+  - Insurance
+  - Financial Services
+posted_date: 2026-08-22
+url: "https://builtin.com/job/senior-software-engineer/9010635"
+source: Built In

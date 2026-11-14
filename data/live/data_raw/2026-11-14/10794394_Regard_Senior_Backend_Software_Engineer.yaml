@@ -1,0 +1,180 @@
+job_id: 10794394
+title: Senior Backend Software Engineer
+company: Regard
+location: New York, USA
+locations:
+  - New York, USA
+  - Los Angeles, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 75 Employees
+description: |
+  As a Senior Backend Software Engineer on our Diagnostics
+  team, you'll build the part of Regard that reads a patient's
+  medical chart — labs, medications, vitals, procedures, prior
+  notes, history — and determines which conditions are
+  present, along with the evidence supporting each one. You'll
+  design and develop critical backend services and drive them
+  end-to-end through the full product lifecycle: ideation,
+  planning, design, execution, deployment, and iteration.
+
+  Our senior engineers are true technical leaders by driving
+  architectural decisions, mentoring teammates, and leading
+  major projects that help set the bar for engineering
+  excellence. You'll collaborate closely with product, design,
+  clinicians, and fellow engineers to ship high-quality
+  solutions that empower physicians and improve patient care.
+
+
+
+  About Regard
+
+  Regard's mission is to bring world-class healthcare to
+  everyone. Our technology reasons through a patient's entire
+  medical record to recommend diagnoses that would otherwise
+  be missed, in real time at the point of care, during chart
+  review, and in population-wide screening to identify
+  patients who qualify for lifesaving treatment.
+
+  We work alongside some of the top health systems in the
+  country to lead the change this industry needs. We're
+  excited by challenges, mission-oriented work, and meaningful
+  relationships. We want you to join us.
+
+
+
+  Our Tech Stack:
+
+  - Backend: Python, Go, PostgreSQL, Redis, Celery
+  - Frontend: TypeScript, React
+  - Infrastructure & DevOps: AWS, Docker, Kubernetes, GitLab
+    CI/CD, Datadog
+  - AI: OpenAI, Anthropic
+  - Clinical standards: FHIR, ICD-10, SNOMED, LOINC, RxNorm
+
+
+
+  Responsibilities:
+
+  - Collaborate with product, design, and clinicians to design
+    medium-to-large projects, often starting from an ambiguous
+    problem statement and balancing speed to market, user
+    experience, business goals, and technical architecture
+    quality
+  - Own backend services and drive improvements across system
+    design, observability, testing, performance, and support
+  - Model clinical data and design the schemas and service
+    contracts that new product surfaces are built on
+  - Work directly with clinicians to understand what a diagnosis
+    requires, and turn that intent into logic and tooling they
+    can extend themselves
+  - Mentor and review code from other developers across backend
+    services
+  - Maintain and improve the quality of the codebase and tooling
+    in your area of responsibility through proactive fixes and
+    by proposing projects that improve the overall backend
+    codebase
+  - Participate in operational activities including on-call,
+    monitoring, and production support
+
+
+
+  Minimum Qualifications:
+
+  - BS in Computer Science or equivalent experience
+  - 6+ years of professional experience with software
+    development
+  - Proficient in Python or Go with demonstrated ability to
+    write and maintain production-quality code
+  - Proven experience building data-intensive applications,
+    backed by strong data fluency in designing and evolving
+    schemas consumed across cross-functional teams
+  - Able to participate in on-call operational support for your
+    areas of responsibility
+  - Able to travel up to 4 weeks a year for company co-working
+    and/or retreat weeks
+  - Practical experience leveraging AI coding tools in day-to-
+    day software development (e.g., Cursor, Claude Code,
+    Codex)
+
+
+
+  Preferred Qualifications:
+
+  - Exposure to clinical or healthcare data (e.g., FHIR, EMR
+    integrations, clinical terminologies, or revenue cycle)
+  - Comfortable with systems that produce ranked, scored, or
+    probabilistic output and evaluating that output against
+    imperfect ground truth
+  - Experience in a startup and/or high-growth environments
+  - Experience building tools for non-engineer domain experts
+  - Experience managing cloud infrastructure and LLM
+    integrations
+  - Experience working on a mature enterprise SaaS product
+
+
+
+  Hybrid Work | Location | Work Authorization
+
+  - For this role, Regard is currently only considering
+    candidates who are authorized to work in the US, and are
+    within the New York City metro area, San Francisco Bay
+    Area, or Los Angeles
+  - Our expectation for this role is to be in the office 2 days
+    per week. We also require more frequent in-office work
+    during the onboarding period and team onsite weeks up to
+    once per month.
+  - We will provide relocation assistance to anyone who does not
+    already reside in the NYC metro area
+  - For those who enjoy working from the office on a more
+    regular basis, we offer catered lunches and other fun
+    perks
+  - Additionally, hybrid employees have the flexibility to work
+    from locations outside of their home office from up to 6
+    weeks per year
+
+
+
+  Perks & Benefits
+
+  - 99% employer paid health benefits (Medical, Dental, and
+    Vision) + One Medical subscription
+  - 18 PTO days/yr + 1 week holiday break
+  - Monthly health & wellness budget
+  - Company-sponsored team retreat + social events
+  - A sabbatical program
+
+
+
+  Our goal at Regard is to provide and maintain a work
+  environment that fosters mutual respect, professionalism and
+  cooperation. Regard is proud to be an equal opportunity
+  employer that does not discriminate on the basis of actual
+  or perceived race, creed, color, religion, national origin,
+  ancestry, alienage or citizenship status, age, disability or
+  handicap, sex, gender identity, marital status, familial
+  status, veteran status, sexual orientation or any other
+  characteristic protected by applicable federal, state or
+  local laws. We celebrate diversity and are proud of our
+  supportive, inclusive workplace.
+
+
+
+  All candidates must successfully complete a background check
+  as part of the hiring process.
+
+  Recruitment Fraud Notice Regard only conducts hiring through
+  official @regard.com email addresses. We will never ask
+  candidates to pay fees, purchase equipment, or share
+  sensitive personal information (such as Social Security
+  numbers or bank details) during the interview process. If
+  you receive an email about a job opportunity at Regard from
+  a non-regard.com email address, it is not from us.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Machine Learning
+  - Software
+posted_date: 2026-08-21
+url: "https://builtin.com/job/senior-backend-software-engineer/10794394"
+source: Built In

@@ -1,0 +1,102 @@
+job_id: 10641810
+title: Software Engineer
+company: Outmarket AI
+location: USA
+locations:
+  - USA
+  - IND
+remote: true
+work_type: FULL_TIME
+company_size: 49 Employees
+description: |
+  ABOUT OUTMARKET
+
+  Outmarket is the AI platform for insurance, trusted by more
+  than 250 brokerages to run the work their business depends
+  on. Commercial insurance still runs on dense documents and
+  slow, manual workflows, and that is exactly what we
+  automate: quote comparisons, coverage gap and tower
+  analysis, policy review, and proposal generation, all
+  grounded in our customers’ own data and source-cited so
+  teams can trust the output.
+
+  The impact is concrete. Teams save 12 to 15 hours per person
+  every week, cut errors by roughly 65 percent, and win more
+  business, all on infrastructure that is SOC 2 Type II
+  certified, single-tenant, and never used to train AI models.
+  We are an AI-first company in both what we build and how we
+  work, shipping quickly and in close partnership with the
+  agencies that rely on us.
+
+  WHAT YOU’LL GET
+
+  - A high-impact role with ownership from day one.
+  - Competitive compensation and meaningful equity.
+  - Direct collaboration with founders and real users.
+  - Remote-first flexibility.
+  - The opportunity to help build an AI-native product from the
+    ground up.
+
+  ABOUT THE ROLE We are hiring a Software Engineer to build
+  AI-powered features across our product and technical stack.
+  You will work on real customer workflows, from AI and
+  backend systems to product experiences, with strong support
+  from a senior team.
+
+  WHY THIS ROLE
+
+  - Build features that directly affect real customer workflows
+    and outcomes.
+  - Work across a broad technical stack in an AI-native
+    environment.
+  - Grow quickly with mentorship from founders and experienced
+    engineers.
+
+  WHAT YOU’LL DO
+
+  - Build product features powered by LLMs, including retrieval-
+    augmented generation (RAG), embeddings and semantic
+    search, prompt design, structured output, and tool-using
+    agents.
+  - Work hands-on with the mechanics of AI systems: chunking and
+    embedding documents, vector stores and retrieval, context
+    construction, and evaluating output quality.
+  - Build the backend services, data pipelines, and product UI
+    that turn these AI capabilities into reliable, production-
+    grade features.
+  - Turn messy real-world insurance data into trustworthy,
+    source-cited product capabilities.
+  - Collaborate across product, sales, and customer success to
+    ship high-leverage work.
+
+  WHAT WE’RE LOOKING FOR
+
+  - 1 to 3 years of software engineering experience (or
+    equivalent), with strong fundamentals.
+  - Proficiency in Python and/or TypeScript and comfort with
+    SQL.
+  - A real understanding of how modern AI systems work under the
+    hood: LLMs and prompting, tokens and context windows,
+    embeddings and vector search, RAG, and basic evaluation of
+    model output.
+  - Genuine interest in applied AI and a desire to go deep on
+    the domain.
+  - Strong ownership and comfort in a fast-moving environment.
+
+  BONUS IF YOU HAVE
+
+  - Hands-on experience with LLM orchestration and RAG tooling
+    (for example LangChain, LlamaIndex, or similar) and vector
+    databases (for example pgvector, Pinecone, or Weaviate).
+  - Experience building agents, tool/function calling, or
+    evaluation and prompt-testing pipelines.
+  - Experience with React, Postgres, or cloud platforms, or with
+    document-heavy data.
+industries:
+  - Artificial Intelligence
+  - Insurance
+  - Software
+  - Automation
+posted_date: 2026-08-12
+url: "https://builtin.com/job/software-engineer/10641810"
+source: Built In

@@ -1,0 +1,106 @@
+job_id: 11344175
+title: Software Engineer (Python)
+company: Vola Dynamics
+location: New York, USA
+locations:
+  - New York, USA
+  - Town of Norwalk, USA
+work_type: FULL_TIME
+company_size: 15 Employees
+description: |
+  Vola Dynamics is the world's most sophisticated software and
+  research company for advanced options analytics. Our
+  volatility fitter and ultra-fast option pricers are the
+  market standard, powering decisions at the world’s leading
+  hedge funds, proprietary trading firms, market makers, and
+  global banks.
+
+  We're seeking a data-oriented Software Engineer to play a
+  pivotal role in developing our next-generation streaming
+  data infrastructure from the ground up. This is a rare
+  chance to design and build a modern trading analytics
+  platform from scratch—one that will power cutting-edge
+  applications built on Vola's advanced options analytics
+  library.
+
+  We’re a small, tight-knit, highly technical team that values
+  intellectual rigor, collaboration, and doing good work.
+  You’ll take on broad responsibilities and contribute to work
+  with real-world impact from day one. We help each other
+  build, share ideas openly, and work together to get things
+  done.
+
+  We're a hybrid team, in the office on Tuesdays and
+  Thursdays. What You'll Do
+
+  - Design high-performance APIs: Design and implement robust,
+    scalable, real-time and historical user-facing data APIs
+    in C++, Python, and Rust.
+  - Build powerful internal tools: Build powerful internal tools
+    (GUIs, TUIs, etc.) for real-time command & control and
+    meta-analytics that accelerate research and streamline the
+    path from research to production.
+  - Develop and maintain production data systems: Develop
+    scalable systems to ingest, transform, and analyze real-
+    time and historical options market data and deploy these
+    on our distributed computing infrastructure.
+  - Maintain our data processing library: Architect, build, and
+    maintain the data processing library underpinning our
+    streaming analytics.
+  - Use AI: AI development tools (Claude Code, Codex) are a
+    standard part of how we build software here, and we'll
+    expect you to use them well.
+  - Own our tech stack: Own and evolve a rapidly growing
+    distributed infrastructure spanning bare-metal servers,
+    self-hosted Kubernetes, and cloud services.
+
+  Who You Are
+
+  - You earned a BS or MS degree in Computer Science, Physics,
+    Mathematics, Data Science, Engineering, or another
+    quantitative discipline.
+  - You have between 2 years and 6 years of experience in
+    relevant roles working on production data-oriented systems
+    in Python.
+  - You have experience designing, building, and maintaining
+    scaleable, fault-tolerant user-facing APIs for data-
+    focused services or systems.
+  - You have hands-on experience deploying orchestration
+    frameworks and containerization technologies such as
+    Dagster, Airflow, Prefect, Docker, or Kubernetes.
+  - You are skilled at understanding, transforming, analyzing,
+    visualizing, and debugging large numerical datasets.
+  - You are comfortable with using agent-driven development
+    workflows to generate high-quality code.
+  - You consistently apply software and data engineering best
+    practices, including version control, automated testing,
+    and thorough documentation.
+  - You explain your thinking clearly, in code, review comments,
+    design discussions, and writing.
+  - You work well independently, and just as well as part of a
+    small, hybrid team.
+  - You hold current authorization to work in the US.
+
+
+
+  Our Stack Python, C++, ClickHouse, Kubernetes, Kafka
+  (Redpanda), Dagster, and Rust.
+
+  Nice to Have
+
+  - Active open-source contributor in the Python, C++, or Rust
+    data ecosystems.
+  - Experience working with observability/tracing systems or
+    production DevOps workflows.
+  - Professional experience working in a systems language (C++,
+    Rust, Java, C#, etc.)
+  - Experience working on an options market making or
+    derivatives infrastructure, or another quantitative
+    finance background.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-09-23
+url: "https://builtin.com/job/software-engineer-data/11344175"
+source: Built In

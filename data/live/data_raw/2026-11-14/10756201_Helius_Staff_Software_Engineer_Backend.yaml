@@ -1,0 +1,128 @@
+job_id: 10756201
+title: Staff Software Engineer, Backend
+company: Helius
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 39 Employees
+description: |
+  About Helius
+
+  Helius is building the core infrastructure for Solana -
+  empowering developers to create the next generation of
+  crypto-powered applications. Our mission is to accelerate
+  the development of internet capital markets by making it
+  easier, faster, and more intuitive to build on-chain.
+
+  Thousands of teams - from early-stage startups to industry
+  leaders like Coinbase, Phantom, and Jupiter - rely on Helius
+  APIs, webhooks, and indexing tools to power their products.
+  Backed by Haun Ventures, Founders Fund, and Foundation
+  Capital, we’re a small, senior team obsessed with
+  performance, simplicity, and scalability in decentralized
+  systems.
+
+  Read our Helius Manifesto to see how we work and what we
+  value.
+
+  About the Role
+
+  We're looking for a Staff Backend Engineer to take ownership
+  of one of our core systems - Data Streaming, Historical
+  APIs, or Account Index. These are the foundational layers of
+  Helius's infrastructure, operating at the intersection of
+  extreme performance requirements and real-world scale. Each
+  system sits in the critical path of the Solana ecosystem.
+
+  At this level, you're not just building - you're setting
+  technical direction, making architectural decisions that
+  shape the platform for years, and raising the bar for
+  everyone around you. You'll work directly with founders and
+  engineering leadership to define what we build and how we
+  build it. Small team, enormous scope, and the expectation
+  that you'll own your domain end-to-end.
+
+  What You'll Do
+
+  - Own the technical direction for a core backend system -
+    architecture, reliability, performance, and roadmap
+  - Design and implement solutions to the hardest problems in
+    your domain - distributed systems, storage engines,
+    streaming pipelines, or edge infrastructure
+  - Drive performance engineering across your system -
+    profiling, benchmarking, and pushing latency and
+    throughput to the limit
+  - Set standards for operational excellence - observability,
+    incident response, and making systems simpler and safer to
+    operate
+  - Partner with founders and engineering leadership on long-
+    term technical strategy
+  - Mentor senior and mid-level engineers, drive technical
+    consensus, and influence without authority
+  - Identify and solve complex, ambiguous problems that span
+    multiple systems
+
+  What You'll Bring
+
+  - 8+ years of backend engineering with a strong track record
+    building large-scale, production-grade systems
+  - Deep systems-level expertise - you operate comfortably at
+    the layer where software meets hardware
+  - Proficiency in Rust (strongly preferred) or equivalent
+    systems programming language (C++, Go)
+  - Demonstrated ability to own and evolve complex systems end-
+    to-end, from architecture to production operations
+  - Experience leading ambiguous, cross-team technical
+    initiatives and driving them to completion
+  - Performance engineering instincts - you've profiled hot
+    paths, understood the root cause, and fixed it at the code
+    level
+  - High ownership, high intensity - you thrive in fast-moving
+    environments and hold yourself to an exceptional standard
+  - Prior exposure to engineering cultures that prioritize
+    operational excellence, performance, and customer
+    reliability at scale
+
+  Nice to Have
+
+  - Deep expertise in one or more of: distributed storage,
+    streaming infrastructure, edge networking, or query
+    engines
+  - Experience building or operating systems at petabyte scale
+    or microsecond latency budgets
+  - On-call ownership of mission-critical production services
+  - Interest in Solana, blockchain infrastructure, or real-time
+    financial systems
+  - Open source contributions or technical writing that
+    demonstrates depth
+  - Mix of large and small company experience strongly preferred
+    - you've built the habits and can operate at both speeds
+
+  Why Helius?
+
+  - High-impact work: Your code will power applications used by
+    millions across the Solana ecosystem, including Coinbase,
+    Jupiter, and Phantom.
+  - Serious engineering: Build fast, reliable systems across
+    distributed infra and high-throughput backends.
+  - Ownership & growth: Lead critical initiatives, influence
+    architecture and product direction, and take on more
+    responsibility as the company scales.
+  - Remote-first flexibility: Work where you’re most effective
+    with a flexible, fully distributed team.
+  - Competitive comp & perks: Market-leading salary, meaningful
+    equity, generous vacation, wellness budgets, and support
+    for learning and travel.
+  - Mission-driven team: Join ambitious builders who move fast,
+    take ownership, and are building infrastructure for
+    internet capital markets
+industries:
+  - Blockchain
+  - Software
+  - Cryptocurrency
+posted_date: 2026-08-19
+url: "https://builtin.com/job/staff-software-engineer-backend/10756201"
+source: Built In

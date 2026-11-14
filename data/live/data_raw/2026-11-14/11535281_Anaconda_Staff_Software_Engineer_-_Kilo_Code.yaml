@@ -1,0 +1,254 @@
+job_id: 11535281
+title: Staff Software Engineer - Kilo Code
+company: Anaconda
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 450 Employees
+description: |
+  About AnacondaBe at the center of AI
+
+  Anaconda is built to advance AI with open source at scale,
+  giving builders and organizations the confidence to increase
+  productivity, and save time, spend and risk associated with
+  open source. 95% of the Fortune 500 including Panasonic,
+  AmTrust, Booz Allen Hamilton and over 50 million users rely
+  on the value The Anaconda AI Platform delivers through a
+  centralized approach to sourcing, securing, building, and
+  deploying AI. With 21 billion downloads and growing,
+  Anaconda has established itself as the gold standard for
+  Python, data science, and AI and the enterprise-ready
+  solution of choice for AI innovation. Anaconda is backed by
+  world-class investors including Insight Partners. Learn more
+  at https://www.anaconda.com.
+
+  Summary:
+
+  We're looking for a Staff Software Engineer to lead the
+  evolution of Kilo Code, our flagship VS Code extension with
+  over 5 million downloads processing more than 10 trillion
+  tokens per month. You'll join a 15-person engineering team
+  (average 10+ years of experience) working on one of the
+  most-used AI-assisted coding tools in the world. You'll ship
+  your first PR on day one and have hands-on ownership of
+  high-impact features at the velocity we expect from everyone
+  on this team. You'll set the technical direction that lets
+  the team move faster on everything after, including
+  performance optimization at scale, defining architectural
+  patterns for advanced AI-assisted workflows, and elevating
+  the team's engineering practices while maintaining the
+  velocity and quality our users expect. What You'll Do:
+
+  - Set technical direction for performance optimization
+    initiatives across startup time, memory footprint, and CLI
+    communication, establishing patterns and instrumentation
+    that the team can leverage
+  - Design, build, and ship advanced features including granular
+    auto-approval rules, context optimization, and Smart Apply
+    workflows, then extract the patterns so the team can reuse
+    them
+  - Drive cross-team initiatives that span the extension,
+    backend services, and AI infrastructure, translating
+    business priorities into technical roadmaps and breaking
+    down complex problems into shippable increments
+  - Mentor engineers on the team through code review,
+    architectural discussions, and pairing sessions, raising
+    the bar for code quality, testing practices, and
+    performance rigor
+  - Own end-to-end delivery of high-impact features from
+    technical design through production deployment, including
+    rollout strategy, telemetry design, and post-launch
+    iteration based on user feedback
+  - Establish engineering standards for AI coding workflows
+    including context window optimization, token compression
+    strategies, and chat interface patterns that serve 6T+
+    tokens per month
+  - Identify and prioritize technical debt and performance
+    bottlenecks proactively, balancing feature velocity with
+    long-term system health on a mature codebase serving
+    millions
+  - Partner with Product and Design to shape roadmap priorities,
+    advocating for technical feasibility and incremental
+    delivery while representing engineering constraints and
+    opportunities
+
+  Your Impact Will Be Measured Through:
+
+  - Feature impact: user engagement and performance metrics for
+    high-complexity features you own, including adoption
+    rates, performance benchmarks, and production stability
+  - Delivery cadence: your first PR on day one, then a sustained
+    pace of high-complexity features shipped to production,
+    setting the tempo for the team
+  - Technical leverage: measurable improvements in team
+    velocity, code quality, or system performance that
+    compound over time through patterns, tooling, or
+    mentorship you introduce
+  - Architectural decisions: adoption and success of technical
+    approaches you champion, measured through feature
+    reliability, performance gains, and team consensus
+  - Cross-functional influence: successful delivery of
+    initiatives requiring coordination across Product, AI
+    Services, and other engineering teams with clear outcomes
+    and minimal friction
+
+  What You Need:
+
+  - 10+ years of professional software development experience
+    with demonstrated technical leadership on production
+    systems serving large user bases
+  - Proven track record of setting technical direction for
+    complex projects, making architectural decisions under
+    uncertainty, and delivering results through both hands-on
+    contribution and technical leadership
+  - Deep experience building developer tools, IDE extensions, or
+    similar productivity software with 100K+ users, including
+    performance optimization and scale considerations
+  - Expertise in TypeScript and modern JavaScript including
+    asynchronous patterns, event-driven architectures, and
+    Node.js runtime optimization
+  - Track record of performance optimization work at scale
+    including profiling, instrumentation, and measurable
+    improvements in startup time, memory usage, or throughput
+  - Experience working with AI-assisted coding tools, chat
+    interfaces, or agent-based development workflows,
+    including context window management and LLM integration
+    patterns
+  - Demonstrated ability to influence technical decisions across
+    teams, mentor other engineers, and elevate engineering
+    practices through code review, documentation, or tooling
+  - Strong product sense and ability to partner with non-
+    engineering stakeholders to translate business needs into
+    technical solutions and tradeoffs
+
+  What Will Make You Stand Out:
+
+  - You've set technical direction for developer tools at
+    companies building IDE extensions, AI coding assistants,
+    or productivity platforms, with measurable impact on
+    product quality or team velocity
+  - You have deep expertise in performance optimization for
+    high-scale systems, with specific experience profiling and
+    optimizing VS Code extensions, Electron apps, or similar
+    runtime environments
+  - You've led cross-functional initiatives in fast-paced
+    startup environments where you balanced technical
+    leadership with hands-on contribution and shipped with
+    minimal process overhead
+  - You've mentored engineers through architectural decisions,
+    code review, or technical design, with clear examples of
+    engineers leveling up through your guidance
+  - You've contributed to open-source projects as a core
+    maintainer or technical lead, navigating community
+    dynamics while maintaining code quality and project
+    direction
+  - You have experience working at AI or data science-focused
+    companies building tools for technical audiences, with
+    deep understanding of developer workflows and pain points
+  - You embody our values: 'Curious by Default', 'Build
+    Together', 'Own It', and 'Lead with Guts and Heart', and
+    our behaviors: Clarity, Care and Candor
+  - You care deeply about fostering an environment where people
+    of all backgrounds and experiences can flourish
+
+  Why You'll Like Working Here:
+
+  - You'll thrive in a high-performance environment where
+    results are recognized and rewarded
+  - Your work directly contributes to shaping the future of data
+    science, machine learning, and AI in the enterprise.
+  - You'll work alongside a collaborative team that values
+    diverse, thoughtful discussion, clarity and candor.
+  - You'll be supported by a culture that puts employees first -
+    with flexible hours, a fully remote setup, and a genuine
+    commitment to your wellbeing and growth.
+
+  The application deadline for this role is 11/2/2026;
+  applicants will be reviewed on an ongoing basis until the
+  role is filled.
+
+  About our Interview Process:
+
+  Our hiring process is fast because the job is. We run four
+  steps, not eight, and we won't leave you waiting a week
+  between them or send a form rejection six weeks later.
+  Here's what you should expect:
+
+  - A conversation with our Co-founder & VP Engineering to see
+    if there's a fit worth pursuing.
+  - A 25-minute technical with an engineer who does the work
+    you'll do. You'll work on a real problem we solve
+    together, live, not a puzzle designed to trip you up.
+    Contrary to expectations - AI use is not allowed here. We
+    want to see how you problem solve and think, not prompt
+    and orchestrate.
+  - A values interview with your potential manager.
+  - A final meeting with our Co-founder to make sure both sides
+    feel good about moving forward.
+  - A paid trial, 3-5 days of real work for real pay, with a
+    defined deliverable. You get to see how we actually
+    operate before you commit; we get to see the same. It's
+    the most honest signal available, and it goes both ways.
+
+  At the end of this process if all goes well, you'll receive
+  a formal offer to join Anaconda & the Kilo team and would
+  start on our next available in-person onboarding in Austin,
+  TX.
+
+  Compensation & Benefits:
+
+  The base salary range for this role is $200,000 - $260,000
+  for candidates in New York City and San Francisco, and
+  $150,000 - $220,000 for other US-based team members, along
+  with annual bonus potential, equity participation, and
+  benefits.
+
+  Our salary ranges are determined by role, level, and
+  location. Within the range, individual compensation is
+  determined by various factors, including work location, job-
+  related skills, experience, and relevant education or
+  training. Your recruiter will provide more specific details
+  on the salary range for your preferred location during the
+  hiring process.
+
+  In addition to base salary, we offer a comprehensive
+  benefits package that includes:
+
+  - Flexible Vacation Policy
+  - Medical, Dental, and Vision Insurance
+  - Short Term and Long Term Disability
+  - Paid Parental Leave
+  - Monthly Wellness Stipend
+  - Employee Assistance Program and Mental Health Resources
+
+  An Equal Opportunity Employer. All qualified applicants will
+  receive consideration for employment without regard to race,
+  color, religion, sex, sexual orientation, gender identity,
+  national origin, or protected veteran status and will not be
+  discriminated against on the basis of disability.
+
+  Anaconda, Inc. (“We”, “Us”) are committed to protecting and
+  respecting your privacy. This Privacy Notice sets out the
+  basis on which the personal data collected from you, or that
+  you provide to Us, will be processed by Us in connection
+  with Our recruitment processes.
+
+  By clicking “Submit Application”, you acknowledge you have
+  read our Privacy Policy and that Anaconda can retain your
+  application data for up to 1-year, unless otherwise stated.
+  For the purpose of the General Data Protection Regulation
+  (“GDPR”) ”) and the version of the GDPR retained in UK law
+  (the “UK GDPR”) the Data Controller is Vanessa Macilwaine.
+
+  Anaconda is an EEO/AA employer M/F/V/D.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Machine Learning
+  - Security
+  - Software
+  - Cybersecurity
+  - Big Data Analytics
+posted_date: 2026-11-10
+url: "https://builtin.com/job/staff-software-engineer-kilo-code/11535281"
+source: Built In

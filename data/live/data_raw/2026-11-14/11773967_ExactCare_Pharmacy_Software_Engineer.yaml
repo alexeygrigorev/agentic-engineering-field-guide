@@ -1,0 +1,161 @@
+job_id: 11773967
+title: Software Engineer
+company: ExactCare Pharmacy
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 320 Employees
+description: |
+  AnewHealth is one of the nation’s leading pharmacy care
+  management companies that specializes in caring for people
+  with the most complex, chronic needs—wherever they call
+  home. We enable better outcomes for patients and the
+  healthcare organizations who support them. Established in
+  2023 through the combination of ExactCare and Tabula Rasa
+  HealthCare, we provide a suite of solutions that includes
+  comprehensive pharmacy services; full-service pharmacy
+  benefit management; and specialized support services for
+  Program of All-Inclusive Care for the Elderly. With over
+  1,400 team members, we care for more than 100,000 people
+  across all 50 states.
+
+  Job Details
+
+  AnewHealth is seeking a mid-level Software Engineer to
+  develop and maintain software on our existing Electronic
+  Health Record (EHR) platform using Ruby. This role will make
+  changes to the platform across both front-end and back-end
+  layers, balancing defect resolution with new feature
+  development in an agile environment. The ideal candidate has
+  strong SQL skills, is comfortable working within a mature,
+  mission-critical codebase, and brings prior exposure to
+  development in a healthcare setting.
+
+  Responsibilities
+
+  - Platform Development — Design, develop, and maintain
+    features on the existing EHR platform using Ruby (Ruby on
+    Rails), working across both front-end and back-end layers
+    of the application.
+  - Build and modify user-facing views and interactions on the
+    front end, and implement business logic, services, and
+    data access on the back end.
+
+  - Defect Resolution — Triage, debug, and resolve defects in
+    the production EHR application, performing root-cause
+    analysis and delivering durable fixes.
+
+  - New Feature Development — Design and build new features and
+    enhancements within the existing platform architecture,
+    from requirements through implementation and testing.
+
+  - Data & SQL — Write, optimize, and troubleshoot complex SQL
+    queries against the platform's relational database(s),
+    including work involving clinical and patient-related data
+    structures.
+
+  - Agile Delivery — Participate in sprint planning, daily
+    standups, backlog refinement, sprint reviews, and
+    retrospectives.
+
+  - Commit to and deliver against sprint timelines,
+    collaborating closely with product owners, QA, and other
+    engineers on the team.
+
+  - Quality & Compliance — Write and maintain automated tests,
+    participate in code reviews, and follow secure coding
+    practices appropriate for a system handling protected
+    health information (PHI).
+
+  - AI-Enabled Development — Use AI tools to accelerate
+    technical documentation, generate and refactor code, build
+    supporting resources (test data, scripts, diagrams), and
+    assist with code execution and validation, while ensuring
+    appropriate review of AI-assisted output.
+
+  Skills & Abilities
+
+  - Bachelor's degree in Computer Science, Information Systems,
+    Engineering, or a related field, or equivalent practical
+    experience.
+
+  - 3+ years of professional software development experience
+    using Ruby, preferably Ruby on Rails.
+
+  - Demonstrated full-stack experience, including front-end
+    development (HTML, CSS, JavaScript, and Rails view/UI
+    technologies) and back-end development (Rails,
+    ActiveRecord, service/business logic layers).
+
+  - Strong SQL skills, including writing complex queries, query
+    optimization, and working with relational database schemas
+    (e.g., PostgreSQL or MySQL).
+
+  - Experience resolving defects in a live, production
+    application and performing root-cause analysis.
+
+  - Experience developing new features within an existing,
+    mature codebase.
+
+  - Exposure to software development in a healthcare
+    environment, ideally involving an EHR or other clinical
+    system.
+
+  - Working experience in an agile/scrum environment, including
+    familiarity with tools such as Jira or Azure DevOps.
+
+  - Experience with automated testing frameworks (e.g., RSpec,
+    Capybara) and Git-based version control.
+
+  - Practical experience using AI-assisted development tools
+    (e.g., GitHub Copilot, Claude, or similar) for
+    documentation acceleration, resource development, and code
+    execution.
+
+  - Strong written and verbal communication skills, with the
+    ability to work effectively across a cross-functional
+    team.
+
+  Requirements
+
+  - Direct experience working on or supporting an EHR platform
+    (proprietary or commercial, e.g., Epic, Cerner,
+    athenahealth, or similar).
+
+  - Familiarity with healthcare interoperability standards such
+    as HL7 or FHIR.
+
+  - Familiarity with HIPAA and PHI handling requirements.
+
+  - Exposure to pharmacy or other clinical workflows.
+
+  - Experience with CI/CD pipelines and modern front-end
+    frameworks or Rails tooling (e.g., Turbo, Stimulus,
+    React).
+
+  This is a remote position.
+
+  AnewHealth offers a comprehensive benefit package for full-
+  time employees that includes medical/dental/vision, flexible
+  spending, company-paid life insurance and short-term
+  disability as well as voluntary benefits, 401(k), Paid Time
+  Off and paid holidays. Medical, dental and vision coverage
+  are effective 1st of the month following date of hire.
+
+  AnewHealth provides equal employment opportunity to all
+  qualified applicants regardless of race, color, religion,
+  national origin, sex, sexual orientation, gender identity,
+  age, disability, genetic information, or veteran status, or
+  other legally protected classification in the state in which
+  a person is seeking employment. Applicants are encouraged to
+  confidentially self-identify when applying. Local applicants
+  are encouraged to apply. We maintain a drug-free work
+  environment. Applicants must be eligible to work in this
+  country.
+industries:
+  - Healthtech
+  - Biotech
+  - Pharmaceutical
+posted_date: 2026-10-20
+url: "https://builtin.com/job/software-engineer/11773967"
+source: Built In

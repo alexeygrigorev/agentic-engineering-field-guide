@@ -1,0 +1,185 @@
+job_id: 11185328
+title: Platform Software Engineer
+company: Harris healthcare
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 185 Employees
+description: |
+  i2 Group, a Harris Computer company, is seeking a Platform
+  Software Engineer on a full-time, permanent, remote basis
+  with a monthly requirement of attending the i2 Group offices
+  in Cambridge.
+
+  The Role The Platform team solves one of the harder problems
+  in software delivery: getting the same product to work
+  correctly on a developer's laptop, a cloud cluster, a multi-
+  node on-premise deployment, and a fully air-gapped system.
+  None of those environments are ones we control once
+  deployed, and loose intent produces different results on
+  each of them. The job is deciding precisely what has to be
+  true everywhere, and then building it. Alongside customer-
+  facing delivery, the team builds the internal platform
+  capabilities that let our R&D teams self-serve
+  infrastructure and software. It is our second priority and
+  the area where our AI-first workflows have moved fastest. We
+  are a small team, working closely with Architects, UX
+  Designers, and Product Managers. We are looking for
+  engineers who can define, design, and build platform
+  capabilities, rather than simply maintain them.
+
+  How We Work
+
+  We are AI-first. The bottleneck has shifted from writing to
+  thinking, the AI writes the code, you own the decisions that
+  shape it. If you have worked this way before, you'll
+  recognise the workflow immediately. If you haven't, it's a
+  shift in how you think about your time. Your focus is on the
+  decisions, not the code that expresses them.Deep expertise
+  in a specific tool stack matters less than it once did. What
+  counts is knowing what good looks like — enough domain
+  awareness to write a meaningful spec, ask the right
+  questions, and develop an instinct for where AI helps, where
+  it misleads, and when not to trust it.
+
+  Whether you come from an AI-first background or a platform
+  engineering background, you are welcome here. The AI-first
+  developer brings rigour and reasoning; the platform engineer
+  brings domain knowledge and an instinct for what good looks
+  like. Either way, we'll help you get there.
+
+  What You'll Be Doing
+
+  The precision described above is not a separate activity
+  from delivery — it is how we deliver. In practice the role
+  covers:
+
+  - Designing, building, and maintaining the software and
+    tooling used to deploy, configure, and operate i2's
+    products across desktop, single-box, on-premise, and cloud
+    targets
+  - Building production-grade container images and the
+    interfaces they expose to hosting platforms
+  - Owning the deployment and upgrade story for stateful
+    distributed components, including recovery paths from
+    shapes already shipped to customers
+  - Delivering releases to customers across diverse and often
+    restricted environments, and supporting the upgrade paths
+    from what is already in the field
+  - Developing internal platform capabilities that let R&D teams
+    self-serve infrastructure and software
+  - Maintaining and improving CI/CD pipelines and internal
+    developer tooling
+  - Instrumenting deployments and the delivery pipeline so that
+    decisions are made on data
+  - Contributing to architectural decisions, validating that
+    what gets built matches what was specified, and owning the
+    quality of AI-generated output
+  - Owning the testing strategy for deployments
+
+  What We're Looking For
+
+  The things we care most about are the ones that are hardest
+  to teach: a spec-first way of working, design thinking, and
+  the judgement to know when something that looks right is
+  not.
+
+  Specifically:
+
+  - You can take a vague requirement, interrogate it, record the
+    decision and its trade-offs, and define the test that
+    would prove it wrong
+  - You can decompose a system into components with clear
+    responsibilities, decide where a boundary belongs, and be
+    concrete about what crosses it and how it is authenticated
+  - You are AI-first or ready to commit to it — not just willing
+    to try it alongside your existing workflow
+  - Cloud deployment and Infrastructure-as-Code — you have built
+    deployments on a major cloud and understand the tooling
+  - You have the judgement to recognise when AI output is wrong
+    — a plausible implementation that quietly violates a
+    security invariant, or a port that looks correct and is
+    not
+  - You are comfortable working in technologies and deployment
+    topologies you have not encountered before, and you learn
+    them quickly
+
+  The technical depth we look for sits alongside those traits,
+  not above them. We want experience in platform or software
+  engineering in a commercial environment — enough exposure to
+  deployment and operational concerns to write meaningful
+  specs and validate AI output against them:
+
+  - Experience shipping software to structurally different
+    deployment targets; you understand why they differ, not
+    just that they do
+  - Container technology: you have built and shipped production-
+    grade images, not just run them locally
+  - Cloud deployment and Infrastructure-as-Code: you have worked
+    with AWS and understand the tooling
+  - Application security: you understand trust boundaries,
+    identity models, and secrets handling
+  - CI/CD pipelines: you have built and maintained them, not
+    just consumed them
+  - You can work effectively with engineers, architects, and
+    non-technical stakeholders
+  - The role may require UK national Security Check (SC)
+    vetting;candidates must be eligible for and willing to
+    undergo this if needed.
+  - Bachelor's degree in software engineering or a related
+    discipline, or equivalent experience
+
+  What You'll Work With
+
+  These are the technologies you will be working with day to
+  day:
+
+  - AI coding tools (e.g. GitHub Copilot, Claude Code, Cursor)
+    as the primary development workflow
+  - AWS today, with Azure and Google Cloud planned
+  - Infrastructure as code: AWS CDK and CloudFormation
+  - CI/CD with CircleCI and internal developer tooling
+  - Docker and production image pipelines
+  - Deployment tooling for Windows and Linux, including desktop
+    installer and packaging
+  - Apache Solr, ZooKeeper, DB2, SQL Server, Postgres
+  - Ansible for configuration management
+  - Python
+
+  Helpful, But Not Required
+
+  - Kubernetes
+  - AWS or Azure certification in one or more disciplines
+  - FastAPI, React, or TypeScript, for internal developer
+    tooling and portals
+
+  About i2 Group
+
+  i2 Group is the global leader in advanced visual analysis
+  solutions. We empower analysts and investigators to
+  discover, create, and disseminate actionable intelligence to
+  combat threats including crime, terrorism, war, and fraud.
+  Our software helps analysts transform data in real time,
+  enabling customers to detect, disrupt, and defeat
+  sophisticated threats across law enforcement, fraud and
+  financial crime, military defence, and national security.
+
+  Benefits
+
+  - Salary: £45,0000 - £65,000
+  - 25 days holiday + 5 Personal Days leave + bank holidays
+  - Private health and dentalcare
+  - Employee share options
+  - Annual Lifestyle Reward amounting £325 per annum/pro rata.
+
+  Supporting Your Application
+
+  Our recruitment process comprises interviews and, at times,
+  a written exercise, an assessment day, and/or a
+  presentation. As an equal opportunities employer, we want to
+  do all we can to make this a positive experience for you. If
+  your application progresses, please make us aware of any
+  adjustments or additional support we can provide.
+posted_date: 2026-11-10
+url: "https://builtin.com/job/platform-software-engineer/11185328"
+source: Built In

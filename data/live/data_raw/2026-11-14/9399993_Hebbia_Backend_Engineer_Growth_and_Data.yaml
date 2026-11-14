@@ -1,0 +1,160 @@
+job_id: 9399993
+title: Backend Engineer, Growth and Data
+company: Hebbia
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 120 Employees
+description: |
+  About Hebbia
+
+  The AI platform for investors and bankers that generates
+  alpha and drives upside.
+
+  Founded in 2020 by George Sivulka and backed by Peter Thiel
+  and Andreessen Horowitz, Hebbia powers investment decisions
+  for 40% of the world’s largest asset managers. Our flagship
+  product, Matrix, delivers industry-leading accuracy, speed,
+  and transparency in AI-driven analysis. It is trusted to
+  help manage over $30 trillion in assets globally.
+
+
+
+  We deliver the intelligence that gives finance professionals
+  a definitive edge. Our AI uncovers signals no human could
+  see, surfaces hidden opportunities, and accelerates
+  decisions with unmatched speed and conviction. We do not
+  just streamline workflows. We transform how capital is
+  deployed, how risk is managed, and how value is created
+  across markets.
+
+  Hebbia is not a tool. Hebbia is the competitive advantage
+  that drives performance, alpha, and market leadership.
+
+  The Team
+
+  The Growth and Data team at Hebbia is the engine that fuels
+  the entire AI platform with the data it needs to reason and
+  retrieve. We’re responsible for sourcing, indexing, and
+  enriching content from every corner of the knowledge
+  universe — spanning private enterprise data, public data,
+  and third-party platforms — and delivering it seamlessly to
+  power user workflows and agentic research.
+
+  We build robust integrations with platforms like Snowflake,
+  S3, SharePoint, Dropbox, and beyond, enabling organizations
+  to securely unify their data ecosystems. From discovery and
+  search to retrieval-augmented deep research within chat
+  matrix frameworks, the data we deliver quite literally
+  powers every part of the AI platform.
+
+  The Role
+
+  As a Backend Software Engineer on Hebbia’s Growth and Data
+  team, you will build and maintain the powerful backend
+  systems that drive user engagement and fuel Hebbia's
+  continued expansion. Your role involves architecting and
+  implementing robust APIs, services, and infrastructure that
+  empower customers with tailored, high-value experiences—such
+  as personalized data views, streamlined management tools,
+  and powerful integrations that uniquely amplify the value of
+  Hebbia. Collaborating closely with product teams, designers,
+  and frontend engineers, you'll take ownership of core
+  backend features from initial design through deployment,
+  ensuring scalability, reliability, and performance. Your
+  technical expertise, strategic thinking, and proactive
+  problem-solving will directly impact customer success,
+  unlocking innovative solutions that accelerate adoption and
+  growth of Hebbia’s platform.
+
+  Responsibilities
+
+  - Own critical system components: Take complex requirements
+    and turn them into robust, scaled solutions that solve
+    real customer needs.
+  - Unlock O(1) universal indexing: Build and iterate on our
+    high-scale document build system that enables constant
+    time latency for indexing any content in the world,
+    regardless of data volume.
+  - Drive performance optimization: Architect and implement
+    performance-tuning solutions to ensure our systems operate
+    efficiently at scale, minimizing latency and maximizing
+    throughput across millions of documents.
+  - Mentor and guide: Provide technical leadership, mentorship,
+    and guidance to junior engineers, fostering a culture of
+    learning and growth.
+
+  Who You Are
+
+  - Bachelor's or Master's degree in Computer Science, Data
+    Science, Statistics, or a related field. A strong academic
+    background with coursework in data structures, algorithms,
+    and software development is preferred.
+  - 5+ years software development experience at a venture-backed
+    startup or top technology firm, with a focus on backend
+    software engineering.
+  - Proficiency in building backend and API systems using
+    technologies such as Python, Java, or Go.
+  - Extensive experience with cloud platforms (e.g., AWS)
+  - Working experience with one or more of the following: Kafka,
+    ElasticSearch, PostgreSQL, and/or Redis
+  - Ability to analyze complex problems, propose innovative
+    solutions, and effectively communicate technical concepts
+    to both technical and non-technical stakeholders.
+  - Proven experience in leading software development projects
+    and collaborating with cross-functional teams. Strong
+    interpersonal and communication skills to foster a
+    collaborative and inclusive work environment.
+  - Enthusiasm for continuous learning and professional growth.
+    A passion for exploring new technologies, frameworks, and
+    software development methodologies.
+  - Embraces rapid prototyping with an emphasis on user feedback
+  - Autonomous and excited about taking ownership over major
+    initiatives
+  - Bonuses:
+    - Experience building agentic systems or LLM enabled products.
+    - Frequent user of AI products, especially during the
+      development lifecycle (i.e. Cursor, Claude Code, etc).
+
+  Compensation
+
+  The salary range for this role is $160,000 to $350,000. This
+  range may be inclusive of several career levels at Hebbia
+  and will be narrowed during the interview process based on
+  the candidate’s experience and qualifications. Adjustments
+  outside of this range may be considered for candidates whose
+  qualifications significantly differ from those outlined in
+  the job description.
+
+  Life @ Hebbia
+
+  PTO: Unlimited
+
+  Insurance: Medical + Dental + Vision + 401K
+
+  Eats: Catered lunch daily + doordash dinner credit if you
+  ever need to stay late
+
+  Parental leave policy: 3 months non-birthing parent, 4
+  months for birthing parent
+
+  Fertility benefits: $15k lifetime benefit
+
+  New hire equity grant: competitive equity package with
+  unmatched upside potential
+
+
+
+  #LI-Onsite
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Natural Language Processing
+  - Software
+  - Financial Services
+  - Generative AI
+posted_date: 2026-08-02
+url: "https://builtin.com/job/backend-engineer-growth-and-data/9399993"
+source: Built In

@@ -1,0 +1,93 @@
+job_id: 11475382
+title: Software Engineer, Infrastructure
+company: Thinking Machines Lab
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 91 Employees
+description: |
+  About Thinking Machines
+
+  The mission of Thinking Machines is to build AI that extends
+  human will and judgment. We are training frontier models
+  with Inkling, developing Tinker to let people make models
+  their own, and crafting interfaces that broaden human-AI
+  communication. We believe the future worth building is
+  human, and we're hiring people who want to build it.
+
+  About the Role
+
+  We're hiring a Software Engineer, Infrastructure to design
+  and build the distributed systems that power our model
+  training and serving platforms. You'll work on the systems
+  underlying everything we do — from the clusters that train
+  our frontier models with Inkling, to the multi-tenant
+  serving infrastructure behind Tinker.
+
+  This is a foundational infrastructure role at a fast-moving
+  startup. You'll have real ownership over systems that run at
+  large scale, and your work will directly determine how
+  quickly our research and product teams can iterate.
+
+  What You'll Do
+
+  - Design, build, and operate distributed systems that support
+    large-scale model training and inference across thousands
+    of accelerators
+  - Build and maintain core infrastructure, including
+    orchestration, scheduling, storage, and resource
+    management systems
+  - Improve the reliability, performance, and observability of
+    infrastructure used across research and product teams
+  - Partner with researchers and platform engineers to
+    understand infrastructure needs and turn them into robust,
+    well-abstracted systems
+  - Debug and resolve complex distributed failures across the
+    stack, from networking and storage to compute and
+    scheduling
+  - Write and maintain internal libraries and APIs, primarily in
+    Python and Go, that other engineers build on
+
+  Skills & QualificationsMinimum Qualifications
+
+  - Demonstrated expertise designing and developing large-scale
+    distributed systems
+  - Strong proficiency in Python and Go
+  - Experience building, deploying, and operating production
+    infrastructure at scale
+  - Solid grounding in distributed systems fundamentals, such as
+    consensus, consistency, fault tolerance, and networking
+
+  Preferred Qualifications
+
+  - Experience with ML infrastructure, such as training
+    orchestration, job schedulers, or distributed storage and
+    data systems
+  - Experience operating large-scale GPU or TPU clusters
+  - Experience with container orchestration (e.g. Kubernetes)
+    and infrastructure-as-code
+  - Contributions to open-source infrastructure projects
+  - Comfortable working with high autonomy in a fast-changing,
+    early-stage environment
+
+  Logistics
+
+  - Location: This role is based in San Francisco, CA.
+  - Compensation: Depending on background, skills and
+    experience, the expected annual salary range for this
+    position is $300,000 - $400,000 USD.
+  - Visa sponsorship: We sponsor visas. While we can't guarantee
+    success for every candidate or role, if you're the right
+    fit, we're committed to working through the visa process
+    together.
+  - Benefits: Thinking Machines offers generous health, dental,
+    and vision benefits, unlimited PTO, paid parental leave,
+    and relocation support as needed.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-10-02
+url: "https://builtin.com/job/software-engineer-infrastructure/11475382"
+source: Built In

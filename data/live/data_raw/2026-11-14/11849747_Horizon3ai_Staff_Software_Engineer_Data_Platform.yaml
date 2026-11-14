@@ -1,0 +1,265 @@
+job_id: 11849747
+title: Staff Software Engineer, Data Platform
+company: Horizon3.ai
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 107 Employees
+description: |
+  Get to Know Us
+
+  Horizon3 is a fast-growing, remote cybersecurity company
+  dedicated to the mission of enabling organizations to
+  proactively find, fix and verify exploitable attack vectors
+  before criminals exploit them. Our flagship product, the
+  NodeZero™ platform, delivers production-safe autonomous
+  pentests and other key assessment operations that scale
+  across the largest internal, external, cloud, and hybrid
+  cloud environments. NodeZero has been adopted by
+  organizations of all sizes, from small educational
+  institutions to government agencies and Global 100
+  enterprises. It is used by IT Ops/SecOps teams, consulting
+  pentesters, and MSSPs and MSPs.
+
+  We are a fusion of former U.S. Special Operations cyber
+  operators, startup engineers & operators, and formerly
+  frustrated cybersecurity practitioners. We're committed to
+  helping solve our common security problems: ineffective
+  security tools and false positives, resulting in alert
+  fatigue, blind spots, "checkbox" security culture,
+  cybersecurity skills shortage, and the long lead time and
+  expense of hiring outside consultants. Collectively, we are
+  a team of learn-it-alls, committed to a culture of respect,
+  collaboration, ownership, and results.
+
+  As a remote first company, we require minimum 25Mbps
+  consumer grade broadband connection.
+
+
+
+
+
+  What You'll Do
+
+  The Staff Engineer on the Data Platform team is the
+  technical anchor for database architecture and reliability
+  across Horizon3. NodeZero runs thousands of pentests
+  generating enormous volumes of structured data —
+  vulnerability findings, asset graphs, scan histories, time-
+  series telemetry, and customer configurations. Every team at
+  Horizon3 depends on the data stores this team builds and
+  operates. You will set the technical direction for how
+  Horizon3 designs, provisions, scales, and operates its
+  database systems — from PostgreSQL and graph databases to
+  time-series stores.
+
+  This is a hands-on staff-level role. You will write
+  production code, produce architecture designs, drive
+  critical performance and reliability decisions, and mentor
+  engineers through the craft of database engineering. The
+  team is building from a small but strong foundation — your
+  job is to raise the technical bar dramatically as the data
+  volumes and query complexity grow. This role reports to the
+  Data Platform Engineering Manager.
+
+  Responsibilities
+
+  - Database Architecture: Set the technical direction for
+    Horizon3's database systems — schema design philosophy,
+    data modeling standards, indexing strategies, and query
+    contract design across teams
+  - Performance Engineering: Own query performance across the
+    platform — identify slow queries, produce execution plan
+    analyses, implement fixes, and design the observability
+    systems that catch regressions early
+  - Reliability & Operations: Own the reliability engineering
+    for all data stores — replication, failover, backup
+    validation, capacity planning, and database incident
+    response
+  - Migration Engineering: Design and own the migration
+    framework that makes schema evolution safe in production —
+    zero-downtime migrations, reversible changes, and
+    migration testing standards
+  - Cross-team Enablement: Serve as the database expert for
+    application engineering teams — review their schemas,
+    query patterns, and ORM usage; set the access patterns
+    that prevent problems from reaching production
+  - Mentorship: Mentor P4 engineers through design review, code
+    review, and deep technical pairing; be the person the team
+    turns to when they hit a hard database problem
+
+
+
+
+
+  What You'll Bring
+
+  Database Engineering
+
+  - 8+ years of professional software engineering experience
+    with deep specialization in database systems and data
+    infrastructure
+  - Expert-level PostgreSQL proficiency — you have tuned complex
+    production query plans, managed replication topology, and
+    debugged the hardest vacuum and locking issues
+  - Deep understanding of database architecture trade-offs:
+    normalization vs. denormalization, indexing strategies
+    (partial, composite, covering), partitioning, and
+    connection pooling at scale
+  - Experience designing zero-downtime migration workflows in
+    high-volume production environments
+
+  Systems & Architecture
+
+  - Experience with graph databases (Neo4j or equivalent) —
+    NodeZero's asset model is fundamentally graph-structured
+    and you need to be comfortable in that paradigm
+  - Proficiency with time-series or columnar stores (ClickHouse,
+    TimescaleDB, or equivalent) for high-throughput analytics
+    workloads
+  - Track record running database systems in Kubernetes or
+    cloud-managed environments (RDS, Cloud SQL, or equivalent)
+    at production scale
+  - Proficiency in Go or Python for building tooling, access
+    layers, and migration infrastructure
+
+  Technical Leadership
+
+  - Track record of setting engineering standards that other
+    engineers adopt — database design guidelines, query review
+    checklists, schema governance patterns
+  - Ability to produce clear architecture documents and drive
+    database design decisions across team boundaries
+  - Experience mentoring mid-level engineers through database
+    design review and code review
+
+
+
+
+
+  Nice to Haves
+
+  - Experience building multi-tenant database architectures
+    where customer data isolation is a hard requirement
+  - Background in cybersecurity or experience storing and
+    querying vulnerability, asset, or network topology data at
+    scale
+  - Familiarity with eBPF-based database observability tools or
+    advanced profiling approaches
+  - Experience with vector databases or embedding stores for ML-
+    adjacent infrastructure
+
+
+
+
+
+  Travel Required
+
+  We are a fully remote company, and this job may require up
+  to 5% of travel to be successful.
+
+
+
+
+
+  Compensation and Values
+
+  At Horizon3, we believe that our people are our greatest
+  asset, and our compensation philosophy reflects this core
+  value. We are committed to fostering an environment where
+  all employees feel valued, respected, and rewarded for their
+  contributions. Our compensation structure is designed to be
+  fair, competitive, and transparent, ensuring that every team
+  member is recognized and compensated equitably across roles,
+  levels, and locations.
+
+  In accordance with various State's transparency regulations,
+  we provide the following salary range information for this
+  position:
+
+  - Base salary range: $229,500 - $260,000 annually. The exact
+    salary will be determined based on the selected
+    candidate's location, qualifications, experience, and
+    relevant skills.
+  - Additional compensation: This role may also be eligible for
+    an equity package (in the form of stock options). If any
+    other compensation benefits apply, they will be discussed
+    during the interview process.
+
+
+
+
+
+  Perks of Horizon3
+
+  - Inclusive Team: We value diversity and promote an inclusive
+    culture where everyone can thrive.
+  - Growth Opportunities: Be part of a dynamic and growing team
+    with numerous career development opportunities.
+  - Innovative Culture: Work in a collaborative environment that
+    encourages creativity and out-of-the-box thinking.
+  - Remote Work: We are a 100% remote company. Enjoy the
+    flexibility to work in the way that supports you and
+    brings out your best.
+  - Competitive Compensation: We offer competitive salary and
+    benefits which includes health, vision & dental care for
+    you and your family, a flexible vacation policy, and
+    generous parental leave.
+
+
+
+
+
+  You Belong Here
+
+  Horizon3 is not just an equal opportunity employer - we are
+  a community that values diversity, equity, and inclusion as
+  fundamental principles of our culture and success. We are
+  dedicated to fostering a workplace where everyone feels
+  welcome and respected, regardless of race, color, religion,
+  sex, national origin, age, disability, veteran status,
+  sexual orientation, gender identity or expression, genetic
+  information, marital status, or any other legally protected
+  status by law.
+
+  Our commitment to diversity and inclusion means we strive to
+  attract, develop, and retain a workforce that reflects the
+  varied communities we serve. We believe that diverse
+  perspectives drive innovation and strengthen our ability to
+  create cutting-edge cybersecurity solutions. At Horizon3,
+  every team member is valued and supported in an environment
+  that encourages personal and professional growth.
+
+  We welcome candidates from all backgrounds and experiences,
+  and we encourage all qualified individuals to apply. Come be
+  a part of Horizon3, where your unique contributions are
+  recognized, and your potential is limitless.
+
+
+
+
+
+  Other Duties
+
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties or
+  responsibilities that are required of the employee. Duties,
+  responsibilities, and activities may change at any time with
+  or without notice.
+
+
+
+
+
+  Application Note
+
+  In any materials you submit, you may redact or remove age-
+  identifying information such as age, date of birth, or dates
+  of school attendance or graduation. You will not be
+  penalized for redacting or removing this information.
+industries:
+  - Artificial Intelligence
+  - Cybersecurity
+posted_date: 2026-10-23
+url: "https://builtin.com/job/staff-software-engineer-database-platform/11849747"
+source: Built In

@@ -1,0 +1,87 @@
+job_id: 9913991
+title: Senior Backend Developer- Dallas, TX
+company: Photon
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 5,017 Employees
+description: |
+  The Backend Developer will be responsible for building and
+  maintaining the server-side logic, database management, and
+  cloud integration that power our applications. You will work
+  on high-availability systems, focusing on performance,
+  scalability, and seamless integration between different
+  platforms. This role requires a versatile engineer
+  comfortable switching between Python for rapid development
+  and data processing, and Java for robust, enterprise-grade
+  services, all hosted within an AWS ecosystem.
+
+  Key Responsibilities
+
+  - Server-Side Logic: Develop high-quality, efficient code
+    using Java and Python to support core business
+    functionality.
+  - Cloud Architecture: Design and implement cloud-native
+    solutions on AWS, ensuring security, reliability, and
+    cost-optimization.
+  - API Development: Create and maintain scalable RESTful or
+    GraphQL APIs to interface with front-end applications and
+    external services.
+  - Database Management: Architect and optimize data storage
+    solutions, including relational databases and NoSQL
+    stores.
+  - Performance Optimization: Identify bottlenecks and implement
+    caching strategies or asynchronous processing to improve
+    system response times.
+  - Security & Compliance: Implement data protection and
+    security measures to safeguard sensitive information.
+  - Technical Documentation: Create clear documentation for
+    system architecture, API endpoints, and deployment
+    procedures.
+
+  Technical Skill Set:
+
+  Primary Languages: Python (Django/Flask/FastAPI), Java
+  (Spring Boot/Jakarta EE)
+
+  Cloud Services(AWS) : Lambda, EC2, ECS/EKS, S3, RDS,
+  DynamoDB, SQS/SNS
+
+  Database Systems : PostgreSQL, MySQL, Redis, MongoDB
+
+  Development Tools: Git, Docker, Kubernetes, Maven, Pytest,
+  JUnit
+
+  Networking/Security: VPC, API Gateway, OAuth2, JWT, IAM
+
+  Qualifications:
+
+  - Strong proficiency in Backend development with a focus on
+    multithreading, concurrency, and object-oriented design.
+  - Hands-on experience with AWS services and infrastructure-as-
+    code (e.g., Terraform or CloudFormation).
+  - Ability to write clean, maintainable, and well-tested code
+    in both Python and Java environments.
+  - Understanding of microservices architecture and distributed
+    systems.
+  - Strong communication skills and a collaborative mindset for
+    working in an Agile environment.
+
+  Compensation, Benefits and Duration
+
+  Minimum Compensation: USD 40,000 Maximum Compensation: USD
+  142,000 Compensation is based on actual experience and
+  qualifications of the candidate. The above is a reasonable
+  and a good faith estimate for the role. Medical, vision, and
+  dental benefits, 401k retirement plan, variable
+  pay/incentives, paid time off, and paid holidays are
+  available for full time employees. This position is not
+  available for independent contractors No applications will
+  be considered if received more than 120 days after the date
+  of this post
+industries:
+  - Agency
+  - Information Technology
+posted_date: 2026-08-16
+url: "https://builtin.com/job/senior-backend-developer-dallas-tx/9913991"
+source: Built In

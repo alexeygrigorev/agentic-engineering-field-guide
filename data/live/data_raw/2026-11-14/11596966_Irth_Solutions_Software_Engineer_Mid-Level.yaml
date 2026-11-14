@@ -1,0 +1,254 @@
+job_id: 11596966
+title: Software Engineer (Mid-Level)
+company: Irth Solutions
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 81 Employees
+description: |
+  Software Engineer (Mid-Level)
+
+  Location: Remote (US) Department: Insights (AI/ML) Reports
+  to: Engineering Manager
+
+  About the Role
+
+  Irth is building a new AI-driven threat and risk management
+  platform for pipeline asset integrity. The platform brings
+  together three capabilities that have never previously lived
+  in one place at Irth:
+
+  - A governed, cross-product data platform built on Databricks
+    and Azure.
+  - An AI-powered ingestion layer that normalizes, repairs, and
+    enriches customer data without services-heavy onboarding.
+  - A reusable analytical layer that runs industry-standard,
+    Irth-developed, and customer-built risk models against
+    that data.
+
+  We are seeking a mid-level, full-stack Application Software
+  Engineer to build both the interfaces operators use and the
+  services behind them.
+
+  On the front end, you will build production applications in
+  TypeScript and React, translating UX designs into intuitive,
+  reliable interfaces that faithfully reflect the intended
+  design.
+
+  On the back end, you will build APIs and services in
+  TypeScript and Python that connect the application to the
+  data platform and analytical layer.
+
+  Your work will include:
+
+  - Interfaces for configuring models and threat parameters.
+  - Execution paths that run analytical models and return
+    results.
+  - Map and dashboard views that surface risk scores and
+    supporting evidence.
+  - Services and frameworks that allow customers to deploy and
+    run their own models on the platform.
+
+  You will join at a point where these interfaces are being
+  defined rather than maintained, giving you meaningful
+  opportunity to shape the product and its technical
+  foundation.
+
+  Our users are integrity engineers making consequential
+  decisions based on dense, technical information. The front-
+  end experience is therefore closer to building a
+  sophisticated professional application than a traditional
+  marketing surface.
+
+  Key Responsibilities
+
+  1. Front-End Development — Primary Responsibility
+
+  - Build production user interfaces in TypeScript and React,
+    implementing UX designs faithfully across layout,
+    interaction behavior, and visual details.
+  - Work from design files and prototypes; identify and raise
+    gaps, edge cases, and ambiguities with designers before
+    implementation rather than making assumptions silently.
+  - Build model configuration and threat-selection experiences,
+    including:
+  - Build data-dense interfaces, including:
+  - Design interfaces for long-running analytical operations,
+    providing meaningful progress indicators, partial results,
+    and recovery from failures.
+  - Build reusable, well-typed components and contribute to a
+    consistent component library and design-system
+    implementation.
+  - Ensure responsive behavior, accessibility, and cross-browser
+    compatibility across applications.
+
+  2. Back-End & API Development
+
+  - Design and build REST APIs in TypeScript and Python for
+    model configuration, execution, and results retrieval.
+  - Establish clear API contracts, versioning strategies, and
+    maintainable service boundaries.
+  - Build execution and orchestration services for analytical
+    workloads, including:
+  - Implement event-driven and asynchronous patterns so
+    analytical results can be delivered without blocking the
+    user interface.
+  - Design and implement database schemas and queries across the
+    application data store and lakehouse serving layer.
+  - Integrate with Databricks and Azure services, including:
+  - Write and maintain OpenAPI specifications and ensure
+    interactive API documentation remains accurate as
+    contracts evolve.
+
+  3. Customer Model Deployment Framework
+
+  - Build the end-to-end experience that allows customers to
+    deploy, configure, and execute their own models within
+    product workflows, across both front-end and back-end
+    systems.
+  - Implement connection and data-mapping workflows, including:
+  - Build results-integration capabilities so customer model
+    outputs can be displayed and aggregated alongside industry
+    and Irth model outputs.
+  - Implement isolation and governance controls to ensure
+    customer-deployed code runs safely within appropriate
+    tenant boundaries.
+
+  4. Quality, Security & Performance
+
+  - Write automated tests across the stack, including:
+  - Monitor, troubleshoot, and optimize application
+    responsiveness and API performance under realistic
+    analytical workloads.
+  - Implement authentication, authorization, and tenant
+    isolation using the platform's identity and secrets-
+    management services.
+  - Identify, assess, and remediate security vulnerabilities in
+    application code, infrastructure integrations, and
+    dependencies.
+  - Participate in code reviews and contribute to CI/CD
+    pipelines and deployment automation.
+
+  5. Collaboration
+
+  - Partner closely with Design on feasibility, interaction
+    details, edge cases, and design-system consistency.
+  - Work with data engineers and data scientists to define clear
+    interfaces between application, data, and model layers.
+  - Partner with Product and QA on requirements, edge cases,
+    acceptance criteria, and release readiness.
+  - Contribute to:
+
+  Requirements
+
+  Required Qualifications
+
+  - 3–5 years of professional full-stack software development
+    experience.
+  - Strong TypeScript and React experience, including hooks,
+    state management, component composition, and performance
+    optimization for data-heavy interfaces.
+  - Demonstrated ability to implement UX designs faithfully,
+    with strong attention to spacing, component states,
+    transitions, and interaction details.
+  - Strong back-end development experience in TypeScript and
+    Python, including building and consuming REST APIs in
+    production.
+  - Proficiency in relational database design, query
+    development, and query optimization.
+  - Hands-on experience with a major cloud provider; Azure
+    preferred, including managed compute, storage, API
+    gateway, secrets management, and monitoring services.
+  - Experience with event-driven architecture, queues, or
+    pub/sub systems for asynchronous processing and result
+    delivery.
+  - Experience with modern front-end tooling and testing,
+    including build systems, package management, and component
+    or end-to-end testing frameworks.
+  - Proficiency with Git and branch-based development workflows.
+  - Understanding of DevOps practices, including CI/CD
+    pipelines, automated testing, and deployment automation.
+  - Experience with vulnerability management and remediation,
+    including dependency scanning and security patching.
+  - Strong problem-solving skills and attention to detail.
+
+  Preferred Qualifications
+
+  - Experience building data-dense professional or analytical
+    interfaces, including large tables, dashboards, filtering,
+    and drill-down workflows.
+  - Experience with mapping and geospatial visualization
+    libraries.
+  - Experience with charting and data visualization libraries.
+  - Familiarity with design tooling and design-system
+    implementation, with the ability to work directly from
+    design files.
+  - Experience with OpenAPI or Swagger specifications and API
+    documentation tooling.
+  - Experience with Databricks, Apache Spark, or distributed
+    data-processing platforms.
+  - Experience integrating machine learning model-serving
+    endpoints into application workflows.
+  - Experience with containerized deployment and orchestration.
+  - Experience building multi-tenant SaaS applications with per-
+    tenant isolation.
+  - Experience using AI-assisted coding tools, such as Cursor or
+    GitHub Copilot, and/or agentic coding tools, such as
+    Claude Code, as part of a professional software-
+    development workflow.
+
+  Nice to Have
+
+  - Exposure to asset integrity, damage prevention, land
+    management, or stakeholder engagement domains.
+  - Experience building software where outputs must be auditable
+    and traceable for regulatory purposes.
+  - Experience with plugin or extension frameworks designed to
+    run third-party code safely.
+  - Experience with accessibility standards, including WCAG
+    conformance.
+  - Experience contributing to a shared component library used
+    across multiple products.
+
+  Success Metrics
+
+  Success in this role will be measured by:
+
+  - Shipping interfaces that faithfully match provided UX
+    designs and perform reliably with real-world customer data
+    volumes.
+  - Delivering reliable, well-documented APIs that other teams
+    can build against independently.
+  - Delivering end-to-end model configuration and execution
+    workflows for industry, Irth, and customer-supplied
+    models.
+  - Launching the customer model deployment framework and
+    supporting its adoption by real customers.
+  - Maintaining interface responsiveness and API performance
+    within established targets under realistic analytical
+    workloads.
+  - Maintaining a low defect escape rate and ensuring there are
+    no critical unresolved security findings.
+  - Demonstrating effective collaboration across Design, Data,
+    Model, Product, QA, and Engineering teams.
+
+  BenefitsBenefits
+
+  - Competitive Salary – A competitive compensation package
+    based on experience and qualifications.
+  - Medical, Dental, and Vision Insurance – Comprehensive
+    insurance coverage to support you and your family.
+  - 401(k) Plan with Company Match.
+  - Generous Paid Time Off (PTO) – Time off to support work-life
+    balance and personal needs.
+  - Company-Paid Holidays – Paid holidays throughout the year.
+  - Flexible Work Options – Work-from-home opportunities are
+    available, depending on role and business needs.
+  - On-Call Compensation – Additional pay for eligible on-call
+    shifts.
+industries:
+  - Cloud
+  - Software
+posted_date: 2026-10-09
+url: "https://builtin.com/job/software-engineering-mid-level/11596966"
+source: Built In

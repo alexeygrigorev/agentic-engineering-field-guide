@@ -1,0 +1,143 @@
+job_id: 7134169
+title: Product Engineer, Frontend
+company: Kinship (kinship.io)
+location: London, GBR
+work_type: FULL_TIME
+company_size: 11 Employees
+description: |
+  Build fast, accessible, resilient interfaces that make
+  working in Revit a pleasure. For engineers who care about
+  the web itself, not just the framework of the month.
+
+  Hey there — we’re Kinship 👋
+
+  We're building the Revit tools you wish existed. Our
+  platform helps architects and engineers manage content,
+  track usage, and make smarter decisions with less hassle.
+
+  We're looking for a frontend engineer who cares about the
+  web itself. Someone who reaches for HTML and CSS first,
+  treats JavaScript as something you add on purpose rather
+  than by default, and judges their work by what users get:
+  interfaces that are fast, accessible, resilient, and a
+  pleasure to use.
+
+  We build with React today, and you'll work in it daily.
+  We're not asking anyone to come in and rewrite everything
+  from scratch. But we care far more about how well you
+  understand the platform underneath than about which tools
+  you're fluent in. Frameworks come and go; the web is
+  versionless, and a real command of it compounds over an
+  entire career.
+
+  In this role, you will:
+
+  - Own user-facing features (advanced search, model usage
+    dashboards, sync-rule management, interactive content
+    previews) and sweat the details that make them feel
+    effortless
+  - Reach for the right tool for each problem: native HTML
+    elements and modern CSS where they do the job well, React
+    where it earns its place
+  - Treat performance and accessibility as first-class outcomes,
+    not afterthoughts: quick on a mid-range device and a flaky
+    connection, usable with a keyboard and a screen reader
+  - Build and maintain shared component libraries and a frontend
+    architecture
+  - Tackle real frontend challenges: complex state, large
+    datasets, keeping the UI fast and responsive across the
+    app
+  - Work closely with designers, engineers and Revit experts
+
+  What We're Looking For
+
+  You don’t need to tick every box, but here’s what would help
+  you succeed:
+
+  Must-haves
+
+  - A deep, hands-on command of HTML and CSS: semantics, layout,
+    and modern CSS (cascade layers, container queries,:has(),
+    logical properties, oklch(), whatever the job needs), plus
+    an eye for spacing, states, and the details that make an
+    interface just work
+  - Fluency in JavaScript/TypeScript and React, comfortable in a
+    modern component-based codebase and able to tell when a
+    problem needs JavaScript at all
+  - A habit of progressive enhancement: build something that
+    works, then layer on the nice-to-haves, so a slow network
+    or an old device degrades gracefully instead of breaking
+  - Hands-on in the browser's DevTools as a real debugging
+    instrument, not just a place to dump console.logs. You can
+    use the Performance panel to find what's blocking the main
+    thread, read a network waterfall, throttle CPU and network
+    to reproduce a user's bad day, and inspect the DOM and
+    computed styles to track down a layout bug
+  - Several years (think 5+) building real things for the web,
+    and experience reasoning about complex UI systems and
+    state across a real app
+  - A strong eye for design and interaction, and a real
+    appreciation for good UX
+  - You question your defaults and don't pull in a library or
+    reach for a framework feature just because it's there, and
+    you can explain the calls you made
+
+  Nice-to-haves
+
+  - Web-performance chops (Core Web Vitals, real-user vs. lab
+    data, the cost of JavaScript on low-end devices)
+  - Accessibility experience (WCAG, testing with a screen
+    reader)
+  - Familiarity with the modern frontend ecosystem (Tailwind,
+    Zustand, Radix, Framer Motion); useful, never the point
+  - Experience with Revit, 3D, or AEC tools
+
+  How we think about the web
+
+  We get excited about what the browser can already do. We'd
+  rather use a view transition in a few lines of CSS than ship
+  a single-page app to fake one. We think doing less work is
+  usually faster than doing more, that every layer of
+  abstraction is something you then have to maintain, and that
+  the platform (versionless, resilient, quietly getting better
+  while you sleep) is the safest thing to build on.
+
+  So we care a lot about fundamentals: progressive
+  enhancement, semantic HTML, modern CSS done properly,
+  accessibility that's built in rather than bolted on, and a
+  healthy skepticism toward complexity for its own sake. We
+  use React because it earns its place in our product, not
+  because it's the default, and not as a substitute for
+  understanding the platform beneath it. If that resonates,
+  you'll fit right in.
+
+  You’re probably someone who:
+
+  - Is first and foremost a builder, and cares about the outcome
+    as much as the ship date
+  - Reaches for the simplest thing that works
+  - Likes being in the room where product decisions happen
+  - Loves shipping quickly and often, in person, with a small,
+    motivated team
+  - Is curious about how the web works under the hood, and keeps
+    learning
+  - Values calm focus, thoughtful collaboration, and a real
+    sense of craft
+
+  What We Offer
+
+  - Competitive salary
+  - A beautiful, plant-filled office in central London (by
+    Southwark tube station) and good coffee (obviously)
+  - A no-BS team of people who love building good software
+    together
+  - Real autonomy and influence over product and tech decisions
+  - A company that believes in work-life balance
+industries:
+  - Cloud
+  - Information Technology
+  - Software
+  - Analytics
+posted_date: 2026-08-14
+url: "https://builtin.com/job/product-engineer-frontend/7134169"
+source: Built In

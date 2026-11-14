@@ -1,0 +1,211 @@
+job_id: 12074988
+title: Frontend React Engineer (with .NET knowledge)
+company: Trimble
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 10,001 Employees
+description: |
+  Build Next-Gen Transportation Logistics Tech: Front-End
+  React Engineer
+
+  Are you ready to build high-impact production UIs from
+  scratch using modern React, TypeScript, and AI-augmented
+  tools? Join a modern engineering environment where you will
+  replace a legacy desktop application with a fast, browser-
+  based React experience, shipping functional software
+  directly to energy dispatchers every single week!
+
+  About Us:
+
+  Trimble is a global technology company that connects the
+  physical and digital worlds, transforming the ways work gets
+  done. With relentless innovation in precise positioning,
+  modeling and data analytics, Trimble enables essential
+  industries including construction, geospatial and
+  transportation. Whether it's helping customers build and
+  maintain infrastructure, design and construct buildings,
+  optimize global supply chains or map the world, Trimble is
+  at the forefront, driving productivity and progress.
+
+  Trimble Transportation provides the mobility, enterprise,
+  and visibility tools that move freight across North America.
+  Our TMW Suite TMS platform is the backbone of dispatch
+  operations for energy carriers — managing orders, dispatch,
+  tank readings, pricing, and delivery for bulk fuel and
+  petroleum logistics.
+
+  Right now, we’re doing something our customers have been
+  waiting for: replacing the legacy Windows desktop
+  application (Suite Dispatch TMS) with a modern, browser-
+  based experience that dispatchers can access from anywhere.
+  This is a greenfield React build, not a reskin. We’re
+  building the next-generation TMW Suite Dispatch UI from
+  scratch, shipping 7 screens in 18 months, and going live
+  with real dispatchers on June 1 2027.
+
+  Here’s what you’d be doing day to day:
+
+  You’ll be embedded in one of four pair-squads (2 developers
+  + 1 embedded generalist), building production React screens
+  that fuel dispatchers will use to run their daily
+  operations. Each squad owns specific screens end-to-end
+  from data service integration through UI polish and
+  Playwright testing. Every Friday, your squad demos working
+  software to stakeholders. No spec theater, no sprint reviews
+  six weeks from now. Weekly demos, weekly accountability,
+  weekly progress. The architecture is straightforward: your
+  React UI talks to CloudHub (a tenant-routing gateway), which
+  dispatches to a per-tenant OData API, which connects through
+  a CloudHub Connector (CHC) to the customer’s on-prem SQL
+  database. You’re building a fast, reliable, accessible
+  front-end that makes fuel dispatchers more efficient.
+
+  Your Key Responsibilities:
+
+  - Build Production React Screens: Own screens end-to-end: data
+    service layer, Redux state management, UI components, and
+    Playwright + axe-core tests. Build responsive layouts
+    (1280/1440/1920px) using MUI X DataGrid, Trimble Maps SDK,
+    and the team’s shared design system
+  - Update and Enhance the Backend Services: Integrate with the
+    CloudHub/OData/CHC API stack, wire up real data from
+    customer SQL databases through the tenant-routing gateway.
+    Create new services to ensure the new React screens
+    provide the same functionality as the existing Fuel
+    Dispatch on premise application.
+  - Ship Working Software Weekly: Demo functional, tested
+    features every Friday - not mockups, not prototypes, not
+    slide decks. Pair with your squad’s embedded generalist on
+    PR reviews, accessibility checks, and test coverage.
+    Maintain CI/CD discipline: main is always deployable, PRs
+    are feature-scoped, weekly tags cut for demos.
+  - Solve Real Dispatcher Problems: Build drag-and-drop planning
+    interfaces, real-time map synchronization, threshold-based
+    alerting, and inline validation engines. Optimize for
+    dispatcher workflows: keyboard navigation, WCAG
+    accessibility, loading skeletons, and error states that
+    tell users what went wrong and what to do next.
+    Performance-tune data grids for large datasets with
+    server-side pagination and column virtualization.
+  - AI-Augmented Development: Use Cursor and AI coding
+    assistants to accelerate development, generate test
+    scaffolding, and refactor code. Contribute to the team’s
+    shared patterns and component library as the design system
+    evolves.
+
+  Our Tech Stack:
+
+  - the app scaffold React + TypeScript + Vite
+  - sortable, filterable, server-paginated grids MUI X DataGrid
+  - live truck/station pins, route visualization, bidirectional
+    map-grid sync Trimble Maps SDK
+  - shared state across screens (orders, dispatch status,
+    planner sync) Redux Toolkit
+  - E2E and accessibility testing in CI Playwright + axe-core
+  - the API layer (tenant routing → per-tenant OData → on-prem
+    connector → SQL) CloudHub / OData / CHC
+  - authentication via token forwarding Trimble Identity SSO
+  - daily development tooling, not optional Cursor / AI
+    assistants
+  - source control and CI/CD GitHub + GitHub Actions
+
+  Your Essential Skills & Experience:
+
+  - 3+ years building production React applications with
+    TypeScript — not tutorials, not side projects, production
+    apps that real users depend on
+  - Strong component architecture: you think in composable,
+    testable components with clean prop contracts and proper
+    state management
+  - Experience with data-heavy UIs: grids, tables, filters,
+    server-side pagination, real-time updates
+  - Comfort with REST/OData API integration — you’ve wired up
+    front-ends to real backends and debugged the full
+    request/response chain
+  - CSS/styling proficiency: responsive layouts, design system
+    integration, consistent cross-browser rendering
+  - Git workflow fluency: trunk-based development, feature
+    branches, clean commit history, PR reviews
+  - Ability to work in a pair-squad model — tight collaboration
+    with one other developer and an embedded generalist,
+    shipping weekly
+
+  Bonus Points for:
+
+  - Drag-and-drop implementation experience (dnd-kit, react-
+    beautiful-dnd, or similar)
+  - Experience with AI coding assistants Cursor in daily
+    development workflows
+  - Familiarity with MUI (Material UI) component library and
+    theming
+  - Previous experience modernizing legacy desktop applications
+    into browser-based UIs
+  - Background in .NET/C# OData APIs (helpful for debugging the
+    API layer)
+  - Logistics, transportation, or energy industry domain
+    knowledge  you understand what a dispatcher does and why
+    their screen matters
+
+  Location: UK, Remote
+
+  Why You'll Enjoy Working With Us:
+
+  - At Trimble, we're not just a company that "does good"—we are
+    a team dedicated to making a tangible, positive Real-World
+    Impact.
+  - We build innovative solutions designed to solve the world's
+    most critical challenges. From construction sites to
+    transportation hubs, our work tangibly improves how people
+    live, build, move, and grow.
+  - You'll work on projects that truly matter: Our purpose-
+    driven culture means you'll be helping to build and
+    deliver solutions that make work faster, safer, and more
+    sustainable for millions of people worldwide. Our impact
+    is tangible, from connected machines that save fuel to
+    data-driven insights that reduce waste.
+  - Collaborate with like-minded people: Our strong internal
+    culture is a "hidden gem." You will work with a
+    collaborative, supportive team that shares your purpose
+    and fosters a genuine sense of belonging. We're a company
+    of "visionary pragmatists" who think boldly and build
+    things that work.
+  - Be an owner: Trimble thrives on individuals who take
+    initiative and embrace ownership. You'll find an
+    entrepreneurial spirit where success is often "self-
+    authored," empowering proactive "doers."
+
+  React, TypeScript, Front-End Engineer, Software Developer,
+  Redux, Material UI, Playwright, Greenfield, Transportation,
+  Logistics
+
+  How to Apply: Please submit an online application for this
+  position by clicking on one of the Apply buttons located in
+  this posting.
+
+  Join a Values-Driven Team: Belong, Grow, Innovate.
+
+  At Trimble, our core values of Belong, Grow, and Innovate
+  aren't just words—they're the foundation of our culture. We
+  foster an environment where you are seen, heard, and valued
+  (Belong); where you have an opportunity to build a career
+  and drive our collective growth (Grow); and where your
+  innovative ideas shape the future (Innovate). We believe in
+  empowering local teams to create impactful strategies,
+  ensuring our global vision resonates with every individual.
+  Become part of a team where your contributions truly matter.
+
+  Candidate Privacy Notices by Country
+
+  If you need assistance or would like to request an
+  accommodation in connection with the application process,
+  please contact careers@trimble.com.
+industries:
+  - Hardware
+  - Information Technology
+  - Other
+  - Software
+  - Analytics
+posted_date: 2026-11-04
+url: "https://builtin.com/job/frontend-fullstack-react-engineer-net-knowledge/12074988"
+source: Built In

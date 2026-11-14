@@ -1,0 +1,115 @@
+job_id: 10756203
+title: Senior Software Engineer, Backend
+company: Helius
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 39 Employees
+description: |
+  About Helius
+
+  Helius is building the core infrastructure for Solana -
+  empowering developers to create the next generation of
+  crypto-powered applications. Our mission is to accelerate
+  the development of internet capital markets by making it
+  easier, faster, and more intuitive to build on-chain.
+
+  Thousands of teams - from early-stage startups to industry
+  leaders like Coinbase, Phantom, and Jupiter - rely on Helius
+  APIs, webhooks, and indexing tools to power their products.
+  Backed by Haun Ventures, Founders Fund, and Foundation
+  Capital, we’re a small, senior team obsessed with
+  performance, simplicity, and scalability in decentralized
+  systems.
+
+  Read our Helius Manifesto to see how we work and what we
+  value.
+
+  About the Role
+
+  We're looking for a Senior Software Engineer to join one of
+  our core backend teams - Data Streaming, Historical APIs, or
+  Account Index. These are mission-critical systems that
+  handle real-time Solana state changes, historical data at
+  petabyte scale, and high-throughput API traffic for traders,
+  exchanges, and developers worldwide.
+
+  You'll own meaningful parts of these systems end-to-end -
+  not just implementing features but making architectural
+  decisions, improving reliability, and pushing performance
+  further. We're a small team, which means your work has
+  outsized impact and your voice carries weight in technical
+  decisions.
+
+  What You'll Do
+
+  - Design, build, and release novel, performance-sensitive
+    products that transform the developer experience on Solana
+  - Optimize production systems - profiling, benchmarking, and
+    improving latency and throughput
+  - Collaborate with staff engineers and founders on
+    architectural and product decisions
+  - Improve operational excellence - observability, incident
+    response, and making systems easier to run
+  - Mentor junior engineers and raise the technical bar across
+    the team
+
+  What You'll Bring
+
+  - 5+ years of backend engineering experience with a track
+    record of shipping production systems at scale
+  - Strong systems-level intuition - you understand what's
+    happening beneath the abstractions
+  - Proficiency in Rust (strongly preferred), C++, or Go
+  - Experience debugging and optimizing latency-sensitive or
+    high-throughput systems
+  - Demonstrated ability to own problems end-to-end with minimal
+    direction
+  - High intensity, high ownership - you hold yourself to an
+    exceptional standard
+  - Prior exposure to engineering cultures that prioritize
+    operational excellence, reliability, and customer impact
+  - Mix of large and small company experience strongly preferred
+    - you've built the habits and can operate at both speeds
+
+  Nice to Have
+
+  - Deep Rust experience in a production, performance-critical
+    environment
+  - Experience with distributed systems, storage engines, or
+    streaming infrastructure
+  - Familiarity with profiling tools - flamegraphs, perf,
+    valgrind
+  - Interest in Solana, blockchain infrastructure, or real-time
+    financial systems
+  - On-call experience and operational ownership of production
+    services
+
+  Why Helius?
+
+  - High-impact work: Your code will power applications used by
+    millions across the Solana ecosystem, including Coinbase,
+    Jupiter, and Phantom
+  - Serious engineering: Build fast, reliable systems across
+    distributed infra and high-throughput backends
+  - Ownership & growth: Lead critical initiatives, influence
+    architecture and product direction, and take on more
+    responsibility as the company scales
+  - Remote-first flexibility: Work where you’re most effective
+    with a flexible, fully distributed team
+  - Competitive comp & perks: Market-leading salary, meaningful
+    equity, generous vacation, wellness budgets, and support
+    for learning and travel
+  - Mission-driven team: Join ambitious builders who move fast,
+    take ownership, and are building infrastructure for
+    internet capital markets
+industries:
+  - Blockchain
+  - Software
+  - Cryptocurrency
+posted_date: 2026-08-19
+url: "https://builtin.com/job/senior-software-engineer-backend/10756203"
+source: Built In

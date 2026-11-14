@@ -1,0 +1,189 @@
+job_id: 11333328
+title: "Staff Software Engineer, Backend Booking Platform & APIs"
+company: ResortPass
+location: New York, USA
+work_type: FULL_TIME
+company_size: 94 Employees
+description: |
+  About ResortPass
+
+  ResortPass is redefining what it means to be a hotel guest.
+  We give people daytime access to pools, beaches, spas,
+  cabanas, and other hotel experiences without an overnight
+  stay.
+
+  We work with more than 2,700 hotel partners across 30
+  countries. We have served more than 7 million guests and
+  generated hundreds of millions of dollars for our hotel
+  partners. Marriott has signed a global agreement with
+  ResortPass, and Hilton has expanded its partnership with us.
+
+  We have proven the demand. Now we are building the booking
+  and distribution platform that can bring hotel experiences
+  to many more guests, categories, and channels.
+
+  Learn more: resortpass.com/engineering
+
+  Why this role matters
+
+  A day pass is sold by capacity. A cabana is reserved as a
+  unit. A massage needs a time slot and available resources.
+  Each has different rules for inventory, pricing, and
+  cancellation. Those rules must remain correct wherever a
+  booking begins.
+
+  We are hiring a Staff Engineer to lead the evolution of our
+  booking platform and external API. You will help
+  distribution partners and authorized AI agents book the same
+  inventory as ResortPass guests.
+
+  You will build on a production Rails OpenSearch and Postgres
+  system while shaping important decisions about its future.
+  What you build will determine how quickly we can launch
+  hotel and spa partners and new experiences. You will see
+  your architectural choices through to real bookings and help
+  other engineers build on them.
+
+  This role is located at our Flatiron HQ four days per week.
+  Annual base salary: 220,000–240,000, plus equity, based on
+  experience
+
+  Your ownership and team
+
+  Reporting to the Head of Engineering, you will lead
+  architecture and the technical roadmap for the booking
+  domain and external API. This is a hands-on individual
+  contributor role: you will write core production code and
+  guide implementation with other backend engineers.
+
+  Our Distinguished Engineer will be your partner on
+  architectural decisions that affect the wider platform. You
+  will work directly with the Head of Engineering and
+  engineering leads on priorities, sequencing, and capacity.
+
+  With Product, Partnerships, and hotel operations, you will
+  assess partner requirements and plan launches. Your judgment
+  will help determine what belongs in the shared platform,
+  where a simpler integration is sufficient, and what to
+  defer.
+
+  Problems you will help solve
+
+  - A partner times out after requesting the last available
+    cabana. How can it determine whether the booking
+    succeeded, retry safely, and give the guest a clear
+    answer?
+  - A massage needs a time slot, provider, or room, while a day
+    pass uses capacity. Which concepts should they share, and
+    where should their booking rules differ?
+
+  What you will do
+
+  - Evolve clear models and boundaries for products, pricing,
+    availability, holds, and reservations. Represent category
+    differences explicitly and use real requirements to guide
+    what becomes shared.
+  - Build and launch a versioned external API for pricing,
+    availability, holds, booking, changes, and cancellations.
+    Establish access controls, documentation, and a practical
+    path from partner testing to production.
+  - Make booking operations reliable through retries, timeouts,
+    and partial failures. Design idempotency, concurrency
+    controls, webhooks, and reconciliation to prevent
+    duplicate bookings and inventory errors.
+  - Establish reusable patterns for supply, property management,
+    and point-of-sale integrations. Make data ownership and
+    failure handling clear so engineers can add connectors and
+    diagnose problems consistently.
+  - Lead incremental migrations in our existing system. Set
+    reliability and latency targets, test important failure
+    scenarios, and ensure the team can observe, operate, and
+    safely roll back changes.
+  - Help engineers take ownership of larger problems through
+    focused design reviews, pairing, and mentoring. Explain
+    tradeoffs, resolve decisions across team boundaries, and
+    follow the work through production.
+
+  What success looks like in 6–12 months
+
+  The first priority is to prove a dependable production
+  booking path. We will then use what we learn to add partners
+  and categories, with Product and Partnerships sharing
+  responsibility for commercial launches.
+
+  - An initial distribution partner can use the API for the
+    booking lifecycle, from pricing and availability through
+    confirmation, changes, and cancellation.
+  - Additional partners reuse those contracts and integration
+    patterns, reducing the bespoke engineering needed for each
+    launch.
+  - Booking correctness, reliability, latency, and recovery meet
+    agreed targets under real usage, with automated coverage
+    of important failure scenarios.
+  - At least one new experience category uses the shared booking
+    capabilities, and other backend engineers can
+    independently extend the platform and launch connectors.
+
+  Who you are
+
+  We care more about demonstrated impact than a previous Staff
+  title. You may have 9+ years of experience or a track record
+  of equivalent depth and scope.
+
+  - You have led substantial technical work across multiple
+    engineers or teams, from an ambiguous business problem
+    through launch and operation.
+  - You have designed transactional systems and APIs or
+    integration platforms that other teams or companies depend
+    on.
+  - You understand relational modeling, concurrency,
+    consistency, and asynchronous workflows, including what
+    happens when systems fail or disagree.
+  - You have safely evolved an existing production system and
+    can explain when to extend it, simplify it, or replace
+    part of it.
+  - You remain a strong hands-on engineer. You make pragmatic
+    tradeoffs and help teammates deliver without becoming the
+    approval point for every decision.
+  - You communicate clearly, listen carefully, and build trust
+    with engineers and business partners. You can challenge an
+    assumption and change your mind when the evidence changes.
+
+  Ruby on Rails experience is useful, but not required.
+  Experience with marketplaces, reservations, inventory,
+  payments, or public APIs will help. We encourage you to
+  apply even if you do not match every line.
+
+  How we ship
+
+  We move quickly by building quality from the start. A change
+  is done when it is tested, deployed, observable, and safe to
+  roll back. We use AI tools aggressively, but engineers
+  remain accountable for architecture, correctness, and
+  production outcomes.
+
+  Explore Engineering at ResortPass, including why we work and
+  what we are building next.
+
+  Tech stack
+
+  - Backend: Ruby on Rails, Node.js
+  - Data: Postgres, MongoDB
+  - Search: OpenSearch
+  - APIs and integrations: REST, OpenAPI, webhooks
+  - Infrastructure and observability: AWS, Datadog
+  - Testing: RSpec, Playwright
+
+  Benefits
+
+  - Health, dental, and vision coverage, with ResortPass
+    contributing to monthly premiums
+  - Stock options
+  - 401(k) plan
+  - Unlimited paid time off
+  - Paid parental leave
+  - Annual ResortPass credit for pools, beaches, spas, and other
+    experiences
+posted_date: 2026-09-23
+url: "https://builtin.com/job/staff-software-engineer-backend-booking-platform-apis/11333328"
+source: Built In

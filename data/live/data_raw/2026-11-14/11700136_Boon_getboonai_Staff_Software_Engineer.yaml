@@ -1,0 +1,140 @@
+job_id: 11700136
+title: Staff Software Engineer
+company: Boon (getboon.ai)
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 27 Employees
+description: |
+  About Boon
+
+  Boon is the professional AI platform built specifically for
+  construction. Founded in the San Francisco Bay Area in 2023
+  by product and engineering leaders from Samsara, Apple,
+  Google and DoorDash. Boon is backed by leading Silicon
+  Valley venture capitalists. Our AI agents embed directly
+  into existing workflows, from preconstruction estimating to
+  bid management. They automate the repetitive tasks that
+  drain time and margins while surfacing the insights leaders
+  need to make faster and more confident decisions. The result
+  is measurable impact. Teams move faster, bids are submitted
+  sooner, win rates increase, and costs are reduced. Boon
+  enables construction companies to build more, generate more
+  revenue, and grow with confidence.
+
+  About the Role
+
+  Boon AI is building the agentic operating system for
+  construction preconstruction — the layer that reads
+  blueprints, specs, and bid documents, and does the
+  estimator's work with them. Our platform spans a Rails
+  product monolith, Python computer-vision services
+  (DINOv3/SAM-class vision models reading drawings), an LLM
+  agent runtime orchestrating multi-step construction
+  workflows, and a model/eval infrastructure that keeps
+  accuracy honest. We're live with GCs and subs across the
+  country, shipping daily, and scaling from thousands to
+  hundreds of thousands of drawings per month. The Staff
+  Software Engineer sits across every one of those surfaces
+  and makes sure the system we're building this quarter is the
+  system we can still build on three years from now.
+
+  In this role, you will:
+
+  - Own the end-to-end technical architecture across the Rails
+    product app, Python ML/CV services, agent SDK layer, and
+    data platform — including the hard tradeoffs between
+    enterprise customer requirements and shipping speed
+  - Drive scalability, reliability, and cost architecture of our
+    computer vision/LLM/VLM inference pipelines as we scale
+    blueprint throughput by 100×
+  - Set the technical direction for our model infrastructure —
+    vision models, LLM orchestration, agent runtime, MLflow
+    registry, eval harnesses, and GPU budget
+  - Lead architectural review, raise the engineering bar through
+    code review and design docs, and lead decisions
+    considering cross-system tradeoffs
+  - Mentor senior and junior engineers. Prior engineering
+    management experience a bonus.
+  - Partner with the CEO and product on the 12–18 month
+    technical roadmap: what we build in-house, what we buy,
+    what we deprecate, and when to invest in platform vs.
+    features
+  - Still write code — this is a working architect role; you'll
+    be in incident response, PR review, and the hardest
+    technical problems on a weekly basis
+
+  You’re a Great Fit If:
+
+  - You've shipped production systems that handle messy real-
+    world input — documents, PDFs, images, OCR, user-generated
+    chaos — not just clean API-to-API services
+  - You have strong opinions on monolith vs. services, model-in-
+    the-loop UX, when to add complexity, and when "just add
+    another microservice" is the wrong answer
+  - You've built or deeply operated computer vision or LLM/agent
+    systems in production, and you understand eval
+    infrastructure as a first-class engineering discipline
+  - You move fast without breaking the foundations — comfortable
+    shipping daily, comfortable saying "stop, we need to
+    rebuild this part" and similarly “stop, we should NOT
+    reinvent the wheel and use battle-tested open-source/paid
+    solutions”
+  - You thrive in flat, direct, high-velocity teams where the
+    architect sets the technical path and defends it with code
+    and data, not slides
+  - Bonus: construction, AEC, or other vertical-SaaS experience;
+    or you've taken a company from Series A to C technically
+  - Culturally, you embody working as “one team” and strive to
+    “get things done”, instead of passing the buck around
+
+  Requirements for the role:
+
+  - 8+ years of experience building production software, with a
+    track record of delivering in fast-paced, high-growth
+    environments
+  - Deep experience with at least two of: large Rails or Python
+    monoliths, computer vision pipelines in production, LLM /
+    agent systems at scale, data-intensive B2B SaaS
+  - Hands-on fluency with cloud infrastructure (AWS and/or GCP),
+    PostgreSQL at scale, background job systems (RabbitMQ,
+    SideKiq), and modern deployment practices
+  - Track record of leading architectural decisions that held up
+    under 10×+ growth
+  - Has written and shipped production code in the last 6 months
+    — and plans to keep doing so
+  - Familiar with some SRE (Service Reliability) and DevOps -
+    Kubernetes, Helm, CI/CD and ability to drive and
+    collaborate with Boon’s dedicated SRE teammates.
+
+  Compensation
+
+  At Boon, we want to attract and retain the best employees
+  and compensate them in a way that appropriately and fairly
+  values their individual contribution to the company. With
+  that in mind, we carefully consider a number of factors to
+  determine the appropriate starting pay for an employee,
+  including their primary work location and an assessment of a
+  candidate’s skills and experience, as well as market demands
+  and internal parity. This estimate can vary based on the
+  above mentioned factors, so the actual starting annual base
+  salary may be above or below this range. A Boon employee may
+  be eligible for additional forms of compensation, depending
+  on their role, including sales incentives, discretionary
+  bonuses, and/or equity in the company.
+
+  Boon Is An Equal Opportunity Employer
+
+  As an equal-opportunity employer, Boon is committed to
+  providing employment opportunities to all individuals. All
+  applicants for positions at Boon will be treated without
+  regard to race, color, ethnicity, religion, sex, gender,
+  gender identity and expression, sexual orientation, national
+  origin, disability, age, marital status, veteran status,
+  pregnancy, or any other basis prohibited by applicable law.
+industries:
+  - Artificial Intelligence
+  - Logistics
+posted_date: 2026-10-15
+url: "https://builtin.com/job/technical-architect/11700136"
+source: Built In

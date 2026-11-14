@@ -1,0 +1,208 @@
+job_id: 9272718
+title: Staff Software Engineer, Platform
+company: Assured
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 98 Employees
+description: |
+  Assured is on a mission to modernize insurance. Claims
+  processing (i.e. should we pay this claim?), while often
+  overlooked, is the foundation of the entire industry. It’s
+  currently highly manual, involving phone calls, faxes, and
+  gut instinct, costing tens of billions of dollars a year. We
+  can do better.
+
+  At Assured, we provide large insurers with the software
+  solutions they need to win in a modern, technology-driven
+  world. From self-service claim-filing software to backend
+  fraud detection, we’re the engine that powers claims
+  processing for some of the largest insurers in the world.
+
+  The challenges we face are deep and diverse, from creating
+  digital experiences that provide comfort and clarity to
+  claimants at their most stressed and vulnerable to
+  orchestrating large-scale ML-driven decision-making on
+  billions of dollars of claims payments, life at Assured is
+  dynamic, collaborative, and rewarding.
+
+  As a Staff Software Engineer, Platform, you will play a
+  critical role owning and evolving the strategy,
+  architecture, and governance of our release and
+  configuration systems across all environments. You’ll be a
+  senior individual contributor on the Platform Engineering
+  team, focused on the critical layer between CI systems and
+  production. You’ll build the tooling, workflows, and
+  safeguards that make releases reliable, scalable, and easy
+  for every engineering team.
+
+  This is a role for engineers who like to solve real-world
+  complexity with well-designed systems—and who measure
+  success by how much easier they make it for others to ship
+  software. You will sit at the intersection of software
+  engineering, infrastructure, SRE, security, and operational
+  excellence, ensuring that our systems are deployed reliably,
+  configured consistently, and scaled safely as the
+  organization grows.
+
+  The ideal candidate will have experience with AWS, GitLab
+  CI/CD, and TypeScript-based applications, along with a deep
+  understanding of deployment workflows, release management,
+  and environment governance. This role requires a highly
+  organized and proactive leader who can optimize release
+  pipelines, minimize deployment risks, and ensure smooth,
+  reliable releases.
+
+  What You’ll Do
+
+  ⚙️ Drive and build the release and configuration layer of
+  the platform, shaping how software moves from build to
+  production across the organization
+
+  🏗️ Design and implement scalable release workflows and
+  tooling, creating reusable abstractions that standardize how
+  services are built, validated, and deployed
+
+  🤝 Operate as a technical leader within our Platform
+  Engineering Zone, collaborating closely with CI and
+  infrastructure owners to extend and integrate with core
+  systems
+
+  📦 Build systems for release orchestration, including
+  artifact promotion, environment-aware deployments, and
+  release candidate validation
+
+  🔄 Develop self-service tooling and paved paths that make
+  safe, reliable deployment patterns the default for
+  engineering teams
+
+   🔍 Identify systemic issues in release and environment
+  management and implement durable, platform-level solutions
+
+  🧪 Build and embed automated validation, safety checks, and
+  rollback mechanisms directly into release workflows
+
+  ☁️ Design and implement environment and configuration
+  management systems, ensuring consistency, traceability, and
+  reproducibility across dev, staging, and production
+
+  🚀 Continuously improve release reliability, scalability, and
+  developer experience through automation and thoughtful
+  system design
+
+  📊 Build and evolve observability into the release lifecycle,
+  enabling visibility into deployment health, performance, and
+  failure modes
+
+  🧩 Own the “last mile” of the platform—where build artifacts
+  become production systems
+
+  What You Bring
+
+  🌟 5+ years of experience building platform systems,
+  infrastructure, or developer-facing tooling
+
+  💻 Strong software engineering skills (TypeScript or
+  similar), with a track record of building internal tools,
+  services, or frameworks
+
+   🏗️ Experience leading or heavily contributing to shared
+  engineering platforms, with meaningful hands-on
+  implementation
+
+  🔧 Deep familiarity with CI/CD systems as platforms—you’ve
+  built on top of them or extended them programmatically
+
+  🐳 Strong understanding of containerized systems (Docker,
+  Kubernetes) and modern deployment architectures
+
+  ☁️ Experience building systems on AWS, especially in multi-
+  environment, production-scale contexts
+
+   📦 Strong understanding of release systems: artifact
+  management, promotion strategies, rollback mechanisms, and
+  deployment safety
+
+  🔍 Proven ability to identify systemic problems and turn them
+  into scalable tooling or platform improvements
+
+  🤝 Experience working across platform domains (CI,
+  infrastructure, SRE), contributing to systems you don’t
+  directly own
+
+  ⚡️ A focus on developer experience, with a track record of
+  reducing friction through automation and self-service
+  tooling
+
+  🧭 A builder’s mindset—you think in terms of systems,
+  abstractions, and leverage, and you lead through
+  implementation
+
+  🤓 Deep curiosity in Agentic, spec-driven development
+
+  Why This Role
+
+  You’ll be a senior individual contributor on the Platform
+  Engineering team, focused on the critical layer between CI
+  systems and production. You’ll build the tooling, workflows,
+  and safeguards that make releases reliable, scalable, and
+  easy for every engineering team.
+
+  This is a role for engineers who like to solve real-world
+  complexity with well-designed systems—and who measure
+  success by how much easier they make it for others to ship
+  software.
+
+  Benefits:
+
+  🤑 Competitive Compensation: Competitive salary and equity
+  packages for all employees
+
+  🏥 Healthcare Plan: Platinum medical, dental, and vision
+
+  🛡️ Free life insurance: Including long-term disability &
+  short-term disability
+
+  🏄 Unlimited PTO: Uncapped vacation days & paid holidays
+
+  👶 Family Leave: Maternity & paternity
+
+  📈 401(k) Contribution: Assured contributes 3% of your
+  income, even if you don't contribute
+
+  🏠 WFH Benefits: Lunch on us 2x/week, monthly phone stipend &
+  other home office perks
+
+  👪 Health FSAs & HSAs: Pre-tax accounts for out-of-pocket
+  medical expenses
+
+  🤝 Team events & Offsites: We're remote, but we regularly get
+  together
+
+  **We have been made aware of individuals falsely posing as
+  recruiters from Assured Insurance Technologies Inc. Please
+  note that we only contact candidates from official
+  @assured.claims email addresses and all interviews are
+  conducted through verified company channels. If you are
+  unsure whether a message is legitimate, please contact us
+  directly at recruiting-ops@assured.claims before sharing any
+  personal information**
+
+  Our Commitment: We are an equal opportunity employer and
+  value diversity at our company. We do not discriminate on
+  the basis of race, religion, color, national origin, sex,
+  gender, gender expression, sexual orientation, age, marital
+  status, veteran status, or disability status. We will ensure
+  that individuals with disabilities are provided reasonable
+  accommodation to participate in the job application or
+  interview process, perform essential job functions, and
+  receive other benefits and privileges of employment. Please
+  contact us to request accommodation.
+industries:
+  - Artificial Intelligence
+  - Insurance
+  - Software
+  - Automation
+posted_date: 2026-08-12
+url: "https://builtin.com/job/staff-software-engineer-platform/9272718"
+source: Built In

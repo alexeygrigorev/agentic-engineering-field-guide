@@ -1,0 +1,89 @@
+job_id: 1320480
+title: Compiler Developer (LLVM, C++)
+company: Access Softek
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 245 Employees
+description: |
+  Access Softek is a recognized name with an established
+  reputation in the LLVM community.
+
+  From early on in LLVM’s origins, we have worked on a number
+  of projects such as a front-end compiler, back-end code
+  generation / optimizations, linkers, code instrumentation,
+  and did so with a focus of targeting different platforms -
+  from well-known platforms to those that are new, quite
+  unique and not yet publicly available.
+
+  We "own" and host the LLVM Lab, and orchestrate the
+  continued integration (LLVM buildbot) for all projects under
+  the LLVM umbrella.
+
+  We are growing our team, and are looking for experienced
+  Compiler Engineers to work on the LLVM and Clang based
+  toolchain. Our product is a set of instruments that includes
+  the Clang compiler, a linker, tools, and libraries adapted
+  and optimized to build safe, efficient applications.
+
+   As a member of the toolchain team, you will:
+
+  - analyze the requirements, research, design, enhance and
+    implement different components of the toolchain to meet
+    the clients needs;
+  - extend the open source LLVM, Clang, binutils code bases to
+    support the client's platform;
+  - closely collaborate with the LLVM community and contribute
+    public patches to the LLVM and Clang repository;
+  - analyze, build and debug the platform code and platform
+    specific tests, analyze and identify system level issues;
+  - develop new and maintain the existing target specific tests.
+
+    Required qualifications:
+
+  - expert knowledge of C/C++;
+  - experience in overall design of compilers, code generation
+    and optimization;
+  - cross-compilation using GCC or Clang;
+  - in-depth understanding of multithreading, object-oriented
+    analysis and design;
+  - version control systems;
+  - good self-motivation, ability to work independently;
+  - strong track record of building high performance, production
+    quality software;
+  - passion for writing clean and effective code;
+  - good English, strong communication and teamwork skills.
+
+    Nice to have qualifications:
+
+  - knowledge of the C++11 / C++14/C++17 features;
+  - knowledge of assemblers, linkers, object file formats,
+    debuggers and experience using them;
+  - familiarity with *nix tools, CMake, make;
+  - scripting languages such as Python and bash.
+
+  Our benefits:
+
+  - Work from anywhere in the world!
+  - Flexible working hours
+  - Experienced development teams
+  - Long-term employment
+  - Competitive salary
+  - Paid vacation and days off on national holidays
+  - Paid sick leave and internal medical insurance policy
+  - Mental health coverage
+  - Global corporate events for all staff
+  - Compensation for training and additional education
+  - Community of practice, regular knowledge sharing among
+    colleagues
+  - Provision of computer equipment
+  - Internet compensation (50$ per month)
+  - Relocation compensation package to be discussed individually
+  - And other benefits, described in detail in the Staff
+    Handbook
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-08-22
+url: "https://builtin.com/job/software-engineer-llvm-compiler-c/1320480"
+source: Built In

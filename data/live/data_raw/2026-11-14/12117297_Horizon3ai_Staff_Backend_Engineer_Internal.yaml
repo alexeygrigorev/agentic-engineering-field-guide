@@ -1,0 +1,283 @@
+job_id: 12117297
+title: Staff Backend Engineer, Internal
+company: Horizon3.ai
+location: USA
+remote: true
+work_type: INTERN
+company_size: 107 Employees
+description: |
+  Get to Know Us
+
+  Horizon3.ai is a fast-growing, remote cybersecurity company
+  dedicated to the mission of enabling organizations to
+  proactively find, fix and verify exploitable attack vectors
+  before criminals exploit them. Our flagship product, the
+  NodeZeroTM platform, delivers production-safe autonomous
+  pentests and other key assessment operations that scale
+  across the largest internal, external, cloud, and hybrid
+  cloud environments. NodeZero has been adopted by
+  organizations of all sizes, from small educational
+  institutions to government agencies and Global 100
+  enterprises. It is used by IT Ops/SecOps teams, consulting
+  pentesters, and MSSPs and MSPs.
+
+  We are a fusion of former U.S. Special Operations cyber
+  operators, startup engineers & operators, and formerly
+  frustrated cybersecurity practitioners. We're committed to
+  helping solve our common security problems: ineffective
+  security tools and false positives, resulting in alert
+  fatigue, blind spots, "checkbox” security culture,
+  cybersecurity skills shortage, and the long lead time and
+  expense of hiring outside consultants. Collectively, we are
+  a team of learn it alls, committed to a culture of respect,
+  collaboration, ownership, and results.
+
+  What You’ll Do
+
+  As a Staff Backend Engineer on the Internal Attack team,
+  you'll set technical direction for the backend systems that
+  power NodeZero's internal pentesting capabilities, from
+  architecture and development through deployment and
+  production operations. You'll lead high-impact work across
+  the services and data pathways that turn the attack team's
+  knowledge-graph output into reliable customer-facing
+  results, including the ETL pipelines, relational data model,
+  SQL queries, GraphQL endpoints, and supporting APIs. You'll
+  be a hands-on technical leader for this domain—resolving its
+  hardest design and production problems, aligning partner
+  teams, and raising the quality and reliability bar beyond
+  your immediate team.
+
+  Responsibilities
+
+  - Set the architecture and technical direction for core Python
+    services and APIs, designing for correctness, performance,
+    maintainability, and long-term evolution.
+  - Lead complex backend initiatives from problem definition and
+    design through delivery and production operation,
+    coordinating dependencies across attack, frontend, data,
+    and other engineering teams.
+  - Design and evolve reliable processing workflows for large-
+    scale, long-running internal assessments and data
+    workloads, including scheduling, retries, idempotency,
+    state management, and failure recovery.
+  - Shape processing and data-access patterns to scale across
+    concurrent workloads, with clear visibility into progress,
+    failures, and throughput.
+  - Lead the design and operation of high-throughput ETL
+    pipelines that transform attack-team knowledge-graph
+    output into reliable, queryable relational datasets for
+    the customer portal.
+  - Guide the attack-path data model and presentation layer so
+    identity, privilege-escalation, and lateral-movement paths
+    are represented accurately and consistently in customer
+    results.
+  - Bring strong judgment to complex SQL: you'll read and
+    optimize raw SQL regularly here, not just ORM calls,
+    untangling unfamiliar queries, identifying performance and
+    correctness risks, and guiding safe production
+    optimization or refactoring that others follow.
+  - Define and evolve GraphQL and graph-based API patterns that
+    let product components and customers explore complex
+    relationships in internal attack data.
+  - Own the operational health of the backend systems in your
+    domain; establish and promote effective practices for
+    observability, uptime, scalability, release readiness, and
+    on-call response.
+  - Drive system architecture decisions across team boundaries,
+    make tradeoffs explicit, and write design documents that
+    give teams a shared direction and reusable technical
+    reference.
+  - Serve as a technical leader in cross-functional planning,
+    aligning backend investments with product priorities and
+    communicating risks, dependencies, and options to
+    technical and non-technical stakeholders.
+  - Mentor and unblock engineers through design discussions,
+    code reviews, and technical guidance; raise engineering
+    standards and help others take on broader ownership.
+  - Partner with frontend engineers, product managers, and
+    designers to turn backend capabilities into a clear,
+    responsive user experience, and ensure attack paths and
+    assessment data are presented clearly.
+
+  What You’ll Bring
+
+  - The ability to own multiple complex initiatives, make sound
+    prioritization decisions, and keep work moving across
+    teams with competing dependencies.
+  - A self-driven, hands-on approach: you can set direction,
+    make progress through ambiguity, and deliver independently
+    while bringing others along, and you say plainly what is
+    and isn't yet guaranteed.
+  - A reliability mindset for distributed work: you design for
+    retries, partial failure, and recovery, and methodically
+    diagnose asynchronous systems and production issues.
+  - Strong technical judgment: you weigh performance,
+    correctness, scalability, operability, and
+    maintainability, and clearly explain tradeoffs and their
+    customer or business impact.
+  - A track record of influencing technical decisions beyond
+    your immediate team and building alignment across
+    engineering and product partners.
+  - A commitment to developing other engineers through
+    mentorship, thoughtful reviews, and clear technical
+    guidance.
+  - Excellent analytical and problem-solving skills, clear
+    communication, and attention to detail.
+  - Strong technical writing for architecture proposals, design
+    docs, runbooks, and API documentation.
+  - A strong desire to keep learning new technologies in a fast-
+    paced Agile environment.
+
+  Required Education / Experience
+
+  - Bachelor's Degree in Computer Science, Computer Engineering,
+    or a related field.
+  - 8+ years of professional software engineering experience
+    using modern object-oriented or functional languages
+    (Python, Java, Go, Scala, C++, TypeScript, etc.).
+  - Demonstrated technical leadership on high-complexity backend
+    or data-platform initiatives, including setting direction
+    and delivering work across multiple teams or stakeholders.
+  - Experience designing, building, and operating production
+    data-processing, ETL, or distributed task-processing
+    systems at scale.
+  - Hands-on experience with backend APIs, relational data
+    models, and SQL in production systems.
+  - Experience building applications on cloud computing
+    platforms such as AWS, Azure, or GCP, and using container
+    technologies such as Docker.
+
+  What Sets You Apart
+
+  - Deep experience shaping cross-team backend architecture and
+    establishing practices that improve the quality,
+    reliability, or operability of systems beyond your own
+    team.
+  - You can sit down with a slow query, explain-analyze it, and
+    come back with a rewrite that changes the runtime by an
+    order of magnitude, and you've set that bar enough times
+    that it's routine on this team, not heroic.
+  - You've built ETL that ran unattended against messy, real-
+    world source data and didn't silently drop records or
+    stall without alerting, and you've held it up under wildly
+    uneven per-tenant scale.
+  - You're comfortable being the connective tissue between
+    backend, frontend, and data pipelines, and you set the
+    patterns for the seam where they meet.
+  - Fluency with the modern Python toolchain this team runs on,
+    including SQLAlchemy, versioned migrations, uv, ruff,
+    mypy, and pytest, and the inclination to raise those
+    standards rather than just meet them.
+  - Experience designing durable, observable data workflows with
+    orchestration engines such as Temporal, Prefect, Airflow,
+    Celery, or similar.
+  - Deep experience with GraphQL backends and with graph
+    databases such as Neo4j.
+  - A track record of owning observability for what you ship,
+    metrics, alerting, and dashboards (for example Datadog,
+    Prometheus, or OpenTelemetry), so the team watches it in
+    production, not you personally, and you raise that
+    operational bar for others.
+  - Systems engineering experience with attack-path data,
+    relational datasets, and the services that make complex
+    security results useful to customers.
+  - Experience deploying containerized services, including in
+    Kubernetes-based production environments.
+  - Experience building platform capabilities or internal
+    tooling that multiple engineering teams rely on.
+  - Experience in cybersecurity or with internal attack,
+    identity, privilege-escalation, and vulnerability data,
+    with enough of an offensive-security frame of reference to
+    collaborate fluently with attack engineers, no glossary
+    required.
+
+  Travel Required
+
+  We are a fully remote company, and this job may require up
+  to 5% of travel to be successful.
+
+  Compensation and Values
+
+  At Horizon3, we believe that our people are our greatest
+  asset, and our compensation philosophy reflects this core
+  value. We are committed to fostering an environment where
+  all employees feel valued, respected, and rewarded for their
+  contributions. Our compensation structure is designed to be
+  fair, competitive, and transparent, ensuring that every team
+  member is recognized and compensated equitably across roles,
+  levels, and locations.
+
+  In accordance with various State’s transparency regulations,
+  we provide the following salary range information for this
+  position:
+
+  - Base salary range: $229,000 - $270,000 annually. The exact
+    salary will be determined based on the selected
+    candidate’s location, qualifications, experience, and
+    relevant skills.
+  - Additional compensation: All full-time roles are eligible
+    for an equity package in the form of stock options.
+
+  Perks of Horizon3
+
+  - Inclusive Team: We value diversity and promote an inclusive
+    culture where everyone can thrive.
+  - Growth Opportunities: Be part of a dynamic and growing team
+    with numerous career development opportunities.
+  - Innovative Culture: Work in a collaborative environment that
+    encourages creativity and out-of-the-box thinking.
+  - Hybrid & Remote Work: We embrace a mix of remote and hybrid
+    work models depending on role and location, including our
+    Chicago office, where some roles require regular in-office
+    presence.
+  - Competitive Compensation: We offer competitive salary,
+    equity and benefits. Our benefits include health, vision &
+    dental insurance for you and your family, a flexible
+    vacation policy, and generous parental leave.
+
+  You Belong Here
+
+  Horizon3 is not just an equal opportunity employer - we are
+  a community that values diversity, equity, and inclusion as
+  fundamental principles of our culture and success. We are
+  dedicated to fostering a workplace where everyone feels
+  welcome and respected, regardless of race, color, religion,
+  sex, national origin, age, disability, veteran status,
+  sexual orientation, gender identity or expression, genetic
+  information, marital status, hair length or any other
+  legally protected status by law.
+
+  Our commitment to diversity and inclusion means we strive to
+  attract, develop, and retain a workforce that reflects the
+  varied communities we serve. We believe that diverse
+  perspectives drive innovation and strengthen our ability to
+  create cutting-edge cybersecurity solutions. At Horizon3,
+  every team member is valued and supported in an environment
+  that encourages personal and professional growth.
+
+  We welcome candidates from all backgrounds and experiences,
+  and we encourage all qualified individuals to apply. Come be
+  a part of Horizon3, where your unique contributions are
+  recognized, and your potential is limitless.
+
+  Other Duties
+
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties or
+  responsibilities that are required of the employee. Duties,
+  responsibilities, and activities may change at any time with
+  or without notice.
+
+  Application Note
+
+  In any materials you submit, you may redact or remove age-
+  identifying information such as age, date of birth, or dates
+  of school attendance or graduation. You will not be
+  penalized for redacting or removing this information.
+industries:
+  - Artificial Intelligence
+  - Cybersecurity
+posted_date: 2026-11-07
+url: "https://builtin.com/job/staff-backend-engineer-internal/12117297"
+source: Built In

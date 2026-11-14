@@ -1,0 +1,102 @@
+job_id: 12091913
+title: Backend Engineer (m/f/d)
+company: Care Companion GmbH
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 43 Employees
+description: |
+  Python, FastAPI and PostgreSQL in a system we built entirely
+  ourselves. Full stack welcome. Berlin or nearby, hybrid.
+  Full-time, permanent. Start: as soon as possible What this
+  is about Careship helps families find reliable support in
+  everyday life: all across Germany, through self-employed
+  caregivers and our own employed caregivers. Behind both
+  stands a platform we built entirely ourselves, live since
+  August 2026: a Python backend, an internal staff portal, an
+  app for customers and an app for caregivers. The system
+  covers everything from the first inquiry to payroll:
+  matching, scheduling, care budgets, billing with care
+  insurance funds, payment processing and digital contracts,
+  plus email, chat, WhatsApp and phone calls in one inbox. It
+  is live, it runs the operations of two companies, and it
+  grows every week. This is why we are looking for the second
+  person in our permanent engineering duo. Your role You work
+  as one of two engineers on our system, with a focus on the
+  Python backend: data model, business logic, APIs and the
+  integrations our operations run on. If full stack is your
+  thing, the rest is open to you: the staff portal in Next.js
+  and our two apps in React Native. You share responsibility
+  and cover for each other, in everyday work and during
+  vacations. * You build features from the data model through
+  the business logic to the finished API endpoint, and all the
+  way to the screen if you want. * You work on core topics
+  like the budget engine, billing, the payroll pipeline and
+  matching. Logic where diligence really counts. * You
+  maintain code in production that real people use every day:
+  our operations team, caregivers, and customers with their
+  families. * You work directly with product and the tech
+  lead, no layers in between. Requirements arrive as fully
+  worked-out specifications from our knowledge base, not as
+  two-line tickets. * You get freedom and real responsibility:
+  the system is brand new, much of it is taking shape right
+  now, and you help decide where it goes. The roadmap includes
+  shift planning, analytics, a marketing module and an
+  ambassador platform. Our stack * Backend: Python 3.12,
+  FastAPI, SQLAlchemy 2, Alembic, PostgreSQL, on Google Cloud
+  (Cloud Run, Pub/Sub, Cloud Storage) * Portal: Next.js 16,
+  React 19, TypeScript, MUI, TanStack Query, generated OpenAPI
+  client * Apps: React Native with Expo, shipped through the
+  app stores * Integrations: Google Workspace (Gmail,
+  Calendar, Meet), Auth0, Aircall, WhatsApp and DATEV, plus
+  payment and e-signature providers * How we work: AI-
+  assisted. Specifications, code and reviews are created with
+  AI support, as our everyday standard, not as an experiment.
+  What you bring * At least 3 years of experience in
+  professional product development, more is a plus * Solid
+  Python experience in production, ideally with FastAPI and
+  SQLAlchemy or comparable frameworks * Confidence with
+  relational databases and SQL, PostgreSQL in our case * You
+  already code with AI support as a matter of course, ideally
+  with real enthusiasm. For us this is a requirement, because
+  it is how we work every day. * Diligence where mistakes cost
+  money or trust: billing, payments, personal data * Fluent
+  English. German is a plus. * Appetite for a small team with
+  a lot of responsibility and a direct line to the people who
+  use your software Nice to have * TypeScript, React, React
+  Native or Next.js, if you also want to work on the frontend
+  * App store releases and Expo EAS * Google Cloud, Google
+  Workspace APIs, or experience with payment and e-signature
+  integrations * Experience in regulated domains such as
+  health, care or fintech * WebSockets and real-time features
+  * German language skills, since our domain and our
+  specifications are in German What we offer * A brand-new
+  system with real room to shape it: two engineers, clear
+  specifications, no decades-old legacy, and plenty of space
+  to keep building * Freedom and responsibility from day one,
+  flat hierarchies, no meeting marathons * Real social impact:
+  your work helps seniors get support and makes sure
+  caregivers are paid fairly and on time * Home office with
+  regular shared days at our Berlin office * Several weeks per
+  year of fully remote work, from abroad if you like * 30 days
+  of paid vacation * A new MacBook with serious power * An
+  annual learning budget plus two extra paid learning days *
+  An Urban Sports membership * Deutschlandticket (Germany-wide
+  public transport pass) * Regular team events What happens
+  next Our process is deliberately fast and straightforward,
+  in three steps: a short intro call, a technical interview,
+  and finally a small case study plus meet the team. No need
+  to send us a novel. Your CV, GitHub or LinkedIn profile and
+  a few sentences on why this is exactly your thing are
+  plenty. Compensation The annual salary for this permanent,
+  40-hour-per-week role is EUR 60,000–70,000 per year. Join us
+  If you match most of these requirements and want to apply
+  your engineering skills to meaningful work, we encourage you
+  to send us your application through the platform. We look
+  forward to reviewing your background and discussing how you
+  can contribute to our team in Berlin.
+industries:
+  - Healthtech
+  - On-Demand
+posted_date: 2026-11-05
+url: "https://builtin.com/job/backend-engineer-m-f-d/12091913"
+source: Built In

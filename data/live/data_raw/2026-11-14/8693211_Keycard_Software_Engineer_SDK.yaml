@@ -1,0 +1,169 @@
+job_id: 8693211
+title: Software Engineer, SDK
+company: Keycard
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 12 Employees
+description: |
+  About Keycard
+
+  At Keycard, we're building identity and access
+  infrastructure for the agent-native era, where software
+  isn't static but a dynamic, constantly changing system of AI
+  agents working on behalf of people and businesses. Keycard
+  gives every agent a verified identity and issues short-
+  lived, task-scoped credentials at runtime, so agents can
+  only do what they were asked to do, and every action is
+  fully auditable. We're backed by a16z, Boldstart, and Acrew,
+  and our founding team built and scaled Snyk, Auth0,
+  HashiCorp, and Heroku.
+
+  The Role
+
+  We're hiring a staff-level Software Engineer, SDK to own the
+  libraries developers use to put Keycard in front of their
+  agents and MCP servers. For most teams, the SDK is the first
+  Keycard code they touch: a few lines that add OAuth to an
+  MCP server, then token exchange so a tool can call GitHub or
+  Google as the user.
+
+  Keycard is a control plane for agents: identity, credential
+  exchange, delegation, policy, and audit. Our SDKs come in
+  two kinds. The REST API clients for Python, TypeScript, and
+  Go are generated from our OpenAPI spec. The agent SDKs are
+  handwritten: OAuth primitives, MCP server and client auth,
+  agent-to-agent (A2A) delegation (in preview), and
+  integrations for frameworks like FastMCP, LangChain,
+  Temporal, and Cloudflare Workers. The hard design work is on
+  the handwritten side.
+
+  Python is the most complete today. TypeScript is in preview
+  and working toward parity, and Go and Ruby are earlier.
+  Keeping behavior consistent across four languages, while
+  priorities differ and TypeScript comes next, is the core of
+  the job. You'll work with founders, product, and the
+  engineers building the services underneath.
+
+  What You'll Do
+
+  - API design. Keep authorization concepts and behavior
+    consistent across languages while making each API
+    idiomatic. Map credential types and error semantics across
+    Python, TypeScript, Go, and Ruby.
+  - Safe defaults. Require the expected issuer and audience for
+    token validation, and handle signing-key outages without
+    accepting unverified tokens. Refresh client-held access
+    tokens when the grant permits it, and return clear errors
+    when fresh authorization is needed.
+  - Track upstream. Our MCP package follows the upstream MCP
+    SDK's major versions, and framework integrations are
+    tested nightly against each upstream's latest release.
+    Ship support for new versions quickly, and decide when an
+    old line moves to security fixes only.
+  - Releases. Each package versions and publishes on its own, to
+    PyPI, npm, and RubyGems, with Go modules released as
+    versioned tags in their repos. Own semver, changelogs,
+    deprecations, and the CI that bumps and publishes on
+    merge.
+  - Generated clients. Own the path from our OpenAPI spec to the
+    generated clients. Fix problems in the spec, not in
+    generated code.
+  - Developer experience. Quick starts, examples, and docs that
+    take someone from install to a protected MCP server, and a
+    loop that turns developer feedback into API changes.
+  - Agents at work. Coding agents already open a good share of
+    our SDK pull requests. Decide what they're trusted to do,
+    and keep tests and review strong enough to catch what they
+    get wrong.
+
+  What We're Looking For
+
+  - You've shipped libraries or SDKs that other developers
+    depend on, and supported them through breaking changes.
+  - You've kept one API consistent across at least two
+    languages. You write idiomatic Python and TypeScript; Go
+    or Ruby is a plus.
+  - You know OAuth 2.0 and OIDC at the library level: token
+    verification, refresh, PKCE, and token exchange (RFC
+    8693).
+  - You've managed versioning in the real world: peer dependency
+    ranges, maintenance branches, and deprecations users could
+    plan around.
+  - You've built framework integrations or protocol libraries,
+    and can work through MCP's authorization flows and
+    compatibility changes.
+
+  Strong Candidates May Also Have
+
+  - Code generation for multi-language SDKs: Stainless,
+    Speakeasy, Fern, OpenAPI, or protobuf.
+  - Plugin or integration ecosystems, like Terraform providers,
+    framework adapters, or editor extensions.
+  - Contributions to MCP, the A2A protocol (which we support in
+    preview), or open source agent frameworks.
+  - Edge runtimes like Cloudflare Workers, or durable execution
+    like Temporal.
+
+  Your First 90 Days
+
+  - Close the biggest gaps between the TypeScript and Python
+    SDKs, toward dropping TypeScript's preview label.
+  - Publish a cross-language API guide: names, errors, and
+    credential types, mapped across Python, TypeScript, Go,
+    and Ruby.
+  - Take one upstream breaking change, like a new MCP SDK major
+    or framework release, from nightly failure to released
+    support.
+  - Agree an SDK roadmap with product and engineering, including
+    where generated clients end and handwritten SDKs begin.
+
+  Who Will Love This Job
+
+  - You care about the first ten lines a developer writes with
+    your library.
+  - You'd rather design an API once than explain it four
+    different ways.
+  - You use coding agents every day, and you know which of their
+    changes need a closer look.
+
+  What We Offer
+
+  - Build at the Frontier: Work every day at the frontier of
+    agent-native systems — shipping, inventing, and iterating
+    on technology that hasn’t been built before. You’ll be
+    given huge autonomy, the opportunity to gain mastery, and
+    the chance to work in a team that holds each other
+    accountable to succeed.
+  - Truly Agent-Native Culture: At Keycard, we don’t just enable
+    others to adopt agents — we use them ourselves to build.
+    You’ll help shape an organization that embeds AI into its
+    foundation as an enduring competitive advantage.
+  - Compensation With Upside: Market-competitive salaries and
+    generous equity packages (4-year vest, 1-year cliff) give
+    you the security to focus on building — and the asymmetric
+    upside of ownership in a company chasing a category-
+    defining mission.
+  - Comprehensive Benefits & Recharge: Health, dental, vision,
+    and paramedical coverage for you and your family, plus 4
+    weeks vacation, 11 statutory holidays, and 1 volunteer day
+    annually. We encourage at least 2 weeks off each year to
+    fully recharge.
+  - Tools That Keep You Ahead: A new MacBook Pro, a $500 stipend
+    for peripherals, and the best AI tools available so you
+    can work at the forefront of agent-native workflows.
+  - Remote-First Flexibility: We are a remote-first team
+    prioritizing asynchronous collaboration, with hiring
+    focused in North and South America. Work where you’re
+    strongest — we just want the best.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Information Technology
+  - Software
+posted_date: 2026-10-26
+url: "https://builtin.com/job/software-engineer-sdk/8693211"
+source: Built In

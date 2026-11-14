@@ -1,0 +1,119 @@
+job_id: 11893977
+title: Backend Lead - Python - Dallas, TX
+company: Photon
+location: USA
+locations:
+  - USA
+  - Dallas, USA
+remote: true
+work_type: FULL_TIME
+company_size: 5,017 Employees
+description: |
+  We are looking for a Backend Lead to architect and build the
+  robust infrastructure required to power our Agentic AI
+  products. You will lead the development of the "brain" of
+  our platform—the layer where LLMs are transformed into
+  autonomous agents that can plan, use tools, and solve
+  complex problems.
+
+
+
+  The ideal candidate is a Python expert who thrives on
+  complex system design, concurrency, and the unique
+  challenges of integrating probabilistic AI into
+  deterministic backend environments.
+
+
+
+  Key Responsibilities
+
+
+
+  - Agent Architecture & Orchestration: Lead the design of
+    multi-agent systems using frameworks like LangGraph,
+    CrewAI, or AutoGen, ensuring agents can transition between
+    states (Planning, Execution, Review) reliably.
+  - Scalable API Development: Architect high-performance,
+    asynchronous APIs (primarily using FastAPI) to handle
+    long-polling or streaming connections for AI-generated
+    content.
+  - Tooling & Function Calling Infrastructure: Build a secure
+    "sandbox" environment that allows AI agents to execute
+    code, query databases, and interact with third-party APIs
+    safely and efficiently.
+  - RAG & Memory Management: Oversee the integration of Vector
+    Databases (e.g., Pinecone, Weaviate, or PGVector) and
+    design "memory" systems that allow agents to retain
+    context across sessions.
+  - Observability & Tracing: Implement specialized monitoring
+    and logging (using tools like LangSmith, Arize Phoenix, or
+    OpenTelemetry) to trace agent decision-making and debug
+    "looping" behaviors.
+  - Security & Guardrails: Design backend-level guardrails to
+    prevent prompt injection and ensure that autonomous agents
+    operate within strictly defined permission boundaries.
+  - Leadership & Mentoring: Set the standard for Python coding
+    excellence, conduct deep architectural reviews, and mentor
+    engineers on the nuances of AI-integrated backend
+    development.
+
+
+
+  Technical Requirements
+
+
+
+  - Python Mastery: 10+ years of professional backend
+    experience, with expert-level knowledge of Asynchronous
+    Programming (Asyncio), Pydantic (v2), and Pytest.
+  - AI Frameworks: Hands-on experience building production-grade
+    applications with LangChain or similar orchestration
+    libraries.
+  - Concurrency & Task Management: Deep experience with message
+    brokers and task queues (e.g., Redis, RabbitMQ, or Celery)
+    to manage long-running agentic tasks.
+  - Database Expertise: Proficiency in PostgreSQL (relational)
+    and at least one Vector Database. Experience in optimizing
+    complex queries for AI retrieval.
+  - Cloud Infrastructure: Strong knowledge of Docker,
+    Kubernetes, and serverless architectures within AWS,
+    Azure, or GCP.
+  - Design Patterns: Mastery of microservices architecture,
+    event-driven design, and API versioning.
+
+
+
+  Preferred Qualifications
+
+
+
+  - Experience with LLM fine-tuning or local model deployment
+    (vLLM, Ollama).
+  - Knowledge of Distributed Systems and handling the "cold
+    start" or latency issues associated with large-scale AI
+    models.
+  - Background in Cybersecurity, specifically regarding
+    autonomous systems and API security.
+
+
+
+
+
+  Compensation, Benefits and Duration
+
+  Minimum Compensation: USD  46,000 Maximum Compensation: USD
+  162,000 Compensation is based on actual experience and
+  qualifications of the candidate. The above is a reasonable
+  and a good faith estimate for the role. Medical, vision, and
+  dental benefits, 401k retirement plan, variable
+  pay/incentives, paid time off, and paid holidays are
+  available for full time employees. This position is not
+  available for independent contractors No applications will
+  be considered if received more than 120 days after the date
+  of this post
+industries:
+  - Agency
+  - Information Technology
+posted_date: 2026-10-26
+url: "https://builtin.com/job/backend-lead-python-dallas-tx/11893977"
+source: Built In

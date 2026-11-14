@@ -1,0 +1,155 @@
+job_id: 11878049
+title: Staff Software Engineer, Core Services
+company: OneSignal
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 102 Employees
+description: |
+  OneSignal is the autonomous lifecycle marketing engine for
+  B2C app companies. Marketers can orchestrate the campaigns
+  that onboard, engage, and retain users, increasing LTV and
+  reducing churn. Companies like Zynga, Bitcoin.com, and
+  Philips use OneSignal to drive outcomes with AI that scales
+  with you.
+
+  We’re Series C, venture-backed by SignalFire, Rakuten
+  Ventures, Y Combinator, HubSpot, and BAM Elevate. We offer
+  remote work as the default option in the United States in
+  California, Colorado, Florida, Massachusetts, New York, New
+  Jersey, Ohio, Oregon, Pennsylvania, Texas, Utah and
+  Washington. As well as in the UK, Singapore, and Canada -
+  with plans to expand the locations we support in the future.
+  Some roles are hybrid roles and will be listed as such. We
+  have offices in San Francisco and San Mateo in CA, in
+  London, UK, and offer flex seating options for employees to
+  work together in-person in NY and other areas. Hiring in
+  Singapore is done in partnership with a local EOR, and
+  hiring in Canada is done in partnership with Rippling's EOR.
+
+  OneSignal has a lot of the great tech startup qualities
+  you'd expect, but we don't stop there. Our massive scale and
+  small team, emphasis on collaboration, and focus on
+  ownership and personal growth make OneSignal a uniquely
+  great place to work.
+
+
+
+  About The Team:
+
+  OneSignal powers billions of messages and HTTP requests
+  every day. We’ve achieved this scale by pairing modern,
+  high-performance data stores with efficient technologies
+  such as Rust, creating reliable systems that maximize
+  performance and resource utilization.
+
+  The Core Services team builds and operates the foundational
+  services behind OneSignal’s platform, including our delivery
+  pipeline, gRPC services, Kafka infrastructure, and other
+  systems processing hundreds of thousands of events per
+  second. You’ll work with technologies including Rust, gRPC,
+  Redis, Kafka, Scylla, ClickHouse, Pulsar, PostgreSQL, and
+  occasionally Golang and Ruby.
+
+  As OneSignal evolves into a fully autonomous platform, the
+  Core Services team will build and scale the high-stakes
+  services that our products and engineering teams rely on. As
+  a Staff Software Engineer, you’ll lead significant projects
+  and directly shape the reliability, performance, and future
+  of our platform.
+
+
+
+  What You'll Do
+
+  - Collaborate with engineers to architect and implement high-
+    performance services that are durable and reliable
+  - Participate in code reviews, design reviews, and production
+    on-call rotation
+  - Work together with the team to resolve production issues and
+    ensure system scalability
+  - Conduct data analysis, performance monitoring, and system
+    optimization through benchmarking/profiling.
+  - Work independently to drive experiments and solutions for
+    business needs
+  - Design synchronous and asynchronous APIs for communicating
+    between services in a large distributed system
+  - Design schemas for relational and non-relational databases
+
+
+
+  What You'll Bring:
+
+  - 8+ years of experience working as a software engineer
+  - Experience operating reliable production systems at scale
+  - Experience writing high-performance code in a compiled
+    language such as Rust, C/C++, or Golang
+  - Ability to reason about how data flows through distributed
+    systems
+  - Experience using LLM-powered coding tools, such as Claude,
+    to accelerate development, improve code quality, and
+    enhance engineering workflows.
+  - Bias towards automating the boring stuff
+
+
+
+  We value a variety of experiences, and these are not
+  required. It would be a added bonus if you have experience
+  in any of the following:
+
+  - Experience with any of Redis, Kafka, Postgres, ClickHouse,
+    gRPC
+  - Experience profiling applications to improve performance in
+    terms of time/CPU/memory
+  - Experience debugging issues in distributed systems
+
+  The New York and California base salary for this full time
+  position is between $200,000 to $220,000. Your exact
+  starting salary is determined by a number of factors such as
+  your experience, skills, and qualifications. In addition to
+  base salary, we also offer a competitive equity program and
+  comprehensive and inclusive benefits.
+
+  Qualities we look for:
+
+  - Friendliness & Empathy
+  - Accountability & Collaboration
+  - Proactiveness & Urgency
+  - Growth Mindset & Love of Learning
+
+  In keeping with our beliefs and goals, no employee or
+  applicant will face discrimination/harassment based on:
+  race, color, ancestry, national origin, religion, age,
+  gender, marital domestic partner status, sexual orientation,
+  gender identity, disability status, or veteran status. Above
+  and beyond discrimination/harassment based on 'protected
+  categories,' we also strive to prevent other, subtler forms
+  of inappropriate behavior (e.g., stereotyping) from ever
+  gaining a foothold in our office. Whether blatant or hidden,
+  barriers to success have no place in our workplace.
+
+  Applicants with disabilities may be entitled to reasonable
+  accommodation under the terms of the Americans with
+  Disabilities Act and certain state or local laws. A
+  reasonable accommodation is a change in the way things are
+  normally done which will ensure an equal employment
+  opportunity without imposing undue hardship on OneSignal.
+  Please inform us if you need assistance completing any forms
+  or to otherwise participate in the application and/or
+  interview process.
+
+  OneSignal collects and processes personal data submitted by
+  job applicants in accordance with our Privacy Policy -
+  including GDPR and CCPA compliance. Please see our privacy
+  notice for job applicants.
+industries:
+  - Mobile
+  - Other
+  - Software
+  - Analytics
+posted_date: 2026-10-26
+url: "https://builtin.com/job/staff-software-engineer-core-services/11878049"
+source: Built In

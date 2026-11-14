@@ -1,0 +1,130 @@
+job_id: 12131769
+title: Engineering Manager, Site Reliability Engineering
+company: Baseten
+location: London, GBR
+work_type: FULL_TIME
+company_size: 350 Employees
+description: |
+  ABOUT BASETEN
+
+  Baseten powers mission-critical inference for the world's
+  most dynamic AI companies, like Cursor, Notion,
+  OpenEvidence, Abridge, Clay, Gamma, and Writer. By uniting
+  applied AI research, flexible infrastructure, and seamless
+  developer tooling, we enable companies operating at the
+  frontier of AI to bring cutting-edge models into production.
+  We're growing quickly and recently raised our $1.5B Series
+  F, led by Altimeter Capital, Conviction Partners, and Spark
+  Capital. Join us and help build the platform engineers turn
+  to ship AI products.
+
+  RESPONSIBILITIES
+
+  - Recruit, hire, and grow Baseten’s first SRE team in London,
+    with ongoing coaching, feedback, and career development
+    through regular 1:1s.
+  - Set clear performance expectations, hold a high bar, and
+    foster a culture of ownership, accountability, and
+    continuous improvement.
+  - Own the reliability of Baseten’s multi-cloud Kubernetes
+    infrastructure during your team’s hours, including
+    incident response, post-mortems, and remediation tracking.
+  - Partner with SRE leadership in the US to design follow-the-
+    sun on-call rotations, escalation paths, and handoff
+    processes.
+  - Serve as the escalation point for major incidents, drive
+    resolution with urgency, and make sure the team learns
+    from every incident.
+  - Drive technical decisions through design reviews, code
+    reviews, and architectural discussions. Turn the
+    reliability roadmap into clear team priorities and
+    milestones, and hold the team accountable for delivering
+    them.
+  - Lead the team in defining and instrumenting SLOs and SLIs,
+    and in building observability infrastructure (metrics,
+    logging, dashboards, and alerting) as code.
+  - Turn recurring failure patterns and tribal knowledge into
+    runbooks, automated mitigations, and self-healing systems.
+  - Partner with engineering, forward deployed, capacity, and
+    product teams to raise the operational floor across the
+    company, and represent your team’s progress, capacity, and
+    tradeoffs clearly to leadership.
+  - Ensure the fleet is healthy and operational across all
+    clusters. Interact with vendors and internal teams to
+    remediate node failures and reliability concerns.
+  - Exercise and encourage good judgment on tooling and
+    architectural tradeoffs, with a bias against unnecessary
+    complexity.
+
+  REQUIREMENTS
+
+  - 4+ years of experience directly managing engineers in an
+    SRE, cloud infrastructure, or platform engineering
+    context.
+  - Extensive hands-on experience with Kubernetes, with the
+    ability to engage credibly in architectural discussions
+    and code reviews (multi-cloud experience across EKS, GKE,
+    or similar is a strong plus).
+  - Strong background building and maintaining scalable
+    production infrastructure.
+  - Strong foundation in observability tooling: metrics
+    (VictoriaMetrics, Prometheus), logging (Loki, ELK),
+    dashboards (Grafana), and alerting pipelines.
+  - Experience with infrastructure-as-code (Terraform, Helm) and
+    GitOps workflows (Flux CD, ArgoCD).
+  - Experience leading incident response, running post-mortems,
+    and building on-call rotations and runbooks.
+  - Track record of recruiting and growing engineering talent.
+  - Strong written and verbal communication skills, with the
+    ability to collaborate across time zones and influence
+    without direct authority.
+  - Openness to learning about ML infrastructure. Prior machine
+    learning experience is not required.
+  - Ability to work onsite in our London office 3 days a week.
+
+  NICE TO HAVE
+
+  - Experience building a new team or establishing an
+    engineering presence in a new region.
+  - Observability-as-code experience.
+  - Background in multi-cloud and hybrid environments.
+  - Familiarity with incident management platforms (incident.io
+    or similar).
+  - Background in GPU infrastructure, or in diagnosing runtime
+    issues around latency, memory behaviour, GPU utilisation,
+    and concurrency.
+
+  BENEFITS
+
+  - Competitive compensation, including meaningful equity
+  - (U.S. only) 100% coverage of medical, dental, and vision
+    insurance for employee and dependents
+  - Flexible PTO policy including company wide Winter Break (our
+    offices are closed from Christmas Eve to New Year's Day!)
+  - Paid parental leave
+  - Fertility and family-building stipend through Carrot
+  - (U.S. only) Company-facilitated 401(k)
+  - Exposure to a variety of ML startups, offering unparalleled
+    learning and networking opportunities.
+
+  Apply now to embark on a rewarding journey in shaping the
+  future of AI! If you are a motivated individual with a
+  passion for machine learning and a desire to be part of a
+  collaborative and forward-thinking team, we would love to
+  hear from you.
+
+  At Baseten, we are committed to fostering a diverse and
+  inclusive workplace. We provide equal employment
+  opportunities to all employees and applicants without regard
+  to race, color, religion, gender, sexual orientation, gender
+  identity or expression, national origin, age, genetic
+  information, disability, or veteran status.
+
+  We are an Equal Opportunity Employer and will consider
+  qualified applicants with criminal histories in a manner
+  consistent with applicable law (by example, the requirements
+  of the San Francisco Fair Chance Ordinance, where
+  applicable).
+posted_date: 2026-11-07
+url: "https://builtin.com/job/engineering-manager-site-reliability-engineering/12131769"
+source: Built In

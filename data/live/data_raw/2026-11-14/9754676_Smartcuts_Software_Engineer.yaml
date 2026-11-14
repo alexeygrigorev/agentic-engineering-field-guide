@@ -1,0 +1,43 @@
+job_id: 9754676
+title: Software Engineer
+company: Smartcuts
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  Smartcuts is building a browser extension that turns your
+  clicks and keystrokes into shareable, no-code automations
+  (1-minute video). We're looking for individuals who approach
+  their craft with curiosity, clarity, and an appetite to
+  learn to join our tiny but mighty distributed team.
+
+  Smartcuts investors include Y Combinator, SignalFire, and
+  prominent angels including the founders of Fitbit, Hubspot,
+  Lyft, and Segment.
+
+  We use ReasonML, ReScript, Next.js, Vercel, GraphQL, and the
+  serverless database Fauna. Our choices were built on a
+  preference for strongly typed, functional languages and for
+  serverless architectures -- choices that allow us to focus
+  on the necessary, not the incidental, complexity of the
+  problem space.
+
+  Some of the interesting engineering and design challenges in
+  this problem space?
+
+  - How do you design a product that doesn't expose engineering
+    concepts to users?
+  - How can you design an algorithm that can reliably locate
+    elements on a page, without asking the user to specify css
+    selectors?
+  - How can you leverage AI to automatically detect and extract
+    structured records from a web page?
+industries:
+  - Artificial Intelligence
+  - Productivity
+  - Software
+  - Automation
+posted_date: 2026-08-06
+url: "https://builtin.com/job/software-engineer/9754676"
+source: Built In

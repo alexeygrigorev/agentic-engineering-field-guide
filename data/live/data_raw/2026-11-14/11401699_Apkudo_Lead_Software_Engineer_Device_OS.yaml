@@ -1,0 +1,140 @@
+job_id: 11401699
+title: Lead Software Engineer, Device OS
+company: Apkudo
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 120 Employees
+description: |
+  Lead Software Engineer, Device OS
+
+  Team: Device OS · Type: Individual Contributor · Location:
+  Remote (US-based) · Reports to: Senior Manager, Device OS
+
+  About the Role
+
+  Apkudo builds the intelligence layer for the device
+  lifecycle. Machines deployed in customer facilities inspect,
+  test, clean, sort, store, and retire devices at industrial
+  volume, and applications running alongside them carry our
+  inspection and diagnostic models. Device OS is the layer all
+  of it is reached through — one interface to communicate with
+  a machine or an application, configure it, monitor it, and
+  deploy new software to it.
+
+  We’re looking for a Lead Software Engineer to build that
+  layer. You will own the integration between the platform and
+  everything running in the field, the mechanism that deploys
+  Apkudo software into the ecosystem, and the remote
+  monitoring that makes a distributed fleet legible. When a
+  new computer vision model is ready, you own the path that
+  gets it onto the fleet safely. When an agent is ready to run
+  in a customer operation, you own how it is deployed,
+  observed, and rolled back.
+
+  To be clear about the boundary: this role does not write the
+  control software that runs a machine. Robotics and appliance
+  teams own that. You own the interface those machines are
+  reached through, the deployment path into them, and the
+  platform-side systems that make them manageable at scale. If
+  you want to build platform infrastructure that reaches the
+  physical world, this is that role.
+
+  What You’ll Do
+
+  - Build the integration layer. The services and contracts that
+    connect machines and applications in the field to the
+    Apkudo platform — identity, configuration, command, and
+    event flow in both directions.
+  - Own the deployment mechanism. How Apkudo software reaches
+    the ecosystem: application releases, computer vision and
+    diagnostic models, and agents. Packaging, distribution,
+    staged rollout, versioning, and rollback across a
+    heterogeneous fleet.
+  - Build remote monitoring. Telemetry, health, and diagnostics
+    for every machine on the platform, and the alerting and
+    investigation tooling built on top of it.
+  - Deliver a unified control surface. A single place to see,
+    configure, and operate machines and applications, rather
+    than a different path for every machine type.
+  - Partner with robotics engineers on interface design. You are
+    the counterpart who answers “how should my machine talk to
+    the platform,” and you are accountable for that answer
+    being a good one. Developer experience is part of the job,
+    not an afterthought.
+  - Partner with design on the operator experience. Monitoring
+    and configuration are an operator-facing product, not an
+    internal console with a table in it.
+  - Collaborate across the platform. Work with Device AI on
+    getting models and agents from training into production on
+    real hardware, and with Device Passport on the event
+    schema everything in the field emits.
+
+  What You’ll Bring
+
+  - Significant experience building and shipping production
+    backend or full-stack software, including technical
+    leadership of a substantial system.
+  - Strong distributed systems fundamentals: services, APIs,
+    messaging, and the failure modes that come with an
+    unreliable network between you and the thing you are
+    managing.
+  - Experience with deployment or release infrastructure —
+    artifact distribution, versioning, staged rollout,
+    rollback — and a clear point of view on what makes a
+    deploy safe.
+  - Experience with observability in practice: instrumentation,
+    metrics, logs, alerting, and remote diagnosis of something
+    you cannot physically touch.
+  - You design interfaces as products. You have written an API
+    or SDK that other engineers depended on, and improved it
+    based on how they actually used it.
+  - Comfort working across an organizational boundary with
+    people who are not software engineers — hardware,
+    robotics, operations — and translating between what they
+    need and what the platform can offer.
+  - Willingness to contribute to user-facing surfaces, or to
+    partner closely with design to get them right.
+  - Genuine engagement with where AI is going — using modern AI
+    tooling in your own work, and interested in the problem of
+    getting models and agents deployed and operating reliably
+    in production.
+  - Authorized to work in the United States. This role is US-
+    based.
+
+  Nice to Have
+
+  - Experience with fleet, edge, or IoT device management at
+    scale — provisioning, configuration, over-the-air update,
+    or mobile device management.
+  - Experience with model deployment or MLOps, particularly
+    getting models onto constrained or edge runtimes.
+  - Experience building for a heterogeneous fleet you do not
+    fully control, where each unit has a different
+    configuration and cannot simply be replaced.
+  - Platform or developer-tools work where external teams were
+    the customer, including conformance or certification test
+    suites.
+  - Hands-on experience deploying agentic systems, or with agent
+    tooling and protocols such as MCP.
+  - Domain exposure to industrial automation, manufacturing
+    systems, logistics, repair, or recommerce.
+
+  What Success Looks Like
+
+  - Models, applications, and agents reach the fleet through a
+    deployment path you built, with a rollback the team
+    trusts.
+  - Operations relies on remote monitoring to answer why a
+    machine is behaving differently today, rather than working
+    around it.
+  - Teams outside Device OS build against your interfaces
+    without needing you in the room.
+  - Robotics engineers treat the platform interface as something
+    that helps them ship rather than something they work
+    around.
+  - New machines and applications come onto the platform faster
+    over time, because the integration path is a known one.
+posted_date: 2026-09-28
+url: "https://builtin.com/job/lead-software-engineer-device-os/11401699"
+source: Built In

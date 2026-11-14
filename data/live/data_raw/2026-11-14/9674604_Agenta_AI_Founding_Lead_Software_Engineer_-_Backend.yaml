@@ -1,0 +1,106 @@
+job_id: 9674604
+title: Founding Lead Software Engineer - Backend
+company: Agenta AI
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  About Us:
+
+  Agenta is an open-source LLM developer platform that builds
+  AI applications powered by Large Language Models (LLMs). We
+  streamline each step of the development lifecycle, enabling
+  teams to develop reliable LLM-powered apps more quickly.
+
+  Our product equips teams with necessary tools for
+  collaboration and building reliable LLM applications: prompt
+  management, evaluation and testing, and observability and
+  monitoring.
+
+  Visit our GitHub repository: https://github.com/Agenta-
+  AI/agenta
+
+  About the Role:
+
+  As our fourth engineering hire, you will have full ownership
+  over major product features. You will play a significant
+  role in shaping our engineering team's culture and work
+  closely with the founders.
+
+  Our Stack:
+
+  Our backend uses Python+FastAPI, with MongoDB (and
+  potentially Clickhouse) for our database. We use
+  NextJS+React for our frontend and manage deployments with
+  Kubernetes and Docker Compose for management. Our stack
+  primarily runs on AWS using Terraform. You can check out our
+  code at https://github.com/Agenta-AI/agenta
+
+  Why Join Us:
+
+  - Your work will significantly impact our customers.
+  - You will help build the company and product's foundation.
+  - There are massive growth opportunities, not only technically
+    but also professionally.
+  - Public work exposure through contributions and
+    collaborations on open-source projects.
+
+  Sample Projects for the First Few Months:
+
+  - Designing a scalable observability architecture for tracing
+    LLM calls and integrating it with OTel.
+  - Optimizing and enhancing the latency of our observability
+    dashboard for analytics.
+  - Improving the design of our SDK for prompt management.
+
+  About You:
+
+  - You have 5+ years of experience in software development and
+    broad knowledge in various technologies (AWS, CI/CD,
+    Kubernetes…).
+  - Python is your second language
+  - You're a 10x Engineer, considered a top engineer in your
+    previous roles.
+  - You possess excellent communication skills, both written and
+    spoken.
+
+  Bonus Points:
+
+  - Experience in founding a startup or working in an early-
+    stage startup.
+  - Experience in ML and building LLM applications.
+  - DevOps or infrastructure experience.
+  - Some frontend development knowledge (React, NextJS).
+
+  Our Company Culture
+
+  Hard Work Makes a Difference:
+
+  - While working extensive hours doesn't guarantee success,
+    working too few can lead to failure. We value our work
+    ethic and believe it makes a significant difference.
+
+  Ownership:
+
+  - Every engineer at Agenta plays both the role of a project
+    manager and a developer. This encompasses designing
+    features, interacting with customers, overseeing
+    deployment, and managing bug reports.
+
+  What We Offer:
+
+  - Opportunity to work on a challenging problem in a highly
+    competitive market.
+  - A smart and talented team.
+  - Ownership and rapid growth opportunities.
+  - Competitive salary and significant equity in the company
+
+  Interested? Please contact us on careers@agenta.ai
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Generative AI
+posted_date: 2026-06-09
+url: "https://builtin.com/job/founding-lead-software-engineer-backend/9674604"
+source: Built In

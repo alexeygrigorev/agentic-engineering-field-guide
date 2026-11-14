@@ -1,0 +1,156 @@
+job_id: 10335927
+title: Senior Software Development Engineer in Test (SDET)
+company: Topstep
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 45 Employees
+description: |
+  Summary:
+
+  Topstep operates a real-time futures trading platform
+  (TopstepX). Here, correctness isn't cosmetic: a defect in
+  order handling, market-data delivery, or a balance/P&L
+  calculation can cost a trader real money. We're hiring a
+  Senior SDET to drive test automation across the platform —
+  building the frameworks, shaping coverage decisions, and
+  raising the quality bar alongside our existing SDETs.
+
+  We lean heavily on AI-assisted test generation to produce
+  broad, meaningful coverage at scale, and you'll help extend
+  that capability. You'll partner with product engineering
+  teams to design for testability early, automate the journeys
+  that matter most, and strengthen the testing practice across
+  the group. This role suits a strong technical tester who
+  thinks in systems and can build scalable test infrastructure
+  while mentoring others.
+
+  Key Responsibilities
+
+  - Drive test automation across API, UI, and end-to-end —
+    shaping where automated coverage delivers the most value
+    against execution time and maintenance cost.
+  - Use and extend our AI-assisted test-generation tooling to
+    produce and maintain broad, verification-focused coverage
+    — applying judgment to curate, validate, and prune what
+    the models generate rather than trusting it wholesale.
+  - Build and maintain scalable test frameworks and
+    infrastructure that run in CI/CD, including for real-time
+    paths: order lifecycle, market-data streams over
+    WebSocket, and financially material calculations.
+  - Partner with product and engineering early to define
+    testability requirements and quality standards, rather
+    than validating after the fact.
+  - Lead by example on test code quality — clean, maintainable,
+    well-documented, and a model for the team.
+  - Own the signal from the test suite: triage failures fast,
+    keep flakiness low, and make results and quality metrics
+    visible and trustworthy to engineering.
+  - Surface and drive resolution of quality gaps, systemic
+    testing weaknesses, and test-related technical debt.
+  - Mentor engineers and SDETs on automation patterns, AI-
+    assisted testing workflows, non-functional testing
+    (performance, load, resilience), and a quality-first
+    mindset.
+
+  Required Qualifications and Key Competencies
+
+  - 5 + years in software testing with a strong focus on test
+    automation and framework development.
+  - Expert programming skills; writes production-quality test
+    code in TypeScript.
+  - Hands-on experience building test automation frameworks from
+    scratch (Playwright preferred; Cypress, Selenium, or
+    similar also relevant).
+  - Comfort using AI/LLM-assisted tooling to accelerate test
+    creation and verification, with the judgment to validate
+    and curate generated output rather than accept it at face
+    value.
+  - Strong API and real-time testing: RESTful services and
+    WebSocket/streaming systems, with a solid grasp of backend
+    testing patterns.
+  - Solid grasp of our stack — a React/TypeScript front end and
+    C#/.NET backend services, plus databases and the service
+    architecture behind them — enough to test it deeply.
+  - CI/CD experience integrating automated tests into deployment
+    pipelines (GitHub Actions).
+  - Proven ability to design test strategies that balance
+    coverage, execution time, and maintenance overhead.
+  - Strong debugging across the full stack — frontend, backend,
+    database, and infrastructure.
+  - Excellent communication; can advocate for quality and
+    influence engineering practice.
+
+  Preferred
+
+  - Non-functional testing experience: performance, load, and
+    resilience.
+  - Familiarity with ArgoCD, Terraform, and Kubernetes.
+  - Experience testing trading, fintech, or other low-
+    latency/financially sensitive systems.
+  - Contract / consumer-driven testing between services.
+  - Observability-driven testing (using logs, metrics, traces to
+    validate behavior).
+
+  Company Culture & Perks
+
+  - Topstep is an engaging working environment that ranges from
+    fully remote to hybrid. We foster a culture of
+    collaboration by keeping cameras on during meetings and
+    maintaining a robust Slack environment for communication.
+  - Seven Company-paid Holidays and generous Family Leave. Paid
+    time off is front-loaded.
+  - Competitive 401(k) matching, health, dental, and vision
+    insurance are offered for full-time employees.
+  - Vacations are encouraged with a bonus for taking 5
+    consecutive days. Topstep offers a food and groceries
+    budget and contributes towards health and wellness.
+
+  New Hire Base Salary Range
+
+  - $155,000 - $190,000 annually.
+  - The compensation offered will take into account the internal
+    compensation structure and may vary depending on the
+    candidate's geographic region, job-related knowledge,
+    skills, and experience, among other factors.
+  - This position is eligible for a performance-based bonus as
+    provided by the plan terms and governing documents.
+
+  Equal Opportunity Employer
+
+  Topstep is an Equal Opportunity Employer. We are committed
+  to fostering an inclusive environment where all employees
+  and applicants are valued. All qualified candidates will
+  receive consideration for employment without regard to race,
+  color, religion, gender, gender identity or expression,
+  sexual orientation, national origin, age, disability, or
+  veteran status, in compliance with applicable federal,
+  state, and local laws.
+
+  Interested in the role? Apply today with your resume!
+
+  The collection, use, and handling of your data provided in
+  response to this job posting is described further in our
+  Privacy Policy. If you are a California resident, please
+  review our California Notice at Collection.
+
+  Notice of Use of Artificial Intelligence in Recruitment and
+  Hiring: Notice Pursuant to 775 ILCS 5/2-102(L). Topstep LLC
+  uses artificial intelligence ("AI") in connection with its
+  recruitment and hiring process. Examples include, but are
+  not limited to, AI tools used to improve job descriptions,
+  generate interview questions, draft communications, assist
+  with scheduling, and source candidates, as well as AI
+  features built into third-party platforms such as LinkedIn,
+  Indeed, and Glassdoor. Topstep will not use AI that has the
+  effect of subjecting employees or applicants to
+  discrimination on the basis of any protected class under the
+  Illinois Human Rights Act.
+
+  The collection, use, and handling of your data provided in
+  response to this job posting is described further in our
+  Privacy Policy. If you are a California resident, please
+  review our California Notice at Collection.
+posted_date: 2026-08-18
+url: "https://builtin.com/job/senior-software-development-engineer-test-sdet/10335927"
+source: Built In

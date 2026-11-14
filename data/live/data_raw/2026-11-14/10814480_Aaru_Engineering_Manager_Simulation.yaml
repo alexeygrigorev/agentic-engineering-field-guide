@@ -1,0 +1,308 @@
+job_id: 10814480
+title: Engineering Manager, Simulation
+company: Aaru
+location: New York, USA
+work_type: FULL_TIME
+company_size: 44 Employees
+description: |
+  About Aaru
+
+  Aaru builds simulations of human behavior. Each simulation
+  contains a population of AI agents, each representing a
+  person who could plausibly exist in the real world and
+  capable of making decisions within a modeled environment.
+  Companies and institutions use these simulations to test
+  consequential choices before committing—from product
+  launches and pricing decisions to strategic communications
+  and policy changes.
+
+  Building a useful simulation requires more than generating
+  plausible text. Populations must represent real people and
+  groups; predictions must be calibrated; simulations must
+  remain coherent as conditions change; and the product must
+  make the resulting evidence legible enough to support real
+  decisions.
+
+  We are a small, in-person team in New York. We work with
+  urgency, high ownership, and intellectual honesty. We expect
+  people to surface inconvenient evidence, change their minds
+  quickly, and carry important work all the way to a result.
+
+  About Simulation Engineering
+
+  Simulation Engineering owns the path from a promising
+  research result to a production system that customers can
+  trust. Researchers may prove a new method for constructing a
+  population, modeling a world, estimating an outcome, or
+  evaluating fidelity. Simulation Engineering turns that
+  method into robust, reusable, observable, and efficient
+  software.
+
+  The team's quality bar is broader than conventional service
+  reliability. A production simulation must be behaviorally
+  faithful, calibrated, reproducible, measurable, fast enough
+  to use, economical enough to scale, and reliable under real
+  customer workloads. The team owns the abstractions,
+  contracts, evaluation gates, workflows, and operating
+  systems that make those properties possible.
+
+  Simulation Engineering is not a research-support queue. It
+  is the engineering owner of the simulation system in
+  production. When a simulation method breaks, regresses,
+  becomes too expensive, or produces conclusions that cannot
+  be explained, this team is accountable for finding the cause
+  and restoring trust.
+
+  The role
+
+  As Simulation Engineering Manager, you will lead a focused
+  team of Simulation Engineers and be accountable for the
+  quality, pace, and operational health of Aaru's production
+  simulation system. Managers at Aaru remain engineers. You
+  will set technical direction, review critical designs, write
+  and debug code when needed, inspect model and system
+  failures, hire exceptional engineers, and develop the people
+  on the team.
+
+  You will operate at the interface of Simulation Research,
+  Population Research, Prediction Research, Evaluation
+  Research, Product Engineering, Platform Engineering,
+  Infrastructure, and Deployment. A major part of the job is
+  establishing explicit handoffs and shared evidence: what a
+  research result must demonstrate before productionization,
+  what the production system must expose for evaluation, and
+  how field failures return to the right research or
+  engineering owner.
+
+  This is a line-management role. You are responsible for
+  making one team exceptionally effective, not for building a
+  layer of managers beneath you. You should expect to remain
+  close to architecture, code, experiments, incidents, and the
+  hardest technical tradeoffs.
+
+  What you will do
+
+  - Build, lead, and develop a high-performing team of
+    Simulation Engineers with clear ownership of production
+    simulation quality.
+  - Own quality across behavioral fidelity, calibration,
+    reproducibility, latency, throughput, cost, reliability,
+    debuggability, and safe operation.
+  - Define the architecture and operating model that carries a
+    method from research prototype through evaluation,
+    integration, rollout, observation, and continuous
+    improvement.
+  - Establish clear readiness criteria with Research and
+    Evaluation: strong baselines, decisive experiments,
+    protected holdouts, known limitations, and evidence that
+    survives changes in domain, population, and time.
+  - Design and maintain the core abstractions of the simulation
+    system, including agent and population representations,
+    simulation contracts, environment and state models,
+    workflow boundaries, evaluation interfaces, and
+    publication layers.
+  - Build evaluation harnesses, benchmarks, ablations, graders,
+    regression suites, and launch scorecards that distinguish
+    a faithful simulation from a merely plausible output.
+  - Make large simulation runs reproducible and inspectable by
+    versioning models, prompts, data, populations,
+    environments, code, and experiment configuration.
+  - Build observability that connects system behavior to model
+    behavior: traces, intermediate artifacts, cohort
+    diagnostics, cost and latency curves, failure
+    classification, and comparison across versions.
+  - Set technical direction for scaling large population runs
+    without concealing uncertainty or trading away the
+    fidelity that makes the simulation useful.
+  - Partner with Product Engineering to adapt the simulation
+    system for new product goals while preserving valid
+    contracts and avoiding product-specific forks in the core
+    engine.
+  - Build fast feedback loops with Deployment. Convert field
+    failures, surprising customer outcomes, and operational
+    incidents into concrete hypotheses, durable tests, fixes,
+    and research questions.
+  - Own the team's production operations, including on-call
+    health, incident response, release safety, rollback,
+    maintenance, and the elimination of recurring operational
+    toil.
+  - Recruit exceptional engineers, provide direct feedback,
+    develop technical leaders, and address performance or
+    ownership gaps early.
+  - Improve engineering practice across Aaru by raising the bar
+    for experimental discipline, production code, technical
+    design, reproducibility, and post-incident learning.
+
+  Representative leadership problems
+
+  You might be responsible for situations such as:
+
+  - A new method improves an offline benchmark but changes
+    customer conclusions unpredictably. Determine whether the
+    issue is contamination, objective mismatch, population
+    shift, nondeterminism, orchestration, or product
+    interpretation—and define the evidence required for
+    rollout.
+  - Two simulations with nominally identical inputs produce
+    materially different outputs. Trace every source of state
+    and randomness, quantify the acceptable variance, and make
+    the result reproducible enough to explain.
+  - Aggregate accuracy improves while performance for an
+    important subgroup deteriorates. Build the diagnostics and
+    release policy that prevent the average from hiding the
+    failure.
+  - A hundred-thousand-agent run is too slow and expensive for
+    the product roadmap. Find the right combination of
+    algorithmic changes, batching, caching, model selection,
+    inference strategy, and approximation without eroding
+    fidelity.
+  - A research workflow works only in one person's notebook.
+    Turn it into a self-serve production path with typed
+    contracts, tests, experiment tracking, guardrails,
+    monitoring, and rollback.
+  - Product Engineering needs a new simulation interaction that
+    violates assumptions in the existing engine. Decide
+    whether to extend the core abstraction, introduce a
+    separate mode, or change the product design.
+  - An incident cannot be attributed because the relevant model,
+    prompt, data, and population versions were not captured.
+    Fix the immediate problem and redesign the system so the
+    class of failure cannot remain invisible.
+  - The team is handling too many fragile research handoffs.
+    Establish a shared productionization contract that raises
+    throughput without turning Research or Simulation
+    Engineering into a ticket queue.
+
+  How we work
+
+  We treat model and simulation behavior as production
+  behavior. An unexplained regression is not an acceptable
+  mystery; it is an incident to be measured, localized, and
+  converted into a lasting test. A method is not ready because
+  it produced an impressive example. It is ready when the
+  evidence supports the intended claim, its limits are known,
+  and the production system can reproduce and observe it.
+
+  We design evaluations before trusting a result. Strong
+  baselines, ablations, temporal separation, subgroup
+  analysis, and prospective outcomes matter. We optimize cost
+  and latency only in relation to quality, and we refuse
+  optimizations that make a system faster by making its
+  uncertainty or errors harder to see.
+
+  Management is hands-on and high-context. The goal is to
+  create clear interfaces, strong technical leaders, and an
+  operating system that lets the team move faster with less
+  hidden risk—not to centralize every decision in the manager.
+
+  You might thrive in this role if
+
+  - You were a strong software, machine-learning, or systems
+    engineer before becoming a manager and remain comfortable
+    going deep in code and architecture.
+  - You have led a small engineering team that shipped and
+    operated an AI, ML, data, or distributed system in
+    production.
+  - You understand that model behavior is part of the product
+    and can debug failures that cross data, prompts,
+    orchestration, statistical assumptions, services, and
+    user-facing outputs.
+  - You can take an underspecified research method and turn it
+    into a deterministic, testable, observable, and efficient
+    production system.
+  - You design evaluations before trusting improvements and can
+    distinguish benchmark movement from a meaningful gain in
+    real-world quality.
+  - You make clear tradeoffs among fidelity, calibration,
+    latency, cost, reliability, maintainability, and iteration
+    speed.
+  - You build effective working relationships with researchers
+    without lowering the engineering bar or imposing process
+    that destroys research velocity.
+  - You give clear feedback, develop technical judgment in
+    others, and address performance or ownership problems
+    promptly.
+  - You can recruit unusually strong engineers and explain why
+    this work demands both research sensitivity and production
+    rigor.
+  - You want to work in person in New York with a team that
+    moves quickly and takes direct responsibility for its
+    systems.
+
+  Strong candidates may also have
+
+  - Experience with LLM applications, agentic systems, multi-
+    agent frameworks, model orchestration, or inference-time
+    computation.
+  - Experience with model evaluation, post-training,
+    experimentation platforms, synthetic data, forecasting
+    systems, or probabilistic models.
+  - Experience building simulation, scientific-computing,
+    distributed-compute, workflow, or data-intensive systems
+    at meaningful scale.
+  - Experience with reproducible experimentation, model and data
+    versioning, feature stores, observability for ML systems,
+    or safe model rollout.
+  - A research background or a record of close collaboration
+    with research teams, including reading papers and
+    translating experimental methods into software.
+  - Time as a founder, founding engineer, or early engineering
+    leader at a fast-growing AI company.
+  - Experience building and operating teams through rapid growth
+    while preserving a high technical bar.
+
+  Candidates need not have
+
+  - Prior employment at a simulation company or formal training
+    in computational social science.
+  - Managed managers or a large organization; this role is about
+    direct leadership of a focused technical team.
+  - Expertise in every relevant research method. We care about
+    engineering depth, empirical judgment, and the ability to
+    learn enough to make correct production decisions.
+
+  What success looks like
+
+  - Aaru has a trusted, legible quality bar from research
+    experiment through customer deployment.
+  - New methods reach production faster because evaluation,
+    integration, rollout, observability, and rollback are
+    built into a repeatable system.
+  - Large simulation runs are reproducible; material
+    dependencies are versioned; regressions are caught early;
+    and failures can be traced to concrete causes.
+  - Quality, latency, cost, reliability, and subgroup
+    performance are visible and managed as explicit product
+    properties.
+  - Research, Evaluation, Product Engineering, Platform,
+    Infrastructure, and Deployment have clear interfaces and
+    fast feedback loops with the team.
+  - The team owns production incidents and converts each
+    important failure into stronger abstractions, tests, or
+    research questions.
+  - Strong engineers join, grow, and become capable of
+    independently leading difficult simulation workstreams.
+  - Customers can trust that a simulation capability has passed
+    a meaningful, evidence-based production standard rather
+    than an informal demo threshold.
+
+  Location and benefits
+
+  This role is based in New York City. Aaru is an in-person
+  company, working five days a week in the office. Candidates
+  should be located in the New York metropolitan area or open
+  to relocation.
+
+  Aaru offers a competitive base salary, equity participation,
+  comprehensive medical, vision, and dental coverage, visa
+  sponsorship and relocation support, and other benefits and
+  perks. Final compensation depends on level and experience
+  and is set within Aaru's internal bands.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Analytics
+posted_date: 2026-08-23
+url: "https://builtin.com/job/simulation-engineering-manager/10814480"
+source: Built In

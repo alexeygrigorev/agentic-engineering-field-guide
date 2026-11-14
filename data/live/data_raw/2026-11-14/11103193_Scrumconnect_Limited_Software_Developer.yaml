@@ -1,0 +1,133 @@
+job_id: 11103193
+title: Software Developer
+company: Scrumconnect Limited
+location: GBR
+locations:
+  - GBR
+  - Exeter District, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 300 Employees
+description: |
+  About Scrumconnect Consulting
+
+  Scrumconnect Consulting is a multi-award-winning digital
+  consultancy whose work has positively influenced the lives
+  of over 40 million UK citizens. We deliver impactful
+  technology solutions across UK government departments,
+  working at the forefront of user-centred design, agile
+  delivery, and scalable digital services that genuinely make
+  a difference.
+
+  - Strong focus on work-life balance with a flexible hybrid
+    model (1 day onsite)
+  - Be part of a collaborative, multidisciplinary agile
+    environment alongside civil servants and industry experts
+
+  Location: Newcastle — one day per week on-site
+
+  Role Overview
+
+  We are seeking an experienced Software Developer to join our
+  engineering team, working on data engineering and platform
+  solutions. You will design, build, and maintain data
+  pipelines and infrastructure, working closely with wider
+  delivery colleagues to deliver secure, reliable, and
+  scalable services that support critical public sector
+  operations.
+
+  Key Responsibilities
+
+  - Design, develop, and maintain data pipelines and processing
+    workflows using Apache Spark and Python
+  - Build, schedule, and monitor workflow orchestration using
+    Apache Airflow
+  - Develop and maintain infrastructure-as-code using Terraform
+    across AWS environments
+  - Containerise applications and services using Docker
+  - Build and maintain CI/CD pipelines in GitLab, supporting
+    automated build, test, and deployment processes
+  - Integrate security scanning agents into the development and
+    deployment pipeline to ensure code and infrastructure meet
+    security standards
+  - Develop and maintain notebooks (Jupyter) to support data
+    exploration, analysis, and prototyping
+  - Build and maintain integrations with DWP Integration Team
+    products, ensuring reliable and secure data exchange
+  - Collaborate with cross-functional teams including data
+    engineers, DevOps, and product stakeholders
+  - Write clean, maintainable, and well-tested code following
+    best practices
+  - Contribute to system design and architecture decisions
+  - Ensure application performance, scalability, and adherence
+    to security standards
+  - Conduct code reviews and support the development of junior
+    team members
+  - Participate in sprint planning, refinement, and other agile
+    ceremonies
+
+  Required Skills & Qualifications
+
+  - Experience developing software using Python
+  - Experience with AWS services
+  - Experience with Terraform for infrastructure as code
+  - Experience with Apache Spark for data processing
+  - Experience with Apache Airflow for workflow orchestration
+  - Experience with Docker and containerisation
+  - Experience building and maintaining CI/CD pipelines using
+    GitLab
+  - Experience integrating security scanning tools into
+    development pipelines
+  - Experience with Jupyter Notebooks for data exploration and
+    analysis
+  - Experience integrating with third-party or internal platform
+    products, ideally within a government or DWP context
+  - Understanding of secure coding practices
+  - Experience with Git and Agile methodologies
+  - Strong analytical and problem-solving abilities
+  - Good communication and collaboration skills
+
+  Preferred Qualifications
+
+  - Prior experience working in the public sector
+  - Experience working in regulated or standards-driven
+    environments (e.g., public sector digital services or GDS-
+    aligned projects)
+  - Relevant certifications in AWS, Python, or data engineering
+
+  Soft Skills
+
+  - Strong analytical and problem-solving abilities
+  - Good communication and collaboration skills
+  - Ability to work independently and in team environments
+  - Mentorship and leadership mindset
+
+  Additional Information
+
+  - Security Clearance: Active SC Clearance required
+  - Location: Newcastle (in-office one day per week)
+
+  Our Interview Process
+
+  We keep things straightforward. Following an initial CV
+  review, successful candidates will be invited to a short
+  screening call with our recruitment team, followed by a two-
+  stage process comprising a technical assessment and a
+  values-based interview with the hiring team. We aim to move
+  quickly and will keep you informed at every stage.
+
+  Equal Opportunities
+
+  Scrumconnect Consulting is an equal opportunities employer.
+  We are committed to building a diverse and inclusive team
+  and welcome applications from all backgrounds, regardless of
+  age, disability, gender, ethnicity, religion, or sexual
+  orientation.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Consulting
+posted_date: 2026-09-10
+url: "https://builtin.com/job/software-developer/11103193"
+source: Built In

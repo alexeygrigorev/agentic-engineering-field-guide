@@ -1,0 +1,162 @@
+job_id: 11337443
+title: Software Engineer - Infrastructure Security
+company: WorkOS
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 48 Employees
+description: |
+  About WorkOS 🚀
+
+  WorkOS builds modern developer tools and APIs that make it
+  easy for companies to become Enterprise Ready. Our platform
+  powers authentication, identity, authorization, and other
+  critical infrastructure that developers need to securely
+  scale their products to large organizations. We recently
+  raised a $100M Series C, valuing the company at $2B, led by
+  Meritech and Sapphire with participation from Greenoaks,
+  Craft, Abstract, and Audacious. WorkOS powers enterprise
+  features for many of the fastest-growing AI companies,
+  including OpenAI, Cursor, and Perplexity, Sierra, and Plaid.
+  As AI reshapes software, WorkOS is at the frontier of Human
+  and Agent Authentication, Identity, and Access Control
+  helping companies answer a new critical question: who are
+  your agents, and what are they allowed to do? Our fast-
+  growing customer base includes hundreds of modern software
+  companies building the next generation of enterprise-ready
+  products.
+
+  About the Security Platform team
+
+  The Infrastructure Security team provides and supports the
+  primitives that enable engineering to securely build
+  applications and meet compliance obligations, while
+  abstracting away the underlying complexity for the best
+  possible developer experience.
+
+  Our work centers on workload identity and authorization: how
+  internal applications authenticate to each other and to the
+  services they depend on, and how that access is granted and
+  enforced. We're replacing static secrets with short-lived
+  identity credentials, bringing identity-based authentication
+  to the services engineers use every day, and unifying how
+  authorization is managed across the company.
+
+  We're a platform engineering team with a security mission.
+  We measure success by the security outcomes we enable and by
+  how much engineers enjoy building on what we ship — the
+  secure path should be the easiest path.
+
+  Who we're looking for
+
+  - A platform builder. You love building infrastructure that
+    other engineers rely on every day, and you sweat the
+    developer experience details that make adoption
+    effortless.
+  - Fluent in service-to-service auth. You know authentication
+    and authorization deeply: JWTs, X.509 certificates, and
+    when to reach for each.
+  - A systems thinker. You reason carefully about bootstrapping,
+    circular dependencies, availability, and failure modes,
+    especially for infrastructure that everything else depends
+    on.
+  - A pragmatic migrator. You know that shipping the primitive
+    is half the job. You can drive adoption across many teams,
+    meet them where they are, and retire the legacy path.
+  - A strong partner to engineering. You build trust with
+    engineers by understanding their priorities and making
+    security frictionless.
+  - Excited about AI. You're embracing AI and automation to
+    scale platform work and reduce toil.
+  - Curious and humble. You ask the basic questions, enjoy
+    untangling complex systems, and bring others along with
+    you.
+
+  Responsibilities
+
+  - Build workload identity infrastructure. Make short-lived
+    identity credentials a default part of every application's
+    runtime environment, in partnership with application
+    platform owners.
+  - Bring identity-based authentication to internal services.
+    Work with the owners of major internal dependencies to
+    support identity certificates, make them the golden path
+    for newly onboarding applications, and drive migration of
+    existing ones.
+  - Eliminate static secrets. Replace all static passwords and
+    service tokens with short-lived identity credentials, and
+    build identity-authenticated egress proxies and API
+    abstractions that inject and automatically rotate managed
+    secrets for the external dependencies that still require
+    them.
+  - Unify authorization. Build a single interface and framework
+    through which authorization policies are centrally managed
+    and enforced.
+
+  Qualifications
+
+  - 5+ years of experience in software engineering, with a focus
+    on security-related platform, infrastructure, or
+    distributed systems.
+  - Strong working knowledge of secrets management, fine-grained
+    authorization, and workload identity systems.
+  - Familiarity with the Kubernetes ecosystem and
+    authentication/authorization technologies such as JWTs,
+    X.509 certificates, PKI, cert-manager, SPIFFE/SPIRE, and
+    OPA.
+  - Experience building and operating production infrastructure
+    that other teams depend on, with attention to availability
+    and failure modes.
+  - Proven ability to drive cross-team adoption of platform
+    capabilities or lead large-scale migrations.
+
+  Benefits and Perks (US Only) 💖
+
+  At WorkOS, we offer resources that emphasize personal and
+  familial well-being. We offer healthcare coverage for you
+  and your family, including medical, dental, and vision. We
+  offer parental leave, paid-time off and fully remote working
+  arrangements.
+
+
+
+  - 401k matching
+  - Competitive Equity
+  - Healthcare, dental and vision coverage
+  - FSA, ST/LT Disability, Voluntary Life
+  - Carrot fertility benefits
+  - 20 days paid vacation + 10 holidays + unlimited sick leave
+  - 12 weeks fully paid parental leave
+  - Fitness: Monthly stipend for gyms, yoga classes, race
+    registrations or whatever keeps you active
+  - Wellness: Monthly stipend for a massage, meditations class,
+    therapy, or activities that enhance your well-being
+  - Commuter benefits for hybrid employees in SF/NYC
+  - Unlimited token usage!
+
+  Please inquire directly with our recruiting team for
+  benefits available to those working outside the US.
+
+
+
+  Equal Opportunity Employer
+
+  WorkOS is an equal opportunity employer, committed to
+  diversity and inclusiveness. We will consider all qualified
+  applicants without regard to race, color, nationality,
+  gender, gender identity or expression, sexual orientation,
+  religion, disability or age.
+
+  We may use artificial intelligence (AI) tools to support
+  parts of the hiring process, such as reviewing applications,
+  analyzing resumes, or assessing responses. These tools
+  assist our recruitment team but do not replace human
+  judgment. Final hiring decisions are ultimately made by
+  humans. If you would like more information about how your
+  data is processed, please contact us.
+posted_date: 2026-09-23
+url: "https://builtin.com/job/software-engineer-infrastructure-security/11337443"
+source: Built In

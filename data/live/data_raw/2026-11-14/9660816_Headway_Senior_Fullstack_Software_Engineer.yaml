@@ -1,0 +1,183 @@
+job_id: 9660816
+title: Senior Fullstack Software Engineer
+company: Headway
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 819 Employees
+description: |
+  1 in 4 people in the US have a treatable mental health
+  condition, but most providers don't accept insurance, making
+  therapy too expensive for most people. Headway’s mission is
+  to fix this by building a new mental healthcare system
+  everyone can access. We started by solving the biggest
+  barrier to care: insurance. The admin work - credentialing,
+  claims, payment reconciliation - is a nightmare. We've
+  automated that.
+
+  But we're going further. Over 90,000 providers across all 50
+  states run their practice on our software, serving over 2.6
+  million patients. We are building the best tools for
+  therapists to run their entire practice, reimagining the
+  experience of finding a therapist, and investing in the
+  platform foundations to enable this at scale, and building
+  much of it with AI. We aren't just a billing layer; we are
+  becoming the platform where care actually happens.
+
+  We're a Series D company with $325M+ in funding (a16z,
+  Accel, Spark Capital, etc.), looking for exceptional people
+  to help us achieve this mission. We want your time here to
+  be the most meaningful experience of your career. Join us,
+  and help change mental healthcare for the better.
+
+  The Work
+
+  Fullstack at Headway means end-to-end ownership. You’re
+  building reliable abstraction layers over a fragmented
+  healthcare system and translating them into seamless,
+  empathetic user experiences. What you could work on:
+
+  - The Modern AI-enabled Clinical System: Help design and build
+    the interfaces and systems that manage clinical data.
+    Build high-integrity experiences for treatment plans and
+    progress notes, integrating AI-powered clinical
+    intelligence to give providers their time back.
+  - Therapist Practice Management: Build a best-in-class
+    platform for Headway therapists to run their businesses.
+    You'll own features from the database schema to the UI,
+    creating intuitive web experiences for scheduling,
+    clinical notes, and payment management.
+  - Patient-First Experiences: We’re moving toward a patient-
+    centric model. Transform the therapist search experience
+    by building the frontend interfaces and backend APIs that
+    power personalized care recommendations, longitudinal data
+    views, and seamless patient-provider matching.
+  - Frictionless Onboarding: Turn the historically nightmare
+    process of insurance credentialing into a sleek, consumer-
+    grade web experience. Build products and tooling to get
+    providers in-network and scaling their practice in record
+    time.
+
+  Our Stack
+
+  - Languages: TypeScript, Python 3
+  - Frontend: React, Remix, Next.js
+  - Backend & Storage: FastAPI, SQLAlchemy, Postgres, Redis,
+    Snowflake
+  - Infrastructure: AWS, Temporal, Kafka
+  - Ops: Datadog, Sentry, PagerDuty
+  - AI Tools: Cursor, Claude, Gemini, Eddy (our in-house cloud
+    agent harness)
+
+  Who You Are
+
+  - End-to-End Product Builder: You care just as much about the
+    API architecture as you do the user experience. You
+    seamlessly context-switch between backend logic and
+    frontend state management.
+  - AI Frontier Tinkerer: You don't just use AI tools - you push
+    their limits. You've experimented with applying LLMs to
+    real workflows, whether that's code generation,
+    operational automation, or developer tooling. You bring a
+    builder's mindset: what can we automate, what should stay
+    human, and how do we ship it responsibly in healthcare?
+  - Owns Outcomes, Not Tasks: You've been handed ambiguous
+    problems and turned them into shipped software. You know
+    how to define the solution, pull in the right people
+    across teams, and keep things moving when priorities
+    shift.
+  - Sets the Technical Standard: You make technical decisions
+    that optimize for maintainability and scale, not just
+    shipping speed. You proactively improve your team's
+    engineering velocity - whether that's refining tooling,
+    improving automation, or establishing patterns that
+    prevent entire categories of bugs.
+  - Mentor by Default: You pull engineers into design
+    discussions without being asked. Your code reviews teach,
+    not just gatekeep. You make sure knowledge gets shared
+    across the team, not siloed in one person's head.
+  - Ships Fast, Iterates Faster: You can move from problem
+    statement to working solution quickly. You'd rather ship a
+    good v1 this week than a perfect v1 next month. Real
+    feedback from therapists and patients is worth more than
+    another round of design review.
+  - Quick Study in Complex Domains: Healthcare is a maze of
+    payers, regulations, and exceptions. You don't need prior
+    healthcare experience, but you need to be someone who
+    dives into unfamiliar domains and builds a working mental
+    model fast.
+  - Motivated by Impact: You want your engineering skills
+    applied to problems that matter. Mental healthcare access
+    is broken in America, and you want to be part of fixing
+    it.
+  - Communicates with Precision: Whether it's a Slack thread, a
+    design doc, or a cross-team meeting, you communicate
+    clearly and concisely. You know that great engineering is
+    wasted if you can't bring people along.
+
+  Our Interview Process
+
+  After you apply to Headway, here are some details of what to
+  expect during the interview process.
+
+  - Initial screen: You’ll connect with someone in recruiting so
+    you can learn more about the team, Headway’s mission and
+    exciting growth, and we can get a better idea of your
+    background.
+  - First round: You'll do a live coding interview with Karat,
+    our technical interviewing partner. It's a great
+    opportunity to showcase your problem-solving skills and
+    learn more about what our engineering team is building.
+  - Final rounds: You’ll meet several team members for technical
+    and non-technical interviews and leave with a fuller
+    picture of what it’s like to work at Headway.
+  - References and the Offer: Our favorite part of the process!
+    We'll send over all of the details, including specifics on
+    employee equity, and congratulatory messages from excited
+    future team members!
+
+  Comprehensive benefits:
+
+  Medical, dental, vision, HSA/FSA, 401(k) including match for
+  2027!, Carrot Fertility reimbursement, and paid parental,
+  medical and caregiver leave.
+
+  We believe a team's strength is in its people, and we cannot
+  achieve this mission without a team that reflects the
+  diversity of this problem – across race, ethnicity, gender,
+  sexuality, age, national origin, religion, family status,
+  disability, military status, and experience. Headway is
+  committed to the full inclusion of all qualified
+  individuals. As part of this commitment, Headway will ensure
+  that persons with disabilities are provided with reasonable
+  accommodations. If reasonable accommodation is needed to
+  participate in the job application or interview process, to
+  perform essential job functions, and/or receive other
+  benefits and privileges of employment, please inform the
+  recruiter when they contact you to schedule your interview.
+
+  Headway participates in E-Verify. To learn more, click here.
+
+  A notice to Headway applicants: To protect yourself against
+  phishing and recruitment fraud, please note that Headway
+  only accepts applications through our official careers page
+  at https://headway.co/careers. Headway will never refer you
+  to external websites, ask for payment or personal
+  information, or conduct interviews via messaging apps. All
+  official communication will come from a @findheadway.com
+  email address. If you are contacted by someone claiming to
+  be from Headway via an unofficial channel, please do not
+  share any information and report it as spam.
+industries:
+  - Consumer Web
+  - Healthtech
+  - Professional Services
+  - Social Impact
+  - Software
+posted_date: 2026-07-31
+url: "https://builtin.com/job/senior-fullstack-software-engineer/9660816"
+source: Built In

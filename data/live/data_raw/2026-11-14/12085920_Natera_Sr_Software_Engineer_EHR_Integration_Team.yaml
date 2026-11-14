@@ -1,0 +1,165 @@
+job_id: 12085920
+title: Sr. Software Engineer (EHR Integration Team)
+company: Natera
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 6,000 Employees
+description: |
+  POSITION SUMMARY
+
+  Natera is building apps and services that run inside the
+  clinician's EHR. This is a hands-on role. You will build
+  SMART on FHIR apps that launch from Epic, Oracle Health
+  (Cerner) and other EHRs, the FHIR services and data model
+  behind them, and CDS Hooks services that bring Natera
+  ordering and results into the provider's workflow. You will
+  work in a small team with product and our wider EHR
+  integration group, and you will handle patient data under
+  HIPAA every day.
+
+  PRIMARY RESPONSIBILITIES
+
+  • Build and ship SMART on FHIR apps: EHR launch and
+  standalone launch, OAuth 2.0 with PKCE, backend services
+  authorization, scopes and token handling. • Design and build
+  the server side: FHIR R4 APIs, mapping to our internal data
+  model, profiles and extensions. • Build CDS Hooks services
+  with prefetch that respond within EHR time limits. • Take
+  apps through EHR vendor onboarding and go-live, starting
+  with Epic (Vendor Services and Showroom), then Oracle Health
+  and others. Work with health system IT on build and testing.
+  • Handle PHI correctly in storage, caching, logging and
+  tracing: minimum necessary data, encryption, audit trails,
+  no PHI in logs. • Work with HL7 v2 and interface engine
+  flows where the EHR needs them. • Write design docs, review
+  code and mentor engineers. • Be on call for what you ship. •
+  This role works with PHI on a regular basis both in paper
+  and electronic form and have access to various technologies
+  to access PHI (paper and electronic) in order to perform the
+  job. • Must complete training relating to HIPAA/PHI privacy,
+  General Policies and Procedure Compliance training and
+  security training as soon as possible but not later than the
+  first 30 days of hire. • Must maintain a current status on
+  Natera training requirements.
+
+  QUALIFICATIONS
+
+  • BS in computer science, a related field, or equivalent
+  experience. • 6+ years of software development, with at
+  least 3 building EHR integrations in production. • Hands-on
+  SMART on FHIR: you have built and shipped an app that
+  launches inside an EHR, not only consumed FHIR data. •
+  Strong FHIR R4: resource modeling, search, and terminology
+  (LOINC, SNOMED, ICD-10).
+
+  • Production go-live with Epic. Oracle Health (Cerner),
+  athenahealth, MEDITECH or others a plus. • Backend services
+  in Java and Spring Boot or similar, on AWS. • Experience
+  handling PHI under HIPAA in a production system. • Clear
+  communication with clinicians, health system IT and product.
+
+  NICE TO HAVE
+
+  • CDS Hooks in production. • An Epic Showroom listing, or an
+  app built in the Oracle Health code console. • Lab orders
+  and results: ServiceRequest, DiagnosticReport, Observation,
+  and HL7 v2 ORM/ORU. • FHIR Subscriptions and Bulk FHIR. •
+  Interface engines such as Mirth, Rhapsody or Cloverleaf. •
+  React and TypeScript for in-EHR user interfaces. • USCDI, Da
+  Vinci implementation guides, or ONC certification work.
+
+  KNOWLEDGE, SKILLS, AND ABILITIES
+
+  • FHIR R4, SMART App Launch, OAuth 2.0 and OIDC, CDS Hooks •
+  Java and Spring Boot; REST and event-driven microservices •
+  AWS services such as SQS, S3, SNS and Lambda • Relational
+  databases and SQL, preferably PostgreSQL or MySQL • Docker,
+  CI/CD, Linux fundamentals • React and TypeScript • Quality
+  assurance mindset
+
+  Applicants must be authorized to work in the US without
+  current or future visa sponsorship.
+
+  The pay range is listed and actual compensation packages are
+  based on a wide array of factors unique to each candidate,
+  including but not limited to skill set, years & depth of
+  experience, certifications and specific office location.
+  This may differ in other locations due to cost of labor
+  considerations.
+
+  Remote USA
+
+  $125,000—$156,300 USD
+
+  OUR OPPORTUNITY
+
+  Natera™ is a global leader in cell-free DNA (cfDNA) testing,
+  dedicated to oncology, women’s health, and organ health. Our
+  aim is to make personalized genetic testing and diagnostics
+  part of the standard of care to protect health and enable
+  earlier and more targeted interventions that lead to longer,
+  healthier lives.
+
+  The Natera team consists of highly dedicated statisticians,
+  geneticists, doctors, laboratory scientists, business
+  professionals, software engineers and many other
+  professionals from world-class institutions, who care deeply
+  for our work and each other. When you join Natera, you’ll
+  work hard and grow quickly. Working alongside the elite of
+  the industry, you’ll be stretched and challenged, and take
+  pride in being part of a company that is changing the
+  landscape of genetic disease management.
+
+  WHAT WE OFFER
+
+  Competitive Benefits - Employee benefits include
+  comprehensive medical, dental, vision, life and disability
+  plans for eligible employees and their dependents.
+  Additionally, Natera employees and their immediate families
+  receive free testing in addition to fertility care benefits.
+  Other benefits include pregnancy and baby bonding leave,
+  401k benefits, commuter benefits and much more. We also
+  offer a generous employee referral program!
+
+  For more information, visit www.natera.com.
+
+  Natera is proud to be an Equal Opportunity Employer. We are
+  committed to ensuring a diverse and inclusive workplace
+  environment, and welcome people of different backgrounds,
+  experiences, abilities and perspectives. Inclusive
+  collaboration benefits our employees, our community and our
+  patients, and is critical to our mission of changing the
+  management of disease worldwide.
+
+  All qualified applicants are encouraged to apply, and will
+  be considered without regard to race, color, religion,
+  gender, gender identity or expression, sexual orientation,
+  national origin, genetics, age, veteran status, disability
+  or any other legally protected status. We also consider
+  qualified applicants regardless of criminal histories,
+  consistent with applicable laws.
+
+  If you are based in California, we encourage you to read
+  this important information for California residents.
+
+  Link: https://www.natera.com/notice-of-data-collection-
+  california-residents/
+
+  Please be advised that Natera will reach out to candidates
+  with a @natera.com email domain ONLY. Email communications
+  from all other domain names are not from Natera or its
+  employees and are fraudulent. Natera does not request
+  interviews via text messages and does not ask for personal
+  information until a candidate has engaged with the company
+  and has spoken to a recruiter and the hiring team. Natera
+  takes cyber crimes seriously, and will collaborate with law
+  enforcement authorities to prosecute any related cyber
+  crimes.
+
+  For more information:
+  - BBB announcement on job scams
+  - FBI Cyber Crime resource page
+posted_date: 2026-11-04
+url: "https://builtin.com/job/sr-software-engineer-ehr-integration-team/12085920"
+source: Built In

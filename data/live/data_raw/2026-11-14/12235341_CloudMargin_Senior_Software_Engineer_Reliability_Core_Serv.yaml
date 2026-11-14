@@ -1,0 +1,127 @@
+job_id: 12235341
+title: "Senior Software Engineer – Reliability & Core Services"
+company: CloudMargin
+location: London, GBR
+work_type: FULL_TIME
+company_size: 57 Employees
+description: |
+  Company Profile
+
+  CloudMargin is an award winning, growth-stage FinTech
+  company offering an innovative Software-as-a-Service (SaaS)
+  service. We are rapidly challenging the way financial and
+  corporate institutions manage the collateral and risk
+  associated with derivatives trading. We believe in offering
+  our community an affordable, easy to deploy and scalable
+  service.
+
+  Backed by professional investment and corporate investors,
+  our global team works closely across product, technology and
+  sales disciplines. Our flat structure and ethos of openness
+  and communication means you’ll be engaged with everyone in
+  the business and have the senior leadership team as one of
+  your key stakeholders.
+
+  Primary Purpose of Role
+
+  We’re looking for a Senior Engineer to join a full stack
+  team dedicated to making CloudMargin’s platform faster, more
+  stable and more resilient, and to leading critical, high-
+  impact work that needs specialist expertise. Based in
+  London, you’d work closely with our Principal Engineer and
+  one other Senior Engineer. Because the team works across the
+  whole platform, your work will shape technical decisions
+  that affect every part of the product, and you’ll work
+  regularly with other teams and senior stakeholders across
+  the business.
+
+  Recent work includes cutting latency on one of our file
+  import types by 90%, which helped onboard a strategic client
+  and reduced database load, and leading in-depth testing that
+  de-risked a major platform-wide upgrade.
+
+  Core Accountabilities
+
+  - Deliver major improvement projects. Help shape and deliver
+    large pieces of work such as performance overhauls and
+    platform migrations, from investigation through to
+    rollout.
+  - Fix systemic problems. Use tracing, metrics and logs to find
+    recurring stability and performance issues across services
+    and databases, then fix them or partner with the owning
+    team to do so.
+  - Own critical shared services. Maintain and improve essential
+    services such as authentication and data access control,
+    and help raise the standard of our shared libraries and
+    service templates.
+  - Keep our older platform healthy. Between major projects,
+    deliver a steady stream of smaller fixes and improvements
+    to the older parts of the platform that run critical
+    client workflows.
+
+  - Be a go-to expert when things go wrong. When production
+    issues arise, you’ll be one of the people the business
+    turns to, using your knowledge of the whole platform to
+    diagnose and resolve them quickly. You’ll also step in on
+    urgent, high-risk issues that need focused expertise,
+    resolving risks before they become outages.
+  - Join our on-call rota. You will be required to take part in
+    our out-of-hours on-call incident rota once you have
+    completed probation and settled into the team (usually
+    around 5–6 months in). An on-call allowance is paid.
+  - Work across the organisation. Collaborate closely with
+    product delivery teams and our platform team, respecting
+    their ownership while helping introduce better
+    architectural and operational patterns.
+
+  Experience
+
+  - Senior-level backend engineering. Substantial production
+    experience (5+ years) building and maintaining
+    applications in TypeScript/Node.js. You’ve owned services
+    end to end, from design through to running them in
+    production. You also have some front-end experience and
+    are happy to get involved in front-end work when it’s
+    needed.
+  - Hands-on AWS operational experience. You’re comfortable with
+    infrastructure-as-code, containers, serverless and CI/CD,
+    and you understand how these fail in production.
+  - Strong production debugging skills. You’ve diagnosed
+    performance and stability problems in live systems you
+    didn’t build, using observability tooling such as Datadog,
+    and you can work at the database level (MySQL or similar)
+    when queries are the problem.
+
+  Skills
+
+  - Effective and pragmatic approach to AI. You use AI coding
+    assistants and agents to speed up development,
+    investigation and debugging, and you have clear views on
+    how to get the most out of them, while also understanding
+    AI’s limits and the problems these tools can create.
+  - Clear written communication. You can explain a technical
+    risk or trade-off to engineers and non-engineers alike.
+  - Self-direction. You take ambiguous problems, work out what
+    matters most and drive them to resolution with minimal
+    steer.
+  - Making others better. You make the engineers around you
+    better through thoughtful code review, sharing what you
+    know, and improving how we build and run software.
+  - Enjoyment of variety. You’re as comfortable making steady
+    small improvements to an older, complex system as you are
+    delivering a large project.
+
+  Education / Professional Qualifications
+
+  No formal educational requirements required
+
+  Equal Opportunities
+
+  https://cloudmargin.com/privacy-policy/
+industries:
+  - Cloud
+  - Software
+  - Financial Services
+posted_date: 2026-11-13
+url: "https://builtin.com/job/senior-software-engineer-reliability-core-services/12235341"
+source: Built In

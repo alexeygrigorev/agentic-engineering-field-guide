@@ -1,0 +1,252 @@
+job_id: 11442795
+title: Backend Product Engineer
+company: Yonder Global, PBC
+location: London, GBR
+work_type: FULL_TIME
+company_size: 17 Employees
+description: |
+  What’s Yonder?
+
+  “It's as if Time Out, Amex and Monzo had a baby” - Will T,
+  Yonder Member
+
+  Yonder combines credit and debit in one membership that’s
+  fair, flexible and actually enjoyable. No jargon. No dusty
+  points system. Just rewards that actually feel rewarding,
+  from bao to beer to a boarding pass.
+
+  The engineering team sits at the heart of the company; we
+  work in squads alongside product and design, and closely
+  with risk, compliance, operations and partnerships.
+
+  Sounds cool. What’s my part in this?
+
+  We’re looking for a Product Engineer to join our backend
+  team. You’ll work on the systems that sit behind every
+  Yonder membership: what happens when a member taps their
+  card, our in-house core banking platform, and the rewards
+  engine that makes Yonder different.
+
+  You’ll be joining a small engineering team that owns
+  everything end to end: the development lifecycle, system
+  architecture and the infrastructure it all runs on. That
+  means the work you do has a real, visible impact, and you’ll
+  have a hand in shaping how engineering at Yonder evolves.
+
+  Your home is the backend, but we don’t believe in rigid
+  boundaries. Everyone here is encouraged to contribute
+  wherever the problem takes them, whether that’s
+  infrastructure, the mobile app or the webapp.
+
+  What you’ll do
+
+  🔨 Build
+
+  - Develop production-grade backend services powering payments,
+    core banking and rewards.
+  - Build event-driven features with Kafka and integrate with
+    internal services and external partners.
+  - Ship features end to end, from concept through to live
+    deployment, with measurable member impact.
+
+  🧩 Design
+
+  - Contribute to the architecture of our distributed
+    microservices, with an eye on resilience, scalability and
+    maintainability.
+  - Design APIs and data flows that work cleanly with our mobile
+    app.
+  - Take part in lightweight architecture reviews to share
+    knowledge and shape technical decisions.
+
+  ⚙ Operate
+
+  - Look after the services you build in production: monitor,
+    troubleshoot and improve them.
+  - Work on our cloud infrastructure, containerised workloads
+    and CI/CD pipelines.
+  - Apply good practice for reliability, observability and
+    security across the stack.
+
+  🤝 Collaborate
+
+  - Work closely with product and design to deliver features our
+    members love.
+  - Pair with other engineers, review code and help raise the
+    team’s technical bar.
+
+  Our Tech Stack
+
+  - Backend: Scala microservices on the Typelevel ecosystem
+    (Http4s, Cats Effect)
+  - Data & messaging: AlloyDB (Postgres), managed Kafka
+  - Infrastructure: GCP, GKE (Kubernetes), Docker
+  - Frontend: React Native mobile app, Next.js webapp
+  - AI tooling: AI coding tools are widely used and actively
+    encouraged. Our engineers use Claude Code, Cursor, GitHub
+    Copilot and Codex day to day.
+
+  You're a great fit if you
+
+  ✅ Have backend experience in production: You’ve built and
+  run services that real users depend on, ideally in a JVM
+  language (Java, Kotlin, Scala).
+
+  ✅ Are curious about functional programming: You like
+  immutable data, strongly typed APIs and code that’s easy to
+  reason about. You don’t need Scala experience; we’ll help
+  you learn it.
+
+  ✅ Have worked with event-driven systems: You have experience
+  with Kafka or similar, and understand how event-driven
+  architectures behave in practice.
+
+  ✅ Understand distributed systems: You’re comfortable
+  building and operating microservices.
+
+  ✅ Own quality: You see automated testing as part of
+  building, not an afterthought.
+
+  ✅ Use AI tools well: You use AI to move faster, and you
+  apply the judgement to know when its output is wrong.
+
+  ✅ Focus on the customer: You care more about solving member
+  problems than about any particular technology.
+
+  ✅ Are comfortable with ambiguity: You’re happy setting your
+  own direction when the path isn’t fully defined.
+
+  ✅ Take ownership: You drive work from idea to delivery in a
+  fast-paced startup.
+
+  ✅ Have a growth mindset: You’re eager to learn, including
+  parts of the stack you haven’t touched before.
+
+  You won’t be a great fit if you
+
+  👎 Prefer large, structured teams with well-defined processes
+  over a fast-moving, evolving environment.
+
+  👎 Chase technical perfection without balancing it against
+  customer impact and business needs.
+
+  👎 Struggle to make decisions when the way forward isn’t
+  clear.
+
+  👎 Want to stay strictly in your lane and avoid
+  infrastructure, frontend or unfamiliar parts of the stack.
+
+  👎 Want a strict 9–5: this is a hard role at a small,
+  ambitious company. Some weeks are demanding, especially
+  around launches and incidents. If protected fixed hours are
+  a must for you, this isn’t the place.
+
+  What’s it like working at Yonder?
+
+  🏢 We’re office-first, remote-friendly
+
+  We’re based in our Brick Lane office, complete with a
+  terrace, breakfast, coffee (from a barista), dogs, beer taps
+  and plenty of comfortable space to do your best work. We ask
+  you to come into the office at least 3 days a week, with
+  everyone coming in on Mondays.
+
+  🤍 We take a values-led approach
+
+  Our principles are incredibly important to us, so we
+  recommend you check them out here: Our DNA
+
+  📚 We take development really seriously
+
+  We have a pretty structured process for progression, with
+  fortnightly one-on-ones and quarterly peer perspectives. We
+  also take some time at the end of each week to reflect and
+  celebrate what we’ve learned and achieved.
+
+  What’s in it for me?
+
+  Depending on your skill set and what you can bring from day
+  one, you’ll be looking at:
+
+  💰 £53,578 - 73,163 depending on experience
+
+  📈 £34,064 - 60,994 stock options
+
+  Plus
+
+  ✈️ 35 holidays (27 days annual leave + 8 days public leave)
+
+  ⛷ Team-building offsite
+
+  ❤️‍🩹 Private healthcare with Bupa
+
+  🐣 Up to 12 weeks enhanced parental leave after being with
+  Yonder for 1 year
+
+  🧠 Learning & training allowance (£750/year) that you can use
+  on books, courses, etc
+
+  🍳 Regular team breakfasts and lunch
+
+  ⛳️ Regular team events like Mini-golf, Escape Room, Cocktail
+  making
+
+  🚴 Cycle-to-work scheme
+
+  ☕️ Fresh pour-over coffee made by our very own CEO, Tim
+  (London only)
+
+  What’s the interview process like?
+
+  We take the candidate experience really seriously, so we’ve
+  made the process as transparent as possible. We also promise
+  to be super responsive, and will never leave you wondering
+  where you stand for weeks on end.
+
+  Here’s how it works:
+
+  - Stage 1: Intro call (45 mins):You will have an initial video
+    call with Harry Jell, our CTO, to find out more about you
+    and to tell you more about us.
+  - Stage 2: Case interview / Take home task (60 mins)
+  - Stage 3: Face-to-face interview (2 hours):Two 60-minute
+    interviews to learn more about how you work. This will
+    also be a great opportunity for you to meet the rest of
+    the team so we would love it if you can come into the
+    office for it! Interviews will be structured as follows:
+    - Experience interview: We’ll deep dive into your CV and talk
+      about your past experiences. This stage will be with
+      some a couple of backend engineers.
+    - Values interview: We want to learn more about how you work -
+      we’ll ask you questions related to our principles (Our
+      DNA). This stage will be with two people from our wider
+      team.
+  - We’ll also include a 15-minute comfort break ☕️
+  - Stage 4: Offer If everyone’s happy, we’ll make you an offer
+    to join us - YAY! 🎉 We hope to always give you a decision
+    between each stage within 24 hours (where possible).
+
+  Other things to know:
+
+  - We love closing the feedback loop at Yonder. You can expect
+    specific feedback on our decision from Stage 2 onwards,
+    and you can always ask for more.
+  - We must complete the right to work & criminal background
+    checks for every new Yonder-er for compliance purposes
+    because we handle sensitive customer data.
+  - We also do reference checks, ideally with your most recent
+    manager on the phone.
+  - We like to move quickly at Yonder, so we will be ready to
+    onboard you once the above checks are complete - the
+    entire process can take between 2 - 6 weeks.
+
+  🌈 We know that diverse teams build better products. If
+  you’re from an under-represented community, we’d especially
+  love to hear from you.
+
+  👉 Even if you don’t feel 100% qualified, please do apply
+  anyway. Your attitude and desire to grow are just as
+  important as your experience.
+posted_date: 2026-09-30
+url: "https://builtin.com/job/backend-product-engineer/11442795"
+source: Built In

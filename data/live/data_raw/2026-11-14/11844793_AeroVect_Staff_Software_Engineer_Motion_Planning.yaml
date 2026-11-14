@@ -1,0 +1,105 @@
+job_id: 11844793
+title: Staff Software Engineer, Motion Planning
+company: AeroVect
+location: ITA
+locations:
+  - ITA
+  - POL
+  - Atlanta, USA
+  - Frankfurt, DEU
+  - Stockholm, SWE
+  - Amsterdam, NLD
+  - Paris, FRA
+  - London, GBR
+remote: true
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  Who We Are
+
+  AeroVect is transforming ground handling with autonomy,
+  redefining how airlines and ground service providers around
+  the globe run day-to-day operations. We are a Series A
+  company backed by top-tier venture capital investors in
+  aviation and autonomous driving. Our customers include some
+  of the world’s largest airlines and ground handling
+  providers. For more information, visit www.aerovect.com.
+
+  Job Description
+
+  We are looking for an experienced Staff Software Engineer
+  who can design and build best-in-class planning systems for
+  autonomous driving in structured, low-speed environments.
+
+  In this role, you'll be the technical backbone of the
+  planning stack — owning the design and implementation of
+  production-grade mission planning, behavior planning, and
+  motion planning software. You'll work across the full
+  planning pipeline to achieve category-defining vehicle
+  autonomy for the airside, tackling hard problems in
+  trajectory optimization, decision-making under uncertainty,
+  and real-time constraint optimization.
+
+  This opportunity offers a deeply technical engineer the
+  chance to shape a market-defining enterprise product that
+  combines autonomous vehicle technology with a robotics-as-a-
+  service (RaaS) business model. This role reports to our
+  Planning Tech Lead and works closely with the autonomy
+  engineering team.
+
+  You Will:
+
+  - Design, implement, and iterate on the mission planner,
+    behavior planner, and motion planner for autonomous ground
+    support equipment operating in airport airside
+    environments.
+  - Drive key technical decisions across the planning stack —
+    selecting algorithms, defining interfaces, and
+    establishing the architecture that the team builds on.
+  - Prototype and evaluate new planning approaches (e.g.,
+    optimization-based methods, search-based planners,
+    learning-augmented pipelines) and bring the best ideas to
+    production.
+  - Collaborate cross-functionally with perception, controls,
+    localization, and systems engineering teams to deliver an
+    integrated autonomous driving system.
+  - Establish and promote best practices in software
+    development, functional safety, and systems engineering as
+    they apply to the planning domain.
+  - Mentor other engineers through technical guidance, code
+    review, and design discussions.
+
+  You Have:
+
+  - Bachelor's or Master's degree in Computer Science, Math,
+    Electrical Engineering, Mechanical Engineering, Robotics,
+    Physics, or a related field.
+  - Extensive hands-on experience designing and implementing
+    planning modules for autonomous systems shipped to
+    production or deployed in real-world operations.
+  - Strong programming skills in C++ (preferred) or Python, and
+    experience with Linux-based operating systems.
+  - Demonstrated ability to take ambiguous technical problems
+    and drive them to well-architected solutions
+    independently.
+  - Excellent communication skills, proactiveness, and a strong
+    sense of ownership.
+
+  We Prefer:
+
+  - MS or Ph.D. in Computer Science, Robotics, or a related
+    field.
+  - Mastery of Modern C++ (14 and beyond) and safety-critical
+    coding practices (e.g., MISRA, ISO 26262).
+  - 5+ years of industry experience in planning for robotic
+    ground vehicles.
+  - In-depth understanding of DDS frameworks like ROS/ROS2 or
+    other networking middleware.
+  - Experience in startup environments, demonstrating
+    adaptability to rapidly changing priorities.
+industries:
+  - Aerospace
+  - Automation
+posted_date: 2026-10-23
+url: "https://builtin.com/job/staff-software-engineer-motion-planning/11844793"
+source: Built In

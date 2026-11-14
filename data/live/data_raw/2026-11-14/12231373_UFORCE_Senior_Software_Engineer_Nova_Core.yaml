@@ -1,0 +1,172 @@
+job_id: 12231373
+title: Senior Software Engineer (Nova Core)
+company: UFORCE
+location: London, GBR
+work_type: FULL_TIME
+company_size: 1,000 Employees
+description: |
+  UFORCE exists to make aggression unaffordable. Founded in
+  Ukraine and headquartered in London, UFORCE is a defence-
+  technology company with operations across Europe, the United
+  States and Asia. UFORCE builds uncrewed vessels, ground
+  robotics and aircraft, autonomy software, and the command-
+  and-control layer that operates them together. Each platform
+  is deployable on its own, and stronger as part of the
+  system. Its product lines include the MAGURA family of
+  uncrewed surface vessels, the NEMESIS family of strike
+  platforms, the LIUT family of ground robotic platforms, and
+  counter-UAS systems.
+
+  About the role
+
+  The Senior Software Engineer (Nova Core) will design, build,
+  and operate the backend services and platform foundations
+  that enable reliable, secure, and maintainable C2 operations
+  across Nova Cloud deployments. This role focuses on the Nova
+  Core “inner loop”: service architecture, APIs, data models,
+  persistence, authn/authz, observability, and developer
+  experience that other Nova modules and product teams depend
+  on.
+
+  What you’ll do
+
+  • Own and ship critical Nova Core backend services (e.g.,
+  common APIs, configuration service, tenant/environment
+  lifecycle, shared domain libraries).
+
+  • Design stable, backward-compatible API contracts (schemas,
+  versioning, deprecation/migration playbooks) to protect
+  dependent services and teams. • Build and evolve data models
+  and persistence layers, including schema evolution,
+  migrations, correctness guarantees, and safe rollout
+  strategies.
+
+  • Establish production-grade operability: structured
+  logging, metrics, tracing, dashboards, and actionable
+  alerts; write and maintain runbooks.
+
+  • Improve reliability over time by reducing incident
+  frequency and driving down MTTD/MTTR through instrumentation
+  and post-incident improvements.
+
+  • Implement secure-by-default backend patterns (least
+  privilege, secret management, audit events, policy hooks)
+  and make them reusable across teams.
+
+  • Contribute to and enforce consistent RBAC/permissions and
+  authorization checks across services and APIs.
+
+  • Add security-focused tests and CI/CD gates informed by
+  threat modeling to reduce regressions.
+
+  • Build and maintain shared backend libraries/SDKs with
+  strong documentation and examples to accelerate adoption and
+  reduce duplicated work.
+
+  • Improve developer experience: faster local workflows,
+  environment parity (e.g., dockerized deps, seeded data), and
+  rapid test feedback.
+
+  • Strengthen test harnesses (contract tests, integration
+  tests, performance baselines) to catch cross-service
+  breakages earlier.
+
+  • Diagnose and fix high-impact performance bottlenecks
+  (latency hot paths, caching, concurrency, DB query
+  efficiency) and introduce pragmatic performance budgets.
+
+  • Refactor brittle areas and pay down targeted technical
+  debt to improve maintainability and reduce operational risk.
+
+  • Communicate trade-offs clearly and collaborate effectively
+  with dependent engineering and product teams.
+
+  What success looks like
+
+  • Core Nova services are delivered, adopted, and operated
+  reliably with clear SLIs/SLOs and runbooks.
+
+  • Observability is strong enough that incidents are detected
+  quickly and resolved faster over time (improving MTTD/MTTR).
+
+  • API versioning and compatibility practices reduce
+  integration churn and prevent breaking changes for dependent
+  teams.
+
+  • Security and access-control foundations (authn/authz,
+  auditability, secret handling, least privilege) are
+  consistently applied across Nova Core services.
+
+  • Shared contracts, libraries, and SDKs meaningfully reduce
+  duplicated service work and accelerate delivery across Nova
+  modules.
+
+  • CI/CD and release processes enable safer, more frequent
+  deployments of core services.
+
+  • Performance and correctness improve measurably in critical
+  workflows (latency, resource usage, query efficiency,
+  failure handling).
+
+  • Technical debt is paid down in targeted areas, improving
+  maintainability and reducing operational risk.
+
+  Required Qualifications
+
+  • 5+ years building and operating production backend systems
+  and services.
+
+  • Strong experience in API design, backend architecture, and
+  evolving contracts safely over time.
+
+  • Solid data modeling and persistence experience (SQL and/or
+  NoSQL), including migrations and schema evolution.
+
+  • Demonstrated operational ownership: observability, on-call
+  readiness, incident response, and production debugging.
+
+  • Security-first backend engineering experience, including
+  authn/authz patterns and audit/event design.
+
+  • Strong testing discipline (unit/integration/contract
+  testing) and ability to build reliable systems under real-
+  world constraints.
+
+  • Clear communication and cross-team collaboration skills;
+  comfortable aligning stakeholders on architecture decisions.
+
+  Nice to have
+
+  • Experience building platform foundations for multi-service
+  environments (shared libraries/SDKs, service templates,
+  internal platforms).
+
+  • Experience with multi-tenant systems, tenant lifecycle
+  management, and environment provisioning patterns.
+
+  • Experience with distributed systems reliability patterns
+  (idempotency, retries, transactional workflows, consistency
+  trade-offs).
+
+  • Experience with performance engineering (profiling, load
+  testing, latency budgets) and cost-aware backend
+  optimization.
+
+  • Experience in defence tech / C2/C4ISR / tactical systems,
+  constrained deployments, or regulated/on-prem environments.
+
+  The nature of combat has changed.
+
+  Tomorrow’s battlefield success depends on autonomy, speed,
+  and adaptability.
+
+  And UFORCE is ready.
+
+  Are You?
+industries:
+  - Aerospace
+  - Robotics
+  - Defense
+posted_date: 2026-11-13
+url: "https://builtin.com/job/senior-software-engineer-nova-core/12231373"
+source: Built In

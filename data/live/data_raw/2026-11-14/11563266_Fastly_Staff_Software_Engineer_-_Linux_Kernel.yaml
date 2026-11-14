@@ -1,0 +1,238 @@
+job_id: 11563266
+title: Staff Software Engineer - Linux Kernel
+company: Fastly
+location: Denver, USA
+locations:
+  - Denver, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 960 Employees
+description: |
+  Fastly helps people stay better connected with the things
+  they love. Fastly’s edge cloud platform enables customers to
+  create great digital experiences quickly, securely, and
+  reliably by processing, serving, and securing our customers’
+  applications as close to their end-users as possible — at
+  the edge of the Internet. The platform is designed to take
+  advantage of the modern internet, to be programmable, and to
+  support agile software development. Fastly’s customers
+  include many of the world’s most prominent companies,
+  including GitHub, Yelp, Paramount, and JetBlue.
+
+  We're building a more trustworthy Internet. Come join us.
+
+  Posting Open Date: 10/07/2026
+
+  Anticipated Posting Close Date*: 11/6/26
+
+  *Job posting may close early due to the volume of
+  applicants.
+
+   Staff Software Engineer, Linux Edge Kernel
+
+  Fastly's Kernel and Host Networking team builds and ships
+  the Linux kernel that runs on every server in our global
+  edge network, and every customer request passes through it.
+  As a Staff engineer you own technical problems end to end:
+  from a crash signature or a new NIC on the bench, through
+  root cause and design, to a change that is upstreamed and
+  safely running on thousands of servers. The work spans
+  networking, XDP and eBPF, memory, performance and hardware
+  enablement. It also spans layers. Our kernel is the datapath
+  of a distributed system whose control planes are constantly
+  pushing new state to the fleet, so staying correct under
+  change is part of the job. Formal CS education is not
+  required; demonstrable experience is what matters.
+
+  What You'll Do:
+
+  - Set technical direction for kernel projects, own them end to
+    end from problem statement to fleet rollout, and mentor
+    engineers on the team
+  - Take new servers, CPUs and NICs from first boot to full
+    fleet: drivers, IRQ affinity, RSS and queue layout on high
+    core count hosts
+  - Improve datapath and transport performance with XDP, eBPF
+    and protocol work based on IETF specifications
+  - Debug problems that cross layers with application teams,
+    such as MTU behavior, cgroup memory accounting and packet
+    filtering
+  - Develop and maintain kernel changes and Fastly kernel
+    modules on our long term kernel line, and reduce our
+    private delta by upstreaming
+  - Make sure state pushed from control planes to eBPF and XDP
+    programs is applied, verified and safe to roll back
+  - Own kernel health in production: triage crashes, WARNs and
+    regressions across the fleet, find the root cause and ship
+    the fix
+  - Own and improve the kernel release process and the signals
+    behind it: CI, bake, canary, staged rollout and rollback
+    across thousands of servers, plus crash metrics and drift
+    detection that fire before customers notice
+  - Join the on-call rotation, lead the kernel side of incidents
+    and drive follow-up actions to closure
+
+  What We're Looking For:
+
+  - 7+ years of related engineering experience, including
+    substantial production C, with 3 of those years leading
+    technical projects
+  - Production Linux kernel development, including debugging
+    use-after-free, refcount and leak bugs with KASAN, kdump,
+    ftrace, perf or bpftrace
+  - Working knowledge of the scheduler and memory management
+    (EEVDF, memcg)
+  - Experience managing a kernel patch stack and working with
+    upstream communities
+  - Solid understanding of the Linux network stack (TCP/IP,
+    sk_buff lifecycle, qdiscs, NIC drivers) and XDP or eBPF,
+    with deep expertise in at least one of these areas
+  - Operational discipline: staged rollouts, canaries, kill
+    switches, observability, postmortems and closing action
+    items
+  - Understanding of distributed systems: control plane and
+    datapath consistency, partial failure and safe config
+    rollout at fleet scale
+  - Ability to design broadly scoped work and drive it across
+    teams
+
+  We’ll be super impressed if you have experience in any of
+  these:
+
+  - Upstream kernel contributions or subsystem maintainership
+  - Deep Knowledge of Transport protocols from IETF RFCs: QUIC,
+    TCP, ECN and L4S, MASQUE
+  - Hardware enablement on AMD EPYC or Intel platforms, and NIC
+    drivers such as mlx5, ice or i40e
+  - Load balancing or traffic steering systems
+  - CDN or large edge network environments
+  - Container networking: network namespaces, veth, cgroups, and
+    eBPF-based CNI datapaths
+
+  Work Hours:
+
+  This position requires availability during core business
+  hours and participation in an on-call rotation.
+
+   Work Location(s) & Travel Requirements:
+
+  This position is open to remote and hybrid work locations in
+  the United States. Our US Fastly offices are located in:
+
+  - New York, NY
+  - San Francisco, CA
+  - Denver, CO
+
+  This position may require travel as required by your role or
+  requested by your manager.
+
+  SF / LA Fair Chance Ordinance Statement
+
+  Pursuant to the San Francisco Fair Chance Ordinance and the
+  Los Angeles Fair Chance Initiative for Hiring Ordinance, we
+  will consider for employment qualified applicants with
+  arrest and conviction records.
+
+  Salary:
+
+  The estimated salary range for this position in the US is
+  $211,370 to $253,644.
+
+  Starting salary may vary based on permissible, non-
+  discriminatory factors such as experience, skills,
+  qualifications, and location.
+
+  This role may be eligible to participate in Fastly’s equity
+  and discretionary bonus programs.
+
+  Benefits:
+
+  We care about you. Fastly works hard to create a positive
+  environment for our employees, and we think your life
+  outside of work is important too. We support our teams with
+  great benefits that start on the first day of your
+  employment with Fastly. Curious about our offerings?
+
+  We offer a comprehensive benefits package including medical,
+  dental, and vision insurance. Family planning, mental health
+  support along with Employee Assistance Program, Insurance
+  (Life, Disability, and Accident), a Flexible Vacation policy
+  and up to 18 days of accrued paid sick leave are there to
+  help support our employees. We also offer 401(k) (including
+  company match) and an Employee Stock Purchase Program. For
+  2026, we offer 11 paid local holidays, 12 paid company
+  wellness days.
+
+  AI Statement
+
+  To ensure a fair and equitable interview process for
+  everyone, the use of AI technologies—including real-time
+  transcription tools, automated scripts, AI copilots, or
+  external assistants—is strictly prohibited during the
+  interview process unless explicitly authorized by the
+  company in advance. Unauthorized use of AI tools may result
+  in disqualification.
+
+  Why Fastly?
+
+  - We have a huge impact. Fastly is a small company with a big
+    reach. Not only do our customers have a tremendous user
+    base, but we also support a growing number of open source
+    projects and initiatives. Outside of code, employees are
+    encouraged to share causes close to their heart with
+    others so we can help lend a supportive hand.
+  - We value diversity. Growing and maintaining our inclusive
+    and diverse team matters to us. We are committed to being
+    a company where our employees feel comfortable bringing
+    their authentic selves to work and have the ability to be
+    successful -- every day.
+  - We are passionate. Fastly is chock full of passionate people
+    and we’re not ‘one size fits all’. Fastly employs authors,
+    pilots, skiers, parents (of humans and animals), makeup
+    geeks, coffee connoisseurs, and more. We love employees
+    for who they are and what they are passionate about.
+
+  We’re always looking for humble, sharp, and creative folks
+  to join the Fastly team. If you think you might be a fit
+  please apply! A fully completed application and resume or CV
+  are required when applying.
+
+  All job applications must be submitted through our official
+  careers site at www.fastly.com/about/careers. We will never
+  request sensitive information, such as your Social Security
+  number, bank account or credit card information during the
+  application process. All official communication will come
+  from an @fastly.com or @recruiting.fastly.com email address.
+
+  Fastly is committed to ensuring equal employment opportunity
+  and to providing employees with a safe and welcoming work
+  environment free of discrimination and harassment. Our
+  employment decisions are based on business needs, job
+  requirements and individual qualifications. All qualified
+  applicants will receive consideration for employment without
+  regard to age, ancestry, color, family or medical care
+  leave, gender identity or expression, genetic information,
+  marital status, medical condition, national origin, family
+  or parental status, physical or mental disability, political
+  affiliation, protected veteran status, race, religion, sex
+  (including pregnancy), sexual orientation, or any other
+  characteristic protected by applicable laws, regulations and
+  ordinances.
+
+  Consistent with the Americans with Disabilities Act (ADA)
+  and federal or state disability laws, Fastly will provide
+  reasonable accommodations for applicants and employees with
+  disabilities. If reasonable accommodation is needed to
+  participate in the job application or interview process, to
+  perform essential job functions, and/or to receive other
+  benefits and privileges of employment, please contact your
+  Recruiter, or the Fastly Employee Relations team at
+  candidateaccommodations@fastly.com or 501-287-4901.
+
+  Fastly collects and processes personal data submitted by job
+  applicants in accordance with our Privacy Policy. Please see
+  our privacy notice for job applicants.
+posted_date: 2026-10-07
+url: "https://builtin.com/job/staff-software-engineer-linux-kernel/11563266"
+source: Built In

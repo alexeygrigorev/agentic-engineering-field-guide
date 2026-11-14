@@ -1,0 +1,101 @@
+job_id: 9030994
+title: Senior Backend Engineer
+company: Project Eleven
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 9 Employees
+description: |
+  About Project Eleven
+
+  Project Eleven is an applied lab of builders and
+  technologists working at the intersection of quantum
+  computing and cryptography. We build impactful solutions
+  that push the digital-asset ecosystem to a more secure
+  future. Our focus is post-quantum migration: upgrading
+  wallets, identity, and settlement rails to quantum-safe
+  primitives without breaking UX, composability, and developer
+  workflows.
+
+  Our mission is to future-proof digital assets and preserve
+  self-sovereignty in a post-quantum world. We do that by
+  building the canonical tooling and products teams can adopt:
+  crypto-agile infrastructure, reference implementations, and
+  integrations that fit real constraints like latency, cost,
+  compatibility, key rotation, and recovery.
+
+  We work with leading ecosystems to make this migration real
+  through products we build, audits, testnets, and cutting
+  edge research. The vision we are have is clear: a proven
+  upgrade path, production-ready tooling and users retaining
+  control of their assets and identity, before CRQC exists.
+
+  The role
+
+  We're looking for a Senior Backend Engineer to join our
+  growing Product Engineering team. You'll play a pivotal role
+  in building the canonical infrastructure that protects
+  institutional digital-asset operations in a post-quantum
+  world.
+
+  This role is a full-time, fully remote position in Europe
+  (GMT to GMT+2).
+
+  What you'll be responsible for
+
+  - Owning and evolving security-critical backend services at
+    the core of our institutional product
+  - Designing and implementing systems with strict correctness,
+    durability, and auditability guarantees
+  - Enforcing strict security boundaries around sensitive
+    operations and data
+  - Defining and upholding API stability, versioning, and
+    backward-compatibility policies
+  - Contributing to internal security standards, threat
+    modeling, and engineering best practices
+  - Partnering with our cryptography and research engineers to
+    bring novel primitives into production systems
+
+  What you bring
+
+  - Strong proficiency in Rust and TypeScript (ideally both)
+  - Experience building performant backend services, APIs, and
+    libraries at production scale
+  - Experience designing systems with strong security,
+    durability, or correctness requirements e.g. financial
+    systems, key management, identity, custody, or other
+    regulated infrastructure
+  - Solid applied cryptography fundamentals: signing,
+    encryption, secrets management, key handling
+  - Good knowledge of CI/CD, service deployments, and
+    containerisation
+  - High competency with automated testing (unit, integration,
+    and e2e)
+  - Strong English communication
+
+  What we'd love to see
+
+  - Experience building or operating institutional
+    infrastructure: custody platforms, HSM-backed systems,
+    KMS, or similar high-assurance systems
+  - Familiarity with threshold signing, MPC, or HSM integration
+    patterns
+  - Exposure to compliance frameworks (SOC 2, ISO 27001) and
+    audit-friendly system design
+  - Experience with post-quantum cryptography or the operational
+    implications of migrating cryptographic primitives
+  - Experience developing and maintaining long-lived libraries
+    or protocols with strong backward-compatibility
+    requirements
+  - Open-source contributions to cryptography, security, or
+    related infrastructure
+
+  Equal Opportunity
+
+  We are committed to equal employment opportunity and believe
+  that diverse teams build better products. All qualified
+  applicants will receive consideration without regard to any
+  protected characteristic under applicable law.
+posted_date: 2026-08-18
+url: "https://builtin.com/job/senior-backend-engineer/9030994"
+source: Built In

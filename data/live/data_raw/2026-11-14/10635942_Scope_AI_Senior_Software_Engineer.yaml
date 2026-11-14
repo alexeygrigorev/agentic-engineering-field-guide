@@ -1,0 +1,141 @@
+job_id: 10635942
+title: Senior Software Engineer
+company: Scope AI
+location: London, GBR
+work_type: FULL_TIME
+company_size: 32 Employees
+description: |
+  Our Mission:
+
+  Scope automates the data collection that's slowing down the
+  physical world.
+
+  Standards are vital for the safety of our infrastructure.
+  Spending hours manually documenting them is not.
+
+  Dave is an inspector. Today he’s climbing through one of
+  Europe’s biggest chemical plants, looking for the corrosion
+  that could shut the whole site down, with a notebook and pen
+  in hand. Tomorrow, he’ll spend even longer on the part of
+  the job he hates: turning those scribbles into a report.
+
+  We’re building the AI-native data collection layer for the 2
+  billion field workers like Dave. Scope radically simplifies
+  how inspectors collect data in the field, make decisions,
+  and produce reports. Along the way, we’re building the
+  largest dataset on the condition of the built world and the
+  decisions experts make about it.
+
+  It’s a $2T market and we’re just getting started. We're
+  growing rapidly, and already work with 6 of the top 10
+  companies in the space. Our customers inspect facilities and
+  products for companies including AstraZeneca and SpaceX.
+
+  We take pride in our talent density, and have assembled a
+  best-in-class team: acquired and future founders, people
+  from institutions like Imperial, Carnegie Mellon and Oxford,
+  and from firms like Palantir, Goldman Sachs and Flexport .
+
+  Since launching from Entrepreneurs First in 2024, we've
+  raised an oversubscribed $20m round led by Index Ventures,
+  the firm behind Figma, Revolut and Wiz, with over 100
+  unicorns backed to date.
+
+
+
+  About the role
+
+  - Real product ownership. You’ll go on site with inspectors,
+    decide what matters, design it, ship it, and see whether
+    it worked.
+  - The hard, interesting problems in AI. Field data is messy:
+    voice notes, photos, video, half-finished sentences
+    recorded in a chemical plant with no signal. Turning that
+    into a report an expert will sign is a context-engineering
+    problem nobody has solved well yet.
+  - A small team that ships fast. We ship to production every
+    day and put changes in front of inspectors within days,
+    not quarters. Ideas go from a site visit to a live feature
+    in a single sprint. If something doesn’t land, we learn
+    why and iterate quickly. There are no layers of sign-off
+    between you and the user.
+
+
+
+  What you’ll do
+
+  - Redesign the mobile app for how inspectors actually work:
+    gloves on, no signal, one hand holding on
+  - Build the systems that takes voice notes, photos, videos and
+    proactively finishes reports without being annoying
+  - Engineer how we feed context to AI models: how to store,
+    fetch and select standards, reports, media, user intention
+  - Evolve our workflow builder: something between Retool,
+    Webflow and n8n for inspections
+  - Design the architecture behind the product: how unstructured
+    data flows through the system, how AI is integrated, how
+    offline and online behaviour stay seamless, and how we
+    keep the product simple as it becomes more powerful.
+
+
+
+  Who you are
+
+  - You’re deeply technical. You’re a little bit sad that AI
+    tooling creates more distance between you and the code,
+    and you still like knowing how things work underneath.
+  - You’re a manager of one. We believe great teams are made up
+    of highly agentic people who care more about shipping
+    results than collecting badges.
+  - You’ve got the scar tissue. You have 5+ years of experience
+    and know which technical decisions matter, and which ones
+    don’t.
+  - You’ve shipped real applications. Ideally mobile, ideally
+    with Expo or React Native. You care about the details that
+    break in the real world: offline, flaky networks, error
+    states.
+  - You’re curious about AI as an engineering problem. You’re
+    interested in getting messy real-world inputs into a model
+    and getting something reliable back out, not just in
+    calling an API.
+
+
+
+  Interview process
+
+  - An initial call with our talent team.
+  - A collaborative technical exercise with an engineer, usually
+    in Typescript or Python.
+  - An Interview with a cofounder - Jonny (CEO) or Jakob (CTO).
+  - Onsite Product Interview - Meeting more people on the team
+    and getting a feel of what it would be like to work here.
+  - Offer!
+
+
+
+  Compensation and benefits
+
+  We’re in the office five days a week, so we’ve made it a
+  great place to be.
+
+  - £120k–£150k base + significant equity, so you have a real
+    stake in what you’re building
+  - 33 days’ holiday (including bank holidays, which you can
+    take at your discretion.)
+  - Bupa private medical: £0 excess, pre-existing conditions
+    covered, digital GP, plus Bupa dental
+  - Fresh meal prep delivered every week, a stocked fridge, and
+    team lunch out every Friday
+  - Working late? Dinner’s on us, and so is your Uber home
+  - Full visa sponsorship
+  - New MacBook and whatever tools you need
+  - Flexible parental leave, including adoption leave
+  - Regular team events and off-sites
+industries:
+  - Artificial Intelligence
+  - Software
+  - Industrial
+  - Automation
+posted_date: 2026-11-02
+url: "https://builtin.com/job/senior-software-engineer/10635942"
+source: Built In

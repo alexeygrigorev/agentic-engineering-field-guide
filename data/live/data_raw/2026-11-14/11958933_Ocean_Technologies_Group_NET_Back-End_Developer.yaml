@@ -1,0 +1,173 @@
+job_id: 11958933
+title: .NET Back-End Developer
+company: Ocean Technologies Group
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 350 Employees
+description: |
+  🚢 Discover OneOcean:  OneOcean is a unified brand born from
+  the integration of OneOcean and Ocean Technologies Group.
+  Owned by Lloyd’s Register, an organisation with more than
+  260 years of trust, integrity and leadership at sea,
+  OneOcean combines the agility and ambition of a fast-moving
+  innovator with the strength and stability of one of the
+  world’s most trusted maritime institutions. At the heart of
+  OneOcean is a portfolio unlike any other in maritime.  A
+  comprehensive, integrated portfolio built on years of
+  expertise, trusted by thousands of maritime professionals
+  around the world. 🎯 Our Mission: Our mission is clear. In
+  the race to zero emissions, our research, advisory and
+  technical expertise and industry-firsts are supporting a
+  safe, sustainable maritime energy transition. Today we are a
+  leading provider of classification and compliance services
+  to the marine and offshore industries, helping our clients
+  design, construct and operate their assets to accepted
+  levels of safety and environmental compliance. 🔍 Why Join
+  OneOcean Crew? Legacy & Innovation: We were created more
+  than 260 years ago as the world’s first marine
+  classification society to improve and set standards for the
+  safety of ships. Global Impact: Our digital solutions are
+  relied upon by more than 30,000 vessels, following the
+  acquisition of OneOcean in 2022 and Ocean Technologies Group
+  in 2024. Product Offering: Covering five proven product
+  areas - learning, fleet operations, compliance, voyage
+  planning and performance management - supporting its
+  customers from ship to shore, from training and people
+  operations, to voyage compliance and optimisation.
+
+  🧭 Navigating the position: .NET Back-End Developer We have a
+  proven concept and a solid foundation, now, we need a Mid-
+  level Back-End Developer with strong .NET expertise to join
+  our engineering team and help design, build, and maintain
+  robust, scalable server-side applications and APIs that
+  power our products and services.
+
+  You will work closely with product managers to translate
+  complex requirements into clean, maintainable, and
+  performant code, solving complex business problems, and
+  collaborating in an agile environment.
+
+  Key Responsibilities
+
+  In this role, you will be a core contributor to our
+  application lifecycle. You will:
+
+  - Build & Iterate: Design, develop, and maintain high-quality
+    back-end services, RESTful/GraphQL APIs, and microservices
+    using .NET.
+  - Storage: Work with relational databases (primarily SQL
+    Server) – design schemas, write efficient queries, and
+    optimise performance.
+  - Data Access: Implement data access layers using Entity
+    Framework Core.
+  - Auth: Build and integrate authentication & authorisation
+    mechanisms.
+  - Collaborate: Work within a loose Agile/Sprint framework,
+    contributing to storyboarding and regular sprint planning
+    meetings, and work closely with front-end developers, QA
+    engineers, and product owners to deliver end-to-end
+    features.
+  - Code Quality: Implement clean, maintainable, and automated
+    code testing following Clean Architecture principles and
+    current best practices.
+  - Performance: Identity and resolve performance bottlenecks,
+    security issues, and production incidents.
+  - Documentation: Help maintain technical documentation for
+    APIs and services (Swagger / OpenAPI).
+
+  Skills, Knowledge and Expertise
+
+  You are a mid-level developer who is "hands-on" by nature,
+  you don't want to sit in architectural meetings all day; you
+  want to build great products.
+
+  - .NET Specialist: You have a proven track record of building
+    production-grade APIs and services, with deep knowledge of
+    .NET 8+, C#, and Entity Framework Core.
+  - Data & Security Focused: You are comfortable designing
+    robust database schemas and implementing secure
+    authentication flows (such as OAuth2 or OpenID Connect) to
+    protect user data.
+  - Tooling Savvy: You are a confident user of Azure DevOps,
+    including managing work items on Boards and understanding
+    how to support CI/CD pipelines and releases.
+  - Quality Driven: You take pride in writing clean, testable
+    code. You understand Clean Architecture principles and can
+    identify and resolve performance bottlenecks before they
+    hit production.
+  - Agile Mindset: You’re comfortable with the iterative nature
+    of a growing product and can thrive in a sprint-based
+    environment.
+
+  Must-Have Technical Stack
+
+  - Experience: Multiple years of commercial experience in back-
+    end development; at least 5 years with .NET C#.
+  - Core: At least 2-3 years with .NET 6+ / .NET 8+, Entity
+    Framework Core, LINQ, SQL Server, and asynchronous
+    programming.
+  - Data & Persistence: You are proficient with Entity Framework
+    Core (code-first approach) and have experience managing
+    relational databases (primarily SQL Server) including
+    schema design and query optimisation.
+  - Architecture & Patterns: You have a firm grasp of Clean
+    Architecture and Domain-Driven Design (DDD). You advocate
+    for decoupled systems using Dependency Injection and
+    modular monolith or microservices patterns.
+  - Identity & Security: You have hands-on experience
+    implementing JWT, OAuth2, and OpenID Connect, specifically
+    using Azure Entra or Duende IdentityServer to build
+    secure, identity-aware applications.
+  - DevOps & Tooling: Azure DevOps for task management (Boards)
+    and maintaining CI/CD Pipelines. You understand how to use
+    Docker for containerising services.
+  - Testing & Quality: You prioritise code reliability by
+    writing unit and integration tests using xUnit, and you
+    utilise FluentValidation to ensure data integrity across
+    your APIs.
+  - Performance & Monitoring: You know how to profile
+    applications and implement structured logging using
+    Serilog, integrated with Application Insights for real-
+    time monitoring.
+
+  Valued Technical Stack
+
+  - Complexity: Previous work on high-traffic / consumer-facing
+    apps or apps with complex business logic.
+  - Cloud: Experience with cloud platforms (Azure preferred –
+    App Services, Functions, Key Vault, Service Bus, Cosmos
+    DB, etc.).
+  - Platform: Knowledge of orchestration (Kubernetes).
+  - Messaging: Experience with message brokers (RabbitMQ, Azure
+    Service Bus, Kafka).
+  - NoSQL: Familiarity with NoSQL databases (Cosmos DB).
+  - Front-end: Basic understanding of front-end technologies (to
+    better collaborate with UI teams)
+
+  About OneOcean is transforming the future of maritime
+  intelligence. Born from the integration of LR OneOcean and
+  Ocean Technologies Group, we unite decades of maritime
+  expertise with cutting-edge digital innovation under one
+  powerful brand. Our comprehensive portfolio spansLearning,
+  Fleet Operations, Compliance, Voyage Planning, and
+  Performance Management— trusted by thousands of maritime
+  professionals worldwide. By connecting ship and shore,
+  people and data, we help organisations operate more safely,
+  efficiently, and sustainably through real-time intelligence
+  and predictive insights. We are part of Lloyd’s Register
+  (LR) a global leader in marine and offshore engineering,
+  technology, and digital solutions. With over260 years of
+  trust, integrity, and leadership at sea, LR supports more
+  than30,000 vessels worldwide. Together, OneOcean and LR
+  combine the agility of innovation with the strength of a
+  world-renowned institution, driving digital transformation
+  and shaping a more connected, sustainable maritime industry.
+industries:
+  - Edtech
+  - HR Tech
+  - Information Technology
+  - Software
+posted_date: 2026-10-29
+url: "https://builtin.com/job/net-back-end-developer/11958933"
+source: Built In

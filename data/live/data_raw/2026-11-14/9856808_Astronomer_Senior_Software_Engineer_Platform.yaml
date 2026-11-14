@@ -1,0 +1,124 @@
+job_id: 9856808
+title: Senior Software Engineer, Platform
+company: Astronomer
+location: London, GBR
+work_type: FULL_TIME
+company_size: 344 Employees
+description: |
+  Astronomer empowers data teams to bring mission-critical
+  software, analytics, and AI to life and is the company
+  behind Astro, the industry-leading unified DataOps platform
+  powered by Apache Airflow®. Astro accelerates building
+  reliable data products that unlock insights, unleash AI
+  value, and power data-driven applications. Trusted by more
+  than 900 of the world’s leading enterprises, including
+  Datadog, American Express, Expedia, Adobe, Autodesk,
+  Together AI, and more, Astronomer lets businesses do more
+  with their data. To learn more, visit www.astronomer.io.
+
+  About this role:
+
+  At Astronomer, we’re redefining how companies run Apache
+  Airflow at scale. Our R&D organization is home to some of
+  the most innovative minds in cloud infrastructure and open-
+  source software. We’re looking for a Senior Software
+  Engineer to join our Platform Engineering team. You get to
+  go in at the ground level of how our production
+  infrastructure is designed, built, tested and deployed. Your
+  work will directly influence how we build Astro, Observe and
+  our IDE product, as well as how global organizations
+  orchestrate data pipelines at scale—making them faster, more
+  reliable, and easier to manage. If you’re driven by impact,
+  excited by scale, and ready to work on the kind of
+  infrastructure challenges that push the boundaries of what’s
+  possible in cloud-native systems, this is the opportunity
+  you’ve been waiting for.
+
+  What you get to do:
+
+  - Make high-quality, data-driven and experience-driven
+    decisions on how we build this and the next generation of
+    our production platform, then deliver the results.
+    - Own and build how we test, build and deploy code in a high-
+      scale PaaS environment.
+    - Collaborate across the whole company on how we design
+      production systems, set standards and make technology
+      choices for new and existing products, and how these fit
+      together.
+    - Deliver results - we routinely “change the wheels on the bus
+      while it’s moving”, in a predictable, safe and reliable
+      way.
+  - Be at the forefront of how we work together as a Platform
+    Engineering team.
+    - Blaze a Trail: Work on a small but growing team on building
+      out the Platform/Reliability practice for the company
+    - Be an Owner: Be directly involved in decision-making on what
+      we work on, as well as how we work on it. Make promises,
+      and keep them.
+    - Do Sensible Things: Be directly involved in determining how
+      our platform works. Participate in incident management
+      and determine sensible practices as the platform
+      evolves.
+    - Garage Door Open: Create and maintain comprehensive internal
+      documentation for systems and processes, ensuring
+      clarity and accessibility.
+
+  What you bring to the role:
+
+  - Strong experience in Non-Abstract Systems design and
+    implementation.
+  - Strong proficiency in Python, Golang and in-depth experience
+    with Kubernetes (CKA or equivalent or greater).
+  - Experience with observability principles and technologies,
+    including SLI/SLO definition and tracking.
+  - Strong communication skills, both written and verbal, with
+    experience in working with a globally distributed team in
+    delivery.
+  - A passion for reliability and operational excellence. A low
+    tolerance for toil and other nonsense.
+  - Ability to estimate the scope of work accurately and
+    coordinate with stakeholders to address risks and ensure
+    successful project delivery.
+  - Experience with (and ideally strong opinions on) software
+    development best practices, such as code review, testing,
+    CI/CD, version control, automation and debugging.
+  - Proactive approach to identifying and addressing issues,
+    with a focus on ownership and accountability.
+
+  Bonus points if you have:
+
+  - Experience working on a SaaS/PaaS product across multiple
+    cloud providers.
+  - Experience with our particular tech stack components and
+    technologies (deep breath): CircleCI, Chronosphere
+    (Prometheus), Splunk, Bazel, Istio, Playwright, Karpenter,
+    Github [Actions] …
+  - Experience of the innards and quirks of AWS, GCP and
+    (particularly) Azure.
+  - Participated in an on-call rotation - this role involves
+    periodic on-call for the services we own.
+  - Experience with Apache Airflow.
+
+  The estimated total compensation for this role ranges from
+  £107,000 - £150,000 based on leveling and geography, along
+  with an equity component and a comprehensive benefits
+  package. This range is merely an estimate; actual
+  compensation may deviate from this range based on skills,
+  experience, and qualifications.
+
+  At Astronomer, we value diversity. We are an equal
+  opportunity employer: we do not discriminate on the basis of
+  race, religion, color, national origin, gender, sexual
+  orientation, age, marital status, veteran status, or
+  disability status.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Cloud
+  - Software
+  - Analytics
+  - Infrastructure as a Service (IaaS)
+  - Big Data Analytics
+posted_date: 2026-08-12
+url: "https://builtin.com/job/senior-software-engineer-platform/9856808"
+source: Built In

@@ -1,0 +1,175 @@
+job_id: 11048724
+title: Agentic Software Engineer
+company: EF Education First
+location: London, GBR
+work_type: FULL_TIME
+company_size: 25,069 Employees
+description: |
+  Agentic Software Engineer
+
+  London · Full-time · On-site
+
+  TL;DR
+
+  AI is collapsing the time and effort required to turn ideas
+  into working software. We're redesigning how we build around
+  that — using agents across the software lifecycle and
+  enabling more of our team to ship changes directly.
+
+  We're hiring an experienced software engineer who is already
+  pushing beyond task-by-task use of agents. You'll engineer
+  the systems around agents that let them take on increasingly
+  substantial work — running for longer, working in parallel
+  and involving you when your judgement is actually required.
+
+  This isn't a model-training role. We're focused on what
+  happens around the models — engineering the systems that
+  turn increasingly capable agents into a fundamentally
+  different way of building software.
+
+  Why Hult?
+
+  Hult is a global business school that teaches a Computer
+  Science for Business degree. The engineering team doesn't
+  sit adjacent to that mission — it's part of it. How we build
+  software, adopt new tools and think about automation feeds
+  back into what we teach.
+
+  We give engineers real ownership. You'll pick up open-ended
+  problems, shape the approach and have the backing of a team
+  that trusts you to land them.
+
+  We ship fast and iterate constantly. We want the distance
+  between an idea and something running in production to be as
+  short as possible.
+
+  AI has already changed who can ship software here. You'll
+  help us push that further — giving more of the team the
+  tools, context and guardrails to turn ideas into production
+  changes without engineering becoming the bottleneck.
+
+  We're serious about discovering what AI-native engineering
+  looks like in practice. We don't have all the answers, and
+  part of this role is finding them.
+
+  What you'll do
+
+  Own outcomes, not tickets. Work directly with product owners
+  and stakeholders to understand problems and find the
+  shortest responsible path from idea to production. You'll
+  use engineering judgement — and agents — to close the gap
+  between request and delivery.
+
+  Delegate outcomes, not steps. Your goal is to be able to
+  say: "Here's the outcome, constraints and evidence I expect.
+  Go progress this work and involve me when my judgement is
+  actually required." You'll design workflows where agents can
+  plan, execute and verify work rather than waiting for you to
+  tell them what to do next.
+
+  Engineer the agent harness. Build the instructions, skills,
+  tools, permissions, environments, validation and feedback
+  loops that allow agents to reliably complete substantial
+  engineering work. You'll understand these as engineering
+  primitives rather than a fixed recipe, and continually
+  experiment with how they fit together. When an agent fails
+  or requires intervention, you'll ask what could change in
+  the harness to prevent it next time.
+
+  Engineer context and memory. Design how agents discover and
+  retain what they need to know about our systems —
+  architecture, conventions, decisions, product intent,
+  operational state and previous work. Give agents the right
+  context at the right time without simply giving them more
+  context.
+
+  Push toward an autonomous software factory. Help work move
+  from intent through planning, implementation, verification,
+  deployment and observation with progressively less
+  synchronous human intervention. Enable multiple agent
+  workstreams to run in parallel and converge on tested,
+  shippable outcomes.
+
+  Make autonomous work trustworthy. Generating software is
+  increasingly cheap; knowing whether it's good is harder.
+  Build tests, evaluations, observability and feedback systems
+  that establish whether work is complete without requiring a
+  human to inspect everything the agent produced.
+
+  Raise the capability of the whole team. AI has already
+  enabled more of our team to ship changes. Turn successful
+  approaches into reusable capabilities that allow people to
+  safely take increasingly ambitious ideas into production.
+
+  What we're looking for
+
+  - Strong software engineering foundations. You have
+    substantial production software engineering experience and
+    the judgement to understand architecture, production
+    systems and risk.
+  - You've materially changed how you work because of AI. You
+    regularly delegate substantial engineering work and spend
+    more of your time defining outcomes, providing context and
+    designing verification than directing implementation step-
+    by-step.
+  - You systematically increase the scope of delegation. When an
+    agent needs you to tell it what to do next, you ask
+    whether better context, tools, verification or structure
+    could have allowed it to progress independently.
+  - You think in systems, not prompts. You think about the
+    environment an agent operates in, how it gets what it
+    needs, how it progresses work and how you know when it has
+    succeeded.
+  - You care deeply about verification. You don't trust
+    generated output because it looks plausible. You build
+    ways to establish correctness without relying on reading
+    everything yourself.
+  - You can operate from an outcome. You're comfortable working
+    directly with technical and non-technical stakeholders,
+    understanding what matters and finding a pragmatic path to
+    production.
+
+  Experience with particular languages or technologies matters
+  much less to us than the ability to understand unfamiliar
+  systems quickly.
+
+  Experience building AI systems can also be highly relevant
+  where the underlying problems transfer to agentic software
+  engineering.
+
+  Show us
+
+  We want to see evidence of how you actually work.
+
+  Your application will ask you three short questions about
+  your experience with agents: something you've built
+  recently, how you've increased what you can delegate, and
+  something you've tried that didn't work.
+
+  We expect you may use AI to help with your application — we
+  use it constantly too. That's fine. What we're looking for
+  is your experience and your thinking. Specifics matter much
+  more than polished writing, and we'll use your answers as
+  the starting point for the interview.
+
+  And don't feel constrained by our questions. If there's
+  something that better demonstrates how you work — a project,
+  repo, harness, experiment, write-up, demo, or anything else
+  you think we'd find interesting — show us. We'd much rather
+  see something real than read another paragraph about how
+  passionate you are about AI.
+
+  About the role
+
+  This is a full-time, on-site role based at our Chelsea
+  office in London, reporting to the Engineering Manager.
+
+  We're trying to discover what software engineering looks
+  like when implementation is no longer the primary
+  constraint.
+
+  If you're already experimenting at that boundary, we'd like
+  to talk.
+posted_date: 2026-09-08
+url: "https://builtin.com/job/agentic-software-engineer/11048724"
+source: Built In

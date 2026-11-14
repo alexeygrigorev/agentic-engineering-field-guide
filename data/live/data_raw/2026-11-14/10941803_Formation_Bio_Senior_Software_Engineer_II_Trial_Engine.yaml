@@ -1,0 +1,220 @@
+job_id: 10941803
+title: Senior Software Engineer II, Trial Engine
+company: Formation Bio
+location: New York, USA
+locations:
+  - New York, USA
+  - Boston, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 150 Employees
+description: |
+  About Formation Bio
+
+  Formation Bio is a tech and AI driven pharma company
+  differentiated by radically more efficient drug development.
+
+  Advancements in AI and drug discovery are creating more
+  candidate drugs than the industry can progress because of
+  the high cost and time of clinical trials. Recognizing that
+  this development bottleneck may ultimately limit the number
+  of new medicines that can reach patients, Formation Bio,
+  founded in 2016 as TrialSpark Inc., has built technology
+  platforms, processes, and capabilities to accelerate all
+  aspects of drug development and clinical trials. Formation
+  Bio partners, acquires, or in-licenses drugs from pharma
+  companies, research organizations, and biotechs to develop
+  programs past clinical proof of concept and beyond,
+  ultimately helping to bring new medicines to patients. The
+  company is backed by investors across pharma and tech,
+  including a16z, Sequoia, Sanofi, Thrive Capital, John Doerr,
+  Spark Capital, SV Angel Growth, and others.
+
+  You can read more at the following links:
+
+  - Our Vision for AI in Pharma
+  - Our Current Drug Portfolio
+  - Our Technology & Platform
+
+  At Formation Bio, our values are the driving force behind
+  our mission to revolutionize the pharma industry. Every team
+  and individual at the company shares these same values, and
+  every team and individual plays a key part in our mission to
+  bring new treatments to patients faster and more
+  efficiently.
+
+  About the Position
+
+  Clinical trials are where drug development actually gets
+  slow and expensive. Sites take months to activate. Data
+  arrives late, in fragments, from a dozen systems and vendors
+  that don't talk to each other. People spend their weeks
+  reconciling spreadsheets instead of making decisions. The
+  Trial Execution team exists to fix that, and this role is a
+  senior seat on it.
+
+  The constraint that makes this interesting: our trials run
+  in a regulated space. Systems that touch patient safety or
+  trial integrity are GxP-relevant, which means computer
+  system validation, 21 CFR Part 11, audit trails,
+  traceability, and a real burden of proof that the software
+  does what it claims. Most engineers treat that as a wall. We
+  think it's a design problem — and we think the companies
+  that figure out how to run AI inside those constraints,
+  rather than around them, will develop drugs faster than
+  anyone else. We're looking for someone who finds that
+  genuinely exciting rather than merely tolerable.
+
+  You'll build the systems that run active trials:
+  integrations with EDC and other clinical systems, site
+  selection and activation, clinical data flows, monitoring
+  and signal detection, timeline reconciliation across CROs
+  and vendors. Increasingly that work is agentic — agents
+  reading source data directly to surface discrepancies,
+  signals, and tasks that a human would otherwise have hunted
+  for by hand. Designing that so it's auditable, provenance-
+  tracked, and appropriately human-in-the-loop is the hard and
+  interesting part of the job.
+
+  As a Senior Software Engineer II, you'll be a senior
+  individual contributor and the technical owner of a
+  meaningful slice of our Trial Execution platform. You'll
+  drive work across multiple quarters, from identifying the
+  opportunity and shaping the technical approach through
+  shipping and operating differentiated software used in
+  active trials. You'll partner directly with Clinical
+  Operations, Data Management, Regulatory, QA, Data
+  Engineering, and Infrastructure to develop the systems,
+  integrations, data flows, and controls required to put that
+  software into production. You will bring enough familiarity
+  with regulated delivery to identify potential GxP
+  implications early and engage the right QA and validation
+  experts.
+
+  Responsibilities
+
+  - Drive and own the design, delivery, and operation of
+    differentiated production software used in live clinical
+    trials, from site startup and activation through data
+    collection, monitoring, and close-out.
+  - Bring together clinical, regulatory, data, and
+    infrastructure partners to resolve cross-functional
+    dependencies and take software from technical design
+    through validated use in active trials.
+  - Build within a validated SDLC: partner with QA and CSV
+    experts to translate validation requirements into
+    traceable, testable software, and improve the engineering
+    workflows that make compliant delivery efficient and
+    predictable.
+  - Design and ship AI-native trial execution capabilities —
+    agents and pipelines that read clinical and operational
+    source data to surface signals, discrepancies, and tasks —
+    with the provenance, audit trails, and human review that a
+    regulated context requires.
+  - Build integrations across the clinical systems and vendor
+    landscape (EDC, CTMS, eTMF, CRO and lab data feeds, safety
+    systems), and turn fragmented inputs into a coherent,
+    queryable picture of a trial.
+  - Own the trial-specific domain logic and software built on
+    clinical data, partnering with Data Engineering on shared
+    ingestion, orchestration, warehouse, quality, and
+    governance capabilities that clinical teams can trust and
+    that stand up to inspection.
+  - Shift work left. Find the trial activities that
+    traditionally happen sequentially and build the tooling
+    that lets them start earlier or run in parallel.
+  - Develop strong working fluency in the team's regulated
+    context. Recognize when GxP considerations apply, bring QA
+    and validation partners into decisions early, and help
+    translate their requirements into practical engineering
+    approaches.
+  - Set technical direction and raise the bar: review designs,
+    mentor engineers and other builders, and build the
+    guardrails and automation that let the whole organization
+    move fast safely.
+
+  About You
+
+  - 7+ years of experience building production software,
+    including hands-on experience shipping software for use in
+    a clinical trial. You are familiar with clinical systems
+    and data flows and understand the operational realities of
+    delivering software into an active trial environment.
+  - Familiarity with software delivery in a regulated or
+    controlled environment, including concepts such as
+    GxP/GCP, computer system validation, requirements
+    traceability, audit trails, electronic signatures, and
+    change control. You do not need to be the organization's
+    regulatory expert, but you should know when these
+    considerations matter and how to work effectively with QA
+    and validation partners.
+  - You see regulation as a design constraint to work within,
+    not a reason systems cannot improve. You can help
+    translate regulatory requirements into software that is
+    both compliant and well engineered.
+  - A strong builder: clean, maintainable code, solid
+    distributed systems and cloud fundamentals (AWS, GCP, or
+    Azure), and the judgment to know when to build for the
+    next five years and when to build for next week.
+  - You build with AI tools daily — LLMs, agentic workflows,
+    retrieval pipelines — and you're actively interested in
+    how to bring them into regulated clinical work
+    responsibly. This is a core part of the role, not a side
+    interest.
+  - Track record of technical ownership at senior scope: multi-
+    quarter efforts, cross-functional dependencies, and
+    designs that other engineers built on.
+  - Excellent communicator with non-engineers. You can sit with
+    a clinical operations lead or a QA director, understand
+    their world, and align on an approach.
+  - Comfortable with ambiguity. Our trial portfolio and our
+    approach both change; the roadmap you inherit will not be
+    the one you finish.
+
+  Total Compensation Range: $213,500 - $267,000
+
+  Compensation Individual compensation is determined by
+  several factors, including role scope, geographic location,
+  and skills & experience. Your offer will reflect where you
+  fall within the range based on these considerations. In
+  addition to base salary, we offer equity, comprehensive
+  benefits, and generous perks. If the posted range doesn't
+  match your expectations, we still encourage you to apply!
+
+  Where We Hire Formation Bio is prioritizing hiring in key
+  hubs, primarily the New York City and Boston metro areas,
+  with a hybrid model requiring 3 days per week in office.
+  Applicants from the Research Triangle (NC) and San Francisco
+  Bay Area may also be considered. Please apply only if you
+  reside in these locations or are willing to relocate.
+
+  Equal Opportunity Formation Bio is committed to building a
+  diverse and inclusive team. We are an equal opportunity
+  employer and welcome candidates from all backgrounds. All
+  qualified applicants will receive consideration for
+  employment without regard to race, color, creed, religion,
+  national origin, ancestry, sex (including pregnancy,
+  childbirth, breastfeeding, and related medical conditions),
+  gender identity or expression, sexual orientation, age,
+  disability, genetic information, marital status, military or
+  veteran status, or any other characteristic protected by
+  federal, state, or local law.
+
+  We've seen a rise in recruiting impersonation scams across
+  the industry, where fake profiles pose as recruiters aiming
+  to trick candidates into sharing personal and financial
+  information through illegitimate interviews and job offers.
+  All legitimate recruiting communications from Formation Bio
+  will come from a @formation.bio email address. If you
+  receive outreach from someone claiming to work at Formation
+  Bio through any other domain or channel, please disregard it
+  and do not share any personal information.
+industries:
+  - Artificial Intelligence
+  - Big Data
+  - Healthtech
+  - Biotech
+  - Pharmaceutical
+posted_date: 2026-08-31
+url: "https://builtin.com/job/senior-software-engineer-ii-trial-engine/10941803"
+source: Built In

@@ -1,0 +1,175 @@
+job_id: 12005540
+title: Staff Software Engineer, Platform
+company: Sharp Performance
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 56 Employees
+description: |
+  We're Sharp Performance
+
+  Sharp Performance exists so that everyone who answers the
+  call has someone in their corner who has walked in their
+  shoes.
+
+  We help first responders and their spouses thrive through
+  confidential coaching from people with similar lived
+  experience. Our coaches have carried the badge, worn the
+  gear, or stood beside someone who did. Through our mobile
+  platform, we connect law enforcement, firefighters, and
+  other frontline professionals with coaches who understand
+  the job because they have lived it.
+
+  We're early-stage and backed by amazing investors. The team
+  is small enough that your work shows up in the rollout, the
+  product, and the customer's experience within weeks. If
+  building something that matters alongside people who hold a
+  high standard sounds better than a safe seat somewhere else,
+  come build it with us.
+
+  About the role
+
+  Sharp Performance runs a 1-1 coaching marketplace. The
+  C-Squad owns the core platform behind it: the backend, data
+  model, and integrations that coaches, managers, and every
+  other squad build on. That platform got us here. Now it
+  needs to scale to support more users and functionality
+  without slowing the teams that depend on it.
+
+  We're hiring a Staff Software Engineer to co-own that
+  problem. You'll help set the technical direction for the
+  platform, write a real share of the code, and raise the bar
+  for how the squad designs, ships, and runs software. This is
+  a senior IC role with team-level leverage, not a people-
+  management track.
+
+  How we build
+
+  We're all in on agentic engineering. Every squad runs AI
+  agents across the SDLC: implementation, code review,
+  testing, incident triage, and maintenance. We treat agents
+  as participants in delivery, not chat assistants. That means
+  a disciplined harness around them: tight scope, specialized
+  agents, verification, and human approval before anything
+  ships. Right now we're giving agents controlled access to
+  production evidence (code, logs, database state) so they can
+  test hypotheses and validate fixes themselves.
+
+  That changes what platform work means here. Our systems
+  serve customers and the agents building on them. Clean
+  interfaces, fast feedback loops, good observability, and
+  safe guardrails make both humans and agents faster.
+
+  What you'll do
+
+  - Co-own the architecture and long-term health of our core
+    platform: a Laravel monolith with its database, API,
+    background jobs, and internal admin tooling.
+  - Build platform foundations other squads rely on: stable APIs
+    and contracts, CI/CD, environments, feature flags,
+    observability, and on-call readiness.
+  - Lead scaling work end to end. Find the bottlenecks in the
+    database, queues, caching, and third-party integrations,
+    then fix them before customers feel them.
+  - Decide where the monolith should stay a monolith and where a
+    service, queue, or event boundary actually pays off. Write
+    the doc, make the call, and land the migration safely.
+  - Make the platform agent-ready: well-bounded modules, fast
+    CI, reliable test environments, and safe, auditable access
+    for agents to the evidence they need.
+  - Harden reliability and security as we grow: multi-tenant
+    data isolation, access controls, audit trails, and
+    incident response that holds up to SOC 2.
+  - Collaborate with C-Squad engineers. Review designs and code,
+    mentor, unblock, and keep the squad's output coherent.
+  - Work with product and the other squads on roadmap trade-
+    offs, especially when platform work competes with feature
+    work.
+
+  What we're looking for
+
+  - 8+ years building and running production backend systems,
+    with recent time at staff or lead level.
+  - A product mindset. You care as much about what we build as
+    how we build it. You ask “why” early, push back when
+    something doesn’t serve users, and work with product and
+    design to shape the roadmap, not just execute it.
+  - Deep platform engineering experience: you've owned the
+    infrastructure, deploy pipeline, and runtime of a growing
+    product, not just features on top of it.
+  - A track record of scaling a system through real growth. You
+    can tell us what broke, how you found it, and what you
+    changed.
+  - Strong relational database skills (MySQL or PostgreSQL):
+    schema design, query tuning, indexing, migrations on live
+    data.
+  - Hands-on with cloud infrastructure (AWS preferred),
+    containers, infrastructure as code, and CI/CD.
+  - Experience with async and distributed patterns: queues,
+    workers, webhooks, idempotency, retries.
+  - Comfort leading through influence. You've set technical
+    direction for a team and brought people along.
+  - Daily, hands-on use of AI coding agents. You know where they
+    help, where they fail, and how to review and de-risk what
+    they produce.
+  - Experience building agent tooling or harnesses: skills, MCP
+    servers, eval loops, or guardrails for agents touching
+    production systems.
+  - Clear written communication. You write design docs people
+    actually read, and you explain trade-offs to engineers and
+    PMs alike.
+
+  Nice to have
+
+  - PHP and Laravel (Horizon, Nova, queues). Not required:
+    strong engineers from Go, Python, Ruby, Node, Java, or
+    similar who can ramp quickly are a good fit.
+  - Experience breaking up or modernizing a monolith without a
+    big-bang rewrite.
+  - Observability tooling (Sentry, Datadog, or similar) and
+    running incident response.
+  - SOC 2/HIPAA or other compliance work in a production
+    environment.
+  - Integrations with scheduling, calendar, SMS, or email
+    providers at volume.
+
+  Why this role
+
+  You'll help own the system everything else at Sharp runs on,
+  at the point where scaling decisions start to compound, and
+  you'll shape how an AI-native engineering team works at the
+  platform level. The scope is wide, the team is small, and
+  your calls will shape how fast every squad can move for the
+  next few years. We're remote-first, async-friendly, and low
+  on process.
+
+  Why You'll Want to Be Here
+
+  Sharp is a Series A company growing quickly, already working
+  with 100+ public safety agencies, and backed by Andreessen
+  Horowitz and investors behind some of the world's most
+  successful technology companies. Your work helps improve the
+  health, performance, and longevity of the people who run
+  toward danger.
+
+  The package includes:
+
+  - Medical, dental, and vision insurance
+  - Flexible PTO
+  - 401(k) with company match
+  - Access to the same performance coaches we offer our clients
+
+  Sharp Performance is an Equal Opportunity Employer. We are
+  committed to fostering a diverse and inclusive workplace and
+  encourage individuals of all backgrounds to apply. All
+  qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  gender identity, sexual orientation, national origin,
+  disability, or protected veteran status.
+industries:
+  - Mobile
+  - Professional Services
+  - Software
+posted_date: 2026-11-02
+url: "https://builtin.com/job/staff-software-engineer-platform/12005540"
+source: Built In

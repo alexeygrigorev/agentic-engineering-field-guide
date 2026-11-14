@@ -1,0 +1,117 @@
+job_id: 12231278
+title: Staff Software Engineer (Autonomy)
+company: UFORCE
+location: London, GBR
+work_type: FULL_TIME
+company_size: 1,000 Employees
+description: |
+  UFORCE exists to make aggression unaffordable. Founded in
+  Ukraine and headquartered in London, UFORCE is a defence-
+  technology company with operations across Europe, the United
+  States and Asia. UFORCE builds uncrewed vessels, ground
+  robotics and aircraft, autonomy software, and the command-
+  and-control layer that operates them together. Each platform
+  is deployable on its own, and stronger as part of the
+  system. Its product lines include the MAGURA family of
+  uncrewed surface vessels, the NEMESIS family of strike
+  platforms, the LIUT family of ground robotic platforms, and
+  counter-UAS systems.
+
+  About the role
+
+  The Staff Software Engineer (Autonomy) will design, build,
+  and operate software capabilities that improve the mission
+  effectiveness and safety of uncrewed surface vehicles across
+  the UFORCE C2/C4ISR stack.
+
+  This role spans Perception Autonomy, Autonomy
+  Behaviours—including collision avoidance (COLAV), target-
+  based manoeuvring and engagement—and Swarm Intelligence. You
+  will take cross-system initiatives from design and
+  implementation through scenario-based verification, field
+  trials, deployment, and iteration.
+
+  The role requires strong software engineering and
+  mathematical foundations, with an emphasis on autonomy that
+  remains safe, observable, and useful in real operating
+  conditions—including degraded sensors, different sea states,
+  and GNSS- or RF-challenged environments.
+
+  What you’ll do
+
+  - Build production-grade capabilities across perception,
+    autonomous behaviours, COLAV, and multi-USV coordination.
+  - Define measurable acceptance criteria for autonomy
+    performance, safety, reliability, and operator trust.
+  - Validate perception and behaviours across day/night
+    operations, different sea states, sensor degradation, and
+    GNSS/RF-challenged conditions.
+  - Develop swarm capabilities such as task allocation, role
+    assignment, formation control, and distributed sensing.
+  - Build scenario libraries, replay tooling, automated metrics,
+    and CI gates to prevent regressions.
+  - Introduce structured logging, playback, and failure
+    classification to accelerate field diagnosis.
+  - Build operator controls and safeguards that enable crews to
+    use autonomy without continuous engineering support.
+  - Collaborate with platform, C2, product, and field teams to
+    define clear interfaces and deliver cross-system
+    capabilities.
+
+  What success looks like
+
+  - Perception and COLAV meet agreed performance and safety
+    criteria in representative trials.
+  - Swarm capabilities are used routinely in multi-USV exercises
+    and degrade safely under constraints.
+  - Operators can configure and use autonomy without day-to-day
+    engineering intervention.
+  - Automated scenario testing prevents safety and reliability
+    regressions.
+  - Field failures can be reproduced and diagnosed within an
+    agreed timeframe.
+  - Capabilities have documented operating envelopes,
+    limitations, and evidence of field readiness.
+
+  Required qualifications
+
+  - 8+ years of production software or backend engineering
+    experience.
+  - Strong experience with Java, Python, or .NET/C#.
+  - Strong mathematical foundations relevant to autonomy and
+    robotics.
+  - Experience with distributed, real-time, event-driven, or
+    mission-critical systems.
+  - Understanding of sockets, UDP, latency, packet loss, and
+    low-level protocols.
+  - Strong testing, observability, debugging, and operational
+    ownership.
+  - Clear communication and cross-team collaboration skills.
+
+  Nice to have
+
+  - Experience with C++, Rust, or C.
+  - Experience with robotics, autonomous vehicles, maritime
+    autonomy, or UxV systems.
+  - Knowledge of perception, sensor fusion, navigation,
+    planning, or control systems.
+  - Experience with COLAV, simulation, replay tooling, or multi-
+    agent systems.
+  - Experience in defence, C2/C4ISR, or constrained operating
+    environments.
+
+  The nature of combat has changed.
+
+  Tomorrow’s battlefield success depends on autonomy, speed,
+  and adaptability.
+
+  And UFORCE is ready.
+
+  Are You?
+industries:
+  - Aerospace
+  - Robotics
+  - Defense
+posted_date: 2026-11-13
+url: "https://builtin.com/job/staff-software-engineer-autonomy/12231278"
+source: Built In

@@ -1,0 +1,153 @@
+job_id: 10983182
+title: Senior Software Engineer, Cloud Growth
+company: Temporal Technologies
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 501 Employees
+description: |
+  Role Summary
+
+  We're looking for a Senior Software Engineer to join our
+  high-impact team focused on product scalability, customer
+  experience, and revenue growth. Our team owns business-
+  critical services including customer onboarding and off-
+  boarding, billing and metering, cloud marketplace
+  integrations, customer-facing usage and cost reporting, and
+  the account data integrations that keep revenue systems in
+  sync across the business.
+
+  In this role, you'll lead technical direction and build
+  systems that directly impact Temporal's revenue engine and
+  customer journey. You'll partner closely with engineers,
+  product managers, finance, revenue operations, support, and
+  sales to design resilient architectures, drive cross-
+  functional execution, and raise the reliability and
+  scalability bar for our billing, metering, and customer
+  lifecycle platforms. If you enjoy owning ambiguous, high-
+  leverage problems and building durable systems that scale
+  with the business, we'd love to meet you.
+
+  What You'll Do
+
+  - Lead the Design of Business-Critical Systems: Own end-to-end
+    technical design and delivery for services that power
+    customer acquisition, onboarding/offboarding, and revenue
+    operations.
+  - Drive Architectural Excellence: Define and evolve system
+    architecture for high-throughput, fault-tolerant metering
+    and billing pipelines; make principled tradeoffs across
+    correctness, latency, cost, and operability.
+  - Own Cross-Functional Execution: Partner with Finance,
+    RevOps, and Sales to translate business needs into robust,
+    scalable systems—anticipating edge cases, ensuring
+    auditability, and aligning stakeholders on milestones and
+    risks.
+  - Own the Account Lifecycle End to End: Build the flows that
+    carry an account from acquisition through activation,
+    expansion, billing, and offboarding—self-service and
+    operator-initiated onboarding, plan and SKU changes,
+    suspension, dunning, and clean offboarding.
+  - Keep Revenue Data Coherent Across the Business: Own the
+    integrations and pipelines that reconcile control-plane
+    state with CRM, support, analytics, and BI systems, so
+    finance, support, and sales operate on the same numbers.
+  - Build Customer-Facing Usage and Cost Transparency: Design
+    the APIs and metrics surfaces customers use to understand
+    their spend—usage APIs, cost reporting, and billable-
+    action metrics—with the accuracy and latency guarantees
+    that make them trustworthy.
+  - Ensure Data Integrity, Reliability, and Compliance: Build
+    and operate distributed data systems with strong
+    correctness guarantees; implement monitoring, alerting,
+    dashboards, and runbooks that keep revenue-impacting
+    pipelines trustworthy.
+  - Raise the Engineering Bar: Set quality standards through
+    code reviews, design reviews, and operational readiness;
+    introduce patterns and tooling that improve
+    maintainability and incident response.
+  - Mentor and Multiply Impact: Mentor engineers, unblock
+    execution, and foster a culture of ownership, learning,
+    and pragmatic excellence.
+  - Improve Developer and Customer Experience: Identify
+    opportunities to streamline customer flows via automation,
+    better tooling, and targeted platform improvements that
+    reduce friction and support load.
+
+  Technology Stack
+
+  - Primary Language: Go
+  - Data Storage: PostgreSQL, ClickHouse, Redshift, S3, Google
+    Cloud Storage, Azure Blob Storage
+  - Data Processing: Kinesis, Firehose
+  - Infrastructure: Kubernetes
+  - Billing & Revenue: Metronome, Stripe
+  - Go-to-Market Integrations: Salesforce, Segment, Pylon,
+    Zapier, cloud marketplace APIs
+  - Customer-Facing Standards: OpenMetrics, FOCUS
+  - Core Framework: Temporal (of course 😉)
+
+  What You'll Bring
+
+  - Significant experience designing and delivering production-
+    grade backend systems (ideally in cloud environments) with
+    meaningful ownership over architecture and operational
+    outcomes.
+  - Strong proficiency in at least one systems/backend language
+    (Go preferred), with the ability to navigate large
+    codebases and drive technical decisions.
+  - Demonstrated experience building and operating distributed
+    systems: concurrency, reliability, scaling, consistency,
+    and failure handling.
+  - Practical understanding of data pipelines and storage
+    systems (e.g., Postgres, Redshift, Kafka/Kinesis, S3-like
+    systems) and how to ensure correctness and traceability.
+  - Experience integrating and reconciling against third-party
+    SaaS platforms (billing, CRM, support, analytics),
+    including idempotency, drift detection, and recovery when
+    an upstream system disagrees with your source of truth.
+  - Experience with production operations: observability,
+    incident response, performance tuning, on-call readiness,
+    and continuous delivery.
+  - Ability to work effectively across functions
+    (Finance/RevOps/Sales/Support), translating ambiguous
+    requirements into clear, executable technical plans.
+  - Strong written and verbal communication skills, including
+    the ability to write design docs, align stakeholders, and
+    explain tradeoffs.
+  - A "builder" mindset: you enjoy simplifying complex
+    workflows, improving tooling, and leaving systems better
+    than you found them.
+
+  What You Can Expect
+
+  - High-impact ownership over systems tied directly to revenue,
+    customer lifecycle, and platform scalability
+  - Collaborative engineering culture focused on quality,
+    pragmatism, and measurable outcomes
+  - Exceptional technical colleagues and a feedback-rich
+    environment
+  - Lean processes and autonomy without unnecessary bureaucracy
+  - Strong emphasis on reliability and operational
+    excellence—balanced with rapid iteration
+  - A team that values mentorship, thoughtful design, and steady
+    improvements that compound over time
+
+  Temporal Technologies is an Equal Opportunity Employer.
+  Temporal Technologies does not discriminate on the basis of
+  race, religion, color, sex, gender identity, sexual
+  orientation, age, non-disqualifying physical or mental
+  disability, national origin, veteran status, or any other
+  basis covered by appropriate law. All employment is decided
+  on the basis of qualifications, merit, and business need. We
+  embrace and celebrate differences and diversity.
+
+  Temporal is committed to providing access, equal
+  opportunity, and reasonable accommodation for individuals
+  with disabilities in employment, its services, programs, and
+  activities. If you need to request a reasonable
+  accommodation, please let your Recruiter know so we can
+  assist.
+posted_date: 2026-09-02
+url: "https://builtin.com/job/senior-software-engineer-cloud-growth/10983182"
+source: Built In

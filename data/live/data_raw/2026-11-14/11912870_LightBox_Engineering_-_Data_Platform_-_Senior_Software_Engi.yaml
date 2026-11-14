@@ -1,0 +1,150 @@
+job_id: 11912870
+title: Engineering - Data Platform - Senior Software Engineer
+company: LightBox
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,436 Employees
+description: |
+  At LightBox, we strive to not only equip confident, data-
+  driven decisions across sectors, but to also enrich lives by
+  bringing people, information, and technology together. As a
+  company with a wide range of clients, we believe a diverse
+  workforce is crucial to success. Our commitment to inclusion
+  across race, gender, age, religion, identity, and experience
+  is the foundation upon which we operate and connect with our
+  customers and the communities in which we work.
+
+  With our expertise, we are producing the best available
+  data, workflow tools, technology, and analytics to support
+  everyone making a real estate decision. There has never been
+  a better time to make an impact and we invite you to join us
+  on this journey.
+
+  LightBox is a leading provider of data and workflow
+  solutions across commercial real estate and location
+  intelligence. Our solutions deliver the depth, speed and
+  accuracy that enable insights to over 50,000 brokers, 1,000
+  banks and lenders, 1,000 law firms and 5,000 environmental
+  consulting and engineering firms.
+
+  The Role
+
+  As Senior Engineer - AI Platform, you will build the self-
+  service infrastructure and developer-facing tooling that
+  makes LightBox's AI capabilities accessible and reliable.
+  You'll work across the stack - from MCP server
+  implementations and API gateways to internal developer tools
+  and integration surfaces - ensuring that AI models and
+  agents can be composed, deployed, and consumed by both
+  internal teams and external partners.
+
+  This role sits at the intersection of platform engineering
+  and applied AI. You won't just be writing CRUD endpoints;
+  you'll be building the connective tissue between proprietary
+  CRE data, specialized AI models, and the production
+  applications that hundreds of thousands of industry
+  professionals use daily.
+
+  What You'll Do
+
+  - Design and implement API gateways, model routing layers, and
+    service infrastructure that connect fine-tuned CRE models
+    with production applications.
+  - Develop internal developer tooling - prompt management
+    interfaces, evaluation dashboards, trace viewers - that
+    accelerate the team's ability to ship and iterate on AI
+    features.
+  - Implement integration patterns for embedding AI capabilities
+    into LightBox's existing workflow applications, ensuring
+    seamless user experiences.
+  - Build observability and monitoring infrastructure for AI
+    workloads: latency tracking, quality metrics, cost
+    attribution, and usage analytics.
+  - Contribute to the platform's knowledge retrieval and caching
+    layers, optimizing for both accuracy and performance at
+    scale.
+  - Collaborate with ML engineers on model serving
+    infrastructure, helping bridge the gap between training
+    outputs and production deployment.
+  - Participate in architecture decisions and technical design
+    reviews, bringing a pragmatic full-stack perspective to
+    the team's work.
+
+  What We're Looking ForRequired
+
+  - 6+ years of software engineering experience with a strong
+    full-stack foundation (backend-leaning preferred).
+  - Production experience building APIs, microservices, and
+    platform infrastructure in Python and/or
+    TypeScript/Node.js.
+  - Solid understanding of cloud infrastructure (AWS or GCP),
+    containerization (Docker, Kubernetes), and CI/CD
+    pipelines.
+  - Experience building developer-facing tools, SDKs, or
+    internal platforms that other engineers consume.
+  - Familiarity with LLM integration patterns: API-based model
+    consumption, prompt engineering, retrieval-augmented
+    generation, and tool/function calling.
+  - Strong fundamentals in distributed systems, data modeling,
+    and API design.
+  - Comfort working in a small team with high autonomy - you can
+    own a feature end-to-end from design through deployment
+    and monitoring.
+
+  Preferred
+
+  - Experience with Model Context Protocol (MCP) or similar
+    structured AI integration standards.
+  - Background in data-intensive platforms, particularly
+    property data, geospatial systems, or document processing
+    pipelines.
+  - Familiarity with model serving frameworks (LiteLLM,
+    OpenRoute, AWS BedRock) and inference optimization.
+  - Experience in real estate technology, financial services, or
+    other regulated/document-heavy industries.
+  - Prior work building observability or evaluation tooling for
+    ML/AI systems.
+
+  We thank all applicants in advance for their interest in
+  this position, however, only those selected for an interview
+  will be contacted.
+
+
+
+  This job description is a general listing of the required
+  tasks and expectations of the position and in no way implies
+  that the duties listed above are the employee’s only
+  responsibilities. The employee is expected to perform other
+  tasks, responsibilities and training as instructed by their
+  supervisors. Duties and responsibilities may change at any
+  time with or without notice.
+
+
+
+  This position may require additional hours outside of the
+  standard work schedule including occasional holiday, evening
+  and/or weekend hours in order to meet deadlines or to
+  accommodate customers.
+
+
+
+  LightBox and all its holding companies are an equal
+  opportunity/affirmative action employer. It is the policy of
+  the LightBox and its holding companies to prohibit
+  discrimination of any type and to afford equal employment
+  opportunities to employees and applicants, without regard to
+  race, color, religion, sex, national origin, age,
+  disability, or veteran status.
+
+
+
+  NO TELEPHONE CALLS OR AGENCY SOLICITATION PLEASE.
+industries:
+  - Information Technology
+  - Software
+  - Analytics
+  - PropTech
+posted_date: 2026-10-27
+url: "https://builtin.com/job/engineering-data-platform-senior-software-engineer/11912870"
+source: Built In

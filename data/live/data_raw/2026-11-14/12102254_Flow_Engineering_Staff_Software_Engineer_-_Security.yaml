@@ -1,0 +1,87 @@
+job_id: 12102254
+title: Staff Software Engineer - Security
+company: Flow Engineering
+location: London, GBR
+work_type: FULL_TIME
+company_size: 14 Employees
+description: |
+  About Flow
+
+  Flow Engineering is an AI-native requirements platform for
+  modern engineering organizations, enabling hardware teams to
+  collaborate with AI agents to design, validate, and evolve
+  complex systems with speed and rigor.
+
+  About the role
+
+  Our customers in defense, aerospace and more trust us with
+  sensitive systems requirements. That means security is a
+  first-order part of the product, so we’re looking for a
+  Staff Software Engineer to own it.
+
+  This is our first dedicated security hire, so you'll define
+  the security architecture, harden the platform, and build
+  out the compliance posture. Since LLMs and agentic workflows
+  sit at the center of what we do, you'll also lead how we
+  secure them.
+
+  What you'll do
+
+  - Own security architecture across the platform: threat
+    modeling, secure design reviews, and the standards we
+    build against.
+  - Harden the full stack, from application security to cloud
+    infrastructure (identity, network, secrets), tenant
+    isolation, and data protection.
+  - Drive SOC 2 and get us ready for the certifications defense
+    and aerospace customers ask about, including export
+    control and ITAR.
+  - Secure our AI and agentic systems: prompt injection, data
+    leaking through models, what actions agents are allowed to
+    take, and guardrails.
+  - Build the security tooling we need across detection,
+    monitoring, vulnerability management, and CI/CD.
+  - Stand up incident response and run it, from detection
+    through postmortems.
+  - Work with sales and product to get through security reviews
+    and win customer confidence.
+
+  About you
+
+  - 8+ years building production software, including running
+    secure services at scale in the cloud.
+  - Deep experience in application and cloud security (AWS, GCP,
+    or Azure): identity and access, secrets, network security,
+    data protection.
+  - You've owned security in a regulated or high-trust
+    environment and have implemented SOC 2 yourself. Export
+    control, ITAR, or FedRAMP experience is a big plus.
+  - Solid on threat modeling, secure architecture, and incident
+    response.
+  - You've secured AI or LLM systems.
+  - You're comfortable being the security lead at a startup and
+    setting the agenda yourself.
+
+  Our stack (AI-leaning)
+
+  - TypeScript/Node.js and Python for AI and backend services.
+  - Modern LLM APIs and orchestration libraries for building
+    agentic workflows.
+  - Postgres and other managed cloud services for data and
+    state.
+
+  How we work & values
+
+  - Speed over everything: prototype AI workflows quickly, then
+    harden what works.
+  - Own, downscope, ship, iterate: one clear owner per feature,
+    from prototype to production.
+  - Fundamentals done well: evaluation, observability, and
+    safety are part of the first version, not an afterthought.
+  - Competitive salary and meaningful equity.
+  - Health, dental, and vision coverage.
+  - Flexible time off and support for experimentation, learning,
+    and staying current with the AI ecosystem.
+posted_date: 2026-11-06
+url: "https://builtin.com/job/staff-software-engineer-security/12102254"
+source: Built In

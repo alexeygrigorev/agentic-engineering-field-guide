@@ -1,0 +1,128 @@
+job_id: 11912997
+title: Senior Software Engineer
+company: Flux Cap
+location: New York, USA
+locations:
+  - New York, USA
+  - Washington, USA
+work_type: FULL_TIME
+company_size: 5000 Employees
+description: |
+  Senior Software Engineer
+
+  FluxCap | New York City or Washington, DC | Hybrid | Full-
+  time
+
+  Build the product and systems lawyers can trust with a
+  complex case.
+
+  About FluxCap
+
+  Strong cases should get their day in court. FluxCap helps
+  lawyers connect the law, evidence, and strategy of a case so
+  they can take on bigger opponents and win on the merits,
+  regardless of the size of their team. Our initial focus is
+  antitrust, with expansions across complex litigation.
+
+  Founded by Jonathan Kanter and Doha Mekki, former leaders of
+  the Justice Department’s Antitrust Division, FluxCap brings
+  together former DOJ lawyers and engineers from Palantir and
+  Meta. We’re backed by Y Combinator, Bloomberg Beta, and
+  other investors.
+
+  The role
+
+  You’ll work directly with the CTO, founders, and legal
+  engineers to build software around how litigators develop a
+  case. You’ll own features across the stack, from the
+  interface a lawyer uses to the data model and AI workflows
+  behind it.
+
+  A single document might support one legal argument and
+  undermine another. You’ll build systems that preserve those
+  distinctions, show the evidence behind a conclusion, and
+  incorporate a lawyer’s corrections as the case develops.
+
+  This is a hands-on individual contributor role. You’ll write
+  production code, make architectural decisions, and stay
+  responsible for how your work performs after it ships. Our
+  stack includes React, Next.js, TypeScript, and Postgres with
+  pgvector.
+
+  What you’ll do
+
+  - Own major features from the first design through launch and
+    ongoing use.
+  - Design data models that connect claims to the facts and
+    evidence needed to prove them. Preserve sources and allow
+    lawyers to record competing interpretations.
+  - Build workflows that extract people, events, and timelines
+    from documents and help lawyers find gaps in the evidence.
+  - Build evaluations and review tools that catch AI errors and
+    incorporate attorney corrections without exposing
+    information from other cases.
+  - Make tradeoffs around reliability, performance, and cost.
+    Review code and help other engineers work through
+    technical decisions.
+
+  A problem you might work on
+
+  A lawyer corrects how the system interprets one passage in a
+  document. Later, hundreds of thousands of new documents
+  arrive. How should the software preserve that correction,
+  find new evidence that matters, and explain what changed
+  without reprocessing the entire case?
+
+  What you’ll bring
+
+  - 5+ years shipping production software, including
+    responsibility for designing, building, and maintaining a
+    significant product or system.
+  - Strong React, TypeScript, and Next.js skills. You can build
+    a usable interface and follow the work through the backend
+    and database.
+  - Experience building and operating LLM-powered features,
+    including retrieval or agent workflows.
+  - Experience making architectural decisions under constraints
+    such as deadlines, cost, or performance.
+  - Ability to work through unfamiliar problems with lawyers,
+    explain technical choices, and give useful feedback to
+    other engineers.
+
+  Helpful experience
+
+  - Vector search, document processing, or background jobs.
+
+  Legal experience isn’t required. Curiosity about the domain
+  and care for sensitive information are essential.
+
+  Compensation and benefits
+
+  - Annual base salary: $170,000–$220,000 depending on
+    experience, plus equity
+  - Medical, dental, and vision insurance
+  - 401(k) with an employer match
+  - Company-paid life insurance and short-term disability
+  - Learning and professional development budget
+
+  This is a hybrid role based in New York City or Washington,
+  DC. Candidates willing to relocate are welcome.
+
+  Interview process
+
+  - Introductory conversation
+  - Virtual technical interview covering system design and AI-
+    assisted coding
+  - One-day work trial in NYC
+  - Founder conversation
+  - References
+
+  You must be authorized to work in the United States. We are
+  not currently able to sponsor visas.
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Software
+posted_date: 2026-10-27
+url: "https://builtin.com/job/senior-staff-software-engineer/11912997"
+source: Built In

@@ -1,0 +1,206 @@
+job_id: 10921228
+title: "Sr. Software Engineer II, Sandboxes & Virtualization"
+company: CoreWeave
+location: Bellevue, USA
+locations:
+  - Bellevue, USA
+  - New York, USA
+  - Livingston, USA
+  - Sunnyvale, USA
+work_type: FULL_TIME
+company_size: 1,450 Employees
+description: |
+  CoreWeave is The Essential Cloud for AI™. Built for pioneers
+  by pioneers, CoreWeave delivers a platform of technology,
+  tools, and teams that enables innovators to build and scale
+  AI with confidence. Trusted by leading AI labs, startups,
+  and global enterprises, CoreWeave combines superior
+  infrastructure performance with deep technical expertise to
+  accelerate breakthroughs and turn compute into capability.
+  Founded in 2017, CoreWeave became a publicly traded company
+  (Nasdaq: CRWV) in March 2025. Learn more at
+  www.coreweave.com.
+
+  What You'll Do:
+
+  The Runtime & GPU Systems team builds and operates secure,
+  high-performance environments for multi-tenant Kubernetes
+  platforms at scale. Our team sits at the intersection of
+  container runtimes, lightweight virtualization, GPU
+  infrastructure, and Linux systems engineering. We partner
+  closely with security, platform, and GPU infrastructure
+  teams to deliver robust, isolated, and efficient execution
+  environments for AI-driven workloads.
+
+  About the role:
+
+  As a GPU & Runtime Systems Engineer, you will design, build,
+  and evolve secure sandboxed runtime environments for
+  Kubernetes workloads, focusing on runtime isolation,
+  performance, and security. You will integrate container
+  runtimes, lightweight VMs, and virtualization technologies
+  to support GPU-accelerated workloads in multi-tenant
+  environments. Day-to-day, you'll develop GPU-aware
+  sandboxing and scheduling strategies, optimize
+  containerization and I/O performance for latency-sensitive
+  workloads, and influence architectural decisions across
+  Linux internals, container runtimes, virtualization layers,
+  and GPU drivers.
+
+  Some of what you'll work on:
+
+  - Design and implement secure execution environments for
+    containerized and virtualized workloads.
+  - Build GPU-aware scheduling, isolation, and resource
+    management strategies for multi-tenant workloads.
+  - Optimize container, VM, and I/O performance across GPU-
+    accelerated workloads.
+  - Conduct profiling, benchmarking, and performance tuning for
+    runtime, virtualization, and GPU stacks.
+  - Contribute to architectural decisions across Linux
+    internals, container runtimes, virtualization layers, and
+    GPU drivers.
+  - Collaborate with security, platform, and infrastructure
+    teams to define and implement runtime isolation and
+    performance standards.
+
+  Who You Are:
+
+  - 3+ years of experience in systems, platform, infrastructure,
+    or production engineering at scale.
+  - Strong hands-on experience with Kubernetes, container
+    orchestration, and cloud-native architectures, including
+    controllers, operators, or scheduling extensions.
+  - Experience designing, implementing, or operating secure
+    execution environments (container runtimes, sandboxed
+    workloads, or virtualized systems).
+  - Practical experience with lightweight virtualization and
+    sandboxing technologies (e.g., Kata Containers, gVisor,
+    KubeVirt, QEMU).
+  - Experience supporting GPU-accelerated workloads in multi-
+    tenant environments, including GPU scheduling, isolation,
+    device passthrough, mediated devices, or virtualization.
+  - Proficient in systems-oriented programming (Go) with strong
+    Linux internals knowledge.
+  - Skilled at diagnosing and resolving complex performance,
+    reliability, or isolation issues across containers, VMs,
+    and infrastructure.
+  - Experienced in profiling, benchmarking, and tuning
+    performance across runtime, virtualization, and GPU
+    stacks.
+
+  Preferred:
+
+  - Experience building systems for safely executing untrusted
+    or sensitive workloads in shared environments.
+  - Familiarity with GPU drivers and low-level virtualization or
+    I/O optimization techniques.
+  - Experience defining threat models and implementing runtime
+    security policies in multi-tenant systems.
+
+  Wondering if you're a good fit?
+
+  We believe in investing in our people, and value candidates
+  who can bring their own diversified experiences to our teams
+  – even if you aren't a 100% skill or experience match.
+
+  Why CoreWeave?
+
+  At CoreWeave, we work hard, have fun, and move fast! We're
+  in an exciting stage of hyper-growth that you will not want
+  to miss out on. We're not afraid of a little chaos, and
+  we're constantly learning. Our team cares deeply about how
+  we build our product and how we work together, which is
+  represented through our core values:
+
+  - Be Curious at Your Core
+  - Act Like an Owner
+  - Empower Employees
+  - Deliver Best-in-Class Client Experiences
+  - Achieve More Together
+
+  We support and encourage an entrepreneurial outlook and
+  independent thinking. We foster an environment that
+  encourages collaboration and enables the development of
+  innovative solutions to complex problems. As we get set for
+  takeoff, the organization's growth opportunities are
+  constantly expanding. You will be surrounded by some of the
+  best talent in the industry, who will want to learn from
+  you, too. Come join us!
+
+  The base salary range for this role is $182,000 to $242,000.
+  The starting salary will be determined based on job-related
+  knowledge, skills, experience, and market location. We
+  strive for both market alignment and internal equity when
+  determining compensation. In addition to base salary, our
+  total rewards package includes a discretionary bonus, equity
+  awards, and a comprehensive benefits program (all based on
+  eligibility).
+
+  What We Offer
+
+  In addition to a competitive salary, we offer a variety of
+  benefits to support your needs. The benefits below reflect
+  our US-based offerings for full-time employees; for roles in
+  other locations, benefits vary and are shared during the
+  hiring process. These include:
+
+  - Medical, dental, and vision insurance - 100% paid for by
+    CoreWeave
+  - Company-paid Life Insurance
+  - Voluntary supplemental life insurance
+  - Short and long-term disability insurance
+  - Flexible Spending Account
+  - Health Savings Account
+  - Tuition Reimbursement
+  - Ability to Participate in Employee Stock Purchase Program
+    (ESPP)
+  - Mental Wellness Benefits through Spring Health
+  - Family-Forming support provided by Carrot
+  - Paid Parental Leave
+  - Flexible, full-service childcare support with Kinside
+  - 401(k) with a generous employer match
+  - Flexible PTO
+  - Catered lunch each day in our office and data center
+    locations
+  - A casual work environment
+  - A work culture focused on innovative disruption
+
+  California Applicants
+
+  California Consumer Privacy Act
+
+  Equal Opportunity & Accommodations
+
+  CoreWeave is an equal opportunity employer, committed to
+  fostering an inclusive and supportive workplace. All
+  qualified applicants and candidates will receive
+  consideration for employment without regard to race, color,
+  religion, sex, disability, age, sexual orientation, gender
+  identity, national origin, veteran status, or genetic
+  information.
+
+  As part of this commitment and consistent with the Americans
+  with Disabilities Act (ADA), CoreWeave will ensure that
+  qualified applicants and candidates with disabilities are
+  provided reasonable accommodations for the hiring process,
+  unless such accommodation would cause an undue hardship. If
+  reasonable accommodation is needed, please contact:
+  careers@coreweave.com.
+
+  Export Control Compliance
+
+  This position requires access to technology and/or source
+  code subject to U.S. export control laws. Any such access
+  will be provided only in compliance with applicable U.S.
+  export control requirements. As part of the recruitment
+  process, CoreWeave may request limited information
+  reasonably necessary to assess applicable export-control
+  requirements.
+industries:
+  - Cloud
+  - Information Technology
+  - Machine Learning
+posted_date: 2026-08-28
+url: "https://builtin.com/job/senior-software-engineer-ii/10921228"
+source: Built In

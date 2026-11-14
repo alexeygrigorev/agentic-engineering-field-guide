@@ -1,0 +1,141 @@
+job_id: 11012175
+title: Senior Platform Software Engineer
+company: Camber
+location: New York, USA
+work_type: FULL_TIME
+company_size: 90 Employees
+description: |
+  About Us:
+
+  Camber builds software to improve the quality and
+  accessibility of healthcare. We streamline and replace
+  manual work so clinicians can focus on what they do best:
+  providing great care. For more details on our thesis, check
+  out our write-up: What is Camber?
+
+  We’ve raised $50M in funding from phenomenal supporters at
+  a16z, Craft Ventures, YCombinator, Manresa, and many others
+  who are committed to improving the accessibility of care.
+  For more information, take a look at: Announcing Camber
+
+  About our Culture:
+
+  Our mission to change behavioral health starts with us and
+  how we operate. We don’t want to just change behavioral
+  health, we want to change the way startups operate. Here are
+  a few tactical examples:
+
+  1) Improving accessibility and quality of healthcare is
+  something we live and breathe. Everyone on Camber’s team
+  cares deeply about helping clinicians and patients.
+
+  2) We have to have a sense of humor. Healthcare is so
+  broken, it's depressing if you don't laugh with us.
+
+  About the role:
+
+  We are looking for an experienced engineer to join as the
+  third member of our Platform team. This unit operates across
+  the stack, developing the resources and tooling that allow
+  our engineers to efficiently develop and run services in a
+  secure, reliable, and scalable way. We take a product
+  mindset toward our work, building a platform that, in the
+  words of Charity Majors, makes it “easy to do the right
+  things and hard to do the wrong things”. That mandate
+  increasingly includes AI: we're building the tooling that
+  lets our engineers develop with LLMs both productively and
+  safely, along with the infrastructure behind the AI-powered
+  features in our product.
+
+  What you'll do:
+
+  - Ensure the reliability of our core services, including
+    PostgreSQL on RDS, ECS services, CI/CD build-systems and
+    OpenTelemetry observability stack on Datadog
+  - Drive security initiatives that address risk with minimal
+    friction
+  - Create tools and share the best practices that empower
+    engineers to do their best work
+  - Influence the team’s standards for what good looks like when
+    it comes to non-functional requirements
+  - Collaborate across the company to understand requirements
+    and share knowledge
+  - Build the platform for how we develop with AI, from the
+    tooling and guardrails engineers use with LLMs day to day
+    to the infrastructure behind our AI-powered features
+
+  What we're looking for:
+
+  - Experience: 6+ years of platform engineering or adjacent
+    background (SRE, DevOps, etc)
+  - Technical expertise: Knowledge of cloud platforms (AWS
+    specifically), and open-source tools (Terraform, Kafka,
+    Temporal, Postgres, OTel, etc)
+  - Track record of incident leadership: React calmly and
+    quickly to urgent escalations and model best practices in
+    follow-up. We practice blameless post-mortems and high
+    accountability
+  - Judgement and planning: Know when to create the MVP and when
+    more rigor and long-term thinking is required and execute
+    any tasks along that spectrum
+  - Communication and collaboration: Know the “why” behind what
+    we build and share that cross-functionally
+  - Customer empathy: We need to understand our organization’s
+    pain points and build features that meet its needs
+
+  Nice to have:
+
+  - Security and compliance experience in healthcare or other
+    regulated space (HIPAA/SOC2/PCI)
+  - Datadog, Temporal, Kafka, Databricks, Terraform
+  - Monorepo CI/CD systems at scale
+  - Experience growing an organization of our size (series B
+    startup, ~30 engineers)
+  - Experience with LLM tooling or infrastructure in production
+
+  Perks & Benefits at Camber:
+
+  - Comprehensive Health Coverage: Medical, dental, and vision
+    plans with nationwide coverage, including 24/7 virtual
+    urgent care.
+  - Mental Health Support: Weekly therapy reimbursement up to
+    $100, so you can prioritize the care that works best for
+    you.
+  - Paid Parental Leave: Up to 12 weeks of fully paid time off
+    for new parents (birth, adoption, or foster care).
+  - Financial Wellness: 401K (traditional & Roth), HSA & FSA
+    options, and monthly commuter benefits for NYC employees.
+  - Time Off That Counts: We offer flexible PTO, meaning you’re
+    trusted to take the time you need to recharge while
+    balancing your responsibilities and team commitments.
+  - Fitness Stipend: $100/month to use on fitness however you
+    choose.
+  - Hybrid Flexibility: In NYC? We work in the office 3–5x/week,
+    with flexibility when life happens. Fridays are remote-
+    friendly.
+  - Eat well, on us: Daily catered lunches, a stocked kitchen,
+    and unlimited coffee and snacks to keep you going.
+
+  Camber is based in New York City, and we prioritize in-
+  person and hybrid candidates. Please refer to the top of
+  this page for this position's hiring location.
+
+  Building an inclusive culture is one of our core tenets as a
+  company. We’re very aware of structural inequalities that
+  exist, and recognize that underrepresented minorities are
+  less likely to apply for a role if they don’t think they
+  meet all of the requirements. If that’s you and you’re
+  reading this, we’d like to encourage you to apply regardless
+  — we’d love to get to know you and see if there’s a place
+  for you here!
+
+  In addition, we take security seriously, and all of our
+  employees contribute to uphold security requirements and
+  maintain compliance with HIPAA security regulations.
+industries:
+  - Fintech
+  - Healthtech
+  - Social Impact
+posted_date: 2026-09-03
+url: "https://builtin.com/job/senior-platform-software-engineer/11012175"
+source: Built In

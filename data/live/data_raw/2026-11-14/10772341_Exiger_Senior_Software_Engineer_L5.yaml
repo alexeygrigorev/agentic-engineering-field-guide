@@ -1,0 +1,148 @@
+job_id: 10772341
+title: Senior Software Engineer (L5)
+company: Exiger
+location: McLean, USA
+locations:
+  - McLean, USA
+  - Richmond, USA
+  - New York, USA
+work_type: FULL_TIME
+company_size: 1800 Employees
+description: |
+  Who We Are:
+
+  Exiger is the AI partner for supply chain and procurement
+  automation. Its centralized 1EXIGER.AI platform allows
+  organizations to manage their entire operating network, from
+  parts to suppliers, regulators, and customers, through an
+  autonomous agentic workforce that learns, adapts, and
+  augments with every decision. The AI-native platform,
+  combined with the largest supply chain knowledge asset,
+  empowers 550+ global customers, including 150 Fortune 500
+  and 80+ government and defense industrial organizations, to
+  act first. Exiger is FedRAMP® authorized and a 2x Leader in
+  Gartner® Magic Quadrant™ for Supplier Risk Management.
+
+  About us:
+
+  Exiger makes the world a safer place to do business.
+  Positioned at the bleeding edge of critical national
+  security and commercial innovation, we offer AI-enabled
+  supply chain risk management technology that empowers our
+  Defense Industrial Base, Automotive, Pharmaceutical, and
+  Commercial customers to build more transparent, resilient,
+  and secure global supply chains while illuminating human
+  rights abuses such as forced labor, human trafficking, and
+  child labor.
+
+  About the role:
+
+  We are seeking an experienced and passionate Senior Engineer
+  to lead our DDIQ team, the group responsible for our core
+  risk signals processing engine — the cornerstone of our
+  platform. By combining data on global companies with signals
+  from worldwide events, our team builds systems that
+  transform massive volumes of raw data into actionable risk
+  insights. These insights help our customers identify and
+  mitigate potential risks in their suppliers and partners,
+  driving smarter and safer business decisions.
+
+  As a Senior Software Engineer, you’ll drive the technical
+  direction of our products, build reliable, scalable web
+  applications and services that power our SaaS platform,
+  operate and maintain the system, and mentor other engineers
+  on the team. You will play a key role in engineering the
+  scalability, reliability, quality, performance, and
+  maintainability of our systems.
+
+  LOCATION: Mclean, VA / New York, NY / Richmond, VA
+
+  STATUS: Hybrid (2 days per week)
+
+  What you’ll do:
+
+  - Own the technical vision and architecture for DDIQ end-to-
+    end, establishing a clear architectural direction that
+    supports the product’s current needs and long-term growth
+  - Serve as the most senior technical authority on the team,
+    providing leadership across backend, frontend, data,
+    infrastructure, and system design
+  - Effectively manage AI agents to drive delivery across all
+    stages of the SDLC, including design, development,
+    testing, CI/CD, operations at speed and scale
+  - Deliver features across multiple services and systems,
+    ensuring scalable, secure, and high-quality releases
+  - Oversee architecture and design decisions, helping the team
+    make tradeoffs between performance, scalability, and time-
+    to-market
+  - Ensure reliability and observability across our
+    microservices ecosystem, including production monitoring,
+    alerting, and recovery
+  - Ensure operational excellence, managing the CI/CD lifecycle,
+    testing, deployments, and cost optimizations
+
+  What you bring to the team:
+
+  - Unyielding sense of ownership and accountability – you care
+    about your work and it shows
+  - 6+ years of hands-on software engineering experience, with
+    significant experience designing, building, and operating
+    complex backend systems or data-intensive applications
+  - Demonstrated experience as a technical lead or senior
+    engineer responsible for the architecture, technical
+    direction, and health of a scaled enterprise application
+    with mission-critical customer impact
+  - Strong system design instincts and the ability to reason
+    across application, data, infrastructure, reliability, and
+    operational concerns
+  - Deep understanding of cloud-native architectures,
+    Kubernetes, and IAC
+  - Experience with mission-critical, API-first SaaS systems,
+    balancing short-term delivery with long-term architectural
+    vision
+  - Passion for data, analytics, and using technology to uncover
+    meaningful insights
+  - Experience working at a rapidly-evolving, PE-backed, growth
+    startup
+  - Bonus points for experience operating in an air-gapped
+    FedRAMP or DoD I/L environment
+
+  Our tech stack:
+
+  - Core Platform: Java / Spring Boot
+  - Data: MySQL
+  - Frontend: TypeScript / Angular
+  - Messaging: ActiveMQ, Kafka, Redis
+  - Infrastructure: Kubernetes via Helm and Argo CD; AWS via
+    Terraform
+  - Observability: ELK, Grafana
+
+  #LI-Hybrid
+
+  Exiger is named a Leader in the Gartner® Magic Quadrant™ for
+  Supplier Risk Management, twice selected as one of Fast
+  Company's 'Brands That Matter,' and recipient of the Third
+  Party Risk Association's Innovator Award, Exiger's
+  technology has been recognized by leading analyst
+  evaluations and 50+ awards. Learn more at Exiger.com and
+  follow Exiger on LinkedIn.
+
+  At Exiger, our values define how we work and why we lead. We
+  are mission-inspired, imagination-driven, trust-anchored,
+  and compassion-focused—committed to building technology that
+  makes the world safer, more transparent, and more resilient.
+
+  All qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  sexual orientation, gender identity, national origin, age,
+  disability or protected veteran status, or any other legally
+  protected basis, in accordance with applicable law.
+
+  Exiger’s hybrid work policy is periodically reviewed and
+  adjusted to align with evolving business needs.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-08-20
+url: "https://builtin.com/job/senior-software-engineer-l5/10772341"
+source: Built In

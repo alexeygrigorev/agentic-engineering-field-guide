@@ -1,0 +1,201 @@
+job_id: 12044816
+title: Full Stack Developer
+company: Magellan AI
+location: New York, USA
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Who we are:
+
+  Magellan AI gives brands, agencies and publishers visibility
+  into the podcast advertising market and proof that it works.
+  Our audio analysis and NLP track ad placements across
+  thousands of shows. Our measurement and attribution tools
+  connect those ads to the traffic and conversions they drive,
+  so buyers can optimize campaigns and sellers can prove
+  performance.
+
+  We are looking to hire an experienced full-stack developer
+  to join our team of seven engineers, to help launch a major
+  new feature and continue to enhance our core product. The
+  job has changed shape over the past year: most of our code
+  is now drafted by AI agents — Claude Code and Codex —
+  working under close supervision. We ship considerably more
+  than we used to, and the scarce skill is no longer typing
+  speed. It is knowing what to build, specifying it precisely,
+  and being able to tell a correct answer from a convincing
+  one. We are seeking someone who can handle many
+  responsibilities, including:
+
+  - Adding new features to our Ruby on Rails application from
+    top-to-bottom, full stack. You will work with operations
+    and sales to help creatively design ‘good enough’ yet
+    professional solutions.
+  - Directing AI coding agents through real work: framing the
+    problem and its constraints, reviewing what comes back
+    line by line, pushing back when a solution has outgrown
+    the problem, and starting over simpler when that is the
+    right call. You own the result regardless of who typed it.
+  - Increasing system/code quality by using practices such as
+    TDD and refactoring. Quality around the core of the system
+    has become more important as we scale up — and more
+    important still now that the volume of code we produce has
+    gone up.
+  - Writing the design down before the code: specs, architecture
+    decision records, and product documentation for our
+    operations team. Precise writing is a core engineering
+    skill here, because it is both how we align with each
+    other and how we brief our agents.
+  - Extending our own tooling — the skills, subagents and CLI
+    helpers that encode how we work. Codifying a workflow so
+    the whole team, and their agents, can repeat it is
+    ordinary, reviewed work here.
+  - Building AI-facing product surfaces, like our Ad
+    Intelligence MCP server, where the consumer of the API you
+    design is a language model rather than a browser — with
+    the authentication, policy gates and audit logging that
+    implies.
+  - Enhancing usability of existing features via Turbo/Stimulus
+    and other front-end improvements.
+  - Troubleshooting and fixing performance issues and
+    complicated logic across Postgres and ClickHouse. Help
+    simplify the system by bringing in smart design decisions.
+  - Experimenting and providing stopgap solutions for potential
+    opportunities. Sometimes this involves quick and dirty
+    solutions such as scripting, SQL exports, web scraping and
+    the like.
+  - Sharing in providing operational support to make sure the
+    system stays running and address any bugs. (Most usage is
+    during normal business hours…we don’t do pagers.)
+  - Experimenting via internal hackathons to produce novel
+    solutions and feature enhancements.
+
+  Software Development at Magellan AI
+
+  We adhere to a lightweight Agile development process.
+
+  - Every week, we have one formal product meeting with the
+    revenue and operations team to reset priorities. The rest
+    of the time is self-directed, with developers figuring out
+    how to best solve any problems. In general, we are not
+    working against any deadlines and make sure we take the
+    time to do the job right.
+  - We practice Collective Code Ownership so that anyone can
+    change any line of code and anyone can introduce new
+    libraries or tools.
+  - We deploy code on a regular basis, usually every day. IOW,
+    we ship fast and learn fast. A typical recent week is
+    around 45 pull requests merged.
+  - Claude Code and Codex do most of the typing. Engineers spend
+    their time deciding what to build, writing the spec, and
+    judging what comes back.
+  - We work one task per git worktree, which lets each of us
+    keep several agent sessions running in parallel on
+    isolated branches. Managing that parallelism is a skill in
+    itself, and we will teach it.
+  - Every change runs a review gauntlet before it merges: a
+    local pre-PR review, a cross-agent review where Codex
+    critiques Claude’s work, GitHub Copilot’s automated review
+    (our branch rules will not let us merge until every thread
+    is resolved), and a human reviewer. Different models catch
+    different things.
+  - We invest heavily in the context our agents read: a
+    repository-level conventions file, roughly two dozen
+    project-specific skills, and purpose-built subagents. When
+    someone learns something the hard way, it gets written
+    down where the next agent will find it.
+  - Decisions get recorded as ADRs — we are up to 159 — and
+    business rules live in a shared documentation repository
+    linked into every worktree, so both people and agents can
+    find out why the system works the way it does.
+  - We usually host a biweekly team retrospective to discuss
+    ways to improve communication and collaboration.
+  - We make it easy for the tech-adjacent team members to run QA
+    with clear documentation and steps to test our work.
+
+  Tools and Technologies
+
+  The main application is Ruby on Rails, hosted on Heroku,
+  with Postgres as the primary database and ClickHouse behind
+  our measurement and attribution product. Background work
+  runs on Sidekiq. JavaScript in the application is minimal,
+  and is mostly Turbo and Stimulus with some Bootstrap. A
+  separate Python application handles all of the machine
+  learning. Infrastructure is managed in Terraform across AWS,
+  GCP and Cloudflare. Day to day we work in Claude Code and
+  Codex, with MCP servers wired into ClickHouse, Postgres, New
+  Relic, Rollbar, CircleCI and Trello so our agents can gather
+  their own evidence.
+
+  Qualifications:
+
+  - 3+ years of software development experience
+  - Expertise with Agile web development, with practices such as
+    TDD and Refactoring
+  - Fluency working with AI coding agents day to day, or the
+    obvious appetite for it. You do not need our exact
+    toolchain, but you should be someone who reviews what an
+    agent hands you rather than trusting it.
+  - Clear writing. You will be writing specs, ADRs and
+    documentation read by people who are not engineers.
+
+  Nice to Have:
+
+  - Ruby on Rails
+  - ClickHouse
+  - Python
+  - NYC-based
+  - Experience designing MCP servers or other LLM-facing APIs
+  - Background in ad tech
+  - Interest in the podcasting world
+
+  Compensation and benefits:
+
+  - Competitive base salary and bonus structure
+  - Medical, dental, and vision coverage - individual coverage
+    is free
+  - Company-subsidized family coverage
+  - Home office improvement reimbursement up to $500 per year
+  - Company laptop and external monitor
+  - 11 company holidays
+  - 20 PTO days for vacation, illness, and personal time
+
+  More about Magellan AI
+
+  Magellan AI is a first mover, early-stage SaaS startup
+  funded by Brooklyn Bridge Ventures, C2 ventures and a few
+  independent investors. The company was founded in 2016 by
+  Cameron Hendrix (formerly Goldman Sachs) and Rex Madden
+  (formerly Stride Consulting NYC). Magellan AI is the all-in-
+  one platform for audio advertising intelligence, media
+  planning, and measurement. Advertiser and agency media
+  buyers rely on Magellan AI's audio media planning and
+  measurement platform to discover, connect with, and analyze
+  the performance of broadcast radio, podcasts, streaming
+  audio, and YouTube. Publishers trust Magellan AI to grow
+  audio ad sales with intelligence and performance
+  measurement, powered by the world's largest database of
+  podcast advertising data, covering over 60,000 podcasts. You
+  will have the chance to shape the direction of a popular
+  product in a rapidly evolving industry.
+
+  We’re a remote-first company (though we’re still based in
+  NYC). We offer great benefits for our size (medical, dental,
+  equipment stipend, vacation), off-site retreats, as well as
+  a generous options grant.
+
+  Magellan AI is an equal opportunity employer; in keeping
+  with our beliefs and goals, no employee or applicant will
+  face discrimination or harassment based on gender, sexual
+  orientation, race, color, ancestry, national origin,
+  religion, age, marital domestic partner status, physical
+  ability, gender identity, disability status, or veteran
+  status. Above and beyond discrimination and harassment based
+  on 'protected categories,' we also strive to prevent other,
+  subtler forms of inappropriate behavior (e.g., stereotyping)
+  from ever gaining a foothold in our company culture. Whether
+  blatant or hidden, barriers to success have no place at
+  Magellan AI.
+posted_date: 2026-11-03
+url: "https://builtin.com/job/full-stack-developer/12044816"
+source: Built In

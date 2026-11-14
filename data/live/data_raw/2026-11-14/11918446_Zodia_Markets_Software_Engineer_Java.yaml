@@ -1,0 +1,118 @@
+job_id: 11918446
+title: Software Engineer (Java)
+company: Zodia Markets
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 60 Employees
+description: |
+  Zodia Markets is a regulated institutional digital-asset
+  brokerage backed by SC Ventures (the innovation and ventures
+  arm of Standard Chartered, our majority shareholder). We
+  provide institutional clients with stablecoin FX execution,
+  liquidity and near-instant cross-border settlement across
+  multiple stablecoins and 20+ fiat currencies. Having found
+  strong product-market fit for corporate stablecoin payments,
+  we are now scaling that into our core focus area,
+  underpinned by a scalable technology platform built to run
+  it at institutional scale. As financial markets move toward
+  always-on, programmable infrastructure, we believe
+  institutions should be able to move capital globally with
+  the same speed and ease as information — and we are building
+  the regulated infrastructure to make that possible. Today we
+  serve banks, asset managers, hedge funds, payment providers,
+  corporates and digital-asset institutions globally —
+  institutional counterparties only, never retail. The team is
+  60 people: a mid-sized regulated financial institution, not
+  an early-stage startup. Role summary This role focuses on
+  designing and building high-performance JVM-based
+  applications for a complex digital asset trading platform.
+  You will work within a service-oriented architecture,
+  ensuring low latency, high availability, and data integrity.
+  You will collaborate closely with business stakeholders and
+  the DevOps team to deliver robust solutions using modern
+  messaging and database technologies. The ideal candidate is
+  a strong Java developer who is comfortable working with
+  other JVM languages (Groovy/Kotlin). Job Responsibilities
+  Application Development & Architecture
+
+  - Core Development: Design, build, and maintain scalable JVM-
+    based applications to support trading and settlement
+    flows.
+  - Service Architecture: Develop and optimize
+    microservices/services within a distributed architecture,
+    ensuring modularity and scalability.
+  - API Design: Implement and maintain robust RESTful APIs and
+    WebSockets for real-time data streaming and client
+    connectivity.
+  - Polyglot Programming: Utilize Groovy and Kotlin where
+    appropriate to enhance developer productivity and testing
+    frameworks.
+
+  Data & Messaging
+
+  - Data Persistence: Design and manage data schemas across both
+    SQL and NoSQL databases, ensuring data consistency and
+    performance.
+  - Event Streaming: Implement high-throughput messaging systems
+    using Kafka for event-driven architecture and Redis for
+    caching and session management.
+
+  Operational Excellence (DevOps/SRE)
+
+  - CI/CD Integration: Collaborate on GitLab pipelines to ensure
+    smooth build and deployment processes.
+  - Infrastructure Awareness: Write code that is optimized for
+    cloud environments, specifically AWS (EKS, RDS, EC2,
+    ElastiCache, S3).
+  - Observability: Implement structured logging and monitoring
+    to facilitate rapid troubleshooting and system health
+    checks.
+
+  Benefits Technical Requirements (Essential)
+
+  - JVM Mastery: Deep expertise in Java and the JVM ecosystem.
+  - Architecture: Proven experience with Service-Oriented
+    Architecture (SOA) or Microservices.
+  - Database Skills: Strong proficiency in both SQL and NoSQL
+    database design and optimization.
+  - Connectivity: Extensive experience with REST APIs and
+    WebSockets.
+  - Messaging: specific experience with Kafka and Redis.
+  - Additional Languages: Proficiency or willingness to work
+    with Groovy and Kotlin.
+
+  Desirable Skills
+
+  - Container Orchestration: Experience deploying to and
+    debugging applications in Kubernetes (specifically AWS
+    EKS).
+  - Cloud Native: Familiarity with AWS services including S3,
+    EC2, and RDS.
+  - Tooling: Experience with GitLab CI/CD pipelines.
+  - Monitoring: Experience implementing metrics and logging
+    (e.g., Prometheus, Grafana, ELK).
+
+  General Requirement
+
+  - Industry: Experience in FinTech, Trading, or regulated
+    environments is a strong advantage.
+
+  Essential Skills
+
+  - Problem Solving: Strong analytical skills with the ability
+    to solve complex concurrency and data consistency
+    problems.
+  - Communication: Ability to articulate technical concepts to
+    non-technical stakeholders.
+  - Agility: Comfortable working in a fast-paced environment
+    with evolving requirements.
+  - Team Player: specific ability to collaborate with DevOps and
+    frontend teams to deliver end-to-end features.
+industries:
+  - Fintech
+  - Financial Services
+  - Cryptocurrency
+posted_date: 2026-10-27
+url: "https://builtin.com/job/software-engineer-java/11918446"
+source: Built In

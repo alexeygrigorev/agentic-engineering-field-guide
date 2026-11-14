@@ -1,0 +1,106 @@
+job_id: 10907829
+title: "Senior Backend Engineer, Platform & Integrations"
+company: BJAK
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 253 Employees
+description: |
+  About BJAK
+
+  The original mission of BJAK is we believe people deserve
+  smarter ways to plan, save and grow their money. This is the
+  origin of our name. Started in 2019, we built the first
+  mobile-first, insurance platform, enabling insurance to be
+  accessible online by millions in the region. Today, its the
+  leading insurance platform in Southeast Asia. Today, we are
+  expanding ways to help people in the region — this includes
+  spending, saving, investing, exchanging, travelling, and
+  more. Our mission is help people get more from their money
+  every day. We have teams working around the world, with over
+  20 nationalities from our offices and remotely, who truly
+  enjoys their work. We are looking for the most talented and
+  driven people we can find. We are looking for people who
+  work for their passion, not counting hours. Who loves
+  building great next-generation products, not status quo. Who
+  cares about redefining how everyone around us can get the
+  best financial applications, not for an exclusive few. If
+  you're this person, we'd love to talk to you.
+
+  The Role
+
+  We are looking for backend engineers to build the core
+  systems behind BJAK's insurance comparison platform. This
+  role is for engineers who can build reliable APIs, workflows
+  and product infrastructure that can scale across markets,
+  partners and millions of users.
+
+  What they'll actually do
+
+  - Build the system that connects to multiple insurance
+    providers and requests quotes from all of them at once
+  - Design how those quotes get compared fairly and ranked for
+    the customer
+  - Build the customer database and the secure audit trail
+    required
+  - Set up cloud hosting, CI/CD pipeline, observability and
+    security (encryption, secrets management)
+
+  Must-have skills
+
+  - Strong backend development in Node.js / TypeScript (or very
+    close equivalent, e.g. willing/able to work in it)
+  - Experience in relational database (PostgreSQL or similar) or
+    non relational database (MongoDB or similar) — not just
+    querying, but designing the schema
+  - Experience integrating with third-party APIs, especially
+    handling timeouts, retries, and partial failures
+    gracefully
+  - Experience with cloud infrastructure (AWS, GCP, or Azure)
+    and CI/CD pipelines
+  - Comfortable working with sensitive customer data and
+    security best practices (encryption, access control)
+
+  Strong nice-to-haves
+
+  - Experience in fintech, insurtech, or another regulated
+    industry
+  - Experience building a "plugin" or "adapter" style system
+    that needs to support many different external integrations
+    over time
+  - Experience with Redis or similar for session/cache
+    management
+
+  Location
+
+  This role is remote, but candidates must be based in UK. We
+  are hiring specifically for this market, so applicants
+  should already be based in UK.
+
+  Language
+
+  English is our main working language across global teams.
+  Strong English communication is required.
+
+  Interview Process
+
+  Our process is designed to move fast:
+
+  1. Online assessment or practical task
+
+  2. Technical interview
+
+  3. CEO / final round
+
+  For strong candidates, we aim to complete the process and
+  make an offer within 1 week from the start of the interview
+  process. Candidates who complete assessments quickly will be
+  prioritized.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-08-28
+url: "https://builtin.com/job/senior-backend-engineer-platform-integrations/10907829"
+source: Built In

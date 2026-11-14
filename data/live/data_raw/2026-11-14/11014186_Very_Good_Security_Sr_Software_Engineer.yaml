@@ -1,0 +1,194 @@
+job_id: 11014186
+title: Sr. Software Engineer
+company: Very Good Security
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 223 Employees
+description: |
+  About VGS
+
+  VGS is building the trust infrastructure for a new era of
+  commerce. As commerce becomes agentic, payments are
+  increasing dramatically in volume, speed, and complexity,
+  and the companies driving that shift need a foundation they
+  can fully trust.
+
+  That's where VGS comes in. We're the world's leader in
+  payment tokenization, trusted by the most innovative AI and
+  Fortune 500 companies, merchants, banks, and fintechs to
+  power modern payments and agentic commerce. We store more
+  than 9 billion tokens and process more than 10 billion
+  monthly interactions, touching a third of all e-commerce.
+  That scale isn't incidental. It's why leading companies
+  embed our universal token vault and credential management
+  platform directly into their stack, taming the complexity of
+  payment data so they can move faster.
+
+  Come build the platform that enables modern payments for the
+  world's largest companies. We're helping businesses unlock
+  new possibilities in an industry that never stops moving.
+  And that takes exceptional people.
+
+
+
+
+
+  Trusted Engineering That Matters
+
+  Engineering at VGS
+
+  VGS is building the platform powering agentic commerce and
+  global payments infrastructure. VGS Engineering is the
+  pillar that supports that vision. We create a platform that
+  is an indispensable, ubiquitous component of our partners'
+  payments and security infrastructure. We build and operate
+  high-scale, reliable, and resilient systems that manage
+  mission-critical payment data across the globe. We don't
+  just participate in the payments ecosystem; we power it.
+
+
+
+  Our Environment & Culture
+
+  - Modern Tooling as Leverage: We value speed and impact. To
+    ensure nothing slows you down, we arm you with a highly
+    consistent modern stack (e.g. AWS, Kubernetes, Java,
+    TypeScript, Python) and world-class AI-augmented SDLC
+    tooling. We strip away the friction so you can focus on
+    the problems that demand creativity and judgment.
+  - Ownership of Outcomes: Scaling global payments
+    infrastructure requires individuals who take personal
+    ownership of outcomes from day one. We look for builders
+    who combine high agency with deep strategic alignment;
+    channeling their urgency and relentless iteration into
+    what matters most.
+  - Mission-Critical Accountability: We power payments
+    infrastructure for global market leaders, making system
+    trust and integrity our core deliverable. We don't treat
+    compliance (PCI, SOC2, ISO27001), security patching, and
+    platform maintenance as administrative overhead—we
+    engineer them with first-class product discipline.  In
+    payments infrastructure, reliability is not background
+    work, it’s part of what customers buy.
+
+  Learn More: See how our engineering practices drive trust
+  and innovation in our official blog and our reliability
+  practices.
+
+
+
+
+
+  About the Role
+
+  As a Sr. Software Engineer, Payments Quality, you will serve
+  as a key technical practitioner and quality champion on our
+  Payments Engineering team. You will take ownership of
+  setting, building, and enforcing world-class quality
+  standards across our core payment systems. In this role, you
+  will write software for robust AI-assisted quality
+  strategies covering end-to-end automated regression suites
+  and high-concurrency performance and load testing.
+
+  Working closely with feature development engineers, Tech
+  Leads, and Product Management, you will ensure our mission-
+  critical, high-throughput payment platform and applications
+  operate with zero downtime and flawless accuracy. Rather
+  than relying on manual QA or traditional top-down testing
+  scripts, you will leverage AI-native engineering
+  methodologies and integrate test automation across the
+  entire SDLC. You will also be building emulators for
+  external systems, such as card networks and other partner
+  integrations. We are looking for hands-on builders who
+  refuse to settle for the status quo, hate manual friction,
+  and take immense pride in fortifying enterprise-grade
+  financial systems for scalability, reliability, and
+  security.
+
+
+
+   What You'll Do
+
+  - Architect and Embed Quality Benchmarks: Own the overarching
+    quality strategy for Payments Acceptance, building
+    automated guardrails so seamlessly into our pipelines that
+    rigorous end-to-end validation happens automatically,
+    without slowing down feature teams, accelerating release
+    cycles.
+  - Drive Performance & Stress Testing: Architect and execute
+    high-concurrency load, stress, and latency testing to
+    stress-test payment pipelines under extreme transaction
+    volumes. You own the mission of ensuring our platform
+    never drops transactions or degrades in latency during
+    peak periods..
+  - Pioneer AI-Native Software Engineering focused on Quality:
+    Actively integrate AI-assisted developer tools and agentic
+    workflows into test creation, synthetic data generation,
+    and automated edge-case analysis to multiply testing
+    velocity. Build high performance emulators for external
+    systems.
+  - Deep Observability & Incident Prevention: Implement robust
+    telemetry and telemetry-driven test environments using
+    tools like Prometheus and Grafana to monitor system
+    behavior under load, driving blameless post-mortems and
+    proactive bug prevention.
+  - Cross-Functional Velocity & Mentorship: Partner with feature
+    teams to build "Golden Paths" for automated testing,
+    ensuring engineers can validate code rapidly with high
+    confidence. Mentor team members on quality engineering
+    best practices.
+
+
+
+
+
+  What You Bring
+
+  - Ownership in Quality Engineering: 5+ years of software
+    engineering experience focusing on quality engineering,
+    test automation framework design, and performance testing
+    for complex, high-throughput distributed systems.
+  - Automation & Scripting Mastery: Deep hands-on experience
+    building automated test suites in Python or
+    Typescript/Javascript, with a strong command of REST API
+    testing and microservices validation.
+  - Performance & Load Testing Depth: Proven track record
+    designing and running performance, stress, and load tests
+    at scale using tools like Locust, or k6.
+  - CI/CD & Cloud-Native Toolchains: Direct experience embedding
+    automated quality gates into modern CI/CD pipelines
+    (GitHub Actions, GitOps) within containerized environments
+    (Docker, Kubernetes/EKS) on public clouds (AWS).
+  - Data & Messaging Validation: Experience testing event-driven
+    architectures (Kafka, SQS) and relational/NoSQL databases,
+    ensuring data consistency and transactional integrity
+    under load.
+  - High-Agency Mindset: An innate drive to eliminate manual
+    friction, proactively seek out edge cases, and acquire
+    whatever missing domain context is needed to solve complex
+    quality challenges end-to-end.
+
+  Nice to Have:
+
+  - Experience with tokenization, payment processing, or
+    security products
+  - BA/BS degree
+  - A knack for out-of-the-box thinking that thrives in a fast-
+    paced startup environment
+  - Domain expertise in 3DS, Network Tokens, Account Updater, or
+    payment gateway integrations.
+  - Experience with AI developer tools, LLM-generated test
+    automation pipelines, or synthetic test data generation.
+  - Practical knowledge of compliance and cloud security
+    constraints (PCI-DSS, SOC2).
+industries:
+  - Security
+  - Database
+  - Cybersecurity
+posted_date: 2026-09-04
+url: "https://builtin.com/job/sr-software-engineer/11014186"
+source: Built In

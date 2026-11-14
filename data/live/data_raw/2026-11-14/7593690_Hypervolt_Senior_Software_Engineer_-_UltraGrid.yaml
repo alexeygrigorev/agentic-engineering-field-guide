@@ -1,0 +1,206 @@
+job_id: 7593690
+title: Senior Software Engineer - UltraGrid
+company: Hypervolt
+location: Palo Alto, USA
+locations:
+  - Palo Alto, USA
+  - London, GBR
+work_type: FULL_TIME
+company_size: 48 Employees
+description: |
+  About Hypervolt Limited
+
+  Hypervolt is at the forefront of the electric vehicle
+  charging revolution, dedicated to providing innovative and
+  reliable EV charging solutions. We launched in 2021 with the
+  bold ambition to transform the EV charging space through a
+  relentless focus on the customer experience, great software,
+  and beautifully designed British hardware.
+
+  In a short timeframe, we became Trustpilot's highest rated
+  EV charging manufacturer in the industry. We are proud to
+  have been named the third fastest growing company in the UK,
+  as part of the Deloitte Fast 50, and 6th fastest growing
+  company in EMEA, as part of the Deloitte Fast 500.
+  Additionally, Hypervolt was voted DrivingElectric’s Home EV
+  Charger of the Year 2023 & 2024, a testament to our focus on
+  innovation and democratising EV ownership.
+
+  UltraGrid
+
+  UltraGrid is the core engine behind Hypervolt's
+  applications. It features a soft real-time mechanism for
+  controlling and monitoring distributed energy assets,
+  streaming over 100,000 events per day from each connected
+  node on the grid—all at incredibly low operating costs.
+  Designed for sub-second, multi-gigawatt grid-balancing,
+  UltraGrid is built to be a critical component of a nation's
+  energy security, boasting sub-50ms P95 and intra-system
+  transit times with a P99 of under 6 milliseconds. Its core
+  is deeply rooted in performance engineering: every thread,
+  every byte allocated, and every shred of memory not garbage
+  collected on time is accounted for. This unique programming
+  experience minimizes reliance on open source frameworks,
+  favoring first-principles development to achieve maximum
+  performance. This is an excellent opportunity for god-tier
+  engineers to join a very experienced software team, building
+  mission-critical infrastructure for a growing company. You
+  will be working on streaming, networking, storage, and other
+  facets of the system, with an extreme focus on cost and
+  performance.
+
+  Requirements
+
+  - Extensive Experience & Technical Mastery:
+    - 10+ years of professional software development experience,
+      with a strong focus on architecting, optimizing, and
+      delivering performance-critical systems.
+    - Deep expertise in Java, Scala and the JDK, leveraging the
+      Java ecosystem for high-performance applications.
+      Proficiency in Rust is a bonus.
+    - Experience with NixOS is considered a huge plus.
+  - Performance Engineering Excellence:
+    - Proven ability to diagnose, profile, and optimize complex
+      systems using advanced performance analysis tools and
+      methodologies.
+    - Demonstrated experience in tuning multi-threaded and
+      parallel computing environments, managing concurrency,
+      and applying lock-free designs for efficient resource
+      utilization.
+    - Familiarity with performance engineering technologies and
+      low-cost always on profiling, metrics and observability.
+  - Architectural & Systems Insight:
+    - Extensive understanding of foundational computer science
+      principles, data structures, and algorithms.
+    - Extensive understanding of networking and fundamental
+      building blocks of the Internet.
+    - Firm grasp of distributed consensus algorithms and their
+      practical applications in building scalable, reliable
+      systems.
+  - Innovative Problem Solving & Mentorship:
+    - Exceptional analytical skills to identify and resolve
+      intricate performance bottlenecks in production-level
+      systems.
+    - Experience driving technical excellence and fostering a
+      culture of continuous improvement.
+  - Collaboration & Communication:
+    - Excellent communication skills with the ability to
+      articulate complex technical concepts to technical and
+      non-technical stakeholders.
+    - Proven success collaborating with cross-functional teams,
+      including close partnerships with SREs and automation
+      specialists in fast-paced, dynamic environments.
+  - Educational Background:
+    - A Bachelor's degree in Computer Science, Engineering, or a
+      related field or equivalent industry experience.
+      Advanced degrees or relevant certifications are a plus.
+    - A PhD in computer science or an interest in performance
+      engineering and distributed consensus algorithms is a
+      big bonus.
+
+  Bonus Qualifications
+
+  You don't need to have all the shiny resume stuff. But if
+  you are right for this job, you will know it's a drag for
+  the uninitiated.
+
+  - Previous experience contributing to a mainstream Apache
+    project, preferably involving the JDK.
+  - Prior work in a performance engineering environment at
+    leading tech companies like Netflix or Twitter.
+  - Strong experience working with resource right-sizing and
+    developing deeply cost-optimized code.
+  - Previous experience working on a core database engine, such
+    as building a database from the ground up.substantial
+  - You enjoy reading and writing academic computer science
+    papers and have a list of favourites if queried by the
+    team.
+  - You're not worried about AI code completion taking your job
+    anytime soon.
+
+  Benefits
+
+  - Competitive Compensation: We will pay you. A sum of money.
+    Every month. You'll really like it.
+  - Stock options: Everyone says this. But we reached "Series D
+    levels" with less than $10M in total funding. And boy, are
+    we profitable. The stock is quite something. You can
+    finally lock down that 4-bed in Palo Alto if it goes well.
+  - Comprehensive Coverage: Health, dental, and vision plans,
+    plus wellness and mental health support.
+  - Work-Life Flexibility: Somewhat. You can work remotely, or
+    you can come to the office. The expected output is very
+    high. We like consistency and a great team dynamic. We do
+    overtime occasionally, but it's because it's so fun to
+    ship one feature after the next- never mandated.
+  - Additional Perks: We'll buy you a laptop. Whichever one you
+    want. It can have your custom Arch Linux distro on it. We
+    would expect nothing less of you. And yes, of course, IT
+    supports that.
+  - Innovative Environment: A culture like no other. Work with
+    peers and people who truly value exceptionally good
+    software.
+
+  Be persistent
+
+  What we aim to do is not always going to be easy, and
+  problem-solving, no matter how big or small, is essential if
+  we are going to achieve our mission. Whether it be a
+  technical challenge you are struggling to unblock, a new
+  client you are trying to win or a logistical puzzle you need
+  to solve, the only way we will grow as a company and as
+  individuals is by persistently working things through to a
+  solution. Success seldom comes from the first attempt, but
+  it almost always comes from the 1000th, and the difference
+  between success and failure often isn’t intelligence or the
+  aha moment or the brilliant idea: it’s having the
+  perseverance to continue pushing and never giving in to
+  failure.
+
+  Be accountable
+
+  We operate in a fast-paced, highly collaborative and
+  increasingly autonomous environment at Hypervolt. We are on
+  the journey from a scrappy startup to a market leader, but
+  no matter how big the company gets, treat it as your own. Be
+  accountable for its progress, and look after it as you would
+  your creation. If you know things can be improved,
+  articulate them, say them, and don’t go along in the silence
+  of knowing we could have done better. If we make a mistake,
+  find a way to say it. There’s no value in keeping it to
+  yourself; we will succeed or fail together.
+
+  The ‘Ello Sir Ethos
+
+  We should always strive to treat people how they wish to be
+  treated and remember the voting power of customers. They are
+  the true bosses and the actual employers—the market.
+
+  Dare to dream
+
+  Every technological advancement we use today was once a
+  crazy dream that a few persistent pioneers truly believed.
+  “Most things have to be seen to be believed, but some things
+  have to be believed to be seen!” – Steve Jobs, on building
+  the Apple Mac, the best-selling computer of all time.
+
+  Stay hungry; stay foolish.
+
+  The hunger and ambition for continuous success are the
+  orbital solar beam-powered reactor at the core of our
+  success, and our ability to stay foolish and humble and
+  continue to let ourselves be educated by our market will
+  help us reach the full potential of our ambition. Only
+  through the most selfless dedication to our dreams will we
+  achieve the most selfish successes.
+
+  True Greatness is Blind
+
+  Great ideas and execution can come from anyone and anywhere
+  at any time.
+industries:
+  - Appliances
+  - Manufacturing
+posted_date: 2026-08-12
+url: "https://builtin.com/job/senior-software-engineer-ultragrid/7593690"
+source: Built In

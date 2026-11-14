@@ -1,0 +1,182 @@
+job_id: 11765288
+title: Senior Software Engineer, Operations Foundations
+company: Wolt
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 8,287 Employees
+description: |
+  About Wolt
+
+  At Wolt, we create technology that brings joy, simplicity
+  and earnings to the neighborhoods of the world. In 2014 we
+  started with delivery of restaurant food. Now we’re building
+  the delivery of (almost) everything and you’ll find us in
+  over 500 cities in 30 countries around the world. In 2022 we
+  joined forces with DoorDash and together we keep on dreaming
+  big and expanding across the globe. Working at Wolt isn’t
+  always easy, but it’s definitely exciting. Here you’ll learn
+  more, build more, and ship more than in most other
+  companies. You’ll be challenged a lot, but also have a lot
+  of fun on the way. So, if you’re a self-starter with drive
+  and entrepreneurial spirit, this could be the ride of your
+  life.
+
+  Wolt is looking for a Senior Software Engineer to join our
+  Operations Foundations team. The team sits within the
+  DoorDash Client and AI Development group and is responsible
+  for the foundation that hundreds of engineers across Wolt,
+  DoorDash, and Deliveroo rely on to build internal operations
+  and engineering tools. Our platform hosts 300+ micro-
+  frontends (MFEs) used to operate every part of the business.
+
+  About the Team
+
+  Our team is focused on building a scalable, reliable, and
+  high-quality internal tooling platform that supports Wolt,
+  DoorDash, and Deliveroo’s operations and business.
+
+  The team plays an important role in improving how engineers
+  and non-engineers alike build, test, and ship software
+  across the organization. Our biggest focus is building a
+  software factory: the platform where AI agents take changes
+  from task to merged PR safely and reliably, without lowering
+  the quality bar. We do this through harness engineering: the
+  context, tooling, verification, and evals that let agents
+  work autonomously, built on our foundations in reusable
+  libraries and micro-frontend architecture.
+
+  It’s an exciting time to join because the team has strong
+  ownership and a broad technical impact.
+
+  About the Role
+
+  We’re looking for a Senior Software Engineer who can take
+  ownership of complex technical initiatives across frontend,
+  backend, infra and agentic development domains. In this
+  role, you’ll build scalable, maintainable solutions that
+  support multiple product teams and business areas.
+
+  Success in this role means becoming a trusted technical
+  owner who consistently delivers reliable solutions and helps
+  the team execute more effectively. Six months into the role,
+  we’d expect you to be independently leading technical
+  initiatives and contributing meaningfully to architecture
+  and delivery planning.
+
+  This role offers the opportunity to solve challenging
+  engineering problems with visible impact across the
+  business. It’s especially exciting for someone who enjoys
+  combining product engineering with platform thinking,
+  improving developer workflows, and building systems that
+  scale across teams and domains.
+
+  What You’ll Be Doing
+
+  - Owning the Foundation: The runtime, build, deployment, and
+    developer experience that 300+ MFEs and hundreds of
+    engineers depend on every day.
+  - Evolving Our Micro-Frontend Architecture: Improve
+    composition, isolation, and shared dependency strategies
+    so feature teams can move fast.
+  - Product and Planning: Independently drive projects from idea
+    to production: breaking down ambiguous problems into clear
+    technical plans, estimating delivery, identifying risks
+    early, and delivering high-quality solutions in a timely
+    manner.
+  - Supporting Engineering Excellence: Champion best practices,
+    raise the bar for code quality, and turn lessons learned
+    into platform improvements.
+  - Long-Term Thinking: Balance short-term feature unblockers
+    with the long-term health, security, and maintainability
+    of the platform.
+  - Software Factory / Harness Engineering: Build the
+    foundations that let AI agents work autonomously on our
+    platform, including agent instructions, reusable skills,
+    sandboxed environments, tool integrations, guardrails,
+    evals, and the automated checks that make agent-authored
+    changes safe to ship.
+  - AI Fluency: Work agent-first in your own day-to-day:
+    delegate implementation to agents, and focus your judgment
+    on direction, architecture, and verifying outcomes.
+
+  📍 This role can be based in our Berlin tech hub. Read more
+  about our hybrid setup here.
+
+  Feel free to check out the Wolt Tech Blog for more insight
+  into our culture and technology.
+
+  Must Haves
+
+  - Proven expertise in building production frontend
+    applications using TypeScript and React.
+  - Solid backend knowledge, comfortable owning and operating
+    Node.js or Go services.
+  - Hands-on experience with CI/CD pipelines (e.g., GitHub
+    Actions, Buildkite), deployment processes, and cloud
+    infrastructure for frontend workloads.
+  - Strong knowledge of frontend build tools, bundlers, and
+    module systems, and the ability to evolve them as the
+    platform grows.
+  - Track record of diagnosing and resolving complex
+    performance, reliability, or DX issues in large frontend
+    codebases.
+  - Experience driving technical initiatives across multiple
+    engineering teams and stakeholders.
+  - Strong stakeholder management skills: aligning priorities,
+    managing expectations, and communicating trade-offs
+    clearly with partner teams and leadership.
+  - Strong communication skills and a collaborative, platform-
+    mindset approach to working with feature teams.
+  - Strong documentation skills, including experience writing
+    RFCs or ADRs.
+  - Hands-on experience working agent-first with AI coding
+    tools, and a strong sense of how to verify their output.
+
+  Nice to Haves
+
+  - Experience with micro-frontend architecture.
+  - Frontend platform engineering experience.
+  - Experience building shared component libraries used by many
+    product teams.
+  - Experience or interest in observability and reliability
+    (SRE).
+  - Experience building tooling or workflows for autonomous AI
+    coding agents (e.g., agent instructions, skills, MCP
+    servers, or evaluating agent-generated code).
+
+  Why Join Us?
+
+  - Impact: Build and shape the platform that thousands of
+    people depend on.
+  - Scale: Work on real platform problems behind 300+ MFEs with
+    hundreds of monthly contributors.
+  - Collaboration: Partner with talented engineers, designers,
+    and operators across companies to make their daily work
+    faster and better.
+  - Growth: Take on deep technical challenges across frontend
+    architecture, building a software factory, DX, and
+    improving engineering efficiency.
+  - Culture: Be part of a diverse, open-minded team that values
+    creativity, autonomy, and continuous learning.
+
+  The PDF refers to links for the hybrid setup and Wolt Tech
+  Blog, so please check that those links carry over when you
+  paste.
+
+  Our Commitment to Diversity and Inclusion
+
+  We’re committed to growing and empowering a more inclusive
+  community within our company, industry, and cities. That’s
+  why we hire and cultivate diverse teams of people from all
+  backgrounds, experiences, and perspectives. We believe that
+  true innovation happens when everyone has room at the table
+  and the tools, resources, and opportunity to excel.
+
+  Beware of recruitment scams: DoorDash, Deliveroo, and Wolt
+  will never ask you to pay money or share sensitive financial
+  information during hiring — learn more about our legitimate
+  recruiting process at Recruitment Scam Awareness - DoorDash
+  .
+posted_date: 2026-10-20
+url: "https://builtin.com/job/senior-software-engineer-operations-foundations/11765288"
+source: Built In

@@ -1,0 +1,168 @@
+job_id: 10124927
+title: Senior Manager, Software Engineering - Infrastructure
+company: ClickUp
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,000 Employees
+description: |
+  At ClickUp, we're building the future of work: the first
+  truly converged AI workspace unifying tasks, docs, chat,
+  calendar, and enterprise search, all supercharged by
+  context-driven AI. We are an AI-native company. Every team
+  member is expected to leverage AI daily, and we evaluate AI
+  fluency as part of our hiring process. Join us and help
+  redefine what's possible. 🚀
+
+  This role bridges infrastructure and product engineering:
+  you'll build genuine partnerships across product, AI, and
+  enterprise teams so that ownership is shared and velocity is
+  never blocked by platform constraints. As a leader, you'll
+  set a forward-looking cloud vision, proactively align with
+  stakeholders across the business, and ensure the platform
+  scales for multi-shard, multi-region growth while meeting
+  security and compliance commitments (SOC 2, business
+  continuity/disaster recovery, and enterprise security
+  frameworks). You'll implement and drive the adoption of AI-
+  powered tooling and autonomous agents within the
+  infrastructure organization.
+
+
+
+  The Role:
+
+  - Cost Efficiency: Deliver measurable annual infrastructure
+    savings by executing the migration of data workloads to
+    EKS and self-hosting key services.
+  - Ingress Convergence: Deprecate legacy frontend ALBs and
+    consolidate to a single EKS-managed ALB per shard,
+    unblocking faster deployments across the org.
+  - Coverage & Bench Depth: Eliminate single points of ownership
+    across Networking, OpenSearch, and Terraform through
+    cross-training and targeted hiring.
+  - Stakeholder Alignment: Stand up a recurring alignment
+    cadence with Product, AI, Enterprise, and Security so
+    infra planning is driven by demand, not ad-hoc interrupts.
+  - Automation: Ship automated shard buildout via Backstage to
+    remove manual toil from enterprise scaling.
+  - Reliability: Cut P0/P1 incidents attributed to Cloud
+    Platform (DNS, ALB misconfiguration, EKS) through hardened
+    ingress patterns and Terraform-policy guardrails. Own
+    incident response and RCA follow-through for the team.
+  - Roadmap Ownership: Own and deliver against the team's
+    roadmap for Agent enablement, centralized IaC, and
+    deployment rollout acceleration, and contribute to the
+    broader Cloud Platform strategy tied to AI and Enterprise
+    revenue goals.
+  - Technical Leadership: Architect and contribute code to key
+    initiatives (EKS migration, ALB consolidation, Backstage
+    shard automation), and lead design reviews with senior
+    engineers.
+  - People Leadership: Lead, grow, and retain a senior-heavy
+    team distributed across the US, Canada, and Europe,
+    spanning FTEs and contractors, with a focus on career
+    development, cross-training, and bench depth.
+  - Vendor Management: Partner with Finance and leadership on
+    AWS spend visibility and savings targets, manage
+    contractor performance and budget, and keep a savings-
+    pipeline mindset baked into planning.
+
+
+
+  Qualifications:
+
+  - Experience: 9+ years in infrastructure/platform engineering,
+    including 5+ years in engineering management leading
+    distributed teams of senior engineers while remaining
+    hands-on.
+  - Deep AWS infrastructure mastery: EKS, networking
+    (VPC/TGW/DNS), and Terraform at scale, with strong
+    architectural judgment; able to review designs and guide
+    senior engineers' technical decisions.
+  - Hands-on technical leadership: Actively architects, writes
+    code, and develops systems alongside the team. You are a
+    working engineer as well as a manager.
+  - Strategic roadmap ownership: Experience translating cloud
+    priorities into 3–9 month team roadmaps tied to business
+    outcomes across enterprise, AI, and cost, and delivering
+    against them.
+  - Cross-team influence: Builds genuine partnerships across
+    Product, Security, SRE, and DB orgs, driving shared
+    ownership across traditional infra/product boundaries.
+  - Application-level curiosity: Genuinely understands what the
+    product does, not just the infrastructure underneath, and
+    extends ownership past traditional platform boundaries.
+  - People leadership: Proven experience managing, growing, and
+    retaining senior, geographically distributed teams across
+    FTE/contractor blends; builds bench depth and contributes
+    to succession planning.
+  - Hiring: Experience running structured hiring loops and
+    closing senior engineers, including into specialized gaps
+    (networking, search, IaC).
+  - Operational rigor: Strong on-call instincts, incident
+    ownership, and RCA follow-through.
+  - Security-first instincts: This team touches blast radius
+    (auth enforcement, network isolation, shard boundaries). A
+    verify-first, never-assume mindset is non-negotiable.
+  - AI & automation mindset: Uses AI tools daily in your own
+    engineering work, with demonstrated appetite for DevSecOps
+    agents, AI-assisted IaC migrations, and skills-based
+    automation — a core part of the near-term roadmap.
+  - AI/ML infrastructure experience (strong plus): Scaling
+    workloads like GPU orchestration, model-serving
+    infrastructure, or cost-optimized compute for inference.
+  - Education: BS/MS in CS, Engineering, or equivalent.
+
+  Equal Opportunity Employer
+
+  ClickUp is an Equal Opportunity Employer, and qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, sexual orientation,
+  gender identity, or national origin.
+
+  Privacy Notice
+
+  ClickUp collects and processes personal data in accordance
+  with applicable data protection laws. You can find further
+  details by viewing our Global Candidate Privacy Notice.
+
+  If you are a Philippine Job Applicant, please also see our
+  Philippine Data Privacy Notice for further details.
+
+  Visa Sponsorship
+
+  Please note we are unable to sponsor or take over
+  sponsorship of an employment visa for roles outside of
+  engineering and product at this time. Sponsorship for
+  engineering and product roles is not guaranteed, but is
+  instead based on the business needs for that specific role
+  at that time. Please reach out to the recruiter with any
+  questions.
+
+  Fraud Alert
+
+  ClickUp Talent Acquisition will only initiate contact via an
+  @clickup.com email or through our official careers portal on
+  clickup.com. We will never request fees, payments, or
+  sensitive personal information. Please disregard any offers
+  received outside these channels and report them to
+  support@clickup.com.
+
+  AI Processing Notice
+
+  ClickUp may use artificial intelligence and machine learning
+  technologies to help review and screen candidates'
+  employment applications against role-related criteria. These
+  tools support, but do not replace, human decision‑making. If
+  you have questions or need an accommodation in the
+  recruitment process, please contact us at
+  AskPeople@ClickUp.com.
+industries:
+  - Cloud
+  - Digital Media
+  - Enterprise Web
+  - Marketing Tech
+  - Software
+posted_date: 2026-08-04
+url: "https://builtin.com/job/director-software-engineering/10124927"
+source: Built In

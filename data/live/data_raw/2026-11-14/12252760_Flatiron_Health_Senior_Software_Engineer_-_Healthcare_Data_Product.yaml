@@ -1,0 +1,109 @@
+job_id: 12252760
+title: Senior Software Engineer - Healthcare Data Products
+company: Flatiron Health
+location: London, GBR
+work_type: FULL_TIME
+company_size: 2,500 Employees
+description: |
+  We're looking for a Senior Software Engineer to help us
+  accomplish our mission to improve and extend lives by
+  learning from the experience of every person with cancer.
+  Are you ready to be the next changemaker in cancer care?
+  Flatiron Health is a healthtech company using data for good
+  to power smarter care for every person with cancer, around
+  the world. Flatiron partners with cancer centers in the US,
+  Europe and Asia to transform patients' real-life experiences
+  into real-world evidence and create a more modern, connected
+  oncology ecosystem. Our multidisciplinary teams include
+  oncologists, data scientists, software engineers,
+  epidemiologists, product experts and more. Flatiron Health
+  is an independent affiliate of the Roche Group. We're
+  looking for an experienced software engineer to join the
+  Healthcare Data Products team. Our mission is to build
+  scalable pipelines and platforms that transform raw clinical
+  data into actionable insights, and to empower our clients to
+  do the same. Whether it's managing a 100+ source data lake
+  or architecting Snowflake-native sharing solutions, your
+  work directly impacts how cancer data is utilized across the
+  industry. What You'll Do As a Senior Engineer on the HC Data
+  Products team, you will own the lifecycle of high-scale data
+  applications. From our Snowflake data lake to customer-
+  facing data retrieval interfaces, you will build systems
+  that are robust, compliant, and performant. In addition,
+  you'll:
+
+  - Architect & Scale: Design and maintain complex data
+    pipelines using Python, PySpark, Prefect, and Airflow to
+    ingest data from hundreds of sources into Snowflake.
+  - Innovate Infrastructure: Transition our data delivery models
+    toward modern Snowflake-native data sharing and high-
+    performance Parquet extractions.
+  - Full-Stack Ownership: Support our EHR application and data
+    export features by working across the stack, from Python
+    backends to React frontends.
+  - Modernize Tooling: Use Terraform (via Spacelift), Docker,
+    and GitLab CI/CD to ensure our infrastructure is code-
+    driven, while leveraging Datadog and Metaplane for end-to-
+    end system and data observability.
+  - High-Velocity Dev-Ex: Leverage cutting-edge AI-assisted
+    development tools likeCursor and Claude Code to streamline
+    workflows and focus on solving complex oncology data
+    challenges.
+  - Collaborate: Partner with oncologists, product leaders, and
+    data scientists to translate complex product and
+    regulatory requirements into elegant technical solutions.
+
+  Who You Are You're a kind, collaborative, and passionate
+  problem-solver who thrives at the intersection of software
+  engineering and data platform architecture.
+
+  - The Experience: You have 4+ years of professional experience
+    building scalable, production-grade software.
+  - The Stack: You are highly proficient in Python and have a
+    deep understanding of relational databases (Snowflake
+    preferred).
+  - The Mindset: You have a nose for value and empathy for your
+    internal and external customers. You proactively identify
+    problems that have a high impact on the business.
+  - The Communicator: You can explain complex data flows to non-
+    technical stakeholders and mentor junior engineers on best
+    practices.
+  - The Academic: You hold a degree in Computer Science or a
+    related field (or have equivalent foundational
+    experience).
+
+  Extra Credit
+
+  - Modern Data Stack: Experience with Airflow, Prefect,
+    PySpark, or Terraform.
+  - Front-End Flair: Experience with React or similar JS
+    frameworks for building data-heavy internal tools.
+  - Cloud Native: Hands-on experience with AWS services (S3,
+    EMR, EC2).
+  - Healthcare Context: Familiarity with healthcare data domains
+    (e.g., Clinical, Financial, or Research) and an
+    understanding of provider workflows within an EHR.
+  - Open Source: You contribute to the community or have a
+    passion for building developer tools.
+
+  Who We Are Our people are at the centre of everything we do.
+  We strive to foster a culture where our teammates feel
+  equipped and empowered to make meaningful contributions with
+  confidence, compassion, and clarity. Preferred Primary
+  Location: London office The annual pay range reflected above
+  for this position is based on the preferred primary location
+  of the role which is listed in the job description. Salary
+  ranges for other locations vary from the range reflected
+  above. Base pay offered may vary depending on job-related
+  knowledge, skills, and experience. An annual bonus and
+  equity may be provided as part of the compensation package,
+  in addition to a full range of medical, financial, and/or
+  other benefits, dependent on the position offered.
+industries:
+  - Healthtech
+  - Software
+  - Biotech
+  - Pharmaceutical
+posted_date: 2026-11-13
+url: "https://builtin.com/job/senior-software-engineer-healthcare-data-products/12252760"
+source: Built In

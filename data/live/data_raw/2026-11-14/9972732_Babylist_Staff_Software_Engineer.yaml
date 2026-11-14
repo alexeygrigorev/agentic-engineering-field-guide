@@ -1,0 +1,215 @@
+job_id: 9972732
+title: Staff Software Engineer
+company: Babylist
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 300 Employees
+description: |
+  What The Role Is
+
+  As a Staff Engineer at Babylist, you own some of our hardest
+  domains and decide where they go. Millions of families
+  depend on what we build. Agents write most of the code now.
+  So the hard part is yours: what to build, how it should work
+  and whether what shipped was right. You're still in the code
+  for the genuinely hard problems. Agents handle the volume.
+  You spend your time on the parts that need a person. We're
+  building well beyond the registry now: the financial side of
+  raising a kid, maternal health made simpler and more human,
+  the education new parents are looking for and the community
+  around them. The hard problems run across all of it, plus
+  the platform underneath and the AI we already ship to
+  families.
+
+  You'll own a big piece of the product, but you won't be
+  boxed into it. The roadmap is open. You have a say in which
+  bets we make, and you pick what you take on next.
+
+  What You'll Own
+
+  A Staff Engineer here sets direction. You own a domain: a
+  product surface, a platform area or a capability that cuts
+  across several teams. You set where it's going over the next
+  year or two, sequence the bets that get there and make the
+  technical and product calls along the way. You're still in
+  the code. We don't have architects who've stopped building.
+  If you stepped away, multiple teams would feel it. Your
+  influence shows up in the systems and the work other teams
+  choose to build on. You don't need direct reports to have
+  that reach. It comes from what you build.
+
+  In practice, you:
+
+  - Take a fuzzy business problem from the first sketch through
+    to production, and stay on the hook for whether it
+    actually helped customers.
+  - Build the platform or tooling other teams adopt by choice,
+    and own it as it scales.
+  - Make the architecture calls that span teams and the ones
+    that are expensive to reverse.
+  - Set the standard for how your domain builds with AI. Decide
+    what good looks like, build the patterns and evals that
+    get agents there and catch the output that's confidently
+    wrong before it ships.
+  - Partner with product, design and data as a peer, shaping
+    what's worth building from the start.
+  - Coach Senior engineers through the hard calls, the ambiguous
+    ones as much as the technical ones.
+
+  A few problems people at this level are working on right
+  now:
+
+  - Resolving one customer across registry, shop and health,
+    plus the friends and family buying for them, so
+    personalization works everywhere without each team
+    rebuilding it.
+  - Designing the knowledge system our coding agents reliably
+    load, and working out how much context actually helps
+    before it starts to hurt.
+  - Building Early Investor, our new family finance product,
+    from scratch, on a deadline that can't move.
+
+  Who You Are
+
+  You've shipped production systems for enough years to have
+  earned strong opinions, and you hold them loosely. You can
+  pick up an ambiguous problem and start moving before anyone
+  hands you the full picture. You've already changed how a
+  team builds with AI, and the new way stuck. Most Staff
+  engineers lean one of two ways, and both do well here. Some
+  point their depth at the systems everyone runs on: the
+  platforms, the reliability and security bar, the harnesses
+  that make AI produce good code. Others point it at the
+  customer: framing the problem with PMs as peers, owning a
+  journey end to end, deciding what to build and learning
+  whether it worked. You don't have to be both. You do have to
+  be excellent at one and fluent in the other.
+
+  A few things that tend to be true of people who thrive here:
+
+  - You measure yourself by impact: a customer outcome, or a
+    system a dozen teams come to depend on.
+  - You're curious: you spot problems before they're filed and
+    push your own ideas until they ship.
+
+  Compensation
+
+  We post real numbers. For a US-based Staff Engineer, the
+  starting base salary range is $233,500 to $290,700, plus a
+  target annual bonus of 20 percent of base. That's total
+  target cash of roughly $280,200 to $348,840. On top of that
+  you get meaningful equity and a 401(k) match. Where you
+  start in that range depends on your experience, and your pay
+  grows from there with performance and scope.
+
+  How We Build  AI is the default here. Engineers run agentic
+  sessions for most of the work, and a lot of the interesting
+  engineering now lives in the scaffolding that makes the
+  agents good: the eval harnesses, the curated context, custom
+  review skills and fast CI. Agents also triage incidents and
+  handle a big share of support. A human always owns the
+  outcome.
+
+  The architecture is intentionally simple: one Rails
+  monolith, MySQL and few moving parts. That's deliberate.
+  Simple infrastructure lets us move fast and lets AI reason
+  about the whole system, so the hardest problems are the ones
+  in front of customers.
+
+  The Stack
+
+  - Core app: Rails, Packwerk, React, TypeScript, Sidekiq
+  - Mobile: iOS (Swift), Android (Kotlin)
+  - Data, search & events: MySQL, Snowflake, dbt, Airflow,
+    Weaviate, WarpStream, Hex, Sigma
+  - Machine learning: deep learning, matrix factorization,
+    retrieval & ranking, AWS SageMaker, MLflow
+  - AI & dev tooling: Claude Code, Devin, Linear, CodeRabbit,
+    Warden, LangChain, Bedrock AgentCore, Maxim
+  - Infra & ops: AWS, Kubernetes, Terraform, GitHub Actions,
+    Datadog, incident.io, LaunchDarkly
+  - Key integrations: Shopify (payments), Iterable (CRM)
+
+  Why Babylist
+
+  An engineer, expecting her first baby, couldn't find the
+  registry she wanted. So she built it. That's how Babylist
+  started, and it's still how we work: engineers solving
+  problems for families. Becoming a parent is one of the
+  biggest moments in a person's life. Millions reach it for
+  the first time every year, making thousands of decisions and
+  figuring it out as they go. That's who we build for, and
+  we're a long way from done.
+
+  Ten million people give gifts through Babylist every year.
+  We did more than $750M in revenue in 2025, up 45 percent
+  over the year before, and we've been profitable for eight
+  years while staying independent. So you can take on a hard,
+  multi-year problem without watching over your shoulder for
+  the next round or the next correction. And the team is
+  small, around 65 engineers, so what you ship stays visible
+  and your scope stays wide.
+
+  How We Work
+
+  Remote-first across the US and Canada, and we have been for
+  years. That's not changing. We trust you to own your time
+  and your outcomes, and we get everyone in a room together
+  twice a year. Teams are small, pods of three to five
+  engineers, so nothing you ship disappears into a committee.
+  You'll work shoulder to shoulder with product, design and
+  data, and with the partners across the business who rely on
+  what you ship. You'll also stay close to customers yourself:
+  sitting in on user interviews, watching session recordings,
+  riding along with support. Here that's part of the
+  engineering job, on a regular basis.
+
+  How We Hire
+
+  Three rounds, usually two to three weeks start to finish.
+
+  - Recruiter conversation (30 minutes). Trade context: what you
+    want next, what we're building and straight answers on
+    comp, team and remote.
+  - Technical screen (1 hour). One round, no AI, language-
+    agnostic. Reach for Google when you normally would. We
+    just want to see how you reason from first principles.
+  - Final round (4 hours). Four one-hour interviews: system
+    design, AI-assisted coding with the tools you'd actually
+    use here, product sense and culture and values. You'll
+    hear back either way within 24 to 48 hours.
+
+  If your timeline is tight, tell us and we'll move faster.
+
+  Benefits
+
+  - Company-paid medical and fully covered dental and vision
+  - A 401(k) match
+  - Generous paid parental leave for birthing and non-birthing
+    parents, plus a gradual return-to-work program
+  - Winter Wonder Week, a paid company-wide week off at the end
+    of the year
+  - A remote-work stipend
+  - Mental-health and wellness support
+
+  A Few Things To Know
+
+  - We record and transcribe interviews to evaluate candidates,
+    in line with applicable privacy laws.
+  - We expect you to use AI in your work and we welcome it in
+    the process, but what you submit and say should reflect
+    your own thinking.
+  - If you have a family member or close relationship with a
+    Babylist employee, let your recruiter know.
+  - Official outreach only ever comes from an @babylist.com
+    address
+industries:
+  - eCommerce
+  - Healthtech
+  - Kids + Family
+  - Retail
+  - Social Media
+posted_date: 2026-08-20
+url: "https://builtin.com/job/staff-software-engineer/9972732"
+source: Built In

@@ -1,0 +1,56 @@
+job_id: 9865709
+title: Senior Software Engineer – Automation Runtime
+company: Routine Labs
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 5 Employees
+description: |
+  About Routine Labs  A lot of critical work in Germany still
+  happens in legacy software. Routine Labs automates it: we
+  record the process, AI writes the automation, and only
+  deterministic, testable code runs in production. Our clients
+  are in regulated industries, where "it usually works" isn't
+  good enough. The role You own the layer where generated
+  automations meet real legacy software: making them run,
+  noticing when they break, and producing the diagnosis that
+  gets them fixed at the source. What you'll do * Build the
+  engine that drives legacy desktop apps reliably, including
+  apps that were never designed to be automated and give you
+  very little to work with. * Make automations hold up in
+  remote and virtualized environments like RDP and Citrix,
+  where the usual automation hooks often aren't available. *
+  Own the runtime side of the repair loop: when an automation
+  fails, the runtime should know why and hand the generation
+  pipeline a diagnosis it can act on, instead of waiting for
+  someone to patch it by hand. The fix itself is regenerated
+  and reviewed, never hot-patched in production. * Build and
+  own the replay infrastructure: real client recordings,
+  replayed on our Windows VMs, with execution success tracked
+  for every runtime change. Generation quality metrics run on
+  top of it. What you bring * You've built and run production
+  Python systems that other people depended on. * You've
+  automated desktop apps or built test/automation
+  infrastructure, and you know why it breaks. * You've worked
+  against Windows UI automation APIs (UI Automation, MSAA,
+  Win32) or their equivalents, and you know what they don't
+  expose. * You measure whether something works before
+  claiming it does. * Business-fluent German and good English.
+  Bonus: Citrix/RDP, OCR or vision-based fallbacks, durable
+  workflow engines like Temporal. How we work & what we offer
+  * We're a small team of 8 in Berlin. You'll work directly
+  with our founding engineer. Engineers join client
+  onboardings, because the best product decisions come from
+  seeing real processes up close. Our stack is Python/FastAPI,
+  PostgreSQL and background jobs on a fleet of Windows VMs.
+  Join the team shaping the technical foundation of a company
+  redefining how legacy software gets automated. _We value
+  diverse perspectives and welcome candidates of all genders,
+  identities and backgrounds._
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Generative AI
+  - Automation
+posted_date: 2026-08-14
+url: "https://builtin.com/job/senior-software-engineer-backend-llm-infrastructure/9865709"
+source: Built In

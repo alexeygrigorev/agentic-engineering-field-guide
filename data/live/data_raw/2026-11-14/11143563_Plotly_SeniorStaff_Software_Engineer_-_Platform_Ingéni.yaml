@@ -1,0 +1,284 @@
+job_id: 11143563
+title: "Senior/Staff Software Engineer - Platform | Ingénieur·e logiciel senior ou staff – Plateforme"
+company: Plotly
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 119 Employees
+description: |
+  About Plotly and Dash Enterprise
+
+  Plotly builds the tools millions of developers use to work
+  with data. Our open-source libraries are downloaded millions
+  of times per day, Dash is one of the most popular ways to
+  build data applications in Python, and we are building AI
+  features up and down the stack.
+
+  Dash Enterprise is our commercial platform: it lets
+  organizations deploy, scale, secure, and govern those
+  applications inside their own Kubernetes clusters, on-prem
+  or in their private cloud.
+
+  About the role
+
+  This is a hands-on-keyboard Senior or Staff Engineer
+  position for someone who wants to build. You will own
+  product components and take features from design through
+  implementation and into production. You will work closely
+  with our product and technical leads.
+
+  The work is full of hard problems in distributed systems,
+  reliability, and operability — in environments we do not
+  directly control, because the platform runs our customers'
+  own applications inside their own Kubernetes clusters.
+
+  You will have real, end-to-end ownership of the components
+  and features you take on, from the design decisions through
+  what runs in production.
+
+  Plotly is a heavy adopter of the latest AI coding tools. We
+  encourage engineers to experiment with new tools and
+  processes while upholding the engineering rigour and quality
+  our customers depend on.
+
+  What you'll do
+
+  - Own product components: design, architect, and implement
+    features end-to-end, from design through production.
+  - Integrate with customer infrastructure: build and maintain
+    integrations that let the platform integrate natively with
+    a customer's own services and infrastructure.
+  - Instrument the platform: build observability — tracing,
+    metrics, and logging — and turn the telemetry that comes
+    back from customers' deployments into product
+    improvements.
+  - Build for a self-managed reality: construct software that
+    installs, upgrades, and runs reliably inside customers'
+    own Kubernetes clusters.
+  - Strengthen reliability and availability: make the platform
+    highly available for our largest, most restricted
+    customers.
+  - Collaborate with product and technical leads: partner on
+    what to build and how, with scope that grows with your
+    experience and level.
+  - Mentor and raise the bar: share knowledge and help
+    strengthen engineering practice across the team.
+
+  What we're looking for
+
+  We don't expect every candidate to check every box below. If
+  you're strong across most of these, we'd love to hear from
+  you.
+
+  - Proven production experience: you have designed and managed
+    large production systems and you know first-hand what it
+    takes to build them properly and keep them healthy.
+  - Deep fundamentals and range: you're comfortable taking
+    expertise from one domain and applying it to unfamiliar
+    problems rather than being narrowly specialized.
+  - Platform expertise: experience with Kubernetes, distributed
+    systems, and microservice orchestration.
+  - Hands-on distributed systems debugging: tracing, metrics,
+    performance analysis, and observability.
+  - Networking knowledge: including familiarity with how
+    networking behaves inside Kubernetes.
+  - Security fundamentals: familiarity with resolving
+    vulnerabilities and CVEs and using scanners and tooling to
+    manage them.
+  - Strong application-level engineering: solid system design
+    principles, experience building user-facing production
+    applications for enterprise customers, and fluency in two
+    or three programming languages (we primarily work in Go
+    and TypeScript).
+  - Self-managed / on-prem experience: you have shipped
+    enterprise software that runs in environments you don't
+    operate.
+  - A hands-on builder: you want deep technical impact and to
+    stay hands-on.
+
+  Nice-to-haves
+
+  Experience with:
+
+  - Hosting platforms, PaaS, or internal developer platforms;
+    anywhere you have had to run arbitrary or untrusted user
+    code safely
+  - Temporal or another durable-workflow engine
+  - Identity and SSO integration experience
+  - Container build systems
+  - Integrating AI/LLMs into production and enterprise systems
+  - The Python or Dash ecosystems
+
+  What you can expect from us
+
+  - Health & Wellbeing
+    - Comprehensive health and wellness coverage
+    - Generous paid time off and flexible working hours
+    - Parental leave top-up program
+  - Growth & Opportunity
+    - Stock options for all full-time employees
+    - Learning and development opportunities
+    - Work alongside a dedicated team
+  - Flexibility & Community
+    - Fully remote work environment
+    - Home office support
+    - Plotly Community Forum
+
+  - - -
+
+  À propos de Plotly et de Dash Enterprise
+
+  Plotly développe les outils que des millions de
+  développeur·euse·s utilisent pour travailler avec les
+  données. Nos librairies open source sont téléchargées des
+  millions de fois chaque jour. Dash est l'une des solutions
+  les plus populaires pour créer des applications de données
+  en Python, et nous intégrons des fonctionnalités d'IA à tous
+  les niveaux de nos produits.
+
+  Dash Enterprise est notre plateforme commerciale. Elle
+  permet aux organisations de déployer, de mettre à l'échelle,
+  de sécuriser et de gérer leurs applications directement dans
+  leurs propres clusters Kubernetes, sur site ou dans leur
+  nuage privé.
+
+  À propos du poste
+
+  Il s'agit d'un poste d'ingénieur·e logiciel senior ou staff
+  pour quelqu'un qui souhaite concevoir et développer des
+  solutions concrètes. Vous serez responsable de composants du
+  produit et prendrez en charge le développement de
+  fonctionnalités, de leur conception jusqu'à leur mise en
+  production. Vous travaillerez en étroite collaboration avec
+  les responsables produit et les responsables techniques.
+
+  Vous travaillerez sur des défis complexes liés aux systèmes
+  distribués, à la fiabilité et à l'exploitabilité d'une
+  plateforme déployée dans des environnements que nous ne
+  contrôlons pas directement. Notre plateforme exécute en
+  effet les applications de nos clients dans leurs propres
+  clusters Kubernetes.
+
+  Vous aurez une véritable responsabilité de bout en bout sur
+  les composants et les fonctionnalités qui vous seront
+  confiés, depuis les décisions de conception jusqu'à leur
+  exploitation en production.
+
+  Chez Plotly, nous adoptons activement les outils d'IA les
+  plus récents. Nous encourageons nos ingénieur·e·s à
+  expérimenter de nouveaux outils et de nouvelles façons de
+  travailler, tout en maintenant la rigueur technique et la
+  qualité sur lesquelles nos clients comptent.
+
+  Responsabilités principales
+
+  - Prendre en charge des composants du produit: concevoir,
+    architecturer et développer des fonctionnalités de bout en
+    bout, de leur conception jusqu'à leur mise en production.
+  - Intégrer la plateforme aux environnements des clients:
+    développer et maintenir des intégrations permettant à la
+    plateforme de s'intégrer de façon native aux services et à
+    l'infrastructure des clients.
+  - Renforcer l'observabilité de la plateforme: mettre en place
+    le traçage, les métriques et la journalisation, puis
+    transformer les données de télémétrie provenant des
+    déploiements de nos clients en améliorations concrètes du
+    produit.
+  - Concevoir pour des environnements autogérés: développer des
+    logiciels qui s'installent, se mettent à niveau et
+    fonctionnent de manière fiable dans les clusters
+    Kubernetes des clients.
+  - Améliorer la fiabilité et la disponibilité: rendre la
+    plateforme hautement disponible, y compris pour nos plus
+    grands clients ayant les exigences les plus strictes.
+  - Collaborer avec les responsables produit et les responsables
+    techniques: définir ce que nous devons développer et la
+    meilleure façon de le réaliser, avec une portée qui
+    s'élargit selon votre expérience et votre niveau.
+  - Encadrer et élever le niveau: partager vos connaissances et
+    contribuer à renforcer les pratiques d'ingénierie au sein
+    de l'équipe.
+
+  Exigences du poste
+
+  Nous ne nous attendons pas à ce que chaque candidat·e coche
+  toutes les cases ci-dessous. Si votre profil correspond
+  fortement à la plupart d'entre elles, nous aimerions vous
+  rencontrer.
+
+  - Expérience éprouvée en production: vous avez conçu et
+    exploité des systèmes de production à grande échelle et
+    savez concrètement ce qu'il faut pour les bâtir
+    correctement, les maintenir fiables et en assurer le bon
+    fonctionnement.
+  - Excellente maîtrise des fondamentaux et grande polyvalence
+    technique: vous savez transposer votre expertise d'un
+    domaine à des problèmes moins familiers, plutôt que de
+    vous limiter à une spécialisation étroite.
+  - Solide expertise des plateformes: Kubernetes, systèmes
+    distribués et orchestration de microservices.
+  - Expérience pratique du diagnostic de systèmes distribués:
+    traçage, métriques, analyse de la performance et
+    observabilité.
+  - Solides connaissances en réseautique: notamment du
+    fonctionnement des réseaux dans Kubernetes.
+  - Bonne maîtrise des principes de sécurité: expérience de la
+    résolution de vulnérabilités et de CVE, ainsi que de
+    l'utilisation d'outils d'analyse et de gestion des
+    vulnérabilités.
+  - Solide expérience en développement applicatif: vous
+    maîtrisez les principes de conception de systèmes, avez
+    développé des applications de production destinées à des
+    utilisateurs dans des environnements d'entreprise et
+    maîtrisez deux ou trois langages de programmation. Nous
+    travaillons principalement avec Go et TypeScript.
+  - Expérience des environnements autogérés ou sur site: vous
+    avez livré des logiciels d'entreprise conçus pour
+    fonctionner dans des environnements que vous n'exploitez
+    pas directement.
+  - Profil de bâtisseur·euse très technique: vous souhaitez
+    avoir un impact technique concret et continuer à
+    contribuer activement au développement.
+
+  Atouts
+
+  Expérience avec :
+
+  - des plateformes d'hébergement, des solutions PaaS ou des
+    plateformes de développement internes (IDP), notamment
+    dans des contextes où il faut exécuter de manière
+    sécurisée du code utilisateur arbitraire ou non fiable
+  - Temporal ou un autre moteur de workflows durables
+  - l'intégration de systèmes de gestion des identités et
+    d'authentification unique (SSO)
+  - des systèmes de build de conteneurs
+  - l'intégration de solutions d'IA ou de LLM dans des systèmes
+    de production et d'entreprise
+  - les écosystèmes Python ou Dash
+
+  Ce que nous vous offrons
+
+  - Santé et bien-être
+    - Couverture santé complète
+    - Congés payés généreux et horaire de travail flexible
+    - Programme de complément de congé parental
+  - Développement et croissance
+    - Options d'achat d'actions pour les employé·e·s à temps plein
+    - Opportunités d'apprentissage et de développement
+      professionnel
+    - Travailler avec une équipe dévouée
+  - Flexibilité et communauté
+    - Travail à distance
+    - Soutien au bureau à domicile
+    - Forum de la communauté Plotly
+industries:
+  - Artificial Intelligence
+  - Software
+  - Analytics
+  - Business Intelligence
+posted_date: 2026-09-11
+url: "https://builtin.com/job/senior-staff-software-engineer-platform-ing-nieur-e-logiciel-senior-ou-staff-plateforme/11143563"
+source: Built In

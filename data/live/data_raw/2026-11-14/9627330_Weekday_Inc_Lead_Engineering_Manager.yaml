@@ -1,0 +1,93 @@
+job_id: 9627330
+title: Lead Engineering Manager
+company: Weekday, Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 765 Employees
+description: |
+  This role is for one of the Weekday's clients
+
+  Min Experience: 10 years
+
+  Location: USA
+
+  JobType: full-time As a Lead Engineering Manager, you will
+  play a pivotal role in architecting and delivering complex
+  stream-processing solutions, mentoring engineering teams,
+  and collaborating closely with cross-functional stakeholders
+  to translate business requirements into robust technical
+  systems.
+
+  RequirementsKey Responsibilities
+
+  - Lead the architecture, design, and implementation of real-
+    time data processing pipelines using Apache Flink.
+  - Develop and maintain high-performance backend services and
+    distributed systems using Java.
+  - Design scalable event-driven architectures capable of
+    handling high-throughput and low-latency workloads.
+  - Optimize streaming jobs for performance, fault tolerance,
+    and resource efficiency.
+  - Ensure best practices in code quality, testing,
+    observability, and CI/CD processes.
+  - Collaborate with data engineering, DevOps, and product teams
+    to define technical roadmaps and system requirements.
+  - Conduct design reviews, troubleshoot production issues, and
+    implement long-term reliability improvements.
+  - Mentor and guide engineers, fostering a culture of technical
+    excellence and continuous improvement.
+  - Contribute to infrastructure decisions related to
+    distributed processing, cloud deployment, and
+    containerized environments.
+
+  Required Skills & Qualifications
+
+  - 10–12 years of overall experience in software engineering,
+    with significant exposure to distributed systems.
+  - Strong hands-on expertise in Apache Flink, including stream
+    processing concepts such as windowing, state management,
+    checkpoints, and event-time processing.
+  - Advanced proficiency in Java, including concurrency,
+    multithreading, memory management, and performance tuning.
+  - Deep understanding of data streaming architectures and real-
+    time processing frameworks.
+  - Experience working with messaging systems (e.g., Kafka or
+    similar platforms).
+  - Strong knowledge of data structures, algorithms, and system
+    design principles.
+  - Experience deploying and managing applications in cloud
+    environments (AWS, Azure, or GCP).
+  - Familiarity with containerization technologies such as
+    Docker and orchestration tools like Kubernetes.
+  - Solid understanding of CI/CD pipelines, automated testing
+    frameworks, and monitoring tools.
+  - Experience with SQL and NoSQL databases in high-scale
+    environments.
+
+  Leadership & Soft Skills
+
+  - Proven experience leading engineering teams or owning major
+    technical initiatives.
+  - Strong architectural decision-making abilities with a focus
+    on scalability and maintainability.
+  - Excellent problem-solving and analytical skills.
+  - Ability to communicate complex technical concepts to both
+    technical and non-technical stakeholders.
+  - Strong ownership mindset and commitment to delivering high-
+    quality solutions.
+
+  Preferred Qualifications
+
+  - Experience with big data ecosystems and real-time analytics
+    platforms.
+  - Exposure to performance benchmarking and capacity planning.
+  - Experience working in Agile/Scrum environments.
+industries:
+  - Artificial Intelligence
+  - HR Tech
+  - Professional Services
+  - Software
+posted_date: 2026-08-22
+url: "https://builtin.com/job/lead-engineering-manager/9627330"
+source: Built In

@@ -1,0 +1,140 @@
+job_id: 11175397
+title: Engineering Manager, Platform
+company: Doctronic
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 22 Employees
+description: |
+  Engineering Manager, Platform Doctronic | New York City or
+  San Francisco (hybrid) | Full-time
+
+  The role
+
+  Doctronic gives people free, private access to AI health
+  guidance and affordable visits with human physicians.
+  Millions of consultations already depend on our production
+  systems.
+
+  We are hiring an Engineering Manager to lead the team
+  responsible for the systems used to build, deploy, observe,
+  and operate Doctronic. Your team will improve production
+  reliability and make every engineer more effective.
+
+  This is a hands-on management role. You will set direction,
+  develop engineers, guide architecture, and contribute
+  directly to platform code and operations. You will be
+  accountable for engineering enablement, reliability,
+  security, and infrastructure cost.
+
+  We expect engineering leaders to work AI-natively. You will
+  make agents and automation a normal part of planning,
+  implementation, review, debugging, and operations. Your team
+  will improve the context, tooling, validation, and
+  guardrails that help agents complete useful work safely.
+
+  What you will do
+
+  - Lead and grow a team of platform engineers through clear
+    goals, feedback, coaching, and high standards.
+  - Set priorities with application, AI, data, security, and
+    product teams based on engineering impact.
+  - Improve the reliability, scalability, and operation of
+    production services. Reduce the time and effort required
+    to build, test, deploy, and operate software.
+  - Guide key technical decisions and contribute directly to
+    platform code, infrastructure, and automation.
+  - Build an AI-native engineering environment with agent-ready
+    repositories, clear interfaces, automated validation, and
+    reusable workflows.
+  - Improve how agent work is scoped, supplied with context,
+    verified, and turned into reusable automation.
+  - Track delivery speed, CI performance, reliability, self-
+    service adoption, and operational load.
+  - Lead incident response and ensure that follow-up work
+    produces durable improvements.
+  - Hire strong engineers and build a team that can take on
+    broader scope as Doctronic grows.
+
+  What we are looking for
+
+  - Experience managing and developing platform, infrastructure,
+    or developer productivity engineers.
+  - A strong technical background and current ability to
+    contribute production code, infrastructure, and
+    automation.
+  - The judgment to evaluate architecture, reliability,
+    security, cost, and delivery tradeoffs.
+  - A record of turning ambiguous company needs into clear
+    priorities and shipped improvements.
+  - Experience improving developer environments, CI/CD,
+    observability, service templates, or internal engineering
+    tools.
+  - Daily experience using coding agents and a clear view of
+    where they improve engineering work and where human
+    judgment remains essential.
+  - Evidence that you have improved engineering throughput
+    without lowering quality.
+  - Experience hiring, coaching, giving direct feedback, and
+    helping engineers grow.
+  - Clear communication across engineering and company
+    leadership.
+
+  Many candidates will have eight or more years of engineering
+  experience, including two or more years managing engineers.
+  We care more about the teams and systems you improved than a
+  specific title or exact tool match.
+
+  Experience with AI infrastructure, regulated systems,
+  disaster recovery, or high-traffic applications is useful
+  but not required.
+
+  Technical context
+
+  Our infrastructure runs on AWS. We use ECS and ECR for
+  container workloads, Terraform and Terragrunt for
+  infrastructure as code, GitHub Actions for CI/CD, and
+  CloudWatch for monitoring. The broader environment includes
+  RDS, DocumentDB, Redis, S3, CloudFront, Application Load
+  Balancers, IAM, and Secrets Manager. Most automation is
+  written in Python or shell.
+
+  How we work
+
+  - A small, senior engineering team with high autonomy.
+  - Application teams own the services they ship.
+  - Platform makes that ownership easier with shared
+    infrastructure, tools, and standards.
+  - Managers are responsible for team health, technical quality,
+    and delivery outcomes.
+  - High standards for patient safety, privacy, reliability, and
+    code quality.
+
+  Compensation and benefits
+
+  - New York City and San Francisco base salary: $200,000 to
+    $300,000, plus equity.
+  - Benefits reimbursement.
+
+  About Doctronic
+
+  Doctronic is the #1 AI Doctor and the first AI legally
+  authorized to practice medicine. We process millions of
+  consultations monthly, with 99%+ treatment plan accuracy
+  validated by board-certified clinicians.
+
+  At doctronic.ai, people can receive free, anonymous, HIPAA-
+  compliant AI consultations and connect with human physicians
+  for affordable visits, available 24/7 across all 50 states.
+
+  Doctronic raised its seed, Series A, and Series B between
+  February 2025 and January 2026, with backing from Union
+  Square Ventures, Lightspeed Venture Partners, and Abstract
+industries:
+  - Artificial Intelligence
+  - Healthtech
+posted_date: 2026-09-15
+url: "https://builtin.com/job/engineering-manager-platform/11175397"
+source: Built In

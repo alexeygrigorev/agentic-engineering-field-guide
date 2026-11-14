@@ -1,0 +1,100 @@
+job_id: 11348344
+title: Staff Software Engineer, Localization
+company: AeroVect
+location: POL
+locations:
+  - POL
+  - Atlanta, USA
+  - New York, USA
+  - Paris, FRA
+  - London, GBR
+  - South San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  Who We Are
+
+  AeroVect is transforming ground handling with autonomy,
+  redefining how airlines and ground service providers around
+  the globe run day-to-day operations. We are a Series A
+  company backed by top-tier venture capital investors in
+  aviation and autonomous driving. Our customers include some
+  of the world’s largest airlines and ground handling
+  providers. For more information, visit www.aerovect.com.
+
+  We are looking for a Staff Software Engineer to join the
+  Localization team and own significant parts of our
+  localization, mapping, and calibration stack as we scale
+  autonomous ground operations across major airports. You'll
+  take deep ownership of specific workstreams, contribute to
+  the team's technical direction, and partner across the
+  perception, planning, and platform interfaces to help drive
+  the autonomous system from supervised operation to
+  driverless. You'll work alongside the team's senior
+  localization engineers.
+
+  You Will
+
+  - Take ownership of one or more core areas of the localization
+    stack (LiDAR-inertial-GNSS state estimation, 3D mapping
+    and map maintenance, or sensor calibration) and drive it
+    to production reliability on real hardware at active
+    airports
+  - Contribute across the broader localization and mapping
+    pipeline from sensor integration, performance tuning,
+    regression testing, and deployment to new operating
+    environments
+  - Help design and build online validation that monitors
+    localization integrity and cross-sensor consistency during
+    live missions, detects drift, and integrates with the
+    vehicle's safety architecture
+  - Develop tooling for diagnostics, health logging, and post-
+    mission analysis across the stack
+  - Contribute to the regression, validation, and release-gating
+    approach for localization changes deployed to active
+    airports
+  - Deploy, test, and iterate using data from real autonomous
+    operations
+
+  You Have
+
+  - 8+ years in robotics or autonomous vehicles, with a track
+    record of owning localization or state-estimation systems
+    through production deployment on real hardware
+  - Deep practical grounding in multi-sensor fusion and state
+    estimation across LiDAR, IMU, GNSS, and cameras
+  - Demonstrated technical leadership - driving architecture
+    across teams, setting direction, and being the person
+    others escalate to on hard estimation problems
+  - Strong command of non-linear optimization (Ceres, GTSAM,
+    g2o) and/or filtering (EKF, UKF), with the judgment to
+    know when each applies
+  - Strong modern C++ (C++17+) and deep working experience with
+    Linux and ROS/ROS2
+  - Understanding of how calibration quality propagates through
+    localization and perception, and how localization errors
+    propagate into the safety case
+  - BS or MS in Computer Science, Robotics,
+    Electrical/Mechanical Engineering, or a related field
+
+  We Prefer
+
+  - MS or PhD with a focus on localization, state estimation, or
+    calibration
+  - Hands-on experience with multi-sensor calibration -
+    intrinsic, extrinsic, and temporal
+  - Experience with factor graphs, graph-based SLAM, or open-
+    source tools like GLIM, LIO-SAM, Cartographer, Kalibr,
+    Ceres, GTSAM
+  - Experience building online/runtime monitoring and defining
+    safety-relevant thresholds within a safety monitoring
+    architecture
+  - Track record of taking an autonomous system toward
+    driverless operation
+industries:
+  - Aerospace
+  - Automation
+posted_date: 2026-09-24
+url: "https://builtin.com/job/staff-software-engineer-localization/11348344"
+source: Built In

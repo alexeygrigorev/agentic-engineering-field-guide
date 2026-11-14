@@ -1,0 +1,141 @@
+job_id: 9277646
+title: Senior Backend Infrastructure Engineer
+company: Beli
+location: New York, USA
+work_type: FULL_TIME
+company_size: 41 Employees
+description: |
+  Senior Backend Infrastructure Engineer (GCP)
+
+  By changing the way people explore restaurants, Beli has
+  emerged as one of the fastest-growing consumer platforms in
+  the country. Beli helps people build organized restaurant
+  lists and maps, share them with friends, and discover new
+  spots around the world according to their personal taste.
+
+  We’re building a highly personalized consumer platform with
+  real-time social activity, recommendation systems, maps, and
+  large-scale data infrastructure. As our user base grows
+  rapidly, we’re investing heavily in scalability,
+  reliability, security, and developer infrastructure.
+
+  Job Overview
+
+  We’re looking for an experienced Backend Infrastructure
+  Engineer to help scale the core systems powering Beli.
+
+  In this role, you’ll own critical parts of our backend and
+  infrastructure stack on Google Cloud Platform (GCP),
+  including application scalability, cloud architecture,
+  reliability, observability, security, CI/CD, and developer
+  tooling. You’ll work closely with the CTO and engineering
+  team to ensure Beli remains fast, reliable, and secure as we
+  continue to grow.
+
+  This is a highly impactful role with significant ownership
+  and autonomy. The ideal candidate enjoys building robust
+  systems in fast-moving startup environments and is excited
+  to shape the technical foundation of a rapidly growing
+  consumer product.
+
+  ResponsibilitiesBackend Architecture & Scalability
+
+  - Design and implement scalable backend systems and
+    infrastructure
+  - Improve performance, reliability, and efficiency across our
+    services and databases
+  - Optimize Postgres, caching layers, background job systems,
+    and APIs
+  - Design systems that support rapid product iteration while
+    maintaining operational excellence
+  - Lead architectural decisions around scalability, resiliency,
+    and distributed systems
+
+  Infrastructure & DevOps
+
+  - Own and improve our cloud infrastructure and deployment
+    systems on GCP
+  - Build and maintain CI/CD pipelines, observability tooling,
+    and operational dashboards
+  - Improve monitoring, alerting, logging, and incident response
+    processes
+  - Manage infrastructure automation and environment consistency
+  - Improve engineering velocity through internal tooling and
+    platform improvements
+
+  Security & Reliability
+
+  - Strengthen application and infrastructure security across
+    the stack
+  - Implement best practices around authentication,
+    authorization, secrets management, and data protection
+  - Lead efforts around uptime, disaster recovery, backups, and
+    operational resilience
+  - Conduct infrastructure reviews, audits, and reliability
+    improvements
+
+  Engineering Collaboration
+
+  - Partner closely with product and engineering teams to
+    support new feature development
+  - Help establish engineering best practices and technical
+    standards
+  - Mentor engineers on backend architecture, infrastructure,
+    and operational excellence
+  - Participate in technical planning and long-term architecture
+    discussions
+
+  Qualifications
+
+  - 4+ years of experience as a software engineer focused on
+    backend systems, infrastructure, or platform engineering
+  - Strong experience designing and operating scalable
+    production systems on Google Cloud Platform (GCP)
+  - Experience with GCP services such as Cloud Run, GKE, Cloud
+    SQL, Pub/Sub, Cloud Tasks, Load Balancing, IAM, and
+    Monitoring
+  - Strong experience with Python and backend frameworks such as
+    Django
+  - Deep knowledge of CI/CD, observability, distributed systems,
+    and cloud infrastructure
+  - Experience with infrastructure-as-code and automated
+    deployments
+  - Strong understanding of production security best practices
+    and operational reliability
+  - Experience optimizing Postgres performance and database
+    design
+  - Ability to operate independently and take ownership in fast-
+    paced startup environments
+  - Strong analytical, debugging, and problem-solving skills
+  - Excellent communication and collaboration skills
+  - Grit, hustle, intellectual curiosity, and a strong builder
+    mentality
+
+  Nice to Have
+
+  - Experience scaling consumer social or marketplace products
+  - Experience with asynchronous systems and job queues
+  - Experience building internal developer platforms or tooling
+  - Experience at high-growth startups
+
+  Technologies We Use
+
+  - Python / Django
+  - Postgres
+  - Google Cloud Platform (GCP)
+  - Cloud Tasks
+  - Docker
+  - GitHub Actions
+  - TypeScript / Angular
+
+  Compensation
+
+  Compensation will be determined based on experience and
+  skills. This position includes meaningful equity as part of
+  the total compensation package.
+industries:
+  - Food
+  - Software
+posted_date: 2026-08-18
+url: "https://builtin.com/job/senior-backend-infrastructure-engineer/9277646"
+source: Built In

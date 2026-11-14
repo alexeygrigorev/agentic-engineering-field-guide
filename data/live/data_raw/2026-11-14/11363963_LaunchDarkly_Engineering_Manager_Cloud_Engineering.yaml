@@ -1,0 +1,201 @@
+job_id: 11363963
+title: Engineering Manager, Cloud Engineering
+company: LaunchDarkly
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 500 Employees
+description: |
+  About the Job:
+
+  We’re looking for an Engineering Manager to lead
+  LaunchDarkly’s Cloud Engineering team, the team responsible
+  for the foundational infrastructure our products and
+  engineering teams depend on.
+
+  Cloud Engineering owns LaunchDarkly’s AWS accounts and
+  networking, multi-region Kubernetes infrastructure,
+  Terraform and GitOps workflows, CockroachDB operations,
+  disaster-recovery capabilities, and FedRAMP infrastructure
+  posture. The team is small, senior, and recently rebuilt.
+  This is a frontline leadership role for a manager who treats
+  operational health as a top priority, leads calmly through
+  incidents, and creates leverage through software,
+  automation, and reliable paved paths.
+
+  In your first year, you’ll lead a marquee infrastructure
+  insourcing program from planning through completion. The
+  program’s cost savings will help fund additional team
+  growth, giving you the opportunity to deliver meaningful
+  business impact while strengthening the infrastructure
+  behind LaunchDarkly’s next stage of scale.
+
+  This role combines people leadership, operational ownership,
+  and technical judgment. You do not need to be the most
+  senior individual contributor in the room, but you should be
+  comfortable partnering with experienced engineers, guiding
+  tradeoffs, and creating an environment where the team can do
+  its best work.
+
+  Responsibilities:
+
+  - Lead and develop a senior Cloud Engineering team, providing
+    clear expectations, coaching, feedback, performance
+    management, and career-development support.
+  - Own the operational health of LaunchDarkly’s cloud
+    infrastructure, including incident response, on-call
+    health, service-level objectives, resilience, and disaster
+    recovery.
+  - Launch and deliver a multi-quarter infrastructure insourcing
+    program, including sequencing work, managing dependencies,
+    communicating milestones, and ensuring a successful
+    transition.
+  - Guide technical priorities and tradeoffs across AWS
+    infrastructure, networking, multi-region Kubernetes,
+    infrastructure as code, GitOps, datastore operations, and
+    compliance-related infrastructure.
+  - Build leverage through software, automation, and paved paths
+    that help product engineering teams use infrastructure
+    safely and independently.
+  - Support migrations by providing guidance, patterns, and
+    enablement while maintaining clear ownership boundaries
+    with partner teams.
+  - Establish team norms for effective AI-assisted engineering
+    and identify opportunities to reduce operational toil
+    through AI and automation.
+  - Maintain team health and continuity through change,
+    fostering an inclusive, collaborative, and accountable
+    environment.
+  - Partner with Service Frameworks, Core Platform, Revenue
+    Platform, Data Platform, and product engineering teams on
+    shared infrastructure priorities and cross-team
+    dependencies.
+  - Communicate roadmaps, operational risks, investment needs,
+    and progress clearly to engineering leadership and cross-
+    functional stakeholders.
+  - Participate in hiring and team planning as the organization
+    grows.
+
+  Qualifications:
+
+  - 2+ years of experience managing an infrastructure, platform
+    engineering, or site reliability engineering team at a
+    product company, including people management of an on-call
+    team.
+  - Demonstrated ownership of incident response, on-call health,
+    and service-level objective frameworks for critical
+    production systems.
+  - Experience leading at least one multi-quarter infrastructure
+    migration or insourcing program from planning through
+    completion.
+  - Technical fluency with AWS, Kubernetes, and infrastructure-
+    as-code practices, with the judgment to guide discussions
+    and tradeoffs with senior engineers.
+  - Experience taking over an established team and maintaining
+    engagement, performance, and retention through a
+    leadership transition.
+  - A clear point of view on team norms and practices for AI-
+    assisted engineering.
+  - Strong written and verbal communication skills, with the
+    ability to explain technical and operational priorities to
+    a range of audiences.
+  - A thoughtful, calm, and accountable leadership approach,
+    particularly during incidents and periods of change.
+
+  Nice to Haves
+
+  - Experience with vendor negotiations or cloud cost
+    management.
+  - Experience supporting FedRAMP or other compliance-related
+    infrastructure and operations.
+  - Experience operating large-scale datastores or OLAP systems.
+  - Experience growing a team through funded expansion.
+
+  Pay:
+
+  Target pay ranges based on Geographic Zones* for Level M2:
+
+  - Zone 1: San Francisco/Bay Area or NYC Metropolitan Area,
+    Boston, Seattle - $191,800 - $263,670**
+  - Zone 2: Irvine, LA, Monterey, Santa Barbara, Santa Rosa,
+    Austin, Portland, Philadelphia, Chicago - $172,600 -
+    $237,270**
+  - Zone 3: All other US locations - $163,000 - $224,070**
+  - All Zones Inclusive of a 10% Bonus Target
+
+  LaunchDarkly operates from a place of high trust and
+  transparency; we are happy to state the pay range for our
+  open roles to best align with your needs. Exact compensation
+  may vary based on skills, experience, and location.
+
+  *Within the United States, our geographic pay zones are
+  defined by counties surrounding major metropolitan areas.
+  **Restricted Stock Units (RSUs), health, vision, and dental
+  insurance, and mental health benefits in addition to salary.
+
+  About LaunchDarkly:
+
+  Modern software delivery was supposed to be the foundation
+  for a thriving digital business but reality has proven
+  otherwise. Slow, inefficient development cycles, costly
+  outages, and fragmented customer experiences are preventing
+  developers from building their best software. The
+  LaunchDarkly platform helps developers innovate on new
+  features faster while protecting them with a safety valve to
+  instantly rewind when things go wrong. Developers can target
+  product experiences to any customer segment and maximize the
+  business impact of every feature. And by gradually rolling
+  out new application components, they escape nightmare "big-
+  bang" technology migrations.
+
+  The LaunchDarkly platform was built to guide engineers to
+  the next frontier of DevOps by:
+
+  - Improving the velocity and stability of software releases,
+    without the fear of end customer outages
+  - Delivering targeted experiences by easily personalizing
+    features to customer cohorts
+  - Maximizing the business impact of every feature through the
+    ability to experiment and optimize
+  - Coordinating the release and optimization of software to
+    provide consistent experiences across mobile platforms and
+    device types
+  - Improving the effectiveness and productivity of engineering
+    teams, by providing insights into engineering cadence and
+    stability
+
+  At LaunchDarkly, we believe in the power of teams. We're
+  building a team that is humble, open, collaborative,
+  respectful and kind. We are an equal opportunity employer
+  and value diversity at our company. We do not discriminate
+  on the basis of race, religion, color, national origin,
+  gender, gender identity, sexual orientation, age, marital
+  status, veteran status, or disability status. LD invites any
+  applicant to review our written Affirmative Action Plan. To
+  do so, contact People Ops at hr@launchdarkly.com.
+
+  Do you need a disability accommodation?
+
+  Fill out this accommodations request form and someone from
+  our People Operations team will contact you for assistance.
+
+  Your safety matters to us. To protect yourself from
+  potential scams, LaunchDarkly recruiters will only contact
+  you from @launchdarkly.com email addresses or via LinkedIn
+  from "Verified Recruiter" accounts. Be cautious of emails
+  from other domains.  Legitimate LaunchDarkly recruiters will
+  never ask for money, fees, or banking information before
+  making a job offer. LaunchDarkly will never make a job offer
+  without conducting a formal interview process. Our interview
+  process does not involve asking detailed questions by email.
+  If you are ever unsure about a communication that you
+  receive, don't click any links—visit Careers | LaunchDarkly
+  directly for confirmed job openings and links to apply.
+  Please notify us of any fraudulent representation by sending
+  an email to careers@launchdarkly.com.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-09-24
+url: "https://builtin.com/job/engineering-manager-cloud-engineering/11363963"
+source: Built In

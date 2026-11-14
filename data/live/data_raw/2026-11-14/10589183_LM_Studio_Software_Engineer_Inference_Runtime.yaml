@@ -1,0 +1,81 @@
+job_id: 10589183
+title: Software Engineer, Inference Runtime
+company: LM Studio
+location: New York, USA
+work_type: FULL_TIME
+company_size: 44 Employees
+description: |
+  LM Studio is used by millions of people around the world to
+  run AI on their own computers, and now with Bionic - also in
+  the cloud. Our values prioritize putting the human in the
+  center, and creating tools that we want to use ourselves,
+  and recommend to our friends and family.
+
+  As a team, we work with high technical intensity and
+  personal responsibility. We are looking for curious, self-
+  motivated, creative, and technically excellent teammates to
+  join us and build the future of human-AI interactions in
+  software.
+
+  The Role
+
+  We are looking for an Inference Runtime Software Engineer to
+  push forward LM Studio's inference stack on-device and in
+  the cloud. You will integrate new inference engines and
+  runtime capabilities, bring up new open-weight models and
+  modalities, and optimize model execution for a wide range of
+  CPU and GPU targets. You will also contribute improvements
+  to the open-source projects we build on.
+
+  Qualifications
+
+  - Significant experience building production ML systems,
+    inference runtimes, or performance-sensitive
+    infrastructure
+  - Strong programming ability in Python and C++
+  - Deep understanding of transformer architectures and the
+    mechanics of model inference
+  - Experience profiling CPU or GPU workloads and reasoning
+    about compute, memory, synchronization, and data movement
+  - Experience with PyTorch and inference systems such as
+    llama.cpp, MLX, ExecuTorch, vLLM, SGLang, or TensorRT-LLM
+  - Strong debugging instincts across model code, runtime
+    internals, operating systems, and CPU or GPU execution
+  - Takes personal responsibility for the correctness and
+    performance of their work
+
+  Bonus Qualifications
+
+  - Past contributions to open-source inference runtime projects
+    such as llama.cpp, MLX, ExecuTorch, vLLM, SGLang, or
+    TensorRT-LLM
+
+  Responsibilities
+
+  - Maintain and push forward our inference stack on-device and
+    in the cloud
+  - Bring up new model architectures and multimodal models
+  - Improve latency, throughput, memory use, and reliability
+    across CPU, CUDA, Metal, Vulkan, and ROCm runtimes
+  - Build runtime capabilities for model loading, batching,
+    scheduling, caching, and distributed execution
+  - Benchmark and diagnose correctness and performance problems
+    across the inference stack
+  - Contribute upstream to open-source projects such as
+    llama.cpp and MLX
+
+  Benefits
+
+  - Competitive salary and equity grants
+  - Great medical, vision, dental healthcare plans
+  - Catered team lunch / expensed dinners in the office
+  - Flexible PTO
+  - Flexible WFH
+  - Sun-drenched office in SoHo in NYC
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-08-08
+url: "https://builtin.com/job/software-engineer-inference-runtime/10589183"
+source: Built In

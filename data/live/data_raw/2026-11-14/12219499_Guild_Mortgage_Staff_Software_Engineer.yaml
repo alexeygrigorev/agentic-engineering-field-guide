@@ -1,0 +1,278 @@
+job_id: 12219499
+title: Staff Software Engineer
+company: Guild Mortgage
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 3,600 Employees
+description: |
+  Guild Mortgage Company, closing loans and opening doors
+  since 1960. As a mortgage banking firm we are dedicated to
+  serving the home owner/buyer. Our goal is to provide
+  affordable home financing for our customers, utilizing the
+  best terms available while providing a level of
+  professionalism and service unsurpassed in the lending
+  industry.
+
+  Position Summary
+
+  The Staff Engineer is a senior individual contributor within
+  Guild’s IT Factory, the team that builds shared engineering
+  tools, software components, and platform capabilities used
+  by application delivery teams. The role designs, builds, and
+  evolves these capabilities to reduce repeated implementation
+  effort, improve developer experience, and strengthen
+  software quality, security, reliability, and maintainability
+  across multiple teams and initiatives.
+
+  Working primarily within the Microsoft .NET and Azure
+  ecosystem, the Staff Engineer turns architectural direction
+  and recurring delivery needs into production-ready
+  libraries, services, frameworks, automation, and supported
+  implementation patterns. The role remains actively engaged
+  in coding, testing, technical investigation, and complex
+  implementation, with responsibility for the engineering
+  quality, maintenance, and technical evolution of assigned
+  shared capabilities.
+
+  The Staff Engineer partners with architects, engineering
+  leads, developer enablement specialists, application teams,
+  QA, DevOps, SRE, Security, IAM, and Networking. Success is
+  demonstrated through capabilities that teams can adopt and
+  sustain, reduced delivery friction, and lasting improvements
+  in engineering effectiveness.
+
+  Compensation
+
+  This role is an exempt position with a targeted salary range
+  of $144,001 to $210,601.
+
+  Compensation at Guild is influenced by a wide array of
+  factors including but not limited to local and federal
+  minimum wage requirements, education, level of experience,
+  and applicant’s geographical location.
+
+  Essential Functions
+
+  - Reusable software and platform engineering
+    - Design, implement, test, and maintain reusable software
+      libraries, services, developer tools, frameworks, and
+      automation that address recurring needs across delivery
+      teams.
+    - Build and evolve Golden Paths: supported starter kits,
+      reference implementations, and reusable delivery
+      patterns that help teams develop, test, deploy, and
+      support software consistently.
+    - Apply hands-on full-stack engineering across application
+      services, APIs, integrations, data access, developer
+      interfaces, cloud workload configuration, deployment
+      automation, and observability as needed for assigned
+      capabilities.
+    - Independently frame and resolve systemic engineering
+      problems within agreed platform priorities. Align
+      affected teams on technical approaches and carry
+      solutions through implementation, adoption, and measured
+      improvement.
+    - Evaluate when to reuse, extend, integrate, or build a
+      capability, balancing adoption needs, implementation
+      effort, operating cost, and long-term maintenance. Avoid
+      abstractions whose complexity exceeds their demonstrated
+      value.
+  - Engineering Quality and Capability Lifecycle
+    - Develop and lead technical designs for assigned shared
+      capabilities, contributing implementation evidence and
+      recommendations to platform architectural direction.
+    - Document significant decisions, validate assumptions through
+      prototypes and testing, and surface design gaps before
+      delivery commitments. The designated architect retains
+      accountability for long-term architectural direction and
+      consistency.
+    - Develop reusable unit, integration, contract, and
+      performance testing capabilities with QA and engineering
+      partners. Build logging, metrics, tracing, diagnostic
+      support, and resilient failure handling into shared
+      assets.
+    - Implement approved security, identity, secrets management,
+      dependency management, and software supply chain
+      requirements in reusable code and automation, working
+      with the functions that own the applicable policies,
+      tools, and controls.
+    - Own engineering execution of the lifecycle for assigned
+      assets, including maintenance, compatibility, releases,
+      and migration support, within agreed priorities and
+      architectural direction. Coordinate breaking changes and
+      deprecation with architects, platform leadership, and
+      affected teams.
+    - Work with DevOps, SRE, and operational owners to validate
+      deployment, rollback, monitoring, support documentation,
+      and operational readiness.
+    - Provide engineering support for incidents involving assigned
+      assets and implement corrective improvements.
+  - Developer Experience and Cross Team Improvement
+    - Work directly with consuming engineers to understand
+      friction, test capabilities in real delivery conditions,
+      and improve usability, documentation, integration, and
+      self-service adoption.
+    - Partner with developer enablement specialists on examples,
+      technical walkthroughs, onboarding materials, and
+      adoption feedback. Help teams use and contribute to
+      shared capabilities with decreasing dependence on
+      individual experts.
+    - Identify recurring engineering constraints, duplicated
+      solutions, technical debt, and gaps in shared
+      capabilities. Recommend improvements to platform
+      leadership and architects with evidence of likely
+      benefit and implementation tradeoffs.
+    - Provide estimates, technical dependencies, readiness
+      evidence, and risks to the engineering lead responsible
+      for coordinating platform delivery.
+    - Make constraints and deviations explicit so execution plans
+      reflect actual capability and capacity.
+    - Mentor engineers and technical leads through pairing, design
+      reviews, code reviews, and complex problem solving.
+      Enable contributions to shared assets while preserving
+      implementation quality and maintainability.
+    - Use adoption feedback and engineering measures, such as
+      startup effort, repeated defects, support burden, and
+      delivery friction, to evaluate whether improvements
+      deliver sustained value.
+    - Evaluate and apply approved AI-assisted engineering tools
+      where they improve development, testing, or
+      documentation, retaining human accountability for
+      correctness, security, and maintainability.
+    - Perform other duties as assigned.
+
+  Qualifications
+
+  - Bachelors Degree in Computer Science, Information
+    Technology, or related field strongly preferred.
+  - Minimum ten years of experience of progressive software
+    engineering or closely related platform engineering
+    experience, including demonstrated experience delivering
+    and sustaining shared software or platform capabilities
+    used by multiple teams.
+  - Minimum three years supervisory or leadership experience.
+  - At least three years providing senior technical leadership
+    or cross-team engineering influence.
+  - Required
+    - Deep hands-on proficiency in C# and .NET, with demonstrated
+      ability to design, code, test, troubleshoot, and evolve
+      complex production software.
+    - Working proficiency with modern frontend technologies and
+      their integration with backend services, sufficient to
+      implement and support developer interfaces and full-
+      stack reference applications.
+    - Strong system design skills across APIs, distributed
+      systems, asynchronous messaging, integration patterns,
+      data access, and interface compatibility; ability to
+      reason about cross-system behavior and downstream
+      impact.
+    - Production experience with Microsoft Azure and working
+      knowledge of cloud compute, containers, data, identity,
+      networking, security, and observability. Ability to
+      implement workload components within established
+      guardrails and delegated access.
+    - Experience building reusable libraries, frameworks,
+      developer tooling, automation, or shared services,
+      including packaging, versioning, upgrades,
+      documentation, and support for consuming teams.
+    - Experience with Git, continuous integration and continuous
+      delivery (CI/CD), automated testing, and repeatable
+      environments. Hands-on proficiency with Terraform to
+      implement and maintain infrastructure-as-code for
+      assigned capabilities within established guardrails and
+      delegated access.
+    - Ability to diagnose performance, reliability, security, and
+      integration problems using technical evidence and turn
+      findings into sustainable engineering improvements.
+    - Demonstrated ability to work independently on ambiguous
+      technical problems, exercise sound judgment, and
+      influence engineers and technical leaders across teams
+      without personnel authority.
+    - Clear written and verbal communication, effective mentoring,
+      and the ability to explain technical decisions,
+      constraints, and tradeoffs to technical and nontechnical
+      audiences.
+  - Preferred
+    - Experience with internal developer platforms, supported
+      development patterns, or shared engineering assets
+      maintained through contributions from multiple teams.
+      Experience treating developer capabilities as products
+      with identified users, feedback, and ongoing support.
+    - Experience with React and TypeScript, GitLab pipelines,
+      OpenTelemetry, and Azure container, messaging, or
+      managed application services.
+    - Experience enabling phased modernization across .NET and
+      existing PHP or other application stacks, including
+      hybrid and legacy integrations.
+    - Experience with secure software supply chains, automated
+      control evidence, AI-assisted engineering, or software
+      delivery in financial services or another regulated
+      environment.
+  - Excellent verbal and written communication skills required.
+  - Highly organized and detail-oriented; ability to work in a
+    fast-paced, metrics-driven environment required.
+  - Proficiency in Microsoft Office Suite, Word, Excel, Wiki,
+    collaborative cloud-based programs, and third-party
+    software applications required.
+  - Commitment to company values.
+  - Customer Service - Proactive attention to each person
+  - Integrity - Do and say what's right
+  - Respect - Treat others with dignity
+  - Collaboration - Listen and work together
+  - Learning - Seek knowledge and strive for improvement
+  - Excellence - Deliver the unexpected
+
+  Requirements
+
+  Physical Demands
+
+  Work is primarily sedentary, mobility in an office setting.
+
+  Manual Dexterity
+
+  Ability to operate standard office equipment and keyboards
+
+  Audi/Visual
+
+  Ability to accurately interpret sounds and associated
+  meanings at a volume consistent with interpersonal
+  conversation.
+
+  Environmental
+
+  Office environment – moderate noise, no substantial exposure
+  to adverse environmental conditions.
+
+  Mental
+
+  This role requires effective adaptation to workplace
+  stressors, including customer service complaints, security
+  responsibilities, and competing priorities. Schedules
+
+  Work is primarily performed during the business week, Monday
+  - Friday; occasional night or weekend may be necessary.
+
+  Travel
+
+  5-10%
+
+  Guild offers a pleasant work environment, competitive
+  compensation and excellent benefits package; including
+  medical, dental, vision, life insurance, AD&D, LTD and
+  401(k) with employer match.
+
+  Guild Mortgage Company is an Equal Opportunity Employer.
+
+  REQ#:  STAFF018596
+
+  Equal Opportunity Employer This employer is required to
+  notify all applicants of their rights pursuant to federal
+  employment laws. For further information, please review the
+  Know Your Rights notice from the Department of Labor.
+industries:
+  - Fintech
+  - Real Estate
+posted_date: 2026-11-13
+url: "https://builtin.com/job/staff-software-engineer/12219499"
+source: Built In

@@ -1,0 +1,129 @@
+job_id: 11056497
+title: "Senior Frontend Engineer, Conversational & Gen UI"
+company: Farther
+location: New York, USA
+work_type: FULL_TIME
+company_size: 530 Employees
+description: |
+  Company Description
+
+  Farther is a rapidly growing RIA that combines expert
+  advisors with cutting-edge technology - delivering a
+  comprehensive, tailored wealth management experience.
+
+  Farther’s founders are leaders and innovators from the
+  private wealth industry who possess a unique blend of
+  traditional wealth management, fintech, and technology
+  production expertise. We’re backed by top-tier venture
+  capital firms, fintech investors, and industry leaders.
+
+  Joining Farther means joining a collaborative team of
+  entrepreneurs who are passionate about helping their clients
+  and our teammates achieve more. If you’re the type who
+  breaks through walls to get things done the right way, we
+  want to build the future of wealth management with you.
+
+  The Role
+
+  Farther's AI assistant answers advisor questions and drives
+  the product on their behalf — navigating, opening workflows,
+  and more. This role continues and deepens the interaction
+  between the assistant and our traditional UI platform. Next,
+  it composes the interface itself. You will contribute to
+  both the framework that makes that possible and the
+  assistant itself. You are not designing screens, you are
+  designing the system that decides what a screen can be, and
+  the guardrails for the moment it is handed something nobody
+  anticipated.
+
+  Your Impact
+
+  - Deliver the assistant experience, prototype → production —
+    the surface advisors reach for, and the thing every other
+    item on this list exists to make possible
+  - Build the framework underneath it, so any Farther surface
+    can declare what the agent can do and what it can see in a
+    few lines
+  - Design the renderer that turns a model's output into a real,
+    validated, submittable interface, extensible so a new kind
+    of input is additive and never a refactor
+  - Negotiate and version the wire contract with the agent
+    backend team, and hold both sides to it with tests
+  - Treat developer experience as a first-class deliverable —
+    design the API, document it, and judge it by how many
+    teams build on it without asking you for help
+  - Mentor the engineers coming up behind you and set the
+    quality bar in review
+
+  The Ideal Match
+
+  - 6+ years building production web applications, including
+    time somewhere the frontend was the product
+  - Expert-level frontend engineering, where strict typing is
+    how you already work
+  - Production experience with LLMs — agentic systems, tool
+    calling, streaming responses, conversational interfaces —
+    and a point of view on what an interface owes a user when
+    the model is slow, wrong, or halfway through an answer
+  - Composition over configuration; modular, scalable frontend
+    patterns are how you think by default
+  - Distributed systems fundamentals — timeouts, retries,
+    idempotency, failure isolation
+  - Genuine product instincts — you care about the user
+    experience, and raise ambiguity as a decision rather than
+    absorbing it as a guess
+  - Fluent in an AI-assisted development loop — building with
+    Claude Code, shipping through Git-based PRs and automated
+    review
+  - End-to-end ownership and a track record of meeting deadlines
+  - Strong knowledge-sharing / documentation habit
+  - Comfortable context-switching across multiple concurrent
+    workstreams
+
+  Technical Stack
+
+  - React · TypeScript · Python
+  - TanStack Query · react-hook-form · Zod
+  - Styling — Tailwind and CSS
+  - UI modules built and deployed independently, then assembled
+    into one application
+  - Testing Library · ESLint · Prettier · GitHub Actions CI
+
+  Bonus Points
+
+  - Used or extended a framework for agent-to-UI communication,
+    and can say precisely where it stopped being enough
+  - Built and versioned a component library other teams depended
+    on, and know what a breaking change costs once they have
+    all imported it
+  - AWS fluency — Lambda, API Gateway, DynamoDB, CloudWatch
+  - Engineering platform or internal tooling — Vercel, an
+    internal PaaS, or the developer platform at your last
+    company
+  - Turned LLMs on how your own team builds: codegen, large-
+    scale migrations, spec-to-code pipelines
+  - Wealth management, financial services, or analytics products
+    dense with numbers people act on — including the craft
+    that keeps them fast: profiling, bundle size, render
+    performance
+
+  Why Join Us
+
+  - Learn & grow through book clubs, seminars, and peer learning
+    sessions
+  - Competitive comp package that rewards impact
+  - Work alongside some of the brightest minds in fintech
+  - Ground-floor opportunity at a fast-scaling startup
+  - Chart your own growth path as we expand
+  - Full health benefits + 401(k) matching & Roth IRA options
+  - Unlimited PTO
+  - An amazing collaborative atmosphere between product, design,
+    and engineering to solve hard problems together
+
+  Ready to disrupt wealth management? Let's talk!
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-09-08
+url: "https://builtin.com/job/senior-frontend-engineer-conversational-gen-ui/11056497"
+source: Built In

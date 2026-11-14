@@ -1,0 +1,169 @@
+job_id: 11437992
+title: Senior Cyber Software Engineer
+company: Persistent Systems
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 498 Employees
+description: |
+  Job Description & Responsibilities
+
+  At Persistent Systems, our Wave Relay® MANET technology
+  keeps warfighters, first responders, and critical missions
+  connected in the most contested environments on earth. We're
+  looking for a Senior Cyber Software Engineer who wants to
+  work close to the metal on problems that matter. This is the
+  kind of low-level, high-stakes engineering that most
+  companies never get to work with. You'll join a team of
+  engineers solving hard networking and security problems end-
+  to-end: from Linux kernel modules and device drivers up
+  through the cryptographic frameworks that protect every
+  packet on the network. If you've ever wanted your C/C++ code
+  to run on hardware deployed in the field rather than buried
+  in a web stack, this is that role.
+
+  What you'll work on
+
+  - Architecting and implementing low-level embedded software
+    across device drivers, Linux kernel modules, and network
+    stack development
+  - Porting and optimizing our software for new embedded
+    platforms as our hardware evolves
+  - Designing and building software security solutions that
+    protect Wave Relay® networking products in the field
+  - Building cross-platform security components targeting Linux
+  - Developing Public Key Infrastructure (PKI) frameworks and
+    integrating OpenSSL directly into C
+  - Socket programming and application development on top of the
+    Wave Relay® network
+  - Collaborating closely with hardware engineers — your code
+    and their silicon ship together
+
+  The stack and tooling you'll work with
+
+  We invest in the tools that move senior engineers' output.
+  You'll have day-one access to a modern development
+  environment:
+
+  - AI-assisted development. Enterprise licenses for modern AI
+    coding assistants (Claude Code) are deployed with security
+    controls appropriate for our work, so you get the
+    productivity gains without the IP-exposure risk. We treat
+    these as force multipliers for senior engineers, not
+    crutches for junior ones.
+  - Modern CI/CD. CI pipelines with hardware-in-the-loop test
+    infrastructure. Your kernel changes get built, statically
+    analyzed, and flashed to real radios automatically on
+    every PR.
+  - AI-augmented code review. Automated static analysis and AI
+    code review running alongside human review — catches
+    MISRA/CERT-C issues, memory-safety concerns, and crypto
+    misuse before they hit main.
+  - Serious static analysis and fuzzing. Coverity, Clang static
+    analyzers, and continuous fuzzing on the security-critical
+    paths. If you've wanted the time and infrastructure to fix
+    what these tools find, you'll have it here.
+  - Real hardware, real environments. Lab benches with the
+    radios you're writing code for, RF test equipment, and the
+    ability to reproduce field conditions.
+
+  Why senior engineers choose Persistent Systems
+
+  - Independent, not a subsidiary. Persistent Systems is
+    privately held and mission focused We're not a business
+    unit reporting up to a Fortune 500 parent, so product
+    direction, hiring decisions, and engineering trade-offs
+    get made by the people building the radios, not filtered
+    through a corporate roadmap review.
+  - Systems depth over surface work. This role is systems
+    specific: kernel modules, wireless L2, PKI, OpenSSL in C.
+    If your idea of a good week is tracing a driver bug
+    through the network stack, you'll have peers here who
+    think the same way.
+  - Mission focused, not process-focused. Small senior team,
+    minimal layers between you and architectural decisions.
+    You'll own significant portions of the stack rather than a
+    slice of someone else's ticket queue.
+  - Mission you can point to. Our radios are the tactical
+    networking backbone for U.S. and allied forces, federal
+    agencies, and public safety teams worldwide. Wave Relay®
+    is deployed, in the field, right now.
+
+   Position Responsibilities
+
+  - Developing and implementing a wide range of low-level
+    embedded software (including device driver, Linux kernel
+    modules, network stack development, porting existing
+    software to new embedded platforms, and other low-level
+    programming activities), hardware development, as well as
+    the development of application software running on the
+    Wave Relay® network
+  - Developing software security solutions for our Wave Relay
+    networking products
+  - Cross-platform implementation of software security
+    components targeting Linux OS
+  - Socket programming
+  - Programming OpenSSL frameworks in C for our Wave relay
+    networking products
+
+  Job Qualifications & Experience
+
+  Minimum Qualifications
+
+  - Bachelor's degree in Computer Science, Computer Engineering,
+    or equivalent
+  - 5 years of C/C++ programming experience in a Linux
+    environment
+  - Product development experience
+  - Deep knowledge of Wireless Networking specific to layer 2
+  - OpenSSL programming experience in C
+  - Experience with Linux driver (e.g., wireless, network
+    stack), Linux kernel, and kernel module development
+  - Must have the ability to obtain a United States security
+    clearance
+
+   Preferred Qualifications
+
+  - Master’s or PhD in Computer Science or Computer Engineering
+  - FIPS validation experience
+  - A deep understanding of open-source VPN software
+  - Experience with cryptography related development
+  - Experience with shell scripting, network application
+    development, distributed systems, and network protocol
+    development
+  - United States security clearance
+
+  The base pay for this role can vary from $179,000 to
+  $228,000 a year based on individual qualifications.
+  Eligibility for yearly discretionary bonus. Persistent
+  Systems, LLC offers a comprehensive benefits package
+  including medical, dental, vision, life, and disability
+  insurance; paid time off (sick time and vacation time);
+  flexible spending accounts; 401(k) plan with company match;
+  fitness membership reimbursement; tuition assistance; mental
+  health benefits; and pet discounts. We will accept
+  applications on a rolling basis until the role is filled.
+
+  Company Overview
+
+  Persistent Systems, LLC, a leader in defense technology, has
+  been engineering secure Mobile Ad Hoc Networking (MANET)
+  solutions since 2007, enabling joint forces and
+  multinational coalitions to communicate, collaborate, and
+  achieve mission success. Persistent created the Wave Relay®
+  Ecosystem, a unified data network for unmanned systems,
+  sensors, and software, empowering warfighters to accomplish
+  tactical objectives across the operational area.  Built on
+  the company’s Wave Relay MANET and Cloud Relay™
+  technologies, this ecosystem delivers a global data fabric
+  for military, first responders, and commercial users.
+  Persistent has offices in New York City, Colorado, North
+  Carolina, Montana, North Dakota, and Wyoming.
+industries:
+  - Hardware
+  - Information Technology
+  - Defense
+  - Industrial
+posted_date: 2026-09-30
+url: "https://builtin.com/job/senior-cyber-software-engineer/11437992"
+source: Built In

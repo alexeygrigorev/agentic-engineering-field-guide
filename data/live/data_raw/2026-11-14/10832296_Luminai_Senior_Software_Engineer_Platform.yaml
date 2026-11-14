@@ -1,0 +1,88 @@
+job_id: 10832296
+title: Senior Software Engineer, Platform
+company: Luminai
+location: CAN
+locations:
+  - CAN
+  - Fremont, USA
+  - Oakland, USA
+  - Berkeley, USA
+  - San Jose, USA
+  - New York, USA
+  - Santa Clara, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  About Luminai
+
+  Healthcare operations have always depended on people to
+  bridge the gaps that technology couldn't. It relies on
+  complex manual work to carry out critical internal
+  processes, yet most health systems don’t have enough
+  resources to properly automate these tasks, leaving them
+  stuck in outdated, labor-intensive SOPs. Luminai structures
+  the chaos, automates the manual handoffs, and deploys end-
+  to-end workflows across every system, providing the
+  integrated intelligence layer to improve processes over
+  time. By delegating to autonomous AI systems those mission-
+  critical workflows that previously expended valuable human
+  time, Luminai allows doctors and administrators to do what
+  they do best: Focus on Patients. We've raised $60M in
+  funding, including our recent Series B led by Peak XV
+  Partners (formerly Sequoia India), with participation from
+  healthcare-focused Define Ventures and continued support
+  from General Catalyst and Y Combinator. We're backed by some
+  of the best investors in Silicon Valley, including Kevin
+  Weil (Chief Product Officer at OpenAI), Arash Ferdowsi (co-
+  founder of Dropbox), Katie Stanton (former VP Global Media,
+  Twitter), and CEOs of companies such as Flexport, Notion,
+  Front, Ramp, and Twitch.
+
+  Our team is in-office 4 days a week (Monday - Friday,
+  Wednesday optional WFH) in either San Francisco, California
+  or New York, New York.
+
+  About the role
+
+  As a Software Engineer working on Platform, you will design,
+  build, and improve the core infrastructure and systems that
+  Luminai runs on, ensuring the platform is reliable,
+  scalable, and ready to support rapid growth.
+
+  What You'll Do
+
+  - Lead platform and backend projects from planning through
+    implementation
+  - Build and maintain shared libraries, services, and internal
+    APIs that product engineers / FDEs rely on
+  - Improve the developer workflow: build times, CI/CD
+    pipelines, test infrastructure, and local development
+    setup
+  - Contribute to core platform direction, using system
+    improvements to support higher scale and reliability
+  - Maintain and extend Luminai infrastructure across compute,
+    data, and deployment systems
+  - Champion good engineering practice through code review,
+    testing, and maintainability
+  - Design and implement robust APIs, authentication, and
+    middleware that hold up under load
+  - Harden production systems with sensible defaults around
+    access control and secrets management
+
+  What We're Looking For
+
+  - Proven track record of shipping high-quality code in
+    challenging projects
+  - Significant experience working with distributed systems,
+    cloud infrastructure, and backend services (Python and/or
+    similar languages)
+  - Working knowledge of security best practices for cloud
+    infrastructure and production systems (access control,
+    secrets management, secure networking)
+  - Exceptional problem-solving skills and an ability to work
+    across the stack
+posted_date: 2026-08-25
+url: "https://builtin.com/job/senior-software-engineer-platform/10832296"
+source: Built In

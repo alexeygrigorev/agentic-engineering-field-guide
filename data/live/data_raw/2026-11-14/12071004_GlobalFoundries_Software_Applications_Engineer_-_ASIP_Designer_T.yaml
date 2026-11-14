@@ -1,0 +1,105 @@
+job_id: 12071004
+title: Software / Applications Engineer - ASIP Designer Tools
+company: GlobalFoundries
+location: DEU
+remote: true
+work_type: FULL_TIME
+company_size: 12,676 Employees
+description: |
+  About GF
+
+  GlobalFoundries® Inc. (GF®) is one of the world's leading
+  semiconductor manufacturers. GF redefines innovation and
+  semiconductor manufacturing by developing and delivering
+  feature-rich process technology solutions with leading
+  performance in all growth markets. GF offers a unique mix of
+  design, development and manufacturing services. With a
+  talented and diverse team and manufacturing locations in the
+  U.S., Europe and Asia, GF is a trusted technology provider
+  to its global customers. GF employs approximately 15,000
+  people, including more than 3,000 in Dresden, Germany.
+
+  For more information, visit www.gf.com.
+
+  Introduction
+
+  As an Engineer for the ASIP Designer tool-suite, you
+  contribute to the development, implementation, verification,
+  and application of advanced Application-Specific
+  Instruction-set Processors (ASIPs) for next-generation
+  systems-on-chip.
+
+  Depending on your background and interests, you may work in
+  one or more of the following areas:
+
+  - Compiler Technology: Develop and enhance our retargetable
+    compiler technology, combining LLVM with specialized
+    optimization and code-generation techniques such as
+    instruction selection, register allocation, scheduling,
+    and domain-specific programming models.
+  - Processor Modeling, Implementation & Verification: Develop
+    tools for instruction-set simulation, RTL generation, and
+    processor verification. This includes cycle- and
+    instruction-accurate simulation using LLVM-based run-time
+    optimization, generation of synthesizable Verilog/VHDL
+    models, automatic test-program generation, and property-
+    based formal verification.
+  - Applications Engineering: Help customers successfully apply
+    ASIP Designer to their processor-development challenges.
+    Analyze customer applications, develop innovative
+    processor features, investigate complex technical
+    questions, and support customers during evaluation,
+    development, implementation, and verification.
+  - AI-Assisted Processor Development: Develop AI-powered
+    features within the ASIP Designer tool-suite that make
+    processor development easier, faster, and more productive.
+    Explore how AI can assist engineers throughout the
+    processor design workflow and integrate these capabilities
+    into professional processor-development tools.
+
+  Across these areas, you work at the intersection of software
+  development, processor architecture, compilers, hardware
+  design, verification, AI, and real-world applications.
+
+  Required Qualifications
+
+  To apply for this role, you should have:
+
+  - An MSc or PhD degree in Engineering, Computer Science, or a
+    related technical discipline.
+  - Strong programming skills, particularly in C and/or C++.
+  - Solid problem-solving and analytical skills.
+  - Knowledge of, or a strong interest in, processor and
+    computer architecture.
+  - An interest in developing sophisticated software tools for
+    processor design.
+  - Good communication and collaboration skills.
+
+  Experience in one or more of the following areas is an
+  advantage:
+
+  - LLVM, GCC, MLIR, compiler optimization and code generation
+  - Processor and DSP architectures
+  - Embedded C/C++ and assembly programming
+  - Instruction-set simulation
+  - RTL design, Verilog, SystemVerilog, VHDL
+  - SystemC/TLM and UVM
+  - Processor verification and formal verification
+  - DSP algorithms and domain-specific programming models
+  - AI/ML, generative AI, or AI-assisted software engineering
+  - Developing AI-enabled features for complex engineering tools
+
+  Diversity is part of our corporate DNA. For this reason, we
+  would like to encourage women in particular to apply for a
+  job with us. As we value equal opportunities and inclusion
+  is particularly important to us, we welcome applications
+  from people with disabilities.
+
+  Information about our benefits you can find here:
+  https://gf.com/careers/opportunities-in-europe/
+industries:
+  - Semiconductor
+  - Manufacturing
+posted_date: 2026-11-04
+url: "https://builtin.com/job/software-applications-engineer-asip-designer-tools/12071004"
+source: Built In

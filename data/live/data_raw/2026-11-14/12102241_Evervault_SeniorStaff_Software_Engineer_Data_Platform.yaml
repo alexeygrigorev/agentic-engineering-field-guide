@@ -1,0 +1,139 @@
+job_id: 12102241
+title: Senior/Staff Software Engineer, Data Platform
+company: Evervault
+location: London, GBR
+work_type: FULL_TIME
+company_size: 22 Employees
+description: |
+  About Evervault
+
+  Evervault offers modular payments infrastructure for
+  companies building their own payments stack. We keep raw
+  card data off your systems, cut PCI compliance work, improve
+  acceptance, mitigate fraud and chargebacks and decrease your
+  cost of payments, so you keep full control. Trusted by Ramp,
+  Rippling, Modern Treasury and Overwolf; Series B, led by
+  Ribbit Capital.
+
+  Role Overview
+
+  You’ll be the first engineer dedicated to our data platform,
+  and you’ll design and build it largely from scratch. You’ll
+  own the platform that collects our event data, models it,
+  and serves it to customers with roughly 15-second freshness,
+  including building our time-series foundations. This is a
+  senior, hands-on role: you’ll set the architecture, write
+  most of the code and set the bar for the data team that
+  grows around you. You’ll work closely with our VP of
+  Engineering, Product and our leadership team. Product
+  decides which data products to build; you own how they’re
+  built and what the data can support.
+
+  What You’ll Be Doing
+
+  - Designing and building real-time ingestion for three
+    sources: events our platform already emits, new
+    instrumentation in our product, and data our customers
+    send us
+  - Rebuilding our event streaming layer, with the authority to
+    choose how
+  - Modelling structured and time-series data in ClickHouse and
+    Databricks so aggregations, trends and benchmarks are fast
+    and cheap at scale (our current defaults, though you can
+    make the case for change)
+  - Designing the external data contracts and APIs customers
+    build on, including versioning, reliability and isolation
+    of each customer’s data
+  - Defining the event contracts our product engineers
+    instrument against
+  - Owning the platform in production: monitoring, data quality,
+    cost and on-call for the systems you build
+
+  Your First Year
+
+  In your first few months you’ll assess what we have, decide
+  the platform architecture, and scope our first data product
+  with Product and Engineering. After that, you’ll rebuild the
+  streaming layer and ship the first external product on the
+  new platform, most likely aggregated analytics or direct
+  data access for customers. Later in the year you’ll help us
+  hire a domain expert who decides which signals and
+  benchmarks are worth building. Machine learning is out of
+  scope for now; it comes once we have enough clean historical
+  data.
+
+  Requirements
+
+  - Production experience building real-time or near-real-time
+    ingestion with event streaming, such as Kafka, Kinesis or
+    Redpanda
+  - Deep experience with ClickHouse or a similar analytical
+    database, including modelling time-series data for fast
+    aggregation at volume
+  - A track record of shipping an external, multi-tenant data
+    product or data API that customers depended on (internal
+    reporting pipelines alone won’t cover this)
+  - Experience migrating a messy live system to a new one
+    without downtime or data loss
+  - Senior-level engineering habits: system design, testing, and
+    running the services you build in production
+  - Sound judgement working independently: you’ll be our most
+    senior data voice, and we’ll rely on your technical calls
+  - A product mindset: you won’t work directly with customers,
+    but you’ll often be the person who knows what the data can
+    and can’t support
+
+  Nice to Have
+
+  - Experience in payments or with sensitive, regulated data
+  - Databricks or Spark experience alongside ClickHouse
+  - Experience as an early or founding member of a data team,
+    including hiring
+
+  This Might Not Be for You If…
+
+  - You’re mainly an analyst, BI or data science specialist:
+    this role builds the platform and the external products on
+    it
+  - Your experience is mostly dashboards, internal reporting
+    pipelines or modelling for analysis
+  - You want a hands-off architect role: you’ll write most of
+    the code
+  - You want to work fully remotely: we’re in our Shoreditch
+    office Tuesday to Thursday
+
+  Compensation, Benefits & Why Join
+
+  - Competitive salary
+  - Stock options with an extended exercise window
+  - Private health insurance
+  - Unlimited PTO & flexible working hours
+  - Daily lunch budget
+  - Build a company’s data platform from the first line of code,
+    with the authority to make the big architectural calls and
+    work directly with C-Level
+
+  Interview Process
+
+  - Recruiter Screen
+  - Hiring Manager Interview
+  - Technical Interview
+  - System Design Interview
+  - Final with our Founder
+  - References and Offer
+
+  Location
+
+  This role is based in London, in our Shoreditch office
+  Tuesday to Thursday. We do not currently sponsor UK work
+  visas.
+
+  Candidates must be based in the location specified. Any
+  applications from candidates not in the required location
+  may not receive a response.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-11-06
+url: "https://builtin.com/job/senior-staff-software-engineer-data-platform/12102241"
+source: Built In

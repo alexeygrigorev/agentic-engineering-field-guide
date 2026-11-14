@@ -1,0 +1,183 @@
+job_id: 10640479
+title: Principal Software Engineer – Platform Engineering
+company: AlphaSense
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 2,000 Employees
+description: |
+  About AlphaSense:
+
+  AlphaSense is the AI platform redefining market intelligence
+  and workflow orchestration, trusted by thousands of leading
+  organizations to drive faster, more confident decisions in
+  business and finance. The platform combines domain-specific
+  AI with a vast content universe of over 500 million premium
+  business documents — including equity research, earnings
+  calls, expert interviews, filings, news, and internal
+  proprietary content. Purpose-built for speed, accuracy, and
+  enterprise-grade security, AlphaSense helps teams extract
+  critical insights, uncover market-moving trends, and
+  automate complex workflows with high-quality outputs. With
+  AI solutions like Generative Search, Generative Grid, and
+  Deep Research, AlphaSense delivers the clarity and depth
+  professionals need to navigate complexity and obtain
+  accurate, real-time information quickly. For more
+  information, visit www.alpha-sense.com. Come join us.
+
+  About The Role:
+
+  AlphaSense runs a large-scale, Kubernetes-native platform
+  built on a modern microservices architecture, serving the
+  majority of the Fortune 500. We're now moving it into a
+  cell-based architecture, where each cell is an independent
+  deployment of the platform, and the cell count is heading
+  from dozens toward hundreds, including private and isolated
+  clouds.
+
+  Platform tooling only takes that so far. The rest of the
+  problem is architectural and it sits in the services: how
+  they're structured, how they're bounded, and what they
+  assume about the environment they run in. This role owns
+  that side of the work.
+
+  You'll set the architectural direction for how our services
+  scale horizontally across regions, cells and deployment
+  models, and you'll build it rather than specify it. You'll
+  own the environments configuration management framework to
+  operate environments as a fleet, and the services and
+  libraries to make it work. Where the answer is a re-
+  architecture rather than a patch, you design it and you
+  write it. Much of it lands in code other teams own, so
+  influence matters as much as design.
+
+  The scope is deliberately broad: hundreds of services,
+  several languages, and the latitude to go after whichever
+  scalability limit matters most. Our main languages are Java,
+  Python, React and Rust.
+
+  We use AI tooling heavily and expect the same from you,
+  along with a view on how the rest of engineering should be
+  using it.
+
+  What You'll Do:
+
+  - Drive the service-side changes cell architecture needs: re-
+    architecture, shared library, etc.
+  - Decompose hundreds of microservices into sub-systems with
+    independent lifecycles
+  - Find and close horizontal scalability gaps across regions,
+    cells and deployment models
+  - Own the environments application configuration management
+    framework end-to-end
+  - Own the services and libraries specific to private and
+    isolated cloud deployments
+  - Design and land changes directly in product services,
+    partnering with the teams that own them
+  - Set the architecture patterns and reference implementations
+    product teams build against
+  - Make configuration a runtime concern rather than something
+    baked into service code
+  - Partner with Cloud Platform, SRE and DevEx on where the
+    service and platform boundary should sit
+  - Raise the architectural bar across the org and mentor Staff
+    and Senior engineers
+  - Embed AI tooling into day-to-day development for lasting
+    productivity gains
+
+  Who You Are:
+
+  - Deep hands-on architecture experience in large microservice
+    estates, at least in hundreds
+  - Strong in Java and Python, and willing to contribute to
+    other tech stacks if needed
+  - Track record decomposing large service estates into sub-
+    systems that can evolve independently
+  - Proven experience designing for horizontal scalability
+    across regions and independent deployments
+  - Experience with cell-based, multi-tenant or multi-region
+    architectures
+  - Strong cloud-native background: Kubernetes, containers and
+    AWS
+  - Experience externalising configuration and removing
+    environment coupling from application code
+  - Demonstrated ability to land significant changes in code
+    owned by other teams
+  - A record of spotting architectural limits before they turn
+    into incidents
+  - Ability and desire to design, lead, influence and deliver on
+    ambitious technical roadmaps
+
+  Nice to have:
+
+  - Experience with Vespa
+  - Experience with private, isolated, on-premise or air-gapped
+    deployments
+  - Design and stewardship of shared libraries or internal
+    frameworks used by many teams
+
+  For base compensation, we set standard ranges for all roles
+  based on function and level benchmarked against similar
+  stage growth companies and internal comparables. In order to
+  be compliant with local legislation, as well as to provide
+  greater transparency to candidates, we share salary ranges
+  on all job postings regardless of desired hiring location.
+  Final offer amounts are determined by multiple factors
+  including candidate experience/expertise and may vary from
+  the amounts listed below.
+
+  You may also be offered a performance-based bonus, equity,
+  and a generous benefits program.
+
+  Base Compensation Range
+
+  $246,000—$339,000 USD
+
+  AlphaSense is an equal-opportunity employer. We are
+  committed to a work environment that supports, inspires, and
+  respects all individuals. All employees share in the
+  responsibility for fulfilling AlphaSense’s commitment to
+  equal employment opportunity. AlphaSense does not
+  discriminate against any employee or applicant on the basis
+  of race, color, sex (including pregnancy), national origin,
+  age, religion, marital status, sexual orientation, gender
+  identity, gender expression, military or veteran status,
+  disability, or any other non-merit factor. This policy
+  applies to every aspect of employment at AlphaSense,
+  including recruitment, hiring, training, advancement, and
+  termination.
+
+  In addition, it is the policy of AlphaSense to provide
+  reasonable accommodation to qualified employees who have
+  protected disabilities to the extent required by applicable
+  laws, regulations, and ordinances where a particular
+  employee works.
+
+  Recruiting Scams and Fraud
+
+  We at AlphaSense have been made aware of fraudulent job
+  postings and individuals impersonating AlphaSense
+  recruiters. These scams may involve fake job offers,
+  requests for sensitive personal information, or demands for
+  payment. Please note:
+
+  - AlphaSense never asks candidates to pay for job
+    applications, equipment, or training.
+  - All official communications will come from an @alpha-
+    sense.com email address.
+  - If you’re unsure about a job posting or recruiter, verify it
+    on our Careers page.
+
+  If you believe you’ve been targeted by a scam or have any
+  doubts regarding the authenticity of any job listing
+  purportedly from or on behalf of AlphaSense please contact
+  us. Your security and trust matter to us.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Machine Learning
+  - Natural Language Processing
+  - Business Intelligence
+posted_date: 2026-08-12
+url: "https://builtin.com/job/principal-software-engineer-platform-engineering/10640479"
+source: Built In

@@ -1,0 +1,165 @@
+job_id: 9794702
+title: Senior Software Engineer
+company: Rockstar
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 6,000 Employees
+description: |
+  Rockstar is recruiting for a fast-growing SaaS company that
+  empowers creators, coaches, and online experts to build
+  thriving online communities. Our client offers a plug-and-
+  play platform that enables users to manage discussions,
+  courses, payments, events, documents, workflows,
+  matchmaking, directories, and more—all on their own
+  websites. The team is passionate about giving people the
+  power to own and shape the way they engage with others
+  online.
+
+  The client is a plug-and-play online community builder.
+  Think “Shopify for online communities”. The company is
+  building a world where people have the power to own & shape
+  the way they engage with others online.
+
+  The platform allows creators, coaches, & online experts to
+  build a thriving community business — with discussions,
+  courses, payments, events, documents, workflows,
+  matchmaking, directories & more — all on their own website.
+
+  Why this job is special…
+
+  - The successful candidate will be one of the first engineers
+    to join the company—but will be joining a product &
+    codebase that works. The company has hundreds of customers
+    processing thousands of dollars every month. This role
+    offers all the leverage and autonomy of being an early
+    engineer without the burden of building everything from
+    scratch.
+
+  - The team consists of individuals who know their craft.
+    Everyone is exceptionally skilled and brings deep
+    experience from their previous roles.
+
+  - Typescript is taken seriously. If a candidate is passionate
+    about pragmatically applying type systems & functional
+    patterns, this is the place for them.
+
+  - AI agents are here & the company is ready to use them as a
+    force-multiplier. Significant time has been spent building
+    incredibly expressive & flexible application building
+    blocks. AI will allow the team to double down on these
+    through MCP and agentic configuration, providing the magic
+    of tools like Replit & Lovable without the brittleness.
+
+  What the role entails…
+
+  - Working closely with the team to scope & prioritize new
+    features
+
+  - Writing modular, maintainable, thoughtful code
+
+  - Creating rails to enable AI coding agents to robustly make
+    changes & develop new features
+
+  - Monitoring the production environment and working with users
+    to identify & resolve bugs
+
+  Remote restrictions
+
+  Workday must overlap by at least 5 hours with New York, NY,
+  USA
+
+  This role will be enjoyable for those who…
+
+  - Appreciate working with Typescript, type systems &
+    functional patterns
+
+  - Enjoy writing high-quality code within the constraints of a
+    rapidly changing product
+
+  - Want to have a strong influence on the direction of the
+    product
+
+  - Thrive working in an autonomous environment
+
+  - Like creating new abstractions (responsibly!)
+
+  - Are not afraid to dive into unfamiliar technologies &
+    platforms
+
+  Some problems the team has worked on…
+
+  - Improving the type safety of the codebase
+
+  - Efficiently matching community members via max weight
+    matching & linear programming
+
+  - Abstracting the mobile app to allow for custom white-
+    labeling
+
+  Potential projects for this role…
+
+  - Building the first version of the MCP server
+
+  - Reworking frontend infrastructure to enable communities to
+    create SEO-indexable content
+
+  - Building a new community-centric voice & video call
+    experience
+
+  - Optimizing API server infrastructure and database queries to
+    accommodate usage growth
+
+  - Establishing an app ecosystem to allow external developers
+    to build custom apps within the platform
+
+  - And much more!
+
+  What the company is looking for…
+
+  - A strong background working with Typescript or similar typed
+    languages
+
+  - Experience with React or similar frontend component
+    frameworks
+
+  - Experience scaling backend infrastructure & identifying
+    performance bottlenecks
+
+  - Strong opinions about what well designed products feel like
+
+  - Intuition for balancing long-term engineering best practices
+    and iterating quickly
+
+  - Empathy for users and the desire to carefully craft
+    delightful user experiences
+
+  - A love for building & experimenting with products
+
+  Bonus points for candidates who…
+
+  - Have founded a company before
+
+  - Have experience with profiling & monitoring NodeJS in
+    production
+
+  - Have experience building realtime applications
+
+  Our Stack
+
+  The company loves Typescript! The entire stack is type-safe
+  from the initial database call to the last React prop.
+  Developer experience is a priority, and the team is not
+  afraid to spend time improving internal tooling if it will
+  allow for faster and/or better shipping.
+industries:
+  - Agency
+  - Artificial Intelligence
+  - HR Tech
+  - Professional Services
+posted_date: 2026-08-08
+url: "https://builtin.com/job/senior-software-engineer/9794702"
+source: Built In

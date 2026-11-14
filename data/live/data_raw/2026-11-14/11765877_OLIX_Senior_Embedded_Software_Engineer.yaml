@@ -1,0 +1,130 @@
+job_id: 11765877
+title: Senior Embedded Software Engineer
+company: OLIX
+location: London, GBR
+work_type: FULL_TIME
+company_size: 82 Employees
+description: |
+  About OLIX
+
+  AI is growing faster than any technology in history and the
+  explosion in demand has created a massive infrastructure
+  gap; we can no longer build chips or power stations fast
+  enough to keep up. The industry is still leaning on a ten-
+  year-old hardware blueprint that has reached its limit. A
+  new paradigm that is faster and more efficient will be the
+  biggest economic opportunity of the next century and create
+  the most important company of the next decade. The OLIX
+  Decode Accelerator 1 (DX-1) is the first accelerator
+  architected specifically for decode. Rack-scale co-design of
+  logic, data movement, packaging, optics and interconnect
+  enables a step change in system level performance.
+
+  The Role
+
+  As a Senior Embedded Software Engineer, you will own a
+  component of the DX-1 platform firmware end to end, from
+  simulation through FPGA prototypes and first silicon into
+  production. The Embedded team builds the software that makes
+  the platform bootable, manageable and observable: boot and
+  update, platform management on the BMC, embedded Linux on
+  the platform processors, real-time firmware on resource-
+  constrained cores, and register-level control of the ASIC.
+
+  The kind of work you would own: the Linux image and update
+  flow for a platform processor, management-plane services
+  that collect telemetry over PLDM and expose it over Redfish,
+  bare-metal firmware on the cores beside the ASIC, or
+  precision-timing integration.
+
+  You will join a team of senior engineers, reporting to the
+  Platform Architect who leads the team, and work closely with
+  the FPGA, ASIC and Systems Software teams. Much of the work
+  is pre-silicon, developed against simulation, FPGA
+  prototypes and hardware-in-the-loop rigs.
+
+  Responsibilities
+
+  - Own a subsystem end to end. Design it, implement it, test it
+    against simulation and on the hardware-in-the-loop rigs,
+    support its bring-up on real hardware, and carry it into
+    production, within interface specifications you help
+    write.
+  - Work across the stack as needed. Boot firmware, Linux kernel
+    and drivers, management-plane services, and bare-metal
+    code on constrained cores, in C/C++ and Python.
+  - Test what you build. Firmware tests that run in the existing
+    hardware-in-the-loop infrastructure, bench scripts that
+    make a failure reproducible, and contributions to device
+    models.
+  - Anticipate problems and finish things. Flag a risk before it
+    blocks someone, and see your work through until it is in
+    use.
+  - Lead an initiative when it takes more than one engineer.
+    Frame the problem, split the work, and keep the FPGA or
+    Systems Software counterparts it depends on aligned on
+    scope and interfaces.
+  - Set the standard by example. Review others' work and have
+    yours reviewed, document what you learn so the team does
+    not relearn it, and say so when the plan is wrong.
+
+  Skills & Experience
+
+  - Strong C on bare metal and C/C++ on Linux. Depth in either
+    bare-metal/RTOS firmware on resource-constrained cores or
+    Linux kernel and driver development, with working
+    competence in the other.
+  - Systems fundamentals. Interrupt design, synchronisation with
+    and without atomics, memory ordering, cache maintenance
+    for shared memory and DMA buffers, and fitting a design
+    into fixed memory and timing budgets.
+  - Shipped firmware on real hardware and debugged it at the
+    bench with an oscilloscope, logic analyser, JTAG and
+    serial console. Bring-up of a new board, or firmware for
+    an FPGA-prototyped ASIC, is a significant advantage.
+  - Embedded Linux platform work, or clear exposure to it.
+    Yocto/OpenEmbedded or similar, U-Boot or UEFI, and device
+    tree. An update flow that recovers from a failed update is
+    an advantage.
+  - Test discipline. You have written software-in-the-loop tests
+    against device models, or hardware-in-the-loop tests, for
+    firmware you owned.
+  - A subsystem you owned from design to production. We will
+    want to hear about it end to end: the interfaces you
+    agreed with the adjacent teams, what broke, and what you
+    did about it.
+  - Also useful: platform management, precision timing, FPGA
+    soft cores. OpenBMC, Redfish, PLDM over MCTP,
+    I2C/SMBus/PMBus; IEEE 1588 PTP or SyncE; soft-core targets
+    in FPGA fabric; accelerator or data-centre hardware.
+
+  Compensation & Equity
+
+  - Competitive Salary: Commensurate with your experience,
+    skills, and location
+  - Equity & Ownership: Meaningful stock options. You’re not
+    just joining the mission; you’re owning a piece of it
+  - Proximity Bonus: We value your time. To minimise your
+    commute and maximise your life, we offer an annual Living-
+    Local Bonus if your residence is within 20 minutes of the
+    office
+  - Retirement Benefits: Employer-contributed retirement plans
+    to help you build long-term financial security.
+
+  Due to U.S. export control regulations, candidates’
+  eligibility to work at OLIX depends on their most recent
+  citizenship or permanent residency status. We are generally
+  unable to consider applicants whose most recent citizenship
+  or permanent residence is in certain restricted countries
+  (currently including Iran, North Korea, Syria, Cuba, Russia,
+  Belarus, China, Hong Kong, Macau, and Venezuela). Applicants
+  who have subsequently obtained citizenship or permanent
+  residency in another country not subject to these
+  restrictions may still be eligible.
+industries:
+  - Artificial Intelligence
+  - Semiconductor
+  - Manufacturing
+posted_date: 2026-10-20
+url: "https://builtin.com/job/senior-embedded-software-engineer/11765877"
+source: Built In

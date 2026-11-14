@@ -1,0 +1,106 @@
+job_id: 11596281
+title: Full Stack Developer
+company: Constellis
+location: USA
+locations:
+  - USA
+  - Herndon, USA
+remote: true
+work_type: FULL_TIME
+company_size: 7,000 Employees
+description: |
+  Job Summary & Responsibilities
+
+  Position Summary
+
+  We’re looking for a Full Stack Developer to help expand and
+  refine the LEXSO (Layered Extended Security Operations)
+  platform—a modular, microservice-based system designed to
+  orchestrate real-time data from sensors, cameras, AI
+  engines, and automation tools across security operations
+  environments.
+
+  As a full stack engineer, you’ll contribute across both
+  frontend and backend domains, building scalable
+  microservices, powerful APIs, and responsive user
+  interfaces. You'll work alongside specialists in automation,
+  sensor fusion, and distributed systems to solve complex
+  challenges in a modern DevOps environment.
+
+  This is a great opportunity for someone with a few years of
+  experience who wants to take ownership of major features and
+  help drive architectural and system-level improvements in a
+  fast-moving, impactful platform.
+
+
+
+  RESPONSIBILITES:
+
+  - Design and develop backend services using FastAPI, Kafka,
+    PostgreSQL, and Docker.
+  - Build and maintain frontend interfaces using React,
+    TypeScript, and real-time visual components (e.g.,
+    WebSockets, Mapbox).
+  - Create and maintain REST APIs and Kafka consumers for
+    automation and alerting workflows.
+  - Integrate a wide range of devices and sensors (e.g., PTZ
+    cameras, LiDAR, radar, drones) into reusable service
+    modules.
+  - Contribute to component design, service orchestration, and
+    data modeling.
+  - Participate in sprint planning, peer reviews, and CI/CD
+    deployment workflows.
+  - Debug, test, and optimize both backend and frontend
+    features.
+  - Collaborate using Git, GitHub, Jira, Confluence, and
+    automated build pipelines.
+  - Work is typically based in a remote environment and subject
+    to frequent interruptions. Business work hours are Monday-
+    Friday standard core hours, however some extended or
+    weekend hours may be required.
+  - Other duties as assigned.
+
+
+
+  QUALIFICATIONS:
+
+  - Proficiency with Python (preferably FastAPI or similar
+    frameworks)
+  - Proficiency with JavaScript/TypeScript and React or another
+    frontend framework
+  - Experience designing and consuming REST APIs
+  - Familiarity with relational databases (e.g., PostgreSQL) and
+    schema design
+  - Experience with Docker, Git-based workflows, and Agile teams
+  - Strong problem-solving skills and attention to software
+    quality
+  - Preferred:
+    - Exposure to:
+      - Kafka, MongoDB, or OpenSearch/Elastic
+      - js, Tailwind CSS, shadcn/ui
+      - OAuth/JWT authentication flows (e.g., via Keycloak, Auth0)
+      - Real-time systems: WebSockets, pub/sub architectures
+      - IoT, robotics, or physical device integrations
+      - CI/CD tooling: GitHub Actions, ArgoCD, Kubernetes
+    - Bachelor’s degree in Computer Science, Software Engineering,
+      Electrical Engineering, or a related technical field is
+      required. Candidates with equivalent degrees (e.g.,
+      Robotics, Mechatronics, Data Science, Cybersecurity)
+      will also be considered.
+
+
+
+  BENEFITS
+
+  Constellis offers a comprehensive, total rewards package
+  that includes competitive compensation and a flexible
+  benefits package that reflects its commitment to creating a
+  diverse and supportive workplace.
+industries:
+  - Information Technology
+  - Professional Services
+  - Security
+  - Defense
+posted_date: 2026-10-09
+url: "https://builtin.com/job/full-stack-developer/11596281"
+source: Built In

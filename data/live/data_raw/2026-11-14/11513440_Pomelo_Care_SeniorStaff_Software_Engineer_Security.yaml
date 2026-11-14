@@ -1,0 +1,130 @@
+job_id: 11513440
+title: Senior/Staff Software Engineer (Security)
+company: Pomelo Care
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 550 Employees
+description: |
+  Pomelo Care is the leading virtual medical practice for
+  women and children, providing care across pregnancy,
+  postpartum, pediatrics, menopause, and perimenopause. We
+  combine proactive, 24/7 clinical care with technology that
+  helps us reach patients earlier, identify risks sooner, and
+  deliver personalized care throughout their journey. Our team
+  includes clinicians, technologists, operators, and problem-
+  solvers working together to make high-quality care more
+  accessible for families nationwide.
+
+  About The Role:
+
+  Your north star: Our engineering team is the engine behind
+  our innovative virtual care platform, building AI-powered
+  solutions that fundamentally transform care delivery and
+  create exceptional experiences for both patients and
+  clinicians. If you're passionate about using technology to
+  effect real, tangible good in the world, we'd love to meet
+  you. Security at Pomelo is an engineering problem. This role
+  owns the execution side — the controls, automation, and code
+  that actually reduce risk — with a lot of latitude to decide
+  what matters and ship it. A separate compliance team owns
+  policy and audit; you build the things that make us safer.
+  This role reports to the VP of Engineering and can be based
+  anywhere in the continental US.
+
+  What you'll do
+
+  - Own security problems end to end: navigate ambiguity to
+    decide what matters, build it, ship it independently.
+  - Find the real risks and build the most direct controls that
+    take them off the table.
+  - Build secure-by-default libraries, guardrails, and tooling
+    so dozens of engineers can move fast without footguns.
+  - Define and implement strict least-privilege guardrails
+    across all services to safeguard sensitive patient
+    information and health metrics.
+  - Harden developer machines to minimize the risk of supply
+    chain attacks and Whatever Comes Next from AI.
+  - Partner with compliance to turn control objectives into real
+    controls, and help focus effort on the requirements that
+    genuinely reduce risk and unlock new commercial
+    opportunities (HITRUST, health plan requirements, etc.).
+
+  Who you are
+
+  - You have a strong track record of making organizations
+    measurably safer. That track record is risks you've
+    closed, not tickets you've opened.
+  - You can tell signal from noise, and you spend your time on
+    the risks that actually move the needle.
+  - You're a builder first: 5+ years of software engineering
+    with production-grade code under your belt (Kotlin, Java,
+    Python, Go, C# or similar).
+  - You have real security depth — threat modeling, identity and
+    auth flows, the OWASP Top 10, cloud and supply-chain
+    security.
+  - When something's wrong, your instinct is to understand the
+    actual threat and build the most direct fix — not to go
+    shopping for a product that claims to handle it.
+  - You're looking for room to own more over time — and you're
+    the type to take it, not wait for it.
+
+  We'll be super excited if you:
+
+  - Have built in healthcare and understand HIPAA and HITRUST —
+    and how to satisfy them without drowning engineering in
+    process.
+  - Have experience with Google Cloud Platform and a modern
+    product stack.
+  - Have built internal developer platforms or secure-by-default
+    tooling that other engineers actually adopted.
+  - Have worked in a fast-paced, product-oriented startup.
+
+  Why you should join our team
+
+  By joining Pomelo, you will get in on the ground floor of a
+  fast-moving, well-funded, and mission-driven startup that
+  always puts the patient first. You will learn, grow and be
+  challenged, and have fun with your team while doing it. We
+  strive to create an environment where employees from all
+  backgrounds are respected. We value working across
+  disciplines, moving fast, data-driven decision making,
+  learning, and always putting the patient first.
+
+  Benefits and Perks:
+
+  - Comprehensive Health, Dental, and Vision coverage for
+    employees and their families
+  - High deductible Health Plans with Health Savings Account
+    (HSA) options
+  - Flexible Spending Account (FSA)
+  - Equity grant participation
+  - 401(k) program
+  - Competitive vacation policy
+  - 16 weeks paid parental leave
+  - Fully remote work flexibility (within the US)
+
+  Compensation:
+
+  The expected base salary range offered for this role is
+  $190,000-$260,000. This role is also eligible for equity,
+  giving you an ownership stake in Pomelo’s mission. Actual
+  compensation may vary based on relevant experience, skills,
+  competencies, and certifications.
+
+  We are committed to hiring the best team to improve outcomes
+  for all mothers and babies. To solve the complex challenges
+  facing the diverse population we serve, we need diverse
+  perspectives, actively welcoming people of all races, ages,
+  sexual orientations, gender identities and expressions,
+  national origins, religions, disabilities, and veteran
+  statuses. We strive to cultivate an inclusive and respectful
+  environment where team members thrive by working across
+  disciplines, moving fast, making data driven decisions,
+  learning continuously, and always putting the patient first.
+industries:
+  - Healthtech
+  - Telehealth
+posted_date: 2026-10-05
+url: "https://builtin.com/job/senior-staff-security-engineer/11513440"
+source: Built In

@@ -1,0 +1,93 @@
+job_id: 9169440
+title: Senior Backend Engineer
+company: Tristero
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  Location: Remote / Americas Preferred
+
+  Compensation: $160k — $240k USD base, 0.4-0.8% equity
+
+  ﻿Today, if you’re trading onchain, you’re broadcasting your
+  trades to the world before they happen. Sophisticated actors
+  systematically front-run all trades (MEV, stat arb),
+  resulting in most high value trading activity remaining
+  within the confines of centralized exchanges that share all
+  the downsides of the system crypto was meant to replace.
+
+  At Tristero, we're building the world's first performant
+  decentralized darkpool, where your trades are private until
+  they clear, and you maintain full autonomy through the
+  entire trade cycle.
+
+  What you'll work on:
+
+  - High-Performance Matching Engine & Zero-Knowledge Privacy -
+    At the core of our darkpool lies a custom-built, low-
+    latency matching engine that processes orders with
+    microsecond precision while maintaining cryptographic
+    privacy guarantees. You'll work on optimizing order
+    matching algorithms, implementing efficient data
+    structures for order books, and building zero-knowledge
+    proof systems that hide order details until settlement.
+    Our matching engine handles cross-chain order routing
+    across 15+ EVM chains plus Solana, with strict performance
+    targets: <100ms p99 latency for quote generation and
+    <500ms for order matching.
+
+  - Cross-Chain Liquidity Orchestration at Scale - Our liquidity
+    layer intelligently aggregates across Jupiter (Solana),
+    DEX aggregators, Binance, CCTP, and more. You'll build
+    adaptive pathfinding algorithms that dynamically route
+    orders through optimal liquidity sources, implement real-
+    time slippage management systems, and develop cross-chain
+    settlement protocols. The system processes complex multi-
+    hop trades with automatic fallback routing and maintains
+    sub-second response times across 10+ blockchain networks.
+
+  - Fault-Tolerant Distributed Architecture - Our microservices
+    architecture includes specialized components for real-time
+    pricing, industry-leading order execution, and distributed
+    order routers with Redis-backed state management. You'll
+    work on horizontal scaling patterns, implement circuit
+    breakers and backpressure control, build real-time
+    WebSocket feeds for market data, and design async
+    processing pipelines capable of handling many concurrent
+    orders. All systems include comprehensive telemetry,
+    structured logging, and observability.
+
+  What we expect:
+
+  - 4+ years of professional back-end engineering experience
+    (we’re hiring at multiple seniority levels)
+  - Strong proficiency with modern back-end systems design
+  - Deep understanding of API design, databases, and distributed
+    systems
+  - Familiarity with DeFi protocols and crypto infrastructure—or
+    a proven ability to ramp up quickly
+  - Strong ownership of your work
+
+  We’ve got unlimited PTO, a full suite of healthcare options,
+  and some swag with your name on it. We foster a high-trust,
+  high-autonomy culture. If you’re looking for a no-nonsense
+  team to build groundbreaking financial products
+  with—Tristero may be the place for you.
+
+  We're looking forward to hearing from you! If you do not
+  have any direct crypto experience, please
+
+  make sure to include a brief cover letter that explains why
+  you think you can onboard to a new domain smoothly. This can
+  be
+
+  very short - we do read these.
+industries:
+  - Blockchain
+  - Software
+  - Financial Services
+  - Cryptocurrency
+posted_date: 2026-08-08
+url: "https://builtin.com/job/senior-backend-engineer/9169440"
+source: Built In

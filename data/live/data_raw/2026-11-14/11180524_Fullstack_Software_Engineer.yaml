@@ -1,0 +1,96 @@
+job_id: 11180524
+title: Software Engineer
+company: Fullstack
+location: New York, USA
+work_type: FULL_TIME
+company_size: 30 Employees
+description: |
+  The Role
+
+  As a Software Engineer at Fullstack, you will build the
+  backend infrastructure that powers a real-time trading
+  platform. You will design and ship services that handle live
+  market data, orchestrate cross-venue integrations, and
+  process high-throughput event streams. You will work across
+  blockchain execution environments, data pipelines, API
+  services, and deployment automation. You will collaborate
+  closely with blockchain and product teams to ensure the
+  platform delivers fast, reliable execution for traders
+  operating in volatile markets.
+
+  What You’ll Build & Solve
+
+  Risk Engines: Build complex risk management and liquidation
+  engines to optimize capital utilization and user liquidity.
+
+  State Machines: Design and Build complex blockchain state
+  machines that serve as the backend for all trading and risk
+  operations.
+
+  Distributed Systems: Build services that maintain state
+  consistency across complex async processes. Design voting
+  and coordination mechanisms for reaching consensus on
+  external events.
+
+  Real-Time Services: Process live market data and coordinate
+  actions across trading venues. Handle WebSocket streams and
+  data aggregation where milliseconds matter.
+
+  Data Infrastructure: Build event streaming pipelines that
+  ingest and transform high volume data. Design time-series
+  schemas for complex queries. Create indexing services for
+  real-time data access.
+
+  External Integrations: Build services that connect to
+  external trading venues. Handle API rate limits, connection
+  failures, and data validation across distributed sources.
+
+  API Services: Build REST and WebSocket APIs that power the
+  trading interface. Design caching strategies for millisecond
+  response times.
+
+  Performance & Operations: Profile and optimize async Rust
+  code. Deploy containerized services. Build monitoring and
+  alerting for zero-downtime deployments.
+
+  What You Bring
+
+  Production Rust: Strong grasp of ownership, lifetimes, and
+  async programming. Comfortable debugging at any level of the
+  stack.
+
+  Systems Programming: Deep understanding of how databases,
+  networks, and concurrency actually work. Can reason about
+  performance and make informed tradeoffs.
+
+  Async & Concurrency: Experience building async systems with
+  Tokio. Know when to use channels vs locks and how to design
+  for high throughput without data races.
+
+  Database Proficiency: Experience with relational databases,
+  time-series databases, and key-value stores. Know your way
+  around indexing, query optimization, and schema design.
+
+  API Design: Built REST or gRPC APIs before. Care about type
+  safety, error handling, and observability.
+
+  Performance Mindset: Profile before you optimize. Understand
+  allocation patterns and can tune systems under load.
+
+  Production Operations: Comfortable deploying and debugging
+  services in production. Experience with Docker, monitoring,
+  and building for reliability.
+
+  In-Person Collaborator: Thrive in high-bandwidth, in-person
+  engineering environments.
+
+  Work Authorization: Must be authorized to work in the United
+  States.
+industries:
+  - Blockchain
+  - Fintech
+  - Software
+  - Cryptocurrency
+posted_date: 2026-09-15
+url: "https://builtin.com/job/software-engineer/11180524"
+source: Built In

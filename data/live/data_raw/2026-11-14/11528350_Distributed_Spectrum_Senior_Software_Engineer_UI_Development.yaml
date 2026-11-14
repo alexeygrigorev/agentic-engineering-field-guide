@@ -1,0 +1,140 @@
+job_id: 11528350
+title: Senior Software Engineer, UI Development
+company: Distributed Spectrum
+location: New York, USA
+work_type: FULL_TIME
+company_size: 33 Employees
+description: |
+  DS creates systems that power the next generation of radio
+  spectrum intelligence. We collect radio data from all over
+  the world, train neural networks to decipher it, and run
+  them on the smallest chips we can. We’re solving a new,
+  technically hard problem where nothing from other fields
+  works out of the box, and along the way, we’ve built our own
+  stack from scratch, including entirely new embedding model
+  architectures, custom GPU kernels, and much more.
+
+  Joining DS means owning major parts of a fast-growing AI
+  research organization, joining a collaborative, talent-dense
+  team with decades of experience in probabilistic ML,
+  accelerated computing, embedded systems, and signal theory,
+  and growing your career in the areas that interest you.
+  You’ll fit in if you want to come to work for the problem
+  itself and don’t want to choose between technical rigor,
+  business value, and real-world impact.
+
+  We work with high ownership and trust.
+
+  The Role
+
+  Our users need to understand the radio spectrum around them
+  quickly, confidently, and often under pressure. We're hiring
+  a UI Engineer to drive the next generation of the
+  Distributed Spectrum product experience: the interfaces
+  through which operators explore spectrum data, direct
+  sensors, and collaborate with AI agents that surface
+  insights and take action.
+
+  You'll lead our user-facing UI, own its architecture from
+  the ground up, and define how agentic capabilities show up
+  in the product, not as a chat box bolted to the side, but as
+  a native part of how people work.
+
+  What you'll do
+
+  - Drive the design and delivery of new product experiences,
+    from concept through polished, shipped UI.
+  - Lead the frontend architecture: application structure, state
+    management, component libraries, design system, build
+    tooling, testing strategy, and performance budgets.
+  - Integrate the UI deeply with our agentic services and
+    streaming responses, tool-call visualization, human-in-
+    the-loop approvals, real-time updates, and interfaces that
+    stay legible when an agent is acting on the user's behalf.
+  - Build high-performance visualizations of large, fast-moving
+    datasets (spectrum, maps, time series).
+  - Partner with product, design, and backend engineers to shape
+    requirements and translate ambiguous goals into concrete
+    interfaces.
+  - Establish frontend engineering standards, accessibility,
+    testing, code review, and CI practices and help the rest
+    of the team adopt them.
+
+  What we're looking for
+
+  - 4+ years of professional frontend / UI engineering
+    experience shipping production web applications.
+  - Strong, hands-on experience with both Angular and React, and
+    the judgment to know what each is good for.
+  - Command of the modern UI stack: TypeScript, component-driven
+    architecture, state management (e.g., Redux, Zustand,
+    NgRx, signals), modern build tooling (Vite, esbuild,
+    etc.), and testing (Jest, Vitest, Playwright, Cypress).
+  - Demonstrated ability to design and build a UI architecture
+    from scratch — you've made the foundational decisions on
+    at least one significant product, not just contributed
+    within an existing one.
+  - Experience integrating with real-time and streaming backends
+    (WebSockets, SSE) and designing UI for asynchronous, long-
+    running operations.
+  - Interest in and experience with building interfaces for AI /
+    agentic systems.
+  - Strong product sense and attention to detail; you care how
+    things feel, not just whether they work.
+
+  Nice to have
+
+  - Experience with data visualization libraries (D3, deck.gl,
+    WebGL / Canvas-based rendering) or mapping frameworks
+    (Mapbox, MapLibre, Cesium).
+  - Experience building design systems or component libraries
+    used across multiple teams.
+  - Familiarity with backend development (Node, Python) and
+    cloud deployment of frontend assets.
+  - Experience designing for operators in high-stakes or time-
+    critical environments.
+
+  Who Thrives at Distributed Spectrum
+
+  - Fast learners over specific backgrounds – We care more about
+    how quickly you can pick up new skills than where you’ve
+    worked before.
+  - Intellectual honesty – The right answer matters more than
+    being right. You challenge assumptions, test ideas, and
+    pivot when needed.
+  - Adaptability – We’re organized, but sometimes things change
+    quickly. You find a way to make it work and balance short-
+    term deliverables with long-term goals.
+  - Ownership of outcomes – You optimize your own time, focus on
+    what matters to deliver quickly, and cut out
+    inefficiencies.
+  - Not building in a vacuum – You stay connected to the rest of
+    our teams and our customers to make sure all the pieces
+    fit together.
+
+  What We Offer
+
+  - Above-market salary, equity, and benefits package.
+  - Early Series A Equity
+  - Excellent health, dental, and vision coverage
+  - 401(k) match - up to 4% of your salary
+  - Flexible PTO
+  - Daily office lunches in NYC
+
+  ITAR Requirements
+
+  To conform to U.S. Government technology export regulations,
+  including the International Traffic in Arms Regulations
+  (ITAR) you must be a U.S. citizen, lawful permanent resident
+  of the U.S., protected individual as defined by 8 U.S.C.
+  1324b(a)(3), or eligible to obtain the required
+  authorizations from the U.S. Department of State. Learn more
+  about the ITAR here.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Defense
+posted_date: 2026-10-06
+url: "https://builtin.com/job/senior-software-engineer-ui-development/11528350"
+source: Built In

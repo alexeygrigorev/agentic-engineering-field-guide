@@ -1,0 +1,94 @@
+job_id: 9169455
+title: Backend Engineer
+company: Tristero
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  Location: Remote
+
+  Compensation: $100k — $160k USD base, 0.2-0.5% equity
+
+  Today, if you’re trading onchain, you’re broadcasting your
+  trades to the world before they happen. Sophisticated actors
+  systematically front-run all trades (MEV, stat arb),
+  resulting in most high-value trading activity remaining
+  within centralized exchanges that share all the downsides of
+  the system crypto was meant to replace.
+
+  At Tristero, we're building the world's first performant
+  decentralized darkpool, where trades are private until they
+  clear, and you maintain full autonomy through the entire
+  trade cycle.
+
+  We’re looking for a backend engineer ready to work on high-
+  performance, low-latency systems in a distributed, multi-
+  chain environment. You’ll take ownership of substantial
+  components, contribute to production-critical features, and
+  push for performance, reliability, and scalability—while
+  collaborating with senior engineers on architecture and
+  design.
+
+  What you'll work on
+
+  High-Performance Matching Engine & Zero-Knowledge Privacy
+
+  - Implement and optimize order matching algorithms with tight
+    latency budgets (<500ms match, <100ms quote gen).
+  - Work on data structures for real-time order books.
+  - Integrate and refine zero-knowledge proof systems to
+    maintain cryptographic privacy.
+
+  Cross-Chain Liquidity Orchestration
+
+  - Contribute to adaptive pathfinding algorithms that route
+    across 15+ EVM chains, Solana, and centralized venues.
+  - Implement slippage controls, fallback routing, and cross-
+    chain settlement mechanisms.
+
+  Fault-Tolerant Distributed Architecture
+
+  - Build microservices for market data, execution, and routing.
+  - Implement async processing pipelines, WebSocket feeds, and
+    Redis-backed stateful services.
+  - Add telemetry, structured logging, and monitoring to ensure
+    operational visibility.
+
+  What we expect
+
+  - 2–4 years of backend engineering experience delivering
+    production systems.
+  - Strong proficiency in at least one backend language (Go,
+    Rust, TypeScript, Python).
+  - Experience with API design, relational and in-memory
+    databases, and message queues.
+  - Familiarity with distributed systems, concurrency control,
+    and fault-tolerance patterns.
+  - Comfortable reading and reasoning about performance
+    profiles, system metrics, and production logs.
+  - Interest in blockchain and DeFi—or the ability to rapidly
+    gain deep protocol knowledge.
+
+  We’ve got unlimited PTO, a full suite of healthcare options,
+  and some swag with your name on it. We foster a high-trust,
+  high-autonomy culture. If you’re looking for a no-nonsense
+  team to build groundbreaking financial products
+  with—Tristero may be the place for you.
+
+  We're looking forward to hearing from you! If you do not
+  have any direct crypto experience, please
+
+  make sure to include a brief cover letter that explains why
+  you think you can onboard to a new domain smoothly. This can
+  be
+
+  very short - we do read these.
+industries:
+  - Blockchain
+  - Software
+  - Financial Services
+  - Cryptocurrency
+posted_date: 2026-08-08
+url: "https://builtin.com/job/backend-engineer/9169455"
+source: Built In

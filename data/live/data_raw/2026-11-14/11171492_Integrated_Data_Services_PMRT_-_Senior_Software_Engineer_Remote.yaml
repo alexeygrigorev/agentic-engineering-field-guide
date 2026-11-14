@@ -1,0 +1,269 @@
+job_id: 11171492
+title: PMRT - Senior Software Engineer (Remote)
+company: Integrated Data Services
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 193 Employees
+description: |
+  Company Overview:
+
+  Integrated Data Services (IDS) is a leading provider of
+  custom software products and Government financial management
+  services. IDS was founded in 1997 in El Segundo, CA, and
+  since that time has seen tremendous growth and success.
+  Currently, IDS has offices supporting customers nationwide.
+  By providing customers with fast, efficient and reliable
+  information systems and support services, IDS has become a
+  preferred provider of financial and programmatic systems,
+  services and solutions across a wide variety of government
+  agencies.
+
+  Position Description:
+
+  IDS is seeking a Senior Software Engineer to build and
+  sustain enterprise applications that Department of Defense
+  (DoD)/Department of War (DoW) personnel depend on daily for
+  program and financial management activities. Our stack
+  includes Java and Spring Boot on the back end, Angular on
+  the front end, and Oracle underneath, with applications
+  deployed to government-approved cloud environments (such as
+  AWS GovCloud) through automated pipelines that meet DoD/DoW
+  security requirements.
+
+  We place greater emphasis on an engineer’s problem-solving
+  approach, technical judgment, and ability to understand
+  systems end-to-end than on experience with any specific set
+  of frameworks or tools. Successful engineers in this role
+  can quickly assess unfamiliar code, develop a clear
+  understanding of how components interact from the database
+  through the user interface, and design solutions that are
+  reliable, maintainable, and scalable over time. We expect
+  engineers to use AI-enabled tools effectively while
+  remaining accountable for the quality, security, and
+  performance of their work. Technical depth is important, but
+  so are adaptability, sound judgment, clear communication,
+  and disciplined engineering practices.
+
+  You will work as part of an agile product team supporting
+  ongoing development across a family of related business
+  applications. The team operates on a regular release
+  schedule, and you will contribute throughout the full agile
+  development lifecycle, including requirements definition,
+  estimation, design, development, testing, demonstration, and
+  delivery.
+
+  Responsibilities include, but are not limited to, the
+  following:
+
+  - Own application capabilities from concept through
+    production, including requirements analysis, solution
+    design, API development, implementation, testing,
+    deployment, verification, and sustainment.
+  - Use AI development tools where they improve efficiency
+    across coding, testing, schema changes, documentation, and
+    deployment activities, while remaining fully accountable
+    for the correctness, security, and maintainability of all
+    delivered work.
+  - Model data as part of feature design by designing tables,
+    keys, constraints, and indexes that efficiently and
+    securely support applications and APIs, and evolve
+    existing schemas as requirements change.
+  - Write SQL directly against Oracle and understand database
+    execution and performance implications.
+  - Contribute to Angular front-end work as features require,
+    whether or not it is your primary specialty.
+  - Own your changes through the pipeline, including build,
+    security scanning, testing, deployment, and verification
+    in the target environment.
+  - Write clean, well-tested code, clearly explain technical
+    approaches for peer review, and provide substantive and
+    constructive reviews of others’ work.
+  - Investigate defects efficiently to identify root causes
+    rather than stopping at the first plausible explanation.
+  - Participate in architecture and design decisions, and
+    advocate for technically sound approaches supported by
+    clear rationale.
+
+  Knowledge and Skills:
+
+  - Demonstrated depth in relational databases, including
+    designing schemas and writing, reading, and reasoning
+    about non-trivial SQL, preferably in Oracle environments.
+  - Working familiarity with a modern front-end framework, such
+    as Angular or React.
+  - Experience delivering software through CI/CD into a cloud
+    environment using a mainstream toolchain, such as GitLab
+    CI, GitHub Actions, Jenkins, Azure DevOps, Bitbucket
+    Pipelines, or equivalent.
+  - Recent hands-on experience with a modern Java LTS release
+    (21 or 25).
+
+  What Distinguishes Strong Candidates
+
+  You may not have experience in every area listed below.
+  These qualifications are intended to provide insight into
+  the technical and operational environment in which you will
+  work and the capabilities that can contribute to success in
+  this role.
+
+  - Data access breadth – Experience working with both
+    JPA/Hibernate and JDBC-based approaches, with the ability
+    to determine when each is appropriate; familiarity with
+    schema migration tools such as Flyway or Liquibase.
+  - Cloud and operations – Experience with AWS services such as
+    ECS/Fargate, RDS, S3, and IAM; container build and runtime
+    environments; and infrastructure as code.
+  - Pipeline and supply chain – Experience with static analysis
+    and dependency scanning tools such as SonarQube, Fortify,
+    Trivy, or Snyk; artifact promotion and provenance; and
+    pipeline development within a modern CI/CD platform.
+  - Security engineering – Experience with PKI and certificate
+    management, TLS configuration, secrets management, FIPS-
+    validated cryptography, and secure software development
+    under DoD/DoW requirements.
+  - Regulated delivery – Experience delivering software in
+    environments governed by STIGs, RMF, ATO processes, or
+    similar security and compliance frameworks.
+  - Domain – Experience with federal financial management,
+    Planning, Programming, Budgeting, and Execution (PPBE), or
+    DoD/DoW systems acquisition.
+  - AI-assisted development – Demonstrated experience using AI-
+    enabled development tools in production software
+    environments, combined with the judgment to validate
+    outputs, recognize limitations, and determine when
+    independent technical analysis is required.
+
+  Education and Work Experience:
+
+  - This position requires seven (7) or more years of
+    professional software development experience, with
+    substantial hands-on experience in Java and Spring Boot.
+  - This position requires a minimum of a Bachelor’s degree from
+    an accredited college or university in data science,
+    computer science, software engineering, information
+    systems, mathematics, or a closely related technical
+    discipline.
+  - Experience in lieu of education may be considered if the
+    individual has eleven (11) or more years of relevant
+    technical training or professional work experience.
+  - Active CompTIA Security+ certification (or better), or the
+    ability to obtain the required certification within six
+    (6) months of hire.
+
+  Physical & Mental Qualifications:
+
+  - Must be able to sit, type, hear, see, and speak for extended
+    periods of time.
+  - Must consistently work and type on a computer for prolonged
+    periods of time.
+  - Must be able to able to communicate accurate information and
+    ideas effectively so others can understand.
+  - Must be able to lift/carry at least 15 lbs.
+  - May be required to move about inside an office to access
+    file cabinets, office supplies, equipment, and other work-
+    related resources, etc.
+
+  Security Clearance:
+
+  - Applicants selected for employment will be subject to a
+    Federal background investigation and must meet additional
+    eligibility requirements for access to classified
+    information or materials.
+  - Active Secret clearance preferred; ability to obtain and
+    maintain Secret clearance is required for this role.
+
+  Travel:
+
+  - Some travel may be required.
+
+  Hours:
+
+  - Normal work schedule hours may vary, Monday through Friday.
+    May be required to work additional hours and/or weekends,
+    as needed, to meet deadlines or to fulfill travel
+    obligations.
+
+  Salary Range:
+
+  - $140,000 - $160,000 per year
+  - The estimated salary range listed is a good faith
+    determination of potential base compensation that may be
+    offered to a successful applicant for this position at the
+    time of this job posting and may be modified in the
+    future. The disclosed salary range estimate has not been
+    adjusted for the applicable geographic differential
+    associated with the location at which the position may be
+    filled. When determining an applicant’s compensation,
+    various factors are taken into consideration including,
+    but not limited to: geographic location, relevant prior
+    work experience, relevant training, special
+    skills/competencies, education, clearance,
+    licenses/certifications, labor categories/contract rates
+    and other business needs.
+
+  Please note: All candidates being considered for this
+  position will be required to complete a technical assessment
+  designed to evaluate their engineering and coding skills.
+  The assessment may include general coding exercises, code
+  testing and debugging, problem-solving, ability to follow
+  technical requirements, and attention to detail.
+
+  The assessment is expected to take approximately 60 minutes
+  to complete. It is being administered for candidate
+  evaluation purposes only, and any code or work product
+  submitted as part of the assessment will not be used for
+  business or production purposes.
+
+  If you require a reasonable accommodation to complete the
+  assessment, please notify our Human Resources team in
+  advance so we can support your request.
+
+  IDS offers a robust benefits package including employer paid
+  health, dental, vision, disability, AD&D and life insurance
+  plans for eligible employees. IDS also offers a variety of
+  elective plans to eligible employees including flexible
+  spending accounts, voluntary life insurance and supplemental
+  insurance plans. Benefits become effective the first of the
+  month following the start date of employment unless starting
+  on the 1st of the month, in which case benefits are
+  effective immediately upon the eligible employee’s start
+  date. IDS offers eligible employees eleven (11) paid
+  holidays, generous PTO accruals starting at three (3) weeks
+  per year, as well as a 401(k) safe harbor contribution upon
+  eligibility. IDS also offers generous employee referral
+  bonuses.
+
+  IDS is an Equal Opportunity Employer and all qualified
+  applicants will receive consideration for employment without
+  regards to age (40 and over), color, physical or mental
+  disability, gender identity or expression, genetic
+  information (including family medical history), national
+  origin or ancestry, race, religion, sex, pregnancy
+  (including childbirth and related medical conditions),
+  sexual orientation, citizenship status, veteran status,
+  uniformed service member status, or any other characteristic
+  protected by federal, state, or local law. IDS participates
+  in E-Verify. To learn more about E-Verify, including your
+  rights and responsibilities, please visit www.e-verify.gov/.
+  A submission of a resume is an expression of interest and
+  not considered an application.
+
+  For more information, visit www.get-integrated.com.
+
+  Disclaimer: This job description is intended to provide an
+  overview of job responsibilities that are subject to change.
+
+  **U.S. citizenship is required; H1-B visas and other visas
+  are not being sponsored. Relocation expenses are NOT
+  compensated. All jobs are employer paid; no fees to
+  candidates. Third parties or agency inquiries are not being
+  accepted at this time.**
+
+  #IDS
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-09-22
+url: "https://builtin.com/job/pmrt-senior-software-engineer-remote/11171492"
+source: Built In

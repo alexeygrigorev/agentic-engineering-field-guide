@@ -1,0 +1,198 @@
+job_id: 11771234
+title: Software Engineer (US Candidates only)
+company: Ottimate
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 256 Employees
+description: |
+  About Ottimate
+
+  Ottimate is an AI-powered AP [Accounts Payable] automation
+  platform that empowers finance teams to reduce costs,
+  prevent overpayments, detect fraud, and enforce policy
+  compliance across the entire invoice-to-payment lifecycle.
+
+  About the role
+
+  We’re looking for a capable, growth-minded software engineer
+  to join our team as its third engineer. This is an ideal
+  opportunity for an early-to-mid-career engineer who wants
+  meaningful ownership, close collaboration with experienced
+  teammates, and the opportunity to grow quickly.
+
+  Our team solves real customer problems across a mature
+  financial platform. The work ranges from building product
+  features to investigating production incidents, improving
+  database performance, strengthening security boundaries, and
+  maintaining reliable accounting and payment workflows.
+
+  We use AI-assisted development tools extensively, but we do
+  not treat generated code as automatically correct. A
+  successful engineer in this role will know how to use tools
+  such as Claude Code or Codex to navigate unfamiliar systems
+  and accelerate development while remaining responsible for
+  correctness, security, testing, and operational safety.
+
+  You do not need experience with every technology or with
+  fintech. We care more about strong fundamentals, curiosity,
+  sound judgment, and the ability to learn quickly.
+
+  Responsibilities
+
+  - Build, test, and maintain backend product features,
+    primarily using Python, Django, and relational databases.
+  - Use AI coding tools to investigate problems, implement
+    changes, write tests, and improve documentation.
+  - Critically review AI-generated code for correctness,
+    security, performance, and maintainability.
+  - Turn customer feedback into reproducible technical problems,
+    fix the root cause, check whether customer data was
+    affected, and update it.
+  - Translate ambiguous customer feedback into reproducible
+    technical problems and practical product improvements.
+  - Own work from initial investigation through implementation,
+    testing, QA, deployment verification, and follow-up.
+  - Build and maintain APIs, asynchronous jobs, integrations,
+    internal tools, and data-processing workflows.
+  - Write clear, maintainable code with appropriate automated
+    test coverage.
+  - Participate in code reviews and technical discussions with
+    the rest of the engineering team.
+  - Improve system reliability, observability, documentation,
+    and development processes.
+  - Protect financial correctness, tenant isolation, data
+    integrity, auditability, and customer privacy.
+  - Gradually take ownership of larger features and technical
+    decisions as you grow in the role.
+
+  Requirements
+
+  - Professional software engineering experience at an early-to-
+    mid-career level.
+  - Strong working knowledge of Python.
+  - Experience designing, querying, and debugging applications
+    backed by relational databases.
+  - Familiarity with APIs, automated testing, Git, and
+    collaborative software-development practices.
+  - Experience using AI-assisted coding tools in real
+    development work.
+  - The ability to evaluate and validate generated code rather
+    than accepting it automatically.
+  - Strong debugging skills, including in an unfamiliar
+    codebase, and the habit of asking what a bug did to
+    customer data, then helping correct it.
+  - An understanding of common application concerns such as
+    authorization, concurrency, retries, idempotency, and
+    failure handling.
+  - Clear written and verbal communication.
+  - A careful approach to systems that handle sensitive business
+    and financial data.
+  - Comfort working on a small team with broad ownership and
+    changing priorities.
+  - Curiosity, humility, and a willingness to ask questions,
+    receive feedback, and learn new systems.
+
+  Nice to have
+
+  - Experience with Django or another Python web framework.
+  - Experience with PostgreSQL, query analysis, and database-
+    performance optimization.
+  - Familiarity with Celery or another asynchronous job-
+    processing system.
+  - Experience with AWS, ECS, Docker, and CI/CD pipelines.
+  - Experience with observability tools such as ClickStack,
+    Sentry, or OpenTelemetry.
+  - Experience with TypeScript, Angular, or another modern
+    frontend framework.
+  - Experience building or maintaining fintech, accounting,
+    accounts-payable, payments, or ERP-integration software.
+  - Experience working directly with customers, support teams,
+    or other non-engineering stakeholders.
+  - Familiarity with access controls, audit trails, data
+    remediation, and safe bulk-data operations.
+  - Experience supporting production systems or participating in
+    incident investigation.
+
+  What makes someone successful in this role
+
+  - You’ll thrive here if you are pragmatic, dependable, and
+    comfortable working through ambiguity. You should enjoy
+    understanding how systems behave in the real world—not
+    just writing code from a ticket.
+  - The strongest candidate will use AI to move faster while
+    retaining ownership of the result. They will verify
+    assumptions, test important behavior, consider failure
+    cases, and communicate clearly when something remains
+    uncertain.
+  - We are not looking for someone who already knows every
+    technology or financial concept we use. We’re looking for
+    a generally capable engineer with good instincts, customer
+    empathy, and a strong learning mindset.
+  - This role offers close collaboration and mentorship from
+    experienced engineers, along with the opportunity to make
+    a visible impact on a growing product and engineering
+    team.
+
+  Benefits
+
+  We care deeply about making Ottimate an incredible place to
+  work and invest a significant amount of time and energy into
+  creating and maintaining a company culture that provides our
+  team with a generous level of support whilst inspiring them
+  to do their best work.
+
+  The specific benefits/perks we offer are continually
+  evolving, but currently include:
+
+  - Salary Range: USD $130,000-155,000 (depending on level) per
+    year + annual bonus.
+  - Medical, Dental, Vision, and other Company-Subsidized
+    Benefits for you and your family.
+  - Employer-sponsored 401(k) with company match.
+  - Paid Time Off (and the encouragement to use it).
+  - Promote from within philosophy.
+
+  Beyond the tangible benefits, though:
+
+  - You will be part of a growing team, at a pinnacle moment of
+    scale for the business, and experience the excitement of
+    working in a startup where each action makes a huge
+    difference.
+  - You will have the agency to solve difficult problems
+    creatively, the freedom to explore work that inspires you,
+    and infrastructure to ensure you're constantly challenged
+    and developing.
+  - You will work with sharp, passionate teammates solving some
+    of the most unique challenges and positioning our product
+    as a premier finance automation solution.
+  - Our commitment to empowering a diverse and inclusive
+    workforce, celebrating differences, and creating a safe
+    space for our employees to bring their whole selves to
+    work is second to note.
+  - We are transforming entire industries using innovative
+    technology, including Artificial Intelligence, Payment
+    Tech, and Neural Networks.
+  - Our leaders lead with a people-first approach; inspiring
+    excellence, nurturing ideas, and finding creative ways to
+    eliminate obstacles for cultivating growth.
+  - We truly love what we do and who we do it with - and we
+    think you will too!
+
+  Ottimate is an equal opportunity employer that is committed
+  to diversity and inclusion. We do not discriminate based on
+  race, color, national origin, religion, gender, gender
+  expression, sexual orientation, age, veteran status,
+  disability status, or marital status. If you are excited
+  about the role but do not meet 100% of the qualifications
+  listed above, we encourage you to apply. Nothing in this job
+  posting should be construed as an offer or guarantee of
+  employment.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Automation
+posted_date: 2026-10-20
+url: "https://builtin.com/job/software-engineer/11771234"
+source: Built In

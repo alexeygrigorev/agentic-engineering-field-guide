@@ -1,0 +1,164 @@
+job_id: 11894477
+title: Software Engineer - Agentic System Development
+company: STARLIMS
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 208 Employees
+description: |
+  About the Role:
+
+  We’re building AI into STARLIMS, a platform used across
+  quality manufacturing, life sciences, public health,
+  forensics, and environmental sciences.
+
+  This role is focused on agentic systems: software that
+  reasons over a task, calls tools, works through multiple
+  steps, and hands the result to a person to review and
+  approve.
+
+  Our users work under strict accuracy, traceability, and
+  validation requirements. The engineering challenge is making
+  non-deterministic systems reliable, observable, and
+  controllable enough to be trusted, tested, and shipped.
+
+  You’ll work on both the platform and runtime our agents
+  execute on and the production agents built on top of it.
+
+  What You’ll Work On:
+
+  Agent Platform & Runtime (Core Focus)
+
+  - Design and build the runtime our agents execute on: planning
+    and execution loops, tool calling, state management,
+    durable execution, and failure recovery
+  - Build the layer through which agents reach platform data and
+    external systems safely
+  - Design coordination, delegation, and handoff across agents
+    and workflows where needed
+  - Make agent behavior versionable, testable, measurable, and
+    regression-safe across releases
+  - Build reusable primitives so new agents are configured
+    rather than rebuilt from scratch
+
+  Building Agents (Core Focus)
+
+  - Take a domain workflow from expert conversation to a working
+    agent: goals, actions, execution flow, failure handling,
+    and success criteria
+  - Ground agent decisions and outputs in authoritative
+    enterprise data rather than relying on model knowledge
+    alone
+  - Implement human-in-the-loop by design, including approval
+    gates, override capture, uncertainty handling, and clear
+    evidence for agent decisions. Agents recommend and draft;
+    people decide
+  - Close the loop: turn user corrections and overrides into
+    signals that measurably improve the agent
+
+  Evaluation & Reliability
+
+  - Build evaluation harnesses for multi-step behavior, not
+    single-response accuracy: task completion, tool-call
+    correctness, groundedness, trajectory quality, and
+    regression across model, prompt, and tool changes
+  - Define production metrics for agent quality, reliability,
+    latency, cost, and human intervention rates
+  - Implement guardrails, fallbacks, timeouts, cost ceilings,
+    and end-to-end observability and tracing across agent runs
+  - Design safeguards against prompt injection, unsafe tool use,
+    excessive permissions, data leakage, and other agent-
+    specific security risks
+  - Manage prompt evolution, model drift, and non-determinism
+    while maintaining consistent, measurable system behavior
+    across releases
+
+  Integration & Data
+
+  - Integrate agents with platform APIs and third-party
+    enterprise systems already running in our customers’
+    environments
+  - Build retrieval and context pipelines that turn fragmented
+    enterprise data into reliable, permission-aware agent
+    context
+  - Design controlled execution paths for automated actions,
+    with a complete, traceable audit trail
+
+  Platform & Infrastructure
+
+  - Build and operate backend services on AWS (Lambda, API
+    Gateway, DynamoDB, Step Functions, etc.)
+  - Own significant parts of the system architecture and
+    contribute to key technical decisions
+  - Contribute to infrastructure-as-code and deployment
+    pipelines
+
+  Tech Stack
+
+  - Languages: TypeScript, Python
+  - Backend: Node.js, Python, AWS Lambda, Step Functions
+  - AI: OpenAI, Anthropic, MCP and related agent/tool protocols,
+    embeddings and vector search
+  - Frontend: React, Next.js, Tailwind CSS
+  - Infrastructure: AWS, Terraform
+  - Testing: Jest, Playwright, pytest
+
+  What We’re Looking For
+
+  Must Have
+
+  - 6+ years of software engineering experience, including
+    production systems
+  - Strong understanding of LLM behavior, limitations, and
+    failure modes, especially how errors compound across a
+    multi-step run
+  - Experience with LLM APIs, tool and function calling, and
+    designing planning and execution loops
+  - Experience evaluating and debugging non-deterministic
+    systems
+  - Solid backend and cloud experience (AWS or equivalent)
+  - Proficiency in TypeScript and/or Python
+
+  You Should Be Comfortable With
+
+  - Debugging across distributed and non-deterministic systems
+  - Making explicit tradeoffs between accuracy, latency,
+    reliability, and cost
+  - Working in ambiguous problem spaces where the right
+    architecture isn't obvious yet
+  - Owning production systems end-to-end
+  - Choosing conventional software over AI when AI isn't the
+    right solution
+
+  Nice to Have
+
+  - C#, Microsoft .NET Framework
+  - Tool and interop protocols such as MCP
+  - Experience building production LLM systems, including tool-
+    using or multi-step agentic workflows beyond simple
+    prompting and chat interfaces
+  - Evaluation pipelines and metrics built specifically for
+    agentic systems
+  - Experience in regulated or domain-heavy systems (validation,
+    audit trails, controlled change)
+  - Retrieval and grounding techniques for supplying agent
+    context
+  - Workflow and durable-execution platforms (Temporal, Step
+    Functions, n8n, etc.)
+  - Containerization and orchestration (ECS, EKS, Kubernetes)
+  - Infrastructure as Code (Terraform or similar)
+
+  STARLIMS is an Equal Opportunity Employer. All qualified
+  applicants will receive consideration for employment without
+  regard to race, creed, religion, color, national or ethnic
+  origin, citizenship, sex, sexual orientation, gender
+  identity and expression, genetic information, veteran
+  status, age or disability status.
+industries:
+  - Cloud
+  - Software
+  - Database
+  - Analytics
+posted_date: 2026-10-26
+url: "https://builtin.com/job/software-engineer-agentic-system-development/11894477"
+source: Built In

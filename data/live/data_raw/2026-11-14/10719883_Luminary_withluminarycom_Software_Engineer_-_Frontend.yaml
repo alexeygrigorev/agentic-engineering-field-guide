@@ -1,0 +1,179 @@
+job_id: 10719883
+title: Software Engineer - Frontend
+company: Luminary (withluminary.com)
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  About Luminary
+
+  Luminary is the AI-native system of action for wealth
+  transfer services.
+
+  High net worth households controlling more than $90 trillion
+  in assets are meaningfully underserved by technology that
+  was built for the mass market. As private client investment
+  and banking products have commoditized, these clients are
+  looking for more tax and wealth transfer advice, advice that
+  has previously been impossible to deliver at scale.
+
+  Luminary solves this problem by transforming complex estate
+  planning and ownership documents into a structured,
+  proprietary data asset that powers verticalized, agent-
+  driven workflows for tax and wealth transfer services. Our
+  built-in multi-firm collaboration connects a client's full
+  advisor ecosystem, and is the core infrastructure that
+  enables our customers to deliver a highly personalized, end-
+  to-end wealth transfer service offering at scale.
+
+  Our 1,000+ customers are leaders across the private client
+  services ecosystem: wealth managers from exclusive multi-
+  family offices through top private banks and trust
+  companies, national tax advisory practices, and law firms
+  among the AM Law 100. Our focus and proprietary data
+  position us to expand from a wedge in wealth transfer advice
+  into large adjacent markets including trust administration
+  and estate distribution.
+
+  Founded and led by CEO David Barnard, former Head of Wealth
+  Management at AllianceBernstein, Luminary is backed by 8VC,
+  Fin Capital, Rockefeller Capital, Focus Financial Partners,
+  and several family offices.
+
+  How we work
+
+  - Every engineer ships to production multiple times a day. We
+    make small, reviewable changes that go out through CI as
+    soon as they're ready.
+  - Modern tooling. Meticulous, Amp, Honeycomb, Temporal,
+    PostHog, Braintrust. We keep the team small and invest in
+    tooling for leverage.
+  - Engineers own outcomes. You'll talk to customers and feel
+    their wins and pain points, sit with our in-house subject
+    matter experts, and help us build a great business.
+  - We support both remote and in-office preferences. We have an
+    office in NYC near Bryant Park and a lively in-office
+    culture, but if remote works better for you, you'll be in
+    good company.
+
+  The Opportunity
+
+  Estate planning is a field where there is an iceberg of
+  underlying complexity. A single family might have a dozen
+  trusts, several entities holding assets across them,
+  beneficiaries and trustees who appear in multiple structures
+  but have conditional appointments, and provisions that only
+  take effect under conditions years away. Advisors currently
+  hold that picture together with documents and institutional
+  memory – and human memory is highly fallible. A few firms
+  have tried to record some of these details in Excel
+  spreadsheets, but most don't even try.
+
+  Luminary's job is to make it legible instead. We use
+  frontier models to extract the structure from the documents,
+  surface it to our users in easily digestible forms, model
+  the tax and distribution consequences, and connect the
+  client's full set of advisors to the same view. Your job is
+  the part the advisor actually touches: interfaces for
+  reviewing extracted data, editing complex structures,
+  proposing changes, and presenting the whole thing to a
+  client. There is a mix of work on chat agents, surfacing
+  details about what's happening with ambient agents behind
+  the scenes, building complex diagramming tools, and much
+  more.
+
+  What you'll do
+
+  - Build AI-native interfaces. You'll build agent chat surfaces
+    that know what the advisor is looking at, ambient agents
+    whose work has to be visible and reviewable, diagrams of
+    entity structures with dozens of relationships, and views
+    that make the implications of a multi-decade projection
+    obvious at a glance.
+  - Own the frontend architecture. Component patterns, Apollo
+    cache and state management, performance, and the shared
+    primitives everyone else builds on top of.
+  - Partner with design. Day to day with experienced product
+    designers and our Head of Design. We want your opinions
+    early, while things are still cheap to change.
+  - Finish things. Empty states, loading behavior, and keyboard
+    paths are the little things that make software feel
+    delightful and trustworthy.
+
+  Who you are
+
+  Four or more years of software engineering experience, most
+  of it in frontend work, at companies with strong engineering
+  practices.
+
+  Strong frontend engineers tend to skew. Some toward visual
+  craft and interaction detail, some toward component systems
+  and data flow. We're hiring at both ends of that range, so
+  tell us which one you are. We have teams that need each.
+
+  Beyond that:
+
+  - You care about quality. You notice when something is a half-
+    step slow or has some jank in the animation, and it
+    bothers you enough that you fix it.
+  - You're curious about the domain. You'll learn enough about
+    trusts and transfer tax to argue about how they should be
+    presented.
+  - Day to day tools
+    - React, TypeScript, GraphQL (Apollo), and Playwright
+    - We use PostHog and Sentry for debugging, and Meticulous as
+      an additional sanity check on changes.
+    - Enough backend experience to shape the API you want to
+      consume.
+    - Curiosity substitutes fine for experience on any of it.
+  - You communicate well. With half the team remote,
+    overcommunication is the name of the game!
+
+  Why you'll love working here
+
+  - You'll be one of a small, senior team of engineers building
+    a complex and high-value product. You'll get a lot of
+    trust and responsibility early on.
+  - You'll work closely with our CEO, Head of Engineering, and
+    Head of Product.
+  - You'll help build foundational product in a nascent
+    category, with a lot of room to expand into large adjacent
+    markets.
+  - You'll ship constantly and hear fast feedback from
+    customers.
+
+  We earnestly believe that Luminary represents a one-of-a-
+  kind opportunity to have massive impact at profitable scale,
+  and to have a ton of fun along the way.
+
+  Benefits we offer
+
+  We believe firmly that happy, healthy employees do their
+  best work. To that end, we offer:
+
+  - 👩🏻‍⚕️ 100% employee health insurance coverage (plus 50%
+    dependent coverage)
+  - 🧘🏽‍♀️ Monthly wellness, commuter, and educational stipends
+  - 🏖️ 4 weeks PTO, plus holidays
+  - 🏢 NYC office near Bryant Park, for those who want it.
+    Remote-friendly by default.
+  - 💰 401(k) plan
+  - 👶 Parental leave policy
+
+  Compensation
+
+  - Base salary range of $170k–$225k, plus meaningful equity.
+    Actual compensation depends on many factors, including
+    relevant experience and skillset.
+  - At this time, Luminary is unable to sponsor employment visas
+    or provide immigration support.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-08-17
+url: "https://builtin.com/job/software-engineer-frontend/10719883"
+source: Built In

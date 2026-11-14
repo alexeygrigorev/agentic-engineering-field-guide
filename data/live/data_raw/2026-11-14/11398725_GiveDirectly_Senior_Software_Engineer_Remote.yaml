@@ -1,0 +1,321 @@
+job_id: 11398725
+title: Senior Software Engineer (Remote)
+company: GiveDirectly
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 750 Employees
+description: |
+  About GiveDirectly
+
+  What if the most effective way to fight poverty was also the
+  simplest: give people money and trust them to decide what
+  they need?
+
+  Since 2011, GiveDirectly has proven that idea at scale.
+  We’ve delivered more than $1B in cash directly to 2+ million
+  people living in poverty and crisis across 15 countries, and
+  rigorous research shows the results: healthier kids,
+  stronger businesses, sturdier homes, and more resilient
+  families and local economies. Cash is now widely recognized
+  as one of the most scalable, cost-effective, and dignified
+  forms of aid.
+
+  Our ambition goes beyond our own programs. We want cash to
+  become the benchmark for aid, much as the index fund became
+  the benchmark for investing, so that every aid dollar is
+  held to one question: is this doing more good than giving
+  the money directly to people living in poverty?
+
+  We’re growing fast, and this is a rare and important moment
+  to join.
+
+  We expect to hit $1B in revenue in 2026 with significant
+  growth forecast for 2027. At the same time we are building a
+  new technology stack and operating model designed for a
+  roughly 10x change in scale, and we are actively pursuing
+  partnerships with major funders to move even more money in
+  bigger ways, to people who need it. We are known for our
+  extensive integration of technology into field processes;
+  our quantitative approach to performance measurement; and
+  our commitment to rigorous, independent, experimental
+  evaluation of our impact, with multiple Randomized Control
+  Trials completed and others in progress.
+
+  How we work
+
+  Our team spans 20+ countries and 69 languages. Our culture
+  is candid, analytical, and non-hierarchical. We expect high
+  ownership and give people real responsibility early. Our
+  values are central to how we hire, work, and grow, and they
+  are deliberately opinionated:
+
+  - Recipients first. Recipients’ preferences come before those
+    of donors or ourselves.
+  - Team next. We optimize for organizational success, not
+    individual success.
+  - Be proactively candid. We say what we believe and share
+    information openly.
+  - Create positive energy. We aim to be a source of energy for
+    colleagues, not a drain.
+  - Think rigorously; act quickly. We reason from first
+    principles, then act rather than debate.
+  - Know yourself and grow. We own our imperfections and seek
+    feedback to grow.
+  - Accept reality. Propose solutions. We focus on what can
+    change and bring solutions, not just problems.
+  - Be productively ambitious. We take risks for step-change
+    impact, not incremental progress.
+
+  If they describe how you like to work and they energize you,
+  this could be a great fit.
+
+  Want to learn more? Read and listen:
+
+  We are one of Time100’s Most Influential Companies of 2026,
+  and our work has been covered by The Economist, NPR, TED,
+  and The Washington Post. We're now preparing to deliver
+  billions of dollars a year to people in extreme poverty, if
+  funding allows. Read our CEO's essay on what that will take.
+
+  You must be based in one of the countries on this list and
+  must overlap with East Africa Time and US Eastern Time
+  (8am-6pm) by at least 3 hours. As an example, 6PM East
+  Africa Time is 11AM US Eastern time in the summer and 10AM
+  in the winter. In practice, if you are in the Eastern US
+  timezone, that means being regularly available for 8AM
+  meetings and some 7AM ones. We know people have commitments
+  like school drop-offs, so you’re encouraged to set a
+  schedule that works for you—as long as there’s sufficient
+  overlap with the team. We are unable to sponsor or take over
+  sponsorship of employment Visas in the U.S. or U.K. at this
+  time.
+
+  About this role
+
+  Technology plays a central role in how GiveDirectly delivers
+  cash—whether that’s identifying recipients in hard-to-reach
+  places, sending payments quickly after disasters, or
+  powering the platforms our donors use to give.
+
+  We’re hiring a Senior Software Engineer to help build the
+  systems behind this work. Our engineering team still
+  operates like a startup within GiveDirectly—lean, fast-
+  moving, and high-autonomy. You’ll lean into product
+  thinking, help shape the roadmap, and collaborate closely
+  across disciplines to solve real-world problems. The
+  specific team you’ll join is still being finalized—it could
+  be:
+
+  - Our Programs Engineering team (getting cash in the hands of
+    people experiencing extreme poverty),
+  - Our Fundraising Engineering team (raising more money for
+    recipients), or
+  - Our International Rapid Response team (getting cash to
+    disaster-affected communities within 5 days of a
+    crisis—anywhere in the world)
+
+  No matter the team, you’ll play a central role in scaling
+  our impact: getting more money, to more people, more
+  efficiently.
+
+  This is a hands-on role with real ownership. You’ll help
+  shape architecture, ship production-ready code, and work
+  side-by-side with teammates across product, data, and
+  operations. We’re looking for someone excited to wear
+  multiple hats, move quickly, and define what great
+  engineering looks like in a mission-driven org
+
+  Level: Senior Software Engineer
+
+  Travel Requirement: Must be able to travel ~1-2 times per
+  year to one of our countries of operation for team retreats
+  or field visits.
+
+  What you’ll do:
+
+  - Design and build scalable, reliable systems that power our
+    core operations—whether that’s donor platforms, systems
+    that deliver payments directly to recipients, or crisis
+    response tools reaching hundreds of thousands of people
+    globally.
+  - Own end-to-end development of new features and services,
+    from architecture through deployment and monitoring.
+  - Improve our developer workflows by strengthening CI/CD
+    pipelines, reducing manual steps, and increasing test
+    coverage.
+  - Collaborate with cross-functional teams (product, ops, data)
+    to understand real-world needs and ship tools that
+    directly support program delivery in the field.
+  - Debug and resolve production issues across our stack, with a
+    focus on root cause analysis and long-term fixes.
+  - Advocate for sustainable engineering practices, including
+    testing, documentation, and monitoring
+  - Help shape our tech roadmap with an eye toward scale,
+    maintainability, and recipient experience
+
+  What you’ll bring:
+
+  - Exceptional alignment with GiveDirectly Values and active
+    demonstration of our core competencies: emotional
+    intelligence, problem solving, project management, follow-
+    through, and fostering inclusivity. We welcome and
+    strongly encourage applications from candidates who have
+    personal or professional experience in the low-income
+    and/or historically marginalized communities that we
+    serve.
+  - Language Requirement: English
+  - 4+ years of industry experience creating production-caliber
+    software and systems
+  - Experience with backend architecture: databases, cloud
+    services, APIs
+  - Experience building infrastructure to deploy software
+  - Experience with strongly-typed, object-oriented programming
+    such as Java, C#, Go, etc. and scripting languages such as
+    Python, Ruby, etc.
+  - High degree of ownership and autonomy - you proactively
+    advocate for ways to improve systems and constantly leave
+    our codebase in a better state than you found it
+  - Strong analytical skills and communication - able to break
+    down complex problems, describe technical trade-offs, and
+    collaborate with cross-functional partners (e.g. technical
+    program managers, product managers)
+  - Bonus: Experience using Python and AWS in a production
+    environment
+  - Bonus: experience with payments/financial software and/or
+    experience with microservice/serverless architecture
+
+  Compensation
+
+  At GiveDirectly, we strive to pay our employees generously
+  and equitably. We use an accredited third party salary
+  aggregator to calculate what we believe to be competitive
+  pay based on role, location, and cost of living. We also
+  have a no negotiation policy to ensure we are paying staff
+  equitably across roles. Read more about our compensation
+  philosophy here.
+
+  Unless otherwise noted, the benefits stipend may be used to
+  cover benefits or taken as additional taxable income.
+
+  United States
+
+  - Base Salary: $181,130
+  - Bonus at Target Performance: 15% (~$27,170, with potential
+    for upside. For reference, with the organization's current
+    performance multiplier, this amount would be ~$31,789 in
+    2025)
+  - Estimated Total Compensation at Target: $208,300+
+  - Annual Benefits Stipend: $21,393
+
+  United Kingdom
+
+  - Base Salary: £124,370
+  - Bonus at Target Performance: 15% (~£18,656, with potential
+    for upside. For reference, with the organization's current
+    performance multiplier, this amount would be ~£21,827 in
+    2025)
+  - Estimated Total Compensation at Target: £143,026+
+  - Annual Benefits Stipend: £2,760
+
+  Kenya
+
+  - Base Salary: $112,350
+  - Bonus at Target Performance: 15% (~$16,853, with potential
+    for upside. For reference, with the organization's current
+    performance multiplier, this amount would be ~$19,717 in
+    2025)
+  - Estimated Total Compensation at Target: $129,203+
+  - Annual Benefits Stipend: $8,453
+
+  This role is fully remote, so if you are not based in the
+  US, UK or Kenya, we will share an estimated salary benchmark
+  for the country you are based in during the hiring process.
+
+  Why work at GiveDirectly?
+
+  At GiveDirectly, we work to ensure that you have everything
+  you need to excel in your role and on your team, including:
+
+  - A positive and supportive team with opportunities for
+    advancement
+  - A demonstrated commitment to helping all staff develop and
+    grow
+  - A competitive salary, including bonus
+  - A robust health benefits plan (exact details will vary by
+    country)
+  - Unlimited PTO (that we encourage staff to take!)
+  - Desk allowance and flexible work location
+
+  About this specific hiring process
+
+  - Take-home coding assignment
+  - Live Coding (60 mins)
+  - Systems Design (60 mins)
+  - Project Deep Dive + Behavioral (60 mins)
+
+  *It’s possible that there will be adjustments to this
+  interview process. Any changes will be communicated to you
+  during the process.
+
+   #LI-REMOTE
+
+  Working at GiveDirectly
+
+  GiveDirectly is an Equal Opportunity Employer. All qualified
+  applicants are considered for employment without regard to
+  the person’s race, color, religion, national origin, sex,
+  sexual orientation, age, marital status, veteran status,
+  disability, or any other characteristic protected by
+  applicable law.
+
+  Flagging for US applicants: We invite you to "Know Your
+  Rights" as an applicant.
+
+  Commitment to Safeguarding
+
+  As a global organization working with communities to
+  eliminate extreme poverty, GiveDirectly takes the
+  safeguarding of its recipients, staff, and partners
+  seriously. To that end, GiveDirectly is a member of the
+  Misconduct Disclosure Scheme, and will systematically check
+  with previous employers about any abuse or misconduct
+  related matters involving potential new hires. We may also
+  employ other robust pre-hire screens, including in-depth
+  reference checks, criminal background checks, and sanctions
+  screens.
+
+  These efforts help us continue to build and maintain trust
+  with the communities we work with, and prevent abuse to our
+  recipients and staff.
+
+  **GD is committed to observing all local, national and
+  international laws that protect people and basic human
+  rights of all. GD is committed to a policy of “zero
+  tolerance when it comes to preventing,  reporting, or
+  responding to any form of abuse or  exploitation.” and
+  expects anyone who works for GD to uphold the protection and
+  safeguarding of our recipients as a priority.**
+
+  Reasonable Accommodations
+
+  We are committed to fostering an inclusive and accessible
+  work environment. If you require any accommodations during
+  the application or interview process, or to perform the
+  essential functions of the role, please email us at
+  careers@givedirectly.org with the email subject
+  “Accommodation Needed”. We will work with you to ensure
+  reasonable accommodations are made to support your needs.
+
+  Want to put your best foot forward on your GiveDirectly
+  application? Take a look at our Candidate Application Prep
+  Guide!
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Other
+  - Payments
+  - Social Impact
+posted_date: 2026-09-28
+url: "https://builtin.com/job/senior-software-engineer-remote/11398725"
+source: Built In

@@ -1,0 +1,144 @@
+job_id: 12236570
+title: Senior Software Engineer, Data Platform
+company: Commure
+location: New York, USA
+locations:
+  - New York, USA
+  - Los Angeles, USA
+  - Mountain View, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 159 Employees
+description: |
+  At Commure, we're building the AI Operating System for
+  healthcare, the foundation that defines how care is
+  delivered, documented, and financed. Our platform spans the
+  full care journey: Ambient AI and Dictation eliminating
+  documentation burden at the point of care, intelligent
+  Agents automating patient and revenue workflows, and
+  autonomous RCM processing billions in claims, all on a
+  single AI-native platform integrated with 60+ EHRs.
+
+  Healthcare carries a $1 trillion administrative burden and
+  we're at the center of transforming it. Today, 500,000+
+  clinicians across 500+ healthcare organizations nationwide
+  trust Commure to handle $25B+ in annual claims and support
+  over 200 million patient interactions. Our latest $70M raise
+  at a $7B valuation reflects the confidence the market has
+  placed in this mission. We've also been named to the Fortune
+  Future 50 list and the 2026 AI Breakthrough Awards for
+  “Overall NLP Company of the Year.”
+
+  Our team works directly alongside clinicians, not through
+  layers of process, which means the gap between what you
+  build and its impact on patient care is immediate. We move
+  fast, deploy daily, and take full ownership from early
+  thinking to production. If you're energized by hard
+  problems, high stakes, and a team that holds itself to a
+  high bar, you'll find your people here.
+
+  The future of healthcare is being built right now. Come
+  deliver this transformation.
+
+  About the Role
+
+  We're hiring a Senior Software Engineer to own Commure's
+  data warehouse platform end-to-end. You'll design, build,
+  and operate every layer of the stack:
+
+  - CDC pipelines
+  - Streaming transport
+  - Schema governance and data contracts
+  - Query and serving layer
+  - Analytics platform
+
+  The core stack today: Debezium for CDC, StarRocks as our MPP
+  query and serving engine, and dbt for transformation and
+  modeling. This is a hands-on IC role with broad scope.
+  You'll make architectural calls, write the code that matters
+  most, and establish the patterns and conventions on the data
+  platform.
+
+  What You'll Do
+
+  - Own the data warehouse platform end-to-end: CDC pipelines,
+    data lake, query layer, transformation layer, and the
+    analytics-facing tooling that sits on top.
+  - Design and operate CDC pipelines with Debezium (and Kafka,
+    Redpanda, or an equivalent streaming backbone) that move
+    data from operational databases into the warehouse with
+    low latency and high fidelity.
+  - Architect the data lake on object storage using an open
+    table format (Iceberg, Delta Lake, or Hudi) with Parquet,
+    enabling both batch and streaming workloads and clean
+    separation of storage from compute.
+  - Run and scale StarRocks (or adjacent MPP/lakehouse engines)
+    as the query and serving layer - schema design,
+    materialized views, ingestion patterns, tuning, and
+    cost/performance trade-offs.
+  - Build the transformation layer with dbt: modeling standards,
+    tests, documentation, and a semantic layer that gives
+    every team a single source of truth for metrics.
+  - Stand up orchestration (Airflow, Dagster, or similar) and
+    the CI/CD, observability, and data-quality tooling that
+    make the platform trustworthy day-to-day.
+  - Partner with Security and Compliance on PHI/PII handling,
+    access controls, lineage, and auditability so the platform
+    meets HIPAA and SOC 2 bar by default.
+  - Collaborate with product and analytics teams on schema
+    contracts, ingestion patterns, and self-serve tooling so
+    they can build on the platform with confidence.
+
+  What You Have
+
+  - 5+ years of software engineering experience, with
+    significant time building or operating data platforms at
+    scale.
+  - Experience across the modern data stack: CDC (Debezium or
+    equivalent), streaming (Kafka, Redpanda), data lake
+    formats (Iceberg, Delta, Hudi), an MPP or lakehouse query
+    engine (StarRocks, ClickHouse, Trino, Snowflake,
+    Databricks), and dbt.
+  - Fluent in SQL, schema design, query optimization, and
+    reasoning about cost and latency trade-offs on large
+    datasets.
+  - Experience running production data infrastructure
+    (orchestration, observability, on-call, data quality, and
+    incident response).
+
+  Preferred
+
+  - Direct experience with Debezium, StarRocks, and dbt in
+    production.
+  - Experience building semantic layers (dbt Semantic Layer,
+    Cube) or data catalogs / lineage (DataHub, OpenMetadata,
+    Amundsen).
+  - Experience with HIPAA-regulated data (PHI handling, de-
+    identification, and access governance).
+  - Experience powering AI/ML workloads: feature stores,
+    training-set curation, embedding pipelines, or retrieval
+    systems.
+  - Experience across multiple clouds (AWS, GCP, Azure),
+    infrastructure-as-code (Terraform, Pulumi) and Kubernetes
+    controllers.
+
+  Please be aware that all official communication from us will
+  come exclusively from email addresses ending in
+  @commure.com. Any emails from other domains are not
+  affiliated with our organization.
+
+  Employees will act in accordance with the organization’s
+  information security policies, to include but not limited to
+  protecting assets from unauthorized access, disclosure,
+  modification, destruction or interference nor execute
+  particular security processes or activities. Employees will
+  report to the information security office any confirmed or
+  potential events or other risks to the organization.
+  Employees will be required to attest to these requirements
+  upon hire and on an annual basis.
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-11-13
+url: "https://builtin.com/job/senior-software-engineer-data-platform/12236570"
+source: Built In

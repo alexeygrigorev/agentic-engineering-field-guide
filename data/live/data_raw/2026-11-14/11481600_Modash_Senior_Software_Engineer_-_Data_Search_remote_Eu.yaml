@@ -1,0 +1,230 @@
+job_id: 11481600
+title: Senior Software Engineer - Data Search (remote, Europe)
+company: Modash
+location: Berlin, DEU
+locations:
+  - Berlin, DEU
+  - Amsterdam, NLD
+  - Warsaw, POL
+  - Tallinn, EST
+  - Paris, FRA
+  - Prague, CZE
+remote: true
+work_type: FULL_TIME
+company_size: 56 Employees
+description: |
+  Hey, I'm Adrian. I’m hiring a Senior Software Engineer to
+  join the Data Search team at Modash.
+
+  Modash helps brands find, understand, and work with creators
+  across Instagram, TikTok, and YouTube. More than 2,700
+  companies (including Stanley 1913, Sennheiser, and NordVPN)
+  use us to manage and scale their creator partnerships.
+
+  Finding the right creators means making sense of a huge
+  amount of data. Data Search owns the systems that turn
+  creator profiles and content into searchable intelligence,
+  helping customers find relevant creators across 400M+
+  profiles quickly and reliably.
+
+  That’s where you come in.
+
+  Why we're hiring
+
+  Search at Modash isn't an internal platform or a support
+  function. It is one of the core products customers use to
+  discover creators.
+
+  The scale is large, the data is messy, and the search intent
+  is often complex. A customer might be looking for creators
+  in a specific niche, people whose content conveys a certain
+  visual style, or accounts that resemble a group they already
+  know. Solving that well requires more than adding another
+  filter or calling an LLM API.
+
+  We need a senior engineer who can work across the full
+  retrieval system, from data and indexing pipelines to
+  embeddings, ranking, relevance, and low-latency serving, and
+  take ambiguous product problems all the way to production.
+
+  You’ll join the specialised Data Search team and work
+  closely with Data Core, Data Insights, product teams,
+  customers, and company leadership. You’ll have real
+  autonomy, but you won’t work in isolation.
+
+  If you want a feel for how we think about building software,
+  check our Engineering Blog.
+
+  What you'll actually own
+
+  1. Make creator search meaningfully better.
+
+  You’ll improve how customers discover creators across 400M+
+  profiles and billions of media files. That includes
+  retrieval, filtering, ranking, relevance, speed, and the
+  product decisions that connect them.
+
+  2. Turn multimodal data into searchable intelligence.
+
+  You’ll build systems that generate and use embeddings from
+  images, video, text, and audio at massive scale, then make
+  those signals useful in a real customer-facing search
+  experience.
+
+  3. Ship new search capabilities into production.
+
+  You’ll evaluate models and technologies pragmatically,
+  understand tradeoffs around cost, latency, and quality, and
+  move promising approaches from experiment to a reliable
+  production system within weeks rather than quarters.
+
+  4. Own the system end to end.
+
+  You’ll help shape the problem, gather requirements, design
+  the architecture, write the code, release it, measure the
+  outcome, and improve it. Senior engineers here own results,
+  not just implementation tasks.
+
+  What the day-to-day looks like
+
+  Here’s what a typical week might include:
+
+  - Monday. A customer search is returning technically relevant
+    but unhelpful results. You inspect the retrieval and
+    ranking stages, identify where intent is being lost, and
+    propose a measurable improvement.
+  - Tuesday. Deep-focus time. You build a pipeline to generate
+    multimodal embeddings across a large batch of creator
+    content and test how the new representation affects
+    retrieval quality and cost.
+  - Wednesday. You work with Data Insights on a new in-house
+    datapoint. Together, you agree on its definition,
+    coverage, and data-quality requirements, then expose it in
+    Search to give customers more ways to discover creators.
+  - Thursday. You test a reranking model on a fixed set of real
+    customer queries. You measure how much it improves
+    relevance against the latency and inference cost it adds,
+    then decide what's ready for production.
+  - Friday. You review production metrics, investigate a
+    relevance regression, and share what you learned with the
+    team. The fix may be in the model, the data, the query
+    logic, or the product itself. You follow the evidence.
+
+  We keep meetings purposeful and protect time for deep work.
+  You’ll have a short standup, close collaboration when it
+  helps, and plenty of space to design, build, optimise, and
+  launch.
+
+  RequirementsWhat you've done before
+
+  - Built large-scale data or backend products. You have solid
+    experience working with systems where volume, latency,
+    reliability, and cost all matter.
+  - Shipped products from concept to production. You’ve owned
+    scoping, architecture, implementation, release,
+    measurement, and iteration, not just one layer of the
+    solution.
+  - Designed distributed systems. You can reason clearly about
+    throughput, failure modes, data flow, scalability, and
+    operational tradeoffs.
+  - Built LLM-powered or agentic features in production. You
+    understand the practical differences between models and
+    can balance capability against latency and cost.
+  - Worked autonomously on ambiguous problems. You know how to
+    gather requirements, ask useful questions, and turn
+    incomplete context into forward motion.
+  - Communicated clearly across teams. You can explain technical
+    tradeoffs to engineers and non-engineers, give direct
+    feedback, and collaborate without creating unnecessary
+    process.
+  - Worked in a fast-moving product environment. You’re
+    comfortable learning quickly, shipping incrementally, and
+    changing direction when the evidence does.
+
+  Bonus points if you’ve worked with multimodal embeddings,
+  vector databases, semantic search, ranking algorithms, model
+  deployment, self-hosted models, or GPU infrastructure.
+  Curiosity about the creator economy helps too, but we’ll get
+  you up to speed.
+
+  Our stack
+
+  - AWS and GCP, with Pulumi for infrastructure as code
+  - Python, TypeScript, and Node.js
+  - PySpark on AWS EMR
+  - Airflow
+  - Milvus Vector DB through Zilliz
+  - Elasticsearch
+  - LLM batch APIs
+  - Apache Iceberg
+  - SageMaker, DynamoDB, S3, Glue, Kinesis, Lambda, ECS, and
+    Aurora
+  - Slack, GitHub, Linear, Notion, and Cursor
+
+  The interview process
+
+  We move quickly and can complete the process in under a
+  week:
+
+  - Intro chat
+  - Coding interview
+  - System design interview
+  - Team interview
+  - Culture and alignment conversation with our CEO, Avery
+    Schrader
+
+  BenefitsWhat we offer
+
+  - Fully remote in Europe 🏠 Work from wherever you do your best
+    work, with some overlap with GMT+3.
+  - Compensation. Your compensation is made up of salary and
+    stock options. As we're growing fast, the stock option
+    package is especially significant. Annual salary range is
+    100,000€ - 130,000€ for this role. We hire across Europe,
+    so the exact number depends on your location, employment
+    type, skills, and experience.
+  - Flexible hours ⏱ We care about outcomes, not when you log
+    on.
+  - Unlimited paid vacation 🌴 If you’re rested and happy, you do
+    better work. Take what you need.
+  - Personal development support 🧠 Courses, books, and
+    conferences are on us when they help you grow.
+  - Real ownership 💡 Take difficult search problems from idea to
+    production without layers of unnecessary process.
+  - Regular offsites ✈️ We’re remote-first, but we make time to
+    connect, collaborate, and have fun together in person.
+
+  And a little more about us...
+
+  Founded in 2018 by a high-school dropout and a Canadian
+  (yes, we’re also shocked it’s going so well), Modash is
+  building a suite of tools that help brands scale
+  partnerships with online content creators.
+
+  2,700+ companies like Stanley 1913, Sennheiser, and NordVPN
+  already use Modash to manage and scale their influencer
+  marketing work. And we're just getting started. Over the
+  coming decade, brand investment in creators will continue to
+  boom, and Modash will be at the centre of it all.
+
+  Modash is here to stay. We have 8-figures in ARR across two
+  products, a $12M series A investment, and we are default
+  alive. We are building a company that will still be here in
+  20 years; not rushing towards an exit.
+
+  We’re almost 100 people distributed across 20+ countries,
+  operating with a fast, async-first culture. If you join
+  Modash, you’ll be surrounded by people who truly want to be
+  the greatest at their craft. People who make you better.
+  Interesting people too, who have done everything from
+  building solar cars, to hanging out with Metallica and Bon
+  Jovi.
+
+  Come join us. Be great, do great things, create great
+  memories, all while making a great impact. Do it.
+industries:
+  - Marketing Tech
+  - Software
+posted_date: 2026-10-02
+url: "https://builtin.com/job/senior-software-engineer-data-search-remote-europe/11481600"
+source: Built In

@@ -1,0 +1,148 @@
+job_id: 10033694
+title: Senior Software Engineer, Release Infra
+company: Brex
+location: New York, USA
+work_type: FULL_TIME
+company_size: 800 Employees
+description: |
+  Why join us
+
+  Brex is the intelligent finance platform that enables
+  companies to spend smarter and move faster in more than 200
+  markets. By combining global corporate cards and banking
+  with intuitive spend management, bill pay, and travel
+  software, Brex enables founders and finance teams to
+  accelerate operations, gain real-time visibility, and
+  control spend effortlessly. Brex’s AI-native automation and
+  world-class service eliminate manual expense and accounting
+  tasks for customers so they can focus on what matters most.
+  Tens of thousands of the world's best companies run on Brex,
+  including DoorDash, Coinbase, Robinhood, Zoom, Plaid,
+  Reddit, and SeatGeek.
+
+  Working at Brex allows you to push your limits, challenge
+  the status quo, and collaborate with some of the brightest
+  minds in the industry. We’re committed to building a diverse
+  team and inclusive culture and believe your potential should
+  only be limited by how big you can dream. We make this a
+  reality by empowering you with the tools, resources, and
+  support you need to grow your career.
+
+  Engineering at Brex
+
+  Engineering at Brex is about building systems that scale
+  with speed and intention. Our teams span Software, Data,
+  Security, and IT, and operate with high autonomy and deep
+  collaboration. We tackle hard technical problems, own our
+  outcomes, and push for excellence at every level — from
+  architecture to deployment. It’s an environment where
+  engineering is a craft, and builders become leaders.
+
+  What you’ll do
+
+  As a Senior Software Engineer, Infrastructure (Release
+  Engineering) at Brex, you will design, build, and operate
+  the core systems that power Brex’s release, observability,
+  and incident management processes. You will partner closely
+  with product, platform, and operations teams to ensure
+  releases are safe, fast, and reliable, and that our
+  infrastructure scales securely as Brex grows.
+
+  Where you’ll work
+
+  This role will be based in our New York office. We are a
+  hybrid environment that combines the energy and connections
+  of being in the office with the benefits and flexibility of
+  working from home. We currently require a minimum of three
+  coordinated days in the office per week on Monday, Wednesday
+  and Thursday. As a perk, we also have up to four weeks per
+  year of fully remote work!
+
+  Responsibilities
+
+  - Design, build, and maintain the release infrastructure that
+    powers Brex’s deployment pipelines and incident workflows
+  - Drive technical strategy and architecture for release and
+    observability systems, making them more scalable,
+    reliable, and secure
+  - Collaborate with product, engineering, and operations
+    partners to ensure Brex’s releases are safe, predictable,
+    and low-friction
+  - Identify and deliver improvements to the end-to-end release
+    process (from code merge to production) to reduce risk and
+    cycle time
+  - Build and evolve tooling for observability and incident
+    response, enabling fast detection, triage, and resolution
+  - Proactively identify and mitigate risks in our release and
+    infrastructure stack, including performance, reliability,
+    and security concerns
+  - Define, instrument, and monitor key metrics for release
+    engineering (e.g., deployment frequency, change failure
+    rate, MTTR) and use them to guide improvements
+  - Partner with other infrastructure and product teams to debug
+    complex production issues and drive long-term fixes
+  - Contribute to and champion best practices in release
+    engineering, reliability, and operational excellence
+    across the organization
+  - Mentor other engineers on the team, providing technical
+    guidance and code reviews to elevate the overall quality
+    of our infrastructure
+  - Stay up-to-date on emerging tools and practices in release
+    engineering, observability, and SRE, and bring relevant
+    ideas into Brex’s stack
+
+  Requirements
+
+  - 7+ years of professional experience designing, building, and
+    operating backend or infrastructure systems in production
+  - Strong proficiency in backend programming languages (e.g.,
+    Go, Java, Kotlin, or Python) with a focus on reliability
+    and performance
+  - Hands-on experience with CI/CD and release pipelines (e.g.,
+    GitHub Actions, CircleCI, Buildkite, Argo, Spinnaker,
+    Jenkins) including build, test, and deployment automation
+  - Experience architecting and operating scalable, high-
+    availability distributed systems on cloud platforms (e.g.,
+    AWS, GCP, Azure)
+  - Deep familiarity with containerization and orchestration
+    (e.g., Docker, Kubernetes) and infrastructure-as-code
+    (e.g., Terraform, CloudFormation)
+  - Experience designing and maintaining observability tooling
+    (metrics, logs, tracing) and integrating it into incident
+    response workflows
+  - Strong understanding of reliability and SRE practices,
+    including SLIs/SLOs, error budgets, and incident
+    management best practices
+  - Experience designing and optimizing data storage systems
+    (SQL and/or NoSQL) for operational and observability use
+    cases
+  - Proven track record of improving release processes (e.g.,
+    reducing deployment risk, increasing deployment frequency,
+    automating rollbacks)
+  - Comfort working cross-functionally with product and other
+    engineering teams to debug complex production issues and
+    ship changes safely
+  - Strong communication and collaboration skills, including
+    writing clear design docs and driving technical decisions
+    across teams
+
+  Compensation
+
+  The expected salary range for this role is $192,000 -
+  $240,000.  However, the starting base pay will depend on a
+  number of factors, including the candidate’s location,
+  skills, experience, market demands, and internal pay parity.
+  Depending on the position offered, equity and other forms of
+  compensation may be provided as part of a total compensation
+  package.
+
+  Brex LLC is a wholly owned subsidiary of Capital One, N.A.
+
+  Please be aware, job-seekers may be at risk of targeting by
+  malicious actors looking for personal data. Brex recruiters
+  will only reach out via LinkedIn or email with a brex.com
+  domain. Any outreach claiming to be from Brex via other
+  sources should be ignored.
+posted_date: 2026-08-22
+url: "https://builtin.com/job/senior-software-engineer-release-infra/10033694"
+source: Built In

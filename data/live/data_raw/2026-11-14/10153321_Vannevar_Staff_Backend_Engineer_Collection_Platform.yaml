@@ -1,0 +1,154 @@
+job_id: 10153321
+title: Staff Backend Engineer, Collection Platform
+company: Vannevar
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 225 Employees
+description: |
+  Vannevar builds AI systems for the Department of War's most
+  consequential missions. We have 125 deployments across every
+  branch and combatant command spanning our core platform and
+  five distinct products. An an example of how we work, when
+  major combat operations started with Iran, we fielded a new
+  product supporting 24/7 operations and 9,000+ users in three
+  months. How we build is our advantage: we deploy forward
+  with the people who own the mission. Our engineers, product
+  team, and CTO deploy forward to the point of friction,
+  including visiting units in Ukraine. We focus on embedding
+  directly with operational units supporting great power
+  competition with China, combat operations with Iran, and
+  counter-narcotics missions.
+
+  About the Role
+
+  At Vannevar, we build mission software for the national
+  security, defense, and intelligence communities. The
+  Collection Platform team builds the systems that acquire
+  mission-critical data from websites, APIs, feeds, and third-
+  party platforms.
+
+  In this role, you’ll be a hands-on technical leader for
+  collection and ingestion systems. You’ll build web scrapers,
+  third-party integrations, and data pipelines that produce
+  complete, correct, and timely data despite unreliable
+  upstream systems. You’ll partner across engineering,
+  product, and mission teams to meet mission needs.
+
+  What you’ll do
+
+  - Shape the architecture and technical direction of collection
+    and ingestion systems, looking 6–12 months ahead to
+    identify needs and develop plans to address them.
+  - Build and operate production web scrapers, third-party
+    integrations, and data pipelines, delivering major
+    services and infrastructure with impact across the
+    organization.
+  - Design for schema changes, rate limits, authentication
+    requirements, and partial failures. Set collection
+    schedules based on source change frequency, user needs,
+    downstream capacity, and cost.
+  - Build reliable retry, backfill, deduplication, idempotency,
+    and replay mechanisms.
+  - Define and monitor data completeness, correctness,
+    freshness, duplication, and provenance.
+  - Develop APIs, databases, and shared services for collection
+    workflows; simplify systems and processes so teams can
+    deliver more with less work.
+  - Make sustained improvements to the stability, performance,
+    and scalability of mission-critical collection systems.
+  - Partner with mission, product, and platform teams to
+    evaluate sources, prioritize what to collect or repair,
+    and measure whether collected data meets user needs.
+  - Guide engineers through design and code reviews, technical
+    mentorship, and clear communication of decisions and
+    standards.
+
+  What we’re looking for
+
+  - You have 8+ years of backend engineering experience,
+    including deep, hands-on experience building and operating
+    production collection or ingestion systems—for example,
+    web crawlers, third-party data integrations, ETL
+    pipelines, or change data capture systems.
+  - You have led the design and delivery of large services,
+    complex libraries, or major infrastructure, with impact
+    beyond a single team.
+  - You have a record of improving the stability, performance,
+    and scalability of business-critical systems and
+    maintaining data quality across large, changing datasets.
+  - You have designed systems that tolerate upstream failures
+    and changing external interfaces.
+  - You make thoughtful architectural tradeoffs among
+    reliability, scalability, performance, maintainability,
+    and cost.
+  - You communicate technical decisions clearly and work well
+    across engineering, product, and mission teams.
+  - U.S. Person status is required, as this role requires access
+    to U.S.-only data systems and the ability to obtain a
+    security clearance.
+
+  Additional Qualifications
+
+  - Experience with distributed task processing, workflow
+    orchestration, or large-scale data pipelines.
+
+  What we offerCompetitive Salary
+
+  The base salary range for this position is $160,000 -
+  $240,000. We hire engineers at multiple levels based on
+  their experience, technical capabilities, and scope of
+  responsibility. This range reflects the base salaries we
+  typically expect to offer for this role, with individual
+  offers determined by the candidate's qualifications and
+  level.
+
+  Equity is offered in addition to base salary.
+
+  Comprehensive Benefits
+
+  We’re proud to offer competitive benefits that support our
+  employees. Some key highlights of our benefits package
+  include:
+
+  - Health, dental, and vision insurance
+  - Remote friendly with WeWork access
+  - Unlimited PTO, shared downtime during the federal holiday
+    calendar, and company-wide off time at the end of each
+    year
+  - 401(k) match
+  - Lifestyle & wellbeing stipends
+  - Salary top-up during military reserve duty
+  - Fully paid parental leave
+  - Child and pet care reimbursement during travel
+
+  Vannevar is an equal opportunity employer, and qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, sexual orientation,
+  gender perception or identity, national origin, age, marital
+  status, protected veteran status, or disability status.
+
+
+
+  We encourage candidates from all backgrounds to apply, even
+  if you don't feel like you're a perfect fit. If you're
+  passionate about contributing to our mission, we'd love to
+  hear from you!
+
+
+
+  IMPORTANT NOTICE We are committed to protecting the privacy
+  of all applicants. Official emails from the company will
+  come from an @vannevarlabs.com domain. Under no
+  circumstances will a legitimate representative from our
+  company contact you to request passwords, financial
+  information, or other sensitive personal data. Please be
+  vigilant of potential scams.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Defense
+posted_date: 2026-09-22
+url: "https://builtin.com/job/senior-backend-engineer-collection/10153321"
+source: Built In

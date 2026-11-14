@@ -1,0 +1,168 @@
+job_id: 10840537
+title: "Staff/Senior Software Engineer, Document Intelligence & Data Infrastructure"
+company: Helios (heliosintel.ai)
+location: New York, USA
+work_type: FULL_TIME
+company_size: 8 Employees
+description: |
+  Staff/Senior Software Engineer, Document Intelligence & Data
+  Infrastructure
+
+  New York City | Full-time | On-site in SoHo, five days per
+  week
+
+  Reports to the CTO and works directly with the founding team
+
+  ABOUT HELIOS
+
+  Helios is building a new kind of company to solve America’s
+  hardest problems, starting with the government interaction
+  layer.
+
+  Government shapes every consequential market, but the
+  infrastructure connecting public institutions and private
+  organizations remains fragmented, manual, and difficult to
+  navigate. Helios is rebuilding that layer.
+
+  Our core platform, Proxi, gives organizations the
+  intelligence they need to understand what government is
+  doing, why it matters, and what to do next. From that
+  foundation, we design and deploy secure, mission-specific
+  systems for government agencies, enterprises, and
+  institutions operating in complex and highly regulated
+  environments.
+
+  We bring together frontier AI, deep public-sector expertise,
+  and forward-deployed execution. Our team includes leaders
+  and builders from the White House, U.S. Department of State,
+  Datadog, and Microsoft. We are backed by leading
+  institutional investors and trusted by organizations working
+  on high-stakes problems across government and industry.
+
+  MISSION
+
+  Build and operate the acquisition and processing
+  infrastructure that turns global public-sector and open-
+  source data into reliable, searchable intelligence. This
+  role owns the path from source discovery and collection
+  through normalization, extraction, enrichment, and
+  publication. You will expand our platform to include new
+  countries, languages, institutions, and source formats
+  covering many additional areas of open source intelligence
+  to advance Proxi’s natural capabilities. We are looking for
+  a senior engineer who has built and operated large-scale
+  acquisition or document-processing systems in production.
+  Expected areas of expertise:
+
+  - Web crawlers and connectors for continuously changing
+    international sources.
+  - Fault-tolerant pipelines with reliable scheduling, recovery,
+    replay, and backfill capabilities.
+  - Processing complex documents, structured files, images,
+    audio, and video across languages.
+  - Stable schemas, source lineage, correction propagation.
+  - Operating secure, observable, scalable, and cost-efficient
+    processing systems across cloud and restricted
+    environments.
+  - Document conversion, OCR, layout analysis, and structural
+    extraction across complex file formats.
+  - Multilingual audio, video, and document processing with
+    reliable alignment and attribution.
+  - Scalable inference infrastructure for batch and real-time
+    processing across CPU and GPU workloads.
+  - End-to-end provenance, versioning, correction propagation,
+    and reproducible reprocessing.
+  - Secure handling of untrusted content with rigorous quality
+    evaluation, observability, and cost controls.
+
+  KEY RESPONSIBILITIES
+
+  - Expand Proxi’s ingestion and document-processing platform
+    from source acquisition through downstream publication.
+  - Construct crawling and connector infrastructure required to
+    discover, acquire, and continuously maintain international
+    data sources.
+  - Scale the distributed processing environment that supports
+    document conversion, extraction, transcription,
+    enrichment, replay, and backfills.
+  - Establish common data contracts that normalize heterogeneous
+    and multilingual sources without discarding their
+    jurisdictional context or provenance.
+  - Maintain pipeline reliability, security, observability, and
+    cost efficiency while ensuring corrections propagate
+    through every downstream system.
+  - Build and operate real-time audio intelligence pipelines for
+    low-latency multilingual transcription, speaker
+    attribution, timestamp alignment, and confidence-
+    calibrated tone analysis across live and recorded media.
+
+  NICE TO HAVE
+
+  - Experience building international public-sector data
+    pipelines across languages and jurisdictions.
+  - Production experience with real-time transcription, speaker
+    diarization, and tone or prosody analysis.
+  - Experience operating large-scale web acquisition against
+    complex and frequently changing sources.
+  - Familiarity with legal, legislative, regulatory, archival,
+    or similarly difficult corpora.
+  - Experience deploying secure processing systems in GovCloud,
+    air-gapped, or other restricted environments.
+
+  WORKING AT HELIOS
+
+  This is a full-time, in-person role based in our SoHo office
+  in New York City. Team members are expected to work from the
+  office five days per week when they are not deployed with
+  customers.
+
+  Certain customer engagements may require background checks,
+  security reviews, access approvals, or eligibility for a
+  U.S. government security clearance. Some projects may be
+  subject to U.S. citizenship or other customer-specific
+  access requirements.
+
+  We're not looking for passengers; we want driven innovators
+  with a hunger to build from the ground up - obsessed with
+  pushing the boundaries of natural language understanding,
+  document processing, and personalized relevance.
+
+  Helios is a fast-moving startup with ambitious goals. This
+  is not a conventional 9-to-5 role. We expect flexibility
+  during critical deployment periods, customer incidents,
+  product launches, and other company-critical work. In
+  return, this role offers unusual ownership, direct access to
+  consequential institutions, and the opportunity to build
+  systems that affect how major decisions are made.
+
+  HOW WE WORK
+
+  - Own outcomes, not just assigned tasks. Identify what needs
+    to happen and drive it through completion.
+  - Move quickly without lowering the standard. Speed and rigor
+    are complementary.
+  - Stay close to the mission and the user. The best decisions
+    begin with the real problem.
+  - Work across boundaries. Everyone contributes beyond the
+    narrow limits of a job title.
+  - Communicate directly. We value clear thinking, honest
+    feedback, and low-ego collaboration.
+  - Build for the real world. Our systems must perform in
+    complex, regulated, and high-stakes environments.
+
+  EQUAL OPPORTUNITY
+
+  Helios is an equal opportunity employer. We evaluate
+  candidates based on their abilities, experience, and
+  potential to contribute to our mission. We do not
+  discriminate on the basis of race, color, religion, sex,
+  gender identity or expression, sexual orientation, national
+  origin, age, disability, veteran status, or any other status
+  protected by applicable law.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-08-25
+url: "https://builtin.com/job/staff-senior-software-engineer-document-intelligence-data-infrastructure/10840537"
+source: Built In

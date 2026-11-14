@@ -1,0 +1,166 @@
+job_id: 11974414
+title: Senior Software Engineer, Site Reliability
+company: Freenome
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 372 Employees
+description: |
+  About this opportunity:
+
+  Do you have what it takes to be a Freenomer? A “Freenomer”
+  is a determined, mission-driven, results-oriented employee
+  fueled by the opportunity to change the landscape of cancer
+  and make a positive impact on patients’ lives. Freenomers
+  bring their diverse experience, expertise, and personal
+  perspective to solve problems and push to achieve what’s
+  possible, one breakthrough at a time.
+
+  Our Site Reliability Engineering (SRE) team is a new and
+  critical function at Freenome. As a founding member of the
+  team, you’ll help define the culture and build the systems
+  that keep our regulated, cloud-based production environments
+  reliable as we transition from research to commercial
+  operations. This is an opportunity to do meaningful
+  engineering work that will directly save lives.
+
+  We value:
+
+  - Reliability as a product feature
+  - Continual improvement and learning
+  - Automate all the things!
+  - Technical simplicity and clarity
+  - Blameless postmortems and transparent communication
+
+  As a Site Reliability Engineer, you will help design,
+  implement, and operate observability, reliability, and
+  incident management systems and practices across our
+  clinical lab systems and regulated commercial workloads.
+  You’ll partner with engineering teams to define service-
+  level indicators (SLIs), objectives (SLOs), and error
+  budgets; build runbooks and operational playbooks; and
+  develop the monitoring and automation needed to ensure that
+  our systems are reliable and compliant.  This will also
+  include contributions to system code, Infrastructure
+  deployments and automation.
+
+  This role is ideal for an engineer with experience running
+  production workloads in the cloud, who is excited to build
+  an SRE practice from the ground up in a regulated
+  environment.
+
+  The role reports to the Director, Cloud Infrastructure.
+
+  What you’ll do:
+
+  - Define and implement observability practices (metrics,
+    traces, dashboards, logs, alerts) for production systems.
+  - Partner with product, engineering, and lab teams to develop
+    and maintain incident response playbooks and escalation
+    procedures.
+  - Partner with engineering teams to define SLIs/SLOs and
+    establish error budgets.
+  - Participate in on-call rotation for production systems,
+    champion a focus on automation and self-healing.
+  - Contribute to production deployment and change-management
+    processes that meet FDA and compliance requirements.
+  - Automate operational tasks, reducing manual intervention.
+  - Contribute to production systems and designs with the goal
+    of improving reliability.
+  - Use Infrastructure as Code (IaC) to manage and deploy team
+    owned infrastructure and subsystems
+  - Help build out the SRE practice.
+  - Work closely with engineering, product, and lab teams to
+    understand service reliability needs.
+  - Partner with TPMs, RA/QA, and compliance stakeholders to
+    align operational practices with regulatory requirements.
+  - Participate in cross-functional incident reviews and
+    postmortems.
+  - Share knowledge and document operational standards for
+    consistency and onboarding.
+  - Design and run fire drills / tabletop exercises as well as
+    disaster recovery exercises
+  - Independently drive reliability improvements in scoped
+    systems or services.
+  - Provide mentorship to peers on observability, incident
+    management, and operational best practices.
+  - Help build and evolve Freenome’s reliability practices and
+    contribute to team strategy discussions.
+
+  Must haves:
+
+  - Bachelor’s degree in Computer Science, Engineering, or
+    equivalent experience.
+  - 5+ years in software engineering or Infra/DevOps/SRE roles
+    (Python or Go preferred).
+  - Experience deploying cloud infrastructure via automation
+    (e.g. Terraform, Pulumi, Bicep/ARM, etc.)
+  - Hands-on experience operating production workloads in cloud
+    environments.
+  - Familiarity with Kubernetes (AKS, GKE, or EKS).
+  - Strong troubleshooting and root-cause analysis skills in
+    distributed systems.
+  - Experience with observability platforms (e.g., DataDog,
+    Prometheus/Grafana, OpenTelemetry).
+  - Ability to define and implement metrics, dashboards, and
+    alerting.
+  - Demonstrated ability to work autonomously and own technical
+    outcomes.
+  - Strong understanding of cloud Infrastructure and Networking
+    architectures and automation.
+
+  Nice to haves:
+
+  - Experience supporting regulated environments (healthcare,
+    biotech, financial).
+  - Familiarity with compliance-driven change management and
+    release processes (FDA, HIPAA).
+  - Experience with incident management platforms (e.g.,
+    Incident.io, ServiceNow, Opsgenie, Pagerduty).
+  - Knowledge of CI/CD deployment strategies and change
+    automation.
+  - Experience with both GCP and Azure cloud platforms.
+  - Interest in mentorship and system reliability practices at
+    scale.
+
+  Benefits and additional information:
+
+  The US target range of our base salary rate for new hires is
+  $131,325 - $189,525. You will also be eligible to receive
+  equity, cash bonuses, and a full range of medical,
+  financial, and other benefits depending on the position
+  offered.  Please note that individual total compensation for
+  this position will be determined at the Company’s sole
+  discretion and may vary based on several factors, including
+  but not limited to, location, skill level, years and depth
+  of relevant experience, and education. We invite you to
+  check out our career page @ freenome.com/job-openings/ for
+  additional company information.
+
+  Freenome is proud to be an equal-opportunity employer, and
+  we value diversity. Freenome does not discriminate on the
+  basis of race, color, religion, marital status, age,
+  national origin, ancestry, physical or mental disability,
+  medical condition, pregnancy, genetic information, gender,
+  sexual orientation, gender identity or expression, veteran
+  status, or any other status protected under federal, state,
+  or local law.
+
+  Applicants have rights under Federal Employment Laws.
+
+  - Family & Medical Leave Act (FMLA)
+  - Equal Employment Opportunity (EEO)
+  - Employee Polygraph Protection Act (EPPA)
+
+  California applicants please review the CCPA Notice at
+  Collection here:
+
+  - California Consumer Privacy Act (CCPA)
+
+  #LI-Remote
+industries:
+  - Healthtech
+  - Biotech
+posted_date: 2026-10-29
+url: "https://builtin.com/job/senior-software-engineer-site-reliability/11974414"
+source: Built In

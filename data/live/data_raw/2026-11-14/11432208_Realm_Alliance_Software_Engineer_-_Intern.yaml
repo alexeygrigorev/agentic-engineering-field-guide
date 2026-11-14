@@ -1,0 +1,105 @@
+job_id: 11432208
+title: Software Engineer - Intern
+company: Realm Alliance
+location: USA
+remote: true
+work_type: INTERN
+company_size: 12 Employees
+description: |
+  Company Overview
+
+  Realm builds AI for the mining industry. We integrate with
+  existing mine infrastructure — cameras, SCADA systems,
+  drones, and data repositories — to predict equipment
+  failures, detect unsafe behaviors, and optimize operations.
+  Our platform deploys intelligence in various ways to improve
+  productivity and safety — monitoring PPE compliance via
+  computer vision, optimizing froth flotation processes,
+  analyzing longwall shearer performance, tracking MSHA
+  citation patterns, and more.
+
+  Our founders started their careers at Palantir before going
+  on to build Blend Labs (publicly traded fintech, founded as
+  CTO) and Even (acquired by Walmart). Our leadership team
+  brings experience from Uber, Metropolis, and other high-bar
+  organizations. We're a small, senior team that ships daily
+  to production mines.
+
+  AI isn't just our product — it's how we build. We're an AI-
+  first engineering team that uses the latest models and
+  tooling throughout our development process, moving faster
+  and at higher quality than traditional teams our size.
+
+  Our culture values high agency, deep ownership,
+  collaboration, and autonomy across a fully remote workforce.
+  Teams here move quickly and make meaningful contributions to
+  a product that shapes global industrial outcomes.
+
+  What You'll Do
+
+  As an intern at Realm, you'll work alongside full-time
+  engineers on real features that run at active mine sites -
+  not toy projects or internal tooling.
+
+  - Contribute to our TypeScript backend serving real-time
+    mining operations data
+  - Build and ship features end-to-end
+  - Work on applied AI features using LLMs (Claude, GPT, Gemini)
+    for intelligent analysis and automation
+  - Contribute to computer vision pipelines leveraging LLMs and
+    services like AWS Rekognition and TensorFlow
+  - Deploy code to production via Kubernetes with CI/CD
+  - Interact directly with users and translate real-world
+    operational challenges into features
+  - Work closely with our CEO -- former CTO and Cofounder of
+    Blend Labs -- and a senior engineering team invested in
+    your growth
+
+  What We're Looking For
+
+  Must-Have Qualifications
+
+  - Currently a Junior or Senior pursuing a BS in Computer
+    Science or a related field
+  - Strong CS fundamentals - data structures, algorithms, and
+    system design
+  - Proficiency with agentic coding tools (Claude Code, Codex,
+    or Cursor)
+  - Comfort working across the stack, you don't need to be an
+    expert in everything, but you're willing to figure things
+    out
+
+  Nice-to-Have Qualifications
+
+  - Prior internship or project experience in a production
+    codebase
+  - TypeScript experience
+  - AI or computer vision experience
+
+  Interview Process
+
+  - Engineering quiz (async, ~60 min) — 8-question code reading
+    and analysis assessment. No trick questions — we're
+    testing how you think about real code.
+  - Live coding interviews — Algorithmic problem solving and a
+    simulated development task.
+  - Behavioral interview with senior leadership — Culture fit,
+    working style, and past experience.
+
+  Why Realm?
+
+  - Work on mission-critical problems at the intersection of AI,
+    security, and global infrastructure
+  - Competitive paid internship compensation
+  - Real ownership: your code ships to production mines
+  - Direct mentorship from a senior engineering team with deep
+    startup and industry experience
+  - Dynamic, remote work environment with global reach
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Industrial
+posted_date: 2026-09-30
+url: "https://builtin.com/job/software-engineer-intern/11432208"
+source: Built In

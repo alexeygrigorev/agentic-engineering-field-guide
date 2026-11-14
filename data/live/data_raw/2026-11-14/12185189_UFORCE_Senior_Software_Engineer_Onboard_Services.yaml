@@ -1,0 +1,149 @@
+job_id: 12185189
+title: Senior Software Engineer (Onboard Services)
+company: UFORCE
+location: London, GBR
+work_type: FULL_TIME
+company_size: 1,000 Employees
+description: |
+  UFORCE exists to make aggression unaffordable. Founded in
+  Ukraine and headquartered in London, UFORCE is a defence-
+  technology company with operations across Europe, the United
+  States and Asia. UFORCE builds uncrewed vessels, ground
+  robotics and aircraft, autonomy software, and the command-
+  and-control layer that operates them together. Each platform
+  is deployable on its own, and stronger as part of the
+  system. Its product lines include the MAGURA family of
+  uncrewed surface vessels, the NEMESIS family of strike
+  platforms, the LIUT family of ground robotic platforms, and
+  counter-UAS systems.
+
+  About the role
+
+  The Senior Software Engineer (Onboard Services) will design,
+  build, and operate the software services that run on
+  UFORCE’s uncrewed vehicles — spanning video streaming,
+  telemetry, autonomy integration, vehicle control, health
+  monitoring, navigation, and device integrations.
+
+  You will turn independently evolved services into one
+  secure, testable, and maintainable onboard platform. This is
+  a hands-on software engineering role focused on production
+  Python services, service architecture, messaging, and
+  reliable operation on constrained Linux hardware, including
+  Raspberry Pi, x86, and NVIDIA Jetson.
+
+  You will also own the boundary between the vehicle and the
+  backend: clear, versioned contracts with cloud services,
+  deployment systems, video infrastructure, and operator
+  interfaces that work over intermittent, low-bandwidth links.
+  Working with backend, autonomy, hardware, QA, and field
+  teams, you will make releases predictable and catch failures
+  on the bench, not in the field.
+
+  What you’ll do
+
+  - Define and evolve a unified onboard service architecture:
+    service boundaries, messaging, configuration, startup
+    ordering, readiness, watchdogs, and graceful degradation
+    when dependencies or devices are unavailable.
+  - Build and migrate production services to shared patterns,
+    using reusable libraries and a reference service template
+    covering project structure, packaging, logging, health
+    reporting, and lifecycle management.
+  - Standardise local service communication around NATS, with
+    clear rules for integrating MAVLink, ZMQ IPC, and HTTP
+    where appropriate.
+  - Design stable, versioned vehicle-to-backend contracts for
+    telemetry, commands and acknowledgements, video metadata
+    and control, configuration, health, and logs.
+  - Engineer for unreliable connectivity: buffering and store-
+    and-forward, idempotent commands, explicit
+    acknowledgements and timeouts, reconnection, back-off, and
+    safe behaviour when the backend is unreachable.
+  - Implement secure-by-default services: least-privilege
+    identities and messaging permissions, mutually
+    authenticated and encrypted backend links, secure
+    credential provisioning and rotation, sandboxed runtimes,
+    and audit events for safety-critical commands.
+  - Strengthen automated testing across unit, contract,
+    integration, simulation, and hardware-in-the-loop tests,
+    with CI gates that catch regressions before release.
+  - Build safer release workflows with signed packages,
+    dependency scanning, bench smoke and soak tests, staged
+    fleet rollouts, and reliable rollback.
+  - Profile services and enforce practical CPU, memory, and
+    latency budgets on target hardware.
+  - Improve field diagnostics through structured logs, metrics,
+    standardised health reporting, post-mission log capture,
+    and actionable runbooks.
+  - Document architectural decisions and service interfaces,
+    communicate trade-offs clearly, and use AI coding tools to
+    accelerate delivery without compromising quality.
+
+  What success looks like
+
+  - Actively developed onboard services converge on a shared
+    architecture, supported Python runtime, messaging model,
+    and service template.
+  - Engineers can take a new service from an empty repository to
+    running on a bench vehicle in a day or less, with less
+    duplicated infrastructure code.
+  - Vehicle-to-backend contracts remain compatible as cloud and
+    vehicle software evolve at different speeds, preventing
+    integration failures in the field.
+  - Authentication, least privilege, secret handling, runtime
+    hardening, and supply-chain checks are consistently
+    applied across the onboard stack.
+  - Automated tests and bench validation catch defects before
+    deployment, reducing issues discovered in the field.
+  - Releases move predictably from bench validation to pilot
+    vehicles and the wider fleet, with clear readiness gates
+    and rollback procedures.
+  - Services stay within resource budgets and remain diagnosable
+    under hardware constraints and degraded connectivity.
+  - Architecture documentation and runbooks help engineering,
+    QA, and field teams integrate changes and resolve failures
+    faster.
+
+  Required Qualifications
+
+  - 7+ years of professional software engineering, delivering
+    and operating production services.
+  - Strong Python — experience designing and shipping production
+    services, including asyncio, packaging, testing, and
+    profiling; Node.js experience is a plus.
+  - Web development and API experience — experience building and
+    evolving HTTP/WebSocket APIs and message-based
+    integrations with versioned contracts.
+  - Development with AI tools — uses AI coding assistants/agents
+    daily and can demonstrate how they apply these tools to
+    design, implementation, review, and testing while
+    maintaining high quality.
+  - Security-first engineering — has applied
+    authentication/authorisation, secrets management, least
+    privilege, and secure update practices in a real system.
+  - Testing and release discipline — has built test suites and
+    CI gates for unit, integration, and contract testing, and
+    shipped software through staged releases with rollback.
+    Experience with simulators or hardware-in-the-loop testing
+    is a plus.
+  - C++, Rust, or Go experience is a plus.
+  - UxV, robotics, or embedded/edge Linux experience is a plus
+    (e.g., MAVLink, GStreamer, serial/CAN devices, or systemd
+    services on constrained hardware).
+
+  The nature of combat has changed.
+
+  Tomorrow’s battlefield success depends on autonomy, speed,
+  and adaptability.
+
+  And UFORCE is ready.
+
+  Are You?
+industries:
+  - Aerospace
+  - Robotics
+  - Defense
+posted_date: 2026-11-12
+url: "https://builtin.com/job/senior-staff-software-engineer-onboard-services/12185189"
+source: Built In

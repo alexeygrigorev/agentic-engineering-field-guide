@@ -1,0 +1,109 @@
+job_id: 11704040
+title: Software Engineer
+company: Ohme
+location: London, GBR
+work_type: FULL_TIME
+company_size: 218 Employees
+description: |
+  Ohme is on a mission to accelerate the global transition to
+  clean, affordable energy. We do that by serving as an
+  integrated hardware and software smart-grid platform,
+  focused on the residential EV charging market.
+
+  The worlds of energy, transport and artificial intelligence
+  are colliding and Ohme is at the heart of this new era. By
+  using technology and data integrations to connect cars,
+  chargers, people, energy providers and more, Ohme has a
+  powerful platform that puts the consumer at the core.
+
+  Ohme has been selling its chargers to consumers since mid
+  2019 and has had exponential growth since. We are now
+  operating in multiple countries and have partnerships with
+  the likes of VW Group, Hyundai, Volvo, Octopus Energy, and
+  other innovative brands.
+
+  We are scaling up the business and are building out the team
+  for rapid growth. If you’re interested joining a fast-
+  growing cleantech venture on a data and AI-first journey to
+  speed up the global transition to clean, affordable energy,
+  read on!
+
+  The Role
+
+  We’re hiring a Software Engineer to join our Business
+  Systems team, working on the systems that run Ohme’s
+  business across multiple markets.
+
+  You will start where the business runs today: maintaining
+  and extending our Odoo ERP and shipping new functionality
+  for teams across the company. Alongside that, we are
+  building a set of focused, independently deployable services
+  that each own a single business capability behind a clearly
+  defined contract. Expect roughly a 70/30 split between the
+  two to begin with, shifting steadily towards the new build
+  as it matures. This suits someone who wants to understand a
+  business properly before rebuilding it, rather than someone
+  looking for greenfield from day one.
+
+  What you’ll do
+
+  - Build and support Odoo modules and new independently
+    deployable Python services, working to agreed specs (and
+    challenging them early)
+  - Work with finance, operations and customer care to turn real
+    process problems into well-built solutions
+  - Integrate the ERP with new services through versioned APIs
+    and event schemas, with sensible idempotency, retry and
+    replay behaviour
+  - Build fast, clear internal UIs (React for new work) for
+    teams doing the same task all day
+  - Ship tested, documented, instrumented code, with tracing,
+    alerting and reconciliation checks that prove the new path
+    matches the old
+
+  What you’ll bring
+
+  - 3 to 5 years of professional engineering experience with
+    strong Python, backend services in production, and solid
+    SQL and data modelling
+  - AWS, containers and CI/CD across environments, ideally with
+    AWS CDK
+  - Comfort using AI coding tools while reviewing their output
+    as rigorously as your own code
+  - Frontend capability with a modern framework, and the
+    confidence to own a feature end to end
+  - Curiosity about how the business works, and ease working
+    directly with non-technical users in an established
+    codebase (Odoo or other ERP experience is a plus, not a
+    requirement)
+
+  Our Benefits
+
+  - Competitive salary and bonus
+  - Hybrid office - 3 days a week in office
+  - Private Health Insurance
+  - Pension Scheme
+  - Life Assurance Scheme with death in service benefit of 4x
+    salary
+  - Income Protection Scheme for long term illness
+  - Ride to Work Scheme
+  - Payroll Giving Scheme
+  - Season Ticket Loan to spread cost of travel over 12 months
+  - Eye Test every 2 years
+
+  Please note that we are unable to offer visa sponsorship for
+  this role. You must have full eligibility to work in the UK.
+
+  Ohme is an equal opportunity employer. Diversity, Equity and
+  Inclusion are at the heart of what we do and we encourage a
+  culture where everyone can be themselves at work. We
+  actively seek out a diverse range of talent and our policies
+  ensure that every job application and employee is treated
+  fairly, with equal opportunity to succeed and to feel
+  included
+industries:
+  - Energy
+  - Renewable Energy
+posted_date: 2026-10-15
+url: "https://builtin.com/job/software-engineer/11704040"
+source: Built In

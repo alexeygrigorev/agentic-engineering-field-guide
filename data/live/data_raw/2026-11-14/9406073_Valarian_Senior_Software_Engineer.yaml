@@ -1,0 +1,242 @@
+job_id: 9406073
+title: Senior Software Engineer
+company: Valarian
+location: London, GBR
+work_type: FULL_TIME
+company_size: 32 Employees
+description: |
+  Valarian Technologies is a dual-use technology company
+  building critical tools to safeguard the future in an era of
+  evolving global security challenges. We're rethinking
+  security beyond traditional military domains, addressing
+  asymmetric threats that impact our technological advantage,
+  economic strength, and democratic institutions.
+
+
+
+  We build Acra – the platform foundation for everything we do
+  as a dual-use technology company. The platform’s name,
+  rooted in the Greek word for citadel (or, fortress),
+  reflects the design and purpose of our infrastructure-
+  agnostic secure enclaves: protecting critical data. Some of
+  the government and commercial workflows include: increased
+  operational resiliency for mission-critical systems and
+  functions; enabling organisations to more quickly and widely
+  adopt emerging technologies while ensuring the integrity of
+  their intellectual property; information flow during
+  disaster response scenarios, and zero-trust / least-
+  privilege environments for M&A, attorney-client privileged
+  communications, etc. And we’ve only scratched the surface.
+
+
+
+  At our core, we're driven by a shared mission and a belief
+  in making a tangible impact on our world. Whether you join
+  our London HQ or the wider global organisation, you’ll be a
+  part of collaborative, high-performing teams, creating
+  cutting-edge software, platforms, and infrastructure.
+
+
+
+
+
+  The Role
+
+
+
+  You will design, build, and operate backend and platform
+  services for ACRA, a complex security-focused Kubernetes
+  platform that needs to be reliable, observable, scalable,
+  and secure from the start.
+
+  You will work primarily in Go, building microservices, APIs,
+  internal platform services, and event-driven systems. You
+  will own services end to end: from system design and
+  implementation through to containerisation, deployment,
+  monitoring, debugging, and production operations.
+
+  You will help shape the infrastructure and delivery
+  foundations around the platform, including Docker,
+  Kubernetes, CI/CD pipelines, GitOps workflows, container
+  registries, secrets management, deployment automation, and
+  Argo-based delivery flows.
+
+  You will contribute to core platform primitives such as
+  identity-aware service communication, lifecycle
+  orchestration, policy-driven deployment, auditability,
+  observability, and controlled application execution. ACRA’s
+  architecture separates the control plane, platform
+  enforcement layer, and isolated execution environments, so
+  this role requires someone who can reason clearly about
+  trust boundaries, failure domains, and operational
+  responsibility.
+
+  This is not a role for someone who only wants to take
+  tickets. We are looking for someone who understands the
+  product vision, challenges assumptions, proposes better
+  designs, and helps translate ambiguous requirements into
+  robust technical systems.
+
+  As ACRA grows, this role offers a clear path to increasing
+  technical ownership and influence. You will not just build
+  services and move on; you will help maintain, evolve, and
+  scale the systems you own over time. You will also help
+  raise the bar for how we design, review, deploy, operate,
+  and learn as an engineering team.
+
+  You do not need to have worked with every tool in our stack
+  before. We are looking for strong engineering judgement,
+  curiosity, ownership, and the ability to build reliable
+  systems in complex environments.
+
+
+
+  What you’ll do:
+
+
+
+  - Build and own backend services, APIs, microservices, and
+    platform components in Go.
+  - Own services from system design through implementation,
+    deployment, observability, and production operations.
+  - Design event-driven, scalable, observable, and resilient
+    systems.
+  - Build and improve Docker images, Kubernetes workloads, CI/CD
+    pipelines, and Argo/GitOps workflows.
+  - Work with container registries, secrets, secure
+    configuration, and deployment automation.
+  - Contribute to platform architecture, system design, security
+    boundaries, and operational models.
+  - Help build platform capabilities such as workload isolation,
+    policy enforcement, auditability, and identity-aware
+    communication.
+  - Work closely with product, leadership, and engineering to
+    turn ambiguous requirements into reliable technical
+    solutions.
+  - Make pragmatic technical trade-offs and explain them
+    clearly.
+  - Improve monitoring, logging, tracing, alerting, and
+    production debugging.
+  - Raise engineering standards through design reviews, code
+    reviews, documentation, and operational improvements.
+  - Operate independently in a startup environment with strong
+    ownership and product thinking.
+
+
+
+  What we are looking for:
+
+
+
+  - Senior backend engineering experience, ideally with hands-on
+    Go experience.
+  - Experience owning production services, not just building
+    features.
+  - Experience building APIs, backend services, microservices,
+    or distributed systems.
+  - Strong experience with Docker, Kubernetes, and CI/CD.
+  - Familiarity with GitOps, Argo, container registries,
+    secrets, and secure deployment workflows.
+  - Strong system design fundamentals, especially around
+    reliability, scalability, observability, and failure
+    handling.
+  - Ability to reason about security boundaries, operational
+    risk, and production failure modes.
+  - Experience debugging issues across applications, services,
+    and infrastructure.
+  - Comfort working from ambiguous requirements and shaping the
+    technical approach.
+  - Product-minded engineering judgement: you care about why the
+    platform is being built, not just what needs to be
+    implemented.
+  - A self-driven, ownership-oriented way of working.
+  - Comfortable giving and receiving feedback, reviewing
+    designs, and helping improve team standards.
+  - Willingness to work across backend, platform,
+    infrastructure, and DevOps areas.
+
+  The most important thing is not that you have done
+  everything on this list before. It is that you bring strong
+  engineering judgement, ownership, curiosity, and the
+  determination to build excellent systems.
+
+  Nice to have
+
+  - Secure or regulated environments, such as defence,
+    government, fintech, healthcare, critical infrastructure,
+    or sovereign cloud.
+  - Zero-trust architecture, identity-aware systems, policy
+    enforcement, or workload isolation.
+  - Service mesh, network policy, ingress/egress control, or
+    secure service-to-service communication.
+  - Observability tooling, including metrics, logs, traces,
+    alerting, and incident response.
+  - Supply-chain security concepts such as image signing,
+    vulnerability scanning, SBOMs, artifact verification, or
+    admission control.
+  - Secrets management tools such as Vault, SOPS, Sealed
+    Secrets, External Secrets, or cloud-native secret
+    managers.
+  - Systems where auditability, traceability, and operational
+    evidence are first-class requirements.
+  - Startup, platform, infrastructure, or product engineering
+    environments with broad ownership.
+
+  Again: these are not requirements. They are areas you may
+  get to work with and go deeper into here.
+
+  Benefits:
+
+
+
+  Our benefits are designed to ensure our employees feel taken
+  care of and are proud to be a part of the Valarian team. We
+  are committed to consistently enhancing our benefit package,
+  taking into account the overall well-being and needs of our
+  teammates. Here are the key benefits accessible to all
+  employees at Valarian Technologies:
+
+
+
+  - Equity – because you have the right to own what you’re
+    building
+  - A competitive salary – because we value your unique skills
+  - Employer pension contributions – because you deserve a
+    secure future
+  - Private health insurance - because your health is important
+    to us
+  - Hybrid work setup – because everyone has different needs
+  - Rewarding company retreats and meetups that respect your
+    work/life balance – because we love getting to know each
+    other!
+
+  Life at Valarian
+
+  Our culture is built on inclusivity, compassion and
+  flexibility – we want everyone to be empowered to achieve
+  their goals at Valarian.
+
+
+
+  The work we do is vital, but so are the connections that
+  make it happen. We thrive on the shared energy, spontaneous
+  conversations, and mutual trust built when we spend time
+  together. We operate on a hybrid model, gathering in our
+  London office 3 days a week to support one another and
+  collaborate.
+
+  We may use artificial intelligence (AI) tools to support
+  parts of the hiring process, such as reviewing applications,
+  analyzing resumes, or assessing responses and identifying
+  potential inconsistencies or verification signals in
+  application materials based on available information. These
+  tools assist our recruitment team but do not replace human
+  judgment. Final hiring decisions are ultimately made by
+  humans. If you would like more information about how your
+  data is processed, please contact us.
+industries:
+  - Software
+  - Cybersecurity
+posted_date: 2026-10-30
+url: "https://builtin.com/job/software-engineer/9406073"
+source: Built In

@@ -1,0 +1,168 @@
+job_id: 11203804
+title: Senior Software Engineer, Integrations
+company: UpDoc
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 18 Employees
+description: |
+  About UpDoc
+
+  At UpDoc, we are building the first clinically validated,
+  physician-supervised AI agent that manages chronic diseases.
+  We are an early-stage startup founded by Stanford
+  physicians.
+
+  We are seeking a talented and motivated frontend engineer to
+  join our team and play a key role in helping build our
+  patient mobile app and physician facing front ends.
+
+  This is a fully remote position.
+
+  Who You Are
+
+  You are an experienced software engineer who enjoys solving
+  complex integration problems at the boundaries between
+  systems. You are comfortable taking an integration from
+  initial technical discovery through architecture,
+  implementation, testing, deployment, and ongoing production
+  support.
+
+  You have a strong backend engineering foundation, are highly
+  proficient in modern Python, and understand how to build
+  reliable APIs and services. You know that successful
+  integrations require more than connecting two endpoints—you
+  think carefully about authentication, data mapping, retries,
+  idempotency, failure modes, monitoring, security, and data
+  integrity.
+
+  What You'll Do
+
+  - Design, build, and maintain critical integrations between
+    UpDoc and health systems, EHRs, healthcare technology
+    platforms, and other external systems and services.
+  - Own integration projects end to end, from technical
+    discovery and architecture through development, testing,
+    deployment, monitoring, troubleshooting, and ongoing
+    maintenance.
+  - Partner directly with health system IT and technical teams,
+    EHR vendors, implementation partners, and other external
+    technology providers to understand requirements and
+    successfully deploy integrations.
+  - Design and implement reliable internal and external APIs and
+    backend services using modern, type-hinted Python,
+    FastAPI, and Pydantic.
+  - Work with healthcare interoperability standards and
+    technologies such as FHIR, HL7, SMART on FHIR, and vendor-
+    specific APIs as integration requirements evolve.
+  - Design secure and reliable data flows between UpDoc and
+    external systems, with particular attention to data
+    integrity, privacy, authentication, authorization, and
+    clinical reliability.
+  - Translate data and workflows between systems with different
+    schemas, APIs, capabilities, and technical constraints.
+  - Build integrations that gracefully handle real-world failure
+    scenarios, including network interruptions, duplicate
+    events, retries, timeouts, rate limits, incomplete or
+    inconsistent source data, and downstream system failures.
+  - Diagnose complex production integration issues using API
+    payloads, healthcare data resources, application logs,
+    network requests, system traces, and other debugging
+    tools.
+  - Establish monitoring, observability, alerting, and
+    operational practices that make integration failures easy
+    to identify, diagnose, and resolve.
+  - Develop comprehensive automated tests for integrations,
+    including unit, integration, contract, and end-to-end
+    testing.
+  - Build reusable integration components, tooling,
+    documentation, and architectural patterns that make future
+    health system deployments faster and more reliable.
+  - Collaborate closely with Engineering, Product, Clinical,
+    Security, and other internal teams to ensure integrations
+    support UpDoc's product and clinical workflows.
+  - Participate in architecture discussions, code reviews,
+    technical planning, deployment, and production
+    troubleshooting.
+  - Document integration architecture, data flows, technical
+    decisions, operational procedures, and external
+    dependencies.
+  - Contribute to UpDoc's HIPAA, SOC 2, privacy, security, and
+    healthcare compliance requirements as they relate to
+    integrations and healthcare data.
+
+  What You'll Need
+
+  - 5+ years of professional software engineering experience,
+    with significant experience in backend development,
+    systems integration, or API engineering.
+  - Strong professional experience with modern, type-hinted
+    Python.
+  - Demonstrated experience designing, building, and supporting
+    production integrations with third-party systems and APIs.
+  - Experience developing production APIs and backend services
+    using FastAPI, Pydantic, or comparable technologies.
+  - Strong understanding of REST APIs, HTTP, authentication and
+    authorization, webhooks, networking, databases, and
+    distributed systems.
+  - Experience working with external APIs where you do not
+    control the upstream or downstream system and must account
+    for their technical constraints and failure modes.
+  - Experience designing reliable data flows and handling
+    challenges such as retries, idempotency, asynchronous
+    processing, data mapping, rate limits, and partial
+    failures.
+  - Strong production debugging and troubleshooting skills,
+    including the ability to investigate problems across
+    multiple systems.
+  - Experience designing automated tests for APIs and
+    integrations.
+  - Experience with cloud infrastructure, preferably Azure, and
+    containerized applications.
+  - Familiarity with CI/CD, observability, monitoring, and
+    modern DevOps practices.
+  - Strong written and verbal communication skills and the
+    ability to work effectively with both internal and
+    external technical stakeholders.
+  - Ability to independently own technically complex projects
+    from discovery through production.
+  - Comfort operating in a fast-moving, early-stage startup
+    environment where integration patterns and processes are
+    still being established.
+  - An interest in improving healthcare through safe, reliable,
+    and thoughtfully designed technology.
+
+  Highly Desired
+
+  - Experience building integrations with health systems,
+    provider organizations, or healthcare technology
+    companies.
+  - Experience integrating with Epic or other major EHR
+    platforms.
+  - Hands-on experience with FHIR, HL7 v2, SMART on FHIR, or
+    other healthcare interoperability standards.
+  - Experience working directly with health system IT,
+    interoperability, interface, or implementation teams.
+  - Experience integrating clinical data, patient data,
+    scheduling, messaging, orders, results, or other
+    healthcare workflows.
+  - Experience designing secure systems that handle protected
+    health information (PHI).
+  - Familiarity with HIPAA, SOC 2, and security requirements for
+    healthcare software.
+  - Experience with event-driven architectures, message queues,
+    webhooks, or asynchronous integration patterns.
+  - Experience with integration monitoring, contract testing, or
+    tools for managing complex API dependencies.
+  - Experience building integrations in regulated or safety-
+    critical environments where data accuracy and system
+    reliability are particularly important.
+  - Experience in an early-stage startup where you have helped
+    establish integration architecture, tooling, or
+    engineering practices from the ground up.
+industries:
+  - Healthtech
+  - Telehealth
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-software-engineer-integrations/11203804"
+source: Built In

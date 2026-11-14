@@ -1,0 +1,181 @@
+job_id: 11683699
+title: Senior Software Engineer, Security
+company: Linktree
+location: USA
+locations:
+  - USA
+  - Los Angeles, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 180 Employees
+description: |
+  The Role
+
+  We’re looking for a Senior Software Engineer to join our
+  security team - the group responsible for keeping 70+
+  million creators, and everything they’ve built, safe.
+  Linktree is the front door to a creator’s whole digital
+  presence, which makes it a target: account takeover, abusive
+  content, scraped data, third-party integrations with more
+  access than they should have. This role is about building
+  the systems that make those attacks hard.
+
+  This is hands-on engineering, not advisory work. You’ll
+  design and ship authentication and authorisation
+  improvements, secrets handling, abuse and fraud detection,
+  and the internal tooling that lets every other squad build
+  securely by default. You’ll be across TypeScript, Node,
+  React and AWS, and you’ll work with Engineering, Product and
+  Trust & Safety to decide where to harden, where to simplify,
+  and where a control costs more in creator friction than it
+  buys in risk reduction.
+
+  It’s a role for someone who thinks in systems and failure
+  modes, who would rather remove a class of vulnerability than
+  patch instances of it, and who can bring other engineers
+  along rather than block them. Every control you ship
+  protects someone’s livelihood - and helps Linktree achieve
+  our mission: to empower anyone to curate and grow their
+  digital universe.
+
+  What You’ll Own
+
+  - Design and ship security improvements across the Linktree
+    product: authentication and authorisation, session and
+    token handling, secrets management and third-party access.
+  - Build the detection and response capability for the product
+    surface - abuse, account takeover, scraping and fraud - so
+    problems surface before creators report them.
+  - Threat model new and existing systems with the squads that
+    own them, and turn the output into prioritised, shipped
+    work.
+  - Own the internal tooling and paved paths that make it easy
+    for every other engineer to build securely by default.
+  - Triage and remediate vulnerabilities from internal findings,
+    bug bounty and pen tests, and fix the class of problem
+    rather than the instance.
+  - Partner with Engineering, Product and Trust & Safety on
+    where to harden and where a control costs more in creator
+    friction than it buys in risk reduction.
+  - Bring AI into how you build, and use it to move faster on
+    reviews, migrations and investigation - while staying
+    clear-eyed about what it gets wrong.
+  - Raise the security bar around you through review, pairing,
+    documentation and mentoring.
+
+  Who We’re Looking For
+
+  - 4+ years of professional software engineering experience,
+    with meaningful time spent on security, infrastructure,
+    identity or another domain where getting it wrong is
+    expensive.
+  - Strong full-stack skills across our core stack: TypeScript,
+    Node.js, React, GraphQL, PostgreSQL or MySQL and AWS, with
+    the ability to move across layers to ship a fix end-to-
+    end.
+  - Working knowledge of application security fundamentals: the
+    OWASP Top 10, authentication and authorisation, secrets
+    management, cryptography in practice, and the common
+    attack classes against consumer platforms.
+  - Experience threat modelling a real system and turning the
+    output into shipped work, rather than a document nobody
+    reads.
+  - A track record of shipping changes to a high-traffic,
+    critical path safely - feature flags, staged rollouts,
+    migrations and backwards compatibility.
+  - Fluency with AI-assisted development (Claude, Cursor, Codex
+    and similar), including how to prompt, validate and refine
+    what these tools produce - and where they introduce risk.
+  - A pragmatic instinct for balancing security against user
+    experience, and the confidence to make that trade-off
+    explicit with Product and Engineering.
+  - Able to influence engineers outside your own team without
+    relying on mandate, and to write decisions down clearly.
+  - Based in Los Angeles or San Francisco, working hybrid from
+    one of our offices.
+
+  Compensation & Benefits
+
+  Linktree is committed to providing a competitive
+  compensation package. Our cash compensation amount for this
+  role is targeted at $200,000 - $215,000 in the San Francisco
+  Bay or Los Angeles area. Final offer amounts are determined
+  by multiple factors, including candidate expertise, scope of
+  role, and level, and may vary from the amounts listed above.
+
+  Where and How We Work
+
+  We are a global and diverse group offering a truly flexible
+  and family friendly work environment. Kids, pets, and the
+  occasional delivery person are all actively encouraged to
+  appear on our Zoom screens. All of us at Linktree work
+  either fully remote or a flex hybrid approach.
+
+  We offer autonomy and flexibility in how you structure your
+  days and weeks. There will be the need for some
+  collaboration outside of your usual 9-5 being a global
+  company, but we aim to work asynchronously where possible.
+
+  How we’ll help you thrive
+
+  Our approach to benefits considers the whole person and the
+  unique contributions they bring to Linktree. We want the
+  experience at Linktree to be one that enables people to
+  truly thrive so we can Go Further Together. Some ways we
+  support you:
+
+  - An annual wellbeing allowance to use on things like (but not
+    limited to) fitness memberships, development courses,
+    childcare, travel, charitable donations, pet insurance,
+    home office set up - the choice is yours!
+  - 100% coverage (and 80% for your dependents) of your monthly
+    premiums for medical, dental, vision, disability and life
+    insurance for US-based employees.
+  - Employer contribution towards your retirement.
+  - Generous time off for vacation, holidays, parental leave,
+    volunteer time and other categories.
+  - Employee Stock Option Program - we want each and every
+    employee to share in the company’s success as we go
+    further together.
+
+  To learn more about our benefits, including our parental
+  leave program, volunteering leave, DE&I initiatives, and
+  more, click here!
+
+  Our Story
+
+  We're on a mission to empower anyone to curate, grow and
+  monetize their digital universe. We created the "link in
+  bio" category and are trusted by some of the world's biggest
+  brands and celebrities including TikTok, The UN
+  Environmental Program, The White House, F1, Manchester
+  United, Olivia Rodrigo and Selena Gomez. With over 50M+
+  users and 40,000 new accounts created everyday, Linktree is
+  the fastest growing leader in our category. Linktree has
+  partnered with some of today’s biggest names like Amazon,
+  TikTok, Snap, YouTube, GoFundMe, Spotify, Google, Stripe,
+  Reddit and more to help unify users’ digital spaces— and
+  we’re just getting started. Join us in empowering everyone
+  from businesses to creatives in building their online
+  presence.
+
+  At Linktree, we celebrate and support everyone’s perspective
+  and background, and we’re proud to be an equal opportunity
+  workplace. We aim to foster a diverse and inclusive
+  environment where all team members have a sense of
+  belonging, because we believe in going further together.
+  Linktree welcomes all people regardless of sex, gender
+  identity, race, ethnicity, disability, pregnancy, age, or
+  other lived experience. If you require accommodations to
+  fully participate in our opportunities, please don't
+  hesitate to reach us at talent@linktr.ee – your needs are
+  important to us.
+industries:
+  - Retail
+  - Social Media
+  - Software
+  - Analytics
+posted_date: 2026-10-14
+url: "https://builtin.com/job/senior-software-engineer-security/11683699"
+source: Built In

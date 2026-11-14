@@ -1,0 +1,159 @@
+job_id: 12204938
+title: Full Stack Software Engineer
+company: Apoha
+location: London, GBR
+work_type: FULL_TIME
+company_size: 11 Employees
+description: |
+  About Apoha
+
+  At Apoha, we are unlocking the missing layer of molecular
+  science. Sequences told us what a molecule is. Structures
+  showed us what a molecule looks like. But molecular
+  behaviour, the layer that determines whether a drug works, a
+  formulation holds, or a material performs, has remained
+  largely elusive. Until now.
+
+  Apoha has invented the world's first platform to resolve
+  States, the third fundamental data class of molecular
+  science. We call this new paradigm Liquid State
+  Intelligence, capturing the complete behavioural state of
+  matter, molecules, and materials under real-world
+  conditions, using as little as 8µg of sample. The data we
+  generate is something no simulation, no model, and no amount
+  of compute can reproduce.
+
+  Our investors include Singular, Draper Associates,
+  Redalpine, Seedcamp, Nucleus Capital, Plug and Play,
+  Wilbe—and we’re just getting started.
+
+  The Role
+
+  We're hiring a Full Stack Software Engineer who builds fast,
+  learns faster and treats AI as a core part of how they work.
+  You'll work across every part of our software stack: state-
+  of-the-art instrument control software, data infrastructure,
+  security, the customer experience and more. You'll own
+  problems end-to-end and ship them to production.
+
+  There is no fixed tech stack to know on day one. What
+  matters is that you can drop into an unfamiliar codebase,
+  use AI tools to get up to speed in hours rather than weeks,
+  and deliver working software in days. Problems here often
+  arrive half-defined; you'll be expected to shape them, make
+  a call and iterate.
+
+  This role is not for you if you want a narrow lane, detailed
+  specs before starting, or a slow, process-heavy pace.
+
+  What you'll work on
+
+  You'll move across the whole software stack behind our
+  Liquid State intelligence platform, often in the same week:
+
+  - Instrument control software: the software that orchestrates
+    our Liquid State Intelligence systems, coordinating many
+    hardware modules, from in-house instruments to off-the-
+    shelf pumps, sensors and controllers, with real-time
+    control, drivers and testing on real hardware.
+  - Data infrastructure: pipelines that turn raw instrument data
+    into analysis-ready datasets in the cloud, plus the APIs
+    and databases behind them.
+  - Security: access control, secrets, infrastructure hardening
+    and keeping customer data safe.
+  - UI and product: one of the hardest parts of the stack: user
+    experiences built for scientists and researchers that give
+    them deep flexibility while staying clean and simple to
+    use.
+  - Agentic AI tools: super-charged, agentic AI-driven
+    automations and integrations that connect our systems and
+    multiply what everyone can do.
+
+  In your first 90 days, you'll ship to production in your
+  first two weeks and own at least one feature end-to-end,
+  from scoping with scientists to release.
+
+  Who You Are
+
+  Must have
+
+  - 4+ years building and shipping software, across front end,
+    back end, APIs and databases.
+  - AI-native workflow: you use tools like Claude Code, Cursor
+    or Copilot daily to plan, build, test and review, and most
+    importantly you know when not to trust their output.
+  - A track record of shipping fast: you can point to things you
+    took from idea to working product quickly, and explain the
+    trade-offs you made and the limitations you knowingly
+    accepted to get there.
+  - Comfort with ambiguity: you turn vague problems into clear
+    plans without waiting to be told.
+  - Relentless drive and ownership: you care whether it works in
+    production, not just whether the PR merged.
+  - Clear written communication with engineers, scientists and
+    customers.
+
+  Nice to have (none required; we care about mindset over
+  stack)
+
+  - Python, TypeScript, React/Next.js, Django or FastAPI,
+    PostgreSQL
+  - AWS, Docker/Kubernetes, infrastructure-as-code
+  - Software that talks to hardware: instruments, robotics, lab
+    or IoT devices. If you have built using Arduino, Raspberry
+    Pi or alike in any capacity let us know!
+  - Security engineering or data pipeline experience
+  - Curiosity about science and biology
+
+  Required: show us what you've built
+
+  We are hiring for a builder with high agency, so we want to
+  see your work. Applications without at least one of the
+  following will not be reviewed:
+
+  - A GitHub profile with projects you built yourself
+  - Merged contributions to open-source projects
+  - A live product, app, tool or side project we can use, with a
+    short note on your role
+
+  For your strongest one or two projects, tell us in a few
+  sentences: what problem it solves, what you built
+  personally, how long it took, and how you used AI to build
+  it. Small and scrappy is fine. Shipped and used beats
+  polished and unfinished. Work you can't share publicly?
+  Describe it, and add something personal we can look at. What
+  We Offer
+
+  - Competitive compensation + stock options
+  - Private health insurance
+  - Regular socials
+  - The rare chance to shape the DNA of a company
+  - Access to cutting-edge science, a stellar team, and the
+    chance to change the game
+
+  How to apply
+
+  We've designed a short interactive challenge to kick off
+  your application. It takes a few minutes if you're the
+  person we're looking for.
+
+  - Apply via the form below.
+  - Send an empty POST request to api/v2/external-tests/hello-
+    apoha at https://api-v2.test.app.apoha.com
+  - Follow the instructions in the response to submit your CV
+    and your project links through the API.
+
+  Using AI to work it out is fine; that's how we work here
+  too. Applications that don't come through the API won't be
+  reviewed.
+
+  At Apoha, we are committed to fostering a diverse and
+  inclusive workplace. We strongly encourage applications from
+  candidates of all backgrounds, including those from
+  underrepresented groups in tech and science.
+industries:
+  - Food
+  - Biotech
+posted_date: 2026-11-12
+url: "https://builtin.com/job/full-stack-software-engineer/12204938"
+source: Built In

@@ -1,0 +1,325 @@
+job_id: 11816031
+title: "Senior Backend Engineer (Integrations & Platform)"
+company: FutureFit AI
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 38 Employees
+description: |
+  Come join our Engineering team!
+
+  High velocity, high intensity, high trust, high bar, high
+  impact, and a will to win.
+
+  If that resonates deeply with you, this could be your next
+  career move. We’re seeking someone who leads with humility,
+  pursues audacious goals, and is motivated by meaningful
+  impact on people and the world.
+
+  At FutureFit AI, our core mission is to help more people get
+  to better jobs faster and cheaper, with a specific focus on
+  those facing barriers to opportunity. Our work helps resolve
+  the growing issue of economic inequality, ensuring that no
+  one is left behind in the future of work. Our AI-powered
+  platform brings efficiency and insight to workforce
+  development, replacing outdated systems and unlocking human
+  potential at scale.
+
+  Ready to make an impact? Apply today.
+
+  Important note: Data shows that men typically apply when
+  meeting 3/10 requirements, while women often wait until it’s
+  10/10. We encourage you to apply if you see a strong (not
+  necessarily perfect) fit.
+
+  Our Company
+
+  - Team: 30 to 50 people across the US and Canada, with main
+    hubs in New York and Toronto
+  - Funding: Built from 0 to 1 with no external capital (a rare
+    feat for tech startups), then raised one round of funding
+    led by JP Morgan, which fueled significant growth
+
+  The Opportunity
+
+  We’re seeking a Senior Backend Engineer (Integrations &
+  Platform) to build the backbone our platform runs on. You’ll
+  design scalable backend systems that power complex data
+  integrations with government and enterprise partners, remove
+  manual operational work, and help the team move faster with
+  less friction.
+
+  This is a build role and an operate role: when a sync fails
+  or a record looks wrong, you can trace it back to the cause
+  and fix it.
+
+  Your Role
+
+  Our integration footprint has grown quickly, and the most
+  demanding piece is a bidirectional data sync with an
+  external partner that requires sophisticated error handling,
+  async workflows, and operational automation. You’ll start
+  there, then turn what you build into the patterns and
+  infrastructure we use for integration reliability across the
+  platform.
+
+  This is hands-on, high-impact work where you’ll see results
+  quickly: fewer production issues, faster support resolution,
+  and systems that scale with confidence.
+
+  What You’ll Own
+
+  - Complex data integrations: Design, build, and maintain deep,
+    bidirectional data integrations with government and
+    enterprise partners, including partners with limited
+    documentation.
+  - Asynchronous workflows: Build reliable async processing
+    using queues, retries, idempotency, and eventual
+    consistency patterns, handling duplicates, missing
+    dependencies, and validation failures defensively.
+  - Operational automation: Eliminate categories of manual
+    support work through backend services, Lambda functions,
+    and internal tools that let non-technical teammates
+    diagnose and resolve issues themselves.
+  - Observability: Implement structured logging, metrics,
+    tracing, and alerting so issues surface before support
+    tickets do.
+  - Production reliability: Stay close enough to running systems
+    to debug them, including code you did not write.
+  - Reusable patterns: Establish integration standards the rest
+    of the team can build on.
+  - Partner collaboration: Work with external vendors on API
+    changes and coordinated deployments.
+
+  Your 30/60/90 Day Plan
+
+  At FutureFit AI, we value clarity of purpose and rapid
+  momentum. Here’s what success looks like in your first 90
+  days:
+
+  First 30 Days: Learn and Integrate
+
+  - Build relationships with the engineering, customer success,
+    and support teams who interact with our integration
+    systems daily
+  - Deep dive into our most complex integration: the
+    bidirectional sync architecture between our platform and
+    external partners (APIs, data models, async workflows,
+    error patterns)
+  - Get hands-on with our debugging tools: MongoDB queries for
+    async job tracking, CloudWatch Logs Insights for
+    distributed tracing, SQL queries for data validation
+  - Ship your first small fixes or improvements: resolve
+    straightforward integration bugs or improve observability
+    in one workflow
+
+  Days 31 to 60: Own and Execute
+
+  - Take ownership of your first major automation initiative:
+    eliminate a category of manual support work
+  - Build and deploy backend services and Lambda functions that
+    reduce manual intervention in the integration pipeline
+  - Implement comprehensive observability (structured logging,
+    metrics, and alerting) so issues surface before support
+    tickets
+  - Work with the support team to validate that your automation
+    eliminates manual work, and identify the next highest-
+    impact opportunity
+  - Document runbooks and create internal tools that empower
+    non-technical team members to diagnose and resolve common
+    issues independently
+  - Collaborate with external partners on any API changes or
+    coordinated deployments your automation needs
+  - Begin identifying patterns and infrastructure that can be
+    reused across other integrations or platform systems
+
+  Days 61 to 90: Lead and Amplify
+
+  - Measure and communicate the impact of your automation:
+    reduction in support tickets, decrease in manual
+    intervention time, improvement in data consistency and
+    error rates
+  - Participate in architectural discussions and planning for
+    other platform initiatives, bringing your expertise in
+    reliability patterns, async workflows, and operational
+    excellence
+  - Mentor other engineers on the patterns and infrastructure
+    you’ve built, establishing yourself as the go-to person
+    for integration reliability
+  - Present a technical deep-dive to the broader engineering
+    team on what you’ve learned and built
+
+  Required Experience
+
+  - 5 to 8+ years of senior-level, hands-on experience in
+    backend, platform, or integration engineering, with a
+    focus on building reliable systems for complex external
+    integrations
+  - Strong experience with TypeScript and Node.js
+  - Proven experience building and maintaining complex data
+    integrations at enterprise or government scale (deep data
+    integration work, not only SSO, API configuration, or
+    cloud deployments)
+  - Strong understanding of asynchronous workloads and
+    processing
+  - Experience developing reliable, production-grade backend
+    systems
+  - Strong debugging skills using logs, metrics, and tracing
+  - Proficiency with at least one SQL or NoSQL database in
+    production
+  - Comfort working effectively in a fully remote environment
+
+  Bonus Points
+
+  - AWS experience (Lambda, EventBridge, SQS); Azure experience
+    is transferable
+  - Frontend or full-stack development experience
+  - Experience with financial, banking, or similarly complex
+    data integrations
+  - GraphQL API design, MongoDB or DynamoDB for async state
+    management
+  - Experience with legacy enterprise or government systems
+  - Multi-tenant architecture experience
+
+  Our Tech Stack
+
+  - Languages: TypeScript, Node.js
+  - Architecture: Event-driven (EventBridge, SQS, Lambda)
+  - Data: MongoDB, PostgreSQL, Redshift
+  - Observability: CloudWatch Logs Insights
+  - Infrastructure: AWS, GitHub Actions for CI/CD
+
+  Your Education
+
+  Your alma mater isn’t our focus. Your grit, hunger, and
+  drive are. If you learn continuously, tackle challenges
+  head-on, and know your strengths and gaps intimately, you’re
+  our person.
+
+  Benefits
+
+  - Work directly with the founding team
+  - Unlimited PTO
+  - Health care
+  - Career development budget
+  - Technology reimbursement
+  - Flexible schedules built on trust
+
+  Location
+
+  Remote across the US and Canada. We are open to candidates
+  living anywhere in either country, with at least 5 to 6
+  hours of daily overlap with our EST-based team required. For
+  candidates living in Toronto, our office is conveniently
+  located at 325 Front St West (a short walk from Union
+  Station), and you are welcome to drop by, though it is
+  entirely optional and not a hybrid requirement.
+
+  Travel Expectations
+
+  Although this role is remote, you may be expected to travel
+  up to once per quarter for off-sites and team gatherings.
+
+  Compensation
+
+  The base salary range for this role is USD $150,000 to
+  $185,000 for candidates based in the United States and CAD
+  $130,000 to $170,000 for candidates based in Canada,
+  benchmarked to the middle of the market for comparable
+  venture-backed companies. Where you land in the range
+  reflects your applied experience and other criteria
+  established by the hiring committee.
+
+  Hiring Journey
+
+  At FutureFit AI, our hiring process is designed to help you
+  assess whether this role and our culture are the right fit
+  based on your unique skills, mindset, and experiences. We
+  move fast and work with intensity, so we want you to get a
+  real sense of that from the start.
+
+  Each journey includes a mix of interviews and a performance
+  challenge. For this role, that might look like:
+
+  - Online Application
+  - Initial Screen with Talent Acquisition
+  - Interview with Hiring Manager
+  - Coding Challenge
+  - Design Challenge
+  - 2nd Interview with Head of GTM
+  - 3rd Interview with CEO
+  - Final Decision
+
+  Generally, this entire process takes around 6 weeks,
+  although the timing can vary due to specific candidate
+  circumstances.
+
+  Ready to shape the future of work?
+
+  At FutureFit AI, we're not just building a company—we're
+  transforming how talent and opportunity connect. Join our
+  driven team united by a commitment to job seekers and the
+  workforce ecosystems we serve.
+
+  Company Snapshot:
+
+  - Team: 30-50 across US and Canada (hubs in NYC and Toronto)
+  - Customers: Workforce development agencies and
+    intermediaries, government agencies, employers
+  - Industry: SaaS/AI technology
+  - Funding: Bootstrapped 0-1, then raised funding led by JP
+    Morgan
+  - Structure: Growth, Customer Success, Product, Engineering,
+    Data, People & Culture, Finance & Operations
+
+  Our Core Principles
+
+  - Be Curious
+  - Drive to Outcomes
+  - Raise the Bar
+  - Speed Matters
+  - Own It
+  - We Over Me
+
+  Use of AI in Hiring
+
+  At FutureFit, we use artificial intelligence (AI) tools to
+  make our hiring process more efficient, consistent, and
+  equitable—never to replace human judgment. We use AI in the
+  following ways:
+
+  - Screening support: AI may help us compare applications
+    against the skills and experience required for a specific
+    role. These skills are defined by the hiring team for each
+    position. A human reviews each application, with the AI
+    assessment as just one input.
+  - Interview support: In some interviews, we may use an AI
+    notetaker to summarize the discussion so interviewers can
+    focus on being present in the conversation.
+  - Insights, not decisions: AI provides data points to support
+    our team’s evaluation but does not make or recommend final
+    hiring decisions. Every hiring decision is made by people.
+
+  We will ensure that individuals with disabilities are
+  provided reasonable accommodation to participate in the job
+  application or interview process, perform essential job
+  functions, and receive other benefits and privileges of
+  employment. Please contact us to request an accommodation. ©
+  FutureFit AI All rights reserved, we are proud to be an
+  equal opportunity workplace. We celebrate diversity and are
+  committed to creating an inclusive environment for all
+  employees. We do not discriminate on the basis of race,
+  religion, color, gender identity, sexual orientation, age,
+  disability, veteran status, or other applicable legally
+  protected characteristics. We encourage people of different
+  backgrounds, experiences, abilities, and perspectives to
+  apply.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-10-22
+url: "https://builtin.com/job/senior-backend-engineer-integrations-platform/11816031"
+source: Built In

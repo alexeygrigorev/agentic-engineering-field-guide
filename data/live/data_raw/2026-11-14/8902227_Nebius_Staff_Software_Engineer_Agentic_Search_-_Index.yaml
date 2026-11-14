@@ -1,0 +1,157 @@
+job_id: 8902227
+title: Staff Software Engineer (Agentic Search) - Index
+company: Nebius
+location: Amsterdam, NLD
+locations:
+  - Amsterdam, NLD
+  - London, GBR
+work_type: FULL_TIME
+company_size: 473 Employees
+description: |
+  About Nebius:
+
+  Nebius is leading a new era in cloud infrastructure for the
+  global AI economy. We are building a full-stack AI cloud
+  platform that supports developers and enterprises from data
+  and model training through to production deployment, without
+  the cost and complexity of building large in-house AI/ML
+  infrastructure.
+
+  Built by engineers, for engineers. From large-scale GPU
+  orchestration to inference optimization, we own the hard
+  problems across compute, storage, networking and applied AI.
+
+  Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we
+  have a global footprint with R&D hubs across Europe, the UK,
+  North America and Israel. Our team of 1,500+ includes
+  hundreds of engineers with deep expertise across hardware,
+  software and AI R&D.
+
+  The Product
+
+  In a rapidly evolving world, trust in AI depends on AI
+  agents being grounded in fresh, verified real-world data.
+  Search is the foundation that makes this possible.
+
+  We are building an agent-native search platform designed
+  specifically for AI systems rather than human users. Our
+  product provides programmatic, low-latency, and observable
+  search APIs that AI agents use to retrieve, filter, and
+  reason over real-world information at scale.
+
+  The Role
+
+  We are looking for a Staff Software Engineer to work on the
+  indexing and data processing layer of a novel search engine
+  tailored for agentic AI consumption.
+
+  In this role, you will focus on building systems that
+  ingest, process, and organise massive volumes of data into
+  efficient, queryable structures. You will work primarily on
+  offline and nearline pipelines, ensuring that data is fresh,
+  complete, and efficiently accessible by downstream retrieval
+  systems. You will operate in an environment where
+  throughput, scalability, and correctness are critical;
+  designing systems capable of handling tens of gigabytes per
+  second across continuously evolving datasets.
+
+  In this position, your responsibility will be to:
+
+  - Design, implement, and operate large-scale indexing systems
+    and data pipelines that sit at the core of our search
+    infrastructure
+  - Develop and optimise indexing strategies balancing
+    performance, freshness, and resource efficiency
+  - Work on storage formats, compaction strategies, and update
+    mechanisms to keep data accessible and current
+  - Ensure reliability and predictability of pipelines under
+    high-throughput conditions
+  - Build well-tested components with clear responsibilities and
+    interaction contracts, while remaining flexible as the
+    system evolves
+  - Define and implement observability primitives, including
+    structured logs, metrics, and data quality signals across
+    offline and nearline pipelines
+  - Monitor throughput, resource usage, and cost, and drive
+    optimisations when business needs require it
+  - Collaborate with runtime and ML teams to ensure indexing
+    outputs meet retrieval and ranking requirements
+  - Enable safe experimentation on indexing strategies and data
+    processing logic through controlled rollouts and clearly
+    defined quality signals
+
+  You may be a good fit if you:
+
+  - 8+ years of experience building production backend or data
+    infrastructure systems
+  - Strong Go experience (C++/Rust is a plus)
+  - Experience with large-scale data processing systems (10+
+    GiB/sec throughput, petabyte-scale datasets, etc.)
+  - Experience building or operating databases, storage systems,
+    data planes, or indexing pipelines
+  - Strong understanding of distributed systems, fault
+    tolerance, consistency, and scalability
+  - Experience running production systems and handling
+    operational incidents
+  - Systems-thinking mindset and ability to reason about end-to-
+    end data flows
+
+  Strong candidates may also have experience with:
+
+  - Distributed data processing frameworks such as Spark, Flink,
+    MapReduce, or Beam
+  - Content systems including, scraping, proxying, or anti-bot
+    infrastructure
+  - Ad tech, social networks, or other large-scale content
+    platforms
+  - DBMS internals (open source or SaaS) and cloud
+    infrastructure
+  - Open-source contributions or active involvement in the
+    engineering community
+  - Competitive programming or CTF participation (ICPC, IOI, or
+    similar)
+  - SHAD or similar advanced technical programmes
+  - Conference talks or technical publications
+
+  We conduct coding interviews as part of the process.
+
+  Benefits & Perks:
+
+  - Competitive compensation
+  - Career growth and learning opportunities
+  - Flexibility and ownership
+  - Collaborative and innovative culture
+  - Opportunity to work on impactful AI projects
+  - International environment and talented teams
+
+  What's it like to work at Nebius:
+
+  Fast moving - Bold thinking - Constant growth - Meaningful
+  impact - Trust and real ownership - Opportunity to shape the
+  future of AI
+
+  Equal Opportunity Statement:
+
+  Nebius is an equal opportunity employer. We are committed to
+  fostering an inclusive and diverse workplace and to
+  providing equal employment opportunities in all aspects of
+  employment. We do not discriminate on the basis of race,
+  color, religion, sex (including pregnancy), national origin,
+  ancestry, age, disability, genetic information, marital
+  status, veteran status, sexual orientation, gender identity
+  or expression, or any other characteristic protected by
+  applicable law.
+
+  Applicants must be authorized to work in the country in
+  which they apply and will be required to provide proof of
+  employment eligibility as a condition of hire.
+
+  If you need accommodations during the application process,
+  please let us know.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Consulting
+posted_date: 2026-08-06
+url: "https://builtin.com/job/senior-software-engineer-indexing/8902227"
+source: Built In

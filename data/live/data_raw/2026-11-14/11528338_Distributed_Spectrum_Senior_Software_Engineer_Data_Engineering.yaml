@@ -1,0 +1,145 @@
+job_id: 11528338
+title: Senior Software Engineer, Data Engineering
+company: Distributed Spectrum
+location: New York, USA
+work_type: FULL_TIME
+company_size: 33 Employees
+description: |
+  DS creates systems that power the next generation of radio
+  spectrum intelligence. We collect radio data from all over
+  the world, train neural networks to decipher it, and run
+  them on the smallest chips we can. We’re solving a new,
+  technically hard problem where nothing from other fields
+  works out of the box, and along the way, we’ve built our own
+  stack from scratch, including entirely new embedding model
+  architectures, custom GPU kernels, and much more.
+
+  Joining DS means owning major parts of a fast-growing AI
+  research organization, joining a collaborative, talent-dense
+  team with decades of experience in probabilistic ML,
+  accelerated computing, embedded systems, and signal theory,
+  and growing your career in the areas that interest you.
+  You’ll fit in if you want to come to work for the problem
+  itself and don’t want to choose between technical rigor,
+  business value, and real-world impact.
+
+  We work with high ownership and trust.
+
+  The Role
+
+  DS collects radio data at a scale few organizations ever see
+  — continuous, high-rate streams from sensors around the
+  globe. We're hiring a Senior Data Engineer to design the
+  platform that turns that firehose into an asset: a data
+  lakehouse that serves researchers training models,
+  production systems running inference, and agents retrieving
+  context in real time.
+
+  You'll own the architecture from ingestion through storage,
+  cataloging, vector search, and access, and you'll design it
+  explicitly for AI/ML workloads, not just analytics.
+
+  What you'll do
+
+  - Architect and build our data lakehouse: ingestion pipelines,
+    open table formats, partitioning and compaction
+    strategies, cataloging, and governance.
+  - Design and operate vector database infrastructure for
+    embedding storage, similarity search, and retrieval at
+    scale — choosing, tuning, and evolving the right systems
+    for our workloads.
+  - Build large-scale data management systems: lifecycle and
+    retention, lineage, versioning of datasets for
+    reproducible training, quality monitoring, and cost
+    management across petabyte-class storage.
+  - Design data platform capabilities that directly support ML
+    use cases — feature and embedding pipelines, training-set
+    assembly, evaluation datasets, and low-latency retrieval
+    for agents.
+  - Establish schema and data-contract standards across teams,
+    and build tooling that lets researchers and engineers
+    self-serve.
+  - Own reliability and performance of data pipelines in
+    production, including observability and failure handling.
+  - Mentor engineers and lead technical design across the data
+    domain.
+
+  What we're looking for
+
+  - 4–6+ years of software / data engineering experience,
+    including several years designing and operating large-
+    scale data platforms in production.
+  - Deep experience with lakehouse architectures and
+    technologies — e.g., Apache Iceberg, Delta Lake, or Hudi;
+    Parquet; Spark, Flink, Trino, DuckDB, or similar engines.
+  - Hands-on experience with vector databases and embedding
+    retrieval (e.g., pgvector, Milvus, Qdrant, Weaviate,
+    Pinecone, LanceDB, or FAISS-based systems), including
+    indexing trade-offs and scaling.
+  - Strong experience with AWS or another major cloud provider —
+    object storage, managed data services, compute, and cost
+    optimization at scale.
+  - Fluency in Python and SQL; experience with orchestration
+    tools (Airflow, Dagster, Prefect, Step Functions, etc.).
+  - Demonstrated experience designing data architectures
+    specifically for ML / AI workloads: training data
+    pipelines, feature stores, dataset versioning, or
+    retrieval systems.
+  - Strong grasp of data modeling, consistency, and the trade-
+    offs between batch and streaming.
+
+  Nice to have
+
+  - Experience with streaming ingestion at high volume (Kafka,
+    Kinesis, Pulsar).
+  - Experience with time-series, geospatial, or signal / sensor
+    data.
+  - Familiarity with data governance and security requirements
+    in regulated environments.
+  - Experience with Rust, Go, or C++ for performance-critical
+    data paths.
+
+  Who Thrives at Distributed Spectrum
+
+  - Fast learners over specific backgrounds – We care more about
+    how quickly you can pick up new skills than where you’ve
+    worked before.
+  - Intellectual honesty – The right answer matters more than
+    being right. You challenge assumptions, test ideas, and
+    pivot when needed.
+  - Adaptability – We’re organized, but sometimes things change
+    quickly. You find a way to make it work and balance short-
+    term deliverables with long-term goals.
+  - Ownership of outcomes – You optimize your own time, focus on
+    what matters to deliver quickly, and cut out
+    inefficiencies.
+  - Not building in a vacuum – You stay connected to the rest of
+    our teams and our customers to make sure all the pieces
+    fit together.
+
+  What We Offer
+
+  - Above-market salary, equity, and benefits package.
+  - Early Series A Equity
+  - Excellent health, dental, and vision coverage
+  - 401(k) match - up to 4% of your salary
+  - Flexible PTO
+  - Daily office lunches in NYC
+
+  ITAR Requirements
+
+  To conform to U.S. Government technology export regulations,
+  including the International Traffic in Arms Regulations
+  (ITAR) you must be a U.S. citizen, lawful permanent resident
+  of the U.S., protected individual as defined by 8 U.S.C.
+  1324b(a)(3), or eligible to obtain the required
+  authorizations from the U.S. Department of State. Learn more
+  about the ITAR here.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Defense
+posted_date: 2026-10-06
+url: "https://builtin.com/job/senior-software-engineer-data-engineering/11528338"
+source: Built In

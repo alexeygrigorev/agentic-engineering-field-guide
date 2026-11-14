@@ -1,0 +1,147 @@
+job_id: 12190464
+title: Senior Software Engineer
+company: Fenix24
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 138 Employees
+description: |
+  About Us
+
+  Fenix24 is a global leader in breach recovery and pre-breach
+  operational recoverability, redefining cyber resilience with
+  the world's first Recovery Dependency Modeling and
+  Resiliency Intelligence Platform, Argos99.  Fenix24's breach
+  recovery team is the largest in the world and has led more
+  than 500 ransomware recoveries in 96 countries, including 30
+  of the Fortune 500. Pre-breach operational recoverability is
+  founded on that real-world experience and is powered by
+  Argos99 and our Resiliency Operations Center.
+
+  Our recoverability platform is purpose-built by frontline
+  recovery experts and is deployed across hybrid cloud and on-
+  premise environments; delivering measurable improvements in
+  recovery readiness and faster, more confident restoration
+  when ransomware strikes.
+
+  About This Position
+
+  We are searching for a Senior Software Engineer to join our
+  Fenix24 product team. In this role, you will be responsible
+  for building scalable, cloud-native services that process
+  infrastructure, backup, and asset telemetry data streams and
+  deliver valuable insights to our customers. Your focus will
+  be primarily backend, with opportunities to work across the
+  full stack. Our team operates with the speed and ownership
+  of a startup, backed by the stability of an established
+  company.
+
+  Our team has fully embraced AI-assisted, agentic
+  development, guided by a core principle: agentic workflows
+  scale execution, but they don’t always scale judgment. That
+  judgment is what our engineers bring. We spend less time
+  writing code by hand and more time understanding the
+  problem, directing AI tools, and making sure what they
+  produce is right, so we can move fast and in the right
+  direction.
+
+  As a Senior Software Engineer, you will lead the delivery of
+  significant features from requirements through release, take
+  long-term ownership of key areas of the platform, and help
+  raise the bar for engineering practices across the team.
+
+  Key Responsibilities
+
+  - Take end-to-end ownership of software delivery: partner with
+    product to define requirements and success criteria, break
+    work into iterative deliverables, and coordinate
+    contributions from other engineers through release
+  - Design, implement, and optimize scalable services and data
+    pipelines on Azure that turn resiliency-relevant data from
+    backup, hypervisor, EDR, and cloud sources into actionable
+    insights
+  - Build reliable integrations with third-party APIs, including
+    handling authentication, rate limits, pagination, and
+    changes in upstream data formats
+  - Use agentic coding tools as a core part of your daily
+    workflow, providing clear context and direction and
+    critically evaluating generated code for sound
+    architecture, design, and logic
+  - Serve as a long-term owner of key platform components,
+    ensuring their ongoing health, reliability, and
+    maintainability through robust monitoring, logging, and
+    proactive improvement
+  - Contribute to planning with a view beyond the immediate
+    task, identifying risks, dependencies, and technical
+    unknowns early
+  - Foster a culture of learning and improvement by mentoring
+    other engineers, providing feedback, and actively
+    participating in retrospectives to help the team
+    continuously improve how it plans, communicates, and
+    delivers
+  - Collaborate closely with product, design, and engineering
+    teammates to ensure requirements are met and features are
+    delivered on time
+  - Other duties as required
+
+  Qualifications, Requirements & Preferred Skills
+
+  - Bachelor’s degree in Computer Science or a related field, or
+    equivalent experience
+  - 5+ years of professional software development experience in
+    Python or a statically typed language such as C#, Java,
+    C++, or Rust. Working knowledge of Python is required
+  - Solid grounding in system design, with experience designing
+    and building services, APIs, and data pipelines in a cloud
+    environment, including microservices and distributed
+    systems
+  - Hands-on experience using AI coding agents to build and ship
+    software, with a clear understanding of how to guide them
+    effectively and evaluate their output
+  - Proven experience leading the delivery of features or
+    projects involving multiple engineers, from requirements
+    definition through release
+  - Experience working on agile teams, delivering iteratively,
+    and contributing to a culture of continuous improvement
+  - Experience with automated testing and CI/CD pipelines for
+    building, testing, and deploying code
+  - Strong understanding of security best practices, especially
+    as they relate to data protection, authentication, and
+    secure coding principles
+  - Ability to work effectively on a fully remote team
+  - Excellent analytical, organizational, and problem-solving
+    skills
+  - Demonstrated written and oral communication skills and
+    leadership
+  - Ability to form relationships across all levels of the
+    company while modeling Fenix24’s Culture and Values
+  - Preferred hands-on experience with our technology stack,
+    particularly Azure and our data platforms:
+    - Backend: Python, Rust
+    - Frontend: TypeScript, Vue.js
+    - Cloud: Microsoft Azure (Function Apps, containers, and
+      supporting Azure services)
+    - Data: Databricks, Delta Tables, PostgreSQL, Azure Cosmos DB
+    - Infrastructure and Delivery: Bicep, Azure Pipelines, Azure
+      DevOps
+    - AI Tooling: Anthropic Claude
+  - Preferred industry experience in cybersecurity or with
+    security frameworks
+  - Preferred experience across multiple languages and
+    technology stacks and interest in working across both
+    backend and frontend
+  - Preferred background working on an early-stage or fast-
+    moving software product
+  - Excellent analytical, organization, and problem-solving
+    skills
+  - Demonstrated strong written and oral communication skills,
+    including strong relationship building skills and
+    leadership capabilities
+  - Ability to form relationships across all levels of the
+    company while modeling Fenix24’s Culture and Values
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-11-12
+url: "https://builtin.com/job/senior-software-engineer/12190464"
+source: Built In

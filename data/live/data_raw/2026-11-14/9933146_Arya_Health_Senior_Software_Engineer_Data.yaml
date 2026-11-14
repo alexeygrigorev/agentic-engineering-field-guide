@@ -1,0 +1,186 @@
+job_id: 9933146
+title: Senior Software Engineer, Data
+company: Arya Health
+location: New York, USA
+work_type: FULL_TIME
+company_size: 19 Employees
+description: |
+  About the Role
+
+  We’re looking for a Senior Software Engineer focusing on
+  Data to join our team and build the pipelines and systems
+  that power Arya’s workforce platform. You’ll work with
+  modern data and automation tools to design and implement
+  high-performance, scalable integrations between our platform
+  and customer systems. This includes integrating with APIs,
+  file-based systems, and RPA (Robotic Process Automation)
+  workflows to handle scenarios where APIs aren’t available or
+  data is locked in legacy systems. As a senior member of the
+  engineering team, you’ll lead data projects end-to-end,
+  ensuring our data is accurate, timely, and reliable—driving
+  the experiences our customers depend on.
+
+  What You'll Do
+
+  - Architect, build, and maintain ETL/ELT pipelines using
+    Airbyte, Dagster, or similar frameworks.
+  - Integrate with REST, GraphQL, and file-based APIs, as well
+    as RPA workflows.
+  - Optimize Postgres queries and schemas for performance at
+    scale.
+  - Implement monitoring and alerting to ensure data quality and
+    availability.
+  - Collaborate with Product, DevOps, and QA to deliver reliable
+    integrations quickly.
+  - Document integration patterns and help evolve our data
+    platform architecture.
+  - Provide technical leadership and mentorship to other
+    engineers working on data systems.
+
+  What We’re Looking For
+
+  - 5+ years of experience in software engineering with a focus
+    on data systems or backend integrations.
+  - Expert in SQL and proficient with Postgres optimization.
+  - Hands-on experience with Airbyte, Dagster, or similar tools.
+  - Strong programming skills in Node.js or Python.
+  - Familiarity with CI/CD pipelines and cloud environments (GCP
+    preferred).
+  - Experience with RPA tools (e.g., UiPath, Automation
+    Anywhere, Blue Prism) a strong plus.
+  - Clear communication skills and a collaborative mindset.
+
+  Nice to Have
+
+  - Experience with streaming data systems (Kafka, Pub/Sub).
+  - Exposure to data governance or compliance in regulated
+    industries.
+  - Contributions to open-source data or integration tooling.
+
+  What to Expect in the First 90 Days
+
+  By Day 15 — Onboarding & Environment Setup
+
+  - Fully onboarded into Arya’s development environment and
+    tooling.
+  - Access to and understanding of existing Airbyte/Dagster
+    pipelines, Postgres schemas, and RPA workflows.
+  - Shadow a senior team member on one live deployment.
+  - Ship at least 1 minor bug fix or small improvement to an
+    existing integration.
+  - Review integration documentation and begin drafting notes on
+    areas for improvement.
+
+  By Day 30 — Initial Contributions & Familiarity
+
+  - Ship your first net-new integration (API, file-based, or
+    RPA) into staging or production.
+  - Implement basic monitoring or alerting improvements for an
+    existing pipeline.
+  - Partner with Product to map integration requirements for an
+    upcoming customer.
+  - Deliver a performance analysis on at least one critical data
+    flow and propose optimization.
+  - Begin contributing to code reviews for data-related pull
+    requests.
+
+  By Day 60 — Ownership of Integration Scope
+
+  - Fully own a subset of data integrations from development
+    through monitoring.
+  - Ship at least 1 high-impact performance improvement (e.g.,
+    reduced latency, improved throughput).
+  - Deploy an RPA-based integration into production for a
+    customer with limited API access.
+  - Document integration processes and edge cases for assigned
+    systems.
+  - Participate in customer onboarding calls to understand
+    integration pain points.
+
+  By Day 90 — Scaling & Strategic Impact
+
+  - Design and implement an automation to streamline integration
+    deployment or monitoring.
+  - Lead a cross-functional initiative to improve data quality
+    or reduce integration failures by 25%+.
+  - Propose and implement schema or architecture changes to
+    support future integrations at scale.
+  - Mentor a junior engineer or new hire on Arya’s data
+    engineering stack.
+  - Present a “State of Data Systems” review to the engineering
+    team, outlining current health, risks, and opportunities.
+
+  OUR VALUES
+
+  You will thrive at Arya if you can:
+
+  1. Think Like a Customer
+
+  We win by making our Customers feel like superheroes. This
+  means we must always view our decisions, actions and
+  communication through the lens of our Customers.
+
+  2. Find Small Wins Everyday
+
+  We believe that speed of making decisions and taking action
+  have a compounding effect. A series of quick, small, daily
+  wins add up to big ones over time, and the absence of these
+  can add up to big losses.
+
+  3. Teach and Learn Consistently
+
+  We believe that giving context and sharing expertise is
+  everyone's responsibility. We find time to talk about the
+  Why and How of what we do in every interaction.
+
+  4. Be Prepared
+
+  We believe that progress cannot be left to chance and sudden
+  flashes of genius. We put in the time and effort to prepare
+  ourselves and others to make the most of every opportunity.
+
+  5. Communicate Simply
+
+  We communicate to be understood. This means that in a
+  complex, global and busy world, we work hard to express our
+  ideas in ways that others find simple and intuitive.
+
+  6. Be Kind
+
+  We believe that being exceptional and being kind are not
+  mutually exclusive. We strive to treat others with empathy,
+  kindness and respect, even in the most challenging of times.
+
+  WHAT WE OFFER
+
+  Arya is committed to being transformative to the careers of
+  those who share our values, and are looking to build a
+  generational business. We offer:
+
+  The Basics:
+
+  - Competitive salary + equity
+  - Comprehensive health and wellness benefits
+  - Flexible PTO and generous parental leave
+  - Performance-based incentives
+  - Wellhub subscription with access to premium fitness
+    facilities, team workouts
+
+  The Multipliers:
+
+  - Be part of a company that treats its values as its biggest
+    priority
+  - Learn more about building and scaling a business in months
+    than others will in years
+  - Have ownership, influence and impact that runs far and wide
+  - Work flexibly, with a focus on progress over activity
+  - Never sacrifice your mental health- while we work hard,
+    we're committed to avoiding burnout at all costs
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - HR Tech
+  - Software
+posted_date: 2026-08-16
+url: "https://builtin.com/job/senior-software-engineer-data/9933146"
+source: Built In

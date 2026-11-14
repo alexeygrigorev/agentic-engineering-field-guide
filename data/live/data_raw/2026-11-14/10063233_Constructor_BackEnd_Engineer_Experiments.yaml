@@ -1,0 +1,169 @@
+job_id: 10063233
+title: "BackEnd Engineer: Experiments"
+company: Constructor
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 160 Employees
+description: |
+  About us
+
+  Constructor is the next-generation platform for search and
+  discovery in ecommerce, built to explicitly optimize for
+  metrics like revenue, conversion rate, and profit. Our
+  search engine is entirely invented in-house utilizing
+  transformers and generative LLMs, and we use its core and
+  personalization capabilities to power everything from search
+  itself to recommendations to shopping agents. Engineering is
+  by far our largest department, and we've built our
+  proprietary engine to be the best on the market, having
+  never lost an A/B test to a competitive technology. We're
+  passionate about maintaining this and work on the bleeding
+  edge of AI to do so. Out of necessity, our engine is built
+  for extreme scale and powers over 1 billion queries every
+  day across 150 languages and roughly 100 countries. It is
+  used by some of the biggest ecommerce companies in the world
+  like Sephora, Under Armour, and Petco. We're a passionate
+  team who love solving problems and want to make our
+  customers' and coworkers' lives better. We value empathy,
+  openness, curiosity, continuous improvement, and are excited
+  by metrics that matter. We believe that empowering everyone
+  in a company to do what they do best can lead to great
+  things. Constructor is a U.S. based company that has been in
+  the market since 2019. It was founded by Eli Finkelshteyn
+  and Dan McCormick who still lead the company today.
+
+  About the Team
+
+  The Experiments team at Constructor builds an
+  experimentation platform: traffic allocation, exposure
+  logging, metric computation, statistical analysis, and a UI
+  for launching experiments and interpreting results. It’s
+  used both internally and by customers running experiments on
+  production traffic.
+
+  We’re scaling customer experimentation usage and investing
+  in making experiments faster, more reliable, and easier to
+  interpret. Unlike boxed experimentation tools, our platform
+  has to support a wide range of customer integrations,
+  traffic patterns, and industry constraints — which makes the
+  engineering problems unusually real-world and high-leverage.
+
+  Team: 3 Software Engineers, 1 Data Analyst, an Engineering
+  Manager, and a Product Manager.
+
+  The Role
+
+  This is primarily a backend role (Python services + data-
+  heavy systems). You’ll occasionally work in the Dash UI and
+  contribute to Spark jobs, but those are not the main focus.
+  We care about correctness, observability, and product
+  usability more than complex infrastructure.
+
+  Tech: Python, FastAPI, PostgreSQL, Plotly Dash,
+  PySpark/Databricks, AWS, CloudWatch, Sentry
+
+  (Spark work is ~5–10% — we don’t expect you to be a data
+  engineer or own the data platform.)
+
+  What you’ll do
+
+  - Build and maintain backend services for experiment
+    assignment, logging, and report generation
+  - Improve scalability, performance, and reliability of
+    experiment reporting pipelines
+  - Add product-facing features to the UI to help users launch
+    experiments and interpret results
+  - Take technical ownership of projects: shape solutions, break
+    down work, and drive execution with the team
+  - Participate in a weekly on-call rotation (investigating
+    occasional issues and answering internal questions)
+
+  You’ll collaborate closely with Search/Recommendations
+  engineers, ML/DS partners, and customer-facing teams when
+  needed. This role does not require frequent direct customer
+  calls.
+
+  RequirementsMust-have
+
+  - Strong experience building and owning production backend
+    services in Python
+  - Experience with monitoring, alerting, and debugging user-
+    facing systems
+  - Strong SQL skills and confidence working with data-heavy
+    systems (metrics, logging, analytics)
+  - Ability to ship maintainable software (tests, code review,
+    incremental delivery)
+
+  Mindset
+
+  - You take ownership: you can turn ambiguous problems into an
+    executable technical plan
+  - You care about building systems people trust and rely on
+
+  Nice-to-have
+
+  - Experience with experimentation systems, metrics platforms,
+    or A/B testing workflows
+  - Experience with PySpark and/or Databricks
+  - We don’t expect you to already be an expert in
+    experimentation methodology — but we do expect strong
+    backend fundamentals and the ability to ramp up
+    effectively in a data-heavy domain
+
+  Location / Time Zones
+
+  - We’re a distributed team. Preferred time zones are UTC+1 to
+    UTC+7, but we’re flexible
+
+  Benefits
+
+  - 🏝️ Unlimited vacation time - we strongly encourage all
+    employees to take at least 3 weeks per year
+  - 🌎 Fully remote team - choose where you live
+  - 🛋️ Work from home stipend - we want you to have the
+    resources you need to set up your home office
+  - 💻 Apple laptops provided for new employees
+  - 🧑‍🎓 Training and development budget - refreshed each year
+    for every employee
+  - 👪 Maternity & Paternity leave for qualified employees
+  - 🧠 Work with smart people who will help you grow and make a
+    meaningful impact
+  - 💵 Base salary: $80k–$110k USD, depending on knowledge,
+    skills, experience, and interview results
+  - 📈 Stock options - offered in addition to the base salary
+  - 🎉 Regular team offsites to connect and collaborate
+
+  Diversity, Equity, and Inclusion at Constructor
+
+  At Constructor.io we are committed to cultivating a work
+  environment that is diverse, equitable, and inclusive. As an
+  equal opportunity employer, we welcome individuals of all
+  backgrounds and provide equal opportunities to all
+  applicants regardless of their education, diversity of
+  opinion, race, color, religion, gender, gender expression,
+  sexual orientation, national origin, genetics, disability,
+  age, veteran status or affiliation in any other protected
+  group.
+
+  Studies have shown that women and people of color may be
+  less likely to apply for jobs unless they meet every one of
+  the qualifications listed. Our primary interest is in
+  finding the best candidate for the job. We encourage you to
+  apply even if you don’t meet all of our listed
+  qualifications.
+
+  How we handle your data. By submitting this application, you
+  acknowledge that Constructor will collect and process the
+  personal data you provide for the purpose of evaluating your
+  candidacy for this role. If you are not selected, we will
+  retain your data for a limited period as described in our
+  Recruitment Privacy Notice. After that period your data will
+  be deleted or anonymized.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Generative AI
+posted_date: 2026-08-01
+url: "https://builtin.com/job/backend-engineer-experiments/10063233"
+source: Built In

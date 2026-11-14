@@ -1,0 +1,407 @@
+job_id: 11994644
+title: "Senior Engineering Manager, Data & AI"
+company: Alvys
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 134 Employees
+description: |
+  Senior Engineering Manager, Data & AI
+
+  Lead the engineering team behind Foundry, Insights, Intel,
+  and Voice: the agents, analytics, and data intelligence of
+  the modern freight platform.
+
+  About the Role
+
+  Remote, United States. Some travel is required for team
+  onsites, customer visits, and industry events. Relocation
+  assistance is not provided.
+
+  The Senior Engineering Manager, Data & AI leads the
+  engineering group behind Foundry, Insights, Intel, and
+  Voice. You'll own the group's technical strategy, delivery,
+  and quality, hire and develop its engineers, and stay hands-
+  on by prototyping, writing evals, reading traces, and
+  reviewing architecture in depth.
+
+  The team is about eight engineers today and growing. It also
+  owns the shared foundation those products run on: a context
+  graph that connects loads, trips, carriers, drivers,
+  customers, documents, and conversations; event-sourced
+  platform data streaming into the warehouse; and the evals,
+  tracing, guardrails, and model routing every agent depends
+  on.
+
+  Alvys facilitates more than $1 billion in funds every month
+  across invoices, carrier payments, and driver settlements.
+  Behind that volume is one of the richest operational
+  datasets in freight. This team turns it into agents that do
+  real work and intelligence customers can't get anywhere
+  else.
+
+  Engineering leaders at Alvys are builders. Expect to spend
+  about a third of your time building. You'll set the standard
+  for how an AI-first team works: coding agents in the daily
+  workflow, evals before scale, and production evidence over
+  demos.
+
+  The platform runs on .NET (C#, and increasingly F#),
+  TypeScript, and Python on Azure and AKS, with Cosmos DB,
+  Postgres, Elasticsearch, Snowflake, dbt, and Fivetran
+  underneath.
+
+  We're looking for someone who treats AI as a first-class
+  material, both in what we build for customers and in how the
+  engineering team works.
+
+  Industry Insight
+
+  Freight runs on phone calls, emails, PDFs, and tribal
+  knowledge. The U.S. trucking industry is worth approximately
+  $1 trillion today and is projected to grow by roughly 60% to
+  nearly $1.5 trillion over the next decade.
+
+  Yet the work that moves that freight is still largely
+  manual. Nearly 580,000 active U.S. motor carriers operate in
+  a highly fragmented market; 91.5% run 10 or fewer trucks,
+  and 99.3% run 100 or fewer. Few of these businesses will
+  ever build a data team of their own. Every check call
+  answered, rate confirmation read, and exception caught by
+  software is time back for a small team running on thin
+  margins.
+
+  Freight data is also structurally messy. A single load spans
+  brokers, carriers, drivers, shippers, and documents, each
+  with its own identifiers, and the truth lives across EDI
+  messages, phone calls, and free text. Generic AI tooling
+  doesn't model any of this. That's why we're building a
+  context graph grounded in how freight actually moves.
+
+  Agents can now answer the phone, read documents, query
+  operational data, and take actions inside a TMS. In freight,
+  those actions move trucks and money. They must be correct,
+  auditable, and safe.
+
+  About Alvys
+
+  Alvys is building the operating system for modern freight.
+  Our AI-powered, cloud-native platform brings dispatch,
+  driver mobile, safety and compliance, billing and
+  settlements, native EDI, reporting, integrations, and
+  automation into one product.
+
+  We were founded in 2020 by freight industry insiders who
+  were tired of software built by people who had never moved a
+  load. That combination of deep customer empathy and
+  ambitious technology still defines us. We visit customers,
+  learn how the work actually happens, prototype quickly,
+  debate ideas openly, and turn the best ones into products
+  people rely on.
+
+  More than 3,000 trucking and brokerage companies use Alvys
+  today, including larger fleets with increasingly
+  sophisticated operations. We've raised $77M to date,
+  including a $40M Series B. That gives us real momentum and
+  room to make bold bets, while remaining early enough that a
+  great engineering leader can materially shape the product,
+  team, and company.
+
+  We are building more than a modern interface for a
+  traditional TMS. Foundry, our agent platform within Alvys,
+  helps freight teams make decisions and complete work, and
+  this team builds it. You'll work with curious, direct, low-
+  ego people who solve hard problems, move quickly from
+  prototype to production, and measure customer impact.
+
+  Our Principles
+
+  AI makes building cheap. It does not make judgment cheap.
+
+  The constraint has moved from writing code to deciding what
+  to build and proving it is right. Agents belong in the
+  middle of the pipeline. People remain accountable at both
+  ends. These principles turn that into how we work every day.
+
+  Own the outcome
+
+  - You own what you ship. "AI wrote it" is not an answer.
+  - Judgment stays human. People decide what matters and whether
+    the result is correct.
+
+  Verify independently
+
+  - Generation and verification are separate. Tests, review, and
+    approval run independently of the agent that did the work.
+  - Autonomy is earned per workflow. Agents advance only on
+    measured precision against human-verified outcomes. No
+    number, no promotion.
+
+  Design for control
+
+  - AI-first means security-first. Customer data stays on
+    approved infrastructure under managed identity.
+  - Cost is an engineering constraint. Every shared workflow has
+    termination conditions and bounded fan-out.
+
+  Build durable systems
+
+  - Knowledge is tool-agnostic. Reviewed intent lives once;
+    vendor-specific machinery is generated from it.
+  - Multiple vendors are a design assumption. Durable workflows
+    don't couple to one model or harness.
+  - Twice is a pattern. Automate repeated work and share it
+    within 48 hours.
+
+  The Data & AI Portfolio
+
+  The Data & AI portfolio covers Foundry, our embedded
+  automation and agent platform, including a unified agent
+  chat that answers questions and takes actions; Insights,
+  conversational analytics grounded in each customer's own
+  operating data; Intel, proprietary data intelligence drawn
+  from third-party, licensed, and proprietary data sources;
+  and Voice, AI voice and chat agents for load status, driver
+  check calls, and the follow-ups in between. It also includes
+  the shared foundation: the context graph, the data platform
+  that feeds it, and the evals, tracing, guardrails, and model
+  routing behind every agent.
+
+  Why This Role
+
+  Few engineering leadership roles combine frontier AI work, a
+  proprietary dataset, and an industry this underserved. This
+  one does.
+
+  - You build at the frontier, in production. Context graphs,
+    self-learning agents, voice agents, and agentic automation
+    are still being figured out across the industry. Here you
+    ship them to real customers, on live freight operations,
+    not benchmarks.
+  - You work with data no one else has. More than 3,000 trucking
+    and brokerage companies run on Alvys, and more than $1
+    billion in funds moves through the platform every month.
+    Combined with third-party and licensed sources, that data
+    is the raw material for intelligence no single fleet or
+    brokerage could build alone.
+  - Your work changes how an industry operates. With 91.5% of
+    carriers running 10 or fewer trucks, most of our customers
+    will never hire a data team. The agents you build give a
+    small business the leverage of a much larger one.
+  - You own a portfolio, not a feature. Four products share one
+    platform. You set its architecture, choose its models and
+    vendors, and decide where the team invests as it grows.
+  - You shape the team from the start. The group is about eight
+    engineers today. You'll hire the next wave and set the
+    standard for how an AI-first engineering team works at
+    Alvys.
+  - You stay close to the decisions. You report to the Head of
+    Engineering, work directly with customers and our Forward
+    Deployed Engineering team, and have a direct line into
+    company planning, backed by a $40M Series B.
+
+  What You'll Be Responsible For
+
+  Leading and Growing the Team
+
+  - Manage, coach, and develop a team of about eight engineers,
+    including senior engineers and tech leads, and grow it as
+    the portfolio expands.
+  - Hire senior and staff engineers, and keep the quality bar
+    high as the team scales.
+  - Run the team AI-first, with coding agents in the daily
+    workflow and clear standards for how AI-written code is
+    reviewed, tested, and shipped.
+
+  Owning Technical Strategy
+
+  - Set technical direction for agents, data, and the context
+    graph, and make the build, buy, and model calls with cost,
+    quality, and speed in view.
+  - Make tradeoffs across four products that share one platform,
+    including what gets built, what gets cut, and where the
+    team invests.
+
+  Building Agents That Learn
+
+  - Own the agent development lifecycle from prototype to
+    production to continuous improvement.
+  - Build self-learning loops so agents improve from outcomes,
+    user corrections, and transcripts, and make that
+    improvement measurable.
+  - Make evals a release gate. No agent ships without tests for
+    quality, safety, latency, and cost.
+
+  Data and the Context Graph
+
+  - Own the context graph that links loads, trips, carriers,
+    drivers, customers, documents, and conversations, and the
+    entity resolution that keeps it trustworthy.
+  - Partner on the data platform that feeds it, including event
+    streams, CDC into Snowflake, data quality, and lineage, so
+    agents and analytics share one source of truth.
+  - Capture decision traces (the inputs gathered, the rule
+    applied, any exception, who approved it, and why) so
+    precedent becomes searchable for agents and people, while
+    rules stay explicit.
+  - Combine third-party, licensed, and proprietary data sources
+    into intelligence customers can act on, with the
+    provenance, licensing terms, and tenant boundaries of each
+    source respected.
+
+  Safety, Isolation, and Reliability
+
+  - Design agents that change data with scoped permissions,
+    human approvals, and audit trails, and defend against
+    prompt injection and tool misuse.
+  - Enforce tenant isolation and least privilege across every
+    agent, tool, and data path.
+  - Own reliability and unit economics. Track cost per task, per
+    call, and per tenant, and keep margins healthy as usage
+    grows.
+
+  Staying Hands-On
+
+  - Spend about a third of your time building: prototype, write
+    evals, read traces, and debug production.
+  - Review your team's designs and code with real depth, and
+    stay current on models and tools, separating what works in
+    production from what demos well.
+
+  Cross-Functional Partnership
+
+  - Work as a peer to product and design leadership on
+    direction, architecture, sequencing, and delivery.
+  - Work directly with customers and our Forward Deployed
+    Engineering team, and turn repeated patterns into platform
+    features.
+
+  The AI Fluency We Expect
+
+  We measure AI fluency by how you verify, not by how much you
+  use AI. More autonomy is not always better. You match the
+  level of autonomy to the risk of the work, and you hold
+  yourself and the team to the same five competencies.
+
+  - Delegation: You decide whether to use AI at all, which task
+    to hand off, and how much autonomy it gets.
+  - Description: You state goals, requirements, and limits
+    clearly, from a single prompt up to project instructions,
+    specs, and policy.
+  - Discernment: You check output against evidence: diffs,
+    acceptance checks, evals, and production monitoring.
+  - Diligence: You own the effects, including data access,
+    permissions, memory isolation, budgets, and kill switches.
+  - Systems: You know how models, context, tools, harnesses, and
+    memory work, and where each one fails.
+
+  How You Work With Agents
+
+  - Design multi-agent systems on paper before you build them.
+    For each step, choose a rule, a small model, a frontier
+    model, or a person, and measure cost per outcome, not cost
+    per token.
+  - Start from code-orchestrated workflows and add model-led
+    autonomy only where the task needs exploration. Keep
+    agent-to-agent handoffs few, and give each agent a
+    contract: inputs, allowed tools, and output schema.
+  - Put limits in code, not in prompts: hooks, sandboxed
+    worktrees, and a stop condition, retry cap, and budget on
+    every loop.
+  - Separate the agent that writes from the agent that checks,
+    and give the checker fresh context.
+  - Work in an explore, plan, execute, verify, and compound
+    rhythm, where every correction becomes a rule, skill,
+    hook, or test.
+  - Move fluently across Claude Code, Codex, and Cursor, and
+    choose an editor-first or agent-first surface based on who
+    should hold the controls for the next step.
+
+  Where You Take the Team
+
+  - Bring every engineer to running goal-based loops, where
+    specs and checks are written first, never weakened to
+    pass, and run by the agent itself.
+  - Move the team from steering every turn to designing the
+    system that steers the agent: its context, its harness,
+    and its loop.
+  - Build toward agents that run continuously in hosted
+    sandboxes, each with its own least-privilege identity, a
+    named owner, a budget, and a tested kill switch, with
+    risk-scaled human review on financial actions, auth,
+    settlements, and customer data.
+  - Close the improvement loop. Capture traces, run error
+    analysis on real failures every week, encode the fixes,
+    and gate every change to rules, memory, or evals behind
+    evals and a human approver. Self-improving never means
+    self-approving.
+
+  Minimum Qualifications
+
+  - 8+ years building software, including 3+ years managing
+    engineers. You've grown senior engineers and tech leads
+    and remain a hands-on builder who can prototype, debug
+    production, and review code credibly.
+  - Production LLM systems. You've shipped LLM-powered products
+    to real users, not demos, and can explain what broke, what
+    you measured, and what you changed.
+  - Agentic engineering in your own work. You build with coding
+    agents every day and can show the multi-agent workflows,
+    contracts, hooks, and loops you put into production, and
+    the checks that kept them honest.
+  - Depth in agent systems. You've built with tool use, function
+    calling, MCP, orchestration, memory, and retrieval, and
+    you understand where agents fail.
+  - Evaluation discipline. You've built eval systems that
+    combine offline suites, online metrics, human review, and
+    transcript analysis, and used them to gate releases.
+  - Strong data engineering judgment. You've worked with event
+    streams, CDC, cloud warehouses, dbt, and data quality, and
+    you know how the shape of the data limits what models can
+    do.
+  - Distributed systems in production. You've designed and
+    operated production services with real reliability
+    requirements.
+  - Multi-tenant security. You've secured multi-tenant SaaS and
+    isolated customer data, and you treat agent permissions as
+    a security boundary.
+  - Language fluency. You write Python or TypeScript fluently
+    and are comfortable reading C#, F#, and .NET. Experience
+    with F# or another functional language is a plus.
+  - Startup-stage fit. You've operated at Series B/C velocity
+    amid ambiguity, thin support, competing priorities, and a
+    bias toward shipping and learning.
+  - Clear technical communication. You can explain a tradeoff to
+    an engineer, a customer, and an executive.
+
+  Preferred Qualifications
+
+  - Knowledge graphs, context graphs, entity resolution, or
+    GraphRAG in production.
+  - Real-time voice agents, including telephony, speech-to-text,
+    text-to-speech, turn-taking, and latency budgets.
+  - Fine-tuning, reinforcement learning from feedback, or prompt
+    optimization against eval sets.
+  - Embedded automation or workflow platforms such as
+    Activepieces, n8n, or Temporal.
+  - SRE experience, or a record of running systems other teams
+    depend on.
+  - Logistics or freight experience, or another vertical where
+    data is deeply entangled with operations.
+  - Founder or early-stage engineering leadership experience.
+  - A history of hiring, growing, and retaining excellent
+    engineers.
+
+  Built by people who've moved freight. Come build the
+  intelligence layer with us.
+
+  Learn more at alvys.com
+industries:
+  - Cloud
+  - Logistics
+  - Software
+  - Transportation
+  - Automation
+posted_date: 2026-10-30
+url: "https://builtin.com/job/senior-engineering-manager-data-ai/11994644"
+source: Built In

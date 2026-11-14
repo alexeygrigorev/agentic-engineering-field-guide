@@ -1,0 +1,106 @@
+job_id: 12068252
+title: Software Engineer
+company: Soluna
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 45 Employees
+description: |
+  At Soluna, we are on a mission to make renewable energy a
+  global superpower using computing as a catalyst. We design,
+  develop and operate digital infrastructure that transforms
+  surplus renewable energy into global computing resources.
+
+  We are seeking a Software Engineer to help build the future
+  of our site control systems and data infrastructure.  This
+  role requires a broad engineering skillset to address the
+  variety of challenges faced by our systems.  In any given
+  day you may be required to debug a MODBUS interface to a
+  piece of medium voltage switchgear, develop a new trigger
+  algorithm to curtail one of our sites, build a new data
+  product in conjunction with our product team, or work with
+  the entire TechOps team to build and improve our team
+  operating principles.
+
+  This role is not a traditional SW Engineering role and will
+  expose you to many new technologies and skillsets.  We are
+  looking for a candidate who can be flexible and work around
+  uncertainty while building the necessary infrastructure to
+  operate our facilities, but who will not compromise on
+  quality or reliability.
+
+  What You’ll Do
+
+  - Help architect and build the control system (Maestro) for
+    our Data Centers
+  - Improve SW development practices including testing,
+    integration, deployment, and configuration management
+  - Work with our Product Management team to develop new data
+    products to support internal teams and processes
+  - Help develop and manage our cloud infrastructure
+  - Work in a variety of languages and with a variety of tools
+
+  About the Stack
+
+  Our control system, Maestro,  is unique and proprietary to
+  Soluna.  Maestro  has been developed from the ground up to
+  meet the requirements of our green energy powered data
+  centers and the specific contractual requirements at each
+  installation site.  Maestro is currently primarily deployed
+  as a Node-RED control system backed by an ArangoDB
+  configuration database, a Mosquitto MQTT communication
+  layer, and an Elixir-based data collection process.  Maestro
+  is a distributed system across our facilities and must be
+  robust to an array of failure modes. As we grow and hit the
+  limits of Node-RED, we are migrating functionality to the
+  Elixir language.  Some sites have control panels built in
+  Svelte, but these will also be migrating to Elixir
+  Phoenix/LiveView.  Elixir will be core to our strategy
+  moving forward due to the great match between Elixir/the
+  BEAM’s capabilities and the requirements of our facilities.
+
+  Our data infrastructure is based on AWS and ClickhouseDB. We
+  utilize Kinesis and Lambda for data ingestion. We operate a
+  Dagster instance to post-process data collected from our
+  facilities into useful data products for internal teams.
+
+  What You Need to Get the Job Done
+
+  The most important characteristic required by this role is a
+  willingness to get the immediate job done in a robust manner
+  while keeping an eye on the future.  We rely on iterative
+  development to get the job done now, but also pay down tech
+  debt as we move forward.
+
+  Specific experiences and skills that would be helpful:
+
+  - Ability to work in multiple languages (Elixir, Python, SQL,
+    Node-RED) across multiple platforms
+  - Familiarity with Elixir, along with a desire to deeply learn
+    Elixir/OTP/the BEAM, is required.  Production Elixir
+    experience is a strong differentiator.
+  - Experience with AWS and managing lightweight cloud
+    operations
+  - Experience developing and improving the tools and processes
+    required for developing and shipping quality software
+  - An appreciation for testing and validation
+  - Experience or desire to develop and maintain mission
+    critical applications
+
+  Why join Soluna?
+
+  We are a diverse, driven team of entrepreneurs, energy
+  experts, private equity leaders, storytellers and engineers.
+  We are passionate about making the world greener and we have
+  conviction about how we will bring change on a global scale.
+
+  We are equally as zealous about championing our teams,
+  relentless about developing our people, and believe strongly
+  that Soluna’s goals and commitment to our mission are
+  strengthened by our employee’s voices.
+industries:
+  - Information Technology
+  - Database
+posted_date: 2026-11-04
+url: "https://builtin.com/job/software-engineer/12068252"
+source: Built In

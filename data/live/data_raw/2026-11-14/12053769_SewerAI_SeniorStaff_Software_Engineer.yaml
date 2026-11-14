@@ -1,0 +1,178 @@
+job_id: 12053769
+title: Senior/Staff Software Engineer
+company: SewerAI
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 38 Employees
+description: |
+  About SewerAI Corporation
+
+  SewerAI is transforming underground infrastructure
+  management through AI-powered inspection and risk analysis.
+  Our platform helps contractors, engineering firms, and
+  utilities unlock valuable insights from sewer inspection
+  data—turning hours of manual video review into actionable
+  intelligence in minutes. After doubling our customer base
+  over the past year, we’re now entering an exciting phase of
+  accelerated growth.
+
+  About the Role
+
+  We're seeking an experienced Senior Full-Stack Software
+  Engineer to join our SewerAI team working on an innovative
+  automated sewer inspection analysis and management platform.
+  You'll work on cutting-edge technology that combines
+  computer vision, geospatial analysis, and modern web
+  development to help municipalities and contractors maintain
+  critical infrastructure.
+
+  What You'll Work On
+
+  - AI-Powered Sewer Inspection: Build systems that process
+    video inspections using computer vision and machine
+    learning to automatically identify defects and conditions
+  - Geospatial Analysis: Develop tools for mapping and analyzing
+    sewer infrastructure with real-timerisk assessment
+  - Workflow Orchestration: Create robust data processing
+    pipelines using Temporal.io for large-scale video analysis
+  - Real-Time Dashboards: Build interactive React frontends with
+    mapping, data visualization, and video playback
+    capabilities
+  - API Development: Design and implement scalable TypeScript
+    APIs serving municipal agencies and contractors
+
+  Required Technical Skills
+
+  Frontend Development
+
+  - React 18+ with TypeScript - building complex, interactive
+    user interfaces
+  - Modern CSS/Tailwind - responsive design and component
+    styling
+  - WebGL/Canvas Graphics - for geospatial visualization and
+    video annotation
+  - Mapping Libraries - interactive geographic data
+    visualization
+  - State Management (Zustand, React Query) - complex
+    application state handling
+
+  Backend Development
+
+  - Node.js/TypeScript - building high-performance APIs with
+    Fastify
+  - PostgreSQL/PostGIS - complex database queries and geospatial
+    operations
+  - Prisma ORM - database schema management and migrations
+  - RESTful API Design - OpenAPI/Swagger documentation
+
+  Infrastructure & DevOps
+
+  - Docker/Containerization - microservices deployment
+  - AWS Cloud Services (Lambda, ECS, S3, RDS) - scalable
+    infrastructure
+  - CI/CD - automated testing and deployment pipelines
+
+  Nice-to-Have Skills
+
+  - Computer Vision (OpenCV) - video processing and defect
+    detection
+  - Temporal.io - workflow orchestration for data processing
+    pipelines
+  - Geospatial Analysis (GeoPandas, Shapely) - infrastructure
+    mapping
+  - Machine Learning - AI model integration and evaluation
+  - Real-Time Systems (WebRTC) - live video streaming
+  - Data Analytics (ClickHouse, dbt) - large-scale data
+    processing
+
+  Architecture You'll Work With
+
+  - Monorepo structure using Turborepo with npm workspaces
+  - Microservices architecture with shared PostgreSQL database
+  - Event-Driven workflows using Temporal.io orchestration
+  - Modern Stack: React + TypeScript frontend, Fastify APIs,
+    Python data services
+  - Cloud-First: AWS infrastructure with containerized
+    deployment
+
+  What We're Looking For
+
+  - 5+ years of full-stack development experience
+  - Strong TypeScript/JavaScript skills with modern frameworks
+  - Database expertise with PostgreSQL and complex queries
+  - API design experience with REST and real-time systems
+  - Cloud deployment experience, preferably AWS
+  - Problem-solving mindset with attention to detail
+  - Collaborative approach to working in a team environment
+
+  Bonus Points
+
+  - Experience with geospatial data or GIS systems
+  - Computer vision or image processing background
+  - Municipal/infrastructure domain knowledge
+  - Open source contributions
+  - Workflow orchestration systems experience
+
+  What You'll Gain
+
+  - Work on meaningful infrastructure that impacts communities
+  - Cutting-edge technology at the intersection of AI,
+    geospatial analysis, and web development
+  - Full-stack ownership from data processing to user interface
+  - Modern development practices with comprehensive testing and
+    CI/CD
+  - Growth opportunities in a fast-moving, innovative
+    environment
+
+  Team & Culture
+
+  Join a team that values technical excellence, collaborative
+  problem-solving, and continuous learning. We use modern
+  development practices including comprehensive testing
+  (Playwright E2E, Jest unit tests), code reviews, and
+  automated deployment pipelines. This role offers the
+  opportunity to work with a sophisticated technology stack
+  while solving real-world infrastructure challenges that
+  matter to communities nationwide.
+
+  Salary/Benefits
+
+  $160,000 - $180,000 a year
+
+  The compensation range provided is in compliance with state
+  specific laws. Factors that may be used to determine your
+  actual rate of pay include your specific skills, years of
+  experience and other factors.
+
+  Benefits include:
+
+  - Medical, Dental, Vision, Basic Life, 401K and much more
+  - Unlimited PTO
+  - Tools you need to get the job done
+  - Competitive salary and potential equity based remuneration
+  - Budget for courses, books, conferences – your development is
+    important to us.
+
+  Why Join SewerAI? Join the fastest-growing team in
+  wastewater tech and help modernize critical infrastructure
+  with AI. You’ll own high-visibility projects, influence how
+  our brand meets the market, and see your work drive
+  measurable impact for customers and communities.
+
+  ____________________________________________________________
+  ___________
+
+  SewerAI is proud to be an Equal Opportunity Employer. We are
+  committed to providing a workplace free from discrimination
+  or harassment on the basis of age, disability, sex, race,
+  religion or belief, gender reassignment, marriage/civil
+  partnership, pregnancy/maternity, or sexual orientation. All
+  your information will be kept confidential according to EEO
+  guidelines.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-11-04
+url: "https://builtin.com/job/senior-staff-software-engineer/12053769"
+source: Built In

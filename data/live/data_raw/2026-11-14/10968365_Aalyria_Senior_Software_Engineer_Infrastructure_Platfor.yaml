@@ -1,0 +1,190 @@
+job_id: 10968365
+title: "Senior Software Engineer, Infrastructure & Platform"
+company: Aalyria
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 83 Employees
+description: |
+  About Aalyria:
+
+  Aalyria is a leading technology company that supplies laser
+  communications technology and temporospatial software-
+  defined networking platforms to the aerospace industry. With
+  technology acquired from Google, Aalyria is at the forefront
+  of innovation in satellite and airborne mesh networks, as
+  well as cislunar and deep-space communications. We are
+  revolutionizing the orchestration and management of
+  planetary mesh networks using any radio or optical spectrum,
+  any orbit, and any hardware across land, sea, air, and
+  space.
+
+  Role Overview:
+
+  We are seeking a highly motivated and experienced Senior
+  Software Engineer to join our core Spacetime engineering
+  team. We value engineers who are adaptable, proactive, and
+  eager to tackle new challenges as we advance our technology.
+  The ideal candidate will bring a solid technical background
+  and a proven track record in solving complex engineering
+  challenges. As a senior software engineer, you will play an
+  integral role in developing and optimizing systems critical
+  to our business, with the flexibility to contribute to and
+  take ownership of various projects as both you and the
+  company grow. You will be working alongside a team of
+  seasoned engineers from top-tier tech companies, managing
+  project priorities, timelines, and deliverables while
+  designing, developing, testing, and maintaining core
+  software.
+
+  Aalyria builds multicloud, Kubernetes-based systems. They
+  run in environments we operate and in environments our
+  customers operate themselves: commercial cloud, government
+  cloud, and secure, classified, or disconnected deployments.
+  The same product has to install, upgrade, and stay
+  observable in all of them.
+
+  Every other engineering team at Aalyria builds on what we
+  provide: cloud accounts and projects, networking, identity,
+  cluster lifecycle, and infrastructure provisioning. We make
+  this self-service and repeatable, so engineering teams can
+  ship without having to be experts in each cloud provider.
+
+  Key Responsibilities:
+
+  Cloud Infrastructure
+
+  - Build the foundations every Aalyria environment starts from:
+    accounts and projects, networking, DNS and IPAM, identity
+    and RBAC, quotas and policy.
+  - Own Kubernetes cluster lifecycle end to end – provisioning,
+    upgrades, addons – and the networking layer on top of it:
+    Gateway API, service mesh, and zero-trust connectivity.
+  - Keep patterns consistent across environments, and make the
+    differences that cloud providers, security domains, and
+    customers force on us deliberate.
+
+  Delivery and Packaging
+
+  - Make disconnected deployment a first-class path: registry
+    and artifact mirroring, hermetic builds, artifact sourcing
+    with no egress, bootstrapping with no upstream, and out-
+    of-band promotion.
+  - Define how Spacetime is packaged and configured for
+    Kubernetes, and decide where Helm, rendering, or custom
+    controllers each belong.
+  - Build the delivery path: GitOps reconciliation with Argo CD,
+    IaC run orchestration, drift detection, OPA policy gates,
+    and promotion between environments.
+  - Own fleet-scale change mechanics – module and chart
+    versioning, staged rollouts, migration paths, deprecation
+    – so one change reaches every environment without breaking
+    any of them.
+
+  Operate and Partner
+
+  - Run what you build: availability, upgrades, capacity,
+    observability, backup/recovery, security maintenance, and
+    incident response.
+  - Work with product and domain engineers, and turn their
+    requirements into primitives other teams use on their own.
+
+  Required Qualifications:
+
+  - Bachelor's degree in Computer Science or a related technical
+    field, or equivalent practical experience.
+  - 8+ years of experience with production infrastructure or
+    distributed systems.
+  - Strong software engineering fundamentals. You automate
+    infrastructure in code instead of orchestrating it by
+    hand.
+  - Experience with AWS or GCP, infrastructure-as-code, cloud
+    networking, and Kubernetes infrastructure.
+  - Experience packaging and delivering software onto
+    Kubernetes, with a good understanding of the tradeoffs
+    between templating, rendering, and controller-based
+    approaches.
+
+  Preferred Qualifications:
+
+  - Experience supporting classified, air-gapped, regulated, or
+    otherwise constrained environments.
+  - Experience with cloud landing zones, account and project
+    vending, network architecture, DNS/IPAM, IAM foundations,
+    workload identity, organizational policy, or quota
+    management.
+  - Experience with GitOps delivery and continuous
+    reconciliation at scale – Argo CD, Flux, or comparable –
+    including drift, promotion, and multi-environment
+    rollouts.
+  - Experience with Terraform or OpenTofu, including reusable
+    modules and self-service provisioning.
+  - Experience designing infrastructure platforms used by
+    multiple internal engineering teams.
+
+  Compensation
+
+  The base salary for this role is $197,000 – $217,000, which
+  may vary by geographic location. Compensation also includes
+  a competitive equity grant, an annual performance bonus, and
+  a comprehensive benefits package. Your final offer will
+  reflect your location, skills, qualifications, and
+  experience.
+
+  What We Offer:
+
+  - Innovative Environment: Work at a cutting-edge company
+    shaping the future of aerospace communications.
+  - Impactful Work: Directly contribute to critical national
+    security programs and initiatives.
+  - Growth Opportunities: Expand your career with opportunities
+    for professional development and advancement.
+  - Inclusive Culture: Be part of a collaborative, supportive,
+    and inclusive workplace where your contributions matter.
+  - Flexibility: Flexible working arrangements including hybrid
+    remote/in-office schedules.
+  - Compensation and Equity: Competitive salary, comprehensive
+    benefits (401(k), dental, vision, health, life insurance),
+    paid time off, and equity options.
+
+  ITAR/EAR Requirements:
+
+  This position involves access to export-controlled
+  information. To comply with U.S. government export
+  regulations, applicants must meet one of the following
+  criteria:
+
+  (A) Qualify as a U.S. person, which includes:
+
+  - U.S. citizen or national
+  - U.S. lawful permanent resident (green card holder)
+  - Refugee under 8 U.S.C. 1157
+  - Asylee under 8 U.S.C. 1158
+
+  (B) Be eligible to access export-controlled information
+  without requiring an export authorization.
+
+  (C) Be eligible and reasonably likely to obtain the
+  necessary export authorization from the appropriate U.S.
+  government agency.
+
+  The company reserves the right to decline pursuing an export
+  licensing process for legitimate business-related reasons.
+
+  Equal Opportunity Employer Statement:
+
+  Aalyria is an Equal Opportunity Employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees. We do not discriminate based
+  on race, color, religion, sex (including pregnancy, gender
+  identity, and sexual orientation), national origin, age,
+  disability status, genetic information, protected veteran
+  status, or any other characteristic protected by law.
+  Qualified applicants from all backgrounds are encouraged to
+  apply.
+industries:
+  - Aerospace
+  - Manufacturing
+posted_date: 2026-09-01
+url: "https://builtin.com/job/senior-software-engineer-infrastructure-platform/10968365"
+source: Built In

@@ -1,0 +1,214 @@
+job_id: 8351743
+title: Senior Product Engineer (Backend) - NYC
+company: Sequence (sequencehq)
+location: New York, USA
+work_type: FULL_TIME
+company_size: 40 Employees
+description: |
+  About Sequence
+
+  If you join Sequence, you'll help build the platform that
+  lets companies get paid - we’re already processing $1bn+ in
+  annual invoice volume and growing fast.
+
+  We're building the AI-powered revenue platform for modern
+  finance teams, replacing fragile spreadsheets and legacy
+  systems with software their teams love using.
+
+  Cognition, incident.io, MoonPay, and 100+ other high-growth
+  companies trust us to handle their entire revenue cycle
+  across quoting, billing, and revenue recognition.
+
+  Founded by repeat entrepreneurs, we hit 10x ARR growth last
+  year and just closed a $20M Series A led by 645 Ventures,
+  alongside a16z and exceptional founders and CFOs from
+  companies like Decagon, Klaviyo and Wise.
+
+
+
+  What's it like to work at Sequence?
+
+  Small team, big opportunity, real ownership. You'll do work
+  that matters, have direct access to customers, and grow
+  alongside the company.
+
+  If you want to do the best work of your career at a company
+  that's scaling fast, we'd love to meet you.
+
+
+
+  What you'll be doing
+
+  We care deeply about the quality of the product we're
+  building. We're looking for engineers who are ambitious and
+  take ownership end-to-end: from identifying what to build,
+  through shipping, to making sure it works for real
+  customers.
+
+  Here’s what you might work on:
+
+  - AI-powered approval workflows. Enterprise deals need
+    approval chains, but rigid workflows break when every
+    company has different rules. You'll build flexible routing
+    that customers configure in natural language - "require VP
+    approval for deals over $100k with annual terms" - and
+    turn that into deterministic, auditable business logic.
+  - An intelligent collections agent. Chasing late payments is
+    tedious, manual work. We're building an agent you instruct
+    in natural language (“send a reminder at 7 days overdue;
+    escalate at 14 days”), which then runs the entire workflow
+    autonomously.
+  - Scaling billing infrastructure 10x. We’re building revenue-
+    critical infrastructure and currently rearchitecting our
+    billing pipeline for an order of magnitude more throughput
+    - rethinking storage strategies, horizontal scalability,
+    and how we’ll handle 10x load without 10x cost.
+
+  We're a lean team growing to 20+ engineers. You'll have real
+  influence on what we build and how we build it. Early enough
+  to shape fundamental architecture. Late enough that
+  customers depend on what you ship.
+
+  You'll design systems that process high-velocity event
+  streams, make technical decisions that balance cost and
+  performance at scale, and build infrastructure that never
+  compromises on reliability.
+
+  This is business-critical infrastructure: a dropped event
+  means someone isn’t charged correctly. An outage at month-
+  end means finance teams can't collect revenue from their
+  customers.
+
+  What our newest hires have shipped
+
+  Watchtower: our command center for AI agents. As we
+  introduce agents that automate financial workflows,
+  customers need visibility and control. This included
+  building our first agent - a contract intake system that
+  extracts customer and pricing information from uploaded or
+  emailed contracts, taking customers from signed contract to
+  automated billing in minutes.
+
+  A fully integrated e-signature experience for quotes. When a
+  customer is closing a deal, friction kills momentum. We
+  rebuilt the signing experience - including embedded
+  authentication and branded emails - into a seamless signing
+  experience used by teams at the top tech companies every
+  day.
+
+  Role-based access controls across the product. Different
+  companies have different structures, but they all need tight
+  control over who can approve deals or access sensitive data.
+  This meant designing a flexible RBAC model that handles
+  resources across every API endpoint and UI surface.
+
+  See more of what we’ve shipped in our public changelog.
+
+  You should apply if
+
+  You're a builder who wants to solve problems end-to-end:
+
+  - You've shipped production backend systems and care about the
+    difference between "it works" and "it's reliable"
+  - You care about customers - you want to understand why you're
+    building something, not just what
+  - You’re comfortable with ambiguity. You thrive in early
+    ideation stages, share work-in-progress to gather
+    feedback, and adapt easily based on input
+  - You communicate clearly. Thoughtful communication is a
+    superpower that sharpens how we collaborate and build
+  - You're interested in distributed systems and writing
+    resilient software
+
+  Nice to have: Deep relational database expertise. We do a
+  lot of complex queries and care about performance.
+
+  This might not be right if
+
+  We're a small team moving fast on hard problems. That might
+  not be a fit if you:
+
+  - Enjoy larger organisation structures and staying only within
+    your area of expertise. Taking ownership here means doing
+    whatever the problem needs
+  - Want a traditional engineering team set up, with a
+    predictable roadmap and clearly scoped out tickets
+    provided for you
+  - Prefer a slower pace. Customers are depending on what we
+    ship
+  - Aren't comfortable with production responsibility. We're
+    revenue-critical infrastructure - on-call matters here
+
+  Tech stack
+
+  We hire for ability, not a specific tech stack. Most of the
+  team learned Kotlin here:
+
+  - Backend: Kotlin (modular monolith using Http4k, Spring Boot,
+    Exposed, Result4k)
+  - Storage: Postgres, BigQuery
+  - Async messaging: Google Cloud Pub/Sub
+  - Infrastructure: Google Cloud, Terraform
+  - Frontend: TypeScript, React
+  - Monitoring: Google Cloud Monitoring, Sentry
+  - Tools: GitHub, Slack, Notion, Linear
+
+  Read our engineering principles
+
+  How we work
+
+  We’re based in London and New York and love spending as much
+  time with our colleagues as possible. We spend three days
+  together in the office, with team lunch on Wednesdays.
+
+  You'll join a cross-functional product team working directly
+  with design and product. We get together twice a year for
+  company offsites.
+
+  What we offer
+
+  - Salary: $210,000 - $230,000
+  - Equity: Meaningful share options
+  - 20 days vacation plus national holidays
+  - Competitive healthcare and 401K
+  - Visa sponsorship available
+
+  Interview process
+
+  We move fast - typically 2 weeks start to finish. We've
+  written a detailed blog post about the process with tips for
+  how to prepare.
+
+  Public resources on Sequence:
+
+  Youtube:
+
+  - Sequence Youtube Channel
+
+  Podcasts:
+
+  - Wharton FinTech: Reinventing Billing & Quote-to-cash (Dec
+    2025): origin story, why Riya built Sequence after her
+    first exit.
+  - Tech Finance with Sasha Orloff: E14: Revenue Models 101 &
+    the New Stack: pricing/revenue models, quote-to-cash
+    thesis.
+  - Riding Unicorns: S6E5 (written recap): M&A, founding story,
+    enterprise product views.
+  - Bae HQ: Episode 207: a16z round, category vision.
+  - The SaaS CFO with Ben Murray: AI-native B2B billing pitch.
+  - Converge Podcast (May 2024): "financial router" framing.
+  - Transcript of the Wharton FinTech episode if you want to
+    skim rather than listen.
+
+  Written:
+
+  - USXP: From Oxford to a16z: building a US-first mindset at
+    Sequence: go-to-market and US expansion.
+  - The FP&A Guy: How modern finance teams are automating
+    billing with AI: guest piece on AI in finance ops.
+  - Sequence blog: Introducing Sequence 2.0: her launch post for
+    the AI-native rebuild.
+posted_date: 2026-08-22
+url: "https://builtin.com/job/senior-product-engineer-backend-us/8351743"
+source: Built In

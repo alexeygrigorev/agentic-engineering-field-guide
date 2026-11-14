@@ -1,0 +1,163 @@
+job_id: 10896171
+title: Senior Software Engineer, Platform
+company: ECP
+location: Denver, USA
+locations:
+  - Denver, USA
+  - Chicago, USA
+  - New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 63 Employees
+description: |
+  About ECP
+
+  ECP is a market-leading SaaS solution that enables senior
+  living communities to better care for their residents. ECP
+  is used in over 8,000 communities. We're looking to further
+  expand by increasing the number of customers that use our
+  software and increasing the scope of how we serve our
+  customers by developing and releasing new products.
+
+  Senior living is deeply under-penetrated with software and
+  ECP is one of the largest and fastest-growing software
+  companies in the industry. We recently raised a growth round
+  of equity to reinvest in our product, technology, and go-to-
+  market. Our mission is to build world-class software that
+  improves the quality of life for seniors and improves
+  clinical, business, compliance, and operational performance
+  for our customers.
+
+  The Role
+
+  Every delivery team at ECP depends on a set of shared
+  components that none of them own. The authentication and
+  identity layer every user passes through, the shared data
+  services at the core of the product, and the messaging
+  infrastructure connecting the platform are three of them,
+  and they are not the only ones. When any of these has
+  undocumented behavior, a reliability gap, or needs a
+  coordinated change, the work falls to whichever team happens
+  to be closest to it that sprint. We're standing up a
+  platform organization to close that gap, and you'd be one of
+  its first engineers.
+
+  ECP Intelligence sits here too. It's a set of role-based
+  agents meant to get our users out of the software and back
+  to their communities. Today it's a strategy. Nothing has
+  been designed or written yet. Our data warehouse, which this
+  team also owns, will give an agent what it can see. You own
+  what it can do. An agent that only reads is a demo. One that
+  acts has to act as a specific user, inside that user's
+  permissions, through the same identity and domain services
+  every other client of the platform goes through. That is
+  your first mandate.
+
+  This is a builder role on a team of four senior engineers,
+  reporting to the VP of Platform Engineering. You'll write
+  the code these capabilities are made of, with a loud voice
+  in how they get designed.
+
+  The stack. New code is Node and TypeScript. We're migrating
+  off a ColdFusion legacy platform, and the two will coexist
+  for a while. SQL Server and PostgreSQL, a mix of monolith
+  and services, adopting domain-driven design and an event-
+  driven architecture, all on AWS. This is a multi-tenant
+  HIPAA product. You won't write ColdFusion, but you will
+  design against it, because what you write has to serve both
+  platforms at once.
+
+  What You'll Build
+
+  ECP Intelligence. You'll build the tool surface an agent
+  acts through, the retrieval and context layer that grounds
+  it in the right clinical and operational data, the serving
+  path product teams call to reach a model, and the evaluation
+  that catches a regression before a customer does. You'll
+  also build the first agent workflows that run on it. This is
+  clinical software, so you have to be able to prove what an
+  agent cannot do.
+
+  The shared components. Which ones we take on first is an
+  open question, and you'd help answer it. The shape of the
+  work is the same either way. These are systems already in
+  production that every team depends on, with behavior nobody
+  wrote down and boundaries nobody drew on purpose. You'll
+  take them over, give them interfaces worth depending on, and
+  make the seams between the legacy platform and the newer
+  services explicit.
+
+  The messaging backbone. The event bus works, but it's only
+  partly adopted and nobody owns it. You'd take it the rest of
+  the way, add contract testing so a service can be verified
+  on its own, and support it as something the other teams can
+  build on.
+
+  Requirements
+
+  What We're Looking For
+
+  Required
+
+  - You've built shared components or platform services that
+    other teams depended on, and you stayed accountable for
+    them afterward. This is not a first platform role.
+
+  - Real depth in domain-driven design and event-driven
+    architecture. You can explain why a bounded context sits
+    where it does, what an anti-corruption layer bought you,
+    and which flavor of event-driven you were actually doing.
+
+  - You've built the production systems behind an AI feature,
+    against data that was messy, governed, and inconveniently
+    shaped. The model itself is someone else's problem.
+
+  - You've carried a pager for a system other teams depended on.
+
+  - Breadth across more than one language and paradigm, with
+    real depth in at least one. Tell us about a time you had
+    to get productive in an unfamiliar stack fast, and what
+    that took.
+
+  - Data modeling and query performance under real load. Some of
+    our shared components sit on the hot path for every
+    request.
+
+  - AI-augmented development is already how you work, and you
+    know where it holds up and where it needs a human check.
+
+  Preferred
+
+  - Experience shipping meaningful customer-facing AI features
+    (more than just a chatbot)
+
+  - PHI or other regulated data in an AI or analytics path
+
+  - Multi-tenant SaaS at scale, with tenant isolation as a data-
+    layer concern
+
+  - Node and TypeScript, SQL Server, PostgreSQL, AWS
+
+  - Building alongside a legacy platform mid-migration, without
+    the luxury of waiting for it to finish
+
+  - Contract testing or service virtualization in an event-
+    driven system
+
+  - Mentoring engineers, or wanting to grow into it
+
+  What Success Looks Like
+
+  At six months, the AI foundation is real and at least one
+  ECP Intelligence agent workflow is running in front of
+  customers, taking work off a caregiver's plate that they
+  used to do by hand.
+
+  The shared components and the messaging backbone are a
+  longer job, and that work starts once the agent foundation
+  is in place. The measure there is that teams build on these
+  components without having to think about them, and spend
+  their time on their own roadmaps instead.
+posted_date: 2026-09-15
+url: "https://builtin.com/job/senior-software-engineer-platform/10896171"
+source: Built In

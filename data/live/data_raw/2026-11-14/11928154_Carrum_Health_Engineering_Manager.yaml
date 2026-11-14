@@ -1,0 +1,314 @@
+job_id: 11928154
+title: Engineering Manager
+company: Carrum Health
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  At Carrum Health, we have built a unique marketplace for
+  specialty care with unparalleled patient experience
+
+  Since 2014, we have been rewiring a fundamentally broken
+  healthcare system. By connecting large employers directly
+  with the nation's top-tier providers, our platform replaces
+  a flawed fee-for-service model with one that actually works.
+  If you are passionate about solving complex economic
+  problems, driving systemic change in our healthcare system,
+  and thriving in a people-first culture, we want you on our
+  team. As a high-growth health tech company, we are seeking
+  high-performing, exceptional talent to scale our platform
+  and ensure that anyone in the country facing a specialty
+  procedure has access to the life-changing Carrum benefit.
+
+  Our marketplace creates massive value for all stakeholders:
+
+  - For Employers (Demand): Predictable, transparent pricing
+    that slashes specialty care costs by up to 45% and
+    eliminates waste
+  - For Providers (Supply): Ability to gain market share while
+    reducing administrative burden, empowering top-tier
+    doctors to focus completely on delivering optimal care.
+  - For Members (Users): A life-changing benefit with dedicated
+    concierges, VIP access to the nation's best specialists,
+    and little-to-no out-of-pocket costs.
+
+  The salary range for this role is $190,000 - $250,000
+  depending on geography and level of experience, plus equity
+  and an annual bonus. We're open to hiring at the Manager or
+  Senior Manager level, and this compensation range
+  encompasses both levels.
+
+  We are looking for a business-minded, hands-on engineering
+  leader to lead a brand-new product pod (a small, cross-
+  functional team with its own product manager, engineers, and
+  business owner) that will take a new product area from zero
+  to market.
+
+  This is a founding-leader role. You will start with a small
+  founding team of senior engineers, a product manager, and a
+  general manager who owns the business, and the team will
+  expand as the product scales. Reporting to the VP of
+  Engineering, you will have direct visibility with company
+  leadership and real influence over how Carrum launches new
+  products.
+
+  We are not looking for someone who only ships what they are
+  handed. We want a leader who obsesses over the member
+  experience, instruments every step of the funnel, and works
+  alongside the product team to research where the
+  opportunities are before deciding what to build. You should
+  care as much about whether members use the product and
+  clients buy it as about whether it ships.
+
+  Because the product is new, the role is a true player-coach.
+  You will set the technical direction, write and review code,
+  and run delivery, while hiring and coaching the engineers
+  who join you. Early on you will spend most of your time
+  building. Over the year, the balance shifts toward leading.
+
+  Parts of the product will live inside our core Ruby on Rails
+  services, and parts will be new. You will own a cross-
+  cutting member experience that touches several parts of the
+  platform, which means collaborating closely with our other
+  product pods while keeping clear ownership of your own.
+  Designing those boundaries well, and knowing when to build
+  versus buy, is central to the job.
+
+  Our stack is Ruby on Rails in a service-oriented
+  architecture, React and React Native on the front end,
+  PostgreSQL, and Docker. You will work across both AWS and
+  Azure.
+
+  You’re excited about this opportunity because you will...
+
+  - Take a new Carrum product from an idea to paying clients and
+    real members.
+  - Build and lead a team from the ground up.
+  - Work with a cross-functional group across product, other
+    pods, network, care operations, finance, and client
+    implementation to solve problems that directly affect
+    members.
+
+  What You Will Do1. Take a new product from zero to market
+
+  - Own the end-to-end technical delivery of a new Carrum
+    product: the member-facing experience, internal tooling
+    for our care team, partner integrations, and the data that
+    proves the product works.
+  - Make the early architecture calls: service boundaries, what
+    lives in our existing Rails services versus new ones, and
+    what we build versus buy.
+  - Ship a credible, demo-ready front end, then turn it into a
+    production system that real members and clients depend on.
+  - Define "what's real when" and hold the line on it, so sales,
+    marketing, and implementation teams promise only what the
+    product can deliver by each client's start date.
+
+  2. Obsess over the member experience and the funnel
+
+  - Instrument the member journey from first touch to completed
+    care, so the team can see drop-off, time to next step, and
+    where members get stuck.
+  - Partner with the product team on research and discovery:
+    talk to members and care navigators, study the data, and
+    bring opportunities to the roadmap rather than waiting for
+    them.
+  - Run a tight loop of ship, measure, learn. Treat conversion,
+    time to care, and member satisfaction as engineering
+    outcomes, not someone else's metrics.
+
+  3. Build and lead the team
+
+  - Hire, onboard, and coach a small team of senior engineers.
+    Hold a high bar; we would rather hire slowly than hire
+    wrong.
+  - Create the operating rhythm for the pod: planning, delivery
+    cadence, production ownership, and incident response.
+  - Build a psychologically safe team where engineers do their
+    best work, with clear ownership and room to grow.
+
+  4. Stay hands-on
+
+  - Write production code every week, especially early on. You
+    are the tech lead as well as the manager.
+  - Lead design reviews and code reviews, and set the standard
+    for testing, observability, security, and documentation.
+  - Use AI developer tools as a default part of how you and your
+    team build, and help the team adopt agentic engineering
+    practices responsibly.
+
+  5. Work across the company
+
+  - Partner closely with the pod's product manager and general
+    manager to turn business goals into a sequenced technical
+    plan with honest trade-offs.
+  - Work closely with other Engineering Managers and Product
+    leaders so your team's work aligns with the broader
+    platform architecture and has impact beyond your pod.
+  - Represent the pod to leadership: status, risks, and what you
+    need, without surprises.
+
+  Success in the First Year Looks Like
+
+  - A sellable product: something sales can demo, price, and put
+    in front of clients with confidence.
+  - The product live in production with its first clients, with
+    integrations, billing flow, and member support working end
+    to end.
+  - A fully instrumented member funnel, with baselines
+    established and at least one measurable conversion
+    improvement shipped from your team's own research.
+  - A clear plan and the right architecture to scale.
+  - A team of senior engineers hired and ramped, with a healthy
+    delivery cadence and production ownership established.
+  - A reputation across the company as the leader who tells the
+    truth about what will ship and then ships it.
+
+  We’re excited about you because…
+
+  - You have launched something from zero. You have been the
+    technical lead or founding engineer on a 0→1 product that
+    reached real customers, ideally inside a company that
+    already had an existing platform to integrate with.
+  - You have done this at a growth-stage company. You have built
+    and led at a company scaling from early product-market fit
+    through rapid growth, where the team, the customer base,
+    and the systems were all changing at once. You know how to
+    make progress when the process isn't written yet.
+  - You think like an owner of the business. You understand how
+    the product makes money, who buys it, and what makes
+    members use it. You bring opportunities to the product
+    team, not just estimates.
+  - You obsess over user experience and measure it. You have
+    instrumented a funnel, used the data to find the drop-off,
+    and shipped the fix. You are passionate about building
+    great user experiences that are accessible to a wide
+    variety of users.
+  - You have management experience. You have 4+ years leading
+    engineering teams, including hiring, performance
+    management, and growing engineers' careers. You have
+    managed a mix of full-time employees and contractors.
+  - You are a full-stack expert who wants to stay hands-on. You
+    have 8+ years of engineering experience in a robust,
+    highly available, multi-service environment, with
+    production experience in Ruby on Rails, React, PostgreSQL,
+    and Docker.
+  - You are comfortable in the cloud. You have built on core AWS
+    services and are comfortable working in Azure as well.
+  - You have built on top of other people's platforms. You have
+    integrated third-party APIs into a product people depend
+    on, and you know how to design clean boundaries so your
+    product isn't coupled to any one vendor's API.
+  - You leverage AI for velocity. You use AI developer tools
+    daily and have opinions about where they help and where
+    they do not.
+  - You are disciplined about scope and sequencing. You can take
+    an ambitious date, decide what is real and what is mocked,
+    and communicate that clearly to non-engineers.
+  - You know how to build in a regulated space. You have shipped
+    software handling sensitive data and understand HIPAA and
+    SOC 2 obligations in practice, not just in theory.
+  - You have strong interpersonal skills. You are organized,
+    empathetic, direct, and curious, and you build trust
+    across the organization.
+
+  Why you’ll love working with us...
+
+  - We’re a hard-working, humble, and compassionate group
+    motivated to solve the hard problems in healthcare today.
+    You’ll work with talented, experienced co-workers from
+    companies like Booz & Company, Teladoc, Hinge Health,
+    Accolade, Angi, and Optum.
+  - We champion a collaborative environment where team members
+    can be autonomous, receive support and healthy feedback,
+    and bring their authentic selves to work.
+  - We carve out time to celebrate our successes and have fun.
+    We’re a remote-first company with employees all over the
+    United States. We offer holistic employee support with
+    flexible working hours, generous time off, paid parental
+    leave, opportunities to connect virtually and in-person,
+    and more.
+  - We embrace our team’s diversity of thought, experience, and
+    interests and know that doing so makes us stronger as a
+    company. Carrum has an active employee-led Diversity,
+    Equity, Inclusion, and Justice (DEIJ) committee alongside
+    several employee resource groups (ERGs) that support
+    parents, women, and various underrepresented groups.
+  - You’ll feel proud that the work you do each day directly
+    impacts people’s lives in big and meaningful ways.
+  - Carrum is remote-first, but we believe the best work often
+    happens in person. This role may include occasional travel
+    for team offsites, client events, or company gatherings.
+
+  Other benefits:
+
+  - Stock option plan and performance bonus for eligible
+    employees
+  - Flexible schedules and remote work
+  - Chicago and San Francisco offices available as an option
+  - Flexible PTO, within reason
+  - Summer Fridays (sign off @ 1pm local time)
+  - 15+ paid holidays, including Juneteenth, World Mental Health
+    Day, and Carrum Health Day
+  - Annual holiday shutdown in December
+  - Paid parental leave
+  - Health, vision, and dental insurance
+  - Employee Assistance Programs (EAP)
+  - 401K retirement plan
+
+  About Carrum
+
+  Carrum Health’s mission is to change how we pay for and
+  deliver specialty care. We offer self-insured employers and
+  plan sponsors a value-based specialty care platform that
+  connects their members with a rigorously vetted network of
+  specialty care providers. Carrum’s transparent, all-
+  inclusive bundled pricing, award-winning technology, and
+  dedicated care navigation team help lower costs for both
+  members and employers while delivering a superior member
+  experience. Carrum is independently validated to reduce
+  unnecessary procedures by as much as 30%, lower readmissions
+  by 80%, and save employers up to 45% per episode of surgical
+  care. Learn more at carrumhealth.com.
+
+  Since launching in 2014, we’ve partnered with top-quality
+  providers across the nation including Cleveland Clinic,
+  Johns Hopkins, Mayo Clinic, Stanford Health Care, and a
+  growing network of 1,400+ COEs. We serve hundreds of self-
+  insured employers including Fortune 50 companies, such as
+  United Airlines, US Foods, and Prudential, and public sector
+  clients such as the States of Maine, Nevada, Tennessee, and
+  Self-Insured Schools of California.
+
+  The impact of our platform has been validated by a landmark
+  RAND Corporation study, honored with prestigious awards from
+  institutions like Harvard Business School & Harvard Medical
+  School, and featured as a Harvard Business School case
+  study.
+
+  As a recognized digital health leader, Carrum is frequently
+  covered by national media, including Bloomberg, Fast
+  Company, Fierce Healthcare, Fortune, Los Angeles Times,
+  Reuters, TechCrunch, and U.S News & World Report. Backed by
+  $96M from top-tier investors including OMERS, Tiger Global
+  Management, Revelation Partners and Wildcat Ventures, we’re
+  only scratching the surface of our opportunity. Come join
+  us.
+
+  Carrum Health is an equal opportunity employer and
+  encourages all applicants from every background and life
+  experience.
+
+  A Note on Recruitment Safety: To protect yourself against
+  recruitment fraud, please note that Carrum Health will only
+  communicate via an @carrumhealth.com email address. We do
+  not conduct interviews via text or messaging apps, nor do we
+  ever request financial information or fees during the hiring
+  process. All authentic job openings are posted at
+  carrumhealth.com/careers. If you are unsure about the
+  legitimacy of a communication, please verify it via
+  talent@carrumhealth.com.
+posted_date: 2026-10-27
+url: "https://builtin.com/job/engineering-manager/11928154"
+source: Built In

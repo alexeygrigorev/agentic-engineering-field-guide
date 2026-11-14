@@ -1,0 +1,111 @@
+job_id: 10830600
+title: Senior Software Engineer (Python)
+company: Voxel51
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 29 Employees
+description: |
+  First and most importantly: our mission is to bring
+  transparency and clarity to the world's data.
+
+  Our platform, Voxel51, is where AI work happens. Our
+  enterprise platform is the mission critical linchpin for
+  managing unstructured data, model development, and AI
+  systems at the world's largest companies.
+
+  Our software massively impacts AI work across almost every
+  vertical: from self-driving cars to medical imaging to
+  revolutionizing agriculture, we are at the thrilling center
+  of real-world AI advancement’s next wave.
+
+  And we’re built on three key tenets:
+
+  - We are all human beings: we strive to be a “human-first”
+    organization and treat everyone with the respect, care,
+    and flexibility that all people deserve.
+  - We are distributed: we believe in getting autonomy and power
+    into the hands of people actually doing the work
+  - We believe in the power of community
+
+  We are fully remote, hiring for people based in the United
+  States, and who are prepared to travel to an occasional in
+  person retreat.
+
+  About your role As a Senior Software Engineer at Voxel51,
+  you’ll own the design and build-out of the core
+  infrastructure that lets teams apply models to vast amounts
+  of multimodal data (images, video, and beyond). You’ll work
+  with a team delivering features across dataset curation,
+  model analysis, and integrations that span the entire
+  machine learning lifecycle, and you’ll be the technical
+  owner for the systems that make large-scale model inference
+  and evaluation reliable, fast, and extensible. You’ll build
+  clean, scalable APIs, solve the unique challenges of working
+  with unstructured data, and contribute to a thriving open
+  source community while holding our commercial products to
+  enterprise-grade engineering standards.
+
+
+
+  What you will do
+
+  - Own the architecture and implementation of core
+    infrastructure for applying models (embeddings, detection,
+    segmentation, VLMs, and custom models) across massive
+    multimodal datasets, from orchestration and scheduling to
+    result storage and retrieval.
+  - Design distributed, fault-tolerant pipelines for batch and
+    on-demand inference over petabyte-scale image and video
+    collections, optimizing for throughput, cost, and GPU
+    utilization.
+  - Build the enterprise APIs, backend services, and UIs that
+    expose this infrastructure to users, from individual
+    researchers to Fortune 500 teams.
+  - Scale our enterprise solution, deployed in customers’ own
+    clouds and on prem, to support the largest vision AI
+    datasets in existence.
+  - Define the abstractions and extension points that let
+    customers plug in their own models, data sources, and
+    compute environments.
+  - Write production code that is maintainable, flexible,
+    performant, and well tested.
+  - Contribute to the department through tooling, automation,
+    observability, and best practices.
+
+  What you should bring
+
+  - 8+ years of professional software engineering experience
+    building maintainable, scalable systems and architectures,
+    including ownership of large backend or data
+    infrastructure projects end to end.
+  - Experience building distributed systems or data/ML pipelines
+    that process large volumes of data (e.g., job
+    orchestration, queues, workers, batch and streaming
+    workloads).
+  - BS or MS in computer science or a related field.
+  - Expertise with Python.
+  - Expertise with NoSQL databases (MongoDB, DocumentDB,
+    Elasticsearch).
+  - Ability to work in a remote-first, collaborative
+    environment.
+  - Experience with TypeScript is an asset.
+  - Experience with ML model serving or inference (GPU
+    workloads, PyTorch, Triton, etc.), Kubernetes, and cloud
+    object storage is an asset.
+  - Experience working with unstructured or multimodal data
+    (images, video, embeddings) is an asset.
+
+  The cash compensation for this person is in the $200K -
+  $225K range. In addition to base comp for this role, we
+  offer equity in the form of options, a variety of benefits,
+  and the opportunity to grow in an exciting and collaborative
+  environment.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Machine Learning
+  - Analytics
+posted_date: 2026-08-25
+url: "https://builtin.com/job/senior-software-engineer-python/10830600"
+source: Built In

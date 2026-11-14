@@ -1,0 +1,211 @@
+job_id: 12192437
+title: "Backend Engineer, Billing & Revenue Systems"
+company: Bask Health
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 24 Employees
+description: |
+  About Bask Health
+
+  Bask Health is a software platform that enables
+  entrepreneurs, doctors, and healthcare businesses to launch,
+  manage, and grow direct-to-consumer telehealth businesses.
+
+  Our platform brings together patient experiences, clinical
+  workflows, pharmacy operations, and commerce tools in one
+  place.
+
+  We're an entrepreneurial, product-focused engineering team
+  that values ownership, technical excellence, and building
+  software that solves real problems. Engineers work closely
+  with product teams and company leadership, take features
+  from idea to production, and have a direct role in shaping
+  the platform.
+
+  Engineering at Bask is AI-first and builder-led. We use
+  tools like Cursor and Claude Code throughout development
+  while maintaining high standards for reliability, testing,
+  and software quality.About Bask Health
+
+  Bask Health is a software platform that enables
+  entrepreneurs, doctors, and healthcare businesses to launch,
+  manage, and grow direct-to-consumer telehealth businesses.
+
+  Our platform brings together patient experiences, clinical
+  workflows, pharmacy operations, and commerce tools in one
+  place.
+
+  We're an entrepreneurial, product-focused engineering team
+  that values ownership, technical excellence, and building
+  software that solves real problems. Engineers work closely
+  with product teams and company leadership, take features
+  from idea to production, and have a direct role in shaping
+  the platform.
+
+  Engineering at Bask is AI-first and builder-led. We use
+  tools like Cursor and Claude Code throughout development
+  while maintaining high standards for reliability, testing,
+  and software quality.
+
+  About the Role
+
+  We're looking for a Backend Engineer, Billing & Revenue
+  Systems to help build and maintain the backend services
+  supporting payments, subscriptions, billing workflows, and
+  revenue-related functionality across Bask Health's
+  telehealth platform.
+
+  You'll develop APIs, application logic, and integrations
+  that connect patient checkout, merchant billing
+  configuration, subscription management, and payment
+  processing.
+
+  This is a hands-on engineering role for someone with
+  experience building production backend applications and
+  working with transactional data. You'll implement meaningful
+  features, investigate billing issues, and help improve the
+  accuracy and reliability of systems used by merchants,
+  patients, and internal teams.
+
+  Our backend stack includes TypeScript, Node.js, AWS, SST,
+  and SQL databases, with technologies such as Prisma and
+  Drizzle used across the platform.
+
+  You'll collaborate with engineers, product managers,
+  finance, and operations teams to translate business
+  requirements into reliable technical solutions.
+
+  We're looking for someone who pays attention to details,
+  understands the importance of data accuracy, and enjoys
+  solving backend problems that directly affect real
+  transactions and customer experiences.
+
+  What You'll Do
+
+  - Build, test, and maintain backend services supporting
+    payments, subscriptions, billing, and revenue-related
+    workflows.
+  - Develop APIs and application logic for subscription
+    creation, renewals, cancellations, payment status updates,
+    and billing changes.
+  - Implement backend features using TypeScript, Node.js, AWS,
+    SST, and SQL databases.
+  - Build and maintain integrations with payment processors and
+    third-party billing services.
+  - Work with payment events, webhooks, and asynchronous
+    processing to keep billing records up to date.
+  - Help implement pricing rules, discounts, trials, and billing
+    configuration across merchant and patient workflows.
+  - Create and maintain database models for transactions,
+    subscriptions, invoices, and billing events.
+  - Implement validation, error handling, retries, and
+    safeguards against duplicate transaction processing.
+  - Work with AWS services such as Lambda, SQS, and EventBridge
+    to support background jobs and event-driven workflows.
+  - Help investigate discrepancies between internal billing
+    records and external payment systems.
+  - Build automated tests for billing logic, subscription
+    changes, payment failures, and common edge cases.
+  - Troubleshoot production issues, investigate failed payments
+    or unexpected billing behavior, and help implement lasting
+    fixes.
+  - Improve logging, monitoring, and visibility into billing
+    system performance.
+  - Collaborate with finance and operations teams to understand
+    recurring billing issues and reporting needs.
+  - Work with product managers and senior engineers to break
+    requirements into technical implementation tasks.
+  - Participate in code reviews, technical planning, and
+    engineering discussions.
+  - Follow secure development practices when handling payment-
+    related and sensitive customer information.
+  - Contribute to internal tools that help teams investigate
+    transactions and resolve billing issues.
+  - Document APIs, billing workflows, and important system
+    behavior.
+  - Use AI-assisted development tools such as Cursor and Claude
+    Code to support development, debugging, and testing while
+    reviewing generated code carefully.
+  - Take ownership of assigned features from implementation
+    through testing, deployment, and follow-up.
+  - Help improve existing billing services and contribute ideas
+    for making transaction processing more reliable and
+    maintainable.
+
+  Requirements
+
+  - 3+ years of professional software engineering experience,
+    including hands-on backend development.
+  - Strong proficiency in TypeScript, JavaScript, and Node.js.
+  - Experience building, testing, and maintaining production
+    backend applications and APIs.
+  - Experience working with SQL databases, relational data
+    models, and database schema design.
+  - Practical experience with AWS or comparable cloud
+    infrastructure.
+  - Experience integrating third-party APIs, processing
+    webhooks, or implementing asynchronous backend workflows.
+  - Understanding of transactional data integrity, error
+    handling, and reliable data processing.
+  - Familiarity with serverless applications, background jobs,
+    or event-driven architectures.
+  - Experience using modern database access tools or ORMs.
+  - Understanding of authentication, authorization, and secure
+    handling of sensitive information.
+  - Ability to implement backend features involving complex
+    business rules and state changes.
+  - Experience writing automated tests and debugging production
+    applications.
+  - Familiarity with Git, code reviews, and modern software
+    development workflows.
+  - Ability to troubleshoot technical issues and communicate
+    findings clearly.
+  - Comfortable using AI-assisted development tools while
+    independently reviewing and validating generated code.
+  - Ability to complete assigned features independently and
+    collaborate with senior engineers on more complex
+    projects.
+  - Strong problem-solving skills and attention to detail,
+    particularly when working with transactional data.
+  - Good written and verbal communication skills.
+  - Comfortable working in a fast-moving environment where
+    engineers take ownership of their work.
+
+  Nice to Have
+
+  - Experience building payment processing, billing, or
+    subscription management systems.
+  - Experience integrating Stripe or comparable payment
+    processors.
+  - Familiarity with recurring billing, subscription renewals,
+    cancellations, refunds, or failed-payment recovery.
+  - Experience implementing idempotency, webhook processing,
+    retries, or transaction reconciliation.
+  - Familiarity with pricing engines, discounts, trials, or
+    subscription plan management.
+  - Experience with SST and AWS services such as Lambda, SQS,
+    and EventBridge.
+  - Experience with Prisma, Drizzle, or tRPC.
+  - Familiarity with Next.js, React, or full-stack TypeScript
+    development.
+  - Experience working with multi-tenant SaaS applications or
+    monorepo architectures.
+  - Experience building e-commerce checkout flows, merchant
+    billing tools, or paid SaaS products.
+  - Familiarity with PCI DSS considerations or payment-related
+    security practices.
+  - Experience developing internal tools for finance, billing,
+    or operations teams.
+  - Experience with monitoring, logging, and investigating
+    production transaction failures.
+  - Experience using Cursor, Claude Code, or similar AI-assisted
+    development tools.
+industries:
+  - Healthtech
+  - Internet of Things
+  - Hospitality
+  - Telehealth
+posted_date: 2026-11-12
+url: "https://builtin.com/job/backend-engineer-billing-revenue-systems/12192437"
+source: Built In

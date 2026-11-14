@@ -1,0 +1,100 @@
+job_id: 12145244
+title: Software Engineer
+company: Fleetcraft
+location: London, GBR
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  About Fleetcraft
+
+  We're building the critical infrastructure for the next
+  generation of aircraft.
+
+  Aerospace demand is surging. OEMs have decade-long backlogs,
+  new manufacturers are racing to market, and the industry is
+  hundreds of thousands of technicians short.
+
+  The world needs more aerospace capacity, but the systems
+  used to maintain and manufacture aircraft are slow, manual,
+  and barely changed in decades. Fleetcraft is the full system
+  to operate and manage aircraft maintenance. Our agents
+  already work alongside technicians and controllers in 10+
+  maintenance organisations across 4 continents. They capture
+  the repair as it happens and turn expertise into
+  intelligence the whole operation can use.
+
+  Our seed was led by Susa Ventures, alongside Liquid 2 VC,
+  early backers of Anduril and Stoke Space. You'll work with a
+  team that has helped launch airlines and put satellites into
+  orbit, and with an aviation advisory board whose members
+  have run major aircraft OEMs, led airworthiness at
+  Gulfstream, and overseen training facilities that educate a
+  quarter of all aircraft mechanics in the US. What you'll do
+
+  You'll build and scale the core systems aircraft technicians
+  and planners use every day: deciding the architecture,
+  writing the code, and sitting in the hangar watching people
+  use it.
+
+  - Build and scale the core systems that aircraft MROs rely on
+    every day.
+  - Build AI agent systems end-to-end, from voice interfaces on
+    the hangar floor to workflow orchestration across
+    maintenance operations.
+  - Own projects from architecture to deployment, with autonomy
+    over technical decisions.
+  - Own reliability: infrastructure, observability, and evals
+    for AI in a regulated industry.
+  - Turn aerospace data into trusted pipelines, from maintenance
+    manuals and work orders to airworthiness directives and
+    parts catalogues.
+  - Stay at the frontier by adopting new model capabilities and
+    improving the team's tooling.
+  - Talk to technicians, maintenance managers, and regulators,
+    then turn what you learn into product decisions.
+
+  What you'll need
+
+  - 3+ years of full-stack experience.
+  - Ability to build high-quality software fast.
+  - A co-owner mindset. We'll give you the customer context and
+    the autonomy to find the best path forward, and expect you
+    to own the outcome.
+  - You learn fast. Aerospace experience isn't required.
+  - You're pragmatic and structured.
+
+  Strong plus: Early-stage experience, competitive
+  programming, trading, building agents.
+
+  Tech stack: FastAPI · Pydantic · TypeScript · React · OpenAI
+  / Anthropic · PostgreSQL · Turbopuffer · Promptfoo · Azure
+
+
+
+  What we offer £90k–£120k salary plus meaningful early-stage
+  equity. Modern tools, real-world impact in a regulated
+  industry, and the chance to define how AI transforms
+  aerospace from the ground up. We are a small, high-trust
+  team where your decisions move the whole company forward. If
+  you're energised by building production AI systems that
+  solve hard, real-world problems - and you want the ownership
+  and pace that only comes from being early at something
+  important, we'd love to talk.
+
+  Interview process
+
+  - Initial screening interview with a co-founder (30 min)
+  - Technical interview (75 min)
+  - In-person interview and technical assessment (3 hrs)
+
+  After the in-person meeting we check references and then
+  make an offer. We're unable to offer visa sponsorship for
+  this role. Fleetcraft is an equal opportunities employer.
+industries:
+  - Aerospace
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-11-09
+url: "https://builtin.com/job/software-engineer/12145244"
+source: Built In

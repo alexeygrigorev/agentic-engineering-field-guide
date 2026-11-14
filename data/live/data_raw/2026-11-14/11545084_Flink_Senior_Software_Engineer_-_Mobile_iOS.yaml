@@ -1,0 +1,168 @@
+job_id: 11545084
+title: Senior Software Engineer - Mobile (iOS)
+company: Flink
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 2,451 Employees
+description: |
+  Company Description
+
+  We are Flink - your online supermarket revolutionising the
+  way you do your grocery shopping. With a wide selection of
+  over 2,400 high-quality products, we aim to deliver to your
+  door in minutes. We put our customers first and ensure all
+  products delivered are fresh and nutritious. Additionally,
+  we can customise our national assortment to be able to offer
+  you unique local products in every city. Our delivery hubs
+  are located in densely populated inner-city locations, and
+  we strive to be sustainable by delivering on electric bikes
+  and using packaging that can be recycled.
+
+  Founded by experienced e-commerce professionals and seasoned
+  entrepreneurs with exceptional track records, backed by some
+  of the most renowned Global investors, we are growing
+  rapidly and have a great hunger to continuously challenge
+  ourselves. We pride ourselves in being an inclusive and
+  equal opportunities employer with a diverse and
+  multicultural team.
+
+  If you want to be part of this exciting journey… read on!
+
+  Job Description
+
+  In your role as Senior Software Engineer - Mobile (iOS) on
+  the Ordering team, you will work on our consumer-facing
+  applications end to end, from the cart through checkout and
+  payment to order history. Your main platform is our iOS app,
+  and you will design the interfaces between the app and our
+  services together with the rest of the team.
+
+  The Ordering team owns the part of Flink where a basket
+  becomes an order. Every order placed with Flink goes through
+  the screens and services this team builds: cart, checkout,
+  payments, delivery fees, vouchers, order creation and order
+  history.
+
+  We work with coding agents every day. Our iOS repository
+  ships its own agent instructions and skills, and we use
+  agents to port features between iOS and Android and to
+  review cross-platform changes. We are looking for an
+  engineer who goes deep on iOS. Contribute across platforms,
+  work on Android, and occasionally contribute to BFFs.
+
+  You will also:
+
+  - Build the Ordering Flow: Design, build and ship the cart,
+    checkout, payment and order history experiences in our iOS
+    app, using Swift and SwiftUI in a modular codebase built
+    on Swift Package Manager. Move legacy checkout code
+    forward as you touch it.
+  - Work End to End: Take features from prototype through
+    technical design, implementation, release and production
+    monitoring. You build it, you own it.
+  - Help More Customers Complete Their Order: Work on problems
+    such as handling out-of-stock items in the cart without
+    losing the basket, making payments with Apple Pay, PayPal
+    and cards succeed more often, and showing fees, discounts
+    and vouchers clearly before customers pay.
+  - Engineer with Agents: Use coding agents such as Claude Code
+    for writing, testing, reviewing and porting code. Improve
+    the agent instructions and skills in our repositories so
+    the whole team gets better results.
+  - Raise the Quality Bar: Lead code reviews, write unit and UI
+    tests (we use XCTest and Maestro), and keep our CI and
+    release process healthy. Help your team get 1% better
+    every day.
+  - Keep Checkout Reliable: A failure in checkout or payment
+    stops customers from ordering. Instrument what you build,
+    watch crashes, errors and payment failures in Datadog,
+    help resolve production incidents, and fix issues at the
+    root.
+  - Shape the Product: Work with your Product Manager, Designer
+    and Analyst on what to build and why. Use experiments and
+    data to decide, and speak up when you see a better option.
+    At Flink, the best idea wins.
+  - Grow Others: Mentor engineers and share what works with
+    agents across the Consumer domain.
+  - Protect Customer Data: Follow secure coding practices for
+    payments and personal data, and fix vulnerabilities
+    quickly.
+
+  Qualifications
+
+  We value quality of impact over years of tenure.
+
+  - Native mobile engineer: You have built and shipped consumer
+    apps on iOS (Swift, SwiftUI) or Android (Kotlin, Jetpack
+    Compose). iOS is preferred. Android engineers who want to
+    grow into iOS are welcome too.
+  - Solid engineering foundation: You know mobile architecture,
+    concurrency, networking and testing. You release apps
+    safely through the App Store or Google Play, and you look
+    after your features in production.
+  - Works with AI coding tools: You have used coding agents such
+    as Claude Code, Cursor, Codex or GitHub Copilot, and you
+    want them to be a central part of how you work. You know
+    what to hand over to an agent, and you check the result
+    before it ships.
+
+  Nice to Have
+
+  - Product mindset: You care about the customer outcome and use
+    data, experiments and customer feedback to decide what to
+    build.
+  - Checkout and payments experience: You have built cart,
+    checkout or payment flows, for example with payment
+    provider SDKs such as Adyen, or with Apple Pay.
+  - Work beyond iOS: It is a plus if you have worked on Android
+    or backend code, or would like to when there is a need.
+  - Agent setup experience: You have written agent instructions,
+    skills or tooling that other engineers use.
+  - Mobile observability and experimentation: You have used
+    tools such as Datadog, Firebase Crashlytics, feature flags
+    or A/B testing platforms.
+
+  Additional Information
+
+  For this role as Senior Software Engineer - Mobile (iOS),
+  the starting remuneration is as follows:
+
+  The base pay for this position is 80,000.00 - 100,000.00 EUR
+  gross for full time (40 hours per week).
+
+  In addition, FLINK offers the following benefits:
+
+  - Remote-friendly culture with at least 1 day per week in our
+    Berlin HQ
+  - A €1000 annual L&D budget as well as individual coaching
+    options to ensure you have plenty of opportunities to
+    learn, grow and achieve your goals
+  - 26 days of vacation, +1 day every year up to a maximum of 30
+    days
+  - A mobility budget of 35 EUR per month for Deutschland Ticket
+    subsidy
+  - A discount on your Urban Sports Club membership
+  - Attractive company pension options
+  - Unlimited access to an e-learning and development platform,
+    Prosus Academy, including online German courses
+  - Online discounts with Corporate Benefits and Future Bens
+  - A cool discount off your personal Flink orders; be the first
+    to test out new products!
+  - A modern and dog-friendly office in the heart of Berlin -
+    lots of delicious lunch spots available within short
+    walking distance
+
+  It is our commitment that every applicant will be evaluated
+  according to their skills regardless of age, gender
+  identity, ethnicity, sexual orientation, disability status,
+  or religion.
+
+  We recognize that great candidates may not check every box.
+  If you're excited about this role and believe you have
+  relevant experience, we encourage you to apply.
+industries:
+  - eCommerce
+  - Information Technology
+posted_date: 2026-10-07
+url: "https://builtin.com/job/senior-software-engineer-mobile-ios/11545084"
+source: Built In

@@ -1,0 +1,188 @@
+job_id: 9976318
+title: Senior Software Engineer
+company: Monstro
+location: New York, USA
+work_type: FULL_TIME
+company_size: 35 Employees
+description: |
+  About Monstro
+
+  Monstro is a governed AI platform for regulated financial
+  institutions. We give banks and wealth managers a way to
+  deliver trusted advice digitally — to every client, not just
+  the top tier. Institutions already have the relationships,
+  data, and context to understand each client. Monstro turns
+  that understanding into advice. It gives every client the
+  experience of a personal advisor: bringing together their
+  full financial picture, identifying what matters, and
+  delivering personalized guidance across investments, tax,
+  retirement, insurance, legal, and more. For clients, that
+  means clearer decisions, proactive support when life
+  changes, and a better view of their financial lives. For
+  institutions, it means deeper relationships, more clients
+  served consistently, and more of each client's financial
+  life managed in one place.
+
+  What makes this possible is how the system is built. Every
+  recommendation reflects the institution's own views,
+  policies, and permissions. Every output is auditable,
+  traceable, and reversible, and client data stays under the
+  institution's control. Generative AI shapes how advice is
+  designed; at runtime, execution is deterministic — so every
+  output can be explained and stood behind, not just trusted.
+  The work
+
+  We are building for a high-stakes industry where the work
+  has real consequences. The challenge is to make advice more
+  personal and more available without making it less trusted —
+  to build AI that institutions can audit, explain, and
+  reverse, in a domain where being wrong carries real cost.
+  That is a hard problem, and it is the reason to be here. You
+  will work on technology that brings real financial advice to
+  people who have rarely had access to it. You will be
+  expected to think clearly, move with urgency, hold a high
+  bar, and take responsibility for work that matters. We are
+  an early team building something ambitious, and what you do
+  here will shape both the product and the company.
+
+  About the Role
+
+  We're looking for a Senior Software Engineer to support our
+  AI application development team at the heart of the
+  company's mission. This is a deeply technical role with real
+  scope: you'll architect and ship systems that power AI-
+  driven financial analysis, build the tooling and
+  infrastructure that domain experts rely on, and set the
+  engineering bar for how we build AI systems responsibly in a
+  regulated industry.
+
+  You'll influence how we design agents, how we validate and
+  govern AI output, how we scale our modeling infrastructure,
+  and how we think about auditability and compliance. This
+  isn't a role where AI is a thin wrapper — the intelligence
+  layer is the product.
+
+  What You'll Do
+
+  - Architect and build AI agent systems — including multi-agent
+    workflows, orchestration layers, and the infrastructure
+    that makes them reliable and auditable in production
+  - Work at the edge of what’s possible with modern AI — rapidly
+    experimenting with new models, tools, and development
+    patterns, then turning what works into robust production
+    software that sits at the core of Monstro’s product.
+  - Design modeling and reasoning systems that meet the
+    correctness and explainability requirements of financial
+    services — where every recommendation needs to be
+    traceable and defensible
+  - Build internal applications and platforms (Python/React)
+    that enable domain experts and engineers to author,
+    validate, and deploy AI-powered analysis at scale
+  - Document your decisions, ensure sufficient test coverage and
+    generate AI native artifacts to share your work with
+    others
+  - Own distributed backend infrastructure: event-driven
+    workers, job pipelines, and multi-stage processing systems
+    that deliver AI outputs reliably under load
+  - Establish patterns for AI output validation and quality
+    assurance — including automated evaluation pipelines,
+    hallucination detection, and compliance guardrails
+  - Drive technical decisions across teams: schema design, API
+    contracts, system boundaries, and service architecture
+  - Contribute to full stack application development
+
+   What We're Looking For
+
+  - Hands-on experience designing, building, and shipping
+    production software systems using AI development tools,
+    especially AI-powered software
+  - Deep curiosity about where AI-native software is heading —
+    you actively explore emerging capabilities and are excited
+    to help define how they should be applied in real
+    production systems, not just follow established patterns.
+  - Strong software engineering skills and experience with a
+    demonstrated track record contributing to best practices
+    application architecture
+  - Python expertise — async services, type-safe code, and
+    systems that scale
+  - Strong distributed systems fundamentals: event-driven
+    architectures, message queues, job state machines, and
+    worker patterns
+  - Relational database fluency and an instinct for data
+    modeling
+  - Full-stack range — you can build product-quality
+    React/TypeScript UIs when the problem calls for it
+
+  Preferred but not required
+
+  - Hands-on experience with AI/ML systems — agent
+    architectures, LLM integration, model evaluation, or AI
+    pipelines in production
+  - Opinionated about how AI systems should be tested,
+    evaluated, and monitored in production
+  - Experience designing multi-agent systems, agentic workflows,
+    or AI orchestration layers
+  - Data engineering experience developing data pipelines
+    handling big data
+  - Experience contributing to cloud infrastructure using
+    infrastructure as code
+  - Background in quantitative finance, financial planning, or
+    wealth management technology
+  - Experience leading technical teams or acting as a force
+    multiplier across engineering
+  - Experience building AI systems in regulated industries
+    (financial services, healthcare, legal) or with
+    compliance, auditability, or explainability requirements
+
+   Why Monstro?
+
+  - Impact: Build technology that helps millions of people make
+    better financial decisions, through the institutions they
+    already trust, and help define the category of Financial
+    Intelligence.
+  - Ownership: High trust, high ownership, high standards. You
+    will own meaningful problems end to end from day one.
+  - Experienced team: Work with leadership that has a track
+    record of scaling companies from early stage to major
+    exits.
+  - Principles-driven culture: We move fast, because the
+    opportunity is urgent. We communicate directly, because
+    clarity saves time. We hold a high standard, because
+    institutions and clients need to trust what we build.
+  - In person, in New York: We are headquartered at The Spiral
+    in Hudson Yards and work in the office four days a week,
+    because our pace depends on fast collaboration.
+  - Compensation and benefits: Competitive cash compensation and
+    meaningful equity, plus 100% employer-paid medical,
+    dental, and vision coverage, disability coverage, flexible
+    PTO, paid parental leave, and catered meals.
+
+  Base Compensation Range (New York City): $194,000 - $235,000
+
+  Final compensation will depend on a variety of factors,
+  including experience, skills, internal leveling, and market
+  conditions, and will be offered within the stated range in
+  accordance with applicable pay transparency laws.
+
+  A Note on Interviewing: We sometimes use AI note-takers to
+  help us transcribe interview notes, so we can be more
+  present in your interview. If you’d like to opt out of us
+  using automatic transcribers, please note this in the free
+  text field in your application; otherwise we’ll take your
+  application as confirmation that you’re happy for us to use
+  note-takers (whether added to video calls or in the
+  background).
+
+  Ready to Build With Us?
+
+  The standard is simple: do great work, own the outcome,
+  communicate with purpose, move with urgency, raise the
+  level. If that sounds like you, we’d love to hear from you.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Business Intelligence
+  - Financial Services
+posted_date: 2026-08-20
+url: "https://builtin.com/job/senior-applied-ai-research-engineer/9976318"
+source: Built In

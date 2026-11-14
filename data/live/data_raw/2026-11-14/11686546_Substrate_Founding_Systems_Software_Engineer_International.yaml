@@ -1,0 +1,133 @@
+job_id: 11686546
+title: Founding Systems Software Engineer (International)
+company: Substrate
+location: USA
+remote: true
+work_type: INTERN
+company_size: 747 Employees
+description: |
+  Background
+
+  Substrate builds financial infrastructure for equipment
+  financing, a $1.3T market that still runs on manual
+  approvals and paper. We give equipment vendors an in-house-
+  bank capability: AI-powered underwriting, capital-as-a-
+  service, and point-of-sale integrations. Our customers range
+  from construction auctioneers and CNC distributors to
+  robotics startups. We are a team of 10+ from Ramp, SpaceX,
+  and Anthropic, backed by a $7M seed from Floodgate,
+  Ironspring, Neo, and Steel Atlas.
+
+  We're hiring a systems software engineer who has tackled
+  hard technical problems help us to build core 0→1 systems at
+  the intersection of software, hardware, and finance. You'll
+  help architect and ship systems that power machine shops,
+  farms, factories, construction contractors, and more.
+
+  Why consider Substrate amidst your sea of options:
+
+  - You believe in objective good and beauty, and you want to
+    bring them to an antiquated, predatory industry.
+  - You believe not all technology is created equal. You don’t
+    care about building another enterprise SaaS tool, you want
+    to build tools that advance civilization.
+  - You want to work with people who treat their work as craft,
+    who violently reject “just good enough,” and you want to
+    help build that culture.
+
+  What you’ll build:
+
+  - Design and operate the backend for the loan lifecycle
+    (application, underwriting, funding, servicing) in
+    TypeScript on Node.js (NestJS services), PostgreSQL with
+    Prisma migrations, and containers on AWS.
+  - Build asynchronous workflows with queues, retries, and
+    recovery from partial failures related to payment
+    collection and returns, daily loan-servicing jobs, bank-
+    statement analysis, and credit and business-verification
+    data ingestion.
+  - Model complex business workflows (credit policy, compliance
+    checks, approvals) as explicit state machines with audit
+    trails.
+  - Design and deploy production LLM and agentic systems that
+    automate underwriting, compliance, and document
+    processing, including evaluation and fallbacks.
+  - Own Postgres schema design, migrations, and query
+    performance on production data.
+  - Extend our double-entry loan-servicing ledger: new
+    transaction types and payment flows, guarded by database-
+    level invariants and property-based tests.
+  - Integrate our systems with external financial partners: our
+    bank partner for ACH origination, a bank-data aggregator,
+    commercial credit bureaus, and business-verification
+    providers.
+
+  Qualifications:
+
+  - 3+ years building and operating production backend systems,
+    with at least one substantial feature you owned from
+    design through release.
+  - Production PostgreSQL experience: schema design, migrations,
+    transactions, indexing, query performance.
+  - Built asynchronous systems and can explain how they handle
+    retries, idempotency, and partial failure.
+  - Can walk through the hardest system you've built in depth:
+    stack chosen, alternatives rejected, key challenges,
+    tradeoffs.
+  - Clear written and verbal communication: you turn ambiguous
+    needs into working software and explain tradeoffs to
+    product and design.
+  - You've solved hard technical problems most of your peers
+    haven't encountered and you can explain exactly how your
+    solution works to extreme depth
+  - You gravitate toward thinking in systems, infrastructure,
+    and architectural tradeoffs
+  - You have strong opinions about what good abstractions look
+    like
+  - You resonate with our engineering philosophy
+
+  Preferred skills:
+
+  - Proficiency in TypeScript or another typed backend language
+  - Ledgering, double-entry accounting, loan servicing, or
+    payments (ACH, wires, bank APIs).
+  - Prior regulated-fintech or lending infrastructure work
+  - Built and shipped agentic workflows or automations
+  - AWS experience, especially ECS on Fargate, Aurora
+    PostgreSQL, S3 and CloudFront, Cognito, and Secrets
+    Manager/KMS, managed with Terraform.
+  - Founder, early-hire, or new-team experience.
+  - Comfortable building React front ends.
+
+  Compensation
+
+  - $120-$170K base + $35,000-70,000 equity
+  - Fully remote
+  - Unlimited paid-time-off
+
+  Next Steps
+
+  If you are interested, please apply via Dover AND email
+  yurii@joinsubstrate.com, nikhil@joinsubstrate.com, and
+  jordan@joinsubstrate.com with answers to the following (less
+  than 3 sentences each):
+
+  - If you could have one person's career arc, who would it be
+    and why?
+  - What's an unpopular truth you believe in?
+  - What's the most technically challenging system you've ever
+    built? Include the tech stack you chose, why you chose
+    them over other alternatives, key technical challenges and
+    how you solved them, and any architectural tradeoffs you
+    had to make.
+  - The time zone you would work from and confirm if you can
+    overlap with at least 6 hours within 8am-5pm Pacific Time.
+  - Link to Linkedin, Github, personal page, or anything
+    relevant about you online
+  - Resume (PDF)
+industries:
+  - Semiconductor
+  - Manufacturing
+posted_date: 2026-10-18
+url: "https://builtin.com/job/founding-systems-engineer-international/11686546"
+source: Built In

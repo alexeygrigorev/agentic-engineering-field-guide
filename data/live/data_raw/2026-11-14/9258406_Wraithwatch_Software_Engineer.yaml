@@ -1,0 +1,67 @@
+job_id: 9258406
+title: Software Engineer
+company: Wraithwatch
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 16 Employees
+description: |
+  Wraithwatch was founded by security engineers from SpaceX,
+  Palantir, and Anduril to build the next generation of AI-
+  powered cyber defense systems for the United States and its
+  allies. We are deployed today to customers spanning Fortune
+  500, US Federal Government, commercial nuclear, aerospace,
+  defense, maritime, and other emerging technology companies.
+  Our core product is a cyber defense platform utilizing
+  generative artificial intelligence agents to autonomously
+  model a digital twin of an organization's entire IT and
+  cybersecurity environment and analyze it for weaknesses,
+  misconfigurations, and chains of possible attack.
+
+  As a Software Engineer you will work with every component of
+  Wraithwatch’s architecture to include ensuring autonomous
+  and smooth construction of advanced digital twin models of
+  networks, coordinating communication and signaling between
+  backend AI engines and workers, building data pipelines
+  between Wraithwatch and third party security products, and
+  performing all manner of site reliability operations to
+  ensure our customer deployments are resilient and maintain
+  uptime.
+
+  Basic Qualifications
+
+  - 4+ years professional experience in building and deploying
+    software or services as part of a corporate or enterprise
+    security engineering team.
+  - Deep, hands-on understanding of the current landscape of
+    cybersecurity tools (EDRs, device management, identity,
+    SIEMs, SOARs, XDRs, etc) and experience configuring,
+    tuning, or automating these systems via APIs.
+  - Experience implementing or assisting with the implementation
+    of enterprise / corporate security controls such as anti-
+    malware policies, identity and access controls, detection
+    engineering, device management, or similar.
+  - Development experience in any modern programming language,
+    including but not limited to Python, Rust, or Go.
+
+  Preferred Qualifications
+
+  - Interest in modern machine learning or artificial
+    intelligence capabilities, especially emerging subsets of
+    Generative AI such as agentic behavior, tool calling,
+    knowledge graph integration, retrieval augmented
+    generation, etc.
+  - Ability to deal with ambiguity and learn new technologies
+    quickly.
+
+  Additional Requirements:
+
+  - Willingness to work extended hours and weekends as needed.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Cybersecurity
+  - Defense
+posted_date: 2026-08-16
+url: "https://builtin.com/job/software-engineer/9258406"
+source: Built In

@@ -1,0 +1,131 @@
+job_id: 11829144
+title: Senior FullStack Engineer (US Remote)
+company: Tie
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 54 Employees
+description: |
+  Senior FullStack Engineer
+
+  AI-Centric | Spec-Driven | Agent-First Development
+
+  Location: Remote (US)
+
+  Employment Type: Full-time, W-2
+
+  Benefits: Health, vision, and dental insurance + equity
+  options
+
+  Compensation: $135,000 USD/year
+
+  About Revenue Roll
+
+  We're looking for a Senior FullStack Engineer with strong AI
+  and agentic development experience to join our growing team.
+  You'll lead the development of user interfaces and services
+  that power marketing analytics, identity resolution, and
+  cross-platform personalization — leveraging AI agents and
+  spec-driven workflows to ship faster and smarter.
+
+  What You'll Do
+
+  - Build and maintain high-performance, scalable web
+    applications using Node.js, React.js, GCP, MongoDB.
+  - Develop features end-to-end using AI-assisted, spec-driven
+    workflows — creating detailed technical specifications and
+    implementing them via AI coding agents (Claude Code,
+    Codex, Gemini CLI).
+  - Work closely with Data Scientists, GTM Engineers and Backend
+    Engineers to bring graph- based identity resolution,
+    campaign analytics, and data activation to life.
+  - Design UIs with advanced data visualization (e.g., using
+    Highcharts, Recharts, etc.).
+  - Collaborate on multi-tenant architecture, OAuth-based
+    integrations, and automated onboarding experiences using
+    Auth0, Firebase, and Google Cloud Functions.
+  - Work with the backend team to integrate features and deliver
+    end-to-end value, including billing, Slack alerting, email
+    messaging and integration with various third-party
+    services.
+  - Drive test automation using Vitest and Jest, and help ensure
+    performance monitoring with OpenTelemetry and Sumo Logic.
+  - Define and refine AI agent configurations — custom
+    instructions (CLAUDE.md), hooks, skills, and prompt
+    templates — to optimize team-wide development workflows.
+  - Build and maintain MCP Servers to expose internal REST/HTTP
+    APIs to AI agents, enabling seamless tool-use across the
+    development lifecycle.
+  - Champion UI/UX best practices while maintaining clean,
+    maintainable code using ESLint, Prettier, SonarQube, etc.
+  - Act as a Feature Lead, leading the architecture, technical
+    documentation, communication with CTO, Tech Lead and
+    Product Owner on the best tech realization of the selected
+    feature.
+
+  Must-Have Qualifications
+
+  - By experience, we mean experience in commercial software
+    development.
+  - 7+ years experience (commercial!) with JavaScript/TypeScript
+    and modern frameworks.
+  - 7+ years experience with Node.js 20+, Express.js 4+, (or
+    Nest 10+), and related tooling. 5+ years experience with
+    React.js, including hooks and context API.
+  - Extensive experience with document-oriented databases,
+    specifically MongoDB.
+  - Proven experience with AI-assisted development using tools
+    like Claude Code, Codex, or Gemini CLI to accelerate
+    coding, debugging, and code review.
+  - Experience with prompt engineering and LLM API integration
+    (Anthropic, OpenAI, Google, open-source LLMs).
+  - Ability to author and interpret detailed technical
+    specifications for front-end and back-end features,
+    enabling efficient AI-driven development.
+  - Experience with Serverless environments, especially Google
+    Cloud Platform: Cloud Run/Functions, App Engine, Firebase,
+    Logging, API Gateway.
+  - Deep understanding of REST APIs.
+  - Strong experience building CI/CD workflows using GitHub
+    Actions.
+  - Strong drive to build products through AI agents rather than
+    manual coding. English proficiency at intermediate level
+    or higher.
+
+  Bonus Points
+
+  - Experience with Neo4j and graph data modeling (e.g.,
+    identity graphs).
+  - Familiarity with BigQuery and CDP tools.
+  - Experience with low-code/no-code solutions such as n8n,
+    Zapier, and Node-RED.
+  - Experience building dashboards for analytics or marketing
+    tech platforms.
+  - Hands-on experience building or integrating agentic AI
+    workflows (e.g., LLM-powered pipelines, tool-use agents,
+    RAG systems).
+  - Familiarity with prompt engineering and LLM API integration
+    (Anthropic, OpenAI, Google). Experience creating custom
+    skills/plugins for AI agents and building MCP Servers on
+    top of existing REST/HTTP APIs.
+  - Ability to use Claude Code (or similar tools) beyond code
+    generation — for technical documentation, DevOps
+    troubleshooting, and CI/CD pipeline configuration.
+
+  Tech Stack You'll Work With
+
+  - Frontend: Web APIs, React, Vite, Tailwind.
+  - Backend: Node.js, Express, Nest, MongoDB, BigQuery, Auth0,
+    Google APIs, GitHub APIs, third-party APIs.
+  - AI Development: Claude Code, Codex, Gemini CLI, MCP Servers,
+    spec-driven development workflows.
+  - DevOps/Tooling: GitHub Actions/Workflows, NX, Turborepo,
+    Prettier, ESLint, npm, pnpm, Vitest, Jest and such.
+industries:
+  - Artificial Intelligence
+  - eCommerce
+  - Marketing Tech
+  - Analytics
+posted_date: 2026-10-23
+url: "https://builtin.com/job/senior-fullstack-engineer-us-remote/11829144"
+source: Built In

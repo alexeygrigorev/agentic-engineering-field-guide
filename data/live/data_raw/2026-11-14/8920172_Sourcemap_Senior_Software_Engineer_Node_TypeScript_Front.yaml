@@ -1,0 +1,162 @@
+job_id: 8920172
+title: Senior Software Engineer — Node, TypeScript, Frontend Ecosystem
+company: Sourcemap
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1800 Employees
+description: |
+  Title: Senior Software Engineer — Node, TypeScript, Frontend
+  Ecosystem
+
+
+
+  Reports to: Chief Technology Officer
+
+
+
+  About the Company:
+
+
+
+  Sourcemap is the leading provider of supply chain mapping,
+  traceability, and transparency software. Our clients include
+  category-leading global brands, manufacturers and suppliers
+  across the food & agriculture, fashion, beauty,
+  manufacturing and electronics industries. We seek committed
+  individuals who will join our team to support our award-
+  winning, values-led work and to tackle important supply
+  chain challenges in a dynamic startup environment.
+
+
+
+  Job Summary:
+
+
+
+  Sourcemap seeks a Senior Software Engineer with strong
+  architectural instincts and a proven track record of
+  building modular, scalable systems to join our growing
+  engineering team. In this critical role, you will work
+  across Node, TypeScript, Angular, and Next.js, helping shape
+  patterns that support clarity, maintainability, and the
+  long-term vision of our platform.
+
+
+
+  This role combines deep hands-on engineering with broad
+  technical influence. You will collaborate closely with
+  engineering leadership to introduce well-structured system
+  boundaries, improve overall architecture, and guide the team
+  toward patterns that scale—both synchronously and
+  asynchronously.
+
+
+
+  You will help shape the next phase of our engineering
+  evolution by introducing patterns that enable resilience and
+  sustained development velocity. Your work will influence how
+  we design systems, structure code, and collaborate across
+  teams, creating a foundation that scales with the business.
+
+
+
+  Beyond technical contributions, you will participate in
+  developing and mentoring junior team members by sharing best
+  practices and past experiences to support their growth.
+
+
+
+  Sourcemap is headquartered in New York City with additional
+  offices in Chicago and Paris. NYC-based applicants are
+  preferred, but there may be an option for this position to
+  be remote or hybrid in EST or CST time zones. No MST and PST
+  time zones will be considered at this time.
+
+
+
+  Primary Responsibilities:
+
+
+
+  - Design and implement modular backend services in Node and
+    TypeScript with clear separation between domain,
+    application, and infrastructure layers.
+  - Evolve our architecture toward event-driven patterns, using
+    message buses or streaming platforms (e.g., Kafka,
+    SNS/SQS, NATS, RabbitMQ) where asynchronous workflows add
+    resilience and clarity.
+  - Model domain events and asynchronous flows, establishing
+    conventions for publishing, consuming, and versioning
+    events across services.
+  - Lead technical design discussions, providing guidance on
+    boundaries, contracts, and long-term system behavior.
+  - Improve testing strategy, emphasizing unit tests that
+    isolate domain logic, integration tests with clear
+    boundaries, and contract tests for APIs and events.
+  - Contribute to modernization efforts, including refactoring
+    legacy modules, improving observability, and reducing
+    complexity where it adds value.
+  - Mentor engineers through pairing and thoughtful PR reviews,
+    modeling clear, intentional engineering practices.
+  - Evaluate tools and frameworks with a focus on long-term
+    stewardship, maintainability, and operational simplicity.
+
+
+
+  Experience Requirements and Skills:
+
+
+
+  - 5+ years of professional experience in software engineering,
+    with expertise in Node.js and TypeScript, including
+    building and maintaining large-scale systems.
+  - Strong architectural thinking, with an ability to design
+    systems around clear boundaries, domain models, and well-
+    defined contracts.
+  - Demonstrated experience with event-driven architectures,
+    including message buses, pub/sub systems, or streaming
+    platforms.
+  - Deep understanding of asynchronous workflows, domain events,
+    idempotency, and patterns for resilience and eventual
+    consistency.
+  - Proficiency working across frontend frameworks (Angular,
+    React, Next.js) and collaborating on shared patterns and
+    interfaces.
+  - Hands-on experience with multiple persistence approaches
+    (MongoDB, Redis, etc.) and the judgment to choose the
+    right tool for the domain.
+  - Strong testing instincts, including designing testable
+    modules and building reliable test suites that don’t
+    depend on fragile infrastructure.
+  - A collaborative, mentoring mindset, with the ability to
+    elevate others through clarity, example, and calm
+    technical leadership.
+  - Background in SaaS or product-focused engineering.
+  - Experience working in a dynamic, fast-growing organization.
+
+
+
+  Sourcemap offers a competitive compensation package based on
+  job-related factors such as business needs, experience,
+  level of responsibility, and qualifications. For this role,
+  the base salary range is $130k-$160k. Sourcemap offers a
+  benefit package, including but not limited to paid time off,
+  paid holidays (including an extended end-of-year break and
+  Summer Fridays), 100% employer-paid medical, dental, and
+  vision coverage, and 401k.
+
+
+
+  Sourcemap provides equal employment opportunities to all
+  employees and applicants for employment and prohibits
+  discrimination and harassment of any type without regard to
+  race, color, religion, age, sex, national origin, disability
+  status, genetics, protected veteran status, sexual
+  orientation, gender identity or expression, or any other
+  characteristic protected by federal, state or local laws.
+industries:
+  - Logistics
+  - Software
+posted_date: 2026-03-31
+url: "https://builtin.com/job/senior-software-engineer-node-typescript-frontend-ecosystem/8920172"
+source: Built In

@@ -1,0 +1,92 @@
+job_id: 9154400
+title: Senior Software Engineer, Flow Protocol, Execution
+company: Flow Foundation
+location: USA
+locations:
+  - USA
+  - Vancouver, CAN
+remote: true
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Flow is a layer one blockchain designed from the ground up
+  as a platform for a new generation of Web3 apps, games, and
+  the digital assets that power them. Flow is home today to
+  millions of users and apps from top tier creators including
+  Dapper Labs (NBA, NFL, Disney) as well as industry leaders
+  such as Mattel (Barbie, Hot Wheels), LiveNation /
+  Ticketmaster, and many more.
+
+  We're looking for an experienced Senior Software Engineer to
+  help us build the best decentralized computer in the world,
+  and make it ready for mainstream web3 adoption with 1M
+  transactions processed per second and petabytes of non-
+  sharded on-chain state.
+
+  In this role you will be working on the core components of
+  Flow protocol, contributing to evolving it’s architecture
+  and design to improve performance, scalability and
+  reliability, ensure autonomous operation and
+  interoperability with wider web3 ecosystem. Flow Execution
+  node is the CPU of Flow - it is responsible for execution of
+  a purpose-designed programming language for writing smart
+  contracts - Cadence. It also stores the on-chain state and
+  generates proofs for verifying correctness of the execution.
+
+  As the ideal candidate you are interested in and passionate
+  about pushing the boundaries in development of high-
+  performance decentralized permissionless systems
+  development, working with a fully remote, global team and on
+  open-source software.
+
+  You are comfortable with solving ambiguous problems in a
+  rapidly evolving environment and can pivot quickly when
+  necessary. You understand the value of clear, well-tested,
+  documented, easily maintainable and performant code. You
+  understand that working on a high-availability product needs
+  quick problem-solving when things don’t go as planned. You
+  appreciate direct communication.
+
+  What we will accomplish together:
+
+  - Build an innovative blockchain as the foundation for an
+    entire ecosystem of consumer applications, starting with
+    games, collectibles, and the apps that interact with them
+  - Defy accepted wisdom on the scalability of blockchain
+    platforms
+  - Design, develop, and deploy new systems that enhance
+    throughput, latency, availability, and security
+  - Maintain, improve and optimize existing systems
+  - Support Flow network operations and incidents
+  - Ensure that our work is ethical and values-driven to create
+    a positive impact on the world
+
+  About you:
+
+  - You are capable of applying your skills across a variety of
+    use cases
+  - We believe in processes and the power of planning, but you
+    will often have to roll with the punches and prioritize
+    the most impactful tasks on the fly
+  - Experience with distributed systems, scalability, and
+    algorithm engineering experience, preferably in Golang
+  - Experienced in building a path to successful delivery from
+    situations with high technical ambiguity, including
+    writing Software Design proposals and building consensus
+    with key stakeholders
+  - Experience with building scalable solutions in a resource-
+    constrained environment, performance optimization and
+    profiling
+  - Ability to maintain and operate high-availability service
+  - Experience with web3 ecosystem and smart contract
+    development
+  - Enjoys and understands the nuances of working with a
+    developer community in public
+  - Knowledge of byzantine-fault-tolerant system design
+industries:
+  - Blockchain
+  - Cryptocurrency
+  - Web3
+posted_date: 2026-08-04
+url: "https://builtin.com/job/senior-software-engineer-flow-protocol-execution/9154400"
+source: Built In

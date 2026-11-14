@@ -1,0 +1,274 @@
+job_id: 11417739
+title: Staff Java Software Engineer (Remote)
+company: Fanatics
+location: New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 7,500 Employees
+description: |
+  About Us
+
+  Fanatics is a leading global sports platform redefining how
+  fans connect with the teams, players and moments they love.
+  Our businesses — Fanatics Commerce, Fanatics Collectibles,
+  Fanatics Betting & Gaming, Fanatics Events, Fanatics
+  Advertising, Fanatics Markets and Fanatics Studios —
+  maximize the presence and reach for hundreds of partners
+  globally and create a one-stop experience that allows fans
+  to buy, bet, collect, and earn, while engaging with sports
+  in deeper, more immersive ways. This includes licensed fan
+  gear and lifestyle products, sportsbook and iGaming,
+  physical and digital trading cards, live events, premium
+  sports entertainment content, credit card offerings and
+  more. Together, they form a powerful, integrated ecosystem —
+  connected by the Fanatics ONE loyalty program and FanCash,
+  the currency of sport — delivering personalized experiences
+  to over 100 million fans worldwide. Fanatics holds
+  partnerships with over 900 sports properties, from
+  professional leagues and players’ associations to teams,
+  colleges and retail partners; over 7,000 athletes and
+  celebrities; and over 2,000 retail locations, including all
+  Lids stores. Backed by a team of more than 22,000 employees,
+  Fanatics is committed to relentlessly enhancing the fan
+  experience.
+
+  Job Summary
+
+  Fanatics Betting & Gaming (FBG) is building the industry's
+  most trusted, scalable, and fan-centric sportsbook
+  experience. Our Internal Platforms power critical systems
+  that support customer operations, marketing, support, risk,
+  and data—through a combination of Java backend services,
+  APIs, event-driven systems, and integrations with the SaaS
+  and CRM platforms our business teams run on.
+
+  We are seeking a Staff Java Software Engineer to set
+  technical direction for the services and integrations that
+  Internal Platforms runs on. This is a senior individual
+  contributor role for an engineer who operates with minimal
+  guidance, takes on our most complex and often cross-
+  functional problems, and raises the bar for everyone around
+  them.
+
+  At this level, your impact is measured beyond the code you
+  write. You will own architecture for significant parts of
+  the platform, drive decisions that span multiple teams and
+  systems, mentor other engineers, and partner directly with
+  Product, Operations, Support, Marketing, Risk, and Data
+  leadership to shape what gets built and why. You will still
+  be hands-on—Staff engineers at FBG write and review code
+  every week—but you will spend meaningful time on design,
+  technical strategy, and multiplying the output of the teams
+  you work with.
+
+  You do not need to be a Salesforce specialist. Some of our
+  systems integrate with Salesforce for CRM and workflow
+  automation, so exposure to it is a nice to have—but we're
+  hiring for strength in Java, distributed systems, and
+  integration design, and we expect you to pick up the
+  platform specifics on the job.
+
+  Key ResponsibilitiesTechnical Leadership & Architecture
+  (Primary Focus)
+
+  - Own the architecture for major services, integrations, and
+    data flows within Internal Platforms, from problem
+    definition through production operation.
+  - Lead design for complex, often cross-functional
+    initiatives—defining the approach, surfacing trade-offs,
+    and driving alignment across engineering teams and
+    stakeholders.
+  - Break ambiguous, department-level problems into clear
+    technical plans and workstreams that other engineers can
+    execute against.
+  - Evaluate and select technologies, patterns, and vendors;
+    know when a sophisticated design approach is warranted and
+    when the simpler answer is the right one.
+  - Establish and evolve engineering standards for the team—API
+    design, testing strategy, observability, deployment, and
+    integration patterns—and get them adopted in practice, not
+    just documented.
+  - Identify systemic technical debt and reliability risk across
+    the platform, build the case for addressing it, and
+    sequence the work alongside feature delivery.
+
+  Hands-On Engineering
+
+  - Design, build, and maintain Java-based backend services
+    (Spring Boot or similar frameworks) that are scalable,
+    resilient, and well-tested.
+  - Take on the hardest technical problems on the team: high-
+    throughput event processing, complex multi-system
+    integrations, thorny data integrity issues, and production
+    incidents that cross service boundaries.
+  - Diagnose problems at the root cause rather than the symptom,
+    and translate what you learn into durable fixes and better
+    instrumentation.
+  - Set the quality bar through your own code and through high-
+    signal code reviews that teach as well as gate.
+  - Contribute to internal web applications and user interfaces
+    backed by Java services where it moves the work forward.
+
+  Mentorship & Force Multiplication
+
+  - Mentor and coach Senior and mid-level engineers through
+    design review, pairing, and direct feedback; help them
+    grow the judgment to handle complexity independently.
+  - Create learning and growth opportunities for
+    teammates—delegate meaningful design work, sponsor stretch
+    assignments, and share context generously.
+  - Onboard and ramp new engineers into the platform's systems
+    and conventions.
+  - Write the documentation, runbooks, and design records that
+    let the team operate and extend the platform without you
+    in the room.
+  - Model an inclusive, collaborative environment where opposing
+    views are actively invited and disagreement is resolved on
+    the technical merits.
+
+  Cross-Functional Partnership & Delivery
+
+  - Partner with Product Managers, Technical Program Managers,
+    and business stakeholders to shape roadmaps—bringing
+    technical feasibility, sequencing, and risk into the
+    conversation early rather than reacting to finished
+    requirements.
+  - Work directly with Marketing, Operations, Support, Risk,
+    Compliance, and Data teams to ensure platform capabilities
+    meet business needs and regulatory obligations across
+    jurisdictions.
+  - Represent Internal Platforms in architecture and design
+    discussions with other engineering teams, negotiating
+    clean contracts and shared ownership boundaries.
+  - Communicate complex technical problems, trade-offs, and
+    decisions clearly to both engineering and non-engineering
+    audiences, including leadership.
+  - Drive predictable delivery for initiatives you own: scope,
+    estimate, unblock, and own the outcome—including the parts
+    that depend on other teams.
+  - Engage external partners and vendors on integration design
+    and technical escalations where needed.
+
+  Third-Party & SaaS Platform Integration
+
+  - Own the integration architecture between our Java services
+    and the third-party platforms our business teams depend
+    on—REST APIs, platform events, middleware—including data
+    ownership, consistency, and failure handling.
+  - Define scalable, reusable integration patterns and prevent
+    the platform sprawl that comes from point-to-point fixes.
+  - Lead resolution of complex integration issues spanning
+    backend services, vendor platforms, and data pipelines.
+  - Partner with platform-specialist engineers (including our
+    Salesforce-focused engineers) to keep integration
+    boundaries clean and maintainable.
+
+  Operational Excellence
+
+  - Own production health for the services in your remit: SLOs,
+    alerting, on-call quality, incident response, and post-
+    incident follow-through.
+  - Anticipate failure modes, capacity limits, and blockers
+    before they surface, and build the safeguards in advance.
+  - Improve engineering practice across the team—CI/CD, test
+    automation, release safety, and developer productivity.
+  - Hold the line on the standards required of a regulated,
+    highly available gaming platform.
+
+  QualificationsRequired
+
+  - 8+ years of professional software engineering experience,
+    with deep expertise in Java.
+  - Demonstrated ownership of the architecture and delivery of
+    complex production systems, including work that spanned
+    multiple teams or functions.
+  - Strong experience designing APIs and integrating distributed
+    systems, with sound judgment about consistency, failure
+    handling, and service boundaries.
+  - Track record of operating with minimal guidance: taking an
+    ambiguous problem, defining the approach, and driving it
+    to production.
+  - Experience mentoring engineers and raising technical
+    standards on a team—through design review, code review,
+    and direct coaching.
+  - Ability to communicate complex technical concepts and trade-
+    offs clearly in writing and in person, to technical and
+    non-technical audiences alike.
+  - Experience with Git-based workflows, code reviews, and CI/CD
+    pipelines.
+  - Experience operating services in production, including on-
+    call ownership and incident response.
+
+  Preferred
+
+  - Experience with event-driven architectures (Kafka or
+    similar) at meaningful scale.
+  - Experience in cloud environments (AWS preferred), including
+    infrastructure-as-code.
+  - Experience with highly available or regulated systems
+    (gaming, fintech, payments).
+  - Experience contributing to internal web UIs or tooling,
+    including Java-backed web frameworks and/or modern front-
+    end frameworks consuming Java APIs (React, Angular, etc.)
+  - Experience working with AI model or agent platforms,
+    including building on or integrating agents into
+    production workflows. Familiarity with platforms such as
+    Anthropic, OpenAI, Amazon Bedrock, LangChain, Google
+    Vertex AI, Microsoft Copilot Studio, CrewAI, or AutoGen is
+    a plus.
+  - Fluency with AI-powered coding assistants to design, build,
+    and test new functionality from the ground up—moving
+    quickly while maintaining high code quality and test
+    coverage—and interest in helping the broader team adopt
+    these workflows effectively.
+
+  Nice to Have
+
+  - Exposure to Salesforce as an integration target or
+    platform—Salesforce APIs, platform events, or light
+    development work in Apex, Lightning Web Components, or
+    Flows. Helpful context, not a requirement.
+  - Salesforce certifications (Administrator, Developer).
+
+  What We Value
+
+  - Passion for building high-quality internal platforms that
+    directly impact business outcomes.
+  - Strong ownership mindset: you own the outcome, not just your
+    piece of it.
+  - A solutions-first approach—you anticipate problems and bring
+    options, not just escalations.
+  - Genuine interest in making other engineers better.
+  - Comfort operating in a fast-paced, evolving environment with
+    incomplete information.
+
+  Ranges will change based on country and state of residence,
+  which are reflected in Geographical Zones defined by
+  Fanatics Betting and Gaming. The range incorporates all of
+  our Geographical Compensation Zones and is subject to change
+  as the Zone associated with the actual offer is confirmed.
+  In addition to the base and bonus, full-time employment, and
+  more. For information about our benefits, please visit
+  https://benefitsatfanatics.com/
+
+  Salary Range
+
+  $1—$1 USD
+
+  By submitting your application, you agree to our terms of
+  service and acknowledge you have read our Candidate Privacy
+  Policy.
+
+  Fanatics will never ask candidates for money, banking
+  information, or other sensitive personal information as part
+  of the interview process. If you receive a suspicious
+  message claiming to be from Fanatics recruiting, please do
+  not respond and report it here.
+industries:
+  - eCommerce
+  - Retail
+  - Software
+  - Sports
+posted_date: 2026-09-29
+url: "https://builtin.com/job/staff-java-software-engineer-remote/11417739"
+source: Built In

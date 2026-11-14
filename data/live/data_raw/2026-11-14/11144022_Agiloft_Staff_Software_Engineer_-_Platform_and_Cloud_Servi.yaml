@@ -1,0 +1,252 @@
+job_id: 11144022
+title: Staff Software Engineer - Platform and Cloud Services
+company: Agiloft
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 400 Employees
+description: |
+  As the most trusted global leader in data-first contract
+  lifecycle management (CLM) software, Agiloft helps
+  organizations manage the end-to-end process of proposing,
+  negotiating, signing, and leveraging contracts using our
+  flexible Data-first Agreement Platform (DAP). With contract
+  data as the foundation, customers quickly and
+  collaboratively reach agreement and leverage contract
+  visibility to thrive with competitive advantage. Employing
+  powerful, pragmatic artificial intelligence as a legal force
+  multiplier, and robust integration capabilities as a data
+  liberator, organizations around the world trust Agiloft’s
+  certified implementers to deliver connected, intelligent,
+  and autonomous solutions across the entire contract
+  lifecycle.
+
+  Top analysts like Gartner, Forrester, and IDC agree, all
+  showing Agiloft as a leader in the CLM space. Our no code
+  platform is easily managed and administered by business
+  users, which is why Agiloft is the contract you keep: nearly
+  a full 100% of new customers are satisfied with their
+  initial implementations, and some 97% of customers renew
+  every year. Ours is a growing, vibrant, successful company
+  that is at the forefront of a market that is becoming a
+  must-have for all organizations.
+
+  We believe that the way to build the strongest, most vibrant
+  place to work is to bring in individuals from all walks of
+  life, and to support them in bringing their authentic selves
+  to their day, every day. Our working philosophy is that “EX
+  = CX”: when employee experience is excellent, so is customer
+  experience. We support multiple Employee Resource Groups
+  (ERGs), and offer a working environment that supports
+  healthy work/life balance, including floating holidays and a
+  quarterly, no-questions-asked wellness day.
+
+  Position Overview
+
+  This is a foundational engineering role. You will own a
+  critical domain of the platform on which Agiloft's CLM
+  product is built as one of a small team of staff engineers
+  who each own a core part of the platform and shape its
+  direction together. This is a backend- and distributed-
+  systems–weighted position with deep ownership of your domain
+  and end-to-end accountability for its design, scalability,
+  reliability, and security as the product and customer base
+  grow.
+
+  You will work across the organization with engineering
+  leaders, senior engineers, product leaders, and partner
+  teams to understand where the product is going, translate
+  business and product goals into durable platform
+  architectures, and align diverse stakeholders on the
+  technical direction. This means, you will set architectural
+  direction alongside a peer group of staff engineers of your
+  caliber. This is a hands-on leadership role that combines
+  deep backend and cloud expertise with the influence to drive
+  architecture across functional boundaries.
+
+  Job Responsibilities
+
+  - Own the canonical data models and service boundaries in your
+    domain
+  - Design models and boundaries that let independent systems
+    evolve in parallel without duplicating logic or creating
+    competing implementations
+  - Evolve the platform through additive, backward-compatible
+    changes that introduce new capabilities without disrupting
+    existing behavior.
+  - Own the architecture of one or more critical platform
+    domains, with responsibility for design integrity,
+    scalability, reliability, security, and long-term
+    technical health.
+  - Design AWS-native, event-driven and asynchronous services
+    that scale on demand, degrade gracefully under load, and
+    remain cost-efficient as volume grows.
+  - Architect the backend to enable and support AI/ML workloads
+    at scale with a focus on performance, scalability and cost
+    efficiency.
+  - Act as architectural steward for these services, keeping
+    them scalable, resilient, secure, and maintainable as
+    customer and platform demands grow.
+  - Drive cloud-native design principles: stateless services,
+    managed-service adoption, and failure-tolerant, self-
+    healing architectures.
+  - Treat tenant isolation, authentication, and authorization as
+    first-class design concerns across every service and API
+    you own.
+  - Design secure authentication and token-handling flows,
+    permission-aware data access, and safe credential
+    management for an enterprise, multi-tenant platform.
+  - Design for correct, isolated behavior across tenant,
+    environment, and data-residency boundaries, and reason
+    explicitly about security posture and blast radius when
+    centralizing sensitive capabilities.
+  - Partner with product- and engineering leaders to develop a
+    deep understanding of customer and business needs and
+    translate them into platform architectures that solve the
+    problem
+  - Lead the technical design of major platform initiatives end
+    to end, and drive alignment across teams and functions
+    whose priorities and incentives do not always converge.
+  - Integrate diverse stakeholders and project teams around a
+    shared technical direction, navigating differing
+    functional interests with sound judgment and strong
+    interpersonal skill.
+  - Produce clear, rigorous design documents, service contracts,
+    and acceptance criteria that others can review, build on,
+    and trust, setting the standard for technical design on
+    the team.
+  - Use AI-assisted tools to accelerate and sharpen design and
+    implementation, applying the judgment to know where they
+    add leverage and where deeper thinking is required.
+  - Lead by example in applying AI-assisted engineering tools to
+    accelerate architecture, design, implementation, and
+    testing, using sound technical judgment to amplify
+    productivity without compromising quality,
+    maintainability, or depth of thinking.
+  - Design clean, versioned API contracts on top of the
+    platform's data models — including high-scale bulk and
+    asynchronous operations — with deterministic behavior,
+    idempotency, structured error handling, and well-defined
+    limits.
+  - Establish contract tests and permission-enforcement
+    validation as first-class parts of every API you design.
+  - Own initiatives end to end from design through release, with
+    accountability for product quality in your domain and high
+    standards for reliability, security, observability,
+    performance, scalability, usability, and cost across the
+    services you own
+  - Champion modern practices: infrastructure-as-code, automated
+    testing, continuous delivery, and observability-by-default
+  - Lead platform-modernization and refactoring initiatives
+    while maintaining delivery velocity and improve the
+    developer experience for the services you own.
+  - Identify and drive improvements to how the engineering
+    organization designs and delivers
+  - Contribute across the stack when an initiative calls for it,
+    including UI layers on top of the platform services you
+    build; backend remains the primary focus.
+  - Serve as a technical multiplier unblocking teams,
+    accelerating architectural decisions, and reducing long-
+    term complexity.
+  - Partner with CloudOps, Security, MLOps, and integration
+    teams to define reliability targets, operational-readiness
+    standards, and clean interfaces between domains.
+  - Mentor senior and mid-level engineers, raising the bar for
+    data-model and systems design, security, and design-
+    document quality.
+  - Stay ahead of a fast-moving industry, particularly the rapid
+    evolution of AI capabilities, and drive pragmatic adoption
+    where it delivers clear business value.
+  - Other duties as assigned.
+
+  Required Qualifications
+
+  - Bachelor's and/or master's degree in Computer Science,
+    Information Systems, Software or Electrical/Electronics
+    Engineering, or a comparable field.
+  - 8+ years of professional software engineering experience,
+    including 2+ years at staff level.
+  - Demonstrated leadership of architecture decisions spanning
+    multiple teams with concrete examples of driving cross-
+    team technical direction to a decision.
+  - Proven ability to drive technical outcomes across diverse
+    stakeholders and teams that report into different
+    functions, aligning divergent interests without direct
+    authority.
+  - Track record of owning significant initiatives end to end,
+    including release ownership.
+  - Strong proficiency in Python (working experience in Java a
+    plus), building backend and cloud-based services.
+  - Deep experience designing, building, and operating scalable,
+    enterprise-grade distributed systems on AWS.
+  - Strong data-modeling and service-architecture skills, with a
+    track record of building durable, reusable abstractions
+    that other teams adopt and extend without rework.
+  - Experience designing backend systems that enable demanding
+    workloads wih high-throughput data pipelines, asynchronous
+    processing, or ML/inference services at scale and with
+    cost-efficiently.
+  - Solid grounding in application security and multi-tenancy:
+    authentication/authorization, token handling, tenant
+    isolation, and permission-aware data access.
+  - Experience designing high-scale API contracts
+  - Strong experience with infrastructure-as-code and CI/CD for
+    cloud services.
+  - Strong understanding of observability in distributed
+    systems: logging, metrics, tracing, and alerting.
+  - A demonstrated habit of staying current with rapidly
+    evolving AI capabilities and integrating them into how you
+    work and design.
+  - Excellent written and verbal communication in English
+
+  Preferred Qualifications
+
+  Background checks will be conducted on an ongoing basis
+  every 3 years or as needed for individuals in this role.
+
+  Agiloft offers a comprehensive benefits package for US
+  employees including but not limited to the following:
+
+  - Medical, dental, and vision insurance
+  - Short term and long-term disability
+  - Life insurance and AD&D
+  - Supplemental life insurance (Employee/Spouse/Child)
+  - Health care and dependent care Flexible Spending Accounts
+  - 401(k) with company match
+  - Paid time off: Flexible Vacation is provided to all eligible
+    employees assigned to a salaried (non- overtime eligible)
+    position.
+  - Paid parental leave
+  - Voluntary benefits including pet insurance
+
+  Ensuring a diverse and inclusive workplace is our priority.
+  We are committed to an environment of acceptance where you
+  are free to bring your full self to work. All employment
+  decisions at Agiloft are based on business needs, job
+  requirements, and individual qualifications without regard
+  to race, color, religion or belief, national or social
+  ethnic origin, sex, age, sexual orientation, gender identity
+  and/or expression, parental status, marital status, Veteran
+  status, or any other status protected by the laws or
+  regulations in the locations where we operate. If you have a
+  need that requires accommodation during the recruiting
+  process, please let us know by contacting Director, Talent
+  Acquisition, Brad Toothman at brad.toothman@agiloft.com.
+
+
+
+  Applicants from underrepresented groups such as minorities,
+  veterans, or individuals with disabilities encouraged to
+  apply.
+
+  Applications will be reviewed as submitted. There will be no
+  application deadline for this opportunity.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Legal Tech
+  - Software
+  - Generative AI
+posted_date: 2026-09-11
+url: "https://builtin.com/job/staff-software-engineer-platform-and-cloud-services/11144022"
+source: Built In

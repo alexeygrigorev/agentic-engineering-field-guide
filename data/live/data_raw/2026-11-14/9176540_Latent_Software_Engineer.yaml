@@ -1,0 +1,125 @@
+job_id: 9176540
+title: Software Engineer
+company: Latent
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 49 Employees
+description: |
+  About Latent
+
+  Latent is the enterprise pharmacy intelligence platform,
+  powered by a clinical agentic engine, that enables health
+  systems to grow their pharmacy operations and serve more
+  patients. One engine works across the pharmacy journey to
+  identify patients who qualify for care, improve medication
+  access, capture eligible prescriptions and support patients
+  throughout treatment. Latent’s platform enables more than 60
+  leading health systems that collectively serve an estimated
+  70 million people. Founded by Sriram “Sri” Somasundaram and
+  Rishabh Jain, Latent has raised $80 million from
+  Transformation Capital, Spark Capital, Conviction, General
+  Catalyst, Y Combinator, and others.
+
+  The Role
+
+  We’re building the intelligence layer of American
+  healthcare. Our systems sit directly in critical workflows
+  and power how clinical AI is delivered and used in practice.
+  The work here translates into faster access to treatment and
+  significantly less operational burden for healthcare teams.
+  You’ll be working on the core systems that make this
+  possible.
+
+  What You'll Do
+
+  You’ll primarily focus on backend systems, while
+  contributing across the stack when needed to ship complete
+  features.
+
+  - Backend Systems & InfrastructureDesign and build high-
+    performance, reliable systems that process and serve
+    large-scale clinical data.
+  - Data Pipelines & Distributed SystemsBuild and operate
+    systems that handle high-volume, asynchronous workloads
+    using tools like Kafka and Temporal.
+  - Healthcare IntegrationsBuild and maintain robust
+    integrations with Electronic Health Records and other
+    external systems.
+  - Core Product LogicImplement complex workflows across areas
+    like Prior Authorizations and Patient Interactions.
+  - AI IntegrationIntegrate and operationalize both in-house
+    clinical AI models and external models in production
+    systems.
+  - End-to-End DeliveryWhen needed, work across APIs and
+    frontend layers to ship complete, user-facing features.
+
+  What We're Looking For
+
+  You’re a builder who holds yourself and others to high
+  standards. You speak command line fluently, live and die by
+  keyboard shortcuts, and are constantly looking for ways to
+  increase your leverage through automation.
+
+  This is a high-energy environment for people who want to
+  build real systems that matter.
+
+  - Ownership: You don’t hand off problems. You own them end to
+    end, from understanding the problem to shipping production
+    systems.
+  - Bias for Action: You won’t wait for someone else to solve a
+    problem you’re in a position to solve.
+  - Automation Mindset: You’re always looking for ways to move
+    faster by automating repetitive or manual work.
+  - Complexity Management: You’re good at building simple,
+    durable abstractions over messy, real-world systems.
+  - Product Focus: You’re comfortable working close to the
+    product, talking to users, shaping requirements, and
+    iterating quickly.
+
+  Technical Qualifications
+
+  You’ve built and shipped real systems and can make an
+  immediate impact.
+
+  - Strong experience building backend systems in TypeScript
+  - Experience working with distributed systems and data
+    infrastructure such as PostgreSQL, Redis, Kafka, Temporal,
+    or similar technologies
+  - Proven ability to design systems and manage complexity in
+    production environments
+
+  Nice to Have
+
+  - Experience with Kubernetes and infrastructure tooling such
+    as Helm
+
+  Why Join Latent
+
+  - Backed by top-tier investors including General Catalyst,
+    Conviction, and Y Combinator
+  - Work alongside a high-caliber team building products our
+    healthcare partners love
+  - Work on mission-critical problems at the intersection of AI
+    and healthcare
+  - Real ownership and visibility
+  - High-impact role on a small, fast-growing team
+
+  Benefits
+
+  - Competitive compensation, including meaningful equity
+  - Medical, dental, and vision insurance for employee and
+    dependents
+  - Flexible PTO policy
+  - Paid parental leave
+  - Fertility and family-building stipend through Carrot
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Information Technology
+  - Software
+posted_date: 2026-08-08
+url: "https://builtin.com/job/software-engineer/9176540"
+source: Built In

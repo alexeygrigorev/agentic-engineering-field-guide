@@ -1,0 +1,223 @@
+job_id: 11826336
+title: Senior Engineering Manager(Site Reliability Engineering) – DTC Platform
+company: PUMA Group
+location: CAN
+locations:
+  - CAN
+  - IND
+  - AUS
+  - IRL
+  - GBR
+  - Local, USA
+  - Singapore, SGP
+remote: true
+work_type: FULL_TIME
+company_size: 14,000 Employees
+description: |
+  SPEED & SPIRIT is what we look for in our candidates,
+  defined by some simple values that inspire us to BE DRIVEN
+  in our performance, BE VIBRANT in our sporting legacy, BE
+  TOGETHER in our team spirit, and to let our individual
+  talent and experience shine. Applying for a job at PUMA is
+  easy.
+
+  Simply click APPLY ONLINE and follow the steps to upload
+  your application.
+
+  YOUR MISSION
+
+  About the Organisation & Role:
+
+  You will be part of the DTC Platform Engineering
+  organisation responsible for delivering the shared
+  platforms, engineering services, and foundations that enable
+  product teams to build, test, deploy, and operate software
+  securely and reliably at scale. Product engineering teams
+  are the primary customers of the organisation. Through
+  capabilities such as cloud platforms, developer experience,
+  software delivery, quality engineering, security
+  engineering, performance engineering, and AI-native
+  engineering enablement, the organisation helps accelerate
+  software delivery, improve engineering productivity, and
+  establish consistent engineering standards across the
+  technology landscape
+
+  As the Senior Engineering Manager(SRE), you will lead teams
+  responsible for Site Reliability Engineering, Platform
+  Operations, DevOps enablement and operational readiness
+  across the DTC technology landscape. You will drive
+  reliability, scalability, cloud governance and operational
+  excellence. The role requires strong engineering leadership,
+  organisational leadership and people leadership to establish
+  a reliability-first culture while driving automation,
+  observability, cloud optimisation and operational maturity
+  across the DTC technology landscape.
+
+  WHAT YOU WILL DO:
+
+  SRE Strategy and Reliability Engineering
+
+  - Define and execute the SRE strategy, operating model and
+    roadmap in line with DTC and Platform Engineering
+    priorities.
+  - Establish and govern service level indicators (SLIs),
+    service level objectives (SLOs), error budgets and
+    reliability standards for critical consumer journeys and
+    platform services.
+  - Drive reliability-by-design across architecture,
+    development, testing, release and operations, ensuring
+    operational requirements are addressed early in the
+    delivery lifecycle.
+  - Use reliability, availability, latency, capacity and
+    incident data to prioritize technical debt and reduce
+    operational risks.
+  - Define and track reliability and incident metrics including
+    availability, error budget consumption, incident volume,
+    Mean Time to Detect (MTTD), Mean Time to Restore (MTTR)
+    and change failure rates.
+  - Enable engineering teams with tooling, observability,
+    automation and best practices that improve service
+    reliability, release confidence and system stability.
+
+  Operational Excellence and Incident Management
+
+  - Lead the engineering response for critical incidents,
+    providing technical leadership, service diagnosis,
+    recovery coordination and decision support to accelerate
+    restoration of services.
+  - Drive blameless post-incident reviews, Root Cause Analysis
+    (RCA), corrective actions and long-term remediation plans
+    in partnership with engineering and service owners.
+  - Reduce recurring incidents and operational toil through
+    automation, self-healing capabilities, platform
+    improvements.
+  - Partner with Operations and Service Management teams to
+    continuously improve incident response effectiveness,
+    escalation processes, operational readiness and service
+    resilience.
+
+  Observability, Resilience and Peak Readiness
+
+  - Drive a consistent observability strategy across metrics,
+    logs, traces, dashboards and alerting, with a focus on
+    actionable signals and early detection.
+  - Lead capacity planning, performance engineering, failure-
+    mode analysis, disaster recovery and resilience testing
+    for critical services and customer journeys.
+  - Own operational readiness for campaigns, product launches
+    and seasonal peaks, ensuring risks, dependencies, capacity
+    and recovery plans are understood and tested.
+  - Improve deployment safety through automated quality gates,
+    progressive delivery, rollback and recovery capabilities,
+    and strong change governance.
+  - Ensure business continuity and disaster recovery plans are
+    documented, tested and improved based on outcomes.
+
+  Cloud and Platform Operations
+
+  - Provide leadership for the reliability and operational
+    governance of Google Cloud Platform services and shared
+    DTC infrastructure.
+  - Drive infrastructure automation, standardization and
+    repeatability using Infrastructure as Code and GitOps
+    practices.
+  - Partner with Architecture, Security and Platform Engineering
+    to improve cloud reliability, scalability, security,
+    compliance and cost efficiency.
+  - Establish guardrails for environments, access,
+    configuration, service lifecycle management and
+    operational controls.
+  - Promote sustainable cloud usage and FinOps practices while
+    balancing availability, performance, resilience and cost.
+
+  People and Engineering Leadership
+
+  - Build, lead and develop a high-performing SRE organisation
+    with clear accountability, sustainable ways of working and
+    a strong service ownership mindset.
+  - Coach engineering managers, SRE leads and engineers through
+    regular feedback, career development, succession planning
+    and technical leadership.
+  - Own workforce planning, hiring, onboarding, capability
+    development for the SRE function.
+  - Establish a healthy on-call culture that balances service
+    needs with team sustainability and continuous improvement.
+
+  YOUR TALENT
+
+  - 12+ years of experience across Site Reliability Engineering,
+    Platform Engineering, Cloud Engineering, DevOps or
+    technology operations, including people leadership
+    responsibility.
+  - Proven experience leading SRE or production engineering
+    teams supporting high-traffic, business-critical digital
+    platforms in a 24x7 environment.
+  - Strong track record of defining SRE strategy and
+    implementing SLIs, SLOs, error budgets, production
+    readiness and service ownership practices at
+    organisational scale.
+  - Demonstrated experience leading major incidents, executive
+    communication, root cause analysis and systematic
+    reduction of operational risk and recurring failure.
+  - Strong knowledge of Google Cloud Platform and cloud-native
+    architecture, including compute, networking, identity and
+    access management, databases and managed platform
+    services.
+  - Experience with Cloud Run, Kubernetes or equivalent
+    container and serverless platforms.
+  - Experience with modern observability platforms and practices
+    across metrics, logging, distributed tracing, alerting and
+    service health dashboards.
+  - Experience with Infrastructure as Code and automation using
+    Terraform, GitOps or equivalent approaches.
+  - Experience with CI/CD, deployment safety, capacity planning,
+    performance engineering, resilience testing and disaster
+    recovery.
+  - Strong people leadership, stakeholder management and
+    communication skills, including the ability to influence
+    across engineering, product, security and business teams.
+  - Experience in global DTC, retail, omnichannel commerce or
+    high-volume consumer digital environment preferred.
+  - Experience with FinOps, cloud cost governance and budget
+    management.
+  - Bachelor's degree in Computer Science, Information
+    Technology, Engineering or a related field.
+
+  PUMA provides equal opportunities for all job applicants,
+  regardless of race, color, religion, national origin, sex,
+
+  gender identity or expression, sexual orientation, age, or
+  disability. Equality for all is one of the core principles
+  at
+
+  PUMA and we do not tolerate any form of harassment or
+  discrimination.
+
+  At PUMA, every application is reviewed by real people who
+  are committed to fairness, transparency, and equal
+
+  opportunity - no matter your background, identity, or
+  experience.To ensure our process stays true to these values,
+  no automated systems or AI tools are used to make hiring
+  decisions. Every decision is made by real people -with real
+  judgment and accountability. We may use functions supported
+  by Artificial Intelligence (AI) to carry out isolated
+  organizational steps, such as scheduling interviews. These
+  functions have no influence on decisions in the application
+  process. We believe in creating spaces where everyone is
+  welcome, celebrated, and empowered to contribute
+  authentically. Because at PUMA, whoever wants to play, can
+  play.
+
+  PUMA is a global sports brand creating footwear, apparel,
+  and accessories that inspire athletes and everyday movers.
+  The PUMA Group owns PUMA, Cobra Golf, and stichd, operates
+  in 120+ countries, and has around 22,000
+
+  employees worldwide.
+industries:
+  - Retail
+  - Sports
+posted_date: 2026-10-23
+url: "https://builtin.com/job/senior-engineering-manager-site-reliability-engineering-dtc-platform/11826336"
+source: Built In

@@ -1,0 +1,146 @@
+job_id: 11192409
+title: Staff Software Engineer
+company: SourceDirect Talent
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  Staff Software Engineer (Full Stack)
+
+  Location: Remote (United States – US time zones preferred)
+  Compensation: $200K – $240K + 0.20% – 0.40% equity
+  Employment Type: Full-time Work Authorization: US work
+  authorization required (no new visa sponsorship; limited H1B
+  transfer exceptions possible)
+
+  About Our Client
+
+  Our client is an open source SaaS company building a feature
+  flagging and A/B testing platform used by thousands of
+  companies in production. Backed by leading venture
+  investors, the company operates as a distributed US-based
+  team and is entering a high-growth phase.
+
+  This is an early, high-impact engineering hire. The selected
+  candidate will play a critical role in shaping both product
+  direction and technical architecture while helping scale
+  systems to enterprise-grade reliability and performance.
+
+  The team is fully remote, with a preference for candidates
+  located within US time zones to allow for meaningful
+  collaboration overlap.
+
+  The Opportunity
+
+  Our client is seeking a Staff Full Stack Engineer to help
+  design and scale core platform infrastructure and customer-
+  facing analytics capabilities.
+
+  This role is ideal for an engineer who enjoys solving
+  complex distributed systems challenges, building high-
+  performance data products, and contributing meaningfully
+  within a small, high-ownership team.
+
+  Key Technical ChallengesScaling Event Ingestion
+
+  The platform ingests analytics events from customers (e.g.,
+  button clicks, transactions) and makes them queryable via
+  SQL. The system must scale to millions of events per second
+  while maintaining low latency (<30 seconds).
+
+  Warehouse-Native Product Analytics
+
+  The team is building a product analytics suite (similar to
+  Mixpanel or Amplitude) that operates directly on a company’s
+  existing SQL data warehouse. This includes significant
+  front-end architecture, data engineering, and performance
+  optimization work.
+
+  Real-Time Feature Flag Analytics
+
+  When developers release code, they need immediate insight
+  into system health and feature adoption. The platform aims
+  to provide real-time visibility that extends beyond
+  traditional APM tools and delivers a comprehensive analytics
+  solution.
+
+  Robust Multi-Database SQL Support
+
+  The platform supports 12+ SQL data sources, including
+  Postgres, BigQuery, and PrestoDB, each with unique quirks
+  and edge cases. Scaling this support requires building
+  automated SQL test suites and dynamically provisioning
+  complex cloud infrastructure.
+
+  Streaming Feature Delivery Service
+
+  When a feature flag is toggled, updates must propagate
+  globally within seconds. The system must maintain extremely
+  high reliability (99.999% uptime) while handling billions of
+  requests per day.
+
+  Required Qualifications
+
+  - Expert-level proficiency in TypeScript, React, and Node.js
+  - Strong understanding of both SQL and NoSQL databases
+  - Experience building large-scale web applications from
+    scratch
+  - Strong English communication skills
+  - Experience in or strong interest in working within a startup
+    or small, high-ownership team
+
+  Preferred / Bonus Experience
+
+  - Contributions to open-source projects
+  - Experience using feature flags or A/B testing in production
+    environments
+  - Experience building data-intensive analytics platforms
+  - Experience designing high-scale distributed systems
+
+  Benefits
+
+  - Fully remote work within US time zones
+  - Comprehensive health, vision, and dental coverage (100%
+    employee premium covered; 95% for dependents)
+  - Generous home office or coworking stipend
+  - Regular company off-sites
+
+  The company is an equal opportunity employer committed to
+  fostering an inclusive and supportive work environment.
+
+  Interview Process
+
+  The interview process typically includes four virtual
+  stages:
+
+  - Introductory call with a founder
+  - Technical screen (live coding and screen sharing)
+  - System design interview
+  - Behavioral and culture interview
+
+  The focus throughout the process is on real-world problem
+  solving and technical thinking. There are no riddles or
+  algorithm-style trick questions. The goal is to ensure
+  strong mutual fit.
+
+  Why This Role Stands Out
+
+  This is an opportunity to operate at the Staff level within
+  a high-growth, open-source SaaS company tackling complex
+  data and distributed systems challenges.
+
+  The selected candidate will have meaningful ownership over
+  architectural decisions, influence product direction, and
+  help scale systems used by thousands of engineering teams
+  globally.
+
+  For engineers who want startup ownership with enterprise-
+  scale technical depth, this role offers both.
+industries:
+  - Artificial Intelligence
+  - HR Tech
+  - Professional Services
+posted_date: 2026-10-26
+url: "https://builtin.com/job/staff-software-engineer/11192409"
+source: Built In

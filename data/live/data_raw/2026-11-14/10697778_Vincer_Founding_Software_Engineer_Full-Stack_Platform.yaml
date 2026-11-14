@@ -1,0 +1,151 @@
+job_id: 10697778
+title: "Founding Software Engineer, Full-Stack & Platform"
+company: Vincer
+location: New York, USA
+locations:
+  - New York, USA
+  - Boston, USA
+work_type: FULL_TIME
+company_size: 1800 Employees
+description: |
+  Founding Software Engineer, Full-Stack & Platform
+
+  Boston or NYC · Hybrid · Full-time · $160K - $190K + equity
+
+  Vincer looking for a founding engineer who wants to own the
+  production spine of a voice-first AI system and have
+  influence over what gets built for our life sciences
+  customers. You'll be one of the first two full-time
+  engineers, joining alongside a Founding AI Engineer and the
+  co-founders and technical advisors. There is no engineering
+  organization above you handing down decisions. You'll
+  inherit a working MVP and get to decide what to keep and set
+  the technical direction and future roadmap with us.
+
+  Problem We're Solving: Life sciences sales reps operate in
+  complex environments, supporting surgeons, physicians, and
+  clinical teams across pharma and medical device. They often
+  making decisions about what to say or the best actions to
+  take while alone in the field without support or the ability
+  to record and review their conversations. When reps struggle
+  to find the right information, recognize an issue, or get
+  the right support, the consequences extend beyond sales
+  performance. A clinician may not get the treatment
+  information they need when they need it, a surgeon may not
+  feel confident using a device, or an important problem in
+  the field may never make its way back to the organization.
+  This ultimately impacts patient outcomes.
+
+  We're closing this field support gap by building a voice-
+  first AI decision support system for life sciences field
+  teams when judgment, scientific knowledge, and speed matter
+  most. The product has to understand messy, unstructured
+  situations, assemble the right context, retrieve approved
+  knowledge, orchestrate multiple AI systems, know when to
+  escalate, and respond fast enough to feel conversational.
+
+  THE ROLE
+
+  You will own the product platform behind Vincer's user
+  experience, spanning backend services, APIs, data flows,
+  real-time communication, and infrastructure. Vincer is being
+  built for enterprise life sciences customers, where
+  security, compliance, auditability, reliability, and trust
+  matter from day one.
+
+  Low latency is a product requirement. A voice-first system
+  only works when context retrieval, model reasoning,
+  orchestration, and response generation happen fast enough
+  for conversation to feel natural.
+
+  The system is agentic by design: it decides when to act, not
+  only what to say. Agents work from rep activity and
+  accumulated context rather than waiting to be prompted,
+  coordinate across multiple models and data sources, and make
+  a judgment call about whether to handle something directly,
+  route it, or escalate it to a human. Getting that behavior
+  to be reliable, observable, and safe in a regulated
+  environment is a core engineering challenge.
+
+  Examples of Core Projects
+
+  - Deliver the real-time systems that make voice interactions
+    fast, resilient, and natural in the field
+  - Build the runtime behind a multi-agent system that acts on
+    its own initiative: triggering, state, memory, and the
+    guardrails that make autonomous behavior safe for
+    enterprise customers
+  - Build the integration layer that connects Vincer to the
+    systems reps and managers already live in: CRM (Veeva,
+    Salesforce), Slack, Teams, and customer data APIs
+  - Expand the backend services and cloud infrastructure behind
+    live customer use, and own what that requires:
+    observability, deployment, reliability, cost
+  - Build the data foundation for customer workflows, reporting,
+    and auditability
+  - Establish the security and compliance posture that
+    enterprise life sciences customers require, with guidance
+    from advisors who have implemented AI systems inside life
+    sciences organizations
+  - Ship internal tools, customer-facing data interfaces, and
+    simple web/mobile experiences
+
+  WHO WE NEED:
+
+  Our ideal candidate has worked in a startup environment in
+  recent years and wants to join a new venture at its earliest
+  stages. You understand that early product development
+  requires fast iteration across platform, AI, systems, and
+  customer learning. You are located in Boston or NYC and
+  understand that regular in-person collaboration is non-
+  negotiable.
+
+  Required Experience
+
+  - 5+ years of full-time software engineering, building full-
+    stack systems with a strong backend, API, and platform
+    orientation
+  - Experience with real-time, streaming, or low-latency
+    systems: voice, video, collaboration, gaming, or similar
+  - You've owned cloud infrastructure end to end on a major
+    provider
+
+  What Would Make You Stand Out
+
+  - Enterprise software delivery, especially in a regulated
+    industry (healthcare, finance, or similar)
+  - Experience integrating with enterprise SaaS and customer
+    data systems, such as CRM, identity, or communication
+    platforms (i.e. Slack, Teams, etc.)
+  - Experience with non-deterministic systems in production, and
+    opinions about how to evaluate and roll back behavior you
+    can't unit-test
+  - Enough frontend range to ship internal tools and customer-
+    facing data interfaces without a dedicated frontend team
+
+  How You Work
+
+  You have strong architecture and database instincts, and you
+  know when boring proven technology is the right answer and
+  when the product genuinely needs something specialized. You
+  use modern AI coding tools as a matter of course and expect
+  a small team to ship beyond its size. You want broad
+  ownership, fast decisions, and the accountability that comes
+  with them.
+
+  This role owns the engineering foundation that carries
+  Vincer from early deployment through scale. If that’s the
+  kind of challenge you want to own, we’d like to hear from
+  you!
+
+  ***At this time, Vincer is unable to hire candidates who
+  require employment visa sponsorship or employer
+  participation in work authorization programs.***
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Sales
+  - Software
+posted_date: 2026-10-21
+url: "https://builtin.com/job/founding-software-engineer-full-stack-platform/10697778"
+source: Built In

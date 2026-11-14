@@ -1,0 +1,166 @@
+job_id: 11559327
+title: Senior Software Engineer, Canvas Core
+company: Mural
+location: CAN
+locations:
+  - CAN
+  - ARG
+  - GBR
+remote: true
+work_type: FULL_TIME
+company_size: 650 Employees
+description: |
+  ABOUT THE TEAM
+
+  The Canvas Core team builds and maintains the foundational
+  platform that powers Mural’s visual thinking experience.
+  This includes the infinite canvas, key editor components,
+  document editing behaviors, asset management, real-time
+  collaboration, and the systems that enable fast, reliable,
+  and intuitive interaction on the canvas.
+
+  We’re also responsible for the Mural UI, the real-time
+  message protocol that enables seamless remote collaboration,
+  and the developer-friendly APIs that internal teams use to
+  build features like diagramming, workshops, presentations,
+  integrations, and AI-enabled product capabilities.
+
+  Our mission is to ensure the Mural editor is fast, reliable,
+  intuitive, and easy to build on.
+
+  We prioritize performance, simplicity, developer experience,
+  and platform quality, enabling teams across the company to
+  ship quickly and safely on top of Canvas Core.
+
+  YOUR MISSION
+
+  As a Senior Software Engineer, you’ll help design, build,
+  and improve the Canvas platform so that the Mural editor
+  remains reliable, high-performing, and intuitive for our
+  users.
+
+  You’ll work on the systems that power real-time
+  collaboration, shared document editing, spatial
+  interactions, rendering and interaction performance, asset
+  management, developer APIs, and AI-enabled product
+  capabilities across the Mural editor.
+
+  Your role will be to reduce platform complexity, improve the
+  quality and speed of Canvas development, and help teams ship
+  high-quality editor experiences quickly and safely. You’ll
+  partner closely with Product, Design, Engineering, and other
+  stakeholders to turn ambiguous product and platform problems
+  into clear, maintainable technical solutions.
+
+  Senior Engineers at Mural lead by example through strong
+  technical execution, thoughtful design, high-quality
+  implementation, and collaborative problem-solving. They help
+  raise the bar for their team through design discussions,
+  code reviews, mentoring, documentation, and pragmatic
+  improvements to engineering practices.
+
+  WHAT YOU’LL DO
+
+  - Own and deliver new Canvas platform capabilities and
+    improvements from problem definition through
+    implementation, release, measurement, and iteration
+  - Partner with Product and Design to shape high-quality user
+    experiences, balancing pragmatic technical delivery with
+    long-term platform needs
+  - Design and build maintainable Canvas platform systems, with
+    accountability for quality, performance, reliability, and
+    developer experience
+  - Contribute to developer-friendly APIs, service boundaries,
+    and platform contracts that internal teams can build on
+    quickly and safely
+  - Use AI-assisted tools and agentic workflows as part of your
+    engineering practice to prototype, implement, test,
+    document, and measure work effectively
+  - Strengthen the team through technical design reviews, demos,
+    code reviews, mentoring, and improvements to engineering
+    practices
+  - Build and evolve canvas systems with rich document and
+    object models, including hierarchical scene or document
+    structures, spatial indexing and querying, layout
+    behavior, asset management, and selection mechanics
+  - Work on large-scale concurrent and real-time collaboration
+    systems that keep shared documents synchronized across
+    users, contributing to design decisions around event
+    ordering, latency, conflict handling, and failure-mode
+    management
+  - Help design, build, and integrate AI-enabled product
+    capabilities where they intersect with the canvas,
+    document model, real-time collaboration systems, or
+    developer platform
+  - Improve performance through profiling, bottleneck analysis,
+    architectural simplification, targeted optimization, and
+    moving expensive work out of critical interaction paths so
+    systems remain responsive as document complexity and user
+    activity scale
+
+  WHAT YOU’LL BRING
+
+  - Fluency in modern JavaScript/TypeScript, with familiarity in
+    React, Node.js, or comparable modern frameworks
+  - 6+ years building and shipping large-scale production
+    software as part of an agile engineering team
+  - Strong engineering judgment, with experience designing and
+    delivering scalable, reliable, high-performance systems
+    and developer-facing abstractions that balance simplicity,
+    developer experience, and long-term maintainability
+  - Experience designing clean API contracts and service
+    boundaries, including thoughtful data models, versioning,
+    validation, error handling, documentation, and long-term
+    maintainability
+  - Experience building distributed, concurrent, collaborative,
+    or low-latency systems, such as collaboration tools, MMO
+    games, shared-state systems, messaging protocols, or other
+    low-latency user experiences, with familiarity across
+    synchronization, consistency, event ordering, latency,
+    failure modes, and performance trade-offs
+  - Exposure to complex systems with rich object models,
+    including hierarchical scene or document structures,
+    spatial indexing and querying, layout behavior, asset
+    management, selection mechanics, and performance-sensitive
+    user interactions is a strong plus
+  - Interest in AI-enabled product capabilities, or hands-on
+    experience building or integrating them in production,
+    such as intelligent editing, automation, recommendations,
+    semantic document understanding, or collaboration features
+    powered by AI
+  - Performance optimization experience, including profiling,
+    bottleneck analysis, memory and CPU efficiency, latency
+    reduction, and responsiveness as document complexity and
+    user activity scale
+  - Familiarity with parallel processing, off-main-thread
+    architectures, rendering pipelines, background
+    computation, or other multithreaded systems is a plus
+  - Practical experience using AI-assisted tools to prototype,
+    implement, test, document, and measure engineering work
+  - Communication and collaboration skills, with a low-ego
+    approach to working with Product, Design, and Engineering,
+    and the ability to contribute meaningfully to technical
+    discussions, collaborate across teams, and help improve
+    team engineering practices
+  - Comfort operating in high-growth, fast-paced environments or
+    scale-ups is a plus
+
+  Compensation offered will be determined by factors such as
+  location, level, job-related knowledge, skills, and
+  experience.
+
+  Equal Opportunity
+
+  We will ensure that individuals with disabilities are
+  provided reasonable accommodation to participate in the job
+  application or interview process, to perform essential job
+  functions, and to receive other benefits and privileges of
+  employment. Please contact us to request accommodation.
+industries:
+  - Digital Media
+  - Information Technology
+  - Productivity
+  - Software
+posted_date: 2026-10-07
+url: "https://builtin.com/job/senior-software-engineer-canvas-core/11559327"
+source: Built In

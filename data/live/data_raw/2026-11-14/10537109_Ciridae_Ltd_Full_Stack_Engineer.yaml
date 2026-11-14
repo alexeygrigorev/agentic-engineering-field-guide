@@ -1,0 +1,64 @@
+job_id: 10537109
+title: Full Stack Engineer
+company: Ciridae, Ltd.
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 15 Employees
+description: |
+  You turn a compelling prototype into the production system a
+  customer actually runs on. Full-stack, at a pace that is not
+  normal. This is a high-agency engineering role with unusual
+  variety: every engagement brings a different industry,
+  workflow, and technical problem. Our Forward Deployed
+  Engineers go into the field, learn how the business works,
+  establish the vision, and build the first version. You take
+  that context and make it real: well-architected, reliable
+  software that handles messy data, demanding users, and
+  everything production exposes. While the FDE leads the
+  customer relationship and communicates the vision, most of
+  your time is spent building.
+
+
+
+  What you own. The application from validated prototype
+  through launch and iteration: frontend, backend, data
+  models, integrations, LLM orchestration, testing,
+  deployment, and the operational plumbing that keeps it
+  running. You translate field context into technical
+  decisions and make complex AI systems intuitive for
+  nontechnical users. This ownership includes identifying
+  gaps, making architecture decisions, pushing back when
+  solutions will not survive production. What you learn on one
+  engagement becomes a reusable component, pattern, or
+  capability that makes the next deployment faster
+
+
+
+  What you bring. Deep full-stack engineering fundamentals.
+  You have shipped production software across React and
+  TypeScript on the frontend and Python, APIs, and Postgres on
+  the backend. You can design clean data models, debug across
+  the stack, and reason clearly about security, performance,
+  reliability, and maintainability. You have production
+  experience with LLM-powered applications and practical
+  opinions about agents, RAG, tool use, evaluations,
+  observability, and designing around non-deterministic
+  behavior. You use AI deeply in your engineering workflow to
+  build, debug, and iterate faster. You pair urgency with a
+  high bar for code quality and production readiness.
+
+  Level. We expect roughly 3+ years of software engineering
+  experience, with demonstrated ownership of complex systems
+  end-to-end. Technical depth and independent execution matter
+  more than an exact number of years.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Consulting
+  - Automation
+posted_date: 2026-08-05
+url: "https://builtin.com/job/full-stack-engineer/10537109"
+source: Built In

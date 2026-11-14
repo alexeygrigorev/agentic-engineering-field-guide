@@ -1,0 +1,164 @@
+job_id: 11217075
+title: Backend Engineer
+company: 9fin
+location: London, GBR
+work_type: FULL_TIME
+company_size: 600 Employees
+description: |
+  About 9fin
+
+  9fin is the AI platform powering global debt markets — the
+  world’s largest asset class at over $145 trillion.
+
+  Debt markets are vast, global, and mission-critical, yet
+  still run on fragmented data, PDFs, and manual workflows.
+  9fin replaces this broken infrastructure with a single
+  platform that centralises proprietary credit data, deep
+  analysis, and high-value workflows across global markets.
+
+  Today, 9fin powers teams at 300+ blue-chip institutions
+  worldwide, including global banks, asset managers, private
+  equity firms, law firms, and advisors. The business is
+  scaling at exceptional speed, with rapid expansion in the US
+  and best-in-class retention driven by deep workflow
+  adoption.
+
+  We’re at a defining inflection point. With proven product-
+  market fit and strong, global market pull, 9fin is
+  accelerating toward becoming the category-defining platform
+  for debt markets worldwide.
+
+  What you'll work on
+
+  - This role is the opportunity to take on the technical
+    leadership on projects, defining and designing systems,
+    making quick proof of concepts and working closely with
+    Product and our Clients.
+  - Write code and lead others in the team in delivering new
+    service functionality, implementing API’s, data
+    routing/processing and automation mechanisms.
+  - Development and engineering primarily on the backend
+    services and web application hosted tools and systems of
+    the 9fin platform.
+  - Taking a leading role within project teams as an IC, running
+    code reviews and mentoring of junior developers,
+    involvement in early research and experimentation with new
+    technologies providing input for new features and
+    products.
+  - Continually improve on the 9fin codebase taking the chance
+    to automate, refactor and document when you can.
+  - Variety: Our web platforms are incredibly diverse, from
+    complex financial data modelling, capturing environmental,
+    emission, energy data, incorporation of ML/AI prediction
+    services, data visualisation serving and automation
+    systems.
+  - Collaboration and teamwork: Cross functional teams are
+    formed for all projects including the appropriate domain
+    expertise from 9fin financial, legal and editorial
+    colleagues. This allows the best quality information and
+    feedback to go directly to engineering project teams. Your
+    ability to explain and break down complex projects to non
+    technical audiences will enable productive and efficient
+    team progress.
+  - Developer Experience: Through managed automated preview
+    environments, feature flags and well maintained non
+    production environments. You will be able to move with
+    velocity and get feedback and iterate quickly.
+
+  Our Backend Stack
+
+  - Python is the dominant backend language used
+  - Flask&FastAPI
+  - Typing is used within our Python stack to power automated
+    documentation and API definitions
+  - Relational Databases (PostgreSQL) at the heart of majority
+    of services
+  - We’re AWS for Cloud hosted services
+  - Heavy use of AWS lambda Serverless
+  - Docker (AWS ECS) for uniform development/deployment from dev
+    to prod
+
+  Requirements
+
+  This role will be a great fit if you:
+
+  - Can effectively plan and reason about your software,
+    understanding where it fits into systems and the overall
+    business
+  - Can think about how data will pass through your software;
+    from persistent storage through to API endpoint
+  - Experience with Python and its web frameworks (we currently
+    use Flask, and are moving to FastAPI with Typing)
+  - Strong experience delivering APIs, Service Oriented
+    Architecture
+  - Good working knowledge of SQL statements for retrieving data
+  - A good collaborator and communicator with cross functional
+    engineering teammates and others within 9fin
+  - Code Quality: Through writing testable, maintainable code,
+    and by engaging in code review for your own work and for
+    reviewing others
+
+  Company Benefits
+
+  We’re a scaling start up and we enjoy sharing our success,
+  when the company succeeds, we always reinvest that in our
+  people. We also offer huge amounts of responsibility, an
+  abundance of opportunity for growth and a platform to truly
+  excel.
+
+  Financial & Insurance
+
+  - Competitive Salary(our salary bands are benchmarked at the
+    top end of the market)
+  - Pension (your minimum contributions are 4% with 9fin
+    matching up to 7%)
+  - Private Medical Insurance
+  - Paid sick leave with Income Protection for long periods of
+    illness
+  - Group Life Assurance
+  - Season Ticket Loan & Cycle to Work schemes
+
+  Time off
+
+  - 25 holiday days per year
+  - Local public holidays (with the ability to exchange them for
+    alternative days)
+  - Work abroad for up to 3 months a year
+  - 1 month paid sabbatical after 5 years of service
+  - Enhanced parental leave&flexible working arrangements
+    available
+
+  Training & Culture
+
+  - Professional learning and development budget
+  - Quarterly team socials
+  - Summer and Winter company social events
+
+  Hybrid Policy
+
+  9fin is a hybrid company, and the office is a regular part
+  of how we work. From January 2027, all employees will work
+  from their designated 9fin office on Tuesdays and
+  Wednesdays. Some teams may be asked to be in the office more
+  often, where the nature of their work calls for it. For the
+  rest of the week, you may work from wherever works best for
+  you and your team. Your Talent Partner will share hybrid
+  working details for this role.
+
+  9fin is an equal opportunities employer
+
+  At 9fin we are dedicated to building and promoting a fair
+  and inclusive workplace where everyone can reach their full
+  potential and truly belong. We recognize that building
+  diverse teams enables a more creative and productive
+  environment. If you’re excited about this role but your
+  experience doesn’t perfectly align with the job description,
+  we encourage you to apply anyway. You might just be who
+  we’re looking for — either for this role, or perhaps
+  another.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-09-16
+url: "https://builtin.com/job/backend-engineer/11217075"
+source: Built In

@@ -1,0 +1,110 @@
+job_id: 11312510
+title: Senior Full-Stack Engineer
+company: Spherecast
+location: New York, USA
+work_type: FULL_TIME
+company_size: 7 Employees
+description: |
+  Senior Full-Stack Engineer (Visa Sponsorship)
+
+  Build the Spherecast Platform, the real-time operating
+  system for global consumer-goods supply chains. Agnes, our
+  AI Supply Chain Manager, runs on top of it to evaluate
+  options, decide what to produce, where to make it, and how
+  to move it through factories, warehouses, and channels.
+
+  You’ll own features end to end, from data models and APIs to
+  the planning interfaces customers use every day. You’ll
+  design the architecture that turns messy operational data
+  into actions in real time, so physical goods flow reliably
+  to the right place at the right time.
+
+  You’ll be part of the core team to make the physical flow of
+  goods programmable.
+
+  If you're a builder who thrives at the intersection of
+  large-scale data architectures, systems engineering, and
+  interfaces that make messy real-world data feel simple, this
+  is your opportunity to shape how global brands run their
+  supply chains.
+
+  What we're looking for
+
+  You are a great fit if you have:
+
+  - Hands-on experience with our stack on both sides of the
+    wire. Python and FastAPI on the backend. Vue 3 (or deep
+    React experience and the willingness to switch),
+    TypeScript, and Tailwind CSS on the frontend. A track
+    record of shipping real products.
+  - A track record of building full-stack apps end-to-end:
+    designing the data architecture, building the API, and
+    shipping the UI that puts it in users' hands.
+  - Experience building data-dense product UIs such as
+    interactive charts, editable tables, anddrag-and-drop
+    planning tools, and keeping them fast with server-state
+    patterns like TanStack Query.
+  - Proficiency in SQL, writing high-performance queries despite
+    millions of data points for even a single customer.
+  - A habit of testing what you ship: pytest on the backend,
+    Playwright and Vitest on the frontend. Your features work,
+    and stay working.
+  - System design skills, one of your biggest assets. You know
+    how to design architectures that not only scale in the
+    short term, but can also grow with the company with
+    minimal human supervision.
+  - Claude Code, Codex, and OpenCode are your best friends. You
+    know how to parallelize instances to make sure we're
+    shipping 24/7, even while you sleep, and you know the ins
+    and outs of each of them at any time.
+  - When it comes to engineering with your toolkit, you don't
+    care whether it's a pickaxe or a shovel. You know which
+    one to use at any time.
+  - Excited to work directly with CPG operators and own product
+    outcomes end to end, from understanding the workflow to
+    shipping and operating the systems that improve it.
+  - Motivated by the chance to join an exceptionally ambitious,
+    high-ownership team that moves quickly, holds a high bar,
+    and is determined to build a company that makes history.
+  - Bonus: Experience building a company before, unstructured
+    data ingestion systems, DevOps, and AWS.
+
+  About Spherecast
+
+  Spherecast is building the AI-native Operating System for
+  Consumer Goods Supply Chains.
+
+  The Spherecast Platform brings demand, inventory, materials,
+  capacity, costs, and business rules into one real-time
+  operating context. It gives teams a single place to plan,
+  evaluate tradeoffs, and execute the decisions that move
+  physical goods.
+
+  Agnes, our AI Supply Chain Manager, runs on top of this
+  foundation. It evaluates thousands of feasible options in
+  seconds to decide what to produce, where to make it, and how
+  to move it through factories, warehouses, and channels.
+  Teams set the objectives and guardrails; Agnes turns them
+  into approved actions in the ERP.
+
+  Our ambition is to make the physical flow of goods as
+  programmable as code. When we succeed, every consumer
+  product you touch will run on the Spherecast stack: planned
+  in Spherecast OS, executed through Spherecast Rails, and
+  optimized by the shared Spherecast Network.
+
+  Oracle made business data programmable. Spherecast makes the
+  physical economy programmable.
+
+  Join us in the trenches in New York City to build the AI-
+  native Operating System for Consumer Goods Supply Chains.
+
+  Be part of building the next trillion-dollar company.
+industries:
+  - Artificial Intelligence
+  - eCommerce
+  - Logistics
+  - Software
+posted_date: 2026-09-22
+url: "https://builtin.com/job/senior-full-stack-engineer/11312510"
+source: Built In

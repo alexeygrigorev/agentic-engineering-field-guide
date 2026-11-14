@@ -1,0 +1,94 @@
+job_id: 11950375
+title: "Senior Backend Engineer (Python & TypeScript, Microservices & Data Pipelines)"
+company: EquiMatch AI
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 12 Employees
+description: |
+  EquiMatch is an AI-powered M&A origination platform
+  connecting private equity firms, search funds, corporate
+  development teams, and M&A advisors with acquisition
+  targets. Behind the product is a data-heavy platform: web
+  crawlers, LLM-driven company analyzers, scoring pipelines, a
+  unified mailbox service, and CRM integrations — orchestrated
+  across dozens of Python and Node.js microservices.  We’re
+  looking for a Senior Backend Engineer who is strong in
+  Python, solid in TypeScript, and used to owning distributed
+  systems in production. You’ll split your time between Python
+  services and pipelines and TypeScript services built on
+  Encore, and you’ll be expected to set technical direction,
+  not just execute on it. We value engineers who use AI daily
+  to move faster and build better. Tasks * Design, build, and
+  operate Python and Node.js (TypeScript/Encore)
+  microservices: define service boundaries, APIs, data flows,
+  and integrations. * Build and maintain data pipelines —
+  crawling, enrichment, company analysis, scoring —
+  orchestrated with Prefect. * Model data and optimize queries
+  on PostgreSQL (schema design, migrations, indexing, query
+  performance). * Work with asynchronous messaging (NSQ) and
+  background job queues to build resilient, idempotent
+  processing. * Integrate LLM APIs into production workflows
+  (extraction, classification, summarization) and make them
+  reliable, observable, and cost-efficient. * Own features
+  end-to-end: requirements, technical design, implementation,
+  testing, deployment on Railway, and monitoring. * Improve
+  observability and performance across services and LLM calls:
+  tracing, metrics, slow-query analysis, failure-rate
+  monitoring. * Drive architecture decisions, write technical
+  designs, and mentor other engineers through reviews and
+  pairing. * Contribute to automation (n8n) and internal
+  tooling where needed. Requirements * 6+ years of
+  professional backend experience, with at least 4 years of
+  Python in production. * 2+ years of professional
+  TypeScript/Node.js experience building backend services
+  (Encore, NestJS, Fastify, Express, or similar). * Deep
+  experience with modern Python tooling: async/await, type
+  hints, FastAPI or similar, Pydantic, pytest. * Strong
+  command of microservice architecture: service decomposition,
+  API design, resiliency, idempotency, observability. *
+  Production experience with PostgreSQL — schema design,
+  migrations, query optimization. * Experience with message
+  queues or workflow orchestration (Prefect, Celery, NSQ,
+  RabbitMQ, Kafka, or similar). * Track record of owning
+  systems end-to-end in production, including incidents and
+  performance work. * Habitual use of AI tools in day-to-day
+  development; ability to apply AI effectively (prompting
+  strategies, code/test generation, agentic workflows). *
+  Clear communication, ownership mindset, and a bias toward
+  shipping. Nice to have * Encore experience specifically. *
+  Web scraping and crawling at scale: rate limiting, proxies,
+  anti-bot handling, content extraction. * Building products
+  on LLM APIs: structured outputs, evaluation, prompt
+  versioning, cost/latency tuning, MCP servers. * LLM
+  observability and evaluation tooling (LangWatch, Arize
+  Phoenix, or similar). * Observability stacks (Grafana,
+  Tempo, OpenTelemetry). * Analytics tooling (PostHog,
+  ClickHouse). * Familiarity with the qori framework. * Docker
+  and cloud deployment (Railway, AWS, GCP); Infrastructure as
+  Code basics. * Security best practices (OWASP, OAuth2/JWT,
+  secrets management, GDPR-aware data handling). * Experience
+  with email/CRM integrations (IMAP, Gmail API, Microsoft
+  Graph, HubSpot/Zoho). * Familiarity with the M&A, private
+  equity, or B2B data space. Our stack * Backend: Python
+  microservices, Encore (TypeScript/Node.js) services *
+  Orchestration & messaging: Prefect, NSQ, background job
+  queues, n8n * Data: PostgreSQL, ClickHouse (analytics) *
+  Infrastructure: Railway, Docker, GitHub Actions *
+  Observability: Grafana, Tempo, LangWatch, Arize Phoenix (LLM
+  tracing & evaluation) * Analytics & tooling: PostHog,
+  Linear, internal skills/MCP system * AI: LLM-assisted
+  development workflows, LLM APIs in production, MCP
+  integrations, qori Benefits * Meaningful ownership of core
+  systems in a small, senior team * Direct impact on a product
+  used by PE firms and M&A professionals * Support for AI-
+  enhanced workflows and tooling * Budget for learning,
+  conferences, and hardware * Flexible hours and remote-
+  friendly culture
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Professional Services
+  - Consulting
+posted_date: 2026-10-29
+url: "https://builtin.com/job/senior-backend-engineer-python-typescript-microservices-data-pipelines/11950375"
+source: Built In

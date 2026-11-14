@@ -1,0 +1,185 @@
+job_id: 11215801
+title: Senior Software Engineer, Infrastructure
+company: hud
+location: MYS
+locations:
+  - MYS
+  - MDV
+  - Tajikistan, TJK
+  - USA
+  - JPN
+  - IND
+  - TUR
+  - TWN
+  - KHM
+  - PAK
+  - PHL
+  - MNG
+  - THA
+  - Laos, LAO
+  - KOR
+  - Singapore, SGP
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 10 Employees
+description: |
+  About HUD
+
+  HUD's mission is to build reliable, fair and open
+  infrastructure for AI data. We want data to be valuable for
+  the people who create it and trustworthy for the labs that
+  train on it. Our team is a quickly growing group of
+  researchers, engineers and operators building the economy
+  that shapes what AI will become. Backed by $16M from top VCs
+  and YC (W25), our marketplace and platform are used by
+  startups, Fortune 500 companies and frontier labs.
+
+  About the role
+
+  We’re looking for a Senior Software Engineer, Infrastructure
+  who can own the reliability, scale, performance, and
+  developer experience of HUD’s core infrastructure and
+  backend systems.
+
+  This is not a pure infrastructure role. The right person has
+  strong production infra experience, but also thinks like a
+  backend engineer: they can reason about service
+  architecture, queues, databases, APIs, deployment safety,
+  performance bottlenecks, and how product requirements
+  translate into resilient systems. You’ll work across AWS,
+  Kubernetes, Terraform, CI/CD, observability, and backend
+  services to make HUD faster, more reliable, cheaper to run,
+  and easier for engineers to build on.
+
+  Responsibilities
+
+  - Own production uptime, latency, provisioning speed,
+    infrastructure cost, and incident response for core
+    platform services
+  - Build and maintain AWS infrastructure with Terraform,
+    Kubernetes/EKS, Helm, Docker, EC2, CodeBuild, ECR, S3,
+    IAM, networking, and secrets management
+  - Design and improve backend and platform systems for scale,
+    including capacity planning, autoscaling, queueing,
+    backpressure, cleanup jobs, retries, and rollback paths
+  - Define and improve dashboards, alerts, logs, traces, SLOs,
+    runbooks, and on-call workflows so failures are detected,
+    debugged, and resolved quickly
+  - Build reliable CI/CD, release automation, environment
+    management, and deployment workflows that improve
+    developer productivity and reduce production risk
+  - Write clean, maintainable code where needed to automate
+    systems, improve backend services, and create internal
+    tooling
+
+  Experience
+
+  You may be a good fit if you:
+
+  - Have owned production cloud infrastructure for a high-
+    availability, user-facing platform, with responsibility
+    for uptime, performance, deployment safety, and cost
+  - Have deep experience with AWS infrastructure and
+    containerized systems; experience with tools like
+    Terraform, Kubernetes/EKS, Docker, EC2, CodeBuild, ECR,
+    S3, IAM, load balancers, networking, and secrets
+    management is strongly preferred
+  - Have built or operated CI/CD, environment management,
+    release automation, observability, alerting, and incident
+    response systems
+  - Have strong backend engineering judgment and can reason
+    about service architecture, APIs, databases, async
+    systems, queues, scaling limits, and production failure
+    modes
+  - Can write clean, maintainable code and apply strong software
+    engineering judgment across product architecture,
+    infrastructure, backend systems, and developer workflows
+
+  Strong candidates may also have:
+
+  - Experience operating infrastructure for data-heavy, ML/AI,
+    workflow, marketplace, developer-tools, or enterprise
+    platforms
+  - Experience designing systems for bursty workloads, long-
+    running jobs, sandboxed execution, distributed workers, or
+    high-concurrency services
+  - Experience reducing cloud spend through better architecture,
+    autoscaling, workload placement, caching, cleanup systems,
+    or observability
+  - Experience building internal platforms or tools that make
+    engineers faster without hiding too much complexity
+
+  We prioritize technical aptitude, ownership, and learning
+  potential over years of experience.
+
+  Team & company details
+
+  - Team Size: ~25 people currently, mostly full-time in-person,
+    but some remote.
+  - Our team: Our team brings together five International
+    Olympiad medalists across IOI, ILO and IPhO, researchers
+    published at NeurIPS and ICLR, and engineers and
+    researchers from Google DeepMind, Amazon, AWS, Meta, Qwen,
+    GLM, and Mercor. It also includes operators from BCG and
+    Uber, the first security hire at one of the largest crypto
+    exchanges, serial AI startup founders, former quant
+    researchers, artists and the former #1 ranked Catan player
+    in the world.
+  - Company stage: We have 8 figures in funding and are scaling
+    profitably and quickly to meet very strong demand.
+
+  Logistics
+
+  - Employment: Full-time.
+  - Location: We have offices in San Francisco or Singapore but
+    are open to remote candidates who can work hours that
+    70-80% overlap with either San Francisco or Singapore time
+    zones.
+  - Visa Sponsorship: We provide support for relocation and
+    visas for strong full-time candidates to the US or
+    Singapore.
+  - Timeline: Applications are rolling. The process is 2
+    technical interviews and a 2-3 day work trial.
+
+  What we offer
+
+  - Competitive compensation
+  - 100% covered top-of-the-line medical, dental, and vision (US
+    and Singapore employees)
+  - Lunch and dinner for in-office employees
+  - Company-wide holiday break (Christmas Eve to New Year’s Day)
+    on top of PTO and paid holidays
+  - 401k with a 4% match
+  - Other perks including an Equinox membership and commuter
+    benefits (US employees) and a health/wellness stipend
+    (Singapore employees)
+  - Unlimited* access to tokens for ChatGPT, Claude Code,
+    Cursor, etc. *By unlimited, we mean no one on our token
+    usage leaderboard has ever hit a limit. So we have no idea
+    what the limit is.
+  - Two top-floor offices in San Francisco’s Union Square and
+    Singapore’s Raffles Place
+  - Annual travel budget to visit either office
+
+  Compensation
+
+  Actual offers are adjusted for experience and location, but
+  our base salary bands are
+
+  - San Francisco (and other major US cities): $175,000 -
+    $260,000
+  - Singapore: $130,000 - $195,000
+  - Rest of world: $105,000 - $195,000
+
+  Due to high volume, we may not actively respond to every
+  application, but feel free to contact us at
+  recruiting@hud.so or elsewhere if we missed your
+  application!
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+posted_date: 2026-09-16
+url: "https://builtin.com/job/senior-software-engineer-infrastructure/11215801"
+source: Built In

@@ -1,0 +1,100 @@
+job_id: 11300919
+title: Senior Software Engineer - Backend
+company: Harmonic
+location: New York, USA
+work_type: FULL_TIME
+company_size: 42 Employees
+description: |
+  About Harmonic
+
+  Harmonic is the startup discovery engine.
+
+  It pains us to see great startup opportunities consistently
+  go unfunded not because of lack of talent, but lack of
+  signal.
+
+  We're fixing that by mapping the entire startup landscape
+  and building the tools that put the right companies in front
+  of the right people at the right time. Investors, corporate
+  development, and GTM teams use us to find breakout companies
+  before they're obvious and turn that discovery into action.
+  Whether that's a check, an acquisition, partnership or new
+  business.
+
+  We're growing revenue at a rate of 100%+ annually, with $30M
+  in funding from Craft, Floodgate, and Sozo Ventures. We're
+  committed to ensuring hundreds of billions of dollars find
+  the right founders, so the innovations that matter most
+  flourish. If that resonates, let's talk.
+
+  About the Team
+
+  This team sits at the epicenter of everything Harmonic
+  builds. We ingest, reconcile, and continuously improve the
+  data that underpins how we understand startups, people, and
+  investors: funding activity, company data, and people data,
+  three areas the business depends on more with every new
+  market we enter.
+
+  We're not just pipeline builders. When new data needs a home
+  in the product, whether that's a new field in the console or
+  an entirely new surface, this team builds it. Real ownership
+  over both the data and the product it becomes: that's what
+  makes this team exciting.
+
+  Who You Are
+
+  - You have 6+ years of experience as a software engineer and a
+    track record of building data infrastructure at scale,
+    ideally somewhere that was growing fast enough to break
+    things.
+  - You have real product sense. You can reason about what data
+    is actually worth extracting, how it should be structured
+    and served, and how someone will use it once it's in front
+    of them.
+  - You think in systems. You've designed data models, picked
+    indexing strategies, and built serving paths that hold up
+    under both load and a user's patience.
+  - You want to build product, not just plumbing. Shipping a
+    feature should excite you as much as the infrastructure
+    underneath it, and you think about the customer first, not
+    the schema.
+  - You've spent real time wrangling raw, messy, real-world data
+    into something structured and reliable, whether you came
+    up through data engineering or full-stack.
+  - Bonus points if you've worked with LLM-powered extraction,
+    search systems, or agentic workflows, or spent time around
+    venture capital, private markets, or company intelligence
+    data.
+
+  What You'll Do
+
+  - Architect and run the large-scale pipelines that power how
+    Harmonic understands startups, people, and investments.
+  - Own our data quality bar (coverage, freshness, accuracy) and
+    go find the new sources and ingestion techniques that
+    raise it.
+  - Keep pushing our extraction and reconciliation work toward
+    dynamic, LLM-powered agentic workflows, and build the
+    evals that prove they're working.
+  - Work across the backend, databases, search indices, GraphQL
+    APIs, to bring data to life in the product, and build new
+    features or surfaces when the data calls for them.
+  - Partner with GTM, Product, Design, and other teams as we
+    ship new data products for customers.
+
+  Our stack
+
+  We are an Equal Opportunity Employer committed to
+  recruiting, hiring and promoting qualified people of all
+  backgrounds regardless of gender, race, color, creed,
+  national origin, religion, age, marital status, pregnancy,
+  physical or mental disability, sexual orientation, gender
+  identity, military or veteran status, or any other basis
+  protected by federal, state, or local law.
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-09-22
+url: "https://builtin.com/job/senior-software-engineer-backend/11300919"
+source: Built In

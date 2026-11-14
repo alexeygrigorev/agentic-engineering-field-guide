@@ -1,0 +1,164 @@
+job_id: 10402913
+title: Senior Software Engineer, Full-Stack - Security Platform
+company: Vannevar
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 225 Employees
+description: |
+  Vannevar builds AI systems for the Department of War's most
+  consequential missions. We have 125 deployments across every
+  branch and combatant command spanning our core platform and
+  five distinct products. An an example of how we work, when
+  major combat operations started with Iran, we fielded a new
+  product supporting 24/7 operations and 9,000+ users in three
+  months. How we build is our advantage: we deploy forward
+  with the people who own the mission. Our engineers, product
+  team, and CTO deploy forward to the point of friction,
+  including visiting units in Ukraine. We focus on embedding
+  directly with operational units supporting great power
+  competition with China, combat operations with Iran, and
+  counter-narcotics missions.
+
+  About the role
+
+  At Vannevar, we’re building the next generation of mission
+  software that powers decision-making across the national
+  security, defense, and intelligence communities. Protecting
+  the sensitive data and workflows behind those missions is
+  foundational to our platform. The Security Platform team
+  builds the authentication, authorization, and identity
+  infrastructure that ensures the right people and services
+  have access to the right resources—securely, reliably, and
+  with minimal friction.
+
+  In this role, you’ll join a small, cross-functional team and
+  own work across the stack—from frontend permission-
+  management interfaces to backend services, authorization
+  engines, and data models. You’ll partner closely with
+  product engineers, designers, compliance and application
+  security teams, forward deployed engineers, and mission
+  users to build security capabilities that are intuitive,
+  scalable, and deeply integrated into the product experience.
+  This is a high-impact opportunity to shape how Vannevar
+  approaches identity and permissions, build reusable platform
+  capabilities, and enable new customer workflows across our
+  products.
+
+  What you’ll do
+
+  - Build and scale Vannevar’s centralized authentication and
+    authorization platform, including tenant isolation across
+    customer environments—from development through classified
+    deployments.
+  - Own the internal self-service platform for user, group, and
+    permission management; partner with Design to deliver
+    intuitive administrative experiences for developers and
+    mission teams.
+  - Build tooling and visualizations that help developers,
+    administrators, and mission users understand and validate
+    access permissions.
+  - Own and evolve Vannevar’s platform management interfaces,
+    including the feature flag system, to support new products
+    and customer needs.
+  - Partner with product engineering teams to build shared
+    authorization and resource-sharing capabilities across the
+    platform.
+  - Shape the long-term roadmap for the Security Platform team
+    by driving scalable platform capabilities and improving
+    the developer experience.
+
+  What we’re looking for
+
+  - 7+ years of software engineering experience, with a strong
+    track record of designing, building, and operating
+    scalable backend systems, and delivering full-stack
+    features from conception through production.
+  - Strong backend expertise, including proficiency in one or
+    more modern backend languages (e.g., Python, Java),
+    experience with relational databases (e.g., PostgreSQL),
+    distributed systems, and API design.
+  - Comfortable owning end-to-end development, including
+    frontend work (e.g., React/TypeScript/Node.js) when
+    needed, with a focus on delivering polished, customer-
+    facing experiences rather than specializing exclusively in
+    backend infrastructure.
+  - Strong product intuition, with the ability to make pragmatic
+    technical decisions, balance user needs with engineering
+    tradeoffs, and thrive in ambiguous, fast-moving
+    environments.
+  - Experience with identity and authentication concepts and
+    platforms, including OAuth 2.0, OpenID Connect (OIDC),
+    SAML, JWTs, session management, RBAC/ABAC, SSO, Keycloak,
+    OpenFGA, or other authentication and authorization
+    systems.
+  - Excellent cross-functional collaboration and communication
+    skills, with experience partnering closely with product,
+    design, security, and infrastructure teams, driving
+    technical direction, and aligning stakeholders through
+    ambiguity.
+  - Nice to have
+    - Active Security clearance or ability to obtain one and
+      desire to travel to visit users, collect feedback, and
+      debug issues
+    - Prior experience working in a user-facing product role
+
+  What we offerCompetitive Salary
+
+  The base salary range for this position is $160,000 -
+  $240,000. We hire engineers at multiple levels based on
+  their experience, technical capabilities, and scope of
+  responsibility. This range reflects the base salaries we
+  typically expect to offer for this role, with individual
+  offers determined by the candidate's qualifications and
+  level.
+
+  Equity is offered in addition to base salary.
+
+  Comprehensive Benefits
+
+  We’re proud to offer competitive benefits that support our
+  employees. Some key highlights of our benefits package
+  include:
+
+  - Health, dental, and vision insurance
+  - Remote friendly with WeWork access
+  - Unlimited PTO, shared downtime during the federal holiday
+    calendar, and company-wide off time at the end of each
+    year
+  - 401(k) match
+  - Lifestyle & wellbeing stipends
+  - Salary top-up during military reserve duty
+  - Fully paid parental leave
+  - Child and pet care reimbursement during travel
+
+  Vannevar is an equal opportunity employer, and qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, sexual orientation,
+  gender perception or identity, national origin, age, marital
+  status, protected veteran status, or disability status.
+
+
+
+  We encourage candidates from all backgrounds to apply, even
+  if you don't feel like you're a perfect fit. If you're
+  passionate about contributing to our mission, we'd love to
+  hear from you!
+
+
+
+  IMPORTANT NOTICE We are committed to protecting the privacy
+  of all applicants. Official emails from the company will
+  come from an @vannevarlabs.com domain. Under no
+  circumstances will a legitimate representative from our
+  company contact you to request passwords, financial
+  information, or other sensitive personal data. Please be
+  vigilant of potential scams.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Defense
+posted_date: 2026-08-22
+url: "https://builtin.com/job/senior-software-engineer-full-stack-security-platform/10402913"
+source: Built In

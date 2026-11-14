@@ -1,0 +1,92 @@
+job_id: 11952804
+title: "Senior Software Engineer (Data & Platform)"
+company: Seqana GmbH
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 25 Employees
+description: |
+  The Role: Our growing team is looking for a senior software
+  engineer to lead the evolution of the infrastructure that
+  turns our science into trustworthy climate results. In this
+  role, you'll own the platform that takes our data, models
+  and estimation methods from R&D to auditable client
+  deliverables, and you'll be a trusted reviewer and guide
+  across software and data engineering. As a small team,
+  you'll also shape how we build our geospatial pipelines and
+  internal analytics. We're looking for someone who has
+  designed and run data-intensive systems in production, makes
+  sound architectural calls, and raises the bar for the
+  engineers around them. You'll work closely with fellow
+  software and data engineers, data scientists and solutions
+  engineers, turning research code into robust, reproducible
+  infrastructure. You will join a cross-functional, mission-
+  driven team dedicated to bringing transparency and integrity
+  to climate action. Impact you’ll own: * Shorten the path
+  from experiment to production: own how models and estimation
+  features move from research into reproducible, auditable
+  client deliverables, with data, models and environments
+  versioned end to end. * Own our developer platform and
+  engineering standards: environments, containers, project
+  templates, CI/CD and pipeline orchestration across a multi-
+  repo Python stack. * Own our GCP infrastructure:
+  architecture, infrastructure-as-code, monitoring, cost and
+  access management, and its evolution as the company grows. *
+  Shape our geospatial workflows: how we store and process
+  vector and high-resolution raster data at scale, and how the
+  databases behind our models and deliverables evolve as we
+  scale. * Be the key reviewer for core and pipeline infra:
+  write design docs for your own areas and review those of
+  others, keeping our architecture coherent as the team grows.
+  * Raise the bar across engineering: mentor other engineers,
+  and support our software & data engineering team with
+  feedback and guidance on design and architecture. * Over
+  time, coordinate our infrastructure development goals: set
+  priorities and align work across software and data
+  engineering. What you bring: * 6+ years of experience in
+  engineering roles, including significant time designing and
+  running data-intensive backend systems and pipelines in
+  production * A track record of owning systems end to end:
+  you've made architectural decisions and lived with their
+  consequences, written and reviewed design docs, and mentored
+  other engineers * Expert Python and strong SQL, with solid
+  experience designing schemas and data models for production
+  systems * Hands-on experience with workflow and pipeline
+  tooling (e.g. Airflow, Dagster), experiment tracking and
+  data versioning * Hands-on experience running production
+  cloud infrastructure, ideally GCP; infrastructure-as-code
+  (e.g. Terraform/OpenTofu), IAM, as well as containers and
+  reproducible environments (e.g. Docker, devcontainers) *
+  Deep experience across the software development lifecycle
+  (Python packaging, containers, testing strategies, CI/CD,
+  observability) and opinions on how to do it well * Clear,
+  direct communication with both technical and non-technical
+  colleagues, and strong motivation to contribute to
+  sustainable development through technology * A degree in
+  Software Engineering, Computer Science, or equivalent
+  practical experience ### What makes you stand out: *
+  Production experience with raster data and geospatial
+  pipelines * Experience building model serving, model
+  registries or other MLOps tooling (e.g. DVC, MLFlow) *
+  Experience building BI or dashboarding tooling (e.g.
+  Streamlit) for non-technical users * Experience with data
+  warehouse design (e.g. BigQuery, PostgreSQL, dbt) and data
+  engineering workflows * Previous exposure to earth
+  observation, environmental monitoring or soil science data
+  Benefits you can expect: * Real ownership and influence over
+  technical direction at an early-stage company * Be part of a
+  highly motivated, committed, and international team working
+  on one of society’s biggest challenges: climate change *
+  Witness and shape the evolution of a new business being
+  built * An engineering culture built on designs docs,
+  thoughtful code reviews and shared practices * Remote-
+  friendly: up to 4 days/week remote when based in Berlin, or
+  fully remote from elsewhere in Germany, with flexible hours
+  * Drinks, snacks, team events, and your choice of hardware
+industries:
+  - Greentech
+  - Machine Learning
+  - Software
+  - Agriculture
+posted_date: 2026-10-29
+url: "https://builtin.com/job/senior-software-engineer-data-platform/11952804"
+source: Built In

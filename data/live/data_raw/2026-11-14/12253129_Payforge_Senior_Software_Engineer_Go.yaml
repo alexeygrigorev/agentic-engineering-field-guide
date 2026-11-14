@@ -1,0 +1,137 @@
+job_id: 12253129
+title: Senior Software Engineer (Go)
+company: Payforge
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 60 Employees
+description: |
+  We are looking for a Senior Software Engineer (Go) to join
+  Payforge and work with a fast-growing, venture-backed global
+  payments infrastructure company. The client provides
+  enterprises with a single API for card issuing, wallets, and
+  cross-border money movement, runs prepaid and credit card
+  programs as a scheme principal member, and settles card
+  activity using stablecoins. You will build and scale the
+  backend services behind those products in Go on Google
+  Cloud, using Spanner and PostgreSQL, working directly
+  alongside the client’s engineering teams. To collaborate
+  closely with those teams, availability between 9:00 and
+  14:00 US Pacific Time on working days is a firm requirement
+  of this role.
+
+  Key Responsibilities:
+
+  - Design, build, and maintain backend services in Go for card
+    issuing, authorization, wallets, and money-movement
+    products, owning features end to end from design through
+    production.
+  - Work directly with the client’s engineering, product, and
+    operations teams during the shared US Pacific working
+    window — joining planning, design reviews, stand-ups, and
+    incident calls.
+  - Model and operate data on Google Cloud Spanner and
+    PostgreSQL, choosing schemas, keys, indexes, and
+    transaction boundaries that hold up under high volume and
+    global distribution.
+  - Build correct, idempotent payment flows that stay consistent
+    under retries, duplicate events, partial failure, and
+    network timeouts, with reconciliation built in rather than
+    bolted on.
+  - Integrate with card networks, issuing processors, banking
+    partners, and third-party providers through well-designed
+    APIs and event-driven interfaces.
+  - Contribute to the reliability, performance, and security of
+    services running on GCP, including observability,
+    alerting, and capacity planning.
+  - Ensure solutions meet security and regulatory requirements
+    relevant to card issuing and payments (PCI DSS, scheme
+    rules, KYC/AML controls where applicable).
+  - Write clean, well-tested code and raise the quality bar
+    through thoughtful code review and documentation.
+  - Participate in on-call rotations and production incident
+    response, driving root-cause analysis through to durable
+    fixes.
+  - Mentor other engineers and share knowledge across Payforge
+    and client teams.
+
+  Required Qualifications:
+
+  - Experience: 5+ years of professional software engineering
+    experience, including substantial backend development in
+    production systems.
+  - Strong, hands-on experience with Go (Golang) building
+    production backend services and APIs.
+  - Payments experience — for example card issuing, acquiring,
+    processing, authorization, settlement, wallets, or cross-
+    border money movement — and a solid grasp of idempotency,
+    reconciliation, and transaction lifecycles.
+  - Experience with Google Cloud Spanner or another distributed
+    SQL database, and strong PostgreSQL skills including
+    schema design, query tuning, and transactions.
+  - Hands-on experience deploying and operating services on
+    Google Cloud Platform (GCP).
+  - Experience designing RESTful and/or gRPC APIs and event-
+    driven systems (for example with Pub/Sub or Kafka).
+  - Strong testing discipline and experience with CI/CD,
+    containerisation, and production observability.
+  - Confirmed availability to work between 9:00 and 14:00 US
+    Pacific Time (approximately 18:00–23:00 CET / 19:00–00:00
+    EET) on working days to collaborate with client teams.
+  - Practical, day-to-day use of AI coding assistants and LLMs
+    as part of the development workflow, with the engineering
+    judgement to review and validate their output for
+    correctness, security, and maintainability.
+  - Strong written and spoken English, and experience working in
+    distributed, remote teams across time zones.
+
+  Preferred Qualifications:
+
+  - Card issuing experience specifically — card program setup,
+    issuer processing, authorization decisioning, or scheme
+    (Visa, Mastercard) integrations.
+  - Familiarity with stablecoins, blockchain, or digital-asset
+    payments and settlement.
+  - Experience with Kubernetes (GKE), Terraform, or other
+    infrastructure-as-code tooling on GCP.
+  - Experience with ledger or double-entry accounting systems.
+  - Exposure to compliance-driven engineering: PCI DSS scope,
+    KYC/AML, or fraud and risk controls.
+  - Experience working at a high-growth fintech or in a
+    consultancy embedded with client teams.
+
+  What we value?
+
+  - Technical excellence – delivering high-quality,
+    maintainable, and scalable code.
+  - Problem-solving mindset – approaching challenges with
+    creativity and precision.
+  - Collaboration & communication – working effectively with
+    cross-functional, remote-first teams.
+  - Leadership & mentorship – guiding peers, sharing knowledge,
+    and championing best practices.
+  - Adaptability – being comfortable stepping into back-end work
+    when business needs arise.
+
+  About Payforge
+
+  Payforge is a specialist professional-services company
+  focused exclusively on payments and fintech. We help clients
+  deliver high-quality, scalable technology solutions in an
+  evolving global financial landscape.
+
+  Equal Opportunity Statement
+
+  Payforge is proud to be an equal-opportunity employer. All
+  qualified applicants will receive consideration without
+  regard to race, colour, religion, sex, sexual orientation,
+  gender identity, national origin, disability or veteran
+  status. We welcome applicants from all backgrounds.
+industries:
+  - Fintech
+  - Information Technology
+  - Payments
+  - Financial Services
+posted_date: 2026-11-13
+url: "https://builtin.com/job/senior-software-engineer-go/12253129"
+source: Built In
