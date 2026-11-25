@@ -1,0 +1,128 @@
+job_id: 12439668
+title: Software Engineer, Infrastructure
+company: Rerun
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - NZL
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - Lunenburg, CAN
+remote: true
+work_type: FULL_TIME
+company_size: 48 Employees
+description: |
+  At Rerun, we're building a new multimodal data stack for
+  Physical l AI. Large parts of the physical-world economy
+  will be transformed by these technologies, and we're
+  building the data infrastructure and tools that enable it to
+  happen.
+
+  Rerun's open source project is already loved by some of the
+  best teams in the world. Our commercial product, Rerun Hub,
+  is a catalog and storage engine that already handles
+  petabytes of robot training data for early customers, and
+  we're now ready to onboard more teams. Read our blog post on
+  what we're building: A new data layer for robot learning.
+
+  You’ll join a small team building Rerun Hub, and you’ll help
+  build the control plane that runs Hub, including our
+  Kubernetes operator that deploys cloud resources and
+  workloads.
+
+  What you'll work on
+
+  - Contribute significantly to our Kubernetes operator: the
+    control plane that provisions, configures, and manages
+    Rerun Hub deployments across our own cloud infrastructure
+    and inside customer accounts. This is real software
+    engineering: CRDs, controllers, reconciliation, APIs,
+    tests, releases.
+  - Deep customer onboarding: When a customer brings new
+    infrastructure requirements, you extend our control plane
+    to accommodate that. The reconcilers you contribute will
+    make Rerun Hub work end-to-end from networking, IAM,
+    storage to cluster configuration.
+  - Production reliability and scale: Observability, CI/CD,
+    incident response, and the deployment experience from
+    local dev through staging to prod.
+  - Follow-the-sun on-call with the rest of the team.
+
+  We'd love it if you have
+
+  - A strong software engineering background. You think of
+    infrastructure as software you build, not just systems you
+    operate.
+  - Deep Kubernetes experience, specifically with the operator
+    pattern: you've designed CRDs, written controllers
+    (controller-runtime / kubebuilder / operator-sdk), and
+    shipped them to production. Earlier-career engineers with
+    strong Go and distributed-systems/kubernetes fundamentals
+    plus genuine interest in this work are equally welcome;
+    we're hiring across levels.
+  - Proficiency in Go, and ability to read and contribute to an
+    asynchronous Rust codebase (or eagerness to learn; much of
+    our stack is Rust).
+  - Solid experience with AWS, infrastructure-as-code (ideally
+    Terraform/OpenTofu), and production-grade observability.
+  - You embrace AI as a core part of how you engineer software,
+    integrating AI tools and agentic workflows into your daily
+    work. You own all the code you and your agents ship.
+  - Great communication in English, an ownership mindset, and a
+    curious, helpful attitude.
+
+  Bonus
+
+  - Experience with high-throughput, time-series, or analytical
+    database systems
+  - Background in data-intensive infrastructure
+  - Interest in robotics, AR/VR, ML, or simulation
+
+  How we work at Rerun
+
+  - This role is open to candidates in Europe, and especially on
+    the US East Coast or in Canada
+  - We're a remote company headquartered in Stockholm, Sweden,
+    with a growing hub in San Francisco.
+  - We meet up in person for a week roughly once a quarter.
+  - We're spread across European and US time zones. Rather than
+    one fixed window, each team keeps a few hours of daily
+    overlap that fits where its members are, and every role
+    posting says what that looks like.
+  - We've put together an uncommonly talented tech team, value
+    agency and helpfulness highly, and expect everyone to take
+    broad responsibility for what they build.
+  - We offer competitive cash and equity compensation, six weeks
+    paid vacation, and whatever hardware and software you need
+    to do your job.
+  - Parental leave: 12 weeks full pay for every parent,
+    alongside your local statutory leave entitlements.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-11-24
+url: "https://builtin.com/job/software-engineer-infrastructure/12439668"
+source: Built In

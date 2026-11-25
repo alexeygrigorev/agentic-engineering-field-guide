@@ -1,0 +1,78 @@
+job_id: 12382312
+title: Staff/Senior Software Engineer, Agent Engineering (Helios)
+company: Unusual Ventures
+location: New York, USA
+work_type: FULL_TIME
+company_size: 32 Employees
+description: |
+  Staff/Senior Software Engineer, Agent Engineering
+
+  New York City | Full-time | On-site in SoHo, five days per
+  week
+
+  Reports to the CTO and works directly with the founding team
+
+  ABOUT HELIOS
+
+  Helios is building a new kind of company to solve America’s
+  hardest problems, starting with the government interaction
+  layer.
+
+  Government shapes every consequential market, but the
+  infrastructure connecting public institutions and private
+  organizations remains fragmented, manual, and difficult to
+  navigate. Helios is rebuilding that layer.
+
+  Our core platform, Proxi, gives organizations the
+  intelligence they need to understand what government is
+  doing, why it matters, and what to do next. From that
+  foundation, we design and deploy secure, mission-specific
+  systems for government agencies, enterprises, and
+  institutions operating in complex and highly regulated
+  environments.
+
+  We bring together frontier AI, deep public-sector expertise,
+  and forward-deployed execution. Our team includes leaders
+  and builders from the White House, U.S. Department of State,
+  Datadog, and Microsoft. We are backed by leading
+  institutional investors and trusted by organizations working
+  on high-stakes problems across government and industry.
+
+  Advance the agent runtime that powers Proxi’s research,
+  analysis, and action capabilities. Our agents must decompose
+  open-ended objectives, retrieve trustworthy evidence, use
+  tools safely, coordinate long-running work, and produce high
+  fidelity outputs that remain traceable to their sources.
+
+  At Helios you will own the systems that make agent behavior
+  reliable in production, including execution state, tool use,
+  context, memory, model routing, recovery, evaluation, and
+  security - improving Proxi’s ability to perform meaningful
+  work over hours without losing context, exceeding their
+  authority, silently failing, or producing unsupported
+  conclusions.
+
+  You will also advance the reasoning and memory layer built
+  on top of the Helios Rapid Ontology System (H.R.O.S.),
+  enabling agents to accumulate knowledge, recognize change,
+  resolve contradictions and carry direct source context
+  across workflows.
+
+  We are looking for a senior engineer who has shipped
+  production LLM or agent systems beyond the prototype stage.
+  You should be comfortable diagnosing nondeterministic
+  failures, enforcing boundaries between model judgment and
+  deterministic software and deciding when a workflow requires
+  autonomy, human approval, or conventional application logic.
+
+  Expected areas of expertise:
+
+  KEY RESPONSIBILITIES
+
+  NICE TO HAVE
+industries:
+  - Angel or VC Firm
+  - Fintech
+posted_date: 2026-11-20
+url: "https://builtin.com/job/staff-senior-software-engineer-agent-engineering-helios/12382312"
+source: Built In

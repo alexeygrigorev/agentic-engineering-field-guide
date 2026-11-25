@@ -1,0 +1,228 @@
+job_id: 12323468
+title: Engineering Manager, Cloud Infrastructure
+company: Horizon3.ai
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 107 Employees
+description: |
+  Get to Know Us
+
+  Horizon3 is a fast-growing, remote cybersecurity company
+  dedicated to the mission of enabling organizations to
+  proactively find and fix and verify exploitable attack
+  vectors before criminals exploit them. Our flagship product,
+  the NodeZeroTM platform, delivers production-safe autonomous
+  pentests and other key assessment operations that scale
+  across the largest internal, external, cloud, and hybrid
+  cloud environments. NodeZero has been adopted by
+  organizations of all sizes, from small educational
+  institutions to government agencies and Global 100
+  enterprises. It is used by ITOps/SecOps teams, consulting
+  pentesters, and MSSPs and MSPs.
+
+  We are a fusion of former U.S. Special Operations cyber
+  operators, startup engineers, and formerly frustrated
+  cybersecurity practitioners. We're committed to helping
+  solve our common security problems: ineffective security
+  tools, false positives resulting in alert fatigue, blind
+  spots, "checkbox” security culture, cybersecurity skills
+  shortage, and the long lead time and expense of hiring
+  outside consultants. Collectively, we are a team of learn it
+  alls, committed to a culture of respect, collaboration,
+  ownership, and results.
+
+
+
+  What You’ll Do
+
+  We are looking for an Engineering Manager to build and lead
+  Horizon3’s Cloud Infrastructure team, part of the Internal
+  Platform organization. The team provides secure, scalable,
+  dependable cloud and runtime capabilities as reusable
+  platform primitives so product teams can focus on building
+  and operating NodeZero.
+
+  You will:
+
+  - Build, coach, and grow a high-performing infrastructure
+    engineering team. Set clear expectations, provide regular
+    feedback, support career development, manage performance,
+    and create an inclusive, psychologically safe environment
+    where the team can do its best work.
+  - Own the team’s strategy, quarterly roadmap, and delivery
+    commitments. Balance platform investment with support,
+    security remediation, modernization, operational work, and
+    technical debt; make capacity and trade-offs visible to
+    partners and leadership.
+  - Lead the evolution of cloud infrastructure and self-service
+    capabilities, including resource schemas, platform APIs,
+    reconciliation, lifecycle management, and safe adoption of
+    existing infrastructure.
+  - Guide the design and operation of cloud and runtime
+    foundations, including AWS, networking, identity and
+    access, Kubernetes/EKS, shared services, environment
+    foundations, capacity, and cost.
+  - Establish secure-by-default standards for infrastructure
+    automation, policy enforcement, workload identity, secrets
+    integration, patching, hardening, resilience, and
+    repeatable operations.
+  - Make infrastructure delivery more repeatable across regions
+    and environments. Partner with application teams to
+    separate platform readiness from application onboarding,
+    functional validation, and cutover.
+  - Ensure the team’s services have clear ownership, operational
+    readiness, documentation, runbooks, escalation paths, and
+    primary and secondary coverage. Partner with the SRE
+    function on reliability practices and with Security/SecOps
+    on controls and risk.
+  - Partner closely with the Developer Experience manager: this
+    team owns underlying cloud, network, identity, runtime,
+    and delivery-system compute primitives; DevEx owns the
+    developer-facing workflows built on those primitives.
+  - Work with senior and staff engineers on technical direction
+    and design quality without becoming the team’s
+    implementation bottleneck. Identify risks early, resolve
+    dependencies, and communicate decisions clearly across
+    Engineering, Security, Product, and partner teams.
+  - Hire and onboard engineers, contribute to interview
+    calibration, and develop technical owners so the team can
+    scale sustainably.
+
+  What You’ll Bring
+
+  - 9+ years as an individual contributor and 2+ years
+    experience leading an engineering team, including direct
+    responsibility for coaching, performance, hiring, and the
+    team’s delivery and health.
+  - A strong background in cloud infrastructure, platform
+    engineering, infrastructure engineering, SRE, or software
+    engineering with substantial production-platform
+    ownership.
+  - Experience setting a team roadmap, making prioritization and
+    capacity trade-offs, and delivering complex work with
+    cross-team dependencies.
+  - Technical judgment across cloud platforms, networking, IAM,
+    Kubernetes, shared runtime services, and infrastructure
+    automation. You can assess architecture, operational risk,
+    and trade-offs with senior engineers.
+  - Practical experience with cloud infrastructure approaches,
+    resource lifecycle management, APIs or schemas, and
+    automation that makes secure, repeatable paths easier to
+    use.
+  - Experience operating multi region production infrastructure,
+    including incident response, recovery, observability,
+    security controls, and continuous improvement.
+  - Ability to clarify ownership boundaries, build alignment
+    across teams, and translate infrastructure needs into
+    durable, adopted platform capabilities.
+  - Clear written and verbal communication, with the ability to
+    explain technical and operational trade-offs to
+    engineering teams and non-technical partners.
+
+  Required Tech Stack Experience
+
+  - AWS or a comparable cloud platform, including multi-
+    environment or regional infrastructure.
+  - Kubernetes and container platforms; EKS is especially
+    relevant.
+  - Infrastructure as code and cloud automation, such as
+    Crossplane, Platform Schema Resources (PSR), Terraform, or
+    comparable systems.
+  - Linux, networking, IAM/workload identity, secrets
+    management, and least-privilege access.
+  - Automation or platform-service development in Go
+  - Observability, incident response, operational runbooks, and
+    production service ownership.
+
+  Exact tool matches are less important than strong platform
+  fundamentals, sound engineering judgment, and the ability to
+  develop a team that delivers secure, dependable
+  infrastructure other teams can adopt.
+
+
+
+  Perks of Horizon3
+
+  - Inclusive Team: We value diversity and promote an inclusive
+    culture where everyone can thrive.
+  - Growth Opportunities: Be part of a dynamic and growing team
+    with numerous career development opportunities.
+  - Innovative Culture: Work in a collaborative environment that
+    encourages creativity and out-of-the-box thinking.
+  - Hybrid & Remote Work: We embrace a mix of remote and hybrid
+    work models depending on role and location, including our
+    Chicago office, where some roles require regular in-office
+    presence.
+  - Competitive Compensation: We offer competitive salary,
+    equity and benefits. Our benefits include health, vision &
+    dental insurance for you and your family, a flexible
+    vacation policy, and generous parental leave.
+
+  Compensation and Values
+
+  At Horizon3, we believe that our people are our greatest
+  asset, and our compensation philosophy reflects this core
+  value. We are committed to fostering an environment where
+  all employees feel valued, respected, and rewarded for their
+  contributions. Our compensation structure is designed to be
+  fair, competitive, and transparent, ensuring that every team
+  member is recognized and compensated equitably across roles,
+  levels, and locations.
+
+  In accordance with various State’s transparency regulations,
+  we provide the following salary range information for this
+  position:
+
+  - Base salary range: $220,000 - $ 260,000 annually. The exact
+    salary will be determined based on the selected
+    candidate’s location, qualifications, experience, and
+    relevant skills.
+  - Additional compensation: All full-time roles are eligible
+    for an equity package in the form of stock options.
+
+  You Belong Here
+
+  Horizon3 is not just an equal opportunity employer - we are
+  a community that values diversity, equity, and inclusion as
+  fundamental principles of our culture and success. We are
+  dedicated to fostering a workplace where everyone feels
+  welcome and respected, regardless of race, color, religion,
+  sex, national origin, age, disability, veteran status,
+  sexual orientation, gender identity or expression, genetic
+  information, marital status, or any other legally protected
+  status by law.
+
+  Our commitment to diversity and inclusion means we strive to
+  attract, develop, and retain a workforce that reflects the
+  varied communities we serve. We believe that diverse
+  perspectives drive innovation and strengthen our ability to
+  create cutting-edge cybersecurity solutions. At Horizon3,
+  every team member is valued and supported in an environment
+  that encourages personal and professional growth.
+
+  We welcome candidates from all backgrounds and experiences,
+  and we encourage all qualified individuals to apply. Come be
+  a part of Horizon3, where your unique contributions are
+  recognized, and your potential is limitless.
+
+  Other Duties
+
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties or
+  responsibilities that are required of the employee. Duties,
+  responsibilities, and activities may change at any time with
+  or without notice.
+
+  Application Note
+
+  In any materials you submit, you may redact or remove age-
+  identifying information such as age, date of birth, or dates
+  of school attendance or graduation. You will not be
+  penalized for redacting or removing this information.
+industries:
+  - Artificial Intelligence
+  - Cybersecurity
+posted_date: 2026-11-18
+url: "https://builtin.com/job/engineering-manager-cloud-infrastructure/12323468"
+source: Built In

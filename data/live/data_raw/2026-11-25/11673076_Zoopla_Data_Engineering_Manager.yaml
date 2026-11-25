@@ -1,0 +1,159 @@
+job_id: 11673076
+title: Data Engineering Manager
+company: Zoopla
+location: London, GBR
+work_type: FULL_TIME
+company_size: 424 Employees
+description: |
+  Who We Are
+
+  Zoopla is one of the UK’s most instantly recognisable
+  property brands. In fact, we’re known and loved by over 91%
+  of the nation (and we’re working hard on the other 9%). Our
+  mission is to help the nation make better home decisions -
+  by connecting everyone to their home and giving them
+  personalised insights to help with moving, managing or
+  financing. Over 50 million people visit Zoopla every month
+  to access exclusive data and information on every UK
+  property, search over 500,000 homes for sale and rent, find
+  the best agents and secure the latest mortgage deals.
+
+  We’re a growing, dynamic team that embraces innovation and
+  isn’t afraid to push the boundaries. We’re only just
+  starting our journey to redefine the digital property
+  landscape, with much more to explore and achieve. Join us,
+  and transform the way the nation makes home decisions.
+
+  About the Role
+
+  We're looking for a Data Engineering Manager to lead us into
+  the future.
+
+  The Data team exists to turn Zoopla's data into value:
+  better decisions for the business, better products for our
+  consumers and customers, and direct revenue where the data
+  itself is the product. Data Engineering is the foundation
+  all of that runs on.
+
+  Databricks on AWS is our single foundation, with dbt for
+  modelling, Fivetran for SaaS sources and AWS services for
+  internal sources. Our ingestion and export patterns grew one
+  at a time over several years. We want a small number of
+  patterns that are clear, owned and easy to run, by reducing
+  that overhead we'll be able to focus on even more ambitious
+  projects alongside the platform team.
+
+  You'll report to the Director of Data and lead a team of
+  four data engineers. You'll work very closely with our Head
+  of Engineering Platform and Head of Product Platform, so
+  that our technical systems align and we can make long term
+  choices together.
+
+  This is a player coach role, we want our leaders out in
+  front. The balance may change depending on the direction you
+  set and where the team goes.
+
+  What You'll Do
+
+  - Setting the direction for Data Engineering and communicating
+    it. We have ideas, but we want one person with the remit
+    to own and drive it.
+  - Building a shared roadmap with the Head of Platform
+    Engineering and Head of Product for Platform, so Data
+    Engineering work is planned in from the start. Bringing a
+    view, challenging theirs, and agreeing where data
+    architecture and platform architecture meet.
+  - Putting governance in place that people and AI can follow.
+  - Making AI part of how the team works, and bringing Data
+    Engineering into our software factory.
+  - Owning our Fivetran relationship and its cost.
+  - Leading, coaching and growing the team. Hiring well, giving
+    clear feedback, and sharing knowledge so nobody is the
+    only person who understands a piece of the platform.
+
+  How We Work
+
+  Data Engineering sits in the Data team alongside Analytics
+  Engineering, Analytics and Data Science, and works side by
+  side with Platform Engineering and Platform Product.
+
+  We're AI forward, maybe it doesn't get everything right now,
+  but what's to say it won't tomorrow.
+
+  Requirements
+
+  About You (Key Attributes)
+
+  - Experience leading data engineering initiatives and setting
+    technical direction, with formal line management
+    experience OR a strong track record of mentoring
+    engineers, leading projects, and a clear desire to step
+    into people management.
+  - Deep experience with a modern lakehouse, ideally Databricks
+    and Unity Catalog, and with dbt.
+  - Comfortable on AWS and with infrastructure as code
+    (Terraform), and able to hold your own in a design review
+    with platform engineers.
+  - Strong grounding in ingestion and integration patterns:
+    managed connectors, change data capture, event-driven and
+    streaming ingestion, and reverse ETL or file-based exports
+    to external systems and customers.
+  - Practical data governance: access control, data contracts,
+    data quality and personal data handling, applied so teams
+    can move faster.
+  - Experience using AI tools in engineering work, with a clear
+    view on where they help, and how to keep them safe.
+  - You build strong partnerships with engineering and product
+    leaders, and you can disagree well and still land on a
+    shared plan.
+  - You know what your platform costs and what the business gets
+    back for it.
+
+  Nice to Have
+
+  - Fivetran, RudderStack or similar ingestion and reverse ETL
+    tools.
+  - Experience running vendor relationships and contract
+    renewals for data tooling.
+  - Exposure to Model Context Protocol (MCP) servers or similar
+    agent tooling.
+  - Experience in property, marketplaces or other data-rich
+    consumer businesses.
+
+  Where you’ll be
+
+  At Zoopla, we embrace hybrid working but emphasise the
+  importance of also spending time together. You’ll have the
+  opportunity to work remotely (at home) for two days per week
+  with Mondays, Tuesdays and Thursdays as all-Zoopla days in
+  the office together.
+
+  Our home in Tower Bridge is a buzzing hub for collaborative
+  and individual working, with areas to socialise and exercise
+  - within easy reach of London Bridge, Tower Hill and
+  Bermondsey stations. On our doorstep there are plenty of
+  great food spots including a new indoor street food market
+  and landscaped areas to sit by the riverside.
+
+  Benefits
+
+  - Our hybrid setup means you’ll join us in the Tower Bridge
+    office 3 days each week
+  - 25 days annual leave + additional leave benefits Including
+    extra days for length of service, plus other leave perks
+  - Cycle to work and electric car schemes
+  - Free Calm App membership
+  - Enhanced Parental leave
+  - Fertility Treatment Financial Support
+  - Group Income Protection and private medical insurance
+  - Gym on-site in London
+  - 7.5% pension contribution by the company
+
+  - Discretionary annual bonus up to 10% of base salary
+industries:
+  - Information Technology
+  - Real Estate
+  - Software
+posted_date: 2026-11-20
+url: "https://builtin.com/job/data-engineering-manager/11673076"
+source: Built In

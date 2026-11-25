@@ -1,0 +1,117 @@
+job_id: 12388513
+title: Engineering Manager
+company: Curri
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 123 Employees
+description: |
+  About the role:
+
+  Curri is seeking an Engineering Manager to lead the team
+  behind some of Curri's most critical backend services: the
+  systems that detect anomalies, raise exceptions before they
+  become customer problems, and help Curri build and grow its
+  driver supply. Today these services have no dedicated
+  manager, and the team needs formal structure, sharper focus,
+  and stronger reliability habits. In this role, you will grow
+  a team that starts at three engineers, raise the bar on
+  reliability through ownership and observability, and turn
+  business needs into well-designed services that customers
+  like Walmart and Home Depot depend on.
+
+  What you will do:
+
+  - Manage, coach, and develop a team of engineers through
+    regular 1:1s, direct feedback, performance reviews, and
+    career growth, then hire and onboard new engineers as the
+    team grows.
+  - Lead the team in building and maintaining reliable, scalable
+    backend services for anomaly detection, exception
+    generation, and driver supply.
+  - Own monitoring, alerting, and observability for the team's
+    services using Datadog, and use that data to prioritize
+    and drive reliability work.
+  - Run delivery end to end by planning, scoping, and
+    prioritizing work with Product and Operations partners,
+    then making sure it ships.
+  - Lead incident response and on-call for the team, including
+    blameless postmortems and follow-through on every action
+    item.
+  - Act as the team's technical counterpart by weighing in on
+    architecture, reviewing designs, and keeping technical
+    debt under control, while defining clear service
+    boundaries and ownership with other teams.
+
+  What you need to have:
+
+  - 8+ years of experience, including at least 5 years as a
+    software engineer and at least 3 years managing engineers,
+    with a track record of coaching people and building
+    healthy teams.
+  - Strong technical depth in our stack: TypeScript, Node.js,
+    and Go in a service-oriented, distributed architecture.
+    You should be a credible partner on design and
+    architecture decisions for backend systems at scale.
+  - Comfort getting into the weeds, spending at least 30% of
+    your time hands-on with coding, code review, and design
+    review alongside your team.
+  - Deep familiarity with observability across metrics, logs,
+    tracing, and alerting (Datadog a plus), plus experience
+    owning monitoring and incident response for production
+    services.
+  - An ownership mindset focused on outcomes rather than
+    process. That means turning a vague business problem into
+    a concrete plan, communicating clearly with technical and
+    non-technical stakeholders, staying calm during incidents,
+    and using AI-assisted development tools yourself while
+    pushing the team to use them too.
+
+  Bonus points for:
+
+  - Having built an engineering team from scratch.
+  - Experience running reliability or SRE work for production
+    systems.
+  - Experience with logistics, delivery, or marketplace systems.
+
+  What is in it for you?
+
+  - Ownership of the team behind some of Curri's most critical
+    services, with a clear path to growing it soon after you
+    join.
+  - The chance to shape a team early, as a real technical
+    partner to your engineers rather than someone who only
+    runs process.
+  - Work that directly affects how customers like Walmart and
+    Home Depot get their deliveries.
+  - Competitive salary, equity compensation, and comprehensive
+    benefits (health, dental, vision, 401K).
+  - Remote-friendly, with the option to work from our Ventura,
+    CA headquarters.
+  - A high-growth, mission-driven environment where your work
+    has direct and measurable impact.
+
+  Who are we?
+
+  We are Curri, and our mission is to build the network and
+  software that move the world’s goods with speed,
+  intelligence, and trust. Curri provides on-demand, last-mile
+  logistics for construction and adjacent industries with our
+  nationwide fleet of cars, trucks, and flatbeds. Founded in
+  2018 and part of the YC S19 Batch, we’re solving the massive
+  inefficiencies that exist in the construction industry. Our
+  headquarters are in Ventura, CA. Learn more at curri.com.
+
+  Curri is an equal opportunity employer and complies with all
+  applicable federal, state, and local fair employment
+  practices laws. All qualified applicants will receive
+  consideration for employment. We don't discriminate based on
+  race, color, religion, sex, sexual orientation, gender
+  identity, national origin, age, disability, veteran status,
+  or any other characteristic protected by law.
+industries:
+  - Information Technology
+  - Logistics
+posted_date: 2026-11-21
+url: "https://builtin.com/job/engineering-manager/12388513"
+source: Built In

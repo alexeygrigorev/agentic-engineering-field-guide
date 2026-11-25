@@ -1,0 +1,310 @@
+job_id: 12408200
+title: Senior Software Engineer AI
+company: Kantar
+location: London, GBR
+locations:
+  - London, GBR
+  - City of Winthrop Town, USA
+work_type: FULL_TIME
+company_size: 34,629 Employees
+description: |
+  We go beyond the obvious, using intelligence, passion and
+  creativity to inspire new thinking and shape the world we
+  live in. To start a career that is out of the ordinary,
+  please apply...
+
+  Job Details
+
+  Why this job is important
+
+  You’ll join our Consumer Twins division, where we’re
+  building scalable, AI-powered systems that simulate real
+  consumer behaviour.
+
+  This isn’t a traditional full-stack engineering role. You’ll
+  help create the distributed systems, event-driven
+  architecture and AI platforms that allow thousands of AI-
+  powered “digital twins” to operate concurrently. These
+  systems will enable clients to test ideas, explore scenarios
+  and receive meaningful insights in real time.
+
+  Reporting to the Director of Engineering, you’ll work
+  closely with our product, data science and platform teams to
+  turn emerging AI capabilities into reliable, production-
+  grade products.
+
+  What you’ll be doing
+
+  Platform and backend engineering
+
+  - Design and build scalable, distributed backend systems for
+    AI-powered applications.
+
+  - Develop production services using Node.js, TypeScript and/or
+    Python.
+
+  - Build event-driven services using Apache Kafka or comparable
+    streaming technology.
+
+  - Design REST and GraphQL application programming interfaces
+    that support high-throughput, real-time workloads.
+
+  - Create resilient systems with appropriate retry, idempotency
+    and fault-tolerance patterns.
+
+  - Build systems that can scale horizontally as workloads
+    increase.
+
+  - Improve the performance, maintainability and scalability of
+    existing services.
+
+  AI systems and agent orchestration
+
+  - Build systems that orchestrate thousands of AI agents or
+    digital twins concurrently.
+
+  - Integrate services with large language model providers such
+    as OpenAI, Azure OpenAI, Google Vertex AI and Anthropic.
+
+  - Develop Retrieval-Augmented Generation pipelines that
+    connect AI models with relevant data and knowledge.
+
+  - Implement prompt orchestration, prompt chaining and agent
+    workflows.
+
+  - Enable AI agents to use tools, services and data securely.
+
+  - Optimise AI workloads for latency, throughput, reliability
+    and cost.
+
+  - Help turn AI prototypes into dependable, client-facing
+    products.
+
+  - Contribute to the responsible development and use of AI
+    systems.
+
+  Data and event processing
+
+  - Design and operate event-driven data pipelines.
+
+  - Build services that process and respond to high-volume event
+    streams.
+
+  - Ingest and process large behavioural datasets.
+
+  - Work with relational databases such as PostgreSQL.
+
+  - Integrate services with document and NoSQL databases.
+
+  - Work with vector databases and semantic search technologies
+    where appropriate.
+
+  - Support low-latency, high-throughput delivery of client
+    insights.
+
+  Cloud and infrastructure
+
+  - Build and deploy services using cloud-native architectures
+    across Microsoft Azure, Google Cloud Platform or Amazon
+    Web Services.
+  - Package applications using Docker.
+  - Deploy and operate services through Kubernetes or serverless
+    container platforms.
+  - Contribute to infrastructure-as-code using Terraform.
+  - Design services for resilience, observability and horizontal
+    scalability.
+  - Work with our platform teams to improve deployment and
+    operational processes.
+
+
+
+  Engineering quality and collaboration
+
+  - Write clean, maintainable and testable code.
+  - Participate in technical design discussions and
+    architectural decisions.
+  - Review code and share practical engineering feedback.
+  - Mentor other engineers and contribute to an inclusive
+    engineering culture.
+  - Collaborate with product, data science and platform
+    colleagues to deliver end-to-end features.
+  - Break down ambiguous technical problems and identify
+    practical solutions.
+  - Explore relevant developments in backend, cloud and AI
+    engineering, recommending their use when they offer clear
+    value.
+
+
+
+  The ideal skills & experience
+
+  You’ll bring strong backend engineering experience, together
+  with an interest in building scalable systems for the next
+  generation of AI-powered products.
+
+  Core experience
+
+  - Experience designing and building distributed backend
+    systems.
+  - Production development experience with Node.js and
+    TypeScript and/or Python.
+  - Practical experience with Apache Kafka or another streaming
+    or messaging platform.
+  - Understanding of event-driven architecture and asynchronous
+    processing.
+  - Experience designing REST or GraphQL application programming
+    interfaces.
+  - Experience building systems for high-throughput or real-time
+    workloads.
+  - Understanding of concurrency, parallel processing and
+    distributed workloads.
+  - Knowledge of backpressure, rate limiting, retries,
+    idempotency and fault tolerance.
+  - Experience working with relational and/or NoSQL data stores.
+  - Experience deploying software to Microsoft Azure, Google
+    Cloud Platform or Amazon Web Services.
+  - Familiarity with Docker and container orchestration.
+  - A track record of writing maintainable, well-tested
+    production code.
+
+
+
+  How you’ll work
+
+  - You can break complex or unclear problems into manageable
+    technical decisions.
+  - You use evidence and data to guide engineering choices.
+  - You communicate technical ideas clearly to colleagues across
+    engineering, product and data science.
+  - You enjoy contributing to architectural discussions and
+    challenging ideas constructively.
+  - You’re comfortable collaborating across teams to deliver
+    complete products, rather than isolated technical
+    components.
+  - You support other engineers through mentoring, code reviews
+    and knowledge sharing.
+  - You’re curious about AI engineering and motivated to develop
+    your skills in this area.
+
+  You don’t need to meet every requirement. We’re interested
+  in your core engineering experience, how you approach
+  complex problems and your willingness to learn.
+
+  Experience that could help you succeed
+
+  These aren’t essential. We can support you in developing
+  these skills as you grow into the role:
+
+  - Python for backend services, scripting or data processing.
+
+  - Experience integrating products with large language model
+    application programming interfaces.
+
+  - Retrieval-Augmented Generation pipelines.
+
+  - Prompt design, orchestration and evaluation.
+
+  - Agent workflows and tool use.
+
+  - Vector databases such as pgvector, Pinecone or Weaviate.
+
+  - Embeddings, semantic search and vector retrieval.
+
+  - Knowledge graphs or graph databases such as Neo4j.
+
+  - Ontologies and graph query languages.
+
+  - AI development frameworks such as LangChain or LlamaIndex.
+
+  - Data pipelines or Extract, Transform and Load processing for
+    model-driven applications.
+
+  - Testing tools such as PyTest or Playwright.
+
+  - Performance profiling and optimisation for backend systems.
+
+  - AI safety, governance and data privacy principles.
+
+  - Experience prototyping AI agents, chatbots or recommendation
+    systems.
+
+  What’s in it for you
+
+  - Build products at the intersection of advanced software
+    engineering, AI and human understanding.
+
+  - Work on complex distributed systems with genuine scale,
+    concurrency and performance challenges.
+
+  - Develop practical AI engineering experience while building
+    on your existing backend expertise.
+
+  - Work with Kantar’s global human and synthetic datasets to
+    create new forms of decision-ready intelligence.
+
+  - Collaborate with software engineers, machine learning
+    specialists, data scientists, product professionals and
+    behavioural scientists.
+
+  - Help shape technical architecture and engineering practices
+    in a growing AI product division.
+
+  - Join an environment where learning, mentoring and knowledge
+    sharing are part of the role.
+
+  - Contribute to technology that will change how brands explore
+    ideas, understand audiences and make decisions.
+
+  Please be aware, the majority of our roles are hybrid,
+  working three days a week in our office.
+
+  We’re not able to offer visa sponsorship or help with
+  relocation support for this role. Please make sure you’ve
+  got the right to work in the country where this role is
+  located before applying.
+
+  Location
+
+  London, South Bank CentralUnited Kingdom
+
+  Kantar Rewards Statement
+
+  At Kantar we have an integrated way of rewarding our people
+  based around a simple, clear and consistent set of
+  principles. Our approach helps to ensure we are market
+  competitive and also to support a pay for performance
+  culture, where your reward and career progression
+  opportunities are linked to what you deliver.
+
+
+
+  We go beyond the obvious, using intelligence, passion and
+  creativity to inspire new thinking and shape the world we
+  live in. Apply for a career that’s out of the ordinary and
+  join us.
+
+
+
+  We want to create an equality of opportunity in a fair and
+  supportive working environment where people feel included,
+  accepted and are allowed to flourish in a space where their
+  mental health and well being is taken into consideration.
+
+
+
+  We want to create a more diverse community to expand our
+  talent pool, be locally representative, drive diversity of
+  thinking and better commercial outcomes.
+
+  Kantar is the world’s leading data, insights and consulting
+  company. We understand more about how people think, feel,
+  shop, share, vote and view than anyone else. Combining our
+  expertise in human understanding with advanced technologies,
+  Kantar’s 30,000 people help the world’s leading
+  organisations succeed and grow.
+industries:
+  - Marketing Tech
+  - Analytics
+posted_date: 2026-11-23
+url: "https://builtin.com/job/senior-software-engineer-ai/12408200"
+source: Built In

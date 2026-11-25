@@ -1,0 +1,119 @@
+job_id: 12329502
+title: Software Engineer
+company: InvestCloud, Inc.
+location: London, GBR
+work_type: FULL_TIME
+company_size: 1,100 Employees
+description: |
+  InvestCloud is at the forefront of wealth technology,
+  offering innovative solutions that redefine how the
+  financial services industry operates. With a global presence
+  and a client first approach, we specialize in digital
+  transformations powered by our flexible, modular technology.
+
+  About the Team As a Software Engineer, you will join
+  InvestCloud’s Data Integration team, part of the wider AI,
+  Data & Analytics organisation. The team builds and operates
+  the modern integration platform that moves and prepares data
+  across the InvestCloud ecosystem, providing the foundation
+  for analytics, AI and smarter product experiences. You will
+  help modernise client integrations by supporting the
+  migration from the legacy Java/Groovy/Oracle stack to a
+  modern, Python-based architecture with contemporary pipeline
+  orchestration. Most of your day-to-day work will focus on
+  the target platform, while also giving you exposure to the
+  legacy estate and the practical challenges of delivering
+  safe, scalable client migrations. We’re building for scale.
+  Much of what we design and implement today will be the
+  technology and infrastructure that serves thousands of
+  clients and petabyte-level volumes of data.
+
+  The core stack we use and are building is:
+
+  - AWS as our cloud provider
+  - Oracle as our legacy data warehouse
+  - Snowflake as our next-gen data warehouse
+  - Mage AI for data ingestion and processing
+  - Terraform for building infrastructure
+  - Python as our primary development language
+  - Java/Groovy within the legacy platform
+  - Claude Code as our AI-powered coding assistant
+
+  Key Responsibilities
+
+  - Design, build, test and operate reliable software and data
+    pipeline components, taking ownership from implementation
+    through production support.
+  - Develop maintainable, well-tested and reusable code,
+    primarily in Python, and contribute to design discussions
+    by explaining options and trade-offs.
+  - Contribute to client integration migrations from the legacy
+    Java, Groovy and Oracle stack to the modern platform,
+    following agreed patterns and identifying risks for
+    review.
+  - Build and maintain cloud-based integrations across services,
+    SaaS tools and thirdparty data sources.
+  - Investigate defects and operational issues, identify root
+    causes, and implement durable improvements to reliability
+    and performance.
+  - Apply strong engineering practices across testing,
+    documentation, monitoring, resiliency, security and code
+    review.
+  - Work with engineers and stakeholders to clarify
+    requirements, communicate progress and deliver changes
+    safely.
+  - Contribute to data quality, governance and security
+    practices, including compliance with relevant regulations.
+
+  Required Skills
+
+  - 2–3 years of professional software engineering experience is
+    required, with experience delivering production software
+    as part of a team.
+  - Proficiency in Python, including writing production-quality
+    code and tests.
+  - Working knowledge of SQL and relational databases.
+  - Experience building, deploying or supporting production
+    applications, services or data pipelines.
+  - Experience with a cloud platform such as AWS, GCP or Azure.
+  - Familiarity with Git, CI/CD, Docker or equivalent container
+    tooling, and Linux environments.
+  - Ability to troubleshoot issues methodically, take ownership
+    of defined components, and seek guidance or escalate risks
+    when needed.
+  - Clear written and verbal communication, and a collaborative
+    approach toengineering.
+  - Practical experience using AI-assisted development tools
+    such as Claude Code (preferred), Cortex or Cursor as part
+    of software development.
+  - A degree in Computer Science, Software Engineering or a
+    related discipline is useful, but equivalent practical
+    experience is also valued.Useful additional experience
+  - Java or Groovy, especially in support of migration from a
+    legacy platform.
+  - Bash scripting and job scheduling concepts such as cron or
+    AutoSys.
+  - Jenkins or other CI/CD tools, and log analysis tools such as
+    Splunk.
+  - Exposure to batch or streaming data pipelines, data platform
+    operations, or largescale data workloads.
+
+  Apply without meeting all requirements
+
+  If you don’t meet every requirement but believe you’d thrive
+  in this role, we’d still love to hear from you. We’re always
+  keen to speak to people who connect with our mission and
+  values.
+
+  Location and Travel The ideal candidate will be expected to
+  work from the office on a regular basis (3 days minimum per
+  week). Occasional travel may be required.
+
+  Compensation The salary range will be determined based on
+  experience, skills, and geographic location.
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-11-19
+url: "https://builtin.com/job/software-engineer/12329502"
+source: Built In

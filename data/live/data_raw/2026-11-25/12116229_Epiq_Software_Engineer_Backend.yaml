@@ -1,0 +1,266 @@
+job_id: 12116229
+title: Software Engineer, Backend
+company: Epiq
+location: Toronto, CAN
+locations:
+  - Toronto, CAN
+  - New York, USA
+work_type: FULL_TIME
+company_size: 6,282 Employees
+description: |
+  At Epiq, your work contributes to complex, global legal
+  outcomes. You’ll join a values‑driven community where
+  integrity guides decisions, relentless service sets the bar,
+  and we thrive on big challenges together. We invest in your
+  growth with enterprise‑wide learning and mobility. We
+  celebrate who you are, and we respect life beyond work with
+  flexibility that’s recognized externally. Enabled by modern
+  platforms and AI, you’ll do the most meaningful work of your
+  career and see your impact at scale.
+
+  Job Description:
+
+  About Epiq AI Labs
+
+  Epiq AI Labs is the innovation and engineering hub behind
+  Epiq’s next-generation AI platform for corporate legal
+  departments and global law firms. Operating with the speed
+  and autonomy of a startup and the resources of a global
+  alternative legal services provider, the team builds
+  intelligent agents, reasoning engines, knowledge systems,
+  and structured workflows for litigation, investigations,
+  compliance, and corporate knowledge work.
+
+  We are fast, experimental, and product-obsessed, with high
+  autonomy, high trust, and low bureaucracy. We ship to real
+  legal clients and hold a high bar for correctness, and we
+  use AI tools throughout our own development workflow. The
+  team is deeply technical, highly collaborative, and owns its
+  systems end to end — you design it, you build it, you ship
+  it.
+
+  The Opportunity
+
+  You will design, build, and operate the core services and
+  platform capabilities behind Epiq AI Labs’ AI-driven legal
+  platform — from backend services, APIs, and distributed
+  systems to asynchronous workflows, data pipelines, secure
+  multi-tenant capabilities, and the foundations for running
+  LLM-powered applications and agents in production. You will
+  own systems end to end, from technical design and
+  implementation through deployment, observability, and
+  production operations, and expand that ownership as the
+  platform grows.
+
+  Essential Job Responsibilities
+
+  - Design, implement, test, debug, and operate backend
+    services, REST APIs, and platform components that power
+    Epiq AI Labs’ products.
+  - Build distributed systems, data pipelines, and asynchronous
+    workflows using queues, messaging, and event-driven
+    patterns, with careful attention to concurrency,
+    idempotency, retries, and failure recovery.
+  - Design data models and storage across relational databases,
+    object storage, search, and vector stores, making
+    pragmatic decisions around schemas, indexing, consistency,
+    and performance.
+  - Implement secure, multi-tenant capabilities, including
+    authentication, authorization, role-based access controls,
+    tenant isolation, and data access controls.
+  - Partner with AI engineers to build the backend services,
+    data pipelines, and access controls that agent execution,
+    retrieval, and evaluation depend on.
+  - Instrument services with metrics, logs, and traces;
+    investigate production issues, identify root causes, and
+    implement lasting fixes; and participate in the on-call
+    rotation.
+  - Use AI coding agents throughout development while owning the
+    outcome — the design, specifications and test plans, code
+    review, and verification of correctness, security, and
+    maintainability — and ship major changes behind automated
+    tests and controlled rollouts, with product and legal-
+    domain validation where appropriate.
+  - Senior+ level: Define the foundational architecture and
+    engineering patterns used across teams, lead the most
+    complex cross-cutting initiatives (including major
+    migrations and modernization), and identify architectural
+    debt and systemic risks before they limit the platform.
+  - Senior+ level: Raise the engineering bar by promoting best
+    engineering practice, building reusable platform
+    primitives, mentoring engineers, and partnering with
+    product and engineering leaders on technical direction
+    while staying hands-on and accountable for delivering
+    working software.
+
+  Required Qualifications
+
+  - 3+ years of professional experience designing, building, and
+    operating backend systems in production, including
+    responding to production issues. Hiring level will reflect
+    demonstrated technical depth, scope of ownership, and
+    impact.
+  - Proficiency in Python, or strong proficiency in a comparable
+    language with the ability to work primarily in Python.
+  - Solid grounding in distributed-systems fundamentals,
+    including concurrency, consistency, asynchronous
+    processing, failure modes, and idempotency.
+  - Experience with a major cloud platform such as AWS, GCP, or
+    Azure.
+  - Working experience with relational databases, including
+    schema design, query optimization, and migrations;
+    PostgreSQL preferred.
+  - Experience with asynchronous or event-driven processing
+    using message queues, task workers, or comparable
+    technologies.
+  - Experience designing and implementing REST APIs consumed by
+    other services or teams.
+  - Experience with automated testing, continuous integration,
+    and containerized deployment; exposure to Kubernetes
+    preferred.
+  - Experience with observability practices, including metrics,
+    logging, and tracing.
+  - Experience writing technical design documents and
+    participating in design and code reviews.
+  - Demonstrated proficiency using AI coding agents in day-to-
+    day development, with sound judgment about where they
+    accelerate work and where they fail.
+  - Self-motivated, with high ownership: you solve problems end
+    to end, actively keep up with new developments in AI, and
+    quickly learn and apply new technologies and approaches to
+    your work, including areas you haven't worked in before.
+  - Senior+ level: Demonstrated technical leadership at the
+    corresponding level, with a track record of defining
+    architecture and delivering complex distributed systems
+    across multiple teams or products, and deep expertise in
+    Python, distributed-systems fundamentals, relational
+    databases such as PostgreSQL, and production reliability.
+  - Senior+ level: Proven ability to lead technical direction
+    across organizational boundaries without direct authority,
+    and to author technical designs that clearly communicate
+    architectural trade-offs to technical and non-technical
+    audiences.
+
+  Preferred Qualifications
+
+  - Experience building LLM-based applications, agentic systems,
+    or other AI/ML or data-intensive applications in
+    production.
+  - Experience with search or vector technologies such as Solr
+    or Qdrant.
+  - Experience with durable application workflows or data-
+    pipeline orchestration, using tools such as Temporal,
+    Airflow, or Dagster.
+  - Experience with Terraform or another infrastructure-as-code
+    tool.
+  - Experience with multi-tenant SaaS architectures.
+  - Experience with authentication and authorization standards,
+    including OAuth2, OIDC, or SAML.
+
+  #LI-KS1
+
+  Candidates who meet most, but not all, of the qualifications
+  above are encouraged to apply.
+
+  #1100 Epiq eDiscovery Solutions, Inc.
+
+  Technology Stack
+
+  Python · LLM APIs and agent frameworks · PostgreSQL ·
+  RabbitMQ · Temporal · Solr · Qdrant · OAuth2 / OIDC / SAML ·
+  Azure · Kubernetes · Docker · Terraform · Prometheus ·
+  Grafana · OpenTelemetry
+
+  The Compensation range for this role is $180,000 -$260,000
+  USD annually and may be eligible for an annual bonus.
+
+  In compliance with federal law, all persons hired will be
+  required to verify identity and eligibility to work in the
+  United States and to complete the required employment
+  eligibility verification form upon hire.
+
+  Must be authorized to work in the United States for any
+  employer.
+
+  Your specific salary will be determined based on several
+  factors:
+
+  - Location-based market rate for the role
+  - Your abilities in relation to the job specification
+  - Performance during screening and interview
+  - Pay parity with the wider team in the considered location
+
+  Further details about the package will be provided during
+  the initial screening call with the Talent Acquisition Team.
+
+  Click here to learn about Epiq's Benefits.
+
+  Epiq Leadership Compass
+
+  Fosters Relationships & Collaboration
+
+  Builds trust and alignment through open communication,
+  shared goals, and strong partnerships to drive collective
+  success.
+
+  - Build trust-based partnerships
+  - Nurture long-term relationships
+  - Remove collaboration barriers
+  - Celebrate cross-team success
+
+  Engages & Influences
+
+  Inspires action and alignment through clear communication,
+  purposeful influence, and a compelling vision.
+
+  - Use storytelling to build buy-in
+  - Align communication with organizational goals
+  - Guild alignment through strong engagement
+
+  Maximizes Performance
+
+  Sets and reinforces performance standards that drive
+  results, ensure accountability, and align with Epiq’s goals.
+
+  - Use data to identify improvement opportunities
+  - Make informed decisions
+  - Align team goals with boarder strategy
+  - Empower teams to manage their own goals
+  - Translate vision into clear priorities
+  - Prepare for disruptions with strong change management
+
+  Achieves Operational Success
+
+  Drives continuous improvement and operational excellence
+  through smart processes, data insights, and quality
+  execution.
+
+  - Improve workflows for team efficiency
+  - Use clear documentation and expectations
+  - Resolve issues quickly using data and feedback
+
+  It is Epiq’s policy to comply with all applicable equal
+  employment opportunity laws by making all employment
+  decisions without unlawful regard or consideration of any
+  individual’s race, religion, ethnicity, color, sex, sexual
+  orientation, gender identity or expressions, transgender
+  status, sexual and other reproductive health decisions,
+  marital status, age, national origin, genetic information,
+  ancestry, citizenship, physical or mental disability,
+  veteran or family status or any other basis protected by
+  applicable national, federal, state, provincial or local
+  law. Epiq’s policy prohibits unlawful discrimination based
+  on any of these impermissible bases, as well as any bases or
+  grounds protected by applicable law in each jurisdiction. In
+  addition Epiq will take affirmative action for minorities,
+  women, covered veterans and individuals with disabilities.
+  If you need assistance or an accommodation during the
+  application process because of a disability, it is available
+  upon request. Epiq is pleased to provide such assistance and
+  no applicant will be penalized as a result of such a
+  request.  Pursuant to relevant law, where applicable, Epiq
+  will consider for employment qualified applicants with
+  arrest and conviction records.
+posted_date: 2026-11-18
+url: "https://builtin.com/job/software-engineer-backend/12116229"
+source: Built In

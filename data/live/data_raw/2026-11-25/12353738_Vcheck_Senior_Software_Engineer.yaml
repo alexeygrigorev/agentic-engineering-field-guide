@@ -1,0 +1,185 @@
+job_id: 12353738
+title: Senior Software Engineer
+company: Vcheck
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 150 Employees
+description: |
+  About Vcheck
+
+  Vcheck was founded in 2012 on the belief that the
+  investigative rigor of a boutique firm could be brought to
+  scale through technology. Today, we run more than 25,000
+  investigations a year across six continents, helping
+  financial institutions, private equity firms, and Fortune
+  500 companies see clearly through complexity and make
+  decisions with confidence. Based in New York, with team
+  members in the US, Canada, Romania, and India, we have
+  earned a place on the Inc. 5000 for five consecutive years
+  and are backed by Sunstone Partners as we enter our next
+  phase of growth.
+
+  We are building something different: a portfolio risk
+  management platform that pairs the rigor of an investigative
+  shop with the efficiency of a modern technology company. Our
+  team brings together talent from tech and SaaS companies
+  with people from compliance, law enforcement, journalism,
+  and many other fields. Whatever path brought each of us
+  here, what unites us is curiosity, attention to detail, and
+  a commitment to getting it right.
+
+  About the role
+
+  We are looking for a Senior Software Engineer to join the
+  Vcheck engineering team and help establish a modern, agent-
+  first way of building software, one in which coding agents
+  draft a significant share of the code and engineers own the
+  design, review, testing, and delivery of everything that
+  ships. You will take features from ambiguous problems to
+  production across several parallel workstreams, using Claude
+  as your primary coding agent alongside tools such as Cursor
+  and GitHub Copilot, and you will hold the quality bar that
+  keeps that speed from costing reliability or security. Our
+  software handles sensitive personal and client data, so it
+  must meet a high standard for accuracy, security, and data
+  protection. The role carries real ownership over how
+  engineering is done at Vcheck, including the tooling, review
+  standards, and workflows the wider team will follow.
+
+  What you'll be doing
+
+  - Design, build, test, and deploy features and services across
+    the Vcheck platform with coding agents, from initial
+    requirements through production release and ongoing
+    operation.
+  - Direct coding agents as a core part of daily development,
+    running multiple agents and workstreams in parallel to
+    take work from idea to production.
+  - Use coding agents to break requirements into well-defined
+    specifications, acceptance criteria, and tests that the
+    work can be built against and independently verified.
+  - Review agent-generated code for correctness, security,
+    performance, and maintainability, and reject changes that
+    are larger or more complex than the problem requires.
+  - Create and maintain the context files, reusable skills,
+    commands, and workflows that make agents reliable on the
+    Vcheck codebase, and correct recurring agent mistakes at
+    the source instead of in individual changes.
+  - Have agents draft automated tests, and maintain the CI/CD
+    pipelines that verify every change before it reaches
+    production.
+  - Develop and maintain secure, reliable REST APIs and
+    microservices, taking particular care with how sensitive
+    personal data is handled.
+  - Work with Product, Design, and business stakeholders to
+    translate needs into technical requirements that agents
+    can build against, and communicate progress, risks, and
+    tradeoffs clearly.
+  - Define engineering standards and best practices for agent-
+    first development, and mentor other engineers in adopting
+    them.
+  - Measure the quality, cost, and speed of AI-assisted
+    workflows, and use the results to improve them.
+  - Other duties as assigned.
+
+  About you
+
+  Key requirements:
+
+  We're looking for someone who is passionate about joining a
+  diverse team and is driven to achieve results through
+  ownership, process optimization, and upstanding character.
+  If this describes you, we encourage you to apply, even if
+  you don't meet every requirement listed.
+
+  - 3–5 years of professional software engineering experience
+    delivering production systems. Exceptional candidates with
+    less experience who can demonstrate this way of working
+    will also be considered.
+  - Hands-on, daily experience directing coding agents such as
+    Claude on real production codebases, including running
+    parallel sessions and verifying their output, and the
+    ability to describe specific production work delivered
+    this way.
+  - Strong fundamentals in system design, data modeling, API
+    design, debugging, and testing, with the judgment to
+    recognize when agent output looks correct but is not.
+  - Proficiency in Python (Django or FastAPI) and a modern
+    JavaScript framework, preferably React.
+  - Experience with PostgreSQL and at least one NoSQL database.
+  - Experience building and operating REST APIs and
+    microservices on AWS, including Docker, Kubernetes, and
+    CI/CD pipelines with Git-based workflows.
+  - Working knowledge of application security practices,
+    particularly for software that handles sensitive personal
+    data.
+  - Ability to take ownership of ambiguous problems and make
+    sound technical decisions with limited oversight.
+  - Strong written and verbal communication skills, including
+    the ability to document specifications and engineering
+    decisions for both technical and business audiences.
+  - Proficiency with Microsoft Office Suite and Microsoft Teams.
+  - Experience with evaluation harnesses, LLM application
+    patterns such as retrieval and tool calling, or MCP
+    servers is preferred.
+  - Experience mentoring other engineers and familiarity with
+    Agile delivery are a plus.
+
+  Why us?
+
+  You will be joining a cutting-edge company, where you will
+  tackle complex challenges and work with the very best in the
+  industry. In addition, we offer:
+
+  - Competitive compensation package, including equity
+  - Comprehensive benefits, including medical, dental, & vision
+    insurance coverage for you & your loved ones
+  - 401k plan with a 4% employer match
+  - Flexible vacation policy, encouraging you to take the time
+    you need
+  - Annual wellness allowance to support your health and well-
+    being
+  - Quarterly team events to keep us connected in a hybrid
+    environment
+  - Playing a vital role in shaping our company's future
+  - A fun and collaborative work environment where you'll be
+    supported by a team of dedicated and collaborative
+    colleagues
+
+  Please be aware that Vcheck uses AI-powered note-taking,
+  interview recording, and transcription tools to ensure
+  accuracy and efficiency during our talent acquisition
+  processes. By participating in the application and interview
+  stages, you acknowledge and consent to the use of these
+  technologies.
+
+  Vcheck is proud to be an equal opportunity employer. We are
+  committed to providing equal employment opportunities to all
+  employees and applicants without regard to race, color,
+  ancestry, religion, sex, age, national origin, sexual
+  orientation, gender identity, disability, genetic
+  information, veteran status, or any other factor protected
+  by applicable law. This policy applies to all employment
+  practices within our organization, including hiring,
+  recruiting, promotion, termination, layoff, recall,
+  transfer, leave of absence, compensation, benefits, and
+  training.
+
+  Vcheck expressly prohibits discrimination and harassment of
+  any kind based on race, color, ancestry, religion, sex, age,
+  national origin, sexual orientation, gender identity,
+  disability, genetic information, pregnancy, or any other
+  protected characteristic as outlined by federal, state, or
+  local laws.
+
+  No matter what background you bring with you, if you are
+  committed to excellence and good at what you do, we welcome
+  you to apply to join us and encourage you to come as you
+  are.
+industries:
+  - Business Intelligence
+  - Financial Services
+posted_date: 2026-11-20
+url: "https://builtin.com/job/senior-software-engineer/12353738"
+source: Built In

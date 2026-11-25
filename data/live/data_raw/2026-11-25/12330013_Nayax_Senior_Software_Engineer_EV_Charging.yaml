@@ -1,0 +1,113 @@
+job_id: 12330013
+title: Senior Software Engineer, EV Charging
+company: Nayax
+location: New York, USA
+work_type: FULL_TIME
+company_size: 729 Employees
+description: |
+  Description
+
+  Join Nayax, a global fintech leader (NASDAQ; TASE: NYAX) in
+  cashless payments, consumer engagement and business
+  management solutions, with more than 1,200 employees across
+  12 offices worldwide. Nayax Energy (formerly Lynkwell,
+  acquired by Nayax in 2025) is building an integrated energy
+  ecosystem for fleet electrification and public EV charging
+  networks. It is the entry point to mobility and energy
+  management for businesses, fleets, partners, utilities and
+  drivers.
+
+  Nayax Energy runs the software behind thousands of EV
+  chargers. It serves the stations themselves, the networks
+  that own them, the drivers who plug in, and the payments in
+  between. You'll help build the platform that makes charging
+  work every day, from the charger to the driver's phone.
+
+  This role requires working onsite from our Schenectady, NY
+  office five days per week.﻿
+
+  Your key responsibilities will include:
+
+  - Design and build event-driven services: Lambda and ECS
+    services that publish to and consume from Kafka, with
+    versioned schemas, idempotent consumers and safe retries.
+  - Build and change APIs used by our apps, our partners and
+    other services.
+  - Define infrastructure in AWS CDK: IAM, queues, alarms, log
+    groups and data stores, with leastprivilege access and
+    encryption by default
+  - Work on the hardware side: OCPP 1.6/2.0.1 messaging, smart
+    charging and load balancing, and the quirks of each
+    charger maker's firmwar
+  - Build payment and billing flows where correctness matters:
+    holds, captures, refunds, taxes a multiple currencies.
+  - Own projects end to end: shape the problem with product and
+    operations, write the design, split it into pieces you can
+    ship, build and release it, then watch it in production
+    until you know it works.
+
+  Requirements
+
+  What Makes You a Great Fit:
+
+  - 5+ years building production backend systems, with strong
+    TypeScript/Node.js.
+  - Real experience with AWS serverless and containers: Lambda,
+    ECS, SQS/SNS, DynamoDB, S3, IAM.
+  - Infrastructure as code (CDK, Terraform or CloudFormation).
+  - Experience with event-driven systems: Kafka or similar, at-
+    least-once delivery, idempotent consumers, schema
+    evolution, and events that arrive out of order.
+  - Comfort with MongoDB or another document store: data
+    modeling, indexing, change streams and migrations on live
+    data.
+  - A track record of owning things in production: you've read
+    logs and metrics to find a root caus
+  - shipped a fix, and written down what happened
+  - Good judgment on security in a multi-tenant system: tenant
+    isolation, validating input at the boundaries, handling
+    secrets, and keeping personal data out of logs.
+  - Clear writing. A lot of our design reasoning lives in PR
+    descriptions and design docs
+
+  Nice to have:
+
+  - OCPP, OCPI, or any work with physical devices or IoT (long-
+    lived WebSockets, reconnect storms, firmware difference)
+  - Payments: Stripe, card-present terminals, pre-authorization
+    and capture, reconciliation.
+  - Energy or utilities background: load management, demand
+    response, NEVI.
+  - Frontend: React, TanStack Query, Vite. Or mobile: React
+    Native/Expo, OTA updates.
+  - Localization (i18next) and handling multiple currencies.
+  - Using LLMs in the product, not just as a coding tool. We run
+    AI agents for fault learning and support
+
+  Learn More about Nayax
+
+  Founded in 2005, Nayax is a global fintech leader providing
+  end‑to‑end payment, consumer engagement, and business
+  management solutions. We help businesses grow revenue,
+  reduce operational complexity, and deliver seamless commerce
+  experiences across unattended, self‑service, and retail
+  environments.
+
+  With support for 80+ payment methods across 50+ currencies,
+  a European payment institution license, and strategic
+  partnerships with leading global financial institutions,
+  Nayax enables secure, scalable, and future‑ready commerce
+  worldwide.
+
+  Operating across 120+ countries with 1,200+ employees in 13
+  global offices, Nayax combines innovative technology with
+  real‑world impact. At Nayax, we build long‑term value
+  through smart automation, loyalty solutions, and an agile
+  ecosystem designed to scale with our customers - and our
+  people.
+industries:
+  - Fintech
+  - Financial Services
+posted_date: 2026-11-19
+url: "https://builtin.com/job/senior-software-engineer-ev-charging/12330013"
+source: Built In

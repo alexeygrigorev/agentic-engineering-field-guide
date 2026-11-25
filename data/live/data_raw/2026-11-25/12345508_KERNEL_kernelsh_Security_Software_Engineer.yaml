@@ -1,0 +1,115 @@
+job_id: 12345508
+title: Security Software Engineer
+company: KERNEL (kernel.sh)
+location: Cincinnati, USA
+locations:
+  - Cincinnati, USA
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 14 Employees
+description: |
+  About Kernel
+
+  KERNEL is infrastructure for AI agents to use the internet.
+  Agents buy things, run back-office operations and test apps
+  on KERNEL cloud browsers designed for performance,
+  reliability and scale, with identity, observability and
+  payments built in. KERNEL works with any agent harness or
+  model and is trusted by Town, Middesk, Framer, Vercel and
+  more than 20,000 teams. Founded in 2025, we are backed by
+  $22M+ from top investors including Accel and Y Combinator.
+
+  Our vision is to be the Internet runtime for agents. Agent
+  traffic now outpaces human traffic. The web needs new rails
+  for access, identity, and trust and we’re building them.
+
+  About the role
+
+  You’ll join a small, growing security team with broad scope:
+  product and platform security, compliance, and detection and
+  response. Every KERNEL session runs a real browser on shared
+  infrastructure and carries cookies, credentials, and the
+  pages an agent sees. Keeping each session sealed off from
+  the host and from other customers is one of the hardest
+  problems in infrastructure security, and core to our
+  product.
+
+  You’ll be the engineer our team trusts on building securely,
+  and you’ll write much of the code yourself. You’ll ship
+  controls, not just document them.
+
+  What you’ll do
+
+  - Browser and session isolation: hardening Chromium sandboxing
+    and the isolation layers around each browser; protecting
+    credentials in memory and at rest, including in our
+    Vaults; threat modeling new browser capabilities before
+    they ship.
+  - Attack prevention and detection: scoped, short-lived API
+    keys with network controls and easy rotation; phishing-
+    resistant SSO and least-privilege access across vendor and
+    cloud accounts; detections for credential abuse and
+    unusual workloads; incident response runbooks and drills;
+    running our HackerOne program and fixing root causes.
+  - Regulated data: leading HIPAA readiness, from mapping PHI
+    flows to signing BAAs; scoping PCI DSS for sessions where
+    agents enter card details, keeping card data out of scope
+    where possible and attesting where not.
+  - Data residency: regional deployments of our browser fleet,
+    control plane, and storage; routing that keeps sessions,
+    replays, and credentials in region; commitments Sales can
+    sign with confidence.
+  - Enterprise trust: SOC 2 Type II and ISO 27001; customer-
+    managed keys, SSO/SCIM, and audit logs; pen tests and
+    vendor risk; a trust center that answers most questions
+    before customers ask.
+
+  You will
+
+  - Own KERNEL’s security and compliance roadmap and the
+    controls behind our enterprise contract commitments.
+  - Design and ship infrastructure controls: tenant and session
+    isolation, encryption and key management, access control,
+    and audit logging.
+  - Lead audits end to end, and automate evidence collection and
+    compliance checks to keep pace with how fast we ship.
+  - Serve as our security expert in enterprise deals: run
+    reviews, meet customer security teams, and tell Sales what
+    we can commit to.
+  - Find weaknesses first through threat models, design reviews,
+    and attacking our own systems.
+  - Lead detection and incident response: build alerts that
+    catch abuse fast, run drills, and lead incidents.
+  - Influence a flat engineering team through clear reasoning
+    and good defaults.
+
+  What we’re looking for
+
+  - You’ve owned security or compliance for a cloud
+    infrastructure or developer platform, and taken at least
+    one framework (SOC 2, HIPAA, PCI DSS, ISO 27001) from gap
+    assessment to passed audit. Usually 6+ years, but
+    ownership matters more than tenure.
+  - You’re an engineer first: you write production code and
+    infrastructure-as-code.
+  - Deep cloud security knowledge: AWS or GCP, IAM, network
+    isolation, key management, containers, and multi-tenant
+    isolation.
+  - You can trace data through a system: where it’s written,
+    cached, logged, backed up, and sent to vendors.
+  - Strong judgment on which controls matter and how to weigh
+    risk against speed, explained clearly to engineers,
+    auditors, and CISOs.
+  - You’ve led response to a real incident, then built
+    prevention and detection so it couldn’t happen twice.
+  - You use AI daily to move faster on code, evidence, and
+    reviews.
+  - Strong written and verbal communication.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-11-19
+url: "https://builtin.com/job/security-software-engineer/12345508"
+source: Built In

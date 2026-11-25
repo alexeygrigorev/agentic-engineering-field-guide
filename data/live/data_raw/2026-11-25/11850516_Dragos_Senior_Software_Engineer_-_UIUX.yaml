@@ -1,0 +1,131 @@
+job_id: 11850516
+title: Senior Software Engineer - UI/UX
+company: Dragos
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 750 Employees
+description: |
+  At Dragos, the mission is personal. The systems we protect
+  deliver the water you drink, power your home, and keep the
+  hospitals your community depends on running. Those critical
+  infrastructure systems that power our civilization around
+  the world are under attack every day by adversaries. When
+  those systems fail, people are immediately at risk. We are
+  the global leader in xOT cybersecurity, combining
+  technology, threat intelligence, and expert services. The
+  people here chose this work because they understand what is
+  at stake. Here, you will find a remote-first mission-driven
+  team across North America, Europe, the Middle East, and APAC
+  built on authenticity, transparency, and trust. If
+  safeguarding the systems that protect your family, friends,
+  and community is the kind of work that matters to you, you
+  are in the right place.
+
+  About the Role
+
+  We are growing the engineering team behind Dragos Software
+  and Supply Chain Security product. As a Senior Software
+  Engineer, you will build and run the web application, the
+  GraphQL and gRPC APIs behind it, and the SDKs customers
+  build on, so security teams and integrators can see which
+  risks in their devices are actually exploitable.
+
+  This position reports to the Senior Director of Engineering,
+  and our engineers work together by shipping code,
+  troubleshooting problems, and listening to customers. You
+  will own the production code you ship, work with real-time
+  security data at scale, and turn dense binary-analysis
+  output into something a security team can read under
+  pressure.
+
+  What You'll Do
+
+  - Build and ship features across the React and TypeScript
+    frontend and the GraphQL and gRPC APIs behind it, from
+    scoping through design, implementation, and deployment
+
+  - Design and implement GraphQL schema and protobuf/gRPC
+    contract changes with versioning and schema evolution, so
+    existing customers and integrators keep working
+
+  - Build and maintain client SDKs in Python, TypeScript, and
+    Go, including the codegen pipelines, semantic versioning,
+    and release automation that keep them in sync with the API
+
+  - Define the contracts between your work and the backend team
+    (mostly Go services), and work with Product and Design to
+    turn customer needs into features
+
+  - Improve frontend performance, accessibility, and
+    observability in the code you own, write well-tested and
+    secure code, and give constructive code reviews
+
+  You Should Have
+
+  - 5+ years of professional experience building production web
+    applications and the APIs behind them, taking work from
+    idea to delivery with Product, Design, and Engineering.
+    Equivalent experience is equally valued
+
+  - React (hooks, Context, lazy loading, large component
+    architectures) and TypeScript, with modern front-end
+    tooling such as testing frameworks, state management, and
+    build tools
+
+  - GraphQL with Apollo Client and Apollo Server on Node.js, and
+    gRPC with Protocol Buffers (client consumption at minimum,
+    service design a plus)
+
+  - Hands-on API design, versioning, and schema evolution, plus
+    building and maintaining client SDKs in multiple languages
+    (such as Python, TypeScript, and Go) with codegen,
+    semantic versioning, and release automation
+
+  - Auth0, OAuth 2.0, and JWT flows
+
+  You May Have
+
+  - Data-heavy UIs, such as grids, charts, and virtualization,
+    or shared UI component libraries and design systems
+
+  - PostgreSQL (query patterns and data modeling), GCP (Cloud
+    Run, GCS), and Protobuf schema design with buf tooling
+
+  - OpenTelemetry, CI/CD with GitLab, feature flag systems such
+    as OpenFeature, and Terraform
+
+  - Cybersecurity, OT, or ICS experience, or SBOM knowledge
+    (CycloneDX, SPDX, CVE)
+
+  - Responsible use of AI-assisted development tools, and
+    experience driving technical initiatives or improving
+    engineering practices across teams
+
+  Compensation:
+
+  - Salary:  $165,000
+
+  - Competitive Equity Package
+
+  - Comprehensive Benefits Plan
+
+
+
+  #LI-JF1 #LI-REMOTE
+
+  #LI-NH1 #LI-REMOTE
+
+  Dragos is an Equal Opportunity Employer and considers
+  applicants for employment without regard to race, color,
+  religion, sex, orientation, national origin, age,
+  disability, genetics, or any other basis forbidden under
+  federal, state, or local laws. All new hires must pass a
+  background check as a condition of employment.
+industries:
+  - Information Technology
+  - Security
+  - Cybersecurity
+posted_date: 2026-11-23
+url: "https://builtin.com/job/senior-software-development-engineer-ui-ux/11850516"
+source: Built In

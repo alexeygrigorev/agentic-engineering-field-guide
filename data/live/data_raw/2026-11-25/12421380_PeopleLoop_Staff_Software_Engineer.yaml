@@ -1,0 +1,154 @@
+job_id: 12421380
+title: Staff Software Engineer
+company: PeopleLoop
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 64 Employees
+description: |
+  Who We Are:
+
+  PeopleLoop is an AI-powered experience that modernizes
+  benefits and PEO solutions for people-driven companies. It
+  reduces complexity and errors across critical people
+  operations, gives leaders clearer insight into compensation
+  and benefits costs, trends, and tradeoffs, and delivers a
+  more modern employee experience. Visit PeopleLoop.com or
+  follow us on LinkedIn to learn more.
+
+  In this role, you will lead the design and delivery of the
+  core services that every PeopleLoop product depends
+  on—including events, audit, EDI, the compliance graph, and
+  the enrollment orchestrator. You’ll also help build the
+  platform our AI agents run on: tool contracts, retrieval
+  over the compliance graph, LangGraph‑style orchestration,
+  and guardrails.
+
+  As a Staff‑level engineer, you’ll set patterns, mentor
+  engineers, drive design reviews and RFCs, and own the
+  quality bar for critical platform systems. Most services are
+  built in Python (FastAPI), with some in Node/TypeScript
+  (NestJS).
+
+
+  What you get to do:
+
+  - Platform Architecture: Define clear system boundaries and
+    ownership across Postgres (system of record), the
+    compliance graph, Python (FastAPI) and Node/TypeScript
+    (NestJS) services, event pipelines, AI agents, and
+    external partners (carriers, EDI, payroll).
+  - Audit: Build and maintain an append‑only, tamper‑evident
+    audit log across services. Provide query APIs for
+    compliance and support use cases, with retention and
+    legal‑hold support. Ensure every AI agent action is
+    audited end‑to‑end.
+  - EDI: Own 834 eligibility and 820 premium flows, including
+    partner variants. Build carrier adapters with strong
+    contract tests, reconciliation, and replay so new
+    integrations are primarily configuration, not bespoke
+    engineering work.
+  - Compliance Graph: Model jurisdictions, regulations, plans,
+    and eligibility rules in Neptune (or Neo4j). Own graph
+    modeling, bulk loading, query design, and safe retrieval
+    APIs that services and AI agents use to answer “what
+    applies here?”
+  - Enrollment Orchestrator: Design and evolve long‑running
+    workflows (Step Functions or Temporal) for open
+    enrollment, QLEs, terminations, and carrier submission.
+    Support agent‑assisted steps, simulation vs. live runs,
+    human approvals, and reliable replay and recovery.
+  - AI Agents & Platform: Help build the foundational agent
+    platform: tool contracts over internal APIs and the
+    compliance graph, retrieval and grounding, LangGraph or
+    similar orchestration, prompt and model registries,
+    evaluation harnesses, cost and latency controls, and
+    PII‑safe logging.
+  - Multi‑Tenant Core: Design and maintain strong tenant
+    isolation (RLS, per‑tenant keys), API gateway and
+    authorization (Cedar), secrets and KMS, rate limits, and
+    quotas—including per‑tenant agent budgets.
+  - Observability & Data: Deliver meaningful observability with
+    OpenTelemetry traces, metrics, and logs across services
+    and agent runs. Define SLOs that drive action. Own CDC
+    from Postgres into the lake for analytics and agent
+    evaluation datasets.
+  - Developer Experience: Improve developer velocity through
+    shared Python and TypeScript libraries, OpenAPI/GraphQL
+    code generation, and tests that cover workflows,
+    integrations, graph queries, and agent behavior.
+
+  What you bring:
+
+  - 7+ years of software engineering experience, with 2+ years
+    at Senior or Staff level owning cross‑team initiatives
+  - Strong production experience building Python services;
+    working proficiency in Node/TypeScript
+  - Deep experience with MongoSQL, PostgreSQL and at least one
+    of Kafka/MSK, Kinesis, or EventBridge
+  - Hands‑on AWS experience, including Step Functions or a
+    comparable workflow engine
+  - Shipped at least one LLM‑ or agent‑backed feature to
+    production, including retrieval, tool use, and guardrails
+    (LangGraph, LangChain, LlamaIndex, or similar)
+  - Experience designing and operating multi‑tenant systems with
+    strong security and privacy guarantees
+  - Comfortable writing RFCs, mentoring engineers, and driving
+    designs from concept through production
+  - Bachelor’s degree required, preferably in Computer Science,
+    Engineering, or a related technical discipline; equivalent
+    experience will be considered.
+
+  Nice to have
+
+  - Benefits, PEO, or EOR domain experience (834, 820, QLE,
+    COBRA, multi‑country payroll or employment)
+  - Production use of graph databases (Neptune, Neo4j) with
+    Cypher or Gremlin
+  - Workflow engines such as Temporal, Step Functions, or
+    Airflow
+  - Authorization engines and policy‑as‑code (Cedar, OPA)
+  - CDC pipelines (Debezium, DMS) and lakehouse architectures
+  - DSLs or rules engines for carrier mappings or compliance
+    checks
+  - Agent evaluation tooling (LangSmith, Ragas, Braintrust) and
+    prompt or model registries
+  - Vector stores and hybrid retrieval (pgvector, OpenSearch,
+    Pinecone)
+  - MCP servers, function‑calling contracts, or
+    structured‑output patterns
+
+  Location requirement: This role is based in either of San
+  Mateo or San Francisco Office.
+
+  Peopleloop’s Culture – Our most important asset
+
+  - Integrity
+  - Passion for service
+  - Innovative
+  - Growth oriented
+  - Caring for others
+  - Promise-centric
+  - Focused on relationship building
+
+  PeopleLoop provides equal opportunity to all applicants
+  without regard to race, color, creed, religion, citizenship,
+  national origin, age, sex, sexual orientation, gender
+  identity, pregnancy, marital status, military or veteran
+  status, disability, or any other basis prohibited by
+  applicable law.
+
+  Compensation & Benefits  PeopleLoop provides competitive
+  compensation including base salary, performance-based bonus
+  programs, equity, and comprehensive benefits package.
+
+  PeopleLoop’s Candidate Privacy Policy
+
+  https://www.peopleloop.com/legal/candidate-privacy-policy
+industries:
+  - Artificial Intelligence
+  - HR Tech
+  - Software
+posted_date: 2026-11-23
+url: "https://builtin.com/job/staff-software-engineer/12421380"
+source: Built In

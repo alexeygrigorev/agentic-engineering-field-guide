@@ -1,0 +1,150 @@
+job_id: 12392691
+title: Engineering Manager, Platform (Enablement)
+company: Risk Ledger
+location: London, GBR
+work_type: FULL_TIME
+company_size: 48 Employees
+description: |
+  About us
+
+  Risk Ledger is developing a network of connected
+  organisations, all working together to defend against
+  cybersecurity attacks in the supply chain.
+
+  Organisations rely on us to establish trust, through sharing
+  their security maturity and visualising the risks posed by
+  their supply chain ecosystem. And we’re already trusted by
+  customers like British Airways, BAE Systems and the NHS.
+
+  We are putting together an amazing and talented team from a
+  diverse set of backgrounds and skillsets to drive us towards
+  our vision. Risk Ledger is built on the respect we have for
+  one another and our users, united by our shared values and
+  mission.
+
+  Every one of us is still learning: it’s how we grow as
+  individuals. We’re curious. We’re ambitious. And we’re
+  humble and honest. At Risk Ledger, we aim high to find the
+  best solutions we can and always put our users first.
+
+  The role
+
+  You’ll lead Enablement, our platform group, which owns the
+  infrastructure, delivery pipelines and reliability practices
+  every engineering team builds on. You’ll also work closely
+  with Expansion, the group building new features and product
+  specs, so the platform speeds up feature delivery and
+  product ambitions are grounded in what the platform can
+  safely support.
+
+  Our core stack is Go, AWS and Vue.js, built cloud-native
+  with modern design principles.
+
+  What you’ll do
+
+  Platform strategy and delivery
+
+  - Set technical direction and a roadmap for platform, DevOps
+    and SRE work, and prioritise it against feature demand.
+  - Treat the platform as a product: understand what internal
+    teams need, measure adoption and satisfaction, and invest
+    where it removes the most friction.
+  - Improve CI/CD, infrastructure-as-code and developer tooling
+    to cut lead times and operational toil.
+  - Make sound trade-offs on scalability, security, cost and
+    resilience in AWS, and own the platform’s cloud spend.
+
+  Reliability and operations
+
+  - Own SLOs, error budgets and observability across the
+    platform and the services that run on it.
+  - Lead incident response and on-call practices, and run
+    blameless post-incident reviews that lead to real change.
+  - Build security-minded design into platform defaults, working
+    with security and compliance, which matters given the
+    sensitive data our customers entrust to us.
+
+  Working with Product and Expansion
+
+  - Partner with the Expansion team lead and Product Managers so
+    platform capacity and constraints are visible in planning.
+  - Balance technical investment against new build, and
+    communicate trade-offs on capacity and risk clearly to
+    senior and non-technical stakeholders.
+  - Use team charters (Team APIs) to define Enablement’s
+    mission, interaction modes and boundaries with stream-
+    aligned teams.
+
+  People and leadership
+
+  - Coach and develop engineers, and build a culture of
+    constructive feedback and psychological safety.
+  - Lead hiring and retention for platform and SRE roles.
+  - Lead complex cross-team projects such as migrations and
+    platform changes, and guide teams through technical and
+    organisational change.
+  - Work with the Head of Engineering and Principal Engineers to
+    mature engineering practices across technology, people and
+    process.
+
+  What you’ll bring
+
+  Essential
+
+  - Hands-on experience in platform engineering, DevOps or SRE,
+    including running production systems at scale.
+  - Strong production experience with AWS and Kubernetes/Docker.
+  - Infrastructure-as-code experience (for example Terraform or
+    CloudFormation) and modern CI/CD practice.
+  - Experience owning reliability: incident management, SLOs,
+    observability, performance and capacity planning.
+  - Security-minded design and a working understanding of cloud
+    security and compliance.
+  - Solid grounding in relational databases (Postgres/SQL) and
+    asynchronous messaging.
+  - Enough familiarity with Go and our wider stack to engage
+    credibly in design reviews.
+  - A track record of managing engineers or teams, ideally
+    platform or infrastructure teams.
+  - Clear communication with senior and non-technical
+    stakeholders on capacity, constraints and risk.
+  - Motivation by the growth and success of your people.
+
+  Desirable
+
+  - Experience treating a platform as an internal product, with
+    measurable developer-experience outcomes.
+  - Familiarity with Team Topologies and the DORA metrics.
+  - Experience working with Product on prioritisation across
+    both platform and feature work.
+
+  The perks:
+
+  - 💰Competitive base salary
+  - 📈Generous EMI equity package
+  - 👌Private pension
+  - ✈️28 days annual leave + bank holidays
+  - 🏖Additional 30 days of unpaid leave per year to use as you
+    wish
+  - 🎆Ad-hoc companywide time off over the festive period
+  - 🏥Private healthcare with AXA Insurance - including enhanced
+    mental wellbeing coverage
+  - 🏠Hybrid working policy, typically 2-3 days in the office
+  - 👶Enhanced family (parental) leave - gender-neutral policy,
+    12 weeks paid leave
+  - 👪5 days Caretaker's leave
+  - 😷Enhanced occupational sick pay
+  - 💻£500 WFH budget
+  - 📚All the learning resources and books you want to aid in
+    your personal development
+  - 🎉 Regular socials to unwind and have some fun
+
+  Salary range
+
+  £110,000—£135,000 GBP
+industries:
+  - Information Technology
+  - Cybersecurity
+posted_date: 2026-11-21
+url: "https://builtin.com/job/engineering-manager-platform-enablement/12392691"
+source: Built In

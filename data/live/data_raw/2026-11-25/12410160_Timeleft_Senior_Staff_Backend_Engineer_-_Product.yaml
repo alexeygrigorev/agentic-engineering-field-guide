@@ -1,0 +1,196 @@
+job_id: 12410160
+title: Senior / Staff Backend Engineer - Product
+company: Timeleft
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 95 Employees
+description: |
+  ⌘ Role Overview
+
+  We are looking for a Senior / Staff Backend Engineer who is
+  a product engineer. You will be the backend owner of new
+  product features and the bridge between the backend team and
+  the app team: the person product and mobile engineers come
+  to when a new feature starts, and the person who makes sure
+  it ships.
+
+  You will join a small backend team that runs one NestJS /
+  TypeScript API on GCP Cloud Run, backed by PostgreSQL, Redis
+  and Pub/Sub. That API serves our React Native app (iOS,
+  Android, Web), our internal operations tool and our AI-based
+  products.
+
+  We are an AI-first engineering team. You will use AI coding
+  tools every day, and you will be assessed based on what
+  ships and how it performs, not on how much code you write.
+
+  ⌘ Key Responsibilities
+
+  - Own new product features on the backend end to end: scoping,
+    API design, data model, implementation, tests, release and
+    follow-up in production.
+  - Act as the backend point of contact for the app team: agree
+    API contracts early, unblock mobile engineers, and keep
+    both sides moving in parallel.
+  - Use AI to ship fast and improve how we build: make AI tools
+    a core part of how you design, write, test and review
+    code, and keep improving our software development
+    lifecycle so the whole team ships faster.
+  - Build and maintain backend services in NestJS and
+    TypeScript, with PostgreSQL through TypeORM, Redis for
+    caching and Pub/Sub for asynchronous work.
+  - Work across product domains such as events, bookings,
+    matching-related flows, payments and subscriptions
+    (Stripe, RevenueCat), messaging and notifications.
+  - Make features measurable: make sure the events and data
+    needed to read the result of an experiment are there on
+    day one, working with the data team.
+  - Keep production healthy for what you ship: logs, alerts,
+    error triage and fixes.
+  - Raise the bar in the team: review code, share context in
+    writing, and help other engineers become owners of their
+    own areas.
+
+  ⌘ Expected Outcomes
+
+  - The backend team as a whole takes on more product work in
+    parallel, with the Backend Lead and this role covering
+    complementary areas.
+  - The backend has more capacity to drive the product forward
+    and to work on features, instead of being the constraint
+    on what we can build.
+  - Time to production for core features goes down: from an
+    agreed requirement to a first version live.
+  - A squad-based setup becomes possible around more
+    workstreams, because each squad can have the backend
+    ownership it needs.
+
+  ⌘ Required experience
+
+  - 6 to 8+ years of professional experience in backend
+    engineering, most of it on a live consumer product with
+    real traffic
+  - At least one product area you owned on the backend from
+    first version to maturity.
+  - Experience working in a cross-functional team with product,
+    design, mobile, QA and data.
+  - Strong production experience building cloud-native product
+    backend services for a B2C app in TypeScript and Node.js,
+    using relational databases.
+  - A track record of owning user-facing product features end to
+    end, from scoping to production: you work directly with
+    mobile or web engineers and product managers, and you
+    test, instrument, monitor and fix what you ship.
+  - Product thinking: you ask what we are trying to learn, push
+    back on scope, and choose the smallest version worth
+    building.
+  - You ship fast: you break work into small releases, get a
+    first version to production in days rather than months,
+    and iterate from real usage.
+  - AI coding tools are part of your daily workflow, and you can
+    tell when their output is wrong.
+  - Clear, direct communication with engineers and non-
+    engineers.
+  - Comfortable with changing requirements and short iteration
+    cycles.
+  - Proactive: you raise problems early and come with a
+    proposal.
+
+  Nice to have
+
+  - NestJS and PostgreSQL specifically.
+  - Payments and subscriptions (Stripe, RevenueCat, app store
+    billing).
+  - Event-driven or asynchronous systems (Pub/Sub, queues),
+    Redis.
+  - GCP (Cloud Run) and reading Terraform.
+  - React Native: able to read the app code and make small
+    changes on the client.
+  - Experience with LLM APIs in a product (we run AI-based
+    products on the same backend).
+  - Real-time features (chat, push notifications) and products
+    with an international user base (time zones,
+    localisation).
+  - Experience in a startup or a small team where you were the
+    owner, not one of many.
+
+  ⌘ Objectives for the first 3 months
+
+  Month 1 — Set up, learn, ship
+
+  - Development environment and AI-assisted workflow set up in
+    the first days; first change in production in the first
+    week.
+  - You have met the backend, app, product and data teams and
+    know who owns what.
+  - You understand how we work: planning, PRDs, code review,
+    release process, on-call and alerts.
+  - Several product features or meaningful improvements shipped
+    to production by the end of the month.
+
+  Month 2 — Lead an area, full speed
+
+  - You have taken the lead on one functional area of the
+    backend and are its recognised owner.
+  - You own a piece of product work end to end: from scoping
+    with product and the app team to release and results.
+  - You’re fully up to speed and delivering with the same
+    autonomy and pace as the rest of the team.
+
+  Month 3 — Drive the team forward
+
+  - You proactively propose improvements to the product and the
+    codebase, and get them agreed and shipped.
+  - You continuously improve our development process: changes
+    are in place and used by the team, not only proposed.
+  - You are a strong technical lead in the team: engineers
+    across backend and the app team rely on you, and you move
+    the product and the company forward, not only your own
+    tasks.
+
+  ⌘ Recruitment Process
+
+  - Screening call (30 min) with Julie, Talent Acquisition
+    Manager to discuss your experience, motivation,
+    understanding of the role, and practical details
+  - Live technical round (1h) with Kevin (Backend Lead) and
+    Nikolay (CTO) on technical depth, code quality, and your
+    thinking process
+  - Final interview (1h) with Nik (CTO) on system design,
+    product thinking, and cross functional collaboration
+industries:
+  - Consumer Web
+  - Events
+  - Mobile
+  - Social Media
+posted_date: 2026-11-23
+url: "https://builtin.com/job/senior-staff-backend-engineer-product/12410160"
+source: Built In

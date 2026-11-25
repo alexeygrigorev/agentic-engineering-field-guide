@@ -1,0 +1,227 @@
+job_id: 12263942
+title: Senior Software Engineer, Agentic Engineering
+company: Headway
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 819 Employees
+description: |
+  1 in 4 people in the US have a treatable mental health
+  condition, but most providers don't accept insurance, making
+  therapy too expensive for most people. Headway’s mission is
+  to fix this by building a new mental healthcare system
+  everyone can access. We started by solving the biggest
+  barrier to care: insurance. The admin work - credentialing,
+  claims, payment reconciliation - is a nightmare. We've
+  automated that.
+
+  But we're going further. Over 90,000 providers across all 50
+  states run their practice on our software, serving over 2.6
+  million patients. We are building the best tools for
+  therapists to run their entire practice, reimagining the
+  experience of finding a therapist, and investing in the
+  platform foundations to enable this at scale, and building
+  much of it with AI. We aren't just a billing layer; we are
+  becoming the platform where care actually happens.
+
+  We're a Series D company with $325M+ in funding (a16z,
+  Accel, Spark Capital, etc.), looking for exceptional people
+  to help us achieve this mission. We want your time here to
+  be the most meaningful experience of your career. Join us,
+  and help change mental healthcare for the better.
+
+  About Agentic Engineering at Headway
+
+  Building a new mental healthcare system at Headway is only
+  possible because of the scale and leverage that software can
+  provide. Agentic Engineering is one of three teams in
+  Engineering Foundations, alongside Infrastructure
+  Engineering and Eddy, Headway's internal AI platform.
+
+  Not all engineering work is interesting. We want engineers
+  to spend less time on repetitive maintenance and more time
+  on work for our customers. AI tools change every few months,
+  so we do not try to own one correct way to build. We find
+  what works and make it the easy default. We build only the
+  Headway-specific parts that no vendor will build for us.
+
+  We measure our work by business results, not by the number
+  of tools we ship. When product teams ship faster, Headway
+  can do more for patients, providers, and payers. Today, our
+  work has three parts. Every engineer uses the best AI coding
+  tools. Agents move a change from ticket to merged pull
+  request. Engineers get new ways to understand and review
+  code that they did not write line by line.
+
+  Principles that Guide Us
+
+  - Focus on the mission: We view software as a means of
+    effecting change in the world, not as an end unto itself.
+    We write software to empower our patients and therapists
+    to better solve the problems they're facing.
+  - Ship small, learn fast: We are building new and novel
+    products and believe that we learn what our users need by
+    quickly shipping and iteration.
+  - Everything is a product: Whether it's our patient search
+    experience or a developer productivity improvement, we
+    treat everything we build at Headway as a product with
+    end-users in mind.
+  - Optimize for trust: We believe that engineers should be
+    continually learning. To learn effectively and to be
+    productive, engineers must feel safe asking questions and
+    discussing mistakes.
+
+  About this role
+
+  Help Headway's engineers go fast and have a blast as AI
+  agents write more of the code. Find what slows product teams
+  down, and build the agentic tools and habits that fix it.
+
+  You will be a senior engineer on Agentic Engineering. Your
+  users are other Headway engineers. You will work closely
+  with the product teams that build for patients, providers,
+  and payers.
+
+  You will not wait for requests. You will go to the teams,
+  start the conversation, and find the large themes behind
+  their problems. Start with a business goal. For example, if
+  Headway wants more patients on the platform, talk to the
+  patient team. Find what slows them down, and help them go
+  faster.
+
+  The fix can be an agent workflow for a manual task that a
+  team does every week. It can be context that teaches agents
+  one part of our codebase. Sometimes a team only needs a tool
+  that we already built. Then your job is to show the tool to
+  them and help them use it.
+
+  Some of the work is building. Some of it is teaching: demos,
+  show-and-tells, and short guides that other teams can use.
+  We measure your work by how much faster the teams around you
+  ship, not by how much code you write. You will also help
+  decide what our team builds next.
+
+  What you'll own
+
+  - Product team partnerships. Work with product teams to find
+    the delays that cost the business the most. Remove those
+    delays with agents, tools, or new ways of working. Test
+    the result with the team, collect feedback, and improve
+    it.
+  - Headway-specific agentic tools. Build agent workflows and
+    tools for Headway's code and domains. Examples are context
+    that teaches agents our conventions, automation that
+    removes manual work, and checks that keep quality high as
+    code volume increases.
+  - Adoption and shared defaults. Turn what works into defaults
+    that every team can use, such as starter kits, agent
+    skills, and guides. Share demos, open betas, and short
+    updates. Follow up until teams use them.
+  - Code understanding. Help engineers understand code that
+    agents write. Find new ways to explain, review, and show
+    changes.
+  - Impact measurement. Connect each tool to a business result.
+    Measure throughput, time saved, and adoption. Stop work
+    that does not show results.
+  - Team operations. Share on-call, code review, design review,
+    and interviews with the team.
+
+  Tools we use
+
+  Cursor, Claude Code, and other AI coding agents · Eddy (our
+  internal AI platform) · Python 3, FastAPI, SQLAlchemy,
+  Temporal, Celery · TypeScript, React · Postgres, Redis ·
+  AWS, Terraform · Datadog · GitHub, Buildkite
+
+  Who you are
+
+  You are a senior engineer who uses AI to build every day.
+  You use tools such as Claude Code or Cursor in your own
+  work, and you made your own workflow better with them. For
+  every project, you first ask who the customer is and what
+  problem you solve for them. Your users are other engineers,
+  and you go to them. You do not hesitate to message an
+  engineer that you have never met.
+
+  You are comfortable when the best answer changes every few
+  months. When a better tool becomes available, you replace
+  your own tool with it.
+
+  Experience we're seeking
+
+  - You have 5 or more years of software engineering experience,
+    much of it on backend systems, platforms, internal tools,
+    or developer tools.
+  - You built internal or developer tools, and you got an
+    organization to adopt them. You can explain how you got
+    that adoption and how you measured it.
+  - You built something real with LLMs or coding agents. You
+    know where they fail, and you used evals, guardrails, or
+    human checks to control those failures.
+  - You write strong backend code in a large production
+    codebase. Python is a plus.
+  - You changed how a team works without being its manager. You
+    did this through close partnership, trust, and changes
+    based on feedback.
+
+  Nice to have
+
+  - Agent frameworks, workflow engines, or orchestration
+    (Temporal or similar)
+  - Context and retrieval systems, or LLM evals
+  - CI/CD and test infrastructure
+  - Teaching or enablement, such as workshops, internal guides,
+    or champions programs
+  - Experience in healthcare or another regulated domain
+
+  You'll love this role if you want to
+
+  - Help decide how a full engineering organization builds
+    software with agents
+  - Work each week with the engineers who use what you build
+  - See a team change how it works because of something you
+    showed them
+  - Do work that helps make mental healthcare accessible and
+    affordable
+
+  Comprehensive benefits:
+
+  Medical, dental, vision, HSA/FSA, 401(k) including match for
+  2027 (!), Carrot Fertility reimbursement, and paid parental,
+  medical and caregiver leave.
+
+  We believe a team's strength is in its people, and we cannot
+  achieve this mission without a team that reflects the
+  diversity of this problem – across race, ethnicity, gender,
+  sexuality, age, national origin, religion, family status,
+  disability, military status, and experience. Headway is
+  committed to the full inclusion of all qualified
+  individuals. As part of this commitment, Headway will ensure
+  that persons with disabilities are provided with reasonable
+  accommodations. If reasonable accommodation is needed to
+  participate in the job application or interview process, to
+  perform essential job functions, and/or receive other
+  benefits and privileges of employment, please inform the
+  recruiter when they contact you to schedule your interview.
+
+  Headway participates in E-Verify. To learn more, click here.
+
+  A notice to Headway applicants: To protect yourself against
+  phishing and recruitment fraud, please note that Headway
+  only accepts applications through our official careers page
+  at https://headway.co/careers. Headway will never refer you
+  to external websites, ask for payment or personal
+  information, or conduct interviews via messaging apps. All
+  official communication will come from a @findheadway.com
+  email address. If you are contacted by someone claiming to
+  be from Headway via an unofficial channel, please do not
+  share any information and report it as spam.
+industries:
+  - Consumer Web
+  - Healthtech
+  - Professional Services
+  - Social Impact
+  - Software
+posted_date: 2026-11-16
+url: "https://builtin.com/job/senior-software-engineer-agentic-engineering/12263942"
+source: Built In

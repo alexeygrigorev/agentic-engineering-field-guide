@@ -1,0 +1,163 @@
+job_id: 12279480
+title: Senior Cloud/Backend Engineer
+company: Triple Whale
+location: New York, USA
+work_type: FULL_TIME
+company_size: 141 Employees
+description: |
+  What Do We Do?
+
+  Triple Whale is the AI operating system built for modern
+  commmerce. We help you see what's actually working in your
+  business, what's not, and what to do next. Then we take
+  action for you — pausing the underperforming ad, generating
+  the next batch of creative, flagging the inventory risk
+  before it hurts your bottom line.
+
+  We pull every signal in your business into one place, and
+  put it on the most trusted measurement foundation in the
+  industry. And on top of that, we give you the only AI
+  harness in commerce — Moby — letting you tap any LLM you
+  want, grounded in the full context of your business. Moby
+  doesn't just surface insights, it executes decisions for
+  you, with automations that make the rest of your stack
+  smarter.
+
+  The result: more than 65,000 brands like Kitsch, OUAI, and
+  True Classic turn mountains of complex data into actions
+  that actually grow profit, at a speed and scale that is not
+  humanly possible.
+
+  Why Triple Whale Needs You:
+
+  Behind it all is a powerful, complex infrastructure. We run
+  hundreds of services across GCP and Kubernetes, manage
+  thousands of third-party integrations, and power real-time
+  analytics through our data warehouse. AI agents bring it all
+  together, orchestrating complex workflows at scale for our
+  customers.
+
+  And we do it all while keeping our systems fast, cost-
+  efficient, reliable, and secure—even when traffic surges
+  during peak seasons and events.
+
+  We don't just use cutting-edge technology. We push it to its
+  limits.
+
+  Are you passionate about building reliable, scalable
+  systems? Do you thrive on open-ended problems? Do you love
+  designing, building, and owning complex infrastructure from
+  conception to production?  If yes, you’re in the right
+  place.
+
+  A big focus on this position will be building security
+  controls across our cloud infrastructure, applications, and
+  AI systems. You’ll work alongside the Infrastructure and
+  engineering teams to turn security requirements into
+  practical protections that support fast development.
+
+  What You’ll Do:
+
+  - Be part of our on-call team**On-Call Responsibilities (2–3
+    rotations per month)- You will participate in a shared on-
+    call rotation, typically 2–3 times per month, covering the
+    period from Friday at 7:00 AM ET through Saturday at 5:00
+    PM ET.
+
+  How our on-call system works
+
+  - You’ll receive full internal training to understand our
+    architecture, operational flows, and incident procedures
+  - During your rotation, you are the primary point of
+    escalation for production issues
+  - On-call is not a daily responsibility, only during your
+    assigned weekends
+  - Shifts rotate across the team to maintain balance and avoid
+    burnout
+
+  What on-call requires
+
+  - Strong understanding of system architecture and cross-
+    service dependencies
+  - Previous real-world experience in production on-call
+    environments
+  - Ability to quickly assess incidents, identify scope/root
+    cause, and understand platform impact
+  - Ability to classify severity and prioritize response
+    appropriately
+  - Capability to deploy safe production hotfixes when needed
+  - Solid judgment under pressure - especially when operating
+    independently
+  - Ownership mindset: from detection to mitigation to
+    resolution
+
+  Other responsibilities:
+
+  - Run our GKE clusters - scaling, node pools, capacity
+    planning and peak readiness.
+  - Operate stateful systems at scale.
+  - Build internal tooling that accelerates developer velocity.
+  - Help other teams and developers design robust and scalable
+    and secure systems.
+  - Run observability, monitoring and incident response: alerts
+    that mean something, fast root-cause analysis and
+    postmortems that turn into code.
+  - Work on security engineering in various parts of the system
+    and the development process.
+
+  What You’ll Bring:
+
+  - 6+ years of experience as an independent backend or
+    infrastructure engineer
+  - Ability to design and build scalable, reliable systems
+  - Strong communication skills
+  - Hands-on builder mentality - this is a coding role.
+  - Good judgment about blast radius: you know when to move fast
+    and when to stage a change, and you can explain the
+    difference.
+  - Experience with:
+
+  Technologies we use
+
+  - Databases: ClickHouse, MongoDB, Redis, SonicDataFlow,
+    PubSub, Postgres, BigTable, Firestore.
+  - Infrastructure: Kubernetes, Knative, GCP, Temporal, Pulumi
+  - Languages: Node.js, TypeScript, Python
+  - Tooling: Git, GitHub, GCP build infrastructure, GitHub
+    Actions
+
+  The expected base salary for this role is
+  $155,000.00-$185,000.00 per year.  Eligible employees
+  receive medical coverage; a 401(k) with a company match of
+  up to 3%; 30 days of paid time off accrued monthly after the
+  first 30 days of employment; five sick days; and nine paid
+  company holidays. Triple Whale also offers paid parental
+  leave for eligible employees.
+
+  Our compensation ranges are set using benchmarks from
+  growth-stage companies and factor in function, level, and
+  location—so everything stays balanced and competitive. The
+  range listed on each job posting reflects the minimum and
+  maximum target salary across all U.S. locations.
+
+  Triple Whale is an equal opportunity employer. We celebrate
+  diversity and are committed to creating an inclusive
+  environment for all employees.
+
+  Join Us in Making Waves
+
+  If you’re looking for more than just a job and want to be
+  part of a movement reshaping the future of Ecommerce, Triple
+  Whale is the place for you. We’re on the lookout for driven,
+  curious, and creative individuals ready to thrive in a fast-
+  paced environment.
+
+  Referred?  Got here thanks to a friend? Splash some
+  gratitude their way!  They'll need to submit your
+  application through our referral system to make it official.
+industries:
+  - eCommerce
+  - Software
+posted_date: 2026-11-16
+url: "https://builtin.com/job/senior-cloud-backend-engineer/12279480"
+source: Built In

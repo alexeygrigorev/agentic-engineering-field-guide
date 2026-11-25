@@ -1,0 +1,232 @@
+job_id: 12275417
+title: Senior Staff Software Engineer
+company: SailPoint
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 2,461 Employees
+description: |
+  This is a US-based remote role. You will be required to
+  interview in person. About SailPoint SailPoint is defining
+  the next era of identity security. Our unified, AI-powered
+  platform seamlessly secures both the Human Fabric of your
+  workforce and the Agentic Fabric of AI and non-human
+  identities, completely eliminating organizational blind
+  spots. Built on core principles like zero-standing privilege
+  and contextualized risk, our platform transforms identity
+  from a vulnerability into a strategic business advantage.
+  Today, we are trusted by some of the largest, most complex
+  organizations in the world to deliver intelligent,
+  autonomous identity security at scale. About the Role As a
+  Senior Staff Engineer for Platform Services, you will serve
+  as the senior technical voice across 2 to 3 related platform
+  domains. You will partner with your Sr. EM / Director to set
+  the multi-quarter technical strategy for your domains,
+  design large-scale cross-domain initiatives, and champion
+  high-leverage architectural patterns across your domains. In
+  this role, you will navigate ambiguity, ramp quickly across
+  complex systems, and lead architectural reviews that elevate
+  design quality across teams without taking ownership away
+  from them. You will also serve as a key driver of modern,
+  AI-native software delivery: establishing spec-first
+  workflows, architecting agent-assisted engineering
+  pipelines, and developing the next generation of Staff
+  engineers across your domains. About the Team The Platform
+  Services organization builds and operates the core multi-
+  tenant services and distributed systems that power
+  SailPoint’s identity security suite. Our domains span high-
+  throughput ingestion, processing, and provisioning pipelines
+  (Refresh, Aggregation, and Provisioning - RAP),
+  authentication, API management and gateways, tenant
+  isolation, marketplace integrations, notifications,
+  approvals, and our next-generation Model Context Protocol
+  (MCP) Gateway. Cross-team collaboration and building
+  scalable, backward-compatible shared services are central to
+  everything we do. Roadmap for Success 30 Days: • Immerse
+  yourself in SailPoint’s platform architecture, core
+  services, and engineering standards. • Establish
+  relationships with engineering leaders, architects, and
+  technical leads across Platform Services and dependent
+  product teams. • Gain deep context on the
+  Refresh/Aggregation/Provisioning (RAP) pipelines,
+  authentication, API management, and MCP Gateway initiatives.
+  60 Days: • Actively participate in cross-domain
+  architectural reviews, identifying bottlenecks and
+  opportunities for cross-service consolidation and
+  standardization. • Collaborate with engineering managers to
+  evaluate current development workflows and design initial
+  pilots for spec-first, agent-assisted engineering. • Join
+  the escalation path for your domains’ on-call rotations, and
+  review their Service Level Objectives (SLOs), alert quality,
+  and open incident action items with the on-call engineers
+  and SRE partners. 90 Days: • Define and align a multi-
+  quarter technical roadmap across 2-3 platform domains in
+  collaboration with senior leadership. • Roll out structured
+  spec-first and agentic delivery pilots with clear
+  verification gates, rollout checks, security boundaries, and
+  outcome metrics. • Begin formal mentorship and sponsorship
+  of Staff and Senior engineers across your domains, and work
+  with EMs to plan the team’s AI upskilling. 6 Months: •
+  Successfully drive the architecture and delivery of key
+  cross-domain initiatives, such as MCP Gateway integrations,
+  tenant isolation enhancements, or pipeline throughput
+  optimizations. • Expand AI-native engineering practices
+  across teams, systematically removing bottlenecks in
+  testing, code review, and ephemeral environments. • Serve as
+  a trusted, stabilizing voice on architectural risk, cross-
+  team technical trade-offs, and critical incidents, and make
+  sure incident action items close and repeat incidents get a
+  lasting fix. 1 Year: • Establish a proven track record of
+  elevated platform scalability, reliability, and backward-
+  compatible API contracts across your domains. • Realize
+  measurable improvements in reliability, quality, and
+  delivery outcomes through established agent-assisted
+  delivery workflows. • Staff engineers across your domains
+  point to you as a key influence. Requirements • Bachelors
+  degree in related field, or equivalent professional
+  experience • Typically 10+ years of professional software
+  engineering experience designing, building, and operating
+  large-scale distributed systems and multi-tenant SaaS
+  platforms • Proven track record as a technical leader owning
+  technical direction across multiple engineering domains in
+  collaboration with senior leadership • Deep expertise in
+  building shared platform services, including API gateways,
+  authentication/authorization systems, multi-tenant
+  architectures, or high-volume event/data processing
+  pipelines • Strong background designing for strict API
+  contracts, backward compatibility, zero-downtime migrations,
+  and tenant data isolation • Hands-on ownership of production
+  reliability: on-call, SLOs, metrics, tracing, and alerts the
+  owning team acts on, plus leading root-cause analysis and
+  incident reviews through to closed action items • Experience
+  shipping changes safely at scale with canary releases,
+  feature flags, and fast rollback • Experience planning
+  capacity and cost for shared multi-tenant services, such as
+  databases, caches, and queues • Hands-on experience helping
+  a team adopt AI agents in daily delivery, with a strong
+  focus on verification gates, security, and human-in-the-loop
+  validation • Strong ability to evaluate AI tools and
+  foundation models based on outcome value, quality, latency,
+  and operational cost • Exceptional communication, cross-team
+  collaboration, and mentorship skills, with proven success in
+  developing Staff-level engineers Preferred Skills • Deep
+  interest or hands-on experience with Model Context Protocol
+  (MCP), agentic workflows, and non-human/AI identity
+  management • Background in Identity and Access Management
+  (IAM), Identity Governance and Administration (IGA), or
+  enterprise cloud security Tech Stack Must haves: •
+  Production experience building backend services in Java or
+  Go • Relational databases such as PostgreSQL, and caching
+  with Redis or similar • Distributed systems on AWS / Azure /
+  GCP, running on Kubernetes • Event-driven and queue-based
+  systems such as Kafka or SQS Nice to haves: • Temporal or
+  another durable workflow engine • DynamoDB • gRPC,
+  Envoy/xDS, or API gateway internals • Helm, Grafana, and
+  Prometheus AI-assisted engineering: Our engineers are
+  expected to use AI development tools as a core part of their
+  daily workflow, not as a novelty. We expect you to use these
+  tools to accelerate delivery, expand your scope, and raise
+  the quality bar, while applying strong engineering judgment
+  to review, validate, and own everything that ships under
+  your name. Comfort with prompting, agentic workflows, and
+  human-in-the-loop review of AI-generated code is a baseline
+  expectation for this role. AI related Technology: • Cursor,
+  Claude Code • AI code review tools • LLMs and Foundation
+  Models in Bedrock, VertexAI, or similar Benefits At
+  SailPoint, our identity security innovations are powered by
+  a global crew. We are proudly headquartered in Austin,
+  Texas, with a beautiful campus that overlooks the scenic 4
+  Points Preserve. We embrace a flexible, remote-first work
+  culture that prioritizes personal autonomy, trust, and work-
+  life balance. Working here is defined by “The SailPoint
+  Way”; a highly collaborative and inclusive environment where
+  leadership is transparent, “smart jerks” are not tolerated,
+  and crew members have the freedom to drive real impact in
+  security. We provide: Competitive Compensation • Flexible
+  Time Off: Trust-based vacation policies alongside paid
+  company holidays to help you recharge. • Comprehensive
+  Healthcare: Premium medical, dental, and vision insurance
+  options • Career Growth Opportunities • Plus so much more!
+
+  Benefits and Compensation listed vary based on the location
+  of your employment and the nature of your employment with
+  SailPoint.
+
+  As a part of the total compensation package, this role may
+  be eligible for the SailPoint Corporate Bonus Plan or a
+  role-specific commission, along with potential eligibility
+  for equity participation. SailPoint maintains broad salary
+  ranges for its roles to account for variations in knowledge,
+  skills, experience, market conditions and locations, as well
+  as reflect SailPoint’s differing products, industries, and
+  lines of business. Candidates are typically placed into the
+  range based on the preceding factors as well as internal
+  peer equity. We estimate the base salary, for US-based
+  employees, will be in this range from (min-max, USD):
+
+  $155,800 - $262,550.00
+
+  Base salaries for employees based in other locations are
+  competitive for the employee’s home location.
+
+  Benefits Overview
+
+  1. Health and wellness coverage: Medical, dental, and vision
+  insurance
+
+  2. Disability coverage: Short-term and long-term disability
+
+  3. Life protection: Life insurance and Accidental Death &
+  Dismemberment (AD&D)
+
+  4. Additional life coverage options: Supplemental life
+  insurance for employees, spouses, and children
+
+  5. Flexible spending accounts for health care, and dependent
+  care; limited purpose flexible spending account
+
+  6. Financial security: 401(k) Savings and Investment Plan
+  with company matching
+
+  7. Time off benefits: Flexible vacation policy
+
+  8. Holidays: 8 paid holidays annually
+
+  9. Sick leave
+
+  10. Parental support: Paid parental leave
+
+  11. Employee Assistance Program (EAP) and Care Counselors
+
+  12. Voluntary benefits: Legal Assistance, Critical Illness,
+  Accident, Hospital Indemnity and Pet Insurance options
+
+  13. Health Savings Account (HSA) with employer contribution
+
+  SailPoint is an equal opportunity employer and we welcome
+  all qualified candidates to apply to join our team.  All
+  qualified applicants will receive consideration for
+  employment without regard to race, color, religion, sex,
+  sexual orientation, gender identity, national origin,
+  disability, protected veteran status, or any other category
+  protected by applicable law.
+
+  Alternative methods of applying for employment are available
+  to individuals unable to submit an application through this
+  site because of a disability. Contact
+  applicationassistance@sailpoint.com or mail to 11120 Four
+  Points Dr, Suite 100, Austin, TX 78726, to discuss
+  reasonable accommodations.  NOTE: Any unsolicited resumes
+  sent by candidates or agencies to this email will not be
+  considered for current openings at SailPoint.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Sales
+  - Security
+  - Software
+  - Cybersecurity
+  - Data Privacy
+posted_date: 2026-11-19
+url: "https://builtin.com/job/senior-staff-software-engineer/12275417"
+source: Built In

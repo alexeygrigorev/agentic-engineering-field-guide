@@ -1,0 +1,227 @@
+job_id: 12326022
+title: Senior Software Engineer - (Genetics)
+company: Our Future Health UK
+location: London, GBR
+work_type: FULL_TIME
+company_size: 278 Employees
+description: |
+  We’re looking for a Senior Software Engineer to help build
+  the engineering foundations that underpin Our Future
+  Health’s genetic data pipelines.
+
+  This is an opportunity to combine hands-on Python and cloud
+  engineering with ownership of meaningful improvements,
+  tackling the challenges of processing sensitive genetic data
+  securely and at scale.
+
+  Our Future Health is an ambitious collaboration between the
+  public, charity and private sectors, designed to help people
+  live healthier lives for longer through better prevention,
+  earlier detection and improved treatment of diseases. We
+  will speed up the discovery of new methods of early disease
+  detection, and the evaluation of new diagnostic tools, to
+  help identify and treat diseases early, when outcomes are
+  usually better. With over 2.9M volunteers across the UK,
+  we’re now the world’s biggest health research programme of
+  its kind, and our volunteer group is also more diverse than
+  other, similar health research programmes.
+
+  Technology and data are central to our mission. Our systems
+  power web sites, clinics across the UK, secure analytics and
+  research systems, and pipelines that process highly
+  sensitive health and genetic data, and we are continuing to
+  grow our engineering capability to support this ambition.
+
+  Our Data Product squads build and operate the technology
+  that enables us to process and use large volumes of health
+  and research data. You’ll join our Genetic Data Enablement
+  squad, working alongside engineers and scientists on
+  specialist data challenges. As the programme grows, you’ll
+  help shape the infrastructure that enables this work, with
+  room to contribute your ideas and make lasting improvements.
+
+  Essential Duties and Responsibilities
+
+  Day to day work will vary depending on what your focus is at
+  that time, but will include things like:
+
+
+  - Responsible for developing and maintaining several
+    interacting data pipelines/flows, ensuring these meet the
+    user, business and technical requirements that have been
+    prioritised.
+  - Contribute to hands-on development of new features,
+    including features to support the deployment of data
+    pipelines at scale (setting up access control
+    configurations, deploying new clusters, building and
+    maintaining databases, deploying database replicas and
+    more).
+  - Be able to create MVP development environments and prototype
+    pipelines that can quickly and effectively demonstrate a
+    potential solution. Where possible these should draw on
+    existing workflows developed in industry and academia.
+  - Anticipate problems that could occur with pipelines and take
+    action to prevent them. Identify and describe problems
+    when they occur and be able to develop solutions that
+    address them for the short and long term.
+  - Contributing to engineering standards, apply them
+    consistently, and supporting other people to meet them.
+  - Support effective multidisciplinary working with other
+    teams, helping teams understand the role of software
+    engineering in Our Future Health and how to work
+    effectively together.
+  - Keep abreast of best practice in software engineering across
+    industry, research and Government, and identify
+    opportunities to bring these into Our Future Health.
+
+  Requirements
+
+  We welcome applications from all who may not feel they match
+  the full criteria, so if you have most of the below, we'd
+  like to hear from you: 
+
+  - Highly proficient in Python, with a strong software
+    engineering background.
+  - Proficient in cloud engineering, preferably Azure; we also
+    welcome transferable AWS or GCP experience.
+  - Hands-on experience with Infrastructure as Code, using tools
+    such as Terraform or Ansible.
+  - Demonstrable knowledge and experience in building solutions
+    centred around moving and processing large amounts of data
+    at pace and scale, using cloud-native. technologies such
+    as Kubernetes, Helm and Docker.
+  - Experience with storing, searching and filtering large scale
+    data.
+  - Experience in operationally managing software
+    components/service once live, including: observability
+    best practises, logging best practises, error reporting,
+    debugging and live incident management.
+  - Experience using tools such as Grafana, Prometheus, New
+    Relic etc.
+  - Experience in data modelling and design patterns; in-depth
+    knowledge of relational databases (PostgreSQL) and
+    familiarity with data lakehouse formats (storage formats,
+    e.g. Apache Parquet, Delta tables).
+  - Experience with Spark, Databricks, data lakes/lakehouses.
+  - Experience supporting software optimisation and benchmarking
+    across application, runtime and infrastructure layers.
+  - Experience working with external data suppliers (defining
+    requirements for suppliers, defining Service Level
+    Agreements, attending joint meetings when needed).
+  - Experience working in an Agile development team following
+    best practices including GitHub, code review, unit tests,
+    TDD and CI/CD.
+  - Experience leading software projects and developing people
+    and teams from a technical perspective.
+  - Can listen to the needs of technical and business
+    stakeholders and interpret them and effectively manage
+    stakeholder expectations. Can support or host difficult
+    discussions within the team or with diverse senior
+    stakeholders.
+  - Experience working with sensitive personal data.
+  - Experience working with a health data (genetic data,
+    clinical data, NHS data) would be advantageous. In
+    particular, any knowledge and experience of various types
+    of genetic data (e.g. genotype, WGS) and file types (e.g.
+    VCFs, matrix tables), as well as knowledge of
+    bioinformatics methods associated with genomic data would
+    be highly advantageous.
+
+  Why join us?
+
+  You’ll be joining at an important point in the growth of our
+  genetic data capabilities.
+
+  There’s room to shape how our infrastructure evolves,
+  contribute to technical decisions and see your improvements
+  make a lasting difference as the programme scales.
+
+  You’ll tackle complex engineering problems involving
+  specialist genetic datasets, working closely with engineers
+  and scientists to support new approaches to health research.
+
+  Bring your Python and cloud expertise to work with a clear
+  purpose. You’ll have ownership of substantial pieces of
+  delivery and the opportunity to deepen your skills alongside
+  our Staff Engineer and data specialists.
+
+  We’re looking for someone pragmatic, collaborative and
+  motivated by making systems work better. You’ll care about
+  engineering quality without over-engineering solutions, and
+  enjoy turning evolving requirements into reliable
+  foundations that others can build on.
+
+  Healthcare or genetics experience isn’t essential, but an
+  interest in our mission is. It’s an opportunity to learn a
+  new domain while applying your engineering experience to
+  technology that supports better prevention, detection and
+  treatment of disease.
+
+  Hiring process
+
+  We feel hiring should be transparent and give you a real
+  sense for what Our Future Health is like. Here's what you
+  can expect:
+
+  - Initial chat with our Talent team (30 min) to get to know
+    each other, discuss the role, and answer any questions you
+    have.
+  - 1st interview with our Engineering Manager, Tory Offord (30
+    min) – this is an opportunity to learn more about each
+    other and align on role expectations.
+  - Competency interview (60 min) with a small cross-functional
+    panel of your potential new colleagues. This will focus on
+    how you collaborate, work with stakeholders, and navigate
+    ambiguity and challenges in real-world projects.
+  - Final stage technical interview with members of our
+    engineering team (60 min), designed to explore your
+    engineering skills and how you would approach the real-
+    world responsibilities of this role. We’ll share the
+    format and any preparation details ahead of the interview.
+
+  Benefits
+
+  - Competitive base salary from £88,000 per annum
+  - Generous Pension Scheme – We invest in your future with
+    employer contributions of up to 12%
+  - 30 Days Holiday pro rata + Bank Holidays – Enjoy a generous
+    holiday allowance with the flexibility to take bank
+    holidays when it suits you
+  - Enhanced Parental Leave – Supporting you during life’s
+    biggest moments
+  - Cycle to Work Scheme – Save 25-39% on a new bike and
+    accessories through salary sacrifice
+  - Home & Tech Savings – Get up to 8% off on IKEA and Currys
+    products, spreading the cost over 12 months through salary
+    sacrifice
+  - EV Scheme – Save up to 40% on a brand new electric vehicle
+    all-inclusive package through salary sacrifice
+  - £1,000 Employee Referral Bonus – Know someone amazing? Get
+    rewarded for bringing them on board!
+  - Wellbeing Support – Access to Mental Health First Aiders,
+    plus 24/7 online GP services and an Employee Assistance
+    Programme for you and your family
+  - A Great Place to Work – We have a lovely Central London
+    office in Holborn, and offer flexible and remote working
+    arrangements
+
+  You may work remotely from anywhere within the UK, with
+  occasional travel to London.
+
+  We recommend you apply as soon as possible as occasionally
+  due to high volumes of applications, we need to close our
+  postings early.
+
+  At Our Future Health, we recognise the importance of having
+  a diverse workforce and ensuring that all candidates,
+  regardless of their background, have equitable access to our
+  application process. We proactively encourage applicants who
+  identify as having a disability, neurodiversity, or long-
+  term health conditions to let us know if they require any
+  reasonable adjustments as part of their application process.
+
+  If you do require any reasonable adjustments, please email
+  us at talent@ourfuturehealth.org.uk
+posted_date: 2026-11-19
+url: "https://builtin.com/job/senior-software-engineer-genetics/12326022"
+source: Built In

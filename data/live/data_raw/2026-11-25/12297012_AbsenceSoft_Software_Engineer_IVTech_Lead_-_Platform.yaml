@@ -1,0 +1,164 @@
+job_id: 12297012
+title: Software Engineer IV/Tech Lead - Platform
+company: AbsenceSoft
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 145 Employees
+description: |
+  At AbsenceSoft, we’re transforming the employee experience.
+  Our secure, intuitive technology helps employers bring
+  humanity, certainty, and efficiency to some of the most
+  complex moments in the workplace. Built by HR professionals
+  for HR professionals, we’re proud of where we’ve been and
+  even more excited about where we’re going.
+
+  Software Engineer IV / Tech Lead - Platform
+
+  Software Engineer IV/Tech Lead is a senior engineer on the
+  team responsible for the core of AbsenceSoft’s leave
+  management platform. Employers rely on it to decide whether
+  employees get the leave and pay their owed, so every change
+  must land safely in a system customers use every day. This
+  is a senior hands-on role with a path to tech lead. You will
+  write production code, shape technical direction alongside
+  the team’s tech leads, and raise the engineers around you,
+  partnering with Product and Engineering leadership to
+  deliver changes that hold up in production.
+
+  What You’ll Do
+
+  - Modernize the platform. Retarget shared libraries, separate
+    business logic, and move hundreds of legacy controllers
+    and views to ASP.NET Core.
+  - Upgrade the dependencies that block the move.
+  - Prove the old and new code behave the same. Write tests that
+    capture what the legacy code does today and compare
+    results before and after each change.
+  - Use AI coding agents for large repetitive changes such as
+    call-site rewrites, API-gap fixes, and test scaffolding.
+    Check their output with builds, tests, and diffs.
+  - Lead the work. Write the migration playbook, review other
+    teams’ migrations, guide the engineers on the program, and
+    work with Infrastructure, QA, and Product on sequencing
+    and risk.
+  - Keep the platform shipping. Migration work lands in small
+    changes that can each be released, alongside normal
+    feature work.
+
+  What’ll Set You Up for Success Required Skills
+
+  - You’ve led or delivered a large .NET Framework to modern
+    .NET migration of a production system that stayed live
+    during the move. A greenfield rebuild doesn’t count.
+  - Deep ASP.NET experience on both sides: MVC 5, Web API 2,
+    OWIN, and System.Web, and ASP.NET Core (middleware,
+    dependency injection, hosting, authentication).
+  - Fluency with the mechanics: SDK-style projects, target
+    frameworks and multi-targeting, .NET Standard, NuGet
+    compatibility, and dependency conflicts.
+  - Strong testing discipline (NUnit, xUnit, or MSTest),
+    including tests that pin down the current behavior of
+    legacy code you didn’t write.
+  - Daily hands-on use of AI coding tools, with the habit of
+    checking their output rather than trusting it.
+
+  Preferred Skills
+
+  - 10+ years of professional software engineering experience.
+  - Major library upgrades with breaking changes.
+  - Authentication/Authorization migration.
+  - Incremental-migration tooling.
+  - Multi-tenant SaaS, including keeping each customer’s data
+    isolated.
+  - C#, TypeScript/Node.js.
+  - AWS; Datadog or structured logging; Docker, GitHub Actions,
+    Jenkins.
+
+  Key Skills & Behaviors
+
+  - Rigor: treats “the number changed” as the worst bug a
+    migration can ship, and designs to prevent it.
+  - Incremental by instinct: prefers many small, safe,
+    releasable steps over one big cutover, and can explain how
+    each step rolls back.
+  - Scope discipline: keeps behavior the same during the move,
+    and writes redesign ideas down for later instead of
+    slipping them in.
+  - Domain curiosity: learns leave and pay rules well enough to
+    know which behaviors must not change.
+  - Honest estimator: surfaces risks early rather than absorbing
+    them quietly.
+  - Clear communicator: explains sequencing and risk to
+    engineers, Product, and executives.
+  - Mentor: leaves patterns and docs other teams can follow
+    without them.
+
+  Why join us
+
+  At AbsenceSoft, we LEAD with our values:
+
+  Lead with Innovation - We create meaningful change through
+  intelligence, focus and passion.  We embrace curiosity,
+  data, and insight to shape the future of our industry.
+  Always innovating, learning and evolving.
+
+  Elevate Every Voice - Every perspective matters. We listen,
+  learn, and build a culture where diversity of thought and
+  experience drives better solutions and smarter decisions.
+
+  Achieve Together - The customer fuels everything we do. We
+  share knowledge, collaborate, celebrate wins, and face
+  challenges as one team because success is always a
+  collective achievement.
+
+  Drive Outcome - Every action we take delivers measurable
+  value to our teams, our customers, and the employees they
+  support. Accountability is non-negotiable. We honor our
+  commitments, take responsibility for results, and see every
+  success and setback as a chance to grow stronger.
+
+
+
+  We offer:
+
+  - Impact that matters. You’ll do work that shapes the future
+    of the modern workplace
+  - Flexibility and trust. We’re remote-first and results
+    driven. You’ll have the freedom and flexibility to do your
+    best work, wherever you do it best.
+  - Growth and development. We believe the best work happens
+    when people are growing. You’ll have access to learning
+    resources, leadership programs, and real opportunities to
+    take on new challenges and expand your impact.
+  - Competitive rewards. We offer comprehensive benefits, a
+    performance-based bonus program, and equity opportunities
+    – because when we grow, you should too.
+  - Time for life. Recharge and reconnect with flexible time
+    off, paid holidays, and flexible leave programs designed
+    to support every season of life.
+  - Belonging and balance. We’re building an inclusive culture
+    where every voice is valued, collaboration is celebrated,
+    and success is shared.
+
+
+
+  We’re committed to building a team as diverse as the
+  customers we serve. If your experience doesn’t align
+  perfectly with every qualification, we still encourage you
+  to apply you might be exactly what we’re looking for. If
+  this sounds like a fit, apply today, we’d love to meet you!
+
+  Final compensation is determined based on a candidate's
+  relevant experience, skills, education, and geographic
+  location. This position is also eligible for annual bonus.
+
+  The pay range for this role is:
+
+  179,391 - 224,238 USD per year (US National)
+industries:
+  - HR Tech
+  - Software
+posted_date: 2026-11-17
+url: "https://builtin.com/job/software-engineer-iv-tech-lead-platform/12297012"
+source: Built In

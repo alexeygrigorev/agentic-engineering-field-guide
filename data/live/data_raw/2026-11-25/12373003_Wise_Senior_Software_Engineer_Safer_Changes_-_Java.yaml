@@ -1,0 +1,147 @@
+job_id: 12373003
+title: "Senior Software Engineer: Safer Changes - Java"
+company: Wise
+location: London, GBR
+work_type: FULL_TIME
+company_size: 9,000 Employees
+description: |
+  Company Description
+
+  Wise is a global technology company, building the best way
+  to move and manage the world’s money. Min fees. Max ease.
+  Full speed.
+
+  Whether people and businesses are sending money to another
+  country, spending abroad, or making and receiving
+  international payments, Wise is on a mission to make their
+  lives easier and save them money.
+
+  As part of our team, you will be helping us create an
+  entirely new network for the world's money. For everyone,
+  everywhere.
+
+  More about our mission and what we offer.
+
+  Job Description
+
+  At our scale, "testing" isn't about manual checks or writing
+  scripts; it’s a massive distributed systems problem. The
+  Safer Changes team within Developer Enablement is
+  responsible for building the internal platforms that allow
+  1,000+ engineers and autonomous agents to ship code with
+  maximum confidence and zero friction.
+
+  Note: This is a Backend Engineering role, not a QA or SDET
+  position. You won't be writing test cases for features. You
+  will be architecting the Java-based infrastructure,
+  intelligence layers, agentic layers and orchestration
+  engines that power the entire Wise engineering organisation.
+
+  You will be solving problems at scale, with large
+  engineering-wide organisational impact. When you create
+  platforms, services and opinionated standards/best
+  practices, you help accelerate Wise Engineers to solving
+  problems for our customers even faster. Specific challenges
+  include:
+
+  - Distributed Test Orchestration: Architecting a high-
+    throughput framework that automates the execution,
+    analysis, and collation of results across thousands of
+    concurrent jobs. You'll build the systems so that product
+    engineers never have to think about how their code is
+    validated—it just happens.
+  - Predictive Impact Intelligence: Building the logic and
+    services that understand our microservice graph. Your code
+    will determine exactly which business flows are impacted
+    by a specific change, automatically designing test
+    scenarios and provisioning purpose-built ephemeral
+    environments on the fly.
+  - Production-Grade Isolation: Developing the tooling and
+    infrastructure that allows unmerged, "dirty" code to be
+    tested in pre-production environments safely, ensuring
+    engineers can experiment without impacting the stability
+    of the testing platform or other developers.
+  - Agent-driven Verification: Build the APIs, tooling and
+    feedback loops that enable coding agents to prepare test
+    data, run relevant checks and diagnose failures without
+    human intervention. Work with our Agentic Coding
+    Environment team to make verification a reliable,
+    auditable part of the development loop.
+
+  Qualifications
+
+  We believe in automation as a product. We use Java and
+  Spring Boot to build robust, scalable internal services. We
+  operate with a "Platform-as-a-Product" mindset—our customers
+  are our fellow engineers, and our bar for reliability,
+  security, and performance is incredibly high.
+
+  What do you need?
+
+  - Advanced Java Engineering: You are a seasoned backend
+    engineer with deep expertise in Java and the Spring
+    ecosystem (Spring Boot).
+  - Systems Thinking: You enjoy thinking about problems at
+    scale—how services interact, how data flows through a
+    mesh, and how to build fault-tolerant systems.
+  - Cloud Infrastructure: Experience with AWS or GCP, and a
+    solid understanding of how cloud resources (Kubernetes,
+    Docker) are provisioned and managed.
+  - A "Product" Mindset for Tools: You are passionate about
+    developer experience. You want to build the tools you wish
+    you had earlier in your career.
+  - AI Curiosity and Openness: AI is reshaping the SDLC, and
+    this role helps shape that change at Wise. While healthy
+    scepticism is welcome, enthusiasm for experimenting and
+    making AI genuinely useful is essential.
+
+  Nice to Have
+
+  - Experience with CI/CD Orchestration (e.g., GitHub Actions,
+    Spinnaker).
+  - Familiarity with SRE principles, Chaos Engineering, or
+    observability stacks (Prometheus, Grafana, ELK).
+  - Knowledge of Service Mesh (Istio/Envoy) and complex cloud
+    networking.
+  - A background in building internal developer platforms or
+    high-leverage infrastructure.
+
+  You get back:
+
+  - True Autonomy: The freedom to define the technical vision
+    for how Wise handles change safety.
+  - High Visibility: Your work is used by every engineer in the
+    company, every single day.
+  - Impact: Help us in our Mission towards Money Without Borders
+    by ensuring our systems are the most reliable in the
+    industry.
+  - Growth: A clear engineering career map that rewards
+    technical depth and leadership.
+
+  Additional Information
+
+  For everyone, everywhere. We're people building money
+  without borders  — without judgement or prejudice, too. We
+  believe teams are strongest when they are diverse, equitable
+  and inclusive.
+
+  We're proud to have a truly international team, and we
+  celebrate our differences. Inclusive teams help us live our
+  values and make sure every Wiser feels respected, empowered
+  to contribute towards our mission and able to progress in
+  their careers.
+
+  If you want to find out more about what it's like to work at
+  Wise visit Wise.Jobs.
+
+  Keep up to date with life at Wise by following us on
+  LinkedIn and Instagram.
+industries:
+  - Fintech
+  - Mobile
+  - Payments
+  - Software
+  - Financial Services
+posted_date: 2026-11-20
+url: "https://builtin.com/job/senior-software-engineer-safer-changes-java/12373003"
+source: Built In

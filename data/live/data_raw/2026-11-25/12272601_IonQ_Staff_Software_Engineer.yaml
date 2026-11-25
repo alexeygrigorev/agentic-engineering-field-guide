@@ -1,0 +1,217 @@
+job_id: 12272601
+title: Staff Software Engineer
+company: IonQ
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 415 Employees
+description: |
+  About IonQ:
+
+  IonQ, Inc. [NYSE: IONQ] is the world’s leading quantum
+  platform and merchant supplier - delivering integrated
+  quantum solutions across computing, networking, sensing, and
+  security. IonQ’s newest generation of quantum computers, the
+  IonQ Tempo, is the latest in a line of cutting-edge systems
+  that have been helping customers and partners including
+  Amazon Web Services, and AstraZeneca achieve 20x performance
+  results and accelerate innovation in drug discovery,
+  materials science, financial modeling, logistics,
+  cybersecurity, and defense. In 2025, the company achieved
+  99.99% two-qubit gate fidelity, setting a world record in
+  quantum computing performance. Headquartered in College
+  Park, Maryland, IonQ has operations in California, Colorado,
+  Massachusetts, Tennessee, Washington, Italy, South Korea,
+  Sweden, Switzerland, Canada, and the United Kingdom. Our
+  quantum computing services are available through all major
+  cloud providers, while we also meet the needs of networking
+  and sensing customers across land, sea, air, and space. IonQ
+  is making quantum platforms more accessible and impactful
+  than ever before.
+
+  Role OverviewRole:
+
+  We are seeking a Staff Software Engineer to join our
+  Resilience Engineering & Operations team. You will design
+  and build software that helps operators run and maintain
+  IonQ’s production quantum computers, so they can keep the
+  fleet healthy, available, and performing reliably.
+
+  In this role, you will lead the design of operator tools and
+  automation that deploy, configure, monitor, and validate a
+  growing fleet of production systems. You will work side by
+  side with operators, hardware engineers, and physicists to
+  understand how production work actually gets done, then
+  build software, documentation, and self-service capabilities
+  that remove manual effort, reduce errors, and keep systems
+  available. This is an opportunity to shape how IonQ runs its
+  production fleet at a pivotal time as we scale.
+
+  Responsibilities:
+
+  You will help operators work independently by delivering
+  self-service capabilities, clear documentation, runbooks,
+  and hands-on training for the tools you build. You will also
+  develop automated validation, benchmarking, and performance
+  verification that runs before changes reach production.
+
+  You will set engineering standards for code quality,
+  testing, security, and maintainability, including secure-by-
+  default practices for CI/CD and secrets handling, and mentor
+  engineers through design reviews, code reviews, and pairing
+  to raise the technical bar across the organization. You will
+  take part in the team’s on-call rotation, which is well
+  documented in runbooks and kept manageable by automating
+  repetitive work.
+
+  Key responsibilities include:
+
+  - Own the architecture and technical roadmap for operator
+    tooling across production systems, including services,
+    CLIs, APIs, and interfaces used to deploy, configure, and
+    manage the fleet.
+  - Design and build software that automates repetitive and
+    error-prone production tasks, with safe defaults, clear
+    feedback, and guardrails against misuse.
+  - Treat operators as your customers: gather requirements,
+    observe real workflows, and ship tools that measurably
+    reduce effort and mistakes.
+  - Build reliability into production software through sound
+    design, thorough testing, fault tolerance, and
+    instrumentation that makes system health visible to
+    operators.
+  - Lead complex, multi-quarter engineering initiatives from
+    problem definition through delivery, including breaking
+    down work for other engineers.
+
+  Requirements:
+
+  You will have a Bachelor’s degree or equivalent industry
+  experience in Computer Science, Engineering, or a related
+  technical field, and 6+ years of professional software
+  engineering experience in a language like Python, Go, Rust,
+  or C++. You will bring a track record of designing and
+  shipping production software that others use to run or
+  manage systems, such as operational tooling, deployment
+  automation, or fleet management software, along with strong
+  software design skills, including API design, modular
+  architecture, and testing strategy.
+
+  You will have a solid understanding of Linux, networking,
+  and distributed systems, and how software behaves when they
+  fail in production, plus experience with containerization
+  and orchestration (for example Docker and Kubernetes) and
+  Infrastructure as Code or configuration management (for
+  example Terraform and Ansible). You can explain technical
+  concepts and tradeoffs clearly to engineers, operators,
+  leadership, and stakeholders outside software.
+
+  Above all, we are looking for a strong problem solver and
+  generalist who stays calm under pressure and puts the people
+  who use their tools first. Experience owning production
+  systems at a startup or scale-up would be a real advantage,
+  as would depth in secure software development, such as
+  software supply chain security, policy as code, and secure
+  pipeline design, and a background or emerging interest in
+  quantum computing or physics.
+
+  You’d be a great fit with:
+
+  - An MS or PhD, or equivalent industry experience, in Computer
+    Science, Aerospace, Mathematics, Physics, or a related
+    field.
+  - Experience building tools for hardware-coupled production
+    environments (on-prem, lab, edge, or HPC) where individual
+    machines differ in configuration.
+  - Experience enabling non-software users through tool design,
+    documentation, training, or usability research.
+  - Experience integrating software with monitoring and logging
+    tools such as Prometheus, Grafana, Mimir, Loki, or the ELK
+    stack.
+  - Experience working with technical experts outside
+    traditional software engineering, such as electrical
+    engineers and physicists.
+
+  The total compensation package includes base salary, bonus,
+  equity, and a range of benefits available on our career
+  site.
+
+  If this role has a commission structure, the compensation
+  range below just reflects the base compensation range.
+
+  Wage Transparency:
+
+  $160,000—$200,000 USD
+
+  Compensation will vary based on individual factors such as
+  education, qualifications, and experience of the final
+  candidate(s), specific office location, and calibration
+  against relevant market data and internal team equity.
+  Posted base salary figures are subject to change as new
+  market data becomes available. Our benefits include
+  comprehensive medical, dental, and vision plans, matching
+  401(k), unlimited PTO and paid holidays, parental/adoption
+  leave, legal insurance, and a home technology stipend.
+  Details of participation in these benefit plans will be
+  provided when a candidate receives an offer of employment.
+
+  At IonQ, we believe in fair treatment, access, opportunity,
+  and advancement for all while striving to identify and
+  eliminate barriers. We empower employees to thrive by
+  fostering a culture of autonomy, productivity, and respect.
+  We are dedicated to creating an environment where
+  individuals can feel welcomed, respected, supported, and
+  valued.
+
+  We are committed to equity and justice. We welcome different
+  voices and viewpoints and do not discriminate on the basis
+  of race, religion, ancestry, physical and/or mental
+  disability, medical condition, genetic information, marital
+  status, sex, gender, gender identity, gender expression,
+  transgender status, age, sexual orientation, military or
+  veteran status, or any other basis protected by law. We are
+  proud to be an Equal Employment Opportunity employer.
+
+  US Technical Jobs. The position you are applying for will
+  require access to technology that is subject to U.S. export
+  control and government contract restrictions.  Employment
+  with IonQ is contingent on either verifying “U.S. Person”
+  (e.g., U.S. citizen, U.S. national, U.S. permanent resident,
+  or lawfully admitted into the U.S. as a refugee or granted
+  asylum) status for export controls and government contracts
+  work, obtaining any necessary license, and/or confirming the
+  availability of a license exception under U.S. export
+  controls.  Please note that in the absence of confirming you
+  are a U.S. Person for export control and government
+  contracts work purposes, IonQ may choose not to apply for a
+  license or decline to use a license exception (if available)
+  for you to access export-controlled technology that may
+  require authorization, and similarly, you may not qualify
+  for government contracts work that requires U.S. Persons,
+  and IonQ may decline to proceed with your application on
+  those bases alone.  Accordingly, we will have some
+  additional questions regarding your immigration status that
+  will be used for export control and compliance purposes, and
+  the answers will be reviewed by compliance personnel to
+  ensure compliance with federal law.
+
+  US Non-Technical Jobs. Due to applicable export control laws
+  and regulations, candidates must be a U.S. citizen or
+  national, U.S. permanent resident (i.e., current Green Card
+  holder), or lawfully admitted into the U.S. as a refugee or
+  granted asylum. Accordingly, we will have some additional
+  questions regarding your immigration status that will be
+  used for export control and compliance purposes, and the
+  answers will be reviewed by compliance personnel to ensure
+  compliance with federal law.
+
+  If you are interested in being a part of our team and
+  mission, we encourage you to apply!
+industries:
+  - Artificial Intelligence
+  - Hardware
+  - Software
+  - Quantum Computing
+posted_date: 2026-11-16
+url: "https://builtin.com/job/staff-software-engineer/12272601"
+source: Built In

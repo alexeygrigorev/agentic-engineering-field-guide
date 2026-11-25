@@ -1,0 +1,188 @@
+job_id: 12284225
+title: Senior Software Engineer - MAIA System Infrastructure
+company: Microsoft
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 206,870 Employees
+description: |
+  Overview
+
+  We build the PCIe data path and host/device interface for
+  Microsoft’s MAIA AI accelerators. As a Senior Software
+  Engineer on the MAIA System Infrastructure team, you’ll work
+  at the boundary between Linux drivers, device firmware, and
+  silicon. Day to day, you’ll design the primitives that move
+  data through the chip’s memory fabrics, integrate and manage
+  the device as part of a host system, and build the tools
+  engineers use to understand its behavior. The MAIA execution
+  runtime builds on our interfaces, and model teams run their
+  workloads through that runtime. When a workload exposes a
+  limitation in our layer, you’ll partner with those teams to
+  isolate the cause, improve the underlying interface, and
+  verify the effect in the original scenario. You’ll work with
+  the engineers who design the silicon and the engineers who
+  build the runtime above it. When hardware behavior forces a
+  tradeoff between bandwidth, latency, and recovery, you can
+  help decide what the interface should guarantee, implement
+  it, and test it on the chip.
+
+
+
+  Microsoft’s mission is to empower every person and every
+  organization on the planet to achieve more. As employees we
+  come together with a growth mindset, innovate to empower
+  others and collaborate to realize our shared goals. Each day
+  we build on our values of respect, integrity, and
+  accountability to create a culture of inclusion where
+  everyone can thrive at work and beyond
+
+
+
+
+
+  Responsibilities
+
+  - Own the PCIe data path and the host/device interface. Design
+    and implement direct memory access (DMA) submission,
+    completion, and error reporting across the host driver and
+    device firmware. Specify what a completion guarantees and
+    when a caller can safely reuse a buffer.
+  - Design memory and synchronization primitives around the
+    chip’s addressing, ordering, and visibility guarantees.
+    Measure bandwidth, latency, and contention across its
+    memory fabrics to guide decisions about mappings, queue
+    depths, and transfer sizes.
+  - Own system-level chip integration and management. Bring up
+    device initialization and firmware loading, expose device
+    health to the host, and implement reset and recovery paths
+    that preserve isolation and account for in-flight work.
+  - Build observability and developer tools across the
+    host/device boundary. Give engineers the counters, traces,
+    and crash dumps to distinguish a backed-up host queue from
+    a stalled device and determine where progress stopped.
+  - Lead interface reviews and mentor engineers as new
+    capabilities move from bring-up to production. Verify
+    interface guarantees in simulation and on silicon with
+    stress tests, fault injection, and performance baselines.
+  - Work with runtime and model engineers when a particular
+    workload exposes a bottleneck in the platform. For
+    example, test whether batching DMA submissions closes idle
+    gaps on the PCIe link, then verify that the change helps
+    the workload that exposed them.
+
+  Qualifications
+
+  Required qualifications
+
+  - Bachelor's Degree in Computer Science or related technical
+    field AND 4+ years technical engineering experience with
+    coding in languages including, but not limited to, C, C++,
+    C#, Java, JavaScript, or Python OR equivalent experience.
+
+  Other Requirements
+
+  Ability to meet Microsoft, customer and/or government
+  security screening requirements are required for this role.
+  These requirements include, but are not limited to the
+  following specialized security screenings: Microsoft Cloud
+  Background Check: This position will be required to pass the
+  Microsoft Cloud background check upon hire/transfer and
+  every two years thereafter.
+
+
+
+  Preferred qualifications
+
+  - Experience with PCIe, DMA, memory fabrics, memory-mapped
+    I/O, or accelerator memory systems.
+  - Experience developing and shipping systems software in C,
+    C++, or a comparable language for device drivers,
+    firmware, operating systems, or high-performance I/O.
+  - Experience diagnosing a performance or correctness issue
+    involving concurrency, memory behavior, or data movement,
+    and validating a fix through tests or measurements.
+  - Experience designing or evolving a low-level interface with
+    engineers responsible for adjacent hardware or software
+    components.
+  - Experience bringing up and managing devices across firmware
+    and Linux drivers, including initialization, health
+    monitoring, fault isolation, or recovery.
+  - Experience building low-level debugging or profiling tools,
+    or validating hardware/software interactions in simulation
+    and on silicon.
+  - Familiarity with how accelerator runtimes use device
+    interfaces, or experience working with runtime engineers
+    on a workload-specific performance issue.
+  - Contributions to open-source systems software are welcome.
+
+
+
+
+
+  Microsoft is an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to age, ancestry, color, family or medical care
+  leave, gender identity or expression, genetic information,
+  marital status, medical condition, national origin, physical
+  or mental disability, political affiliation, protected
+  veteran status, race, religion, sex (including pregnancy),
+  sexual orientation, or any other characteristic protected by
+  applicable laws, regulations and ordinances.  We also
+  consider qualified applicants regardless of criminal
+  histories, consistent with legal requirements. If you need
+  assistance and/or a reasonable accommodation due to a
+  disability during the application or the recruiting process,
+  please send a request via the Accommodation request form.
+
+
+
+
+
+
+
+  #aiplatform, #aifx, #aifxnest, #maia #aiinfra
+
+
+
+
+
+  Software Engineering IC4 - The typical base pay range for
+  this role across the U.S. is USD $119,800 - $234,700 per
+  year. There is a different range applicable to specific work
+  locations, within the San Francisco Bay area and New York
+  City metropolitan area, and the base pay range for this role
+  in those locations is USD $160,200 - $261,000 per year.
+
+
+
+  Certain roles may be eligible for benefits and other
+  compensation. Find additional benefits and pay information
+  here: https://careers.microsoft.com/us/en/us-corporate-pay
+
+  This position will be open for a minimum of 5 days, with
+  applications accepted on an ongoing basis until the position
+  is filled.
+
+  Microsoft is an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to age, ancestry, citizenship, color, family or
+  medical care leave, gender identity or expression, genetic
+  information, immigration status, marital status, medical
+  condition, national origin, physical or mental disability,
+  political affiliation, protected veteran or military status,
+  race, ethnicity, religion, sex (including pregnancy), sexual
+  orientation, or any other characteristic protected by
+  applicable local laws, regulations and ordinances. If you
+  need assistance with religious accommodations and/or a
+  reasonable accommodation due to a disability during the
+  application process, read more about requesting
+  accommodations.
+industries:
+  - Software
+  - Quantum Computing
+  - Metaverse
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-11-20
+url: "https://builtin.com/job/senior-software-engineer-maia-system-infrastructure/12284225"
+source: Built In

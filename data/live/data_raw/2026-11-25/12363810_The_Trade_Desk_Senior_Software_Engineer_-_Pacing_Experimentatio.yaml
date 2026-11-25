@@ -1,0 +1,210 @@
+job_id: 12363810
+title: "Senior Software Engineer - Pacing & Experimentation"
+company: The Trade Desk
+location: New York, USA
+work_type: FULL_TIME
+company_size: 2,700 Employees
+description: |
+  The Trade Desk is a global technology company and the
+  world’s leading independent platform for digital
+  advertising, with over 3,000 employees across more than 30
+  offices. Our technology helps advertisers reach the right
+  audiences across the open internet — from streaming TV and
+  podcasts to mobile apps, news, and more.   Advertising
+  powers the content people love. By making it more
+  transparent, effective, and responsible, we help support
+  trusted journalism, quality entertainment, and creators
+  worldwide. The world’s brands and agencies rely on us to
+  reach their customers and grow their businesses responsibly.
+  The scale of our platform brings unique technical challenges
+  — from processing massive datasets in real time to building
+  systems that operate reliably on a global scale. When you
+  work here, your impact is worldwide. We welcome diverse
+  perspectives, encourage curiosity, and build teams that
+  learn from one another. If you’re driven to solve meaningful
+  challenges, we’d love to meet you.
+
+  About the role
+
+  Every campaign on our platform has a budget and a flight,
+  and our pacing system decides in real time how to spend it
+  against 20M queries per second. It has to bid the right
+  amount on every impression, at the right rate, so
+  advertisers spend their budget in full and get the most
+  value from it.
+
+  Changing a system like that safely is its own engineering
+  problem. An ordinary A/B traffic split breaks down here,
+  because both arms draw on the same campaign budget and one
+  arm's spend distorts the other. We solve this with budget
+  split experiments: each arm gets its own share of the
+  budget, its own pacing calculation and its own spend
+  tracking, all inside one live campaign. This is now how we
+  gain confidence in any change to bidding behavior.
+
+  We are looking for a senior engineer to work across both
+  areas: the pacing engine itself, and the experimentation
+  infrastructure that proves changes to it. You will build in
+  the services that compute pacing instructions and apply them
+  at bid time. You will also extend the experiment framework
+  so teams across the company can launch a trustworthy
+  experiment in hours instead of weeks.
+
+  We work in a highly collaborative environment with a broad
+  range of technologies, including .NET, Kafka, Kubernetes,
+  Spark and Delta Lake. If you have built experimentation
+  platforms or real-time decisioning systems outside ad tech,
+  such as trading, payments or marketplace pricing, we want to
+  hear from you.
+
+  What you will do
+
+  - Design, build and own features in the pacing system from
+    inception to production: the services that calculate
+    budget allocation and pacing constraints on a continuous
+    cycle, and the bid-time code that applies them.
+
+  - Extend our budget split experimentation framework, including
+    deterministic assignment of users to arms, per-arm budget
+    partitioning and enforcement, spend attribution, and
+    experiment lifecycle management.
+
+  - Bring budget split experiments to more of the bidding stack
+    and more campaign types, and reduce launch time.
+
+  - Build the guardrails that keep experiments safe on live
+    customer budgets
+
+  - Build the data pipelines, metrics and dashboards that let
+    engineers, data scientists and product managers compare
+    arms on delivery, pacing and campaign KPIs, then make a
+    ship decision.
+
+  - Partner with applied science and product on changes to
+    pacing and bidding algorithms, and prove them through A/A
+    and A/B experiments.
+
+  - Drive complex changes that span multiple components and
+    teams, and lead projects with a high degree of technical
+    ambiguity.
+
+  - Deliver quality changes with automated tests, metrics,
+    monitoring and staged rollouts.
+
+  - Understand the business objectives behind the code, and
+    contribute to clear success criteria for the work.
+
+  - Use data to analyze and communicate the impact of your work.
+
+  - Lead others through example, mentorship and code review, and
+    take part in hiring.
+
+  Who you are
+
+  Successful candidates will have the following minimum
+  qualifications:
+
+  - 5+ years of software development experience
+
+  - Proficiency in one or more of C#, Java, C++ or Python, plus
+    working SQL
+
+  - Experience building and operating distributed systems at
+    scale
+
+  - Solid understanding of computer science fundamentals
+
+  - Experience with data processing, and comfort querying large
+    datasets to debug and validate system behavior
+
+  - A track record of owning software from design through
+    production, including testing, monitoring and on-call
+    support
+
+  - Clear communication with engineering, product and data
+    science partners
+
+  Preferred skills
+
+  - Experience building or operating an experimentation
+    platform: assignment and bucketing, exposure logging,
+    guardrail metrics and analysis pipelines
+
+  - Working knowledge of experiment design and statistics, such
+    as A/A tests, power, variance and interference between
+    arms, especially in marketplaces or budget-constrained
+    systems
+
+  - Experience with real-time decisioning or control systems,
+    such as pacing, bidding, rate limiting, trading, payments
+    or pricing
+
+  - Experience with low-latency, high-throughput services
+
+  - Stream and batch data processing with Kafka, Spark,
+    Databricks or Delta Lake
+
+  - Databases such as Microsoft SQL Server, Vertica, Aerospike
+    or Redis
+
+  - Kubernetes and cloud infrastructure
+
+  - Observability tooling such as Grafana and Prometheus
+
+  - Familiarity with ad tech is helpful but not required
+
+
+
+  In accordance with various US state laws, the range provided
+  is the Trade Desk's reasonable estimate of the base
+  compensation for this role. The actual amount may differ
+  based on non-discriminatory factors such as experience,
+  knowledge, skills, and location.  All employees may be
+  eligible to become The Trade Desk shareholders through
+  eligibility for stock-based compensation grants, which are
+  awarded to employees based on company and individual
+  performance. The Trade Desk also offers other compensation
+  depending on the role such as variable compensation-based
+  incentives and commissions. Plus, expected benefits for this
+  role include comprehensive healthcare (medical, dental, and
+  vision) with premiums paid in full for employees and
+  dependents, retirement benefits such as a 401k plan and
+  company match, short and long-term disability coverage,
+  basic life insurance, well-being benefits, reimbursement for
+  certain tuition expenses, parental leave, sick time of 1
+  hour per 30 hours worked, vacation time for full-time
+  employees up to 120 hours thru the first year and 160 hours
+  thereafter, and around 13 paid holidays per year.  Employees
+  can also purchase The Trade Desk stock at a discount through
+  The Trade Desk’s Employee Stock Purchase Plan.
+
+  The Trade Desk also offers a competitive benefits package.
+  Click here to learn more.
+
+  Note: Interns are not eligible for variable incentive awards
+  such as stock-based compensation, retirement plan, vacation,
+  tuition reimbursement or parental leave
+
+  At the Trade Desk, Base Salary is one part of our
+  competitive total compensation and benefits package and is
+  determined using a salary range. The base salary range for
+  this role is
+
+  $124,900—$228,900 USD
+
+  As an Equal Opportunity Employer, The Trade Desk is
+  committed to creating an inclusive hiring experience where
+  everyone has the opportunity to thrive.
+
+  Please reach out to us at accommodations@thetradedesk.com to
+  request an accommodation or discuss any accessibility needs
+  you may require to access our Company Website or navigate
+  any part of the hiring process.
+
+  When you contact us, please include your preferred contact
+  details and specify the nature of your accommodation request
+  or questions. Any information you share will be handled
+  confidentially and will not impact our hiring decisions.
+posted_date: 2026-11-20
+url: "https://builtin.com/job/senior-software-engineer-pacing-experimentation/12363810"
+source: Built In

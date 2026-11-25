@@ -1,0 +1,162 @@
+job_id: 12279874
+title: Senior Software Engineer, Data Platform
+company: Chronograph
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  Company Overview
+
+  Chronograph was founded to bring next-generation technology
+  to private capital markets. Through our suite of cloud-based
+  analytics and data management solutions, we help many of the
+  world's largest and most sophisticated venture capital,
+  private equity, and credit funds understand their investment
+  performance in unprecedented detail, with over 258,000
+  private companies and 15,000 private capital funds monitored
+  via our solution suite.
+
+  At Chronograph, we get to go "behind the scenes" and work
+  directly with investors who are driving some of the most
+  impactful changes across high growth start-ups, global
+  infrastructure and renewable energy, growth equity, and all
+  other private capital strategies. The firm is backed by
+  Sixth Street Growth, Summit Partners, Carlyle AlpInvest, and
+  Nasdaq Inc., and has seen continuous rapid growth since its
+  founding in 2016. Our client base today includes hundreds of
+  investors and asset managers monitoring more than $5.9
+  trillion in invested capital with 8 of the 10 largest GPs
+  and 5 of the 10 largest LPs using Chronograph.
+
+  The Role
+
+  Bring your expertise to a highly collaborative and
+  innovative team with a market-leading technology product
+  suite. We are seeking a technically excellent, platform-
+  minded Senior Software Engineer to join our Data Platform
+  team, part of Chronograph's Developer Platform group. Data
+  Platform owns the systems that move data in and out of
+  Chronograph, including our client-facing GraphQL API, client
+  data warehousing through Snowbank, our Snowflake-based
+  solution, and the integrations that bring market data and
+  other third-party financial data into our product.
+
+  The team is also building the foundation for how AI agents
+  work with company data at Chronograph. It owns the full
+  stack, from an internal data lake built for agents to MCP
+  governance and access control. That lets agents answer
+  questions across our systems quickly and reliably. You will
+  work closely with product engineering teams, client-facing
+  teams, and the rest of Developer Platform to help engineers
+  ship faster and with higher quality. This position will
+  report to the Data Platform lead, with engagement across the
+  organization while you help define the team's technical
+  direction and raise the bar on how we build our data
+  infrastructure.
+
+  This is an exceptional opportunity for a driven, detail-
+  oriented top performer to become directly engaged with
+  several of the world's most sophisticated private equity
+  investors and produce an immediate impact within a globally-
+  focused financial technology firm.
+
+  As a Senior Software Engineer focused on Data Platform at
+  Chronograph, you will:
+
+  - Design, build, and own resilient integrations and ingestion
+    pipelines that bring third-party financial data (market
+    prices, public metrics, private benchmarks, FX rates, cap
+    tables, and client cashflows) into our platform
+  - Evolve our client-facing GraphQL API and Snowflake data
+    warehousing offering, including versioning, change
+    management, usage monitoring, and expansion to new cloud
+    environments
+  - Build and scale our internal data lakehouse and the agent-
+    facing MCP interface on top of it, with governance
+    designed in from the start: layered access, sensitive-data
+    treatment, audit logging, and deletion
+  - Strengthen core platform capabilities such as row-level
+    security and client-controlled sandbox refreshes,
+    partnering with DevOps and Infrastructure where needed
+  - Collaborate with product engineering, client solutions, and
+    data consumers across the company to define clear data
+    contracts and remove bottlenecks in how teams produce and
+    consume data
+  - Drive improvements in observability, testing, and
+    operational practices so pipelines and APIs fail loudly,
+    recover cleanly, and stay maintainable as data volume
+    grows
+  - Mentor teammates through design reviews, code reviews, and
+    knowledge sharing, and help shape the Data Platform
+    roadmap
+
+  You will be successful in this role if you have:
+
+  - Three to five (3–5) years of professional backend software
+    engineering experience, with a track record of owning
+    production systems end to end
+  - Deep experience building and operating API integrations and
+    ELT/ETL pipelines, including handling schema drift,
+    retries, idempotency, and data quality
+  - Strong PostgreSQL skills, including schema design, query
+    performance, and security patterns such as row-level
+    security
+  - Proficiency in TypeScript/Node.js; experience with Ruby on
+    Rails is a plus
+  - Experience designing and maintaining client-facing APIs,
+    ideally GraphQL
+  - Hands-on experience with AWS (Lambda, S3, IAM) and cloud
+    data warehouses such as Snowflake
+  - Familiarity with modern data tooling such as dbt, dlt,
+    Apache Iceberg, or DuckDB
+  - A platform mindset: you build for other engineers and
+    consumers, think in contracts and interfaces, and care
+    about governance and security
+  - Nice to have: experience building infrastructure for LLM
+    agents, including MCP servers, tool design, or semantic
+    layers
+  - Nice to have: experience with financial data or private
+    capital markets
+  - Positive attitude, sense of humor and creativity
+  - Strong analytical, project leadership and communication
+    skills
+
+  Even if you do not meet all criteria, we would still
+  encourage you to apply or get in touch! Chronograph offers
+  an entrepreneurial environment where you will be able to
+  proactively identify opportunities to develop and strengthen
+  our team.
+
+  Why Join Chronograph?
+
+  We value creativity, open communication, cutting edge
+  technology, striving for excellence in all things – and
+  having fun along the way. We want you to be happy here for
+  the long-term.
+
+  We offer:
+
+  - Flexible work arrangements (including remote / hybrid)
+  - Competitive salary
+  - Equity Participation
+  - 401k
+  - Unlimited and flexible vacation
+  - Generous health benefits
+  - Team week events in HQ (Brooklyn, NY) three times annually
+    for all employees
+  - Fully-paid parental leave
+  - ...and more!
+
+  Chronograph is committed to promoting a diverse and
+  inclusive culture, and we welcome applicants from all
+  backgrounds. If you're a passionate team player who wants to
+  have an outsized impact on a diverse and dynamic team, we'd
+  love to hear from you!
+
+  Salary Range (dependent on experience)
+
+  $150,000—$180,000 USD
+posted_date: 2026-11-16
+url: "https://builtin.com/job/senior-software-engineer-data-platform/12279874"
+source: Built In

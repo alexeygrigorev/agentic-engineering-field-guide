@@ -1,0 +1,163 @@
+job_id: 12333190
+title: Principal AI Software Engineer, Platform
+company: brightwheel
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 373 Employees
+description: |
+  Our Mission and Opportunity
+
+  Early education is one of the most important determinants of
+  childhood outcomes, a critical support for working families,
+  and a $175B market that remains underserved by modern
+  technology. Brightwheel is the largest, fastest growing, and
+  most loved platform in early ed, trusted by millions of
+  educators and families every day. We are a three-time Cloud
+  100 company, backed by top investors including Addition,
+  Bessemer, Emerson Collective, Lowercase Capital, Notable
+  Capital, and Mark Cuban.
+
+  Our Team
+
+  Our team is passionate, talented, and customer-focused. We
+  embody our Leadership Principles in our work and culture. We
+  are a distributed team with remote employees across every US
+  time zone, as well as select offices in the US and
+  internationally.
+
+  About the role
+
+  At brightwheel, we are moving to a way of working where a
+  person decides what should be built and why, directs AI
+  agents to do the work, and owns the result, while the agents
+  work around the clock. This applies across engineering,
+  product, design, and the rest of the company.
+
+  A large part of Platform Engineering's work is building the
+  foundation that makes this possible: the platform that our
+  people and their agents work on, and the safeguards that let
+  agent work reach customers without lowering quality or
+  trust. We measure the result in how much each person can
+  deliver and how quickly it reaches teachers and families.
+
+  Most of the design decisions are still open. As a Principal
+  AI Platform Engineer, you will set the direction for
+  distinct areas of that foundation, own them for the long
+  term, and run them as internal products. You will build them
+  and answer for whether people use what you build, whether it
+  stays reliable, and what it changes for them.
+
+  Design gets argued out between the people closest to the
+  problem, and a named person owns every change. Your peers
+  are senior engineers from backend, infrastructure, web, and
+  mobile, and they will argue with your designs as you will
+  with theirs. The role is remote.
+
+  Who You Are
+
+  You solve hard problems by building systems that other
+  people depend on. You may have built an agent or developer
+  platform before. You may instead come from distributed
+  systems, infrastructure, developer tools, or product
+  engineering. Either way, you have built agents or agent
+  infrastructure that a team relied on, you direct agents in
+  your own work, and you want to apply what you have learned
+  to brightwheel's own problems, starting from how our teams
+  work today. You will do well here if you:
+
+  - Set technical direction on your own initiative. You start
+    from a business problem, work out the technical problem
+    behind it, and bring a recommendation for how to solve it.
+  - Watch how people do the job today, then earn adoption with
+    software that works.
+  - Argue design with your peers, in writing and in person, and
+    change your mind when the evidence calls for it.
+  - Move fast without giving up quality or reliability. You
+    decide with the information you have, ship, and adjust
+    from what you learn.
+  - Make what you build observable, so that anyone who depends
+    on it can tell what it is doing and catch a problem early.
+
+  What you’ll do
+
+  - Decide the direction for your areas, and settle the shared
+    decisions with the other senior engineers leading this
+    work.
+  - Keep quality, security, and reliability high as the volume
+    of agent work grows. In your areas, decide what agents are
+    allowed to access, make what they do traceable, and decide
+    where a person needs to stay involved.
+  - Extend what works beyond engineering, so product, design,
+    and teams in every part of the company can rebuild how
+    they do their work.
+  - Identify what limits how much work people can hand to
+    agents, and build the infrastructure that removes those
+    limits.
+  - Shorten the time from an idea to a change customers can use,
+    by removing the manual steps and waits in between.
+  - Adopt tools that already work instead of rewriting them, and
+    turn them into shared standards.
+  - Teach engineers across the company to direct agents and
+    check their output, so teams can do this without waiting
+    on you.
+
+  What you’ve done
+
+  Qualified candidates usually bring:
+
+  - A complex system or platform they designed and built that
+    many people or teams came to depend on, with evidence of
+    its adoption and results.
+  - Agents or agent infrastructure they built that a team relied
+    on, with the checks, access limits, and logging that made
+    it safe to trust.
+  - A record of directing agents to increase their own output
+    and impact, and of teaching teams to do the same.
+  - Slow or manual work they removed for other people, with
+    before and after numbers.
+  - Technical direction they wrote that other teams then built
+    from.
+  - Engineers they mentored who now own harder problems.
+
+  What sets you apart
+
+  - You have built agent infrastructure used across several
+    teams, and you can show how much of their work ran through
+    it.
+  - You have run agents unattended on real work, and you know
+    what it takes to trust the result.
+  - You have taken this way of working beyond engineering, to
+    product, design, or another function.
+
+  Technology
+
+  This is what we run today. You do not need experience with
+  all of it.
+
+  - Backend: Ruby on Rails and Python
+  - Data: PostgreSQL and Redis
+  - Frontend: React with TypeScript
+  - Mobile: native iOS with Swift, Android with Kotlin
+  - Cloud and infrastructure: AWS and Kubernetes
+  - AI: hosted large language models and coding agents such as
+    Claude Code, Codex, and Cursor
+
+  Brightwheel is committed to creating a diverse and inclusive
+  work environment and is an equal opportunity employer. All
+  qualified applicants will receive consideration for
+  employment without regard to race, color, religion, gender,
+  gender identity, gender expression, sexual orientation,
+  national origin, genetics, disability, age, or veteran
+  status.
+
+  Protecting Our Applicants: Please be aware of recruiting
+  scams impersonating Brightwheel. All legitimate
+  communications come from @mybrightwheel.com addresses, and
+  we never ask for payment or sensitive personal data as part
+  of our hiring process. If you suspect fraudulent contact,
+  reach out to security@mybrightwheel.com. Thank you for
+  helping us keep our applicant community safe.
+posted_date: 2026-11-19
+url: "https://builtin.com/job/principal-ai-software-engineer-platform/12333190"
+source: Built In

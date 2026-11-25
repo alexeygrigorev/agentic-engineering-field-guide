@@ -1,0 +1,187 @@
+job_id: 12308528
+title: "Senior Full Stack & Platform Engineer"
+company: Fictiv
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 228 Employees
+description: |
+  About MISUMI Americas
+
+  MISUMI Americas, a division of MISUMI Group, is a leading
+  provider of standard, configurable, and custom manufacturing
+  solutions. By integrating a vast catalog of components with
+  a world-class digital manufacturing platform, MISUMI
+  Americas empowers engineers and procurement teams to
+  accelerate innovation across the entire product lifecycle.
+  With operations in the San Francisco Bay Area and Chicago,
+  the company serves as a vital partner for the most
+  innovative companies in the Americas.
+
+  About Compass
+
+  Compass is a new venture incubated within MISUMI Americas.
+  We’re building it with the deep manufacturing expertise of
+  Fictiv, MISUMI’s digital manufacturing platform.
+
+  Every physical product starts as a CAD model, and most of
+  what it will cost is decided right there. Yet cost and
+  manufacturability are still checked after the drawings are
+  released, by hand and in spreadsheets, when every change is
+  slow and expensive. The result is redesigns, missed
+  schedules, and money left on the factory floor. Compass
+  fixes that at the source. An engineer uploads an assembly,
+  and Compass reads every part the way an expert manufacturing
+  engineer would. It checks each feature against the processes
+  that could make it, prices the part at the volume that
+  matters, reads tolerances and GD&T straight off the drawing,
+  and ranks exactly what to change. It does this across the
+  entire bill of materials, reruns on every revision, and
+  learns from every correction engineers make.
+
+  The problems underneath are genuinely hard: making sense of
+  real-world geometry, modeling cost across machining,
+  casting, molding, sheet metal, and additive, interpreting
+  engineering drawings, and building AI that gets measurably
+  better from expert feedback. The stakes are real, too. Our
+  customers are enterprise engineering teams, including
+  aerospace and defense programs, where the platform has to be
+  as secure and trustworthy as it is smart. Compass is a small
+  team that moves fast and gives engineers real ownership. You
+  won’t inherit a finished system. You’ll help define the
+  architecture, the security foundation, and the product that
+  the most demanding customers in manufacturing will rely on.
+
+  About the Role
+
+  We’re looking for a cross-functional software engineer who
+  thrives at the intersection of application development and
+  cloud infrastructure. We’re scaling the product, fast-
+  tracking SOC 2 Type I and Type II, and building an ITAR-
+  ready environment for aerospace and defense customers.
+  You’ll be one of the engineers who makes all three happen.
+
+  We don’t need a pure DevOps specialist managing servers all
+  day. We need an engineer who treats infrastructure as code,
+  automates our cloud environment to satisfy security audits,
+  and writes clean application code to ship features customers
+  use.
+
+  You’ll own our AWS infrastructure and CI/CD pipelines. In
+  your first months, much of your time will go to building our
+  compliance foundation. Over time, the role settles into
+  roughly 30% platform automation and 70% full-stack feature
+  development.
+
+  What You’ll Be Doing
+
+  - Accelerate SOC 2 compliance. Work with leadership to
+    implement, automate, and maintain the AWS security
+    controls SOC 2 requires: encryption at rest and in
+    transit, least-privilege IAM, logging, and vulnerability
+    scanning.
+  - Build our ITAR environment. Help design and run an isolated
+    AWS GovCloud environment for customers with export-
+    controlled data, with access restricted to US persons.
+  - Own the platform. Manage, monitor, and scale our AWS
+    environment using infrastructure as code (Terraform, AWS
+    CDK, or Pulumi), with no manual configuration drift.
+  - Build across the stack. Design, write, and deploy
+    maintainable backend APIs and frontend features for our
+    core product.
+  - Automate everything. Maintain CI/CD pipelines (such as
+    GitHub Actions) with automated testing, dependency
+    scanning, and secure deployments built in.
+  - Keep the architecture lean. Favor managed AWS services so
+    the infrastructure needs minimal babysitting and you can
+    focus on product.
+
+  Experience
+
+  - A hybrid mindset. You’re a product-minded developer who
+    moved toward DevOps because you wanted your code to ship
+    faster, safer, and more securely.
+  - AWS expertise. Deep hands-on experience with managed and
+    serverless AWS services, such as Elastic Beanstalk,
+    Lambda, RDS, SQS, Cognito, IAM, and CloudTrail.
+  - Infrastructure as code. Proven experience managing cloud
+    environments entirely through code (such as Terraform or
+    AWS CDK) rather than the console.
+  - Security and compliance experience. You’ve configured cloud
+    environments to pass frameworks like SOC 2, ISO 27001, or
+    HIPAA. Experience with Vanta, Drata, or Secureframe is a
+    big plus.
+  - Full-stack proficiency. Strong production experience with
+    Node.js and TypeScript, React, and PostgreSQL.
+  - Startup agility. You’ve been an early engineer or on a lean
+    team where you owned your deployments and wore multiple
+    hats.
+
+  Nice to Have
+
+  - Experience with queue-based background processing (SQS), PDF
+    and CAD file processing, or LLM-backed features in
+    production.
+  - Experience with AWS GovCloud, FedRAMP, NIST 800-171, or
+    CMMC.
+  - Experience supporting customers with ITAR or other export-
+    controlled data.
+  - A passion for CAD, hardware, or manufacturing.
+
+  Please Note:  This role requires access to export-controlled
+  technical data (ITAR/EAR) and controlled unclassified
+  information. Applicants must be a U.S. person as defined
+  under ITAR (22 CFR 120.62), or otherwise eligible for the
+  export authorization required to access this information
+  under applicable law. MISUMI Americas will not discriminate
+  based on citizenship status or national origin except as
+  required to comply with export control law.
+
+  Physical Demands
+
+  Standard office/remote work environment with extended
+  periods of computer use, video calls, and phone work.The
+  physical demands described here are representative of those
+  that must be met by an employee to successfully perform the
+  essential functions of this job. Reasonable accommodations
+  may be made to enable individuals with disabilities to
+  perform the essential functions.
+
+  Perks and Benefits
+
+  - Competitive medical, dental, and vision insurance
+  - 401K plan
+  - Parental leave programs
+  - Paid volunteer days
+  - And much, much more!
+
+  Salary Range: $160,000 to $185,000 per year, based upon
+  experience
+
+  Interested in learning more?  We look forward to hearing
+  from you soon.
+
+  We’re actively seeking teammates who:
+
+  - Bring diverse perspectives and experience to our culture and
+    company.
+  - Excel at being part of a strong, empathetic team.
+  - Thrive in an environment emphasizing respect, honesty,
+    collaboration, and growth.
+  - Have an ‘always learning’ mindset that celebrates learning,
+    not just wins.
+  - Help us continue to build a world-class organization that
+    values the contributions of all of our teammates
+
+  We encourage applications from members of underrepresented
+  groups, including but not limited to women, members of the
+  LGBTQ community, people of color, people with disabilities,
+  and veterans.
+industries:
+  - 3D Printing
+  - Artificial Intelligence
+  - Machine Learning
+  - Other
+posted_date: 2026-11-18
+url: "https://builtin.com/job/senior-full-stack-platform-engineer/12308528"
+source: Built In

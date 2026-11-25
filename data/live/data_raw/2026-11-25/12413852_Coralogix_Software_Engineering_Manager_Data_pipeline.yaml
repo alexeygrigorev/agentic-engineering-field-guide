@@ -1,0 +1,83 @@
+job_id: 12413852
+title: Software Engineering Manager, Data pipeline
+company: Coralogix
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 198 Employees
+description: |
+  Description
+
+  Coralogix is a modern, full-stack observability platform
+  transforming how businesses process and understand their
+  data. Our unique architecture powers in-stream analytics
+  without reliance on expensive indexing or hot storage. We
+  specialize in comprehensive monitoring of logs, metrics,
+  trace and security events with features such as APM, RUM,
+  SIEM, Kubernetes monitoring and more, all enhancing
+  operational efficiency and reducing observability spend by
+  up to 70%.
+
+  We are looking for a Software Engineering Manager guide a
+  talented team, building and evolving our Data pipeline team.
+  This team develops modern, cloud-native production systems
+  that process terabytes of data daily. This role will be at
+  least 50% hands on.
+
+  Requirements
+
+  - At least 2 years of experience in a managerial role.
+  - At least 5 years of software development experience
+  - At least 2 years of experience developing and operating
+    Rust-based systems in production-MUST
+  - Experience working on data-intensive applications.
+  - Experience with kafka
+  - Excellent written and verbal communication skills.
+  - Experience using ClickHouse in production- an advantage
+
+  Cultural Fit
+
+  We’re seeking candidates who are hungry, humble, and smart.
+  Coralogix fosters a culture of innovation and continuous
+  learning, where team members are encouraged to challenge the
+  status quo and contribute to our shared mission. If you
+  thrive in dynamic environments and are eager to shape the
+  future of observability solutions, we’d love to hear from
+  you.
+
+  Coralogix is an equal opportunity employer and encourages
+  applicants from all backgrounds to apply.
+industries:
+  - Machine Learning
+  - Software
+posted_date: 2026-11-23
+url: "https://builtin.com/job/software-engineering-manager-data-pipeline/12413852"
+source: Built In

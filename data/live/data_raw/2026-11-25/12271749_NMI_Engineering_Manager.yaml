@@ -1,0 +1,251 @@
+job_id: 12271749
+title: Engineering Manager
+company: NMI
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 314 Employees
+description: |
+  At NMI, Engineering Managers are leaders who drive clarity,
+  alignment, and execution. You'll support your engineers'
+  growth, remove obstacles, and help shape the technical
+  strategy for billing and data capabilities. You'll lead two
+  teams: Billing, which owns the services that keep billing
+  accurate, scalable, and auditable across all NMI products as
+  product and business models evolve, and Data Engineering,
+  which ingests, models, and transforms data from across the
+  organization into our BigQuery warehouse, so the business
+  has clean, timely, and trusted data.
+
+  This role is for someone who gets their energy from
+  developing engineers and building strong teams, not only
+  from the technical work. It is also an ownership role: you
+  keep leadership informed, raise risks early, and run your
+  teams' delivery and people without waiting to be asked. AI
+  is part of how this role works, not an add-on. You'll use it
+  daily, set the bar for how your engineers use it, and coach
+  both the engineers who are hesitant and those who lean on it
+  without understanding the output.
+
+  We don't expect billing or data expertise on day one. Most
+  strong candidates come from application development or data
+  engineering. Whatever your background, we expect strong
+  engineering management fundamentals and a track record of
+  learning new domains quickly. This role works Eastern or
+  Central time hours.
+
+  About NMI
+
+  NMI, a global leader in payment technologies, allows
+  software and sales professionals to deliver payment
+  innovations to their clients without having to build payment
+  expertise in house. NMI enables our partners with choice,
+  and challenges the one-size-fits-all approach to payments.
+  You've probably used NMI in the last 24 hours without even
+  realizing it. We're the platform that powers success for
+  innovative tech created by SMBs, entrepreneurs and fintech
+  startups. We're creative problem solvers who help
+  visionaries smash through boundaries and think beyond what's
+  possible so they can think about what's next. But we're not
+  just built for the tech savvy. We democratize the latest
+  payments technology so that everyone can realize the
+  benefits of easy payments across the full spectrum of
+  commerce. Our mission is to use our expertise to enable more
+  payments, in more ways and more places. We provide ISOs,
+  Fintech Innovators and Technologists the freedom to focus on
+  what they do best, liberating them from restricted payment
+  solutions and giving them access to the latest payment
+  technology now and in the future.
+
+  How We Work - Our Core Values
+
+  - Be a Good Person, It's Simple. We treat everyone fairly and
+    with respect. We lead with kindness, humility and
+    integrity. We take the time to understand each other and
+    our customers. And we serve with care, because customers
+    are never a transaction, and always our focus
+  - Align, Trust & Go. We debate openly, listen carefully and
+    challenge thoughtfully. Once we decide, we move forward
+    together - holding ourselves accountable to our
+    commitments, and focusing on what matters most to our
+    customers. That alignment creates momentum.
+  - Raise the Bar. Good enough isn't enough. We stay curious,
+    measure everything, stay honest about progress and keep
+    pushing ourselves to think creatively. We drive change,
+    again and again. And leave things better than we found
+    them. When we raise the bar, our customers feel it too.
+
+  About the Team
+
+  You'll lead as a peer alongside a Product Owner and a Staff
+  Technical Product Manager. Each of you has a primary focus,
+  and you'll step into each other's space when the work calls
+  for it. We're still shaping how this team works together, so
+  flexibility matters. Your teams, each with a tech lead, span
+  the UK, Eastern Europe, LATAM, and the US.
+
+  You will:
+
+  - Hire, develop, and retain diverse, high-performing
+    engineering talent, setting clear, measurable goals and
+    coaching engineers with empathy and with direct feedback
+    when performance falls short.
+  - Foster a culture of inclusion, equity, and psychological
+    safety, and manage full-time engineers and contractors
+    across countries and time zones.
+  - Partner with Product Owners, Product Managers, the Director
+    of Product Engineering, and other Engineering Managers to
+    align roadmaps, priorities, and success metrics.
+  - Deliver committed roadmap work predictably, lead Scrum
+    ceremonies when needed, and manage your teams' impediments
+    and cross-team risks by creating mitigation plans and
+    escalating early.
+  - Lead AI adoption across your teams, and measure its effect
+    on delivery and quality.
+  - Promote engineering best practices across testing, code
+    quality, observability, documentation, and operational
+    readiness.
+  - Collaborate with architecture, DevOps, security, and finance
+    teams to ensure systems meet NMI's standards for
+    performance, reliability, compliance, and cloud best
+    practices, and are built for scale and long-term
+    sustainability on GCP.
+  - Oversee the design, development, and maintenance of NMI's
+    billing frameworks, services, and pricing infrastructure,
+    keeping them accurate, auditable, reliable, observable,
+    and aligned with financial reporting and compliance
+    requirements (e.g., PCI DSS, SOX, GDPR).
+  - Partner with Product and Finance to support new monetization
+    strategies, pricing models, and feature-based billing, and
+    drive improvements in usage tracking, reporting
+    correctness, invoice generation, and reconciliation.
+  - Lead the development of data ingestion, transformation, and
+    integration pipelines into BigQuery, and oversee the
+    adoption of ETL/ELT best practices in GCP, including dbt,
+    Pub/Sub, and BigQuery optimization.
+  - Own data quality, governance, lineage, and availability
+    across analytics and operational use cases.
+  - Partner with analytics, product, and engineering
+    stakeholders to design data models that support reporting
+    and decision-making, and advocate for strong data
+    engineering standards including versioning, documentation,
+    schema management, and automation.
+
+  Essential Skills and Experience:
+
+  - 7+ years of experience building software in an agile
+    engineering environment, with at least 5 years in a
+    people-leadership role.
+  - Experience leading teams responsible for backend services,
+    billing systems, data pipelines, or similarly mission-
+    critical infrastructure. Billing or data domain experience
+    is a plus, but strong engineering management fundamentals
+    are required.
+  - Proven track record of delivering complex initiatives across
+    multiple teams or workstreams.
+  - Excellent written and verbal communication skills, with the
+    ability to bridge technical and non-technical
+    stakeholders.
+  - Daily AI use, plus experience leading AI adoption on a team,
+    including what changed and where it got things wrong.
+  - Familiarity with cloud platforms and distributed
+    architectures (GCP preferred; AWS acceptable), and an
+    understanding of how cloud capabilities support
+    reliability, scalability, and performance.
+  - Familiarity with data engineering or data platform
+    technologies such as BigQuery, Pub/Sub, dbt, and ETL/ELT
+    tooling, or comparable cloud data platforms such as AWS
+    Redshift or Snowflake.
+  - Working knowledge of several of the teams' technologies:
+    PHP, Laravel, .NET, Python, MSSQL, HTML, JavaScript, and
+    React.
+  - Strong understanding of API development, system design,
+    microservices, observability, and operational best
+    practices.
+
+  Preferred Qualifications:
+
+  - Experience with billing, invoicing, or financial systems in
+    a SaaS or fintech environment.
+  - Exposure to compliance requirements such as PCI DSS, GDPR,
+    and SOX.
+  - Experience in payments (such as gateways, processing, or
+    merchant services) or fintech.
+  - Experience consolidating or modernizing legacy platforms,
+    especially after acquisitions.
+  - Hands-on experience with GCP, BigQuery, or dbt.
+  - Experience managing vendor or contractor teams alongside
+    full-time employees.
+
+  Do you feel like you have a slightly out of the ordinary
+  career path or history? We are open to all walks of life and
+  very willing to hear your story. Please don't feel like this
+  should be a barrier to securing a great career at NMI! We
+  appreciate success can come in all shapes and sizes. Fill in
+  the 'Additional Info' box on our application to tell us more
+  about your path.
+
+  As well as being a part of something exciting everyday, you
+  will also receive the following benefits:
+
+  - A remote first culture!
+  - Competitive compensation and benefits
+  - Personal growth and advancement opportunities
+  - Flex PTO & dedicated sick time
+  - Health, Dental and Vision Insurance
+  - Life, ADD, Short-term and Long-term Disability insurance
+  - 401k matching up to 4% after two months of service
+  - Flexible Spending Account
+  - Paid Parental Leave
+  - Company volunteer days
+  - Employee referral program
+  - Bonusly colleague recognition
+
+  We believe that having a diverse group of employees
+  strengthens both our work and our workplace. We're focused
+  on making NMI more diverse and welcoming with initiatives
+  like having a dedicated Diversity, Equity & Inclusion action
+  group, diversity goals for hiring, anonymized resume
+  screening, affinity groups such as our Women's network and
+  LGBTQ+ Network, open forums for discussions on diversity and
+  social justice, and measuring inclusion and belonging as
+  part of our regular employee engagement surveys.
+
+  Equal Opportunity
+
+  NMI is committed to providing equal employment opportunity
+  for all persons regardless of race, color, religion, sex,
+  age, marital status, national origin, sexual orientation or
+  sexual identity, genetic information, citizen status (except
+  those that do not have the legal right to be employed in the
+  United States), disability, military service, service
+  member, veteran status, or any other basis protected by
+  applicable law.
+
+  Please be aware that all offers of employment are made
+  subject to receipt of satisfactory background and financial
+  checks.
+
+  Attention job applicants: Please note that in compliance
+  with the data protection regulations within your
+  jurisdiction, any personal information submitted with your
+  job application may be collected and used by NMI for the
+  purpose of recruitment and employment-related activities. By
+  submitting your application, you acknowledge and provide
+  explicit consent to the processing of your personal
+  information as described in our privacy policy found on our
+  website. For more information on how we process your
+  information, please read our privacy policy here:
+  https://www.nmi.com/legal/privacy-policy/
+
+  #LI-Remote
+
+  Salary range, depending on experience:
+
+  $150,000—$180,000 USD
+industries:
+  - Fintech
+  - Software
+posted_date: 2026-11-16
+url: "https://builtin.com/job/engineering-manager/12271749"
+source: Built In

@@ -1,0 +1,205 @@
+job_id: 12423186
+title: Software Development Engineer in Test
+company: Mesh (meshconnect.com)
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 77 Employees
+description: |
+  About Mesh
+
+  At Mesh, our mission is to enable consumers to pay and be
+  paid with any asset. Today, trillions of dollars in
+  tokenized assets exist but remain largely unusable for
+  everyday commerce. Mesh is bridging this gap by making
+  crypto payments reliable, useful, and ubiquitous. We combine
+  a powerful orchestration engine with a seamless consumer app
+  to unlock liquidity for the world. Backed by leading
+  investors like SBI, Money Forward, Paradigm, Dragonfly,
+  Galaxy, and PayPal Ventures, we are building the
+  infrastructure for the next era of the global economy. Join
+  us!
+
+  We’re looking for a Senior Software Development Engineer in
+  Test (SDET) to embed directly within one of our engineering
+  teams. This is not a traditional QA seat. You’ll be expected
+  to understand the architecture of our product, reason about
+  quality from first principles, and build the test
+  infrastructure our engineers depend on — not just execute
+  test cases against it.
+
+  You’ll work day to day alongside an engineering manager and
+  PM, owning a defined scope of quality coverage across our
+  Web3 and exchange integration flows. You write production-
+  quality code, build and maintain automation frameworks, and
+  use AI tooling as a core part of how you work.
+
+  Responsibilities
+
+  - Embed directly within an engineering team and work alongside
+    its EM and PM
+  - Read and understand the codebase and product architecture,
+    then design quality scenarios from that understanding —
+    not just from tickets or specs
+  - Build, own, and maintain automated test frameworks in
+    TypeScript, JavaScript, Python, or C# — from scratch where
+    needed, not just extending what exists
+  - Write and maintain E2E, API, and integration tests across
+    Mesh’s Web3 and exchange integration flows using
+    Playwright or Cypress
+  - Build and maintain automated API test suites covering schema
+    validation, auth flows, and mocking of third-party
+    failures
+  - Build and maintain mobile automation test suites across iOS
+    and Android using Appium, XCUITest/Espresso, Maestro, or
+    equivalent
+  - Integrate automated test suites into CI/CD pipelines and own
+    the health of those pipelines
+  - Run recurring regression sweeps and maintain ongoing test
+    coverage discipline independently
+  - Write clear, reproducible bug tickets in Linear with crisp
+    reproduction steps and supporting evidence
+  - Communicate proactively with engineers and product managers
+    — flag quality risks before being asked, not after
+  - Use AI tools to accelerate test authoring, framework
+    development, and coverage analysis — and bring your own
+    point of view on how to do that well
+
+  Requirements
+
+  - 5+ years of experience combining software engineering and
+    quality engineering — you write code, not just test cases
+  - Proficiency in at least one of: TypeScript, JavaScript,
+    Python, or C# at a level where you can build and own
+    automation infrastructure, not just script individual
+    tests
+  - Hands-on experience building test automation frameworks from
+    scratch with Playwright and/or Cypress — framework
+    ownership, not inherited usage
+  - Mobile automation testing experience across iOS and Android:
+    hands-on with Appium, XCUITest/Espresso, Maestro, or
+    equivalent frameworks
+  - Automated API testing depth: has built and maintained API
+    test suites (Playwright API, REST Assured, Pytest,
+    Postman/Newman, or equivalent) covering schema validation,
+    auth flows, and mocking third-party failures
+  - Experience integrating and maintaining automated test suites
+    in CI/CD pipelines (GitHub Actions, CircleCI, or similar)
+  - Crypto fundamentals on day one — testnets, wallets, gas, and
+    why a transaction fails without the gas token. We want to
+    skip the onboarding that past hires needed
+  - Working knowledge of core Web3 flows: wallet connections
+    (MetaMask, Trust Wallet, WalletConnect), transaction
+    signing, and on-chain vs. off-chain behaviour
+  - Experience testing third-party/exchange (CEX) integrations
+    end-to-end (e.g. Coinbase-style connect flows)
+  - API testing depth — schema validation, auth flows, mocking
+    third-party failures, cross-layer data consistency
+  - Comfortable working async across US/Europe/India time zones
+    — proactive, picks up work and drives it without someone
+    sitting with them
+  - AI fluency: active daily user of AI development tools
+    (Copilot, Cursor, Claude) with real opinions on where they
+    help and where they fall short
+
+  Nice to Have
+
+  - Experience testing dApps, smart contract interactions, or
+    on-chain state validation
+  - Testnet usage (Sepolia) or Web3 provider mocking in a test
+    environment
+  - Prior experience as the first or sole QA/SDET at a startup —
+    built a quality function from scratch
+  - Experience configuring AI agents or MCPs for QA-specific
+    automation tasks
+
+  Why You’ll Love It Here
+
+  At Mesh, you're not stepping into a typical role—you're
+  joining a rocket ship in mid-liftoff. You'll tackle complex,
+  meaningful problems that actually move an industry forward,
+  working alongside a sharp, motivated team that moves
+  quickly, collaborates deeply, and expects everyone to
+  operate with ownership. This is the kind of place where
+  you'll see your work ship fast, make real impact, and be
+  able to point to something and say, "I built that." You'll
+  grow fast, level up your skills, and get a front-row seat to
+  how a high-growth company scales from the inside, with
+  competitive comp, solid benefits, and room to stretch your
+  craft all coming standard. If you're energized by building,
+  learning, and shaping something big—this is where you'll
+  want to be.
+
+  In-Office Expectations
+
+  Employees based in our San Francisco, New York, and
+  Bangalore hubs are expected to work from the office at least
+  40% of the time (approximately two days per week). This
+  expectation may vary slightly depending on role, team, and
+  business needs. Certain roles that require closer cross-
+  functional collaboration or operational support may have
+  additional in-office requirements, which will be discussed
+  during the interview process. Our hybrid approach is
+  designed to balance meaningful in-person collaboration, team
+  building, and real-time decision-making with the flexibility
+  to work remotely. We believe this structure supports strong
+  execution while preserving autonomy and focus time.
+
+  How We Care For Our Team
+
+  We believe great work happens when people feel valued and
+  supported. That starts with competitive salary and equity
+  that grows as you and the company grow, plus comprehensive
+  health coverage for you and your family. We offer unlimited
+  PTO—and we mean it. Take the time you need to recharge and
+  show up at your best.
+
+  We're invested in your growth with a dedicated budget for
+  courses, conferences, and certifications. Work from wherever
+  you're most productive with our remote-friendly approach,
+  and count on having the top-tier tools and equipment you
+  need to do exceptional work.
+
+  Mesh Pay is committed to equal employment opportunities
+  regardless of race, color, genetic information, creed,
+  religion, sex, sexual orientation, gender identity, lawful
+  alien status, national origin, age, marital status, and non-
+  job related physical or mental disability, or protected
+  veteran status. Pursuant to the San Francisco Fair Chance
+  Ordinance, we will consider for employment qualified
+  applicants with arrest and conviction records.
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-11-23
+url: "https://builtin.com/job/software-development-engineer-test/12423186"
+source: Built In

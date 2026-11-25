@@ -1,0 +1,125 @@
+job_id: 12269786
+title: Software Engineer
+company: Ataraxis AI
+location: New York, USA
+work_type: FULL_TIME
+company_size: 11 Employees
+description: |
+  About Ataraxis AI
+
+  Ataraxis is a clinical AI research lab working at the
+  intersection of multi-modal AI and precision medicine. Our
+  goal is to make disease predictable. To accomplish this, we
+  develop new AI methods that predict patient outcomes and
+  treatment response, and build clinical tools to assist
+  physicians in selecting the most optimal treatments for
+  their patients.
+
+  Our AI research lab discovers and develops methods to
+  recognize patterns and predict outcomes across complex,
+  multi-modal clinical data. This spans our causality
+  (Ataraxis™ Tau), foundation model (Falcon and Kestrel for
+  digital pathology), and survival analysis research.
+
+  Our first clinical products, such as Ataraxis™ Breast for
+  breast cancer, already help patients get the most
+  appropriate treatment across the best academic institutions
+  and community clinics worldwide.
+
+  At Ataraxis, you will have a unique opportunity to shape not
+  only the future of our company, but also the future of
+  healthcare. You will join an exceptional team at the
+  forefront of clinical AI research and deployment. Our
+  advisors include AI pioneers such as our founding advisor,
+  Yann LeCun, and distinguished oncologists from top cancer
+  research institutions, all united by the mission to redefine
+  precision medicine.
+
+  Ataraxis has raised over $24 million in funding, including a
+  $20 million Series A led by top venture capital funds such
+  as Thiel Capital/Founders Fund (OpenAI, SpaceX, Palantir),
+  Obvious Ventures (AMI Labs, Inceptive, Radical Numerics,
+  Recursion), and AIX Ventures (Hugging Face, Perplexity).
+
+  We are an company with a flat organizational structure,
+  where every team member is empowered to actively contribute.
+  Leadership roles are earned by those who demonstrate
+  initiative and consistently deliver exceptional results.
+  Strong work ethic and the ability to prioritize ruthlessly
+  are essential.
+
+  Responsibilities
+
+  This is a high-ownership generalist role. You'll work across
+  3 services spanning TypeScript/React, Python backends, and
+  ML/CV inference, all running on Google Cloud and Modal.
+  Comfort moving between product code and ML infrastructure is
+  essential.
+
+  - Physician web portal: Next.js / React app where clinicians
+    place orders, view slides, and read reports.
+  - Order service: the system of record such as orders,
+    patients, clinical data, insurance billing claims, report
+    (PDF) generation, and a web of third-party integrations.
+  - Slide tiles service: generates and serves DeepZoom pyramids
+    from gigapixel pathology slides.
+
+  Who You Are
+
+  - Product-obsessed builder: You're never satisfied with "good
+    enough"—you relentlessly spot opportunities to improve the
+    product and move fast to ship them, knowing that done and
+    iterating beats perfect and waiting.
+  - AI-native: You're comfortable using latest AI tools (e.g.,
+    Cursor/Windsurf) to quickly build, refine, and document
+    your code.
+  - Sense of style: You appreciate polished, professional UIs,
+    enjoy collaborating closely with designers, and understand
+    that great UX is integral to great products.
+  - Creative thinker: You thrive in environments requiring
+    innovation and aren't limited by past experience.
+  - Self-directed leader: You take ownership, set your own
+    agenda, and move with urgency. You don't need a roadmap
+    handed to you. You identify what matters and rally others
+    around it.
+  - Effective collaborator: You keep teammates informed, surface
+    blockers early, and turn around feedback rapidly, making
+    it easy for those around you to do their best work.
+  - Strong external communicator: You can represent the product
+    and company confidently to customers, partners, and the
+    outside world—translating technical work into clear,
+    compelling narratives.
+
+  Qualifications
+
+  - Frontend
+    - Strong TypeScript and React (we run React 19 /Next.js 15,
+      App Router)
+    - Tailwind CSS, component-driven UI, and modern testing with
+      Jest+ React Testing Library and Playwright for E2E
+    - Bonus: data viz (Recharts), rich-text (Tiptap), or medical
+      image viewers (OpenSeaDragon)
+  - Backend
+    - Strong Python, with production experience in Flask (or
+      similar) and SQLAlchemy/PostgreSQL
+    - Database schema migrations (Alembic / Flask-Migrate)
+    - Designing and consuming REST APIs; integrating third-party
+      services
+    - Async/background job processing (Google Cloud Tasks)
+  - Cloud & DevOps
+    - Hands-on Google Cloud Platform: Cloud SQL, Cloud Storage
+      (GCS), Cloud Run, Cloud Tasks
+    - Docker and CI/CD with GitHub Actions; tag-based semantic-
+      versioned releases
+    - Comfort with Vercel (portal) and serverless GPU deploys
+      (Modal)
+  - Testing & quality
+    - A genuine testing discipline—pytest, Jest, and Playwright
+      are first-class here, and our work feeds a regulated
+      requirements-traceability process
+industries:
+  - Artificial Intelligence
+  - Biotech
+posted_date: 2026-11-16
+url: "https://builtin.com/job/software-engineer/12269786"
+source: Built In

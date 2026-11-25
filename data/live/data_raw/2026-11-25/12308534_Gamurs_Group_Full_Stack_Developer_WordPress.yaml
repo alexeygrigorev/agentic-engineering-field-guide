@@ -1,0 +1,106 @@
+job_id: 12308534
+title: Full Stack Developer (WordPress)
+company: Gamurs Group
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 299 Employees
+description: |
+  Full-Stack Developer (WordPress)About the Role
+
+  GAMURS is building the world's best network for gaming and
+  fandom communities to connect, discover, and belong. Our
+  network spans around 15 websites, most of them built on
+  WordPress, alongside a growing ecosystem of tools, APIs, and
+  products.
+
+  We're looking for a Full-Stack Developer to take technical
+  ownership across this network, working primarily across two
+  core platforms: WordPress (PHP) and Cloudflare.
+
+  You'll own features end to end, from scoping and development
+  through testing, deployment, and monitoring. Working closely
+  with Product, Commercial, Syndication, and Editorial, you'll
+  help build and maintain the infrastructure that powers our
+  sites and products, while continuously improving their
+  performance, reliability, and capabilities.
+
+  This is a hands-on role with broad technical ownership,
+  suited to someone who enjoys working across different
+  products, solving practical problems, and seeing their work
+  through from initial idea to production.
+
+  Stack
+
+  - WordPress: PHP, JavaScript, WordPress VIP, Gutenberg blocks,
+    ACF, Yoast, PHPCS.
+  - Front end: React, Tailwind CSS, Bootstrap CSS.
+  - Edge and data: Cloudflare Workers, D1, KV, R2, Durable
+    Objects, Vectorize.
+  - Other back end: Python (FastAPI), Firestore, Heroku.
+  - Authentication: Auth.js, Google and Roblox OAuth, 2FA.
+  - Email: SparkPost, Beehiiv.
+  - Analytics: Snowplow, GA4, Lightdash, dbt, GrowthBook.
+  - Tooling: Git, GitHub Actions, Claude Code.
+
+  Requirements
+
+  - Strong PHP and WordPress skills: custom themes, plugins,
+    blocks, and REST API development.
+  - Solid understanding of authentication and security
+    fundamentals: OAuth, sessions, HMAC, and rate limiting.
+  - Proficiency with Git, pull requests, staged environments,
+    and CI/CD workflows.
+  - Understanding of web performance and SEO: Core Web Vitals,
+    caching, sitemaps, and redirects.
+  - Ability to work independently and write clear pull requests
+    and documentation in English.
+  - Proficiency with AI coding agents and ability to critically
+    review their output.
+  - Working knowledge of TypeScript and React.
+
+  Nice To Haves
+
+  - WordPress VIP.
+  - Chrome extensions (Manifest V3).
+  - Python (FastAPI) and Firestore.
+  - dbt, SQL analytics, and Snowplow.
+  - Stripe, Beehiiv, and SparkPost.
+  - Knowledge of Roblox games, APIs, and tools.
+  - React Native or Expo app development, or the ability to pick
+    it up quickly.
+
+  ResponsibilitiesNetwork WordPress (WordPress VIP)
+
+  - Develop and maintain themes, plugins, and mu-plugins across
+    all company sites.
+  - Maintain shared plugins, including custom blocks, polls,
+    infinite scroll, and content recirculation.
+  - Roll out plugin and security updates across all sites.
+
+  Brands
+
+  - Support and maintain Pro Game Guides, Destructoid,
+    BloxInformer, BloxGuardian, and FruityBlox.
+  - Maintain Codes Hunter (Chrome extension and API).
+
+  Cloudflare and APIs
+
+  - Build and maintain Cloudflare Workers using D1, KV, R2, and
+    Durable Objects.
+  - Manage migrations, typically from third-party tools to
+    Cloudflare.
+  - Maintain CI/CD workflows through GitHub Actions.
+
+  Ads, syndication, and analytics
+
+  - Integrate and maintain advertising partners.
+  - Build and maintain partner feeds.
+  - Implement and track Snowplow events and Core Web Vitals.
+industries:
+  - Gaming
+  - News + Entertainment
+  - Sports
+posted_date: 2026-11-18
+url: "https://builtin.com/job/full-stack-developer-wordpress/12308534"
+source: Built In

@@ -1,0 +1,111 @@
+job_id: 12402640
+title: Senior macOS Software Engineer -C++/Swift
+company: Inabia Solutions and Consulting, Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 52 Employees
+description: |
+  Hello,
+
+  Role: Senior macOS Cyber Security Engineer, Endpoint
+  Security (C++/Swift)
+
+  Location: Remote (PST working hours)
+
+  Client: Accenture/Amazon
+
+  Work Authorization: U.S. Citizen (USC) or Green Card (GC)
+  holders only
+
+  Requirement Type: Contractual
+
+  Experience: 6-10 years, we can evaluate more senior as well
+  but need to build a pyramid.
+
+  W-2 Rate: $65 - $70/hr.
+
+  Job Description:
+
+  About the work
+
+  You'll work on the macOS sensor for CrowdStrike Falcon, an
+  on-device security agent. It monitors file, process, network
+  and identity activity, blocks malicious behavior, and
+  streams telemetry to the cloud. The sensor runs entirely in
+  user space as a System Extension. Much of the code is shared
+  with Windows and Linux. The work requires high concurrency,
+  high reliability, careful attention to memory & CPU usage
+  and performance.
+
+  Required
+
+  · Languages: modern C++ (C++17/20) and Swift 6 (async/await,
+  actors, strict concurrency checking). Also Objective-C++ to
+  bridge Swift, C++ and C APIs.
+
+  · macOS systems programming: Foundation and CoreFoundation,
+  GCD and pthreads, POSIX/BSD APIs, Mach IPC, launchd daemons
+  and agents, and XPC (C API and NSXPCConnection).
+
+  · Performance, debugging and test:
+
+  o Profiling CPU and memory with Instruments and os_signpost.
+
+  o Debugging with LLDB, crash logs and os_log.
+
+  o XCTest, sanitizers, fuzzing, and xcodebuild-based CI.
+
+  o Apple Silicon and Intel.
+
+  · Experience with codebases shared across Mac, Windows and
+  Linux.
+
+  Core skills (one or more of the areas listed below)
+
+  · Process model and IPC: launchd daemons and agents, and XPC
+  (C API and NSXPCConnection).
+
+  · Endpoint Security and System Extensions: Endpoint Security
+  clients handling both blocking (AUTH) events and
+  notification events, user/MDM approval, upgrades.
+
+  · Network Extension: content filters, both flow-level
+  (NEFilterDataProvider) and packet-level
+  (NEFilterPacketProvider), and Network.framework.
+
+  · Security and crypto: Verifying code signatures (SecCode /
+  SecStaticCode) and validating certificates (SecTrust),
+  Keychain, Entitlements, hardened runtime, and macOS privacy
+  permissions.
+
+  · Devices and storage: IOKit (hardware and device
+  enumeration) and DiskArbitration (disk and volume events).
+
+  · Packaging and deployment: installers, notarization, and
+  MDM configuration profiles deployed through Jamf, Intune or
+  similar tools.
+
+  · Performance, debugging and test: Profiling CPU and memory
+  with Instruments and os_signpost, Debugging with LLDB, crash
+  logs and os_log, XCTest, sanitizers, fuzzing, and
+  xcodebuild-based CI.
+
+  Nice to have
+
+  · UI: SwiftUI and AppKit apps and app extensions.
+
+  · Testing against macOS and Xcode betas before public
+  release.
+
+  · Experience shipping EDR/AV, network security or device-
+  management products.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Information Technology
+  - Internet of Things
+  - Software
+posted_date: 2026-11-21
+url: "https://builtin.com/job/senior-macos-software-engineer-c-swift/12402640"
+source: Built In

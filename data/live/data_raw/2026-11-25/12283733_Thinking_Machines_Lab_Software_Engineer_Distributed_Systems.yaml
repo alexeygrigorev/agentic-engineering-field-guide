@@ -1,0 +1,100 @@
+job_id: 12283733
+title: Software Engineer, Distributed Systems
+company: Thinking Machines Lab
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 91 Employees
+description: |
+  About Thinking Machines
+
+  The mission of Thinking Machines is to build AI that extends
+  human will and judgment. We are training frontier models
+  with Inkling, developing Tinker to let people make models
+  their own, and crafting interfaces that broaden human-AI
+  communication. We believe the future worth building is
+  human, and we're hiring people who want to build it.
+
+  About the Role
+
+  We're hiring a Software Engineer, Distributed Systems to
+  design and build the core distributed systems that
+  everything else at Thinking Machines runs on —
+  orchestration, scheduling, storage, and networking across
+  thousands of machines. Your work underpins both Inkling's
+  training clusters and Tinker's serving platform, and shows
+  up anywhere we need software to coordinate reliably at
+  scale.
+
+  This is deep systems work. You'll be reasoning about
+  consensus, fault tolerance, and performance under real-world
+  failure conditions, often on problems that don't have an
+  off-the-shelf solution.
+
+  What You'll Do
+
+  - Design and build distributed systems for compute
+    orchestration, scheduling, storage, and networking across
+    large GPU and TPU clusters
+  - Develop fault-tolerant systems that keep running correctly
+    as hardware fails, networks partition, and workloads scale
+  - Build the distributed storage and data orchestration layers
+    that move and persist large volumes of training and model
+    data
+  - Improve the performance and efficiency of collective
+    communication, scheduling, and resource allocation across
+    thousands of machines
+  - Partner with research and infrastructure teams to identify
+    systems bottlenecks and design solutions from first
+    principles
+  - Write production-quality code and help shape the
+    architecture of systems used company-wide
+
+  Skills & QualificationsMinimum Qualifications
+
+  - 5+ years of experience building large-scale distributed
+    systems
+  - Proficiency in Python and Go, C++, or another systems-level
+    language
+  - Strong understanding of distributed systems fundamentals:
+    consensus, consistency, replication, and fault tolerance
+  - Experience with network programming, load balancing, or
+    distributed storage systems
+
+  Preferred Qualifications
+
+  - Experience building distributed compute or orchestration
+    systems for AI or ML workloads
+  - Fluent in containerization, orchestration, and distributed
+    compute frameworks
+  - Experience with specialized hardware (GPUs, TPUs) and their
+    integration into distributed training or serving systems
+  - Background at AI research labs, high-performance computing
+    centers, or similarly demanding environments
+  - Published work or open-source contributions related to
+    distributed systems or performance engineering
+  - Comfortable operating with high autonomy in a fast-changing,
+    early-stage environment
+
+  Logistics
+
+  - Location: This role is based in San Francisco, California or
+    New York, New York.
+  - Compensation: Depending on background, skills and
+    experience, the expected annual salary range for this
+    position is $300,000 - $400,000 USD.
+  - Visa sponsorship: We sponsor visas. While we can't guarantee
+    success for every candidate or role, if you're the right
+    fit, we're committed to working through the visa process
+    together.
+  - Benefits: Thinking Machines offers generous health, dental,
+    and vision benefits, unlimited PTO, paid parental leave,
+    and relocation support as needed.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-11-17
+url: "https://builtin.com/job/software-engineer-distributed-systems/12283733"
+source: Built In

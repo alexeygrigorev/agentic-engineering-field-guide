@@ -1,0 +1,86 @@
+job_id: 12294473
+title: Senior Software Engineer
+company: K2 Integrity
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 276 Employees
+description: |
+  We are looking for a hands-on senior software engineer to
+  build and run the client-facing data services of our Data
+  Services team. You will design and deliver new services and
+  APIs through which clients send and receive sensitive data
+  securely, and you will own the existing Go-based encrypted
+  upload service in production. The role combines software
+  engineering, security, production support and release
+  quality, and works closely with clients, compliance,
+  business stakeholders and engineering teams supporting
+  financial crime and compliance programs. This is a remote
+  role in the USA. Job Responsibilities:
+
+  - Client-facing services: Design and build new data services
+    and APIs in Go for secure file exchange, data delivery and
+    integrations with client systems.
+  - Production ownership: Monitor, maintain and troubleshoot the
+    existing encrypted upload service (Azure Blob Storage /
+    ADLS Gen2); resolve failed uploads, decryption errors and
+    client delivery issues.
+  - Security: Implement client authentication, end-to-end
+    encryption, data separation between clients and access
+    auditing; keep keys, secrets, managed identities and
+    access policies in Azure Key Vault and Entra ID secure and
+    rotated.
+  - Client onboarding: Configure services, keys and access for
+    new clients, write integration documentation and support
+    client teams during integration.
+  - Engineering: Deliver enhancements and bug fixes with unit
+    and integration tests, and release through Git and CI/CD
+    pipelines.
+  - Reliability: Own monitoring, alerting and API versioning for
+    externally exposed services; lead incident response and
+    root-cause analysis; write runbooks and post-incident
+    reports.
+  - Quality assurance: Execute tests before release, verify
+    fixes and run regression checks, investigate and clearly
+    report defects, manage test data and test environments,
+    and communicate release risk to the team and stakeholders.
+
+  Job Qualifications:
+
+  - Bachelor’s degree or international equivalent is required.
+  - Go: Building, maintaining and debugging production services
+    and APIs; crypto packages; file and stream handling for
+    large payloads; Go modules; unit and integration testing.
+  - API and service design: REST APIs for external clients,
+    authentication, versioning, rate limiting and client
+    onboarding.
+  - Encryption and security: Symmetric and asymmetric encryption
+    (AES-GCM, RSA) and envelope encryption; key management and
+    rotation, ideally Azure Key Vault; secure data transfer,
+    least-privilege access, multi-client data separation and
+    handling of sensitive or regulated data.
+  - Azure: Blob Storage / ADLS Gen2 (containers, SAS tokens,
+    lifecycle policies); Entra ID, managed identities, service
+    principals and RBAC.
+  - Production support: Incident response, root-cause analysis,
+    end-to-end troubleshooting, monitoring and alerting,
+    runbooks and documentation.
+  - Testing and QA: Test execution, regression testing, defect
+    reporting, and test data and environment management.
+  - Engineering practices: Git and CI/CD (Azure DevOps or GitHub
+    Actions).
+  - Domain: Exposure to financial crime and compliance data
+    (AML, transaction monitoring, sanctions, KYC/KYB) in
+    banking, payments, fintech or consulting.
+  - Compliance: Familiarity with SOC 2 and GDPR requirements for
+    handling encrypted and regulated data.
+  - Communication: Clear written and verbal communication with
+    clients, compliance professionals, business stakeholders
+    and technical teams, including explaining technical issues
+    to non-technical audiences.
+industries:
+  - Business Intelligence
+  - Consulting
+posted_date: 2026-11-17
+url: "https://builtin.com/job/senior-software-engineer/12294473"
+source: Built In

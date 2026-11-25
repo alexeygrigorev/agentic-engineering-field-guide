@@ -1,0 +1,226 @@
+job_id: 12260499
+title: Software Engineer III - Cloud Security - FCS Workflow (Hybrid)
+company: CrowdStrike
+location: New York, USA
+work_type: FULL_TIME
+company_size: 11,000 Employees
+description: |
+  As a global leader in cybersecurity, CrowdStrike protects
+  the people, processes and technologies that drive modern
+  organizations. Since 2011, our mission hasn’t changed —
+  we’re here to stop breaches, and we’ve redefined modern
+  security with the world’s most advanced AI-native platform.
+  We work on large scale distributed systems, processing
+  almost 3 trillion events per day and this traffic is growing
+  daily. Our customers span all industries, and they count on
+  CrowdStrike to keep their businesses running, their
+  communities safe and their lives moving forward. We're proud
+  to work for a mission-driven company leveraging AI to
+  transform the way we work. CrowdStrikers drive their careers
+  through flexibility and autonomy while also being expected
+  to contribute to a culture of responsible AI adoption,
+  experimentation, and innovation. We use an AI-first mindset
+  as a force multiplier to proactively and continuously
+  accelerate execution, build expertise, uncover insights, and
+  solve complex problems. We’re always looking to add talented
+  CrowdStrikers to the team who have limitless passion, a
+  relentless focus on innovation and a fanatical commitment to
+  our customers, our community and each other. Ready to join a
+  mission that matters? The future of cybersecurity starts
+  with you.
+
+  About the Role:
+
+  CrowdStrike Cloud Workload Protection places security
+  controls at the level of individual application workloads.
+  It enables organizations to identify and remediate
+  vulnerabilities across the application lifecycle, enforcing
+  compliance and security best practices across containers,
+  Kubernetes and any workload. We also build security tools
+  into the earliest phases of the development process, so
+  vulnerable code is identified as it is written rather than
+  in testing, which reduces costs and results in more secure
+  applications.
+
+  Our engineers work with AI coding agents every day. We're
+  looking for people who can use these tools to move fast
+  while bringing the judgment, depth and ownership that keep
+  production systems correct and secure.
+
+  This role is hybrid, requiring a minimum of 3 days per week
+  on-site from our New York City office.
+
+  What You’ll Do:
+
+  - Contribute to and lead backend engineering efforts, from
+    rapid prototypes to large-scale services across
+    CrowdStrike's cloud security products.
+  - Design, build, test, deploy and operate large-scale
+    distributed services. Use AI coding agents to speed up
+    delivery, while staying fully accountable for the
+    correctness, security and maintainability of everything
+    you ship.
+  - Turn product requirements into clear technical designs and
+    well-scoped tasks that both engineers and AI agents can
+    carry out reliably.
+  - Review code with a critical eye, whether a person or an
+    agent wrote it. Catch logic errors, performance problems,
+    insecure patterns and unnecessary complexity.
+  - Build and maintain the guardrails that make fast, AI-
+    assisted development safe: strong test suites, CI checks,
+    static analysis, observability and clear repository
+    documentation and conventions.
+  - Triage and debug production issues across distributed
+    systems, using AI tools to speed up investigation while
+    applying your own judgment about root cause and impact.
+  - Build public-facing command-line tools, some of which
+    interact with our web services.
+  - Mentor other engineers on our services, engineering best
+    practices, and effective and responsible use of AI
+    development tools.
+  - Work with cross-functional teams across geographies, and
+    partner with Product to define requirements and deliver
+    features.
+  - Respond to customer-reported issues quickly and take
+    ownership through to resolution.
+  - Keep re-evaluating our architecture, test coverage,
+    performance, observability and stability, including how
+    our team's development workflows can improve as AI tooling
+    evolves.
+  - Ultimately, help build a platform that secures the entire
+    lifecycle of cloud workloads for CrowdStrike customers.
+
+  What You’ll Need:
+
+  - U.S. citizen or Permanent Resident and work solely from U.S.
+    soil.
+  - A bachelor's degree in Computer Science or equivalent
+    practical experience.
+  - A solid understanding of distributed systems and scalability
+    challenges. Sharding, partitioning and horizontal scaling
+    are second nature to you.
+  - Strong programming fundamentals in at least one statically
+    typed language. We write Go; you can learn it on the job,
+    but you should be able to read and judge Go code
+    critically.
+  - Hands-on experience with AWS, Azure or GCP, infrastructure-
+    as-code (Terraform, CloudFormation, ARM/Bicep), and
+    Docker/Kubernetes/Helm.
+  - Experience with Kafka or a similar message queue (message
+    design, sizing and rates, monitoring consumer lag) and
+    with relational databases such as Postgres.
+  - Proven experience utilizing AI technologies to enhance
+    decision-making, streamline workflows and processes,
+    improve efficiency and drive business outcomes.
+  - Experience with, or strong interest in, AI-assisted
+    development. You know how to give an agent the right
+    context, when to trust its output, and when to step in and
+    write or rewrite the code yourself.
+  - Awareness of the risks that come with AI-generated code:
+    invented or untrusted dependencies, secrets exposure,
+    prompt injection, and insecure defaults.
+  - Excellent code review skills, and a strong grasp of testing
+    strategies that make correctness checkable rather than
+    assumed.
+  - Clear written communication. Design docs, task breakdowns
+    and pull request descriptions are how you guide both your
+    teammates and your tools.
+  - A habit of owning outcomes: you meet commitments, you love
+    seeing your code run in production, and you stand behind
+    it when it breaks.
+
+  Bonus points:
+
+  - Understanding of cloud security concepts such as CSPM, CWPP
+    and CNAPP.
+  - Familiarity with container and Kubernetes security (build-
+    time and runtime).
+  - Exposure to cloud security products, including product
+    direction for AI/ML, XDR, SIEM, SOAR or related
+    cybersecurity domains.
+  - Experience building internal developer tooling or agent
+    integrations, such as tool/MCP servers or automated review
+    and remediation pipelines.
+  - Experience securing AI/LLM-powered systems, or applying AI
+    to cloud security detection and remediation.
+  - Experience with large-scale data processing like Apache and
+    Spark and analytical queries like Apache Pinot
+
+  #LI-JC1
+
+  This role will require the candidate to periodically undergo
+  and pass additional background and fingerprint check(s)
+  consistent with government customer requirements.
+
+  Benefits of Working at CrowdStrike:
+
+  - Market leader in compensation and equity awards
+  - Comprehensive physical and mental wellness programs
+  - Competitive vacation and holidays for recharge
+  - Paid parental and adoption leaves
+  - Professional development opportunities for all employees
+    regardless of level or role
+  - Employee Networks, geographic neighborhood groups, and
+    volunteer opportunities to build connections
+  - Vibrant office culture with world class amenities
+  - Great Place to Work Certified™ across the globe
+
+  CrowdStrike is proud to be an equal opportunity employer. We
+  are committed to fostering a culture of belonging where
+  everyone is valued for who they are and empowered to
+  succeed. We support veterans and individuals with
+  disabilities through our affirmative action program.
+
+  CrowdStrike is committed to providing equal employment
+  opportunity for all employees and applicants for employment.
+  The Company does not discriminate in employment
+  opportunities or practices on the basis of race, color,
+  creed, ethnicity, religion, sex (including pregnancy or
+  pregnancy-related medical conditions), sexual orientation,
+  gender identity, marital or family status, veteran status,
+  age, national origin, ancestry, physical disability
+  (including HIV and AIDS), mental disability, medical
+  condition, genetic information, membership or activity in a
+  local human rights commission, status with regard to public
+  assistance, or any other characteristic protected by law. We
+  base all employment decisions--including recruitment,
+  selection, training, compensation, benefits, discipline,
+  promotions, transfers, lay-offs, return from lay-off,
+  terminations and social/recreational programs--on valid job
+  requirements.
+
+  If you need assistance accessing or reviewing this website,
+  submitting an application, requesting an accommodation, or
+  providing feedback on the job posting, please contact us at
+  recruiting@crowdstrike.com.
+
+  Find out more about your rights as an applicant.
+
+  CrowdStrike participates in the E-Verify program.
+
+  Notice of E-Verify Participation
+
+  Right to Work
+
+  CrowdStrike, Inc. is committed to fair and equitable
+  compensation practices. Placement within the pay range is
+  dependent on a variety of factors including, but not limited
+  to, relevant work experience, skills, certifications, job
+  level, supervisory status, and location. The base salary
+  range for this position for all U.S. candidates is $120,000
+  - $185,000 per year, with eligibility for bonuses, equity
+  grants and a comprehensive benefits package that includes
+  health insurance, 401k and paid time off.
+
+  For detailed information about the U.S. benefits package,
+  please click here.
+industries:
+  - Cloud
+  - Computer Vision
+  - Information Technology
+  - Sales
+  - Security
+  - Cybersecurity
+posted_date: 2026-11-16
+url: "https://builtin.com/job/software-engineer-iii-cloud-security-fcs-workflow-hybrid/12260499"
+source: Built In

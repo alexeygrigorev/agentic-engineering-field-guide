@@ -1,0 +1,144 @@
+job_id: 12449942
+title: Software Engineer
+company: Tidal Financial Group
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 154 Employees
+description: |
+  The Tidal Financial Group is a leading ETF investment
+  technology platform dedicated to creating, operating, and
+  growing ETFs. We combine expertise and innovative
+  partnership approaches to offer comprehensive, value-
+  generating ETF solutions.
+
+
+
+  Our platform offers best-in-class strategic guidance,
+  product planning, trust and fund services, legal support,
+  operations support, marketing and research, and sales and
+  distribution services.
+
+  About the role
+
+  - Tidal Financial Group is seeking a Backend Software Engineer
+    to build and maintain the trading applications that power
+    our ETF platform. This is a backend-focused role, centered
+    on designing reliable, high-performance systems in C# and
+    .NET 10 that support traders and operations teams.
+  - You’ll work closely with frontend, data, and DevOps
+    teams—collaborating on requirements, aligning on
+    interfaces, and helping ensure systems work seamlessly
+    end-to-end. This role plays an important part in
+    delivering tools that are accurate, responsive, and
+    dependable for real-world financial decision-making.
+  - We’re looking for someone who takes ownership of their work,
+    communicates clearly, and values building simple, well-
+    designed systems. The ideal candidate brings strong .NET
+    experience along with an interest in financial markets and
+    trading workflows.
+
+  What you'll do
+
+  - Design and develop backend services, APIs, and real-time
+    systems for internal trading applications and external-
+    facing client platforms in C# / .NET 10, with a focus on
+    reliability, performance, and maintainability.
+
+  - Build and maintain integrations with Bloomberg using REST,
+    FIX, and Pub/Sub APIs to support trading operations,
+    market data, and transaction reporting workflows.
+
+  - Implement real-time data delivery using SignalR and
+    messaging patterns using Redis for caching, queueing, and
+    pub/sub messaging.
+
+  - Design and query relational data models using Entity
+    Framework Core, LINQ, and PostgreSQL (AWS Aurora), while
+    collaborating with the Data team on shared data needs,
+    including Snowflake.
+
+  - Implement and maintain application security, including SSO
+    for internal applications and appropriate
+    authentication/authorization patterns (OAuth2, OpenID
+    Connect) for external-facing platforms.
+
+  - Partner closely with frontend, data, and DevOps teams to
+    define API contracts, align on requirements, and deliver
+    solutions collaboratively and efficiently.
+
+  - Contribute to architectural decisions, code reviews, and
+    engineering standards, with an emphasis on clarity,
+    simplicity, and long-term scalability.
+
+  Qualifications
+
+  - 5+ years of backend software engineering experience with a
+    strong focus on C# and modern .NET (.NET 6+, ideally .NET
+    10).
+
+  - Deep proficiency in the .NET ecosystem, including Entity
+    Framework Core, LINQ, SignalR, and related libraries.
+
+  - Strong experience with PostgreSQL and relational data
+    modeling; comfortable writing and optimizing complex SQL
+    queries.
+
+  - Experience building and securing both internal and external-
+    facing APIs, including SSO integration (Microsoft Entra /
+    Azure AD) and external authentication patterns (OAuth2,
+    OpenID Connect).
+
+  - Experience with Redis for caching, queueing, and pub/sub
+    messaging patterns.
+
+  - Familiarity with gRPC, or openness to adopting it as part of
+    the stack.
+
+  - Proficiency with Git/GitHub and modern development workflows
+    (pull requests, code review, branching strategies).
+
+  - Comfortable using JetBrains Rider or equivalent professional
+    .NET tooling.
+
+  - Experience working in Agile environments, with a
+    collaborative, team-first approach to planning and
+    delivery.
+
+  - Strong communicator who can work effectively across teams,
+    bringing clarity to technical decisions and aligning
+    stakeholders without requiring close oversight.
+
+  - Self-directed and accountable, with the ability to manage
+    priorities and follow through in a fast-moving
+    environment.
+
+  Preferred Qualifications
+
+  - Experience with Bloomberg integrations using REST, FIX, and
+    Pub/Sub APIs
+
+  - Familiarity with ETF lifecycle concepts—basket creation,
+    order management, NAV calculation, holdings
+    reconciliation, and trade workflows
+
+  - Awareness of AWS compute and infrastructure (ECS/EC2,
+    Lambda, CloudWatch)
+
+  - Familiarity with Snowflake as a data platform
+
+  - Exposure to Next.js or modern frontend frameworks (helpful
+    for cross-team collaboration)
+
+  - Understanding of compliance frameworks such as SOC2
+
+  - Curiosity about financial markets and trading systems, with
+    an interest in how technology supports real-time decision-
+    making
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-11-24
+url: "https://builtin.com/job/software-engineer/12449942"
+source: Built In

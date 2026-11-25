@@ -1,0 +1,95 @@
+job_id: 12426064
+title: Software Engineer (Remote)
+company: Kestrel Intelligence, Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 14 Employees
+description: |
+  The Mission
+
+  At Kestrel, we are building the future of scalable autonomy
+  across domains. Our systems enable commercial and national
+  security customers to sense and act in support of complex
+  missions without significant autonomous system expertise.
+  This technology bridges domains (e.g., space, air, land,
+  sea) and fields (e.g., AI, orbital dynamics, geospatial),
+  requiring a team that has both breadth and depth in these
+  related topics.
+
+
+
+  The Role
+
+  As a Kestrel Software Engineer, you will lead the
+  development of CI/CD artifacts, data structures, data
+  processing pipelines, components of an agentic AI
+  architecture, and user interface components. You will work
+  at the bleeding edge of geospatial science. This role
+  requires adaptability, engineering rigor, and a deep respect
+  for the mission.
+
+
+
+  Core Responsibilities:
+
+  - Design and deploy our infrastructure using Terraform
+
+  - Lead the deployment of Python-based APIs to cloud
+    environments
+
+  - Experience with large-scale infrastructure architecture
+
+  - Establish infrastructure best practices from the ground up,
+    including: Environment separation (dev / staging / prod);
+    Secure networking, IAM, and secrets management; Logging,
+    monitoring, and alerting
+
+  Design and maintain CI/CD pipelines using GitHub Actions
+
+  - Apply prior AWS GovCloud and DoD IL experience to ensure:
+    Compliance-ready infrastructure; Architecture choices that
+    will not block future government deployments
+
+  - Design infrastructure and deployment patterns that support
+    multi-cloud environments, including: Cloud-agnostic
+    Terraform module design where practical; Minimizing
+    provider lock-in for core services; Supporting future
+    deployments across commercial cloud and GovCloud
+    environments
+
+  - Plan and advise on future AWS GovCloud and DoD IL
+    deployments, even if those environments are not
+    immediately live
+
+  - Identify and mitigate infrastructure and compliance risks
+    early
+
+
+
+  Bonus:
+
+  - Strong software engineering background is a plus,
+    particularly: API development; Distributed or service-
+    oriented systems; Prior experience designing or operating
+    multi-cloud environments is a plus
+
+  - Based near the Colorado Springs, CO or Washington, DC
+    (working in customer sites in Crystal City, VA and
+    Herndon, VA) areas
+
+  - Active Top Secret // Specially Compartmented Information
+    (TS//SCI) clearance with counterintelligence-scope
+    polygraph (CSP) or full-scope polygraph (FSP)
+
+
+
+  Must be a US Citizen
+industries:
+  - Aerospace
+  - Artificial Intelligence
+  - Autonomous Systems
+  - Defense Technology
+posted_date: 2026-11-24
+url: "https://builtin.com/job/software-engineer-remote/12426064"
+source: Built In

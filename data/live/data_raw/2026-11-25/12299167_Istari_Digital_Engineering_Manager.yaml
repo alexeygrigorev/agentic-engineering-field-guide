@@ -1,0 +1,158 @@
+job_id: 12299167
+title: Engineering Manager
+company: Istari Digital
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 48 Employees
+description: |
+  We are hiring an Engineering Manager to lead the Data
+  Platform team, the group that builds the data foundation
+  every other part of Istari depends on.  That foundation
+  covers how engineering models and their metadata are
+  registered, versioned, related, queried, and traced across
+  customer environments, and how AI agents get safe, governed
+  access to that data. Istari is doing groundbreaking work in
+  the area of digital threading, branching and merging, global
+  collision-free namespacing and tracing with hashes, digital
+  signatures, Merkle trees, and other advanced technologies to
+  build an “internet of engineering data” (also broadly
+  applicable to any kind of structured and semi-structured
+  data).
+
+  Istari is also the owner/upstream on the well-known and
+  well-respected distributed graph database dgraph.io. In this
+  role you will supervise and guide a team of engineers who
+  develop and lead the Dgraph open source community, and
+  provide additional capabilities and support to enterprise
+  customers of Dgraph.
+
+  This is a player-coach-friendly role on a small, senior
+  team. You will manage engineers, own delivery and technical
+  quality for the team's roadmap, and partner closely with
+  Product, Security, Infrastructure, and Customer Engineering.
+  This role reports to our CTO, and we are looking for someone
+  who has built data systems under real constraints (scale,
+  security, uptime) and who likes growing a team while
+  delivering high quality software at a rapid pace.
+
+  Core Responsibilities:
+
+  - Hire, onboard, coach, and retain strong data and backend
+    engineers; run 1:1s, feedback, and promotion cycles.
+  - Set clear priorities and expectations, and build a culture
+    of ownership, code review, and honest postmortems.
+  - Stay close enough to the code to review designs and unblock
+    the team, without becoming the bottleneck.
+  - Work with other engineering teams at Istari to coordinate
+    frequent releases using DevSecOps processes.
+  - Optimize the components you own to support the broader
+    Istari platform roadmap and lifecycle.
+  - Turn product and customer needs into a roadmap, then plan,
+    scope, and ship it with the team.
+  - Own the data layer behind the Istari platform: metadata and
+    file registration, versioning, lineage and traceability,
+    graph-based relationships, and APIs for query and
+    ingestion.
+  - Make pragmatic build-versus-buy and architecture calls, and
+    keep quality, reliability, and cost under control.
+  - Design for data sovereignty: data stays in customer-
+    controlled storage and environments, and the platform
+    works across security levels and deployment models (cloud-
+    hosted and customer-hosted).
+  - Work with Security and DevSecOps on access control,
+    auditability, and compliance readiness.
+  - Define SLOs and on-call practices, and lead incident
+    response and follow-up for the data tier.
+  - Partner with Product and AI engineers so agents and models
+    get governed, safe, and monitored access to engineering
+    data maintained by the Istari platform.
+  - Help shape how we represent engineering data (models,
+    requirements, simulation results) so it is queryable and
+    trustworthy for both humans and their AI agents; help
+    design safeguards against AI-induced errors or
+    hallucinations.
+  - Lean in to the latest AI technologies in order to optimize
+    code delivery without sacrificing quality, and guide your
+    team in doing so as well.
+  - Focus on automation across the product lifecycle and all
+    engineering processes with the right safeguards, including
+    adversarial AI usage and appropriate human-in-the-loop
+    oversight.
+  - Collaborate with Product, Customer Engineering, and
+    Solutions on customer deployments, integrations, and
+    escalations.
+  - Communicate plans, risks, and tradeoffs clearly to
+    leadership and technical customers.
+
+  Required Qualifications:
+
+  - 7+ years of software product engineering experience,
+    including 2+ years managing engineers (or leading teams as
+    a tech lead with formal people-management responsibility).
+  - Hands-on background building and operating data-intensive
+    backend systems: databases (notably Postgres), data
+    pipelines, metadata or catalog systems, blockchain
+    systems, or storage services in production.
+  - Solid grounding in data modeling and at least one of: graph
+    databases, relational databases at scale, or distributed
+    data stores. You can review a schema or a query plan and
+    have an expert opinion.
+  - Experience with cloud infrastructure (AWS preferred),
+    containers, and Kubernetes, and with CI/CD and
+    observability practices.
+  - Track record of hiring well, developing engineers, and
+    delivering on a roadmap in a small, fast-moving team.
+  - Clear communication with technical and non-technical
+    stakeholders, including customers.
+  - Comfort with ambiguity: you can set direction when
+    requirements are still forming and adjust as we learn.
+  - Bachelor's degree in computer science, engineering, or
+    equivalent practical experience.
+  - Experience with Dgraph, GraphQL, or knowledge-graph and
+    ontology design.
+  - Background in aerospace, defense, or other regulated
+    industries, or with model-based systems engineering (MBSE)
+    and digital engineering tools such as CAD, simulation, or
+    SysML.
+  - Experience with data governance, lineage, access control, or
+    air-gapped and customer-hosted deployments.
+  - Familiarity with FedRAMP, NIST 800-53, CMMC, or similar
+    compliance frameworks.
+  - Exposure to building data foundations for ML or AI agents,
+    such as retrieval, RAG, vector search, or agent tool
+    access.
+  - Prior experience at an early-stage or defense-tech startup.
+  - Active U.S. security clearance, or the ability to obtain
+    one.
+
+  What Success Looks Like
+
+  - You know the team, the codebase, and our customers' data
+    problems well enough to explain them to a new hire.
+  - You have 1:1 rhythms, clear priorities, and a shared view of
+    team health and delivery.
+  - You have shipped or unblocked at least one meaningful
+    platform improvement.
+  - The team has a written roadmap tied to customer outcomes,
+    with owners, milestones, and reliability targets.
+  - Open roles are filled or in late-stage interviews, and every
+    engineer has a growth plan.
+  - Incident response and on-call for the data tier are
+    predictable and documented.
+  - The data platform scales to our largest customer deployments
+    and meets our security and compliance bar.
+  - The Istari data fabric (Postgres, Dgraph,
+    ElasticSearch/OpenSearch, S3, etc.) work as one product
+    that Product and AI teams build on with confidence.
+  - The team is known across the company as dependable, and
+    people want to join it.
+
+  About Istari Digital
+industries:
+  - Aerospace
+  - Software
+  - Agriculture
+posted_date: 2026-11-17
+url: "https://builtin.com/job/engineering-manager/12299167"
+source: Built In

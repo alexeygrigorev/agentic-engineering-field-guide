@@ -1,0 +1,174 @@
+job_id: 12377866
+title: "Staff Software Engineer, AI Agent Platform & Runtime"
+company: DataSite
+location: Grata, ITA
+locations:
+  - Grata, ITA
+  - New York, USA
+  - Minneapolis, USA
+work_type: FULL_TIME
+company_size: 821 Employees
+description: |
+  About us
+
+  Datasite is the essential infrastructure for M&A. Also
+  comprising Grata, Blueflame AI, and Sherpany, we help
+  dealbreakers find opportunities, manage transactions, and
+  make key decisions.
+
+  Whatever your talents, you can find a place for them here.
+  Get involved in some of the biggest business ventures today.
+  Work with other gifted people around the world. Follow your
+  ambitions, or discover a whole new path.
+
+
+
+  Can you help us simplify the complex, create great
+  experiences, and deliver better outcomes? Then let's talk.
+
+  Job Description:
+
+  Why Engineering at Datasite
+
+  Datasite's engineering organization builds the software the
+  world's dealmakers depend on to find, evaluate, negotiate,
+  and close transactions: secure virtual data rooms, AI-
+  assisted diligence, deal sourcing, and private-company
+  intelligence.
+
+  We're looking for a hands-on Staff Software Engineer to
+  shape the foundational infrastructure for enterprise AI
+  agents. You'll evolve our custom agent harness, build
+  layered memory and secure isolated execution, and make
+  sophisticated agent workflows dependable at production
+  scale. This is an opportunity to solve challenging problems
+  in distributed systems, applied AI, security, and platform
+  engineering - not simply wrap APIs around models.
+
+  Help define how agents reason, plan, remember, use tools,
+  delegate work, and recover from failures across complex,
+  high-stakes business workflows. You'll own architecture
+  decisions and collaborate across Engineering, Product,
+  Machine Learning, and Security to deliver meaningful
+  capabilities for dealmakers.
+
+  Location: We are hiring in New York City and Minneapolis.
+  Datasite is a hybrid company, with in-office collaboration
+  on Mondays, Tuesdays, and Thursdays.
+
+  What You Will Do
+
+  - Lead the architecture and evolution of Datasite's custom
+    agent harness, including reasoning and execution loops,
+    planning, tool selection, state transitions, structured
+    outputs, and runtime controls.
+
+  - Design layered agent memory spanning working context,
+    episodic history, semantic knowledge, and durable workflow
+    state; build retrieval, consolidation, compaction,
+    provenance, retention, and access controls.
+
+  - Architect isolated, containerized agent execution
+    environments for code, files, and tools, with ephemeral
+    workloads, tenant boundaries, resource quotas, restricted
+    networking, and secure credential handling.
+
+  - Build resilient agent orchestration: asynchronous tasks,
+    specialized subagents, delegation, checkpoints,
+    resumability, retries, failure recovery, and human
+    approvals.
+
+  - Create secure, extensible tool integrations using MCP and
+    related interfaces, with authentication, authorization,
+    least-privilege permissions, and safeguards against prompt
+    injection and unsafe actions.
+
+  - Establish agent evaluation, tracing, observability, and
+    regression testing to measure task quality, correctness,
+    reliability, latency, and cost; drive measurable
+    improvements
+  - Make high-impact technical tradeoffs between probabilistic
+    model behavior and deterministic application logic,
+    validation, or human review.
+  - Partner with Product, Machine Learning, Security, and
+    platform teams to turn diligence, research, and deal
+    workflows into production-grade agent experiences; mentor
+    engineers while remaining hands-on in critical
+    implementation.
+
+  What You Bring
+
+  - Experienced in building and operating production software,
+    with a track record of leading complex technical
+    initiatives across teams.
+  - Deep expertise in backend platforms, distributed systems,
+    asynchronous execution, APIs, fault tolerance, and
+    stateful services.
+  - Strong hands-on Python proficiency and experience with a
+    modern language such as TypeScript, Java, Go, Kotlin, or
+    Rust.
+  - Experience developing production LLM applications involving
+    tool calling, multi-step workflows, retrieval, agent
+    orchestration, or context management.
+  - Practical understanding of containers, cloud-native
+    infrastructure, workload isolation, and secure execution
+    patterns.
+  - Strong foundations in data persistence, caching, event-
+    driven architectures, permissions, multi-tenancy, and
+    secrets management.
+  - Excellent product and architectural judgment: able to
+    evaluate emerging techniques, balance speed with
+    reliability, and turn ambiguous problems into maintainable
+    platforms.
+  - Ability to influence technical strategy, mentor senior
+    engineers, and communicate complex tradeoffs clearly to
+    engineering and product leaders.
+
+  Nice to Have
+
+  - Custom agent runtimes or orchestration frameworks; agentic
+    coding systems or autonomous development environments.
+
+  - Persistent or hierarchical agent memory, context
+    engineering, retrieval architectures, or long-running
+    agent workflows.
+
+  - Secure code execution, sandboxing, Docker, Kubernetes,
+    microVMs, or ephemeral compute.
+
+  - Multi-agent coordination, MCP servers, tool registries,
+    capability-based permissions, model routing, or agent
+    evaluation and tracing.
+
+  - Enterprise SaaS, M&A, virtual data rooms, regulated data,
+    financial services, or complex document-centric workflows.
+
+  The base salary range represents the estimated low and high
+  end for this position based on a good faith assessment of
+  the role and market data at the time of posting. Consistent
+  with applicable law, each candidate’s compensation offer may
+  vary and will be determined based on but not limited to,
+  your geographic region, skills, qualifications, and
+  experience along with the requirements of the position. This
+  position may be eligible for bonuses, commissions, or
+  overtime if applicable. Benefits include health insurance
+  (medical, dental, vision), a retirement savings plan, paid
+  time off, and other employee benefits. Specific details will
+  be provided during the interview process. Datasite reserves
+  the right to modify this pay range at any time.
+
+  $170,000.00 - $297,200.00
+
+  Our company is committed to fostering a diverse and
+  inclusive workforce where all individuals are respected and
+  valued. We are an equal opportunity employer and make all
+  employment decisions without regard to race, color,
+  religion, sex, gender identity, sexual orientation, age,
+  national origin, disability, protected veteran status, or
+  any other protected characteristic. We encourage
+  applications from candidates of all backgrounds and are
+  dedicated to building teams that reflect the diversity of
+  our communities.
+posted_date: 2026-11-20
+url: "https://builtin.com/job/staff-software-engineer-ai-agent-platform-runtime/12377866"
+source: Built In

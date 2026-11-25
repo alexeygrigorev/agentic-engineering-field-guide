@@ -1,0 +1,201 @@
+job_id: 12270636
+title: "Staff Software Engineer - Code Hosting & Merge"
+company: Uber
+location: New York, USA
+locations:
+  - New York, USA
+  - Seattle, USA
+  - Sunnyvale, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 21,000 Employees
+description: |
+  About the Role
+
+  As a Staff Software Engineer on Uber’s Code Hosting & Merge
+  team, you will set technical direction across the systems
+  that host, find, and safely merge code for thousands of
+  engineers. You’ll help define how this infrastructure
+  evolves as AI agents become a core part of software
+  development, and turn that vision into reliable platforms
+  that keep engineering at Uber moving.
+
+  About the Team
+
+  Uber’s Code Hosting & Merge team, part of Developer
+  Platform, builds and operates the infrastructure behind code
+  hosting, code search, and SubmitQueue. Our goal: help
+  engineers and AI agents ship code at scale with more speed,
+  confidence, and less waiting. You’ll help build the
+  infrastructure that keeps pace with that growth as AI agents
+  expand what engineers can deliver.
+
+  What we own today:
+
+  - Code hosting: the source control infrastructure that
+    supports repository access and Git workflows across Uber’s
+    engineering ecosystem.
+  - Code search: the systems that help engineers and agents find
+    and understand code across large codebases.
+  - SubmitQueue and merge integrations: the system that merges
+    thousands of changes daily into Uber’s Go monorepo while
+    keeping the main branch green, together with automated
+    checks and code review integrations.
+
+  We work closely with Developer Platform partners in CI,
+  build systems, code review, and AI developer tooling, as
+  well as engineering teams across Uber. Our infrastructure is
+  a foundation for both everyday development and the next
+  generation of autonomous coding workflows.
+
+  Explore some of our work
+
+  We’ve built systems that tackle some of the hardest problems
+  in developer infrastructure. Here are a few examples:
+
+  - GitFarm: Git as a Service — running Git operations in
+    secure, pre-warmed environments so services can work with
+    large monorepos without maintaining their own clones.
+  - Open-source SubmitQueue — using speculative validation to
+    safely merge concurrent changes at scale.
+  - Slashing CI Costs at Uber — improving SubmitQueue’s
+    scheduling to reduce CI resource usage by 53% and waiting
+    times by 37% in the reported rollout.
+  - AI Writes Code Faster Than Uber Can Merge It — our engineers
+    explain how we’re evolving merge and validation systems
+    for the demands of AI-driven development.
+
+  What the Candidate Will Do
+
+  - Set technical direction for code hosting and merge
+    infrastructure: define the long-term architecture and
+    roadmap for systems serving both engineers and AI agents,
+    and align Developer Platform and engineering leadership
+    behind it.
+  - Build for the scale of agentic development: evolve source
+    control and merge systems to handle greater concurrency,
+    sustained automation, and growing change volume. Improve
+    throughput and land times while preserving merge
+    correctness and main-branch health.
+  - Shape how agents interact with developer infrastructure:
+    partner with AI tooling, CI, and code review teams to
+    build dependable integrations, clear status and failure
+    signals, and workflows that can recover safely from
+    retries and partial failures.
+  - Lead the hardest problems hands-on: design and ship critical
+    Go-based distributed services, guide complex migrations,
+    and set the bar for testing, observability, reliability,
+    and cost. Own outcomes from design through rollout and
+    operations, including incident response and preventive
+    improvements.
+  - Grow technical leaders: mentor senior engineers and tech
+    leads, lead design reviews, and help teams make sound
+    architectural tradeoffs. Use developer feedback and
+    measures such as availability, land time, and merge
+    throughput to focus investment where it matters most.
+
+  Basic Qualifications
+
+  - Bachelor’s or Master’s degree in Computer Science,
+    Engineering, or a related field, or equivalent practical
+    experience.
+  - 8+ years of professional software engineering experience,
+    including building and operating large-scale backend
+    services or developer platforms in production.
+  - Proficiency in at least one major programming language, such
+    as Go, Java, or Python, and strong computer science and
+    distributed systems fundamentals.
+  - Experience setting technical direction for multi-team or
+    organization-wide projects through all stages: inception,
+    stakeholder alignment, implementation, and operations.
+
+  Preferred Qualifications
+
+  - AI fluency in day-to-day engineering: experience using
+    coding agents such as Claude Code, Codex, or OpenCode to
+    drive large, complex projects end to end, from codebase
+    exploration and planning through implementation, testing,
+    review, and rollout. Ability to decompose work,
+    orchestrate parallel agent workflows, and verify results
+    while retaining ownership of architecture and production
+    quality.
+  - Experience extending agent workflows through harnesses,
+    skills, or MCP integrations, and making them effective in
+    large codebases and production engineering environments.
+  - Deep experience with Go, Git internals, code hosting, code
+    search, merge queues, or large-scale monorepo
+    infrastructure, including integrations with build systems
+    such as Bazel or Buck and CI/CD pipelines.
+  - Experience defining multi-year technical strategy for
+    developer infrastructure and earning buy-in across teams
+    and leadership, including evolving critical systems
+    without disrupting developers.
+  - A data-driven approach to engineering: experience using
+    production metrics, experiments, and developer feedback to
+    identify bottlenecks, prioritize investments, and measure
+    improvements in reliability, performance, cost, and
+    developer productivity.
+  - Recognized technical leadership beyond your team: mentoring
+    senior engineers, improving reliability and operational
+    practices, and sharing expertise through technical talks,
+    open source, or the broader engineering community.
+
+  Responsibilities
+
+  For New York City, NY-based roles: The base salary range for
+  this role is USD $232,000 per year - USD $258,000 per year.
+
+  For San Francisco, CA-based roles: The base salary range for
+  this role is USD $232,000 per year - USD $258,000 per year.
+
+  For Seattle, WA-based roles: The base salary range for this
+  role is USD $232,000 per year - USD $258,000 per year.
+
+  For Sunnyvale, CA-based roles: The base salary range for
+  this role is USD $232,000 per year - USD $258,000 per year.
+
+  For all US locations, you will be eligible to participate in
+  Uber's bonus program, and may be offered an equity award &
+  other types of comp. All full-time employees are eligible to
+  participate in a 401(k) plan. You will also be eligible for
+  various benefits.
+
+  About Us
+
+  Ready to Ride?
+
+
+
+  This isn't the kind of place where you follow a playbook —
+  it's where you help write one. If you're driven by impact,
+  energized by challenge, and ready to shape how the world
+  moves — we'd love to hear from you.
+
+  You may be eligible for bonuses, equity, and other
+  compensation, as well as a range of benefits. Explore our
+  benefits.
+
+  Offices remain key to collaboration and Uber's culture.
+  Unless approved for full remote work, employees must spend
+  at least 50% of their time in-office. Some roles, like those
+  at greenlight hubs, require full-time in-office presence.
+  Ask your Recruiter for details about this role's
+  requirements.
+
+  Uber is proud to be an Equal Opportunity employer. All
+  qualified applicants will receive consideration for
+  employment without regard to sex, gender identity, sexual
+  orientation, race, color, religion, national origin,
+  disability, protected Veteran status, age, or any other
+  characteristic protected by law. We also consider qualified
+  applicants regardless of criminal histories, consistent with
+  legal requirements. If you have a disability or special need
+  that requires accommodation, please let us know by
+  completing this form.
+industries:
+  - Logistics
+  - Transportation
+  - "3PL: Third Party Logistics"
+posted_date: 2026-11-16
+url: "https://builtin.com/job/staff-software-engineer-code-hosting-merge/12270636"
+source: Built In

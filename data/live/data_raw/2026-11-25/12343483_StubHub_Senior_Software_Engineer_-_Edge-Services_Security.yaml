@@ -1,0 +1,169 @@
+job_id: 12343483
+title: Senior Software Engineer - Edge-Services Security
+company: StubHub
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,000 Employees
+description: |
+  StubHub is on a mission to redefine the live event
+  experience on a global scale. Whether someone is looking to
+  attend their first event or their hundredth, we’re here to
+  delight them all the way from the moment they start looking
+  for a ticket until they step through the gate. The same goes
+  for our sellers. From fans selling a single ticket to the
+  promoters of a worldwide stadium tour, we want StubHub to be
+  the safest, most convenient way to offer a ticket to the
+  millions of fans who browse our platform around the world.
+
+  Join StubHub's Edge Services team as a Software/Security
+  Engineer and help shape the global infrastructure that keeps
+  millions of fans connected, secure, and engaged—right at the
+  edge. You'll work on state of the art CDN architecture,
+  advanced bot mitigation, and real-time fraud defenses,
+  collaborating with top-tier security and platform teams to
+  drive innovation at massive scale. This is your chance to
+  build resilient, high-performance systems that directly
+  power one of the largest live event marketplaces in the
+  world.
+
+  Location: Hybrid (3 days in office/2 days remote) – New
+  York, NY or Century City, CA or Aliso Viejo, CA
+
+  About the team: The Edge Services team at StubHub owns the
+  platform that powers our global content delivery and edge
+  security posture. The team is responsible for CDN
+  infrastructure, bot management, DNS, and traffic-layer
+  protections that help keep our customers safe and our site
+  performant. The team treats edge infrastructure like a
+  product—standardizing interfaces, applying zero-trust
+  principles to edge security, and building scalable tooling
+  to enable internal teams. The team collaborates closely with
+  Security Engineering, SRE, and product development teams to
+  provide best in class availability, reliability & security
+  of StubHub’s edge-services.
+
+  What You’ll Do:
+
+  - Design, implement, and operate CDN infrastructure using AWS
+    CloudFront, Global Accelerator, bot management, and
+    related services.
+  - Develop scalable systems for detecting and mitigating
+    malicious automated traffic, using both commercial bot
+    management platforms and homegrown controls.
+  - Codify reusable Infrastructure as Code (IaC) modules to
+    enable other teams to deploy edge services safely and
+    consistently.
+  - Integrate with fraud detection pipelines to inform real-time
+    blocking or scoring decisions at the edge.
+  - Collaborate with security and platform teams to enforce
+    zero-trust controls, request validation, and origin
+    shielding.
+  - Integrate CDN & bot management application coverage into
+    existing developer platform software & automation
+    products.
+  - Drive edge observability strategy using metrics, traces, and
+    logs to detect anomalies and optimize performance.
+  - Evaluate and implement new technologies (e.g., edge compute,
+    rate limiting frameworks, multi-CDN failover strategies).
+  - Participate in incident response and root cause analysis for
+    edge service outages or abuse-related escalations.
+
+  What You’ve Done:
+
+  - Expert level experience with AWS edge and networking
+    services (CloudFront, WAF, Route53, Shield, Global
+    Accelerator).
+  - Expert level proficiency with Terraform and infrastructure-
+    as-code patterns in production.
+  - Deep experience implementing or operating enterprise-grade
+    bot management platforms (e.g., HUMAN, AWS Bot Control,
+    Cloudflare Bot Management, Akamai Bot Manager).
+  - Advanced knowledge of HTTP protocol, CDN caching strategies,
+    edge compute functions (e.g., Lambda@Edge), and TLS
+    management.
+  - Strong software development experience in a modern language
+    (e.g., Python, Go, TypeScript, Java).
+  - Track record of building safe, observable, and performant
+    infrastructure at scale.
+  - Familiarity with building and scaling fraud prevention
+    systems or integrating with fraud intelligence platforms
+    is a plus.
+
+  Preferred Skills and Qualifications:
+
+  - Experience authoring real-time request evaluation logic at
+    the edge.
+  - Familiarity with HTTP/2, QUIC, and emerging transport
+    protocols for low-latency content delivery.
+  - Familiarity with custom device fingerprinting, rate
+    limiting, and CAPTCHA challenge orchestration.
+  - Experience supporting traffic segmentation, geo-steering, or
+    multi-CDN architecture.
+  - Background in high-scale event collection and processing for
+    edge analytics.
+  - Proficiency in implementing defense-in-depth mechanisms for
+    Layer 7 attacks.
+  - Proficiency in building distributed rate-limiting or request
+    scoring systems.
+  - Familiarity with principles of secure system design and
+    zero-trust architectures.
+  - Contributions to open-source projects in the edge,
+    networking, or observability space.
+
+  What We Offer:
+
+  - Accelerated Growth Environment: An environment designed for
+    swift skill and knowledge enhancement, where you have the
+    autonomy to lead experiments and tests on a massive scale.
+  - Top Tier Compensation Package: Competitive base, equity, and
+    upside that tracks with your impact.
+  - Flexible Time Off: Enjoy unlimited Flex Time Off, giving you
+    the flexibility to manage your schedule and take time to
+    recharge as needed.
+  - Comprehensive Benefits Package: Prioritize your well-being
+    with a comprehensive benefits package, featuring 401k, and
+    premium Health, Vision, and Dental Insurance options
+
+  The anticipated gross base pay range is below for this role.
+  Actual compensation will vary depending on factors such as a
+  candidate’s qualifications, skills, experience, and
+  competencies. Base annual salary is one component of
+  StubHub’s total compensation and competitive benefits
+  package, which includes equity, 401(k), paid time off, paid
+  parental leave, and comprehensive health benefits.
+
+  Salary Range
+
+  $200,000—$250,000 USD
+
+  About Us
+
+  StubHub is the world’s leading marketplace to buy and sell
+  tickets to any live event, anywhere. Through StubHub in
+  North America and viagogo, our international platform, we
+  service customers in 195 countries in 33 languages and 49
+  available currencies. With more than 300 million tickets
+  available annually on our platform to events around the
+  world -- from sports to music, comedy to dance, festivals to
+  theater -- StubHub offers the safest, most convenient way to
+  buy or sell tickets to the most memorable live experiences.
+  Come join our team for a front-row seat to the action.
+
+
+
+  For California Residents: California Job Applicant Privacy
+  Notice found here
+
+
+
+  We are an equal opportunity employer and value diversity on
+  our team. We do not discriminate on the basis of race,
+  color, religion, sex, national origin, gender, sexual
+  orientation, age, disability, veteran status, or any other
+  legally protected status.
+industries:
+  - Events
+  - Mobile
+posted_date: 2026-11-19
+url: "https://builtin.com/job/senior-software-engineer-edge-services-security/12343483"
+source: Built In

@@ -1,0 +1,93 @@
+job_id: 12447125
+title: Full Stack Developer (AI-First)
+company: Zendrop
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 102 Employees
+description: |
+  Location: This role is fully remote and open only to
+  candidates based in Latin America. We're not able to
+  consider candidates based in the US or other regions for
+  this position. Our dev team works on Eastern Time (ET).
+
+  How we build
+
+  We don't type code. Our engineers work through agents
+  (Claude Code, Codex, Cursor) and most of what ships is
+  agent-written. You describe the outcome, the agent plans and
+  implements, the agent reviews its own work, and then you
+  review it.
+
+  The first and the last steps are the job. You set the shape
+  before the agent builds, and you're the first human to read
+  what comes back. You own every line that lands in
+  production. Whole-team PR review sits on top of that, not
+  instead of it. "The agent wrote it" never explains a bug
+  here.
+
+  Company accounts for Claude, Codex and Cursor are provided
+  and you're expected to use them hard. No token budget to
+  ration.
+
+  What you'll do
+
+  - Ship merchant-facing features end to end, from data model to
+    API to UI, directing agents through the whole path
+  - Decide the shape before the agent builds it: where a
+    boundary goes, what's sync vs. queued, what the contract
+    is, what gets denormalized
+  - Catch what the agent got wrong: the plausible-looking query
+    that doesn't scale, the missing failure path, the
+    abstraction that will cost us in six months
+  - Make agent output verifiable with tests that define done,
+    contracts that hold, and changes that can be rolled back
+  - Bring new tooling and workflows into the team when you find
+    something better
+
+  What we're looking for
+
+  Web development and web services architecture. That's the
+  bar, not a specific language.
+
+  - 3+ years building and running production web applications
+  - You reason fluently about client-server, sync vs. async,
+    scheduling and background work, caching, and failure
+    modes, and you can explain a decision to an agent well
+    enough that it builds the right thing
+  - Architectural patterns are working tools for you, not
+    vocabulary: MVC, layered, hexagonal, DDD, and the code-
+    level patterns underneath. You know when each is worth it
+    and when it's overhead
+  - Strong SQL and relational data modeling. Non-negotiable
+  - You instrument what you ship. Production observability and
+    performance tooling (Datadog, New Relic, Sentry or
+    similar) is how you find out the agent's code actually
+    works
+  - Daily production use of coding agents. You ship with them,
+    you're not evaluating them
+  - You can take a codebase you didn't write and an agent's plan
+    for changing it, and tell whether the plan is right
+
+  Any language. PHP/Laravel and JavaScript/Vue are a plus.
+  That's our current stack and you'll be in it week one, with
+  agents to get you there.
+
+  Also a plus: LLM APIs in production, e-commerce platforms
+  (Shopify, fulfillment), queues and event-driven work, MCP
+  servers or custom agent skills.
+
+  Interview process
+
+  - Intro with our HR Manager
+  - Technical conversation with a Tech Lead and the CTO. Expect
+    to review real agent-generated code and defend
+    architectural calls
+  - Conversation with the CTO of our parent company
+industries:
+  - eCommerce
+  - Logistics
+  - Software
+posted_date: 2026-11-24
+url: "https://builtin.com/job/full-stack-developer-ai-first/12447125"
+source: Built In

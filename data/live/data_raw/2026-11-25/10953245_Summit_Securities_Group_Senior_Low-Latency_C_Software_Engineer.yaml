@@ -1,0 +1,163 @@
+job_id: 10953245
+title: Senior Low-Latency C++ Software Engineer
+company: Summit Securities Group
+location: New York, USA
+work_type: FULL_TIME
+company_size: 57 Employees
+description: |
+  About Summit Securities Group
+
+  Summit Securities Group is a proprietary trading firm
+  established in 2012. Headquartered in New York City, we
+  trade our own capital across global markets, combining
+  experienced traders, quantitative research, and in-house
+  technology.
+
+  The Role
+
+  We are looking for a driven, experienced C++ Software
+  Engineer to join our Core Engineering team. You will be the
+  architect and steward of the low-latency, high-throughput
+  systems that power our live trading. Your mission is to
+  build the highly performant, fault-tolerant foundations that
+  enable us to execute strategies efficiently and capture
+  opportunities in real-time. You will have broad ownership
+  over system architecture, performance optimization, and
+  execution logic, while partnering directly with our
+  exceptional quantitative researchers and trading desks.
+
+  The Team
+
+  The Core Engineering team is responsible for the firm's
+  entire trading infrastructure. On our lean team of highly
+  skilled engineers, we view engineering holistically rather
+  than functionally. You will not be restricted to a narrow
+  component; you will own critical projects that span
+  execution, market data, and strategy implementation. This
+  end-to-end exposure provides the opportunity to directly
+  impact our bottom line while collaborating with seasoned
+  mentors and brilliant peers in a fast-paced, hands-on
+  environment.
+
+  Responsibilities
+
+  - Design and Own Trading Systems: Take strategic ownership of
+    critical trading infrastructure, driving projects from
+    initial whiteboard design all the way through to
+    deployment and production support.
+  - Engineer for Extreme Performance: Optimize systems that
+    process and react to real-time data streams. Evolve our
+    performance posture by leveraging hardware-level
+    optimizations, kernel bypass, and deep memory management
+    to ensure microsecond-level execution.
+  - Build Execution Logic: Develop, refine, and maintain order
+    matching systems, execution logic, and major venue
+    gateways across multiple asset classes.
+  - Empower the Flywheel of Discovery: Work side-by-side with
+    quantitative researchers and traders. Build robust test
+    harnesses and data analysis pipelines to help the business
+    rapidly iterate on new signals and strategies.
+  - Drive Architectural Excellence: Ensure our codebase scales
+    efficiently by making pragmatic, forward-looking
+    architectural decisions and championing modern C++ best
+    practices.
+
+  The Tech Stack
+
+  We use the right tool for the job. In this role, you will
+  heavily utilize:
+
+  - Languages: Primarily C++23 and Python for scripting, test
+    harnesses, and data analysis.
+  - Infrastructure: Linux, with a deep focus on OS internals and
+    memory management.
+  - Networking: Low-latency networking protocols and hardware
+    (e.g., Solarflare, kernel bypass).
+
+  You Bring Requirements
+
+  - Experience: 5+ years of relevant software engineering
+    experience with clear progression in system complexity and
+    architectural decision-making.
+  - Modern C++ Expertise: Expertise in modern C++ on Linux, with
+    a deep understanding of memory management, concurrency,
+    and templates.
+  - Onsite Collaboration: A willingness to work onsite in our
+    office 4 days a week.
+
+  Strongly Preferred
+
+  - Industry Experience: Background in finance, electronic
+    trading, or market-making.
+  - Market Fluency: Breadth across multiple asset classes OR
+    knowledge of global market nuances (beyond US Equities).
+
+  Extras
+
+  - Domain Knowledge: Experience with order matching, execution
+    logic, and major venue gateways.
+  - Hardware & Systems Optimization: Exposure to distributed
+    systems, kernel bypass, or hardware-level optimizations,
+    as well as experience optimizing systems that process and
+    react to real-time data streams.
+  - Database Experience: Experience with relational databases
+    (e.g., PostgreSQL).
+  - End-to-End Delivery: A track record of taking systems from
+    whiteboard design all the way through to deployment and
+    production support.
+  - Python Proficiency: Familiarity with Python, particularly
+    for building test harnesses, data analysis, or interacting
+    with quantitative researchers.
+
+  Ideal Profile
+
+  - Technical Curiosity & Pragmatic Ownership: You have a
+    relentless drive to understand how things work under the
+    hood, but you balance that with a hands-on, pragmatic
+    approach to delivering commercial solutions.
+  - Attention to Detail: In trading, accuracy and reliability
+    are paramount. You approach every engineering problem with
+    a focus on uncompromising reliability and handling edge
+    cases gracefully.
+  - Collaborative Orientation: You are energized by working
+    closely within a team, communicating clearly across
+    research and trading desks, and focusing on collective
+    success.
+  - Driven by Impact: You take deep satisfaction in seeing your
+    work have a direct, measurable effect on our P&L and
+    operations.
+
+  We Offer
+
+  The Base Salary Range is $175,000 - $250,000. This range is
+  representative of the starting base salaries for this role
+  at Summit Securities Group. Where a candidate falls within
+  the range will be based on job-related factors such as
+  relevant experience, skills, and location. This range
+  represents Base Salary only, which is just one element of
+  our total compensation. The range stated does not include
+  other factors of total compensation such as bonuses.
+
+  We offer competitive compensation packages, 401k matching,
+  gender neutral parental leave, and full medical, dental and
+  vision insurance. We believe that working together in person
+  helps us solve complex challenges. We require employees to
+  be in the office 4 days per week. In-office benefits include
+  lunch stipends, fully stocked kitchens, happy hours, a great
+  location, and amazing colleagues.
+
+  Our top priority is our people. We invest in a culture that
+  promotes togetherness, helping each other through challenges
+  and celebrating each other's successes. We believe that
+  modern workplaces succeed by having diverse high-performance
+  workforces — in ideas, in cultures, and in experiences. We
+  put in the effort to make such a workplace a daily reality
+  and are proud to be an equal opportunity employer.
+industries:
+  - Machine Learning
+  - Marketing Tech
+  - Software
+  - Financial Services
+posted_date: 2026-09-01
+url: "https://builtin.com/job/software-engineer-c/10953245"
+source: Built In

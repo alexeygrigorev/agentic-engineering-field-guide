@@ -1,0 +1,166 @@
+job_id: 12404000
+title: "Staff Software Engineer - Corporate Actions & Security Master"
+company: Alpaca
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - USA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 132 Employees
+description: |
+  Who We Are:
+
+  Alpaca is a US-headquartered, global leader in agent-first
+  brokerage infrastructure for stocks, ETFs, options, crypto,
+  fixed income, 24/5 trading, and more. Amongst our
+  subsidiaries, Alpaca is a licensed financial services
+  company, serving hundreds of financial institutions across
+  40 countries with our institutional-grade APIs. This
+  includes broker-dealers, investment advisors, wealth
+  managers, hedge funds, and crypto exchanges, totalling over
+  10 million brokerage accounts. Our global team is a diverse
+  group of experienced engineers, traders, and brokerage
+  professionals who are working to achieve our mission of
+  opening financial services to everyone on the planet. We're
+  deeply committed to open-source contributions and fostering
+  a vibrant community, continuously enhancing our award-
+  winning, developer-friendly API and the robust
+  infrastructure behind it. Alpaca is proudly backed by $400
+  million in funding from top-tier global investors including
+  Portage Ventures, Spark Capital, Tribe Capital, Social
+  Leverage, Horizons Ventures, Opera Tech Ventures, SBI Group,
+  Derayah Financial, Unbound, Peak XV, Elefund, and Y
+  Combinator. Our Team Members:
+
+  We're a dynamic team of 400+ globally distributed members
+  who thrive working from our favorite places around the
+  world, with teammates spanning the USA, Canada, Japan,
+  Hungary, Nigeria, Brazil, the UK, and beyond! We're
+  searching for passionate individuals eager to contribute to
+  Alpaca's rapid growth. If you align with our core
+  values—Stay Curious, Have Empathy, and Be Accountable—and
+  are ready to make a significant impact, we encourage you to
+  apply.
+
+  Your Role
+
+  Alpaca is looking for a hands-on engineer with deep
+  knowledge of Corporate Actions and Security Master systems.
+
+  You understand dividends, reorganizations, splits, mergers,
+  tenders, redemptions, elections, and security lifecycle
+  events. You know that entitlements are determined by
+  validated announcement terms and the applicable stock
+  record—and that vendor data must be enhanced and cross-
+  verified before it can safely affect customer accounts.
+
+  You will help build the systems that manage security
+  reference data, validate Corporate Action announcements,
+  calculate entitlements, process resulting cash and position
+  changes, and reconcile outcomes across a global brokerage
+  platform.
+
+  Things You Get To Do
+
+  - Design systems for Corporate Actions, Security Master, and
+    securities lifecycle processing across U.S. and
+    international markets.
+  - Ingest, normalize, enhance, and cross-verify security and
+    event data from vendors, depositories, custodians, and
+    other authoritative sources.
+  - Build entitlement processing using validated announcement
+    records, stock records, elections, withholding,
+    currencies, and fractional-share rules.
+  - Support dividends, interest, splits, reverse splits,
+    mergers, exchanges, spin-offs, tenders, rights,
+    redemptions, calls, maturities, and elections.
+  - Manage security setup and changes involving symbols,
+    identifiers, listings, exchanges, currencies, and
+    lifecycle status.
+  - Build auditable workflows for validation, approvals,
+    processing, corrections, exceptions, and reconciliation.
+  - Ensure security and event changes propagate accurately
+    across books and records, positions, ledger, trading,
+    margin, tax, and customer-facing systems.
+  - Write and operate production code while partnering closely
+    with Operations, Product, and other engineering teams.
+
+  Who You Are
+
+  - 7+ years of professional software engineering experience
+    building complex production systems.
+  - Hands-on Corporate Actions, Security Master, or securities-
+    processing experience within a broker-dealer, clearing
+    firm, custodian, bank, depository, transfer agent, or
+    financial data vendor.
+  - Strong understanding of announcement terms, record and
+    effective dates, stock-record eligibility, entitlements,
+    elections, fractions, and reconciliation.
+  - Experience with financial data ingestion, normalization,
+    versioning, lineage, and cross-source validation.
+  - Strong coding and system-design skills, preferably in Go,
+    with experience building distributed and event-driven
+    services.
+  - Experience with relational databases, preferably PostgreSQL,
+    and cloud-native systems such as GCP and Kubernetes.
+  - Strong ownership and the ability to translate complex
+    operational and financial-market requirements into
+    reliable, auditable software.
+
+  Nice to Have
+
+  - Experience with DTCC/DTC Corporate Actions processing or
+    international market infrastructure.
+  - Familiarity with ISO 15022, ISO 20022, or SWIFT Corporate
+    Actions messages.
+  - Experience building an entitlement engine, Security Master,
+    symbology platform, stock record, reconciliation system,
+    or brokerage ledger.
+  - Understanding of how Corporate Actions affect trading,
+    margin, tax, securities lending, fractional shares, and
+    customer statements.
+
+  How We Take Care of You:
+
+  - Competitive Salary & Stock Options
+  - Health Benefits
+  - New Hire Home-Office Setup: One-time USD $500
+  - Monthly Stipend: USD $150 per month via a Brex Card
+
+  Alpaca is proud to be an equal opportunity workplace
+  dedicated to pursuing and hiring a diverse workforce.
+
+  Recruitment Privacy Policy
+industries:
+  - Fintech
+  - Information Technology
+posted_date: 2026-11-21
+url: "https://builtin.com/job/staff-software-engineer-corporate-actions-security-master/12404000"
+source: Built In

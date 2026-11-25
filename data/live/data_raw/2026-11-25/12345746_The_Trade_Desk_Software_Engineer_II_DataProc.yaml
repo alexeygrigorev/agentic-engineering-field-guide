@@ -1,0 +1,180 @@
+job_id: 12345746
+title: Software Engineer II, DataProc
+company: The Trade Desk
+location: London, GBR
+work_type: FULL_TIME
+company_size: 2,700 Employees
+description: |
+  The Trade Desk is a global technology company and the
+  world’s leading independent platform for digital
+  advertising, with over 3,000 employees across more than 30
+  offices. Our technology helps advertisers reach the right
+  audiences across the open internet — from streaming TV and
+  podcasts to mobile apps, news, and more.   Advertising
+  powers the content people love. By making it more
+  transparent, effective, and responsible, we help support
+  trusted journalism, quality entertainment, and creators
+  worldwide. The world’s brands and agencies rely on us to
+  reach their customers and grow their businesses responsibly.
+  The scale of our platform brings unique technical challenges
+  — from processing massive datasets in real time to building
+  systems that operate reliably on a global scale. When you
+  work here, your impact is worldwide. We welcome diverse
+  perspectives, encourage curiosity, and build teams that
+  learn from one another. If you’re driven to solve meaningful
+  challenges, we’d love to meet you.
+
+  What we do
+
+  Our Software Engineers are end-to-end owners who have the
+  opportunity to participate in many aspects of designing,
+  building, and delivering data-focused products for our
+  stakeholders. 
+
+  At The Trade Desk, we believe in building the back-end
+  infrastructure of our platform with a focus on quality at
+  scale. This means whether we are building parts of our
+  client-facing applications, internal custom solutions for
+  our own team members, or model pipelines for bidding
+  optimizations, we are making sure that we have
+  infrastructure, development, and tools to do it right and
+  efficiently.
+
+  Our system performs all day, every day serving global
+  traffic. We build a distributed system in a highly
+  collaborative environment, utilizing a broad range of
+  technologies. Our back-end developers work on finding
+  solutions to algorithmic, optimization and scale challenges
+  in everything we do.
+
+  The DataProc team owns the platform that orchestrates and
+  processes The Trade Desk's data at scale — from workflow
+  scheduling (Airflow, TaskService) to distributed compute
+  (Spark on Amazon EMR and Kubernetes, Databricks). Nearly
+  every engineering team at the company builds on top of what
+  we ship, so the reliability, performance, and usability of
+  our platform has an outsized impact across the business. 
+
+  What you’ll do:
+
+  Some of the work that you will be doing to help us deliver
+  on our mission is:
+
+  - Design, build, and operate the services and libraries that
+    make up our data orchestration and workflow platform
+    (Airflow, TaskService), used by teams across the company.
+  - Develop, scale, and optimize distributed data processing
+    jobs running on Spark across Amazon EMR, Kubernetes, and
+    Databricks.
+  - Partner with teams across engineering to migrate and
+    modernize big data workloads — for example, moving jobs
+    onto Databricks or from EMR onto Spark-on-Kubernetes.
+  - Improve the reliability and observability of our platform:
+    metrics, alerting, tracing (OpenTelemetry), and on-call
+    tooling.
+  - Build and maintain internal tools and lightweight UIs that
+    help engineers across the company monitor, debug, and
+    operate their data pipelines.
+  - Own your projects end-to-end — from design and code review
+    through deployment, rollout, and production support.
+  - Debug and resolve complex issues in large-scale, distributed
+    production systems.
+  - Contribute to our technical roadmap and help define best
+    practices for data pipeline development company-wide.
+
+  We are a global team with different backgrounds, experiences
+  and perspectives. To complement this team, you will welcome
+  ideas that are different from your own and be well-versed in
+  building from common ground to value, seek out, and foster
+  invisible and visible dimensions of diversity.
+
+  Who you are:
+
+  Our culture is much deeper than just having fun together
+  (though, we do that well too...). We take pride in our
+  engineers being trust-builders, generous givers, scrappy
+  problem solvers, and gritty pursuers of excellence. You do
+  not have to meet all the requirements below, but we believe
+  that people who meet most of them will have a higher
+  likelihood of succeeding in this role:
+
+  - Strong software engineering fundamentals, with production
+    experience in Python, Scala, or Java.
+  - Experience building or operating distributed data processing
+    systems (e.g., Spark, Databricks, Hadoop) and/or workflow
+    orchestration tools (e.g., Airflow).
+  - Comfortable working with cloud infrastructure (AWS,
+    Kubernetes) and CI/CD pipelines.
+  - Solid grounding in data structures, algorithms, and
+    distributed systems design.
+  - Strong debugging and troubleshooting skills, with a track
+    record of resolving issues in large-scale production
+    systems.
+  - Some experience with, or interest in, building internal
+    tools, dashboards, or lightweight UIs that make platform
+    capabilities more usable.
+  - A clear communicator who enjoys partnering with engineering
+    teams across the company to understand their needs and
+    unblock them.
+  - A pragmatic, ownership-driven approach to building and
+    operating software.
+  - You have 2+ years of software development/engineering
+    experience
+  - You have a Bachelor’s/Master’s level degree in a computer-
+    science or relevant engineering related field or
+    equivalent experience. Not everyone has the same level of
+    access to opportunities. What is most important to us is
+    what and how you can contribute, which is why our
+    consideration is not limited by the level of education you
+    have.
+  - You have additional nice-to-have experience in the following
+    areas:
+    - SQL and data warehousing (e.g., Snowflake, Vertica)
+    - Kubernetes operators and cluster administration
+    - Observability tooling (OpenTelemetry, Grafana, Prometheus)
+    - Carrying production on-call responsibilities for critical
+      systems
+    - Exposure to machine learning pipelines or ad-tech / real-
+      time bidding systems
+
+  Variety of technical opportunity is one of the best things
+  about working at The Trade Desk as a software engineer which
+  is why we do not expect you to know every technology we use
+  when you start. What we care about is that you can learn
+  quickly and find solutions to complex problems using the
+  optimum tools for the job. What you know is less important
+  than how well you learn and innovate. We don't need
+  engineers who know all the answers; we need engineers who
+  can invent the answers no one has thought of yet, to the
+  questions yet to be asked. 
+
+  The Trade Desk does not accept unsolicited resumes from
+  search firm recruiters. Fees will not be paid in the event a
+  candidate submitted by a recruiter without an agreement in
+  place is hired; such resumes will be deemed the sole
+  property of The Trade Desk. The Trade Desk is an equal
+  opportunity employer. All aspects of employment will be
+  based on merit, competence, performance, and business needs.
+  We do not discriminate on the basis of race, color,
+  religion, marital status, age, national origin, ancestry,
+  physical or mental disability, medical condition, pregnancy,
+  genetic information, gender, sexual orientation, gender
+  identity or expression, veteran status, or any other status
+  protected under federal, state, or local law.
+
+  As an Equal Opportunity Employer, The Trade Desk is
+  committed to creating an inclusive hiring experience where
+  everyone has the opportunity to thrive.
+
+  Please reach out to us at accommodations@thetradedesk.com to
+  request an accommodation or discuss any accessibility needs
+  you may require to access our Company Website or navigate
+  any part of the hiring process.
+
+  When you contact us, please include your preferred contact
+  details and specify the nature of your accommodation request
+  or questions. Any information you share will be handled
+  confidentially and will not impact our hiring decisions.
+posted_date: 2026-11-19
+url: "https://builtin.com/job/software-engineer-ii-dataproc/12345746"
+source: Built In

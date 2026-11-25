@@ -1,0 +1,122 @@
+job_id: 12343416
+title: Senior Software Engineer, Search Engine Core
+company: Qdrant
+location: CHL
+locations:
+  - CHL
+  - PER
+  - USA
+  - GUY
+  - BRA
+  - ECU
+  - MEX
+  - URY
+  - COL
+  - SUR
+  - BOL
+  - PRY
+  - ARG
+remote: true
+work_type: FULL_TIME
+company_size: 11000 Employees
+description: |
+  Qdrant is an open-source vector search engine powering the
+  next generation of AI applications, from semantic search and
+  retrieval-augmented generation (RAG) to AI agents and real-
+  time recommendations.
+
+  Trusted by global leaders like Canva, HubSpot, Tripadvisor,
+  Bosch, and Deutsche Telekom, we’re building the retrieval
+  infrastructure layer for modern AI. Recently raising $50M in
+  Series B funding, we are growing rapidly and committed to
+  transforming how AI understands and interacts with data.
+
+  As a remote-first company, we believe diverse backgrounds,
+  perspectives, and experiences fuel innovation. Here, you’ll
+  own meaningful work, tackle challenges, and grow alongside
+  passionate individuals dedicated to shaping the future of
+  AI.
+
+  The Team and Your Impact
+
+  We are looking for a Senior Software Engineer for our Search
+  Engine who has had full responsibility for a project, from
+  the first design to production. You will work on the core of
+  an open-source engine, with your name on the commits.
+
+  Qdrant core is the Qdrant search engine itself. You'll work
+  on the same kind of things we've shipped in open source over
+  the last two years, alongside our CTO. See the release notes
+  . You'll own a part of the engine end to end: you design it,
+  write it, review it, and you're responsible for how it runs
+  in production. The role is remote, in the US or EMEA.
+
+  What You Will Own
+
+  - An integral part of the Qdrant engine, from the design to
+    the release
+  - The architecture of new core features and the trade offs
+    behind it
+  - Take care of performance of storage, indexing, and search,
+    down to the low level
+  - Ensure correctness of what you ship: tests, recovery, and
+    production fixes
+  - Own the review bar in your area, including code written by
+    coding agents
+
+  Who You Are
+
+  - Experience working as a Senior search engine or Database
+    engineer - as developer, not a user - who has had full
+    responsibility for a project, from the first design to
+    production
+  - Strong Rust experience, shipped in production, including
+    unsafe and performance-critical code
+  - Low-level depth: memory layout, I/O, concurrency, and
+    profiling
+  - Good architecture and design judgment
+  - Experience using coding agents daily, with the judgment to
+    review what they write
+
+  Show us code you're proud of, ideally in public. If your
+  best work is closed source, tell us about it.
+
+  Nice to Have
+
+  - A degree in computer science, software engineering, or a
+    related field.
+  - Experience with Docker and Kubernetes.
+
+  Why join us
+
+  - A remote-first, international team working on cutting-edge
+    AI infrastructure.
+  - A competitive salary with additional perks.
+  - Flexible working hours and async-friendly culture.
+  - High ownership and real impact.
+  - Open-source, engineering-driven culture.
+  - Choose your own laptop equipment.
+
+  For US-based full-time employees, we also offer a
+  comprehensive benefits package including 401k match, health,
+  dental, and vision insurance, plus flexible PTO policy.
+
+  Qdrant is an equal-opportunity employer. We believe the best
+  ideas come from diverse teams, and we actively welcome
+  applicants from all backgrounds. If this role excites you
+  but you don't check every single box, we'd still love to
+  hear from you! We don't want to miss out on great people
+  because of a checklist.
+
+  Come build with us!
+
+  For information on how we handle your personal data, please
+  refer to our Recruitment Privacy Policy #LI-REMOTE
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+  - Database
+posted_date: 2026-11-19
+url: "https://builtin.com/job/senior-software-engineer-search-engine-core/12343416"
+source: Built In

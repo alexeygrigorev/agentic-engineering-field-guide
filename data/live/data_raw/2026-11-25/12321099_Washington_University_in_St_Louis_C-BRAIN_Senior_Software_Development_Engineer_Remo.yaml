@@ -1,0 +1,363 @@
+job_id: 12321099
+title: C-BRAIN Senior Software Development Engineer (Remote) - Neurology
+company: Washington University in St. Louis
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 19,300 Employees
+description: |
+  LocationRemote, US
+
+  Scheduled Hours40
+
+  Position SummaryThe Consortium for Brain Research and AI in
+  Neurodegeneration (C-BRAIN) is an academic-industry
+  consortium directed by Dr. Randall J. Bateman, Washington
+  University School of Medicine in St. Louis. C-BRAIN brings
+  together academic research institutions, pharmaceutical and
+  biotech companies, technology partners, philanthropic
+  organizations, and government agencies to develop AI-powered
+  tools to accelerate discovery in Alzheimer's disease and
+  neurodegenerative disorders. Washington University serves as
+  the coordinating center for C-BRAIN. C-BRAIN is currently
+  deploying initial versions of the tools and developing plans
+  for benchmarking and evaluation of the tools in addition to
+  platform integration and scaling. C-BRAIN is also working on
+  development of foundational AI models for brain aging and
+  neurodegeneration. See www.c-brain.org. The C-BRAIN Senior
+  Software Development Engineer builds and supports the
+  platform behind C-BRAIN's AI research tools, including
+  InsightEngine and OpenScientist. Reporting to the C-BRAIN
+  Senior Technical Product Manager, who leads C-BRAIN platform
+  engineering, and working day to day with C-BRAIN's Principal
+  Software Development Engineer, this role implements the
+  integrated platform: shared services and data models, agent
+  job execution, the gateway through which agents call C-BRAIN
+  tools, the event-driven data layer, web, desktop, and mobile
+  clients, and model serving, along with the testing,
+  security, and operations work that keeps them reliable as
+  use grows. The ideal candidate is a production-minded
+  engineer who turns designs into well-tested, maintainable
+  software, owns features from design review through
+  production, and is growing toward senior-level technical
+  leadership. C-BRAIN-specific context will be provided;
+  software engineering fundamentals will not. Knowledge of
+  neurodegeneration research data is a plus, not a
+  requirement.
+
+  Job Description
+
+  Primary Duties & Responsibilities:
+
+  Feature and Service Development
+
+  - Implement platform services, APIs, and data models from
+    designs set with C-BRAIN's Principal Software Development
+    Engineer, primarily in Python and Rust on PostgreSQL, with
+    TypeScript for the web workspace.
+
+  - Build user-facing features for web, desktop, and mobile
+    clients, in TypeScript (for example, React), with a Tauri
+    shell for desktop where the platform adopts one.
+
+  - Implement live data updates, streamed agent events, and
+    durable event-driven workflows so interfaces, services,
+    and agents react to new data and jobs without polling.
+
+  - Own features end to end: break work into tasks, estimate,
+    implement, test, ship, and follow up in production.
+
+  - Contribute to design discussions and propose improvements
+    based on what you learn while building.
+
+  Quality, Security and Operations
+
+  - Write automated unit, integration, and contract tests, and
+    keep CI/CD pipelines, type checks, and security scans
+    passing.
+
+  - Implement security controls under the Principal Software
+    Development Engineer's guidance: authentication and
+    authorization, row-level and fine-grained access rules,
+    secrets handling, and safe execution of AI-generated code
+    in sandboxed containers.
+
+  - Add logging, metrics, tracing, and alerts; take part in
+    incident response and in an on-call rotation as the team
+    grows; and fix root causes.
+
+  - Find and fix performance and cost problems through profiling
+    and load testing, including load rehearsals before major
+    events.
+
+  Integration and Migration
+
+  - Move existing InsightEngine and OpenScientist capabilities
+    onto the shared platform as modular tools behind a common
+    agent and job framework and a shared tool gateway.
+
+  - Replace components incrementally behind stable interfaces,
+    including porting services from C#/.NET and Python to Rust
+    where the design calls for it, while keeping current tools
+    working for users.
+
+  - Build and maintain versioned APIs and plug-in interfaces for
+    scientific tools, including Model Context Protocol (MCP)
+    servers.
+
+  Model Serving and AI Features
+
+  - Integrate approved and self-hosted open-weight models into
+    C-BRAIN tools, including model gateway configuration,
+    routing, and versioning.
+
+  - Build agent and tool integrations with provenance on every
+    result, and add hooks that let automated evaluations run
+    before each release.
+
+  - Work with C-BRAIN data scientists and applied scientists to
+    package models and data services for production.
+
+  Collaboration and Documentation
+
+  - Take part in design and code reviews, giving and receiving
+    feedback that raises the quality bar.
+
+  - Write and maintain technical documentation, runbooks, and
+    API references.
+
+  - Work with engineers from partner development teams and open-
+    source maintainers, including contributing changes to
+    upstream repositories, and use AI coding assistants with
+    human review of every change.
+
+  Working Conditions:
+
+  - Remote within the United States, per current Washington
+    University policies.
+  - Occasional on-site presence required for team meetings and
+    consortium events.
+  - Occasional domestic travel may be required for consortium
+    events, partner meetings, or conferences.
+  - Standard office environment.
+  - Primarily sedentary with standard computer use.
+
+  The above statements are intended to describe the general
+  nature and level of work performed by people assigned to
+  this classification. They are not intended to be construed
+  as an exhaustive list of all job duties performed by the
+  personnel so classified. Management reserves the right to
+  revise or amend duties at any time.
+
+  Required Qualifications
+
+  Education:
+
+  Bachelor’s degree or combination of education and/or
+  experience may substitute for minimum education.
+
+  Certifications/Professional Licenses:
+
+  No specific certification/professional license is required
+  for this position.
+
+  Work Experience:
+
+  Relevant Experience (3 Years)
+
+  Skills:
+
+  Not Applicable
+
+  Driver's License:
+
+  A driver's license is not required for this position.
+
+  More About This Job
+
+  Required Qualifications
+
+  - Production experience in Python and working proficiency in
+    Rust (professional, open-source, or substantial personal
+    projects), with Git, code review, and automated testing.
+
+  - Working proficiency in TypeScript and a modern web
+    framework.
+
+  - Experience building APIs and services backed by a relational
+    database such as PostgreSQL.
+
+  - Experience shipping and supporting features in production,
+    including debugging and incident follow-up.
+
+  - Experience running workloads on a major public cloud with
+    containers and CI/CD.
+
+  - Work you can walk through in detail: code repositories,
+    design documents, or shipped features (described at a high
+    level if proprietary).
+  - Bachelor's degree in Computer Science, Software Engineering,
+    or a related field, or an equivalent combination of
+    education and experience.
+
+  - Three years of professional software engineering experience
+    building and operating production systems.
+
+  Preferred Qualifications
+
+  - Production Rust services (for example, Axum with Diesel or
+    SQLx) and Rust UI frameworks (Tauri, Leptos, or Dioxus).
+
+  - Python web services (for example, FastAPI) and React front
+    ends that stream agent output.
+
+  - C#/.NET (ASP.NET Core) experience for migrating existing
+    services.
+
+  - WebSocket APIs, live queries, or event-driven architectures;
+    local-first or offline-first applications.
+
+  - Authentication and authorization: OpenID Connect and OAuth
+    2.0, PostgreSQL row-level security, or relationship-based
+    authorization (for example, OpenFGA or SpiceDB).
+
+  - LLM application development: retrieval, agents and tool use,
+    agent SDKs, MCP servers, and serving open-weight models
+    (vLLM or comparable).
+
+  - Kubernetes, Terraform or OpenTofu, OpenTelemetry, and
+    durable workflow engines (for example, Temporal or DBOS).
+
+  - Effective use of AI coding agents on production code, with
+    tests and human review.
+
+  - Open-source contributions.
+
+  - Experience in research, scientific, or regulated-data
+    environments. Familiarity with neurodegeneration research.
+
+  Preferred Qualifications
+
+  Education:
+
+  No additional education unless stated elsewhere in the job
+  posting.
+
+  Certifications/Professional Licenses:
+
+  No additional certification/professional licenses unless
+  stated elsewhere in the job posting.
+
+  Work Experience:
+
+  No additional work experience unless stated elsewhere in the
+  job posting.
+
+  Skills:
+
+  API Testing, Artificial Intelligence (AI), Authentication,
+  Authorizations, Collaboration, Growth Mindset, IT
+  Implementation, Kubernetes, LLM Architecture, Migration
+  Software, Neurodegeneration, OpenID, Open-Source, Python
+  (Programming Language), Scientific Research, Security
+  Awareness, Software Product Engineering, UI Framework
+
+  GradeG16
+
+  Salary Range$96,000.00 - $169,300.00 / Annually
+
+  The salary range reflects base salaries paid for positions
+  in a given job grade across the University. Individual rates
+  within the range will be determined by factors including
+  one's qualifications and performance, equity with others in
+  the department, market rates for positions within the same
+  grade and department budget.
+
+  Questions
+
+  For frequently asked questions about the application
+  process, please refer to our External Applicant FAQ.
+
+  Accommodation
+
+  If you are unable to use our online application system and
+  would like an accommodation, please email
+  CandidateQuestions@wustl.edu or call the dedicated
+  accommodation inquiry number at 314-935-1149 and leave a
+  voicemail with the nature of your request.
+
+  All qualified individuals must be able to perform the
+  essential functions of the position satisfactorily and, if
+  requested, reasonable accommodations will be made to enable
+  employees with disabilities to perform the essential
+  functions of their job, absent undue hardship.
+
+  Pre-Employment ScreeningAll external candidates receiving an
+  offer for employment will be required to submit to pre-
+  employment screening for this position. The screenings will
+  include criminal background check and, as applicable for the
+  position, other background checks, drug screen, an
+  employment and education or licensure/certification
+  verification, physical examination, certain vaccinations
+  and/or governmental registry checks. All offers are
+  contingent upon successful completion of required screening.
+
+  Benefits Statement
+
+  Personal
+
+  - Up to 22 days of vacation, 10 recognized holidays, and sick
+    time.
+  - Competitive health insurance packages with priority
+    appointments and lower copays/coinsurance.
+  - Take advantage of our free Metro transit U-Pass for eligible
+    employees.
+  - WashU provides eligible employees with a defined
+    contribution (403(b)) Retirement Savings Plan, which
+    combines employee contributions and university
+    contributions starting at 7%.
+
+  Wellness
+
+  - Wellness challenges, annual health screenings, mental health
+    resources, mindfulness programs and courses, employee
+    assistance program (EAP), financial resources, access to
+    dietitians, and more!
+
+  Family
+
+  - We offer 4 weeks of caregiver leave to bond with your new
+    child. Family care resources are also available for your
+    continued childcare needs. Need adult care? We’ve got you
+    covered.
+  - WashU covers the cost of tuition for you and your family,
+    including dependent undergraduate-level college tuition up
+    to 100% at WashU and 40% elsewhere after seven years with
+    us.
+
+  For policies, detailed benefits, and eligibility, please
+  visit: https://hr.wustl.edu/benefits/
+
+  EEO StatementWashington University in St. Louis is committed
+  to the principles and practices of equal employment
+  opportunity. It is the University’s policy to provide equal
+  opportunity and access to persons in all job titles without
+  regard to race, ethnicity or shared ancestry, color,
+  national origin, citizenship (where prohibited by federal
+  law), age, religion, sex, sexual orientation, gender
+  identity or expression, disability, protected veteran
+  status, or genetic information. As a federal contractor, the
+  university maintains affirmative action programs to
+  implement its equal employment opportunity policy for
+  individuals with disabilities and protected veterans, in
+  accordance with Section 503 of the Rehabilitation Act of
+  1973, as amended, and the Vietnam Era Veterans’ Readjustment
+  Assistance Act of 1974 (VEVRAA), as amended.
+industries:
+  - Artificial Intelligence
+  - Edtech
+  - Information Technology
+  - Biotech
+posted_date: 2026-11-18
+url: "https://builtin.com/job/c-brain-senior-software-development-engineer-remote-neurology/12321099"
+source: Built In

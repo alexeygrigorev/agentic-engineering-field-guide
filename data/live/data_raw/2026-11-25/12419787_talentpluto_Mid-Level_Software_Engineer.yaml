@@ -1,0 +1,93 @@
+job_id: 12419787
+title: Mid-Level Software Engineer
+company: talentpluto
+location: New York, USA
+work_type: FULL_TIME
+company_size: 6 Employees
+description: |
+  Location: New York, NY
+
+  Work Model: Hybrid — 2-3 days per week in office
+
+  Industry: B2B SaaS — data infrastructure for the
+  construction sector
+
+  Compensation: $140K-$180K base
+
+  About the Company
+
+  Our partner is a venture-backed B2B SaaS company building a
+  fully managed data platform for the owners of large capital
+  construction projects. Their product sits between the
+  project-management, financial and contractor systems these
+  organizations already run, structures the data with a
+  proprietary knowledge graph, and turns it into dashboards,
+  document search, invoice review and automated workflows.
+  Their customers are major public institutions, universities,
+  health systems and household-name enterprises, and the
+  business has tripled revenue over the past year on a team of
+  roughly fifteen people.
+
+  The Opportunity
+
+  The engineering organization is being rebuilt for its next
+  stage of scale, and this role sits at the center of that
+  work. You will start by taking a large-scale application
+  migration across the finish line — the team has spent months
+  re-architecting the product so it is simpler, cheaper to
+  maintain and far easier for modern AI tooling to reason
+  about, and roughly ninety percent of that work is done.
+
+  From there you will move into the newer half of the roadmap:
+  an agentic automation platform built on an internal system
+  that trains agents to run construction-specific workflows
+  faster and more cheaply, or the data-connection layer that
+  ingests and normalizes information from dozens of external
+  systems. Either path is the same core skill set —
+  orchestration, integration and data movement at real scale.
+  You will report directly to the CTO on a small team, which
+  means unusual visibility and a short path from decision to
+  production.
+
+  Responsibilities
+
+  - Complete the migration of the core application to its new
+    architecture, working closely with the CTO
+  - Build and maintain integrations that ingest structured and
+    unstructured data at scale from external project,
+    financial and contractor systems
+  - Design and operate orchestration and workflow-automation
+    pipelines in Python
+  - Contribute to an agentic automation platform, including the
+    systems that train and optimize agents for domain-specific
+    tasks
+  - Participate in code review and lightweight system design
+    across a small, fast-moving engineering team
+  - Own problems end to end in an environment where processes
+    are still being built
+
+  Requirements
+
+  - 2-5 years of professional software engineering experience
+  - Strong Python skills
+  - Hands-on experience with data ingestion at scale
+  - Experience with orchestration tooling such as Prefect,
+    Dagster or Step Functions, ideally having built such
+    systems rather than only consuming them
+  - Demonstrated experience integrating and connecting disparate
+    software systems
+  - B2B SaaS engineering background
+  - A degree in Computer Science or a closely related field
+  - Based in the New York City area or willing to relocate, and
+    able to work a hybrid schedule of 2-3 days per week in
+    office
+  - A stable track record, with the technical depth to discuss
+    past work in specific detail
+industries:
+  - Artificial Intelligence
+  - HR Tech
+  - Software
+  - Conversational AI
+posted_date: 2026-11-23
+url: "https://builtin.com/job/mid-level-software-engineer/12419787"
+source: Built In

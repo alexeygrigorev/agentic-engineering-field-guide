@@ -1,0 +1,281 @@
+job_id: 12439423
+title: Staff Software Engineer, EDR Team Lead
+company: Horizon3.ai
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 107 Employees
+description: |
+  Get to Know Us
+
+  Horizon3 is a fast-growing, remote cybersecurity company
+  dedicated to the mission of enabling organizations to
+  proactively find and fix and verify exploitable attack
+  vectors before criminals exploit them. Our flagship product,
+  the NodeZeroTM platform, delivers production-safe autonomous
+  pentests and other key assessment operations that scale
+  across the largest internal, external, cloud, and hybrid
+  cloud environments. NodeZero has been adopted by
+  organizations of all sizes, from small educational
+  institutions to government agencies and Global 100
+  enterprises. It is used by ITOps/SecOps teams, consulting
+  pentesters, and MSSPs and MSPs.
+
+  We are a fusion of former U.S. Special Operations cyber
+  operators, startup engineers, and formerly frustrated
+  cybersecurity practitioners. We're committed to helping
+  solve our common security problems: ineffective security
+  tools, false positives resulting in alert fatigue, blind
+  spots, "checkbox” security culture, cybersecurity skills
+  shortage, and the long lead time and expense of hiring
+  outside consultants. Collectively, we are a team of learn it
+  alls, committed to a culture of respect, collaboration,
+  ownership, and results.
+
+
+
+  Summary
+
+  We’re hiring a Staff Software Engineer to serve as the
+  technical lead for EDR telemetry and detection work inside
+  NodeZero—and help shape the future of EDR effectiveness and
+  tuning as a product capability.
+
+  Customers need evidence of which attack techniques their EDR
+  caught, which ones it missed, and why. Delivering that
+  insight across EDR platforms, customer environments, and
+  operator needs requires strong backend engineering,
+  thoughtful integration design, and a clear standard for what
+  counts as correct.
+
+  As a Staff Engineer, you will operate as an expert
+  individual contributor: setting technical direction for a
+  complex workstream, translating product goals into a
+  practical roadmap, and leading delivery with substantial
+  autonomy. This is not a pure architect role. You will
+  contribute production code, review designs and pull
+  requests, and partner closely with Product, Engineering,
+  Applied AI research, and security-domain specialists. You
+  will mentor and enable engineers through technical
+  leadership; this role does not have formal people-management
+  responsibility.
+
+  Essential functionsTechnical leadership and hands-on
+  engineering
+
+  - Own the end-to-end technical vision for the EDR telemetry
+    and detection workstream, from initial concept through
+    production delivery, iteration, and eventual deprecation
+    where appropriate.
+  - Translate ambiguous product goals into technical plans,
+    milestones, system designs, and implementation choices;
+    surface risks, dependencies, and tradeoffs early and in
+    writing.
+  - Contribute production code regularly at a lead/staff level
+    in Python.
+  - Design and evolve the services, data flows, APIs, and
+    integration infrastructure needed to connect EDR platforms
+    with NodeZero’s attack evidence and product experience.
+  - Set and raise the technical bar through architecture and
+    design reviews, code quality, testing, security,
+    reliability, and operational discipline—leading by
+    example.
+  - Review code and technical decisions, mentor engineers, and
+    build reusable frameworks and architecture that help the
+    team deliver effectively.
+  - Contribute to hiring and technical calibration for the
+    workstream as it grows, in partnership with the hiring
+    team.
+
+  Product-minded technical leadership
+
+  - Partner with Product to turn customer and business needs
+    into a sequenced technical roadmap and a focused, valuable
+    MVP.
+  - Participate actively in product requirements and design
+    discussions; help clarify scope, assumptions, success
+    measures, and what can be delivered safely.
+  - Make build-versus-buy-versus-integrate decisions based on
+    customer value, business context, technical risk, and
+    long-term product direction—not engineering preference
+    alone.
+  - Balance near-term delivery with the architecture needed to
+    support future EDR effectiveness and tuning capabilities.
+  - Hold the workstream accountable to outcomes rather than
+    activity, communicating progress and decisions clearly
+    across Engineering, Product, Applied AI, Attack, and
+    customer-facing partners.
+
+  EDR domain, detection, and measurement
+
+  - Build and maintain a deep working understanding of at least
+    one major EDR platform at the telemetry and API level, and
+    use that understanding to guide accurate, vendor-aware
+    product behavior.
+  - Work with security practitioners and domain experts to
+    understand detection logic, alert triage, and how SOC
+    teams use EDR output in real environments.
+  - Define and maintain the technical methodology for labeled
+    ground-truth data: what constitutes a correct detection or
+    outcome, how evidence is linked to an attack technique,
+    and how results are evaluated.
+  - Establish practical confidence-scoring approaches and false-
+    positive/false-negative thresholds; own calibration and
+    recalibration as platforms, data, and product capabilities
+    evolve.
+  - Set the correctness bar for tuning recommendations and help
+    translate observed detection gaps into specific, vendor-
+    accurate guidance.
+  - Partner with Applied AI researchers to incorporate evolving
+    research into production systems for detection-gap
+    analysis, effectiveness insights, and tuning
+    recommendations.
+
+  What you’ll bring
+
+  - Significant experience designing, building, and operating
+    production software, with strong backend engineering and
+    system-design skills.
+  - A track record of leading complex engineering work as a
+    senior individual contributor—from an ambiguous problem
+    through technical direction, implementation, launch, and
+    iteration.
+  - Hands-on experience with a modern backend language such as
+    Go, Rust, Python, or a comparable language, and with
+    service-oriented systems.
+  - Experience designing APIs, data models, integrations, or
+    processing systems where correctness, reliability, and
+    security matter.
+  - Deep familiarity with at least one major EDR platform at the
+    telemetry and API level, or equivalent practical expertise
+    in security telemetry and a demonstrated ability to ramp
+    quickly into a new platform.
+  - Understanding of detection logic, alert triage, and how
+    security operations teams consume endpoint-security data.
+  - Ability to reason about false-positive and false-negative
+    tradeoffs, confidence, measurement quality, and what
+    evidence supports a security conclusion.
+  - Strong product judgment: you can turn an open-ended customer
+    or product problem into a technically sound plan, identify
+    tradeoffs, and deliver an appropriately scoped solution.
+  - Clear written and verbal communication, including the
+    ability to explain technical concepts and decisions to
+    partners with different backgrounds.
+  - A collaborative leadership style: you build alignment, give
+    and receive feedback, and move work forward through
+    expertise and influence rather than formal authority.
+
+  Helpful experience
+
+  - Experience with CrowdStrike, Microsoft Defender,
+    SentinelOne, Carbon Black, or other EDR platforms.
+  - Experience building security products, security telemetry
+    pipelines, or multi-vendor integrations.
+  - Experience creating labeled datasets, evaluating detection
+    quality, or measuring security-control effectiveness.
+  - Experience incorporating AI/ML research into reliable
+    customer-facing software.
+  - Familiarity with SOC workflows, incident response, attack
+    testing, or endpoint detection and prevention.
+
+  Staff Level scope
+
+  This is a Staff Level individual-contributor role. The
+  successful candidate is viewed as an expert in their domain,
+  works with substantial autonomy, leads complex and high-
+  impact work, and provides technical direction and mentorship
+  across the workstream. “Team Lead” refers to technical
+  leadership and delivery ownership; this role does not carry
+  direct people-management responsibility.
+
+  Travel
+
+  This role may require up to 10% travel, including occasional
+  in-person planning sessions.
+
+
+
+  Perks of Horizon3
+
+  - Inclusive Team: We value diversity and promote an inclusive
+    culture where everyone can thrive.
+  - Growth Opportunities: Be part of a dynamic and growing team
+    with numerous career development opportunities.
+  - Innovative Culture: Work in a collaborative environment that
+    encourages creativity and out-of-the-box thinking.
+  - Hybrid & Remote Work: We embrace a mix of remote and hybrid
+    work models depending on role and location, including our
+    Chicago office, where some roles require regular in-office
+    presence.
+  - Competitive Compensation: We offer competitive salary,
+    equity and benefits. Our benefits include health, vision &
+    dental insurance for you and your family, a flexible
+    vacation policy, and generous parental leave.
+
+  Compensation and Values
+
+  At Horizon3, we believe that our people are our greatest
+  asset, and our compensation philosophy reflects this core
+  value. We are committed to fostering an environment where
+  all employees feel valued, respected, and rewarded for their
+  contributions. Our compensation structure is designed to be
+  fair, competitive, and transparent, ensuring that every team
+  member is recognized and compensated equitably across roles,
+  levels, and locations.
+
+  In accordance with various State’s transparency regulations,
+  we provide the following salary range information for this
+  position:
+
+  - Base salary range: $229,500 - $270,000 annually. The exact
+    salary will be determined based on the selected
+    candidate’s location, qualifications, experience, and
+    relevant skills.
+  - Additional compensation: All full-time roles are eligible
+    for an equity package in the form of stock options.
+
+  You Belong Here
+
+  Horizon3 is not just an equal opportunity employer - we are
+  a community that values diversity, equity, and inclusion as
+  fundamental principles of our culture and success. We are
+  dedicated to fostering a workplace where everyone feels
+  welcome and respected, regardless of race, color, religion,
+  sex, national origin, age, disability, veteran status,
+  sexual orientation, gender identity or expression, genetic
+  information, marital status, or any other legally protected
+  status by law.
+
+  Our commitment to diversity and inclusion means we strive to
+  attract, develop, and retain a workforce that reflects the
+  varied communities we serve. We believe that diverse
+  perspectives drive innovation and strengthen our ability to
+  create cutting-edge cybersecurity solutions. At Horizon3,
+  every team member is valued and supported in an environment
+  that encourages personal and professional growth.
+
+  We welcome candidates from all backgrounds and experiences,
+  and we encourage all qualified individuals to apply. Come be
+  a part of Horizon3, where your unique contributions are
+  recognized, and your potential is limitless.
+
+  Other Duties
+
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties or
+  responsibilities that are required of the employee. Duties,
+  responsibilities, and activities may change at any time with
+  or without notice.
+
+  Application Note
+
+  In any materials you submit, you may redact or remove age-
+  identifying information such as age, date of birth, or dates
+  of school attendance or graduation. You will not be
+  penalized for redacting or removing this information.
+industries:
+  - Artificial Intelligence
+  - Cybersecurity
+posted_date: 2026-11-24
+url: "https://builtin.com/job/staff-software-engineer-edr-team-lead/12439423"
+source: Built In

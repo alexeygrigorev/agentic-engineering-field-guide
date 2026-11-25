@@ -1,0 +1,152 @@
+job_id: 12355464
+title: Software Engineer - Inference Product
+company: Baseten
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 350 Employees
+description: |
+  ABOUT BASETEN
+
+  Baseten powers mission-critical inference for the world's
+  most dynamic AI companies, like Cursor, Notion,
+  OpenEvidence, Abridge, Clay, Gamma, and Writer. By uniting
+  applied AI research, flexible infrastructure, and seamless
+  developer tooling, we enable companies operating at the
+  frontier of AI to bring cutting-edge models into production.
+  We're growing quickly and recently raised our $1.5B Series
+  F, led by Altimeter Capital, Conviction Partners, and Spark
+  Capital. Join us and help build the platform engineers turn
+  to ship AI products.
+
+  THE ROLE
+
+  We're looking for product-minded backend and distributed
+  systems engineers to build the API layer that powers Model
+  APIs, Baseten's hosted endpoints for the latest open-source
+  models. Every request to Model APIs passes through the
+  systems this team owns: authentication, rate limiting,
+  routing, metering and billing. You'll make that layer fast,
+  reliable and easy to build on, and use it to ship new
+  products that change how developers use models at scale.
+  You'll work where infrastructure meets product. The systems
+  you build decide how customers experience performance, how
+  capacity is shared across a global GPU fleet, and how
+  inference is packaged and sold. You'll join a small, high-
+  impact team that partners closely with inference, and
+  product, and you'll own your work from design through
+  production. This role is ideal for engineers who like owning
+  high-scale production systems, care about developer
+  experience, and want their work to directly shape how AI
+  infrastructure is priced, packaged and delivered.
+
+
+
+  EXAMPLE INITIATIVES
+
+  You'll get to work on these types of projects on our
+  Inference Platform:
+
+  - Introducing Baseten Grid
+  - Introducing Baseten Hosted Tools
+  - Frontier Gateway
+
+  RESPONSIBILITIES
+
+  - Build and operate the API layer behind Model APIs: request
+    handling, authentication, rate limiting and routing, with
+    high availability and low added latency.
+  - Own usage metering and billing infrastructure: accurate,
+    real-time accounting for every request, and the
+    flexibility to support new pricing and packaging models.
+  - Build the rate-limiting and capacity systems that balance
+    customer throughput against fleet utilization, at scale
+    and in real time.
+  - Ship new products at the API layer that change how
+    developers use models, from routing across models to
+    features that make building on Model APIs easier.
+  - Turn platform capabilities into a strong product experience:
+    usage visibility, self-serve controls, and clear,
+    predictable API behavior.
+  - Instrument the edge with deep observability and alerting, so
+    issues are caught and fixed before customers notice.
+  - Partner with the Model APIs, inference, and product teams to
+    get new capabilities to customers quickly and safely.
+  - Own projects end to end, from design through deployment, on-
+    call and iteration on customer feedback.
+
+
+
+  REQUIREMENTS
+
+  - Bachelor's, Master's, or Ph.D. in Computer Science,
+    Engineering, or a related field, or equivalent practical
+    experience.
+  - 3+ years building and operating distributed systems, backend
+    infrastructure, or large-scale APIs where reliability,
+    latency, and scale are first-class concerns.
+  - A proven track record of owning low-latency, reliable
+    backend services, including rate limiting, auth, quotas,
+    metering, and migrations.
+  - Infrastructure instincts with a feel for performance:
+    profiling, tracing, capacity planning, and SLO management.
+  - Comfort debugging performance and reliability issues across
+    multiple layers of the stack, from application behavior
+    down to runtime and infrastructure internals.
+  - A strong sense of developer experience. You think about how
+    systems are used, not just how they work.
+  - Eagerness to learn new languages, frameworks, and systems,
+    and a real interest in inference engineering. Prior ML or
+    LLM experience isn't required, though experience with
+    model serving or inference systems is a plus.
+  - Excellent written communication and collaboration skills,
+    including writing clear design docs and working across
+    functions.
+
+  NICE TO HAVE
+
+  - Deep Kubernetes experience, including operators and custom
+    resources, plus familiarity with service meshes or API
+    gateways.
+  - Experience with distributed scheduling, autoscaling, or
+    service orchestration.
+  - A background in developer-facing infrastructure or APIs, or
+    contributions to open-source infrastructure or ML systems.
+  - Familiarity with observability tooling, CI/CD systems, or
+    release automation.
+
+  BENEFITS
+
+  - Competitive compensation, including meaningful equity
+  - (U.S. only) 100% coverage of medical, dental, and vision
+    insurance for employee and dependents
+  - Flexible PTO policy
+  - Paid parental leave
+  - Fertility and family-building stipend through Carrot
+  - (U.S. only) Company-facilitated 401(k)
+  - Exposure to a variety of ML startups, offering unparalleled
+    learning and networking opportunities.
+
+  Apply now to embark on a rewarding journey in shaping the
+  future of AI! If you are a motivated individual with a
+  passion for machine learning and a desire to be part of a
+  collaborative and forward-thinking team, we would love to
+  hear from you.
+
+  At Baseten, we are committed to fostering a diverse and
+  inclusive workplace. We provide equal employment
+  opportunities to all employees and applicants without regard
+  to race, color, religion, gender, sexual orientation, gender
+  identity or expression, national origin, age, genetic
+  information, disability, or veteran status.
+
+  We are an Equal Opportunity Employer and will consider
+  qualified applicants with criminal histories in a manner
+  consistent with applicable law (by example, the requirements
+  of the San Francisco Fair Chance Ordinance, where
+  applicable).
+posted_date: 2026-11-20
+url: "https://builtin.com/job/software-engineer-inference-product/12355464"
+source: Built In

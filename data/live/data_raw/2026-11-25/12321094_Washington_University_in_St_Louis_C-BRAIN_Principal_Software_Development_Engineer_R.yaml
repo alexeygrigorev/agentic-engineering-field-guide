@@ -1,0 +1,504 @@
+job_id: 12321094
+title: C-BRAIN Principal Software Development Engineer (Remote) - Neurology
+company: Washington University in St. Louis
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 19,300 Employees
+description: |
+  LocationRemote, US
+
+  Scheduled Hours40
+
+  Position SummaryThe Consortium for Brain Research and AI in
+  Neurodegeneration (C-BRAIN) is an academic-industry
+  consortium directed by Dr. Randall J. Bateman, Washington
+  University School of Medicine in St. Louis. C-BRAIN brings
+  together academic research institutions, pharmaceutical and
+  biotech companies, technology partners, philanthropic
+  organizations, and government agencies to develop AI-powered
+  tools to accelerate discovery in Alzheimer's disease and
+  neurodegenerative disorders. Washington University serves as
+  the coordinating center for C-BRAIN. C-BRAIN is currently
+  deploying initial versions of the tools and developing plans
+  for benchmarking and evaluation of the tools in addition to
+  platform integration and scaling. C-BRAIN is also working on
+  development of foundational AI models for brain aging and
+  neurodegeneration. See www.c-brain.org. The C-BRAIN
+  Principal Software Development Engineer is the senior
+  architect and technical lead for the platform behind
+  C-BRAIN's AI research tools, including InsightEngine and
+  OpenScientist. Reporting to the C-BRAIN Senior Technical
+  Product Manager, who leads C-BRAIN platform engineering,
+  within the overall technical direction set by the C-BRAIN
+  Chief Technology Officer (CTO), this role owns the
+  architecture, technical design, and technical delivery of
+  the integrated platform: one system in which research tools,
+  AI agents, and the foundation models C-BRAIN builds share a
+  common data model, permission model, and deployment path.
+  The role turns the platform roadmap and its requirements for
+  scale, security, cost, and interfaces into a target
+  architecture, detailed designs, interface contracts, and
+  working software, and leads the incremental move from
+  today's services toward that target, including durable,
+  sandboxed execution of long-running agent jobs, a gateway
+  through which agents reach C-BRAIN tools, data, and models,
+  Rust services for the security-critical core (the job
+  launcher, model proxy, and execution broker), an event-
+  driven data layer with fine-grained access control, a web
+  workspace with desktop and mobile clients where they add
+  value, and inference on approved and self-hosted open-weight
+  models, while keeping current tools reliable and secure. The
+  ideal candidate has designed and operated systems at
+  significant data and user scale, has led migrations of
+  production systems without stopping delivery, and can turn
+  an architecture into well-scoped work that C-BRAIN engineers
+  and partner development teams can build to. This is not a
+  prototyping position. C-BRAIN-specific context will be
+  provided; architecture and production engineering
+  fundamentals will not. Knowledge of neurodegeneration
+  research data is a plus, not a requirement.
+
+  Job Description
+
+  Primary Duties & Responsibilities:
+
+  Architecture and Technical Leadership
+
+  - Own the architecture of the integrated platform: define the
+    target system, service boundaries, interface contracts,
+    and the migration path from current services so the
+    platform meets its requirements for scale, security, cost,
+    and interfaces, and record decisions in architecture
+    decision records.
+
+  - Break the architecture into well-scoped work packages with
+    clear interfaces and acceptance criteria that C-BRAIN
+    engineers and partner development teams can build to, and
+    review delivered work against them.
+
+  - Serve as technical lead for a team of about seven engineers,
+    including engineers from partner development teams: set
+    day-to-day technical direction, lead design and code
+    reviews, and set coding standards and the definition of
+    done.
+
+  - Own technical planning and execution for the team: scope and
+    sequence work, lead estimation and sprint planning, run
+    stand-ups and retrospectives when needed, and surface
+    risks and dependencies early.
+
+  - Maintain CI/CD with required tests, type checks, and
+    security scans; branch protection; code owners; and staged
+    promotion from development to staging to production.
+
+  - Mentor engineers through pairing and review, work with the
+    open-source maintainers of the tools C-BRAIN builds on,
+    including contributing C-BRAIN's changes to upstream
+    repositories under shared review, and set team practices
+    for AI coding assistants with human review of every
+    change.
+
+  Platform Integration and Migration
+
+  - Lead the integration of InsightEngine and OpenScientist into
+    one platform: bring existing capabilities in as modular
+    tools behind a common agent and job framework and a shared
+    tool gateway, and retire duplicated services.
+
+  - Migrate incrementally toward the target architecture,
+    replacing security-critical and high-throughput components
+    (for example, the job launcher, model proxy, and execution
+    broker) with Rust services behind stable interfaces,
+    keeping agent and scientific code in Python, while current
+    C#/.NET, Python, and TypeScript services stay in
+    production.
+
+  - Build an event-driven data layer: typed event streams and
+    live query subscriptions driven by database change
+    notifications, so user interfaces, services, and agents
+    react to new data and jobs without polling.
+
+  - Lead the decision on the client stack and deliver it: a web
+    workspace that streams agent work as typed events (for
+    example, React and TypeScript on the AG-UI protocol, or
+    Rust frameworks such as Leptos or Dioxus), and desktop or
+    mobile clients where they add value (for example, a Tauri
+    shell), with offline operation and synchronization where
+    required.
+
+  - Provide a plug-in architecture and versioned APIs for adding
+    scientific tools and services, including Model Context
+    Protocol (MCP) servers.
+
+  Model Serving and Inference
+
+  - Design C-BRAIN's inference layer so confidential research
+    data is processed only by approved models in approved
+    environments, including the confidential computing
+    environments consortium data agreements require, and keep
+    the platform independent of any single model provider.
+
+  - Deploy and serve open-weight LLMs on GPU infrastructure, and
+    support researchers who run approved models on their own
+    hardware, so the platform can grow without depending
+    solely on centrally hosted compute.
+
+  - Integrate foundation models and assemblies of expert models
+    into the platform with C-BRAIN applied scientists: route
+    each request to the right expert, version models, and
+    serve them reliably as use grows.
+
+  - Package and deploy models trained on C-BRAIN's governed data
+    and model-training platform into C-BRAIN tools through a
+    model registry and release review, with signed artifacts,
+    model cards, and provenance.
+
+  Data, Access and Security Engineering
+
+  - Design and maintain a shared scientific data model
+    (organizations, teams, projects, ownership, and third-
+    party datasets) with PostgreSQL row-level security and
+    relationship-based fine-grained authorization.
+
+  - Ensure agents and automated jobs act only with the
+    permissions of the user who submitted them, and enforce
+    tenant isolation across every data store.
+
+  - Build the services that let agents use governed data safely:
+    short-lived credentials for each run, an entitlement check
+    on every tool call, and aggregate queries released only
+    after disclosure checks.
+
+  - Own application and cloud security: OpenID Connect and OAuth
+    2.0, federated sign-in across member institutions and
+    companies, token and API key design, secrets management,
+    least-privilege service identities, encrypted local
+    storage on client devices, and safe execution of AI-
+    generated code.
+
+  - Build provenance tracking and tamper-evident audit logging
+    so every result traces to its data, code, model, and user,
+    and set data-management policies with C-BRAIN data
+    engineers and governance partners.
+
+  - Run vulnerability management with risk-based remediation;
+    partner with Washington University information security;
+    lead remediation of penetration test findings and
+    readiness for an independent security examination (for
+    example, SOC 2); prepare codebases for public open-source
+    release.
+
+  Reliability, Operations and Scale
+
+  - Design for scale: capacity and performance planning for
+    large data volumes, many concurrent users, and long-
+    running agent workloads, using cloud-agnostic
+    infrastructure-as-code, and prove capacity with load
+    rehearsals before major events.
+
+  - Make agent jobs durable and isolated: workflow orchestration
+    that survives restarts and deployments (for example,
+    Temporal or DBOS), a stateless web tier, and a sandboxed
+    container for every job and code execution on Kubernetes
+    (for example, Kata Containers).
+
+  - Build observability (centralized logging, metrics, tracing,
+    alerting, and service-level objectives) and serve as
+    primary technical responder for production incidents.
+    After-hours expectations are agreed with the Senior
+    Technical Product Manager.
+
+  - Operate production services (deployments, rollbacks,
+    migrations, backups, and tested restores) and track and
+    control cloud, GPU, and LLM costs, including model
+    provider quotas and spending limits per user and
+    organization.
+
+  Working Conditions:
+
+  - Remote within the United States, per current Washington
+    University policies.
+  - Occasional on-site presence required for team meetings and
+    consortium events.
+  - Occasional domestic travel may be required for consortium
+    events, partner meetings, or conferences.
+  - Standard office environment.
+  - Primarily sedentary with standard computer use.
+
+  The above statements are intended to describe the general
+  nature and level of work performed by people assigned to
+  this classification. They are not intended to be construed
+  as an exhaustive list of all job duties performed by the
+  personnel so classified. Management reserves the right to
+  revise or amend duties at any time.
+
+  Required Qualifications
+
+  Education:
+
+  Bachelor’s degree or combination of education and/or
+  experience may substitute for minimum education.
+
+  Certifications/Professional Licenses:
+
+  No specific certification/professional license is required
+  for this position.
+
+  Work Experience:
+
+  Relevant Experience (8 Years)
+
+  Skills:
+
+  Not Applicable
+
+  Driver's License:
+
+  A driver's license is not required for this position.
+
+  More About This Job
+
+  Required Qualifications
+
+  - Demonstrated ownership of the architecture of a production
+    system at significant data or user scale, including its
+    data model, access control, and evolution over time.
+
+  - Demonstrated experience as a technical lead: guiding the
+    work of other engineers through design, code review, and
+    delivery.
+
+  - Production experience in Rust and Python, with Git, code
+    review, and automated testing.
+
+  - Working proficiency in TypeScript, and the ability to read
+    C#/.NET, sufficient to maintain and migrate existing
+    services and web front ends.
+
+  - Hands-on experience running production workloads on a major
+    public cloud, including containers, identity and access
+    management, and infrastructure-as-code.
+
+  - Demonstrated application security work: implementing OpenID
+    Connect / OAuth 2.0, securing APIs, and remediating
+    vulnerabilities in code.
+
+  - Experience building or operating LLM-based applications with
+    real users.
+
+  Preferred Qualifications
+
+  - Leading gradual migrations and consolidating services, for
+    example replacing components incrementally behind stable
+    interfaces while the system stays in production.
+
+  - Web front ends in React and TypeScript that stream agent
+    output; Rust web and native UI frameworks (Tauri, Leptos,
+    or Dioxus) and WebAssembly; local-first or offline-first
+    applications with synchronization and encrypted local
+    storage.
+
+  - Rust data-layer tooling (Diesel or SQLx, Apache DataFusion,
+    sqlparser-rs), database change streams, live queries, and
+    WebSocket APIs.
+
+  - Relationship-based authorization systems (for example,
+    OpenFGA or SpiceDB) or policy engines (for example,
+    Cedar).
+
+  - API-first, contract-driven integration across languages:
+    OpenAPI or JSON Schema contracts, generated clients, and
+    versioning and deprecation policies.
+
+  - Self-hosting and serving open-weight LLMs on GPUs (vLLM,
+    SGLang, or comparable), including Rust-based inference
+    (for example, candle or mistral.rs).
+
+  - Serving multi-model systems: mixture- or assembly-of-experts
+    architectures, foundation models, model routing, model
+    registries, and evaluation.
+
+  - Agent frameworks and SDKs (for example, the Claude Agent SDK
+    or Codex), building MCP servers, and durable job
+    orchestration for long-running agent workloads (for
+    example, Temporal or DBOS).
+
+  - Confidential computing (trusted execution environments,
+    confidential GPUs, attestation) or federated learning.
+
+  - Kubernetes operations and sandboxed container runtimes (for
+    example, Kata Containers or gVisor); identity federation
+    for research (for example, CILogon, InCommon, or
+    Keycloak); SOC 2 or comparable examinations.
+
+  - Regulated or sensitive-data environments, including research
+    data governed by data use agreements and research data
+    platforms (for example, Synapse or Terra).
+
+  - Maintainer of, or substantial contributor to, open-source
+    projects; experience preparing a codebase for public
+    release.
+
+  - Effective use of AI coding agents on production code, with
+    tests and human review of every change.
+
+  - Knowledge of neurodegeneration research datasets and their
+    use (a plus, not a requirement).
+  - Bachelor's degree in Computer Science, Software Engineering,
+    or a related field, or an equivalent combination of
+    education and experience.
+
+  - Eight years of professional software engineering experience
+    building and operating production systems.
+
+  - Demonstrated ownership of the architecture of a production
+    system at significant data or user scale, including its
+    data model, access control, and evolution over time.
+
+  - Demonstrated experience as a technical lead: guiding the
+    work of other engineers through design, code review, and
+    delivery.
+
+  - Production experience in Rust and Python, with Git, code
+    review, and automated testing.
+
+  - Working proficiency in TypeScript, and the ability to read
+    C#/.NET, sufficient to maintain and migrate existing
+    services and web front ends.
+
+  - Hands-on experience running production workloads on a major
+    public cloud, including containers, identity and access
+    management, and infrastructure-as-code.
+
+  - Demonstrated application security work: implementing OpenID
+    Connect / OAuth 2.0, securing APIs, and remediating
+    vulnerabilities in code.
+
+  - Experience building or operating LLM-based applications with
+    real users.
+
+  Preferred Qualifications
+
+  Education:
+
+  No additional education unless stated elsewhere in the job
+  posting.
+
+  Certifications/Professional Licenses:
+
+  No additional certification/professional licenses unless
+  stated elsewhere in the job posting.
+
+  Work Experience:
+
+  No additional work experience unless stated elsewhere in the
+  job posting.
+
+  Skills:
+
+  Application Security, Cloud Security, Collaboration,
+  Communication, Database Access Control, Data Consolidation,
+  Escalation Management, LLM Architecture, Migration Software,
+  Model Serving, Production Software, Python (Programming
+  Language), Systemic Design, Technical Project Leadership
+
+  GradeG18
+
+  Salary Range$129,800.00 - $228,400.00 / Annually
+
+  The salary range reflects base salaries paid for positions
+  in a given job grade across the University. Individual rates
+  within the range will be determined by factors including
+  one's qualifications and performance, equity with others in
+  the department, market rates for positions within the same
+  grade and department budget.
+
+  Questions
+
+  For frequently asked questions about the application
+  process, please refer to our External Applicant FAQ.
+
+  Accommodation
+
+  If you are unable to use our online application system and
+  would like an accommodation, please email
+  CandidateQuestions@wustl.edu or call the dedicated
+  accommodation inquiry number at 314-935-1149 and leave a
+  voicemail with the nature of your request.
+
+  All qualified individuals must be able to perform the
+  essential functions of the position satisfactorily and, if
+  requested, reasonable accommodations will be made to enable
+  employees with disabilities to perform the essential
+  functions of their job, absent undue hardship.
+
+  Pre-Employment ScreeningAll external candidates receiving an
+  offer for employment will be required to submit to pre-
+  employment screening for this position. The screenings will
+  include criminal background check and, as applicable for the
+  position, other background checks, drug screen, an
+  employment and education or licensure/certification
+  verification, physical examination, certain vaccinations
+  and/or governmental registry checks. All offers are
+  contingent upon successful completion of required screening.
+
+  Benefits Statement
+
+  Personal
+
+  - Up to 22 days of vacation, 10 recognized holidays, and sick
+    time.
+  - Competitive health insurance packages with priority
+    appointments and lower copays/coinsurance.
+  - Take advantage of our free Metro transit U-Pass for eligible
+    employees.
+  - WashU provides eligible employees with a defined
+    contribution (403(b)) Retirement Savings Plan, which
+    combines employee contributions and university
+    contributions starting at 7%.
+
+  Wellness
+
+  - Wellness challenges, annual health screenings, mental health
+    resources, mindfulness programs and courses, employee
+    assistance program (EAP), financial resources, access to
+    dietitians, and more!
+
+  Family
+
+  - We offer 4 weeks of caregiver leave to bond with your new
+    child. Family care resources are also available for your
+    continued childcare needs. Need adult care? We’ve got you
+    covered.
+  - WashU covers the cost of tuition for you and your family,
+    including dependent undergraduate-level college tuition up
+    to 100% at WashU and 40% elsewhere after seven years with
+    us.
+
+  For policies, detailed benefits, and eligibility, please
+  visit: https://hr.wustl.edu/benefits/
+
+  EEO StatementWashington University in St. Louis is committed
+  to the principles and practices of equal employment
+  opportunity. It is the University’s policy to provide equal
+  opportunity and access to persons in all job titles without
+  regard to race, ethnicity or shared ancestry, color,
+  national origin, citizenship (where prohibited by federal
+  law), age, religion, sex, sexual orientation, gender
+  identity or expression, disability, protected veteran
+  status, or genetic information. As a federal contractor, the
+  university maintains affirmative action programs to
+  implement its equal employment opportunity policy for
+  individuals with disabilities and protected veterans, in
+  accordance with Section 503 of the Rehabilitation Act of
+  1973, as amended, and the Vietnam Era Veterans’ Readjustment
+  Assistance Act of 1974 (VEVRAA), as amended.
+industries:
+  - Artificial Intelligence
+  - Edtech
+  - Information Technology
+  - Biotech
+posted_date: 2026-11-18
+url: "https://builtin.com/job/c-brain-principal-software-development-engineer-remote-neurology/12321094"
+source: Built In

@@ -1,0 +1,132 @@
+job_id: 12355561
+title: Senior AI-Native Fullstack Engineer (m/f/d) - DevOps
+company: zvoove Group
+location: DEU
+locations:
+  - DEU
+  - Munich, DEU
+remote: true
+work_type: FULL_TIME
+company_size: 1,000 Employees
+description: |
+  Job descriptionWe are looking for a Senior AI-Native
+  Fullstack Engineer with a DevOps focus to support multiple
+  engineering projects across AI-powered applications, SaaS
+  platforms, and cloud-native solutions. This is not a
+  traditional DevOps-only role. The role combines application
+  engineering with infrastructure ownership: building
+  services, APIs, automation and internal tools, while also
+  running cloud infrastructure, deployments, observability and
+  production operations. The ideal profile is a strong
+  fullstack or backend engineer, preferably TypeScript-heavy,
+  with hands-on depth in AWS, Infrastructure as Code,
+  containers, networking, permissions, secrets and
+  observability. With modern AI and LLM tooling, repetitive
+  engineering, infrastructure, debugging and automation work
+  can be accelerated dramatically. We expect someone who uses
+  AI-native workflows to investigate in parallel, generate and
+  validate infrastructure changes, and support teams with
+  high-quality execution.
+
+  What We’re Looking For We are looking for a builder who can
+  move across the full delivery chain: application code,
+  infrastructure code, deployment, runtime configuration and
+  production troubleshooting. You should be someone who:
+
+  - Builds application software and owns the infrastructure
+    behind it
+  - Uses AI as a default development and troubleshooting
+    workflow
+  - Cares about reliability, security, automation, observability
+    and maintainability
+  - Chooses simple solutions, owns outcomes, and verifies
+    aggressively
+
+  Your tasks
+
+  - Fullstack Engineering: Build services, APIs, scripts,
+    automation, internal tools and lightweight frontend
+    functionality where useful, mainly in TypeScript
+  - Infrastructure & Cloud Setup: Use IaC, ideally AWS CDK, to
+    build pragmatic cloud patterns across containers,
+    databases, queues, storage, networking, DNS, secrets and
+    runtime configuration
+  - ECS Fargate Operations: Deploy and troubleshoot ECS Fargate
+    workloads, including task definitions, services, load
+    balancers, IAM roles, logs, scaling and deployment
+    behavior
+  - Security, Observability & Troubleshooting: Handle IAM, least
+    privilege, secrets, logs, metrics, alarms, failed
+    deployments, configuration issues, networking problems and
+    runtime incidents
+
+  Your profileAI-Native Development & Operations
+
+  - Hands-on use of Claude Code, Codex or similar advanced AI
+    tools; Copilot-style autocomplete is not enough
+  - Uses agents for development, infrastructure changes,
+    debugging and operational investigation, while strongly
+    reviewing and testing AI-generated code, scripts and
+    configuration
+
+  Fullstack / Software Engineering
+
+  - Strong fullstack or backend engineering experience,
+    especially with TypeScript; able to build production
+    services, APIs, scripts, tools and automation
+  - Comfortable across application code, infrastructure code,
+    deployments and runtime systems, from problem
+    clarification to production rollout
+
+  Cloud, IaC & DevOps Operations
+
+  - Strong IaC and AWS or similar cloud experience, ideally AWS
+    CDK with TypeScript, across containers, ECS Fargate,
+    networking, IAM, secrets, DNS, storage, databases, queues
+    and runtime configuration
+  - Strong observability, security and delivery judgment: logs,
+    metrics, traces, dashboards, alarms, least privilege,
+    deployment safety, pipeline permissions and safe developer
+    access
+  - Pragmatic production debugger with good judgment on
+    scalability, availability, cost, security, operational
+    trade-offs and clear English communication
+
+  Good Fit You may be a good fit if you are a
+  fullstack/backend or TypeScript engineer with strong AWS,
+  IaC and DevOps experience; a DevOps/platform or SRE-minded
+  engineer with real software engineering depth; or an AI-
+  native builder using LLMs and agents daily for real
+  development and infrastructure work.
+
+  Not a Good Fit This role is probably not the right fit if
+  you are mainly an infrastructure admin who avoids coding, a
+  pipeline-only DevOps profile, a pure application developer
+  with no cloud ownership, someone who only wants predefined
+  tickets, or someone who does not actively use and validate
+  AI-generated infrastructure, scripts and configuration.Your
+  benefits
+
+  - Work across AI-powered SaaS and cloud-native products, use
+    modern AI tooling daily, and shape pragmatic
+    infrastructure that helps teams ship faster and more
+    safely
+  - Collaboration in an empathetic, appreciative team with room
+    to contribute ideas and take ownership
+  - Individual development opportunities, structured onboarding,
+    and interdisciplinary collaboration
+  - Flexible working models including hybrid work, home office,
+    and mobile working
+  - A modern tech environment and agile ways of working
+  - Additional benefits such as pension plans, health offers,
+    and employee discounts
+
+  I look forward to receiving your applicationSvenja Krüßel
+  D-49835 Wietmarschen-Lohne Tel.: 0170-7888740 E-Mail:
+  career@zvoove.com
+industries:
+  - HR Tech
+  - Software
+posted_date: 2026-11-20
+url: "https://builtin.com/job/senior-ai-native-fullstack-engineer-m-f-d-devops/12355561"
+source: Built In

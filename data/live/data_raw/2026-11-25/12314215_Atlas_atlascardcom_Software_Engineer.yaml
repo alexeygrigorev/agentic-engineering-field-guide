@@ -1,0 +1,90 @@
+job_id: 12314215
+title: Software Engineer
+company: Atlas (atlascard.com)
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  About Atlas is the concierge and credit card built for those
+  who expect more — unlocking coveted access across dining,
+  travel, and lifestyle while making spending seamless.
+
+  Our members are discerning, busy individuals who rely on
+  Atlas to deliver insider access, curated service, and
+  unmatched reliability.
+
+  In just 12 months, we've scaled to over $X00,000,000 in
+  spending volume, growing double digits month-over-month —
+  organically, without paid marketing. We're backed by world-
+  class investors and have multiple years of runway ahead. Our
+  team brings deep experience from building and scaling iconic
+  products at companies like Apple, Robinhood, and DoorDash.
+
+  Today, we're a small, high-performing team based between New
+  York and San Francisco. We value in-person collaboration and
+  expect you to join us in our SF office (FiDi) or New York
+  office (Soho) at least three days a week.
+
+  The Role We’re hiring a backend engineer to help build the
+  systems that power Atlas—from payments and card issuing, to
+  GDS integrations and real-time concierge tooling.
+
+  You’ll work across the stack to build reliable, performant
+  infrastructure—integrating with third-party APIs, scaling
+  backend services, and shaping the foundation of Atlas’s most
+  critical systems. This is an opportunity to move fast, ship
+  often, and have an outsized impact on a product people truly
+  love.
+
+  What You’ll Work On
+
+  - Core backend systems that power card issuing, payments, and
+    merchant intelligence
+  - Integrations with GDS platforms, travel partners, and third-
+    party APIs
+  - Internal tooling to streamline concierge workflows across
+    flights, hotels, and dining
+  - Secure, reliable infrastructure that scales as we grow spend
+    volume
+  - Fast, maintainable services with clean interfaces across our
+    product stack
+
+  What We’re Looking For
+
+  - 5+ years of experience building production systems in
+    languages like Go, Node.js, Python, or similar
+  - 3+ years working with cloud platforms like AWS, GCP, or
+    Azure
+  - Experience with SQL and relational databases (Postgres
+    preferred)
+  - A strong understanding of software reliability,
+    observability, and performance optimization
+  - Comfort owning large projects end-to-end and collaborating
+    closely with product and ops
+  - A bias for clean, well-tested code and thoughtful
+    abstractions
+
+  Why Join Atlas
+
+  - Real impact: You’ll help define how AI changes luxury
+    travel, payments, and experiences for the most discerning
+    customers in the world.
+  - Early stage, no bureaucracy: We’re lean, well funded,
+    growing fast, and moving faster.
+  - Creative, high-caliber teammates: Our team comes from places
+    like Shopify, Apple, Y Combinator startups — but what
+    matters most here is what you build.
+  - Solid compensation: Competitive salary and meaningful equity
+    — you’re helping build the foundation of Atlas.
+  - Fun problem space: Every day involves designing tech that
+    makes luxury travel, dining, and payments feel seamless.
+industries:
+  - Fintech
+  - Payments
+  - Financial Services
+posted_date: 2026-11-18
+url: "https://builtin.com/job/software-engineer/12314215"
+source: Built In

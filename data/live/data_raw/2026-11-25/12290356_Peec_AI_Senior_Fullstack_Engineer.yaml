@@ -1,0 +1,96 @@
+job_id: 12290356
+title: Senior Fullstack Engineer
+company: Peec AI
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 30 Employees
+description: |
+  About Peec AI
+
+  AI search is changing how brands are discovered and chosen.
+  People now ask ChatGPT, Gemini, Claude and Google’s AI
+  answers what they used to search for, and AI assistants
+  increasingly shape the journey from discovery to purchase.
+  Winning customers now means winning over the AI systems that
+  influence their decisions.
+
+  Peec AI is an AI search platform that helps marketing teams
+  understand and improve how their brands are discovered,
+  represented, and recommended. We show them where they stand,
+  what’s shaping it, and where to act. Since launching in
+  January 2025, Peec AI has passed $20M ARR and 4,000+ paying
+  customers. We’re a Series A company backed by 20VC and
+  Singular, with 100+ people across our Berlin HQ and our New
+  York office.
+
+  What You’ll Do
+
+  This is a backend-leaning fullstack role. Most of your time
+  goes into services, data models, APIs and the pipelines
+  behind Peec AI's product. You'll also ship the frontend for
+  the features you build, using our existing design system.
+
+  - Own product features end to end, starting from the backend:
+    data modeling, service design, APIs, async jobs, and the
+    UI that exposes them
+  - Design and scale the systems behind the product: PostgreSQL
+    and Firestore data models, Elasticsearch indexing, queue-
+    and task-based processing on GCP
+  - Build and harden the pipelines that collect and process
+    responses from AI models (OpenAI, Claude, Gemini,
+    Perplexity and others) at scale
+  - Work closely with Product and Design to shape scope and
+    technical direction, then deliver the feature across the
+    stack
+  - Improve reliability, performance, observability and
+    developer velocity across our backend infrastructure
+
+  What We’re Looking For
+
+  - 5+ years of professional engineering experience, with a
+    strong backend focus and real fullstack delivery
+  - Deep TypeScript on the server side (Node.js or similar),
+    plus solid working React
+  - Strong architectural instincts and ability to design clean,
+    maintainable, and scalable systems end-to-end
+  - Strong data modeling and SQL skills (PostgreSQL), and
+    experience with NoSQL and search systems such as Firestore
+    or Elasticsearch
+  - Experience designing APIs (REST, GraphQL or gRPC) and
+    building async, event-driven or queue-based systems
+  - Strong communication skills and a high sense of ownership -
+    able to work autonomously while staying tightly aligned
+    with team goals
+  - Some markers of excellence, which could also be non-work
+    related, like having a high FIDE rating
+  - Most importantly: we care deeply about working with
+    genuinely kind, collaborative, and hard-working people who
+    make the team better through empathy and openness
+
+  Tech Stack
+
+  - Languages: TypeScript
+  - Backend: GCP, Cloud Functions, Cloud Tasks, RabbitMQ,
+    Firestore, PostgreSQL, Elasticsearch
+  - AI Models: OpenAI, Claude, Perplexity, Gemini, Llama, etc.
+  - Frontend: React, shadcn/ui, Tailwind CSS
+
+  Bonus Points
+
+  - Active contributions to open-source projects
+  - Deployed side/hobby projects that we can check out
+  - Experience in starting a company or working at a top-tier
+    high-growth startup
+
+  What We Offer
+
+  - Exciting and challenging work with real impact and ownership
+    at one of Europe’s fastest-growing Series A startups
+  - Regular team events and off-sites
+  - Aggressive equity compensation package
+  - Paid Dinner & Uber home when working late
+  - The most beautiful office space and work environment in
+    Berlin
+posted_date: 2026-11-17
+url: "https://builtin.com/job/senior-fullstack-engineer/12290356"
+source: Built In

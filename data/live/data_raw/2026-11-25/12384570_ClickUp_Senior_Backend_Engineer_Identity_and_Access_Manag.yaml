@@ -1,0 +1,204 @@
+job_id: 12384570
+title: Senior Backend Engineer, Identity and Access Management
+company: ClickUp
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,000 Employees
+description: |
+  At ClickUp, we're building the future of work: the first
+  truly converged AI workspace unifying tasks, docs, chat,
+  calendar, and enterprise search, all supercharged by
+  context-driven AI. We are an AI-native company. Every team
+  member is expected to leverage AI daily, and we evaluate AI
+  fluency as part of our hiring process. Join us and help
+  redefine what's possible. 🚀
+
+  Come join the Identity & Access Management Platform team
+  (IAM Platform) and build the layer that decides who can see
+  and do what across all of ClickUp. This team owns the
+  authorization engine, the permission and role model,
+  authentication (SSO, MFA, SCIM, OAuth), sharing primitives,
+  audit logs, and the core hierarchy data model and APIs that
+  every other part of ClickUp is built on. It is backend-
+  heavy, high-blast-radius work: a subtle mistake here is a
+  security incident, not a bug report.
+
+
+
+  We're looking for a Senior Backend Engineer to help design
+  and deliver an enterprise-grade access management platform.
+  Right now that means building fine-grained, location-scoped
+  permission profiles and inherited governance ceilings — a
+  model where a workspace admin can delegate ownership of a
+  Space to a local owner without letting them widen access,
+  invite the wrong people, or delete the container, and where
+  the effective answer is always the intersection of what a
+  principal is granted and what every ancestor policy allows.
+  You'll work on inheritance and resolution semantics across
+  the Workspace → Space → Folder → List → Task tree, on the
+  evaluation path that has to stay correct and fast on every
+  request, and on migrating a live permission model used by
+  millions of users without granting or revoking a single
+  thing by accident. If you want access control to be the
+  problem you work on rather than a checkbox on someone else's
+  roadmap, this is the team.
+
+  Responsibilities
+
+  - Design and build core services in ClickUp's authorization
+    platform: the permission and role model, capability
+    evaluation, sharing and access-control primitives, and the
+    inheritance semantics that resolve effective access across
+    the Workspace → Space → Folder → List → Task hierarchy.
+  - Extend the authorization engine to support configuration-
+    driven enterprise access models — reusable permission
+    profiles, atomic capability catalogs, delegated grant
+    scopes, and inherited policy ceilings where restriction
+    always wins over grant.
+  - Build and operate authentication and provisioning surfaces:
+    SSO (SAML/OIDC, Okta, Entra, social IdPs), MFA/2FA,
+    session and token lifecycle, OAuth and API token
+    management, and SCIM provisioning and deprovisioning.
+  - Own the correctness of the permission evaluation path end to
+    end — a single authoritative server-side decision that the
+    API, the UI, automations, and agents all resolve against,
+    with no bypass paths.
+  - Make access explainable and auditable: emit the events,
+    reasoning, and audit trail that let an admin answer "why
+    does this user have access here?" and "why was this share
+    blocked?"
+  - Design and execute safe migrations on high-blast-radius data
+    — shadow evaluation, dual reads, backfills, and staged
+    rollout behind feature flags, with a verifiable guarantee
+    that effective access does not silently change.
+  - Hold the performance and reliability bar for services on the
+    hot path of every request in the product, and take part in
+    the shared IAM on-call rotation.
+  - Partner with frontend, product, design, and infosec so the
+    access controls we ship are precise, predictable, and
+    usable by real enterprise admins — and represent your work
+    credibly in enterprise security reviews.
+  - Work AI-natively: use AI tools and agents daily in your
+    engineering workflow, and structure your work so agents
+    can route, roll up, and report on it. We have no status-
+    reporting meetings — reporting is self-serve.
+
+  Requirements
+
+  - 5+ years of professional backend engineering experience
+    building production SaaS at scale.
+  - Hands-on experience building authorization or access-control
+    systems — permission and role models (RBAC, ReBAC, or
+    ABAC), policy evaluation, access-control lists, or a
+    centralized authorization service — not just consuming
+    one.
+  - Direct experience with hierarchical or inherited
+    permissions: how access is granted, inherited, overridden,
+    and revoked across a tree of resources, and how to resolve
+    effective permissions correctly and quickly.
+  - Strong command of a modern backend stack and of designing
+    APIs and data models that other teams build on. We use
+    TypeScript, Node.js, and NestJS with PostgreSQL, Redis,
+    and Kafka; deep expertise in a comparable stack transfers
+    well.
+  - Practical knowledge of authentication and identity
+    standards: OAuth 2.0, OIDC, SAML, JWTs, session and token
+    lifecycle, MFA, and SCIM provisioning.
+  - Experience operating in a multi-tenant environment where
+    tenant isolation is a hard correctness requirement.
+  - A demonstrated track record of shipping schema and behavior
+    migrations on live, high-traffic systems without breaking
+    existing customers.
+  - A security-conscious mindset: the server is the source of
+    truth, deny-by-default is the starting position, and you
+    reason about blast radius, privilege escalation, and
+    failure modes by default.
+  - Strong debugging and systems-reasoning skills, and the
+    judgment to know when a problem calls for a general
+    abstraction versus a narrow, shippable fix.
+  - Excellent written communication — we are asynchronous by
+    default and push decisions and context into docs and
+    ClickUp rather than meetings.
+  - Daily fluency with AI tools in your engineering workflow.
+
+  Preferred Qualifications
+
+  - Experience with Google Zanzibar–style authorization,
+    relationship-based access control, or an open-source
+    engine such as SpiceDB, OpenFGA, Oso, Cerbos, or OPA.
+  - Experience extracting an authorization or identity domain
+    out of a monolith into dedicated services.
+  - Experience building the admin-facing side of access control:
+    custom role builders, permission catalogs, delegated
+    administration, and access-explainability or "view as"
+    tooling.
+  - Familiarity with enterprise compliance requirements and how
+    they shape access control — SOC 2, ISO 27001, audit
+    logging, and separation of duties.
+  - Experience with high-throughput caching and invalidation
+    strategies for permission data.
+  - Experience designing access models for non-human principals
+    — service accounts, API integrations, or AI agents acting
+    on a user's behalf.
+
+
+
+  #LI-REMOTE
+
+  Equal Opportunity Employer
+
+  ClickUp is an Equal Opportunity Employer, and qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, sexual orientation,
+  gender identity, or national origin.
+
+  Privacy Notice
+
+  ClickUp collects and processes personal data in accordance
+  with applicable data protection laws. You can find further
+  details by viewing our Global Candidate Privacy Notice.
+
+  If you are a Philippine Job Applicant, please also see our
+  Philippine Data Privacy Notice for further details.
+
+  Visa Sponsorship
+
+  Please note we are unable to sponsor or take over
+  sponsorship of an employment visa for roles outside of
+  engineering and product at this time. Sponsorship for
+  engineering and product roles is not guaranteed, but is
+  instead based on the business needs for that specific role
+  at that time. Please reach out to the recruiter with any
+  questions.
+
+  Fraud Alert
+
+  ClickUp Talent Acquisition will only initiate contact via an
+  @clickup.com email or through our official careers portal on
+  clickup.com. We will never request fees, payments, or
+  sensitive personal information. Please disregard any offers
+  received outside these channels and report them to
+  support@clickup.com.
+
+  AI Processing Notice
+
+  ClickUp may use artificial intelligence and machine learning
+  technologies to help review and screen candidates'
+  employment applications against role-related criteria. These
+  tools support, but do not replace, human decision‑making. If
+  you have questions or need an accommodation in the
+  recruitment process, please contact us at
+  AskPeople@ClickUp.com.
+industries:
+  - Cloud
+  - Digital Media
+  - Enterprise Web
+  - Marketing Tech
+  - Software
+posted_date: 2026-11-20
+url: "https://builtin.com/job/senior-backend-engineer-identity-and-access-management/12384570"
+source: Built In

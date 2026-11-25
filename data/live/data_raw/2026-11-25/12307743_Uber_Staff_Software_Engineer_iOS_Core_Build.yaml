@@ -1,0 +1,202 @@
+job_id: 12307743
+title: "Staff Software Engineer: iOS (Core Build)"
+company: Uber
+location: New York, USA
+locations:
+  - New York, USA
+  - Seattle, USA
+  - Sunnyvale, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 21,000 Employees
+description: |
+  About the Role and Team
+
+
+
+  Core Build is Uber’s centralized build platform team. We own
+  the common build substrate—Bazel, Gazelle, build rules,
+  client-side remote build caching and execution, and the
+  shared build/test CI pipelines—across Uber’s Java, Android,
+  iOS monorepos. Our vision is simple: make builds fast with
+  less friction. Because the stack is shared, an improvement
+  we make once can benefit engineers across Uber.
+
+  We work across three pillars:
+
+  - Velocity: Make builds faster everywhere with fewer
+    resources—in CI, in remote development environments, and
+    on laptops—through caching, remote execution, sharding,
+    and build-graph optimization.
+  - Reliability & Diagnosability: A build failure should never
+    leave an engineer stranded. Every failure should say what
+    failed, how to fix it, and who can help.
+  - Modernization, Unification & Scale: Keep the platform on the
+    latest Bazel, maximize CI fleet utilization with smart
+    test selection and build-graph pruning, and apply GenAI/ML
+    to automate diagnosis and optimization.
+
+  Our next step-change is to stop compiling the same code
+  thousands of times: make mobile builds remote-first so
+  developers reuse cached build outputs wherever possible, and
+  run only the tests a change can actually affect. As the
+  Staff iOS engineer on the team, you will be the technical
+  owner for the iOS side of that roadmap.
+
+  As a Staff Software Engineer you will lead the design,
+  development, and evolution of the build systems and CI
+  infrastructure that every iOS engineer at Uber depends on.
+
+  Every change to Uber’s iOS apps—Rider, Driver, Uber Eats,
+  and more—flows through the build. In this role, you will own
+  the iOS build end to end: the Bazel build graph and rules,
+  Apple toolchains, remote caching, and the CI pipelines that
+  verify every change before it lands. You will set the
+  technical direction for making iOS builds faster, more
+  reliable, and cheaper at monorepo scale, and lead the cross-
+  team work to get there.
+
+
+
+  What You’ll Do
+
+
+
+  - Own the iOS build end to end: the Bazel build graph,
+    Starlark rules and toolchains for Swift, Objective-C, and
+    Apple platforms, and dependency management across a large,
+    multi-app iOS monorepo.
+  - Drive down CI and local build latency through remote build
+    caching, remote execution on macOS workers, build-graph
+    optimization, critical-path parallelism, and cost-aware CI
+    sharding.
+  - Improve local and CI consistency through aligned Xcode, SDK,
+    compiler, and test configurations, so developers can
+    reliably reproduce CI checks locally.
+  - Make every build failure actionable: eliminate flakiness and
+    cache-correctness issues, add per-target telemetry and
+    smarter retry policies, and ensure engineers and AI coding
+    agents know what failed, how to fix it, and who to
+    contact.
+  - Keep the iOS build modern: lead Bazel and Swift toolchain
+    upgrades, along with build-rule and dependency-automation
+    improvements, as coordinated campaigns that minimize
+    disruption.
+  - Improve the Xcode development workflow, including project
+    generation, indexing, debugging, and simulator
+    integration, in partnership with iOS Platform.
+  - Partner on smart test selection over the shared Bazel graph
+    so each change runs only the tests it can affect, without
+    sacrificing quality.
+  - Define and track build health—latency, success rate, cache
+    hit rate, flakiness, and resource utilization—and catch
+    regressions before developers feel them.
+  - Lead through influence: write design docs, set standards,
+    mentor engineers, lead build incident response, and
+    partner with iOS Platform, CI Platform, and product teams
+    to land changes across the organization.
+
+  Basic Qualifications
+
+  - A Bachelor’s degree in Computer Science or a related field,
+    or equivalent experience.
+  - 8+ years of full-time software engineering experience.
+  - A systematic approach to problem-solving and knowledge of
+    algorithms, data structures, and complexity analysis.
+  - Strong understanding of iOS development, Swift, and the
+    Apple development ecosystem.
+
+  Preferred Qualifications
+
+  - Deep, hands-on experience with Bazel or Buck for iOS builds,
+    including build-graph design and dependency management;
+    experience with Bazel’s Starlark rules, rules_apple, and
+    rules_swift is a plus.
+  - Remote build caching and remote execution, including the
+    Remote Execution API, macOS worker infrastructure, and
+    cache correctness across Xcode and SDK versions.
+  - iOS build internals: Xcode build systems, Swift and Clang
+    compilation, Swift/Objective-C interoperability, module
+    dependencies, linking, resource processing, app bundling,
+    and code signing.
+  - Optimizing Swift compilation, incremental builds, module
+    boundaries, and dependency graphs in large codebases.
+  - Xcode project generation and developer workflows, including
+    indexing, debugging, and simulator support for Bazel-based
+    projects.
+  - CI systems at scale, such as Buildkite: macOS fleet
+    utilization, sharding, test orchestration, and flaky-test
+    management.
+  - iOS test infrastructure: XCTest, XCUITest, snapshot testing,
+    and simulator lifecycle management at scale.
+  - Build performance analysis and observability using Bazel
+    profiles, Build Event Protocol, compiler timing data,
+    metrics, and regression dashboards.
+  - Leading large-scale build migrations or upgrades, such as
+    Buck/Xcode to Bazel, Bazel major versions, Bzlmod
+    adoption, or Xcode and Swift upgrades.
+  - Experience building developer tools in Swift, Go, or Python;
+    familiarity with Objective-C and mixed-language iOS
+    codebases.
+  - Applying LLMs and AI agents to developer tooling, such as
+    automated build-failure diagnosis.
+
+  Responsibilities
+
+  For New York City, NY-based roles: The base salary range for
+  this role is USD $232,000 per year - USD $258,000 per year.
+
+  For San Francisco, CA-based roles: The base salary range for
+  this role is USD $232,000 per year - USD $258,000 per year.
+
+  For Seattle, WA-based roles: The base salary range for this
+  role is USD $232,000 per year - USD $258,000 per year.
+
+  For Sunnyvale, CA-based roles: The base salary range for
+  this role is USD $232,000 per year - USD $258,000 per year.
+
+  For all US locations, you will be eligible to participate in
+  Uber's bonus program, and may be offered an equity award &
+  other types of comp. All full-time employees are eligible to
+  participate in a 401(k) plan. You will also be eligible for
+  various benefits.
+
+  About Us
+
+  Ready to Ride?
+
+
+
+  This isn't the kind of place where you follow a playbook —
+  it's where you help write one. If you're driven by impact,
+  energized by challenge, and ready to shape how the world
+  moves — we'd love to hear from you.
+
+  You may be eligible for bonuses, equity, and other
+  compensation, as well as a range of benefits. Explore our
+  benefits.
+
+  Offices remain key to collaboration and Uber's culture.
+  Unless approved for full remote work, employees must spend
+  at least 50% of their time in-office. Some roles, like those
+  at greenlight hubs, require full-time in-office presence.
+  Ask your Recruiter for details about this role's
+  requirements.
+
+  Uber is proud to be an Equal Opportunity employer. All
+  qualified applicants will receive consideration for
+  employment without regard to sex, gender identity, sexual
+  orientation, race, color, religion, national origin,
+  disability, protected Veteran status, age, or any other
+  characteristic protected by law. We also consider qualified
+  applicants regardless of criminal histories, consistent with
+  legal requirements. If you have a disability or special need
+  that requires accommodation, please let us know by
+  completing this form.
+industries:
+  - Logistics
+  - Transportation
+  - "3PL: Third Party Logistics"
+posted_date: 2026-11-18
+url: "https://builtin.com/job/staff-software-engineer-ios-core-build/12307743"
+source: Built In

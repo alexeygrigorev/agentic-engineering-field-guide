@@ -1,0 +1,138 @@
+job_id: 12419377
+title: Senior Software Engineer (Ad Tech Focus)
+company: Mate.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 30 Employees
+description: |
+  About Checkmate and Mate. 🛍 📲
+
+  Checkmate is a multichannel offers network loved by 100M
+  shoppers and hundreds of leading brands.
+
+  mate. is your AI growth teammate, the data network that
+  agentically turns customer intelligence into revenue.
+
+  Checkmate is the distribution network, with 100M+ shoppers
+  and 12B+ live intent signals. mate is the AI layer built on
+  top of it: it resolves anonymous visitors, spots the revenue
+  a brand is missing, and builds and executes the campaigns to
+  capture it.
+
+  The combination is rare: a consumer product shoppers love
+  and an AI growth engine brands depend on.
+
+  We work with leading brands like Everlane, Brooklinen, and
+  Malbon, and we're backed by Google Ventures, Mantis VC, Fuel
+  Capital, and others.
+
+  We're a remote-first team with hubs in LA and NYC, and a
+  preference for hiring in or near major cities.
+
+  Role Overview 💼
+
+  You'll design, build, and ship the core systems behind mate:
+  the pixel, tracking, and ad delivery services that brands
+  plug into and rely on every day. If you've built production
+  systems inside a DSP, an ad platform, or an ad tech company
+  and know how pixels and conversions actually work under the
+  hood, this is a senior seat where you'll own real
+  architecture decisions on a small team that ships fast.
+
+  Please note: this role is a US-based role only and we cannot
+  offer visa sponsorship for this role at this time. What
+  You'll Do ⚡
+
+  Build and ship core product
+
+  - Design, build, and ship backend services and APIs that power
+    mate's agents, from spec to production
+  - Improve and maintain an identity graph.
+  - Own features end to end, partnering with product and design
+    on what to build and how
+  - Write clean, well-tested, production-grade code and set the
+    standard for the rest of the team
+
+  Ad tech infrastructure
+
+  - Build and maintain our pixel, tags, and server-side
+    tracking, and the conversion integrations with Meta,
+    TikTok, Google, and others
+  - Build integrations with DSPs, ad platforms, and partner APIs
+  - Build the real-time services that deliver offers across the
+    network, fast and reliably
+
+  Architecture and reliability
+
+  - Make architecture calls on how our systems scale: service
+    design, storage, queues, and caching
+  - Own reliability in production: monitoring, alerting,
+    debugging, and incident response
+  - Improve developer tooling, CI/CD, and pay down tech debt
+    where it slows us down
+
+  Engineering leadership
+
+  - Lead design reviews and code reviews, and mentor other
+    engineers
+  - Help shape engineering practices and hiring as the team
+    grows
+
+  RequirementsWho You Are 🧬
+
+  - You've built ad tech from the inside and know how the pieces
+    connect, from pixel to conversion.
+  - You like owning a system end to end, not just a ticket
+    queue.
+  - You're pragmatic: you ship fast on a small team without
+    cutting corners on quality.
+  - You think about the brand's outcome, not just whether the
+    code ships.
+  - You raise the bar for the engineers around you.
+
+  What You Bring 🎒
+
+  - 6+ years building and shipping production software, with
+    meaningful time at an ad tech company (DSP, ad platform,
+    ad exchange, or identity provider)
+  - Strong backend engineering skills in Python and Typescript,
+    including designing APIs and distributed services
+  - Hands-on experience building pixels, tags, SDKs, or
+    conversion tracking, client-side and server-side
+  - Experience building systems that handle high request volume
+    with low latency
+  - Comfort with cloud infrastructure, containers, and CI/CD
+  - A track record of owning systems in production, from launch
+    through monitoring and on-call
+
+  Bonus: Identity resolution / graph networks, ecommerce or
+  Shopify, or early-stage startup experience.
+
+  Why This Role Matters
+
+  Mate only works if the systems underneath them are fast,
+  reliable, and plugged into the ad platforms brands already
+  buy on. This engineer builds that foundation. Get it right
+  and brands see clearer results, buy more effectively, and
+  spend more with us. It's one of the highest-leverage
+  engineering seats at the company
+
+  BenefitsCompensation & Benefits 💸
+
+  - Competitive base salary
+  - Equity in a fast-growing, venture-backed company
+  - Competitive medical/dental/vision/other healthcare coverage
+  - 4 weeks PTO + health days
+  - 401k plan
+  - Monthly stipend for fitness/wellness activities
+  - Company retreats and team get togethers 2x a year 🏝
+  - Remote-first culture
+industries:
+  - Artificial Intelligence
+  - eCommerce
+  - Marketing Tech
+  - Analytics
+posted_date: 2026-11-23
+url: "https://builtin.com/job/senior-software-engineer-ad-tech-focus/12419377"
+source: Built In

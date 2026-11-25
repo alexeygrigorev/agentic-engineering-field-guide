@@ -1,0 +1,94 @@
+job_id: 12458627
+title: Meridial – Senior Research Software Engineer – Image Processing
+company: Convergent Research
+location: London, GBR
+work_type: FULL_TIME
+company_size: 16000 Employees
+description: |
+  About Meridial
+
+  Meridial is a Focused Research Organisation (FRO) with a
+  mission to bring connectomics into the living brain. We are
+  building a platform for longitudinal, synapse-resolution
+  mapping of functional neural circuitry in preclinical
+  models. Our aim is to deploy this platform for translational
+  projects and improve drug development outcomes for disorders
+  of the central nervous system.
+
+  Meridial is a new not-for-profit FRO in the Convergent
+  Research Ecosystem and funded by the Advanced Research and
+  Invention Agency (ARIA).
+
+  The technical challenge
+
+  Our imaging platform records the activity of neurons and
+  synapses in the living brain. The scientific value of these
+  recordings depends on converting raw images into reliable,
+  quantitative data.
+
+  This is a demanding image processing problem. Fluorescence
+  signals are faint, noisy and spatially overlapping; residual
+  tissue motion and other imaging artefacts must be corrected;
+  in addition to conventional planar frames, data may be
+  acquired from arbitrarily shaped 3D regions or several
+  depths at once; properties vary between signal types and
+  experimental configurations; and the same cells and synapses
+  must be reliably matched across imaging sessions spanning
+  weeks. You will build a software package that addresses
+  these challenges in two modes: real-time processing and
+  visualisation, with latencies of tens to hundreds of
+  milliseconds, that inform experimental decisions at the
+  microscope, and offline pipelines that deliver maximum
+  accuracy for scientific analysis and serve as the benchmark
+  for the real-time methods.
+
+  The impact of this work is direct and visible: your software
+  will be used at the microscope as experiments unfold, and
+  your pipelines will generate the data underpinning new
+  insights into how neural circuits function and how they
+  change in disease.
+
+  Key responsibilities
+
+  The person we are looking for
+
+  Essential experience
+
+  Physical demands
+
+  Position type / schedule
+
+  - Start date: February 2027 or later.
+  - Full-time.
+  - Based in London, with an on-site presence of four days per
+    week.
+
+  Additional information
+
+  - Please send your CV.
+  - We will ask for two references during the interview process.
+  - Generous benefits will be communicated during interviews.
+  - For exceptional candidates, Meridial will consider visa
+    sponsorship and relocation support.
+
+  We are an Equal Employment Opportunity employer and do not
+  make hiring or employment decisions on the basis of race,
+  colour, religion or religious belief, ethnic or national
+  origin, nationality, sex, gender, gender identity, sexual
+  orientation, disability, age, military or veteran status, or
+  any other characteristic protected by applicable law or
+  company policy. We strive for a diverse, healthy and safe
+  workplace and strictly prohibit harassment of any kind.
+
+  We may use artificial intelligence (AI) tools to support
+  parts of the hiring process, such as reviewing applications,
+  analysing resumes, or assessing responses and identifying
+  potential inconsistencies or verification signals in
+  application materials based on available information. These
+  tools assist our recruitment team but do not replace human
+  judgment. Final hiring decisions are ultimately made by
+  humans. If you would like more information about how your
+  data is processed, please contact us.
+posted_date: 2026-11-25
+url: "https://builtin.com/job/meridial-senior-research-software-engineer-image-processing/12458627"
+source: Built In

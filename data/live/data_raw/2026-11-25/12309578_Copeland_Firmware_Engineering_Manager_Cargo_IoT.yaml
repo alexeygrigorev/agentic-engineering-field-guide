@@ -1,0 +1,207 @@
+job_id: 12309578
+title: Firmware Engineering Manager,  Cargo IoT
+company: Copeland
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 3,381 Employees
+description: |
+  About Us
+
+  We are a global climate technologies company engineered for
+  sustainability. We create sustainable and efficient
+  residential, commercial and industrial spaces through HVACR
+  technologies. We protect temperature-sensitive goods
+  throughout the cold chain. And we bring comfort to people
+  globally. Best-in-class engineering, design and
+  manufacturing combined with category-leading brands in
+  compression, controls, software and monitoring solutions
+  result in next-generation climate technology that is built
+  for the needs of the world ahead. 
+
+  Whether you are a professional looking for a career change,
+  an undergraduate student exploring your first opportunity,
+  or recent graduate with an advanced degree, we have
+  opportunities that will allow you to innovate, be challenged
+  and make an impact. Join our team and start your journey
+  today!
+
+  Job Summary
+
+  We are seeking an experienced Firmware Engineering Manager
+  to lead our embedded systems team with a dedicated focus on
+  technical execution and regulatory alignment under the EU
+  Cyber Resilience Act (CRA). In this role, you will lead a
+  team of firmware engineers owning existing and new secure,
+  scalable IoT products while ensuring our entire embedded
+  architecture and software development lifecycle (SDLC) meet
+  mandatory EU cybersecurity requirements.
+
+  You will bridge the gap between low-level firmware
+  development, security architecture, and regulatory
+  compliance—ensuring our devices are secure by design,
+  maintain continuous vulnerability management, and support
+  robust over-the-air (OTA) updates throughout their support
+  lifecycle.
+
+  Key Responsibilities
+
+  Technical Leadership & CRA Implementation
+
+  - Secure Architecture: Drive the design and implementation of
+    firmware security controls aligned with CRA standards
+    (e.g., ETSI EN 303 645, IEC 62443, ISO 27001), enforcing
+    Hardware Root of Trust, Secure Boot, encrypted memory
+    partitions, and secure key storage.
+  - Automated SBOM & Dependency Management: Establish automated
+    generation and maintenance of Software Bill of Materials
+    (SBOM) (e.g., CycloneDX, SPDX) within build pipelines to
+    maintain component transparency and track open-source
+    dependencies.
+  - Over-the-Air (OTA) & Patch Management: Direct the
+    development of secure, cryptographically signed, and
+    resilient OTA update mechanisms capable of delivering
+    rapid security patches without bricking devices in the
+    field.
+  - Vulnerability & Incident Management: Implement processes to
+    meet CRA reporting mandates—including 24-hour initial
+    vulnerability alert capabilities, 72-hour notifications,
+    and rapid patch deployment workflows.
+  - Conformity & Technical Documentation: Oversee technical file
+    generation, risk assessments, and compliance testing
+    required for CRA CE marking and third-party conformity
+    audits.
+
+  People & Team Management
+
+  - Lead, mentor, and grow a team of embedded firmware
+    engineers, fostering a culture prioritizing security-by-
+    design and security-by-default principles.
+  - Balance feature delivery roadmaps with compliance deadlines,
+    security debt reduction, and refactoring efforts.
+  - Conduct code reviews, establish secure coding standards
+    (MISRA, CERT C), and integrate SAST/DAST/fuzz testing
+    tools into CI/CD build environments.
+
+  Cross-Functional Collaboration
+
+  - Partner closely with Product Management, Hardware Design,
+    Legal/Compliance, and Cloud IoT teams to align hardware
+    selection (e.g., Secure Elements, TPMs) with security
+    standards.
+  - Serve as the technical point of contact for external
+    auditors, compliance bodies, and security researchers
+    conducting vulnerability assessments or penetration
+    testing.
+
+  Required Qualifications
+
+  - Education: Bachelor’s or Master’s degree in Computer
+    Engineering, Electrical Engineering, Computer Science, or
+    equivalent practical experience.
+  - Experience:
+    - 8+ years of experience in embedded firmware development
+      (C/C++, RTOS, bare-metal, or Embedded Linux), preferably
+      for IoT devices.
+    - 3+ years of experience in an engineering management, tech
+      lead, or supervisory role.
+    - Demonstrated experience implementing firmware security
+      primitives: Secure Boot, cryptographic hardware (HSM,
+      TPM, Secure Elements), TLS/mTLS, memory protection, and
+      secure storage.
+
+  Preferred Qualifications
+
+  - Hands-on knowledge of hardware/software security frameworks
+    and regulatory compliance standards (e.g., EU Cyber
+    Resilience Act, ETSI EN 303 645, NIST SP 800-213, IEC
+    62443).
+  - Experience establishing automated SBOM pipelines and
+    vulnerability scanning (e.g., CVE mapping).
+  - Deep experience with microcontroller architectures (ARM
+    Cortex-M/TrustZone, RISC-V, ESP32) and wireless protocols
+    (BLE, Wi-Fi, Cellular IoT, Thread/Matter).
+  - Knowledge of global IoT cybersecurity legislation beyond the
+    EU (e.g., US Cyber Trust Mark, UK PSTI Act).
+  - Active cybersecurity certification (e.g., CISSP, CSSLP, or
+    CISM).
+
+  Pay Transparency: $95,500 - $171,900 USD Annually
+
+  #LI-KC2
+
+  #LI-Remote
+
+  Our Commitment to Our People
+
+  Across the globe, we are united by a singular Purpose:
+  Sustainability is no small ambition. That’s why everything
+  we do is geared toward a sustainable future—for our
+  generation and all those to come. Through groundbreaking
+  innovations, HVACR technology and cold chain solutions, we
+  are reducing carbon emissions and improving energy
+  efficiency in spaces of all sizes, from residential to
+  commercial to industrial.
+
+  Our employees are our greatest strength. We believe that our
+  culture of passion, openness, and collaboration empowers us
+  to work toward the same goal - to make the world a better
+  place. We invest in the end-to-end development of our
+  people, beginning at onboarding and through senior
+  leadership, so they can thrive personally and
+  professionally.
+
+  Flexible and competitive benefits plans offer the right
+  options to meet your individual/family needs: medical
+  insurance plans, dental and vision coverage, 401(k) and
+  more. We provide employees with flexible time off plans,
+  including paid parental leave, vacation and holiday leave. 
+
+  Together, we have the opportunity – and the power – to
+  continue to revolutionize the technology behind air
+  conditioning, heating and refrigeration, and cultivate a
+  better future. Learn more about us and how you can join our
+  team!
+
+
+
+  Our Commitment to Inclusion & Belonging
+
+  At Copeland, we cultivate a strong sense of inclusion and
+  belonging where individuals of all backgrounds, and with
+  diverse perspectives, are embraced and treated fairly to
+  enable a stronger workforce.  Our employee resource groups
+  play an important role in culture and community building at
+  Copeland.
+
+
+
+  Work Authorization
+
+  Copeland will only employ those who are legally authorized
+  to work in the United States. This is not a position for
+  which sponsorship will be provided. Individuals with
+  temporary visas such as E, F-1 with OPT or CPT, H-1, H-2,
+  L-1, B, J or TN, or who need sponsorship for work
+  authorization now or in the future, are not eligible for
+  hire.
+
+
+
+  Equal Opportunity Employer
+
+  Copeland is an Equal Opportunity/Affirmative Action
+  employer. All qualified applicants will receive
+  consideration for employment without regard to sex, race,
+  color, religion, national origin, age, marital status,
+  political affiliation, sexual orientation, gender identity,
+  genetic information, disability or protected veteran status.
+  We are committed to providing a workplace free of any
+  discrimination or harassment.
+
+  If you have a disability and are having difficulty accessing
+  or using this website to apply for a position, please
+  contact: copeland.careers@copeland.com
+posted_date: 2026-11-18
+url: "https://builtin.com/job/firmware-engineering-manager-cargo-iot/12309578"
+source: Built In

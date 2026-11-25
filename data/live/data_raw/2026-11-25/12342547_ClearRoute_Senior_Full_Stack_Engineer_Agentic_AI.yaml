@@ -1,0 +1,182 @@
+job_id: 12342547
+title: Senior Full Stack Engineer, Agentic AI
+company: ClearRoute
+location: London, GBR
+work_type: FULL_TIME
+company_size: 97 Employees
+description: |
+  About Us:
+
+  ClearRoute is an engineering consultancy bridging Quality
+  Engineering, Cloud Platforms and Developer Experience. We
+  help enterprises reliably bring high-impact digital products
+  to market faster, cheaper, and safer, working with
+  technology leaders facing complex business challenges.
+
+  We take as much pride in our people, culture and work-life
+  balance as we do in making better software. We’re not just
+  making better software. We’re making the making of software
+  better. Collaborative, entrepreneurial and dedicated to
+  problem solving, we bring the step change our customer need
+  to sustain innovation. Our values challenge us to do the
+  best we can for ClearRoute, our customers and most
+  importantly our team. This is an opportunity for you to
+  build the organisation from the ground up, use your voice to
+  drive change and help transform organisations and problem
+  domains.
+
+  The Role:
+
+  Build production AI agents that people rely on at work.
+  You'll join ClearRoute, an engineering consultancy, in a
+  delivery team embedded with a large enterprise client in the
+  energy sector. Together we're building the client's internal
+  AI assistant, which is live with users and scaling up.
+
+  The project
+
+  How it's built:
+
+  - A React and TypeScript web app talking to a FastAPI and
+    LangGraph orchestrator that plans, calls tools and streams
+    its answer back.
+  - Tools written in Python, many of them as MCP servers, plus
+    hybrid retrieval with reranking over enterprise documents.
+  - Connectors that act as the signed-in user (Entra ID on-
+    behalf-of and OAuth), including agent-to-agent
+    integrations with other vendors' agents.
+  - Human approval before any action that changes something,
+    with conversation state checkpointed so a turn can pause
+    and resume.
+  - Azure behind private networking, deployed with Terraform and
+    Azure DevOps pipelines, with automated evals and end-to-
+    end tests on every release.
+
+  What's next: more connectors into systems of record, richer
+  outputs, and a shared agent platform that other teams will
+  build their own agents on.
+
+  Key Responsibilities:
+
+  - Build features end to end, from the orchestrator and its
+    tools to the React screens that use them.
+  - Build and extend MCP servers and connectors into enterprise
+    systems, with every call made as the user and within their
+    permissions.
+  - Improve answer quality and prove it with evals, not spot
+    checks.
+  - Build front-end features in React and TypeScript: streaming
+    chat, document management, personalisation.
+  - Make it hold up as usage grows: latency, model quotas, token
+    cost, failure handling and observability.
+  - Take your work all the way to production: tests, code
+    review, security scans and monthly releases.
+  - Help shape the architecture and the team's engineering
+    standards.
+
+  Required Experience:
+
+  - Senior-level Python: async, typing, testing, and APIs with
+    FastAPI or similar.
+  - LLM features you've shipped to real users, such as tool
+    calling, RAG or agent orchestration. You can explain how
+    they work, how you tested them and what went wrong. Side
+    projects are welcome, but we need to see production work
+    too.
+  - Solid production React and TypeScript, including state
+    management, data fetching and streaming UIs.
+  - Strong system design: you can take an open problem, clarify
+    it and design it end to end, covering asynchronous
+    processing, state, retries, security and cost.
+  - Services you've run on a major cloud using infrastructure as
+    code. Azure and Terraform are ideal; AWS or GCP is fine if
+    you're keen to learn Azure.
+  - Good engineering habits: test-first, small reviewed pull
+    requests, CI/CD. You use AI coding tools daily and can
+    explain every line you ship.
+  - Clear communication with engineers and non-technical
+    stakeholders.
+
+  Desirable Experience:
+
+  - LangGraph in production, including state, checkpointing and
+    interrupts for human approval.
+  - Building MCP servers or agent-to-agent integrations.
+  - Evaluating LLM output: datasets, LLM-as-judge scoring and
+    regression gates.
+  - Azure: Entra ID and the on-behalf-of flow, App Service,
+    Cosmos DB, AI Search, Azure OpenAI or AI Foundry, Key
+    Vault and private endpoints.
+  - Token and cost optimisation, prompt caching and working
+    within model quotas.
+  - Playwright, OpenTelemetry and Azure DevOps.
+  - Regulated or security-conscious environments.
+
+  How we work:
+
+  - A Scrum team of engineers and QA with a product owner,
+    delivery lead and tech lead, in two-week sprints.
+  - Every pull request is reviewed by a person. Unit tests,
+    coverage checks, contract tests and evals run in the
+    pipelines.
+  - Monthly production releases with security sign-off. Nobody
+    changes cloud environments by hand: it all goes through
+    Terraform and pipelines.
+  - AI-assisted development is normal here, and so is owning
+    what you ship.
+  - It's fast-moving and the bar is high. Good ideas get a fair
+    hearing and can reach production quickly.
+
+  Working at ClearRoute We have grown from six founders to
+  180+ people across five countries in three years, and what
+  sets us apart isn't the pace, it's how we grow.
+
+  - Real flexibility, in practice. We trust you to perform at
+    your best and still have a life outside of work, with
+    genuine hybrid working, a home office budget, an open
+    feedback culture where your voice shapes decisions, and
+    time off when life needs it (birthday included).
+  - When ClearRoute wins, you win. We offer profit share so
+    success is shared, meaningful recognition for great work,
+    and benefits that look after you and your family,
+    including private healthcare, competitive salary
+    benchmarking, and a confidential employee assistance
+    program covering counselling, mental health support, and
+    financial wellbeing.
+  - A community you'll genuinely want to be part of. Interest
+    based communities like running and book clubs, Women in
+    Tech group, monthly socials, and cross regional events
+    bring people together across the company. An inclusive,
+    collaborative culture where you don't need to conform to
+    succeed, where people support one another and feel
+    comfortable being themselves.
+  - Where meaningful work meets real growth. You will tackle
+    complex, real world problems at the forefront of platform
+    engineering, AI, security, and scalable systems. Your
+    growth is supported by learning budgets, Udemy access, a
+    clear career framework, internal mobility, and thought
+    leadership opportunities that take your impact beyond
+    ClearRoute.
+
+  At ClearRoute, we believe diverse perspectives lead to
+  better outcomes, and inclusion creates the conditions for
+  everyone to thrive. We are proud to have built a family
+  friendly working environment and have many employees who
+  have caring responsibilities alongside work. We welcome
+  applications from people who require flexibility and will be
+  happy to discuss needs on an individual basis.
+
+  We are committed to fostering a culture where all team
+  members feel respected, supported, and empowered to do their
+  best work. We celebrate individuality and our differences
+  and understand that some differences may mean that you
+  require changes made to the interview process. We are happy
+  to cater to your needs to make the interview accessible, if
+  this is something you require please let us know by emailing
+  us at join@clearroute.io
+industries:
+  - Information Technology
+  - Consulting
+posted_date: 2026-11-19
+url: "https://builtin.com/job/senior-full-stack-engineer-agentic-ai/12342547"
+source: Built In

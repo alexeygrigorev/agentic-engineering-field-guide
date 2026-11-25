@@ -1,0 +1,159 @@
+job_id: 12425199
+title: Software Engineer - Backend - Behavioral Security Products
+company: Abnormal Security
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 175 Employees
+description: |
+  At Abnormal AI, we protect our customers against nefarious
+  adversaries who are constantly evolving their techniques and
+  tactics to outwit and undermine the traditional approaches
+  to Security.
+
+  About The Team
+
+  This team owns the end-to-end development and operation of
+  the infrastructure, ML models, AI agents, customer-facing
+  APIs, and internal tools that power Abnormal's Identity
+  Threat Protection (ITP) product. Our work is central to
+  detecting malicious behavior and protecting customers from
+  advanced identity-based attacks — including account
+  takeover, identity spoofing, data leakage, and other high-
+  impact threats.
+
+  About The Role
+
+  We are looking for a Software Engineer to help build and
+  evolve our platform as it scales to meet expanding product
+  requirements. This role blends hands-on backend systems
+  development with growing ownership of features and
+  production systems, including AI-powered and agentic
+  components, working closely with senior engineers to improve
+  system reliability, reduce latency, and accelerate feature
+  release cycles.
+
+  What You'll Do
+
+  Technical Delivery & Excellence
+
+  - Design, build, and iterate on scalable backend and ML
+    systems, APIs, frameworks, and internal tools.
+  - Take ownership of well-scoped features and components, with
+    guidance from senior engineers on more complex, cross-
+    system work.
+  - Contribute to the stability, reliability, and operational
+    excellence of critical systems.
+  - Write clean, testable, and resilient code with attention to
+    edge cases and performance.
+  - Contribute to technical design documents and participate in
+    design discussions.
+  - Participate in code and design reviews, and contribute to
+    on-call rotations.
+
+  AI Engineering & Agents
+
+  - Help design and build LLM-powered features and agentic
+    workflows (e.g., automated investigation, triage, or
+    remediation assistants) as part of the ATO platform.
+  - Integrate LLM APIs and agent frameworks into backend
+    services, with attention to reliability, cost, latency,
+    and evaluation.
+  - Contribute to prompt design, tool/function-calling
+    integrations, and guardrails for AI-driven components
+    under senior engineer guidance.
+  - Use GenAI coding assistants and agents as part of your own
+    development workflow to accelerate delivery and testing.
+
+  Collaboration & Growth
+
+  - Collaborate with product managers, designers, and engineers
+    to align on specifications and priorities.
+  - Break down well-defined projects into clear executable steps
+    and drive them to completion.
+  - Contribute to roadmap discussions and share ideas for
+    technical improvements.
+  - Communicate effectively in an async-first environment,
+    providing clarity on updates, challenges, and solutions.
+  - Actively seek feedback and mentorship from senior engineers
+    to accelerate your growth.
+
+  What We're Looking For
+
+  - Ownership & Growth: A proactive engineer who takes ownership
+    of assigned work and is eager to grow into increasingly
+    complex projects.
+  - Attention to Detail: Strong focus on code quality,
+    reliability, monitoring, and performance.
+  - Solid Fundamentals: Good grounding in system design
+    principles, with a growing ability to reason about scaling
+    and reliability tradeoffs.
+  - Strong Collaborator: Comfortable working cross-functionally
+    and in a distributed environment.
+  - AI & Agent Engineering Curiosity: Genuine interest in LLM-
+    powered features and agentic systems, and proactive in
+    leveraging modern developer productivity tools, including
+    GenAI assistants and coding agents, to accelerate
+    delivery.
+
+  Must-Have Skills
+
+  - 3-5 years of industry experience as a Software Engineer,
+    with a track record of shipping production backend
+    systems.
+  - Solid backend proficiency in Python, with experience
+    building and maintaining production systems.
+  - Experience with system design fundamentals and building
+    reliable, scalable applications.
+  - Working knowledge of relational databases and modern data
+    storage technologies.
+  - Exposure to service-to-service communication (gRPC, Kafka)
+    and caching (Redis) is a plus.
+  - Experience with AWS cloud services (S3, RDS) and deployment
+    practices.
+  - Familiarity with containerization and orchestration (Docker,
+    Kubernetes, Helm) is a plus.
+  - Understanding of service health, monitoring, and incident
+    response practices.
+  - Comfortable writing technical documentation and contributing
+    to design discussions.
+
+  Nice-to-Have Skills
+
+  - Hands-on experience integrating LLM APIs (e.g., OpenAI,
+    Anthropic) into production applications.
+  - Exposure to agent frameworks or patterns (e.g., LangChain,
+    LangGraph, tool/function calling, ReAct-style agents).
+  - Familiarity with prompt engineering, evaluation, and
+    observability for AI-driven features.
+
+  #LI-ML1
+
+  A note on AI in our process:  Abnormal AI uses AI-assisted
+  tools to help our recruiting team prepare for candidate
+  interviews. These tools analyze resume content and role
+  requirements to suggest interview questions and areas for
+  the interviewer to explore.They do not make hiring decisions
+  or screen candidates automatically. Every decision about a
+  candidacy is made by a person. Further, if your application
+  is successful and Abnormal AI makes a conditional offer of
+  employment, we will carry out pre-employment checks which
+  must be successfully completed to progress to a final offer.
+  All processes and pre-employment checks are in line with
+  prevailing legislation and Abnormal AI's policies relevant
+  to our security and privacy standards.
+
+  Abnormal AI is an equal opportunity employer. Qualified
+  applicants will receive consideration for employment without
+  regard to race, color, religion, sex, national origin,
+  disability, protected veteran status or other
+  characteristics protected by law. For our EEO policy
+  statement please click here. If you would like more
+  information on your EEO rights under the law, please click
+  here.
+industries:
+  - Security
+  - Cybersecurity
+posted_date: 2026-11-23
+url: "https://builtin.com/job/software-engineer-backend-behavioral-security-products/12425199"
+source: Built In

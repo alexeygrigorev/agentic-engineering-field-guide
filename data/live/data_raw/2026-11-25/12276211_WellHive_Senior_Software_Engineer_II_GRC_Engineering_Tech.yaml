@@ -1,0 +1,140 @@
+job_id: 12276211
+title: Senior Software Engineer II, GRC Engineering (Tech Lead)
+company: WellHive
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 81 Employees
+description: |
+  About WellHive WellHive is a FedRAMP High–authorized
+  healthcare SaaS company. We help health systems coordinate
+  and deliver care, and we run critical scheduling
+  infrastructure for more than 130 VA healthcare facilities.
+  Every employee is treated as a valued contributor who brings
+  their own experience and perspective to the problems we
+  solve. We offer competitive pay and benefits and flexible
+  working conditions. The Team This position operates in
+  WellHive's GRC and GRC Engineering team. We run the security
+  compliance program that keeps WellHive authorized and
+  trusted, and we build the tooling that makes each new
+  compliance framework cost less than the last. GRC analysts
+  run the program day to day: continuous monitoring,
+  assessments, and customer security reviews. Software
+  engineers build our in-house compliance platform, and the
+  automation that collects evidence for it. The internal
+  tooling we’re developing is a TypeScript platform built on
+  machine-readable compliance data. It models control
+  catalogs, baselines, system security plans, findings, and
+  automated control checks. It uses semantic search and AI-
+  assisted control analysis, and it runs inside our FedRAMP
+  High boundary on AWS. The Role We're looking for a senior
+  engineer to be the team’s technical lead. Our manager is a
+  GRC subject-matter expert and decides what the team builds.
+  You decide how it's built, and you own the technical health
+  of the GRC Engineering effort.. This is a hands-on
+  individual contributor role. You'll write production code,
+  and you'll also set Vigil's architectural direction, define
+  the team's engineering standards, and grow the engineers
+  around you. You'll join a small team: two software
+  engineers, a GRC analyst, and the manager. Your judgment
+  will shape how the team works. What You'll Do Own the
+  architecture
+
+  - Set and document the tool’s technical direction: data model,
+    service boundaries, integration patterns, and how it grows
+    to new frameworks such as SOC 2 and HITRUST.
+  - Turn compliance needs from the manager and analysts into
+    technical designs, and lead the design discussions.
+  - Find and pay down technical debt, gaps in testing, and
+    performance problems before they slow the team.
+
+  Set the engineering bar
+
+  - Define the team's code review standards, and model them in
+    detailed, constructive reviews that explain the why.
+  - Set testing, documentation, and design-review practices, and
+    build them into CI and tooling so they are easy to follow.
+  - Set standards for AI-assisted development. Much of our code
+    is written with AI coding agents, and reviewing that code
+    well is a core skill on this team.
+  - Keep the architecture audit-ready: traceable changes, sound
+    data retention, and security controls that hold up under
+    FedRAMP assessment.
+
+  Grow the team
+
+  - Mentor two software engineers through pairing, design
+    feedback, and code review.
+  - Break large initiatives into well-scoped work, estimate it
+    honestly, and help each engineer take on work that
+    stretches them.
+  - Give the manager a clear technical read on the team's work:
+    how big a piece of work really is, where it's stuck, and
+    where risk is building.
+  - Help hire and onboard future engineers.
+
+  Build
+
+  - Design and build features end to end across our compliance
+    platform’s API, data layer, and UI.
+  - Build evidence-collection pipelines and integrations with
+    AWS and other operational systems.
+  - Take part in all sprint ceremonies and in support sessions
+    for the platform.
+
+  What You'll Bring Required
+
+  - 8+ years of professional software engineering experience,
+    including significant time as a technical lead or senior
+    engineer setting direction for a team.
+  - Strong TypeScript or a comparable language, and a track
+    record of designing and shipping backend systems: APIs,
+    data models, data pipelines.
+  - Strong relational database and data modeling skills (we use
+    PostgreSQL).
+  - Experience owning the architecture of a production system
+    and evolving it over time.
+  - A history of mentoring engineers and raising a team's code
+    quality through review and example.
+  - Working knowledge of AWS and infrastructure as code.
+  - Clear written and verbal communication with both engineers
+    and non-engineers. You can explain a technical trade-off
+    to a compliance expert, and turn a compliance requirement
+    into a technical spec.
+  - US citizenship.
+
+  Strongly preferred
+
+  - Experience in compliance automation, security engineering,
+    or DevSecOps.
+  - Experience in a regulated industry (government, healthcare,
+    finance).
+  - Experience with AI coding agents (e.g. Claude Code) in a
+    team setting, including reviewing AI-generated code at
+    volume.
+  - Experience with LLM features in production: embeddings,
+    semantic search, retrieval.
+  - Experience with Go, Docker, and CI/CD pipelines (we use
+    Jenkins).
+
+  What Makes You Stand Out
+
+  - You've been the person a team relies on for technical
+    judgment, and the team got better because you were there.
+  - You can hold a high bar for quality without slowing the team
+    down.
+  - You like working with domain experts and learning a domain
+    well enough to model it correctly.
+
+  Other Details
+
+  - Must live and work in the continental US, excluding CA, CO,
+    NY, and WA.
+  - Work hours overlapping with the Eastern time zone.
+  - High-speed internet connection.
+industries:
+  - Healthtech
+  - Software
+posted_date: 2026-11-16
+url: "https://builtin.com/job/senior-software-engineer-ii-grc-engineering-tech-lead/12276211"
+source: Built In

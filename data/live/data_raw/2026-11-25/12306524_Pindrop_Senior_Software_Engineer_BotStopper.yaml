@@ -1,0 +1,355 @@
+job_id: 12306524
+title: Senior Software Engineer (BotStopper)
+company: Pindrop
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 252 Employees
+description: |
+  Who We Are
+
+  Pindrop is a cybersecurity company delivering continuous
+  identity verification across voice, video, and digital
+  interactions. Powered by the Pindrop Intelligence Network,
+  our unified trust platform helps enterprises answer three
+  critical questions:
+
+  Is this identity synthetic? Detect AI-generated and
+  manipulated voice and video. Is this identity risky?
+  Identify fraud, suspicious behavior, and other risk signals.
+  Is this identity known? Authenticate identities using voice,
+  device, behavioral, and other signals.
+
+  Pindrop brings this intelligence together across purpose-
+  built trust engines to help organizations make informed
+  decisions in real time — protecting customers, workforce
+  interactions, and emerging AI-driven interactions.
+
+  Pindrop protects billions of high-risk interactions for
+  enterprises, including leading financial institutions,
+  insurers, and healthcare organizations. Its technology is
+  informed by more than 8 billion real-world interactions
+  annually and protected by 300+ patents.
+
+  Recognized by TIME as one of the 10 Most Influential
+  Software Companies of 2026 and by Inc. for Best in Business
+  for Innovation, Pindrop is backed by leading investors
+  including Andreessen Horowitz, IVP, and CapitalG.
+
+  What you’ll do
+
+  As a Senior Software Engineer on the BotStopper team, you
+  will help build and scale the cloud-native services and
+  machine learning inference infrastructure powering Pindrop
+  BotStopper™ our real-time AI voice detection solution that
+  helps enterprises distinguish human callers from automated
+  interactions and recognize known registered AI voices.
+
+  Built on Pindrop Pulse detection technology and supported by
+  intelligence from the AI Voice Consortium (AIVC), BotStopper
+  helps enterprises identify automated interactions, protect
+  customer experiences, and respond to emerging AI-driven
+  challenges across contact centers.
+
+  You will work at the intersection of distributed systems,
+  cloud infrastructure, real-time processing, and
+  cybersecurity, developing highly reliable services that
+  support detection decisions during live customer
+  interactions. As BotStopper evolves, you'll help engineer
+  the next generation of capabilities, including more
+  sophisticated AI-agent classification, expanded detection
+  signals, and enterprise integrations.
+
+  As a senior individual contributor, you'll bring strong
+  backend engineering expertise, take end-to-end ownership of
+  complex technical initiatives, and collaborate closely with
+  Engineering, Research, Product, and SRE to transform
+  emerging technologies into secure, scalable, production-
+  ready systems. This is a fast-moving product environment
+  where adaptability, technical curiosity, and the ability to
+  navigate changing priorities are essential.
+
+  More specifically, you will:
+
+  - Architect, develop, test, deploy, and monitor high-
+    performance backend services and APIs supporting
+    BotStopper's real-time detection and scoring capabilities,
+    optimizing for low latency, scalability, reliability, and
+    efficient processing.
+  - Independently drive platform features and improvements from
+    ambiguous requirements and technical design through
+    implementation, testing, production rollout, monitoring,
+    and operational support.
+  - Develop and enhance backend capabilities supporting known-
+    AI-voice identification, including integration with the AI
+    Voice Consortium (AIVC) infrastructure and Pindrop's
+    broader voice intelligence capabilities.
+  - Partner with Research and Research Engineering to integrate
+    detection models, inference services, and ML-driven
+    signals into reliable, scalable production workflows,
+    balancing detection effectiveness, latency, cost, and
+    operational complexity.
+  - Improve performance, concurrency, availability, fault
+    tolerance, and infrastructure efficiency across high-
+    throughput services processing large volumes of real-world
+    voice interactions.
+  - Help engineer the evolution from human-versus-machine
+    detection toward more detailed AI-caller classification,
+    ensemble signal analysis, explainable scoring, and other
+    emerging detection capabilities.
+  - Design and develop backend services and APIs that support
+    integrations with IVR, Contact Center as a Service
+    (CCaaS), telephony, and conversational AI platforms.
+  - Contribute to architectural decisions, evaluate technical
+    tradeoffs, and partner across Engineering, Research,
+    Product, and SRE to introduce new capabilities without
+    disrupting live customer traffic.
+  - Support production operations through incident response,
+    troubleshooting, and continuous improvements to
+    observability, alerting, deployment safety, and system
+    reliability. After an initial onboarding period of
+    approximately three months, participate in the team's
+    established on-call rotation.
+  - Mentor engineers through thoughtful code reviews, design
+    discussions, pairing, documentation, and knowledge sharing
+    while encouraging strong software engineering practices.
+  - Strategically leverage AI-assisted development tools to
+    accelerate engineering workflows, improve development
+    velocity, and support innovation.
+  - Apply strong engineering judgment to validate AI-generated
+    solutions while maintaining rigorous standards for
+    security, correctness, performance, and maintainability.
+
+  Who you are
+
+  - You independently drive complex technical initiatives from
+    early problem definition through successful production
+    delivery.
+  - You follow through on commitments, communicate risks
+    transparently, and take ownership of outcomes.
+  - You thrive in fast-paced, evolving environments where
+    priorities, technical requirements, and customer needs can
+    shift quickly.
+  - You're comfortable navigating ambiguity, adjusting your
+    approach, and taking ownership of urgent engineering
+    challenges without sacrificing quality, reliability, or
+    collaboration.
+  - You build strong relationships across Engineering, Research,
+    Product, and SRE, communicate technical decisions clearly,
+    welcome feedback, and help teams align around practical
+    solutions.
+  - You’re energized by distributed systems, low-latency
+    processing, machine learning infrastructure, and the
+    opportunity to build reliable technology that addresses
+    rapidly evolving AI-driven threats.
+  - You recognize AI as an opportunity to enhance engineering
+    productivity, accelerate problem-solving, and improve how
+    software is developed.
+  - You actively explore practical applications of AI-assisted
+    development tools while applying sound judgment,
+    validating outputs, and maintaining strong software
+    engineering standards.
+  - You invest in helping other engineers grow through technical
+    guidance and collaboration.
+  - You lead by example, encourage thoughtful problem-solving,
+    and help strengthen engineering practices across the team.
+
+  Your skill-set
+
+  We're looking for strong backend and distributed-systems
+  engineers who enjoy solving complex problems and building
+  reliable production services. Previous experience in voice
+  AI, telephony, or fraud detection is valuable, but not
+  required. What matters most is your technical depth,
+  ownership mindset, adaptability, and ability to learn and
+  apply emerging technologies.
+
+  Must-haves:
+
+  - 7+ years of professional software engineering experience, or
+    5+ years with significant hands-on depth in highly
+    distributed production systems, building scalable backend
+    services and APIs with demonstrated senior-level technical
+    ownership.
+  - Strong proficiency in Go, Python, or comparable backend
+    programming languages, with expertise in data structures,
+    algorithms, concurrency, distributed systems, and service-
+    oriented application design.
+  - Hands-on experience developing and operating cloud-native
+    applications using AWS, GCP, or comparable platforms,
+    including Docker, Kubernetes or equivalent orchestration,
+    and production data or messaging technologies such as
+    PostgreSQL/Aurora, Redis, Kinesis, or similar systems.
+  - Demonstrated end-to-end production ownership, including
+    CI/CD, deployment, monitoring, performance optimization,
+    incident response, troubleshooting, and maintaining
+    secure, reliable services in live customer environments.
+
+  Nice-to-haves:
+
+  - Experience designing or operating machine learning inference
+    infrastructure, real-time scoring pipelines, streaming
+    inference services, or production ML model integrations.
+  - Experience with real-time voice processing, telephony,
+    WebRTC, SIP/RTP, audio signal analysis, or integrations
+    with IVR, CCaaS, and conversational AI platforms.
+  - Familiarity with additional cloud and data technologies such
+    as Redshift, DynamoDB, S3, Elasticsearch, IAM, and
+    Infrastructure as Code tools such as Terraform or AWS CDK.
+  - Experience in AI-agent detection, synthetic speech or
+    deepfake detection, liveness detection, fraud prevention,
+    identity verification, cybersecurity, or other security-
+    sensitive enterprise systems.
+
+  What’s in it for you
+
+  The rise of AI voice agents is fundamentally changing how
+  consumers and enterprises communicate. As automated callers
+  become increasingly sophisticated, organizations need
+  reliable ways to recognize machine-driven interactions and
+  respond appropriately without disrupting legitimate customer
+  experiences.
+
+  BotStopper represents an important step in Pindrop's broader
+  AI-agent identity and trust strategy. Today, the technology
+  helps enterprises distinguish human callers from automated
+  interactions and recognize known registered AI voices.
+  Looking ahead, we're building toward more sophisticated
+  detection, classification, and intelligence capabilities.
+
+  This is an opportunity to help shape an evolving product at
+  a pivotal moment in AI and cybersecurity. You'll tackle
+  challenging problems involving distributed systems, low-
+  latency processing, cloud infrastructure, and production
+  machine learning while working alongside talented engineers,
+  researchers, and product leaders.
+
+  You'll have meaningful technical ownership, the opportunity
+  to influence architectural decisions, and the freedom to
+  challenge assumptions and recommend better approaches. If
+  you enjoy building reliable systems, adapting quickly, and
+  helping define what comes next, this is an exciting place to
+  make an impact.
+
+  - Your work will help enterprises identify automated voice
+    interactions, protect contact-center capacity, and respond
+    to emerging AI-driven risks while supporting legitimate
+    customer experiences.
+  - Help shape the evolution of BotStopper as Pindrop expands
+    beyond initial human-versus-machine detection toward more
+    sophisticated AI-agent classification, signal analysis,
+    and enterprise integrations.
+  - Work on low-latency processing, distributed systems, cloud
+    scalability, ML inference infrastructure, and reliable
+    operation under high-volume production conditions.
+  - Collaborate with experienced software engineers, research
+    scientists, ML engineers, product leaders, and technical
+    architects who value thoughtful debate, technical depth,
+    and continuous improvement.
+  - AI is changing both what we build and how we build it.
+    You'll be encouraged to incorporate AI responsibly into
+    your development workflow, experiment with emerging tools,
+    and identify opportunities to improve engineering
+    productivity and quality.
+  - Senior engineers at Pindrop aren't simply handed
+    requirements. You'll help shape design decisions,
+    influence technical direction, recommend improvements, and
+    translate complex challenges into scalable solutions.
+  - Expand your expertise in architecture, technical decision-
+    making, mentorship, and cross-functional collaboration,
+    developing the capabilities needed for future Staff-level
+    impact.
+
+  What we offer
+
+  As a part of Pindrop, you’ll have a direct impact on our
+  growing list of products and the future of security in the
+  voice-driven economy. We hire great people and take care of
+  them. Here’s a snapshot of the benefits we offer:
+
+  - Unlimited Paid Time Off (PTO)
+  - Flexibility to work remotely from outside your country of
+    residence for up to four weeks per year, subject to
+    manager approval and applicable company policies.
+  - Flexibility to work remotely from outside your country of
+    residence for up to four weeks per year
+  - Competitive compensation package, including RSUs (Restricted
+    Stock Units) for all employees, so everyone shares in our
+    long-term success.
+  - While we work flexibly, we prioritize meaningful in-person
+    moments through regular team on-sites, company-wide
+    events, and intentional gatherings that foster connection,
+    collaboration, and shared success.
+  - Generous health and welfare plans to choose from - including
+    one employer-paid “employee-only” plan!
+  - Best-in-class Health Savings Account (HSA) employer
+    contribution
+  - Low-cost vision and dental plans for you and your family,
+    providing comprehensive coverage and peace of mind.
+  - Paid Parental Leave - Including birth, adoptive & foster
+    parents
+  - Recurring monthly phone and internet allowance to help cover
+    essential connectivity costs and support flexible work.
+  - Enhanced fertility and GLP-1 benefits to support family-
+    building journeys and personalized health needs.
+  - Annual Learning & Development stipend to support your
+    professional growth, skill-building, certifications, and
+    continued education.
+
+  #LI-Remote #LI-HB1
+
+  Please note that the base pay range is a general guideline
+  only. Pindrop considers factors such as (but not limited to)
+  scope and responsibilities of the position, a candidate's
+  work experience, education/training, and key skills, as well
+  as market and business considerations, when extending an
+  offer.
+
+  US Base Pay Range
+
+  $130,000—$170,000 USD
+
+  Not sure if this is you?
+
+  We want a diverse, global team, with a broad range of
+  experience and perspectives. If this job sounds great, but
+  you’re not sure if you qualify, apply anyway! We carefully
+  consider every application and will either move forward with
+  you, find another team that might be a better fit, keep in
+  touch for future opportunities, or thank you for your time.
+
+  AI - A Transformative Force
+
+  At Pindrop, we view artificial intelligence as a
+  transformative force that, when harnessed responsibly, can
+  unlock unprecedented value for our customers, partners and
+  society and enable and empower us to continue to deliver
+  cutting-edge technology to combat fraud and unblur the lines
+  between what it means to be human versus machine.
+
+  Pindrop may use AI tools to help prioritize job applications
+  for human review. The AI tool may analyze your work
+  experience and skills to assess fit for the role, but does
+  not consider your name or contact details. Applications with
+  the strongest match to job requirements are prioritized for
+  human review; not all applications may be individually
+  reviewed.
+
+  Pindrop is an Equal Opportunity Employer
+
+  Here at Pindrop, it is our mission to create and maintain a
+  diverse and inclusive work environment. As an equal
+  opportunity employer, all qualified applicants receive
+  consideration for employment without regard to race, color,
+  age, religion, sex, gender, gender identity or expression,
+  sexual orientation, national origin, genetic information,
+  disability, marital and/or veteran status.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Mobile
+  - Security
+  - Software
+posted_date: 2026-11-18
+url: "https://builtin.com/job/senior-software-engineer-botstopper/12306524"
+source: Built In

@@ -1,0 +1,252 @@
+job_id: 12063451
+title: Agentic Ontology Software Engineer
+company: Lockheed Martin
+location: VAT
+locations:
+  - VAT
+  - MAC
+  - USA
+  - Eliot, USA
+  - Bryan, USA
+  - Omaha, USA
+  - Cicero, USA
+  - Sandusky, USA
+  - Joes, USA
+  - Pueblo, USA
+  - Wichita, USA
+  - Lebanon, USA
+  - Roseburg, USA
+  - Four Mile, USA
+  - Fresno, USA
+  - Golden, USA
+  - Newport, USA
+  - Three Oaks, USA
+  - Viola, USA
+  - Detroit, USA
+  - Township 3, USA
+  - Los Angeles, USA
+  - Key West, USA
+  - Valdosta, USA
+  - Chongqing, CHN
+  - Hamburg, USA
+  - New York, USA
+  - Threeway, USA
+  - Maysville, USA
+  - St. Joseph, USA
+  - Three Creek, USA
+  - Nashville, USA
+  - Vancouver, USA
+  - Two Rivers, USA
+  - Two Buttes, USA
+  - One Suerte, USA
+  - Lawrenceville, USA
+  - Germantown, USA
+  - Baton Rouge, USA
+  - Presque Isle, USA
+  - Four Corners, USA
+  - Sierra Vista, USA
+  - Worcester, USA
+  - Old Harbor, USA
+  - Pittsfield, USA
+  - Charleston, USA
+  - New Orleans, USA
+  - Sioux Falls, USA
+  - Grand Rapids, USA
+  - San Francisco, USA
+  - Fredericksburg, USA
+  - 1 MD, IND
+  - Three Rivers, USA
+  - 3 A, IND
+  - Three-Way Corner, USA
+  - Four Mile Prairie, USA
+  - MEX
+  - Four County Farm, USA
+  - ‘Alae Three-Four, USA
+  - Murray, USA
+  - Washington, USA
+  - Peace River, CAN
+  - 2 H I, IND
+  - Onema, COD
+  - Nagar, IND
+  - Two Bridges, DEU
+remote: true
+work_type: FULL_TIME
+company_size: 108,588 Employees
+description: |
+  Standard Job Description
+
+  Join our team as a Staff AI Engineer focused on ontologies,
+  knowledge graphs, and production AI systems. You will define
+  how complex enterprise data becomes trusted knowledge that
+  AI applications can understand and use.
+
+  This role uses a forward-deployed engineering model. You
+  will work directly with users, domain experts, data owners,
+  and engineering teams. You will identify high-value problems
+  and turn unclear needs into secure, reliable production
+  capabilities. You will remain responsible from initial
+  discovery through deployment and operation.
+
+  As a Staff individual contributor, you will set technical
+  direction across projects and teams. You will solve complex
+  system problems, guide senior engineers, and create reusable
+  platform capabilities. You will lead through technical
+  judgment, delivery results, and trusted relationships.
+  Formal personnel authority is not required.
+
+  Responsibilities include:
+
+  - Lead technical discovery with users, domain experts, data
+    owners, and engineering teams.
+  - Convert business needs into system requirements,
+    architecture decisions, and delivery plans.
+  - Define architectures for AI agents, ontologies, knowledge
+    graphs, data integrations, and user applications.
+  - Design semantic models that represent business concepts
+    instead of physical source structures.
+  - Establish methods for ontology governance, source
+    traceability, evaluation, version control, and human
+    review.
+  - Build AI agent workflows that create, test, and improve
+    trusted knowledge artifacts.
+  - Define evaluation methods for AI quality, semantic accuracy,
+    query results, reliability, cost, and latency.
+  - Integrate databases, APIs, files, cloud platforms, and
+    enterprise data systems.
+  - Lead development across services, APIs, background jobs, web
+    applications, and graph query systems.
+  - Guide deployment through automated pipelines, containers,
+    and cloud platforms.
+  - Resolve complex failures across AI models, applications,
+    data sources, and infrastructure.
+  - Make tradeoffs among user value, security, quality,
+    schedule, cost, and long-term support.
+  - Convert engagement-specific solutions into reusable platform
+    capabilities.
+  - Review architecture and code for quality, security,
+    supportability, and system fit.
+  - Mentor engineers and establish consistent engineering
+    practices across teams.
+  - Present technical decisions, risks, and results to technical
+    and business leaders.
+  - Influence technical direction across teams without formal
+    authority.
+
+  Basic Qualifications
+
+  - A bachelor’s degree in a related STEM field and nine years
+    of relevant experience.
+  - A master’s degree with seven years or a PhD with four years
+    can satisfy the education and experience requirement.
+  - Experience developing production software in Python and
+    architecting distributed or cloud-based systems.
+  - Experience architecting and deploying production AI, LLM,
+    machine learning, or agent-based systems.
+  - Experience designing ontologies or knowledge graphs with
+    RDF, OWL, and SPARQL.
+  - Experience leading technical work across teams and
+    converting unclear user needs into deployed solutions.
+
+  Desired Skills
+
+  - Advanced experience with OWL, SHACL, R2RML, SPARQL, ontology
+    reasoning, or semantic validation.
+  - Experience defining ontology governance, model reuse,
+    version control, and review practices.
+  - Experience with graph databases or virtual knowledge graph
+    systems.
+  - Experience with Amazon Neptune, Ontop, RDFLib, or comparable
+    semantic platforms.
+  - Experience with AI agent frameworks and enterprise model
+    platforms.
+  - Experience with AWS Bedrock, Azure OpenAI, or comparable
+    model services.
+  - Experience evaluating LLM systems for accuracy,
+    traceability, reliability, security, cost, and latency.
+  - Experience designing human review and approval controls for
+    AI-generated artifacts.
+  - Experience with Django, asynchronous Python, Celery,
+    PostgreSQL, Redis, or comparable technologies.
+  - Experience with React, TypeScript, or full-stack application
+    development.
+  - Experience integrating SQL databases, REST APIs, OpenAPI
+    specifications, files, or Databricks.
+  - Experience with Docker, Kubernetes, OpenShift, Helm, and
+    CI/CD pipelines.
+  - Experience with production observability, incident response,
+    and root-cause analysis.
+  - Experience applying security and access controls to
+    enterprise AI or data systems.
+  - Experience leading architecture reviews or technical
+    standards across engineering teams.
+  - Experience mentoring senior engineers and improving team
+    engineering practices.
+  - Experience delivering software in customer environments with
+    unclear or changing requirements.
+  - Experience converting customer-specific solutions into
+    reusable products or platform services.
+
+  Pay Information
+
+  GeoZone Definition: GeoZones are geographic groupings
+  created by Lockheed Martin to align compensation ranges with
+  regional labor markets and cost-of-labor differences across
+  the United States. Locations are assigned a Geo Zone based
+  on the primary work location of the role.
+
+  - Full-time salary range (GEOZONE 1): $150800.00 - $280000.00
+    - Includes metropolitan areas such as Sunnyvale CA; Pal Alto,
+      CA; New York City metropolitan area; Newark, New Jersey;
+      etc.
+  - Full-time salary range (GEOZONE 2): $135700.00 - $251900.00
+    - Includes metropolitan areas such as Denver, CO; King of
+      Prussia, PA; Stratford, CT; Moorestown, NJ; etc.
+  - Full-time salary range (GEOZONE 3): $120600.00 - $224000.00
+    - Includes metropolitan areas such as Dallas–Fort Worth, TX;
+      Orlando, FL; Grand Prairie, TX; Marietta, GA; etc.
+  - Full-time salary range (GEOZONE 4): $108600.00 - $201600.00
+    - Includes metropolitan areas such as Camden, AR; Lexington,
+      KY; Lufkin, TX; etc.
+
+  At Lockheed Martin, we know mission success starts with
+  taking care of our people. Our Total Rewards program is
+  designed to attract top talent, support your well-being, and
+  help you grow—both professionally and personally.
+
+  The salary range for this position is as listed on the
+  requisition. Please note that the salary information listed
+  is a general guideline only.  Lockheed Martin considers
+  factors such as (but not limited to) scope and
+  responsibilities of the position, candidate's work
+  experience, education/ training, key skills as well as
+  market(work location) and business considerations when
+  extending an offer.
+
+  Benefits offered: Medical, Dental, Vision, Flexible work
+  arrangements and schedules (e.g., 4x10), 401(k) match, Paid
+  time off, Holidays, Parental Leave, EAP, Flexible Spending
+  Accounts, Education Assistance, Life Insurance, Short-Term
+  Disability, and Long-Term Disability.
+
+  - Annual short-term and/or long-term incentive compensation
+    programs may be offered depending on the position.
+    Payments under these annual programs are not guaranteed
+    and can vary from year to year and are tied to a range of
+    performance metrics.
+  - For (Washington state applicants only) Non-represented full-
+    time employees: accrue at least 10 hours per month of Paid
+    Time Off (PTO) to be used for incidental absences and
+    other reasons; receive at least 90 hours for holidays.
+    Represented full time employees accrue 6.67 hours of
+    Vacation per month; accrue up to 52 hours of sick leave
+    annually; receive at least 96 hours for holidays. PTO,
+    Vacation, sick leave, and holiday hours are prorated based
+    on start date during the calendar year.
+industries:
+  - Aerospace
+  - Security
+  - Cybersecurity
+  - Industrial
+posted_date: 2026-11-04
+url: "https://builtin.com/job/agentic-ontology-software-engineer/12063451"
+source: Built In

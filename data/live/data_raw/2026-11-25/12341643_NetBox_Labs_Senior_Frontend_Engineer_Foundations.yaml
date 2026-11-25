@@ -1,0 +1,159 @@
+job_id: 12341643
+title: Senior Frontend Engineer, Foundations
+company: NetBox Labs
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 150 Employees
+description: |
+  NetBox Labs is seeking a Frontend/UI Engineer to join our
+  rapidly expanding engineering team. We have multiple
+  positions at different seniority levels open across several
+  teams.
+
+  About NetBox Labs
+
+  NetBox Labs builds the next generation of network automation
+  tools for modern infrastructure teams. Our UI Platform is
+  the foundation for a consistent, maintainable, and
+  delightful user experience across all our products. We’re
+  hiring a Frontend Engineer to partner closely with our
+  existing UI Platform engineer to continue building and
+  scaling that platform.
+
+  Role overview
+
+  We’re looking for an experienced Frontend Engineer to join
+  the UI Platform team and partner with our current engineers
+  to accelerate delivery, improve reliability, and grow the
+  component and design system. You’ll take ownership of parts
+  of the platform, collaborate with product and design teams,
+  and help make the UI platform the standard way teams build
+  interfaces at NetBox Labs.
+
+  This role is hands-on: you will implement components,
+  improve developer ergonomics (Storybook, docs, tests), and
+  help define the architecture and processes needed to scale
+  the platform safely across multiple product teams.
+
+  What you’ll do
+
+  - Pair with and support the existing UI Platform engineer to
+    deliver platform roadmap items and operational
+    improvements.
+  - Design, build, and maintain reusable UI components,
+    patterns, and utilities with a focus on composability,
+    accessibility, and performance.
+  - Own platform-level features (component library, tokens,
+    theming, Storybook, docs, test harnesses) and contribute
+    to architecture and standards.
+  - Improve developer experience for product teams using the
+    platform: scaffolding, documentation, linting, and CI
+    checks.
+  - Add automated tests (unit, integration, visual regression)
+    and enforce quality gates. Optimize build and runtime
+    performance for components and pages.
+  - Collaborate cross-functionally with product designers,
+    product managers, and backend engineers to ensure
+    components meet UX and performance goals.
+  - Review code, mentor teammates, and evangelize best practices
+    for front-end engineering and design systems.
+  - Participate in planning processes — help shape the roadmap.
+
+  What we’re looking for (minimum qualifications)
+
+  - 3+ years of professional frontend experience (React +
+    TypeScript strongly preferred).
+  - Proven experience building and maintaining component
+    libraries and/or design systems used by multiple teams.
+  - Deep knowledge of React patterns, TypeScript typing best
+    practices, and component composition.
+  - Strong TailwindCSS or other utility-first CSS framework
+    skills, modern layout (Flexbox, Grid) and responsive
+    design.
+  - Experience with micro-frontend architecture, particularly
+    Module Federation 2.0 with Vite.
+  - Experience with Storybook or equivalent component
+    documentation tooling.
+  - Familiar with automated frontend testing: Jest, React
+    Testing Library. Including accessibility & performance
+    testing.
+  - Experience integrating frontend code with REST backends,
+    ideally with type-safe API clients and API code
+    generation.
+  - Awareness and practical experience with accessibility (WCAG)
+    and building accessible components.
+  - Good communication skills and proven ability to work
+    collaboratively in small, cross-functional teams.
+  - Comfortable working in a fast-moving environment and
+    contributing to product and technical decisions.
+
+  Nice to have
+
+  - Experience with monorepos (npm workspaces / pnpm / Nx /
+    Turborepo).
+  - Familiarity with build tooling and bundlers (Vite, Webpack,
+    esbuild) and optimizing build/runtime performance.
+  - Experience with design tokens and theming systems.
+  - Previous role owning a UI/platform initiative or leading a
+    design system adoption across teams.
+  - Familiarity with authentication and authorization patterns
+    (Auth0, OAuth, RBAC) in frontend applications.
+  - Experience building developer tooling at scale such as code
+    generators, scaffolding CLIs, or custom build utilities
+    (e.g., Plop, Yeoman, Vite plugins)
+
+  Why join NetBox Labs
+
+  - You’ll have real ownership of the UI platform used across
+    our product portfolio.
+  - Work with a small, talented engineering team where your
+    decisions have high impact.
+  - Opportunity to mentor and help shape frontend practices and
+    standards.
+  - Competitive compensation and benefits.
+  - Flexible / remote work policy.
+
+  About NetBox Labs:
+
+  NetBox Labs helps companies build and manage complex
+  networks. We help customers accelerate network automation by
+  delivering open, composable products and supporting the
+  network automation community.
+
+  NetBox Labs is the commercial steward of open source NetBox,
+  the world’s most popular network source of truth, and Orb,
+  the next-generation open source network observability
+  platform. Our products include NetBox Enterprise, a fully
+  supported self-managed NetBox with advanced features, and
+  NetBox Cloud, a secure, scalable, and reliable SaaS edition
+  of NetBox.
+
+  NetBox powers thousands of companies, and NetBox Labs is
+  backed by investment from Notable Capital (formerly GGV),
+  Grafana Labs CEO Raj Dutt, Flybridge, IBM, Salesforce
+  Ventures, and Mango Capital.
+
+  Our culture and values:
+
+  - We own and solve problems with high attention to detail.
+  - Our open source contributors, users, customers & team are
+    all part of our community. When our community wins, we
+    win.
+  - We prioritize simplicity and think twice before adding
+    complexity
+  - Clear communication helps keep our team aligned and
+    collaborating smoothly.
+
+  NetBox Labs is proud to be an equal opportunity employer. We
+  believe diverse teams build better software, and we welcome
+  applicants of every race, color, religion, gender identity,
+  sexual orientation, national origin, age, disability, and
+  veteran status. If you need accommodation at any point in
+  the process, just let us know.
+industries:
+  - Cloud
+  - Software
+posted_date: 2026-11-19
+url: "https://builtin.com/job/senior-frontend-engineer-foundations/12341643"
+source: Built In

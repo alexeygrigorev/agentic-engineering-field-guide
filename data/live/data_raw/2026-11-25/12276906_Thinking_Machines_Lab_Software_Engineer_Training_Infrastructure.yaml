@@ -1,0 +1,107 @@
+job_id: 12276906
+title: Software Engineer, Training Infrastructure
+company: Thinking Machines Lab
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 91 Employees
+description: |
+  About Thinking Machines
+
+  The mission of Thinking Machines is to build AI that extends
+  human will and judgment. We are training frontier models
+  with Inkling, developing Tinker to let people make models
+  their own, and crafting interfaces that broaden human-AI
+  communication. We believe the future worth building is
+  human, and we're hiring people who want to build it.
+
+  About the Role
+
+  We're hiring a Software Engineer, Training Infrastructure to
+  build the systems that train our frontier models and power
+  Tinker, our fine-tuning API. You will work on the
+  distributed training stack that runs supervised and
+  reinforcement learning jobs reliably across large GPU
+  clusters, from scheduling and fault tolerance to throughput
+  and cost.
+
+  Tinker exposes a small set of low-level primitives, so
+  researchers and developers can write their own training
+  loops while we manage the infrastructure behind them. Your
+  job is to make that abstraction hold up at scale: as we add
+  new model architectures, more users, and increasingly
+  demanding workloads like long-horizon reinforcement
+  learning, the platform has to stay fast, stable, and easy to
+  reason about.
+
+  What You'll Do
+
+  - Design, build, and operate the distributed training
+    infrastructure behind Tinker and our internal frontier
+    model training, spanning scheduling, orchestration,
+    checkpointing, and recovery
+  - Improve training throughput and cost efficiency through
+    profiling, parallelism strategies, memory optimization,
+    and kernel- and communication-level tuning
+  - Bring up and optimize training support for new open-weights
+    and in-house model architectures, including mixture-of-
+    experts models, and make new models available to users
+    quickly
+  - Build reliability into the platform: automated failure
+    detection, job recovery, multi-tenant isolation, and
+    observability so that long-running jobs survive hardware
+    and network faults
+  - Support efficient multi-tenant LoRA fine-tuning and tightly
+    coupled sampling and training for reinforcement learning
+    workloads
+  - Collaborate with the Tinker API, frameworks, and product
+    teams to keep the infrastructure and the user-facing SDK
+    consistent and well-behaved
+
+  Skills & QualificationsMinimum Qualifications
+
+  - 4+ years of software engineering experience, including
+    building and operating production distributed systems
+  - Strong programming skills in Python, plus experience in a
+    systems language such as C++, Rust, or Go
+  - Hands-on experience with large-scale model training or
+    inference infrastructure, using frameworks such as PyTorch
+  - Track record of debugging complex performance and
+    reliability issues in distributed environments
+
+  Preferred Qualifications
+
+  - Experience training or serving large language models at
+    scale, including mixture-of-experts architectures
+  - Experience with LoRA and other parameter-efficient fine-
+    tuning methods, or with supervised and reinforcement
+    learning pipelines for LLMs
+  - Experience with cluster orchestration and scheduling, such
+    as Kubernetes or Slurm, and with fault-tolerant
+    checkpointing
+  - Experience building observability and profiling tooling
+  - Contributions to open-source ML systems projects (e.g.,
+    PyTorch, Megatron, vLLM, SGLang, or similar)
+
+  Logistics
+
+  - Location: This role is based in San Francisco, California or
+    New York, New York.
+  - Compensation: Depending on background, skills and
+    experience, the expected annual salary range for this
+    position is $300,000 - $400,000 USD.
+  - Visa sponsorship: We sponsor visas. While we can't guarantee
+    success for every candidate or role, if you're the right
+    fit, we're committed to working through the visa process
+    together.
+  - Benefits: Thinking Machines offers generous health, dental,
+    and vision benefits, unlimited PTO, paid parental leave,
+    and relocation support as needed.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-11-16
+url: "https://builtin.com/job/software-engineer-training-infrastructure/12276906"
+source: Built In

@@ -1,0 +1,161 @@
+job_id: 12358190
+title: Senior AI Software Engineer, AI Enablement
+company: Extend
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 181 Employees
+description: |
+  About Extend:
+
+  Extend is revolutionizing the post-purchase experience for
+  retailers and their customers by providing merchants with
+  AI-driven solutions that enhance customer satisfaction and
+  drive revenue growth. Our comprehensive platform offers
+  automated customer service handling, seamless
+  returns/exchange management, end-to-end automated
+  fulfillment, and product protection and shipping protection
+  alongside Extend's best-in-class fraud detection. By
+  integrating leading-edge technology with exceptional
+  customer service, Extend empowers businesses to build trust
+  and loyalty among consumers while reducing costs and
+  increasing profits.
+
+  Today, Extend works with more than 1,000 leading merchant
+  partners across industries, including fashion/apparel,
+  cosmetics, furniture, jewelry, consumer electronics, auto
+  parts, sports and fitness, and much more. Extend is backed
+  by some of the most prominent technology investors in the
+  industry, and our headquarters is in downtown San Francisco.
+
+  About the Role
+
+  The AI Enablement team gives every team at Extend the AI
+  tooling it needs to do its best work. We pair directly with
+  business users in finance, support, claims, sales,
+  recruiting, and operations to understand how they work, then
+  build the agents, connectors, and skills that change it.
+  This is an engineering role first. Sitting beside a business
+  user is how you find the right problem. Solving it takes
+  real engineering judgment about agent harnesses, protocols,
+  security, and reliability.
+
+  You will build on the platform that turns one-off prototypes
+  into durable, secure, measurable tooling: MCP connectors to
+  the systems we run on, agent-to-agent (A2A) integrations, a
+  shared library of agent skills, and the evaluation practice
+  that tells us whether any of it actually works.
+
+  What You'll Do
+
+  - Pair with business users to run workflow analysis and
+    process mapping, find the highest-leverage problems, and
+    turn ambiguous requests into scoped technical plans.
+  - Design and ship secure MCP connectors to Extend's internal
+    systems and third-party SaaS: finance, CRM, data
+    warehouse, expense management, product analytics, support,
+    ATS, and the long tail beyond.
+  - Build agent-to-agent integrations using A2A and similar
+    protocols, so specialized agents can delegate to each
+    other safely across domains.
+  - Choose and configure the right agent harness or orchestrator
+    for each job, and build multi-agent patterns
+    (planner/executor, specialized sub-agents) where they
+    genuinely help.
+  - Stand up Extend's evaluation practice for agents and skills:
+    golden datasets, regression suites, LLM-as-judge, tracing,
+    and drift detection. Every shipped skill should have a way
+    to prove it works and to notice when it stops working.
+  - Build and curate the shared library of agent skills every
+    team composes from. Codify patterns and raise the floor
+    for what a safe, high-quality skill looks like. Treat
+    every engagement as a source of reusable skills and
+    connectors.
+  - Design credential scoping and vending for agent connectors:
+    per-user, per-skill, per-connector keys, OAuth/OIDC where
+    it fits, least-privilege everywhere.
+  - Build the risk-tier and review model for shared skills,
+    including sandboxing and dependency scanning for skills
+    that pull in untrusted packages. Partner with legal,
+    security, and privacy on governance review for agents that
+    touch sensitive data or take autonomous actions.
+  - Instrument the platform end to end with OpenTelemetry so
+    every MCP call, skill execution, and credential use is
+    visible in Coralogix.
+  - Own adoption. Write self-serve guides, onboard teams, and
+    run the feedback loop between what shipped and what users
+    actually need. The work is done when the team using it is
+    self-sufficient.
+  - Mentor more junior engineers on the team in evals, agent
+    design, and secure integration work.
+
+  What We're Looking For
+
+  - 5+ years shipping production systems, and you can point to
+    where they held, where they broke, and what you changed.
+  - Proficient in TypeScript/Node, Python, or Rust.
+  - Hands-on experience building with MCP and at least one agent
+    framework or harness (Claude Code, OpenAI Agents SDK,
+    LangChain/LangGraph, CrewAI, AutoGen, Google ADK).
+    Familiarity with A2A or other agent interoperability
+    protocols.
+  - Experience designing and running evals for LLM or agent
+    systems, and using the results to make shipping decisions.
+  - You can build real third-party integrations: OAuth flows,
+    credential scoping, webhooks, pagination, rate limiting,
+    retries.
+  - You've built developer tooling, platforms, or internal tools
+    that other people depended on, and you measure that work
+    by adoption.
+  - You can work directly with non-technical stakeholders: run a
+    working session, challenge assumptions constructively, and
+    explain trade-offs in plain language.
+  - Comfortable on AWS (Lambda, API Gateway, DynamoDB, S3) with
+    solid security fundamentals: IAM, KMS, serverless attack
+    patterns.
+  - Familiarity with AI governance and legal or privacy review
+    processes, including risks around data access,
+    permissions, tool use, and autonomous actions.
+  - You use AI tooling every day and have opinions about what
+    works.
+
+  Nice to Have
+
+  - Eval and observability tooling: LangSmith, Langfuse,
+    Braintrust, OpenTelemetry, Coralogix, Datadog.
+  - LLM application security: OWASP Top 10 for LLMs and agentic
+    applications, prompt injection defense, agent sandboxing.
+  - AWS CDK, CloudFormation, or similar infrastructure-as-code.
+  - Background in platform engineering, internal developer
+    platforms, or enterprise integration.
+  - Prior IC role at an early-stage startup with a small team
+    and a wide surface area.
+
+  Expected Pay Range: $155,000 - $170,000 per year salaried*
+
+  * The target base salary range for this position is listed
+  above. Individual salaries are determined based on a number
+  of factors including, but not limited to, job-related
+  knowledge, skills and experience.
+
+  Extend does not provide immigration-related sponsorship for
+  this role.
+
+  Life at Extend:
+
+  - Working with a great team from diverse backgrounds in a
+    collaborative and supportive environment.
+  - Competitive salary based on experience, with full medical
+    and dental & vision benefits.
+  - Stock in an early-stage startup growing quickly.
+  - Generous, flexible paid time off policy.
+  - 401(k) with Financial Guidance from Morgan Stanley.
+
+  Extend CCPA HR Notice
+industries:
+  - eCommerce
+  - Insurance
+  - Software
+posted_date: 2026-11-20
+url: "https://builtin.com/job/senior-ai-software-engineer-ai-enablement/12358190"
+source: Built In

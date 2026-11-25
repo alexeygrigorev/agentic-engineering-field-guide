@@ -1,0 +1,233 @@
+job_id: 12337283
+title: Cloud Engineering Team Manager
+company: Pearson
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 29,811 Employees
+description: |
+  About Us
+
+  We are the world’s learning company, with over 24,000
+  employees operating in 70 countries. We combine world-class
+  educational content and assessment, powered by services and
+  technology, to enable more effective teaching and
+  personalized learning at scale. Within Pearson VUE, our
+  Cloud & Platform Engineering team designs, builds, and
+  operates the cloud foundation that powers secure, high-
+  stakes test delivery for millions of candidates worldwide.
+  We believe that wherever learning flourishes, so do people.
+
+  About the Role
+
+  We are looking for an experienced Cloud Engineering Manager
+  to lead our Cloud & Platform Engineering team. In this
+  hands-on and managerial role, you will design, build, and
+  operate the enterprise Azure platform and shared services
+  that our product and delivery teams build on — spanning our
+  assessment delivery, exam development, product lines.
+
+  You will use Infrastructure as Code, automation, and
+  platform engineering practices to improve the security,
+  consistency, reliability, and developer experience of our
+  cloud estate, which operates under rigorous security and
+  compliance requirements. This role manages a highly
+  technical, engineering-focused team that combines cloud
+  platform development, automation, security and governance,
+  and site reliability with a focus on automation and AI Ops.
+  You will also participate in an on-call rotation supporting
+  business-critical cloud services.
+
+  What You’ll Do
+
+  Cloud & Platform Engineering
+
+  - Design, build, and operate shared cloud platform services on
+    Microsoft Azure that product teams consume for
+    provisioning, deployment, and day-to-day operations.
+  - Develop reusable platform capabilities, modules, templates,
+    and pipelines — that accelerate secure, self-service cloud
+    adoption.
+  - Design and manage enterprise cloud networking and
+    connectivity, including hub-and-spoke topologies, next-
+    generation firewalls, DNS, VPN, peering, and secure
+    administrative access.
+  - Build and operate Azure Kubernetes Service (AKS) clusters
+    and Helm-based application delivery for shared platform
+    and product workloads.
+  - Provision and manage Azure PaaS and data services, including
+    Key Vault, Storage, Azure SQL and MySQL, Cosmos DB, Redis,
+    and Event Hub, with private, secure connectivity.
+  - Manage secure ingress and content delivery services,
+    including Application Gateway/WAF, Azure Front Door, API
+    Management, and CDN.
+  - Maintain golden VM images and hardened infrastructure
+    baselines.
+
+
+
+  Infrastructure as Code & Automation
+
+  - Build and maintain Terraform-based provisioning frameworks
+    and shared modules.
+  - Develop automation with Ansible, Python, PowerShell, Bash,
+    and cloud-native APIs.
+  - Create and maintain CI/CD pipelines using GitOps practices,
+    and help modernize tooling (including migrating pipelines
+    from Azure DevOps to GitHub).
+  - Drive modernization through an automation-first approach
+    that reduces manual operations.
+
+
+
+  Security, Governance & Compliance
+
+  - Design and manage identity and access using Microsoft Entra
+    ID, including role-based access control, Privileged
+    Identity Management (PIM), Conditional Access, and
+    phishing-resistant MFA.
+  - Own certificate and PKI services, including internal/private
+    certificate authorities, cert-manager, certificate
+    issuance, rotation, and trust distribution, and Azure Key
+    Vault.
+  - Translate security and compliance requirements into cloud-
+    native guardrails and standards, and support audit and
+    compliance programs such as PCI DSS and FedRAMP.
+  - Harden Windows and Linux baselines to CIS/STIG benchmarks
+    and remediate vulnerability and penetration-test findings.
+  - Improve cloud security posture using tooling such as Cloud
+    Security Posture Management (CSPM) and continuous
+    compliance monitoring, partnering with Security and
+    Architecture teams on least-privilege, audit-ready access
+    models.
+
+
+
+  Reliability & Operations
+
+  - Operate and support business-critical cloud platform
+    services and participate in an on-call rotation.
+  - Implement robust observability, monitoring, logging,
+    alerting, and dashboard, across the platform.
+  - Lead incident response, root-cause analysis, and
+    remediation, and drive reliability and performance
+    improvements.
+  - Own patch orchestration and vulnerability remediation across
+    Windows and Linux fleets.
+  - Support release and change management, including outage-less
+    deployment patterns such as blue/green and rolling
+    deployments.
+  - Partner with FinOps to identify and implement cloud cost-
+    optimization opportunities.
+
+
+
+  Technical Leadership
+
+  - Act as a subject-matter expert for Azure cloud and platform
+    engineering.
+  - Provide code reviews and quality assurance on team members’
+    automation and infrastructure work.
+  - Mentor engineers and contribute to engineering standards and
+    best practices.
+  - Participate in agile ceremonies and contribute stories and
+    defects to the team’s backlog.
+  - Explore and apply AI-assisted and agentic tooling to
+    streamline cloud operations, troubleshooting, and
+    documentation.
+
+
+
+  Required Knowledge & Experience
+
+  - Bachelor’s degree in computer science or a related field, or
+    equivalent practical experience.
+  - 10+ years in Cloud Engineering, Platform Engineering,
+    DevOps, SRE, or Infrastructure Engineering.
+  - 7+ years of hands-on experience with Microsoft Azure cloud
+    services and architecture.
+  - 7+ years building Infrastructure as Code, with strong hands-
+    on Terraform experience.
+  - 5+ Years experience managing cloud engineering teams.
+  - Strong experience automating infrastructure with Ansible and
+    scripting in Python, PowerShell, and/or Bash.
+  - Hands-on experience with Kubernetes (ideally AKS) and Helm.
+  - Experience with CI/CD pipelines and GitOps practices (Azure
+    DevOps, GitHub, GitHub Actions).
+  - Solid understanding of cloud networking, security, identity,
+    and governance.
+  - Experience with Windows and Linux operating system
+    configuration, automation, and management
+  - Experience with patch orchestration and vulnerability
+    remediation.
+  - Excellent written and verbal communication, technical
+    analysis, and problem-solving skills.
+  - Ability to learn new technologies quickly and work
+    effectively in a collaborative, agile team.
+
+
+
+  Preferred Knowledge & Experience
+
+  - Azure identity and governance tooling (Entra ID, PIM,
+    Conditional Access)
+  - Certificate and PKI management, including private
+    certificate authorities, cert-manager, and certificate
+    automation.
+  - Azure PaaS and data services (e.g. Key Vault, Storage,
+    Cosmos DB, Azure SQL/MySQL, Redis, Event Hub, Data
+    Factory).
+  - Azure API Management, Application Gateway/WAF, Azure Front
+    Door, and CDN (including Akamai or Cloudflare).
+  - Enterprise networking with next-generation firewalls (e.g.,
+    Fortinet) in hub-and-spoke topologies.
+  - Compliance and hardening experience, PCI DSS, FedRAMP,
+    CIS/STIG benchmarks, and penetration-test remediation.
+  - Cloud cost management / FinOps.
+  - Observability and analytics tooling such as New Relic,
+    Zabbix, Grafana, or Splunk.
+  - Cloud Security Posture Management (e.g., Wiz) and Microsoft
+    Defender for Cloud.
+  - Container tooling and image build automation (Docker, Azure
+    Container Registry, Packer), and build/CI platforms such
+    as GitHub Actions or TeamCity.
+  - Cloud-based high availability and disaster recovery design.
+  - Cross-cloud identity federation and workload identity (e.g.,
+    OIDC to AWS) and exposure to multi-cloud environments.
+  - Internal developer platform (IDP) or Cloud Center of
+    Excellence (CCoE) practices.
+  - Interest in applying AI-powered operational tooling or
+    agentic automation, and supporting emerging AI/ML
+    workloads.
+
+
+
+  What Success Looks Like
+
+  - Increased automation and a measurable reduction in manual
+    cloud operations.
+  - Improved cloud security, compliance, and governance posture.
+  - Faster, more consistent onboarding, provisioning, and
+    deployments for product teams.
+  - An enhanced developer experience through reusable, self-
+    service platform services.
+  - Scalable, reliable, and secure Azure operations that support
+    high-stakes test delivery.
+
+  Compensation at Pearson is influenced by factors including
+  skill set, experience, and location.
+
+  The full-time salary range for this role is $170,000 –
+  $200,000. This position is eligible to participate in an
+  annual incentive program. Information on benefits can be
+  found here.
+
+  Applications will be accepted through 27th November 2026.
+  This window may be extended depending on business needs.
+
+  Apply today and imagine the impact you can make.  #LI-P1
+
+  #LI-Remote
+posted_date: 2026-11-19
+url: "https://builtin.com/job/cloud-engineering-team-manager/12337283"
+source: Built In

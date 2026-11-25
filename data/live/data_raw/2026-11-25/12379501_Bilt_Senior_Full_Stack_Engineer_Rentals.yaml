@@ -1,0 +1,162 @@
+job_id: 12379501
+title: Senior Full Stack Engineer (Rentals)
+company: Bilt
+location: New York, USA
+work_type: FULL_TIME
+company_size: 200 Employees
+description: |
+  What is Bilt?
+
+  Bilt is the membership for where you live.
+
+  What started as a way to reward people on their largest
+  expense has turned into an ecosystem connecting our members,
+  property managers and local merchants.
+
+  Travel, dining, fitness, everyday spend. We are building
+  systems across payments, credit, loyalty, and commerce all
+  at once.
+
+  We run lean and move quickly. Every person here has a real
+  impact on what gets built and how fast it happens.
+
+  This role comes with real ownership and high expectations.
+  If you prefer clearly defined lanes and structure, this will
+  feel uncomfortable. If you want to build quickly, have a
+  real say in what gets built, and work on products used by
+  millions, you will likely do your best work here.
+
+  What's the role?
+
+  The Rentals team builds the property platform connecting
+  residents, property managers, and the systems they rely on
+  across millions of users and billions of dollars worth of
+  transactions each month. Our work spans rent payments,
+  property-management integrations, home search and
+  applications, resident experiences, and building access.
+
+  The work combines visible product development with demanding
+  systems engineering: keeping data accurate across third-
+  party platforms, making workflows recover safely from
+  failures, and scaling systems that people depend on to
+  manage their homes. You’ll work directly with product,
+  account managers, and property partners, turn real
+  operational problems into software, and own what you ship in
+  production.
+
+  You don’t need to arrive knowing every part of our stack but
+  we value engineers who can navigate ambiguity, make sound
+  trade-offs, and learn unfamiliar systems.
+
+  In this role you will:
+
+  - Own projects from customer problem to production, working
+    directly with product, sales, account managers, and
+    property partners.
+  - Build reliable rent-payment workflows that handle retries,
+    partial failures, and reconciliation across external
+    systems.
+  - Integrate new property-management platforms and keep
+    property, resident, lease, and ledger data accurate as
+    those systems change.
+  - Ship complete products across property-manager tools and
+    resident web/mobile experiences, from home search and
+    applications to building access.
+  - Scale ingestion and distributed workflows while improving
+    correctness, observability, and recovery—not just
+    throughput.
+  - Build AI-assisted engineering tools that shorten the path
+    from a customer problem to a safely shipped fix.
+
+  Our stack: Go and Java; Postgres, Redis, and MongoDB; React
+  and Next.js for web; React Native for mobile.
+
+  In terms of qualifications, we're seeking:
+
+  - 6+ years building and operating software in production, with
+    substantial backend experience
+  - Experience owning ambiguous problems from inception to
+    production, working across engineering, product, and
+    business teams.
+  - Fluency in:
+    - at least one core backend language like Java or Go
+    - Javascript or Typescript along with UI framework like React
+      or Vue
+  - Solid distributed systems fundamentals (async processing,
+    pub/sub, idempotency, retries, caching), and you debug
+    across services with logs, traces, and metrics
+  - Excellent communication skills: you will be talking with
+    executives, property managers, sales and account managers
+  - Experience with at least one cloud provider (like AWS or
+    Google Cloud)
+  - Used AI coding agents effectively and take responsibility
+    for validating the code they produce
+
+  Bonus:
+
+  - Built systems that move real money—such as payment
+    applications or automated trading systems—with safeguards,
+    monitoring, and recovery mechanisms.
+  - Experience with authentication, authorization mechanisms
+    (especially OpenFGA) and identity (OAuth, SAML, etc.)
+  - Built and maintained applications in Google Cloud
+  - Polyglot: you know many different languages and paradigms
+    and you’re learning constantly
+
+  Benefits:
+
+  - Compensation - We offer a competitive salary with a
+    meaningful stake in the company via equity and our
+    performance bonus program
+  - Health insurance for you (& your loved ones) from day one -
+    Enjoy a One Medical Membership, wellness stipends, family
+    programs and more, on us. We’ve got you and your family
+    covered from day one.
+  - 401k plan with a match - Retirement may feel more like a
+    pipe dream than a reality but we’re here to help you get
+    there.
+  - Commuter FSAs - We believe the best ideas come from being
+    together in one place. We just don’t think getting there
+    should be so expensive.
+  - UNLIMITED PTO - Because we believe that working hard
+    shouldn’t mean always working. Take time for you as often
+    as you need it.
+  - Exclusive Employee only Bilt Points - We give our employees
+    unique opportunities to earn points throughout their time
+    at Bilt.
+
+  At Bilt Rewards, we believe in transparency and we do our
+  best to make sure the company and our candidates are on the
+  same page as it relates to compensation. In addition to
+  posting salary ranges for our open roles, candidates should
+  expect to be asked about compensation expectations and
+  requirements early on in their interview process. Our goal
+  is to highlight when expectations and Bilt’s salary range
+  may be out of sync, and work with the candidate to determine
+  whether it makes sense to continue conversations.
+
+  We are considering candidates with differing levels of
+  expertise for this position. Leveling will be based upon
+  your experience and performance in the interview process.
+
+  Where a new hire falls within a range will be based on their
+  individual skills and experience, and how these competencies
+  compare across other employees in the same role. Bilt's
+  bands are designed to allow for individual compensation
+  growth within the role. As such, new hires typically start
+  at the lower end of the range. Bilt rewards performance and
+  outcomes - should you join the company, you will have the
+  opportunity to grow your salary over time.
+
+  The salary range for a Senior Full Stack Engineer is
+  $175,000-$250,000 and will be eligible for equity and an
+  annual performance-based bonus.
+industries:
+  - Fintech
+  - Mobile
+  - Real Estate
+  - Financial Services
+  - PropTech
+posted_date: 2026-11-20
+url: "https://builtin.com/job/senior-full-stack-engineer-rentals/12379501"
+source: Built In

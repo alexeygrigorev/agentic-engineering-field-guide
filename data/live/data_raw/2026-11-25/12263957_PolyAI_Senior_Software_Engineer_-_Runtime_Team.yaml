@@ -1,0 +1,186 @@
+job_id: 12263957
+title: Senior Software Engineer - Runtime Team
+company: PolyAI
+location: London, GBR
+work_type: FULL_TIME
+company_size: 250 Employees
+description: |
+  PolyAI is the Agentic Dialog Platform for building the
+  conversational enterprise, used to build, run, govern, and
+  improve dialog agents at scale. Powered by Raven, a
+  proprietary dialog model trained on more than a billion
+  enterprise conversations, PolyAI agents are built for
+  complexity, open at every layer, and sovereign by design.
+  PolyAI serves hundreds of enterprises across 75 languages
+  and 25 countries, including Metro Bank, Marriott, PG&E, and
+  UniCredit.
+
+  We're looking for a Senior Software Engineer to join the
+  Runtime team at PolyAI.  This team owns the core voice
+  infrastructure that powers every call our AI agents handle -
+  from the moment a phone rings to the moment it hangs up.
+
+  You'll work across the full real-time voice stack:
+  telephony, real-time audio streaming and media handling,
+  speech recognition and synthesis integration, LLM
+  orchestration, turn-taking and voice activity detection,
+  call recording, and the data pipeline that captures it all.
+  We operate across AWS and Azure, serving enterprise
+  customers at scale across multiple global regions.
+
+  What You'll Do:
+
+  - Design and build features across the voice runtime - from
+    new integrations with third-party contact centre
+    platforms, to improving how our agents handle
+    interruptions and overlapping speech, to scaling our
+    infrastructure for higher call volumes.
+  - Own services end-to-end: write code, review PRs from across
+    the company, deploy to production, and support what you
+    ship.
+  - Debug complex, cross-service issues in production - the kind
+    where a timing problem involves VAD thresholds, ASR
+    transcription windows, LLM response latency, and audio
+    playback all interacting at once.
+  - Contribute to architecture decisions and design documents.
+    The team has strong thought leadership on stateful vs
+    stateless service boundaries, API design, and where
+    responsibilities should live.
+  - Collaborate with product facing teams who build on top of
+    the runtime - helping them understand configuration,
+    troubleshooting call behaviour, and unblocking their work.
+  - Improve the developer experience: better defaults, less
+    reliance on opaque config, more features controllable
+    through the UI, and better test coverage.
+
+  What We're Looking For
+
+  Must have:
+
+  - 4+ years of commercial software development experience.
+  - Strong experience with real-time or latency-sensitive
+    systems: streaming, media pipelines, networking, or
+    similar domains where milliseconds matter.
+  - Solid understanding of distributed systems: gRPC, state
+    management across services, connection error recovery, and
+    working with systems that must not drop calls.
+  - Experience with cloud infrastructure on AWS (EKS/Kubernetes,
+    Lambda, S3, DynamoDB, Redis) - comfortable deploying
+    containerised services and debugging infrastructure-level
+    issues.
+  - Strong written communication - design docs, PR reviews, and
+    async debugging are core to how the team works.
+
+  Strong plus:
+
+  - Experience with speech technologies: ASR, TTS, VAD, or end-
+    of-turn detection — either integrating them or working on
+    the systems around them.
+  - Experience with Go - this is the primary language for our
+    voice services. Most engineers on the team work across
+    both Go and Python.
+  - Experience with Python - parts of our LLM orchestration
+    layer, serverless function runtime, and data pipeline are
+    Python.
+  - Prior work on LLM orchestration or agent frameworks: tool
+    calling, function execution, prompt management, context
+    window management, or conversation state machines.
+  - Experience with data pipeline technologies: Kafka,
+    ClickHouse, S3-based event stores, or similar.
+  - Experience with observability at scale: Datadog, structured
+    logging, SLO/SLI definition, and using metrics to drive
+    reliability improvements.
+  - Multi-cloud experience (Azure in addition to AWS).
+  - Familiarity with VoIP/telephony (SIP, RTP) or WebRTC
+    (STUN/TURN/ICE, media negotiation).
+
+
+
+  Benefits
+
+  💰 Participation in the company’s employee share options plan
+
+  🏝 Tenure-Based PTO: You will receive 25 holidays when you
+  join and will gain an additional 1 day after 2 years of
+  service, then 1 day each year until capped at 32 holidays
+
+  🏡 Flexible working from home policy
+
+  🌎 Work from outside of the UK for up to 6 months each year
+
+  🫂TELUS Health EAP 24/7 - offers you and your chosen family
+  confidential, judgment-free support for any work, health, or
+  life challenge
+
+  🧡 Enhanced parental leave
+
+  🚲 Bike2Work scheme
+
+  📚 Annual learning and development allowance
+
+  🏡 We’re all about making WFH work for you - that’s why we
+  offer a one-off WFH allowance when you join. Offering perks
+  like noise-cancelling headphones or a comfortable desk chair
+  to boost your comfort and focus!
+
+  👨‍👩‍👧 Company-funded fertility and family-forming programmes
+
+  🌸 Menopause care programme with Maven
+
+  🏥 Private healthcare and dental cover, discounts on gym
+  members and relaxation apps, and access to a range of mental
+  health programs
+
+  🌎 Sabbatical Program: 5-week paid sabbatical available after
+  5 years of employment
+
+  At PolyAI, we take great pride in our values - they guide
+  everything we do. We believe that a strong culture leads to
+  meaningful work and lasting impact.
+
+  Our core values are:
+
+  Only the best We expect the best from our people, we hire
+  people that expect the best from themselves, and we nurture
+  this drive for excellence.
+
+  Ownership We care deeply about what we do. We take ownership
+  of our initiatives, decisions and outcomes.
+
+  Relentlessly improve We demand more from ourselves and are
+  always evolving. Continuous, obsessive improvement is the
+  only way we will transform the world of conversational AI.
+
+  Bias for action Our world moves quickly and so do we. We
+  take calculated risks and we deliver impact fast.
+
+  Disagree and commit We are all working toward the same goal.
+  If we donʼt agree with something, we work hard to understand
+  it and when a decision is made, we accept it and give it our
+  all.
+
+  Build for people We want the world to enjoy the experiences
+  they have with us. We are building for a future that prefers
+  automation.
+
+  PolyAI is proud to be an equal-opportunity employer. We
+  celebrate diversity and are committed to creating an
+  inclusive environment for all employees. All employment
+  decisions at PolyAI will be based on the business needs
+  without attention to ethnicity, religion, sexual
+  orientation, gender identity, family or parental status,
+  national origin, neurodiversity status or disability status.
+
+  Kindly find the Privacy Notice for our recruitment process
+  by following the link here. This document provides important
+  information regarding how we handle your personal data
+  throughout the recruitment journey.
+industries:
+  - Artificial Intelligence
+  - Natural Language Processing
+  - Software
+  - Conversational AI
+  - Generative AI
+posted_date: 2026-11-16
+url: "https://builtin.com/job/senior-software-engineer-runtime-team/12263957"
+source: Built In

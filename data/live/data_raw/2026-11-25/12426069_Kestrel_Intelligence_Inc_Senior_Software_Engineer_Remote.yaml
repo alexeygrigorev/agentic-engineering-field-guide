@@ -1,0 +1,90 @@
+job_id: 12426069
+title: Senior Software Engineer (Remote)
+company: Kestrel Intelligence, Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 14 Employees
+description: |
+  The Mission At Kestrel, we are building the future of
+  scalable autonomy across domains. Our systems enable
+  commercial and national security customers to sense and act
+  in support of complex missions without significant
+  autonomous system expertise. This technology bridges domains
+  (e.g., space, air, land, sea) and fields (e.g., AI, orbital
+  dynamics, geospatial), so it requires a team with both
+  breadth and depth in these related topics.
+
+  The Role As a Senior Software Engineer at Kestrel, you will
+  lead the design and development of data structures, data
+  processing pipelines, APIs, components of an agentic AI
+  architecture, and user interface components. You will set
+  technical direction, make key architecture decisions, and
+  raise the engineering bar across the team. You will work at
+  the bleeding edge of geospatial science. This role requires
+  adaptability, engineering rigor, and a deep respect for the
+  mission.
+
+  Core Responsibilities:
+
+  - Design, build, and maintain production-grade Python APIs and
+    services that support distributed, service-oriented
+    systems.
+  - Architect and implement scalable data processing pipelines
+    for geospatial and sensor data.
+  - Develop and integrate components of Kestrel’s agentic AI
+    architecture.
+  - Lead the deployment of Python-based services to cloud
+    environments, and design supporting infrastructure using
+    Terraform.
+  - Design and maintain CI/CD pipelines using GitHub Actions.
+  - Establish engineering and infrastructure best practices from
+    the ground up, including environment separation (dev,
+    staging, prod), secure networking, IAM, secrets
+    management, logging, monitoring, and alerting.
+  - Apply prior AWS GovCloud and DoD IL experience to build
+    compliance-ready systems and to make architecture choices
+    that will not block future government deployments.
+  - Design software and deployment patterns that support multi-
+    cloud environments, such as cloud-agnostic Terraform
+    modules, minimal provider lock-in for core services, and
+    future deployments across commercial cloud and GovCloud.
+  - Plan and advise on future AWS GovCloud and DoD IL
+    deployments, even when those environments are not yet
+    live.
+  - Identify and mitigate technical, infrastructure, and
+    compliance risks early.
+  - Mentor other engineers, lead code reviews, and help shape
+    the team’s technical roadmap.
+
+  Required Qualifications:
+
+  - 7+ years of professional software engineering experience,
+    with a track record of shipping production systems.
+  - Strong experience with API development and distributed or
+    service-oriented systems.
+  - Experience designing large-scale software and infrastructure
+    architecture.
+
+  Bonus:
+
+  - Prior experience designing or operating multi-cloud
+    environments.
+  - Experience with geospatial data, agentic AI systems, or
+    frontend development.
+  - Location near Colorado Springs, CO, or Washington, DC (with
+    work at customer sites in Crystal City, VA, and Herndon,
+    VA).
+  - Active Top Secret // Sensitive Compartmented Information
+    (TS//SCI) clearance with a counterintelligence-scope
+    polygraph (CSP) or full-scope polygraph (FSP).
+
+  Must be a US Citizen.
+industries:
+  - Aerospace
+  - Artificial Intelligence
+  - Autonomous Systems
+  - Defense Technology
+posted_date: 2026-11-24
+url: "https://builtin.com/job/senior-software-engineer-remote/12426069"
+source: Built In

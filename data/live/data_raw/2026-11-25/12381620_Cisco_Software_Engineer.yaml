@@ -1,0 +1,164 @@
+job_id: 12381620
+title: Software Engineer
+company: Cisco
+location: London, GBR
+work_type: FULL_TIME
+company_size: 77,500 Employees
+description: |
+  Meet the Team
+
+  As a Software Engineer SRE at Cisco, you will operate as an
+  experienced engineering professional responsible for driving
+  the reliability, availability, scalability, and performance
+  of Cisco’s global collaboration cloud infrastructure.
+  Operating with high autonomy within an agile SRE pod, you
+  will determine the best technical approaches to solve
+  operational challenges, build automated platforms to
+  eliminate toil, lead high-severity incident investigations
+  and blameless post-mortems, and mentor developing engineers
+  across the organization.
+
+  Your Impact
+
+  • Software Delivery & Automated Operations: Design, write,
+  and maintain production-grade software (in Java, Python, or
+  Go) to enable zero-downtime deployments, automated canary
+  rollouts, and self-healing cloud infrastructure. Build
+  resilient APIs, microservices, and internal developer
+  tooling to support broader service outcomes and eliminate
+  repetitive operational toil.
+
+  • Telemetry & Real-Time Data Pipeline Architecture: Manage,
+  scale, and optimize distributed streaming and telemetry
+  platforms powered by Apache Kafka (and Kafka Streams),
+  Apache Flink, and ClickHouse. Design end-to-end telemetry
+  pipelines to ensure sub-second alerting and high-throughput
+  ingestion of platform health metrics.
+
+  • Infrastructure as Code & Cloud Orchestration: Architect
+  and maintain multi-region containerized infrastructure using
+  Docker, Kubernetes (K8s), Helm, Terraform, and AWS. Code in
+  multiple languages across varied infrastructure environments
+  to optimize regional service delivery and ensure high fault
+  tolerance.
+
+  • Incident Management, Post-Mortems & On-Call Leadership:
+  Serve as an experienced member in the Tier-3/4 on-call
+  rotation for mission-critical collaboration services. Lead
+  blameless post-mortems, perform deep-dive Root Cause
+  Analyses (RCAs), and track corrective preventative actions
+  across development and operations teams.
+
+  • Scale, High Availability & Resiliency Engineering: Design,
+  implement, and validate High Availability (HA) and Disaster
+  Recovery (DR) strategies to systematically identify and
+  eliminate Single Points of Failure (SPOFs). Conduct capacity
+  modeling, load testing, and chaos engineering exercises to
+  gauge system limits ahead of peak demand.
+
+  • Platform Visibility & Monitoring Tooling: Design and
+  implement advanced monitoring and observability frameworks
+  (Prometheus, Grafana, OpenTelemetry, Splunk, ELK) that
+  provide deep visibility into service health, latency, and
+  SLO adherence.
+
+  • Security, Governance & Mentorship: Incorporate security
+  design inputs into architectural reviews, maintain cluster
+  compliance, and actively support security incident response.
+  Act as a technical mentor and resource for junior and
+  developing engineers
+
+  Minimum Qualifications
+
+  • Education & Experience: Bachelor’s degree in Computer
+  Science, Software Engineering, Electrical Engineering, or
+  related technical field with 5+ years of related industry
+  experience, OR Master’s degree with 3+ years of related
+  industry experience, OR PhD in Computer Science or related
+  field with 0+ years of experience, OR 8+ years of equivalent
+  relevant professional software / systems engineering
+  experience.
+
+  • Software Engineering: Demonstrated hands-on experience
+  designing, developing, and debugging production-grade
+  software in Java (plus proficiency in Python or Go).
+
+  • Observability & Incident Leadership: Proven experience
+  configuring observability frameworks (Prometheus, Grafana,
+  Splunk, OpenTelemetry), diagnosing production degradations,
+  and leading Root Cause Analysis (RCA) investigations and
+  post-mortems.
+
+  • Systems & Operational Acumen: Strong practical
+  understanding of distributed systems architecture,
+  Linux/Unix internals, CI/CD automation, and site reliability
+  engineering best practices (SLOs, error budgets, toil
+  reduction).
+
+  • Autonomy & Mentorship: Demonstrated ability to work
+  independently, determine the best technical approach to
+  accomplish project goals, and act as a mentor for less
+  experienced engineers.
+
+  Preferred Qualifications
+
+  • Distributed Streaming & Data Infrastructure: Proven
+  practical experience operating, scaling, or developing
+  against distributed streaming systems (Apache Kafka, Kafka
+  Streams, Apache Flink, or ClickHouse).
+
+  • Container Orchestration & Cloud: Strong hands-on
+  proficiency with Kubernetes (K8s), Docker,
+  Terraform/Ansible, and public/private cloud environments
+  (AWS).
+
+  • Professional Certifications: Professional-level
+  certification such as Certified Kubernetes Administrator
+  (CKA), Certified Kubernetes Security Specialist (CKS), AWS
+  Solutions Architect, or CCNP.
+
+  • Datastores & Caching: Experience designing and operating
+  distributed databases, caching layers (Redis), or vector
+  databases.
+
+  • AIOps & Tooling: Familiarity with AIOps frameworks,
+  automated anomaly detection, or AI-assisted development
+  tools (e.g., Claude, Kosmos, Codex).
+
+  • Networking Protocols: Deep understanding of high-
+  throughput networking protocols (TCP/IP, gRPC, HTTP/2,
+  WebSockets, SIP, and TLS termination).
+
+  • Resiliency & Chaos Engineering: Track record of executing
+  chaos engineering drills and disaster recovery automation
+  across multi-cloud or hybrid-cloud regions.
+
+  Why Cisco?
+
+  At Cisco, we’re revolutionizing how data and infrastructure
+  connect and protect organizations in the AI era – and
+  beyond. We’ve been innovating fearlessly for 40 years to
+  create solutions that power how humans and technology work
+  together across the physical and digital worlds. These
+  solutions provide customers with unparalleled security,
+  visibility, and insights across the entire digital
+  footprint.
+
+  Fueled by the depth and breadth of our technology, we
+  experiment and create meaningful solutions. Add to that our
+  worldwide network of doers and experts, and you’ll see that
+  the opportunities to grow and build are limitless. We work
+  as a team, collaborating with empathy to make really big
+  things happen on a global scale. Because our solutions are
+  everywhere, our impact is everywhere.
+
+  We are Cisco, and our power starts with you.
+industries:
+  - Cloud
+  - Information Technology
+  - Internet of Things
+  - Professional Services
+  - Software
+posted_date: 2026-11-20
+url: "https://builtin.com/job/software-engineer/12381620"
+source: Built In

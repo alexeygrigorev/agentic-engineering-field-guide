@@ -1,0 +1,234 @@
+job_id: 12376393
+title: Engineering Manager, Infrastructure Software
+company: Lightning AI
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 50 Employees
+description: |
+  Who We Are
+
+  Lightning AI is the company behind PyTorch Lightning.
+  Founded in 2019, we build an end-to-end platform for
+  developing, training, and deploying AI systems—designed to
+  take ideas from research to production with less friction.
+
+  Through our merger with Voltage Park, a neocloud and AI
+  Factory, Lightning AI combines developer-first software with
+  cost-efficient, large-scale compute. Teams get the tools
+  they need for experimentation, training, and production
+  inference, with security, observability, and control built
+  in.
+
+  We serve solo researchers, startups, and large enterprises.
+  Lightning AI operates globally with offices in New York
+  City, San Francisco, Seattle, and London, and is backed by
+  Coatue, Index Ventures, Bain Capital Ventures, and
+  Firstminute.
+
+  The Way We Work
+
+  The people who thrive here are builders who move fast,
+  communicate openly, take ownership, and continuously improve
+  themselves, their teams, and our company. Here's what that
+  looks like in practice:
+
+  - Move with Urgency: We move quickly, make thoughtful
+    decisions, and keep momentum. We value action over
+    perfection and learn by shipping.
+  - Take Ownership: We own outcomes, not just our individual
+    work. We make decisions that move the company forward and
+    follow through.
+  - Communicate Openly: We communicate directly, seek to
+    understand, and create clarity for others. Honest
+    conversations help us move faster together.
+  - Build Great Teams: We lead by example, empower others, and
+    create healthy teams where people can do their best work.
+  - Raise the Bar: We're always improving ourselves. We learn
+    from feedback, consistently challenge ourselves to grow,
+    and focus on the work that matters most.
+  - Think Long-Term: We design for what's next. We create
+    scalable systems, simplify complexity, and use AI and
+    automation to amplify our impact.
+
+
+
+  About the Role
+
+  Lightning AI is seeking an Engineering Manager,
+  Infrastructure Software to lead a team of engineers building
+  the software systems that operate and manage our large-scale
+  GPU and bare-metal infrastructure.
+
+  The Infrastructure Software Engineering team develops
+  production services, APIs, and automation that support the
+  full infrastructure lifecycle, from provisioning and bring-
+  up through monitoring, maintenance, and decommissioning.
+  These systems enable engineers and other services to manage
+  thousands of servers, storage systems, and high-performance
+  networks programmatically, improving reliability and
+  reducing manual operations.
+
+  In this role, a key initial priority will be scaling the
+  team through hiring, interviewing, and onboarding new
+  engineers. You'll inherit a highly capable, self-sufficient
+  team, allowing you to focus significant time on recruiting
+  and integrating new talent while providing technical
+  direction, supporting engineer development, and overseeing
+  the delivery of infrastructure software. You'll work closely
+  with engineers across all of Infrastructure Engineering,
+  including Compute, Storage, Infrastructure Operations,
+  Networking, Data Center Operations, and Managed Services.
+
+  This is a software-first engineering management role that
+  combines technical leadership, people management, and cross-
+  functional collaboration. We're looking for someone who can
+  guide architectural decisions, develop engineers, and help
+  the team deliver reliable software as our infrastructure
+  grows.
+
+  This role may be fully remote within the U.S., or hybrid out
+  of one of our office hubs (NYC, SF, Seattle, or London),
+  with occasional team and company offsites. We are not able
+  to provide visa sponsorship for this position at this time.
+
+  What You Will DoEngineering Leadership & Team Development
+
+  - Manage, mentor, and develop a distributed team of
+    infrastructure software engineers, including hiring,
+    onboarding, performance management, and career
+    development.
+  - Establish clear priorities, ownership, and engineering
+    practices that support effective collaboration and
+    execution.
+  - Provide technical guidance while enabling engineers to take
+    ownership of projects and architectural decisions.
+  - Foster a collaborative environment that encourages knowledge
+    sharing, feedback, and continuous improvement.
+
+  Infrastructure Software & Technical Strategy
+
+  - Lead the development of production services, APIs, and
+    automation for managing GPU and bare-metal infrastructure
+    throughout its lifecycle.
+  - Define the team's technical roadmap and guide architectural
+    decisions for infrastructure software and orchestration
+    systems.
+  - Drive improvements to infrastructure provisioning,
+    validation, monitoring, and lifecycle management through
+    scalable software solutions.
+  - Establish standards for software quality, testing,
+    deployment, and operational reliability.
+  - Balance immediate infrastructure needs with longer-term
+    investments in software architecture and maintainability.
+
+  Cross-Functional Collaboration
+
+  - Partner with Compute, Storage, Networking, Infrastructure
+    Operations, and Data Center Operations to translate
+    infrastructure requirements into software solutions.
+  - Collaborate with Managed Services to support integrations
+    between underlying infrastructure systems and customer-
+    facing Kubernetes and Slurm services.
+  - Establish clear technical interfaces and ownership across
+    teams to improve infrastructure operations and reduce
+    manual work.
+  - Communicate engineering priorities, project progress, and
+    technical tradeoffs to stakeholders and leadership.
+
+  Who You AreRequired Qualifications
+
+  - 3+ years experience managing software engineers, including
+    hiring, mentoring, performance management, and career
+    development.
+  - Strong software engineering background building production
+    backend services, APIs, or distributed systems.
+  - Proficiency in Python, Go, or similar backend programming
+    languages, with the ability to guide technical design and
+    architectural decisions.
+  - Experience leading infrastructure software, platform
+    engineering, or automation projects.
+  - Working knowledge of Linux, infrastructure automation, and
+    production systems.
+  - Experience setting technical priorities, delivering
+    engineering projects, and collaborating across teams.
+
+  Preferred Qualifications
+
+  - Experience with bare-metal provisioning, infrastructure
+    orchestration, or hardware lifecycle management.
+  - Experience with GPU infrastructure, GPU cloud platforms, or
+    high-performance computing (HPC).
+  - Familiarity with hardware management technologies such as
+    PXE/iPXE, BMC, Redfish, or IPMI.
+  - Experience designing infrastructure control planes or
+    integrations across compute, networking, and storage
+    systems.
+  - Familiarity with Kubernetes, Slurm, or similar orchestration
+    platforms.
+  - Experience working in a startup or growing engineering
+    organization.
+
+   Compensation
+
+  We are committed to offering competitive compensation that
+  reflects the value each team member brings to our mission.
+  Final offers are based on factors such as experience,
+  skills, geographic location, and role expectations. In
+  addition to base salary, our total rewards package for
+  eligible roles includes a discretionary bonus, a meaningful
+  equity component, and comprehensive benefits.
+
+  The anticipated annual base salary range for this role is:
+
+  $205,000—$310,000 USD
+
+  Benefits and Perks
+
+  We offer a comprehensive and competitive benefits package
+  designed to support our employees’ health, well-being, and
+  long-term success:
+
+  - Comprehensive Health Coverage: Medical, dental, and vision
+    coverage for employees and eligible dependents.
+  - Meaningful Equity: RSUs that give employees a stake in the
+    company's long-term success.
+  - Retirement Savings: 401(k) matching (U.S.) and pension
+    contributions (U.K.).
+  - Flexible Time Off: Unlimited PTO, company holidays, and
+    floating holidays to support work-life balance.
+  - Paid Parental & Family Leave: Paid leave to support you and
+    your family through life's important moments.
+  - Professional Development: Annual learning and development
+    allowance to support your professional growth.
+  - Wellness Benefits: Wellness and work-from-home stipends to
+    support your physical and mental well-being.
+  - Sabbatical Program: Four weeks of paid sabbatical leave
+    after four years of service.
+  - Flexible Work: Flexible schedules and a hybrid work model
+    for our office-based teams.
+  - In-Office Meals: Complimentary meals at our office hubs.
+
+  Benefits may vary by location, team, and role.
+
+  At Lightning AI, we are committed to fostering an inclusive
+  and diverse workplace. We believe that diverse teams drive
+  innovation and create better products. We provide equal
+  employment opportunities to all employees and applicants
+  without regard to race, color, religion, gender, sexual
+  orientation, gender identity, national origin, age,
+  disability, veteran status, or any other protected
+  characteristic. We are dedicated to building a culture where
+  everyone can thrive and contribute to their fullest
+  potential.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Software
+posted_date: 2026-11-20
+url: "https://builtin.com/job/engineering-manager-infrastructure-software/12376393"
+source: Built In

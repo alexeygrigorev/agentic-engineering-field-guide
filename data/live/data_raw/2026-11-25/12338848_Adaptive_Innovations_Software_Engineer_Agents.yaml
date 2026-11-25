@@ -1,0 +1,155 @@
+job_id: 12338848
+title: Software Engineer, Agents
+company: Adaptive Innovations
+location: New York, USA
+work_type: FULL_TIME
+company_size: 84 Employees
+description: |
+  About Us
+
+  We are fixing US healthcare by building an AI-native
+  physical care platform, starting with home health.
+
+  Home health is a $140B industry with less than $10B in
+  EBITDA — 40% of revenue is spent on pure administrative
+  waste. We automate this work with AI, creating a
+  fundamentally different cost structure compared to
+  incumbents. This lets us rapidly take market share by
+  serving the 30% of patients who go untreated today.
+
+  By reshaping the cost structure of this industry, we unlock
+  its growth.
+
+  We’ve built one of the best AI teams in the world (from
+  Character AI, Scale, Palantir, Citadel, Jane Street) and
+  paired them with a team of healthcare veterans and ex-MBB
+  strategists to build a new type of healthcare company: one
+  that delivers care at the speed of an AI company.
+
+  Our physical care platform already operates with 30pp higher
+  gross margins than traditional home health providers. With
+  our AI advantage, we pay nurses more, remove their admin
+  burden, and unlock the scale economics that have been
+  missing from this fragmented industry. If we served this
+  entire $140B market, instead of $10B in EBITDA, we’d drive
+  $60B.
+
+  We're starting with home health, then expanding to all
+  delivered care. Our mission is “any care, any where”.
+
+  Fundamentally, our incentives are aligned with America.
+  Every dollar in revenue we make is two dollars taken out of
+  the healthcare system. If we succeed, so does US healthcare.
+
+  Our Stack
+
+  We build on a modern, production-grade foundation: Python,
+  Django, PostgreSQL, and Redis on the backend, React and
+  TypeScript on the frontend, and AWS, GCP, Docker,
+  Kubernetes, and Temporal for infrastructure. Our AI/ML layer
+  includes Claude and custom LLM integrations, agentic
+  tooling, ambient scribing, and AI form-filling engines. We
+  use Sentry for observability and GitHub with CI/CD pipelines
+  and comprehensive testing frameworks for development.
+
+  About the Role
+
+  We're hiring a Software Engineer, Agents to design and build
+  the AI agents that power our automation platform. You'll
+  work across domains such as intake, clinical documentation,
+  and revenue cycle management, translating real-world
+  processes into scalable, reliable agentic workflows running
+  in production, not prototypes.
+
+  A successful Software Engineer, Agents at Adaptive
+  Innovations is analytical, resourceful, and comfortable
+  working across product, data, and infrastructure layers.
+  You'll have significant ownership and the opportunity to
+  shape both the technical architecture and product outcomes
+  that define how our teams operate.
+
+  Over time, you'll take end-to-end ownership of a domain:
+  setting the technical vision, owning the roadmap, and
+  leading engineering execution from initial build through
+  deployment and continuous iteration.
+
+  Responsibilities
+
+  - Design, build, and deploy AI agents that automate
+    operational workflows across intake, charting, and
+    revenue-cycle operations.
+  - Collaborate closely with the Product team and engineering
+    peers to translate complex operational processes into
+    reliable, scalable technical systems.
+  - Prototype and iterate quickly, validating ideas through
+    production feedback and measurable impact rather than
+    lengthy specs.
+  - Instrument and monitor live systems, tracking metrics like
+    accuracy, latency, and throughput to guide performance
+    improvements.
+  - Ensure quality, reliability, and compliance, embedding
+    observability, audit trails, and HIPAA safeguards into
+    every deployment.
+  - Contribute to shared architecture and technical direction,
+    helping scale our automation platform across multiple
+    operational domains.
+
+  Basic Qualifications
+
+  - Technical Experience: 3+ years of software or product-
+    engineering experience in a high-growth or fast-changing
+    environment.
+  - Engineering Expertise: Strong foundation in backend or full-
+    stack development, including APIs, data modeling, and
+    system design. Familiarity with cloud platforms and
+    technology.
+  - Execution & Delivery: Proven ability to drive product and
+    technical initiatives to completion, making informed
+    trade-off decisions to maximize business value and deliver
+    measurable outcomes.
+  - Collaboration & Communication: Excellent ability to partner
+    effectively with Product and Engineering teams to deliver
+    measurable impact.
+  - Product Mindset: Ability to translate ambiguous requirements
+    into clear, reliable, and scalable technical solutions,
+    incorporating instrumentation and performance monitoring
+    to drive data-informed iteration. Privacy by design,
+    features meet security, privacy, and regulatory standards,
+    including PHI protection.
+  - AI & Data-Driven Systems: Experience working with AI,
+    automation, or data-driven systems, translating model
+    outputs into reliable, production-grade workflows.
+
+  Preferred Qualifications
+
+  - Experience in healthcare technology, workflow automation, or
+    other process-intensive systems.
+  - Familiarity with human-in-the-loop design patterns or
+    feedback loops that connect automation with human review.
+  - Familiarity with modern software development processes
+    (Agile, Scrum).
+
+  What We Offer
+
+  - Competitive compensation package
+  - Comprehensive benefits including medical, dental, and 401(k)
+    matching
+  - Flexible time off policy — we expect most employees to take
+    at least 3 weeks of vacation per year
+  - Opportunity for growth in a fast-growing company
+  - Collaborative team valuing innovation and problem-solving
+  - In-office lunches, dinners, and snacks to fuel your focus
+    and well-being
+
+  Location
+
+  This role is in-person 3-5 days a week in our New York City
+  office
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Software
+  - Telehealth
+posted_date: 2026-11-19
+url: "https://builtin.com/job/software-engineer-agents/12338848"
+source: Built In

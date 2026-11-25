@@ -1,0 +1,139 @@
+job_id: 12433429
+title: Full Stack Engineer (.NET + Front-End)
+company: NetSpeek
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 3,281 Employees
+description: |
+  Full Stack Engineer (.NET + Front-End) — NetSpeek
+
+  NetSpeek is the agentic control plane for enterprise
+  physical infrastructure. We govern how AI agents reason
+  about, decide on, and execute actions across enterprise
+  endpoints. Our reasoning and execution layer — Lena — sits
+  in customer production environments, where reliability,
+  observability, and auditability are non-negotiable.
+
+  TThe Full Stack Engineer ships features end-to-end across
+  the .NET backbone, the React surfaces, and the operator
+  workflows on top of Lena. You'll move across the stack
+  daily.
+
+  What you'll work on
+
+  - Designing and shipping .NET 6+ backend services that mediate
+    between AI reasoning, device adapters, and operator
+    surfaces.
+  - Building React surfaces that present Lena's signal —
+    including uncertainty shape, not just confidence numbers.
+  - Owning the REST API design between backend and frontend (and
+    Lena's Python services).
+  - Driving operator UX decisions in partnership with product,
+    with attention to the workflows operators run dozens of
+    times a day.
+
+  You're a fit if
+
+  - You have 5+ years of .NET / C# backend experience, with
+    hands-on production work in .NET 6 or newer.
+  - You have 3+ years of React (or comparable modern framework)
+    experience.
+  - You've shipped end-to-end features that touched both backend
+    and frontend in the same project.
+  - You've designed and shipped production REST APIs in a
+    distributed SaaS environment.
+  - You have hands-on production experience with AWS
+    (preferred), Azure, or GCP.
+
+  You probably aren't a fit if
+
+  - You're a backend-only engineer who treats the UI as someone
+    else's problem.
+  - You're a frontend-only engineer who treats the API as a
+    given.
+  - You haven't worked in environments where AI changes the
+    contract between layers..
+
+  How to apply
+
+  We prefer applications through our hiring site:
+  https://build.netspeek.ai/roles/full-stack-engineer  There
+  are three paths there, and we prioritize them in this order:
+  1. Incident Lab / Case Study —work through a real scenario
+  for this role and send your reasoning with the application.
+  Read first. The scenario gives us the most signal on how you
+  actually think. 2. Field Note —a single written take instead
+  of the scenario. Read second. Faster than the lab, still a
+  strong signal. 3. Standard application —resume and the
+  basics through the site's apply form. Read third. Applying
+  directly through Workable below also works, and we'll still
+  read it. The site's three paths exist because they give us
+  better context for the read.
+
+  Either path is read by a human on our hiring team. No AI
+  scoring, no auto-rejection.
+
+  Read the Engineering Handbook and How We Evaluate before
+  applying. After an offer
+
+  We run standard pre-employment checks before your start
+  date: identity verification, right-to-work confirmation,
+  employment verification, and (where lawful and role-
+  relevant) a criminal record check. We don't run credit
+  checks or online reputation scoring.
+
+  RequirementsMust-have
+
+  - Strong backend engineering experience in .NET / C#, with
+    hands-on production work in modern .NET (6+, not legacy
+    Framework only).
+  - Frontend development experience with modern React (or
+    comparable framework such as Next.js, Vue, or Svelte).
+  - API design experience for distributed SaaS systems; you have
+    designed and shipped production REST APIs.
+  - Cloud-native application development with AWS preferred
+    (Azure or GCP also welcome).
+  - Strong debugging and systems thinking.
+
+  Strong signal
+
+  - Real-time systems or orchestration platform experience.
+  - Enterprise SaaS architecture familiarity.
+  - Exposure to AI-integrated applications (you do not need to
+    be the AI engineer, but you should be comfortable working
+    alongside one).
+  - Startup or scale-up environment experience.
+  - Observability and operational tooling familiarity.
+
+  Benefits
+
+  We are growth-stage and fully remote, not late-stage. We
+  invest in the work, the tools, and the people, not the
+  manifesto.
+
+  What that looks like in practice:
+
+  - Flexible / unlimited time off
+  - Health insurance
+  - Equity participation, discussed at offer
+  - Fully remote
+  - Architectural ownership of work that ships to real
+    enterprise customers
+  - Direct working relationships with the people setting
+    platform strategy
+  - A growth-stage platform where the decisions you make in your
+    first year shape the product for years
+  - AI-assisted tooling licensed by NetSpeek (Cursor, Claude
+    Code, GitHub Copilot, or comparable)
+industries:
+  - Artificial Intelligence
+  - Information Technology
+  - Software
+  - Automation
+posted_date: 2026-11-24
+url: "https://builtin.com/job/full-stack-engineer-net-front-end/12433429"
+source: Built In

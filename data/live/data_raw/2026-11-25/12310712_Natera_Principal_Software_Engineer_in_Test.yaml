@@ -1,0 +1,220 @@
+job_id: 12310712
+title: Principal Software Engineer in Test
+company: Natera
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 6,000 Employees
+description: |
+  POSITION SUMMARY
+
+  Natera is seeking a highly technical, hands-on Principal
+  Software Engineer in Test to define and own the end-to-end
+  test automation strategy across all products in the Women's
+  Health, Organ Health, and EB (WH/OH/EB) vertical. In this
+  role, you will design, build, and maintain scalable backend
+  automation suites to validate critical workflows across
+  distributed microservice architectures, guaranteeing data
+  integrity from order entry and lab processing to clinical
+  reporting. You will drive innovation by leveraging AI-
+  assisted practices and large language models to automate
+  test case generation, streamline log analysis, and enhance
+  CI/CD execution speed.
+
+  As a Principal level individual contributor, you will set
+  technical direction for quality engineering across multiple
+  teams. You will partner with engineering, bioinformatics,
+  laboratory operations, and Quality Assurance and Regulatory
+  Affairs (QA/RA) leaders, and mentor engineers to build
+  quality into the development process instead of inspecting
+  it at the end. As a principal-level individual contributor,
+  you will set technical direction and serve as a key
+  organizational voice across teams. You will leverage strong
+  interpersonal skills, clear communication, and deep
+  technical credibility to align engineering groups, establish
+  architectural standards, and elevate quality practices
+  through peer leadership and technical influence.
+
+  PRIMARY RESPONSIBILITIES
+
+  - Architect, build, and maintain a shared, reusable end-to-end
+    test automation framework covering UI, API, event-
+    driven/messaging, data pipeline, and integration testing
+    across complex distributed systems.
+  - Integrate automated testing into the GitLab CI/CD pipelines
+    so that tests run on every change, report clearly, and
+    block releases on regression.
+  - Design and stand up ephemeral and persistent test
+    environments, along with service virtualization and
+    mocking for upstream and downstream dependencies.
+  - Implement tools and procedures to maintain persistent test
+    environments including, but not limited to, configuration
+    settings, infrastructure updates and removal of deprecated
+    services or tools.
+  - Establish test data management practices, including
+    synthetic and de-identified data, version-controlled
+    fixtures, and automated loading of golden datasets into
+    pipelines under test.
+  - Partner with bioinformatics scientists and verification and
+    validation teams to automate execution of golden-dataset
+    regression suites against bioinformatics pipelines and to
+    track concordance over time.
+  - Ensure automated testing produces objective evidence that
+    satisfies design control and regulatory requirements,
+    including requirements-to-test traceability, verification
+    reports, and audit-ready records.
+  - Drive non-functional testing strategy: performance, load,
+    reliability, and security testing in collaboration with
+    platform and security teams.
+  - Set coding standards, review practices, and patterns for
+    test code, and evaluate and introduce new tools where they
+    materially improve speed or coverage.
+  - Mentor Software Engineers in Test and developers; lead
+    communities of practice and help teams adopt shift-left
+    testing.
+  - Analyze defect trends and escaped defects, lead root cause
+    analysis, and drive systemic improvements.
+  - Act as the senior technical voice for quality in planning,
+    design reviews, and release decisions.
+  - Perform debugging and root cause analysis of product issues
+    or defects.
+  - Perform system analysis, assess risk, and develop strong
+    test strategies by analyzing product design and technical
+    specifications, and by collaborating with product managers
+    and developers.
+
+  QUALIFICATIONS
+
+  - BS in Computer Science, Engineering, or a related
+    discipline, or equivalent work experience.
+  - 15+ years of hands-on experience in software development or
+    test automation, with a strong track record of building
+    and scaling test frameworks for enterprise-grade
+    distributed systems..
+  - Demonstrated track record of designing and leading adoption
+    of a test automation framework across multiple teams or
+    products, not just contributing to one.
+  - Experience testing complex, distributed, multi-service
+    systems end to end, including asynchronous and event-
+    driven architectures.
+  - Experience working in a regulated environment (CLIA/CAP
+    laboratory, medical device, pharma, or similar) is
+    strongly preferred.
+
+  KNOWLEDGE, SKILLS, AND ABILITIES
+
+  - Expert-level programming skills in Java and/or Python, and
+    the ability to write production-quality test code.
+  - Deep hands-on experience with modern automation tools and
+    libraries, such as Playwright, Selenium, JUnit/TestNG,
+    pytest, REST Assured, and contract testing (for example,
+    Pact).
+  - Experience testing Kafka or other messaging systems,
+    REST/gRPC APIs, and data pipelines.
+  - Strong CI/CD experience (GitLab CI preferred), plus Docker
+    and Kubernetes, and infrastructure-as-code for test
+    environments.
+  - Experience with AWS and cloud-native test environment
+    design.
+  - Strong SQL skills and experience validating data integrity
+    across systems.
+  - Strong knowledge of Linux and command-line scripting.
+  - Familiarity with IEC 62304, ISO 13485, FDA 21 CFR Part 11
+    and Part 820, and computer system validation concepts.
+  - Experience with test management and traceability tools (for
+    example, Jama, Jira/Xray, TestRail).
+  - Exposure to bioinformatics pipelines, LIMS, or genomic data
+    formats (FASTQ, BAM, VCF) is a plus; no biology background
+    required.
+  - Excellent written and verbal communication skills, including
+    the ability to influence engineering leaders and explain
+    quality risk to non-technical stakeholders.
+  - Pragmatic judgment about where automation pays off and where
+    it does not.
+  - Solid understanding of QA methodologies, test planning,
+    system dependencies, and product integration phases.
+
+  #LI-DNI
+
+  The pay range is listed and actual compensation packages are
+  based on a wide array of factors unique to each candidate,
+  including but not limited to skill set, years & depth of
+  experience, certifications and specific office location.
+  This may differ in other locations due to cost of labor
+  considerations.
+
+  Remote USA
+
+  $124,800—$156,000 USD
+
+  OUR OPPORTUNITY
+
+  Natera™ is a global leader in cell-free DNA (cfDNA) testing,
+  dedicated to oncology, women’s health, and organ health. Our
+  aim is to make personalized genetic testing and diagnostics
+  part of the standard of care to protect health and enable
+  earlier and more targeted interventions that lead to longer,
+  healthier lives.
+
+  The Natera team consists of highly dedicated statisticians,
+  geneticists, doctors, laboratory scientists, business
+  professionals, software engineers and many other
+  professionals from world-class institutions, who care deeply
+  for our work and each other. When you join Natera, you’ll
+  work hard and grow quickly. Working alongside the elite of
+  the industry, you’ll be stretched and challenged, and take
+  pride in being part of a company that is changing the
+  landscape of genetic disease management.
+
+  WHAT WE OFFER
+
+  Competitive Benefits - Employee benefits include
+  comprehensive medical, dental, vision, life and disability
+  plans for eligible employees and their dependents.
+  Additionally, Natera employees and their immediate families
+  receive free testing in addition to fertility care benefits.
+  Other benefits include pregnancy and baby bonding leave,
+  401k benefits, commuter benefits and much more. We also
+  offer a generous employee referral program!
+
+  For more information, visit www.natera.com.
+
+  Natera is proud to be an Equal Opportunity Employer. We are
+  committed to ensuring a diverse and inclusive workplace
+  environment, and welcome people of different backgrounds,
+  experiences, abilities and perspectives. Inclusive
+  collaboration benefits our employees, our community and our
+  patients, and is critical to our mission of changing the
+  management of disease worldwide.
+
+  All qualified applicants are encouraged to apply, and will
+  be considered without regard to race, color, religion,
+  gender, gender identity or expression, sexual orientation,
+  national origin, genetics, age, veteran status, disability
+  or any other legally protected status. We also consider
+  qualified applicants regardless of criminal histories,
+  consistent with applicable laws.
+
+  If you are based in California, we encourage you to read
+  this important information for California residents.
+
+  Link: https://www.natera.com/notice-of-data-collection-
+  california-residents/
+
+  Please be advised that Natera will reach out to candidates
+  with a @natera.com email domain ONLY. Email communications
+  from all other domain names are not from Natera or its
+  employees and are fraudulent. Natera does not request
+  interviews via text messages and does not ask for personal
+  information until a candidate has engaged with the company
+  and has spoken to a recruiter and the hiring team. Natera
+  takes cyber crimes seriously, and will collaborate with law
+  enforcement authorities to prosecute any related cyber
+  crimes.
+
+  For more information:
+  - BBB announcement on job scams
+  - FBI Cyber Crime resource page
+posted_date: 2026-11-24
+url: "https://builtin.com/job/principal-software-engineer-test/12310712"
+source: Built In

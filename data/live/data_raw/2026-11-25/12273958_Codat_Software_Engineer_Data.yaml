@@ -1,0 +1,123 @@
+job_id: 12273958
+title: Software Engineer (Data)
+company: Codat
+location: London, GBR
+work_type: FULL_TIME
+company_size: 55 Employees
+description: |
+  About Codat
+
+  Codat is an advisory intelligence solution purpose-built for
+  modern commercial banking. Through rich, specialized data,
+  forward-looking insights, and integrated workflows, Codat
+  empowers banking teams to deepen their relationships, grow
+  their revenue, and simplify their day-to-day work.
+
+  Founded in 2017 and backed by JPMorgan, PayPal, Amex, Plaid,
+  and Shopify, Codat has successfully powered over 350,000
+  connections to business customers’ financial systems — and
+  is trusted by industry leaders to turn scattered information
+  into actionable, strategic advantages in real time, every
+  time.
+
+  The Role
+
+  Some of the biggest commercial banks in the world already
+  work with us. Their relationship managers want to spend
+  their time with clients, not digging through the books to
+  find out what's changed. We're building the thing that does
+  the digging for them.
+
+  It's called the Advisory Intelligence Platform. It puts
+  Codat's client intelligence inside the assistant a banker
+  already uses, starting with Microsoft Copilot. Ask it
+  anything about a client and it answers from that client's
+  actual books. Don't ask, and it tells you anyway when
+  something important changes.
+
+  Every one of those answers sits on data. Someone has to get
+  that data in, shape it, define it and serve it, so the
+  number the assistant quotes is the right one. That's you.
+  You write production software, and you care about the data
+  it moves as much as the code that moves it.
+
+  This role is for an engineer who's growing fast and wants
+  room to grow faster. You'll ship from your first weeks, own
+  what you build once it's live, and work alongside data and
+  AI engineers who'll push you. Codat is AI-first, not AI
+  bolted onto SaaS, and we work that way ourselves: agents
+  take the repetitive work, engineers take the interesting
+  problems.
+
+  What You'll Work On
+
+  - The data behind every answer. Services and pipelines that
+    take raw data from accounting platforms, banks and payment
+    systems and turn it into something a model can trust. When
+    a source sends rubbish, your code notices.
+  - The semantic layer. The definitions the model is allowed to
+    use: what counts as revenue, when a month ends, which
+    currency. Get it right and every answer agrees with every
+    other answer.
+  - The signal layer. Spotting when something changes for a
+    client: a customer paying later, cash running tighter, a
+    supplier quietly becoming critical. You'll help build the
+    detection and make it fast and reliable.
+  - The tools the assistant calls. MCP (Model Context Protocol)
+    servers and APIs that serve data to agents. You'll build
+    them, test them and find out how they break before a
+    banker does.
+  - Keeping the numbers honest. Tests, data checks and
+    observability that prove a number is right, and catch it
+    the moment it isn't.
+
+  You'll Probably Have
+
+  - Shipped production software that real people depended on,
+    and written most of it yourself. Services, APIs or data
+    systems with tests, not notebooks or config.
+  - Had data be the hard part. A source that sent duplicates, a
+    schema that changed under you, two teams who meant
+    different things by "customer". You fixed it, and you'd
+    design it differently now.
+  - Good engineering habits in Python, C# or another general-
+    purpose language. Tested, modular code the next person can
+    change without fear.
+  - An eye for SQL. You can read a query and tell whether it's
+    right, whoever or whatever wrote it.
+  - Stayed on the hook for something after it went live. You
+    found out why it broke, fixed the cause, and added what
+    would have caught it sooner.
+  - Some time with CI/CD, Docker and cloud (we're on Azure).
+    You've changed a pipeline, not just pushed to one.
+  - A habit of asking why. If someone asks for a number the data
+    can't support, you say so.
+  - AI as part of how you work, and you can explain and defend
+    what it helped you build.
+  - Momentum. More ownership with each move, new stacks picked
+    up quickly, things built that nobody asked for.
+  - Useful, not essential: fintech, lending or accounting;
+    Spark, Databricks or dbt; anything that puts data in front
+    of an LLM.
+
+  Don't tick every box? Apply anyway. We're more interested in
+  what you've built and how fast you're growing than in a
+  perfect match.
+
+  How We Work
+
+  We're a small team with plenty to do. Things move fast: we'd
+  rather ship something useful and improve it than polish it
+  in private. What you build is yours from start to finish.
+
+  There's no return-to-office mandate, and you can work hybrid
+  or fully remote. We trust you to be around when the team
+  needs you and to deliver what you said you would. What we
+  don't want is anyone staying online late to prove a point.
+industries:
+  - Fintech
+  - Software
+  - Financial Services
+posted_date: 2026-11-16
+url: "https://builtin.com/job/software-engineer-data/12273958"
+source: Built In

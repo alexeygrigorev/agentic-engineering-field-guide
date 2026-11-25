@@ -1,0 +1,264 @@
+job_id: 10990298
+title: Senior Full Stack Engineer - NBA
+company: Humana
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 40,741 Employees
+description: |
+  Become a part of our caring community The Senior Full Stack
+  Engineer builds and evolves the NBA platform's Action
+  Library and Command Center experience, the operational
+  system used by business and program teams to create,
+  configure, govern, and publish member actions across the
+  enterprise. Built on React, Node.js, PostgreSQL, and Kafka-
+  based integration patterns, the platform serves as the
+  primary control plane for authoring and managing actions
+  throughout the member journey. This is a hands-on
+  engineering role with a strong front-end focus: you design
+  and build modern user experiences, develop the APIs and
+  services that support them, and partner closely with
+  product, design, and platform teams to deliver scalable,
+  production-ready solutions.
+
+  Key Responsibilities
+
+  • Front-end engineering — Design and build responsive,
+  accessible, and performant user interfaces using React and
+  TypeScript.
+
+  • Full stack development — Deliver features across the
+  stack, including React applications, Node.js/Fastify
+  services, PostgreSQL data models, and platform integrations.
+
+  • Action Library development — Build capabilities that allow
+  business users to create, configure, version, preview,
+  govern, and publish member actions.
+
+  • API engineering — Develop and maintain REST APIs using
+  contract-first principles, shared TypeScript models, and
+  schema validation patterns.
+
+  • Data modeling — Design and implement PostgreSQL schemas,
+  queries, and data access patterns that support reliable and
+  performant user experiences.
+
+  • Workflow integration — Develop integrations with
+  orchestration, decisioning, and Kafka-based publishing
+  services to ensure actions flow reliably through the NBA
+  ecosystem.
+
+  • User experience design — Translate complex business
+  workflows into intuitive experiences that improve
+  efficiency, usability, and adoption.
+
+  • Quality engineering — Build automated tests, participate
+  in code reviews, and deliver secure, maintainable,
+  production-quality software.
+
+  • Cross-team collaboration — Work closely with engineering,
+  product, and platform teams to align requirements,
+  integrations, and technical solutions.
+
+  Use your skills to make an impact  Required Qualifications
+
+  •5+ years of full stack software engineering experience with
+  strong React and TypeScript expertise.
+
+  •Experience building production-grade web applications using
+  modern React architecture and component-based design
+  patterns.
+
+  •Strong Node.js/TypeScript backend development experience
+  building REST APIs and service-oriented applications.
+
+  •Experience working with PostgreSQL or other relational
+  databases, including schema design, query optimization, and
+  data modeling.
+
+  •Understanding of modern front-end architecture including
+  state management, routing, accessibility, performance
+  optimization, and responsive design.
+
+  •Experience with API contracts, schema validation, and
+  strongly typed development practices.
+
+  •Familiarity with containerized application deployment,
+  CI/CD pipelines, and cloud-native application development.
+
+  •Strong testing discipline, including unit, integration, and
+  end-to-end testing approaches.
+
+  •Strong communication skills and the ability to collaborate
+  effectively across engineering and product teams.
+
+  Preferred Qualifications
+
+  •Experience with React 19, TanStack Router, Query, Form, and
+  Table.
+
+  •Experience with Fastify, Prisma, Drizzle ORM, Redis, and
+  PostgreSQL performance tuning.
+
+  •Familiarity with OpenAPI specifications, code generation,
+  and contract-first API development.
+
+  •Experience with Kafka and event-driven architectures.
+
+  •Experience building workflow-driven applications,
+  operational consoles, or enterprise business tooling.
+
+  •Familiarity with Kubernetes, Azure DevOps, ArgoCD, and
+  modern deployment pipelines.
+
+  •Experience with OpenTelemetry, distributed tracing, and
+  observability platforms.
+
+  •Experience implementing OAuth 2.0, Azure AD, SSO, RBAC, or
+  enterprise identity solutions.
+
+  •Background in healthcare, insurance, or another regulated
+  industry with compliance and PHI handling requirements.
+
+  Success Indicators
+
+  - State transitions are precise, deterministic, and resilient
+    to retries
+  - Side effects reliably occur exactly once, even during
+    failures or replays
+  - Systems recover gracefully from crashes and redeployments
+  - AI-driven tooling decreases defect rates and expedites
+    debugging
+  - The state layer is trusted as the definitive source of truth
+    across engineering teams
+
+  Why This Role is Critical
+
+  In contemporary automated platforms, correctness and
+  reliability hinge on the integrity of state, not just
+  requests. This role ensures that every state transition and
+  side effect is executed once—and only once—providing a solid
+  foundation for trust, reliability, compliance, and
+  scalability throughout the system.
+
+  Work Style: Remote/Hybrid - Preferably Boston, MA.
+
+  Occasional travel to Humana's offices for training or
+  meetings may be required.
+
+  Work Hours: Typical business hours are Monday-Friday, 8
+  hours/day, 5 days/week-- some flexibility might be possible,
+  depending on business needs.
+
+  Very minimal travel might be required for training,
+  meetings, and/or conferences
+
+  Interview Format
+
+  As part of our hiring process, we will be using on-demand
+  technology provided by Hire Vue, a third-party vendor. This
+  technology provides our team of recruiters and hiring
+  managers with an enhanced method for decision-making through
+  on-demand candidate assessments.
+
+  If you are selected to move forward from your application
+  prescreen, you will receive correspondence inviting you to
+  participate in an on-demand assessment with pre-determined
+  questions. You should anticipate the assessment to take
+  approximately 10-15 minutes.
+
+  Your on-demand assessment will be reviewed, and you will
+  subsequently be informed if you will be moving forward to
+  next round of interviews.
+
+  SSN Task via Workday
+
+  Should you be extended a formal employment offer you will
+  receive a request to enter your SSN into our Workday system
+  to scan for duplicate profiles.
+
+  Work at Home Requirements: To ensure Home or Hybrid
+  Home/Office employees’ ability to work effectively, the
+  self-provided internet service of Home or Hybrid Home/Office
+  employees must meet the following criteria: At minimum, a
+  download speed of 25 Mbps and an upload speed of 10 Mbps is
+  required; wireless, wired cable or DSL connection is
+  suggested. In certain roles, the minimum recommended
+  internet speed required by Humana may not be sufficient for
+  business needs. Humana reserves the right to require
+  associates to upgrade their internet service if necessary.
+  Work from a dedicated space lacking ongoing interruptions to
+  protect member PHI / HIPAA information. Travel: While this
+  is a remote position, occasional travel to Humana's offices
+  for training or meetings may be required.
+
+  Scheduled Weekly Hours
+
+  40
+
+  Pay Range
+
+  The compensation range below reflects a good faith estimate
+  of starting base pay for full time (40 hours per week)
+  employment at the time of posting. The pay range may be
+  higher or lower based on geographic location and individual
+  pay will vary based on demonstrated job related skills,
+  knowledge, experience, education, certifications, etc.
+
+
+
+  $106,900 - $147,000 per year
+
+
+
+  This job is eligible for a bonus incentive plan. This
+  incentive opportunity is based upon company and/or
+  individual performance.
+
+  Description of Benefits
+
+  Humana, Inc. and its affiliated subsidiaries (collectively,
+  “Humana”) offers competitive benefits that support whole-
+  person well-being. Associate benefits are designed to
+  encourage personal wellness and smart healthcare decisions
+  for you and your family while also knowing your life extends
+  outside of work. Among our benefits, Humana provides
+  medical, dental and vision benefits, 401(k) retirement
+  savings plan, time off (including paid time off, company and
+  personal holidays, paid parental and caregiver leave),
+  short-term and long-term disability, life insurance and many
+  other opportunities.
+
+  Application Deadline: 11-24-2026 About us About Humana:
+  Humana Inc. (NYSE: HUM) is a leading U.S. healthcare
+  company. Through our Humana insurance services and our
+  CenterWell healthcare services, we make it easier for the
+  millions of people we serve to achieve their best health –
+  delivering the care and service they need, when they need
+  it. These efforts are leading to a better quality of life
+  for people with Medicare and Medicaid, families,
+  individuals, military service personnel, and communities at
+  large. Learn more about what we offer at Humana.com and
+  at CenterWell.com.
+
+
+  Equal Opportunity Employer
+
+  It is the policy of Humana not to discriminate against any
+  employee or applicant for employment because of race, color,
+  religion, sex, sexual orientation, gender identity, national
+  origin, age, marital status, genetic information, disability
+  or protected veteran status. It is also the policy of Humana
+  to take affirmative action, in compliance with Section 503
+  of the Rehabilitation Act and VEVRAA, to employ and to
+  advance in employment individuals with disability or
+  protected veteran status, and to base all employment
+  decisions only on valid job requirements. This policy shall
+  apply to all employment actions, including but not limited
+  to recruitment, hiring, upgrading, promotion, transfer,
+  demotion, layoff, recall, termination, rates of pay or other
+  forms of compensation and selection for training, including
+  apprenticeship, at all levels of employment.
+posted_date: 2026-11-19
+url: "https://builtin.com/job/senior-full-stack-engineer-nba/10990298"
+source: Built In

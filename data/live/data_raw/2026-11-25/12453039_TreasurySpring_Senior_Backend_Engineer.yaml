@@ -1,0 +1,138 @@
+job_id: 12453039
+title: Senior Backend Engineer
+company: TreasurySpring
+location: London, GBR
+work_type: FULL_TIME
+company_size: 43 Employees
+description: |
+  TreasurySpring is the product of an obsession with fixing
+  the fundamental structural problems in money markets. Our
+  fascination with the sector began painfully, during the
+  Global Financial Crisis of 2008, where we had a front-row
+  seat to watch the evaporation of liquidity in fixed income
+  and the near collapse of the entire short-dated funding
+  markets.
+
+  We have been on a mission to help deliver more sustainable
+  solutions for the money markets ever since, and we launched
+  TreasurySpring in 2018 to offer institutional clients a
+  single gateway to the broadest range of the best risk-
+  adjusted cash investment options. As a fast-growing London-
+  based financial technology company, we deliver a unique
+  solution to a global multi-trillion-dollar problem,
+  delivered globally from our offices in London and New York.
+
+  Our regulated Fixed-Term Fund platform delivers new digital
+  pipelines to connect cash-rich firms to institutional
+  borrowers. Clients include large Private Equity funds, Asset
+  Managers, listed Corporates, high-growth tech companies and
+  many more.
+
+  Learn more about why we do what we do here.
+
+  The role: Senior Backend Engineer
+
+  Join our lean UK-based technology team as a Senior Backend
+  Engineer, where you'll play a pivotal role in the
+  development of our systems. Working closely with the CTO and
+  Head of Software Engineering, you'll have the opportunity to
+  make a significant impact within our growing fintech
+  business. This role offers the flexibility of remote work
+  alongside visits to our offices in Mayfair, London.
+
+  Our proprietary technology platform handles billions of
+  dollars worth of our customers' investments every day,
+  capturing all client orders and managing the entire
+  investment cycle. Our backend services are built in [typed]
+  Python3, backed by a Postgres database. This includes a
+  proprietary workflow engine built around a Scheme-based
+  workflow notation.
+
+  Our frontend systems include our clean, simple web portal
+  for client order capture and reporting, built in TypeScript
+  and React; with server-side REST and GraphQL APIs written in
+  Python3.
+
+  What we’re looking for…
+
+  Essential skills and experience:
+
+  - 5+ years experience of developing complex applications using
+    an OO language (ideally Python, but experience in C++ / C#
+    / Java / etc would also be considered)
+  - Experience working on mission-critical applications,
+    following a robust SDLC
+  - Excellent communication and problem-solving skills; and a
+    strong aptitude for learning
+  - Experience and enthusiasm for test-automation and CI/CD
+  - Strong STEM degree or equivalent professional experience
+
+  Desirable skills:
+
+  - Deep knowledge of Python, including any of the frameworks we
+    currently use: Flask, SqlAlchemy, Alembic, Pydantic
+  - Experience with relational databases, ideally Postgres
+  - Experience of message-based architectures, and queuing
+    technologies, i.e. RabbitMQ
+  - Experience of REST and/or GraphQL APIs
+  - Knowledge of the core AWS services: i.e. EC2 / ECS, RDS, S3
+  - Experience using DataDog or similar observability tools
+  - Knowledge of containerisation: Docker, Kubernetes, AWS
+    Fargate etc
+  - Any experience of front-end or fullstack development using
+    TypeScript & React
+  - Experience building software for financial services and/or
+    investment management organisations
+
+  We don’t expect candidates to have knowledge of all of the
+  above, but we hope you’re keen to learn!
+
+  What you’ll do: Responsibilities
+
+  - Designing and developing mission-critical systems and
+    applications that support our trading and investment
+    operations, and our client-facing products.
+  - Analysing requirements, proposing solutions, and designing
+    software components and systems.
+  - Writing high-quality, efficient, and maintainable code.
+  - Participating in code reviews, providing feedback to other
+    team members and ensuring that coding standards and best
+    practices are followed throughout the development process.
+  - Mentoring and coaching less-experienced developers, helping
+    them improve their skills, learn best practices, and grow
+    professionally.
+  - Communicating effectively with stakeholders to understand
+    requirements and provide updates on project progress.
+  - Optimising the performance of Python applications,
+    identifying bottlenecks and inefficiencies and
+    implementing solutions to improve scalability,
+    responsiveness, and efficiency.
+  - Staying updated on the latest trends, technologies, and best
+    practices in Python development and software engineering.
+
+  What we offer: Benefits
+
+  - Competitive salary, depending on experience
+  - Equity and bonus scheme
+  - Unlimited Paid Leave
+  - Hybrid office-working model - we're in a great location near
+    Green Park station in London
+  - Enhanced Parental Leave and Pay
+  - Workplace Pension
+  - Complete Bupa HealthCare Cover
+  - Life Insurance
+  - Income Protection Insurance
+  - Access to Yulife (Employee Assistance Programme)
+  - Remote Office set-up budget
+  - Cycle to Work Scheme
+  - A fun and dynamic working environment with regular team-
+    building activities and events
+industries:
+  - Fintech
+  - Payments
+  - Robotics
+  - Financial Services
+  - Automation
+posted_date: 2026-11-25
+url: "https://builtin.com/job/senior-backend-engineer/12453039"
+source: Built In

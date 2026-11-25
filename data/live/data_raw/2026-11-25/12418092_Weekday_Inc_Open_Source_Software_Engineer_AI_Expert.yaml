@@ -1,0 +1,178 @@
+job_id: 12418092
+title: Open Source Software Engineer, AI Expert
+company: Weekday, Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 370000 Employees
+description: |
+  This role is for one of our clients
+
+  Compensation: $70 - $90 per hour
+
+  Employment Type: Independent Contractor Work Arrangement:
+  Fully Remote Working Schedule: Flexible – Work on your own
+  schedule Payment Frequency: Weekly via Stripe or Wise
+
+  About the Role
+
+  We are seeking experienced Open Source Software Engineers to
+  contribute to an AI research initiative focused on improving
+  the quality, reliability, and evaluation capabilities of
+  advanced AI models.
+
+  In this role, you will assess software engineering benchmark
+  tasks used to train and evaluate frontier AI systems. You
+  will review repository-level coding challenges, reference
+  patches, test harnesses, and grading mechanisms to ensure
+  that benchmark tasks are technically accurate, reproducible,
+  and aligned with real-world software development practices.
+
+  Your expertise in open-source development, repository
+  maintenance, code reviews, and software testing will be
+  essential in identifying flawed reference implementations,
+  test weaknesses, answer leakage, and reward-hacking
+  vulnerabilities.
+
+  You will provide structured, rubric-based feedback to help
+  establish reliable evaluation standards and improve the
+  quality of software engineering benchmarks used in AI model
+  development.
+
+  RequirementsKey Responsibilities
+
+  1. Benchmark Task Evaluation & Quality Assurance
+
+  - Review repository-level software engineering tasks used for
+    AI model training and evaluation.
+  - Assess benchmark task quality, technical accuracy,
+    completeness, and reproducibility.
+  - Evaluate whether coding challenges reflect realistic
+    software engineering problems and development workflows.
+  - Identify ambiguous task requirements, incomplete problem
+    statements, and potential issues affecting benchmark
+    reliability.
+
+  2. Reference Patch & Test Harness Auditing
+
+  - Audit reference patches to verify their correctness,
+    completeness, and alignment with intended task
+    requirements.
+  - Review test harnesses, test runners, and grading mechanisms
+    to ensure accurate evaluation of model-generated
+    solutions.
+  - Assess Docker-based execution environments and isolation
+    mechanisms for consistency and reproducibility.
+  - Identify weaknesses in testing infrastructure, including
+    missing test coverage and unreliable grading conditions.
+
+  3. Benchmark Integrity & Vulnerability Detection
+
+  - Detect answer leakage, test contamination, reward hacking,
+    and other vulnerabilities that could compromise benchmark
+    integrity.
+  - Evaluate whether grading systems accurately distinguish
+    correct implementations from incomplete or artificially
+    optimised solutions.
+  - Identify potential loopholes that allow AI models to achieve
+    high scores without genuinely solving the underlying
+    engineering problem.
+  - Recommend improvements to strengthen benchmark fairness,
+    reliability, and evaluation accuracy.
+
+  4. Research Collaboration & Technical Feedback
+
+  - Collaborate with AI researchers, engineers, and evaluation
+    specialists to improve software engineering benchmarks.
+  - Provide clear, structured, and actionable written feedback
+    based on predefined evaluation rubrics.
+  - Translate practical open-source development and code-review
+    experience into measurable quality standards.
+  - Help refine benchmark tasks, reference implementations, and
+    evaluation methodologies.
+
+  Required Qualifications & Skills
+
+  Professional Experience
+
+  - Minimum 3+ years of professional software engineering
+    experience.
+  - Demonstrated involvement in open-source software development
+    through merged pull requests, project contributions, or
+    repository maintainer and committer responsibilities.
+  - Practical experience reviewing, maintaining, debugging, and
+    improving production-quality codebases.
+  - Strong understanding of repository-level software
+    development and collaborative engineering workflows.
+
+  Open Source & Software Engineering Expertise
+
+  - Proven open-source contribution or maintainer experience,
+    with verifiable contributions to public repositories.
+  - Ability to review and audit reference patches, test runners,
+    and automated grading systems.
+  - Strong understanding of Docker isolation, test execution
+    environments, and reproducible software testing.
+  - Ability to identify answer leakage, reward hacking, test
+    manipulation, and weaknesses in benchmark evaluation.
+  - Experience with Python and at least one additional
+    programming ecosystem, such as Java, Go, TypeScript, or
+    C++.
+
+  Technical & Analytical Skills
+
+  - Strong code-reading, debugging, and problem-solving
+    capabilities.
+  - Understanding of software testing methodologies, test
+    coverage, and code quality standards.
+  - Ability to assess whether software patches correctly address
+    underlying issues without introducing regressions.
+  - Excellent written communication skills, with the ability to
+    explain technical findings and provide precise evaluation
+    feedback.
+
+  Preferred Qualifications
+
+  - Familiarity with SWE-Bench Verified or similar repository-
+    level software engineering benchmarks.
+  - Maintainer or significant contributor experience in
+    established Python open-source projects such as Django,
+    Flask, scikit-learn, SymPy, or pytest.
+  - Previous experience in code review, software quality
+    assurance, benchmark evaluation, or technical task
+    grading.
+  - Experience working with automated testing frameworks, CI/CD
+    pipelines, and containerised development environments.
+  - Previous involvement in AI training, code evaluation, or AI
+    model benchmarking is an advantage.
+
+  Contract & Payment Terms
+
+  - Engagement will be on an independent contractor basis.
+  - The role is fully remote and offers flexible working hours,
+    allowing you to complete assignments on your own schedule.
+  - Project duration may be extended, shortened, or concluded
+    early depending on business requirements and individual
+    performance.
+  - Payments will be processed weekly through Stripe or Wise,
+    based on services rendered.
+  - The role will not require access to confidential or
+    proprietary information belonging to any current or former
+    employer, client, or institution.
+  - Candidates requiring H-1B or STEM OPT sponsorship are not
+    eligible for this opportunity at present.
+
+  Equal Opportunity
+
+  All qualified applicants will be considered without
+  discrimination based on legally protected characteristics
+  under applicable laws. Reasonable accommodations are
+  available throughout the application process upon request.
+industries:
+  - Artificial Intelligence
+  - HR Tech
+  - Professional Services
+  - Software
+posted_date: 2026-11-23
+url: "https://builtin.com/job/open-source-software-engineer-ai-expert/12418092"
+source: Built In

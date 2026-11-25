@@ -1,0 +1,176 @@
+job_id: 12406840
+title: Senior Technical Program Manager, Assurance Engineering
+company: CoreWeave
+location: New York, USA
+work_type: FULL_TIME
+company_size: 1,450 Employees
+description: |
+  CoreWeave is The Essential Cloud for AI™. Built for pioneers
+  by pioneers, CoreWeave delivers a platform of technology,
+  tools, and teams that enables innovators to build and scale
+  AI with confidence. Trusted by leading AI labs, startups,
+  and global enterprises, CoreWeave combines superior
+  infrastructure performance with deep technical expertise to
+  accelerate breakthroughs and turn compute into capability.
+  Founded in 2017, CoreWeave became a publicly traded company
+  (Nasdaq: CRWV) in March 2025. Learn more at
+  www.coreweave.com.
+
+  What You’ll Do
+
+  The Security Trust & Assurance organization measures and
+  proves how well CoreWeave's security controls are
+  functioning. As a technical program manager on the Assurance
+  Engineering team, you will own security programs end to end:
+  you scope the work with stakeholders, build the tooling that
+  delivers it, and run it in production. This is a hands-on
+  role. You will spend much of your time writing and shipping
+  code on our internal assurance platform, and the rest
+  driving the cross-functional work that the code depends on.
+
+  In this role, you will:
+
+  - Lead security assurance programs from intake to production,
+    including key risk indicators (KRIs), control-assessment
+    dashboards, and third-party risk management (TPRM)
+    workflows
+  - Work with control owners across security, infrastructure,
+    IT, privacy, and customer trust to define what each metric
+    measures, where its data comes from, and what "good" looks
+    like
+  - Design, build, and maintain full-stack features on our
+    internal assurance platform: data pipelines, APIs, and
+    dashboards that leadership uses to track security posture
+  - Turn manual, laptop-run, or spreadsheet-based reporting into
+    automated, scheduled jobs that run on Kubernetes with
+    service identities
+  - Coordinate data collection across many owners, track
+    commitments to dates, and escalate gaps before they block
+    a program milestone
+  - Own the reliability of what you ship: dependency updates,
+    image promotion through dev and prod, and fixes when a
+    pipeline goes stale
+  - Keep Jira epics, milestones, and status current so
+    leadership can see progress without asking
+  - Write for mixed audiences, from engineers reviewing a data
+    model to executives reviewing a risk dashboard
+
+  Investing in our people is one of our top priorities, and we
+  value candidates who can bring their diversified experiences
+  to our teams. Here are some qualities we’ve found compatible
+  with our team. We'd love to talk about whether this aligns
+  with your experience and interests and what you’re excited
+  to work on next.
+
+  Who You Are
+
+  Minimum Qualifications
+
+  - 5+ years of experience across security engineering, security
+    program management, GRC, or software engineering, with a
+    record of shipping production software
+  - A Bachelor's degree in Computer Science, Information
+    Security, or a related field, or equivalent experience
+  - Proficiency in Python and at least one modern web stack
+    (TypeScript/React or similar), plus SQL
+  - Experience building data pipelines or dashboards that pull
+    from multiple APIs and keep working when upstream data
+    changes
+  - Working knowledge of Kubernetes, containers, and CI/CD,
+    enough to deploy and operate your own services
+  - Experience running cross-functional programs: defining scope
+    and milestones, managing dependencies, and holding
+    stakeholders to commitments
+  - Clear written and verbal communication, including turning
+    technical results into decisions for non-technical leaders
+  - Comfort working autonomously in a fast-moving environment
+    where requirements change
+
+  Additional Qualifications
+
+  - Experience defining security metrics, KRIs, or continuous
+    control monitoring
+  - Familiarity with control frameworks such as SOC 2, ISO
+    27001, NIST 800-53, or SOX ITGC
+  - Experience with third-party risk management, vendor intake,
+    or privacy (DSR, RoPA) workflows
+  - Familiarity with OSCAL or policy-as-code tooling
+  - Experience integrating with Jira, Google Workspace, Grafana,
+    cloud security platforms, or GRC tools
+
+  The base salary range for this role is $157,000 to $210,000.
+  The starting salary will be determined based on job-related
+  knowledge, skills, experience, and market location. We
+  strive for both market alignment and internal equity when
+  determining compensation. In addition to base salary, our
+  total rewards package includes a discretionary bonus, equity
+  awards, and a comprehensive benefits program (all based on
+  eligibility).
+
+  What We Offer
+
+  In addition to a competitive salary, we offer a variety of
+  benefits to support your needs. The benefits below reflect
+  our US-based offerings for full-time employees; for roles in
+  other locations, benefits vary and are shared during the
+  hiring process. These include:
+
+  - Medical, dental, and vision insurance - 100% paid for by
+    CoreWeave
+  - Company-paid Life Insurance
+  - Voluntary supplemental life insurance
+  - Short and long-term disability insurance
+  - Flexible Spending Account
+  - Health Savings Account
+  - Tuition Reimbursement
+  - Ability to Participate in Employee Stock Purchase Program
+    (ESPP)
+  - Mental Wellness Benefits through Spring Health
+  - Family-Forming support provided by Carrot
+  - Paid Parental Leave
+  - Flexible, full-service childcare support with Kinside
+  - 401(k) with a generous employer match
+  - Flexible PTO
+  - Catered lunch each day in our office and data center
+    locations
+  - A casual work environment
+  - A work culture focused on innovative disruption
+
+  California Applicants
+
+  California Consumer Privacy Act
+
+  Equal Opportunity & Accommodations
+
+  CoreWeave is an equal opportunity employer, committed to
+  fostering an inclusive and supportive workplace. All
+  qualified applicants and candidates will receive
+  consideration for employment without regard to race, color,
+  religion, sex, disability, age, sexual orientation, gender
+  identity, national origin, veteran status, or genetic
+  information.
+
+  As part of this commitment and consistent with the Americans
+  with Disabilities Act (ADA), CoreWeave will ensure that
+  qualified applicants and candidates with disabilities are
+  provided reasonable accommodations for the hiring process,
+  unless such accommodation would cause an undue hardship. If
+  reasonable accommodation is needed, please contact:
+  careers@coreweave.com.
+
+  Export Control Compliance
+
+  This position requires access to technology and/or source
+  code subject to U.S. export control laws. Any such access
+  will be provided only in compliance with applicable U.S.
+  export control requirements. As part of the recruitment
+  process, CoreWeave may request limited information
+  reasonably necessary to assess applicable export-control
+  requirements.
+industries:
+  - Cloud
+  - Information Technology
+  - Machine Learning
+posted_date: 2026-11-22
+url: "https://builtin.com/job/senior-technical-program-manager-assurance-engineering/12406840"
+source: Built In

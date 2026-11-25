@@ -1,0 +1,258 @@
+job_id: 12369956
+title: Senior Software Engineer – Ultra Low Latency Risk Engine Developer (VP)
+company: Citigroup
+location: London, GBR
+work_type: FULL_TIME
+company_size: 226,610 Employees
+description: |
+  Senior Software Engineer – Ultra Low Latency Risk Engine
+  Developer (VP)
+
+
+
+  Overview
+
+  Citi Equities Technology | Equities Electronic Execution
+  (Electronic Trading)
+
+  Citi's Equities Technology organization is seeking a Senior
+  Software Engineer – Ultra Low Latency Risk Engine Lead
+  Developer to join the Equities Electronic Execution
+  (Electronic Trading) technology team. This role is focused
+  on the design, development, and delivery of Citi's next-
+  generation low-latency Risk Engine for cash equities and its
+  integration into the broader execution platform —
+  encompassing the Centralised Position Service, Client
+  Connectivity, Market Access layers, and high-throughput
+  market data processing.
+
+
+
+  Role Overview
+
+  The engineer will own critical, latency-sensitive risk-
+  checking components that sit directly in the cash equities
+  trading hot path, ensuring pre-trade and real-time risk
+  controls are enforced with microsecond-level performance
+  while maintaining correctness and resiliency at scale. This
+  is a hands-on, deeply technical role that also carries
+  leadership responsibilities — mentoring engineers, driving
+  architecture decisions, and coordinating delivery across
+  global development centers.
+
+  The person will collaborate closely with product
+  development, quantitative research, technology
+  infrastructure, production support, and QA teams, with close
+  alignment to global strategy and cross-regional delivery
+  (APAC, EMEA, NAM).
+
+  Risk Engine & Core Development
+
+  - Design, develop, and maintain the ultra-low-latency, in-line
+    Risk Engine responsible for real-time pre-trade risk
+    checks, position limits, and exposure controls across cash
+    equities electronic execution flows.
+  - Architect and optimize high-performance, lock-minimal,
+    multi-threaded components capable of processing risk
+    decisions in the sub-microsecond to low-microsecond range.
+  - Integrate risk and position components with Client
+    Connectivity, Market Access layers, and high-throughput
+    market data feed handlers.
+  - Design and implement low-latency messaging and IPC
+    architectures using technologies such as Aeron and Solace,
+    along with shared-memory/IPC mechanisms, to enable fast,
+    reliable communication between distributed risk,
+    execution, and position components.
+  - Apply deep expertise in JVM performance tuning, memory
+    management, garbage collection avoidance, and/or native
+    (C++/Rust) performance engineering to eliminate latency
+    outliers ("jitter") in the risk path.
+  - Perform system-level performance tuning including NUMA-aware
+    application design and memory allocation, CPU core
+    isolation/pinning and affinity tuning, interrupt/IRQ
+    tuning, and kernel bypass or low-latency networking
+    techniques (e.g., kernel bypass stacks, RDMA,
+    solarflare/onload-style NIC tuning) to minimize end-to-end
+    latency and jitter across the risk and execution path.
+
+
+
+  Product & Cross-Functional Collaboration
+
+  - Partner with cash equities traders, quantitative
+    researchers, and clients to translate risk, exposure, and
+    control requirements into robust engineering designs.
+  - Work with market access teams to ensure risk checks are
+    correctly and efficiently embedded across order lifecycle
+    events (new, amend, cancel) and multiple execution venues.
+  - Support new liquidity source onboarding and DMA capability
+    enhancements from a risk-controls perspective.
+
+
+
+  Testing & Quality Engineering
+
+  - Build and continuously improve deterministic, repeatable
+    testing frameworks (unit, integration,
+    latency/performance, and chaos/failover testing) tailored
+    to ultra-low-latency risk systems.
+  - Champion test-driven development (TDD) practices for
+    mission-critical, heavily multi-threaded, asynchronous
+    components.
+  - Establish performance benchmarking and latency regression
+    testing — including messaging, network, CPU, and memory
+    subsystem profiling — as part of the standard delivery
+    pipeline.
+
+  AI-Powered SDLC
+
+  - Leverage Citi's suite of AI-powered development tools across
+    the SDLC to improve engineering productivity, code
+    quality, and time-to-market for risk engine enhancements.
+
+  Agile & CI/CD
+
+  - Champion Agile/Scrum practices and Rational Unified Process
+    disciplines suited to complex, mission-critical trading
+    systems.
+  - Drive CI/CD adoption with a shift-left testing philosophy,
+    enabling accelerated, low-risk release cycles for latency-
+    sensitive production systems.
+
+  Platform Support & Enhancement:
+
+  - Build and maintain tooling for trading platform monitoring,
+    real-time risk/position reconciliation, application
+    recovery, and disaster-recovery/failover for the Risk
+    Engine.
+  - Provide senior-level production support escalation for
+    latency and risk-control incidents, including root-cause
+    analysis of performance regressions across application,
+    messaging, OS, and hardware layers.
+
+  Leadership:
+
+  - Lead and mentor a team of engineers across onshore/offshore
+    locations and Drive architectural decisions and technical
+    roadmap for the Risk Engine and related low-latency
+    components, in alignment with global cash equities
+    electronic trading strategy.
+
+  Key Skills and Experience Required
+
+  - Extensive software engineering experience, with substantial
+    hands-on experience building risk management, position-
+    keeping, or other latency-critical systems for cash
+    equities electronic trading or algorithmic trading
+    platforms at a global investment bank or equivalent
+    financial institution.
+  - Strong, hands-on technical expertise in Low Latency Java
+    and/or C++ (Rust a plus), including multi-threading,
+    concurrency, lock-free data structures, Java NIO, and
+    JVM/GC performance tuning.
+  - Hands-on experience with low-latency messaging and IPC
+    frameworks such as Aeron, Solace, or equivalent shared-
+    memory/IPC technologies for building distributed, high-
+    throughput trading systems.
+  - Demonstrated background in real-time distributed risk
+    management systems for cash equities flow products,
+    including asynchronous, event-driven architectures.
+  - Practical, hands-on experience with NUMA-aware design, CPU
+    core pinning/affinity and isolation, Linux kernel/OS
+    tuning, and low-latency networking (kernel bypass, RDMA,
+    or specialized NIC tuning) for ultra low-latency, high-
+    throughput systems.
+  - Strong understanding of automated testing techniques, test-
+    driven development, and quality engineering practices for
+    mission-critical systems.
+  - Solid grounding in Agile/Scrum methodologies, Rational
+    Unified Process, and Continuous Integration/Continuous
+    Delivery pipelines.
+  - Deep familiarity with low-latency system design principles:
+    performance optimization, concurrency, high-throughput
+    architecture, and jitter elimination.
+  - Demonstrated leadership experience managing or technically
+    leading engineering teams (onshore and/or offshore)
+    delivering high-performance trading systems.
+  - Excellent communication skills, with the ability to present
+    and grasp complex technical and risk concepts in a
+    multicultural, cross-regional environment, and to work
+    effectively with globally distributed stakeholders
+    (trading desks, quants, infrastructure, and support
+    teams).
+  - Working knowledge of regional exchange microstructure and
+    relevant regulatory regimes governing cash equities
+    electronic trading and risk controls.
+
+  This job description provides a high-level review of the
+  types of work performed. Other job-related duties may be
+  assigned as required.
+
+
+
+  What we’ll provide you
+
+  By joining Citi, you will not only be part of a business
+  casual workplace with a hybrid working model (up to 2 days
+  working at home per week), but also receive a competitive
+  base salary (which is annually reviewed), and enjoy a whole
+  host of additional benefits such as:
+
+  - 27 days annual leave (plus bank holidays)
+  - A discretional annual performance related bonus
+  - Private Medical Care & Life Insurance
+  - Employee Assistance Program
+  - Pension Plan
+  - Paid Parental Leave
+  - Special discounts for employees, family, and friends
+  - Access to an array of learning and development resources
+
+  Visit our Global Benefits page to learn more.
+
+  Alongside these benefits Citi is committed to ensuring our
+  workplace is where everyone feels comfortable coming to work
+  as their whole self, every day. We want the best talent
+  around the world to be energized to join us, motivated to
+  stay and empowered to thrive.
+
+  #LI-AP2
+
+  ------------------------------------------------------
+
+  Job Family Group: Technology
+
+  ------------------------------------------------------
+
+  Job Family:Applications Development
+
+  ------------------------------------------------------
+
+  Time Type:Full time
+
+  ------------------------------------------------------
+
+  Most Relevant Skills Please see the requirements listed
+  above.
+
+  ------------------------------------------------------
+
+  Other Relevant Skills For complementary skills, please see
+  above and/or contact the recruiter.
+
+  ------------------------------------------------------
+
+  Citi is an equal opportunity employer, and qualified
+  candidates will receive consideration without regard to
+  their race, color, religion, sex, sexual orientation, gender
+  identity, national origin, disability, status as a protected
+  veteran, or any other characteristic protected by law.
+
+
+
+  If you are a person with a disability and need a reasonable
+  accommodation to use our search tools and/or apply for a
+  career opportunity review Accessibility at Citi. View Citi’s
+  EEO Policy Statement and the Know Your Rights poster.
+posted_date: 2026-11-20
+url: "https://builtin.com/job/senior-software-engineer-ultra-low-latency-risk-engine-developer-vp/12369956"
+source: Built In

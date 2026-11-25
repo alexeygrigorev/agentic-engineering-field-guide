@@ -1,0 +1,158 @@
+job_id: 12381150
+title: Tech Lead / Engineering Manager
+company: LetsData
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 30 Employees
+description: |
+  Tech Lead, Platform & Architecture
+
+  LetsData is hiring a hands-on Tech Lead to own the
+  architecture and platform behind Vantage, the early warning
+  platform for information attacks. Full-time, remote in
+  European time zones, reporting to the CEO.
+
+  About LetsData
+
+  Air, land, sea, cyber and space all have early warning
+  systems. The information space, where hostile operations now
+  open most campaigns, still runs largely on tools built for
+  brand monitoring. LetsData builds the early warning layer
+  for it.
+
+  Our platform, Vantage, spots the behavioral signals behind
+  information attacks (impersonation of officials, synthetic
+  amplification, coordinated networks, manufactured
+  narratives) weeks before they turn into fraud, unrest or
+  election interference. It monitors 100M+ open sources across
+  50+ countries and turns them into alerts that analysts and
+  decision-makers act on.
+
+  We work with armed forces, national security agencies,
+  foreign ministries and EU institutions across NATO and the
+  EU. LetsData was founded in Ukraine during the full-scale
+  invasion, so our work started with real attacks, not
+  hypotheticals. The team combines enterprise AI engineering
+  with operational intelligence experience from government and
+  EU institutions.
+
+  The role
+
+  You will own Vantage’s architecture and platform, leading
+  senior engineers across infrastructure, ML, and data, as
+  well as managing a team of team leaders. The role is 70%+
+  hands-on, focused on designing, building, and reviewing
+  systems, while driving technical decisions across teams.
+
+  You’ll report directly to the CEO and work closely with the
+  Head of Product, who defines what we build, while you decide
+  how. Our platform processes over 20 billion LLM tokens
+  monthly, runs on Google Cloud with a secondary Azure
+  environment, and is expanding to on-premise deployments for
+  government customers.
+
+  Format: Full-time.
+
+  Location: Remote, European time zones. LetsData is
+  headquartered in Warsaw and works as a fully remote team, so
+  you can work from anywhere in Europe. We believe in the
+  power of diverse perspectives and understand that talent is
+  not limited by geographical boundaries.
+
+  What you bring
+
+  Must have:
+
+  - 6+ years building production backend, data or platform
+    systems, including 2+ years leading senior engineers while
+    still shipping code most of the week.
+  - Architecture of data-heavy distributed systems: high-volume
+    ingestion, and search and retrieval over hundreds of
+    millions of records (Elasticsearch-class and vector
+    databases such as Qdrant).
+  - Deep cloud and Kubernetes experience on GCP (Azure a plus):
+    infrastructure as code, CI/CD, observability (Grafana or
+    similar), and a record of cutting cloud cost without
+    losing reliability.
+  - Security engineering in practice: vulnerability management,
+    patching and access control on production systems.
+  - Experience in team management, with an ability to support
+    and develop engineers.
+  - Advanced English, written and spoken, including design docs
+    and decision records a distributed team can act on.
+
+  Nice to have:
+
+  - Production LLM systems: pipelines, evaluations,
+    observability (Langfuse or similar), self-hosted models.
+  - SOC 2: you have led the technical controls through an audit.
+  - Hybrid or on-premise deployments for government or defence
+    customers; multi-tenancy and role-based access control.
+  - Graph data models or threat-intelligence standards such as
+    STIX and OpenCTI.
+  - Ukrainian language.
+
+  What you will do
+
+  - Own Vantage's architecture end to end and make the cross-
+    team technical calls, written as decision records.
+  - Run the platform: GCP and Azure environments, Kubernetes,
+    data pipelines, CI/CD and monitoring, plus the on-premise
+    option we are building for government customers.
+  - Own cloud cost and keep cost per insight falling as data
+    volume grows.
+  - Lead security engineering and take the platform through SOC
+    2.
+  - Lead senior engineers across infrastructure, ML and data,
+    and set the technical standards both product teams build
+    to.
+  - Spend most of your week writing and reviewing code.
+
+  What we offer
+
+  - Competitive compensation and equity package.
+  - Unlimited vacation and additional days off on your special
+    occasions.
+  - Unlimited sick leave to take care of your health.
+  - Parental leave for those who stay with us for 1+ year.
+  - Membership at a coworking space of your choice.
+  - Opportunity to participate in the top events of the
+    industry.
+
+  If this sounds like the opportunity you’ve been looking for,
+  we’d be glad to receive your CV!
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-11-20
+url: "https://builtin.com/job/tech-lead-engineering-manager/12381150"
+source: Built In

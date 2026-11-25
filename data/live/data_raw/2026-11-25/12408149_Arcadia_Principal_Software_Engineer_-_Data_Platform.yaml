@@ -1,0 +1,176 @@
+job_id: 12408149
+title: Principal Software Engineer - Data Platform
+company: Arcadia
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 360 Employees
+description: |
+  Arcadia is dedicated to happier, healthier days for all. We
+  believe that there is a better healthcare world—one powered
+  by data. Our platform transforms complex, diverse data into
+  a unified foundation for health, helping organizations
+  deliver better care, boost revenue, and lower costs.
+
+
+
+  We're a team of fiercely driven individuals committed to
+  making healthcare more sustainable—and we're looking for
+  passionate people to help us get there.
+
+
+
+  For more information, visit arcadia.io.
+
+
+
+  Why This Role Is Important to Arcadia
+
+  Arcadia's petabyte-scale data platform is at the heart of
+  everything the company does; everyone from our external
+  customers to our engineers, from our analysts to our sales
+  team, depends on it. They don't just use it; they build on
+  it. This data platform needs to enable a shared ownership
+  model, so the platform team can scale and internal teams can
+  move fast. This role sets how we build and run it.
+
+
+
+  The role reports directly to the VP of Engineering.
+
+
+
+  What Success Looks Like
+
+  The data platform provides building blocks, from catalog and
+  pipelines to databases, queues, and storage, that come pre-
+  wired with connectivity, logging, metrics, tracing, alerts,
+  encryption, access controls, backups, and cost tags—all with
+  sensible defaults.
+
+
+
+  Internal teams own and change their pipelines, environments,
+  alerts, and SLOs. When something breaks, the owning team
+  sees it first, traces it to the root cause, and addresses it
+  themselves. They see their own quality numbers and cloud
+  spend, and act on them. Data platform engineers spend their
+  time building capabilities, not working tickets.
+
+  What You'll Be Doing
+
+  - Partner with internal teams to prioritize, implement, and
+    roll out features they depend on—from enabling self-
+    service ETL authoring to provisioning new data stores,
+    from establishing data quality metrics to optimizing
+    performance.
+  - Evaluate new technologies and architectures, prototype them,
+    and roll them out as new capabilities across the platform.
+  - Write a meaningful share of the production code.
+  - Work closely with our AWS infrastructure team on the
+    platform's network, compute, and security.
+  - Push quality attributes into the platform, especially as AI
+    increases the volume of changes. We need the platform
+    itself to be stable, resilient, performant, and cost-
+    effective. Internal teams that build on it need to be able
+    to configure their own SLIs/SLOs and focus on data
+    quality.
+  - Run the platform as an internal product: find what slows
+    teams down, pick the few capabilities worth building,
+    publish the roadmap, and measure adoption, delivery speed,
+    stability, and developer satisfaction.
+  - Drive migrations to completion: track usage, automate
+    instead of handing out checklists, push through the final
+    20%, and sunset legacy systems.
+  - Set technical direction, evolve the platform, and coach
+    other engineers through design partnership and review.
+  - Building data engineering tooling on top of our internal AI
+    platform.
+
+  What You'll Bring
+
+  - Deep experience in data engineering—from columnar stores to
+    data lakes, from distributed processing to SQL
+    optimization.
+  - Expertise in software engineering—CI/CD, testing,
+    architecture, source control, automation, observability,
+    modularity and reuse, and fluency in Python, Java, or
+    Scala.
+  - Modern data stack experience (e.g. data contracts and data
+    products, dbt, Spark, Dagster, Iceberg and Parquet,
+    notebooks and BI, data catalogs and data quality).
+  - Strong AWS experience since the platform is built on its
+    network, storage, and compute primitives.
+  - Experience building with AI.
+  - Reliability you've owned: SLOs, observability, on-call, and
+    incident response.
+  - Current, hands-on production coding, the habit of figuring
+    things out (research, spike, deliver), and relentless
+    pragmatism about what's worth building.
+  - A track record of driving change across the org.
+
+  Would Love for You to Have
+
+  - Regulated-data experience (HIPAA, PHI, SOC 2 or HITRUST
+    environments).
+  - A public voice through talks, writing, or open source.
+  - Experience turning a data engineering team into a product-
+    minded platform team complete with processes, stakeholder
+    management, and a roadmap.
+  - Experience building platform support that scales: support
+    tiers, office hours, docs, shared ownership principles,
+    escalation processes, and developer advocacy.
+  - No healthcare background required.
+
+  What You'll Get
+
+  - The opportunity to shape Arcadia's data platform and its
+    direction for years to come.
+  - Direct influence on how Arcadia's engineering org works on a
+    daily basis through tooling, patterns, and standards.
+  - Remote-first across the US, with in-person hubs growing in
+    Boston, DC, and NYC.
+  - A flexible culture with personality and heart, named a Built
+    In 2026 Best Place to Work.
+  - Work that shows up in patients' lives.
+
+  About Arcadia
+
+  Arcadia.io helps innovative providers and payers across the
+  country transform healthcare to reduce cost while improving
+  patient health. We do this by aggregating large amounts of
+  disparate data, applying algorithms to identify
+  opportunities to provide better patient care, and making
+  those opportunities actionable by physicians at the point of
+  care in near-real time. We are passionate about helping our
+  customers drive meaningful outcomes. We are growing fast and
+  have emerged as a market leader in the highly competitive
+  population health management software market and have been
+  recognized by industry analysts KLAS, IDC, Forrester, and
+  Chilmark for our leadership. For a better sense of our brand
+  and products, please explore our website.
+
+  Protect Yourself
+
+  If you have concerns about the authenticity of a job offer
+  or recruitment-related communication claiming to be from
+  Arcadia, we encourage you to verify by contacting us
+  directly at (781) 202-3600 and select option 3. For more
+  information, visit our website.
+
+  This position is responsible for following all Security
+  policies and procedures in order to protect all PHI under
+  Arcadia's custodianship as well as Arcadia Intellectual
+  Properties.  For any security-specific roles, the
+  responsibilities would be further defined by the hiring
+  manager.
+industries:
+  - Big Data
+  - Fitness
+  - Healthtech
+  - Information Technology
+  - Software
+  - Analytics
+posted_date: 2026-11-23
+url: "https://builtin.com/job/principal-software-engineer-data-platform/12408149"
+source: Built In

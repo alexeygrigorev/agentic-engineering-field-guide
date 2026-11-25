@@ -1,0 +1,169 @@
+job_id: 11119071
+title: Software Engineer, Infrastructure
+company: LangChain
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 123 Employees
+description: |
+  About Us
+
+  At LangChain, our mission is to enable every company to own
+  its intelligence. We believe agents will transform how
+  companies operate, and we're building the foundation to make
+  that future possible. Our open-source harnesses and
+  LangSmith platform give developers and enterprises the
+  infrastructure to run, improve, and govern agents at scale.
+
+  We've raised $460M to date, with our most recent funding
+  round valuing the company at $3B, backed by leading
+  investors including Sequoia, Benchmark, IVP, and CapitalG.
+  As we continue to expand our platform and tackle some of the
+  hardest challenges in agent engineering, every team member
+  has the opportunity to make a meaningful impact and help
+  shape both our technology and the future of the industry.
+
+  More than 7,000 organizations rely on LangSmith, from fast-
+  growing startups to Fortune 500 enterprises, including
+  NVIDIA, Bridgewater, LinkedIn, Workday, and Rippling. We're
+  just getting started on making high-performing agents easier
+  to build and manage at scale.
+
+  About the Role
+
+  The Infrastructure team builds and maintains the systems
+  that power LangChain’s developer platform, including
+  LangGraph Cloud and LangSmith. The team focuses on
+  reliability, scalability, and developer productivity across
+  the stack, working closely with backend, frontend, and
+  platform engineers to ensure services are deployed, tested,
+  and operated with confidence.
+
+  We’re hiring a Software Engineer to join the Infrastructure
+  team and work across our LangGraph Cloud/Platform, LangSmith
+  products, as well as internal systems. You’ll work closely
+  with Infrastructure, Backend, and Frontend teams to ship
+  with confidence across Kubernetes-based services, APIs, and
+  UI flows. You’ll also help pioneer quality practices
+  specific to LLM applications, such as prompt regression
+  testing and evaluation suites. The team also owns our
+  Sandbox product which enables you to improve scale and
+  reliability of that offering as it powers many internal
+  tools such as our software factory and CI/CD pipelines.
+
+  Location: In person 5 days/week in San Francisco, CA or New
+  York, NY. Open to remote for exceptional candidates.
+
+  What You'll Do
+
+  - Build internal tools and automation that reduce operational
+    toil and help engineers build, test, and ship faster
+  - Improve how we deliver software to SaaS and self-hosted
+    customers, partnering with product teams to make releases
+    faster and safer
+  - Build and scale customer-facing infrastructure products,
+    including our sandboxes, with a focus on performance,
+    reliability, and developer experience
+  - Scale our bring-your-own-cloud (BYOC) offering to improve
+    customer experience and time to value
+  - Establish practical engineering standards for testing,
+    reliability, and safe deployments without slowing teams
+    down
+  - Evolve our observability stack so we can detect and diagnose
+    problems as our infrastructure scales
+
+  Example projects you might own
+
+  - Scaling our Internal Software factory to handle 100x more
+    scale
+  - Chaos testing framework to identify ares of improvement for
+    our platform
+  - Redefine testing philosophy in the era of agentic coding
+  - Improve our sandbox product’s performance and scale
+
+  What You'll Bring
+
+  - 3+ years of experience as a software engineer or
+    infrastructure engineer
+  - Strong hand-on experience with API testing, integration
+    testing, and unit testing. Including common frameworks
+    like pytest
+  - Experience working with CI/CD systems (GitHub Actions
+    preferred) and improving pipeline performance and
+    reliability
+  - Comfort defining quality standards, writing test plans, and
+    driving cross-team execution
+  - Understanding of technical systems that span backend
+    frameworks and cloud infrastructure
+
+  Nice to Have
+
+  - Experience with load and performance testing tools such as
+    k6
+  - Familiarity with observability tooling such as Datadog or
+    OpenTelemetry
+  - Experience testing services running on Kubernetes and
+    containerized environments
+  - Basic infrastructure experience with Helm, Terraform,
+    Kubernetes networking, or secrets management
+  - SQL fluency for validating data (Postgres, ClickHouse,
+    BigQuery)
+  - Familiarity with Go, Node, or React for targeted white-box
+    tests and improving system testability
+
+  Compensation Philosophy
+
+  We offer competitive compensation that includes base salary,
+  variable compensation for relevant roles, meaningful equity,
+  benefits, and perks.
+
+  We are hiring for this role across a range of scope, and the
+  compensation band reflects that. Your offer depends on what
+  we learn about your impact, craft, leadership, and
+  communication during the interview process. We will tell you
+  early where you’re tracking and talk comp with you before
+  offer stage. Team members in the EU, UK, and APAC receive
+  locally competitive benefits aligned with regional norms and
+  regulations.
+
+  Benefits
+
+  Benefits include medical, dental, and vision coverage,
+  flexible vacation, a 401(k) plan, meals on in-office days in
+  the US and more.
+industries:
+  - Information Technology
+  - Software
+  - Database
+posted_date: 2026-09-10
+url: "https://builtin.com/job/developer-productivity/11119071"
+source: Built In

@@ -1,0 +1,183 @@
+job_id: 12321724
+title: Senior Software Engineer Backend Pre-ordering (m/f/d)
+company: Flink
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 2,451 Employees
+description: |
+  Company Description
+
+  Launched in 2021 with a simple yet bold mission, Flink set
+  out to give people back their most valuable resource: time.
+  We didn't just join the quick commerce race, we defined its
+  potential. By enabling customers to order from a curated
+  selection of over 3,000 groceries and household essentials
+  through our user-centric app, we deliver what people need in
+  minutes. We have fundamentally shifted the retail landscape
+  across Germany and the Netherlands, while embedding
+  sustainability into our core through an all-electric
+  delivery fleet, recyclable packaging, and a focus on
+  reducing food waste.
+
+  Today, Flink has evolved from a disruptive startup into a
+  resilient and sustainable powerhouse. In an industry defined
+  by rapid change, we’ve mastered the balance of hyper-
+  efficiency and massive scale. With a network of around 160
+  hubs, we now bring the Flink experience to more than 22
+  million people, making us an integral part of the urban
+  infrastructure. This impact is driven by a dedicated team of
+  more than 10,000 colleagues, including a fully employed
+  rider fleet that serves as the backbone of our operations.
+  By generating over €550m in revenue in 2025, we have proven
+  that our model is not only desirable but financially
+  formidable.
+
+  Having built a proven foundation, we are now shifting from
+  establishing our presence to accelerating our impact. Backed
+  by prestigious partners like Prosus, Mubadala, Bond,
+  DoorDash, Btomorrow Ventures and REWE, and fueled by fresh
+  investment, we are entering our next major growth phase. We
+  are thinking bigger, expanding our footprint, and refining
+  every link in our value chain.
+
+  Our culture is defined by a shared bias for action and the
+  commitment to being 1% better every day. We take ownership,
+  stay close to the frontline, and support one another to
+  ensure we never let another Flinker fail. We celebrate
+  diversity and believe that our multicultural team is our
+  greatest competitive advantage.
+
+  The Pre-Ordering team is the front door of Flink: the first
+  thing millions of customers see and touch. Every visit
+  starts in the screens and services this team builds, from
+  signing up and logging in to the home screen, search,
+  categories and deals.
+
+  In your role as Senior Software Engineer - Backend on the
+  Pre-Ordering team, you will design, build and run the
+  backend services behind everything a customer does before
+  checkout. You will work end to end with the rest of the
+  team, from the APIs our iOS, Android and web apps call to
+  the data and systems behind them.
+
+  The team owns onboarding new customers, login and
+  authentication, the user profile, Flink Prime (our
+  subscription programme), the Explore page, search, category
+  navigation, deals, our in-house recommender, and
+  integrations with third-party systems. It is a cross-
+  functional team of backend, web and mobile engineers working
+  closely with Design and Analytics, and it runs its services
+  in production. Pre-Ordering is part of our Consumer domain.
+  We are experimenting with new ways of working that give
+  engineers ownership of their projects.
+
+  Job Description
+
+  - Build the Services Customers Start With: Design, build and
+    operate the backend services behind the home screen,
+    search, categories, deals, customer accounts and Flink
+    Prime. We mostly use Go and Kotlin, running on Kubernetes
+    in Google Cloud.
+  - Work End to End: Take features from idea through technical
+    design, implementation, release and production monitoring.
+    Design the APIs our apps use together with client
+    engineers, including server-driven UI so changes reach
+    customers without waiting for an app release. You build
+    it, you own it.
+  - Help Customers Find What They Came For: Work on problems
+    such as improving search relevance, personalising the
+    Explore page, making sign-up and login effortless across
+    devices, and making Flink Prime more valuable to
+    subscribers. The Pricing team sets prices and promotions;
+    our team decides how customers see them.
+  - Make Technical Decisions: Make architecture decisions for
+    the services the team owns, write RFCs, and break larger
+    work into pieces the whole team can pick up.
+  - Keep Our Systems Reliable: Every session in our apps runs
+    through these services. Own SLIs/SLOs, monitoring and
+    alerting in Datadog, take part in the on-call rotation,
+    help resolve incidents and fix issues at the root.
+  - Engineer with Agents: Use coding agents such as Claude Code
+    for writing, testing, reviewing and porting code. Improve
+    the agent instructions and skills in our repositories so
+    the whole team gets better results.
+  - Raise the Quality Bar: Lead code reviews, write tests,
+    reduce toil and keep our CI/CD pipelines healthy. Help
+    your team get 1% better every day.
+  - Shape the Product: Work with Design, Analytics and our
+    business partners on what to build and why. Use
+    experiments and data to decide, and speak up when you see
+    a better option. At Flink, the best idea wins.
+  - Grow Others: Mentor engineers and share what works across
+    the Consumer domain.
+  - Protect Customer Data: This team handles accounts, login and
+    personal data. Follow secure coding practices, handle
+    personal data in line with GDPR, and fix vulnerabilities
+    quickly.
+
+  Qualifications
+
+  We value quality of impact over years of tenure.
+
+  - Backend engineer who ships: You have built and run backend
+    services in production for a consumer product, in Go,
+    Kotlin, Java or a similar language. We mostly use Go and
+    Kotlin.
+  - Solid engineering foundation: You know API design,
+    distributed systems, data modelling and testing, and you
+    can explain the trade-offs behind your decisions.
+  - Runs what you build: You look after your services in
+    production with monitoring, alerting and incident
+    response, and you have worked with containers and CI/CD.
+  - Works with AI coding tools: You have used coding agents such
+    as Claude Code, Cursor, Codex or GitHub Copilot, or you
+    want to make them a central part of how you work. You know
+    what to hand over to an agent, and you check the result
+    before it ships.
+
+  Additional Information
+
+  For this role as Senior Software Engineer Backend Pre-
+  ordering(m/f/d), the starting remuneration is as follows:
+
+  - Base pay: €80,000 to €100,000.00 gross/annually, full-time
+    (40 hours per week)
+  - VSIPs: 10-25 % annual allotment
+
+  Cash and Non-cash Benefits:
+
+  - A €1000 annual L&D budget as well as individual coaching
+    options to ensure you have plenty of opportunities to
+    learn, grow and achieve your goals
+  - 26 days of vacation, +1 day every year up to a maximum of 30
+    days
+  - A mobility budget of 35 EUR per month for Deutschland Ticket
+    subsidy
+  - A discount on your Urban Sports Club membership
+  - Attractive company pension options
+  - Unlimited access to an e-learning and development platform,
+    MyAcademy, including online German courses
+  - Online discounts with Corporate Benefits and Future Bens
+  - A cool discount off your personal Flink orders; be the first
+    to test out new products!
+  - A modern and dog-friendly office in the heart of Berlin -
+    lots of delicious lunch spots available within short
+    walking distance
+
+
+
+  For this role as Senior Software Engineer Backend Pre-
+  ordering (m/f/d), the following provisions of the collective
+  agreement EU Pay Transparency Directive apply: Directive
+  (EU) 2023/970.
+
+  It is our commitment that every applicant will be evaluated
+  according to their skills regardless of age, gender
+  identity, ethnicity, sexual orientation, disability status,
+  or religion.
+industries:
+  - eCommerce
+  - Information Technology
+posted_date: 2026-11-18
+url: "https://builtin.com/job/senior-software-engineer-backend-pre-ordering-m-f-d/12321724"
+source: Built In

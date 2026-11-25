@@ -1,0 +1,222 @@
+job_id: 12279790
+title: Staff Software Engineer – Norm Compliance
+company: Norm Ai
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 225 Employees
+description: |
+  About Norm
+
+  Norm builds AI-native professional services firms and the
+  technology that powers them. Our mission is to help expert
+  professionals deliver better work at greater scale.
+
+  Developing the technology and the firms together lets us
+  rethink how work gets done, how teams operate and what
+  clients can expect. Professional judgment and experience
+  guide what we build, while advances in the technology expand
+  what our firms can deliver. Our shared agentic platform
+  connects that progress across teams and services.
+
+  Founded in 2023, Norm brings together experts across
+  engineering, research, product, design and professional
+  practice. Our legal and compliance platform serves
+  institutions representing more than $35 trillion in combined
+  assets under management.
+
+  Norm also powers Norm Law, LLP, an affiliated AI-native law
+  firm whose attorneys advise leading institutions on complex
+  corporate matters. AI Fluency: Norm prefers all team members
+  to be fluent in AI. Successful candidates actively use AI in
+  their day-to-day work to support thinking, creation, and
+  problem-solving. They use it to improve the quality and
+  speed of their work and to continuously refine how work gets
+  done end-to-end. Candidates should be prepared to
+  demonstrate and discuss their AI usage throughout the
+  interview process, including concrete examples of tools,
+  workflows, and outcomes. We look for practical, hands-on
+  experience, not theoretical familiarity.
+
+  About Norm
+
+  Norm builds AI-native professional services firms and the
+  technology that powers them. Our mission is to help expert
+  professionals deliver better work at greater scale.
+
+  Developing the technology and the firms together lets us
+  rethink how work gets done, how teams operate and what
+  clients can expect. Professional judgment and experience
+  guide what we build, while advances in the technology expand
+  what our firms can deliver. Our shared agentic platform
+  connects that progress across teams and services.
+
+  Founded in 2023, Norm brings together experts across
+  engineering, research, product, design and professional
+  practice. Our legal and compliance platform serves
+  institutions representing more than $35 trillion in combined
+  assets under management.
+
+  Norm also powers Norm Law, LLP, an affiliated AI-native law
+  firm whose attorneys advise leading institutions on complex
+  corporate matters.
+
+  This Role
+
+  We are hiring Staff Software Engineers for Norm Compliance,
+  the team that owns Norm's compliance platform for asset
+  managers: the product behind marketing and content review at
+  large financial institutions. Each Staff engineer owns one
+  of the two domains every client and every feature depends
+  on, and is its technical authority within the architecture
+  the Tech Lead owns. The team is fully remote in the US, up
+  to eight engineers. You are a full-stack engineer as well:
+  you ship product features in Python and TypeScript every
+  week, like everyone else on the team.
+
+  Platform: the systems underneath the product, at the
+  intersection of infrastructure, security and AI operations:
+  the evaluation engine runtime, distributed job processing
+  and LLM provider integrations, document processing,
+  authorization and the Microsoft Office service, plus the
+  release train, the schema and platform on-call.
+
+  Applied AI: the quality of the AI that does the reviewing.
+  Its output is read by compliance officers and regulators, so
+  correctness has to be measured per client and no change
+  should ship without passing a regression set. Building that
+  is the job: the evaluation gate, the prompt architecture,
+  model and provider strategy, per-client measurement, cost
+  and throughput.
+
+  How You'll Work
+
+  The team reports to the General Manager of Norm Compliance.
+  Day to day you work with a product manager who owns the
+  backlog and our commitments to clients, and with a client
+  engagement/deployment strategy team that owns the
+  relationships; you answer clients' technical questions in
+  writing or through meetings, along the client
+  engagement/deployment strategy team. You own the
+  infrastructure the product runs on (Platform) or work with
+  our legal engineers on what “correct” means for each client
+  (Applied AI).
+
+  You Will
+
+  - Learn your domain with the engineers who run it today, ship
+    with their review, then own it.
+  - Ship full-stack product work every week, in Python (FastAPI,
+    SQLAlchemy) and TypeScript (React, Next.js) on Postgres
+    and AWS, through the same pipeline as everyone else.
+  - Establish best practices for reliability, testing and
+    documentation in your domain, and mentor the Senior
+    engineers who work in it.
+  - Platform: maintain an overall stable and up-to-date
+    platform; write and then own the platform's operating
+    documentation (how the runtime, workers, workflows, state
+    machine, document processing, authorization and Office
+    service work and how to operate them); own the product's
+    release process end to end; own schema and migration
+    safety across a large migration history; design core
+    services such as secure file handling, distributed job
+    processing and outage-resilient LLM provider integrations;
+    stand up cloud development environments.
+  - Applied AI: build and own the evaluation gate (regression
+    sets by client and by review type, run before any prompt
+    or model change reaches production); architect the system
+    of prompts that power the review engine; set model and
+    provider strategy across multiple providers within the
+    data-handling rules our clients require; measure
+    completion and quality per client and fix defects with
+    data; own the cost and throughput of the AI load.
+
+  Skills & Experience - Core
+
+  - Bachelor's or Master's in computer science or an equivalent
+    field, or equivalent practical experience
+  - 8+ years of experience as a software engineer, with a track
+    record of owning key components in more than one
+    organization
+  - Strong programming skills in Python and TypeScript (React);
+    Postgres and Redis or similar; Docker; AWS
+  - Comfort in a large codebase you did not write, and clear,
+    brief writing
+  - Platform: cloud-native containerized applications; async job
+    systems (Celery or similar) and workflow engines (Temporal
+    or similar); SQLAlchemy and Alembic or equivalents;
+    observability tools such as Datadog or OpenTelemetry;
+    Terraform; CI/CD pipelines using tools like GitHub
+    Actions; experience owning reliability and an on-call
+    rotation for a system with real traffic
+  - Applied AI: 3+ years on LLM-backed production systems;
+    prompt design, retrieval, evaluation suites and
+    benchmarks, model comparison, structured output, cost and
+    latency management; experience debugging quality problems
+    in a live AI product with data rather than intuition;
+    interest in becoming a legal and compliance domain expert
+
+  Skills & Experience - Pluses
+
+  - Background working on complex compliance or regulatory
+    systems, or in financial services
+  - Platform: multi-tenant SaaS with dedicated-tenant
+    deployments; experience separating a monorepo or a release
+    pipeline; SAML, SSO, 17a-4 and similar enterprise
+    requirements
+  - Applied AI: Bedrock and multi-provider setups; deriving
+    insights from PDFs and other unstructured data; applying
+    traditional ML alongside state-of-the-art LLMs; model-
+    change governance in a regulated setting
+
+  What Success Looks Like - 90 Days
+
+  - You know the platform's architecture and its largest
+    clients, and have shipped to production with code review
+    from the team
+  - Platform: you are maintaining an overall stable and up-to-
+    date platform
+  - Applied AI: the largest clients have regression sets, no AI
+    change ships without passing them, and the first quality
+    defect is diagnosed with data and fixed
+
+  Comp and Benefits
+
+  $240,000 a year plus equity.
+
+  The range displayed in this job posting reflects the minimum
+  and maximum target for new hire salary for this position.
+  Within the range, individual pay is determined by various
+  factors, including job-related skills (as uncovered during
+  the interview process), experience, and relevant education
+  or training. Please note that the compensation details
+  listed here reflect the base salary only, and do not include
+  equity or benefits. We offer a competitive salary along with
+  equity compensation. Our comprehensive benefits package
+  includes a 401(k) plan with an employer match. Employees
+  enjoy top-tier insurance coverage, encompassing health,
+  dental, hospital, accident, and vision plans. You'll thrive
+  in our fast-paced learning environment where professional
+  growth is constant.
+
+  This role is fully remote within the United States, with
+  core hours on US Eastern time. You will start in our New
+  York office at One World Trade Center. Norm employment, US
+  residency and work performed from the US are conditions of
+  the role; because our clients are financial institutions,
+  offers are conditional on a background check, including
+  E-Verify. Visa sponsorship is not available for this
+  position.
+
+  If you're interested in the role but aren't sure whether
+  you're a good fit, we'd still like to hear from you.
+
+  To learn more about Norm, visit our website.
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Machine Learning
+  - Software
+posted_date: 2026-11-16
+url: "https://builtin.com/job/staff-software-engineer-norm-compliance/12279790"
+source: Built In

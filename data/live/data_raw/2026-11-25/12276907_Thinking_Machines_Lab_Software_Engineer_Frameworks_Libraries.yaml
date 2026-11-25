@@ -1,0 +1,132 @@
+job_id: 12276907
+title: "Software Engineer, Frameworks & Libraries"
+company: Thinking Machines Lab
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 91 Employees
+description: |
+  About Thinking Machines
+
+  The mission of Thinking Machines is to build AI that extends
+  human will and judgment. We are training frontier models
+  with Inkling, developing Tinker to let people make models
+  their own, and crafting interfaces that broaden human-AI
+  communication. We believe the future worth building is
+  human, and we're hiring people who want to build it.
+
+  About the Role
+
+  We're hiring a Software Engineer, Frameworks & Libraries to
+  turn the functionality we build internally into the open-
+  source core libraries that the community builds on. You will
+  package the code that powers our model launches and the
+  Tinker Cookbook into well-designed, well-documented
+  libraries, so that when we release a new model, researchers
+  and developers can sample from it, post-train it, and
+  evaluate it from day one.
+
+  You will own the path from internal prototype to public
+  library across the full stack of model-interaction
+  primitives. Each layer builds on the one before it, so the
+  interfaces you design need to compose cleanly, stay stable
+  as models and training methods change, and hold up under
+  real use by Tinker customers.
+
+  This is a technical-first role at the boundary between
+  research, infrastructure, and our open-source community.
+  It's ideal for someone who cares about API design, backwards
+  compatibility, and developer ergonomics, and who is just as
+  comfortable reading a tokenizer's chat template as they are
+  shipping a release.
+
+  What You'll Do
+
+  - Package internal functionality into external, open-source
+    core libraries (e.g., tml-renderers) and maintain them
+    with clear versioning, changelogs, deprecation policies,
+    and release automation
+  - Support model launches by ensuring renderers, tokenizers,
+    parsers, and tool-call handling for new models ship
+    correctly and are ready for sampling and post-training on
+    day one
+  - Design and build the layers of the stack that follow the
+    renderer: context compaction, session management, the
+    rollout loop and runtime, a rollout viewer, and graders
+  - Contribute to the Tinker Cookbook by turning these libraries
+    into reference recipes and examples that demonstrate best
+    practices for supervised and reinforcement learning
+  - Define clean, composable, typed APIs between libraries, and
+    keep the Cookbook, the Tinker SDK, and our internal
+    training and inference systems compatible with each other
+  - Build testing, benchmarking, and correctness tooling (e.g.,
+    token-level parity tests against reference
+    implementations) so that downstream users can trust
+    training and sampling results
+  - Partner with research, infrastructure, and product teams to
+    identify which internal code is ready to be open-sourced,
+    and prioritize what to generalize next
+  - Engage with the open-source community by triaging issues,
+    reviewing contributions, and turning user feedback into
+    improvements
+
+  Skills & QualificationsMinimum Qualifications
+
+  - 4+ years of professional software engineering experience,
+    including building and maintaining libraries or SDKs used
+    by other developers
+  - Strong Python skills, including typing, packaging,
+    dependency management, testing, and CI
+  - Experience designing public APIs and managing versioning,
+    backwards compatibility, and deprecations
+  - Working understanding of how large language models are
+    trained and sampled, including tokenization, chat formats,
+    and tool calling
+  - Ability to work autonomously across research and engineering
+    teams and to take ambiguous, internal-facing code to a
+    polished public release
+
+  Preferred Qualifications
+
+  - Experience maintaining open-source libraries, especially in
+    the machine learning ecosystem (e.g., PyTorch, Hugging
+    Face, or similar projects)
+  - Hands-on experience with LLM post-training, including
+    supervised fine-tuning and reinforcement learning, and
+    with the data and rollout pipelines that support them
+  - Experience building agent or rollout infrastructure, such as
+    sandboxed runtimes, long-context management or compaction,
+    session and state handling, or evaluation harnesses
+  - Experience building developer tools for inspecting model
+    behavior, such as trace or transcript viewers
+  - Familiarity with building graders, reward functions, or
+    evaluation frameworks for language models
+  - Experience with performance-sensitive code, such as
+    streaming parsers or Rust or C++ extensions exposed to
+    Python
+  - Strong opinions about developer experience, documentation,
+    and examples, and a record of public code, tutorials, or
+    writing that helped others apply technical concepts
+
+  Logistics
+
+  - Location: This role is based in San Francisco, California or
+    New York, New York.
+  - Compensation: Depending on background, skills and
+    experience, the expected annual salary range for this
+    position is $300,000 - $400,000 USD.
+  - Visa sponsorship: We sponsor visas. While we can't guarantee
+    success for every candidate or role, if you're the right
+    fit, we're committed to working through the visa process
+    together.
+  - Benefits: Thinking Machines offers generous health, dental,
+    and vision benefits, unlimited PTO, paid parental leave,
+    and relocation support as needed.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-11-16
+url: "https://builtin.com/job/software-engineer-frameworks-libraries/12276907"
+source: Built In

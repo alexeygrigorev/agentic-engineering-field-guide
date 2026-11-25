@@ -1,0 +1,246 @@
+job_id: 12376524
+title: Engineering Manager - Grafana Infrastructure (Remote, USA)
+company: Grafana Labs
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,300 Employees
+description: |
+  Grafana Labs is the company behind Grafana Cloud, the fully
+  managed observability platform trusted by more than 10,000
+  organizations to ensure reliability, resolve incidents
+  faster, and optimize telemetry at scale. Built on open
+  source and open standards and designed for interoperability
+  across any stack, Grafana Cloud brings AI to observability
+  and observability to AI, giving teams (and their agents)
+  unified visibility so they can see, understand, and act on
+  all their disparate data, wherever it lives, and move at the
+  speed of their ambitions. Customers, including Anthropic,
+  Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on
+  Grafana Labs. We are a 100% remote company with team members
+  across 40+ countries, backed by leading investors including
+  Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue,
+  J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at
+  grafana.com and follow us on LinkedIn and X.
+
+  We’re scaling fast and staying true to what makes us
+  different: an open-source legacy, a global collaborative
+  culture, and a passion for meaningful work. Our team thrives
+  in an innovation-driven environment where transparency,
+  autonomy, and trust fuel everything we do.
+
+  You may not meet every requirement, and that’s okay. If this
+  role excites you, we’d love you to raise your hand for what
+  could be a truly career-defining opportunity.
+
+  This is a remote position and we're considering candidates
+  in the US or Canada (residents of Québec are not eligible
+  for this position).
+
+  The OpportunityAbout our platform
+
+  Grafana Cloud moves millions of metrics, log lines, and
+  traces per second from our customers' environments into a
+  highly available, low-latency stack that processes and
+  stores this data, and serves it to dashboards and alerting
+  tools. We aim to grow this to hundreds of millions per
+  second, and it's critical that as we grow, we improve our
+  performance, increase our reliability, and do it efficiently
+  and securely.
+
+  The Foundations department owns the Internal Engineering
+  Platform (IEP): the Kubernetes clusters, cloud service
+  provider resources (CSP), hardware, identity, delivery, and
+  observability systems that Grafana Labs's application
+  engineers use to build, deploy, and run their workloads.
+
+  About the Infrastructure group
+
+  We're hiring an engineering manager for the Foundations
+  Infrastructure group, which owns the cloud infrastructure
+  Grafana Cloud runs on. The group provisions and operates
+  Kubernetes clusters and CSP resources across GCP, AWS, and
+  Azure; enforces identity, access, and security controls
+  across those environments; and runs the observability and
+  cost-visibility systems that keep the infrastructure
+  measurable and accountable.
+
+  You'll lead one of the squads of platform engineers that
+  comprise the group.
+
+  We're platform engineers, and our application teams are our
+  users. Our job is to give them leverage: self-service
+  building blocks that take care of the hard parts of
+  infrastructure, so they can focus on what they're building.
+  We treat the platform as a product and value the experience
+  of the people who use it. When a change is well communicated
+  and understood, teams welcome it, and it lands as an
+  improvement that makes the right way the easy way. You'll
+  lead a squad that makes that happen.
+
+  How we work
+
+  Foundations is a global team that works asynchronously. The
+  people who own a component or problem make the decisions
+  about it, once stakeholders have had a chance to weigh in.
+  Application teams build and run their own services; we give
+  them a self-service platform to do it on.
+
+  Every engineer is on-call for the components their squad
+  provides. We plan on-call, tactical work, and time off into
+  every quarter, so roadmap work is roughly half of an
+  engineer's time rather than all of it.
+
+  What You'll Be Doing
+
+  - Hire, manage, and develop a squad of platform engineers,
+    with regular feedback and career conversations that
+    support each person's growth.
+  - Own your squad's roadmap and quarterly objectives: help
+    decide what the squad works on, what it defers, and why,
+    across a broad remit where demand always exceeds capacity.
+  - Take platform changes from design to fleet-wide adoption:
+    staged rollouts, migration paths, and clear communication,
+    so changes land well for the teams who depend on them.
+  - Partner with the other Infrastructure squads on work that
+    spans them, and with the teams across Foundations and the
+    rest of Engineering whose work depends on yours.
+  - Help shape how the group works as a whole, including
+    planning, on-call, and the ownership model between squads.
+  - Own the squad's intake. Requests, reviews, and support from
+    application teams arrive continuously; keep them triaged
+    and visible so that planned work still moves.
+  - Keep on-call healthy: ensure a sustainable load and support
+    incident response.
+  - Work across team boundaries, contributing beyond your
+    squad's scope where Foundations needs it.
+
+  We invest heavily in developer productivity. You can use
+  modern AI coding assistants as part of your daily workflow
+  (your choice of tools, within security guidelines), backed
+  by a company-funded usage budget so you can iterate quickly
+  without unnecessary friction.
+
+  We encourage pragmatic AI-assisted development: faster
+  prototyping, test generation, refactors, documentation, and
+  incident follow-ups, always paired with strong code review
+  and quality standards.
+
+  What Makes You a Great Fit
+
+  - Experience managing engineers, ideally a team that builds
+    and operates production CSP infrastructure, security,
+    networking and/or storage
+  - Hands-on depth in at least one area of platform engineering,
+    such as cloud infrastructure and Kubernetes,
+    infrastructure security and access, or observability. You
+    can challenge a design in your area on its merits, and the
+    engineers on your team will expect you to.
+  - Fluency with infrastructure as code and with running
+    Kubernetes in production.
+  - A track record of landing internal engineering/developer
+    platform changes at scale. You've driven a migration or a
+    rollout across many teams or many clusters, and you know
+    what makes one stall.
+  - The ability to explain platform engineering to very
+    different audiences (platform engineers, application
+    teams, product management and business leadership) and to
+    make the case for what the squad should and shouldn't take
+    on.
+  - Be comfortable collaborating across time zones and cultures
+    in a fully remote environment, using clear, written
+    communication to build trust and psychological safety.
+  - You're a motivated self-starter with a strong bias toward
+    action and ownership, able to navigate ambiguity in a
+    complex problem space.
+  - Comfort with AI-assisted tooling. We embrace AI and agentic
+    development, so we expect you to be curious and
+    comfortable using AI-powered tools, and ideally to have
+    practical experience folding them into a team's workflow.
+
+  Bonus Points For
+
+  - Experience across more than one of the group's areas: cloud
+    infrastructure, infrastructure security, and observability
+  - Hands-on depth in cloud infrastructure security: cloud IAM,
+    Kubernetes security, secrets, and workload identity on at
+    least one major cloud provider. You can challenge a threat
+    model or an access design on its merits, and the engineers
+    on your team will expect you to.
+  - Building self-service infrastructure for application teams
+  - Running observability for a production platform at scale
+  - Operating across more than one of GCP, AWS, and Azure
+  - You've worked in or on open source, or other community-based
+    projects. At Grafana Labs, "OSS is in our DNA"
+
+  In the USA, the base compensation range for this role is
+  $189,374 - $227,249. Actual compensation may vary based on
+  level, experience, and skillset as assessed throughout the
+  interview process. All of our roles include Restricted Stock
+  Units (RSUs), giving every team member ownership in Grafana
+  Labs' success. We believe in shared outcomes—RSUs help us
+  stay aligned and invested as we scale globally.
+
+  #LI-Remote
+
+  *Compensation ranges are country specific. If you are
+  applying for this role from a different location than listed
+  above, your recruiter will discuss your specific market’s
+  defined pay range & benefits at the beginning of the
+  process.
+
+  Why You’ll Thrive at Grafana Labs:
+
+  - 100% Remote, Global Culture - As a remote-only company, we
+    bring together talent from around the world, united by a
+    culture of collaboration and shared purpose.
+  - Scaling Organization – Tackle meaningful work in a high-
+    growth, ever-evolving environment.
+  - Transparent Communication – Expect open decision-making and
+    regular company-wide updates.
+  - Innovation-Driven – Autonomy and support to ship great work
+    and try new things.
+  - Open Source Roots – Built on community-driven values that
+    shape how we work.
+  - Empowered Teams – High trust, low ego culture that values
+    outcomes over optics.
+  - Career Growth Pathways – Defined opportunities to grow and
+    develop your career.
+  - Approachable Leadership – Transparent execs who are
+    involved, visible, and human.
+  - Passionate People – Join a team of smart, supportive folks
+    who care deeply about what they do.
+  - In-Person onboarding - We want you to thrive from day 1 with
+    your fellow new ‘Grafanistas’ to learn all about what we
+    do and how we do it.
+  - Balance is Key - We operate a global annual leave policy of
+    30 days per annum. 3 days of your annual leave entitlement
+    are reserved for Grafana Shutdown Days to allow the team
+    to really disconnect. *We will comply with local
+    legislation where applicable.
+
+  Equal Opportunity Employer: Grafana Labs is an equal
+  opportunities employer. We welcome applications from
+  everyone regardless of race, colour, nationality, origin,
+  caste, sex, gender reassignment identity or expression,
+  sexual orientation, age, religion or belief, disability,
+  veteran status, genetic information, pregnancy, maternity,
+  marital, family or carer status, or any other characteristic
+  which is protected by local law. We believe that equality
+  and diversity build a strong organisation, and we work hard
+  to ensure that is the foundation of our organisation as we
+  grow.
+
+  Grafana Labs may utilize AI tools in its recruitment process
+  to assist in matching information provided in CVs to job
+  postings. The recruitment team will continue to review
+  inbound CVs manually to identify alignment with current
+  openings.
+
+  #LI-Remote
+
+  For information about how your personal data is used once
+  you’ve applied to a job, check out our privacy policy.
+posted_date: 2026-11-20
+url: "https://builtin.com/job/engineering-manager-grafana-infrastructure-remote-usa/12376524"
+source: Built In

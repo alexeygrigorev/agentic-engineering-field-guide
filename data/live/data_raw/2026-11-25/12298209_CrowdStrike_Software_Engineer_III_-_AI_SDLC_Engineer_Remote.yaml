@@ -1,0 +1,178 @@
+job_id: 12298209
+title: Software Engineer III - AI SDLC Engineer (Remote)
+company: CrowdStrike
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 11,000 Employees
+description: |
+  As a global leader in cybersecurity, CrowdStrike protects
+  the people, processes and technologies that drive modern
+  organizations. Since 2011, our mission hasn’t changed —
+  we’re here to stop breaches, and we’ve redefined modern
+  security with the world’s most advanced AI-native platform.
+  We work on large scale distributed systems, processing
+  almost 3 trillion events per day and this traffic is growing
+  daily. Our customers span all industries, and they count on
+  CrowdStrike to keep their businesses running, their
+  communities safe and their lives moving forward. We're proud
+  to work for a mission-driven company leveraging AI to
+  transform the way we work. CrowdStrikers drive their careers
+  through flexibility and autonomy while also being expected
+  to contribute to a culture of responsible AI adoption,
+  experimentation, and innovation. We use an AI-first mindset
+  as a force multiplier to proactively and continuously
+  accelerate execution, build expertise, uncover insights, and
+  solve complex problems. We’re always looking to add talented
+  CrowdStrikers to the team who have limitless passion, a
+  relentless focus on innovation and a fanatical commitment to
+  our customers, our community and each other. Ready to join a
+  mission that matters? The future of cybersecurity starts
+  with you.
+
+  About the Role: CrowdStrike's engineering organization is
+  scaling its use of agentic AI across the software
+  development lifecycle — from code generation to review to
+  testing and release. As an AI SDLC Engineer, you'll help
+  drive that transformation: building the platforms and
+  workflows that let engineers ship faster, offload well-
+  scoped work to AI agents with confidence, and spend more of
+  their time on the hardest problems. You'll partner closely
+  with engineering teams to identify friction points across
+  the dev lifecycle and turn them into automated, agent-driven
+  capabilities — with an eye toward efficient use of compute
+  and model spend along the way.
+
+  What You'll Do:
+
+  - Design and build agentic workflows that let engineers
+    automate more of the SDLC — from code generation and
+    review to testing and release — with confidence in the
+    output.
+  - Improve context-grounding systems so agents resolve the
+    right information on the first try, cutting slow, error-
+    prone multi-turn search out of the workflow.
+  - Tune model-routing so each task runs on the model best
+    suited to it — matching capability to the job at hand,
+    with cost efficiency as one input among several.
+  - Build observability and quality tooling — dashboards, usage
+    insights, benchmark suites — that give engineers
+    confidence in what agents are doing and how well they're
+    doing it.
+  - Establish internal benchmarks graded against real-world
+    tasks (bug detection, review quality, latency) to validate
+    improvements empirically rather than by intuition.
+  - Partner closely with engineering teams to identify high-
+    friction points in their workflows and turn them into
+    automated, agent-driven capabilities.
+  - Contribute to the broader engineering culture of
+    responsible, effective AI adoption across the
+    organization.
+
+  What You'll Need:
+
+  - 5+ years of backend/platform engineering experience, ideally
+    with production Kubernetes systems.
+  - Hands-on experience building or operating LLM-agent
+    infrastructure — harnesses, tool-integration protocols,
+    subagent orchestration, or similar.
+  - Strong understanding of LLM application mechanics: context
+    windows, prompt design, caching, and reasoning/latency
+    tradeoffs.
+  - Proven experience utilizing AI technologies to enhance
+    decision-making, streamline workflows and processes,
+    improve efficiency and drive business outcomes.
+  - Comfort working from ambiguous, evolving specs.
+  - Go and/or Python proficiency.
+  - Experience building internal developer platforms,
+    observability tooling, or cost/governance dashboards.
+
+  Bonus Points:
+
+  - Experience with modern AI coding agent frameworks or SDKs.
+  - Familiarity with graph-based context systems (knowledge
+    graphs, entity resolution) feeding LLM applications.
+  - Background instrumenting or optimizing large-scale event
+    pipelines.
+  - Prior experience running a benchmark-driven optimization
+    program (A/B testing, Pareto-frontier tracking) for a
+    production system.
+
+  #LI-AV1
+
+  #LI-Remote
+
+  Benefits of Working at CrowdStrike:
+
+  - Market leader in compensation and equity awards
+  - Comprehensive physical and mental wellness programs
+  - Competitive vacation and holidays for recharge
+  - Paid parental and adoption leaves
+  - Professional development opportunities for all employees
+    regardless of level or role
+  - Employee Networks, geographic neighborhood groups, and
+    volunteer opportunities to build connections
+  - Vibrant office culture with world class amenities
+  - Great Place to Work Certified™ across the globe
+
+  CrowdStrike is proud to be an equal opportunity employer. We
+  are committed to fostering a culture of belonging where
+  everyone is valued for who they are and empowered to
+  succeed. We support veterans and individuals with
+  disabilities through our affirmative action program.
+
+  CrowdStrike is committed to providing equal employment
+  opportunity for all employees and applicants for employment.
+  The Company does not discriminate in employment
+  opportunities or practices on the basis of race, color,
+  creed, ethnicity, religion, sex (including pregnancy or
+  pregnancy-related medical conditions), sexual orientation,
+  gender identity, marital or family status, veteran status,
+  age, national origin, ancestry, physical disability
+  (including HIV and AIDS), mental disability, medical
+  condition, genetic information, membership or activity in a
+  local human rights commission, status with regard to public
+  assistance, or any other characteristic protected by law. We
+  base all employment decisions--including recruitment,
+  selection, training, compensation, benefits, discipline,
+  promotions, transfers, lay-offs, return from lay-off,
+  terminations and social/recreational programs--on valid job
+  requirements.
+
+  If you need assistance accessing or reviewing this website,
+  submitting an application, requesting an accommodation, or
+  providing feedback on the job posting, please contact us at
+  recruiting@crowdstrike.com.
+
+  Find out more about your rights as an applicant.
+
+  CrowdStrike participates in the E-Verify program.
+
+  Notice of E-Verify Participation
+
+  Right to Work
+
+  CrowdStrike, Inc. is committed to fair and equitable
+  compensation practices. Placement within the pay range is
+  dependent on a variety of factors including, but not limited
+  to, relevant work experience, skills, certifications, job
+  level, supervisory status, and location. The base salary
+  range for this position for all U.S. candidates is $120,000
+  - $185,000 per year, with eligibility for bonuses, equity
+  grants and a comprehensive benefits package that includes
+  health insurance, 401k and paid time off.
+
+  For detailed information about the U.S. benefits package,
+  please click here.
+
+  Expected Close Date of Job Posting is:01-19-2027
+industries:
+  - Cloud
+  - Computer Vision
+  - Information Technology
+  - Sales
+  - Security
+  - Cybersecurity
+posted_date: 2026-11-20
+url: "https://builtin.com/job/engineer-iii-ai-sdlc-engineer-remote/12298209"
+source: Built In

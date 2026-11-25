@@ -1,0 +1,192 @@
+job_id: 12358255
+title: Full-Stack Developer
+company: Shapely
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 289097 Employees
+description: |
+  This is a remote position.
+
+
+
+  About Shapely
+
+
+
+  Shapely is transforming the weight loss industry through an
+  innovative physician-led approach that makes weight loss
+  care affordable for everyone. With evidence-based care,
+  industry-leading support, and a seamless integrated app, we
+  help thousands of patients across California, Florida, New
+  York, and Texas access GLP-1 therapies and comprehensive
+  weight management, all covered by insurance, including
+  Medicare. Most of our patients are over 65.
+
+
+
+  Technology is how we scale care safely. Patients interact
+  with us through our mobile and web app, including remote
+  patient monitoring (RPM) with connected scales that sync
+  directly into the app, and through our signup flow. Behind
+  the scenes, our operations run on Zoho (CRM and business
+  automation) and a growing set of third-party tools. We’re
+  growing our development team to build and connect all of it,
+  faster.
+
+
+
+  The Role
+
+
+
+  We’re looking for a Full-Stack Developer to join our
+  development team and help us build the technology behind
+  Shapely’s care. This is a hands-on role across the whole
+  stack: you’ll work on our patient app, our backend services,
+  and the integrations that connect them.
+
+
+
+  You’ll take features from spec to production, fix bugs, and
+  help build and maintain the integrations that connect our
+  app, CRM, EHR, and third-party tools.
+
+
+
+  You’ll report to our Lead Developer, who sets priorities,
+  reviews your work, and supports your growth. It’s a great
+  fit for a developer with a few years of experience who wants
+  to grow fast in a small, hands-on team.
+
+
+
+  What You’ll Do
+
+
+
+  - Patient App: Build features and fix bugs in our React Native
+    / Expo app across iOS, Android, and web, with a focus on
+    performance and accessibility for older users.
+  - Backend & APIs: Build and maintain Node.js services on
+    Google Cloud: APIs, webhooks, data models, and databases
+    (Cloud SQL, BigQuery).
+  - Integrations: Help connect and maintain the tools behind our
+    operations, including our CRM, EHR, third-party APIs, and
+    the connected scales that bring patients’ RPM weight data
+    into the app.
+  - Signup & Intake: Build and improve the patient signup and
+    intake flows, front to back.
+  - Testing & Releases: Test your own work and help run CI/CD,
+    Expo EAS builds, and TestFlight and Play Console releases.
+    Document what you build so the team can rely on it.
+  - Security & Patient Privacy: Follow HIPAA and PHI best
+    practices in everything you build: least-privilege access,
+    MFA, secrets management, and no PHI where it doesn’t
+    belong.
+
+
+
+
+
+
+
+    Requirements
+
+  Experience We’re Looking For
+
+
+
+  - 4+ years of professional experience as a software developer,
+    building and shipping web or mobile products.
+  - Solid JavaScript / TypeScript skills, with experience
+    building APIs or services in Node.js and working with SQL
+    databases.
+  - Experience with React, and ideally with React Native / Expo
+    apps published to the App Store or Google Play.
+  - Hands-on experience using AI tools (Claude Code or similar)
+    in your daily development work.
+  - Experience working with third-party APIs and webhooks.
+  - Familiarity with a cloud platform (Google Cloud, Firebase,
+    or AWS) and willingness to work in GCP.
+
+
+
+  Tools & Tech Stack
+
+
+
+  - Languages: JavaScript, TypeScript, SQL
+  - Backend: Node.js, Google Cloud Run, Firebase Auth, BigQuery,
+    Cloud SQL, Google Cloud IAM
+  - Mobile & Web: React Native, Expo, React, HTML / CSS
+  - AI: Claude Code or similar AI coding tools, used daily
+  - Integrations: EHR API, Zoho (CRM and business automation),
+    connected scales integrated into the patient app for RPM
+  - Release & DevOps: CI/CD, Expo EAS, TestFlight, Google Play
+    Console, logging, error tracking, and alerting
+
+
+
+  Who You Are
+
+
+
+  - Eager to learn and grow. You take feedback well, ask good
+    questions, and want to keep leveling up as a developer.
+  - Reliable and detail-oriented. You test your work before
+    shipping it and take ownership of what you build.
+  - Careful with what matters. Our patients are often elderly
+    and managing a medication. A broken release or a failed
+    integration is a patient who can’t get help, and you act
+    like it.
+  - Professional in written and spoken English, with at least 5
+    hours of daily overlap with US Eastern or Pacific time
+    (EST / PST).
+
+
+
+  Nice to Have
+
+
+
+  - Healthcare or HIPAA experience, or work with an EHR API
+    (Elation, athenahealth, Epic, or similar).
+  - Familiarity with Zoho (including Deluge scripting) or
+    another low-code CRM / business automation platform.
+  - Experience in a regulated industry such as healthcare,
+    fintech, banking, or insurance.
+  - Experience integrating contact center or telephony
+    platforms.
+  - Experience designing for older or less technical users, or
+    with connected-device data (scales, CGMs, activity
+    trackers).
+  - Prior remote work with a US-based company.
+
+
+    Benefits
+
+  Why Shapely
+
+
+
+  - High-impact role at a company that’s helping people
+    transform their health, covered by their insurance, not
+    out of pocket.
+  - Hands-on work across the whole stack of a real, patient-
+    facing product.
+  - Mentorship from our Development Lead and close work with a
+    technical, hands-on physician-CEO.
+  - Room to grow with the company as our development team
+    expands.
+  - Competitive USD compensation.
+  - 100% remote work.
+  - PTO
+industries:
+  - Fitness
+  - Healthtech
+  - Pharmaceutical
+  - Telehealth
+posted_date: 2026-11-20
+url: "https://builtin.com/job/full-stack-developer/12358255"
+source: Built In

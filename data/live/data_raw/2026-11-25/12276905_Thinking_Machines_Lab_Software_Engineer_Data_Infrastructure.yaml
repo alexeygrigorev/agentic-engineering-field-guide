@@ -1,0 +1,108 @@
+job_id: 12276905
+title: Software Engineer, Data Infrastructure
+company: Thinking Machines Lab
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 91 Employees
+description: |
+  About Thinking Machines
+
+  The mission of Thinking Machines is to build AI that extends
+  human will and judgment. We are training frontier models
+  with Inkling, developing Tinker to let people make models
+  their own, and crafting interfaces that broaden human-AI
+  communication. We believe the future worth building is
+  human, and we're hiring people who want to build it.
+
+  About the Role
+
+  We’re looking for an engineer to join us and contribute to
+  data infrastructure. You'll join a small, high-impact team
+  responsible for architecting and scaling the core
+  infrastructure behind distributed training pipelines,
+  multimodal data catalogs, and intelligent processing systems
+  that operate over petabytes of data.
+
+  Infrastructure is critical to us: it's the bedrock that
+  enables every breakthrough. You'll work directly with
+  researchers to accelerate experiments, develop new datasets,
+  improve infrastructure efficiency, and enable key insights
+  across our data assets.
+
+  If you're excited by distributed systems, large-scale data
+  mining, open-source tools like Spark, Kafka, Beam, Ray, and
+  Delta Lake, and enjoy building from the ground up, we'd love
+  to hear from you.
+
+
+
+  What You’ll Do
+
+  - Design, build, and operate scalable, fault-tolerant
+    infrastructure for LLM Research: distributed compute, data
+    orchestration, and storage across modalities.
+  - Develop high-throughput systems for data ingestion,
+    processing, and transformation — including training data
+    catalogs, deduplication, quality checks, and search.
+  - Build systems for traceability, reproducibility, and robust
+    quality control at every stage of the data lifecycle.
+  - Implement and maintain monitoring and alerting to support
+    platform reliability and performance.
+  - Collaborate with research teams to unlock new features,
+    improve data quality, and accelerate training cycles.
+
+  Skills and QualificationsMinimum qualifications
+
+  - Bachelor’s degree or equivalent experience in computer
+    science, engineering, or similar.
+  - Proficiency in at least one backend language (we use Python
+    or Rust).
+  - Are fluent in distributed compute frameworks such as Apache
+    Spark or Ray.
+  - Are deeply familiar with cloud infrastructure, data lake
+    architectures, and batch and streaming pipelines.
+  - Comfort operating across the stack and owning projects end-
+    to-end.
+  - Thrive in a highly collaborative environment involving many,
+    different cross-functional partners and subject matter
+    experts.
+  - A bias for action with a mindset to take initiative to work
+    across different stacks and different teams where you spot
+    the opportunity to make sure something ships.
+
+  Preferred qualifications
+
+  - Have hands-on experience with Kafka, dbt, Terraform, and
+    Airflow.
+  - Have experience building a web crawler.
+  - Have extensive experience understanding and scaling
+    deduplication, data mining, and search.
+  - Have strong knowledge of file formats and storage systems
+    (e.g., Parquet, Delta Lake, etc.) and how they impact
+    performance and scalability.
+  - Are proactive about documentation, testing, and empowering
+    your teammates with good tooling.
+
+  Logistics
+
+  - Location: This role is based in San Francisco, California or
+    New York, New York.
+  - Compensation: Depending on background, skills and
+    experience, the expected annual salary range for this
+    position is $300,000 - $400,000 USD.
+  - Visa sponsorship: We sponsor visas. While we can't guarantee
+    success for every candidate or role, if you're the right
+    fit, we're committed to working through the visa process
+    together.
+  - Benefits: Thinking Machines offers generous health, dental,
+    and vision benefits, unlimited PTO, paid parental leave,
+    and relocation support as needed.
+industries:
+  - Artificial Intelligence
+  - Information Technology
+posted_date: 2026-11-16
+url: "https://builtin.com/job/software-engineer-data-infrastructure/12276905"
+source: Built In

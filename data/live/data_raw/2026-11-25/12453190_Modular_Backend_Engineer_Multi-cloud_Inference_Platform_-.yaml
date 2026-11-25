@@ -1,0 +1,171 @@
+job_id: 12453190
+title: Backend Engineer, Multi-cloud Inference Platform - Gurveer Pahuja (R30)
+company: Modular
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 187 Employees
+description: |
+  About Modular
+
+  At Modular, a Qualcomm company, we’re on a mission to
+  revolutionize AI infrastructure by systematically rebuilding
+  the AI software stack from the ground up. Our team, made up
+  of industry leaders and experts, is building cutting-edge,
+  modular infrastructure that simplifies AI development and
+  deployment. By rethinking the complexities of AI systems,
+  we’re empowering everyone to unlock AI’s full potential and
+  tackle some of the world’s most pressing challenges.
+
+  If you’re passionate about shaping the future of AI and
+  creating tools that make a real difference in people’s
+  lives, we want you on our team. You can read about our
+  culture and careers to understand how we work and what we
+  value.
+
+  About the role:
+
+  In the Cloud Inference team, we are focused on building end
+  to end distributed LLM inference deployments and a
+  repeatable, observable, productive, low toil platform for
+  managing these deployments.
+
+  Our goal is to make inference both the fastest and most
+  scalable while also building an easiest platform for
+  deploying and scaling models for enterprises and developers
+  alike. We're seeking engineers who are passionate about
+  pushing the boundaries of distributed inference systems and
+  enjoy working at the intersection of large-scale systems and
+  machine learning. We are looking for candidates based on
+  their breadth and depth of experience in backend
+  engineering, AI inference, and distributed systems
+  development. If this sounds exciting, we invite you to join
+  our world-leading AI infrastructure team and help drive our
+  industry forward!
+
+
+
+  LOCATION: Candidates based in the US or Canada are welcome
+  to apply. You can work in our office in Los Altos, CA or
+  remotely from home. Onboarding for new hires is conducted
+  in-person at our headquarters in Los Altos, CA.
+
+  What you will do:
+
+  - Build the multi-cloud, multi-tenant platform powering
+    Modular’s inference services.
+  - Build fault-tolerant, low toil services able to make use of
+    resources in a variety of hardware platforms Clouds (Tier
+    1 Cloud Providers & neoclouds)
+  - Push the envelope for operational excellence with request-
+    to-kernel observability, multi-cloud deployments, cold-
+    start optimizations, and more.
+  - Build helm charts, kubernetes operators, and more to make a
+    create simple, effective, maintainable deployments.
+
+  What you bring to the table:
+
+  - 2+ years of experience working in backend engineering
+  - Experience with service oriented architecture and
+    distributed systems
+  - Experience with Cloud Providers (AWS, GCP, Azure, neoclouds)
+  - Experience with kubernetes and operating your own services
+  - A passion for building and operating high performance, low
+    toil, observable systems.
+  - Experience in machine learning technologies and use cases
+  - Creativity and curiosity for solving complex problems, a
+    team-oriented attitude that enables you to work well with
+    others, and alignment with our culture
+  - Strongly identifies with our core company cultural values.
+
+  Minimum Qualifications:
+
+  - Bachelor's degree in Engineering, Information Systems,
+    Computer Engineering, Electrical Engineering, Computer
+    Science, or related field and 2+ years of Software
+    Engineering or related work experience.
+
+  OR
+
+  - Master's degree in Engineering, Information Systems,
+    Computer Engineering, Electrical Engineering, Computer
+    Science, or related field and 1+ year of Software
+    Engineering or related work experience.
+
+  OR
+
+  - PhD in Engineering, Information Systems, Computer
+    Engineering, Electrical Engineering, Computer Science, or
+    related field.
+
+  AND
+
+  - 1+ year of academic or work experience with Programming
+    Language such as Python, Mojo, Rust, C++, etc.
+
+  Helpful but not required:
+
+  - Practical experience implementing & maintaining security in
+    multi-tenancy environments
+  - Experience working on high scale ML inference infrastructure
+    (traditional AI or genAI)
+  - Familiarity with golang
+
+  What Modular brings to the table:
+
+  - Amazing Team. We are a progressive and agile team with some
+    of the industry’s best engineering and product leaders.
+  - World-class Benefits. In order to attract the best, we need
+    to offer the best. Your benefits package may include
+    comprehensive healthcare coverage, retirement and savings
+    programs, employee stock purchase opportunities, paid time
+    off, wellbeing resources, family support programs, and
+    learning and development opportunities. Please note that
+    specific benefit packages may vary based on your location,
+    you can read more about benefits offered by Qualcomm here.
+  - Competitive Compensation. We offer very strong compensation
+    packages, including RSU grants. We want people to be
+    focused on their best work and believe in tailoring
+    compensation plans to meet the needs of our workforce.
+  - Team Building Events. We organize regular team onsites and
+    local meetups in Los Altos, CA as well as different
+    cities. Traveling 2-4 times a year is expected for all
+    roles.
+
+  Working at Modular will enable you to grow quickly as you
+  work alongside incredibly motivated and talented people who
+  have high standards, possess a growth mindset, and a purpose
+  to truly change the world.
+
+
+
+  The estimated base salary range for this role to be
+  performed in the US, regardless of the state, is $148,000 -
+  $222,000 USD.
+
+  The estimated base salary range for this role to be
+  performed in the US, regardless of the state, is $125,000 -
+  $180,000 USD.
+
+  The salary for the successful applicant will depend on a
+  variety of permissible, non-discriminatory job-related
+  factors, which include but are not limited to education,
+  training, work experience, business needs, or market
+  demands. This range may be modified in the future. The total
+  compensation for a candidate will also include annual target
+  bonus, equity, and benefits, with equity making up a
+  significant portion of your total compensation.
+
+  For candidates who fall outside of the listed requirements,
+  we nevertheless encourage you to apply as we may have
+  upcoming openings that are lower/higher level than the ones
+  advertised.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-11-25
+url: "https://builtin.com/job/backend-engineer-multi-cloud-inference-platform-gurveer-pahuja-r30/12453190"
+source: Built In

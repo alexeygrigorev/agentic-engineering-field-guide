@@ -1,0 +1,157 @@
+job_id: 12315344
+title: Staff Software Engineer, Discovery Platform
+company: Whatnot
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 1,200 Employees
+description: |
+  Join the Future of Commerce with Whatnot! Whatnot is the
+  largest live shopping platform in North America and Europe
+  to buy, sell, and discover the things you love. Whether it's
+  trading cards, fashion, electronics, or live plants, our
+  sellers are building real businesses across hundreds of
+  categories. We're building live commerce at a scale that's
+  never been done in the West, and there's no playbook to
+  copy. The people here are shaping how an entirely new
+  industry develops. As a remote co-located team, we're
+  inspired by our values and anchored in hubs across the US,
+  UK, Ireland, Poland, Germany, and Australia. We move fast,
+  stay close to our users, and focus on the work that drives
+  the most impact. We're one of the fastest growing
+  marketplaces and were recently named the #1 Best Startup
+  Employer in America by Forbes. Check out the latest Whatnot
+  updates on our news and engineering blogs and join us as we
+  enable anyone to turn their passion into a business and
+  bring people together through commerce. Role Discovery
+  shapes what buyers see when they open Whatnot, from the For
+  You feed and search results to recommended live shows and
+  listings. Discovery Platform builds the systems that make
+  those experiences possible. Our team owns search
+  infrastructure on OpenSearch, a low-latency feature and key-
+  value serving layer, the retrieval framework that assembles
+  feeds, and the pipelines that keep our indices fresh. Teams
+  across Discovery and beyond rely on these systems to build
+  and ship products. We're hiring a Staff Software Engineer to
+  lead technical work across Discovery Platform and product-
+  facing retrieval and recommendations. You'll spend roughly
+  60% of your time strengthening the platform's capacity,
+  reliability, and shared building blocks, and 40% partnering
+  with ranking and machine learning engineers to bring new
+  discovery experiences to buyers. You'll join a small team of
+  senior backend engineers who own their systems from design
+  through production and on-call. This is a high-impact,
+  hands-on role for someone who finds the most important
+  problems in ambiguous spaces, creates a path forward, and
+  builds solutions that improve both the buyer experience and
+  the pace at which other teams can ship. What You'll Do:
+
+  - Design and evolve search and serving infrastructure that
+    performs reliably through live shopping traffic spikes,
+    including our largest sales events.
+  - Build retrieval systems that let feed and search teams add
+    candidate sources safely and quickly.
+  - Partner with ranking and machine learning engineers to bring
+    models and features into production with the latency and
+    freshness they need.
+  - Set technical direction for Discovery Platform and influence
+    roadmaps across partner teams, using data and product
+    outcomes to guide decisions.
+  - Own complex systems end to end, from architecture and
+    implementation through production operations and on-call.
+  - Raise the engineering bar through hands-on contributions,
+    design and code reviews, and mentorship.
+
+  We offer flexibility to work from home or from one of our
+  global office hubs, and we value in-person time for
+  planning, problem-solving, and connection. Team members in
+  this role must live within commuting distance of our New
+  York City, San Francisco, or Seattle hub. You People who do
+  well at Whatnot tend to be comfortable figuring things out
+  as they go, biased toward action, and genuinely curious
+  about what they're building. They care more about outcomes
+  than credit and stay close to the product and the people
+  using it. As our next Staff Software Engineer, you likely
+  have:
+
+  - A bachelor's degree in Computer Science, a related field, or
+    equivalent practical experience.
+  - 8+ years of full-time software engineering experience,
+    including building and operating large-scale distributed
+    systems in production.
+  - A track record of leading substantial technical initiatives
+    across teams, defining problems clearly, aligning
+    partners, and shipping solutions through ambiguity.
+  - Experience designing reliable, low-latency backend systems
+    such as search infrastructure, retrieval services, event-
+    driven systems, or streaming data pipelines. Experience
+    with search or recommendations at scale is a strong plus.
+  - Hands-on experience with technologies such as OpenSearch or
+    Elasticsearch, Redis or Valkey, and Kafka or similar
+    streaming systems. We value strong fundamentals and
+    relevant systems experience over an exact match to our
+    tools.
+  - An understanding of how recommendation systems fit together,
+    including candidate generation, ranking, and feature
+    serving, and the ability to partner effectively with
+    machine learning engineers.
+  - Strong product instincts: you connect performance and
+    reliability decisions to whether buyers discover things
+    they want and whether sellers reach the right audience.
+  - A commitment to hands-on engineering, with the judgment to
+    write code, document architectural decisions, and drive
+    alignment when needed.
+  - Experience mentoring engineers and improving the quality of
+    designs, code, and operational practices.
+
+   Benefits
+
+  - Generous Holiday and Time off Policy
+  - Health Insurance options including Medical, Dental, Vision
+  - Work From Home Support
+    - Home office setup allowance
+    - Monthly allowance for cell phone and internet
+  - Care benefits
+    - Monthly allowance for wellness
+    - Annual allowance towards Childcare
+    - Lifetime benefit for family planning, such as adoption or
+      fertility expenses
+  - Retirement; 401k offering for Traditional and Roth accounts
+    in the US (employer match up to 4% of base salary) and
+    Pension plans internationally
+  - Monthly allowance to dogfood the app
+    - All Whatnauts are expected to develop a deep understanding
+      of our product. We're passionate about building the best
+      user experience, and all employees are expected to use
+      Whatnot as both a buyer and a seller as part of their
+      job (our dogfooding budget makes this fun and easy!).
+  - Parental Leave
+    - 16 weeks of paid parental leave + one month gradual return
+      to work *company leave allowances run concurrently with
+      country leave requirements which take precedence.
+
+  Please note: Whatnot will only contact you through official
+  @whatnot.com email addresses. If you see an email
+  impersonating a Whatnot recruiter, please disregard and
+  report it as spam. EOE Whatnot is proud to be an Equal
+  Opportunity Employer. We value diversity, and we do not
+  discriminate on the basis of race, religion, color, national
+  origin, gender, sexual orientation, age, marital status,
+  veteran status, parental status, disability status, or any
+  other status protected by local law. We believe that our
+  work is better and our company culture is improved when we
+  encourage, support, and respect the different skills and
+  experiences represented within our workforce.
+industries:
+  - Consumer Web
+  - eCommerce
+  - Mobile
+  - Retail
+  - Social Media
+  - Software
+posted_date: 2026-11-20
+url: "https://builtin.com/job/staff-software-engineer-discovery-platform/12315344"
+source: Built In

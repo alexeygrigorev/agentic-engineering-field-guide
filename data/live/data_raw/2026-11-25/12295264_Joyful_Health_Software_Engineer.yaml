@@ -1,0 +1,171 @@
+job_id: 12295264
+title: Software Engineer
+company: Joyful Health
+location: New York, USA
+work_type: FULL_TIME
+company_size: 28 Employees
+description: |
+  We’re deploying advanced agents into the real world to solve
+  some of the biggest pain points in healthcare, and bringing
+  the JOY back to healthcare by fixing the financial chaos
+  behind it.
+
+  Every year, healthcare practices fail to collect an
+  estimated $125 billion in earned revenue. The money
+  disappears into fragmented financial data, manual workflows,
+  and opaque payer systems that don’t talk to one another.
+  Often, these costs are passed on to patients through higher
+  bills or rising health costs, and for many practices the
+  losses are fatal.
+
+  Joyful Health builds AI agents that take on insurers so
+  providers get paid for the care they deliver. We didn’t
+  start with a product. We spent ten months working as
+  fractional CFOs for a dozen practices, doing the work
+  alongside providers before we wrote the technology that
+  automates it.
+
+  We just announced our $22M Series A, led by CRV, with world-
+  class investors including the founders of MongoDB and KAYAK.
+  Now we’re doubling our engineering team.
+
+  This role is full-time. We’re looking for someone NYC-based
+  who is open to coming into the office 3 days a week.
+
+
+
+  ABOUT THE ROLE
+
+  We’re looking for a talented and ambitious Software Engineer
+  with 4+ years of backend experience to build the internal
+  engines and systems that let us scale. Every new customer
+  adds claims, people, and operational complexity to the
+  business behind our agents. These systems will handle
+  hundreds of thousands of claims and automate complex
+  operational processes, so they need to work at scale. You’ll
+  find the bottlenecks across the company and build reliable,
+  auditable, self-healing systems around them.
+
+  You’ll partner with eng, ops, RCM and finance teams to find
+  the work that eats the most hours, then design a system that
+  replaces it. You’ll ship in small steps, measure the impact,
+  and move to the next bottleneck.
+
+  As a software engineer, you’ll have an outsized impact on
+  the company’s trajectory, working on a critical problem
+  that’s central to our success. This is a great opportunity
+  for someone who wants to work on something extremely
+  challenging and make a huge difference. You should be
+  comfortable (and excited!) about working in a fast-paced,
+  early-stage startup environment where you'll be able to wear
+  many hats and take on new challenges as they arise.
+
+  WHAT YOU’LL DO
+
+  Here are some examples of what you’ll build:
+
+  - Automatic claim routing. An allocation engine that assigns
+    work dynamically as volume, priorities, and capacity
+    change.
+  - Claims forecasting engine. Models that predict incoming
+    volume and workload, so we plan ahead of demand.
+  - Staffing rebalancing. Systems that match specialist and BPO
+    capacity to demand across accounts.
+  - Customized invoicing systems. Billing that adapts to each
+    customer’s terms and reconciles automatically.
+  - Quality and monitoring systems. Checks that catch process
+    failures before they reach a customer.
+  - Access and credential automation. Secure, auditable
+    provisioning for the portals and systems our team works
+    in.
+  - Internal metrics. Reporting that updates itself and ties
+    back to source data.
+  - Privacy and Security. Because this work touches sensitive
+    data, you’ll design for security and HIPAA compliance from
+    the start.
+
+
+
+  WE’D LOVE TO HEAR FROM YOU IF…
+
+  - You’re passionate about Joyful Health’s mission. You want to
+    solve real, pressing problems for providers and put them
+    in control of their businesses. You naturally empathize
+    with users and enjoy building with their needs in mind.
+  - You have 4+ years of experience in backend engineering, with
+    a focus on building data pipelines, integrations, and the
+    infrastructure that supports them.
+  - You have strong technical execution. You view coding as a
+    craft, not just a task, and you care about building a
+    product that works at scale, with the user at the
+    forefront. You bring:
+    - Proficiency in Python and database systems, with familiarity
+      in performance and optimization for scale
+    - Experience in distributed systems coordination and AI
+      pipelines
+    - Familiarity with big data technologies and comfort working
+      with massive datasets
+    - Experience with CI/CD workflows such as GitHub Actions
+    - Experience building reliable, observable production systems
+  - You have a radical sense of ownership. You have the ability
+    and desire to own technical roadmaps and refine ambiguous
+    problems.
+  - You have a low ego and a growth mindset, and you’re excited
+    to shape our engineering team and culture as an early team
+    member, leading by example and growing your impact as the
+    product and team scale.
+  - We care more about your drive, hustle, and passion than a
+    college degree from a shiny institution or experience at
+    name-brand companies.
+
+  Bonus points
+
+  - You have experience working with healthcare data or solving
+    interoperability challenges.
+  - You’ve built internal platforms or developer tooling used by
+    other engineers.
+  - You’ve been a founder or an early engineer at a startup.
+
+
+
+  WORKING AT JOYFUL
+
+  🚀 Meaningful impact. You’ll work on one of the most hair-on-
+  fire problems providers face, so they can focus on caring
+  for patients.
+
+  🔑 Autonomy and ownership. As an early team member, you’ll
+  shape the company from the ground up.
+
+  📈 Growth and learning. You’ll get direct access to
+  experienced founders and advisors, plus stipends for
+  professional development courses and books.
+
+  💰 Competitive compensation and equity. $150K - $275K base,
+  plus strong equity in Joyful Health.
+
+  ❤️ Be your best self. Comprehensive healthcare benefits,
+  unlimited PTO (with a minimum of 10 days off a year),
+  flexibility, and regular team off-sites and events.
+
+
+
+  Please apply even if you don’t meet 100% of the criteria.
+  Nobody checks every box every time, and we’d love to talk
+  with you about how you see yourself growing into this role.
+  We’re also very open to candidates with non-traditional
+  experience.
+
+  Joyful Health is an equal opportunity employer. We do not
+  discriminate on the basis of race, color, religion, sex,
+  sexual orientation, gender identity, national origin, age,
+  disability, veteran status, or any other legally protected
+  characteristic.
+industries:
+  - Artificial Intelligence
+  - Fintech
+  - Healthtech
+  - Software
+posted_date: 2026-11-17
+url: "https://builtin.com/job/software-engineer/12295264"
+source: Built In

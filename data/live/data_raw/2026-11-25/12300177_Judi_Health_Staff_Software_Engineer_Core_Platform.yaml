@@ -1,0 +1,168 @@
+job_id: 12300177
+title: Staff Software Engineer, Core Platform
+company: Judi Health
+location: Denver, USA
+locations:
+  - Denver, USA
+  - New York, USA
+  - Charlotte, USA
+work_type: FULL_TIME
+company_size: 370000 Employees
+description: |
+  About Judi Health
+
+  Judi Health is a health technology company providing benefit
+  administration solutions to employers, unions, health plans,
+  and government entities. Judi Health replaces fragmented,
+  outdated systems with the industry's first Unified Claims
+  Processing™ architecture, seamlessly consolidating pharmacy
+  and medical benefit administration on a single, secure
+  platform. By delivering true price transparency, eliminating
+  unnecessary middleman fees, and leveraging advanced AI-
+  powered care delivery, Judi Health helps clients achieve
+  unprecedented operational efficiency and service levels. At
+  Judi Health, we're deploying the infrastructure our country
+  needs to deliver the healthcare we all deserve. We are the
+  intelligence platform powering benefits plans for millions
+  of Americans and proudly leading the next generation of
+  care. To learn more, visit www.judi.health.
+
+  Location: Hybrid 3 days (offices in NYC, Denver, CO and
+  Charlotte, NC area)
+
+  Position Summary:
+
+  We are building the fastest, most reliable adjudication
+  system in the industry. We process millions of claims a day,
+  with peaks of hundreds per second, all adjudicated in real
+  time, and we deliver healthcare for tens of millions of
+  Americans each year. Core Platform owns the infrastructure
+  underneath – reliability and disaster recovery,
+  observability and self-healing, real-time data, and
+  performance at scale – and keeps making our products faster
+  and more reliable while lowering what they cost to run.
+
+  As a Staff engineer, you own the technical roadmap for the
+  systems you take on and drive it from design to production
+  across the company. We are looking for engineers with high
+  ambition who measure everything and hold a high bar for
+  quality. You already build with AI agents, or you are eager
+  to learn.
+
+  Position Responsibilities:
+
+  - Drive Performance at Scale. Find and remove the bottlenecks
+    that limit throughput and tail latency on our highest-
+    volume paths. Keep p99 latency flat as volume grows, and
+    prove each gain with a repeatable benchmark
+  - Engineer for Reliability and Recovery. Own SLOs and error
+    budgets for the claim path. Design zero-downtime deploys
+    and multi-region failover, and prove them with game days
+    and failure injection; losing a zone or region should be a
+    non-event for customers
+  - Build Self-Healing Systems. Page only on customer impact,
+    and build automation and agents that diagnose and fix
+    common failures in minutes, not hours
+  - Move Data in Real Time. Build the event-driven
+    infrastructure that moves data between services and into
+    analytics within seconds, with ordering and replay
+    guarantees
+  - Improve Efficiency. Keep unit cost flat or falling as volume
+    grows. Add release gates that stop changes that regress
+    performance or cost
+  - Work With AI. Use AI agents to design and verify your work,
+    and create agent-driven tooling for triage and remediation
+  - Raise the Bar. Set technical standards through design and
+    code review. Mentor senior engineers, and lead incident
+    response and the reviews that follow
+
+  Required Qualifications:
+
+  - 10+ years building and operating large-scale, high-
+    availability production systems
+  - Deep understanding of distributed systems: consistency
+    models, replication, consensus, concurrency, fault
+    tolerance, and failure recovery
+  - Strong proficiency in one or more of Python, Rust, Go, Java,
+    or C++
+  - Experience architecting systems with strict throughput,
+    latency, and durability requirements, and diagnosing them
+    under production load with profiling, tracing, and load
+    testing
+  - Working knowledge of relational database internals: query
+    planning, indexing, transactions and isolation levels,
+    locking, and MVCC
+  - Hands-on experience building with AI coding agents and a
+    habit of checking what they produce, or a clear drive to
+    learn quickly
+  - A track record of leading multi-quarter, cross-team
+    technical initiatives from design through production
+    rollout
+  - Ambition and ownership: you think about how a system will
+    fail before it does, and you ship work that is simple to
+    operate
+
+  Preferred Qualifications:
+
+  - Systems-level performance: Linux internals, multithreading
+    and async I/O, memory management, network protocols, and
+    storage I/O
+  - Distributed data internals: partitioning, log-based storage,
+    state management, backpressure, and end-to-end delivery
+    guarantees such as exactly-once processing and idempotency
+  - Multi-region or active-active architectures: cross-region
+    replication, failover and disaster recovery testing, and
+    chaos engineering
+  - SLO design and OpenTelemetry-based observability, with
+    automated or agent-driven remediation
+  - Event streaming and change data capture with Kafka, Kinesis,
+    Flink, or equivalent, and stream processing
+  - PostgreSQL at scale: query plan and parameter optimization,
+    replication, connection pooling, sharding, and
+    partitioning
+  - Cloud-native infrastructure (Kubernetes or ECS, Terraform)
+    and safe change management: staged rollouts, backward
+    compatibility, rollback, and incremental migrations
+  - Experience in healthcare or another correctness-first
+    industry, such as fintech
+
+  Nothing in this position description restricts management’s
+  right to assign or reassign duties and responsibilities to
+  this job at any time.
+
+  New York, NY Salary Range
+
+  $218,000—$272,500 USD
+
+  Denver, CO Salary Range
+
+  $199,500—$249,500 USD
+
+  Charlotte, NC Salary Range
+
+  $181,500—$227,000 USD
+
+  All employees are responsible for adherence to the Judi
+  Health Code of Conduct including the reporting of non-
+  compliance. This position description is designed to be
+  flexible, allowing management the opportunity to assign or
+  reassign duties and responsibilities as needed to best meet
+  organizational goals.
+
+  We provide equal employment opportunities to all employees
+  and applicants for employment and prohibit discrimination
+  and harassment of any type without regard to race, color,
+  religion, age, sex, national origin, disability status,
+  medical condition, genetic information, protected veteran
+  status, sexual orientation, gender identity or expression,
+  or any other characteristic protected by federal, state or
+  local laws.
+
+  By submitting an application, you agree to the retention of
+  your personal data for consideration for a future position
+  at Judi Health. More details about Judi Health's privacy
+  practices can be found at
+  https://www.judi.health/legal/privacy-policy.
+posted_date: 2026-11-17
+url: "https://builtin.com/job/staff-software-engineer-core-platform/12300177"
+source: Built In

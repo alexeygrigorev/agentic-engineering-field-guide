@@ -1,0 +1,268 @@
+job_id: 12357076
+title: Senior Software Engineer II, Lifecycle
+company: Life360
+location: CAN
+locations:
+  - CAN
+  - USA
+remote: true
+work_type: FULL_TIME
+company_size: 600 Employees
+description: |
+  About Life360
+
+  Life360’s mission is to keep people close to the ones they
+  love. Our category-leading mobile app, Tile tracking
+  devices, and Pet GPS tracker empower members to protect the
+  people, pets, and things they care about most with a range
+  of services, including location sharing, safe driver
+  reports, and crash detection with emergency dispatch.
+  Life360 serves approximately 107.7 million monthly active
+  users (MAU), as of September 30, 2026, across more than 180
+  countries.
+
+  Life360 delivers peace of mind and enhances everyday family
+  life with seamless coordination for all the moments that
+  matter, big and small. By continuing to innovate and deliver
+  for our customers, we have become a household name and the
+  must-have mobile-based membership for families (and those
+  friends who are basically family).
+
+  Life360 has more than 500 (and growing!) remote-first
+  employees. For more information, please visit life360.com.
+
+  Life360 is a Remote First company, which means a remote work
+  environment will be the primary experience for all
+  employees. All positions, unless otherwise specified, can be
+  performed remotely (within the US and Canada) regardless of
+  any specified location above.
+
+  We are AI Native
+
+  We are building an AI native company where AI is an integral
+  part of how we build and operate. AI tool usage during
+  interviews varies by role. You may be asked to demonstrate
+  proficiency with AI tools, discuss how you leverage AI, or
+  complete interview exercises without AI assistance. Your
+  Recruiter will provide clear guidance as you move through
+  the interview process.
+
+  Undisclosed use of AI not previously discussed with or
+  approved by your Recruiter may impact your candidacy.
+
+  About The Team
+
+  The Lifecycle team at Life360 owns the moments that decide
+  whether a new member sticks. From the first app open through
+  account creation, permissions, and the first seven days of
+  habit-building, we shape the experience that gets families
+  set up and on the map. Beyond onboarding, we run rapid,
+  full-funnel experimentation, from store impression through
+  activation, engagement, and reactivation, across in-app,
+  push, and email. We own the experimentation platform and
+  standards, so we can test anywhere in the product and scale
+  what works. Our mission is to turn curiosity into
+  connection, and connection into a habit that families rely
+  on.
+
+  We are a product-minded, AI-Native engineering team. That
+  means AI isn’t just a tool we use — it’s how we work. We’ve
+  redesigned our team workflows around AI, treating it as a
+  first-class collaborator at every stage: ideation, coding,
+  testing, review, and iteration. We ship faster and go deeper
+  because of it, and we’re looking for someone who wants to
+  help define what that looks like at scale.
+
+  About the Job
+
+  Life360 is hiring an AI-Native Senior Software Engineer II
+  for the Lifecycles team with full-stack (mobile & cloud)
+  experience who doesn’t just use AI tools, but thinks
+  natively in them. You’ll be central to how the Lifecycles
+  team builds products, where AI has reshaped how the entire
+  team designs, builds, and ships.
+
+  You’ll design and build the moments that decide whether a
+  new member sticks: the first app open, account creation and
+  recovery, permission grants, the first seven days of habit-
+  building, and the re-engagement touchpoints that bring
+  people back. You’ll also run high-velocity experiments
+  across the full funnel, from store impression through
+  activation, engagement, and reactivation, across in-app,
+  push, and email, to find the growth wins and scale them.
+
+  You’ll build and evolve our modern AI-Native engineering
+  workflows — from how we write code, to how we run standups,
+  to how we think about team velocity. You’ll publish AI-
+  native engineering playbooks the broader Lifecycles org
+  adopts.
+
+  Android experience is strongly preferred, though exceptional
+  iOS, full-stack or backend engineers are also encouraged to
+  apply.
+
+  For candidates based in the US, the salary range for this
+  position is $148,000 to $216,000 USD. For candidates based
+  out of Canada, the salary range for this position is 171,500
+  to 201,000 CAD. Note: Please be aware that the job title for
+  positions in Canada will be "Developer" in lieu of
+  "Engineer." We take into consideration an individual's
+  background, job-related knowledge, skills, and experience in
+  determining final salary. Base pay may also vary based on
+  geographic location, with US work locations falling into one
+  of three geographic tiers.
+
+  Total compensation is inclusive of equity compensation in
+  the form of Restricted Stock Units (RSUs), as well as a
+  comprehensive benefits package, including medical, dental,
+  vision, financial, and other benefits.
+
+  What You’ll Do
+
+  - Design and build high-quality member features, including
+    onboarding that gets them set up and on the map, the
+    lifecycle experiences that keep them engaged, and
+    reactivation moments that bring them back after they’ve
+    churned.
+  - You design and implement high velocity experiments that find
+    and scale what grows Life360.
+  - Work with AI (Claude Code) as a first-class collaborator —
+    your primary workflow involves orchestrating agents to
+    create specs, generate code and tests, verify results, and
+    perform reviews.
+  - Help define and codify AI-Native engineering practices for
+    the Lifecycles team, establishing playbooks the broader
+    org can adopt.
+  - Build across the full stack as needed — shipping polished,
+    performant, and reliable experiences to tens of millions
+    of users.
+  - Collaborate closely with product managers and designers to
+    turn complex user problems into elegant, scalable
+    engineering solutions.
+  - Contribute to architectural decisions, code reviews, and a
+    culture of craft and continuous improvement.
+  - Participate in on-call rotation and incident response.
+  - Use agentic workflows to dramatically increase the delivery
+    of strong outcomes — moving faster without sacrificing
+    quality.
+  - Mentor team members and contribute to team processes,
+    technical standards, and help evolve the team's AI-native
+    engineering practices.
+  - Support performance, reliability, and accessibility across
+    the features you own.
+  - Develop our product with empathy for the humans using it: a
+    new member stuck in a login flow, an existing member
+    activating a new feature, or a parent unsure why the app
+    is asking for their location. You see the product through
+    their eyes, and you treat every drop-off as a person who
+    needed something we didn’t give them.
+
+  What We’re Looking For
+
+  - 7+ years of experience building high-quality, consumer-scale
+    software products.
+  - At least 1 year of hands-on experience prompting,
+    evaluating, and building with LLMs.
+  - Strong proficiency in mobile development (Android preferred)
+    — you know what great mobile UX feels like and how to
+    build it. Web and backend experience (Java, Kubernetes,
+    AWS) are valued alternatives.
+  - Proven ability to ship full stack experiences to production,
+    including mobile apps and their supporting cloud backends.
+  - Deep experience with agentic workflows, prompt engineering,
+    context window management, and MCP/function calling.
+  - A track record of using AI tooling to multiply your own
+    output — not just as autocomplete, but as a genuine
+    development partner.
+  - Strong communication and collaboration skills — you work
+    well with product, design, and platform engineers.
+  - A genuine excitement for defining what it means to be AI-
+    Native — you’re not waiting for the playbook, you want to
+    write it.
+  - Bachelor’s Degree in a Technical field, or equivalent
+    experience.
+
+  AI-Native Expectations
+
+  We use AI coding tools as a professional standard on this
+  team. Here's what that means in practice:
+
+  - Daily use: You use AI coding assistants (we support Claude
+    Code, Cursor, and GitHub Copilot) for real, substantive
+    tasks: analysis, coding, refactoring, testing, navigating
+    codebases, and documentation. Not just research or
+    autocomplete.
+  - Judgment and ownership: AI-generated code gets the same
+    review you'd give any PR. You are accountable for
+    everything you ship.
+  - Velocity: We expect senior engineers who use AI well to
+    operate with meaningful leverage — doing more with the
+    same time, taking on problems that would otherwise require
+    a larger team.
+  - Team leadership: You share what works. You automate
+    prompting strategies that others can build on and help
+    teammates earlier in their AI workflow adoption get up to
+    speed.
+  - Continuous learning: The tooling is changing fast. You stay
+    current and bring recommendations to the team when
+    something would meaningfully improve how we work.
+
+  Our Benefits
+
+  - Medical, dental, vision, life and disability insurance plans
+    (100% paid for US employees). We offer life and disability
+    as well as supplemental plans for medical and dental for
+    Canadian employees.
+  - 401(k) plan with company matching program in the US and RRSP
+    with DPSP plan for Canadian employees.
+  - Paid parental leave.
+  - Mental Wellness Program & Employee Assistance Program (EAP)
+    for mental well-being.
+  - Generous time off: flexible PTO, companywide holidays
+    throughout the year plus summer and winter shutdowns.
+  - Learning & Development programs.
+  - Equipment, tools, and reimbursement support for a productive
+    remote environment.
+  - Free Life360 Platinum Membership and Tile trackers.
+
+  AI Usage: We use AI to help make our hiring process
+  efficient. That said, every hiring decision is made by real
+  Life360 hiring teams
+
+  Life360 Values
+
+  Our company’s mission-driven culture is guided by our shared
+  values to create a trusted work environment where you can
+  bring your authentic self to work and make a positive
+  difference
+
+  - Be a Good Person - We have a team of high integrity people
+    you can trust.
+  - Be Direct With Respect - We communicate directly, even when
+    it’s hard.
+  - Members Before Metrics - We focus on building an exceptional
+    experience for families.
+  - High Intensity, High Impact - We do whatever it takes to get
+    the job done.
+
+  Our Commitment to Belonging
+
+  Life360 is an equal opportunity employer. We don’t
+  discriminate on the basis of race, religion, color, national
+  origin, gender, sexual orientation, age, marital status,
+  veteran status, disability status, or any other legally
+  protected status. We believe diverse perspectives make us
+  better, and we’re building a workplace that reflects the
+  communities we serve. Don’t meet every qualification? Apply
+  anyway.
+
+  #LI-Remote
+
+  ____________________________________________________________
+  ________________
+industries:
+  - Kids + Family
+  - Mobile
+posted_date: 2026-11-20
+url: "https://builtin.com/job/senior-software-engineer-lifecycle/12357076"
+source: Built In

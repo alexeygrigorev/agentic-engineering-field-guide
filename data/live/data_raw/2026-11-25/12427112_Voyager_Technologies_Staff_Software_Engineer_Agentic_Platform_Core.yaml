@@ -1,0 +1,180 @@
+job_id: 12427112
+title: Staff Software Engineer – Agentic Platform Core
+company: Voyager Technologies
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 49 Employees
+description: |
+  Voyager is an innovative space, defense, and national
+  security technology company committed to advancing and
+  delivering transformative, mission-critical solutions. We
+  tackle the most complex challenges to unlock new frontiers
+  for human progress, fortify national security, and protect
+  critical assets to lead in the race for technological and
+  operational superiority from ground to space.
+
+  Forge the Future: Join Voyager Technologies
+
+  The future belongs to those who build it. At Voyager
+  Technologies, we’re building technologies that protect
+  lives, expand frontiers and prepare us for what’s next. And
+  we’re doing that with people who are wired to solve, build,
+  adapt and lead. These roles are not for the faint of heart. 
+
+  You’ll help lay the foundation for humanity's future. Join a
+  culture where innovation thrives, curiosity is rewarded, and
+  impact is real. We’re a company of doers, thinkers and
+  builders, united by purpose and grounded in reality.
+
+  If you want to put your skills to work where the stakes are
+  real and the mission is bigger than any one person, forge
+  the future with Voyager.
+
+  We are seeking a Staff Software Engineer to build the core
+  of our agentic engineering platform: the shared services,
+  agent orchestration, and data layer that every engineering
+  domain plugs into. You will make it possible for domain
+  experts to add new disciplines as plugins, for agents to
+  call solvers and tools safely, and for every result to carry
+  the provenance an engineering program can trust.
+
+  You will be joining an early-stage team within Voyager's
+  Advanced Technology Group building an AI-native engineering
+  platform. We hire curious, highly motivated domain experts
+  who already build with AI and have the taste to know what
+  good looks like.
+
+  If your experience aligns with our basic qualifications and
+  you are inspired by our mission, we’d like to connect. If
+  you don’t see the right role right now, Join Our Talent
+  Community and stay connected as we continue to build what’s
+  next.
+
+  Responsibilities:
+
+  - Design and build core platform services: agent
+    orchestration, tool and solver integration, workflow
+    execution, the plugin framework new engineering domains
+    build on, and manage the infrastructure that the platform
+    runs on.
+  - Own the data layer for engineering artifacts (requirements,
+    designs, parts, simulation and test results) with
+    provenance and traceability end to end.
+  - Build evaluation, observability, and governance tooling:
+    evals, tracing, cost controls, and guardrails on agent
+    actions.
+  - Profile and optimize the performance of the agentic system
+    and keep it current with all of the latest developments
+    from the frontier.
+  - Create evaluation pipelines and run rigorous experiments to
+    optimize agent performance.
+  - Ship user-facing features across the full stack
+    (Python/FastAPI back end, React front end).
+  - Focus on creating a seamless, polished user experience.
+  - Harden the platform for partners: security, access control,
+    multi-tenancy, and deployment to cloud and controlled
+    environments.
+  - Pair with domain engineers and FDEs to turn their workflows
+    into reusable platform capabilities.
+
+  Required Qualifications:
+
+  - Bachelor's or Master's degree in Computer Science or related
+    field with 6+ years building production software,
+    including distributed back-end systems.
+  - Working proficiency with Claude Code or Codex.
+  - Critical thinker and excellent communicator.
+  - Strong Python and TypeScript; FastAPI or similar; React.
+  - PostgreSQL and document stores (e.g., MongoDB), with data
+    modeling for complex domain objects.
+  - Has shipped LLM- or agent-based systems to production: tool
+    calling, orchestration, evals, and observability.
+  - Cloud infrastructure, containers, and CI/CD.
+  - Demonstrated AI-first workflow: ships with coding agents
+    daily and knows when not to trust the output.
+  - S. citizen with ability to obtain and maintain a U.S. Secret
+    Security Clearance. TS preferred.
+
+  Preferred Qualifications:
+
+  - Experience building engineering software (CAD, EDA, PLM, or
+    simulation).
+  - Deployment in secure or air-gapped environments.
+  - Background in an engineering discipline.
+
+  Travel, Physical and/or Government Mandated Requirements:
+
+  - Remote (U.S.), with periodic travel to Voyager locations
+    (Los Angeles, CA; Washington, D.C.; Seattle, WA) for lab
+    work, hardware test events, and technical reviews.
+  - Clearance Required: Ability to obtain and maintain a U.S.
+    Secret Security Clearance. TS preferred.
+
+  The good faith base salary range (OR hourly range) for this
+  role is $XX,000–$XY,000 at the time of this posting. Where
+  you fall within the range depends on your experience,
+  skills, and location. This range reflects base salary only
+  and does not include benefits or bonus/incentive. This range
+  may be adjusted in the future.
+
+  Voyager offers a highly competitive total compensation
+  package designed to support the well-being, growth, and
+  success of our employees. Employees benefit from a flexible
+  and comprehensive rewards program that supports both
+  professional and personal well-being.
+
+  - Flexible Time Off (FTO), empowering employees to take the
+    time they need to recharge and maintain a healthy work-
+    life balance
+  - Comprehensive medical, dental, and vision coverage for
+    employees and their families, with a significant portion
+    of premiums covered by the company and many benefits paid
+    at 100% for employees
+  - Flexible, affordable gym memberships with 12,700+ options
+    nationwide, including 24 Hour Fitness, EoS Fitness, Crunch
+    Fitness, Anytime Fitness, Blink Fitness, Chuze Fitness,
+    and more! No long-term contracts and FREE on-demand
+    workout videos before you enroll
+  - 401(k) retirement plan with a 50% company match on
+    contributions up to 8%, supporting long-term financial
+    security
+  - Company wellness programs that support physical and mental
+    well-being
+  - Additional voluntary benefits and employee support resources
+  - The opportunity to work alongside a highly talented team in
+    an innovative, mission-driven environment
+
+  Voyager is an Equal Opportunity Employer. Employment
+  decisions are made without regard to race, color, religion,
+  national or ethnic origin, sex, sexual orientation, gender
+  identity or expression, age, disability, protected veteran
+  status, or other characteristics protected by law. 
+
+  To conform to U.S. Government export regulations, including
+  the International Traffic in Arms Regulations (ITAR) (22 CFR
+  Parts 120–130) and the Export Administration Regulations
+  (EAR) (15 CFR Parts 730–774), applicants for this position
+  must be a U.S. Person: a US Citizen, a lawful permanent
+  resident of the U.S., or a protected individual as defined
+  by 8 U.S.C. § 1324b(a)(3). Applicants must be eligible to
+  obtain any required export authorizations from the U.S.
+  Department of State or the U.S. Department of Commerce.
+
+  Minority/Female/Disabled/Veteran
+
+  The statements contained in this job description are
+  intended to describe the general content and requirements
+  for performance of this job. It is not intended to be an
+  exhaustive list of all job duties, responsibilities, and
+  requirements. This job description is not an employment
+  agreement or contract. Management has the exclusive right to
+  alter the scope of work within the framework of this job
+  description at any time without prior notice.
+
+  Remote - United States pay range
+
+  $180,000—$230,000 USD
+posted_date: 2026-11-24
+url: "https://builtin.com/job/staff-software-engineer-agentic-platform-core/12427112"
+source: Built In

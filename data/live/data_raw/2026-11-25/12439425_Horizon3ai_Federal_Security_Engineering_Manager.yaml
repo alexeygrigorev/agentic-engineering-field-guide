@@ -1,0 +1,307 @@
+job_id: 12439425
+title: Federal Security Engineering Manager
+company: Horizon3.ai
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 107 Employees
+description: |
+  Get to Know Us
+
+  Horizon3 is a fast-growing, remote cybersecurity company
+  dedicated to the mission of enabling organizations to
+  proactively find and fix and verify exploitable attack
+  vectors before criminals exploit them. Our flagship product,
+  the NodeZeroTM platform, delivers production-safe autonomous
+  pentests and other key assessment operations that scale
+  across the largest internal, external, cloud, and hybrid
+  cloud environments. NodeZero has been adopted by
+  organizations of all sizes, from small educational
+  institutions to government agencies and Global 100
+  enterprises. It is used by ITOps/SecOps teams, consulting
+  pentesters, and MSSPs and MSPs.
+
+  We are a fusion of former U.S. Special Operations cyber
+  operators, startup engineers, and formerly frustrated
+  cybersecurity practitioners. We're committed to helping
+  solve our common security problems: ineffective security
+  tools, false positives resulting in alert fatigue, blind
+  spots, "checkbox” security culture, cybersecurity skills
+  shortage, and the long lead time and expense of hiring
+  outside consultants. Collectively, we are a team of learn it
+  alls, committed to a culture of respect, collaboration,
+  ownership, and results.
+
+
+
+  Summary/Overview
+
+  As we expand our offering to Federal and Defense customers,
+  we are building dedicated, compliant environments that meet
+  FedRAMP and DoD Impact Level 4/5 (IL4/IL5) requirements. We
+  are hiring a Federal Security Engineering Manager to build
+  and lead the team that maintains the security of those
+  environments.
+
+  This is a founding leadership role and will be responsible
+  for building the team, setting its direction, and holding it
+  accountable for delivering secure cloud architecture,
+  detection, and response for our federal boundaries. This
+  role will recruit and develop a security engineering team,
+  define what right looks like, remove obstacles, and
+  represent the team to leadership and partner organizations.
+
+  What You'll Do
+
+  Build and Lead the Federal Security Engineering Team
+
+  - Recruit, hire, and onboard a team of cloud, SIEM, and SOC
+    security engineers dedicated to our FedRAMP and IL4/IL5
+    environments, including candidates who meet U.S.-person
+    and clearance requirements.
+  - Define the hiring roadmap, role profiles, interview loops,
+    and sequencing for the team as the federal program scales.
+  - Lead, coach, and develop security engineers through regular
+    1:1s, goal setting, feedback, and career growth. Recognize
+    and retain high performers.
+  - Set priorities and operating rhythms that balance strategic
+    investments, day-to-day engineering support, and incident
+    response.
+  - Lead horizontally with peers in commercial and partner
+    teams.
+
+  Lead Federal Cloud Security Engineering
+
+  - Set the technical direction for how the team secures our
+    federal cloud environments, including identity and access,
+    network segmentation, encryption and key management,
+    hardening baselines, and logging.
+  - Ensure cloud security engineers design and implement
+    controls that meet FedRAMP and DoD Cloud Computing SRG
+    requirements, and that those controls are automated
+    through Infrastructure as Code and policy-as-code.
+  - Review and approve team architecture decisions, threat
+    models, and risk assessments for federal deployments and
+    new features.
+  - Partner with Engineering to embed security into the SDLC and
+    CI/CD pipelines for federal workloads.
+  - Set standards for identity and access management in federal
+    environments, including least privilege, federated
+    identity, and privileged access.
+
+  Lead Federal Detection and Response
+
+  - Define the vision and roadmap for SIEM, log aggregation, and
+    detection within the federal boundary, and ensure the
+    team's work satisfies audit-logging and retention
+    requirements.
+  - Build the SOC function for the federal environment:
+    establish functional requirements, operating model, on-
+    call structure, escalation paths, and documentation
+    standards.
+  - Drive an automation-first culture, guiding the team toward
+    SOAR and AI/ML-assisted triage, investigation, and
+    response.
+  - Direct the development of detection content and threat
+    hunting aligned to MITRE ATT&CK, and use internal pentests
+    and purple-team exercises to steer improvements.
+  - Serve as the accountable leader for security incident
+    response in the federal environments, including
+    escalation, coordination across teams, post-incident
+    review, and required customer and government incident
+    reporting.
+
+  Communicate, Measure, and Manage
+
+  - Define team metrics (e.g., MTTD/MTTR, detection coverage,
+    false-positive rates, control and tooling health) and
+    report on posture, risk, and priorities to leadership and
+    federal stakeholders.
+  - Own the team's budget, tooling strategy, and vendor
+    relationships, including selection of FedRAMP-authorized
+    and IL-appropriate tools.
+  - Develop and maintain the team's security standards, SOPs,
+    and engineering practices, aligned to NIST 800-53/800-171,
+    FedRAMP, the DoD SRG, CIS, and MITRE ATT&CK.
+  - Evaluate and recommend new tools, techniques, and controls
+    to improve security posture within federal constraints.
+  - Stay current on emerging threats and federal security
+    requirements, and translate them into team priorities.
+
+  What You'll Bring
+
+  Required
+
+  - U.S. citizenship and the ability to meet DoD personnel
+    security requirements for IL4/IL5 environments. The
+    ability to obtain and maintain a U.S. government security
+    clearance is required.
+  - 8+ years of experience in cybersecurity, including 5+ years
+    in cloud security (AWS strongly preferred).
+  - 3+ years of experience managing or technically leading
+    security engineers, with a track record of hiring,
+    developing, and retaining strong talent.
+  - Experience building and scaling a security engineering team
+  - Working knowledge of how FedRAMP High and DoD IL4/IL5
+    requirements shape cloud architecture, logging, and
+    incident response, sufficient to guide engineers building
+    to those standards.
+  - Strong technical foundation in cloud security architecture,
+    IAM, encryption and key management, network security,
+    secure SDLC, and Infrastructure as Code, sufficient to
+    review designs and make sound technical decisions.
+  - Familiarity with SIEM and detection engineering concepts and
+    with SOC operating models, including incident response and
+    automation.
+  - Excellent written and verbal communication, including
+    explaining technical risk and tradeoffs to engineers,
+    executives, and government stakeholders.
+  - Bachelor's degree in Computer Science, Cybersecurity,
+    Information Systems, or a related field, or equivalent
+    practical experience.
+
+  Technology Context
+
+  - Cloud: AWS GovCloud, Kubernetes and container security
+  - IaC / CI/CD: Crossplane, GitLab, ArgoCD
+  - SIEM / SOAR: ELK Stack, AWS GuardDuty
+  - Detection: Sigma, YARA, MITRE ATT&CK, EDR/XDR
+  - Hardening and Scanning: STIG/SCAP, CIS benchmarks, cloud
+    posture management
+
+  Preferred
+
+  - Experience standing up security capabilities for a SaaS
+    product entering the federal market.
+  - Prior experience operating within FedRAMP or DoD IL4/IL5
+    environments, in a hands-on or leadership capacity.
+  - Background in incident management, detection engineering, or
+    logs/events processing.
+  - Experience with SOC build-out and scaling in a high-growth
+    company.
+  - Active clearance.
+  - Certifications such as CISSP, CISM, CCSP, AWS Certified
+    Security – Specialty, GCIH/GCIA, or similar.
+
+  Who You Are
+
+  - A Team Builder: You have created teams, not just inherited
+    them. You hire for potential and craft, and you know how
+    to build an organization that won't break when the
+    business triples.
+  - A Technical Leader: You stay close enough to the technology
+    to set the bar, challenge designs, and earn your
+    engineers' respect, while letting them own the work.
+  - An Automation Advocate: You push your team to treat security
+    and detection as engineering problems and to automate for
+    security, not only speed.
+  - A Framework Thinker: You can map a visibility or control gap
+    to NIST 800-53, the DoD SRG, or MITRE ATT&CK and
+    prioritize the fix.
+  - Operationally Disciplined: You hold a high standard for
+    documentation and process so the team stays effective as
+    it grows.
+  - Extreme Ownership: You are accountable for the team's
+    outcomes, including reducing risk, MTTR, and false
+    positives.
+
+  Other duties
+
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties or
+  responsibilities that are required of the employee. Duties,
+  responsibilities, and activities may change at any time with
+  or without notice.
+
+  Travel Required
+
+  This job may require up to 5% of travel to be successful.
+  Job-related travel expenses are reviewed and must be
+  approved by your manager.
+
+
+
+  Perks of Horizon3
+
+  - Inclusive Team: We value diversity and promote an inclusive
+    culture where everyone can thrive.
+  - Growth Opportunities: Be part of a dynamic and growing team
+    with numerous career development opportunities.
+  - Innovative Culture: Work in a collaborative environment that
+    encourages creativity and out-of-the-box thinking.
+  - Hybrid & Remote Work: We embrace a mix of remote and hybrid
+    work models depending on role and location, including our
+    Chicago office, where some roles require regular in-office
+    presence.
+  - Competitive Compensation: We offer competitive salary,
+    equity and benefits. Our benefits include health, vision &
+    dental insurance for you and your family, a flexible
+    vacation policy, and generous parental leave.
+
+  Compensation and Values
+
+  At Horizon3, we believe that our people are our greatest
+  asset, and our compensation philosophy reflects this core
+  value. We are committed to fostering an environment where
+  all employees feel valued, respected, and rewarded for their
+  contributions. Our compensation structure is designed to be
+  fair, competitive, and transparent, ensuring that every team
+  member is recognized and compensated equitably across roles,
+  levels, and locations.
+
+  In accordance with various State’s transparency regulations,
+  we provide the following salary range information for this
+  position:
+
+  - Base salary range: $175,950 - $230,000 annually. The exact
+    salary will be determined based on the selected
+    candidate’s location, qualifications, experience, and
+    relevant skills.
+  - Additional compensation: All full-time roles are eligible
+    for an equity package in the form of stock options.
+
+  You Belong Here
+
+  Horizon3 is not just an equal opportunity employer - we are
+  a community that values diversity, equity, and inclusion as
+  fundamental principles of our culture and success. We are
+  dedicated to fostering a workplace where everyone feels
+  welcome and respected, regardless of race, color, religion,
+  sex, national origin, age, disability, veteran status,
+  sexual orientation, gender identity or expression, genetic
+  information, marital status, or any other legally protected
+  status by law.
+
+  Our commitment to diversity and inclusion means we strive to
+  attract, develop, and retain a workforce that reflects the
+  varied communities we serve. We believe that diverse
+  perspectives drive innovation and strengthen our ability to
+  create cutting-edge cybersecurity solutions. At Horizon3,
+  every team member is valued and supported in an environment
+  that encourages personal and professional growth.
+
+  We welcome candidates from all backgrounds and experiences,
+  and we encourage all qualified individuals to apply. Come be
+  a part of Horizon3, where your unique contributions are
+  recognized, and your potential is limitless.
+
+  Other Duties
+
+  Please note this job description is not designed to cover or
+  contain a comprehensive listing of activities, duties or
+  responsibilities that are required of the employee. Duties,
+  responsibilities, and activities may change at any time with
+  or without notice.
+
+  Application Note
+
+  In any materials you submit, you may redact or remove age-
+  identifying information such as age, date of birth, or dates
+  of school attendance or graduation. You will not be
+  penalized for redacting or removing this information.
+industries:
+  - Artificial Intelligence
+  - Cybersecurity
+posted_date: 2026-11-24
+url: "https://builtin.com/job/federal-security-engineering-manager/12439425"
+source: Built In

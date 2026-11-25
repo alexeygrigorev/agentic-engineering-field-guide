@@ -1,0 +1,112 @@
+job_id: 12301022
+title: Senior Software Engineer, Reliability
+company: Temporal Technologies
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 501 Employees
+description: |
+  Role Summary
+
+  Join the Reliability team as a Senior Software Engineer,
+  reporting to Tushar Roy, and help improve the reliability of
+  operating Temporal Cloud end to end. You’ll build an AI-
+  first reliability experience, including building a
+  Reliability Agent from scratch that helps the SRE team
+  triage common issues, surface useful context, and recommend
+  next steps. You’ll also help make reliability knowledge and
+  practices accessible across engineering so ownership is
+  shared rather than concentrated with a small number of
+  experts.
+
+
+
+  What You’ll Do
+
+  - Own reliability outcomes for operating Temporal Cloud end to
+    end, partnering across engineering, infrastructure, and
+    product to drive measurable improvements.
+  - Build and evolve the Reliability Agent, including workflows
+    that gather context from telemetry, incidents, runbooks,
+    deployments, and service history to support faster, more
+    consistent triage.
+  - Design safe, useful agent experiences for handling routine
+    reliability questions and issues, with appropriate human
+    oversight, escalation paths, auditability, and safeguards
+    against incorrect actions.
+  - Strengthen incident response for Temporal Cloud, from
+    detection and triage through escalation, mitigation, and
+    communication, and lead post-incident reviews that turn
+    into durable corrective actions.
+  - Define and evolve reliability practices, including service-
+    level objectives, alerting thresholds, operational
+    readiness criteria, and escalation paths.
+  - Plan and run gamedays and safely expand chaos testing to
+    validate failure response, evaluate agent-assisted
+    operations, and reduce operational risk.
+  - Build and maintain reliability scorecards that make service
+    health, operational readiness, agent effectiveness, and
+    improvement priorities visible.
+  - Lead load, performance, and capacity testing, and improve
+    observability standards across services.
+
+
+
+  What You’ll Bring
+
+  - Strong computer science fundamentals, especially in
+    distributed systems, concurrency, performance, and fault-
+    tolerant design.
+  - Experience designing, building, or operating complex systems
+    under high load and partial failure.
+  - Experience building AI-powered tools, agents, or production
+    automation, with an understanding of tool use, evaluation,
+    state, failure modes, and human-in-the-loop design.
+  - A track record of driving reliability improvements across
+    multiple services, systems, or engineering teams.
+  - Hands-on experience with incident response and post-incident
+    reviews, including leading incidents and following
+    corrective actions through to completion.
+  - Hands-on experience with one or more of gamedays, chaos
+    testing, load testing, capacity planning, reliability
+    scorecards, or observability programs.
+  - Sound judgment in ambiguous situations, with the ability to
+    balance reliability, agent autonomy, safety, customer
+    impact, and delivery speed.
+  - Clear communication skills and the ability to align
+    stakeholders, share operational knowledge, mentor others,
+    and participate in an on-call rotation. This is a remote
+    United States role with no regular travel expected.
+
+
+
+  Nice to Haves
+
+  - Experience operating multi-tenant systems and designing
+    protections against noisy-neighbor behavior.
+  - Experience building internal platforms or tooling that
+    enables teams to meet reliability standards.
+  - Familiarity with LLM observability, agent evaluation,
+    retrieval-augmented generation, or workflow orchestration
+    systems.
+  - Open source contributions in infrastructure, distributed
+    systems, AI, or reliability engineering.
+
+  Temporal Technologies is an Equal Opportunity Employer.
+  Temporal Technologies does not discriminate on the basis of
+  race, religion, color, sex, gender identity, sexual
+  orientation, age, non-disqualifying physical or mental
+  disability, national origin, veteran status, or any other
+  basis covered by appropriate law. All employment is decided
+  on the basis of qualifications, merit, and business need. We
+  embrace and celebrate differences and diversity.
+
+  Temporal is committed to providing access, equal
+  opportunity, and reasonable accommodation for individuals
+  with disabilities in employment, its services, programs, and
+  activities. If you need to request a reasonable
+  accommodation, please let your Recruiter know so we can
+  assist.
+posted_date: 2026-11-18
+url: "https://builtin.com/job/senior-software-engineer-reliability/12301022"
+source: Built In

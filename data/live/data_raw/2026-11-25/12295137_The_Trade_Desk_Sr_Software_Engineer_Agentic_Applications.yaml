@@ -1,0 +1,177 @@
+job_id: 12295137
+title: Sr Software Engineer, Agentic Applications
+company: The Trade Desk
+location: Seattle, USA
+locations:
+  - Seattle, USA
+  - Bellevue, USA
+  - New York, USA
+work_type: FULL_TIME
+company_size: 2,700 Employees
+description: |
+  The Trade Desk is a global technology company and the
+  world’s leading independent platform for digital
+  advertising, with over 3,000 employees across more than 30
+  offices. Our technology helps advertisers reach the right
+  audiences across the open internet — from streaming TV and
+  podcasts to mobile apps, news, and more.   Advertising
+  powers the content people love. By making it more
+  transparent, effective, and responsible, we help support
+  trusted journalism, quality entertainment, and creators
+  worldwide. The world’s brands and agencies rely on us to
+  reach their customers and grow their businesses responsibly.
+  The scale of our platform brings unique technical challenges
+  — from processing massive datasets in real time to building
+  systems that operate reliably on a global scale. When you
+  work here, your impact is worldwide. We welcome diverse
+  perspectives, encourage curiosity, and build teams that
+  learn from one another. If you’re driven to solve meaningful
+  challenges, we’d love to meet you.
+
+  What we do
+
+  Go To Market Engineering builds the internal products and AI
+  systems that make our sellers, traders, and account teams
+  faster and sharper — from sprint and pipeline dashboards to
+  agentic assistants that prep a rep before a call or flag a
+  deal at risk before it slips. We sit at the intersection of
+  engineering, data, and revenue strategy, shipping tools that
+  directly move the needle on revenue growth and sales
+  productivity.
+
+  What you’ll do:
+
+  - Architect and build agentic systems that automate and
+    augment GTM workflows — pipeline hygiene, account
+    research, call prep, deal risk scoring, forecasting, and
+    rep coaching — using LLM orchestration frameworks( Ex:
+    LangGraph ).
+  - Define the agentic platform strategy for the pod: agent
+    design patterns, tool-calling conventions, retrieval-
+    augmented pipelines, evaluation frameworks, and human-in-
+    the-loop guardrails for revenue-critical workflows.
+  - Integrate core GTM systems (Salesforce, Outreach, ZoomInfo,
+    Slack, and The Trade Desk's own platform data) as agent-
+    accessible tools and data sources via internal data
+    platforms and MCP-style interfaces.
+  - Set the technical bar for the pod — reviewing designs,
+    establishing engineering standards, and leading
+    architectural reviews across the GTM Engineering roadmap.
+  - Partner directly with Product, Sales, Trading, and RevOps
+    leadership to translate agentic capability into measurable
+    outcomes — pipeline velocity, forecast accuracy, rep ramp
+    time, and sales productivity — and mentor engineers in the
+    pod on AI-first thinking.
+
+  Who you are:
+
+  - BS degree in Engineering related discipline and 8+ years of
+    software engineering experience, with at least 2 years
+    building production LLM or agentic applications (agents,
+    RAG pipelines, tool-use, multi-agent orchestration).
+  - Deep fluency in Python and TypeScript/JavaScript, with
+    hands-on experience in agentic frameworks —
+    LangChain/LangGraph, CrewAI, AutoGen, Semantic Kernel, or
+    similar.
+  - Strong command of enterprise integration patterns:
+    REST/GraphQL APIs, event-driven architecture, and
+    connecting SaaS GTM platforms (CRM, sales engagement, data
+    enrichment) programmatically.
+  - Experience building full-stack applications end to end —
+    from data pipelines and backend services to the front-end
+    tools sellers and traders actually use daily.
+  - Track record as a technical lead: driving architectural
+    decisions, writing RFCs, and raising the quality bar
+    across a team without relying on management authority.
+
+  Nice to have:
+
+  - Prior experience in Sales/RevOps tooling, GTM engineering,
+    or internal tooling domains — especially in ad tech,
+    media, or programmatic advertising.
+  - Familiarity with Salesforce, Outreach, Gainsight, or similar
+    GTM platforms — especially via API or integration layer.
+  - Experience evaluating and red-teaming LLM agents for safety,
+    reliability, and correctness in revenue-critical business
+    contexts.
+  - Exposure to media buying, campaign performance data, or
+    advertising analytics.
+
+  #LI-TP1
+
+  The Trade Desk does not accept unsolicited resumes from
+  search firm recruiters. Fees will not be paid in the event a
+  candidate submitted by a recruiter without an agreement in
+  place is hired; such resumes will be deemed the sole
+  property of The Trade Desk. The Trade Desk is an equal
+  opportunity employer. All aspects of employment will be
+  based on merit, competence, performance, and business needs.
+  We do not discriminate on the basis of race, color,
+  religion, marital status, age, national origin, ancestry,
+  physical or mental disability, medical condition, pregnancy,
+  genetic information, gender, sexual orientation, gender
+  identity or expression, veteran status, or any other status
+  protected under federal, state, or local law.
+
+  [LA JOBS ONLY] The Trade Desk will consider qualified
+  applicants with criminal histories for employment in a
+  manner consistent with the requirements of the Los Angeles
+  Fair Chance Initiative for Hiring, Ordinance No. 184652.
+
+  [SF JOBS ONLY] Pursuant to the San Francisco Fair Chance
+  Ordinance, we will consider for employment qualified
+  applicants with arrest and conviction records.
+
+  In accordance with various US state laws, the range provided
+  is the Trade Desk's reasonable estimate of the base
+  compensation for this role. The actual amount may differ
+  based on non-discriminatory factors such as experience,
+  knowledge, skills, and location.  All employees may be
+  eligible to become The Trade Desk shareholders through
+  eligibility for stock-based compensation grants, which are
+  awarded to employees based on company and individual
+  performance. The Trade Desk also offers other compensation
+  depending on the role such as variable compensation-based
+  incentives and commissions. Plus, expected benefits for this
+  role include comprehensive healthcare (medical, dental, and
+  vision) with premiums paid in full for employees and
+  dependents, retirement benefits such as a 401k plan and
+  company match, short and long-term disability coverage,
+  basic life insurance, well-being benefits, reimbursement for
+  certain tuition expenses, parental leave, sick time of 1
+  hour per 30 hours worked, vacation time for full-time
+  employees up to 120 hours thru the first year and 160 hours
+  thereafter, and around 13 paid holidays per year.  Employees
+  can also purchase The Trade Desk stock at a discount through
+  The Trade Desk’s Employee Stock Purchase Plan.
+
+  The Trade Desk also offers a competitive benefits package.
+  Click here to learn more.
+
+  Note: Interns are not eligible for variable incentive awards
+  such as stock-based compensation, retirement plan, vacation,
+  tuition reimbursement or parental leave
+
+  At the Trade Desk, Base Salary is one part of our
+  competitive total compensation and benefits package and is
+  determined using a salary range. The base salary range for
+  this role is
+
+  $124,900—$228,900 USD
+
+  As an Equal Opportunity Employer, The Trade Desk is
+  committed to creating an inclusive hiring experience where
+  everyone has the opportunity to thrive.
+
+  Please reach out to us at accommodations@thetradedesk.com to
+  request an accommodation or discuss any accessibility needs
+  you may require to access our Company Website or navigate
+  any part of the hiring process.
+
+  When you contact us, please include your preferred contact
+  details and specify the nature of your accommodation request
+  or questions. Any information you share will be handled
+  confidentially and will not impact our hiring decisions.
+posted_date: 2026-11-17
+url: "https://builtin.com/job/sr-software-engineer-agentic-applications/12295137"
+source: Built In

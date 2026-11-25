@@ -1,0 +1,309 @@
+job_id: 12315782
+title: Sr. Manager, Software Engineering - Infrastructure
+company: Tapestry - Coach and Kate Spade
+location: New York, USA
+locations:
+  - New York, USA
+  - North Bergen, USA
+work_type: FULL_TIME
+company_size: 16,000 Employees
+description: |
+  We believe that difference sparks brilliance, so we welcome
+  people and ideas from everywhere to join us in stretching
+  what’s possible. At Tapestry, being true to yourself is core
+  to who we are. When each of us brings our individuality to
+  our collective ambition, our creativity is unleashed. This
+  global house of brands – Coach and Kate Spade New York – was
+  built by unconventional entrepreneurs and unexpected
+  solutions, so when we say we believe in dreams, we mean we
+  believe in making them happen. We’re always on a journey to
+  becoming our best, but you can count on this: Here, your
+  voice is valued, your ambitions are supported, and your work
+  is recognized. A member of the Tapestry family, we are part
+  of a global house of brands that has unwavering optimism and
+  is committed to being innovative and wholly inclusive. Visit
+  Our People page to learn more about Tapestry's commitment to
+  equity, inclusion, and diversity.
+
+  Sr. Manager, Software Engineering – Infrastructure
+
+  Infrastructure Automation & AI Platforms
+
+
+
+  Do you want to change how infrastructure work gets done, not
+  just automate more of it? We’re looking for a senior
+  engineering leader to shape and deliver Tapestry’s
+  infrastructure automation and AI roadmap, and to build a
+  federated automation platform that lets domain teams across
+  IT automate their own work using shared standards, reusable
+  components and governance. This is a global role, spanning
+  North America, Europe and Asia.
+
+  You’ll be the engineering and portfolio lead for
+  Infrastructure Automation and AI, partnering with the
+  Director of Cloud Infrastructure across every infrastructure
+  area: monitoring, FinOps, databases, file transfer and
+  scheduling, datacenters, storage, disaster recovery,
+  virtualization, virtual desktops and servers. Your job is to
+  find the manual work, decide what to standardize and
+  automate first, and lead delivery across internal teams,
+  managed service providers and strategic partners to
+  measurable results.
+
+  At Tapestry, we have the freedom to express ourselves and
+  run with our best ideas. Every individual in our global
+  house has the opportunity to make an impact, learn and be
+  part of our growing and unique story.
+
+  As Sr. Manager, Software Engineering – Infrastructure, you
+  will:
+
+  Own the roadmap and the results
+
+  - Shape the multi-year infrastructure automation and AI
+    strategy with the Director, and turn it into a written
+    quarterly roadmap with sequenced milestones, dependencies,
+    risks and a clear platform vision that ties individual
+    projects together
+  - Keep the roadmap current as a living document, commit to
+    delivery dates, and report progress against them honestly
+  - Raise risks and slippage early, with data, options and a
+    recommended path, rather than at the deadline
+  - Evaluate alternative approaches before committing, and bring
+    formal proposals (objectives, design, approach, success
+    criteria) for new initiatives and proofs of concept
+  - Run the operating rhythm for the portfolio: intake,
+    prioritization, status, value tracking and metrics
+  - Drive common automation standards globally across North
+    America, Europe and Asia, while allowing for regional
+    requirements such as local regulations, data residency and
+    support models
+
+  Transform processes across the organization
+
+  - Work across all infrastructure areas to map current
+    processes, find the highest-value opportunities, and
+    prioritize by measurable outcomes such as hours returned,
+    incidents avoided and risk reduced
+  - Standardize before automating: lead as-is and to-be process
+    mapping with domain owners so automation encodes a clean
+    process, not a messy one
+  - Establish and maintain a single, version-controlled
+    repository of process diagrams and automation designs that
+    serves as the team’s source of truth
+  - Target recurring operational work that crosses team
+    boundaries and has no single owner, and drive permanent
+    fixes
+
+  Build a federated automation platform
+
+  - Build and run a federated automation model in which domain
+    teams build, test and ship their own automations on a
+    shared platform of standards, reusable components,
+    guardrails, a catalog and CI/CD pipelines, instead of
+    queuing for a central team
+  - Treat the platform as a product: define its users, measure
+    adoption, and improve it based on feedback
+  - Define the governance for federated automation, including
+    ownership, review and approval paths, and set and enforce
+    engineering standards for every automation: version
+    control, peer review, automated and end-to-end testing
+    before go-live, monitoring after go-live, and built-in
+    ITSM integration (incident and change records)
+  - Own the reliability, security and lifecycle of the
+    automation platform itself, including high availability,
+    patching, secrets management and upgrades
+  - Grow automation capability across teams through training,
+    documentation, office hours and champions in each domain
+
+  Lead the move to AI and agentic automation
+
+  - Define and deliver the strategy for AI-assisted and agentic
+    automation in infrastructure operations, such as
+    intelligent event triage, self-healing remediation,
+    natural-language access to runbooks and AI-assisted code
+    generation and review
+  - Put the right guardrails in place: human approval where it
+    matters, least-privilege access, auditability, and data
+    privacy
+  - Run structured, time-boxed proofs of concept and make clear
+    build, buy or adopt recommendations
+
+  Lead and influence people
+
+  - Lead, coach and grow a team of automation engineers, with
+    clear expectations that each person owns the process and
+    the outcome, not just the code
+  - Build consensus across teams on standards and cross-team
+    decisions, and influence engineers and leaders who don’t
+    report to you
+  - Lead delivery across internal teams, managed service
+    providers (MSPs) and strategic partners, setting clear
+    expectations, standards and accountability for each
+  - Communicate with executives and stakeholders clearly and
+    concisely, leading with the recommendation or decision
+    needed and tailoring the detail to the audience
+
+
+
+  As Sr. Manager, Software Engineering – Infrastructure, you
+  will possess:
+
+  - 12+ years in infrastructure, platform or software
+    engineering, including 5+ years leading engineering teams
+    and multi-quarter programs
+  - A track record of setting a technical roadmap and delivering
+    against committed dates, with examples you can walk
+    through end to end
+  - Experience building an internal platform or self-service
+    capability that other teams adopted, with evidence of
+    adoption and impact
+  - Executive-level written and verbal communication: you get to
+    the point, lead with the recommendation, and produce
+    polished, accurate materials
+  - A data-driven approach: you bring facts to discussions, say
+    so when the data isn’t available yet, and take the time to
+    analyze rather than relying on assumptions
+  - Strong opinions, held loosely: you disagree openly and
+    respectfully, and change your position when presented with
+    new evidence
+  - Strong process mapping skills, with the ability to document
+    as-is and to-be flows that others can use
+  - Technical depth to set architecture and review code, even if
+    you’re no longer the primary builder:
+    - Infrastructure as code, configuration management and policy-
+      driven automation using Terraform, Ansible or comparable
+      enterprise tooling
+    - CI/CD and Git-based workflows (GitHub Actions, GitLab or
+      Jenkins), with automated testing
+    - Python, REST APIs and JSON
+    - Containers and Kubernetes (EKS, AKS or similar)
+    - Public cloud (AWS, Azure), including networking, IAM and
+      security
+    - Windows Server, Active Directory and Linux, plus working
+      knowledge of virtualization, storage and networking
+    - ITSM integration (ServiceNow) and observability tooling
+  - Hands-on experience applying LLMs or AI agents to
+    engineering or operations work, and a clear understanding
+    of their risks and limits
+  - A security-first mindset for automation, including secrets
+    management, least privilege and compliance (DevSecOps)
+  - Experience leading delivery across global teams in North
+    America, Europe and Asia, including internal teams, MSPs
+    and strategic partners
+  - A proven record of getting things done
+
+
+
+  What will set you apart?
+
+  - Experience building an internal developer platform, or
+    running a platform as a product
+  - Experience with agentic frameworks, the Model Context
+    Protocol (MCP) or AIOps tools in production
+  - Experience building a federated automation or inner-source
+    model across multiple domain teams
+  - Public contributions (GitHub, Ansible Galaxy or similar)
+  - Experience in retail or a global, multi-brand enterprise
+
+  Our Competencies for All Employees Courage: Doesn’t hold
+  back anything that needs to be said; provides current,
+  direct, complete, and “actionable” positive and corrective
+  feedback to others; lets people know where they stand; faces
+  up to people problems on any person or situation (not
+  including direct reports) quickly and directly; is not
+  afraid to take negative action when necessary. Creativity:
+  Comes up with a lot of new and unique ideas; easily makes
+  connections among previously unrelated notions; tends to be
+  seen as original and value-added in brainstorming settings.
+  Customer Focus: Is dedicated to meeting the expectations and
+  requirements of internal and external customers; gets first-
+  hand customer information and uses it for improvements in
+  products and services; acts with customers in mind;
+  establishes and maintains effective relationships with
+  customers and gains their trust and respect. Dealing with
+  Ambiguity: Can effectively cope with change; can shift gears
+  comfortably; can decide and act without having the total
+  picture; isn’t upset when things are up in the air; doesn’t
+  have to finish things before moving on; can comfortably
+  handle risk and uncertainty. Drive for Results: Can be
+  counted on to exceed goals successfully; is constantly and
+  consistently one of the top performers; very bottom-line
+  oriented; steadfastly pushes self and others for results.
+  Interpersonal Savvy: Relates well to all kinds of people,
+  up, down, and sideways, inside and outside the organization;
+  builds appropriate rapport; builds constructive and
+  effective relationships; uses diplomacy and tact; can
+  diffuse even high-tension situations comfortably. Learning
+  on the Fly: Learns quickly when facing new problems; a
+  relentless and versatile learner; open to change; analyzes
+  both successes and failures for clues to improvement;
+  experiments and will try anything to find solutions; enjoys
+  the challenge of unfamiliar tasks; quickly grasps the
+  essence and the underlying structure of anything.
+
+  Our Competencies for All People Managers Strategic Agility:
+  Sees ahead clearly; can anticipate future consequences and
+  trends accurately; has broad knowledge and perspective; is
+  future oriented; can articulately paint credible pictures
+  and visions of possibilities and likelihoods; can create
+  competitive and breakthrough strategies and plans.
+  Developing Direct Reports and Others: Provides challenging
+  and stretching tasks and assignments; holds frequent
+  development discussions; is aware of each person's career
+  goals; constructs compelling development plans and executes
+  them; pushes people to accept developmental moves; will take
+  on those who need help and further development; cooperates
+  with the developmental system in the organization; is a
+  people builder. Building Effective Teams: Blends people into
+  teams when needed; creates strong morale and spirit in their
+  team; shares wins and successes; fosters open dialogue; lets
+  people finish and be responsible for their work; defines
+  success in terms of the whole team; creates a feeling of
+  belonging in the team.
+
+
+  Tapestry, Inc. is an equal opportunity and affirmative
+  action employer and we pride ourselves on hiring and
+  developing the best people. All employment decisions
+  (including recruitment, hiring, promotion, compensation,
+  transfer, training, discipline and termination) are based on
+  the applicant’s or employee’s qualifications as they relate
+  to the requirements of the position under consideration.
+  These decisions are made without regard to age, sex, sexual
+  orientation, gender identity, genetic characteristics, race,
+  color, creed, religion, ethnicity, national origin,
+  alienage, citizenship, disability, marital status, military
+  status, pregnancy, or any other legally-recognized protected
+  basis prohibited by applicable law.
+
+  Americans with Disabilities Act (ADA)
+
+  Tapestry, Inc. will provide applicants and employees with
+  reasonable accommodation for disabilities or religious
+  beliefs. If you require reasonable accommodation to complete
+  the application process, please contact Tapestry People
+  Services at 1-855-566-9264.
+
+  Visit Tapestry, Inc.
+
+  Base Pay Range
+
+  $155,000.00-$170,000.00
+
+  Here are some of the benefits that we offer: Medical
+  insurance, Dental insurance, Vision insurance, 401 (K), Paid
+  Paternity and Maternity leave, Commuter Benefits, Disability
+  insurance and Tuition assistance. Please click here for a
+  complete list of U.S Corporate Compensation & Benefits.
+industries:
+  - eCommerce
+  - Fashion
+  - Retail
+  - Sales
+  - Wearables
+  - Design
+posted_date: 2026-11-18
+url: "https://builtin.com/job/sr-manager-software-engineering-infrastructure/12315782"
+source: Built In

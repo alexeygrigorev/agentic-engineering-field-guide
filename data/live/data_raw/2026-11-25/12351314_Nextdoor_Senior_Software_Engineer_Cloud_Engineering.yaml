@@ -1,0 +1,170 @@
+job_id: 12351314
+title: Senior Software Engineer, Cloud Engineering
+company: Nextdoor
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 780 Employees
+description: |
+  #TeamNextdoor
+
+  Nextdoor is the essential neighborhood network. Neighbors,
+  public agencies, and businesses use Nextdoor to connect
+  around local information that matters in more than 350,000
+  neighborhoods across 11 countries. Nextdoor builds
+  innovative technology to foster local community, share
+  important news, and create neighborhood connections at
+  scale. Download the app and join the neighborhood at
+  nextdoor.com.
+
+  Meet Your Future Neighbors
+
+  At Nextdoor, Cloud Engineers are responsible for building,
+  deploying, managing, and securing the underlying cloud-based
+  architecture that powers communities on the Nextdoor
+  platform worldwide. These engineers have designed, built and
+  implemented a globally scalable container and “serverless”
+  based infrastructure that serves billions of requests a day,
+  millions of active users, and hundreds of developers.
+
+  We build infrastructure and tooling that is iterable,
+  scalable, and secure. We write everything in code from
+  network infrastructure to server management, database
+  provisioning, and data pipelines. Recently we have focused
+  on scaling up our Kubernetes infrastructure. We created a
+  dedicated management cluster to run ArgoCD, Loki,
+  Prometheus, and Grafana. Additionally, we have created a
+  second Kubernetes cluster for Nextdoor applications to
+  ensure we can scale beyond the limitations of a single
+  cluster. This will ensure Nextdoor’s infrastructure is able
+  to scale for many years to come.
+
+  Additionally our team has focused efforts to modernize our
+  Infrastructure as Code (IaC) by leveraging CDK to manage our
+  AWS resources and Pulumi to manage our other core
+  infrastructure systems such as PagerDuty, Datadog, and
+  Sentry.
+
+  At Nextdoor, we operate in an AI-first environment and
+  expect every team member to actively use AI tools as part of
+  their workflow. We aren't looking for prompt engineers;
+  we’re looking for people who use tools like Claude, Gemini,
+  ChatGPT, and Glean to challenge their own thinking and take
+  full ownership of AI-assisted outputs.
+
+  We also offer a warm and inclusive work environment that
+  embraces a hybrid employment model, blending an in office
+  presence and work from home experience for our valued
+  employees. The hiring team will go over these expectations
+  with you if you are being considered for a role near one of
+  our offices in San Francisco, Los Angeles, Chicago, Dallas,
+  New York, and London.
+
+  The Impact You’ll Make
+
+  You will be responsible for building an efficient and
+  scalable container and serverless computing environment for
+  our product developers. In this team you will work in the
+  ways of reliability engineering, design scalable systems
+  from the ground up, and generally build systems that never
+  page you. You serve all of our engineering teams by
+  providing them with reliable and scalable infrastructure.
+
+  Here are just some of our team’s most recent deliverables:
+
+  - Operationalizing a second Kubernetes cluster to ensure
+    Nextdoor can continue to scale beyond the limits of a
+    single Kubernetes cluster
+  - Building automation for our developer’s workflows including
+    applying 3rd party dependency updates automatically as
+    well as distributing Helm chart updates
+  - Modernizing our Infrastructure as Code (IaC) by leveraging
+    CDK and Pulumi
+  - Optimizing our Kubernetes resource management by leveraging
+    Spot Ocean and Karpenter
+  - Providing self-service infrastructure-as-code systems to
+    developers that automate the full lifecycle of managing,
+    deploying and operating cloud services including
+    blob/block storage, relational databases, key-value
+    databases, caches and document search services
+  - Developing tooling for horizontally and vertically
+    autoscaling our developers compute workloads
+  - Providing upstream open source patches to well known
+    community projects like AWS Bottlerocket, the Istio
+    Service Mesh, Keiko IAM Manager, Kyverno, Strimzi.io’s
+    Kafka Operator and more!
+
+  What You’ll Bring to The Team
+
+  - 7+ years experience in a DevOps or Cloud role
+  - Solid understanding of Kubernetes (k8s)
+  - Experience using TypeScript
+  - Experience with infrastructure as code (CDK, Pulumi,
+    CloudFormation, Puppet, Salt, Ansible, Terraform, Packer)
+  - Thorough understanding of Linux and networking protocols
+    (TCP/IP, UDP, HTTP/S, eBPF)
+  - Strong debugging and performance tuning skills using
+    software like gdb, perf, strace, ltrace, tcpdump,
+    Wireshark, etc.
+  - Experience with performance, automation, monitoring, and
+    capacity planning
+  - Experience automating configuration and bootstrapping of
+    Linux systems
+  - Eagerness to explore and apply AI and emerging technologies
+    to reimagine how work gets done
+  - Participate in in-person Nextdoor events such as trainings,
+    off-sites, volunteer days, and team building exercises
+  - Build in-person relationships with team members and
+    contribute to Nextdoor’s company culture
+
+  Bonus Points
+
+  - Experience using Docker or other containerization software
+  - Linux certifications such as Linux+, Network+,
+    RHCSA/RHCE/RHCA or similar
+  - Experience in a large scale compute environment with
+    hundreds or thousands of servers
+
+  Rewards
+
+  Compensation, benefits, perks, and recognition programs at
+  Nextdoor come together to create our total rewards package.
+  Compensation will vary depending on your relevant skills,
+  experience, and qualifications.
+
+  The starting salary for this role is expected to range from
+  $187,000 to $238,000 on an annualized basis, or potentially
+  greater in the event that your 'level' of proficiency
+  exceeds the level expected for the role. The salary range
+  will be determined by the candidate’s geographic location.
+
+  We expect to award a meaningful equity grant for this role.
+  With quarterly vesting, your first vest date will take place
+  within 3 months of your start date.
+
+  When it comes to benefits, we have you covered! Nextdoor
+  employees can choose between a variety of health plans,
+  including a 100% covered employee only plan option, and we
+  also provide a OneMedical membership for concierge care.
+
+  At Nextdoor, we empower our employees to build stronger
+  local communities. To create a platform where all feel
+  welcome, we want our workforce to reflect the diversity of
+  the neighbors we serve. We encourage everyone interested in
+  our mission to apply. We do not discriminate on the basis of
+  race, gender, religion, sexual orientation, age, or any
+  other trait that unfairly targets a group of people. In
+  accordance with the San Francisco Fair Chance Ordinance, we
+  always consider qualified applicants with arrest and
+  conviction records.
+
+  For information about our collection and use of applicants’
+  personal information, please see Nextdoor's Personnel
+  Privacy Notice, found here.
+industries:
+  - Information Technology
+  - Other
+  - Social Media
+posted_date: 2026-11-19
+url: "https://builtin.com/job/senior-software-engineer-cloud-engineering/12351314"
+source: Built In

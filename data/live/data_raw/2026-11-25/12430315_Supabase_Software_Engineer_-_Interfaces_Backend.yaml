@@ -1,0 +1,196 @@
+job_id: 12430315
+title: Software Engineer - Interfaces Backend
+company: Supabase
+location: CAN
+locations:
+  - CAN
+  - IND
+  - AUS
+  - IRL
+  - USA
+  - GBR
+  - Singapore, SGP
+remote: true
+work_type: FULL_TIME
+company_size: 49 Employees
+description: |
+  About Supabase
+
+  Supabase is the Postgres development platform, built by
+  developers for developers. We provide a complete backend
+  solution including Database, Auth, Storage, Edge Functions,
+  Realtime, and Vector Search. All services are deeply
+  integrated and designed for growth.
+
+  About the Role
+
+  We’re looking for a Software Engineer to join Supabase’s
+  Interfaces group and help run the backend services behind
+  our developer tools, starting with postgres-meta: the open-
+  source service that runs SQL against customers’ Postgres
+  databases on behalf of our dashboard, our MCP server, AI
+  agents, and other platform tools. You’ll work closely with
+  the engineers who build those tools, and with our Platform
+  and SRE teams.
+
+  AI agents are the fastest-growing source of postgres-meta’s
+  traffic, and it sits on the path between developers and
+  their data, so when it struggles, people can’t reach their
+  databases from the dashboard or their agents. The team’s
+  first priority is making it reliable, observable, and fair
+  between tenants at agent scale, and helping redesign it for
+  that scale without breaking the tools that depend on it.
+  Depending on your experience, you’ll own major parts of that
+  work or lead it. Alongside it, the team builds the backend
+  services that give every branch of a project the
+  configuration and secrets it needs.
+
+  We want to be upfront: this role carries real operational
+  load. Our on-call process and rotation are new and need a
+  lot of maturing, and you’ll help build them into something
+  sustainable from your first weeks. You’ll be on call for
+  services on the critical path, and incidents come before
+  planned work. Platform teams run the infrastructure
+  underneath; you’ll own the services themselves, from their
+  code to how they behave in production. It’s ideal for
+  someone who enjoys that kind of ownership, thrives in async,
+  fast-paced environments, and stays calm when the root cause
+  turns out to be in someone else’s system.
+
+  What You’ll Be Responsible For
+
+  In this role, you’ll:
+
+  - Help mature the team’s on-call from your first weeks: grow
+    the rotation to cover every service the team runs, write
+    runbooks, and agree when to declare an incident. Then
+    build it, with our embedded SRE, into a sustainable
+    follow-the-sun rotation as the team grows.
+  - Set SLOs with the teams that call the service, and build the
+    observability to hold them: metrics per tenant and per
+    caller, alerts that catch failures wherever they start,
+    and logs you can search across regions.
+  - Make deploys routine with canary and staged rollouts, so
+    dependency and security upgrades stop being risky.
+  - Redesign how the service works with Postgres at scale:
+    reusing connections, limiting or streaming large results,
+    and isolating and rate-limiting tenants, so no single
+    caller, human or agent, can degrade it for everyone else.
+  - Help decide the service’s long-term architecture with our
+    Platform teams, then evolve it without breaking the
+    callers that depend on it.
+  - Write down and agree the service’s contract with its
+    callers, including the dashboard, MCP and AI, and platform
+    workers: how transactions, multi-statement queries,
+    timeouts, and errors behave.
+  - Work through incidents with the networking, Kubernetes,
+    pooler, and control-plane teams when a problem on the path
+    to customers’ databases starts in their systems.
+  - Build backend services for code-first workflows, starting
+    with delivering each branch’s configuration and secrets to
+    the services that need them.
+  - Make small changes directly in the CLI, dashboard, or docs
+    when a capability needs them, with the owning team
+    reviewing.
+  - Review code and designs, mentor other engineers, and grow
+    into leading the team’s technical direction.
+
+  You Might Be a Good Fit If You
+
+  Must have:
+
+  - Have 5+ years of experience as a software engineer, most of
+    it building and running backend services in production.
+  - Have run a high-traffic, multi-tenant service in production:
+    been on call for it, worked incidents through to
+    resolution, and followed through on postmortems.
+  - Write strong TypeScript, and work confidently in a large
+    Node.js backend codebase.
+  - Understand Postgres from the client side: connection
+    management and pooling, transactions, statement timeouts
+    and cancellation, and large result sets.
+  - Have built observability for a service you owned (metrics,
+    tracing, logs, and alerts tied to SLOs), and used it to
+    debug problems that span proxies, load balancers, or
+    Kubernetes.
+  - Have kept a service healthy under load with patterns such as
+    rate limiting, timeouts, memory limits, and graceful
+    degradation.
+  - Have shipped changes to a live service safely, with
+    canaries, staged rollouts, feature flags, or fast
+    rollback.
+  - Work calmly and constructively with other teams during
+    incidents, including when the root cause is in a system
+    you don’t own.
+  - Communicate clearly in writing, from design docs to
+    postmortems, thrive in async, globally distributed teams,
+    and make progress when the path isn’t fully defined.
+
+  Nice to have, roughly in order of how much they’d help:
+
+  - Have rebuilt or migrated a live, high-traffic service
+    without breaking its callers, using techniques such as
+    shadow traffic, contract tests, or incremental
+    replacement.
+  - Have led the design of reliability work, such as tenant
+    isolation, load shedding, or a staged-deploy pipeline, or
+    set technical direction that other engineers built on.
+  - Have built or operated a database proxy or connection pooler
+    (such as PgBouncer, Supavisor, or pgcat), or an API
+    gateway such as Envoy.
+  - Have secured a service that runs SQL on its callers’ behalf:
+    handling credentials safely, and limiting how much damage
+    any one caller can do.
+  - Multi-region AWS experience.
+  - Experience with Fastify.
+  - Production experience in a second backend language, such as
+    Elixir or Go.
+  - Experience with a secrets manager or key management service,
+    such as HashiCorp Vault or AWS KMS.
+  - Familiarity with Supabase, or with how AI agents use
+    databases through tools like MCP.
+
+  What We Offer
+
+  - Fully RemoteWe hire globally. We believe you can do your
+    best work from anywhere. There are no Supabase offices,
+    but we provide a WeWork membership or co-working allowance
+    you can use anywhere in the world.
+  - ESOPEvery team member receives ESOP (equity ownership) in
+    the company. We want everyone to share in the upside of
+    what we’re building together.
+  - Tech AllowanceUse this budget to set up your ideal work
+    environment—laptop, monitor, headphones, or whatever helps
+    you do your best work.
+  - Health BenefitsSupabase covers 100% of health insurance for
+    employees and 80% for dependents, wherever you are. Your
+    wellbeing and your family’s health are important to us.
+  - Annual Off-SitesOnce a year, the entire company gathers in a
+    new city for a week of connection, collaboration, and fun.
+    It’s a highlight of our year.
+  - Flexible WorkWe operate asynchronously and trust you to
+    manage your own time. You know what needs to be done and
+    when.
+  - Professional DevelopmentEvery team member receives an annual
+    education allowance to spend on learning—courses, books,
+    conferences, or anything that supports your growth.
+
+  About the Team
+
+  Supabase was born-remote and open-source-first. We believe
+  our globally distributed team is our secret weapon in
+  building tools developers love.
+
+  - ~400 team members
+  - 60+ countries
+  - 20+ languages spoken
+  - Over $1B raised (including our $500M Series F)
+  - 540,000+ community members
+
+  We move fast, build in public, and use what we ship. If it’s
+  in your project, we probably use it in ours too. We believe
+  deeply in the open-source ecosystem and strive to
+  support—not replace—existing tools and communities.
+posted_date: 2026-11-24
+url: "https://builtin.com/job/software-engineer-interfaces-backend/12430315"
+source: Built In

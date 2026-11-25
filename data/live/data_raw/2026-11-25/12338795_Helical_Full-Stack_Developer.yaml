@@ -1,0 +1,128 @@
+job_id: 12338795
+title: Full-Stack Developer
+company: Helical
+location: Luxembourg, LUX
+locations:
+  - Luxembourg, LUX
+  - London, GBR
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  Helical is building the in-silico labs for biology
+
+  At Helical, our mission is to turn biology into an
+  engineering discipline.
+
+  Drug discovery still relies on wet labs: slow, expensive,
+  and constrained by physical trial-and-error. Helical is
+  changing that.
+
+  We build the application layer that makes Bio Foundation
+  Models usable in real-world drug discovery, enabling pharma
+  and biotech teams to run millions of virtual experiments in
+  days, not years. Today, leading global pharma companies
+  already use Helical, and we’re at the start of a highly
+  ambitious growth journey.
+
+  We’re a founder-led, talent-dense team building a category-
+  defining company from Europe. We care deeply about the
+  quality of our work, move fast, and expect ownership. If
+  you’re excited by complexity, real responsibility, and
+  shaping how a company actually operates as it scales, you’ll
+  feel at home here.
+
+  About the Role
+
+  We are looking for a Full-Stack Developer to join our core
+  product development team. We welcome applications from
+  junior and mid-level engineers who are eager to grow and
+  contribute to building a product used by scientists at
+  leading pharma and biotech companies.
+
+  You will build the product scientists use every day, from
+  the interfaces where they design and review virtual
+  experiments to the APIs and services that run Bio Foundation
+  Models behind them.
+
+  The ideal candidate is a motivated software engineer with a
+  scientific background, who cares about architecture and user
+  experience, works fluently with AI coding agents, and is
+  eager to collaborate across teams of ML scientists, backend
+  engineers, and biologists.
+
+  Responsibilities
+
+  - Design, build, and maintain end-to-end features across our
+    Next.js / React frontend and TypeScript backend
+  - Develop type-safe APIs with tRPC that connect our product to
+    model execution and biological data workflows
+  - Contribute to software architecture decisions, keeping the
+    platform scalable, maintainable, and secure as we grow
+  - Build interfaces for visualizing, exploring, and quality-
+    controlling large scientific datasets and model outputs
+  - Use agentic coding tools to ship faster while keeping a high
+    bar for code quality, review, and testing
+  - Collaborate closely with ML researchers, AI infrastructure,
+    and software engineers to bring Bio Foundation Models into
+    production
+
+  Requirements
+
+  MSc (or PhD) in a scientific or technical field, with hands-
+  on exposure to scientific data handling in a production
+  context
+
+  - 1+ years of professional software development experience —
+    you've shipped production code, not just prototypes
+  - Frontend development in Next.js and React — strong,
+    production-grade experience is a must
+  - Agentic coding — AI coding agents (e.g. Claude Code, Cursor,
+    Codex) are part of your daily workflow: you give them
+    clear direction and context, review what they produce, and
+    verify it before it ships
+  - Software architecture — you can design systems that scale,
+    reason about trade-offs, and structure codebases others
+    can build on
+  - Data fluency — comfortable working with large scientific
+    datasets and file formats (e.g. h5ad, csv, parquet), and
+    building efficient data flows from backend to UI
+  - Familiarity with Git workflows and collaborative development
+    practices
+
+  Nice to Haves
+
+  - Background or interest in biology, computational biology, or
+    bioinformatics
+  - Exposure to bio foundation models — you've worked with
+    models like scGPT, Geneformer, scVI, or similar
+  - Python experience, for working alongside our ML and data
+    pipelines
+  - Experience building agentic features into a product — e.g.
+    LLM tool calling, chat interfaces, or MCP servers
+  - Relational databases — data modelling and schema migrations
+  - Familiarity with cloud development (AWS, GCP, or Azure)
+  - Experience with automated testing (e.g. Vitest, Playwright,
+    pytest)
+  - Working on CI/CD pipelines and automated deployments — we
+    ship fast and often, and want our pipelines to keep up
+  - Working knowledge of Docker and containerised development
+    environments
+  - Experience in pharma or biotech — you understand the
+    compliance and validation expectations that come with the
+    territory
+
+  Benefits
+
+  - Proven product already in use with top pharma
+  - Opportunity to shape a category-defining company at an
+    inflection point
+  - High ownership, direct impact, and close collaboration with
+    founders
+  - Competitive Salary, Equity and Benefits
+industries:
+  - Artificial Intelligence
+  - Software
+  - Biotech
+posted_date: 2026-11-19
+url: "https://builtin.com/job/full-stack-developer/12338795"
+source: Built In

@@ -1,0 +1,171 @@
+job_id: 12301373
+title: Software Engineer
+company: Summit Securities Group
+location: New York, USA
+work_type: FULL_TIME
+company_size: 57 Employees
+description: |
+  About Summit Securities Group
+
+  Summit Securities Group is a proprietary trading firm
+  established in 2012. Headquartered in New York City, we
+  trade our own capital across global markets, combining
+  experienced traders, quantitative research, and in-house
+  technology.
+
+  The Role
+
+  We are looking for a versatile, experienced Software
+  Engineer to join our Core Engineering team. This is an all-
+  around role: one day you may be building production C++
+  services, the next writing Python tooling for researchers,
+  and the next untangling a reference data issue across
+  international listings. You will work across the trading
+  stack — from the systems that power live trading to the
+  data, tools, and pipelines that keep them accurate — while
+  partnering directly with our quantitative researchers,
+  traders, and operations teams.
+
+  The Team
+
+  Core Engineering builds the infrastructure used across the
+  firm — every trading desk, research, and compliance and risk
+  — spanning both front and back office. On our lean team, we
+  view engineering holistically rather than functionally: you
+  won't be restricted to a narrow component, and your work
+  will directly impact our bottom line alongside seasoned
+  mentors and brilliant peers.
+
+  Responsibilities
+
+  - Build and Own Trading Systems: Design, develop, and maintain
+    C++ components of our trading platform, driving projects
+    from initial whiteboard design through deployment and
+    production support.
+  - Develop Python Tooling and Pipelines: Build Python services,
+    test harnesses, and data analysis pipelines that help
+    researchers and traders rapidly iterate on new signals and
+    strategies.
+  - Own Reference Data: Build and maintain the systems that
+    source, normalize, and validate security master and
+    reference data — symbology, corporate actions, contract
+    specifications, trading calendars, and cross-listing
+    mappings.
+  - Support Global, Multi-Asset Trading: Extend our platform
+    across equities, ETFs, ADRs, options, and futures, and
+    across US and international venues, handling the market-
+    specific conventions each one brings.
+  - Operate in Production: Troubleshoot live issues across Linux
+    systems, data feeds, and applications; improve monitoring,
+    automation, and reliability.
+  - Partner Across the Firm: Work side-by-side with quantitative
+    researchers, traders, and operations, translating business
+    needs into pragmatic engineering solutions.
+
+  The Tech Stack
+
+  We use the right tool for the job. In this role, you will
+  heavily utilize:
+
+  - Languages: Modern C++ and Python, used side by side.
+  - Infrastructure: Linux, from development through production.
+
+  You Bring
+
+  Requirements
+
+  - Experience: 2+ years of professional software engineering
+    experience, with a track record of delivering systems end
+    to end.
+  - C++ and Python: Strong, production-level experience in both
+    modern C++ and Python. We weigh these roughly equally and
+    are looking for someone comfortable moving between them.
+  - Linux: Solid working knowledge of Linux — shell, bash
+    scripting, debugging, and supporting applications in
+    production.
+  - Onsite Collaboration: A willingness to work onsite in our
+    office 4 days a week.
+
+  Strongly Preferred
+
+  - Industry Experience: Background in finance, electronic
+    trading, or market-making.
+  - Reference Data: Hands-on experience with security master and
+    reference data — symbology (tickers, ISINs, SEDOLs,
+    FIGIs), corporate actions, contract specifications, and
+    exchange calendars.
+  - Non-US Markets: Exposure to international markets and their
+    nuances, such as differing trading hours, holidays,
+    settlement conventions, currencies, and venue rules.
+  - Multi-Asset Knowledge: Familiarity with options, futures,
+    ADRs, and ETFs — for example, option chains and
+    expirations, futures rolls, ADR ratios and underlying
+    mappings, and ETF creation/redemption and constituents.
+
+  Extras
+
+  - Trading Systems: Experience with order management, execution
+    logic, market data handlers, or venue gateways.
+  - Performance: Exposure to latency-sensitive or high-
+    throughput systems.
+  - Data Engineering: Experience building ETL pipelines, data
+    quality checks, or vendor data integrations (e.g.,
+    Bloomberg, Refinitiv, exchange feeds).
+  - Tooling: Familiarity with the Python data stack (pandas,
+    NumPy, Polars) and CI/CD, containers, or job scheduling.
+  - SQL: Working proficiency writing and tuning queries against
+    relational databases.
+
+  Ideal Profile
+
+  - Versatile Generalist: You’re as comfortable in a C++
+    codebase as in a Python application, and you reach for
+    whatever tool the problem needs.
+  - Technical Curiosity & Pragmatic Ownership: You want to
+    understand how things work under the hood, balanced with a
+    hands-on, pragmatic approach to delivering commercial
+    solutions.
+  - Attention to Detail: In trading, accuracy is paramount —
+    especially in reference data, where one bad mapping can
+    ripple across systems. You handle edge cases carefully.
+  - Collaborative Orientation: You are energized by working
+    closely within a team and communicating clearly across
+    research, trading, and operations.
+  - Driven by Impact: You take deep satisfaction in seeing your
+    work have a direct, measurable effect on our P&L and
+    operations.
+
+  We Offer
+
+  The Base Salary Range is $175,000 - $250,000. This range is
+  representative of the starting base salaries for this role
+  at Summit Securities Group. Where a candidate falls within
+  the range will be based on job-related factors such as
+  relevant experience, skills, and location. This range
+  represents Base Salary only, which is just one element of
+  our total compensation. The range stated does not include
+  other factors of total compensation such as bonuses.
+
+  We offer competitive compensation packages, 401k matching,
+  gender neutral parental leave, and full medical, dental and
+  vision insurance. We believe that working together in person
+  helps us solve complex challenges. We require employees to
+  be in the office 4 days per week. In-office benefits include
+  lunch stipends, fully stocked kitchens, happy hours, a great
+  location, and amazing colleagues.
+
+  Our top priority is our people. We invest in a culture that
+  promotes togetherness, helping each other through challenges
+  and celebrating each other's successes. We believe that
+  modern workplaces succeed by having diverse high-performance
+  workforces — in ideas, in cultures, and in experiences. We
+  put in the effort to make such a workplace a daily reality
+  and are proud to be an equal opportunity employer.
+industries:
+  - Machine Learning
+  - Marketing Tech
+  - Software
+  - Financial Services
+posted_date: 2026-11-18
+url: "https://builtin.com/job/software-engineer/12301373"
+source: Built In

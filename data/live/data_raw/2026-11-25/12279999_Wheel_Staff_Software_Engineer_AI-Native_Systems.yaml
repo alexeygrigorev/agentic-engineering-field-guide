@@ -1,0 +1,269 @@
+job_id: 12279999
+title: Staff Software Engineer, AI-Native Systems
+company: Wheel
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 150 Employees
+description: |
+  Staff Software Engineer, AI-Native Systems
+
+  Location: Remote (US)
+
+  We are
+
+  Virtual care only works if the infrastructure behind it
+  does. Wheel builds that infrastructure: the systems that let
+  telehealth run at scale for the patients, clinicians, and
+  companies that depend on it. We're not bolting AI onto old
+  workflows; we're rebuilding how care gets delivered, with AI
+  in the product and in how we build it.
+
+  We do this in a live, regulated healthcare environment where
+  getting it right matters. This is the next architecture of
+  virtual care, and we're building it now.
+
+  You are
+
+  A staff-level engineer who has built software in a
+  regulated, high-stakes domain (ideally health tech; fintech
+  and insurtech count too) and knows what that demands:
+  sensitive data, regulatory constraints, and the cost of
+  getting it wrong. You've designed and shipped AI and agentic
+  systems in production, you know where they break, and you
+  have opinions, held loosely and argued well, about building
+  them safely.
+
+  You're a builder first, and you've done real work in small,
+  scrappy teams. You still write the hard parts of the code
+  yourself, and you've done it recently. You don't need a
+  platform org, TPMs, or layers of review to move.
+
+  You operate as a domain owner, not a task owner. You take a
+  problem that isn't well-formed, define it, tie it to what
+  the business has committed to, and lead a group of engineers
+  to a shipped, measured outcome. Your impact shows up in
+  other people's work: the patterns they reuse and the
+  ambiguity you removed before it cost the team a quarter.
+
+  You get things done. You have sharp judgment about what
+  actually moves the outcome, you'd rather ship something
+  useful this week than something perfect next quarter, and
+  you know when good enough is good enough (and when, in
+  healthcare, it isn't).
+
+  And you're good to work with. You're curious, generous with
+  your time, quick to give credit, and you can disagree hard
+  without making it personal. Smart matters here; kind matters
+  just as much. Bonus points if people genuinely enjoy being
+  on a team with you.
+
+  The WorkTechnical Leadership & Direction
+
+  - Own the technical direction for a significant AI-native area
+    of the platform, such as patient and clinician
+    experiences, care delivery, or the AI platform layer other
+    teams build on.
+  - Act as tech lead for a team or cross-team initiative: break
+    down ambiguous problems, sequence delivery, clear
+    blockers, and keep the team pointed at the outcome rather
+    than the ticket.
+  - Connect day-to-day engineering to quarterly commitments and
+    company goals, and make those links visible to the team.
+  - Write and review design docs. Make and document the load-
+    bearing calls, including "not yet" and "buy, don't build."
+
+  AI & Agent Engineering
+
+  - Design and build production AI features and agents:
+    retrieval, orchestration, tool calling, guardrails,
+    evaluation, and observability.
+  - Define what "production-ready" means for AI here
+    (testability, rollback safety, cost ceilings, failure
+    modes, human-in-the-loop boundaries) and hold the bar in
+    review.
+  - Take on the hardest parts of the build yourself. This is a
+    hands-on role; you are expected to be in the code every
+    day.
+
+  Healthcare-Grade Engineering
+
+  - Treat privacy, security, and responsible AI use on sensitive
+    health data as hard engineering requirements, and turn
+    compliance constraints into concrete architecture.
+  - Partner with clinical, compliance, and legal stakeholders
+    early, so safety and review are designed in rather than
+    bolted on.
+  - Build for the realities of healthcare: integrations with
+    clinical systems, auditability, and high-reliability
+    workflows.
+
+  Cloud-Native Delivery
+
+  - Own full-stack delivery in TypeScript/Node.js and Python:
+    services, APIs, data jobs, and the interfaces on top.
+  - Own deployment, monitoring, and troubleshooting in
+    production, including on-call, and improve the operational
+    posture of what you inherit.
+
+  Measure & Improve
+
+  - Own the evaluation strategy for your area: metrics, test
+    harnesses, and plans for accuracy, latency, safety, and
+    cost.
+  - Instrument systems so their behavior is legible after the
+    fact, not just at demo time.
+  - Kill approaches that aren't working, early and visibly.
+
+  Stakeholders & The Org
+
+  - Work directly with product, operations, clinical, and
+    business leaders to decide which use cases are worth
+    building.
+  - Explain trade-offs and risks clearly to technical and non-
+    technical audiences, up to the executive team.
+  - Mentor engineers through code review, design review, and
+    pairing, and build reusable patterns that raise the bar
+    beyond your own team.
+
+  What success looks like
+
+  - First 30 days: you've shipped something to production, met
+    the people you'll build with, and know where the sharp
+    edges are.
+  - First 90 days: you own an area, set its technical direction,
+    and have shipped AI features with an evaluation story
+    behind them.
+  - First 6 months: patterns you established are used by teams
+    you don't sit on, the business can point to outcomes you
+    drove, and engineers say their work got better (and more
+    fun) because you're here.
+
+  What we're looking for
+
+  - 8+ years building and operating production software, with
+    full-stack depth in TypeScript/Node.js and at least one
+    other language (Python strongly preferred).
+  - 3+ years building software in health tech, fintech, or
+    insurtech, including work with sensitive data under HIPAA,
+    PCI, SOC 2, or similar requirements.
+  - Hands-on experience designing and shipping AI or agentic
+    systems in production (retrieval, orchestration, tool
+    calling, evaluation), with a clear view of where LLMs work
+    and where they don't.
+  - A record of shipping outcomes, not just output: you can
+    point to what you delivered, why it mattered, and the
+    judgment calls you made to get it out the door.
+  - Recent hands-on output: in the last two years you've
+    personally built and debugged significant production
+    systems, not only directed others.
+  - Meaningful time at a startup or growth-stage company where
+    you owned what platform, release, or infrastructure teams
+    would handle elsewhere.
+  - A track record of technical leadership as an IC: owning a
+    domain, leading multi-engineer efforts to completion, and
+    driving decisions across teams without positional
+    authority.
+  - A collaborative, low-ego style: you raise the people around
+    you and make hard conversations easier, not harder.
+  - Fluent use of AI development tools as a force multiplier,
+    with judgment about when to trust, verify, or override
+    them.
+  - Strong cloud-native fundamentals: CI/CD, observability, and
+    running what you build. Fluency with relational data and
+    SQL.
+  - Clear written and verbal communication, including design
+    docs that change minds. This is a remote, cross-functional
+    role.
+
+  Strongly desired
+
+  - Health tech experience specifically: telehealth, EHR/EMR,
+    digital health, payer/provider, or pharmacy.
+  - Experience with clinical workflows or integrations with
+    clinical systems (EHRs, e-prescribing, labs, HL7/FHIR).
+  - Model evaluation and guardrail infrastructure: measuring
+    output quality, catching regressions, and keeping AI
+    inside safe bounds.
+  - Patient-, clinician-, or customer-facing AI products shipped
+    to real users.
+  - Experience building platform capabilities consumed by other
+    engineering teams.
+  - Experience as a formal tech lead or mentoring engineers.
+
+  What's hard about this role
+
+  We'd rather you hear it now:
+
+  - Ambiguity is the job. Problems often arrive half-formed, and
+    priorities can shift as the business and market change.
+  - You'll build, not just direct. There's no large platform
+    org; you'll write code, run what you ship, and take on-
+    call.
+  - Healthcare raises the bar. Clinical safety, privacy, and
+    compliance review are part of shipping, and they take real
+    time.
+
+  If that sounds energizing rather than draining, we'd love to
+  talk.
+
+  How we work
+
+  Remote-first (US), fast-moving, with tight loops between
+  engineering, product, clinical, and the business. We're an
+  AI-forward engineering org: we expect AI in the toolchain
+  and in the product, and we measure outcomes over activity.
+  We handle sensitive healthcare data under strict controls;
+  privacy, security, and responsible AI are engineering
+  requirements, not afterthoughts.
+
+  We take the work seriously, not ourselves. We're direct and
+  kind, we help each other out, and we have fun doing it.
+
+
+
+
+
+  Salary and Perks
+
+  Pay Range: $185,725-$264,500 USD
+
+  Final offer amounts are determined by multiple factors
+  including, but not limited to, the scope and
+  responsibilities of the role, the selected candidate’s work
+  experience, education and training, the work location as
+  well as market and business considerations.
+
+
+
+  As an employee of Wheel, you’ll enjoy our Total Rewards
+  Program to help secure your financial future and preserve
+  your health and well-being, including:
+
+  - Medical, Dental and Vision
+  - Ancillary: Life, Short and Long Term Disability
+  - 401K match
+  - Flexible PTO
+  - Parental Leave
+  - Stock options
+  - Additional programs and perks
+
+  Wheel is committed to equal employment opportunities for all
+  team members. Every decision we make regarding employment is
+  solely based on merit, competence, and performance. We are
+  committed to building a team that represents a variety of
+  backgrounds, perspectives, and skills.
+
+  Research shows that underrepresented groups typically apply
+  only if they meet 100% of the criteria listed. At Wheel, we
+  encourage women, people of color, and LGBTQ+ job seekers to
+  apply for positions even if they don’t check every box for
+  the role.
+industries:
+  - Healthtech
+  - Sales
+  - Software
+  - Telehealth
+posted_date: 2026-11-16
+url: "https://builtin.com/job/staff-software-engineer-ai-native-systems/12279999"
+source: Built In

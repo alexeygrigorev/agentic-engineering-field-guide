@@ -1,0 +1,208 @@
+job_id: 12383949
+title: Senior Software Engineer
+company: BibliU
+location: GBR
+remote: true
+work_type: FULL_TIME
+company_size: 94 Employees
+description: |
+  Position Title: Senior Software Engineer
+
+  Reports To: Engineering Director
+
+  Location: Remote (UK)
+
+  Contract Type: Full-Time, Permanent
+
+  About BibliU
+
+  BibliU is an award-winning, technology-led B2B company
+  transforming the $65bn educational content industry. With a
+  90% CAGR the past 5 years, we are just getting started.
+  We've cracked the code on Day 1 access to affordable digital
+  course materials for students, while delivering
+  comprehensive campus store solutions that foster human
+  relationships, and increase our stickiness in the world of
+  AI.
+
+  The result? Measurable impact: 10% higher student retention,
+  1-point GPA increases, and partnerships with 170
+  universities serving 600,000 students each year.
+
+  We've fundamentally changed how universities procure,
+  distribute, and manage learning content. We partner with
+  4,000+ publishers, including Pearson, Oxford University
+  Press, and Wiley to deliver content to universities, and
+  provide rich engagement data and interactive tools like
+  quizzes that help students actually learn.
+
+  Here's what makes our story compelling:
+
+  Founded in late 2015 as an Oxford University spin out, we've
+  grown explosively with 90% CAGR over the last five years,
+  including 65% in FY25, reaching $100m in annual revenue. Our
+  Series B raised $23m led by Nesta Impact Investments (with
+  Guinness Asset Management, Stonehage Fleming, and Oxford
+  Sciences Enterprises). In late 2023, we acquired Texas Book
+  Company (now 'BibliU Campus') to become the only fully
+  vertically integrated player in the market, driving US
+  organic growth which now represents 90% of our business.
+
+  We're hungry for more. We're actively building our M&A
+  pipeline as we compete head-to-head against legacy bricks-
+  and-mortar providers to improve the faculty and student
+  experience while boosting the financial sustainability of
+  universities.
+
+  Our culture is collaborative, high-growth, and agile. You’ll
+  join an experienced and motivated executive team with
+  backgrounds from Instructure (Canvas) and other successful
+  edtech companies with exit experience. We operate as a
+  distributed team across the UK and US, with offices in
+  London.
+
+  Position Overview
+
+  We're hiring a Senior Software Engineer to own hard problems
+  across our platform end to end: from an ambiguous problem to
+  a shipped, reliable outcome, without waiting to be handed
+  tickets. You'll work directly with product, customers and
+  the wider business, and shape what gets built as well as
+  how.
+
+  How we build software is changing fast. AI-assisted
+  development is our default way of working, and we expect it
+  to keep changing under us. We want someone who finds that
+  energising rather than tolerating it: who uses AI agents to
+  move dramatically faster, stays rigorous about what ships,
+  and helps define how the rest of the team works.
+
+  The work isn't simple CRUD. Some of our hardest problems:
+
+  - Content at scale: ingesting, normalising and delivering
+    content from 4,000+ publishers with inconsistent formats,
+    metadata and licensing rules.
+  - Day 1 load: hundreds of thousands of students hitting the
+    platform in the same few days at the start of term. It has
+    to work first time.
+  - Institutional integrations: LMSs (Canvas, D2L, Blackboard,
+    Moodle), student information systems, SSO and campus store
+    systems, as well as Point of Sale (POS) each configured
+    differently at each institution.
+  - Money and compliance: inclusive access billing, opt-outs and
+    charges to student accounts must be correct, auditable and
+    PCI/GDPR-safe.
+  - Evolving a growing estate: modernising older services and
+    integrating acquired systems without stopping the
+    business.
+  - AI in the product: building learning features on top of
+    licensed content, where accuracy, cost and rights all
+    matter.
+
+  What you will be doing
+
+  - Own complex features and services end to end: scoping,
+    design, delivery, operation and iteration
+  - Use AI coding agents as a core part of how you work, and
+    build the specs, tests, evals and guardrails that make
+    their output trustworthy
+  - Turn ambiguous business problems into clear technical plans,
+    and push back when the problem is wrong
+  - Design for reliability under seasonal load: observability,
+    graceful degradation, and knowing what breaks first
+  - Modernise legacy areas safely (characterisation tests,
+    incremental migration, strangler patterns) rather than
+    big-bang rewrites
+  - Take part in incident response and post-incident reviews,
+    and fix causes rather than symptoms
+  - Review code with a risk-based eye: deep on core systems,
+    fast at the edges
+  - Raise the bar for those around you: mentor engineers, and
+    help non-engineers building internal tools with AI do it
+    safely
+  - Partner with security on threat modelling and secure-by-
+    design patterns
+
+  What we are looking for
+
+  Must have:
+
+  - Several years building and running production systems
+    (typically 5+), with clear examples of things you owned
+    end to end
+  - Strong engineering fundamentals and the ability to pick up
+    new languages and tools quickly
+  - Solid cloud experience (we run on AWS) and sound data
+    modelling across relational and NoSQL stores
+  - Experience with distributed or event-driven systems and
+    their failure modes
+  - Hands-on, opinionated use of AI coding tools (e.g. Claude
+    Code, Cursor, Codex): you can tell us what works, what
+    doesn't, and how you verify AI-written code
+  - High agency: you find the important problem, act without
+    waiting to be asked, and follow through
+  - Comfortable with ambiguity and frequent change in tools,
+    priorities and ways of working
+  - Clear written communication, especially for remote, async
+    work across UK and US time zones
+
+  Good to have:
+
+  - Experience integrating with LMS/SIS platforms, LTI 1.3, or
+    SAML/OIDC SSO
+  - Payments, billing or other correctness-critical systems (PCI
+    DSS a plus)
+  - Shipping LLM features in production: retrieval, evals, cost
+    and latency trade-offs
+  - Content pipelines (EPUB, PDF, metadata normalisation, DRM)
+  - Leading a migration or modernisation of a legacy system
+  - Infrastructure-as-code and containers
+  - High-growth SaaS or EdTech experience
+
+  What you'll get
+
+  - Real ownership of meaningful parts of the platform, with
+    scope that grows as you do
+  - A team actively reinventing how it builds software with AI,
+    and a say in how that goes
+  - Close work with our Engineering Director, VP of Technology,
+    product and our AI practice
+
+  Benefits
+
+  Our benefits are all aimed at supporting a healthy work-life
+  balance and cultivating a company culture where you can
+  bring your whole, human self to work.
+
+  Here's what we offer:
+
+  - 🌴 35 days holiday per year (excluding public holidays!) -
+    yep, that’s not a typo!
+  - 🎂 Your birthday off
+  - 🌱 12 scheduled company wellness Fridays off per year
+  - ❤️ Enhanced maternity & paternity allowance
+  - ⏰ Flexible working hours - we’re a remote team spread across
+    the US and UK
+  - 💻 Work-from-home allowance to help you set up your dream WFH
+    station
+  - 🚴 Cycle-to-work scheme (UK)
+  - 🛟 Life Insurance up to 4 x salary
+  - ❤️ Private health insurance
+  - 👁️ Annual eye test and up to £100 towards frames for glasses
+    required for DSE work
+
+  We strongly encourage candidates of all different
+  backgrounds, experiences and identities to apply. Each new
+  hire is an opportunity for us to bring in a different
+  perspective and BibliU is committed to building an inclusive
+  and supportive workplace where everyone can do rewarding
+  work.
+
+  Please note: We do not work with external
+  recruiters/recruitment agencies. This position will be
+  filled directly by BibliU and we kindly request that
+  external recruiters/recruitment agencies refrain from
+  submitting candidates for this role.
+posted_date: 2026-11-20
+url: "https://builtin.com/job/senior-software-engineer/12383949"
+source: Built In

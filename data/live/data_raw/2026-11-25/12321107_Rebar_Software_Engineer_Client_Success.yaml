@@ -1,0 +1,170 @@
+job_id: 12321107
+title: Software Engineer, Client Success
+company: Rebar
+location: New York, USA
+work_type: FULL_TIME
+company_size: 26 Employees
+description: |
+  About Rebar
+
+  Construction is a $2 trillion industry in the US alone. Most
+  of it still runs like it’s 1995: PDFs, spreadsheets, and
+  email.
+
+  Every commercial building starts the same way. Someone opens
+  a few hundred pages of blueprints and counts every piece of
+  equipment, duct, and pipe by hand. Then they price it, bid
+  it, and chase it for months. That work decides who builds
+  what, and for how much. It has barely changed in 30 years.
+
+  Rebar is building the AI platform the trades run on. Our
+  models read blueprints the way a veteran in the trades does.
+  Our agents then do the work that follows: counting the job,
+  pricing it, managing the bid, and tracking it through to the
+  order. Counts that took three days now take one. Customers
+  spend hours a day in Rebar, and thousands of new plan sets
+  flow through it every week.
+
+  We started with HVAC contractors and their suppliers. Every
+  other trade comes next.
+
+  Here’s where we go: when a building goes up, the trades that
+  build it run on Rebar. Agents win the job, run the job, and
+  buy the equipment.
+
+  We’re about 50 people in Union Square, growing fast, and
+  backed by top investors. We’ve built only a fraction of what
+  we need to.
+
+  About the Engineering Org
+
+  The role of the engineer is rapidly changing. We're aware,
+  and we're being intentional about adapting with it. We are
+  fostering an engineering culture of growth and development.
+  We strongly emphasize care of craft and winning together.
+  Our core values are:
+
+  - Everyone operates like an owner
+  - Find a way
+  - We win together
+
+  That being said, the whole company still works really hard!
+  This is something that you should read and internalize. This
+  might not be the place for everyone.
+
+  About the Role
+
+  We're hiring a software engineer to be the technical arm of
+  our Client Success and Implementation teams.
+
+  As we sign bigger customers, every deployment comes with
+  more technical work attached. A contractor wants their
+  historical projects loaded in. Another wants our analytics
+  piped into their ERP or BI tool. Another needs an API
+  change, so their internal systems can pull takeoff data.
+  Today, that work lands on the core engineering team as one-
+  off requests, pulling them off the roadmap. We want one
+  engineer who owns it.
+
+  You will still sit in the engineering org and have strong
+  mentorship and learning. You'll come to engineering stand-
+  ups, ship through our normal review process, and attend
+  retros. Your priorities come from our customers.
+
+  You can think about this role almost as a forward-deployed
+  engineer. You'll be on calls with customers, figuring out
+  what they actually need and then building it. You’ll get to
+  work with messy data, API integrations, and customer
+  expansion.
+
+  We understand the challenges and sacrifices that come with
+  joining an early-stage startup, and we want to emphasize
+  that we're committed to ensuring you leave as a better, more
+  experienced engineer and leader than when you joined. Here
+  you'll own a hard piece of client-side engineering, and
+  watch it scale from hundreds to thousands of users.
+
+  Responsibilities
+
+  - Own customer data work
+  - Build and maintain integrations
+  - Handle customer API requests
+  - Scope technical requirements with customers
+  - Be the escalation path for technical issues
+  - Turn one-offs into product
+
+  What We're Looking For
+
+  We want an engineer who likes talking to customers. You
+  should be able to sit on a call with an estimator,
+  understand how their team works, and then go write the
+  script that fixes their problem. You'll be working with
+  messy real-world data, so you should enjoy digging into it
+  and not be scared of a 50,000-row CSV with inconsistent
+  columns.
+
+  We are looking for engineers with good judgment, an
+  inquisitive attitude, and the maturity to represent
+  engineering in front of a customer.
+
+  Required Qualifications
+
+  - 2+ years of software engineering experience, or a technical
+    client-facing role (solutions engineer, implementation
+    engineer, forward deployed engineer) where you wrote real
+    code
+  - Strong Python for scripting and data work
+  - Comfortable with SQL and relational databases (we're on
+    Postgres)
+  - Experience working with REST APIs, JSON, and webhooks
+  - Comfortable talking directly with customers, from end users
+    to technical stakeholders
+  - Writes things down. Your integrations and scripts should be
+    documented well enough that someone else can run them.
+
+  Nice to Have
+
+  - Familiarity with TypeScript and React
+  - Experience with AWS (Lambda, S3, DynamoDB)
+  - Experience with GraphQL
+  - Experience with integration platforms or unified APIs (e.g.,
+    Merge)
+  - Background in construction, HVAC/mechanical, or another
+    legacy industry
+  - Familiarity with estimating, takeoff, ERP, or project
+    management tools used in construction
+  - Worked at an early-stage or high-growth startup
+
+  Compensation and Benefits
+
+  - Salary: Competitive base salary
+  - Equity: Meaningful equity package, commensurate with
+    experience
+  - Benefits: Comprehensive medical, dental, and vision coverage
+  - Perks:
+    - Agentic tooling budget
+    - Lunches provided, dinners provided (after a set time)
+    - Great culture in a high-energy office
+
+  This is a full-time, on-site role in NYC’s Flatiron
+  District, steps from Madison Square Park and Union Square.
+
+  Occasional travel for on-site customer visits.
+
+  Equal Opportunity
+
+  Rebar is an equal opportunity employer. We welcome
+  applicants of every background and do not discriminate on
+  the basis of race, color, religion, sex, sexual orientation,
+  gender identity, national origin, age, disability, veteran
+  status, or any other protected characteristic.
+industries:
+  - Artificial Intelligence
+  - Software
+  - Analytics
+  - Business Intelligence
+  - Industrial
+  - Generative AI
+posted_date: 2026-11-18
+url: "https://builtin.com/job/client-success-engineer/12321107"
+source: Built In

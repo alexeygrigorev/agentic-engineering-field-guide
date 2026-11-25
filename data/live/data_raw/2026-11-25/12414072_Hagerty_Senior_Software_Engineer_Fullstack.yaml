@@ -1,0 +1,274 @@
+job_id: 12414072
+title: Senior Software Engineer, Fullstack
+company: Hagerty
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,514 Employees
+description: |
+  Say hello to Hagerty
+
+  Hagerty is a company built by drivers for drivers. We put
+  our members at the center of everything we do and are
+  dedicated to making it easier and more enjoyable for
+  enthusiasts to drive and celebrate the machines they love.
+  We’re proud to be the world’s largest insurer of collectible
+  and enthusiast vehicles and are home to the Hagerty Drivers
+  Club, the world’s largest car club. Our Marketplace business
+  presents live and digital sales across the U.S. and Europe,
+  we host a number of driving events and concours, and our
+  award-winning automotive journalists produce the most
+  popular car magazine globally, alongside internationally
+  awarded videos. We’re committed to Never Stop Driving. Ready
+  to get in the driver’s seat? Join us! 
+
+  As a Senior Software Engineer, Fullstack supporting Broad
+  Arrow Group, you will own fullstack development across the
+  systems that power Broad Arrow Auctions, from the public
+  auction experience to the internal tools used on the auction
+  floor. You'll work across a platform that spans Azure and
+  AWS, including Microsoft Dynamics 365 and the Billboard
+  software that displays lots and bids during live sales.
+  Using modern technologies such as NextJS, TypeScript, React,
+  and Node.js, you'll deliver fast, accessible, and reliable
+  user experiences that hold up when the auction is live. You
+  will contribute to architectural decisions that cross system
+  boundaries, establish and maintain robust automated tests,
+  support systems in production, and continuously raise the
+  bar for patterns, practices, and overall quality across the
+  Broad Arrow platform.
+
+  What you’ll do
+
+  Develop maintainable, scalable, secure, and resilient
+  applications by:
+
+  ·       Crafting solutions through a deep understanding of
+  business objectives, architectural intent, system
+  interactions, and operational requirements, often working in
+  ambiguous problem spaces and within the most complex parts
+  of the system.
+
+  ·       Writing clean, human-readable code. Track and
+  consistently apply the comments received on your code to
+  future work.
+
+  ·       Contributing to architectural design with an
+  emphasis on complexity, performance, maintainability, and
+  security.
+
+  ·       Designing, implementing, and maintaining
+  comprehensive automated unit, integration, and end-to-end
+  tests. Possessing a strong understanding of when and how to
+  apply each test type, including test data management,
+  environment-appropriate execution strategies, and ensuring
+  tests remain reliable and valuable over time.
+
+  Own and support features, modules, and products by:
+
+  ·       Being able to thoroughly explain and demonstrate how
+  your product fits into the larger Broad Arrow Group and
+  Hagerty ecosystem and how other services depend on it.
+
+  ·       Thoroughly understanding upcoming epics and features
+  of your product, helping product managers craft good feature
+  definitions, and being able to explain them to less
+  experienced engineers.
+
+  ·       Helping to define key metrics that signal the health
+  and performance of the product, monitoring them, and
+  providing explanation for changes over time.
+
+  ·       Owning and updating the Billboard software used
+  during live auctions, ensuring it is stable, accurate, and
+  ready ahead of every sale.
+
+  ·       Actively practice troubleshooting and participate in
+  the on-call support rotation for the team's production
+  services, including support during live auction events.
+
+  Deepen technical expertise as an engineer by:
+
+  ·       Evaluating, adopting, and when necessary, designing
+  client and server-side libraries, frameworks, and shared
+  abstractions, establishing clear guidance on when they
+  should be used, when they should not, and the tradeoffs
+  involved.
+
+  ·       Defining and refining frontend and service
+  integration patterns, including API contracts, data-fetching
+  strategies, caching, and error handling that balance user
+  experience, performance, operability, and long-term
+  maintainability.
+
+  ·       Building and maintaining working expertise in the
+  Azure portions of the Broad Arrow architecture, including
+  accessing, deploying, and troubleshooting Azure artifacts
+  and resources, while working alongside Hagerty's AWS
+  environment.
+
+  ·       Understanding and integrating with Microsoft
+  Dynamics 365 in Azure, keeping auction, consignment, and
+  customer data flowing reliably between systems.
+
+  ·       Maintaining deep expertise in the client-side
+  ecosystem, including browsers, rendering and hydration
+  models, accessibility standards, performance diagnostics,
+  and modern build/deploy workflows, to deliver resilient user
+  experiences.
+
+  ·       Staying current with evolving frontend and platform
+  technologies, thoughtfully incorporating improvements that
+  raise user experience, system reliability, and/or developer
+  productivity without chasing novelty.
+
+  Contribute to and engage in a collaborative environment by:
+
+  ·       Being an active participant in all team activities:
+  team ceremonies, banter, troubleshooting, design discussion,
+  work breakdowns, etc.
+
+  ·       Observing team practices and behaviors, working with
+  your manager on ways to improve them, and explaining and
+  modeling them.
+
+  ·       Helping less experienced engineers effectively
+  explore topics that are unfamiliar to them and participate
+  in deliberate practice with them in those areas.
+
+  ·       Helping teammates understand what it means to be
+  good stewards of the products on which you are working.
+
+
+
+
+
+  This might describe you
+
+  ·       Proven experience contributing as a senior engineer
+  or technical lead on multiple large-scale, complex customer
+  facing systems, including initial development, major feature
+  delivery, and at least one year of ongoing production
+  support.
+
+  ·       A proven track record of building customer centered
+  products with a deep understanding of how technical
+  decisions impact user experiences.
+
+  ·       Comfortable working and actively participating
+  within smaller (5-10 people) technical groups.
+
+  ·       Experience working across multiple cloud providers,
+  with hands-on Azure experience and familiarity with AWS.
+
+  ·       Experience integrating with Microsoft Dynamics 365
+  or a comparable CRM platform, and a strong fundamental grasp
+  on WCAG accessibility standards.
+
+  ·       Comfortable building and evolving fullstack
+  solutions across modern web interfaces, server-rendered
+  application patterns, backend APIs, cloud infrastructure,
+  and supporting data services.
+
+  ·       Able to work across the application boundary,
+  connecting user-facing workflows with reliable backend
+  services, infrastructure, caching, storage, and integration
+  patterns.
+
+  ·       Comfortable supporting software where reliability
+  during a live event is critical.
+
+  ·       Eager to deeply learn, both independently and with
+  help, our technologies and patterns such as:
+
+  o   Languages & Runtime: JavaScript / TypeScript, CSS/SCSS,
+  Terraform, Node.js
+
+  o   Frontend Frameworks & Tooling: NextJS, React,
+  Playwright, React Testing Library, Jest/Vitest
+
+  o   APIs & Integration Patterns: REST, RPC, GraphQL
+
+  o   Business Platforms: Microsoft Dynamics 365, Dataverse
+
+  o   Security: TLS, encryption in transit and at rest, secure
+  coding, secret management
+
+  o   Performance & Reliability: load testing, profiling,
+  monitoring, alerting, logging, and tracing
+
+  o   Infrastructure: Azure and AWS, configuration management,
+  and progressive deployment strategies
+
+  o   Networking Fundamentals: TCP/IP, HTTP, firewalls, load
+  balancers
+
+  o   Deployment: VMs, containers, cloud providers,
+  configuration management, canary deployments
+
+  ·       Able to clearly communicate your thoughts and
+  actively listen to and integrate the thoughts and comments
+  of others.
+
+  Other things to note
+
+  ·       This position is open to U.S. remote work. However,
+  team members who reside within 20 miles of the Traverse City
+  headquarters will follow a hybrid schedule, working from the
+  office three days per week.
+
+  ·       May require travel for quarterly events.
+
+  ·       Familiarity with public company requirements,
+  including Sarbanes Oxley and key regulations, if applicable.
+  For SOX compliant roles, responsible for designing,
+  executing, and documenting internal controls where they have
+  been identified as owners to prevent errors in financial
+  reporting, processes, and business operations. Including
+  attestation to the completeness, accuracy, and compliance of
+  all financial reporting data, where applicable.
+
+
+
+  If you reside in the following jurisdictions: Illinois,
+  Colorado, California, District of Columbia, Hawaii,
+  Maryland, Minnesota, Nevada, New York, or Jersey City, New
+  Jersey, Cincinnati or Toledo, Ohio, Rhode Island,
+  Washington, British Columbia, Canada please email
+  recruiting@hagerty.com for compensation, comprehensive
+  benefits and the perks that set us apart. 
+
+
+
+  At Hagerty, we share the road. We are an inclusive
+  automotive community where all are welcomed, valued and
+  belong regardless of race, gender, age, or car preference.
+   We are united by our shared passion for driving, our
+  commitment to preserve car culture for future generations
+  and our desire to make a positive impact in the world.
+
+
+
+
+
+
+
+  #LI-Remote
+
+
+
+
+
+  EEO/AA
+
+  US Benefits Overview
+
+  Canada Benefits Overview
+
+  UK Benefits Overview
+
+  If you like wild growth and working with happy, enthusiastic
+  over-achievers, you'll enjoy your career with us!
+posted_date: 2026-11-23
+url: "https://builtin.com/job/senior-software-engineer-fullstack/12414072"
+source: Built In

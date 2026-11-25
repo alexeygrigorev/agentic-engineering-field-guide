@@ -1,0 +1,144 @@
+job_id: 12332184
+title: Staff Software Engineer, Full Stack
+company: Paradigm Health
+location: Columbus, USA
+locations:
+  - Columbus, USA
+  - New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 144 Employees
+description: |
+  Paradigm Health is rebuilding the clinical research
+  ecosystem by enabling equitable access to trials for all
+  patients. Our platform enhances trial efficiency and reduces
+  the barriers to participation for healthcare providers.
+  Incubated by ARCH Venture Partners and backed by leading
+  healthcare and life sciences investors, Paradigm’s seamless
+  infrastructure implemented at healthcare provider
+  organizations, will bring potentially life-saving therapies
+  to patients faster.
+
+  Our team hails from a broad range of disciplines and is
+  committed to the company’s mission to create equitable
+  access to clinical trials for any patient, anywhere. Join
+  us, and bring your expertise, passion, creativity, and drive
+  as we work together to realize this mission.
+
+  Paradigm Health · Remote · reports to VP Engineering
+
+  Study Planning builds Feasibility and Portfolio
+  Intelligence: the applications sponsors and provider sites
+  use to size patient populations for a clinical trial and to
+  see which trials fit their patients. You will own the
+  platform under those products, from the Kotlin APIs to the
+  pipelines, access model and release path, and lead a small
+  team that ships to production daily.
+
+  What you will do
+
+  - Own the Feasibility backend: two Spring Boot and Kotlin APIs
+    over DuckDB, Athena and Aurora PostgreSQL, and the shared
+    SQL query core behind funnel counts and site charts.
+  - Run delivery for the team: GitLab CI, Helm on EKS, OpenTofu
+    stacks in Spacelift, and promotion through staging, UAT,
+    demo and production.
+  - Own authorization for a PHI-bearing application: Keycloak
+    identity, OpenFGA relationships, and the admin tooling
+    that grants access.
+  - Keep the system observable and available: Datadog dashboards
+    and monitors, capacity, rollback, incident follow-up.
+  - Work with data engineering on the Databricks, dbt and CDC
+    pipelines that publish the datasets and trial catalogs the
+    apps read.
+  - Maintain the Playwright end-to-end suite and the repo
+    documentation that people and coding agents rely on.
+  - Turn product goals into epics and stories, sequence the
+    quarter's initiatives, and review the team's code.
+  - Build with AI coding agents as a default, running several
+    streams of work in parallel while holding the quality bar.
+
+  What the work is like
+
+  - Product direction is high-level. An initiative reaches you
+    as a short PRD or a one-paragraph goal, not as specified
+    tickets. You decide the architecture, break the goal into
+    epics and stories, and write the specs the rest of the
+    team builds from. Platform decisions such as the access
+    model, the data store and the release path are yours to
+    make and defend.
+  - The work crosses system boundaries. Study Planning is home
+    base, but its products read from and write to Recruit and
+    Trial Config, the derived-data and ML pipelines, the data
+    platform, identity and shared infrastructure. Expect some
+    of your changes to land in other teams' repositories, and
+    expect to agree the interfaces with those teams yourself.
+  - Priorities move. We are a startup. Plans change within a
+    quarter, and projects are started, paused or replaced as
+    the business learns. You re-plan quickly, keep in-flight
+    work safe, and say plainly what a change costs.
+
+  How you work
+
+  - Product sense. You understand who uses the product and why.
+    One conversation is enough for you to grasp the reason
+    behind a goal, and you learn the clinical-trial domain
+    fast enough to reason about what users need.
+  - A current map of the system. You build an accurate picture
+    of how the products, services and data systems fit
+    together, and you keep it up to date.
+  - You do not stay blocked. When a legacy system or an outside
+    dependency closes a path, you find another one, and you
+    build a cleaner foundation instead of adding debt.
+  - You own cross-team next steps. You go to the other team
+    directly and keep the work moving. Product is a
+    stakeholder in those conversations, not the one driving
+    them.
+  - You keep the team moving. Teammates have what they need,
+    work runs in parallel, and you are not the bottleneck.
+  - Short, purposeful communication. You respect people's time
+    and are easy to work with.
+
+  What you bring
+
+  - 12 or more years building and operating production backend
+    systems, with a staff or principal title already held.
+  - Strong Kotlin or Java with Spring Boot, PostgreSQL and
+    analytical SQL.
+  - Hands-on AWS, Kubernetes, Helm and Terraform or OpenTofu,
+    and CI/CD you have designed yourself.
+  - Experience designing authentication and authorization (OIDC,
+    RBAC or relationship-based models) for regulated data.
+  - A record of taking a service from empty repo to production
+    and then running it.
+  - Demonstrated agentic development practice: you can show how
+    you direct, test and review agent-written code.
+  - Clear written planning: tickets, design notes and runbooks
+    that others can execute.
+  - Comfort with ambiguity and change: you have turned a loosely
+    defined goal into a shipped product, and re-planned when
+    priorities shifted.
+
+  Good to have
+
+  - Python data pipelines on Databricks; DuckDB, Athena or dbt.
+  - React and TypeScript, enough to ship and review UI changes.
+  - Playwright or similar end-to-end testing.
+  - Healthcare or clinical-trial data, and HIPAA-scoped systems.
+  - Experience leading one to three engineers.
+
+  At Paradigm Health, we are committed to providing equal
+  employment opportunities to all qualified individuals. We
+  encourage and welcome candidates from all backgrounds and
+  perspectives to apply for our open positions. We are
+  interested in all qualified individuals and ensure that all
+  employment decisions are based on job-related factors such
+  as skills, experience, and qualifications.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Software
+  - Biotech
+posted_date: 2026-11-19
+url: "https://builtin.com/job/staff-software-engineer-full-stack/12332184"
+source: Built In

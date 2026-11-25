@@ -1,0 +1,352 @@
+job_id: 12318029
+title: Software Engineer - Red Team
+company: AI Security Institute
+location: London, GBR
+work_type: FULL_TIME
+company_size: 16000 Employees
+description: |
+  About the AI Security Institute
+
+  The AI Security Institute is the world's largest and best-
+  funded team dedicated to understanding advanced AI risks and
+  translating that knowledge into action. We’re in the heart
+  of the UK government with direct lines to No. 10 (the Prime
+  Minister's office), and we work with frontier developers and
+  governments globally.
+
+  We’re here because governments are critical for advanced AI
+  going well, and UK AISI is uniquely positioned to mobilise
+  them. With our resources, unique agility and international
+  influence, this is the best place to shape both AI
+  development and government action.
+
+  The deadline for applying to this role is Tuesday 8th
+  December, end of day, anywhere on EarthAbout the team
+
+  The Red Team conducts cutting-edge research to identify,
+  evaluate and stress test vulnerabilities in frontier AI
+  systems, sharing our findings directly with leading AI
+  companies, UK officials and allied governments. Our work
+  shapes how the most powerful AI systems are deployed - you
+  can read about it in the The New York Times, The Economist,
+  and The Telegraph. Demand for this work is growing faster
+  than we can currently meet - we're scaling to address that
+  gap.
+
+  The Red Team’s work is crucial to ensuring advanced AI
+  systems are developed and deployed safely. We are composed
+  of three specialised sub-teams:
+
+  - Misuse: stress-testing and jailbreaking safeguards against
+    misuse of dangerous capabilities (e.g. our safeguard
+    testing with Anthropic and OpenAI, and recent work on
+    Boundary Point Jailbreaking, attacks on layered safeguard
+    systems and principles for evaluating misuse safeguards)
+  - Alignment: detecting and understanding misalignment and
+    loss-of-control risks (e.g., our evaluation of GPT-6
+    Astra, and our research into cheating behaviour in
+    frontier model evaluations)
+  - Control: stress-testing measures that identify and prevent
+    agents taking harmful actions
+
+  While each team has its own focus, we share methodologies,
+  infrastructure and tooling across the wider team.
+
+  Role Description
+
+  We are looking for motivated and talented Software Engineers
+  to join the Red Team. We are seeking exceptional candidates
+  at all experience levels, from junior through to senior,
+  staff and principal levels.
+
+  We are particularly interested in candidates who:
+
+  - Have worked closely with research teams, understanding their
+    needs, building tools they want to use, and automating
+    their workflows.
+  - Have a good understanding of frontier AI capabilities,
+    limitations, and risks and how they can be leveraged for
+    automation at scale.
+  - Have built infrastructure that works at scale, with a high
+    bar for security.
+  - Have experience with serving and training models.
+
+  What you’ll be doing
+
+  As a software engineer on one of our sub teams, you might:
+
+  - Build and maintain systems for running red-teaming against
+    frontier models at scale, such as automated jailbreaking
+    pipelines, alignment auditor agents in Inspect Petri, and
+    attacker agents for control red-teaming
+  - Design and implement systems for running large scale
+    automated research and engineering with many agents on
+    AISI’s research platform
+  - Extend our evaluation tooling, built on Inspect (AISI's
+    open-source framework for evaluating AI), to new kinds of
+    targets
+  - Develop novel solutions to performance, reliability, and
+    security problems that arise from running thousands of
+    agents in parallel
+  - Work with Core Technology to share infrastructure and avoid
+    duplicating work
+  - Help run pre-release testing of frontier models, often to
+    tight deadlines
+  - Debug problems as they come up and make sure results are
+    reliable and reproducible
+  - Turn loosely defined research ideas into well-tested,
+    documented and maintainable code
+  - Review code, share knowledge and help researchers write
+    better software
+
+  Person specification
+
+  You may be a good fit if you have some of the following
+  skills, experience and attitudes:
+
+  - Writing production quality code at fast pace.
+  - Interest in developing ways to automate work with agents,
+    while accounting for their limitations.
+  - Designing, shipping, and maintaining complex tech products.
+  - Improving technical standards across a team, through
+    mentoring and feedback.
+  - Strong written and verbal communication skills.
+  - Collaborating effectively with many people, including
+    external teams.
+  - Experience working with a world-class research team
+    comprised of both scientists and engineers (e.g. in a
+    top-3 lab).
+  - Python experience
+  - Experience building and maintaining systems on AWS or other
+    cloud providers using infrastructure-as-code.
+
+  Highly Desirable
+
+  We additionally may factor in experience with particular
+  areas like:
+
+  - Expertise in Cloud Infrastructure or Dev Ops (AWS, Azure,
+    Kubernetes, Terraform, CDK, Docker, etc.)
+  - Cybersecurity expertise
+  - ML Ops (vLLM, agent frameworks, fine-tuning, RAG systems,
+    etc.)
+  - Experience with red teaming, adversarial machine learning,
+    or offensive or adversarial security (for example
+    penetration testing or capture-the-flag competitions)
+  - Hands-on experience with large language model APIs and the
+    tools around them, such as OpenAI-compatible APIs, agent
+    frameworks or vLLM
+  - Building, running or analysing AI evaluations, ideally with
+    Inspect
+  - Cloud infrastructure and DevOps experience with AWS,
+    Kubernetes, Docker, Terraform or similar
+  - Familiarity with how AI could be misused or could slip out
+    of human control, and how safeguards try to prevent this
+
+  This might not be the role for you if:
+
+  - You prefer working on production-grade software and would
+    find rapid prototyping or "good enough for now" code
+    frustrating
+  - You prefer well-defined requirements and long planning
+    cycles. Our priorities shift as new models are released,
+    and our projects often run to tight deadlines.
+
+  Selection process
+
+  The interview process may vary from candidate
+  to candidate, however, you should expect a typical process
+  to include some technical proficiency tests, discussions
+  with a cross-section of our team at AISI (including non-
+  technical staff) and conversations with your team lead. The
+  process will culminate in a conversation with members of the
+  senior leadership team here at AISI.      
+
+  Candidates should expect to go through some or all of the
+  following stages once an application has
+  been submitted:      
+
+  - Initial assessment
+  - Initial screening call
+  - Technical assessment
+  - Behavioural interview
+  - Final interview with members of the senior leadership team
+
+  What We Offer
+
+  Impact you couldn't have anywhere else
+
+  - Incredibly talented, mission-driven and supportive
+    colleagues.
+
+  - Direct influence on how frontier AI is governed and deployed
+    globally.
+
+  - Work with the Prime Minister’s AI Advisor and leading AI
+    companies.
+
+  - Opportunity to shape the first & best-resourced public-
+    interest research team focused on AI security.
+
+  Resources & access
+
+  - Pre-release access to multiple frontier models and ample
+    compute.
+
+  - Extensive operational support so you can focus on research
+    and ship quickly.
+
+  - Work with experts across national security, policy, AI
+    research and adjacent sciences.
+
+  Growth & autonomy
+
+  - If you’re talented and driven, you’ll own important problems
+    early.
+
+  - 5 days off and annual stipends for learning and development,
+    and funding for conferences and external collaborations.
+
+  - Freedom to pursue research bets without product pressure.
+
+  - Opportunities to publish and collaborate externally.
+
+  Life & family*
+
+  - Modern central London office, or where applicable, option to
+    work in similar government offices in Birmingham, Cardiff,
+    Darlington, Edinburgh, Salford or Bristol.
+
+  - Hybrid working, flexibility for occasional remote work
+    abroad and stipends for work-from-home equipment.
+
+  - At least 25 days’ annual leave, 8 public holidays, extra
+    team-wide breaks and 3 days off for volunteering.
+
+  - Generous paid parental leave (36 weeks of UK statutory leave
+    shared between parents + 3 extra paid weeks + option for
+    additional unpaid time).
+
+  - Excellent pension provision, with a choice between
+    Partnership (no employee contributions required and up to
+    14.75% employer contributions) or Alpha, a valuable
+    defined benefit scheme that provides a guaranteed,
+    inflation-linked retirement income for life. Find out what
+    benefits a Civil Service Pension provides (opens in a new
+    window).
+
+  - Discounts and benefits for cycling to work, donations and
+    retail/gyms.
+
+  *These benefits apply to direct employees. Benefits may
+  differ for individuals joining through other employment
+  arrangements such as secondments.
+
+  Salary
+
+  Annual salary is benchmarked to role scope and relevant
+  experience. Most offers land between £65,000 and £145,000
+  made up of a base salary plus a technical allowance (take-
+  home salary = base + technical allowance).
+
+  This role sits outside of the DDaT pay framework given the
+  scope of this role requires in depth technical expertise in
+  frontier AI safety, robustness and advanced AI
+  architectures.
+
+  The full range of salaries are available below:
+
+  - Level 3: £65,000–£75,000 (Base £40,850 + Technical Allowance
+    £24,150–£34,150)
+  - Level 4: £85,000–£95,000 (Base £48,540 + Technical Allowance
+    £36,460–£46,460)
+  - Level 5: £105,000–£115,000 (Base £63,165 + Technical
+    Allowance £41,835–£51,835)
+  - Level 6: £125,000–£135,000 (Base £76,475 + Technical
+    Allowance £48,525–£58,525)
+  - Level 7: £145,000 (Base £76,475 + Technical Allowance
+    £68,525)
+
+  Additional Information
+
+  Use of AI in Applications
+
+  Artificial Intelligence can be a useful tool to support your
+  application, however, all examples and statements provided
+  must be truthful, factually accurate and taken directly from
+  your own experience. Where plagiarism has been identified
+  (presenting the ideas and experiences of others, or
+  generated by artificial intelligence, as your own)
+  applications may be withdrawn and internal candidates may be
+  subject to disciplinary action. Please see our candidate
+  guidance for more information on appropriate and
+  inappropriate use. Use of AI tools in recruitment We may use
+  AI tools to help our hiring team review applications, for
+  example by summarising application materials and helping us
+  prioritise them against the published criteria. We do not
+  use AI tools to find information about you from other
+  sources, including online. People make every decision. We do
+  not make solely automated decisions about candidates. Find
+  out more, including your rights, in our recruitment privacy
+  notice: https://www.aisi.gov.uk/careers/privacy-policy.
+
+  Internal Fraud Database
+
+  The Internal Fraud function of the Fraud, Error, Debt and
+  Grants Function at the Cabinet Office processes details of
+  civil servants who have been dismissed for committing
+  internal fraud, or who would have been dismissed had they
+  not resigned. The Cabinet Office receives the details from
+  participating government organisations of civil servants who
+  have been dismissed, or who would have been dismissed had
+  they not resigned, for internal fraud. In instances such as
+  this, civil servants are then banned for 5 years from
+  further employment in the civil service. The Cabinet Office
+  then processes this data and discloses a limited dataset
+  back to DLUHC as a participating government organisations.
+  DLUHC then carry out the pre employment checks so as to
+  detect instances where known fraudsters are attempting to
+  reapply for roles in the civil service. In this way, the
+  policy is ensured and the repetition of internal fraud is
+  prevented.  For more information please see - Internal Fraud
+  Register.
+
+  SecuritySuccessful candidates must undergo a criminal record
+  check and get baseline personnel security standard (BPSS)
+  clearance before they can be appointed. Additionally, there
+  is a strong preference for eligibility for counter-terrorist
+  check (CTC) clearance. Some roles may require higher levels
+  of clearance, and we will state this by exception in the job
+  advertisement. See our vetting charter here.
+
+  Nationality requirements
+
+  We may be able to offer roles to applicant from any
+  nationality or background. As such we encourage you to apply
+  even if you do not meet the standard nationality
+  requirements (opens in a new window).
+
+  Working for the Civil Service
+
+  The Civil Service Code (opens in a new window) sets out the
+  standards of behaviour expected of civil servants. The Civil
+  Service embraces diversity and promotes equal opportunities.
+  As such, we run a Disability Confident Scheme (DCS) for
+  candidates with disabilities who meet the minimum selection
+  criteria. The Civil Service also offers a Redeployment
+  Interview Scheme to civil servants who are at risk of
+  redundancy, and who meet the minimum requirements for the
+  advertised vacancy.
+
+  Diversity and Inclusion
+
+  The Civil Service is committed to attract, retain and invest
+  in talent wherever it is found. To learn more please see the
+  Civil Service People Plan (opens in a new window) and the
+  Civil Service Diversity and Inclusion Strategy (opens in a
+  new window). As part of the application process, we monitor
+  statistics on D&I. You can see how we process this data
+  here: Recruitment privacy notice - GOV.UK.
+posted_date: 2026-11-18
+url: "https://builtin.com/job/software-engineer-red-team/12318029"
+source: Built In

@@ -1,0 +1,157 @@
+job_id: 12259430
+title: Staff Backend Engineer, Business Technology
+company: Ernesta Inc.
+location: New York, USA
+work_type: FULL_TIME
+company_size: 58 Employees
+description: |
+  About Ernesta:
+
+  At Ernesta, our mission is to bring gorgeous, design-focused
+  custom rugs to homes and places of gathering through a
+  frictionless, transparent, and affordable experience. At the
+  same price as a store-bought, standard-sized rug, a custom-
+  cut rug from Ernesta is not only a better fit, but it will
+  be higher quality and a better buying experience.
+
+  We believe that high-quality, custom design shouldn’t be out
+  of reach for consumers, and are working to expand a multi-
+  billion dollar global industry in order to reach this goal.
+
+  Driven by our collective mission, our team is humble, smart,
+  sincere, and scrappy. We’re a strong team of problem
+  solvers, innovators, and executors, relentlessly focused on
+  creating and delivering beautiful and delightfully simple
+  and seamless solutions and experiences for our customers.
+  Together, we are excited by the potential to change the
+  global design landscape as we know it.
+
+  About the Role:
+
+  The Ernesta business technology team builds the technology
+  solutions that power the end-to-end business operation of an
+  industry-leading custom rug purchasing experience. This
+  includes a custom-built order management system,
+  manufacturing workflow tools, and delivery management
+  systems. These systems work together to power a self-
+  service-first purchasing experience that exceeds customer
+  expectations before and after their rug purchase.
+
+  As a Staff Backend Engineer, you will be a foundational
+  member of the engineering team building Ernesta’s in-house
+  order management system from the ground up. You will own the
+  backend architecture for transactional systems that manage
+  order lifecycles, fulfillment workflows, inventory, and
+  integrations with Shopify, Salesforce, and third-party
+  logistics providers.  You will be designing and building the
+  core systems that run the business. You will also set the
+  standards for data modeling, API design, and system design
+  across the team, and mentor the engineers who build on them.
+
+  What You’ll Do:
+
+  - Design, build, and maintain backend services for Ernesta’s
+    custom order management and manufacturing system using
+    Node.js and PostgreSQL
+  - Review data model, API, and system design proposals from
+    other engineers before they are built, and coach them
+    toward designs that hold up as the business evolves over
+    the next one to two years
+  - Use AI-centric tooling for technical specifications, coding,
+    and verification, and be at the forefront of leading how
+    the team uses it - shared agent instructions, automated
+    review rules, and what always requires human review
+  - Own the data model and transactional logic for core business
+    entities: orders, line items, fulfillments, inventory,
+    customers, and product SKUs, and set the data modeling
+    standards the rest of the team builds on
+  - Build and maintain integrations with external systems
+    including Shopify, Salesforce, and third-party logistics
+    and fulfillment providers
+  - Implement order lifecycle workflows: creation, confirmation,
+    production, fulfillment, shipping, delivery, and returns
+  - Design APIs that serve internal tools and connect to the
+    broader e-commerce ecosystem, and define the API design
+    conventions used across the team
+  - Collaborate closely with Product Manager to translate domain
+    model specifications and business rules into reliable,
+    performant backend systems
+  - Translate product specifications — including entity
+    definitions, state machines, and business rules — into
+    physical database schemas, migration strategies, and API
+    contracts
+  - Ensure data integrity across systems, defining source-of-
+    truth sync logic and integration contracts between the ERP
+    and external platforms, and how each workflow behaves
+    under retries, replays, and partial failures
+  - Write automated tests and contribute to CI/CD pipelines to
+    maintain code quality and deployment reliability
+  - Define how we monitor critical order and fulfillment flows,
+    including service-level targets, alerting, and incident
+    reviews, so problems are caught before the business
+    reports them
+
+  Qualifications Include:
+
+  - 10+ years of backend software engineering experience with
+    strong proficiency in Node.js and relational database such
+    as PostgreSQL
+  - Deep experience designing and building transactional data
+    models for systems that manage orders, inventory,
+    fulfillment, or similar operational workflows, including
+    evolving a model in production over multiple years as
+    requirements changed
+  - Hands-on experience building and maintaining integrations
+    with external platforms (e.g., external APIs, payment
+    processors)
+  - Expert-level relational database design: normalization and
+    deliberate denormalization, indexing, constraints, and
+    zero-downtime migration strategies, with the ability to
+    explain the trade-offs to other engineers
+  - Strong distributed system design - knowing when to use
+    queues and asynchronous processing, and designing for
+    idempotency, event replay, out-of-order delivery, retries,
+    and partial failures so that failures never leave data
+    inconsistent across systems
+  - Experience designing RESTful / GraphQL APIs  and setting
+    conventions (versioning, idempotency, pagination, error
+    handling) that other engineers follow
+  - A track record of raising other engineers’ work: reviewing
+    data model and system designs, setting standards a team
+    adopted, and mentoring senior engineers
+  - Familiarity with cloud infrastructure (AWS or GCP),
+    containerization (Docker), and CI/CD tooling
+  - Experience operating business-critical production systems:
+    defining monitoring, alerting, and incident response
+  - Advanced daily use of AI coding tools, including setting up
+    shared context, guardrails, or review practices for a team
+  - Ability to work autonomously and hands-on in a small team
+    environment where you own significant portions of the
+    system end to end
+  - Domain experience in order management, e-commerce
+    fulfillment, supply chain, or manufacturing systems is
+    strongly preferred, including familiarity with how
+    established platforms in this space model their data
+  - Strong communication skills to collaborate with product,
+    operations, and business stakeholders
+
+  Ernesta is committed to inclusion. We are an equal
+  opportunity employer and do not discriminate based upon
+  race, religion, color, national origin, gender (including
+  pregnancy, childbirth, or related medical conditions),
+  sexual orientation, gender identity, gender expression, age,
+  status as a protected veteran, status as an individual with
+  a disability, or other applicable legally protected
+  characteristics.
+
+  The starting base pay for this role is between $200,000 and
+  $230,000.  The actual base pay is dependent upon many
+  factors, such as: experience, education, and skills. This
+  role may also be eligible for equity, and benefits.
+industries:
+  - eCommerce
+  - Retail
+  - Design
+posted_date: 2026-11-16
+url: "https://builtin.com/job/staff-backend-engineer-business-technology/12259430"
+source: Built In

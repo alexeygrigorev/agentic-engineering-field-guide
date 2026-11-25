@@ -1,0 +1,150 @@
+job_id: 12320459
+title: Lead Full-stack Engineer
+company: Sporty Group
+location: GRC
+locations:
+  - GRC
+  - NOR
+  - ITA
+  - ESP
+  - HUN
+  - CYP
+  - FRA
+  - POL
+  - SWE
+  - TUR
+  - BEL
+  - AUT
+  - DEU
+  - DNK
+  - EST
+  - FIN
+  - HRV
+  - UKR
+  - BGR
+  - PRT
+  - ISL
+  - ROU
+  - LUX
+  - CHE
+  - NLD
+  - IRL
+  - CZE
+remote: true
+work_type: FULL_TIME
+company_size: 1,024 Employees
+description: |
+  About the Role
+
+  Business Tooling turns internal prototypes into applications
+  the business can rely on. Many start life with teams outside
+  engineering, often built quickly with AI coding tools. We
+  bring them up to engineering standards with security,
+  observability, CI/CD and regression testing, then keep
+  running and improving them as requests come in.
+
+  Some example applications include a tool for management to
+  review and allocate bonuses and an interactive org chart,
+  access control and a clear record of changes are part of the
+  job. Other examples include a tool for our design team to
+  showcase their designs or a platform for submitting ideas
+  for the internal hackathon, needing awareness of user-
+  centered design.
+
+  Prototypes may arrive in Python, TypeScript, Node.js or
+  something else. The language changes, but the path to
+  production doesn't. We're hiring for range rather than
+  depth: someone who can pick up an unfamiliar codebase and
+  carry it to something we operate.
+
+  What You'll be Doing:
+
+  - Bringing prototypes up to our engineering standards before
+    other people depend on them.
+  - Adding security, observability, a repeatable deploy path and
+    regression tests.
+  - Owning the applications afterwards: taking requests,
+    shipping changes and keeping them healthy as they scale.
+  - Working directly with the people who use the tools and
+    turning their needs into scoped changes.
+  - Using AI coding tools daily to extend and harden code, and
+    judging what's ready to rely on.
+  - Working with security, infrastructure and central teams
+    where shared standards already exist.
+  - Managing a small team of Full-Stack Developers, being
+    responsible for work distribution and performance
+    management
+
+  What You'll Bring:
+
+  - Experience shipping and operating full-stack web
+    applications in production
+  - Experience managing lean sofware teams
+  - Proficiency in more than one of Python, TypeScript and
+    Node.js, and a record of getting productive in unfamiliar
+    codebases.
+  - Hands-on experience running software with Docker, AWS,
+    Kubernetes and CI/CD (GitHub Actions, Jenkins).
+  - Experience adding observability and regression tests to
+    software that started without them.
+  - A practical security baseline: authentication and
+    authorisation, secrets handling and dependency checks.
+  - Experience with MySQL in production.
+  - Strong AI tool proficiency, with the judgement to review and
+    harden generated code.
+  - Clear communication with non-engineering teams, and care
+    with sensitive internal data.
+
+  Tech Stack
+
+  - Languages: Python, TypeScript, Node.js, React, Java
+  - Infrastructure: AWS, Kubernetes, Docker, MySQL
+  - Delivery: GitHub Actions, Jenkins, feature toggles
+  - Quality and security: automated testing, SonarQube, SSO and
+    role-based access control
+  - Observability: Grafana, Prometheus, Loki, Tempo,
+    OpenTelemetry
+
+  What’s in it for you
+
+  - Sporty is a remote first company in pursuit of
+    sustainability
+  - A competitive salary + individual performance based bonuses
+    every quarter
+  - 28 days paid annual leave
+  - Our core working hours are 10am-3pm in your local time zone
+    with flexibility outside of this
+  - Referral bonuses & flash bonuses
+  - Top of the line equipment
+  - Annual company retreats to provide great internal networking
+    opportunities
+
+  Interview process
+
+  - Remote video screening with our Talent Acquisition Team
+  - Offline Take home assignment
+  - Remote video interview with Team Members (60 Mins)
+  - Final discussion with the hiring manager (60 mins)
+
+  If you're interested, we encourage you to apply! Every
+  application is reviewed by a member of our team (AI is not
+  used in our recruitment process), and we aim to respond
+  within 48 hours. We are committed to maintaining a fair,
+  secure and authentic recruitment process. Applications
+  submitted using false, misleading or fraudulent information,
+  including impersonated or fake profiles, will not be
+  considered. Where reasonably necessary to protect the
+  integrity and security of our recruitment process, we may
+  verify a candidate’s identity and/or the accuracy of
+  information provided during the recruitment process. Any
+  such checks will be carried out in a proportionate and
+  appropriate manner and in accordance with applicable data
+  protection and employment laws.
+industries:
+  - Digital Media
+  - Fintech
+  - Gaming
+  - Sports
+posted_date: 2026-11-18
+url: "https://builtin.com/job/lead-full-stack-engineer/12320459"
+source: Built In

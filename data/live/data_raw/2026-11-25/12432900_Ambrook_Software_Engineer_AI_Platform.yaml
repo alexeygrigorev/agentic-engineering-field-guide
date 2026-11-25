@@ -1,0 +1,194 @@
+job_id: 12432900
+title: Software Engineer, AI Platform
+company: Ambrook
+location: Denver, USA
+locations:
+  - Denver, USA
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 15 Employees
+description: |
+  Ambrook helps American family-run businesses become more
+  profitable and resilient. From volatile markets to climate
+  shifts, independent operators face mounting pressure. While
+  sustainable investments often yield the best long-term
+  returns, they require financial clarity and capital that
+  fragmented legacy systems can’t provide. We are rebuilding
+  the financial infrastructure that real economy operators
+  rely on. By replacing paperwork with modern tools for
+  accounting, banking, and spending, Ambrook gives owners the
+  data they need to prove viability to lenders and the next
+  generation. We empower the stewards of land and labor to
+  make confident investments in their future. We’re a Series B
+  startup backed by Lachy Groom, Thrive Capital, Dylan Field,
+  Thomson Reuters Ventures, Cameron Ventures, and leaders at
+  Notion, Gusto, and Vercel. We’re looking for team members to
+  help us untangle the intersection of American industry,
+  climate, and the economy.
+
+  The opportunity
+
+  Ambrook’s AI Platform engineers build the shared systems
+  that make everyone at Ambrook faster: engineers, operators,
+  and the teams shipping AI to our customers. You’ll own two
+  closely linked areas:
+
+  - AI platform: the frameworks, evals, harnesses, sandboxes,
+    tool integrations, and interfaces that let any team build,
+    deploy, and operate agents with confidence.
+  - Internal tooling: the environments, workflows, and internal
+    products that shape how Ambrook's commercial team runs the
+    business.
+
+  We’re working toward a world where any team can request an
+  agent, deploy it, run evals against it, and see the results
+  on a dashboard. Getting there means solving hard problems:
+
+  - how agents get safe, auditable access to tools and data
+  - how can we share these tools safely and securely, with
+    auditable access
+  - how can we publish custom apps or agents to share with
+    customers
+  - how we know whether a change made an agent better or worse
+  - how we trace and debug what an agent did
+  - how coding agents and engineers work well together in our
+    codebase
+  - how we keep cost, latency, and reliability in check as usage
+    grows
+
+  This is engineering work, not IT. You’ll treat the people
+  who use what you build as customers: learn how they work,
+  iterate quickly from real feedback, and hold the quality,
+  security, and data-integrity standards a financial product
+  requires. Our stack is mostly TypeScript on GCP.
+
+  You’ll decide which problems are worth solving, define the
+  patterns other teams follow, and change how the whole
+  company works.
+
+  Within 1 month you’ll…
+
+  - Build a working mental model of how Ambrook builds software
+    and uses AI today: internal agent workflows, customer-
+    facing agentic features, developer workflows and tooling,
+    and where each breaks down.
+  - Build relationships with non-engineering teams to learn
+    where friction slows them down, and where agents could
+    remove it.
+  - Ship a meaningful improvement to production that makes it
+    faster, safer, or easier to build software or run an agent
+    at Ambrook.
+  - Turn those conversations into a prioritized view of the
+    biggest platform opportunities.
+
+  Within 3 months you’ll…
+
+  - Own a platform project from discovery through rollout and
+    adoption, such as an agent configuration interface, a
+    shared evaluation system, a sandboxed harness for running
+    agent loops, or a major developer workflow improvement.
+  - Stand up a repeatable way to evaluate agents, so teams
+    measure quality before and after a change instead of
+    relying on spot checks.
+  - Give agent runs real observability, including tracing, cost,
+    latency, and failure visibility, so teams can debug and
+    improve what they ship.
+  - Set the defaults for how agents at Ambrook get context,
+    permissions, and review, and get other teams to adopt
+    them.
+
+  Within 6 months you’ll…
+
+  - Own the roadmap for AI platform and developer experience,
+    informed by internal customer needs, where the field is
+    heading, and Ambrook’s standards for quality, security,
+    and auditability.
+  - Expand shared infrastructure that supports both internal
+    workflows and customer-facing agentic features, including
+    reusable evals, harnesses, sandboxes, tool integrations,
+    and operational tooling.
+  - Make it possible for a team outside engineering to request,
+    deploy, and evaluate an agent with minimal help.
+  - Show a measurable change in how Ambrook builds, such as
+    engineering velocity, agent quality, or hours given back
+    to operational teams.
+  - Raise the bar for how Ambrook ships AI, internal tools, and
+    customer-facing prototypes through clear design,
+    mentorship, and production ownership.
+
+
+
+  About you
+
+  - You have senior or staff-level experience building
+    production systems that other engineers and teams depend
+    on, and you’ve worked hands-on with LLMs in production.
+  - You’ve built infrastructure for agentic systems, such as
+    evals, agent loops, harnesses, sandboxes, or tool
+    integrations, not only individual agents.
+  - You care about developer experience and have improved how a
+    team builds, tests, or ships software.
+  - You think rigorously about measuring AI quality and
+    understand the limits of evals, LLM-as-judge, and offline
+    testing.
+  - You treat internal teams as customers. You learn how they
+    work, build with empathy, and measure success by adoption.
+  - You can move quickly while holding the reliability and
+    quality standards that shared infrastructure requires.
+  - You’re security-minded and treat agent permissions, data
+    access, prompt injection, auditability, and failure modes
+    as part of ordinary engineering work.
+  - Bonus: Experience with coding agents in a production
+    codebase, tool protocols like MCP, or running untrusted
+    code in sandboxes.
+  - Bonus: Experience building financial products or systems
+    where auditability and data integrity matter.
+
+  Our values
+
+  - Real Talk – We create space for ourselves and others to be
+    straightforward, vulnerable, and accountable.
+  - Reach Understanding – We are driven by curiosity and empathy
+    to learn about our customers, team, and world.
+  - Be Proactively Resourceful – We are internally motivated and
+    externally empowered to identify opportunities and solve
+    problems.
+  - Derisk Thoughtfully – We lean into the biggest risks we face
+    as a company and put in the work to address them
+    systematically.
+  - Find the Positive-Sum – We believe in creating incentive
+    structures that align the needs of our company, our
+    customers, and our planet.
+
+  Benefits
+
+  - Competitive salary
+  - Health insurance
+  - 401(k) with matching contribution
+  - Flexible vacation time
+  - Flexible work hours
+  - Work-from-home/remote office stipend, or desk at Ambrook’s
+    NYC office or Denver office
+  - Wellness stipend
+  - Professional development stipend
+
+  Our values
+
+  - Real Talk – We create space for ourselves and others to be
+    straightforward, vulnerable, and accountable.
+  - Reach Understanding – We are driven by curiosity and empathy
+    to learn about our customers, team, and world.
+  - Be Proactively Resourceful – We are internally motivated and
+    externally empowered to identify opportunities and solve
+    problems.
+  - Derisk Thoughtfully – We lean into the biggest risks we face
+    as a company and put in the work to address them
+    systematically.
+  - Find the Positive-Sum – We believe in creating incentive
+    structures that align the needs of our company, our
+    customers, and our planet.
+posted_date: 2026-11-24
+url: "https://builtin.com/job/software-engineer-ai-platform/12432900"
+source: Built In

@@ -1,0 +1,141 @@
+job_id: 12252292
+title: Staff Software Engineer
+company: Chamber Cardio
+location: New York, USA
+locations:
+  - New York, USA
+  - Boston, USA
+  - Nashville, USA
+  - Washington, USA
+remote: true
+work_type: FULL_TIME
+company_size: 47 Employees
+description: |
+  About Chamber
+
+  Cardiovascular disease remains the leading cause of death in
+  America. At Chamber, we’re rebuilding the system for
+  cardiology, creating a world where outcomes, not volume,
+  define success. We partner with independent cardiologists to
+  help them lead population health efforts in their
+  communities, equipping them with technology, data, and
+  operational tools that turn complex insights into better
+  care for patients.
+
+  Our model blends clinical expertise, thoughtful design, and
+  a modern operating platform that supports physicians,
+  patients, and payers alike. We believe innovation and
+  empathy go hand in hand, and by combining cutting-edge AI
+  tools with a relentless focus on human care, we can
+  transform heart health at scale.
+
+  Role Overview
+
+  The Staff Software Engineer will play a central role in
+  designing and building Chamber’s core application platform.
+  This is a hands-on role for someone who thrives in a startup
+  environment, enjoys solving complex product and data
+  challenges, and is excited to build systems that make a
+  difference in healthcare.
+
+  This role will help design and build the applications that
+  power Chamber’s operational tools for care teams &
+  healthcare providers, along with our patient-facing mobile
+  app. These applications support real-time cardiology
+  insights and value-based care workflows, combining clinical
+  data, analytics, and AI-assisted features.
+
+  The role will work across web and mobile — from modern web
+  interfaces and API integrations to a React Native app
+  —partnering closely with product, data, and infrastructure
+  engineers to deliver reliable, high-impact software. This
+  role will have a meaningful influence on application
+  architecture, engineering practices, and the evolution of
+  Chamber’s product platform.
+
+  Key Responsibilities
+
+  - Design and build Chamber’s core applications. Develop and
+    evolve the full-stack systems that power Chamber’s
+    operational tools for care teams, providers, and patients.
+    Build scalable application components that support complex
+    healthcare workflows and large volumes of clinical and
+    operational FHIR-based data.
+  - Build modern, high-quality web interfaces. Design and
+    implement intuitive user experiences using React, Next.js,
+    and Tailwind. Translate complex workflows and analytics
+    into usable and reliable tools for clinicians and care
+    operations teams.
+  - Develop backend services and application logic. Build and
+    maintain Node.js and AWS lambda services that power
+    application workflows, APIs, and integrations. Implement
+    business logic and application services that interact with
+    Chamber’s healthcare data systems, including FHIR-based
+    platforms.
+  - Build and ship the mobile app. Develop patient-facing
+    features in React Native and TypeScript. Deliver a
+    reliable, accessible experience on iOS and Android.
+  - Integrate data and AI-powered capabilities. Collaborate with
+    others to integrate analytics and AI-powered features into
+    the application layer. Apply LLM-powered functionality
+    where it meaningfully improves workflows and insights for
+    care teams and patients.
+  - Collaborate across engineering disciplines. Work closely
+    with fellow engineers to deliver reliable and scalable
+    systems. Contribute to architectural decisions,
+    engineering standards, and shared development practices.
+
+  Requirements
+
+  - 7+ years of experience in software engineering with
+    significant full-stack development experience
+  - Experience working with healthcare data platforms or
+    healthcare technology systems
+  - Proven experience designing and building production web and
+    mobile applications
+  - Strong experience with React, Next.js, and TypeScript
+  - Experience building and shipping production mobile apps with
+    React Native.
+  - Experience building backend services using Node.js or
+    similar platforms
+  - Experience designing APIs and implementing application
+    business logic
+  - Experience working with cloud-based systems (AWS preferred)
+  - Experience building applications that interact with external
+    APIs or data platforms
+  - Strong communication and collaboration skills
+  - Comfortable with ambiguity and working in a fast-paced
+    startup environment
+
+  Chamber Values
+
+  Our values guide how we lead, collaborate, and care:
+
+  - Low Ego: We stay grounded, curious, and open to feedback.
+
+  - Empathy: We build trust through compassion and thoughtful
+    communication.
+
+  - Courage: We take action, think critically, and challenge
+    ideas respectfully.
+
+  - Ownership: We follow through with integrity and hold
+    ourselves to high standards.
+
+  - Grit: We push through ambiguity, move with urgency, and
+    solve problems with horsepower and heart.
+
+  Location:
+
+  Remote opportunity with the ability to work ET or CT hours.
+  You must be authorized to work in the US without
+  sponsorship. Periodic travel to practice sites or Chamber
+  offices may be required.
+industries:
+  - Healthtech
+  - Information Technology
+  - Professional Services
+  - Software
+posted_date: 2026-11-16
+url: "https://builtin.com/job/staff-product-engineer/12252292"
+source: Built In

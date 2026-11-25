@@ -1,0 +1,218 @@
+job_id: 12400113
+title: Backend Developer Consultant
+company: Bitovi
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 80 Employees
+description: |
+  PLEASE NOTE: At this time, we are only considering
+  candidates located in and authorized to work in the United
+  States or Canada.
+
+  JOIN OUR TEAM!
+
+  Bitovi is looking for a Backend Developer Consultant to join
+  us as we transform technology delivery. We build and operate
+  durable, distributed systems for enterprise clients: backend
+  services in Java, Go, TypeScript, Python, and C#, Temporal
+  for workflow orchestration, and Kafka for event streaming,
+  all running on Kubernetes and AWS. If you want to build
+  exceptional systems, take orchestration and systems
+  engineering seriously, and have ideas on how to make
+  delivery more collaborative, validation-driven, and swift,
+  we want to work with you!
+
+  WHO YOU ARE
+
+  You’re experienced building and running backend applications
+  at the enterprise level, and you own your services all the
+  way to production. You think like a systems engineer,
+  reasoning about how services, workflows, and the
+  infrastructure under them behave together, especially when
+  something fails. You’re comfortable working in more than one
+  language and pick up a new stack without fuss, because
+  client work rarely matches your favorite one. You thrive
+  when given opportunities to deliver real-world systems as an
+  integral team member, and you have the expertise to
+  interface and communicate confidently with stakeholders.
+
+  You’ll excel in this role at Bitovi if you have:
+
+  - Professional experience building and operating production
+    backend services in at least one of Java, Go,
+    TypeScript/Node.js, Python, or C#. Production experience
+    in more than one, and a willingness to move between them
+    as client needs change, is a strong plus
+  - Practical experience with Temporal or another workflow
+    orchestration engine (Cadence, AWS Step Functions,
+    Airflow, Prefect, Dagster, or similar), including modeling
+    multi-step workflows, handling retries and timeouts, and
+    reasoning about idempotency and failure modes
+  - Hands-on experience deploying and running production
+    services on a major cloud provider (e.g., AWS, Azure, or
+    GCP), comfortable with IAM, basic networking, and managed
+    data and messaging services
+  - A systems engineering mindset: understanding of scaling
+    issues, concurrency, backpressure, caching strategies, and
+    failure modes across distributed systems
+  - A solid understanding of CI/CD pipelines and modern delivery
+    practices
+  - Experience with observability in practice: logging, metrics,
+    and tracing (OpenTelemetry a plus)
+  - Experience building modern microservice-based or serverless
+    applications
+
+  Nice to have
+
+  - Experience designing and building GraphQL APIs: schema
+    design, resolvers, and performance concerns (N+1, caching,
+    pagination); federation experience a plus
+  - Kafka or other event streaming experience: topic and
+    partition design, consumer groups, schema management, and
+    reasoning about ordering, delivery guarantees, and
+    consumer lag
+  - Kubernetes experience: deploying, operating, and debugging
+    production workloads
+  - Experience planning and executing migrations: application
+    replatforming, workflow engine migrations, data
+    migrations, or moving workloads between environments with
+    minimal downtime
+
+  Other skills we value
+
+  Temporal depth
+
+  - Running Temporal in production, self-hosted on Kubernetes
+    and/or Temporal Cloud
+  - Workflow versioning and patching, safe deployments, and
+    long-running workflow migrations
+  - Worker deployment and tuning (pollers, task queues,
+    concurrency/slot configuration)
+  - Namespace management, mTLS (SPIFFE/SPIRE or private CA), and
+    capacity/scaling concerns (e.g., APS/TRU on Temporal
+    Cloud)
+
+  Kafka & event streaming depth
+
+  - Operating Kafka in production (MSK, Confluent, or self-
+    managed on Kubernetes)
+  - Kafka Connect, Kafka Streams, and schema registry workflows
+    (Avro/Protobuf)
+  - Migrating between clusters or providers, and integrating
+    Kafka with downstream analytical stores
+  - Techniques for processing large datasets, such as Lambda and
+    Kappa architectures
+
+  Platform depth
+
+  - GitOps with ArgoCD or Flux
+  - Infrastructure as code: Terraform/OpenTofu, Crossplane, ACK,
+    or similar
+  - Helm chart authoring, Kubernetes operators, and CRDs
+  - Secrets management (External Secrets Operator, etc.),
+    autoscaling (Karpenter, KEDA), and service mesh concepts
+    (Istio, SPIFFE/SPIRE)
+  - Building or contributing to an internal developer platform
+
+  General
+
+  - Additional queueing and messaging technologies (AWS SQS/SNS,
+    RabbitMQ)
+  - API design across paradigms (GraphQL, REST, gRPC)
+  - AuthN/AuthZ and related technologies (sessions, API tokens,
+    JWTs)
+  - Automated testing across the stack (unit, integration,
+    performance/benchmarking)
+
+  WHO WE ARE
+
+  Bitovi partners with companies to build outcome-focused apps
+  and platforms. Our collaborative approach is driven by
+  validation to deliver the swiftest route to the most
+  valuable solution.
+
+  We design and build high-profile applications and the
+  infrastructure behind them, with tests, full docs, and a
+  real deployment process. We run a serious Temporal practice
+  (including large-scale migration and security work for
+  enterprise clients) alongside deep Kubernetes, AWS, and
+  platform engineering work. We discuss and design
+  architectures, review code, and research new technologies.
+  We talk to our clients, guiding them through the process,
+  identifying potential problems and unknowns, and tackling
+  challenges.
+
+  We help one another freely. We keep a Slack channel called
+  ask-help, which is constantly used. We develop new skills,
+  build better developer tools, and work on new types of
+  projects regularly.
+
+  Our fully remote team comprises about 70 developers and
+  designers. We welcome diversity and non-traditional paths
+  into professions. We want the right person, not the right
+  collection of tech keywords.
+
+  WHAT YOU’LL DO AT BITOVI
+
+  Build durable systems. Design and implement backend
+  services, Temporal workflows, and event-driven pipelines,
+  and help clients adopt durable execution the right way, from
+  first workflow to production scale.
+
+  Modernize with care. Help clients move workflows, services,
+  and data onto new platforms, working with teammates to plan
+  cutovers that treat safety, observability, and minimal
+  disruption as first-class requirements.
+
+  Ship to production. Deploy and run your services on AWS and
+  Kubernetes, working alongside Bitovi’s platform engineers on
+  CI/CD and infrastructure. Treat reliability, observability,
+  and repeatability as part of the deliverable, not an
+  afterthought.
+
+  Consult and manage. Consult with clients to build outcome-
+  driven applications and platforms, guiding them through the
+  process, identifying potential problems and unknowns, and
+  tackling challenges.
+
+  Travel. This is a remote, full-time position that requires
+  the ability to travel. We travel an average of 3–5 days
+  every quarter, and we’ll always do our best to work with
+  your schedule.
+
+  Teach. We’ll discuss opportunities for you to present at
+  conferences, attend and give training, plan and run meetups
+  or local groups, and create various kinds of content in your
+  expertise.
+
+  BENEFITS WE OFFER
+
+  - Competitive salary and annual bonus opportunity
+  - Completely remote work with flexible hours
+  - 401(k) matching
+  - 4 weeks of paid time off in addition to 8 paid holidays
+  - Health, dental, and vision insurance offerings
+  - Paid maternity and paternity leave
+  - STD, LTD, and Life Insurance coverage
+
+  Benefits vary by country of employment.
+
+  HOW TO APPLY
+
+  Please share a resume or LinkedIn profile and answer the
+  additional questions. Yes, we read through all the answers!
+
+  Please note that we are not interested in working with
+  recruiters. All job offers are contingent on passing a
+  background check. Candidates must be located in and
+  authorized to work in the United States or Canada; we are
+  unable to provide visa sponsorship at this time.# Backend
+  Developer Consultant
+industries:
+  - Information Technology
+  - Software
+  - Design
+posted_date: 2026-11-21
+url: "https://builtin.com/job/backend-developer-consultant/12400113"
+source: Built In

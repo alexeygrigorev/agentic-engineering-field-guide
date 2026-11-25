@@ -1,0 +1,190 @@
+job_id: 12269114
+title: "Lead Software Engineer - Production Support & SRE"
+company: JPMorganChase
+location: London, GBR
+work_type: FULL_TIME
+company_size: 289,097 Employees
+description: |
+  The CIB Rates Production Management Technology team
+  comprises technical leaders and self-motivated engineers who
+  are passionate about ensuring the stability, resilience, and
+  continuous improvement of mission-critical front-office
+  trading applications. The team operates as an engineering-
+  led Production Management function - one that writes code,
+  builds platforms, and applies AI to detect, diagnose, and
+  remediate issues before they impact the business.
+
+  As a Lead Software Engineer within Rates Production
+  Management, you will combine end-to-end production ownership
+  of the Rates application estate with hands-on software
+  engineering. You will design and build automation,
+  observability, and AI-driven tooling that delivers early
+  detection of batch, risk, and market data issues,
+  accelerates root cause analysis, and enables safe, automated
+  remediation. You will serve as a trusted technical authority
+  during major incidents, production readiness reviews, and
+  resiliency exercises, while championing Site Reliability
+  Engineering (SRE) principles and the responsible adoption of
+  AI across the team.
+
+  Key Responsibilities
+
+  - Serve as the technical production owner for critical Rates
+    front-office services - batch/EOD processing, real-time
+    pricing, risk computations, trade management, and market
+    data pipelines
+  - Lead technical response and service restoration for P1/P2
+    incidents, coordinating across Application Development,
+    Infrastructure, and business stakeholders to accelerate
+    recovery
+  - Lead post-incident reviews (RCAs/post-mortems), identify
+    recurring failure patterns, and partner with development
+    teams on root cause remediation to eliminate recurrence
+    and reduce technical debt
+  - Maintain strong production governance — access controls,
+    operational procedures, runbooks, documentation, audit
+    readiness, MEPC execution, and operational review
+    processes
+  - Design, build, and maintain production-grade software
+    (primarily Python) for operational tooling, self-healing
+    workflows, and automated runbooks that reduce manual toil
+    and MTTR
+  - Contribute code changes directly to Rates applications to
+    fix production defects, improve performance, and harden
+    resiliency, following the full SDLC - design, automated
+    testing, peer review, and controlled release
+  - Build reusable engineering components, APIs, and
+    integrations (job schedulers, ticketing, messaging, data
+    stores) that scale improvements across the CIB application
+    portfolio
+  - Design and deliver AI/ML-based early-detection capabilities
+    - anomaly detection on batch timings, job volumes, risk
+    outputs, and market data, with predictive alerting on SLA
+    breaches before business impact
+  - Define and improve SLIs, SLOs, error budgets, and
+    reliability metrics for the Rates application suite,
+    reporting production health to senior technology and
+    business leadership
+  - Design and deploy monitoring, telemetry, dashboards, and
+    alerting (Geneos, OpenTelemetry, Grafana, or equivalent)
+  - Drive capacity planning, performance profiling, resiliency
+    testing, and BCP/failover readiness across multi-region
+    deployments
+  - Represent Production Management in architecture and
+    production readiness reviews for new features, platform
+    changes, and cloud migration
+  - Build and maintain strong relationships with Application
+    Development, DevOps, Front Office business users, and
+    GTI/Infrastructure teams
+  - Communicate effectively with all levels of management - from
+    technical deep-dives to executive-level summaries of
+    production health and automation impact
+
+  Technical Expertise (Required)
+
+  - Experience: 7+ years' experience in front-office production
+    support, SRE, or production engineering within Investment
+    Banking, preferably supporting Fixed Income Rates trading
+    applications (pricing, risk, trade management, EOD/batch
+    processing)
+  - Software Engineering: Formal training or certification in
+    software engineering concepts; strong Python skills at
+    production-code level - object-oriented design, testing,
+    debugging complex distributed systems, and building
+    automation tooling within a full SDLC with code review and
+    CI/CD
+  - AI & Automation: Hands-on experience applying AI/ML or LLM-
+    based tooling to operational problems (anomaly detection,
+    triage, RCA, automated remediation, reporting) and leading
+    effective use of AI-assisted development tools, with a
+    strong understanding of responsible AI - data sensitivity,
+    guardrails, and validation of outputs
+  - Monitoring & Observability: Extensive experience with Geneos
+    and/or Grafana, Splunk, Dynatrace, OpenTelemetry, log
+    aggregation, and alerting frameworks
+  - Databases: Strong SQL (Oracle, Postgres) and query
+    performance tuning in high-throughput environments
+  - Platform Knowledge: Linux/UNIX (RHEL), shell scripting
+    (bash/ksh), job scheduling systems, and batch
+    orchestration
+  - Incident Management: Proven experience leading complex P1
+    incidents, managing war rooms, problem management, and
+    producing actionable RCAs that eliminate recurrence
+
+  Technical Expertise (Preferred)
+
+  - Knowledge of Rates products (Swaps, Options, Inflation,
+    Bonds/Futures, Repo/Securities Lending) and the front-to-
+    back trade lifecycle
+  - Experience building agentic AI workflows, prompt
+    engineering, or integrating LLMs with internal tooling
+    (e.g. MCP servers, knowledge graphs, retrieval-augmented
+    generation)
+  - Hands-on experience with public cloud (AWS), infrastructure-
+    as-code (Terraform, CloudFormation), and containerisation
+    (OpenShift, Kubernetes, Docker)
+  - Experience with time-series/statistical analysis and data
+    libraries for building data-driven detection and
+    dashboards
+  - Experience with capacity management, performance profiling,
+    and memory analysis in Python/Java environments
+
+  General Competencies
+
+  - Proven ability to lead under pressure - managing multiple
+    critical incidents simultaneously while maintaining clear
+    communication
+  - Engineering mindset - automates repeatable work, measures
+    outcomes, and treats operational problems as software
+    problems
+  - Strategic thinker with the ability to balance immediate
+    production needs against long-term platform and automation
+    improvements
+  - Strong ownership mentality with a track record of driving
+    initiatives from conception to measurable outcomes (e.g.
+    reduced MTTR, fewer incidents, improved SLA adherence)
+  - Excellent communication skills (verbal and written) - able
+    to translate complex technical issues into business impact
+    language
+  - Curiosity and continuous learning, particularly in emerging
+    AI technologies, applied with sound judgement on risk and
+    control
+
+  About UsJ.P. Morgan is a global leader in financial
+  services, providing strategic advice and products to the
+  world’s most prominent corporations, governments, wealthy
+  individuals and institutional investors. Our first-class
+  business in a first-class way approach to serving clients
+  drives everything we do. We strive to build trusted, long-
+  term partnerships to help our clients achieve their business
+  objectives.
+
+
+
+
+    We recognize that our people are our strength and the
+  diverse talents they bring to our global workforce are
+  directly linked to our success. We are an equal opportunity
+  employer and place a high value on diversity and inclusion
+  at our company. We do not discriminate on the basis of any
+  protected attribute, including race, religion, color,
+  national origin, gender, sexual orientation, gender
+  identity, gender expression, age, marital or veteran status,
+  pregnancy or disability, or any other basis protected under
+  applicable law. We also make reasonable accommodations for
+  applicants’ and employees’ religious practices and beliefs,
+  as well as mental health or physical disability needs. Visit
+  our FAQs for more information about requesting an
+  accommodation.
+
+
+  About the TeamJ.P. Morgan’s Commercial & Investment Bank is
+  a global leader across banking, markets, securities services
+  and payments. Corporations, governments and institutions
+  throughout the world entrust us with their business in more
+  than 100 countries. The Commercial & Investment Bank
+  provides strategic advice, raises capital, manages risk and
+  extends liquidity in markets around the world.
+posted_date: 2026-11-16
+url: "https://builtin.com/job/lead-software-engineer-production-support-sre/12269114"
+source: Built In

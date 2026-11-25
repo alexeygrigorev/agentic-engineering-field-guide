@@ -1,0 +1,125 @@
+job_id: 12415776
+title: AI Software Engineer
+company: UpSmith
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 14 Employees
+description: |
+  About UpSmith
+
+  UpSmith is an AI-powered platform for home services
+  companies. Our AI agents automate customer outreach at scale
+  - booking maintenance appointments, following up on
+  estimates, confirming jobs, and re-engaging lapsed customers
+  on behalf of HVAC, plumbing, and electrical companies across
+  the US.
+
+  We're a small engineering team where every system we build
+  directly drives revenue for our clients. The feedback loop
+  is tight and the stakes are real - something breaks or
+  underperforms, clients notice the same day.
+
+  The Role
+
+  We're hiring Software Engineers to own core platform systems
+  as we scale. This is a high-ownership role on a small team.
+  You'll shape technical direction, make architectural
+  decisions, and ship end-to-end. The specific problems will
+  shift as we grow - what stays constant is that you'll own
+  technically complex systems with direct, measurable business
+  impact. You'll work closely with the rest of the engineering
+  team as well as the ops team that manages client
+  relationships.
+
+  Requirements
+
+  The Kind of Work You'll Do
+
+  To give you a sense of the problems on - not an exhaustive
+  list, but representative of the type and complexity of work
+  at this level:
+
+  Decision systems. Building the logic that determines which
+  customers to contact, when, and why - and making that logic
+  configurable, auditable, and increasingly intelligent over
+  time.
+
+  Data infrastructure. Making our data trustworthy, queryable,
+  and actionable - the analytics foundation that powers
+  targeting, reporting, and client-facing products.
+
+  Supply and demand. Connecting real-time technician
+  availability to outreach decisions, agent conversations, and
+  client reporting so the platform responds to what's actually
+  happening on the ground.
+
+  Client-facing visibility. Our clients need to see what's
+  happening with their campaigns without emailing us. That
+  means dashboards, attribution, full-funnel tracking, and
+  alerting - built on the analytics layer and designed for
+  people who aren't technical.
+
+  System evolution. We have production systems serving real
+  clients that need to be replaced incrementally. You'll
+  design migration strategies, run parallel validation, and
+  cut over without disrupting active campaigns.
+
+  What We're Looking For
+
+  You drive impact. You work to find the next thing big thing
+  that will bring value to the team and company. You influence
+  the team and company in an honest and positive way. You
+  build up and support your teammates.
+
+  You've built systems that make decisions at scale. Whether
+  that's ad targeting, recommendation engines, marketplace
+  matching, or campaign orchestration - you've designed
+  pipelines where the system decides who gets what, and you've
+  dealt with the operational complexity that comes with it.
+
+  You think in data models. You know how to design schemas
+  that absorb business complexity without becoming
+  unmaintainable. You're comfortable with the tradeoffs
+  between normalized relational models, EAV patterns, and
+  JSONB escape hatches - and you know when each is
+  appropriate.
+
+  You're pragmatic about shipping. You design for incremental
+  delivery, not big-bang rewrites. You've migrated production
+  systems while they were running and know what it takes to do
+  that safely.
+
+  You close the loop. You don't just build the pipeline - you
+  think about how to measure whether it's working, how to
+  surface failures before clients notice, and how to use
+  outcome data to improve the system over time.
+
+  You write clearly. Engineers at UpSmith write design docs
+  that the team can build from. You'll spend meaningful time
+  articulating your approach before you start coding.
+
+  Technical Environment
+
+  - Backend: Python, PostgreSQL, SQLAlchemy
+  - Data: dbt, Prefect, incremental models, SCD Type 2 snapshots
+  - Infrastructure: Kubernetes, AWS (S3, SQS, EventBridge)
+  - AI/ML: LLM-powered conversational agents, with growing
+    opportunities to introduce ML-based optimization into
+    targeting and prioritization
+  - Integrations: ServiceTitan (field service management), CRM
+    systems
+
+  Benefits
+
+  - Early-stage equity in a company with strong revenue growth
+    and a clear path to scale
+  - High ownership - you'll shape technical direction, not
+    implement someone else's spec
+  - A small team where your work has visible, measurable impact
+    on client outcomes
+  - Remote-first with flexibility to work where you're most
+    productive
+posted_date: 2026-11-23
+url: "https://builtin.com/job/ai-software-engineer/12415776"
+source: Built In

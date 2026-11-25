@@ -1,0 +1,106 @@
+job_id: 12288514
+title: Senior Software Engineer Financial Services and Risk IT
+company: Avacone AG
+location: London, GBR
+work_type: FULL_TIME
+company_size: 66 Employees
+description: |
+  About the role
+
+  We are seeking a Senior Software Engineer to join an
+  international Risk IT team developing and maintaining
+  financial risk management systems.
+
+  Working alongside 12–15 engineers, you will help modernise
+  an established platform, transitioning from a legacy
+  monolithic application to scalable, containerised
+  microservices. You will also contribute to a platform that
+  enables Risk Analysts to develop and execute Python code.
+
+  The role combines operational improvements with projects
+  focused on automating risk processes and modernising the
+  application stack. You will take ownership of technical
+  delivery, collaborate closely with business users and
+  deliver reliable, thoroughly tested changes in manageable
+  increments.
+
+  Key responsibilities
+
+  - Develop and enhance the Risk IT microservices stack using
+    C#.
+  - Refactor legacy .NET Framework applications into smaller
+    components for migration to .NET Core and deployment in
+    OpenShift containers.
+  - Support the transition to a Cloudera-based data lake
+    platform.
+  - Replace legacy banking system interfaces with Kafka-based
+    streaming integrations.
+  - Collaborate with Risk Analysts and business stakeholders to
+    gather, clarify and refine requirements.
+  - Plan and deliver incremental improvements, supported by
+    thorough testing.
+  - Investigate technical issues, identify root causes and
+    implement sustainable solutions.
+  - Participate in rotating business-hours support to maintain
+    system stability and performance.
+  - Contribute to agile delivery, continuous improvement and
+    knowledge sharing.
+
+  RequirementsRequired experience and skills
+
+  - Strong development experience in an object-oriented language
+    such as C#, Java or C++, with a willingness to work with
+    C# and Python codebases.
+  - Previous financial services experience, gained within a
+    bank, financial institution or insurer, or through a
+    technology provider serving these organisations.
+  - Familiarity with at least one financial product domain, such
+    as fixed income, equities or foreign exchange.
+  - Sound understanding of algorithms, data structures and
+    software design patterns, with a demonstrated ability to
+    deliver working solutions.
+  - Experience with relational databases such as Oracle or SQL
+    Server.
+  - Ability to work directly with business users and translate
+    requirements into technical solutions.
+  - Experience in an agile development environment, with a focus
+    on iterative delivery and continuous improvement.
+  - Proficiency in English.
+
+  Preferred experience
+
+  - Implementation of financial product pricing.
+  - Microservices architecture and design.
+  - Python development for analytical or financial applications.
+  - Data engineering and Cloudera-based platforms.
+  - Kafka and streaming architectures.
+  - OpenShift and containerised deployments.
+  - WPF and web technologies.
+
+  Personal attributes
+
+  - Analytical and methodical, with strong problem-solving
+    skills.
+  - Able to break complex challenges into clearly scoped tasks
+    and plan delivery effectively.
+  - Proactive in identifying practical improvements to platforms
+    and processes.
+  - Accountable for quality, commitments and deadlines.
+  - Comfortable collaborating across engineering and business
+    teams.
+
+  Working environment
+
+  You will join a diverse, international team that values
+  inclusion, open communication and knowledge sharing. The
+  position offers the opportunity to contribute to a
+  substantial technology modernisation programme while
+  supporting essential financial risk management systems.
+industries:
+  - Information Technology
+  - Consulting
+  - Pharmaceutical
+  - Chemical
+posted_date: 2026-11-17
+url: "https://builtin.com/job/senior-c-developer/12288514"
+source: Built In

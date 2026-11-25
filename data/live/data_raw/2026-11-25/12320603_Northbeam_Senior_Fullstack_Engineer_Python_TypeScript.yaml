@@ -1,0 +1,148 @@
+job_id: 12320603
+title: Senior Fullstack Engineer (Python + TypeScript)
+company: Northbeam
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 100 Employees
+description: |
+  About Northbeam
+
+  Northbeam is building the world's most advanced marketing
+  intelligence platform, providing top eCommerce brands a
+  unified view of their business data through powerful
+  attribution modeling and customizable dashboards. Our
+  technology helps customers accurately track ad spend,
+  understand the full customer journey, and drive profitable
+  growth. Machine learning has been at the heart of Northbeam
+  since day one: our full suite of measurement, spanning
+  multi-touch attribution, MMM+, and incrementality, is built
+  on it, along with laser-accurate first-party data. Now we're
+  taking that foundation further, using AI to help brands
+  operationalize their data and turn Northbeam insights into
+  automated decisions.
+
+  We're experiencing rapid growth, have strong product-market
+  fit, and are looking for the right people to help us scale.
+  This is a rare chance to make a meaningful impact at a fast-
+  moving, high-growth company. At Northbeam, you'll join a
+  team of driven, collaborative, and talented individuals who
+  value personal growth and excellence. We'd love for you to
+  be part of our journey.
+
+  We're a remote-friendly company with physical offices in San
+  Francisco and Los Angeles.
+
+  About the role
+
+  We're hiring a Senior Fullstack Engineer to build
+  Northbeam's mobile attribution product and the data
+  collection layer underneath it. You'll own our client-side
+  SDKs (JavaScript today, iOS next) and the high-throughput
+  APIs that ingest the events they send.
+
+  This is a fullstack role with a strong backend and scaling
+  bent. Our microservices run in both TypeScript and Python,
+  so you'll move between the two daily, and ship React UI when
+  a feature needs it. You'll also partner with our Conversions
+  API (CAPI) team on event ingestion.
+
+  The ideal person has built web analytics or event tracking
+  at real volume and cares as much about a reliable SDK as
+  about the systems that catch its data.
+
+  Your Impact
+
+  - Build Northbeam's mobile attribution solution end to end:
+    SDK, ingestion APIs, data model, and the dashboard views
+    customers use to act on it.
+  - Design and own our client-side SDKs in
+    JavaScript/TypeScript, and help shape our iOS SDK, so they
+    capture events accurately with minimal impact on customer
+    site and app performance.
+  - Build and scale high-throughput APIs and microservices in
+    TypeScript and Python that ingest, validate, and route
+    event data from our customers' sites and apps.
+  - Partner with the CAPI team to ingest server-side conversion
+    events and deliver them reliably to ad platforms.
+  - Own the reliability of these ingestion paths: load testing,
+    monitoring, alerting, and performance tuning.
+  - Ship frontend features in React and TypeScript when a
+    product experience needs them.
+  - Scope projects with product managers, data scientists, and
+    customer success, and help set technical direction for how
+    Northbeam collects data.
+
+  What You Bring
+
+  - 5+ years building production software, with deep fullstack
+    experience in TypeScript/JavaScript across frontend and
+    backend.
+  - Professional experience building services or APIs in Python,
+    and comfort working across TypeScript and Python
+    microservices in the same system.
+  - A track record designing and scaling high-throughput APIs:
+    you've handled request volume, latency, queuing, retries,
+    and idempotency in production.
+  - Hands-on experience with web analytics or event tracking:
+    building tracking SDKs, pixels, or tag libraries,
+    designing event schemas, and working within browser
+    constraints like cookie restrictions and ad blockers.
+  - Proficiency in SQL; experience with BigQuery or a similar
+    cloud data warehouse.
+  - Startup instincts: you turn ambiguous product needs into
+    sound architecture and ship production-ready code with
+    minimal guidance.
+  - Interest in mentoring other engineers and raising the bar
+    for what the team ships.
+
+  Bonus Skills & Experience
+
+  - iOS SDK development in Swift, or building SDKs that third-
+    party developers install and depend on.
+  - Familiarity with mobile attribution: mobile measurement
+    partners (AppsFlyer, Adjust, Branch), SKAdNetwork or
+    AdAttributionKit, and Apple's App Tracking Transparency.
+  - Experience with server-side conversion APIs such as Meta
+    CAPI, Google Enhanced Conversions, or the TikTok Events
+    API.
+  - Streaming or event pipeline experience (Pub/Sub, Kafka, or
+    similar) on GCP or another major cloud.
+  - Experience in marketing, e-commerce, or ad-tech.
+
+  Base Salary Range
+
+  $165,000—$210,000 USD
+
+  Actual compensation may vary based on experience, skills,
+  and location.
+
+  In addition to your base salary, we offer an equity package,
+  comprehensive healthcare benefits (medical, dental, and
+  vision), and a 401(k) plan. Our team enjoys a flexible PTO
+  policy, 12 company-paid holidays, and 12 weeks of paid
+  parental leave. We also provide a $500 work-from-home
+  stipend to support your remote setup.
+
+  Interview Process The interview process varies by role but
+  typically begins with a 30-minute interview with a Northbeam
+  recruiter, followed by a video interview with the hiring
+  manager. Next, candidates complete a role-specific video
+  interview followed by video or onsite interviews with
+  several team members. The final step is a video interview
+  with our CEO/Co-founder. The entire interview process is
+  usually 5-7 interviews total and requires around 5-8 hours
+  of your time.
+
+  We accept applications on an ongoing basis.
+industries:
+  - eCommerce
+  - Information Technology
+  - Machine Learning
+  - Marketing Tech
+  - Database
+  - Analytics
+  - Big Data Analytics
+posted_date: 2026-11-18
+url: "https://builtin.com/job/senior-fullstack-engineer-python-typescript/12320603"
+source: Built In

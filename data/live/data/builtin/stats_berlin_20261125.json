@@ -1,0 +1,56 @@
+[
+  {
+    "city": "berlin",
+    "search_role": "Frontend",
+    "site_max_page": 2,
+    "pages_fetched": 2,
+    "raw_cards": 49,
+    "raw_unique_ids": 49,
+    "kept_after_dedup": 45
+  },
+  {
+    "city": "berlin",
+    "search_role": "Engineering Manager",
+    "site_max_page": 3,
+    "pages_fetched": 3,
+    "raw_cards": 73,
+    "raw_unique_ids": 73,
+    "kept_after_dedup": 63
+  },
+  {
+    "city": "berlin",
+    "search_role": "Backend",
+    "site_max_page": 6,
+    "pages_fetched": 6,
+    "raw_cards": 138,
+    "raw_unique_ids": 138,
+    "kept_after_dedup": 117
+  },
+  {
+    "city": "berlin",
+    "search_role": "Full Stack",
+    "site_max_page": 4,
+    "pages_fetched": 4,
+    "raw_cards": 91,
+    "raw_unique_ids": 91,
+    "kept_after_dedup": 68
+  },
+  {
+    "city": "berlin",
+    "search_role": "Software Engineer",
+    "site_max_page": 12,
+    "pages_fetched": 12,
+    "raw_cards": 295,
+    "raw_unique_ids": 295,
+    "kept_after_dedup": 215
+  },
+  {
+    "city": "berlin",
+    "search_role": "Software Developer",
+    "site_max_page": 12,
+    "pages_fetched": 12,
+    "raw_cards": 295,
+    "raw_unique_ids": 295,
+    "kept_after_dedup": 0
+  }
+]

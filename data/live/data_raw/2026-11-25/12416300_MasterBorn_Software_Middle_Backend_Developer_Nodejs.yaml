@@ -1,0 +1,150 @@
+job_id: 12416300
+title: Middle Backend Developer (Node.js)
+company: MasterBorn Software
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 85 Employees
+description: |
+  We're looking for a Backend Developer to build and evolve
+  applications for our US clients - from early-stage MVPs to
+  established products in FinTech, SportsTech, MedTech, and
+  other industries.
+
+  TypeScript, Node.js, and React are our bread and butter, but
+  we hire engineers, not framework specialists. We value an
+  engineering mindset: understanding trade-offs, picking the
+  right tool for the problem, and being open to technologies
+  you haven't used yet.
+
+  We're building a team of engineers who can contribute across
+  the application while developing deep expertise in backend
+  or frontend engineering. In this role, backend is your
+  primary discipline - you'll own backend features end to end,
+  and you're comfortable stepping into the frontend when the
+  product needs it.
+
+  AI-assisted and agentic development is how we work. Coding
+  agents are part of the whole delivery cycle - from exploring
+  a problem and planning, through implementation and testing,
+  to code review - and we expect you to know where they fail
+  and how to verify what they produce before it reaches
+  production.
+
+  Contract summary:
+
+  - Rate: PLN 10.000 - 18.000 + VAT (B2B)
+  - Contract: B2B/UZL, paid days off, 100% remote (or
+    hybrid/onsite - as you prefer), Polish time zone, Europe-
+    based, flexible hours, full-time position, long-term
+    contract, Scrum Teams and more
+  - Perks and Benefits: 3,000 PLN annual training budget,
+    Multisport, Luxmed, Cafeteria Platform, Tech-talks,
+    Learning sessions, and more
+  - Tools you'll use: Apple MacBook Pro, Slack, GSuite, GitHub,
+    Jira, Coda, FigJam, Claude Code
+
+  Your future tasks:
+
+  - Own backend features from understanding requirements,
+    through design and implementation, to testing, deployment,
+    and monitoring in production
+  - Design and evolve database structures and API contracts, and
+    write the queries behind them - including raw SQL where an
+    ORM is not enough
+  - Build integrations with third-party services and
+    asynchronous flows (queues, background jobs, webhooks,
+    caching), deciding explicitly what happens on failure and
+    retry
+  - Keep the backend observable and healthy in production:
+    logging, metrics, alerts, and diagnosing incidents when
+    they happen
+  - Work with cloud infrastructure and CI/CD pipelines - not
+    only using them, but changing them when the project needs
+    it
+  - Use AI coding agents for exploration, planning,
+    implementation, tests, and review, and help shape how the
+    team uses them (shared rules, prompts, review steps)
+  - Talk to the client: take part in refinements, estimate,
+    propose pragmatic solutions, and communicate risks early
+  - Review other developers' code with constructive feedback,
+    and support less experienced teammates through
+    explanations and pair programming
+  - Contribute to frontend tasks when the product needs it
+  - Document delivered code and technical decisions; share what
+    you learn with the team
+
+  About you - Tech skills & Experience:
+
+  - 2+ years of commercial backend experience with Node.js, in
+    which you've taken a feature from requirements to
+    production on your own - not only implemented tickets
+    someone else designed
+  - Strong TypeScript - static typing, advanced types, and
+    compiler configuration are part of your daily work
+  - Good experience with at least one Node.js backend framework
+    (e.g. Express, NestJS, Fastify) and a clear understanding
+    of what happens underneath it
+  - SQL databases at a design level: schema design, migrations,
+    indexes, writing and tuning raw SQL; experience with at
+    least one ORM or query builder (e.g. Prisma, Knex,
+    TypeORM, Drizzle)
+  - You've built and run asynchronous processing in production -
+    queues or background jobs (e.g. SQS, RabbitMQ, Kafka,
+    BullMQ) and caching (e.g. Redis)
+  - You write unit and integration tests, and you know how to
+    run integration tests against a real database rather than
+    mocking it away
+  - Hands-on cloud experience in a production project (AWS
+    preferred, but GCP or Azure count too) - you've deployed
+    and operated a service (e.g. queues, managed databases,
+    monitoring), not only used single managed services
+  - Practical experience with CI/CD pipelines and releases (e.g.
+    GitHub Actions)
+  - Docker in daily work - preparing and debugging a local
+    environment that mirrors production
+  - Coding agents (e.g. Claude Code, Cursor) in your daily
+    workflow - you can describe how you plan, steer, and
+    verify their output, and where you don't trust it
+
+  About you - Soft Skills:
+
+  - English at B2 or above to work directly with American
+    clients
+  - Polish at C1 or above for daily team communication
+  - You're comfortable picking up a new tool or stack when the
+    project calls for it
+  - You can translate business needs into technical solutions
+    and estimates, and explain trade-offs to non-technical
+    people
+  - You communicate risks and problems early and come with
+    proposed solutions
+  - You understand the significance of an MVP and balance speed
+    with quality under tight timelines
+  - You share knowledge - through code review, mentoring, or
+    internal talks
+
+  Nice to have:
+
+  - Contributing to AI-powered product features (e.g. LLM API
+    integrations, RAG, agents, MCP)
+  - Frontend experience (React preferred) - you've delivered at
+    least one feature end to end
+  - Infrastructure as Code (e.g. AWS CDK, Terraform)
+  - Experience with NoSQL or other non-relational data stores
+    alongside SQL
+  - Working at the very beginning of a product - building an MVP
+    from scratch
+  - Activities beyond the project: tech talks, trainings,
+    internal initiatives, technical recruitment
+
+  Recruitment Process:
+
+  - CV Review
+  - Phone call with our Recruiter (15min)
+  - Soft-skills interview with our Recruiter (40 min)
+  - Technical interview with our Senior Specialists (1,5h)
+  - Decision and feedback 🥳
+posted_date: 2026-11-23
+url: "https://builtin.com/job/middle-backend-developer-node-js/12416300"
+source: Built In

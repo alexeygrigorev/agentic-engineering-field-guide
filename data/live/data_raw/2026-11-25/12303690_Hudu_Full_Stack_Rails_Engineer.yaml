@@ -1,0 +1,157 @@
+job_id: 12303690
+title: Full Stack Rails Engineer
+company: Hudu
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 23 Employees
+description: |
+  About Hudu:
+
+  Hudu is a fast-growing SaaS platform built exclusively for
+  IT professionals and Managed Service Providers (MSPs). We
+  give teams a single, secure, and beautifully simple place to
+  store, organize, and share everything that keeps modern IT
+  environments running: passwords, network documentation,
+  processes, assets, client knowledge, and more. By replacing
+  scattered spreadsheets, outdated wikis, and a dozen
+  disconnected tools with one unified, customizable solution,
+  Hudu helps thousands of IT teams save time, reduce risk,
+  deliver better service, and scale with confidence.
+
+  About the role
+
+  We’re looking for a full-stack Rails engineer who enjoys
+  building things from the ground up. You’ll own work end to
+  end, from the data model to the interface customers use
+  every day, and help shape how new capabilities are designed
+  and built across our platform.
+
+  This role suits someone who likes ownership and early-stage
+  work: making architecture decisions, scoping first versions
+  with product and design, and improving quickly based on what
+  customers tell us. You’ll work alongside the engineers
+  behind Hudu and Radar, with the support of a mature
+  engineering team.
+
+  What you'll do
+
+  - Lay the foundations for new capabilities, making and
+    documenting architecture decisions on data models,
+    background jobs, and service boundaries that will hold up
+    as they grow.
+  - Ship features end to end across the stack: database, models,
+    controllers, APIs, and user interface.
+  - Design and build RESTful APIs, including integrations with
+    Hudu's existing products and third-party platforms.
+  - Turn designs into responsive, accessible interfaces using
+    Hotwire (Turbo Frames, Turbo Streams, and Stimulus).
+  - Partner with product and design to shape requirements, scope
+    early versions, and iterate based on customer feedback.
+  - Write well-tested code using test-driven development, and
+    give and receive thoughtful code reviews.
+  - Help set up the product's deployment pipeline, monitoring,
+    and error tracking, and own its performance and
+    reliability once it's in customers' hands.
+  - Keep the team informed on progress, tradeoffs, and blockers
+    in a remote, async environment.
+  - Help set up deployment pipelines, monitoring, and error
+    tracking, and own performance and reliability once your
+    work is in customers’ hands.
+
+  What you'll need
+
+  - 4+ years of experience building production applications with
+    Ruby on Rails.
+  - Strong full-stack skills: ActiveRecord and relational
+    database design, routing, controllers, service objects,
+    and background jobs, plus modern HTML, CSS, and
+    JavaScript.
+  - Experience building and maintaining RESTful APIs.
+  - Experience with Hotwire or a similar server-rendered front-
+    end approach, and a track record of turning UI/UX designs
+    into polished, user-friendly interfaces.
+  - A history of shipping features with real ownership, from
+    idea to production.
+  - Comfort with ambiguity: you can make pragmatic tradeoffs
+    early in a product's life and know when to revisit them.
+  - A habit of writing clean, well-tested, maintainable code,
+    and experience with Git and pull-request-based review.
+  - Clear written and spoken communication in English,
+    especially in a remote team.
+
+  Nice to have
+
+  - Experience building a new product, or working as an early or
+    founding engineer.
+  - Experience building software for IT professionals, MSPs, or
+    other technical users.
+  - Experience with our tools: RSpec, Swagger/OpenAPI, GitHub
+    Actions, Docker, and Sentry.
+  - Experience with Dart and Flutter.
+  - Experience using AI tools such as Claude in your development
+    workflow.
+  - Experience building new products or capabilities from
+    scratch, or working as an early or founding engineer.
+
+  Our tech stack
+
+  - Our existing products are built with the latest Ruby on
+    Rails and Hotwire.
+  - We use RSpec and practice test-driven development.
+  - Our APIs follow REST and are documented with Swagger.
+  - We use GitHub for pull request review and GitHub Actions for
+    our deployment pipeline.
+  - We use Sentry for error reporting and Docker for development
+    and production.
+
+  Why Work at Hudu:
+
+  - Innovation & Impact: Rapid product evolution with regular
+    feature updates and new tools. Building tools that solve
+    real pain points for users.
+  - Customer Focus: High user satisfaction with ease of use,
+    powerful documentation capabilities, and strong product
+    support.
+  - Growth Mindset: A high-growth, startup environment where
+    team members can wear many hats, innovate, and grow with
+    the company.
+  - Benefits & Perks:
+    - Health Insurance
+    - 401k plan with company matching
+    - Paid time-off
+    - Flexible work hours
+    - Work Life Balance
+
+  Compensation for this role will be determined on several
+  factors, including but not limited to skills, experience,
+  education, and job-related qualifications. If you don’t meet
+  100% of the preferred qualifications, we still encourage you
+  to apply!
+
+  Hudu is proud to be an Equal Opportunity Employer. We value
+  diversity and are committed to providing an inclusive
+  workplace environment for all employees and applicants. We
+  do not discriminate based on race, color, religion or
+  religious creed, sexual orientation, gender identity or
+  expression, national origin, age, disability, veteran
+  status, or any other legally protected status. Reasonable
+  accommodations are available upon request throughout the
+  hiring process.
+
+  At Hudu, we believe in fairness and transparency throughout
+  our hiring process. We use AI-powered tools to support fair,
+  consistent, and efficient candidate evaluation and
+  application review. All final hiring decisions are made by
+  human reviewers, our hiring team.
+
+  Discover more and stay up to date with our latest news,
+  growth, and opportunities on our LinkedIn!
+industries:
+  - Information Technology
+  - Productivity
+  - Software
+  - Automation
+posted_date: 2026-11-18
+url: "https://builtin.com/job/full-stack-rails-engineer/12303690"
+source: Built In

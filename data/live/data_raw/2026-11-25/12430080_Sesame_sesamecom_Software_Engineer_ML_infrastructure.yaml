@@ -1,0 +1,152 @@
+job_id: 12430080
+title: Software Engineer, ML infrastructure
+company: Sesame (sesame.com)
+location: Bellevue, USA
+locations:
+  - Bellevue, USA
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 55 Employees
+description: |
+  About Sesame
+
+  Sesame believes in a future where computers are lifelike -
+  with the ability to see, hear, and collaborate with us in
+  ways that feel natural and human. With this vision, we're
+  designing a new kind of computer, focused on making voice
+  agents part of our daily lives. Our team brings together
+  founders from Oculus and Ubiquity6, alongside proven leaders
+  from Meta, Google, and Apple, with deep expertise spanning
+  hardware and software. Join us in shaping a future where
+  computers truly come alive.
+
+  About the role
+
+  Sesame trains and serves its own speech and conversational
+  models. Our goal for ML infrastructure is to keep pushing
+  back the limits on what the ML team can do: train what they
+  want at the scale they want, and get it into production,
+  without the platform getting in the way. GPUs are always in
+  high demand, our data keeps growing, and the models we serve
+  have to respond in real time, so getting there will take a
+  lot of clever engineering. We also want the tools to be
+  world-class. When someone uses the platform, we want them to
+  notice how well it was built.
+
+  We're looking for an infrastructure engineer to design and
+  build the systems that make that possible, from the clusters
+  we train on to the platform we serve from. Most of the hard
+  problems today are on the training side, so that's where
+  you'd start, but the role covers serving too. Some of our
+  capacity comes with a managed platform around it. The rest
+  is plain Kubernetes, where we have to create that platform
+  layer ourselves. We want someone with strong opinions about
+  how to do that and the ability to do it. It's a broad role,
+  and you'd have a lot of say in the direction we take.
+
+  Responsibilities:
+
+  - Drive the strategy for our GPU infrastructure across
+    training and serving: clusters, scheduling, storage, and
+    the tooling the ML team uses every day
+  - Design and build the platform the ML team runs on. You
+    decide the architecture, and you write the software
+  - Get more out of scarce GPUs. Build the scheduling policy
+    that decides which jobs run when there isn't room for all
+    of them, and make interrupted jobs pick up where they left
+    off
+  - Decide where training data and checkpoints are stored and
+    how they get to the GPUs. Our datasets are large enough
+    that moving them around can get very expensive
+  - Make and own architecture decisions. Explain the trade-offs
+    with data and revisit decisions as requirements or
+    evidence change. If self-hosting a parallel filesystem is
+    the best answer because the cloud's built-in storage isn't
+    fast enough, make that case with numbers and carry it
+    through
+  - Automate everything you can, especially with agents. Build
+    closed-loop solutions that cut off toil at the source
+  - Find the bottleneck in a slow training run, whichever layer
+    it's in: checkpoint writes, data loading, the network, one
+    bad node. Fix it with data
+  - Go where the problem is. One quarter that's the training
+    scheduler, the next it's storage, data, or serving
+  - Work with the ML team every day. You're the link between
+    what researchers need and what the software and
+    infrastructure teams build
+
+  Required qualifications:
+
+  - Infrastructure is what you do. You care about scale,
+    reliability, and performance, and you judge your work by
+    how fast the ML team can move
+  - 8+ years of software engineering experience, with
+    significant time in infrastructure, platform, or ML
+    systems roles.
+  - You've designed and built infrastructure other engineers ran
+    their work on: a scheduler, a compute or storage platform,
+    a cluster control plane. You made the design decisions and
+    wrote the code, and you can name a decision you'd undo if
+    you built it again
+  - You're really good at Kubernetes or a similar compute
+    platform, past the point of using it. You've written
+    controllers or operators, extended a scheduler, or
+    debugged your way into the internals
+  - You've worked hands-on with GPUs. You can debug them, and
+    you can explain why GPU infrastructure is different from
+    everything else you've run. That experience can come from
+    training, serving, or somewhere else
+  - You know how large-scale multi-node training jobs behave,
+    how they fail, and what preemption does to them
+  - You have strong storage fundamentals. You can walk through a
+    real decision where you chose block, object, or a parallel
+    filesystem for a workload, with the throughput and cost
+    numbers behind it
+  - You can say when Kubernetes, Ray, or Slurm is the right base
+    for training and for serving, from having used them
+  - You explain complicated things clearly to people who don't
+    share your background
+
+  Preferred Qualifications:
+
+  - Model serving infrastructure at scale (vLLM, Triton, KServe,
+    or similar)
+  - You've built or run a shared training cluster with a batch
+    scheduler (Volcano, Kueue, Slurm, or similar)
+  - You've built or worked on a GPU cloud or an internal
+    training platform at a company that trains its own models
+  - You've run a parallel filesystem in production (Weka,
+    Lustre, VAST, GPFS)
+  - High-performance networking for training: RDMA over
+    InfiniBand or RoCE, and NCCL
+  - Enough PyTorch distributed training to debug a job alongside
+    the researcher who wrote it
+  - GCP and GKE
+  - You've been a tech lead and still write code every day
+  - You've gone all in on agentic coding and it shows in how you
+    work
+
+  Sesame is committed to a workplace where everyone feels
+  valued, respected, and empowered. We welcome all qualified
+  applicants, embracing diversity in race, gender, identity,
+  orientation, ability, and more. We provide reasonable
+  accommodations for applicants with disabilities. Contact
+  careers@sesame.com for assistance.
+
+  Full-time Employee Benefits:
+
+  - 401 (k) max employer match: 3.5% of compensation
+  - 100% employer-paid health, vision, and dental benefits for
+    you and your dependents
+  - Unlimited PTO and sick time
+  - Flexible spending account with employer matching up to
+    $1,650/year (medical FSA)
+  - Guardian Employee Assistance Program (EAP)
+  - Opportunity to share in the company's success with
+    competitive stock options
+
+  Benefits do not apply to contingent/contract workers.
+posted_date: 2026-11-24
+url: "https://builtin.com/job/software-engineer-ml-infrastructure/12430080"
+source: Built In

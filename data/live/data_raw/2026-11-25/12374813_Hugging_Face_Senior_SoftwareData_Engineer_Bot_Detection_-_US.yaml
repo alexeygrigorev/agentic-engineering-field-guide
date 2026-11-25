@@ -1,0 +1,139 @@
+job_id: 12374813
+title: Senior Software/Data Engineer, Bot Detection - US Remote
+company: Hugging Face
+location: New York, USA
+remote: true
+work_type: FULL_TIME
+company_size: 175 Employees
+description: |
+  At Hugging Face, we're on a journey to democratize good AI.
+  We are building the fastest growing platform for AI builders
+  with over 20 million users who collectively shared over 4
+  million models, 1 million datasets & 1.5 million apps. Our
+  open-source libraries have more than 700,000 stars on
+  Github.
+
+  About the Role
+
+  Hugging Face hosts millions of models, datasets and Spaces,
+  and serves a very large community of developers. With that
+  scale comes automated abuse: fake accounts, scraping, spam,
+  and bots gaming downloads, likes and trending signals. We're
+  building a small, dedicated bot-detection effort inside our
+  Trust & Safety team, and we're looking for an engineer to
+  own the data and modeling side of it.
+
+  You'll turn large volumes of traffic, account and behavioral
+  data into reliable decisions about what is human, what is
+  automated, and what is abusive. You'll work hand-in-hand
+  with our signals-focused bot-detection engineer, from raw
+  telemetry all the way to production detection and
+  enforcement.
+
+  What you'll do
+
+  - Build and run detection pipelines on large-scale traffic and
+    activity data (requests, sessions, accounts, repo
+    interactions, API usage)
+  - Develop and deploy detection models and heuristics: anomaly
+    detection, clustering of coordinated activity, graph-based
+    approaches, supervised classifiers where labels exist
+  - Define features from client and network signals together
+    with the signals engineer, and measure how robust they are
+    as attackers adapt
+  - Build the feedback loops: labeling, evaluation, false-
+    positive monitoring, dashboards, alerting
+  - Investigate live campaigns end-to-end (fake account waves,
+    metric inflation, large-scale scraping) and turn what you
+    learn into durable detections
+  - Keep things proportionate and privacy-respecting, and
+    minimize impact on legitimate users and automated-but-
+    legitimate workloads (CI, research crawlers, integrations)
+
+  Requirements
+
+  - You have strong experience applying data science or ML to
+    adversarial problems in production: bot detection, fraud,
+    abuse, spam, security analytics or similar
+  - You're fluent in Python and SQL, and comfortable with large-
+    scale data tooling (Spark, ClickHouse, BigQuery, or
+    similar)
+  - You've taken models or detection logic from exploration to
+    production and kept them working over time
+  - You understand web traffic and network data well enough to
+    reason about what a signal really means and how it can be
+    spoofed
+  - You think in terms of precision/recall trade-offs, attacker
+    adaptation and operational cost, not just offline metrics
+  - You're pragmatic, autonomous, and you enjoy working closely
+    with one or two people in a fast-moving team
+
+  Nice to have
+
+  - Published work on bot detection, web measurement or
+    adversarial ML (a PhD is welcome but not required, as long
+    as you want your work running in prod)
+  - Experience with graph analytics or streaming detection
+  - Familiarity with the ML/open-source ecosystem and the
+    Hugging Face Hub
+
+  One more thing
+
+  At Hugging Face we believe great AI shouldn't require a
+  massive cluster, we build for everyone, especially the GPU-
+  poor. And because we read every application, here's a small
+  sign that you read this one too: start your answer to the
+  first application question with the words “GPU-poor and
+  proud 🤗”. No trick, no catch, it just tells us a real person
+  is on the other side.
+
+  Benefits
+
+  More about Hugging Face
+
+  We are actively working to build a culture that values
+  diversity, equity, and inclusivity. We are intentionally
+  building a workplace where people feel respected and
+  supported—regardless of who you are or where you come from.
+  We believe this is foundational to building a great company
+  and community. Hugging Face is an equal opportunity employer
+  and we do not discriminate on the basis of race, religion,
+  color, national origin, gender, sexual orientation, age,
+  marital status, veteran status, or disability status.
+
+  We value development. You will work with some of the
+  smartest people in our industry. We are an organization that
+  has a bias for impact and is always challenging ourselves to
+  continuously grow. We provide all employees with
+  reimbursement for relevant conferences, training, and
+  education.
+
+  We care about your well-being. We offer flexible working
+  hours and remote options. We offer health, dental, and
+  vision benefits for employees and their dependents. We also
+  offer parental leave and flexible paid time off.
+
+  We support our employees wherever they are. While we have
+  office spaces in NYC and Paris, we're very distributed and
+  all remote employees have the opportunity to visit our
+  offices. If needed, we'll also outfit your workstation to
+  ensure you succeed.
+
+  We want our teammates to be shareholders. All employees have
+  company equity as part of their compensation package. If we
+  succeed in becoming a category-defining platform in machine
+  learning and artificial intelligence, everyone enjoys the
+  upside.
+
+  We support the community. We believe major scientific
+  advancements are the result of collaboration across the
+  field. Join a community supporting the ML/AI community.
+industries:
+  - Artificial Intelligence
+  - Machine Learning
+  - Natural Language Processing
+  - Software
+  - Generative AI
+posted_date: 2026-11-20
+url: "https://builtin.com/job/senior-software-data-engineer-bot-detection-us-remote/12374813"
+source: Built In

@@ -1,0 +1,150 @@
+job_id: 11825033
+title: Engineering Manager, Product
+company: Doctronic
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 22 Employees
+description: |
+  Engineering Manager, ProductDoctronic | New York City or San
+  Francisco (hybrid) | Full time
+
+  The role
+
+  Doctronic gives people free, private access to AI health
+  guidance and affordable visits with human physicians.
+  Millions of consultations already flow through the product.
+
+  We are hiring an Engineering Manager to lead a team building
+  Doctronic’s products and the AI systems behind them. You
+  will develop engineers, shape technical direction, and turn
+  ambiguous product needs into software that works reliably in
+  production.
+
+  This is a hands-on management role. You will work in the
+  codebase, guide architecture, review changes, debug
+  production issues, and ship alongside your team. You will be
+  accountable for team health, technical quality, delivery,
+  and the impact of what you build.
+
+  We expect engineering leaders to work AI-natively. Coding
+  agents are part of daily delivery across planning,
+  implementation, testing, review, and debugging. You should
+  have strong opinions grounded in practice about how to
+  direct agents, validate their work, and help a team
+  accomplish more with them. You remain responsible for the
+  decisions and correctness of what ships.
+
+  What you will do
+
+  - Lead and grow a team of product engineers through clear
+    expectations, coaching, direct feedback, and high
+    standards.
+  - Partner with product, design, clinical, AI, and operations
+    teams to understand problems, set priorities, and define
+    what success looks like.
+  - Turn incomplete requirements into focused projects, make
+    technical tradeoffs, and keep the team shipping through
+    short planning cycles.
+  - Contribute production code, lead technical investigations,
+    review changes, and help resolve difficult implementation
+    and production problems.
+  - Guide work across user experiences, backend services, data
+    models integrations, and AI workflows. Help engineers own
+    complete solutions across those boundaries.
+  - Turn AI capabilities into useful product behavior, with
+    clear interfaces, reliable orchestration, appropriate
+    safeguards, and evaluations that reflect real use.
+  - Make coding agents and automation effective across the team.
+    Improve how work is scoped, context is supplied, results
+    are verified, and repeated work becomes reusable tooling.
+  - Own the operation of the services your team ships,
+    partnering with Platform on shared infrastructure,
+    tooling, and standards.
+  - Review product usage, user feedback, AI evaluations, and
+    production performance after launch. Use what you learn to
+    improve the product and the team’s decisions.
+  - Hire strong engineers and build a team that can take on
+    broader scope as Doctronic grows.
+
+  What we are looking for
+
+  - Experience managing and developing engineers who build and
+    operate user-facing products or the systems behind them.
+  - A strong software engineering background and the current
+    ability to contribute production code and work through
+    difficult technical problems.
+  - Experience shipping across frontend and backend systems,
+    with depth in at least one area and the ability to lead
+    work across the rest.
+  - Good product judgment: you can clarify the problem,
+    challenge assumptions, choose an appropriate scope, and
+    connect engineering decisions to user outcomes.
+  - Daily experience directing coding agents and evidence that
+    you have improved how a team builds software with them.
+  - Practical judgment about AI systems, including where to use
+    models and agents, how to evaluate their behavior, and
+    where explicit controls and human judgment are needed.
+  - A record of improving engineering throughput while
+    maintaining quality, reliability, and maintainability.
+  - Experience hiring, coaching, giving direct feedback, and
+    helping engineers grow.
+  - Sound decisions about patient safety, privacy, security,
+    accessibility, and production reliability.
+  - Clear communication across engineering and company
+    leadership, including the ability to explain tradeoffs and
+    surface risks early.
+
+  Many candidates will have eight or more years of engineering
+  experience, including two or more years managing engineers.
+  We care more about the products you shipped, the engineers
+  you developed, and your contribution to both than a specific
+  degree, title, or exact tool match. Experience with AI
+  products, agent orchestration, evaluation systems,
+  healthcare, or another regulated field is useful but not
+  required.
+
+  Production stack
+
+  Our product includes a Next.js, React, and TypeScript web
+  application; native iOS and Android apps written in Swift
+  and Kotlin; and Python and FastAPI services. Backend systems
+  use MariaDB, SQLAlchemy, Redis, and Celery. Services run in
+  Docker on AWS ECS and integrate with AI providers,
+  telehealth systems, healthcare APIs, and FHIR-based
+  workflows. You do not need experience with every part of the
+  stack, but you should be comfortable learning unfamiliar
+  systems and contributing across product and backend code.
+
+  How we work
+
+  - A small, senior engineering team with high autonomy.
+  - Managers stay close to the work and ship alongside their
+    teams.
+  - Teams own projects from initial definition through launch,
+    iteration, and production support.
+  - Short planning cycles and frequent releases.
+  - High standards for patient safety, privacy, reliability, and
+    code quality.
+
+  Compensation and benefits
+
+  - New York City and San Francisco base salary: $200,000 to
+    $300,000, plus equity.
+  - Benefits & 401k
+
+  About Doctronic
+
+  At doctronic.ai, people can receive free, private AI health
+  guidance and connect with human physicians for affordable
+  visits. We build products for patients, clinicians, and
+  healthcare partners to help people move from questions about
+  their health to care.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+posted_date: 2026-10-23
+url: "https://builtin.com/job/engineering-manager-product/11825033"
+source: Built In

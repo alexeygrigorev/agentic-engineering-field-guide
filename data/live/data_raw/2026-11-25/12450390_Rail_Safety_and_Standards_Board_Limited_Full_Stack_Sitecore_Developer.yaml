@@ -1,0 +1,173 @@
+job_id: 12450390
+title: Full Stack Sitecore Developer
+company: Rail Safety and Standards Board Limited
+location: London, GBR
+work_type: FULL_TIME
+company_size: 756 Employees
+description: |
+  Overview
+
+  RSSB are now seeking a Full Stack Sitecore Developer to join
+  the the web engineering team, leading the planning and
+  delivery of work across several Sitecore websites and system
+  integrations.   In this role, you will contribute to the
+  development and implementation of the team's code standards,
+  best practices and operational procedures.
+
+  This is a two-year fixed-term opportunity based at our
+  Fenchurch Avenue office, with hybrid working – expectations
+  being 1 day per week in the office on average. The closing
+  date for applications is 8 December 2026, and interviews are
+  expected to take place during December 2026.
+
+  Responsibilities
+
+  Delivery and technical leadership
+
+  - Design, build and maintain the web platform, with Sitecore
+    as the current CMS. Make sound technical decisions within
+    agreed architecture and standards.
+  - Own the timely, high-quality delivery of the CMS, back-end
+    and integration elements of software projects.
+  - Lead the technical definition of project planning: scope,
+    estimates, forecasting and the skills required.
+  - Follow, improve and evolve engineering processes: trunk-
+    based development, pull request review, unit and
+    integration testing, coding standards, CI/CD (Azure
+    DevOps, Docker, AKS) and technical documentation.
+
+  Architecture and CMS portability
+
+  - Keep a clean separation between content and presentation.
+    Use the headless rendering layer (Next.js/React) and a
+    shared design system, so the front end isn't tied to one
+    CMS.
+  - Isolate CMS-specific code (content models, serialisation,
+    layout and API access) behind well-defined interfaces, so
+    a future CMS migration is low-risk.
+  - Design content models, templates and components that are
+    portable and additive/backward-compatible.
+  - Follow architecture, design, implementation and security
+    standards.
+
+  Engineering
+
+  - Write simple, clear, testable code across .NET/Sitecore and
+    TypeScript/React.
+  - Build reusable components and building blocks (Helix
+    modules, design-system components) that speed-up delivery.
+  - Design and implement integrations with internal and third-
+    party systems (APIs, search, data and identity services).
+  - Build prototypes and proofs of concept.
+  - Write unit and integration tests. Carry out functional and
+    performance testing where appropriate.
+  - Diagnose and fix performance and reliability issues across
+    the CMS, rendering and infrastructure.
+  - Create and manage configuration for packaged software and
+    platform services. Review new releases and recommend
+    features that deliver business value.
+  - Use AI-assisted development tools (e.g. GitHub Copilot,
+    agents and MCP servers) responsibly to speed-up delivery,
+    testing and documentation. Always review and own the
+    quality, security and licensing of generated code.
+
+  Collaboration and quality
+
+  - Work with business stakeholders, product owners, project
+    managers and end users to turn functional and non-
+    functional requirements into solutions.
+  - Investigate design and development problems and propose
+    solutions.
+  - Take part in code reviews and pair programming.
+  - Write technical documentation: design, test results,
+    runbooks and technical manuals.
+  - Support disaster recovery (DR) and business continuity (BC)
+    planning and testing.
+  - Coach and mentor colleagues, and share knowledge so the team
+    isn't dependent on one platform or person.
+
+  Qualifications
+
+  Essential:
+
+  - BSc in a scientific or computer science discipline, or
+    equivalent practical experience.
+  - Proven Sitecore Helix experience.
+  - Sitecore Experience Accelerator (SXA) experience, including
+    custom variants and pipelines.
+  - Sitecore 10 .NET Developer Certification.
+  - C#, ASP.NET MVC and .NET (Framework, with .NET Core/modern
+    .NET as a plus).
+  - Modern front end: TypeScript, React and Next.js. Experience
+    with Sitecore JSS or another headless approach is an
+    advantage.
+  - Able to build accessible, responsive, reusable user
+    interfaces using HTML5, CSS/Sass, Bootstrap and
+    JavaScript/TypeScript, supported by a component library
+    and npm-based tooling. Able to maintain legacy jQuery code
+    where needed.
+  - Integration experience with REST/APIs and third-party
+    services: search (such as SearchStax/Solr), identity and
+    SSO, analytics and reporting (such as Power BI).
+  - Azure DevOps repos (Git) and pipelines (CI/CD), agile and
+    sprint delivery.
+  - Microsoft Azure (PaaS and IaaS), MS SQL Server and
+    PowerShell scripting.
+  - Willingness to work with AI coding assistants (e.g. GitHub
+    Copilot) and to validate their output critically.
+
+  Desirable:
+
+  - Relevant Microsoft Azure certifications.
+  - Docker, containers and Kubernetes.
+  - Sitecore Analytics and Personalization (xConnect/xDB).
+  - Experience with other CMS platforms such as XM Cloud,
+    Contentful, Umbraco or Optimizely, or with headless and
+    composable architecture.
+
+  Why Join RSSB?  
+
+  We value our people and offer a competitive benefits
+  package, including:  
+
+  - 30 days annual leave (plus bank holidays)
+  - Private medical and dental cover
+  - Flexible and hybrid working options
+  - Season ticket loan and travel subsidy
+  - Cycle to work scheme
+  - Volunteer leave
+  - Performance-related bonus
+  - Pension scheme
+  - Learning and development opportunities
+
+  Ready to Apply?  
+
+  If you're ready to take the next step in your career with
+  RSSB, we’d love to hear from you. Apply now.  
+
+
+
+  We understand the importance of work-life balance, and we
+  offer our staff the flexibility to work within our core
+  hours and the option to vary their location between both the
+  office and home. If you are looking for further flexibility,
+  speak to us at interview stage so that we can consider your
+  request.  
+
+  We value diversity and equal opportunities in employment and
+  are committed to creating a workplace which is inclusive to
+  everyone. As a member of the Disability Confident Scheme, we
+  encourage candidates with disabilities who meet the minimum
+  criteria, to apply for our jobs. If you have applied under
+  the Disability Confident Scheme, please let us know in
+  advance by emailing vacancies@RSSB.CO.UK Find out more about
+  Diversity and Inclusion at RSSB: Rail Safety and Standards
+  Board Careers - VERCIDA  
+
+  If you require any reasonable adjustments with respect to
+  our selection process including information in an
+  alternative format, please contact us at
+  vacancies@rssb.co.uk
+posted_date: 2026-11-24
+url: "https://builtin.com/job/full-stack-sitecore-developer/12450390"
+source: Built In

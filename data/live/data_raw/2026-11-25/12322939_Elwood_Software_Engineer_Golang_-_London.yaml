@@ -1,0 +1,119 @@
+job_id: 12322939
+title: Software Engineer (Golang) - London
+company: Elwood
+location: London, GBR
+work_type: FULL_TIME
+company_size: 109 Employees
+description: |
+  Job Title: Software EngineerLocation: London/Hybrid
+  Type: Full-timeLevel: Mid Level
+  Reports to: EMS Engineering Lead
+
+  About Elwood
+
+  Elwood Technologies is a FCA regulated firm that provides
+  end-to-end digital asset Execution Management, and Risk
+  Management Software to institutional clients. We are now
+  looking for a Software Engineer to work on our EMS platform
+  within the Engineering Team.
+
+  Job Description
+
+  We are seeking a highly skilled Golang Software Engineer to
+  join our team responsible for designing, building, and
+  optimising a next-generation multi-region, multi-tenanted
+  Execution Management System (EMS) platform.
+
+  The ideal candidate will have experience building
+  concurrent, performance sensitive systems where correctness
+  and high availability are maintained across multiple regions
+  to meet the stringent demands of our global trading
+  customers.
+
+  Key Responsibilities
+
+  - Platform Development: Design and implement low-latency,
+    high-throughput systems for a multi-region, multi-tenanted
+    EMS platform, ensuring compliance with industry standards.
+  - Latency Optimisation: Analyse and optimise critical paths in
+    the system to reduce latency and improve performance.
+  - Distributed Systems: Maintain distributed, fault-tolerant
+    systems with high availability across multiple regions,
+    ensuring data consistency and low-latency communication.
+  - Monitoring & Observability: Implement real-time monitoring,
+    telemetry and alerting systems for proactive issue
+    detection and resolution.
+  - Collaboration: Work closely with product, QA and
+    infrastructure teams to align technical solutions with
+    business requirements and ensure seamless deployments.
+  - Code reviews: Review teammates' code with rigour and help
+    raise the team's collective standard.
+  - AI-Assisted Development: Use AI coding assistants heavily
+    and critically - catching what they get wrong is part of
+    the job.
+
+  Qualifications / Knowledge
+
+  - 5+ years professional backend engineering, including
+    concurrent, performance sensitive systems.
+  - Hands-on production GOLANG expertise. You should be able to
+    walk through a non-trivial Go system you built and defend
+    its design. C++ or Rust experience is a plus.
+  - Experience with distributed systems and event-driven
+    architectures (e.g. Nats, Aeron)
+  - Knowledge of multi-tenancy patterns and best practices.
+  - Familiarity with cloud platforms (e.g. AWS, GCP, Azure) and
+    tools for multi-region deployments.
+  - A working knowledge of databases and caches (PostgreSQL,
+    SQLite, Redis, Zookeeper).
+  - Experience with observability tools (e.g. Prometheus,
+    Grafana, ELK stack).
+
+  Soft Skills:
+
+  - Strong analytical and problem-solving abilities.
+  - Excellent communication and collaboration skills, with a
+    track record of working in cross-functional teams.
+  - Attention to detail and ability to work under pressure in a
+    fast-paced environment.
+  - Understanding of crypto markets and products (Desirable).
+  - Experience in leveraging LLMs to accelerate delivery.
+  - Financial Services experience is desired along with a
+    background in trading/EMS platforms.
+
+  What we offer:
+
+  💵  Competitive salary and compensation packages
+
+  🍎 Fully paid medical and discounted dental schemes for
+  employees and their family
+
+  ✈️ Generous time off + bank holidays
+
+  🍼 Enhanced parental leave for all employees who have been
+  with the company for one (1) year
+
+  🍔 Modern offices with snacks and a weekly Ubereats allowance
+
+  💪 Free onsite gym
+
+  🐕‍ Employee Assistance Programme
+
+  📚 Paid study leave and personal leave
+
+  Why Elwood?
+
+  - Join a series A FinTech company  and help shape the future
+    of finance
+  - A startup with deep financial backing and a strong market
+    presence
+  - Our platform is enabling institutional access to the most
+    exciting growth opportunity in Finance
+  - Work with a modern technology stack and help solve high
+    impact problems
+  - Strong client focused team with a diverse background
+  - We’re a Global company and have modern, centrally based
+    offices in London, New York and Singapore.
+posted_date: 2026-11-18
+url: "https://builtin.com/job/software-engineer-golang-london/12322939"
+source: Built In

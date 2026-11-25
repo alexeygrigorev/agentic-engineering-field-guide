@@ -1,0 +1,222 @@
+job_id: 12345845
+title: Principal Software Engineer (f/m/d)
+company: Awin
+location: Iași, ROU
+locations:
+  - Iași, ROU
+  - Milan, ITA
+  - Berlin, DEU
+  - Munich, DEU
+  - Amsterdam, NLD
+  - Warsaw, POL
+  - Paris, FRA
+  - Hanover, DEU
+  - London, GBR
+  - Madrid, ESP
+  - Manchester, GBR
+work_type: FULL_TIME
+company_size: 121990 Employees
+description: |
+  The role
+
+  Reporting directly to the VP Technology, you'll build new
+  capability for Awin with AI at the core, free from the
+  constraints of our established delivery model. You'll take
+  ideas from concept to production quickly, prove what works,
+  and turn the best of it into patterns the wider engineering
+  organisation can adopt.
+
+  You'll work closely with product and commercial leaders to
+  find where AI changes the economics of our affiliate
+  marketing platform: what we can build, how fast, and at what
+  cost. You'll be hands-on most of the time, writing code,
+  shipping and measuring results, rather than coordinating
+  others.
+
+  You'll know enough of our existing platform to connect new
+  things to it safely, but you won't be absorbed into running
+  it. Your job is to show what modern, AI-native engineering
+  looks like at Awin, and make it real.
+
+  This is a step-up opportunity. We're looking for a bright,
+  self-starting engineer who is ready for more scope than
+  their current role allows. You might not have held a
+  principal title yet. What matters is that you're already
+  building this way, you learn fast, and you want the room to
+  prove it. You'll have direct access to senior leadership,
+  real problems with commercial weight, and the freedom to
+  choose how you solve them.
+
+  Key tasks and accountabilities
+
+  Build and ship
+
+  - Design, build and run AI-powered products, tools and
+    services from prototype to production
+  - Own outcomes end to end: problem framing, architecture,
+    implementation, evaluation, release and operation
+  - Run fast, time-boxed experiments; scale what works and stop
+    what doesn't, with the evidence to back either call
+  - Set up and evolve the AI infrastructure these builds rely
+    on: model access, evaluation tooling, observability and
+    guardrails
+
+  Shape direction
+
+  - Work with the VP Technology to set Awin's engineering-
+    specific AI direction, grounded in what has actually been
+    built and measured
+  - Scope strategic opportunities early with product and
+    commercial leaders, with effort, cost and value made
+    explicit
+  - Make clear recommendations on build vs buy, model and vendor
+    choice, and where AI should not be used
+
+  Architecture and design
+
+  - Design new capability so it connects safely to the existing
+    platform: APIs, events, data and identity
+  - Select tools and technologies, and define the patterns and
+    practices for AI-native development at Awin
+  - Weigh long-term maintainability, economic viability and
+    reuse against speed, and document the trade-offs
+
+  Spread what works
+
+  - Turn proven builds into reusable patterns, templates and
+    internal tools, and share them so other teams can adopt
+    them without hand-holding
+
+  Ways of working
+
+  - Works autonomously, guided by the VP Technology's priorities
+    rather than team-level delivery processes
+  - Engages directly with engineering, product, data, security
+    and commercial stakeholders as each build requires
+
+  Skills & Expertise
+
+  AI-native engineering
+
+  - Builds with coding agents (e.g. Claude Code, Cursor, Codex)
+    as the default way of working. Can show how they decompose
+    work, manage context and review agent output to get
+    production-quality code at pace
+  - Has shipped LLM-powered features to production: prompt and
+    context engineering, tool use and function calling,
+    structured outputs, retrieval (RAG) and multi-step agent
+    workflows
+  - Builds evaluations first: test sets, automated evals and
+    regression checks for non-deterministic behaviour, with
+    quality measured before and after release
+  - Connects models to enterprise systems and data safely, e.g.
+    MCP servers, internal APIs and event streams, with clear
+    permissions and audit trails
+  - Understands model selection, token economics, latency,
+    caching and fallback strategies, and can explain cost and
+    benefit trade-offs to commercial stakeholders
+  - Designs for AI-specific security and privacy risks: prompt
+    injection, data leakage, PII handling under GDPR, and
+    guardrails on what models can do
+
+  Engineering foundations
+
+  - Expert in at least one modern language (Python or TypeScript
+    ideal), and able to work in our existing Java, PHP and
+    JavaScript estate when integrating
+  - Strong cloud-native and serverless architecture on AWS, with
+    infrastructure as code (Terraform)
+  - Experience with event-driven and distributed systems
+    (Kafka/MSK, SQS/SNS) and with relational and non-
+    relational data stores
+  - Builds observability into everything: tracing, logging and
+    monitoring, including LLM-specific telemetry
+  - Treats automated testing, CI/CD and secure-by-default design
+    as standard, and automates as much of the delivery loop as
+    possible
+
+  Ways of building
+
+  - Takes an idea to a working prototype in days, then hardens
+    it for production, and knows when to stop
+  - Leaves behind reusable patterns, templates and internal
+    tools, not one-off solutions
+
+  Soft skills
+
+  - Bias to action: ships, measures and iterates rather than
+    waiting for perfect requirements
+  - Comfortable with ambiguity: frames vague opportunities into
+    concrete, testable bets
+  - Commercially minded: connects technical choices to revenue,
+    cost and customer outcomes, and balances effort against
+    value
+  - Intellectually honest: kills their own ideas when the
+    evidence says so, and says plainly where AI is not the
+    answer
+  - Clear communicator: explains technical trade-offs to
+    executives, engineers and commercial teams in language
+    each understands, in writing and in person
+  - Influences without authority: gets teams to adopt new
+    patterns because they work, not because they're mandated
+
+  Our Offer
+
+  - Flexi-Week: We prioritise your mental health and wellbeing
+    by offering you a four-day Flexi-Week (with one lighter or
+    completely disconnected day per week) at full pay, with no
+    reduction to your annual holiday allowance.
+  - Flexi-office: We offer an international culture and
+    flexibility through our hybrid/remote working scheme which
+    is designed to foster a culture of mutual trust and
+    working flexibility.
+  - Work Expense Contribution & Remote Working Furniture: You
+    will receive a monthly allowance to cover part of your
+    running costs, as well as a furniture package to support
+    you in setting up a comfortable workspace when working
+    from home.
+  - Health and Wellbeing: With our support and access to various
+    initiatives and sports offers, you can focus on your
+    mental and physical wellbeing.
+  - Development: We’ve built our extensive training suite, Awin
+    Academy, to cover a wide range of skills that support your
+    professional and personal growth, with trainings
+    conveniently packaged to help your overall development.
+  - Appreciation: Thank and reward colleagues by sending them a
+    voucher through our peer-to-peer recognition programme.
+
+  We are hiring in multiple countries for this role.
+  Additional benefits, including health and wellbeing
+  offerings, will be discussed during the initial interview.
+
+  Established in 2000, Awin is proud of our dynamic, social
+  and inclusive culture.
+
+  Like all businesses, we’ve had to adapt and nurture our
+  culture in a virtual environment. Our virtual ‘Life @ Awin’
+  hub brings our colleagues from across the globe together for
+  various social activities.
+
+  Diversity & Inclusion are paramount to us, and we proudly
+  pursue and hire diverse team members. We champion uniqueness
+  and authenticity; this is who we are at our core. Our
+  network of affiliate partnerships are diverse and
+  transparent, as are the employees powering our vision to
+  build the world’s leading open partner ecosystem. We welcome
+  all backgrounds, identities, and experiences. If you need
+  support at any point in the application or interview
+  process, please let us know.
+
+  Awin is part of the Axel Springer group. Learn more at
+  axelspringer.com/en/, and explore the Axel Springer
+  Essentials here: axelspringer.com/en/inside/the-essentials-
+  what-we-have-adapted-and-why
+
+  Apply now to begin the next stage of your career at a
+  progressive company that supports both your professional and
+  personal development.
+
+  #LI-RS1
+posted_date: 2026-11-19
+url: "https://builtin.com/job/principal-software-engineer-f-m-d/12345845"
+source: Built In

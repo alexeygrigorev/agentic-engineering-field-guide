@@ -1,0 +1,112 @@
+job_id: 12440616
+title: Software Engineer, Infrastructure
+company: DatologyAI
+location: London, GBR
+work_type: FULL_TIME
+company_size: 24 Employees
+description: |
+  About the Company
+
+  Models are what they eat. But a large portion of training
+  compute is wasted training on data that are already learned,
+  irrelevant, or even harmful, leading to worse models that
+  cost more to train and deploy.
+
+  At DatologyAI, we’ve built a state of the art data curation
+  suite to automatically curate and optimize petabytes of data
+  to create the best possible training data for your models.
+  Training on curated data can dramatically reduce training
+  time and cost (7-40x faster training depending on the use
+  case), dramatically increase model performance as if you had
+  trained on >10x more raw data without increasing the cost of
+  training, and allow smaller models with fewer than half the
+  parameters to outperform larger models despite using far
+  less compute at inference time, substantially reducing the
+  cost of deployment. For more details, check out our recent
+  research on synthetic data scaling (BeyondWeb) and
+  pretraining with domain-specific data (The Finetuner’s
+  Fallacy).
+
+  We raised a total of $57.5M in two rounds, a Seed and Series
+  A. Our investors include Felicis Ventures, Radical Ventures,
+  Amplify Partners, Microsoft, Amazon, and AI visionaries like
+  Geoff Hinton, Yann LeCun, Jeff Dean, and many others who
+  deeply understand the importance and difficulty of
+  identifying and optimizing the best possible training data
+  for models. Our team has pioneered this frontier research
+  area and has the deep expertise on both data research and
+  data engineering necessary to solve this incredibly
+  challenging problem and make data curation easy for anyone
+  who wants to train their own model on their own data.
+
+  This is a hybrid role based in London, UK. Once our office
+  is up and running, the team will work on-site 4 days a week.
+
+  About the Role
+
+  We're looking for an experienced Infrastructure Engineer to
+  join as a member of our core Datology AI team. As one of our
+  early senior hires, you will partner closely with our
+  founders on the direction of our product and drive business-
+  critical technical decisions. You will lead the development
+  of our data infrastructure capabilities, including multi-
+  cloud support and support for various deployment models, as
+  well as training and inference infrastructure. You will have
+  a broad impact on the technology, product, and our company's
+  culture.
+
+  What You'll Work On
+
+  - Design and build the development and production platforms
+    that power our products, enabling reliability and security
+    at scale
+  - Architect, build, and deploy our core infrastructure while
+    supporting multiple cloud providers and various deployment
+    models
+  - Accelerate company productivity by empowering your fellow
+    engineers & teammates with excellent tooling and systems,
+    providing a best-in-case experience
+  - Partner with researchers and engineers to bring new features
+    and research capabilities to our customers
+
+  About You
+
+  - 4+ years of relevant experience
+  - Have meaningful experience in spearheading and constructing
+    large-scale infrastructure
+  - Proficiency in bash, Kubernetes, Python, and/or Terraform or
+    similar technologies
+  - Have experience working with AWS, other cloud platforms such
+    as Azure or GCP and/or on-prem environments
+  - Have expertise in debugging problems across the stack, such
+    as networking issues, performance problems, hardware
+    issues or memory leaks
+  - Take pride in building and operating scalable, reliable,
+    secure systems
+  - Have a humble attitude, an eagerness to help your
+    colleagues, and a desire to do whatever it takes to make
+    the team succeed
+  - Own problems end-to-end and are willing to pick up whatever
+    knowledge you're missing to get the job done
+
+  We would love it if you had:
+
+  - Built out data infrastructure from, or nearly from, scratch
+    at a fast-growing startup.
+  - Experience building ML/DL infrastructure and/or data
+    infrastructure that feeds into training large ML models
+
+  Compensation
+
+  £130,000 to £260,000 + Offers Equity
+
+  This is a position with Datology UK Limited, which controls
+  the hiring and management of this position. Total
+  compensation includes competitive salary, generous equity
+  and benefits.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-11-24
+url: "https://builtin.com/job/software-engineer-infrastructure/12440616"
+source: Built In

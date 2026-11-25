@@ -1,0 +1,189 @@
+job_id: 12266019
+title: Software Engineer, ML Infrastructure
+company: Fundbox
+location: New York, USA
+work_type: FULL_TIME
+company_size: 130 Employees
+description: |
+  Small businesses are the backbone of the American economy,
+  but they're constantly constrained by cash flow. We're
+  changing that. At Fundbox, we're building embedded lending
+  infrastructure that delivers unsecured working capital to
+  small businesses at the exact moment they need it: fast,
+  intuitive, and built into the software they already use. We
+  partner with industry-leading platforms to make financial
+  access feel invisible. This is mission-driven work with real
+  impact. Every system you build helps a small business grow,
+  hire, and thrive. We're scaling our US engineering presence
+  as part of a global team, and this is your chance to get in
+  early and shape how we build. We're looking for a software
+  engineer who followed the data. You built serious production
+  services first (APIs, distributed systems, things that had
+  to stay up), then moved into data engineering or ML
+  infrastructure because that's where the hard problems were.
+  Now you want a role that uses both halves. At Fundbox,
+  credit decisions are made by models, and those models are
+  only as good as the systems around them. You'll build the
+  services that power our lending products and partner
+  integrations, and you'll build the pipelines, feature
+  serving, and deployment paths that put our ML models into
+  those same services in real time. This isn't a role where
+  models get thrown over a wall; you'll own the path from
+  feature to decision. Immigration note: Applicants must be
+  currently authorized to work in the United States on a full-
+  time basis. Fundbox will not sponsor non-immigrant work
+  visas for this position. Job requirements We hire people we
+  trust and give them autonomy to do great work. High
+  ownership, low micromanagement: you'll own your domain and
+  make decisions without someone looking over your shoulder.
+  Independence doesn't mean isolation; we help each other
+  succeed through thoughtful code reviews and knowledge
+  sharing. High integrity, no politics, no BS. We move fast
+  but we're not a burnout culture. We're looking for people
+  who:
+
+  - Bring energy and drive to their work
+  - Have an ownership mentality and see problems through to
+    completion, not just to the ticket being closed
+  - Have a service mindset: enjoy helping internal partners,
+    answer questions clearly and patiently, and treat a
+    confused stakeholder as a signal to make things better
+  - Show intellectual curiosity: ask good questions, think
+    through edge cases, want to understand the "why"
+  - Have a bias toward action and are comfortable with ambiguity
+
+  Experience: 5+ years of software engineering, with
+  production backend services as your foundation and hands-on
+  data or ML infrastructure work along the way. Required:
+
+  - Strong backend engineering in Python, our primary language
+    (Java, Go, or another statically typed language also
+    works)
+  - Designing and building RESTful APIs and services in a
+    microservices / distributed systems environment
+  - Hands-on data engineering or ML infrastructure experience:
+    feature pipelines, model serving, training pipelines, or
+    real-time data systems in production
+  - Strong SQL and experience with database design and
+    performance
+  - AWS (or GCP/Azure) and containerization (Docker, Kubernetes)
+  - Solid CI/CD practice, and care for code quality, testing,
+    and system reliability
+  - Clear communication with non-engineers: you can explain data
+    and technical details to data scientists, risk analysts,
+    and business partners
+  - Comfortable collaborating across time zones with a remote
+    engineering team
+
+  Nice to have:
+
+  - MLOps tools and frameworks such as SageMaker, MLflow, or
+    Kubeflow
+  - Feature stores, streaming, or event-driven architectures
+    (message queues, Kafka or similar)
+  - API frameworks like FastAPI, Flask, or Django
+  - Model monitoring and drift detection in production
+  - Fintech, lending, credit, or payments experience
+  - Experience in an internal platform or developer-facing role
+    where other teams were your customers
+  - Contributing to system design decisions
+
+  A background that fits well: You spent your early career
+  building backend systems at a startup or fintech, then
+  gravitated toward the data and models those systems depended
+  on. You can debug a slow API and a stale feature in the same
+  afternoon, and you'd rather own the whole path than one
+  slice of it. Job responsibilities What makes this role
+  different:
+
+  - Both sides of the wall: You'll write product backend code
+    and ML platform code in the same quarter, often in the
+    same system. Few roles let you do both seriously.
+  - Models that move money: Our models decide who gets capital
+    and on what terms. Latency, correctness, and reliability
+    have real financial consequences.
+  - Close to the people who use your work: Data scientists and
+    our risk team rely on the features and pipelines you
+    build. You'll be their go-to partner for questions about
+    how features work, where data comes from, and why a number
+    looks the way it does.
+  - Global collaboration: You'll work closely with the core
+    platform team in Tel Aviv, plus engineers in Tbilisi:
+    different perspectives, follow-the-sun development, a
+    truly distributed engineering culture.
+  - Early-stage influence: You'll get architectural ownership
+    earlier than you would at a big tech company, with direct
+    influence on how our ML and data platform evolves as we
+    scale.
+
+  What you'll build:
+
+  - Credit infrastructure: Services for real-time credit
+    evaluation, underwriting, and decisioning, where model
+    outputs become lending decisions.
+  - Partner integrations: APIs that let software platforms embed
+    Fundbox, and the data flows that come back from them.
+  - Financial products: Lending products like term loans, lines
+    of credit, and merchant cash advances, and the
+    application, approval, servicing, and repayment flows
+    behind them.
+
+  ML and data platform:
+
+  - Feature pipelines: Robust, scalable systems for feature
+    engineering that serve both online (real-time) and offline
+    (training and batch) inference, with consistency between
+    the two.
+  - Model deployment and serving: Reliable paths for taking
+    models from a data scientist's notebook into low-latency
+    production services.
+  - CI/CD for models: Pipelines that support continuous model
+    updates, versioning, and safe rollouts and rollbacks.
+  - Monitoring: Logging and alerting that catch data drift,
+    model performance issues, and pipeline failures before
+    they reach a credit decision.
+  - Support for data science and risk: Work with data scientists
+    to develop and refine features, and be the first stop for
+    questions from data science and the risk team about
+    feature definitions, data lineage, and model inputs. When
+    the same question comes up twice, you improve the docs or
+    tooling so it doesn't come up a third time.
+  - Core platform partnership: Work with the core platform team
+    in Tel Aviv on shared services and infrastructure, and
+    with DevOps and DataOps to fit ML into our broader AWS
+    stack.
+
+  Benefits Compensation and equity
+
+  - Competitive base salary: $180,000 to $230,000 based on
+    experience and skills
+  - Performance bonus
+  - Equity in Fundbox (RSUs)
+
+  Benefits from day one
+
+  - Premium health coverage (multiple plans fully paid by
+    Fundbox)
+  - Generous PTO (vacation, sick time, company holidays)
+  - Monthly Uber Eats credit
+  - Commuter and wellness benefits with an annual individual
+    wellness budget
+  - Professional development budget
+  - Home office stipend
+  - 401(k), life insurance, and disability coverage
+
+  Work environment
+
+  - Hybrid (3 days/week) in the Meatpacking District
+    (Chelsea/West Village): Tuesdays, Thursdays, plus one day
+    of your choosing
+  - Collaboration with global engineering teams in Tel Aviv and
+    Tbilisi
+  - Great Place to Work certified (94% employee satisfaction)
+industries:
+  - Fintech
+  - Machine Learning
+  - Financial Services
+posted_date: 2026-11-16
+url: "https://builtin.com/job/software-engineer-ml-infrastructure/12266019"
+source: Built In

@@ -1,0 +1,217 @@
+job_id: 12350789
+title: Staff Software Engineer, AI Automation and Workflows
+company: AppOmni
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 156 Employees
+description: |
+  About AppOmni AppOmni is redefining SaaS security for the
+  age of agentic security operations. As AI transforms the way
+  security teams build, operate, and defend their
+  environments, AppOmni is pioneering a new approach to
+  securing the world’s most critical SaaS ecosystems.
+
+  From its roots as a leader in SaaS Security Posture
+  Management (SSPM), AppOmni is driving the next evolution of
+  SaaS security - bringing intelligence, automation, and
+  agentic capabilities into security operations. AppOmni
+  empowers organizations to move beyond traditional visibility
+  and posture management toward more intelligent, proactive,
+  and autonomous security.
+
+  Recognized as a Frost Radar™ 2025 Leader and Great Place To
+  Work®, AppOmni continues to set the standard for innovation
+  and customer value in SaaS security.
+
+  About the Role
+
+  This position in a rapidly growing security engineering
+  company is an opportunity to build the automation and AI
+  workflows behind AppOmni's security research. AppOmni Labs,
+  our security research team, writes the content behind our
+  SaaS Security Posture Management (SSPM) platform: posture,
+  detection and correlation rules. Much of a researcher's week
+  still goes to repeatable work: finding the right data,
+  checking how rules behave, and triaging schema changes and
+  various feedback signals. You will report to the Head of
+  Security Research Engineering and work day to day with
+  researchers and our data scientist. You will build ETL
+  pipelines that bring together data from our SaaS data lake,
+  intel feeds, rule telemetry and feedback signals, and build
+  AI workflows on top of them in which carefully chosen, cost-
+  effective LLMs triage issues and hand researchers a ranked,
+  explained queue. These are open engineering problems in a
+  part of the security industry without defined solutions, and
+  we're looking for someone who enjoys solving them
+  creatively.
+
+  What You'll Do
+
+  - Build and maintain ETL pipelines that pull data from
+    AppOmni's SaaS data lake and other internal and external
+    sources, transform it, and deliver it to researchers and
+    to the agents that work alongside them.
+  - Build automation workflows in which LLMs triage incoming
+    signals, such as vendor change announcements, security
+    feeds, rule health and customer feedback, and route what
+    matters to the right researcher with the reasoning
+    attached.
+  - Choose the right model for each step: small or tuned models
+    where they are good enough, larger ones only where they
+    pay off. Keep improving cost, latency and accuracy for
+    every workflow.
+  - Build tools that let researchers and agents query and
+    explore data without hand-written queries or engineering
+    tickets.
+  - Work alongside researchers to find the repeatable steps in
+    their work, then turn them into automated, observable
+    systems.
+  - Build evaluation into every AI workflow, using researchers'
+    accept and reject decisions to measure quality and improve
+    prompts, models and routing. Partner with our data
+    scientist on evaluation methods and on learning from
+    customer feedback.
+  - Operate what you build, with monitoring, alerting and cost
+    tracking, and keep tenant isolation, data security and
+    access controls intact across every pipeline and every
+    data surface an agent can reach.
+  - Build CI, testing, performance and false-positive tooling
+    for posture and detection rules, so researchers know
+    before a change ships whether it breaks what already
+    works.
+  - At Staff level, set standards for automation and agent
+    workflows across engineering and shape how the data
+    platform supports them.
+
+  What We're Looking For
+
+  - 5+ years of software engineering experience for Senior, or
+    8+ years including setting technical direction across
+    teams for Staff.
+  - Strong production experience in Python or Go. Go is ideal;
+    strength in one and willingness to work in the other can
+    be accommodated.
+  - Experience building and operating production data or ETL
+    pipelines, including pulling from external APIs and data
+    lakes.
+  - Hands-on experience building LLM workflows that run in
+    production, including prompting, tool calling, structured
+    output and evaluation.
+  - Interest in making AI workflows cheaper and better, for
+    example through model selection, routing and caching.
+  - A self-starter who can take a loosely defined problem, find
+    a creative way to solve it, ship it and iterate without a
+    detailed spec.
+  - Experience with a major cloud provider, ideally Google
+    Cloud, and with Kubernetes.
+  - Ability to work directly with researchers and other internal
+    customers, turn loosely defined workflows into clear
+    requirements, and explain tradeoffs to technical and non-
+    technical audiences.
+
+  You Might Also Have
+
+  - A background in security research tooling, detection
+    engineering or security analytics.
+  - Experience integrating with the APIs of enterprise SaaS
+    platforms such as Salesforce,
+  - Microsoft 365, ServiceNow, Workday, Google Workspace, Github
+    or Atlassian.
+  - Experience building MCPs/CLIs or tools for agent frameworks.
+  - Proven track record designing and operating robust data
+    pipelines using tooling like
+  - Apache Airflow, Dataflow, Dataproc, or Pub/Sub.
+  - Prior experience with SSPM, CSPM, ITDR or other posture and
+    identity security products.
+  - Experience with LLM observability and evaluation tools such
+    as LangSmith/Arize, or with
+  - fine-tuning or distilling smaller models.
+
+  What Success Looks Like
+
+  First 90 days: Learn where researchers spend time on
+  repeatable work and how data reaches them today. Follow
+  given use cases and ship a first LLM triage workflow with
+  AppOmni Labs, with its cost and accuracy measured. First
+  year: Several triage workflows run continuously alongside
+  researchers, each with its cost and accuracy tracked and
+  improving. Researchers spend measurably less time on manual
+  triage and query data through self-serve tools. Other teams
+  build faster on the pipelines and patterns you established,
+  without compromising quality or data controls.
+
+  The Technology You'll Work With
+
+  - Python and Go (Echo, gRPC, pgx, OpenTelemetry)
+
+  Culture
+
+  Our talented team is collaborative and supportive as we move
+  quickly to research and develop new ideas, deliver new
+  features to our customers, and iterate on ideas and
+  innovations. We accomplish this by focusing on our five core
+  values: Trust, Transparency, Quality, Customer Focus, and
+  Delivery. Our team is determined to make a difference to
+  positively impact our way of life by securing the technology
+  that is changing the world. AppOmni is proud to be Certified
+  by Great Place to WorkⓇ, as we seek to build a culture where
+  all employees feel appreciated and supported, especially
+  with clear and honest leadership, employee recognition, and
+  an environment that fosters innovation and collaboration. We
+  believe diversity fuels innovation and drives growth by
+  bringing a wealth of different perspectives and skills.
+  We’re committed to fostering an inclusive environment where
+  every employee feels valued, heard, and empowered to reach
+  their full potential. Join us in building a workplace where
+  we can all thrive.
+
+  Compensation & Benefits
+
+  AppOmni is committed to supporting our employees' financial,
+  professional, and personal well-being. To do this, we take a
+  holistic view of compensation, one that values not just the
+  immediate financial package but also the long-term growth of
+  both our employees and our company. We're committed to pay
+  equity and transparency and encourage all candidates to
+  discuss their salary expectations with us early in the
+  application process. Our total rewards package includes the
+  following:
+
+  - Base Salary: The annual base salary compensation range in
+    the U.S. for this role is: $200,000 - $300,000 USD. Final
+    offer amounts are determined by factors such as the final
+    candidate’s location, skills, qualifications, and
+    experience, as well as business considerations and peer
+    compensation.
+  - Stock Options: Our vision is to not just grow as a company
+    but to grow together. By offering stock options, we are
+    inviting you to be an integral part of our journey
+    forward.
+  - Benefits: Generous paid time off, paid company holidays,
+    paid floating holidays, paid parental leave, paid sick
+    time and paid family leave for applicable states, health
+    insurance - medical, dental, and vision with HSA option,
+    LifeWorks Employee Assistance Program, company-provided
+    life insurance, AD&D, STD/LTD and additional supplemental
+    life insurance options, 401(k) and Roth retirement saving
+    accounts, and a monthly wellness benefit reimbursement.
+    All benefits are subject to eligibility requirements and
+    plan details.
+
+  AppOmni is an equal-opportunity employer. Applicants will
+  not be discriminated against because of race, color, creed,
+  national origin, ancestry, citizenship status, sex, sexual
+  orientation, gender identity or expression, age, religion,
+  disability, pregnancy, marital status, veteran status,
+  medical condition, genetic information, or any other
+  characteristic protected by law. AppOmni is also committed
+  to providing reasonable accommodations to qualified
+  individuals with disabilities and disabled veterans in our
+  job application procedures.
+industries:
+  - Security
+  - Software
+posted_date: 2026-11-19
+url: "https://builtin.com/job/staff-software-engineer-ai-automation-and-workflows/12350789"
+source: Built In

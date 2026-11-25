@@ -1,0 +1,112 @@
+job_id: 8978984
+title: Principal Software Engineer  - AI Developer Platform
+company: Neko Health
+location: New York, USA
+work_type: FULL_TIME
+company_size: 126 Employees
+description: |
+  Mission
+
+  Neko Health is a health technology company that opened its
+  first clinic in Stockholm in 2018, founded by Daniel Ek and
+  Hjalmar Nilsonne.
+
+  In one hour, our scan combines radiation-free imaging, heart
+  and circulation measurements, and same-visit blood results
+  with time to talk it through with a clinician, so people can
+  act on what matters before symptoms appear. We design and
+  build our own hardware, software and clinical protocols, and
+  more than 100,000 members have already had a scan, with 75%
+  booking and prepaying their next one before they leave.
+
+  As a team, we chase 10X, not 10%, and we’re looking for
+  people who think the same way to help us scale what we’ve
+  started in Sweden, the UK, and now the US. Join the
+  clinicians, engineers and business builders making
+  prevention a routine part of care.
+
+  Role Purpose
+
+  We want our engineers to ship regulated medical software as
+  fast as AI now lets them write it. Our software includes
+  medical device software, holds members’ health data and
+  keeps our clinics running, so every change has to be tested,
+  traceable and ready for an auditor, and that is what makes
+  this problem hard and worth solving.
+
+  You’ll build the shared AI engineering platform that makes
+  it possible, setting the architecture and writing much of it
+  yourself: a golden path that makes the best way to build
+  with AI the default for every team, agents that do real
+  engineering work end to end, and a pipeline that proves
+  compliance on every change instead of documents written
+  after the fact. This is a director-level individual
+  contributor role, one of the first Principal Engineer roles
+  in our software organisation, working directly with our
+  Chief Software Officer. You make the key calls on which
+  agents and tools we build or adopt, and you take on the
+  hardest problems across teams, some of which reach clinic
+  devices and the test rigs that recreate a scan room.
+
+  What You’ll Deliver in the First 6–12 Months
+
+  - 0→1 set the target architecture for the AI engineering
+    platform, including the build or adopt decisions on
+    agents, orchestration and developer tooling
+  - Ship a golden path for AI-assisted engineering, with shared
+    context, tools and guardrails, that teams choose because
+    it is the fastest way to ship
+  - Put agents to work on real engineering jobs end to end, such
+    as feature implementation, code migrations, automated
+    review and on-call triage
+  - Run agents in sandboxed environments with audit trails and
+    clear separation from member health data
+  - Shorten the path from merged code to production for
+    regulated software: safe releases, fast rollback, and
+    compliance evidence produced by the pipeline
+  - Measure what changes with numbers engineers trust, such as
+    the share of agent pull requests that get merged and how
+    long a change takes to reach production, and share them
+    openly
+  - Take on the hardest cross-team technical problems, inside
+    and beyond the platform, where no one has the answer yet
+
+  Minimum Qualifications
+
+  - You have designed and built platforms or core infrastructure
+    that other engineers relied on every day, and you wrote a
+    meaningful part of the code yourself
+  - Deep backend and distributed systems experience in
+    production, with the judgement to make architecture calls
+    in a large, existing codebase
+  - Your own engineering is AI-first: you use agents for work
+    you used to do by hand, and can explain where they help,
+    where they fail, and what changed in speed and quality
+  - You take a clear position on hard technical questions with
+    incomplete information, defend it with reasons, and change
+    it when the evidence changes
+  - Engineers outside your own team changed how they work
+    because of something you built and the technical case you
+    made for it
+  - Able to work from our London, New York or Stockholm office
+
+  Preferred Qualifications
+
+  - Experience with durable workflow orchestration, for example
+    Temporal or Azure Durable Functions, and a clear view on
+    when it is worth it, since long-running agent work has to
+    survive failure
+  - Work where software meets hardware or physical operations,
+    such as connected devices, edge computing or hardware-in-
+    the-loop testing
+
+  About titles at Neko
+
+  We use a simplified internal title framework that
+  prioritises clarity over hierarchy, so the title on this
+  posting may differ from your internal title. We’ll be open
+  about the scope and level of the role throughout the
+  process, so you know exactly what you’d be taking on.
+posted_date: 2026-08-12
+url: "https://builtin.com/job/director-platform-engineering/8978984"
+source: Built In

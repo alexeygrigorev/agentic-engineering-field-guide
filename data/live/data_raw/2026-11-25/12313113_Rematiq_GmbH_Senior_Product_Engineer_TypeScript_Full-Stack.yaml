@@ -1,0 +1,136 @@
+job_id: 12313113
+title: Senior Product Engineer (TypeScript, Full-Stack)
+company: Rematiq GmbH
+location: Berlin, DEU
+work_type: FULL_TIME
+company_size: 20 Employees
+description: |
+  REMATIQ is building AI software that helps life sciences and
+  medical device companies bring products to market faster,
+  without compromising the quality, traceability and
+  compliance their industry demands. We turn hundreds of pages
+  of complex regulations, like MDR and FDA guidance, into
+  structured, actionable requirements that plug directly into
+  our customers' development and quality processes.
+
+  We work with leading companies including Philips, Siemens
+  Healthineers, B. Braun and Novartis, and have recently
+  closed our Series A.
+
+  About the job
+
+  As a Senior Product Engineer, you'll build the product our
+  customers use every day: requirements formulation, document
+  comparison, compliance checks against internal SOPs, and the
+  AI agents that work alongside regulatory and quality
+  experts.
+
+  Product thinking is as important here as engineering
+  execution. You'll sit close to customers, product and
+  design, figure out what actually needs to be built, and then
+  build it end to end, from the data model and the backend
+  workflow to the agent and the interface on top.
+
+  Because we operate in a highly regulated industry,
+  correctness, traceability and reliability are central to how
+  we build. A feature is done when it works for the customer,
+  not when the ticket is closed.
+
+  We believe in the value of in-person collaboration and work
+  in a hybrid setup, with the team coming together in our
+  office in the heart of Berlin-Mitte typically four days per
+  week.
+
+  How you'll contribute
+
+  We are not looking for someone to just complete tickets. We
+  want an engineer who owns outcomes, challenges assumptions
+  and helps decide what we build.
+
+  - Own product areas end to end. Take a workflow, such as
+    document comparison or compliance checks, and own how well
+    it works for customers: quality, reliability, speed and
+    how it evolves.
+  - Shape what gets built. Work with product and domain experts
+    on discovery, challenge requirements, and turn fuzzy
+    customer problems into clear, shippable slices.
+  - Build across the stack. Design and ship features across
+    React frontends, TypeScript services, durable workflows
+    and PostgreSQL.
+  - Make AI features trustworthy. Build LLM- and agent-driven
+    features that regulatory experts can review, correct and
+    rely on, with the guardrails, evaluation and traceability
+    that requires.
+  - Raise the bar. Review designs and code, share context, and
+    help the team ship faster without lowering quality.
+
+  Our stack
+
+  We work in a modern TypeScript-first monorepo:
+
+  - Core: Node.js, TypeScript, pnpm workspaces
+  - Frontend: React (Vite), Tailwind CSS, our own design system
+  - Backend and workflows: Express-based services, DBOS for
+    durable workflows
+  - Data and storage: PostgreSQL with pgvector, Prisma, Azure
+    Blob Storage
+  - AI: Azure OpenAI, agent frameworks such as Mastra and the
+    Vercel AI SDK
+  - Observability: Sentry, Datadog, OpenTelemetry
+  - Dev experience: AI-assisted development with Cursor and
+    Claude Code as first-class tools
+
+  What you'll bring
+
+  - 7+ years of professional software engineering, with a strong
+    record of shipping product features that real users depend
+    on.
+  - Strong TypeScript across the stack: React on the frontend,
+    Node.js services on the backend, and comfort moving
+    between them.
+  - Product judgement. You can talk to a user, understand the
+    job they're trying to do, and push back when the requested
+    feature isn't the right answer.
+  - Solid data fundamentals: data modelling, migrations and
+    query performance, ideally in PostgreSQL.
+  - Experience building on LLMs or agents in production is a
+    strong plus, especially where output quality has to be
+    measured, reviewed or corrected.
+  - A high quality bar and a pragmatic mindset. You ship
+    maintainable, well-tested software and use AI tools as
+    leverage without compromising reliability.
+  - Ownership. You care whether the thing works for the
+    customer, and you follow it into production.
+
+  We'll be especially excited if you
+
+  - Have worked on B2B software for complex, document-heavy or
+    regulated domains (MedTech, pharma, legal, finance or
+    similar).
+  - Have been an early engineer or founder and owned a product
+    area with little structure around you.
+  - Have built review and correction flows for AI output, where
+    experts stay in control.
+
+  Why this is a great opportunity
+
+  - Impact in a high-stakes domain. Your work helps medical
+    devices and treatments reach patients faster and more
+    safely.
+  - Real product ownership. You'll own meaningful product areas
+    and have a real say in what we build and how.
+  - Bring GenAI into production. Build AI features that
+    regulated enterprises can trust and audit.
+  - AI-agent-first development. Cursor, Claude Code and agents
+    are part of how we build, with a real budget to use them.
+  - Strong peers. Work with people who care about craft and
+    outcomes, in a high-ownership culture with founder
+    experience on the team.
+  - Compensation: Competitive salary and meaningful equity.
+industries:
+  - Artificial Intelligence
+  - Healthtech
+  - Software
+posted_date: 2026-11-18
+url: "https://builtin.com/job/senior-product-engineer-typescript-full-stack/12313113"
+source: Built In

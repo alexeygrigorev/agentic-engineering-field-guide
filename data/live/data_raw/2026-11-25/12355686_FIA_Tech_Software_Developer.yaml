@@ -1,0 +1,120 @@
+job_id: 12355686
+title: Software Developer
+company: FIA Tech
+location: New York, USA
+work_type: FULL_TIME
+company_size: 84 Employees
+description: |
+  FIA Tech is the leading technology provider to the exchange
+  traded derivatives industry. Owned by a consortium of
+  thirteen leading clearing firms and the Futures Industry
+  Association (FIA), FIA Tech is committed to serving the
+  industry and launching innovative solutions to improve
+  market infrastructure across the listed and cleared
+  derivatives industry. FIA Tech works in close partnership
+  with the broader industry, including exchanges,
+  clearinghouses, clearing firms and other intermediaries, as
+  well as independent software vendors, buyside firms and end
+  users to bring efficiency to the exchange traded and cleared
+  derivatives industry.
+
+  About the role
+
+  We are seeking a highly skilled Software Engineer with
+  extensive experience in C# and .NET, deep expertise in
+  PostgreSQL &/or SQL Server, and a strong background in cloud
+  technologies (AWS or Azure). The ideal candidate should have
+  hands-on experience in Kubernetes, Azure DevOps, and FIX
+  protocol. This role will involve designing, developing, and
+  optimizing distributed systems while ensuring scalability,
+  reliability, and performance.
+
+  Domain knowledge in ETD market infrastructure is crucial,
+  including:
+
+  - Traded product / instrument data in the ETD space
+
+  - Exchange derived contract specifications
+    (CME/Eurex/ICE/etc.)
+
+  - 3rd party symbology vendors such as
+    Refinitiv/Bloomberg/FIS/FIGI
+
+  Key Responsibilities
+
+  - Design, develop, and maintain scalable C# and .NET services
+    for instrument, contract, and reference data.
+
+  - Own the ingestion and mapping path end to end: vendor and
+    exchange files in, symbology resolved, and APIs out to
+    Transparency, matching, and connectivity. UI work is the
+    contracts those screens call, not the screens themselves.
+
+  - Troubleshoot and resolve production issues with minimal
+    downtime.
+
+  - Apply symbology in the trading space. Use Bloomberg codes
+    (BBG), Refinitiv RIC, GMI, SEDOL, and FIGI, and keep the
+    crosswalks between them correct as vendors and exchanges
+    change.
+
+  - Build and run CI/CD in Azure DevOps.
+
+  - Package and deploy those services with Docker, Kubernetes,
+    and Terraform.
+
+  - Design and maintain the Azure services those pipelines
+    deploy: data stores, messaging, and the jobs that load
+    Databank and downstream products.
+
+  - Work with product, operations, and the other engineering
+    groups to turn reference-data requirements into reliable
+    services.
+
+  - Optimize and manage PostgreSQL and SQL Server, and NoSQL
+    stores where a feed needs them.
+
+  - Write complex SQL, indexing, and performance tuning for high
+    trading volume.
+
+  Qualifications
+
+  - 5+ years of experience in software development with C# and
+    .NET.
+
+  - 2+ years of experience ETD traded product infrastructure
+
+  - Strong expertise in SQL, especially PostgreSQL and/or SQL
+    Server, including query optimization, indexing strategies,
+    and stored procedures.
+
+  - Hands-on experience with Kubernetes for container
+    orchestration and deployment.
+
+  - Experience with Azure DevOps for CI/CD, automated builds,
+    and deployments.
+
+  - Strong understanding of microservices architecture and
+    event-driven systems.
+
+  - Familiarity with messaging systems such as Kafka, IBM MQ, or
+    similar technologies.
+
+  - Strong analytical and problem-solving skills with a
+    proactive approach to troubleshooting.
+
+  - Experience working in an agile development environment.
+
+  - Knowledge of monitoring and logging tools like Prometheus,
+    Grafana, or AWS CloudWatch
+
+  - Hands-on FIX, or a clear equivalent market-data or order-
+    flow protocol.
+
+  - Practical use of at least two of BBG, RIC, GMI, SEDOL, and
+    FIGI.
+
+  Compensation: $135,000-$160,000 + Bonus & Great Benefits
+posted_date: 2026-11-20
+url: "https://builtin.com/job/software-developer/12355686"
+source: Built In

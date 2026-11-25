@@ -1,0 +1,109 @@
+job_id: 12288619
+title: Senior Software Engineer — Autonomous Driving
+company: NVIDIA
+location: DEU
+remote: true
+work_type: FULL_TIME
+company_size: 21,960 Employees
+description: |
+  NVIDIA is driving the autonomous vehicle revolution,
+  delivering AI-powered visual  computing platforms that
+  define tomorrow’s mobility. As vehicles become
+  supercomputers on wheels, our challenge is to build the
+  software foundation that makes advanced driver assistance
+  and safety features truly intelligent.
+
+  We are looking for a highly motivated Machine Learning
+  Engineer based in Stuttgart, Germany to join our autonomous
+  driving team. This role focuses on both classical
+  prediction, decision-making, planning, and control
+  components, as well as cutting-edge end-to-end solutions
+  powered by Vision Language Models (VLMs). You’ll collaborate
+  with teams to deliver robust, high-performance software
+  solutions tailored to the competitive demands of the
+  different markets in the world.
+
+  What You Will Be Doing:
+
+  - Collaborate with engineers across NDAS teams to perform
+    simulation and in-vehicle testing and troubleshoot issues
+    in end-to-end Vision Language Model (E2E VLM) and
+    classical Planning & Control (PnC) components.
+  - Optimize classical decision-making, planning algorithms and
+    advanced E2E VLMs for NDAS functions in complex traffic
+    scenarios.
+  - Integrate, adapt, and fine-tune NDAS solutions across
+    various OEM platforms to enhance competitiveness and
+    reliability.
+  - Take function-owner responsibility for selected advanced
+    driving functions, coordinating algorithm development, OEM
+    integration, and functional validation from initial
+    implementation through production readiness.
+  - Drive system-level issue resolution across prediction,
+    decision-making, planning, control, and E2E ML components:
+    use logs, recorded-data replay, simulation, and vehicle
+    testing to isolate root causes and coordinate fixes with
+    customer and NVIDIA engineering teams.
+  - Perform hands-on in-vehicle testing to evaluate driving
+    behavior and measure functional performance in complex
+    traffic scenarios, translating test findings and corner-
+    case analysis into prioritized algorithm improvements and
+    actionable feedback for model-training teams.
+  - Stay current with the latest academic research in E2E LLM
+    domain in autonomous driving and quickly apply new
+    findings to practical implementations.
+
+  What We Need to See:
+
+  - Master’s or Ph.D. in Computer Science, Robotics, Automotive
+    Engineering, Electrical Engineering, Mechanical
+    Engineering, or a related field.
+  - 8+ years of hands-on experience with at least 3 years of
+    end-to-end learning models, especially vision-language
+    models (VLMs) and large language models (LLMs).
+  - Solid understanding of trajectory generation, motion
+    control, and decision-making in complex traffic
+    environments.
+  - Proficiency in classical PnC algorithms such as Dijkstra,
+    A*, RRT, DDP, MCTS, and ILQR.
+  - Strong programming and debugging skills, with expertise in
+    C++ and Python, and a solid foundation in data structures
+    and advanced algorithms.
+  - Willingness to travel for customer collaboration, vehicle
+    integration, and in-vehicle testing.
+  - Valid driver's license or T1 prototype driving license for
+    in-vehicle testing.
+  - Excellent teamwork and communication skills.
+
+  Ways to Stand Out from the Crowd:
+
+  - Extensive experience in autonomous vehicles or robotics
+    competitions, with awards as a plus.
+  - Deep expertise in at least one of the following areas: LLM-
+    based robotics research, motion planning, trajectory
+    optimization, planning under uncertainty, probabilistic
+    robotics, large-scale data analysis, or scalable machine
+    learning.
+  - Customer-facing experience working directly with automotive
+    OEMs or Tier 1 suppliers on ADAS integration, vehicle
+    testing, and technical issue resolution, with the ability
+    to communicate findings, tradeoffs, and next steps
+    clearly.
+  - Experience owning ADAS functions through customer vehicle
+    integration and production validation, including data-
+    driven performance improvement and coordination across
+    distributed engineering teams.
+
+  Your base salary will be determined based on your location,
+  experience, and other objective job-related factors. The
+  expected base salary range for this position is 112,200 EUR
+  – 194,480 EUR.
+industries:
+  - Artificial Intelligence
+  - Computer Vision
+  - Hardware
+  - Robotics
+  - Metaverse
+posted_date: 2026-11-17
+url: "https://builtin.com/job/senior-software-engineer-autonomous-driving/12288619"
+source: Built In

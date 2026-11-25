@@ -1,0 +1,145 @@
+job_id: 12315358
+title: Software Engineer, Design Systems
+company: Whatnot
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+remote: true
+work_type: FULL_TIME
+company_size: 1,200 Employees
+description: |
+  Join the Future of Commerce with Whatnot! Whatnot is the
+  largest live shopping platform in North America and Europe
+  to buy, sell, and discover the things you love. Whether it's
+  trading cards, fashion, electronics, or live plants, our
+  sellers are building real businesses across hundreds of
+  categories. We're building live commerce at a scale that's
+  never been done in the West, and there's no playbook to
+  copy. The people here are shaping how an entirely new
+  industry develops. As a remote co-located team, we're
+  inspired by our values and anchored in hubs across the US,
+  UK, Ireland, Poland, Germany, and Australia. We move fast,
+  stay close to our users, and focus on the work that drives
+  the most impact. We're one of the fastest growing
+  marketplaces and were recently named the #1 Best Startup
+  Employer in America by Forbes. Check out the latest Whatnot
+  updates on our news and engineering blogs and join us as we
+  enable anyone to turn their passion into a business and
+  bring people together through commerce. Role The Whatnot
+  Design System (WDS) is how one product ships coherently
+  across iOS, Android, and web. We're in the middle of WDS 2.0
+  - a ground-up evolution of our tokens, components, and the
+  pipeline that connects Figma to production code on all three
+  platforms. As a Design Systems engineer, you will:
+
+  - Build and evolve Whatnot Design System components across iOS
+    (Swift/SwiftUI), Android (Kotlin/Compose), and web
+    (React/TypeScript), so that every team ships consistent,
+    accessible, high-craft UI - measured by component
+    adoption, migration velocity, and reduction of one-off UI
+    in the product.
+  - Own and extend our design token architecture - base,
+    semantic, and component tokens - and the automated
+    pipeline that syncs them from Figma through our token
+    repository into each platform's codebase, so a change made
+    once lands everywhere without breaking changes.
+  - Partner daily with product designers as a true collaborator:
+    reviewing specs and redlines, pressure-testing component
+    APIs and naming, flagging gaps between Figma and code, and
+    building the tooling (Figma plugins, code connect,
+    component playgrounds, snapshot galleries) that keeps
+    design and engineering in lockstep.
+  - Raise the bar on quality and leverage: accessibility by
+    default, dark mode, RTL, haptics, snapshot and visual
+    regression testing, component telemetry, and AI-assisted
+    workflows that turn a Figma component into a first-draft
+    implementation.
+
+  We offer flexibility to work from home or from one of our
+  global office hubs, and we value in-person time for
+  planning, problem-solving, and connection. Team members in
+  this role must live within commuting distance of our San
+  Francisco or New York hub. You People who do well at Whatnot
+  tend to be comfortable figuring things out as they go,
+  biased toward action, and genuinely curious about what
+  they're building. They care more about outcomes than credit
+  and stay close to the product and the people using it. As
+  our next Design Systems engineer you should have 5+ years of
+  software engineering experience building user-facing
+  products, plus:
+
+  - Bachelor's degree in Computer Science, a related field, or
+    equivalent work experience.
+  - Shipped production UI on at least two of our three platforms
+    - iOS (Swift/SwiftUI), Android (Kotlin/Jetpack Compose),
+    and web (React/TypeScript) - and genuine enthusiasm for
+    flexing across all three. You follow the work to whichever
+    platform needs it most.
+  - Hands-on experience building or maintaining a design system:
+    component libraries, design tokens (e.g. Figma variables,
+    Tokens Studio, style-dictionary-like pipelines),
+    versioning and migration strategies, and API design that
+    other engineers love to use.
+  - A strong track record of cross-functional collaboration with
+    designers - you're comfortable in Figma, can speak
+    fluently about variants, properties, and auto layout, and
+    treat designers as partners in defining component behavior
+    rather than handing work over a wall.
+  - Care for the details that make components trustworthy:
+    accessibility (VoiceOver/TalkBack), theming and dark mode,
+    internationalization/RTL, testing (snapshot, visual
+    regression), and documentation.
+  - Bonus: you've built Figma plugins or design-to-code tooling,
+    worked with documentation platforms like Supernova or
+    Storybook, or used AI agents to accelerate component and
+    token migrations.
+
+   Benefits
+
+  - Generous Holiday and Time off Policy
+  - Health Insurance options including Medical, Dental, Vision
+  - Work From Home Support
+    - Home office setup allowance
+    - Monthly allowance for cell phone and internet
+  - Care benefits
+    - Monthly allowance for wellness
+    - Annual allowance towards Childcare
+    - Lifetime benefit for family planning, such as adoption or
+      fertility expenses
+  - Retirement; 401k offering for Traditional and Roth accounts
+    in the US (employer match up to 4% of base salary) and
+    Pension plans internationally
+  - Monthly allowance to dogfood the app
+    - All Whatnauts are expected to develop a deep understanding
+      of our product. We're passionate about building the best
+      user experience, and all employees are expected to use
+      Whatnot as both a buyer and a seller as part of their
+      job (our dogfooding budget makes this fun and easy!).
+  - Parental Leave
+    - 16 weeks of paid parental leave + one month gradual return
+      to work *company leave allowances run concurrently with
+      country leave requirements which take precedence.
+
+  Please note: Whatnot will only contact you through official
+  @whatnot.com email addresses. If you see an email
+  impersonating a Whatnot recruiter, please disregard and
+  report it as spam. EOE Whatnot is proud to be an Equal
+  Opportunity Employer. We value diversity, and we do not
+  discriminate on the basis of race, religion, color, national
+  origin, gender, sexual orientation, age, marital status,
+  veteran status, parental status, disability status, or any
+  other status protected by local law. We believe that our
+  work is better and our company culture is improved when we
+  encourage, support, and respect the different skills and
+  experiences represented within our workforce.
+industries:
+  - Consumer Web
+  - eCommerce
+  - Mobile
+  - Retail
+  - Social Media
+  - Software
+posted_date: 2026-11-20
+url: "https://builtin.com/job/software-engineer-design-systems/12315358"
+source: Built In

@@ -1,0 +1,164 @@
+job_id: 12425691
+title: "Software Engineering Manager – Agentic AI & Backend Engineering"
+company: WEX Inc.
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 4,900 Employees
+description: |
+  About the Team/Role
+
+  We are seeking a Software Development Manager III to join
+  WEX Mobility Engineering, with strong expertise in backend
+  engineering and building production-ready agentic AI
+  solutions. You will lead a team responsible for designing,
+  developing, and operating scalable backend services, APIs,
+  and intelligent agents that improve customer experiences,
+  automate workflows, and increase engineering productivity.
+
+  This role supports our WEX product, which provides fuel
+  discounts and mobility payment solutions to owner-operators
+  and small fleets. Working with geographically distributed
+  engineering teams, you will partner with Product,
+  Architecture, Platform, Security, and Data teams to deliver
+  secure, reliable solutions with measurable business
+  outcomes.
+
+  The ideal candidate combines strong people management skills
+  with hands-on technical depth in distributed systems, cloud-
+  native services, and agentic AI. You should be comfortable
+  reviewing architecture and code, guiding implementation, and
+  taking AI capabilities from experimentation through
+  production deployment and ongoing operation.
+
+  How you’ll make an impact:
+
+  Engineering Leadership & Delivery
+
+  - Lead the team’s engineering roadmap, aligning backend and
+    agentic AI initiatives with customer needs and business
+    priorities.
+  - Partner with Product to translate requirements into clear
+    technical designs, delivery milestones, and measurable
+    success criteria.
+  - Own delivery from design and implementation through testing,
+    deployment, and production support.
+  - Manage dependencies, capacity, risks, and technical debt
+    while maintaining predictable execution.
+  - Communicate progress, tradeoffs, and opportunities clearly
+    to engineering and business leadership.
+
+  Agentic AI Ownership
+
+  - Lead the design and delivery of AI agents that perform
+    multistep tasks, interact with enterprise systems, and
+    automate engineering, operational, and customer workflows.
+  - Guide implementation of agent orchestration, tool calling,
+    retrieval-augmented generation (RAG), state management,
+    and integrations with backend services.
+  - Establish evaluation methods and release criteria that
+    measure task completion, accuracy, reliability, latency,
+    and cost.
+  - Implement appropriate controls for agent actions, including
+    scoped permissions, human approval for sensitive
+    operations, audit trails, and protection against prompt
+    injection and data exposure.
+  - Ensure agent workflows handle failures through bounded
+    execution, retries, fallbacks, and safe recovery.
+  - Drive adoption of AI-assisted development across coding,
+    testing, documentation, and incident investigation,
+    measuring improvements in delivery speed and quality.
+
+  Backend Architecture & Technical Execution
+
+  - Serve as a hands-on technical leader for backend
+    microservices, APIs, event-driven systems, and data
+    integrations.
+  - Guide architecture and code reviews, ensuring
+    maintainability, security, scalability, and performance.
+  - Build reliable integrations between AI agents, enterprise
+    APIs, databases, and messaging platforms.
+  - Establish service-level objectives and improve availability,
+    response times, observability, and operational readiness.
+  - Strengthen automated testing, CI/CD, deployment practices,
+    and incident response.
+
+  People Management & Collaboration
+
+  - Hire, coach, retain, and develop software engineers through
+    clear expectations, regular feedback, and career
+    development plans.
+  - Build a culture of ownership, technical rigor,
+    experimentation, and continuous learning.
+  - Develop the team’s backend and agentic AI capabilities
+    through mentoring, design reviews, and practical delivery
+    experience.
+  - Collaborate across Mobility Engineering to reuse platforms
+    and components and reduce duplicated effort.
+  - Balance feature delivery, platform improvements, operational
+    responsibilities, and team development.
+
+  Experience you’ll bring:
+
+  - Bachelor’s degree in Computer Science, Software Engineering,
+    or a related field, or equivalent practical experience.
+  - 8+ years of software engineering experience, including 3+
+    years managing engineering teams.
+  - Strong hands-on backend development experience using Java,
+    Spring Boot, Python, or comparable technologies.
+  - Demonstrated experience delivering agentic AI solutions
+    beyond prototypes, including tool integration,
+    orchestration, evaluation, and production monitoring.
+  - Experience designing distributed systems, microservices,
+    REST APIs, asynchronous workflows, and relational or NoSQL
+    data models.
+  - Practical understanding of LLM capabilities and limitations,
+    context management, RAG, structured outputs, and model
+    integration.
+  - Experience with cloud platforms, containers, CI/CD,
+    automated testing, and production operations.
+  - Strong understanding of application security, identity and
+    access management, and sensitive data protection.
+  - Proven ability to manage delivery, develop engineers, and
+    make sound technical decisions under ambiguity.
+  - Excellent written and verbal communication skills.
+
+  Preferred Qualifications:
+
+  - Experience building agentic workflows for payments, customer
+    support, incident investigation, or engineering
+    automation.
+  - Familiarity with agent frameworks, model gateways, vector
+    databases, and the Model Context Protocol (MCP).
+  - Experience with Kafka, Redis, PostgreSQL, Kubernetes, and
+    AWS.
+  - Experience designing payment systems with strong
+    requirements for transaction integrity, idempotency,
+    auditability, and recovery.
+  - Familiarity with PCI DSS and engineering practices for
+    regulated environments.
+  - Experience leading geographically distributed teams.
+
+  The base pay range represents the anticipated low and high
+  end of the pay range for this position. Actual pay rates
+  will vary and will be based on various factors, such as your
+  qualifications, skills, competencies, and proficiency for
+  the role. Base pay is one component of WEX's total
+  compensation package. Most sales positions are eligible for
+  commission under the terms of an applicable plan. Non-sales
+  roles are typically eligible for a quarterly or annual bonus
+  based on their role and applicable plan. WEX's comprehensive
+  and market competitive benefits are designed to support your
+  personal and professional well-being. Benefits include
+  health, dental and vision insurances, retirement savings
+  plan, paid time off, health savings account, flexible
+  spending accounts, life insurance, disability insurance,
+  tuition reimbursement, and more. For more information, check
+  out the "About Us" section.Pay Range: $150,600.00 -
+  $180,100.00
+industries:
+  - Fintech
+  - Payments
+posted_date: 2026-11-23
+url: "https://builtin.com/job/software-engineering-manager-agentic-ai-backend-engineering/12425691"
+source: Built In

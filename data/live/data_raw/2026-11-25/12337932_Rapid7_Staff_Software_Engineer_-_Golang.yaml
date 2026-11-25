@@ -1,0 +1,142 @@
+job_id: 12337932
+title: Staff Software Engineer - Golang
+company: Rapid7
+location: USA
+remote: true
+work_type: FULL_TIME
+company_size: 2,400 Employees
+description: |
+  Rapid7 is seeking a Staff Software Engineer, AI-SOC to own
+  the control plane and API server that expose our autonomous
+  investigation platform to more than 10,000 customers. This
+  role is for an engineer who loves building reliable, secure,
+  multi-tenant services and wants to make every surface,
+  including the UI, public APIs, MCP server, and copilots,
+  fast, safe, and easy to build on. About the Team The AI-SOC
+  engineering team sits within Rapid7's Detection & Response
+  organization and builds the autonomous investigation
+  platform powering our MDR service. Operating at the
+  intersection of managed security operations and agentic AI,
+  the team develops capabilities that triage alerts at machine
+  speed so analysts can focus on high-value decisions. The
+  control plane team builds the customer-facing foundation:
+  the APIs, authorization, policy, and workflow services that
+  every client of the platform depends on. About the Role As a
+  Staff Software Engineer, AI-SOC, your primary responsibility
+  will be to design, build, and operate the API server and
+  control plane that serve customers across the UI, REST APIs,
+  MCP server, and AI copilots. Specifically, your focus will
+  be to:
+
+  - Own the architecture of the API server and control plane,
+    ensuring a consistent, well-versioned, and well-documented
+    interface across UI, API, MCP, and copilot clients.
+  - Design and build multi-tenant authorization, including RBAC
+    and fine-grained access control, so every request is
+    correctly scoped and secure for 10k+ customers.
+  - Build and evolve the policy engine that governs how alerts
+    and investigations are handled, with a focus on
+    correctness, auditability, and performance.
+  - Design OLTP data models and services that stay fast and
+    consistent under growth, including schema evolution,
+    indexing, and migration strategy.
+  - Build workflow and orchestration capabilities that let
+    customers and internal systems define, trigger, and track
+    multi-step processes reliably.
+  - Implement rate limiting, quotas, and traffic protection to
+    ensure fairness and resilience across tenants and client
+    types, including AI-driven clients.
+  - Build and maintain the MCP server and copilot integrations,
+    enabling AI agents to securely access platform
+    capabilities with the same guarantees as other clients.
+  - Drive reliability and performance through strong
+    observability, SLOs, load testing, and rigorous debugging
+    of complex production issues.
+  - Set engineering standards and mentor engineers through
+    design reviews and code review, raising the technical bar
+    of the team.
+  - Partner with Product, UI, ML/AI, and data engineers to
+    translate customer needs into durable platform
+    capabilities.
+
+  The skills and qualities you'll bring include:
+
+  - Bring 8+ years of software engineering experience, with a
+    track record of owning and scaling backend services in
+    production.
+  - Demonstrate strong Go (Golang) proficiency and experience
+    building high-throughput API services; experience with
+    other backend languages is welcome.
+  - Show strong computer science fundamentals, including data
+    structures, concurrency, networking, and algorithms.
+  - Apply deep distributed systems knowledge: consistency,
+    idempotency, retries, failure modes, and designing for
+    resilience at scale.
+  - Bring experience with API design and API server development,
+    including versioning, pagination, authentication, and
+    backward compatibility for a large customer base.
+  - Show hands-on experience designing RBAC or similar
+    authorization models in a multi-tenant SaaS environment.
+  - Bring solid OLTP database experience (e.g., PostgreSQL,
+    DynamoDB), including data modeling, indexing,
+    transactions, and query tuning.
+  - Show experience with policy or rules engines, workflow
+    engines, and rate-limiting or quota systems.
+  - Demonstrate excellent debugging skills and a methodical
+    approach to diagnosing issues across services, data
+    stores, and infrastructure.
+  - Bring experience in cloud-native environments (AWS
+    preferred), with CI/CD, observability, and operational
+    ownership.
+  - Familiarity with security operations or detection and
+    response is a plus.
+  - Bring strong written and verbal communication skills; you
+    write clear design docs and align cross-functional
+    partners on technical direction.
+  - Embody our core values to foster a culture of excellence
+    that drives meaningful impact and collective success.
+
+  We know that the best ideas and solutions come from multi-
+  dimensional teams. That's because these teams reflect a
+  variety of backgrounds and professional experiences. If you
+  are excited about this role and feel your experience can
+  make an impact, please don't be shy - apply today. #LI-CG1
+  #LI-Remote About Rapid7 At Rapid7, our vision is to create a
+  secure digital world for our customers, our industry, and
+  our communities. We do this by harnessing our collective
+  expertise and passion to challenge what's possible and drive
+  extraordinary impact. We're building a dynamic and
+  collaborative workplace where new ideas are welcome.
+  Protecting 11,500+ customers against bad actors and threats
+  means we're continuing to push the envelope just like we' ve
+  been doing for the past 20 years. If you 're ready to solve
+  some of the toughest challenges in cybersecurity, we're
+  ready to help you take command of your career. Join us.
+  Rapid7, Inc. is committed to fair and equitable compensation
+  practices. A candidate's salary is determined by various
+  factors including, but not limited to, relevant work
+  experience, skills, and certifications. We evaluate
+  compensation decisions on a case-by-case basis, and it is
+  not typical for an individual to be hired at the very top of
+  the salary range. The annual salary range for this role,
+  depending on location, is: United States: $164,600.00 -
+  222,600.00 USD Annual Salary ranges may vary based on
+  geographical location. This range does not include
+  variable/incentive compensation, equity and benefits (where
+  applicable/eligible). All qualified applicants will receive
+  consideration for employment without regard to race, color,
+  religion, sex, sexual orientation, gender identity, age,
+  national origin, disability, protected veteran status or any
+  other status protected by applicable national, federal,
+  state or local law.
+industries:
+  - Artificial Intelligence
+  - Cloud
+  - Information Technology
+  - Sales
+  - Security
+  - Software
+  - Cybersecurity
+posted_date: 2026-11-19
+url: "https://builtin.com/job/staff-software-engineer-golang/12337932"
+source: Built In

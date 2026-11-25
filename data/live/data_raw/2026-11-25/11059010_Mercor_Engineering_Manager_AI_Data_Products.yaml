@@ -1,0 +1,209 @@
+job_id: 11059010
+title: Engineering Manager, AI Data Products
+company: Mercor
+location: New York, USA
+locations:
+  - New York, USA
+  - San Francisco, USA
+work_type: FULL_TIME
+company_size: 2,217 Employees
+description: |
+  About Mercor
+
+  Mercor’s mission is to organize human intelligence for the
+  AI economy. We build the infrastructure that enables
+  frontier AI labs and enterprises to train, evaluate, and
+  improve AI on real-world professional work. More than five
+  million experts have joined our network, and we pay out over
+  $5 million daily for their knowledge and expertise. We built
+  our training and evaluation infrastructure alongside the
+  world’s leading AI labs. Now, we’re bringing those
+  capabilities to enterprises across industries, enabling them
+  to train, evaluate, and improve AI using their own expertise
+  and standards. Our APEX benchmarks measure how AI performs
+  on economically valuable work, while our enterprise
+  evaluations and post-training capabilities turn those
+  insights into measurable improvements across real-world
+  workflows. Our work sits at the intersection of frontier AI,
+  human expertise, and real-world application. We’re solving
+  problems few companies have encountered, with the
+  opportunity to influence what the world’s most advanced AI
+  systems become capable of doing. We’re looking for people
+  who bring different perspectives, take ownership, exercise
+  sound judgment, and hold themselves to an exceptionally high
+  standard. You’ll have the opportunity to do consequential
+  work alongside talented colleagues who challenge one
+  another, collaborate openly, and share a commitment to
+  excellence. Mercor is profitable and recently raised a $750
+  million Series D at a $20 billion valuation. We work in
+  person five days a week in San Francisco, New York, and
+  London.
+
+  About the Role
+
+  Frontier models increasingly depend on data that goes beyond
+  text: images, video, audio, documents, and combinations of
+  these modalities. Turning that raw material into useful data
+  products is technically difficult. Each modality has
+  different formats, quality failures, processing costs,
+  privacy considerations, and review workflows. The final
+  product still needs to be consistent, traceable, and
+  trustworthy. Mercor’s Frontier Data Products team builds the
+  systems that make these products possible.
+
+  As an Engineering Manager, you will lead the team
+  responsible for turning complex multimodal inputs into
+  reliable, customer-ready data products at scale. This is a
+  player-coach role, split roughly evenly between technical
+  contribution and people leadership. You will write and
+  review production code, own important architecture
+  decisions, and help resolve the hardest production problems.
+
+  You will also hire, coach, and organize a team that can
+  operate with clear ownership and strong independent
+  judgment. This is a product-engineering leadership role.
+  Applied ML is part of the system, but success is measured by
+  the quality, reliability, and usefulness of the products
+  delivered—not by research output alone
+
+  What You’ll Do
+
+  - Set the technical and product strategy for Mercor’s
+    multimodal data products.
+  - Design systems that support the full lifecycle of image,
+    video, audio, document, and mixed-media data—from initial
+    inputs through processing, review, validation, versioning,
+    and delivery.
+  - Create reusable abstractions across modalities while
+    preserving the differences that matter for quality,
+    performance, and customer requirements.
+  - Build quality systems that combine automated evaluation,
+    model-assisted checks, expert review, sampling, and
+    adjudication.
+  - Ensure that every output is traceable: what produced it,
+    what changed, how it was evaluated, and why it was
+    accepted.
+  - Own the reliability, performance, and cost of storage-heavy,
+    compute-intensive, long-running workflows.
+  - Stay hands-on by writing production code, leading design
+    reviews, and directly contributing to the team’s most
+    consequential technical work.
+  - Manage and develop engineers through clear expectations,
+    frequent feedback, thoughtful delegation, and meaningful
+    ownership.
+  - Partner with product, ML, operations, and customer-facing
+    teams to turn new customer needs into durable product
+    capabilities rather than one-off solutions.
+  - Recruit and onboard engineers who raise the team’s technical
+    and execution bar.
+
+  What Makes This Role Different
+
+  - You will shape both the multimodal product architecture and
+    the engineering team building it.
+  - The technical challenge extends beyond moving large media
+    files. The system must preserve context, relationships,
+    provenance, and quality across different modalities and
+    transformations.
+  - Customer requirements and available models will evolve
+    quickly. The architecture must support new products
+    without requiring the team to rebuild the system for every
+    use case.
+  - The team’s work sits directly between complex real-world
+    inputs and the data products delivered to frontier AI
+    customers.
+
+  What Success Looks Like
+
+  - The team can launch support for a new modality or product
+    without building an entirely separate system.
+  - Product quality is measurable, explainable, and auditable
+    across human and model-assisted workflows.
+  - Large, long-running jobs are observable and recoverable,
+    with failures detected before they affect customer
+    deliveries.
+  - Customer-specific work produces reusable capabilities that
+    make the next product faster to build. - Engineers own
+    substantial areas independently rather than depending on
+    the manager for every technical decision.
+  - The team improves delivery speed while maintaining clear
+    standards for quality, reliability, privacy, and cost.
+
+  What We Are Looking For
+
+  - Bachelor’s Degree in Computer Science or a related technical
+    degree such as Electrical Engineering, Physics,
+    Mathematics or Statistics
+  - 2+ years of experience managing a strong engineering team
+    while remaining an effective, hands-on technical leader.
+  - 3+ years of deep experience designing and operating
+    production backend, distributed, or data-intensive
+    systems.
+  - Experience working with large unstructured data,
+    asynchronous processing, metadata and versioning, or
+    compute-heavy workflows.
+
+  Nice to Haves:
+
+  - Relevant experience in at least one area such as multimedia
+    infrastructure, computer-vision data, video or audio
+    processing, ML platforms, annotation systems, or human-in-
+    the-loop products.
+  - Strong judgment about platform boundaries: what should be
+    generalized across modalities and what should remain
+    modality-specific.
+  - A track record of taking ambiguous, zero-to-one products
+    through architecture, launch, and sustained production
+    operation.
+  - Evidence that you can recruit, coach, and retain excellent
+    engineers while maintaining a high performance bar.
+
+  Benefits
+
+  - Generous equity grant vested over 4 years
+  - Health, dental, and vision insurance
+  - 401(k) with company match
+  - Unlimited paid vacation and sick days
+  - Parental leave for birthing and non-birthing parents
+  - Free mental health services
+  - $200 monthly wellness reimbursement
+  - $1.5K monthly meal stipend
+  - $200 monthly laundry reimbursement
+  - Free Equinox membership
+  - Up to $15K relocation bonus
+
+  Mercor is an Equal Opportunity Employer and is committed to
+  providing equal opportunity to all employees and applicants.
+  Mercor does not discriminate based on actual or perceived
+  race (including hair texture and protective hairstyles),
+  color, creed, religion, national origin, ethnicity,
+  ancestry, citizenship or immigration status, alienage, age,
+  sex or gender (including pregnancy, pregnancy outcomes,
+  childbirth, related medical conditions and lactation),
+  reproductive health decision making (including sexual and
+  reproductive health decisions), gender identity or gender
+  expression, sexual orientation, marital status, partnership
+  status, familial status, caregiver status, military service
+  and veteran status (including uniformed service),
+  disability, height, weight, genetic information (including
+  predisposing genetic characteristics), status as a victim of
+  domestic violence, sex offenses, or stalking, arrest or
+  conviction record (as provided by law), lawful off-duty
+  conduct, credit history (as provided by law), unemployment
+  status, salary history (as provided by law), or any other
+  characteristic protected by applicable federal, New York, or
+  local laws and ordinances. Further, Mercor prohibits
+  discrimination, harassment, and retaliation based on any
+  combination of protected characteristics. This Policy
+  applies to all areas of employment, including recruitment,
+  hiring, training, promotion, compensation, benefits,
+  discipline, termination, and all other privileges, terms,
+  and conditions of employment. This Policy and the law
+  prohibit employment discrimination against any employee or
+  applicant based on any legally protected status.
+industries:
+  - Artificial Intelligence
+  - Software
+posted_date: 2026-11-13
+url: "https://builtin.com/job/tech-lead-manager-frontier-data-products-multimodal/11059010"
+source: Built In

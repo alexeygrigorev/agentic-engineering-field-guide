@@ -1,0 +1,446 @@
+job_id: 12265990
+title: Senior/Principal Software Engineer - Microsoft Frontier Company
+company: Microsoft
+location: London, GBR
+locations:
+  - London, GBR
+  - Amsterdam, NLD
+work_type: FULL_TIME
+company_size: 206,870 Employees
+description: |
+  Overview
+
+  In Microsoft Frontier Company, you won’t just build
+  software; you’ll deliver real outcomes for some of the
+  world’s most complex organizations.
+
+  We are a global team of world-class engineers who have been
+  working in a Forward Deployed Engineering (FDE) model for
+  more than a decade, embedding directly within customer teams
+  to solve their toughest challenges, side-by-side, and
+  shipping production-ready solutions in days, not months.
+
+  As a Principal Software Engineer (based on experience), you
+  will bring strong software design and engineering expertise,
+  building reliable systems and production-ready services that
+  turn ideas and data-driven insights into scalable solutions.
+  You’ll work in small, multidisciplinary crews alongside data
+  scientists, product managers, and domain experts, owning the
+  full lifecycle from design through to deployed solutions.
+
+  Our work is powered by AI, applying the mindset and tooling
+  across the entire development lifecycle to move from idea to
+  production in days while maintaining the highest standards
+  of security, quality, and trust.
+
+  This role offers the opportunity to:
+
+  - Build reliable, production-ready systems and services that
+    turn ideas into scalable solutions
+  - Ship engineering work that directly influences business
+    strategy and customer outcomes
+  - Collaborate with leading global organizations across
+    industries
+  - Apply the latest advancements in AI and software engineering
+    to solve problems at scale
+
+  Microsoft’s mission is to empower every person and every
+  organization on the planet to achieve more. As employees, we
+  come together with a growth mindset, innovate to empower
+  others, and collaborate to realize our shared goals. Each
+  day we build on our values of respect, integrity, and
+  accountability to create a culture of inclusion where
+  everyone can thrive at work and beyond.
+
+  Responsibilities
+
+  Understand User Requirements
+
+  Partners with appropriate stakeholders (e.g., project
+  manager, technical lead) to determine user requirements for
+  a set of scenarios. Leverages a variety of feedback channels
+  to incorporate insights into future designs or solution
+  fixes. Leads incorporation of appropriate continuous
+  feedback loops measuring customer value, usage patterns, and
+  other actionable metrics of value. Begins to determine
+  additional critical metrics.
+
+  Design
+
+  Leads efforts and discussions for the architecture of
+  aspects of products/solutions (e.g., design, cost). Creates
+  proposals for architecture and design documents and leads
+  testing of hypotheses and proposed solutions. Shares and
+  acts on findings from investigations, owns design decisions,
+  and provides guidance to team members. Leads the development
+  of design documents for designs or User Stories and
+  determines the technology that will be leveraged and how
+  they will interact. Leads design discussions with the team
+  and shares findings/learnings from investigations, holding
+  ownership for design decisions. Leads efforts to assure
+  system architecture meets security and compliance
+  requirements and expectations.
+
+  Independently creates and mentors' others for a clear and
+  articulated plan for testing and assuring the quality of
+  solutions, and defines success for outcomes of tests (e.g.,
+  unit tests). Identifies needs for a broad versus selected
+  approach in testing mechanisms and makes informed decisions
+  to implement the most effective tests. Leads efforts to add
+  new tests, remove antiquated tests, and aggregate tests to
+  improve the overall test suite. Improves recommendations to
+  the team and augments test cases to ensure that solutions
+  have good test coverage. Leads efforts to continually
+  integrate automation features when planning for testing.
+
+  Leads identification of dependencies and the development of
+  design documents for a product, application, service or
+  platform. Leads identification of other teams and
+  technologies that will be leveraged, how they will interact,
+  and when one's own system may provide support to others.
+  Leads efforts to determine back-end dependencies associated
+  with product, application, service, or platform
+  functionality for the solution/product. Demonstrates deep
+  understanding of up and downstream effects of solutions and
+  work provided to ensure appropriate security and
+  performance, driving reliability in the solutions, and
+  optimize dependency chains and retrieves across teams.
+  Identifies areas of dependency and overlap with other teams
+  or team members and drives coordination. Enables cross team
+  communications and resolves conflicts between teams.
+
+  Coding
+
+  Leads by example and mentors' others to produce extensible
+  and maintainable code used across products. Leads efforts to
+  optimize, debug, refactor, and reuse code to improve
+  performance and maintainability, effectiveness, and return
+  on investment (ROI). Identifies best practices and coding
+  patterns and provides deep expertise in the coding and
+  validation strategy. Creates and applies metrics to drive
+  the quality and stability of code, as well as appropriate
+  coding patterns and best practices.
+
+  Leads efforts to apply knowledge of debugging tools, logs,
+  telemetry, and other methods, and leads verification of
+  assumptions through writing and developing code proactively
+  before issues occur and reactively as issues occur across
+  products. Leverages minimal telemetry data, triangulates
+  issues, and resolves with minimal iterations. Leads
+  retrospective debugging of solutions to identify root causes
+  of problems.
+
+  Reviews the code of a product to assure it meets the team's
+  and Microsoft’s quality standards, is reliable and accurate,
+  and is appropriate for the scale of the product/solution
+  area. Applies feedback to current and future iterations.
+  Participates in code reviews to ensure coding standards are
+  followed. Considers diagnosability, reliability, and
+  maintainability when reviewing code, and understands when
+  code is ready to be shared or delivered. Applies and screens
+  for coding patterns and best practices in reviews and
+  provides feedback on code to drive adherence to best
+  practices.
+
+  Implement
+
+  Leverages subject-matter expertise of cross-product features
+  with appropriate stakeholders (e.g., project managers) to
+  drive multiple group's project plans, release plans, and
+  work items. Breaks down long-term project vision into
+  milestones as part of an overall roadmap. Guides other
+  members for project estimation and escalates any issue that
+  would cause a major delay.
+
+  Leads efforts for creation and conducting of experimentation
+  to determine the effectiveness of changes, monitors
+  developments for prototyping and testing products,
+  interprets results, and decides on next steps or ship
+  decision from results. Drives identification of the correct
+  metrics for experimentation in determining improving
+  customer value.
+
+  Leads the creation of implementation framework as necessary,
+  following industry standards. Leads implementation and
+  deployment of the solution in the existing framework. Holds
+  accountability for the impact of build deployments on both
+  users and other services. Optimizes deployments within
+  products and components to meet differing business
+  objectives. Leads efforts to assure that solutions are
+  deployed safely.
+
+  Reliability and Supportability
+
+  Maintains operations of live service as issues arise on a
+  rotational, on-call basis. Implements and helps others
+  implement solutions and mitigations to complex issues
+  impacting the performance or functionality of Live Site
+  services. Reviews and writes issues postmortem and shares
+  insights with the team.
+
+  Holds accountability as a Designated Responsible Individual
+  (DRI) and mentors' other engineers across
+  products/solutions, working on call to monitor
+  system/product/service for degradation, downtime, or
+  interruptions. Alerts stakeholders as to status and
+  initiates actions to restore system/product/service for
+  complex issues. Develops a playbook for the team to resolve
+  issues. Coordinates people and resources to ensure DRI
+  responsibilities are covered across teams. Responds within
+  Service Level Agreement (SLA) timeframe. Has line of sight
+  to incidences and plans to address emerging issues. Leads
+  efforts to reduce incident volume, looking globally at
+  incidences and providing broad resolutions. Escalates issues
+  to appropriate owners.
+
+  Integrates, designs, and reviews others' work across a team
+  or product to integrate instrumentation for gathering
+  telemetry data on system behavior such as performance,
+  reliability, availability, usage, and safety mechanisms.
+  Drives sustaining feedback loops from telemetry resulting in
+  subsequent designs. Ensures solutions are scalable,
+  financially responsible, and meet capture/storage
+  guidelines. Leads the creation of outputs of telemetry such
+  as notifications or dashboards.
+
+  Leads efforts to collect, classify, and analyze complex data
+  and analyses on a range of metrics (e.g., health of the
+  system, where bugs might be occurring). Leads the refinement
+  of products through data analytics and makes informed
+  decisions in engineering products through data integration.
+
+  Engineering Excellence
+
+  Leads efforts to enhance, reuse, contribute to, and identify
+  new software developer tools to support other programs and
+  applications to create, debug, and maintain code across
+  products. Uses open source when possible. Develops
+  substantial skills in other tools inside and outside areas
+  of expertise. Leads identification of internal tools and
+  creation of new tools that will be useful for creating the
+  product, determining if methods are still applicable for the
+  current solution. Shares best practices and teaches others
+  about new tools and strategies.
+
+  Considers and leads the comprehensive application of
+  automation within production and deployment across products.
+  Runs code in simulated or other non-production environments
+  to confirm functionality and error-free runtime across
+  products. Defines and develops standardized, repeatable,
+  scalable solutions to guarantee quality.
+
+  Leads efforts to ensure the correct processes are followed
+  to achieve a high degree of security, privacy, safety, and
+  accessibility across solutions and teams. Creates and
+  assures the presence of visible evidence to demonstrate
+  compliance for products. Develops and maintains a deep
+  understanding of the implications of onboarding new
+  technologies following expectations of compliance at
+  Microsoft.
+
+  Remains current by investing time and effort into staying
+  abreast of current developments. Proactively seeks new
+  knowledge and adapts to new trends, technical solutions, and
+  patterns that will improve the availability, reliability,
+  efficiency, observability, and performance of products while
+  also driving consistency in monitoring and operations at
+  scale and shares knowledge with other engineers.
+
+  Applies, extrapolates, and identifies best practices and
+  shares information with other engineers to reliably build
+  code that is based on well-established methods while also
+  applying best practices for new code development.
+  Demonstrates and maintains an up-to-date understanding of
+  both global and local regulations for technologies and
+  system applications to ensure regulations are followed and
+  met. Leads product development and scaling to customer
+  requirements and applies best practices for meeting scaling
+  needs and performance expectations.
+
+  Leads efforts to identify key partners and maintains
+  communication with key partners across the Microsoft
+  ecosystem of engineers. Acts as a key contact for leadership
+  to ensure alignment with partners' expectations. Builds
+  partner teams across Microsoft (e.g., Xbox, Office) and
+  their end-goals for products to drive and achieve desirable
+  user experiences and fitting dynamic needs of
+  partners/customers through product development. Escalates
+  situations internally to resolve complex blockers.
+
+  Other
+
+  Embody our culture and values
+
+  Qualifications
+
+  Required/Minimum Qualifications
+
+  - Bachelor's degree in computer science, or related technical
+    discipline AND substantial technical engineering
+    experience with coding in languages including, but not
+    limited to, C, C++, C#, Java, JavaScript, or Python
+  - OR equivalent experience.
+
+  Additional or Preferred Qualifications
+
+  - Bachelor's Degree in Computer Science or related technical
+    field AND significant technical engineering experience
+    with coding in languages including, but not limited to, C,
+    C++, C#, Java, JavaScript, or Python OR master's degree in
+    computer science or related technical field AND proven
+    technical engineering experience with coding in languages
+    including, but not limited to, C, C++, C#, Java,
+    JavaScript, or Python OR equivalent experience.
+
+
+
+  Software Engineering IC4 - The typical base pay range for
+  this role across United Kingdom is £ 74,700.00 - £
+  122,600.00 per year. Certain roles may be eligible for
+  benefits and other compensation.
+
+
+
+  Find additional benefits and pay information here:
+  https://careers.microsoft.com/v2/global/en/corporate-
+  pay/united-kingdom-corporate-pay.html
+
+
+
+  Software Engineering IC5 - The typical base pay range for
+  this role across United Kingdom is £ 93,500.00 - £
+  161,800.00 per year. Certain roles may be eligible for
+  benefits and other compensation.
+
+
+
+  Find additional benefits and pay information here:
+  https://careers.microsoft.com/v2/global/en/corporate-
+  pay/united-kingdom-corporate-pay.html
+
+
+
+  Software Engineering IC5 - The typical base pay range for
+  this role across United Kingdom is £ 93,500.00 - £
+  161,800.00 per year. Certain roles may be eligible for
+  benefits and other compensation.
+
+
+
+  Find additional benefits and pay information here:
+  https://careers.microsoft.com/v2/global/en/corporate-
+  pay/united-kingdom-corporate-pay.html
+
+
+
+  Software Engineering IC5 - The typical base pay range for
+  this role across United Kingdom is £ 93,500.00 - £
+  161,800.00 per year. Certain roles may be eligible for
+  benefits and other compensation.
+
+
+
+  Find additional benefits and pay information here:
+  https://careers.microsoft.com/v2/global/en/corporate-
+  pay/united-kingdom-corporate-pay.html
+
+  Software Engineering IC4 - The typical base pay range for
+  this role across United Kingdom is £ 74,700.00 - £
+  122,600.00 per year. Certain roles may be eligible for
+  benefits and other compensation.
+
+  Find additional benefits and pay information here:
+  https://careers.microsoft.com/v2/global/en/corporate-
+  pay/united-kingdom-corporate-pay.html
+
+
+
+  Software Engineering IC5 - The typical base pay range for
+  this role across United Kingdom is £ 93,500.00 - £
+  161,800.00 per year. Certain roles may be eligible for
+  benefits and other compensation.
+
+
+
+  Find additional benefits and pay information here:
+  https://careers.microsoft.com/v2/global/en/corporate-
+  pay/united-kingdom-corporate-pay.html
+
+
+
+  Software Engineering IC5 - The typical base pay range for
+  this role across United Kingdom is £ 93,500.00 - £
+  161,800.00 per year. Certain roles may be eligible for
+  benefits and other compensation.
+
+
+
+  Find additional benefits and pay information here:
+  https://careers.microsoft.com/v2/global/en/corporate-
+  pay/united-kingdom-corporate-pay.html
+
+
+
+  Software Engineering IC5 - The typical base pay range for
+  this role across United Kingdom is £ 93,500.00 - £
+  161,800.00 per year. Certain roles may be eligible for
+  benefits and other compensation.
+
+
+
+  Find additional benefits and pay information here:
+  https://careers.microsoft.com/v2/global/en/corporate-
+  pay/united-kingdom-corporate-pay.html
+
+
+
+  Software Engineering IC5 - The typical base pay range for
+  this role across Netherlands is € 99,800.00 - € 166,900.00
+  per year. Certain roles may be eligible for benefits and
+  other compensation.
+
+
+
+  Find additional benefits and pay information here:
+  https://careers.microsoft.com/v2/global/en/corporate-
+  pay/netherlands-corporate-pay.html
+
+
+
+  Software Engineering IC5 - The typical base pay range for
+  this role across Netherlands is € 99,800.00 - € 166,900.00
+  per year. Certain roles may be eligible for benefits and
+  other compensation.
+
+
+
+  Find additional benefits and pay information here:
+  https://careers.microsoft.com/v2/global/en/corporate-
+  pay/netherlands-corporate-pay.html
+
+  This position will be open for a minimum of 5 days, with
+  applications accepted on an ongoing basis until the position
+  is filled.
+
+  Microsoft is an equal opportunity employer. All qualified
+  applicants will receive consideration for employment without
+  regard to age, ancestry, citizenship, color, family or
+  medical care leave, gender identity or expression, genetic
+  information, immigration status, marital status, medical
+  condition, national origin, physical or mental disability,
+  political affiliation, protected veteran or military status,
+  race, ethnicity, religion, sex (including pregnancy), sexual
+  orientation, or any other characteristic protected by
+  applicable local laws, regulations and ordinances. If you
+  need assistance with religious accommodations and/or a
+  reasonable accommodation due to a disability during the
+  application process, read more about requesting
+  accommodations.
+industries:
+  - Software
+  - Quantum Computing
+  - Metaverse
+  - Infrastructure as a Service (IaaS)
+posted_date: 2026-11-16
+url: "https://builtin.com/job/senior-principal-software-engineer-microsoft-frontier-company/12265990"
+source: Built In
